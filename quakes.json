@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-21T15:31:23Z",
-  "count": 206,
+  "updated": "2026-06-21T15:46:00Z",
+  "count": 204,
   "points": [
+    {
+      "id": "aka2026mfbcur",
+      "lon": -146.947,
+      "lat": 61.235,
+      "depth": 5,
+      "mag": 1.7,
+      "place": "34 km WNW of Valdez, Alaska",
+      "time": 1782056440226,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mfbcur"
+    },
     {
       "id": "ci41491760",
       "lon": -117.81,
@@ -2032,36 +2042,6 @@
       "place": "5 km SE of Yorba Linda, CA",
       "time": 1781970440250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491216"
-    },
-    {
-      "id": "ci41491208",
-      "lon": -116.284666666667,
-      "lat": 33.9985,
-      "depth": 9.12,
-      "mag": 0.95,
-      "place": "15 km S of Joshua Tree, CA",
-      "time": 1781970136150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491208"
-    },
-    {
-      "id": "nn00920512",
-      "lon": -119.059,
-      "lat": 39.3145,
-      "depth": 8.3477,
-      "mag": 1.91,
-      "place": "18 km SE of Silver Springs, Nevada",
-      "time": 1781969829601,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920512"
-    },
-    {
-      "id": "nc75380126",
-      "lon": -122.843330383301,
-      "lat": 38.8211669921875,
-      "depth": 1.63999998569489,
-      "mag": 1.1,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": 1781969453020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380126"
     }
   ]
 }
