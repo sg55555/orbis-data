@@ -1,26 +1,66 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-21T16:01:21Z",
-  "count": 204,
+  "updated": "2026-06-21T16:15:52Z",
+  "count": 207,
   "points": [
     {
+      "id": "nn00920558",
+      "lon": -118.2602,
+      "lat": 38.1569,
+      "depth": 3.6448,
+      "mag": 2.58,
+      "place": "29 km SSW of Mina, Nevada",
+      "time": 1782058307955,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920558"
+    },
+    {
+      "id": "tx2026mddfyx",
+      "lon": -104.285,
+      "lat": 31.604,
+      "depth": 4.0412,
+      "mag": 1.8,
+      "place": "56 km NW of Toyah, Texas",
+      "time": 1782058063410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mddfyx"
+    },
+    {
+      "id": "nc75380736",
+      "lon": -120.07250213623,
+      "lat": 36.2091674804688,
+      "depth": 6.76000022888184,
+      "mag": 2.38,
+      "place": "3 km ENE of Huron, CA",
+      "time": 1782057918920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380736"
+    },
+    {
       "id": "ci41491776",
-      "lon": -118.523834228516,
-      "lat": 36.0113334655762,
-      "depth": -1.47000002861023,
-      "mag": 1.79527261136189,
-      "place": "30 km NNW of Kernville, CA",
-      "time": 1782057511060,
+      "lon": -118.455666666667,
+      "lat": 36.0405,
+      "depth": -1.37,
+      "mag": 2.08,
+      "place": "32 km N of Kernville, CA",
+      "time": 1782057511950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491776"
     },
     {
+      "id": "nc75380731",
+      "lon": -120.066329956055,
+      "lat": 36.21533203125,
+      "depth": 9.21000003814697,
+      "mag": 3.3,
+      "place": "4 km ENE of Huron, CA",
+      "time": 1782057489210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380731"
+    },
+    {
       "id": "tx2026mdcpok",
-      "lon": -103.877,
-      "lat": 31.511,
-      "depth": 6.562,
-      "mag": 1.9,
-      "place": "23 km NNW of Toyah, Texas",
-      "time": 1782056912733,
+      "lon": -103.884,
+      "lat": 31.49,
+      "depth": 4.613,
+      "mag": 1.8,
+      "place": "21 km NNW of Toyah, Texas",
+      "time": 1782056913211,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mdcpok"
     },
     {
@@ -42,6 +82,16 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1782055416370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491760"
+    },
+    {
+      "id": "tx2026mdbtyc",
+      "lon": -104.45,
+      "lat": 31.638,
+      "depth": 4.0963,
+      "mag": 1.5,
+      "place": "60 km S of Whites City, New Mexico",
+      "time": 1782055383771,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mdbtyc"
     },
     {
       "id": "aka2026mfaiac",
@@ -722,6 +772,16 @@
       "place": "12 km SSE of Volcano, Hawaii",
       "time": 1782021349150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74987637"
+    },
+    {
+      "id": "aka2026mehhoc",
+      "lon": -152.242,
+      "lat": 59.88,
+      "depth": 91.2,
+      "mag": 1.4,
+      "place": "25 km WNW of Anchor Point, Alaska",
+      "time": 1782020787399,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mehhoc"
     },
     {
       "id": "aka2026megqfc",
@@ -2012,36 +2072,6 @@
       "place": "10 km ENE of Ocotillo Wells, CA",
       "time": 1781973065670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491264"
-    },
-    {
-      "id": "aka2026mdgaud",
-      "lon": -147.903,
-      "lat": 63.527,
-      "depth": 0.9,
-      "mag": 1.4,
-      "place": "54 km ENE of Cantwell, Alaska",
-      "time": 1781971738891,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mdgaud"
-    },
-    {
-      "id": "ci41491248",
-      "lon": -117.393666666667,
-      "lat": 35.9575,
-      "depth": 2.49,
-      "mag": 0.65,
-      "place": "21 km N of Searles Valley, CA",
-      "time": 1781971694720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491248"
-    },
-    {
-      "id": "nc75380136",
-      "lon": -121.294830322266,
-      "lat": 35.8296661376953,
-      "depth": 8.98999977111816,
-      "mag": 0.95,
-      "place": "23 km NNW of San Simeon, CA",
-      "time": 1781971316800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380136"
     }
   ]
 }
