@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-21T15:01:30Z",
-  "count": 206,
+  "updated": "2026-06-21T15:15:56Z",
+  "count": 205,
   "points": [
+    {
+      "id": "ci41491744",
+      "lon": -117.186164855957,
+      "lat": 33.9461669921875,
+      "depth": 13.6000003814697,
+      "mag": 1.35840179500514,
+      "place": "4 km ENE of Moreno Valley, CA",
+      "time": 1782054477110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491744"
+    },
     {
       "id": "nc75380711",
       "lon": -118.717163085938,
@@ -2042,26 +2052,6 @@
       "place": "64 km SSE of Unalaska, Alaska",
       "time": 1781969345985,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mdesji"
-    },
-    {
-      "id": "av94257713",
-      "lon": -152.868833333333,
-      "lat": 60.6136666666667,
-      "depth": 10.09,
-      "mag": -0.27,
-      "place": "84 km W of Salamatof, Alaska",
-      "time": 1781967998200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94257713"
-    },
-    {
-      "id": "aka2026mddwnv",
-      "lon": -150.174,
-      "lat": 61.203,
-      "depth": 16.4,
-      "mag": 1.7,
-      "place": "14 km W of Anchorage, Alaska",
-      "time": 1781967847226,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mddwnv"
     }
   ]
 }
