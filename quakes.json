@@ -1,14 +1,24 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-21T18:01:23Z",
+  "updated": "2026-06-21T18:15:53Z",
   "count": 209,
   "points": [
+    {
+      "id": "us7000sv0p",
+      "lon": 81.0872,
+      "lat": 43.3619,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "48 km S of Qapqal, China",
+      "time": 1782064725028,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv0p"
+    },
     {
       "id": "tx2026mdgwxj",
       "lon": -104.325,
       "lat": 31.66,
       "depth": 4.3838,
-      "mag": 1.6,
+      "mag": 1.7,
       "place": "57 km S of Whites City, New Mexico",
       "time": 1782064642549,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mdgwxj"
@@ -2082,16 +2092,6 @@
       "place": "16 km SW of Weston, Colorado",
       "time": 1781979341512,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suvc"
-    },
-    {
-      "id": "ci41491344",
-      "lon": -117.218333333333,
-      "lat": 34.0016666666667,
-      "depth": 6.6,
-      "mag": 1.17,
-      "place": "7 km SE of Loma Linda, CA",
-      "time": 1781979010320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491344"
     }
   ]
 }
