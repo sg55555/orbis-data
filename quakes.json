@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-21T17:31:09Z",
-  "count": 212,
+  "updated": "2026-06-21T17:45:54Z",
+  "count": 210,
   "points": [
+    {
+      "id": "nc75380776",
+      "lon": -122.844497680664,
+      "lat": 38.8209991455078,
+      "depth": 2.07999992370605,
+      "mag": 0.97,
+      "place": "9 km WNW of The Geysers, CA",
+      "time": 1782063248690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380776"
+    },
     {
       "id": "aka2026mfeoyz",
       "lon": -147.57,
@@ -2092,36 +2102,6 @@
       "place": "1 km NNW of Redway, CA",
       "time": 1781977878520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380176"
-    },
-    {
-      "id": "aka2026mdizzw",
-      "lon": -159.757,
-      "lat": 55.951,
-      "depth": 13,
-      "mag": 1.4,
-      "place": "17 km WNW of Ivanof Bay, Alaska",
-      "time": 1781977090195,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mdizzw"
-    },
-    {
-      "id": "av94258003",
-      "lon": -178.800666666667,
-      "lat": 51.7801666666667,
-      "depth": 15.9,
-      "mag": 0.47,
-      "place": "149 km W of Adak, Alaska",
-      "time": 1781976786450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94258003"
-    },
-    {
-      "id": "us7000suuz",
-      "lon": -105.0056,
-      "lat": 37.0263,
-      "depth": 6.644,
-      "mag": 3.8,
-      "place": "14 km SSE of Stonewall Gap, Colorado",
-      "time": 1781976731802,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suuz"
     }
   ]
 }
