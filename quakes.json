@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-21T15:15:56Z",
-  "count": 205,
+  "updated": "2026-06-21T15:30:06Z",
+  "count": 206,
   "points": [
+    {
+      "id": "ci41491760",
+      "lon": -117.81,
+      "lat": 35.3095,
+      "depth": 8.35,
+      "mag": 1.02,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1782055416370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491760"
+    },
+    {
+      "id": "aka2026mfaiac",
+      "lon": -148.112,
+      "lat": 61.685,
+      "depth": 17.7,
+      "mag": 0.8,
+      "place": "22 km SE of Chickaloon, Alaska",
+      "time": 1782055001191,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mfaiac"
+    },
     {
       "id": "ci41491744",
       "lon": -117.186164855957,
@@ -2042,16 +2062,6 @@
       "place": "9 km WNW of The Geysers, CA",
       "time": 1781969453020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380126"
-    },
-    {
-      "id": "aka2026mdesji",
-      "lon": -166.343,
-      "lat": 53.307,
-      "depth": 58.3,
-      "mag": 2,
-      "place": "64 km SSE of Unalaska, Alaska",
-      "time": 1781969345985,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mdesji"
     }
   ]
 }
