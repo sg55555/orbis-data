@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-21T14:03:09Z",
-  "count": 204,
+  "updated": "2026-06-21T14:15:58Z",
+  "count": 203,
   "points": [
+    {
+      "id": "nc75380696",
+      "lon": -122.831665039062,
+      "lat": 38.8595008850098,
+      "depth": 0.980000019073486,
+      "mag": 0.71,
+      "place": "10 km WNW of Cobb, CA",
+      "time": 1782050632850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380696"
+    },
     {
       "id": "nc75380691",
       "lon": -122.805000305176,
@@ -2022,26 +2032,6 @@
       "place": "4 km SW of Brawley, CA",
       "time": 1781965962950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491184"
-    },
-    {
-      "id": "ci41491168",
-      "lon": -116.622,
-      "lat": 33.5915,
-      "depth": 12.97,
-      "mag": 0.72,
-      "place": "6 km NE of Anza, CA",
-      "time": 1781964622320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491168"
-    },
-    {
-      "id": "us7000suub",
-      "lon": 125.3179,
-      "lat": 5.4539,
-      "depth": 61.931,
-      "mag": 4.5,
-      "place": "13 km SSW of Balangonan, Philippines",
-      "time": 1781964321780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suub"
     }
   ]
 }
