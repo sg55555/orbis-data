@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T12:01:22Z",
-  "count": 210,
+  "updated": "2026-06-22T12:15:57Z",
+  "count": 208,
   "points": [
+    {
+      "id": "nc75381216",
+      "lon": -122.787170410156,
+      "lat": 38.8126678466797,
+      "depth": 3.01999998092651,
+      "mag": 0.65,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1782130307150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381216"
+    },
+    {
+      "id": "tx2026meqyvm",
+      "lon": -102.028,
+      "lat": 32.431,
+      "depth": 3.7992,
+      "mag": 1.7,
+      "place": "31 km WSW of Ackerly, Texas",
+      "time": 1782129952273,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026meqyvm"
+    },
     {
       "id": "ci41492200",
       "lon": -117.32,
@@ -74,13 +94,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mgoglg"
     },
     {
-      "id": "tx2026mepdve",
-      "lon": -102.022,
-      "lat": 32.428,
-      "depth": 3.1945,
+      "id": "tx2026mepewg",
+      "lon": -102.025,
+      "lat": 32.425,
+      "depth": 8.9111,
       "mag": 1.7,
-      "place": "30 km WSW of Ackerly, Texas",
-      "time": 1782126679809,
+      "place": "31 km WSW of Ackerly, Texas",
+      "time": 1782126768798,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mepewg"
+    },
+    {
+      "id": "tx2026mepdve",
+      "lon": -102.031,
+      "lat": 32.431,
+      "depth": 8.4717,
+      "mag": 1.8,
+      "place": "31 km WSW of Ackerly, Texas",
+      "time": 1782126679807,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mepdve"
     },
     {
@@ -204,14 +234,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492176"
     },
     {
-      "id": "pr71520883",
-      "lon": -68.9901666666667,
-      "lat": 19.2908333333333,
-      "depth": 16.05,
-      "mag": 3.73,
-      "place": "34 km N of Miches, Dominican Republic",
-      "time": 1782122341240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71520883"
+      "id": "us7000sv6w",
+      "lon": -69.0669,
+      "lat": 19.4102,
+      "depth": 35,
+      "mag": 2.9,
+      "place": "36 km NE of Samaná, Dominican Republic",
+      "time": 1782122339117,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv6w"
     },
     {
       "id": "us7000sv6a",
@@ -362,16 +392,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1782114122520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381156"
-    },
-    {
-      "id": "tx2026meifgu",
-      "lon": -103.057,
-      "lat": 31.546,
-      "depth": 0.5042,
-      "mag": 1.8,
-      "place": "5 km WSW of Wickett, Texas",
-      "time": 1782114103762,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026meifgu"
     },
     {
       "id": "tx2026meienq",
@@ -2062,46 +2082,6 @@
       "place": "29 km NNW of Susitna, Alaska",
       "time": 1782044281995,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026meujcf"
-    },
-    {
-      "id": "us7000suzh",
-      "lon": 160.9985,
-      "lat": 52.5974,
-      "depth": 10,
-      "mag": 4.3,
-      "place": "168 km ESE of Petropavlovsk-Kamchatsky, Russia",
-      "time": 1782043977347,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suzh"
-    },
-    {
-      "id": "pr71520828",
-      "lon": -66.784,
-      "lat": 18.032,
-      "depth": 17.74,
-      "mag": 1.97,
-      "place": "1 km NNE of Guayanilla, Puerto Rico",
-      "time": 1782043660190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71520828"
-    },
-    {
-      "id": "aka2026metxya",
-      "lon": -148.987,
-      "lat": 63.528,
-      "depth": 0,
-      "mag": 2.6,
-      "place": "15 km N of Cantwell, Alaska",
-      "time": 1782043506421,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026metxya"
-    },
-    {
-      "id": "ci41491704",
-      "lon": -117.803333333333,
-      "lat": 36.0195,
-      "depth": 1.58,
-      "mag": 0.64,
-      "place": "13 km NE of Little Lake, CA",
-      "time": 1782043413350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491704"
     }
   ]
 }
