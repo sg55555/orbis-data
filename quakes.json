@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T07:45:56Z",
-  "count": 192,
+  "updated": "2026-06-22T08:01:20Z",
+  "count": 194,
   "points": [
+    {
+      "id": "ci41492136",
+      "lon": -116.709666666667,
+      "lat": 33.5423333333333,
+      "depth": 5.36,
+      "mag": 0.27,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1782114744060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492136"
+    },
+    {
+      "id": "ci41492128",
+      "lon": -117.204166666667,
+      "lat": 34.0131666666667,
+      "depth": 5.13,
+      "mag": 1.04,
+      "place": "5 km SSW of Redlands, CA",
+      "time": 1782114489840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492128"
+    },
     {
       "id": "nc75381156",
       "lon": -122.802169799805,
@@ -14,13 +34,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381156"
     },
     {
+      "id": "tx2026meifgu",
+      "lon": -103.057,
+      "lat": 31.546,
+      "depth": 0.5042,
+      "mag": 1.8,
+      "place": "5 km WSW of Wickett, Texas",
+      "time": 1782114103762,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026meifgu"
+    },
+    {
       "id": "tx2026meienq",
-      "lon": -101.13,
-      "lat": 32.663,
-      "depth": 9.9071,
-      "mag": 2.2,
-      "place": "20 km WSW of Snyder, Texas",
-      "time": 1782114060228,
+      "lon": -101.195,
+      "lat": 32.182,
+      "depth": 2.8491,
+      "mag": 2.3,
+      "place": "16 km SE of Coahoma, Texas",
+      "time": 1782114052705,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026meienq"
     },
     {
@@ -1912,16 +1942,6 @@
       "place": "110 km NNE of Cruz Bay, U.S. Virgin Islands",
       "time": 1782030548540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026172000"
-    },
-    {
-      "id": "us7000suyf",
-      "lon": 81.3468,
-      "lat": 33.4911,
-      "depth": 10,
-      "mag": 4.2,
-      "place": "western Xizang",
-      "time": 1782028240804,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suyf"
     }
   ]
 }
