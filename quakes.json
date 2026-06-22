@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T09:01:27Z",
+  "updated": "2026-06-22T09:15:58Z",
   "count": 197,
   "points": [
+    {
+      "id": "ci41492168",
+      "lon": -117.2045,
+      "lat": 34.0146666666667,
+      "depth": 5.54,
+      "mag": 0.76,
+      "place": "5 km SSW of Redlands, CA",
+      "time": 1782118811280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492168"
+    },
     {
       "id": "ci41492160",
       "lon": -116.3335,
@@ -292,6 +302,16 @@
       "place": "21 km N of Searles Valley, CA",
       "time": 1782107386250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492064"
+    },
+    {
+      "id": "us7000sv3t",
+      "lon": 33.2432,
+      "lat": 44.4382,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "29 km SW of Sevastopol, Ukraine",
+      "time": 1782107298437,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv3t"
     },
     {
       "id": "ci41492056",
@@ -1305,12 +1325,12 @@
     },
     {
       "id": "tx2026mdgwxj",
-      "lon": -104.325,
-      "lat": 31.66,
-      "depth": 4.3838,
-      "mag": 1.7,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": 1782064642549,
+      "lon": -104.321,
+      "lat": 31.669,
+      "depth": 6.0999,
+      "mag": 1.6,
+      "place": "56 km S of Whites City, New Mexico",
+      "time": 1782064642522,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mdgwxj"
     },
     {
@@ -1952,26 +1972,6 @@
       "place": "11 km S of Anza, CA",
       "time": 1782033816020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491664"
-    },
-    {
-      "id": "tx2026mcpmeq",
-      "lon": -103.874,
-      "lat": 31.508,
-      "depth": 5.0711,
-      "mag": 1.6,
-      "place": "22 km NNW of Toyah, Texas",
-      "time": 1782033126591,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mcpmeq"
-    },
-    {
-      "id": "aka2026menwck",
-      "lon": 179.025,
-      "lat": 51.714,
-      "depth": 89.1,
-      "mag": 2.6,
-      "place": "299 km W of Adak, Alaska",
-      "time": 1782032574232,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026menwck"
     }
   ]
 }
