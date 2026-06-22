@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T14:46:03Z",
-  "count": 199,
+  "updated": "2026-06-22T15:01:22Z",
+  "count": 198,
   "points": [
+    {
+      "id": "nc75381256",
+      "lon": -122.81566619873,
+      "lat": 38.8300018310547,
+      "depth": 1.75,
+      "mag": 0.76,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1782139524600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381256"
+    },
     {
       "id": "ci41492312",
       "lon": -118.219166666667,
@@ -12,6 +22,16 @@
       "place": "1 km ENE of Huntington Park, CA",
       "time": 1782139310820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492312"
+    },
+    {
+      "id": "pr71520898",
+      "lon": -66.9978333333333,
+      "lat": 18.1588333333333,
+      "depth": 20.22,
+      "mag": 2.39,
+      "place": "3 km SW of Maricao, Puerto Rico",
+      "time": 1782139097880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71520898"
     },
     {
       "id": "ci41492288",
@@ -705,12 +725,12 @@
     },
     {
       "id": "ci41492064",
-      "lon": -117.393333435059,
-      "lat": 35.9584999084473,
-      "depth": 2,
-      "mag": 3.58654602874586,
+      "lon": -117.392,
+      "lat": 35.957,
+      "depth": 2.71,
+      "mag": 3.58658357360432,
       "place": "21 km N of Searles Valley, CA",
-      "time": 1782107386250,
+      "time": 1782107386290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492064"
     },
     {
@@ -1962,36 +1982,6 @@
       "place": "3 km E of Moreno Valley, CA",
       "time": 1782054477390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491744"
-    },
-    {
-      "id": "nc75380711",
-      "lon": -118.717163085938,
-      "lat": 38.0364990234375,
-      "depth": 2.52999997138977,
-      "mag": 1.79,
-      "place": "32 km SE of Bodie, CA",
-      "time": 1782053407660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380711"
-    },
-    {
-      "id": "hv74987822",
-      "lon": -155.789169311523,
-      "lat": 19.2978324890137,
-      "depth": 7.17999982833862,
-      "mag": 2.26,
-      "place": "19 km SSE of Honaunau-Napoopoo, Hawaii",
-      "time": 1782053396000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74987822"
-    },
-    {
-      "id": "aka2026mezhli",
-      "lon": -153.515,
-      "lat": 59.767,
-      "depth": 135.4,
-      "mag": 3,
-      "place": "33 km E of Pedro Bay, Alaska",
-      "time": 1782053165327,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mezhli"
     }
   ]
 }
