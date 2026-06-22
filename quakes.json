@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T08:45:57Z",
-  "count": 198,
+  "updated": "2026-06-22T09:01:27Z",
+  "count": 197,
   "points": [
+    {
+      "id": "ci41492160",
+      "lon": -116.3335,
+      "lat": 33.263,
+      "depth": 3.46,
+      "mag": 0.48,
+      "place": "4 km ENE of Borrego Springs, CA",
+      "time": 1782118127980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492160"
+    },
     {
       "id": "ci41492152",
       "lon": -117.630666666667,
@@ -122,6 +132,16 @@
       "place": "84 km E of Ugashik, Alaska",
       "time": 1782111368958,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mgfqop"
+    },
+    {
+      "id": "us7000sv41",
+      "lon": 108.2504,
+      "lat": 53.3571,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "45 km N of Turka, Russia",
+      "time": 1782111090286,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv41"
     },
     {
       "id": "ci41492104",
@@ -985,12 +1005,12 @@
     },
     {
       "id": "tx2026mdpuzp",
-      "lon": -101.089,
-      "lat": 32.132,
-      "depth": 2.5844,
-      "mag": 1.8,
-      "place": "25 km SSW of Westbrook, Texas",
-      "time": 1782081016893,
+      "lon": -101.084,
+      "lat": 32.14,
+      "depth": 7.0068,
+      "mag": 1.6,
+      "place": "24 km SSW of Westbrook, Texas",
+      "time": 1782081016979,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mdpuzp"
     },
     {
@@ -1952,36 +1972,6 @@
       "place": "299 km W of Adak, Alaska",
       "time": 1782032574232,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026menwck"
-    },
-    {
-      "id": "us7000suys",
-      "lon": -87.5573,
-      "lat": 19.6422,
-      "depth": 11.161,
-      "mag": 4.1,
-      "place": "51 km E of Felipe Carrillo Puerto, Mexico",
-      "time": 1782032408540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suys"
-    },
-    {
-      "id": "aka2026menpun",
-      "lon": -148.172,
-      "lat": 62.958,
-      "depth": 5,
-      "mag": 1.6,
-      "place": "62 km SE of Cantwell, Alaska",
-      "time": 1782032150620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026menpun"
-    },
-    {
-      "id": "us7000suyj",
-      "lon": -70.6857,
-      "lat": -17.055,
-      "depth": 120.557,
-      "mag": 4.7,
-      "place": "16 km E of Torata, Peru",
-      "time": 1782031813934,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suyj"
     }
   ]
 }
