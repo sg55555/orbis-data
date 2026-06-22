@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T23:45:56Z",
-  "count": 252,
+  "updated": "2026-06-22T23:53:07Z",
+  "count": 253,
   "points": [
+    {
+      "id": "ci41492928",
+      "lon": -116.087,
+      "lat": 33.7928333333333,
+      "depth": 2.56,
+      "mag": 0.86,
+      "place": "14 km NE of Indio, CA",
+      "time": 1782171791410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492928"
+    },
     {
       "id": "nc75381556",
       "lon": -122.847831726074,
@@ -532,6 +542,16 @@
       "place": "5 km NW of Kea‘au, Hawaii",
       "time": 1782147524280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74988662"
+    },
+    {
+      "id": "av94262393",
+      "lon": -166.621,
+      "lat": 53.898,
+      "depth": 8.53,
+      "mag": 0.46,
+      "place": "5 km W of Dutch Harbor, Alaska",
+      "time": 1782147511630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94262393"
     },
     {
       "id": "aka2026mgzpii",
@@ -2512,16 +2532,6 @@
       "place": "10 km SSW of Idyllwild, CA",
       "time": 1782086429000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491896"
-    },
-    {
-      "id": "tx2026mdsqif",
-      "lon": -103.992,
-      "lat": 31.616,
-      "depth": 7.984,
-      "mag": 2.6,
-      "place": "38 km NNW of Toyah, Texas",
-      "time": 1782085916703,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mdsqif"
     }
   ]
 }
