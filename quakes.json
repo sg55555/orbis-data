@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T08:31:14Z",
-  "count": 197,
+  "updated": "2026-06-22T08:45:57Z",
+  "count": 198,
   "points": [
+    {
+      "id": "ci41492152",
+      "lon": -117.630666666667,
+      "lat": 35.8038333333333,
+      "depth": 6.39,
+      "mag": 1.29,
+      "place": "21 km NNE of Ridgecrest, CA",
+      "time": 1782117026760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492152"
+    },
     {
       "id": "hv74988462",
       "lon": -155.494171142578,
@@ -75,12 +85,12 @@
     },
     {
       "id": "tx2026meienq",
-      "lon": -101.195,
-      "lat": 32.182,
-      "depth": 2.8491,
-      "mag": 2.3,
-      "place": "16 km SE of Coahoma, Texas",
-      "time": 1782114052705,
+      "lon": -101.2,
+      "lat": 32.184,
+      "depth": 8.4717,
+      "mag": 2.2,
+      "place": "15 km SE of Coahoma, Texas",
+      "time": 1782114052966,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026meienq"
     },
     {
@@ -272,6 +282,16 @@
       "place": "5 km WNW of Aguanga, CA",
       "time": 1782106752740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492056"
+    },
+    {
+      "id": "us7000sv3m",
+      "lon": -68.8445,
+      "lat": -21.6437,
+      "depth": 106.389,
+      "mag": 4.4,
+      "place": "76 km SW of Ollagüe, Chile",
+      "time": 1782106244000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv3m"
     },
     {
       "id": "us7000sv3q",
@@ -1962,16 +1982,6 @@
       "place": "16 km E of Torata, Peru",
       "time": 1782031813934,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suyj"
-    },
-    {
-      "id": "aka2026memveh",
-      "lon": -148.278,
-      "lat": 62.971,
-      "depth": 5,
-      "mag": 2.3,
-      "place": "57 km SE of Cantwell, Alaska",
-      "time": 1782030731208,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026memveh"
     }
   ]
 }
