@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T00:01:18Z",
-  "count": 189,
+  "updated": "2026-06-22T00:15:50Z",
+  "count": 187,
   "points": [
+    {
+      "id": "ci41491896",
+      "lon": -116.7765,
+      "lat": 33.6626666666667,
+      "depth": 14.55,
+      "mag": 0.95,
+      "place": "10 km SSW of Idyllwild, CA",
+      "time": 1782086429000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491896"
+    },
     {
       "id": "tx2026mdsrqv",
       "lon": -101.118,
@@ -15,12 +25,12 @@
     },
     {
       "id": "tx2026mdsqif",
-      "lon": -103.997,
+      "lon": -103.992,
       "lat": 31.616,
-      "depth": 6.178,
+      "depth": 7.984,
       "mag": 2.6,
       "place": "38 km NNW of Toyah, Texas",
-      "time": 1782085916577,
+      "time": 1782085916703,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mdsqif"
     },
     {
@@ -1862,36 +1872,6 @@
       "place": "35 km SE of Mina, Nevada",
       "time": 1782001154895,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920521"
-    },
-    {
-      "id": "ci41491520",
-      "lon": -116.081833333333,
-      "lat": 33.2315,
-      "depth": 9.65,
-      "mag": 1.02,
-      "place": "11 km NNE of Ocotillo Wells, CA",
-      "time": 1782000793360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491520"
-    },
-    {
-      "id": "nc75380376",
-      "lon": -122.842330932617,
-      "lat": 38.8203315734863,
-      "depth": 1.96000003814697,
-      "mag": 0.75,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": 1782000441360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380376"
-    },
-    {
-      "id": "aka2026mdvvbr",
-      "lon": -154.821,
-      "lat": 58.053,
-      "depth": 5,
-      "mag": 0.9,
-      "place": "58 km NNW of Karluk, Alaska",
-      "time": 1782000130409,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mdvvbr"
     }
   ]
 }
