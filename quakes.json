@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-21T23:53:32Z",
-  "count": 188,
+  "updated": "2026-06-22T00:01:18Z",
+  "count": 189,
   "points": [
+    {
+      "id": "tx2026mdsrqv",
+      "lon": -101.118,
+      "lat": 33.12,
+      "depth": 0,
+      "mag": 1.6,
+      "place": "25 km ESE of Post, Texas",
+      "time": 1782086000504,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mdsrqv"
+    },
+    {
+      "id": "tx2026mdsqif",
+      "lon": -103.997,
+      "lat": 31.616,
+      "depth": 6.178,
+      "mag": 2.6,
+      "place": "38 km NNW of Toyah, Texas",
+      "time": 1782085916577,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mdsqif"
+    },
     {
       "id": "aka2026mfqsuz",
       "lon": -155.092,
@@ -12,6 +32,16 @@
       "place": "83 km NNW of Karluk, Alaska",
       "time": 1782084535689,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mfqsuz"
+    },
+    {
+      "id": "pr71520833",
+      "lon": -66.7868333333333,
+      "lat": 18.0398333333333,
+      "depth": 15.67,
+      "mag": 2.8,
+      "place": "2 km NNE of Guayanilla, Puerto Rico",
+      "time": 1782084469600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71520833"
     },
     {
       "id": "aka2026mfqjuc",
@@ -1862,26 +1892,6 @@
       "place": "58 km NNW of Karluk, Alaska",
       "time": 1782000130409,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mdvvbr"
-    },
-    {
-      "id": "nc75380371",
-      "lon": -120.891334533691,
-      "lat": 36.0511665344238,
-      "depth": 9,
-      "mag": 2.28,
-      "place": "4 km NNE of San Ardo, CA",
-      "time": 1782000010350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380371"
-    },
-    {
-      "id": "nc75380366",
-      "lon": -122.797332763672,
-      "lat": 38.8118324279785,
-      "depth": 1.29999995231628,
-      "mag": 1.53,
-      "place": "5 km NW of The Geysers, CA",
-      "time": 1781999858350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380366"
     }
   ]
 }
