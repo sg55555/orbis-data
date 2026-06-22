@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T21:15:57Z",
-  "count": 242,
+  "updated": "2026-06-22T21:31:10Z",
+  "count": 240,
   "points": [
+    {
+      "id": "nc75381451",
+      "lon": -122.754333496094,
+      "lat": 38.7830009460449,
+      "depth": 1,
+      "mag": 1.42,
+      "place": "1 km NNE of The Geysers, CA",
+      "time": 1782163458820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381451"
+    },
     {
       "id": "ci41492768",
       "lon": -117.208,
@@ -105,12 +115,12 @@
     },
     {
       "id": "nn00920613",
-      "lon": -118.3576,
-      "lat": 38.4351,
-      "depth": 9.0774,
-      "mag": 1.71,
-      "place": "22 km WNW of Mina, Nevada",
-      "time": 1782157759743,
+      "lon": -118.3594,
+      "lat": 38.424,
+      "depth": 7.2337,
+      "mag": 1.86,
+      "place": "22 km W of Mina, Nevada",
+      "time": 1782157760249,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920613"
     },
     {
@@ -1624,6 +1634,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492040"
     },
     {
+      "id": "av94261258",
+      "lon": -165.963333333333,
+      "lat": 54.123,
+      "depth": 5.09,
+      "mag": 0,
+      "place": "12 km W of Akutan, Alaska",
+      "time": 1782103584710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94261258"
+    },
+    {
       "id": "hv74988307",
       "lon": -155.196502685547,
       "lat": 19.3239994049072,
@@ -2382,46 +2402,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1782077612890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380921"
-    },
-    {
-      "id": "us7000sv1e",
-      "lon": 130.0032,
-      "lat": -2.9804,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "120 km ENE of Masohi, Indonesia",
-      "time": 1782077188109,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1e"
-    },
-    {
-      "id": "aka2026mfmljo",
-      "lon": -148.203,
-      "lat": 62.956,
-      "depth": 5,
-      "mag": 1.9,
-      "place": "61 km SE of Cantwell, Alaska",
-      "time": 1782076822519,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mfmljo"
-    },
-    {
-      "id": "nc75380911",
-      "lon": -122.771003723145,
-      "lat": 38.7859992980957,
-      "depth": 3.72000002861023,
-      "mag": 0.77,
-      "place": "2 km NW of The Geysers, CA",
-      "time": 1782076769370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380911"
-    },
-    {
-      "id": "uu80142986",
-      "lon": -112.1615,
-      "lat": 38.6235,
-      "depth": 12.25,
-      "mag": 0.97,
-      "place": "3 km WSW of Monroe, Utah",
-      "time": 1782076549920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80142986"
     }
   ]
 }
