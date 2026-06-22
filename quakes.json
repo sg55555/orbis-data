@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T23:31:09Z",
-  "count": 251,
+  "updated": "2026-06-22T23:45:56Z",
+  "count": 252,
   "points": [
     {
       "id": "nc75381556",
@@ -165,12 +165,12 @@
     },
     {
       "id": "ci41492768",
-      "lon": -117.208,
-      "lat": 34.015,
-      "depth": 3.83,
-      "mag": 1.03,
+      "lon": -117.208166666667,
+      "lat": 34.0143333333333,
+      "depth": 4.43,
+      "mag": 0.84,
       "place": "5 km SSW of Redlands, CA",
-      "time": 1782162006560,
+      "time": 1782162006510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492768"
     },
     {
@@ -662,6 +662,26 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1782143579960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381306"
+    },
+    {
+      "id": "av94262263",
+      "lon": -153.106333333333,
+      "lat": 60.0003333333333,
+      "depth": -0.27,
+      "mag": -1,
+      "place": "60 km ENE of Pedro Bay, Alaska",
+      "time": 1782143370220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94262263"
+    },
+    {
+      "id": "av94262253",
+      "lon": -166.618166666667,
+      "lat": 53.8935,
+      "depth": 7.15,
+      "mag": -0.4,
+      "place": "5 km W of Dutch Harbor, Alaska",
+      "time": 1782143253990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94262253"
     },
     {
       "id": "ci41492392",
@@ -1185,12 +1205,12 @@
     },
     {
       "id": "ci41492192",
-      "lon": -117.922333333333,
-      "lat": 34.1943333333333,
-      "depth": 4.48,
-      "mag": 1.02,
-      "place": "7 km NNW of Azusa, CA",
-      "time": 1782125335470,
+      "lon": -117.921666666667,
+      "lat": 34.195,
+      "depth": 5,
+      "mag": 0.59,
+      "place": "7 km N of Azusa, CA",
+      "time": 1782125335460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492192"
     },
     {
@@ -2502,16 +2522,6 @@
       "place": "38 km NNW of Toyah, Texas",
       "time": 1782085916703,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mdsqif"
-    },
-    {
-      "id": "tx2026mdsfjt",
-      "lon": -102.068,
-      "lat": 32.346,
-      "depth": 6.7627,
-      "mag": 1,
-      "place": "35 km NW of Stanton, Texas",
-      "time": 1782085148287,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mdsfjt"
     }
   ]
 }
