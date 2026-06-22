@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T17:15:58Z",
-  "count": 225,
+  "updated": "2026-06-22T17:31:11Z",
+  "count": 227,
   "points": [
+    {
+      "id": "nc75381341",
+      "lon": -120.593170166016,
+      "lat": 36.0366668701172,
+      "depth": 7.03999996185303,
+      "mag": 1.85,
+      "place": "21 km NW of Parkfield, CA",
+      "time": 1782148629450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381341"
+    },
     {
       "id": "aka2026mhadac",
       "lon": -153.45,
@@ -65,12 +75,12 @@
     },
     {
       "id": "tx2026mfahyo",
-      "lon": -103.872,
-      "lat": 31.464,
-      "depth": 7.0453,
+      "lon": -103.877,
+      "lat": 31.463,
+      "depth": 6.0999,
       "mag": 1.9,
       "place": "18 km NNW of Toyah, Texas",
-      "time": 1782146892902,
+      "time": 1782146893257,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mfahyo"
     },
     {
@@ -92,6 +102,16 @@
       "place": "15 km S of Tres Pinos, CA",
       "time": 1782145962120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381316"
+    },
+    {
+      "id": "nm60505788",
+      "lon": -91.6548333333333,
+      "lat": 35.4328333333333,
+      "depth": 2.04,
+      "mag": 2.27,
+      "place": "13 km SSW of Pleasant Plains, Arkansas",
+      "time": 1782145460410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60505788"
     },
     {
       "id": "ci41492432",
@@ -132,6 +152,16 @@
       "place": "61 km NNE of Van Horn, Texas",
       "time": 1782144378187,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026meyyck"
+    },
+    {
+      "id": "aka2026mgxuxm",
+      "lon": -171.488,
+      "lat": 51.904,
+      "depth": 20,
+      "mag": 2.7,
+      "place": "188 km E of Atka, Alaska",
+      "time": 1782144035737,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mgxuxm"
     },
     {
       "id": "aka2026mgxorw",
@@ -632,6 +662,16 @@
       "place": "6 km NNE of Lake Henshaw, CA",
       "time": 1782124261550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492184"
+    },
+    {
+      "id": "uu80007483",
+      "lon": -112.062,
+      "lat": 40.735,
+      "depth": 9.76,
+      "mag": 0.21,
+      "place": "4 km NE of Magna, Utah",
+      "time": 1782124180280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007483"
     },
     {
       "id": "us7000sv6e",
@@ -2014,6 +2054,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920565"
     },
     {
+      "id": "tx2026mdkoba",
+      "lon": -102.173,
+      "lat": 32.414,
+      "depth": 7.9346,
+      "mag": 0.5,
+      "place": "35 km ENE of McKinney Acres, Texas",
+      "time": 1782071268127,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mdkoba"
+    },
+    {
       "id": "nc75380861",
       "lon": -122.471336364746,
       "lat": 37.5999984741211,
@@ -2222,36 +2272,6 @@
       "place": "9 km WNW of The Geysers, CA",
       "time": 1782063248690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380776"
-    },
-    {
-      "id": "us7000sv0m",
-      "lon": -173.5248,
-      "lat": -19.5463,
-      "depth": 10,
-      "mag": 4.8,
-      "place": "86 km ENE of Fangale’ounga, Tonga",
-      "time": 1782062983419,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv0m"
-    },
-    {
-      "id": "aka2026mfeoyz",
-      "lon": -147.57,
-      "lat": 64.935,
-      "depth": 6.6,
-      "mag": 0.4,
-      "place": "3 km SE of Fox, Alaska",
-      "time": 1782062679038,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mfeoyz"
-    },
-    {
-      "id": "aka2026mfejbo",
-      "lon": -158.331,
-      "lat": 56.356,
-      "depth": 5,
-      "mag": 1.2,
-      "place": "8 km NNE of Chignik, Alaska",
-      "time": 1782062275989,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mfejbo"
     }
   ]
 }
