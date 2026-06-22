@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T06:31:13Z",
+  "updated": "2026-06-22T06:45:53Z",
   "count": 201,
   "points": [
     {
+      "id": "aka2026mgevsk",
+      "lon": -154.102,
+      "lat": 61.153,
+      "depth": 5.1,
+      "mag": 1.9,
+      "place": "75 km ESE of Lime Village, Alaska",
+      "time": 1782109923782,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mgevsk"
+    },
+    {
+      "id": "hv74988402",
+      "lon": -155.497497558594,
+      "lat": 19.1165008544922,
+      "depth": 30.6900005340576,
+      "mag": 1.8,
+      "place": "9 km SSW of Pāhala, Hawaii",
+      "time": 1782109707250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74988402"
+    },
+    {
       "id": "ci41492096",
-      "lon": -117.3818359375,
-      "lat": 35.9528350830078,
-      "depth": 4.1100001335144,
-      "mag": 1.15178089440277,
+      "lon": -117.391666666667,
+      "lat": 35.9541666666667,
+      "depth": 2.46,
+      "mag": 0.8,
       "place": "21 km N of Searles Valley, CA",
-      "time": 1782109669300,
+      "time": 1782109669340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492096"
     },
     {
@@ -1992,26 +2012,6 @@
       "place": "28 km NNE of Aleneva, Alaska",
       "time": 1782024389902,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mejhqs"
-    },
-    {
-      "id": "nc75380581",
-      "lon": -122.847663879395,
-      "lat": 38.8516654968262,
-      "depth": 1.6599999666214,
-      "mag": 0.22,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1782024068600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380581"
-    },
-    {
-      "id": "us7000suy7",
-      "lon": -115.7925,
-      "lat": 24.2032,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "Off the coast of Baja California Sur, Mexico",
-      "time": 1782023518676,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suy7"
     }
   ]
 }
