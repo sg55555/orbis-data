@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T03:31:03Z",
-  "count": 181,
+  "updated": "2026-06-22T03:45:52Z",
+  "count": 182,
   "points": [
+    {
+      "id": "us7000sv2i",
+      "lon": 20.4255,
+      "lat": 37.2276,
+      "depth": 10,
+      "mag": 4.1,
+      "place": "65 km SSW of Lithakiá, Greece",
+      "time": 1782099020849,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv2i"
+    },
+    {
+      "id": "aka2026mfytqj",
+      "lon": -151.207,
+      "lat": 63.445,
+      "depth": 5,
+      "mag": 2.6,
+      "place": "27 km ESE of Denali National Park, Alaska",
+      "time": 1782098976188,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mfytqj"
+    },
     {
       "id": "aka2026mfynfh",
       "lon": -148.381,
@@ -1802,16 +1822,6 @@
       "place": "50 km ENE of Pedro Bay, Alaska",
       "time": 1782014220789,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026medoek"
-    },
-    {
-      "id": "ci41491584",
-      "lon": -118.022,
-      "lat": 36.1785,
-      "depth": 3.54,
-      "mag": 1.53,
-      "place": "12 km S of Olancha, CA",
-      "time": 1782013099370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491584"
     }
   ]
 }
