@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T12:15:57Z",
-  "count": 208,
+  "updated": "2026-06-22T12:45:57Z",
+  "count": 206,
   "points": [
+    {
+      "id": "ci41492208",
+      "lon": -116.395666666667,
+      "lat": 33.3975,
+      "depth": 11.39,
+      "mag": 0.42,
+      "place": "16 km N of Borrego Springs, CA",
+      "time": 1782131253630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492208"
+    },
     {
       "id": "nc75381216",
       "lon": -122.787170410156,
@@ -65,12 +75,12 @@
     },
     {
       "id": "tx2026meposx",
-      "lon": -102.063,
-      "lat": 31.908,
-      "depth": 4.1884,
+      "lon": -102.059,
+      "lat": 31.907,
+      "depth": 8.667,
       "mag": 1.4,
       "place": "10 km S of Midland, Texas",
-      "time": 1782127434799,
+      "time": 1782127435302,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026meposx"
     },
     {
@@ -285,12 +295,12 @@
     },
     {
       "id": "tx2026melrba",
-      "lon": -102.057,
-      "lat": 32.352,
-      "depth": 6.0014,
+      "lon": -102.059,
+      "lat": 32.354,
+      "depth": 7.3486,
       "mag": 0.9,
       "place": "35 km NW of Stanton, Texas",
-      "time": 1782120359444,
+      "time": 1782120360274,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026melrba"
     },
     {
@@ -914,16 +924,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71520843"
     },
     {
-      "id": "tx2026mdypoa",
-      "lon": -104.498,
-      "lat": 31.627,
-      "depth": 0.0561,
-      "mag": 1.6,
-      "place": "61 km S of Whites City, New Mexico",
-      "time": 1782096718032,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mdypoa"
-    },
-    {
       "id": "ci41491976",
       "lon": -117.476833333333,
       "lat": 34.114,
@@ -1244,6 +1244,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mdsqif"
     },
     {
+      "id": "tx2026mdsfjt",
+      "lon": -102.068,
+      "lat": 32.346,
+      "depth": 6.7627,
+      "mag": 1,
+      "place": "35 km NW of Stanton, Texas",
+      "time": 1782085148287,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mdsfjt"
+    },
+    {
       "id": "aka2026mfqsuz",
       "lon": -155.092,
       "lat": 58.233,
@@ -1485,12 +1495,12 @@
     },
     {
       "id": "tx2026mdjxyd",
-      "lon": -102.082,
-      "lat": 32.347,
-      "depth": 3.9304,
-      "mag": 1.1,
-      "place": "36 km NW of Stanton, Texas",
-      "time": 1782070144419,
+      "lon": -102.089,
+      "lat": 32.348,
+      "depth": 6.5186,
+      "mag": 1.2,
+      "place": "37 km NW of Stanton, Texas",
+      "time": 1782070144788,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mdjxyd"
     },
     {
@@ -2052,36 +2062,6 @@
       "place": "145 km WSW of Nikolski, Alaska",
       "time": 1782045974410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mevhmv"
-    },
-    {
-      "id": "aka2026meuxui",
-      "lon": -143.731,
-      "lat": 60.436,
-      "depth": 16.9,
-      "mag": 1.3,
-      "place": "112 km E of Cordova, Alaska",
-      "time": 1782045308560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026meuxui"
-    },
-    {
-      "id": "nc75380656",
-      "lon": -121.522499084473,
-      "lat": 37.1264991760254,
-      "depth": 6.8600001335144,
-      "mag": 1.25,
-      "place": "9 km ENE of San Martin, CA",
-      "time": 1782044595500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380656"
-    },
-    {
-      "id": "aka2026meujcf",
-      "lon": -150.801,
-      "lat": 61.77,
-      "depth": 52.5,
-      "mag": 1.8,
-      "place": "29 km NNW of Susitna, Alaska",
-      "time": 1782044281995,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026meujcf"
     }
   ]
 }
