@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T19:10:56Z",
-  "count": 234,
+  "updated": "2026-06-22T19:16:04Z",
+  "count": 235,
   "points": [
+    {
+      "id": "us6000t7fw",
+      "lon": -66.7936,
+      "lat": 18.8794,
+      "depth": 47.409,
+      "mag": 3.1,
+      "place": "43 km N of Hatillo, Puerto Rico",
+      "time": 1782155108628,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7fw"
+    },
     {
       "id": "ci41492648",
       "lon": -116.7265,
@@ -12,6 +22,16 @@
       "place": "6 km WSW of Anza, CA",
       "time": 1782154711320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492648"
+    },
+    {
+      "id": "us6000t7fv",
+      "lon": -66.9389,
+      "lat": 19.7321,
+      "depth": 10,
+      "mag": 3.1,
+      "place": "136 km N of Isabela, Puerto Rico",
+      "time": 1782154587989,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7fv"
     },
     {
       "id": "ci41492624",
@@ -2332,16 +2352,6 @@
       "place": "9 km WSW of Petrolia, CA",
       "time": 1782069516340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380836"
-    },
-    {
-      "id": "nc75380826",
-      "lon": -122.835670471191,
-      "lat": 38.8371658325195,
-      "depth": 1.4099999666214,
-      "mag": 1.01,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1782069095670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380826"
     }
   ]
 }
