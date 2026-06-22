@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T00:15:50Z",
-  "count": 187,
+  "updated": "2026-06-22T00:31:06Z",
+  "count": 185,
   "points": [
+    {
+      "id": "nc75380976",
+      "lon": -122.736831665039,
+      "lat": 38.795166015625,
+      "depth": 1.97000002861023,
+      "mag": 2.8,
+      "place": "3 km NE of The Geysers, CA",
+      "time": 1782088043220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380976"
+    },
     {
       "id": "ci41491896",
       "lon": -116.7765,
@@ -1842,36 +1852,6 @@
       "place": "3 km ESE of The Geysers, CA",
       "time": 1782002227770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380386"
-    },
-    {
-      "id": "av94258698",
-      "lon": -178.746,
-      "lat": 51.8256666666667,
-      "depth": 14.95,
-      "mag": 0.59,
-      "place": "145 km W of Adak, Alaska",
-      "time": 1782001718070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94258698"
-    },
-    {
-      "id": "pr71520778",
-      "lon": -66.7451666666667,
-      "lat": 18.1298333333333,
-      "depth": 23.35,
-      "mag": 1.99,
-      "place": "4 km SW of Adjuntas, Puerto Rico",
-      "time": 1782001509620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71520778"
-    },
-    {
-      "id": "nn00920521",
-      "lon": -117.808,
-      "lat": 38.173,
-      "depth": 1.0625,
-      "mag": 1.53,
-      "place": "35 km SE of Mina, Nevada",
-      "time": 1782001154895,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920521"
     }
   ]
 }
