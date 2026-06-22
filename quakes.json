@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T11:31:07Z",
+  "updated": "2026-06-22T11:45:55Z",
   "count": 208,
   "points": [
+    {
+      "id": "aka2026mgoskn",
+      "lon": -151.056,
+      "lat": 59.826,
+      "depth": 62.3,
+      "mag": 0.9,
+      "place": "6 km WSW of Fox River, Alaska",
+      "time": 1782127688393,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mgoskn"
+    },
     {
       "id": "tx2026meposx",
       "lon": -102.063,
@@ -12,6 +22,16 @@
       "place": "10 km S of Midland, Texas",
       "time": 1782127434799,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026meposx"
+    },
+    {
+      "id": "pr71520888",
+      "lon": -66.7971666666667,
+      "lat": 18.041,
+      "depth": 15.28,
+      "mag": 1.85,
+      "place": "2 km NNW of Guayanilla, Puerto Rico",
+      "time": 1782127148430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71520888"
     },
     {
       "id": "aka2026mgoglg",
@@ -2062,26 +2082,6 @@
       "place": "5 km SW of Banning, CA",
       "time": 1782042449870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491696"
-    },
-    {
-      "id": "hv74987757",
-      "lon": -155.425003051758,
-      "lat": 19.3463325500488,
-      "depth": 6.69999980926514,
-      "mag": 2.03,
-      "place": "16 km NNE of Pāhala, Hawaii",
-      "time": 1782042285250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74987757"
-    },
-    {
-      "id": "tx2026mcujqb",
-      "lon": -103.643,
-      "lat": 30.887,
-      "depth": 0,
-      "mag": 1.3,
-      "place": "14 km SE of Balmorhea, Texas",
-      "time": 1782042005268,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mcujqb"
     }
   ]
 }
