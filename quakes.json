@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T11:45:55Z",
-  "count": 208,
+  "updated": "2026-06-22T12:01:22Z",
+  "count": 210,
   "points": [
+    {
+      "id": "ci41492200",
+      "lon": -117.32,
+      "lat": 34.101,
+      "depth": 16.6,
+      "mag": 1.55,
+      "place": "3 km N of Colton, CA",
+      "time": 1782129448120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492200"
+    },
+    {
+      "id": "nc75381211",
+      "lon": -122.846832275391,
+      "lat": 38.8486671447754,
+      "depth": 1.80999994277954,
+      "mag": 0.28,
+      "place": "11 km WNW of Cobb, CA",
+      "time": 1782129355790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381211"
+    },
+    {
+      "id": "aka2026mgpomt",
+      "lon": -152.368,
+      "lat": 61.282,
+      "depth": 5,
+      "mag": 0.9,
+      "place": "70 km WNW of Tyonek, Alaska",
+      "time": 1782129220022,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mgpomt"
+    },
     {
       "id": "aka2026mgoskn",
       "lon": -151.056,
@@ -75,12 +105,12 @@
     },
     {
       "id": "tx2026meolnk",
-      "lon": -102.025,
-      "lat": 32.431,
-      "depth": 4.2003,
-      "mag": 2.3,
-      "place": "30 km WSW of Ackerly, Texas",
-      "time": 1782125600158,
+      "lon": -102.032,
+      "lat": 32.43,
+      "depth": 8.3496,
+      "mag": 2.4,
+      "place": "31 km WSW of Ackerly, Texas",
+      "time": 1782125600600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026meolnk"
     },
     {
@@ -115,12 +145,12 @@
     },
     {
       "id": "tx2026meoeie",
-      "lon": -102.028,
-      "lat": 32.431,
-      "depth": 4.426,
+      "lon": -102.038,
+      "lat": 32.436,
+      "depth": 9.2529,
       "mag": 2.1,
       "place": "31 km WSW of Ackerly, Texas",
-      "time": 1782124957795,
+      "time": 1782124958158,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026meoeie"
     },
     {
@@ -2072,16 +2102,6 @@
       "place": "13 km NE of Little Lake, CA",
       "time": 1782043413350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491704"
-    },
-    {
-      "id": "ci41491696",
-      "lon": -116.913,
-      "lat": 33.8955,
-      "depth": 9.71,
-      "mag": 0.85,
-      "place": "5 km SW of Banning, CA",
-      "time": 1782042449870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491696"
     }
   ]
 }
