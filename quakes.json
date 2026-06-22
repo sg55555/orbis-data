@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T09:15:58Z",
-  "count": 197,
+  "updated": "2026-06-22T09:31:13Z",
+  "count": 196,
   "points": [
+    {
+      "id": "nc75381161",
+      "lon": -122.767333984375,
+      "lat": 38.7848320007324,
+      "depth": 3.46000003814697,
+      "mag": 0.73,
+      "place": "1 km NW of The Geysers, CA",
+      "time": 1782119677570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381161"
+    },
     {
       "id": "ci41492168",
       "lon": -117.2045,
@@ -415,12 +425,12 @@
     },
     {
       "id": "tx2026mecrtp",
-      "lon": -104.291,
-      "lat": 31.605,
-      "depth": 4.281,
-      "mag": 2,
+      "lon": -104.27,
+      "lat": 31.627,
+      "depth": 7.9456,
+      "mag": 1.9,
       "place": "57 km NW of Toyah, Texas",
-      "time": 1782104111302,
+      "time": 1782104111406,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mecrtp"
     },
     {
@@ -1952,26 +1962,6 @@
       "place": "12 km SE of Lindsay, Texas",
       "time": 1782034364453,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mcqdya"
-    },
-    {
-      "id": "ci41491672",
-      "lon": -117.456833333333,
-      "lat": 34.1258333333333,
-      "depth": 9.09,
-      "mag": 0.88,
-      "place": "3 km N of Fontana, CA",
-      "time": 1782033849370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491672"
-    },
-    {
-      "id": "ci41491664",
-      "lon": -116.663166666667,
-      "lat": 33.452,
-      "depth": 4.2,
-      "mag": 0.24,
-      "place": "11 km S of Anza, CA",
-      "time": 1782033816020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491664"
     }
   ]
 }
