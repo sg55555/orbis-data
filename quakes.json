@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T20:01:25Z",
-  "count": 227,
+  "updated": "2026-06-22T20:16:05Z",
+  "count": 229,
   "points": [
+    {
+      "id": "nc75381426",
+      "lon": -122.786003112793,
+      "lat": 38.8224983215332,
+      "depth": 1.25,
+      "mag": 0.54,
+      "place": "5 km W of Cobb, CA",
+      "time": 1782159122590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381426"
+    },
+    {
+      "id": "nc75381421",
+      "lon": -122.058166503906,
+      "lat": 37.9663314819336,
+      "depth": 14.5,
+      "mag": 1.46,
+      "place": "2 km N of Pleasant Hill, CA",
+      "time": 1782159086050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381421"
+    },
     {
       "id": "nn00920613",
       "lon": -118.3576,
@@ -12,6 +32,16 @@
       "place": "22 km WNW of Mina, Nevada",
       "time": 1782157759743,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920613"
+    },
+    {
+      "id": "us6000t7gf",
+      "lon": -178.2858,
+      "lat": -31.9328,
+      "depth": 28.23,
+      "mag": 5.1,
+      "place": "Kermadec Islands region",
+      "time": 1782157571598,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7gf"
     },
     {
       "id": "us6000t7g4",
@@ -1904,6 +1934,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381001"
     },
     {
+      "id": "av94260883",
+      "lon": -169.907,
+      "lat": 52.8208333333333,
+      "depth": 5.57,
+      "mag": 0.51,
+      "place": "71 km W of Nikolski, Alaska",
+      "time": 1782089032860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94260883"
+    },
+    {
       "id": "nc75380996",
       "lon": -122.817665100098,
       "lat": 38.8326683044434,
@@ -2252,26 +2292,6 @@
       "place": "23 km ESE of Naalehu, Hawaii",
       "time": 1782073203650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74987992"
-    },
-    {
-      "id": "uu80142981",
-      "lon": -111.111833333333,
-      "lat": 44.7601666666667,
-      "depth": 8.95,
-      "mag": 0.51,
-      "place": "6 km E of Hebgen Lake Estates, Montana",
-      "time": 1782072659050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80142981"
-    },
-    {
-      "id": "us7000sv17",
-      "lon": -62.4195,
-      "lat": -60.1068,
-      "depth": 10,
-      "mag": 5,
-      "place": "Drake Passage",
-      "time": 1782072326185,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv17"
     }
   ]
 }
