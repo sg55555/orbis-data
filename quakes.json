@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T14:16:01Z",
+  "updated": "2026-06-22T14:31:11Z",
   "count": 199,
   "points": [
     {
+      "id": "ci41492288",
+      "lon": -119.349666666667,
+      "lat": 35.1368333333333,
+      "depth": 20.45,
+      "mag": 1.06,
+      "place": "10 km E of Taft, CA",
+      "time": 1782138046150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492288"
+    },
+    {
       "id": "ci41492280",
-      "lon": -117.209831237793,
-      "lat": 34.0060005187988,
-      "depth": 3.89000010490417,
-      "mag": 1.36856556067588,
+      "lon": -117.208333333333,
+      "lat": 34.0038333333333,
+      "depth": 4.42,
+      "mag": 1.32,
       "place": "6 km SSW of Redlands, CA",
-      "time": 1782137599400,
+      "time": 1782137599450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492280"
     },
     {
@@ -1982,16 +1992,6 @@
       "place": "8 km E of Benton, Tennessee",
       "time": 1782052343820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60623141"
-    },
-    {
-      "id": "ci41491728",
-      "lon": -116.752333333333,
-      "lat": 33.6541666666667,
-      "depth": 12.57,
-      "mag": 0.94,
-      "place": "10 km SSW of Idyllwild, CA",
-      "time": 1782051360750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491728"
     }
   ]
 }
