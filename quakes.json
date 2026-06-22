@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T03:45:52Z",
-  "count": 182,
+  "updated": "2026-06-22T04:01:15Z",
+  "count": 184,
   "points": [
+    {
+      "id": "ci41492016",
+      "lon": -116.389,
+      "lat": 33.351,
+      "depth": 12.35,
+      "mag": 0.69,
+      "place": "11 km N of Borrego Springs, CA",
+      "time": 1782100148360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492016"
+    },
+    {
+      "id": "ci41492008",
+      "lon": -117.806666666667,
+      "lat": 35.294,
+      "depth": 7.43,
+      "mag": 1.14,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": 1782099870540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492008"
+    },
     {
       "id": "us7000sv2i",
       "lon": 20.4255,
@@ -442,6 +462,16 @@
       "place": "217 km ESE of Severo-Kuril’sk, Russia",
       "time": 1782083065811,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1l"
+    },
+    {
+      "id": "aka2026mfpyam",
+      "lon": -162.387,
+      "lat": 53.183,
+      "depth": 20,
+      "mag": 2.7,
+      "place": "197 km SSE of False Pass, Alaska",
+      "time": 1782083051976,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mfpyam"
     },
     {
       "id": "tx2026mdqbaz",
@@ -1812,16 +1842,6 @@
       "place": "6 km SSE of San Juan Bautista, CA",
       "time": 1782014572290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380536"
-    },
-    {
-      "id": "aka2026medoek",
-      "lon": -153.255,
-      "lat": 59.94,
-      "depth": 143.6,
-      "mag": 1.8,
-      "place": "50 km ENE of Pedro Bay, Alaska",
-      "time": 1782014220789,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026medoek"
     }
   ]
 }
