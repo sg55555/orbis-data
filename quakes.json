@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-22T22:01:21Z",
+  "updated": "2026-06-22T22:13:26Z",
   "count": 244,
   "points": [
+    {
+      "id": "nc75381491",
+      "lon": -122.84700012207,
+      "lat": 38.8494987487793,
+      "depth": 1.19000005722046,
+      "mag": 0.97,
+      "place": "11 km WNW of Cobb, CA",
+      "time": 1782166169780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381491"
+    },
     {
       "id": "nc75381481",
       "lon": -122.805335998535,
@@ -25,12 +35,12 @@
     },
     {
       "id": "nn00920617",
-      "lon": -117.8677,
-      "lat": 38.1728,
-      "depth": 2.1776,
-      "mag": 2.06,
+      "lon": -117.8775,
+      "lat": 38.1589,
+      "depth": 7.2309,
+      "mag": 2.03,
       "place": "32 km SE of Mina, Nevada",
-      "time": 1782164956765,
+      "time": 1782164957382,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920617"
     },
     {
@@ -1112,6 +1122,16 @@
       "place": "104 km NNE of Ambler, Alaska",
       "time": 1782122011616,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mglojs"
+    },
+    {
+      "id": "av94261728",
+      "lon": -158.1425,
+      "lat": 56.8801666666667,
+      "depth": 15.76,
+      "mag": -0.61,
+      "place": "67 km NNE of Chignik, Alaska",
+      "time": 1782121860270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94261728"
     },
     {
       "id": "us7000sv6a",
@@ -2422,26 +2442,6 @@
       "place": "19 km NE of Yerington, Nevada",
       "time": 1782080853259,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920572"
-    },
-    {
-      "id": "ci41491872",
-      "lon": -116.715166666667,
-      "lat": 33.5345,
-      "depth": 5.65,
-      "mag": 1.03,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1782079716540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491872"
-    },
-    {
-      "id": "us7000sv7m",
-      "lon": -27.9105,
-      "lat": 0.9775,
-      "depth": 10,
-      "mag": 5.4,
-      "place": "central Mid-Atlantic Ridge",
-      "time": 1782079456633,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv7m"
     }
   ]
 }
