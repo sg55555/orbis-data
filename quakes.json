@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T22:01:24Z",
-  "count": 334,
+  "updated": "2026-06-23T22:15:55Z",
+  "count": 335,
   "points": [
+    {
+      "id": "ci41493872",
+      "lon": -118.27783203125,
+      "lat": 36.1523323059082,
+      "depth": 8.07999992370605,
+      "mag": 1.62034277503023,
+      "place": "28 km WSW of Olancha, CA",
+      "time": 1782252774870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493872"
+    },
+    {
+      "id": "us6000t7qk",
+      "lon": -177.2188,
+      "lat": -16.5877,
+      "depth": 408.891,
+      "mag": 4.5,
+      "place": "269 km SSE of Alo, Wallis and Futuna",
+      "time": 1782251598416,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7qk"
+    },
     {
       "id": "aka2026mjevoe",
       "lon": -151.514,
@@ -44,6 +64,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mjelui"
     },
     {
+      "id": "tx2026mhezfa",
+      "lon": -101.926,
+      "lat": 32.106,
+      "depth": 4.4698,
+      "mag": 1.4,
+      "place": "13 km WSW of Stanton, Texas",
+      "time": 1782249455180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mhezfa"
+    },
+    {
       "id": "tx2026mheqcy",
       "lon": -101.92,
       "lat": 32.107,
@@ -65,12 +95,12 @@
     },
     {
       "id": "tx2026mhedrn",
-      "lon": -101.922,
-      "lat": 32.097,
-      "depth": 4.154,
+      "lon": -101.933,
+      "lat": 32.108,
+      "depth": 7.9346,
       "mag": 1.3,
-      "place": "13 km WSW of Stanton, Texas",
-      "time": 1782248117408,
+      "place": "13 km W of Stanton, Texas",
+      "time": 1782248117961,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mhedrn"
     },
     {
@@ -3322,26 +3352,6 @@
       "place": "9 km SW of Corona, CA",
       "time": 1782166826500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492856"
-    },
-    {
-      "id": "uw714030041",
-      "lon": -122.978333333333,
-      "lat": 47.0135,
-      "depth": -0.05,
-      "mag": 1.6,
-      "place": "5 km W of Tumwater, Washington",
-      "time": 1782166358920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714030041"
-    },
-    {
-      "id": "nc75381491",
-      "lon": -122.84700012207,
-      "lat": 38.8494987487793,
-      "depth": 1.19000005722046,
-      "mag": 0.97,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1782166169780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381491"
     }
   ]
 }
