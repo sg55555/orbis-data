@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T15:01:31Z",
-  "count": 300,
+  "updated": "2026-06-23T15:16:00Z",
+  "count": 301,
   "points": [
+    {
+      "id": "ci41493384",
+      "lon": -115.592166666667,
+      "lat": 33.0451666666667,
+      "depth": 10.03,
+      "mag": 1.72,
+      "place": "3 km ENE of Westmorland, CA",
+      "time": 1782226858570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493384"
+    },
     {
       "id": "nc75382181",
       "lon": -122.848335266113,
@@ -82,6 +92,16 @@
       "place": "2 km E of Winchester, CA",
       "time": 1782224116630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493320"
+    },
+    {
+      "id": "aka2026miqcpw",
+      "lon": -156.346,
+      "lat": 55.965,
+      "depth": 5,
+      "mag": 2.2,
+      "place": "133 km ESE of Chignik, Alaska",
+      "time": 1782223748677,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026miqcpw"
     },
     {
       "id": "aka2026miqbqk",
@@ -2992,16 +3012,6 @@
       "place": "4 km W of Cobb, CA",
       "time": 1782141340490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381276"
-    },
-    {
-      "id": "aka2026mgvypt",
-      "lon": -154.655,
-      "lat": 57.718,
-      "depth": 60.2,
-      "mag": 2.1,
-      "place": "20 km NW of Karluk, Alaska",
-      "time": 1782140710984,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mgvypt"
     }
   ]
 }
