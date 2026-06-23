@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T23:38:06Z",
-  "count": 340,
+  "updated": "2026-06-23T23:45:55Z",
+  "count": 342,
   "points": [
+    {
+      "id": "tx2026mhjqpv",
+      "lon": -104.466,
+      "lat": 31.623,
+      "depth": 2.8323,
+      "mag": 1.7,
+      "place": "61 km S of Whites City, New Mexico",
+      "time": 1782257910355,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mhjqpv"
+    },
     {
       "id": "aka2026mjixsp",
       "lon": -149.527,
@@ -92,16 +102,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1782256129310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382491"
-    },
-    {
-      "id": "ci41493904",
-      "lon": -116.3165,
-      "lat": 33.059,
-      "depth": 11.14,
-      "mag": 1.49,
-      "place": "20 km WSW of Ocotillo Wells, CA",
-      "time": 1782256071150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493904"
     },
     {
       "id": "aka2026mjhcar",
@@ -222,6 +222,16 @@
       "place": "12 km WSW of Stanton, Texas",
       "time": 1782249050268,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mheqcy"
+    },
+    {
+      "id": "ci41493800",
+      "lon": -118.3935,
+      "lat": 35.163,
+      "depth": -0.8,
+      "mag": 1.01,
+      "place": "6 km NE of Tehachapi, CA",
+      "time": 1782248734980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493800"
     },
     {
       "id": "ci41493776",
@@ -1584,6 +1594,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026miihno"
     },
     {
+      "id": "av94264123",
+      "lon": -154.9855,
+      "lat": 58.2978333333333,
+      "depth": 3.28,
+      "mag": -0.14,
+      "place": "87 km NNW of Karluk, Alaska",
+      "time": 1782209535770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94264123"
+    },
+    {
       "id": "ci41493216",
       "lon": -116.761833333333,
       "lat": 33.6521666666667,
@@ -1634,6 +1654,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493200"
     },
     {
+      "id": "av94264098",
+      "lon": -154.587333333333,
+      "lat": 58.4353333333333,
+      "depth": 2.75,
+      "mag": -0.15,
+      "place": "96 km N of Karluk, Alaska",
+      "time": 1782208773810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94264098"
+    },
+    {
       "id": "av94264093",
       "lon": -154.587666666667,
       "lat": 58.4335,
@@ -1672,6 +1702,16 @@
       "place": "5 km SE of Pinnacles, CA",
       "time": 1782208296280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382031"
+    },
+    {
+      "id": "av93062519",
+      "lon": -154.577833333333,
+      "lat": 58.4288333333333,
+      "depth": 4.51,
+      "mag": -0.27,
+      "place": "96 km N of Karluk, Alaska",
+      "time": 1782208083620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062519"
     },
     {
       "id": "nc75382026",
@@ -3382,26 +3422,6 @@
       "place": "4 km ESE of Cathcart, Washington",
       "time": 1782172278770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714030121"
-    },
-    {
-      "id": "uw714030111",
-      "lon": -122.045833333333,
-      "lat": 47.8375,
-      "depth": 20.54,
-      "mag": 1.46,
-      "place": "4 km ESE of Cathcart, Washington",
-      "time": 1782171873750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714030111"
-    },
-    {
-      "id": "ci41492928",
-      "lon": -116.087,
-      "lat": 33.7928333333333,
-      "depth": 2.56,
-      "mag": 0.86,
-      "place": "14 km NE of Indio, CA",
-      "time": 1782171791410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492928"
     }
   ]
 }
