@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T19:31:24Z",
-  "count": 316,
+  "updated": "2026-06-23T19:46:01Z",
+  "count": 318,
   "points": [
+    {
+      "id": "ci41493704",
+      "lon": -118.279167175293,
+      "lat": 36.1586685180664,
+      "depth": 7.57000017166138,
+      "mag": 2.06898037547054,
+      "place": "28 km WSW of Olancha, CA",
+      "time": 1782243731420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493704"
+    },
+    {
+      "id": "tx2026mhbtyc",
+      "lon": -98.477,
+      "lat": 28.67,
+      "depth": 12.7131,
+      "mag": 1.7,
+      "place": "13 km S of Christine, Texas",
+      "time": 1782243657872,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mhbtyc"
+    },
     {
       "id": "aka2026mizyud",
       "lon": -140.513,
@@ -102,6 +122,16 @@
       "place": "26 km SSW of Ivanof Bay, Alaska",
       "time": 1782240487140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mizkmi"
+    },
+    {
+      "id": "tx2026mgztwb",
+      "lon": -102.083,
+      "lat": 32.35,
+      "depth": 6.958,
+      "mag": 0.6,
+      "place": "37 km NW of Stanton, Texas",
+      "time": 1782240032819,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mgztwb"
     },
     {
       "id": "nc75382306",
@@ -235,12 +265,12 @@
     },
     {
       "id": "hv74989352",
-      "lon": -155.483169555664,
-      "lat": 19.2638339996338,
-      "depth": -1.00999999046326,
-      "mag": 2.52,
+      "lon": -155.468333333333,
+      "lat": 19.2625,
+      "depth": 7.59,
+      "mag": 2.04,
       "place": "6 km N of Pāhala, Hawaii",
-      "time": 1782234989710,
+      "time": 1782234990530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74989352"
     },
     {
@@ -3152,16 +3182,6 @@
       "place": "Kermadec Islands region",
       "time": 1782157571598,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7gf"
-    },
-    {
-      "id": "av94262648",
-      "lon": -166.636833333333,
-      "lat": 53.8978333333333,
-      "depth": 7.54,
-      "mag": -0.2,
-      "place": "6 km W of Dutch Harbor, Alaska",
-      "time": 1782157258650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94262648"
     }
   ]
 }
