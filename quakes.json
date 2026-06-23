@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T03:45:50Z",
-  "count": 298,
+  "updated": "2026-06-23T04:01:16Z",
+  "count": 301,
   "points": [
+    {
+      "id": "aka2026mhvneh",
+      "lon": -159.599,
+      "lat": 55.922,
+      "depth": 13.3,
+      "mag": 1,
+      "place": "7 km WNW of Ivanof Bay, Alaska",
+      "time": 1782186698521,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mhvneh"
+    },
+    {
+      "id": "nc75381871",
+      "lon": -122.85050201416,
+      "lat": 38.8175010681152,
+      "depth": 1.42999994754791,
+      "mag": 0.64,
+      "place": "9 km WNW of The Geysers, CA",
+      "time": 1782186400530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381871"
+    },
     {
       "id": "aka2026mhvdmo",
       "lon": -159.644,
@@ -794,6 +814,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381526"
     },
     {
+      "id": "av94262928",
+      "lon": -173.88,
+      "lat": 52.3013333333333,
+      "depth": 10.11,
+      "mag": 1.39,
+      "place": "24 km ENE of Atka, Alaska",
+      "time": 1782168080280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94262928"
+    },
+    {
       "id": "nc75381511",
       "lon": -122.823501586914,
       "lat": 38.824333190918,
@@ -882,6 +912,16 @@
       "place": "32 km SE of Mina, Nevada",
       "time": 1782164957382,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920617"
+    },
+    {
+      "id": "av94262848",
+      "lon": -166.621333333333,
+      "lat": 53.8948333333333,
+      "depth": 7.15,
+      "mag": -0.28,
+      "place": "5 km W of Dutch Harbor, Alaska",
+      "time": 1782164423080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94262848"
     },
     {
       "id": "nc75381451",
@@ -2972,16 +3012,6 @@
       "place": "56 km S of Puerto San José, Guatemala",
       "time": 1782100826850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv2p"
-    },
-    {
-      "id": "ci41492016",
-      "lon": -116.389,
-      "lat": 33.351,
-      "depth": 12.35,
-      "mag": 0.69,
-      "place": "11 km N of Borrego Springs, CA",
-      "time": 1782100148360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492016"
     }
   ]
 }
