@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T21:45:55Z",
-  "count": 335,
+  "updated": "2026-06-23T22:01:24Z",
+  "count": 334,
   "points": [
     {
       "id": "aka2026mjevoe",
@@ -125,12 +125,12 @@
     },
     {
       "id": "tx2026mhczhy",
-      "lon": -101.201,
+      "lon": -101.191,
       "lat": 32.502,
-      "depth": 3.9102,
+      "depth": 7.1045,
       "mag": 2.3,
       "place": "23 km NW of Westbrook, Texas",
-      "time": 1782246043115,
+      "time": 1782246043479,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mhczhy"
     },
     {
@@ -1775,12 +1775,12 @@
     },
     {
       "id": "ci41493136",
-      "lon": -115.557333333333,
-      "lat": 32.9645,
-      "depth": 9.13,
-      "mag": 1.15,
+      "lon": -115.555833333333,
+      "lat": 32.9655,
+      "depth": 10.82,
+      "mag": 1.05,
       "place": "3 km WSW of Brawley, CA",
-      "time": 1782199337340,
+      "time": 1782199337140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493136"
     },
     {
@@ -2252,6 +2252,26 @@
       "place": "13 km WSW of Stanton, Texas",
       "time": 1782185632018,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mfvsoq"
+    },
+    {
+      "id": "av94263428",
+      "lon": -173.917,
+      "lat": 52.3018333333333,
+      "depth": 14.98,
+      "mag": 1.46,
+      "place": "22 km ENE of Atka, Alaska",
+      "time": 1782185193450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94263428"
+    },
+    {
+      "id": "av93062494",
+      "lon": -173.946666666667,
+      "lat": 52.3103333333333,
+      "depth": 17.5,
+      "mag": 1.05,
+      "place": "21 km NE of Atka, Alaska",
+      "time": 1782184983010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062494"
     },
     {
       "id": "av94263418",
@@ -3322,36 +3342,6 @@
       "place": "11 km WNW of Cobb, CA",
       "time": 1782166169780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381491"
-    },
-    {
-      "id": "nc75381481",
-      "lon": -122.805335998535,
-      "lat": 38.803165435791,
-      "depth": 1.54999995231628,
-      "mag": 1.05,
-      "place": "5 km NW of The Geysers, CA",
-      "time": 1782165421800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381481"
-    },
-    {
-      "id": "aka2026mhjrni",
-      "lon": -154.462,
-      "lat": 57.853,
-      "depth": 56.2,
-      "mag": 1.5,
-      "place": "31 km N of Karluk, Alaska",
-      "time": 1782165409569,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mhjrni"
-    },
-    {
-      "id": "nn00920617",
-      "lon": -117.8775,
-      "lat": 38.1589,
-      "depth": 7.2309,
-      "mag": 2.03,
-      "place": "32 km SE of Mina, Nevada",
-      "time": 1782164957382,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920617"
     }
   ]
 }
