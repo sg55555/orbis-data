@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T21:31:14Z",
-  "count": 333,
+  "updated": "2026-06-23T21:45:55Z",
+  "count": 335,
   "points": [
     {
+      "id": "aka2026mjevoe",
+      "lon": -151.514,
+      "lat": 63.07,
+      "depth": 5,
+      "mag": 1.7,
+      "place": "53 km S of Denali National Park, Alaska",
+      "time": 1782250250114,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mjevoe"
+    },
+    {
       "id": "tx2026mhfhyv",
-      "lon": -101.919,
-      "lat": 32.098,
-      "depth": 3.6751,
-      "mag": 1.2,
-      "place": "12 km WSW of Stanton, Texas",
-      "time": 1782250063509,
+      "lon": -101.912,
+      "lat": 32.104,
+      "depth": 1.7191,
+      "mag": 1,
+      "place": "11 km WSW of Stanton, Texas",
+      "time": 1782250064180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mhfhyv"
     },
     {
@@ -35,12 +45,12 @@
     },
     {
       "id": "tx2026mheqcy",
-      "lon": -101.922,
+      "lon": -101.92,
       "lat": 32.107,
-      "depth": 8.2275,
+      "depth": 8.667,
       "mag": 3.1,
-      "place": "12 km W of Stanton, Texas",
-      "time": 1782249050289,
+      "place": "12 km WSW of Stanton, Texas",
+      "time": 1782249050268,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mheqcy"
     },
     {
@@ -125,12 +135,12 @@
     },
     {
       "id": "ci41493720",
-      "lon": -116.0325,
-      "lat": 32.7101666666667,
-      "depth": 11.3,
+      "lon": -116.034,
+      "lat": 32.709,
+      "depth": 11.33,
       "mag": 1.95,
       "place": "5 km SW of Ocotillo, CA",
-      "time": 1782245416690,
+      "time": 1782245416680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493720"
     },
     {
@@ -2244,6 +2254,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mfvsoq"
     },
     {
+      "id": "av94263418",
+      "lon": -173.915,
+      "lat": 52.298,
+      "depth": 13.29,
+      "mag": 1.57,
+      "place": "22 km ENE of Atka, Alaska",
+      "time": 1782184735430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94263418"
+    },
+    {
       "id": "nc75381856",
       "lon": -122.96183013916,
       "lat": 38.8271675109863,
@@ -2402,6 +2422,16 @@
       "place": "10 km ESE of Midland, Texas",
       "time": 1782180356241,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mfsunj"
+    },
+    {
+      "id": "av94263258",
+      "lon": -153.052666666667,
+      "lat": 60.0503333333333,
+      "depth": 0.47,
+      "mag": -0.64,
+      "place": "65 km ENE of Pedro Bay, Alaska",
+      "time": 1782180328400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94263258"
     },
     {
       "id": "us6000t7it",
@@ -3322,16 +3352,6 @@
       "place": "32 km SE of Mina, Nevada",
       "time": 1782164957382,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920617"
-    },
-    {
-      "id": "av94262848",
-      "lon": -166.621333333333,
-      "lat": 53.8948333333333,
-      "depth": 7.15,
-      "mag": -0.28,
-      "place": "5 km W of Dutch Harbor, Alaska",
-      "time": 1782164423080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94262848"
     }
   ]
 }
