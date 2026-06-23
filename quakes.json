@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T19:16:05Z",
-  "count": 319,
+  "updated": "2026-06-23T19:31:24Z",
+  "count": 316,
   "points": [
+    {
+      "id": "aka2026mizyud",
+      "lon": -140.513,
+      "lat": 66.629,
+      "depth": 9.5,
+      "mag": 2.2,
+      "place": "142 km E of Chalkyitsik, Alaska",
+      "time": 1782241555464,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mizyud"
+    },
     {
       "id": "ci41493664",
       "lon": -116.447,
@@ -25,12 +35,12 @@
     },
     {
       "id": "hv74989377",
-      "lon": -155.07666015625,
-      "lat": 19.3636665344238,
-      "depth": 2.22000002861023,
-      "mag": 3.5,
-      "place": "12 km SSE of Fern Forest, Hawaii",
-      "time": 1782241253500,
+      "lon": -155.0795,
+      "lat": 19.3538333333333,
+      "depth": 6.38,
+      "mag": 3.21,
+      "place": "13 km SSE of Fern Forest, Hawaii",
+      "time": 1782241253660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74989377"
     },
     {
@@ -2095,12 +2105,12 @@
     },
     {
       "id": "ci41493016",
-      "lon": -117.479666666667,
-      "lat": 35.6735,
-      "depth": 7.41,
-      "mag": 1.92259707982395,
-      "place": "12 km SSW of Searles Valley, CA",
-      "time": 1782179152750,
+      "lon": -117.48,
+      "lat": 35.6725,
+      "depth": 7.6,
+      "mag": 2.06,
+      "place": "13 km SSW of Searles Valley, CA",
+      "time": 1782179152700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493016"
     },
     {
@@ -3152,46 +3162,6 @@
       "place": "6 km W of Dutch Harbor, Alaska",
       "time": 1782157258650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94262648"
-    },
-    {
-      "id": "av94262633",
-      "lon": -152.358,
-      "lat": 61.267,
-      "depth": -0.03,
-      "mag": -0.44,
-      "place": "69 km WNW of Tyonek, Alaska",
-      "time": 1782156658550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94262633"
-    },
-    {
-      "id": "ci41492680",
-      "lon": -117.937833333333,
-      "lat": 34.167,
-      "depth": -1.17,
-      "mag": 1.28,
-      "place": "4 km NE of Bradbury, CA",
-      "time": 1782156397560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492680"
-    },
-    {
-      "id": "pr71520933",
-      "lon": -66.843,
-      "lat": 19.0288333333333,
-      "depth": 20.28,
-      "mag": 3.24,
-      "place": "60 km N of Hatillo, Puerto Rico",
-      "time": 1782156057650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71520933"
-    },
-    {
-      "id": "ci41492664",
-      "lon": -118.189166666667,
-      "lat": 34.9853333333333,
-      "depth": 0.62,
-      "mag": 1.06,
-      "place": "8 km S of Mojave, CA",
-      "time": 1782155811560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492664"
     }
   ]
 }
