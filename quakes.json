@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T12:01:28Z",
-  "count": 289,
+  "updated": "2026-06-23T12:15:59Z",
+  "count": 287,
   "points": [
+    {
+      "id": "hv74989242",
+      "lon": -155.491836547852,
+      "lat": 19.1498336791992,
+      "depth": 29.6000003814697,
+      "mag": 1.97,
+      "place": "6 km SSW of Pāhala, Hawaii",
+      "time": 1782216194800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74989242"
+    },
     {
       "id": "nc75382076",
       "lon": -123.985336303711,
@@ -92,6 +102,16 @@
       "place": "20 km SE of Chickaloon, Alaska",
       "time": 1782213205747,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mikgft"
+    },
+    {
+      "id": "tx2026mgkdoe",
+      "lon": -101.928,
+      "lat": 32.101,
+      "depth": 9.4482,
+      "mag": 0.8,
+      "place": "13 km WSW of Stanton, Texas",
+      "time": 1782211742549,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mgkdoe"
     },
     {
       "id": "nc75382041",
@@ -1302,6 +1322,16 @@
       "place": "11 km WNW of Cobb, CA",
       "time": 1782175830190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381596"
+    },
+    {
+      "id": "tx2026mfqftr",
+      "lon": -101.926,
+      "lat": 32.099,
+      "depth": 7.8857,
+      "mag": 0.6,
+      "place": "13 km WSW of Stanton, Texas",
+      "time": 1782175690605,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mfqftr"
     },
     {
       "id": "ci41492984",
@@ -2842,56 +2872,6 @@
       "place": "16 km N of Borrego Springs, CA",
       "time": 1782131253630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492208"
-    },
-    {
-      "id": "nc75381216",
-      "lon": -122.787170410156,
-      "lat": 38.8126678466797,
-      "depth": 3.01999998092651,
-      "mag": 0.65,
-      "place": "5 km NW of The Geysers, CA",
-      "time": 1782130307150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381216"
-    },
-    {
-      "id": "tx2026meqyvm",
-      "lon": -102.034,
-      "lat": 32.427,
-      "depth": 8.2275,
-      "mag": 1.7,
-      "place": "31 km WSW of Ackerly, Texas",
-      "time": 1782129952515,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026meqyvm"
-    },
-    {
-      "id": "aka2026mgpyjf",
-      "lon": -152.677,
-      "lat": 63.53,
-      "depth": 3.6,
-      "mag": 1.9,
-      "place": "43 km SSW of Lake Minchumina, Alaska",
-      "time": 1782129944846,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mgpyjf"
-    },
-    {
-      "id": "av94261963",
-      "lon": -165.970333333333,
-      "lat": 54.1253333333333,
-      "depth": 5.17,
-      "mag": -0.23,
-      "place": "12 km W of Akutan, Alaska",
-      "time": 1782129836470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94261963"
-    },
-    {
-      "id": "uu80143036",
-      "lon": -111.016666666667,
-      "lat": 44.8285,
-      "depth": 8.31,
-      "mag": 0.69,
-      "place": "15 km ENE of Hebgen Lake Estates, Montana",
-      "time": 1782129689590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143036"
     }
   ]
 }
