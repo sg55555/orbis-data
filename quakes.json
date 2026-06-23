@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T16:16:07Z",
+  "updated": "2026-06-23T16:31:18Z",
   "count": 311,
   "points": [
+    {
+      "id": "nc75382231",
+      "lon": -122.854331970215,
+      "lat": 38.8273315429688,
+      "depth": 2.23000001907349,
+      "mag": 0.76,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": 1782231820740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382231"
+    },
+    {
+      "id": "tx2026mgvdyd",
+      "lon": -102.148,
+      "lat": 32.318,
+      "depth": 4.1616,
+      "mag": 1.3,
+      "place": "35 km E of McKinney Acres, Texas",
+      "time": 1782231682439,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mgvdyd"
+    },
     {
       "id": "hv74989327",
       "lon": -155.48583984375,
@@ -92,6 +112,16 @@
       "place": "3 km WNW of Wickett, Texas",
       "time": 1782227562164,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mgswtq"
+    },
+    {
+      "id": "aka2026mirxwc",
+      "lon": 176.292,
+      "lat": 51.974,
+      "depth": 70.4,
+      "mag": 3.4,
+      "place": "232 km ESE of Attu Station, Alaska",
+      "time": 1782227002444,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mirxwc"
     },
     {
       "id": "ci41493384",
@@ -495,12 +525,12 @@
     },
     {
       "id": "tx2026mgmfsh",
-      "lon": -104.452,
-      "lat": 31.637,
-      "depth": 4.0294,
+      "lon": -104.44,
+      "lat": 31.64,
+      "depth": 6.0486,
       "mag": 1.5,
-      "place": "60 km S of Whites City, New Mexico",
-      "time": 1782215512461,
+      "place": "59 km S of Whites City, New Mexico",
+      "time": 1782215511929,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mgmfsh"
     },
     {
@@ -3082,36 +3112,6 @@
       "place": "26 km N of Pāhala, Hawaii",
       "time": 1782145938770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74988637"
-    },
-    {
-      "id": "nm60505788",
-      "lon": -91.6548333333333,
-      "lat": 35.4328333333333,
-      "depth": 2.04,
-      "mag": 2.27,
-      "place": "13 km SSW of Pleasant Plains, Arkansas",
-      "time": 1782145460410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60505788"
-    },
-    {
-      "id": "ci41492432",
-      "lon": -116.412833333333,
-      "lat": 33.0321666666667,
-      "depth": 8.38,
-      "mag": 0.5,
-      "place": "18 km ESE of Julian, CA",
-      "time": 1782145257470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492432"
-    },
-    {
-      "id": "hv74988627",
-      "lon": -155.836833333333,
-      "lat": 19.2633333333333,
-      "depth": 5.83,
-      "mag": 3.83,
-      "place": "21 km S of Honaunau-Napoopoo, Hawaii",
-      "time": 1782145238900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74988627"
     }
   ]
 }
