@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T03:15:54Z",
-  "count": 298,
+  "updated": "2026-06-23T03:31:06Z",
+  "count": 296,
   "points": [
+    {
+      "id": "nc75381856",
+      "lon": -122.96183013916,
+      "lat": 38.8271675109863,
+      "depth": 2.59999990463257,
+      "mag": 1.53,
+      "place": "5 km ENE of Cloverdale, CA",
+      "time": 1782184643550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381856"
+    },
     {
       "id": "ci41493072",
       "lon": -116.4635,
@@ -1122,6 +1132,16 @@
       "place": "3 km WSW of Imperial, CA",
       "time": 1782152447130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492584"
+    },
+    {
+      "id": "av94262558",
+      "lon": -166.641333333333,
+      "lat": 53.8968333333333,
+      "depth": 7.56,
+      "mag": -0.22,
+      "place": "6 km W of Dutch Harbor, Alaska",
+      "time": 1782152414050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94262558"
     },
     {
       "id": "av93062474",
@@ -2795,12 +2815,12 @@
     },
     {
       "id": "hv74988307",
-      "lon": -155.196502685547,
-      "lat": 19.3239994049072,
-      "depth": 4.38000011444092,
-      "mag": 2.08,
+      "lon": -155.1935,
+      "lat": 19.3266666666667,
+      "depth": 5.05,
+      "mag": 1.89,
       "place": "13 km SSE of Volcano, Hawaii",
-      "time": 1782103530800,
+      "time": 1782103530780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74988307"
     },
     {
@@ -2942,46 +2962,6 @@
       "place": "65 km SSW of Lithakiá, Greece",
       "time": 1782099020849,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv2i"
-    },
-    {
-      "id": "aka2026mfytqj",
-      "lon": -151.207,
-      "lat": 63.445,
-      "depth": 5,
-      "mag": 2.6,
-      "place": "27 km ESE of Denali National Park, Alaska",
-      "time": 1782098976188,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mfytqj"
-    },
-    {
-      "id": "aka2026mfynfh",
-      "lon": -148.381,
-      "lat": 60.438,
-      "depth": 5,
-      "mag": 1.3,
-      "place": "41 km SSE of Whittier, Alaska",
-      "time": 1782098541215,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mfynfh"
-    },
-    {
-      "id": "av94261143",
-      "lon": -166.483333333333,
-      "lat": 53.8338333333333,
-      "depth": 1.27,
-      "mag": 1.11,
-      "place": "5 km SE of Unalaska, Alaska",
-      "time": 1782098432270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94261143"
-    },
-    {
-      "id": "nc75381101",
-      "lon": -122.025329589844,
-      "lat": 36.6996650695801,
-      "depth": 4.26999998092651,
-      "mag": 1.53,
-      "place": "13 km NW of Pacific Grove, CA",
-      "time": 1782098351370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381101"
     }
   ]
 }
