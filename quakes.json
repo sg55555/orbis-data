@@ -1,17 +1,77 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T07:15:54Z",
-  "count": 292,
+  "updated": "2026-06-23T07:31:10Z",
+  "count": 296,
   "points": [
     {
+      "id": "ci41493136",
+      "lon": -115.557333333333,
+      "lat": 32.9645,
+      "depth": 9.13,
+      "mag": 1.15,
+      "place": "3 km WSW of Brawley, CA",
+      "time": 1782199337340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493136"
+    },
+    {
+      "id": "nc75381961",
+      "lon": -122.783332824707,
+      "lat": 38.8388328552246,
+      "depth": 1.94000005722046,
+      "mag": 0.69,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1782199249400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381961"
+    },
+    {
+      "id": "ci41493128",
+      "lon": -116.568666666667,
+      "lat": 33.1665,
+      "depth": 15.61,
+      "mag": 1.28,
+      "place": "10 km NNE of Julian, CA",
+      "time": 1782198869070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493128"
+    },
+    {
+      "id": "nc75381956",
+      "lon": -122.752502441406,
+      "lat": 38.7938346862793,
+      "depth": 1.35000002384186,
+      "mag": 0.4,
+      "place": "2 km N of The Geysers, CA",
+      "time": 1782198857330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381956"
+    },
+    {
+      "id": "tx2026mgczwl",
+      "lon": -101.927,
+      "lat": 32.102,
+      "depth": 4.0337,
+      "mag": 1.3,
+      "place": "13 km WSW of Stanton, Texas",
+      "time": 1782198813434,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mgczwl"
+    },
+    {
       "id": "ci41493120",
-      "lon": -117.818336486816,
-      "lat": 35.3116683959961,
-      "depth": 9.5,
-      "mag": 1.58147538225273,
+      "lon": -117.818666666667,
+      "lat": 35.3141666666667,
+      "depth": 7.95,
+      "mag": 1.43,
       "place": "18 km WSW of Johannesburg, CA",
-      "time": 1782198742180,
+      "time": 1782198742170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493120"
+    },
+    {
+      "id": "us6000t7k4",
+      "lon": -172.1796,
+      "lat": -16.1772,
+      "depth": 10,
+      "mag": 5,
+      "place": "174 km E of Hihifo, Tonga",
+      "time": 1782198674440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7k4"
     },
     {
       "id": "tx2026mgcxmu",
@@ -275,12 +335,12 @@
     },
     {
       "id": "tx2026mfvsoq",
-      "lon": -101.923,
-      "lat": 32.099,
-      "depth": 4.199,
+      "lon": -101.926,
+      "lat": 32.105,
+      "depth": 8.9111,
       "mag": 1.3,
       "place": "13 km WSW of Stanton, Texas",
-      "time": 1782185631562,
+      "time": 1782185632018,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mfvsoq"
     },
     {
@@ -2902,26 +2962,6 @@
       "place": "15 km SE of Coahoma, Texas",
       "time": 1782114052966,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026meienq"
-    },
-    {
-      "id": "pr71520858",
-      "lon": -65.292,
-      "lat": 18.8856666666667,
-      "depth": 23.69,
-      "mag": 3.25,
-      "place": "64 km N of Culebra, Puerto Rico",
-      "time": 1782113127360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71520858"
-    },
-    {
-      "id": "hv74988442",
-      "lon": -155.682,
-      "lat": 19.4505,
-      "depth": 17.17,
-      "mag": 2.48,
-      "place": "19 km E of Honaunau-Napoopoo, Hawaii",
-      "time": 1782112617650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74988442"
     }
   ]
 }
