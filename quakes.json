@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T06:15:54Z",
-  "count": 295,
+  "updated": "2026-06-23T06:31:07Z",
+  "count": 293,
   "points": [
     {
       "id": "aka2026mhzvmg",
@@ -102,6 +102,16 @@
       "place": "11 km WNW of Cobb, CA",
       "time": 1782189326670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381896"
+    },
+    {
+      "id": "nc75381911",
+      "lon": -119.313666666667,
+      "lat": 37.0713333333333,
+      "depth": 39.29,
+      "mag": 2.22,
+      "place": "3 km S of Shaver Lake, CA",
+      "time": 1782189303450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381911"
     },
     {
       "id": "ci41493088",
@@ -952,6 +962,16 @@
       "place": "14 km S of Anza, CA",
       "time": 1782170400840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492920"
+    },
+    {
+      "id": "nc75381546",
+      "lon": -122.665,
+      "lat": 38.5365,
+      "depth": 5.46,
+      "mag": 1.1,
+      "place": "8 km ENE of Larkfield-Wikiup, CA",
+      "time": 1782169840720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381546"
     },
     {
       "id": "ci41492904",
@@ -2912,46 +2932,6 @@
       "place": "75 km ESE of Lime Village, Alaska",
       "time": 1782109923782,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mgevsk"
-    },
-    {
-      "id": "hv74988402",
-      "lon": -155.497497558594,
-      "lat": 19.1165008544922,
-      "depth": 30.6900005340576,
-      "mag": 1.8,
-      "place": "9 km SSW of Pāhala, Hawaii",
-      "time": 1782109707250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74988402"
-    },
-    {
-      "id": "ci41492096",
-      "lon": -117.391666666667,
-      "lat": 35.9541666666667,
-      "depth": 2.46,
-      "mag": 0.8,
-      "place": "21 km N of Searles Valley, CA",
-      "time": 1782109669340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492096"
-    },
-    {
-      "id": "ci41492088",
-      "lon": -117.3885,
-      "lat": 35.953,
-      "depth": 3.17,
-      "mag": 1.31,
-      "place": "21 km N of Searles Valley, CA",
-      "time": 1782109460230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492088"
-    },
-    {
-      "id": "ci41492080",
-      "lon": -117.205,
-      "lat": 34.0123333333333,
-      "depth": 4.59,
-      "mag": 0.91,
-      "place": "5 km SSW of Redlands, CA",
-      "time": 1782109199830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492080"
     }
   ]
 }
