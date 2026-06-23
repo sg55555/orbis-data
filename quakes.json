@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T02:15:49Z",
-  "count": 296,
+  "updated": "2026-06-23T02:31:07Z",
+  "count": 294,
   "points": [
+    {
+      "id": "hv74988957",
+      "lon": -155.382171630859,
+      "lat": 19.021333694458,
+      "depth": 31.6299991607666,
+      "mag": 1.71,
+      "place": "21 km ESE of Naalehu, Hawaii",
+      "time": 1782180882900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74988957"
+    },
     {
       "id": "ci41493032",
       "lon": -116.925333333333,
@@ -1054,6 +1064,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94262493"
     },
     {
+      "id": "av93062469",
+      "lon": -168.206333333333,
+      "lat": 53.366,
+      "depth": 6.78,
+      "mag": -0.04,
+      "place": "64 km NE of Nikolski, Alaska",
+      "time": 1782149895600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062469"
+    },
+    {
+      "id": "av94262483",
+      "lon": -166.640666666667,
+      "lat": 53.898,
+      "depth": 7.73,
+      "mag": -0.66,
+      "place": "6 km W of Dutch Harbor, Alaska",
+      "time": 1782149883050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94262483"
+    },
+    {
       "id": "nc75381351",
       "lon": -122.824668884277,
       "lat": 38.832332611084,
@@ -1072,6 +1102,16 @@
       "place": "17 km S of Volcano, Hawaii",
       "time": 1782149623270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74988682"
+    },
+    {
+      "id": "av94262463",
+      "lon": -166.667833333333,
+      "lat": 53.9018333333333,
+      "depth": 8.08,
+      "mag": -0.45,
+      "place": "8 km W of Dutch Harbor, Alaska",
+      "time": 1782149549280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94262463"
     },
     {
       "id": "av94262458",
@@ -2902,66 +2942,6 @@
       "place": "78 km NW of Aleneva, Alaska",
       "time": 1782095488582,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mfwusw"
-    },
-    {
-      "id": "ci41491952",
-      "lon": -117.513833333333,
-      "lat": 33.7406666666667,
-      "depth": 11.76,
-      "mag": 0.9,
-      "place": "11 km NE of Trabuco Canyon, CA",
-      "time": 1782095414880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491952"
-    },
-    {
-      "id": "aka2026mfwsiy",
-      "lon": -153.236,
-      "lat": 59.34,
-      "depth": 85.3,
-      "mag": 1.9,
-      "place": "70 km SE of Pedro Bay, Alaska",
-      "time": 1782095299528,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mfwsiy"
-    },
-    {
-      "id": "hv74988177",
-      "lon": -155.497329711914,
-      "lat": 19.1721668243408,
-      "depth": 30.9099998474121,
-      "mag": 1.77,
-      "place": "3 km SSW of Pāhala, Hawaii",
-      "time": 1782095188370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74988177"
-    },
-    {
-      "id": "nc75381046",
-      "lon": -122.844665527344,
-      "lat": 38.8250007629395,
-      "depth": 1.83000004291534,
-      "mag": 0.64,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1782095031410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381046"
-    },
-    {
-      "id": "nc75381041",
-      "lon": -122.793998718262,
-      "lat": 38.8558349609375,
-      "depth": 10.8699998855591,
-      "mag": 0.65,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1782094848790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381041"
-    },
-    {
-      "id": "us7000sv26",
-      "lon": 125.1231,
-      "lat": 5.6324,
-      "depth": 10.006,
-      "mag": 4.8,
-      "place": "17 km WSW of Burias, Philippines",
-      "time": 1782094667977,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv26"
     }
   ]
 }
