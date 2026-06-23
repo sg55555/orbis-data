@@ -1,6 +1,6 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T16:36:37Z",
+  "updated": "2026-06-23T16:46:03Z",
   "count": 310,
   "points": [
     {
@@ -1214,13 +1214,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74989057"
     },
     {
+      "id": "uu80007543",
+      "lon": -112.3385,
+      "lat": 38.148,
+      "depth": 1.84,
+      "mag": 1.05,
+      "place": "6 km WSW of Circleville, Utah",
+      "time": 1782191002520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007543"
+    },
+    {
       "id": "uu80143076",
-      "lon": -112.328833333333,
-      "lat": 38.1638333333333,
-      "depth": 1.49,
+      "lon": -112.329,
+      "lat": 38.1636666666667,
+      "depth": 1.84,
       "mag": 1.9,
       "place": "5 km W of Circleville, Utah",
-      "time": 1782190916120,
+      "time": 1782190916180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143076"
     },
     {
@@ -3092,16 +3102,6 @@
       "place": "18 km NNW of Toyah, Texas",
       "time": 1782146893257,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mfahyo"
-    },
-    {
-      "id": "ci41492448",
-      "lon": -117.398666666667,
-      "lat": 36.0278333333333,
-      "depth": 5.75,
-      "mag": 1.08,
-      "place": "29 km N of Searles Valley, CA",
-      "time": 1782146318120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492448"
     }
   ]
 }
