@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T09:15:54Z",
-  "count": 296,
+  "updated": "2026-06-23T09:31:11Z",
+  "count": 295,
   "points": [
+    {
+      "id": "aka2026migjuy",
+      "lon": -156.745,
+      "lat": 57.303,
+      "depth": 5,
+      "mag": 1.2,
+      "place": "45 km ESE of Ugashik, Alaska",
+      "time": 1782206257206,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026migjuy"
+    },
     {
       "id": "nc75381996",
       "lon": -122.80916595459,
@@ -595,12 +605,12 @@
     },
     {
       "id": "tx2026mfugoa",
-      "lon": -104.306,
-      "lat": 31.692,
-      "depth": 6.6797,
+      "lon": -104.309,
+      "lat": 31.69,
+      "depth": 7.4329,
       "mag": 1.5,
       "place": "54 km S of Whites City, New Mexico",
-      "time": 1782182985982,
+      "time": 1782182986302,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mfugoa"
     },
     {
@@ -2942,26 +2952,6 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1782120808220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381166"
-    },
-    {
-      "id": "aka2026mgkuvb",
-      "lon": -152.999,
-      "lat": 60.446,
-      "depth": 5,
-      "mag": 0.9,
-      "place": "77 km ENE of Port Alsworth, Alaska",
-      "time": 1782120657889,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mgkuvb"
-    },
-    {
-      "id": "tx2026melrba",
-      "lon": -102.059,
-      "lat": 32.354,
-      "depth": 7.3486,
-      "mag": 0.9,
-      "place": "35 km NW of Stanton, Texas",
-      "time": 1782120360274,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026melrba"
     }
   ]
 }
