@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T14:45:53Z",
-  "count": 301,
+  "updated": "2026-06-23T15:01:31Z",
+  "count": 300,
   "points": [
+    {
+      "id": "nc75382181",
+      "lon": -122.848335266113,
+      "lat": 38.8455009460449,
+      "depth": 1.19000005722046,
+      "mag": 1.07,
+      "place": "11 km NW of The Geysers, CA",
+      "time": 1782226086160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382181"
+    },
     {
       "id": "nc75382176",
       "lon": -122.79467010498,
@@ -442,6 +452,16 @@
       "place": "20 km SE of Chickaloon, Alaska",
       "time": 1782213205747,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mikgft"
+    },
+    {
+      "id": "us6000t7kj",
+      "lon": 27.4993,
+      "lat": 37.8888,
+      "depth": 10,
+      "mag": 4.2,
+      "place": "9 km WNW of Germencik, Turkey",
+      "time": 1782212676971,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7kj"
     },
     {
       "id": "tx2026mgkdoe",
@@ -2604,6 +2624,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94262493"
     },
     {
+      "id": "tx2026mfcdtd",
+      "lon": -101.189,
+      "lat": 32.185,
+      "depth": 5.4932,
+      "mag": 1.4,
+      "place": "16 km SE of Coahoma, Texas",
+      "time": 1782150207635,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mfcdtd"
+    },
+    {
       "id": "av94262488",
       "lon": -169.9285,
       "lat": 52.814,
@@ -2972,46 +3002,6 @@
       "place": "20 km NW of Karluk, Alaska",
       "time": 1782140710984,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mgvypt"
-    },
-    {
-      "id": "nc75381266",
-      "lon": -124.974666666667,
-      "lat": 40.3506666666667,
-      "depth": 13.35,
-      "mag": 2.52,
-      "place": "59 km W of Petrolia, CA",
-      "time": 1782140260090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381266"
-    },
-    {
-      "id": "aka2026mgvqjc",
-      "lon": -168.12,
-      "lat": 54.103,
-      "depth": 12.3,
-      "mag": 1.8,
-      "place": "106 km WNW of Dutch Harbor, Alaska",
-      "time": 1782140133754,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mgvqjc"
-    },
-    {
-      "id": "us7000sv7j",
-      "lon": -178.6369,
-      "lat": -21.1772,
-      "depth": 531.757,
-      "mag": 4.8,
-      "place": "Fiji region",
-      "time": 1782139868059,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv7j"
-    },
-    {
-      "id": "nc75381256",
-      "lon": -122.81566619873,
-      "lat": 38.8300018310547,
-      "depth": 1.75,
-      "mag": 0.76,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1782139524600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381256"
     }
   ]
 }
