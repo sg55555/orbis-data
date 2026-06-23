@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T22:40:13Z",
-  "count": 334,
+  "updated": "2026-06-23T22:45:57Z",
+  "count": 330,
   "points": [
+    {
+      "id": "aka2026mjhcar",
+      "lon": -146.488,
+      "lat": 61.741,
+      "depth": 50.3,
+      "mag": 1.7,
+      "place": "31 km SSE of Nelchina, Alaska",
+      "time": 1782254296594,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mjhcar"
+    },
     {
       "id": "hv74989522",
       "lon": -155.355667114258,
@@ -312,16 +322,6 @@
       "place": "28 km WSW of Olancha, CA",
       "time": 1782243731460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493704"
-    },
-    {
-      "id": "tx2026mhbtyc",
-      "lon": -98.477,
-      "lat": 28.67,
-      "depth": 12.7131,
-      "mag": 1.7,
-      "place": "13 km S of Christine, Texas",
-      "time": 1782243657872,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mhbtyc"
     },
     {
       "id": "mb90146043",
@@ -2014,16 +2014,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143086"
     },
     {
-      "id": "av94263653",
-      "lon": -158.3925,
-      "lat": 56.8648333333333,
-      "depth": 9.89,
-      "mag": 0.17,
-      "place": "62 km N of Chignik Lagoon, Alaska",
-      "time": 1782193520240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94263653"
-    },
-    {
       "id": "av94263648",
       "lon": -158.161166666667,
       "lat": 56.8726666666667,
@@ -3312,36 +3302,6 @@
       "place": "22 km ENE of Ashford, Washington",
       "time": 1782168778650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714030061"
-    },
-    {
-      "id": "nc75381531",
-      "lon": -122.791000366211,
-      "lat": 38.8354988098145,
-      "depth": 2.16000008583069,
-      "mag": 1.04,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1782168287020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381531"
-    },
-    {
-      "id": "nc75381526",
-      "lon": -120.824836730957,
-      "lat": 35.5299987792969,
-      "depth": 5.51999998092651,
-      "mag": 1.85,
-      "place": "11 km WSW of Templeton, CA",
-      "time": 1782168272820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381526"
-    },
-    {
-      "id": "av94262928",
-      "lon": -173.88,
-      "lat": 52.3013333333333,
-      "depth": 10.11,
-      "mag": 1.39,
-      "place": "24 km ENE of Atka, Alaska",
-      "time": 1782168080280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94262928"
     }
   ]
 }
