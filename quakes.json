@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T16:31:18Z",
-  "count": 311,
+  "updated": "2026-06-23T16:36:37Z",
+  "count": 310,
   "points": [
+    {
+      "id": "nc75382236",
+      "lon": -122.877830505371,
+      "lat": 38.8411674499512,
+      "depth": 2.50999999046326,
+      "mag": 0.98,
+      "place": "13 km NW of The Geysers, CA",
+      "time": 1782232395710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382236"
+    },
     {
       "id": "nc75382231",
       "lon": -122.854331970215,
@@ -375,12 +385,12 @@
     },
     {
       "id": "tx2026mgpeap",
-      "lon": -101.186,
-      "lat": 32.496,
-      "depth": 2.4917,
-      "mag": 1.7,
-      "place": "22 km NW of Westbrook, Texas",
-      "time": 1782220823768,
+      "lon": -101.191,
+      "lat": 32.506,
+      "depth": 4.3701,
+      "mag": 1.8,
+      "place": "23 km NW of Westbrook, Texas",
+      "time": 1782220823921,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mgpeap"
     },
     {
@@ -3092,26 +3102,6 @@
       "place": "29 km N of Searles Valley, CA",
       "time": 1782146318120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492448"
-    },
-    {
-      "id": "nc75381316",
-      "lon": -121.317832946777,
-      "lat": 36.6588325500488,
-      "depth": 5.03999996185303,
-      "mag": 2.08,
-      "place": "15 km S of Tres Pinos, CA",
-      "time": 1782145962120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381316"
-    },
-    {
-      "id": "hv74988637",
-      "lon": -155.5125,
-      "lat": 19.4421666666667,
-      "depth": 11.22,
-      "mag": 1.23,
-      "place": "26 km N of Pāhala, Hawaii",
-      "time": 1782145938770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74988637"
     }
   ]
 }
