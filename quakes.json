@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T10:19:02Z",
-  "count": 297,
+  "updated": "2026-06-23T10:31:10Z",
+  "count": 296,
   "points": [
+    {
+      "id": "ci41493224",
+      "lon": -117.432833333333,
+      "lat": 35.6706666666667,
+      "depth": 6.08,
+      "mag": 0.62,
+      "place": "11 km SSW of Searles Valley, CA",
+      "time": 1782209939660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493224"
+    },
     {
       "id": "ci41493216",
       "lon": -116.761833333333,
@@ -1222,6 +1232,16 @@
       "place": "7 km E of Cabazon, CA",
       "time": 1782175000260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492968"
+    },
+    {
+      "id": "tx2026mfpurn",
+      "lon": -102.08,
+      "lat": 32.349,
+      "depth": 7.0801,
+      "mag": 1,
+      "place": "36 km NW of Stanton, Texas",
+      "time": 1782174917391,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mfpurn"
     },
     {
       "id": "us6000t7id",
@@ -2942,36 +2962,6 @@
       "place": "6 km NNE of Lake Henshaw, CA",
       "time": 1782124261550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492184"
-    },
-    {
-      "id": "uu80007483",
-      "lon": -112.062,
-      "lat": 40.735,
-      "depth": 9.76,
-      "mag": 0.21,
-      "place": "4 km NE of Magna, Utah",
-      "time": 1782124180280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007483"
-    },
-    {
-      "id": "us7000sv6e",
-      "lon": 70.733,
-      "lat": 36.4903,
-      "depth": 207.008,
-      "mag": 5.2,
-      "place": "42 km SSW of Jurm, Afghanistan",
-      "time": 1782123743506,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv6e"
-    },
-    {
-      "id": "ci41492176",
-      "lon": -117.899333333333,
-      "lat": 36.1028333333333,
-      "depth": 5.72,
-      "mag": 0.5,
-      "place": "8 km NE of Coso Junction, CA",
-      "time": 1782123724070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492176"
     }
   ]
 }
