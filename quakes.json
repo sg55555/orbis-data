@@ -1,17 +1,37 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T22:20:57Z",
-  "count": 337,
+  "updated": "2026-06-23T22:40:13Z",
+  "count": 334,
   "points": [
     {
-      "id": "tx2026mhgwiy",
-      "lon": -98.367,
-      "lat": 28.615,
-      "depth": 2.9735,
-      "mag": 1.5,
-      "place": "23 km SSE of Christine, Texas",
-      "time": 1782252878186,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mhgwiy"
+      "id": "hv74989522",
+      "lon": -155.355667114258,
+      "lat": 19.1608333587646,
+      "depth": 29.1499996185303,
+      "mag": 1.93,
+      "place": "13 km ESE of Pāhala, Hawaii",
+      "time": 1782253948910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74989522"
+    },
+    {
+      "id": "nc75382471",
+      "lon": -122.81566619873,
+      "lat": 38.8170013427734,
+      "depth": 2.77999997138977,
+      "mag": 0.75,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1782253403700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382471"
+    },
+    {
+      "id": "nc75382466",
+      "lon": -121.054496765137,
+      "lat": 36.546501159668,
+      "depth": 3.65000009536743,
+      "mag": 1.14,
+      "place": "8 km ENE of Pinnacles, CA",
+      "time": 1782253251480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382466"
     },
     {
       "id": "ci41493872",
@@ -75,12 +95,12 @@
     },
     {
       "id": "tx2026mhezfa",
-      "lon": -101.926,
-      "lat": 32.106,
-      "depth": 4.4698,
+      "lon": -101.911,
+      "lat": 32.103,
+      "depth": 9.5459,
       "mag": 1.4,
-      "place": "13 km WSW of Stanton, Texas",
-      "time": 1782249455180,
+      "place": "11 km WSW of Stanton, Texas",
+      "time": 1782249455385,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mhezfa"
     },
     {
@@ -142,16 +162,6 @@
       "place": "4 km SW of Ocotillo, CA",
       "time": 1782247513970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493752"
-    },
-    {
-      "id": "tx2026mhdrdu",
-      "lon": -98.129,
-      "lat": 28.944,
-      "depth": 1.6876,
-      "mag": 1.6,
-      "place": "11 km WSW of Falls City, Texas",
-      "time": 1782247085263,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mhdrdu"
     },
     {
       "id": "hv74989432",
@@ -1035,12 +1045,12 @@
     },
     {
       "id": "ci41493296",
-      "lon": -116.967,
-      "lat": 33.9901666666667,
-      "depth": 8.77,
-      "mag": 0.65,
+      "lon": -116.971833333333,
+      "lat": 33.9915,
+      "depth": 9.04,
+      "mag": 0.54,
       "place": "7 km N of Beaumont, CA",
-      "time": 1782222217650,
+      "time": 1782222217500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493296"
     },
     {
@@ -1135,12 +1145,12 @@
     },
     {
       "id": "ci41493272",
-      "lon": -117.216833333333,
-      "lat": 34.004,
-      "depth": 4.28,
-      "mag": 0.93,
-      "place": "6 km SE of Loma Linda, CA",
-      "time": 1782219532110,
+      "lon": -117.214666666667,
+      "lat": 34.0056666666667,
+      "depth": 6.02,
+      "mag": 0.59,
+      "place": "6 km SSW of Redlands, CA",
+      "time": 1782219532020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493272"
     },
     {
@@ -2002,6 +2012,36 @@
       "place": "5 km WSW of Circleville, Utah",
       "time": 1782193961590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143086"
+    },
+    {
+      "id": "av94263653",
+      "lon": -158.3925,
+      "lat": 56.8648333333333,
+      "depth": 9.89,
+      "mag": 0.17,
+      "place": "62 km N of Chignik Lagoon, Alaska",
+      "time": 1782193520240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94263653"
+    },
+    {
+      "id": "av94263648",
+      "lon": -158.161166666667,
+      "lat": 56.8726666666667,
+      "depth": 14.71,
+      "mag": -0.52,
+      "place": "66 km NNE of Chignik, Alaska",
+      "time": 1782193448180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94263648"
+    },
+    {
+      "id": "av93062504",
+      "lon": -158.021166666667,
+      "lat": 56.8728333333333,
+      "depth": 12.02,
+      "mag": -0.69,
+      "place": "68 km NNE of Chignik, Alaska",
+      "time": 1782193396020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062504"
     },
     {
       "id": "av93062499",
@@ -3302,76 +3342,6 @@
       "place": "24 km ENE of Atka, Alaska",
       "time": 1782168080280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94262928"
-    },
-    {
-      "id": "nc75381511",
-      "lon": -122.823501586914,
-      "lat": 38.824333190918,
-      "depth": 1.71000003814697,
-      "mag": 0.72,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1782167805480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381511"
-    },
-    {
-      "id": "nc75381516",
-      "lon": -120.149833333333,
-      "lat": 36.186,
-      "depth": 3.76,
-      "mag": 0.95,
-      "place": "5 km WSW of Huron, CA",
-      "time": 1782167785680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381516"
-    },
-    {
-      "id": "ci41492880",
-      "lon": -117.810666666667,
-      "lat": 35.2946666666667,
-      "depth": 8.27,
-      "mag": 1.43,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1782167540910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492880"
-    },
-    {
-      "id": "aka2026mhkvqg",
-      "lon": -151.011,
-      "lat": 61.425,
-      "depth": 73,
-      "mag": 1.3,
-      "place": "29 km WSW of Susitna, Alaska",
-      "time": 1782167492931,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mhkvqg"
-    },
-    {
-      "id": "ci41492864",
-      "lon": -117.805166666667,
-      "lat": 35.2966666666667,
-      "depth": 7.14,
-      "mag": 1.13,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1782167351520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492864"
-    },
-    {
-      "id": "us6000t7hp",
-      "lon": 125.4161,
-      "lat": 24.7817,
-      "depth": 35,
-      "mag": 4.6,
-      "place": "10 km E of Miyakojima, Japan",
-      "time": 1782166845131,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7hp"
-    },
-    {
-      "id": "ci41492856",
-      "lon": -117.635,
-      "lat": 33.8091666666667,
-      "depth": 5.15,
-      "mag": 0.58,
-      "place": "9 km SW of Corona, CA",
-      "time": 1782166826500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492856"
     }
   ]
 }
