@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T14:15:54Z",
-  "count": 298,
+  "updated": "2026-06-23T14:31:14Z",
+  "count": 297,
   "points": [
+    {
+      "id": "nc75382156",
+      "lon": -122.845497131348,
+      "lat": 38.8478317260742,
+      "depth": 1.30999994277954,
+      "mag": 0.27,
+      "place": "11 km WNW of Cobb, CA",
+      "time": 1782224520830,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382156"
+    },
+    {
+      "id": "ci41493320",
+      "lon": -117.065666666667,
+      "lat": 33.7071666666667,
+      "depth": 11.89,
+      "mag": 1.03,
+      "place": "2 km E of Winchester, CA",
+      "time": 1782224116630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493320"
+    },
     {
       "id": "aka2026miqbqk",
       "lon": -153.486,
@@ -32,6 +52,16 @@
       "place": "11 km NW of The Geysers, CA",
       "time": 1782223402420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382141"
+    },
+    {
+      "id": "us6000t7lb",
+      "lon": 169.1101,
+      "lat": -20.6721,
+      "depth": 30.168,
+      "mag": 5.3,
+      "place": "126 km S of Isangel, Vanuatu",
+      "time": 1782223116779,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7lb"
     },
     {
       "id": "nc75382131",
@@ -2942,46 +2972,6 @@
       "place": "3 km SW of Maricao, Puerto Rico",
       "time": 1782139097880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71520898"
-    },
-    {
-      "id": "av94262088",
-      "lon": -155.358333333333,
-      "lat": 58.1703333333333,
-      "depth": 1.78,
-      "mag": -0.08,
-      "place": "85 km NW of Karluk, Alaska",
-      "time": 1782138188080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94262088"
-    },
-    {
-      "id": "uu80007503",
-      "lon": -110.459666666667,
-      "lat": 39.0718333333333,
-      "depth": 11.04,
-      "mag": 1.21,
-      "place": "27 km WNW of Green River, Utah",
-      "time": 1782138122720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007503"
-    },
-    {
-      "id": "ci41492288",
-      "lon": -119.349666666667,
-      "lat": 35.1368333333333,
-      "depth": 20.45,
-      "mag": 1.06,
-      "place": "10 km E of Taft, CA",
-      "time": 1782138046150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492288"
-    },
-    {
-      "id": "uw714029631",
-      "lon": -122.841166666667,
-      "lat": 47.8093333333333,
-      "depth": 22.27,
-      "mag": 1.16,
-      "place": "2 km ESE of Quilcene, Washington",
-      "time": 1782137848620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714029631"
     }
   ]
 }
