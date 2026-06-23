@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T04:46:01Z",
-  "count": 303,
+  "updated": "2026-06-23T05:01:17Z",
+  "count": 299,
   "points": [
+    {
+      "id": "nc75381921",
+      "lon": -122.786163330078,
+      "lat": 38.8148345947266,
+      "depth": 1.20000004768372,
+      "mag": 0.75,
+      "place": "5 km NNW of The Geysers, CA",
+      "time": 1782190115270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381921"
+    },
+    {
+      "id": "nc75381916",
+      "lon": -122.177001953125,
+      "lat": 38.2928352355957,
+      "depth": 8.10999965667725,
+      "mag": 1.25,
+      "place": "5 km NNW of Green Valley, CA",
+      "time": 1782189987190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381916"
+    },
     {
       "id": "aka2026mhxell",
       "lon": -147.695,
@@ -95,12 +115,12 @@
     },
     {
       "id": "tx2026mfwqew",
-      "lon": -104.508,
-      "lat": 31.637,
-      "depth": 4.6485,
+      "lon": -104.505,
+      "lat": 31.64,
+      "depth": 5.1251,
       "mag": 1.6,
-      "place": "61 km SSW of Whites City, New Mexico",
-      "time": 1782187294123,
+      "place": "60 km SSW of Whites City, New Mexico",
+      "time": 1782187294078,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mfwqew"
     },
     {
@@ -2404,6 +2424,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv73"
     },
     {
+      "id": "uw714029501",
+      "lon": -122.379666666667,
+      "lat": 46.2068333333333,
+      "depth": 9.47,
+      "mag": -0.09,
+      "place": "33 km N of Amboy, Washington",
+      "time": 1782122128570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714029501"
+    },
+    {
       "id": "aka2026mglojs",
       "lon": -156.586,
       "lat": 67.884,
@@ -2962,76 +2992,6 @@
       "place": "5 km S of Honoka‘a, Hawaii",
       "time": 1782105064100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74988322"
-    },
-    {
-      "id": "aka2026mgbuqf",
-      "lon": -150.78,
-      "lat": 61.582,
-      "depth": 62.8,
-      "mag": 2,
-      "place": "14 km WNW of Susitna, Alaska",
-      "time": 1782104451908,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mgbuqf"
-    },
-    {
-      "id": "hv74988317",
-      "lon": -155.492492675781,
-      "lat": 19.8996658325195,
-      "depth": 28.5799999237061,
-      "mag": 1.78,
-      "place": "20 km S of Honoka‘a, Hawaii",
-      "time": 1782104325290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74988317"
-    },
-    {
-      "id": "tx2026mecrtp",
-      "lon": -104.27,
-      "lat": 31.627,
-      "depth": 7.9456,
-      "mag": 1.9,
-      "place": "57 km NW of Toyah, Texas",
-      "time": 1782104111406,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mecrtp"
-    },
-    {
-      "id": "nc75381126",
-      "lon": -118.838333129883,
-      "lat": 37.4633331298828,
-      "depth": 4.05999994277954,
-      "mag": 0.97,
-      "place": "18 km SW of Toms Place, CA",
-      "time": 1782103943820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381126"
-    },
-    {
-      "id": "ci41492040",
-      "lon": -117.680333333333,
-      "lat": 35.9521666666667,
-      "depth": 5.16,
-      "mag": 0.69,
-      "place": "20 km E of Little Lake, CA",
-      "time": 1782103733000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492040"
-    },
-    {
-      "id": "av94261258",
-      "lon": -165.963333333333,
-      "lat": 54.123,
-      "depth": 5.09,
-      "mag": 0,
-      "place": "12 km W of Akutan, Alaska",
-      "time": 1782103584710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94261258"
-    },
-    {
-      "id": "hv74988307",
-      "lon": -155.1935,
-      "lat": 19.3266666666667,
-      "depth": 5.05,
-      "mag": 1.89,
-      "place": "13 km SSE of Volcano, Hawaii",
-      "time": 1782103530780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74988307"
     }
   ]
 }
