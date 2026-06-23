@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-23T10:45:56Z",
-  "count": 294,
+  "updated": "2026-06-23T11:01:22Z",
+  "count": 289,
   "points": [
     {
       "id": "nc75382041",
@@ -12,6 +12,16 @@
       "place": "11 km NW of The Geysers, CA",
       "time": 1782211107100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382041"
+    },
+    {
+      "id": "tx2026mgjply",
+      "lon": -103.09,
+      "lat": 31.432,
+      "depth": 0,
+      "mag": 2,
+      "place": "11 km SSE of Pyote, Texas",
+      "time": 1782210852947,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mgjply"
     },
     {
       "id": "ci41493232",
@@ -1382,16 +1392,6 @@
       "place": "12 km WSW of Stanton, Texas",
       "time": 1782172441275,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mfolcq"
-    },
-    {
-      "id": "tx2026mfokmg",
-      "lon": -103.321,
-      "lat": 31.457,
-      "depth": 0,
-      "mag": 2.5,
-      "place": "6 km E of Barstow, Texas",
-      "time": 1782172394479,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mfokmg"
     },
     {
       "id": "tx2026mfohyh",
@@ -2892,56 +2892,6 @@
       "place": "51 km NNE of King Cove, Alaska",
       "time": 1782126430790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062444"
-    },
-    {
-      "id": "us7000sv6n",
-      "lon": 150.8235,
-      "lat": -5.5796,
-      "depth": 108.069,
-      "mag": 4.8,
-      "place": "76 km E of Kimbe, Papua New Guinea",
-      "time": 1782125926165,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv6n"
-    },
-    {
-      "id": "av94261823",
-      "lon": -153.061333333333,
-      "lat": 60.0816666666667,
-      "depth": 4.04,
-      "mag": -0.1,
-      "place": "66 km ENE of Pedro Bay, Alaska",
-      "time": 1782125691890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94261823"
-    },
-    {
-      "id": "tx2026meolnk",
-      "lon": -102.032,
-      "lat": 32.43,
-      "depth": 8.3496,
-      "mag": 2.4,
-      "place": "31 km WSW of Ackerly, Texas",
-      "time": 1782125600600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026meolnk"
-    },
-    {
-      "id": "ci41492192",
-      "lon": -117.921666666667,
-      "lat": 34.195,
-      "depth": 5,
-      "mag": 0.59,
-      "place": "7 km N of Azusa, CA",
-      "time": 1782125335460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492192"
-    },
-    {
-      "id": "hv74988517",
-      "lon": -155.366833333333,
-      "lat": 19.1306666666667,
-      "depth": 29.79,
-      "mag": 1.91,
-      "place": "14 km SE of Pāhala, Hawaii",
-      "time": 1782125289160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74988517"
     }
   ]
 }
