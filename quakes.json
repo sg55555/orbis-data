@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-24T08:31:10Z",
-  "count": 302,
+  "updated": "2026-06-24T08:45:58Z",
+  "count": 298,
   "points": [
+    {
+      "id": "us6000t7tc",
+      "lon": 27.1649,
+      "lat": 35.2481,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "28 km SE of Fry, Greece",
+      "time": 1782289554497,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7tc"
+    },
     {
       "id": "ci41494216",
       "lon": -115.660666666667,
@@ -695,12 +705,12 @@
     },
     {
       "id": "tx2026mhpghw",
-      "lon": -101.933,
-      "lat": 32.108,
-      "depth": 5.7565,
-      "mag": 1.2,
-      "place": "13 km W of Stanton, Texas",
-      "time": 1782268077950,
+      "lon": -101.924,
+      "lat": 32.103,
+      "depth": 7.6904,
+      "mag": 1.3,
+      "place": "13 km WSW of Stanton, Texas",
+      "time": 1782268078511,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mhpghw"
     },
     {
@@ -2972,56 +2982,6 @@
       "place": "9 km WNW of The Geysers, CA",
       "time": 1782204497530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381986"
-    },
-    {
-      "id": "nc75381981",
-      "lon": -122.810836791992,
-      "lat": 38.8026657104492,
-      "depth": 2.80999994277954,
-      "mag": 0.28,
-      "place": "5 km WNW of The Geysers, CA",
-      "time": 1782204286450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381981"
-    },
-    {
-      "id": "aka2026miffkj",
-      "lon": -152.958,
-      "lat": 58.947,
-      "depth": 72,
-      "mag": 1.9,
-      "place": "74 km SW of Nanwalek, Alaska",
-      "time": 1782204153785,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026miffkj"
-    },
-    {
-      "id": "nc75381976",
-      "lon": -122.84733581543,
-      "lat": 38.8528327941895,
-      "depth": 1.71000003814697,
-      "mag": 1.07,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1782204078630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381976"
-    },
-    {
-      "id": "av93062509",
-      "lon": -154.3295,
-      "lat": 58.6016666666667,
-      "depth": 5.14,
-      "mag": 0.15,
-      "place": "96 km SSE of Kokhanok, Alaska",
-      "time": 1782203650230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062509"
-    },
-    {
-      "id": "av94263933",
-      "lon": -154.272833333333,
-      "lat": 58.5875,
-      "depth": 5.76,
-      "mag": 0.14,
-      "place": "99 km NW of Aleneva, Alaska",
-      "time": 1782203649770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94263933"
     }
   ]
 }
