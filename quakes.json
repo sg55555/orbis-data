@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-24T22:01:17Z",
+  "updated": "2026-06-24T22:15:57Z",
   "count": 318,
   "points": [
     {
+      "id": "nc75383556",
+      "lon": -123.227333068848,
+      "lat": 39.349666595459,
+      "depth": 6.05000019073486,
+      "mag": 2.07,
+      "place": "10 km NNW of Redwood Valley, CA",
+      "time": 1782338497730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383556"
+    },
+    {
       "id": "ci41494760",
-      "lon": -116.717330932617,
-      "lat": 33.5286674499512,
-      "depth": 3.41000008583069,
-      "mag": 2.10675539861422,
+      "lon": -116.718333333333,
+      "lat": 33.5293333333333,
+      "depth": 5.07,
+      "mag": 2.06,
       "place": "5 km SW of Anza, CA",
-      "time": 1782338331640,
+      "time": 1782338331680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494760"
     },
     {
@@ -52,6 +62,16 @@
       "place": "12 km N of Redwood Valley, CA",
       "time": 1782337975320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383536"
+    },
+    {
+      "id": "uw714031721",
+      "lon": -122.464833333333,
+      "lat": 45.8068333333333,
+      "depth": -0.58,
+      "mag": 1.1,
+      "place": "4 km E of Lewisville, Washington",
+      "time": 1782337881940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714031721"
     },
     {
       "id": "uu80143276",
@@ -3162,26 +3182,6 @@
       "place": "7 km W of Dutch Harbor, Alaska",
       "time": 1782253028630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94265328"
-    },
-    {
-      "id": "tx2026mhgwiy",
-      "lon": -98.467,
-      "lat": 28.683,
-      "depth": 6.4188,
-      "mag": 1.1,
-      "place": "12 km SSE of Christine, Texas",
-      "time": 1782252878702,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mhgwiy"
-    },
-    {
-      "id": "ci41493872",
-      "lon": -118.278,
-      "lat": 36.1551666666667,
-      "depth": 8.15,
-      "mag": 1.41,
-      "place": "28 km WSW of Olancha, CA",
-      "time": 1782252774840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493872"
     }
   ]
 }
