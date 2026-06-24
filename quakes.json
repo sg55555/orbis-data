@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-24T20:45:51Z",
-  "count": 320,
+  "updated": "2026-06-24T21:01:23Z",
+  "count": 317,
   "points": [
     {
       "id": "aka2026mkzfre",
@@ -915,12 +915,12 @@
     },
     {
       "id": "nc75382936",
-      "lon": -123.229331970215,
-      "lat": 39.3636665344238,
-      "depth": 8.06999969482422,
+      "lon": -123.228833333333,
+      "lat": 39.3623333333333,
+      "depth": 8.85,
       "mag": 5.59,
       "place": "11 km N of Redwood Valley, CA",
-      "time": 1782313840770,
+      "time": 1782313840760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382936"
     },
     {
@@ -3124,6 +3124,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mhezfa"
     },
     {
+      "id": "uw714030891",
+      "lon": -120.457,
+      "lat": 49.3768333333333,
+      "depth": -0.36,
+      "mag": 2.01,
+      "place": "9 km SSE of Princeton, Canada",
+      "time": 1782249352720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714030891"
+    },
+    {
       "id": "us6000t7q6",
       "lon": -68.7657,
       "lat": -22.351,
@@ -3162,46 +3172,6 @@
       "place": "4 km ESE of Umatilla, Oregon",
       "time": 1782248570910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714030861"
-    },
-    {
-      "id": "ci41493776",
-      "lon": -117.147666666667,
-      "lat": 33.3313333333333,
-      "depth": 3,
-      "mag": 0.99,
-      "place": "8 km WSW of Pala, CA",
-      "time": 1782248350070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493776"
-    },
-    {
-      "id": "tx2026mhedrn",
-      "lon": -101.933,
-      "lat": 32.108,
-      "depth": 7.9346,
-      "mag": 1.3,
-      "place": "13 km W of Stanton, Texas",
-      "time": 1782248117961,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mhedrn"
-    },
-    {
-      "id": "uu80143141",
-      "lon": -112.234833333333,
-      "lat": 41.7418333333333,
-      "depth": 10.21,
-      "mag": 1.25,
-      "place": "6 km W of Garland, Utah",
-      "time": 1782247941510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143141"
-    },
-    {
-      "id": "aka2026mjdnhg",
-      "lon": -147.777,
-      "lat": 64.946,
-      "depth": 5,
-      "mag": 0.7,
-      "place": "5 km NW of Farmers Loop, Alaska",
-      "time": 1782247878807,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mjdnhg"
     }
   ]
 }
