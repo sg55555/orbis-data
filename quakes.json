@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-24T14:01:29Z",
-  "count": 289,
+  "updated": "2026-06-24T14:15:58Z",
+  "count": 284,
   "points": [
+    {
+      "id": "aka2026mkmeaf",
+      "lon": -143.535,
+      "lat": 61.862,
+      "depth": 5,
+      "mag": 1.8,
+      "place": "57 km NW of McCarthy, Alaska",
+      "time": 1782310208783,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mkmeaf"
+    },
     {
       "id": "uw714031281",
       "lon": -123.041496276855,
@@ -495,12 +505,12 @@
     },
     {
       "id": "ci41494240",
-      "lon": -117.8095,
+      "lon": -117.809166666667,
       "lat": 35.2948333333333,
-      "depth": 7.69,
-      "mag": 2.41,
+      "depth": 7.65,
+      "mag": 2.56,
       "place": "18 km WSW of Johannesburg, CA",
-      "time": 1782291977790,
+      "time": 1782291977770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494240"
     },
     {
@@ -1442,6 +1452,16 @@
       "place": "64 km WNW of Catuday, Philippines",
       "time": 1782264859440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7rq"
+    },
+    {
+      "id": "tx2026mhndcb",
+      "lon": -101.916,
+      "lat": 32.105,
+      "depth": 8.8135,
+      "mag": 0.6,
+      "place": "12 km WSW of Stanton, Texas",
+      "time": 1782264209369,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mhndcb"
     },
     {
       "id": "nc75382536",
@@ -2822,76 +2842,6 @@
       "place": "11 km WNW of Cobb, CA",
       "time": 1782224520830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382156"
-    },
-    {
-      "id": "ci41493320",
-      "lon": -117.065666666667,
-      "lat": 33.7071666666667,
-      "depth": 11.89,
-      "mag": 1.03,
-      "place": "2 km E of Winchester, CA",
-      "time": 1782224116630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493320"
-    },
-    {
-      "id": "aka2026miqcpw",
-      "lon": -156.346,
-      "lat": 55.965,
-      "depth": 5,
-      "mag": 2.2,
-      "place": "133 km ESE of Chignik, Alaska",
-      "time": 1782223748677,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026miqcpw"
-    },
-    {
-      "id": "uw714030421",
-      "lon": -122.421666666667,
-      "lat": 47.5321666666667,
-      "depth": 29.46,
-      "mag": 1.93,
-      "place": "5 km WNW of White Center, Washington",
-      "time": 1782223730750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714030421"
-    },
-    {
-      "id": "aka2026miqbqk",
-      "lon": -153.486,
-      "lat": 58.252,
-      "depth": 67.8,
-      "mag": 1.9,
-      "place": "40 km WNW of Aleneva, Alaska",
-      "time": 1782223683809,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026miqbqk"
-    },
-    {
-      "id": "av94264478",
-      "lon": -155.419333333333,
-      "lat": 58.1535,
-      "depth": 2.44,
-      "mag": -0.53,
-      "place": "86 km NW of Karluk, Alaska",
-      "time": 1782223564310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94264478"
-    },
-    {
-      "id": "nc75382146",
-      "lon": -121.507667541504,
-      "lat": 37.089168548584,
-      "depth": 6.63000011444092,
-      "mag": 1.68,
-      "place": "9 km E of San Martin, CA",
-      "time": 1782223557380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382146"
-    },
-    {
-      "id": "nc75382141",
-      "lon": -122.848167419434,
-      "lat": 38.8455009460449,
-      "depth": 1.23000001907349,
-      "mag": 1.27,
-      "place": "11 km NW of The Geysers, CA",
-      "time": 1782223402420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382141"
     }
   ]
 }
