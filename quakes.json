@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-24T22:53:06Z",
-  "count": 323,
+  "updated": "2026-06-24T23:01:18Z",
+  "count": 326,
   "points": [
+    {
+      "id": "tx2026mjduuw",
+      "lon": -104.288,
+      "lat": 31.614,
+      "depth": 3.6546,
+      "mag": 1.6,
+      "place": "57 km NW of Toyah, Texas",
+      "time": 1782341475660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjduuw"
+    },
     {
       "id": "tx2026mjdpby",
       "lon": -104.282,
-      "lat": 31.617,
-      "depth": 3.9948,
+      "lat": 31.618,
+      "depth": 4.0268,
       "mag": 1.7,
       "place": "57 km NW of Toyah, Texas",
-      "time": 1782341077582,
+      "time": 1782341077572,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjdpby"
     },
     {
@@ -55,13 +65,23 @@
     },
     {
       "id": "tx2026mjcrej",
-      "lon": -103.674,
-      "lat": 32.08,
+      "lon": -103.628,
+      "lat": 32.133,
       "depth": 0,
-      "mag": 1.8,
-      "place": "40 km ESE of Malaga, New Mexico",
-      "time": 1782339414060,
+      "mag": 1.9,
+      "place": "41 km W of Jal, New Mexico",
+      "time": 1782339413825,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjcrej"
+    },
+    {
+      "id": "tx2026mjcpkh",
+      "lon": -103.791,
+      "lat": 32.056,
+      "depth": 0,
+      "mag": 1.7,
+      "place": "32 km SE of Malaga, New Mexico",
+      "time": 1782339281348,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjcpkh"
     },
     {
       "id": "us6000t7zc",
@@ -2066,11 +2086,11 @@
     {
       "id": "ci41494160",
       "lon": -116.054833333333,
-      "lat": 33.2501666666667,
-      "depth": 2.75,
-      "mag": 0.68,
+      "lat": 33.2508333333333,
+      "depth": 3.38,
+      "mag": 0.74,
       "place": "11 km WSW of Salton City, CA",
-      "time": 1782281368030,
+      "time": 1782281367970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494160"
     },
     {
@@ -2884,6 +2904,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7rq"
     },
     {
+      "id": "aka2026mjmqco",
+      "lon": -164.755,
+      "lat": 53.568,
+      "depth": 14.7,
+      "mag": 2.5,
+      "place": "92 km SE of Akutan, Alaska",
+      "time": 1782264259856,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mjmqco"
+    },
+    {
       "id": "tx2026mhndcb",
       "lon": -101.916,
       "lat": 32.105,
@@ -2892,6 +2922,16 @@
       "place": "12 km WSW of Stanton, Texas",
       "time": 1782264209369,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mhndcb"
+    },
+    {
+      "id": "aka2026mjmhmn",
+      "lon": -165.421,
+      "lat": 53.417,
+      "depth": 28.3,
+      "mag": 2.3,
+      "place": "83 km SSE of Akutan, Alaska",
+      "time": 1782263685370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mjmhmn"
     },
     {
       "id": "nc75382536",
@@ -3222,16 +3262,6 @@
       "place": "19 km W of Dutch Harbor, Alaska",
       "time": 1782255747590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94265438"
-    },
-    {
-      "id": "av94265423",
-      "lon": -153.142333333333,
-      "lat": 60.0368333333333,
-      "depth": 0.98,
-      "mag": -0.5,
-      "place": "60 km ENE of Pedro Bay, Alaska",
-      "time": 1782255279960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94265423"
     }
   ]
 }
