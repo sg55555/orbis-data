@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-24T23:01:18Z",
+  "updated": "2026-06-24T23:15:49Z",
   "count": 326,
   "points": [
+    {
+      "id": "nc75383591",
+      "lon": -123.242668151855,
+      "lat": 39.3536682128906,
+      "depth": 5.26000022888184,
+      "mag": 2.81,
+      "place": "10 km NNW of Redwood Valley, CA",
+      "time": 1782342426360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383591"
+    },
+    {
+      "id": "nc75383586",
+      "lon": -122.791999816895,
+      "lat": 38.8351669311523,
+      "depth": 2.17000007629395,
+      "mag": 0.96,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1782342180060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383586"
+    },
     {
       "id": "tx2026mjduuw",
       "lon": -104.288,
@@ -84,13 +104,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjcpkh"
     },
     {
+      "id": "us6000t7zp",
+      "lon": -68.3206,
+      "lat": 10.4009,
+      "depth": 10,
+      "mag": 7.5,
+      "place": "16 km SW of Morón, Venezuela",
+      "time": 1782338711975,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
+    },
+    {
       "id": "us6000t7zc",
-      "lon": -68.4932,
-      "lat": 10.407,
-      "depth": 13.158,
-      "mag": 7.1,
-      "place": "28 km NW of Montalbán, Venezuela",
-      "time": 1782338672505,
+      "lon": -68.52,
+      "lat": 10.3874,
+      "depth": 21.896,
+      "mag": 7.2,
+      "place": "24 km ENE of San Felipe, Venezuela",
+      "time": 1782338673586,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zc"
     },
     {
@@ -3232,36 +3262,6 @@
       "place": "19 km SW of Ivanof Bay, Alaska",
       "time": 1782256627380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mjijtg"
-    },
-    {
-      "id": "aka2026mjifjw",
-      "lon": -148.311,
-      "lat": 63.001,
-      "depth": 60,
-      "mag": 2.5,
-      "place": "54 km SE of Cantwell, Alaska",
-      "time": 1782256329147,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mjifjw"
-    },
-    {
-      "id": "nc75382491",
-      "lon": -122.818336486816,
-      "lat": 38.8173332214355,
-      "depth": -0.259999990463257,
-      "mag": 0.61,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1782256129310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382491"
-    },
-    {
-      "id": "av94265438",
-      "lon": -166.8385,
-      "lat": 53.8585,
-      "depth": 6.75,
-      "mag": -0.27,
-      "place": "19 km W of Dutch Harbor, Alaska",
-      "time": 1782255747590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94265438"
     }
   ]
 }
