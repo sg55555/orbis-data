@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-24T12:15:58Z",
-  "count": 292,
+  "updated": "2026-06-24T12:31:13Z",
+  "count": 293,
   "points": [
+    {
+      "id": "hv74989947",
+      "lon": -155.309005737305,
+      "lat": 19.1940002441406,
+      "depth": 39.7299995422363,
+      "mag": 1.72,
+      "place": "17 km E of Pāhala, Hawaii",
+      "time": 1782303938600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74989947"
+    },
+    {
+      "id": "nc75382866",
+      "lon": -125.221664428711,
+      "lat": 40.390998840332,
+      "depth": 0.649999976158142,
+      "mag": 2.62,
+      "place": "80 km W of Petrolia, CA",
+      "time": 1782303412560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382866"
+    },
+    {
+      "id": "ci41494296",
+      "lon": -116.637833333333,
+      "lat": 33.1361666666667,
+      "depth": 4.43,
+      "mag": 0.52,
+      "place": "7 km NNW of Julian, CA",
+      "time": 1782303267350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494296"
+    },
     {
       "id": "aka2026mkiebz",
       "lon": -150.608,
@@ -62,6 +92,16 @@
       "place": "17 km SW of Manton, CA",
       "time": 1782301786710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382846"
+    },
+    {
+      "id": "pr71521043",
+      "lon": -67.0471666666667,
+      "lat": 18.7541666666667,
+      "depth": 34.15,
+      "mag": 2.77,
+      "place": "28 km N of Isabela, Puerto Rico",
+      "time": 1782301526310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521043"
     },
     {
       "id": "nc75382836",
@@ -2892,36 +2932,6 @@
       "place": "27 km S of Knik River, Alaska",
       "time": 1782218327829,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mincfy"
-    },
-    {
-      "id": "aka2026mimtug",
-      "lon": -151.106,
-      "lat": 60.412,
-      "depth": 56.6,
-      "mag": 1.4,
-      "place": "8 km SSW of Soldotna, Alaska",
-      "time": 1782217743691,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mimtug"
-    },
-    {
-      "id": "nc75382081",
-      "lon": -122.713500976562,
-      "lat": 38.7748336791992,
-      "depth": 1.53999996185303,
-      "mag": 1,
-      "place": "2 km W of Anderson Springs, CA",
-      "time": 1782217738350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382081"
-    },
-    {
-      "id": "tx2026mgnewt",
-      "lon": -102.088,
-      "lat": 32.444,
-      "depth": 8.7402,
-      "mag": 1.7,
-      "place": "34 km SSW of Los Ybanez, Texas",
-      "time": 1782217267412,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mgnewt"
     }
   ]
 }
