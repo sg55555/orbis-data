@@ -1,8 +1,48 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-24T14:45:53Z",
-  "count": 283,
+  "updated": "2026-06-24T15:10:39Z",
+  "count": 284,
   "points": [
+    {
+      "id": "nc75382931",
+      "lon": -122.81266784668,
+      "lat": 38.8153343200684,
+      "depth": 2.71000003814697,
+      "mag": 1.37,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1782313699880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382931"
+    },
+    {
+      "id": "ci41494368",
+      "lon": -117.679,
+      "lat": 35.9501666666667,
+      "depth": 4.92,
+      "mag": 0.71,
+      "place": "21 km E of Little Lake, CA",
+      "time": 1782313306130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494368"
+    },
+    {
+      "id": "nc75382916",
+      "lon": -122.807830810547,
+      "lat": 38.8153343200684,
+      "depth": -0.610000014305115,
+      "mag": 0.74,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1782313267920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382916"
+    },
+    {
+      "id": "aka2026mknngi",
+      "lon": -157.089,
+      "lat": 56.282,
+      "depth": 18.9,
+      "mag": 1.6,
+      "place": "81 km E of Chignik, Alaska",
+      "time": 1782312647022,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mknngi"
+    },
     {
       "id": "nc75382911",
       "lon": -122.804496765137,
@@ -412,6 +452,16 @@
       "place": "22 km ESE of Anza, CA",
       "time": 1782295765430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494264"
+    },
+    {
+      "id": "tx2026mieoey",
+      "lon": -101.143,
+      "lat": 32.069,
+      "depth": 8.3008,
+      "mag": 1.3,
+      "place": "21 km ESE of Forsan, Texas",
+      "time": 1782295757964,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mieoey"
     },
     {
       "id": "aka2026mkecnx",
@@ -1535,12 +1585,12 @@
     },
     {
       "id": "ci41494000",
-      "lon": -116.080166666667,
-      "lat": 33.2286666666667,
-      "depth": 9.59,
-      "mag": 1.23,
+      "lon": -116.079666666667,
+      "lat": 33.2295,
+      "depth": 10.11,
+      "mag": 1.32,
       "place": "11 km NNE of Ocotillo Wells, CA",
-      "time": 1782263061480,
+      "time": 1782263061460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494000"
     },
     {
@@ -1782,6 +1832,16 @@
       "place": "60 km ENE of Pedro Bay, Alaska",
       "time": 1782255279960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94265423"
+    },
+    {
+      "id": "tx2026mhhzuu",
+      "lon": -98.486,
+      "lat": 28.684,
+      "depth": 7.3967,
+      "mag": 1.1,
+      "place": "11 km S of Christine, Texas",
+      "time": 1782254927998,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mhhzuu"
     },
     {
       "id": "aka2026mjhcar",
@@ -2782,56 +2842,6 @@
       "place": "265 km SSE of Dunhuang, China",
       "time": 1782228542332,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7ll"
-    },
-    {
-      "id": "aka2026mirxwc",
-      "lon": 176.292,
-      "lat": 51.974,
-      "depth": 70.4,
-      "mag": 3.4,
-      "place": "232 km ESE of Attu Station, Alaska",
-      "time": 1782227002444,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mirxwc"
-    },
-    {
-      "id": "av94264563",
-      "lon": -177.184666666667,
-      "lat": 51.8651666666667,
-      "depth": 5.43,
-      "mag": -0.26,
-      "place": "37 km W of Adak, Alaska",
-      "time": 1782226948930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94264563"
-    },
-    {
-      "id": "ci41493384",
-      "lon": -115.587833333333,
-      "lat": 33.0466666666667,
-      "depth": 10.18,
-      "mag": 1.72,
-      "place": "3 km ENE of Westmorland, CA",
-      "time": 1782226858520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493384"
-    },
-    {
-      "id": "av93062534",
-      "lon": -158.131166666667,
-      "lat": 56.8403333333333,
-      "depth": 11.18,
-      "mag": -0.73,
-      "place": "63 km NNE of Chignik, Alaska",
-      "time": 1782226553110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062534"
-    },
-    {
-      "id": "nc75382181",
-      "lon": -122.848335266113,
-      "lat": 38.8455009460449,
-      "depth": 1.19000005722046,
-      "mag": 1.07,
-      "place": "11 km NW of The Geysers, CA",
-      "time": 1782226086160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382181"
     }
   ]
 }
