@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-24T23:18:13Z",
+  "updated": "2026-06-24T23:31:07Z",
   "count": 325,
   "points": [
+    {
+      "id": "aka2026mleter",
+      "lon": -152.617,
+      "lat": 59.417,
+      "depth": 76.9,
+      "mag": 1.8,
+      "place": "40 km W of Nanwalek, Alaska",
+      "time": 1782343645185,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mleter"
+    },
+    {
+      "id": "nc75383596",
+      "lon": -123.26000213623,
+      "lat": 39.3288345336914,
+      "depth": 2.8199999332428,
+      "mag": 1.17,
+      "place": "9 km NW of Redwood Valley, CA",
+      "time": 1782343403030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383596"
+    },
     {
       "id": "nc75383591",
       "lon": -123.242668151855,
@@ -105,12 +125,12 @@
     },
     {
       "id": "us6000t7zp",
-      "lon": -68.3206,
-      "lat": 10.4009,
+      "lon": -68.5139,
+      "lat": 10.453,
       "depth": 10,
       "mag": 7.5,
-      "place": "16 km SW of Morón, Venezuela",
-      "time": 1782338711975,
+      "place": "23 km SE of Yumare, Venezuela",
+      "time": 1782338712092,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
     },
     {
@@ -1224,6 +1244,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143231"
     },
     {
+      "id": "tx2026miocym",
+      "lon": -102.153,
+      "lat": 32.129,
+      "depth": 0.7423,
+      "mag": 1.2,
+      "place": "16 km NNW of Midland, Texas",
+      "time": 1782313078383,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026miocym"
+    },
+    {
       "id": "aka2026mknngi",
       "lon": -157.089,
       "lat": 56.282,
@@ -2092,6 +2122,16 @@
       "place": "151 km W of Adak, Alaska",
       "time": 1782282158390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94266358"
+    },
+    {
+      "id": "av94266343",
+      "lon": -178.753,
+      "lat": 51.8246666666667,
+      "depth": 15.13,
+      "mag": 0.54,
+      "place": "146 km W of Adak, Alaska",
+      "time": 1782281939630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94266343"
     },
     {
       "id": "us6000t7t2",
@@ -3212,46 +3252,6 @@
       "place": "28 km E of Honaunau-Napoopoo, Hawaii",
       "time": 1782257469600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74989552"
-    },
-    {
-      "id": "av94265518",
-      "lon": -178.632,
-      "lat": 51.7343333333333,
-      "depth": 16.89,
-      "mag": 1.16,
-      "place": "138 km W of Adak, Alaska",
-      "time": 1782257128720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94265518"
-    },
-    {
-      "id": "nc75382506",
-      "lon": -122.844833374023,
-      "lat": 38.8478317260742,
-      "depth": 1.33000004291534,
-      "mag": 0.65,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1782256939970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382506"
-    },
-    {
-      "id": "ci41493936",
-      "lon": -117.685,
-      "lat": 35.0368333333333,
-      "depth": -0.82,
-      "mag": 1.44,
-      "place": "5 km NW of Boron, CA",
-      "time": 1782256678830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493936"
-    },
-    {
-      "id": "ci41493920",
-      "lon": -117.523166666667,
-      "lat": 34.2465,
-      "depth": 10.74,
-      "mag": 1.89,
-      "place": "3 km WSW of Lytle Creek, CA",
-      "time": 1782256636970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493920"
     }
   ]
 }
