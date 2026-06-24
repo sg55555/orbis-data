@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-24T11:01:20Z",
+  "updated": "2026-06-24T11:14:14Z",
   "count": 292,
   "points": [
+    {
+      "id": "nc75382821",
+      "lon": -121.936332702637,
+      "lat": 40.3506660461426,
+      "depth": -0.560000002384186,
+      "mag": 2.88,
+      "place": "10 km SW of Manton, CA",
+      "time": 1782298951680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382821"
+    },
     {
       "id": "ci41494280",
       "lon": -116.700833333333,
@@ -32,6 +42,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1782298008190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382811"
+    },
+    {
+      "id": "us6000t7tx",
+      "lon": -71.2145,
+      "lat": -29.8291,
+      "depth": 59.354,
+      "mag": 4.5,
+      "place": "8 km NNE of La Serena, Chile",
+      "time": 1782297394167,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7tx"
     },
     {
       "id": "nc75382806",
@@ -95,12 +115,12 @@
     },
     {
       "id": "tx2026mieaxm",
-      "lon": -104.405,
-      "lat": 31.672,
-      "depth": 8.5827,
-      "mag": 1.6,
-      "place": "55 km S of Whites City, New Mexico",
-      "time": 1782295025244,
+      "lon": -104.387,
+      "lat": 31.668,
+      "depth": 4.9207,
+      "mag": 1.5,
+      "place": "56 km S of Whites City, New Mexico",
+      "time": 1782295025954,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mieaxm"
     },
     {
@@ -2902,26 +2922,6 @@
       "place": "5 km NW of Tieton, Washington",
       "time": 1782213296550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714030351"
-    },
-    {
-      "id": "aka2026mikgft",
-      "lon": -148.212,
-      "lat": 61.655,
-      "depth": 14,
-      "mag": 0.8,
-      "place": "20 km SE of Chickaloon, Alaska",
-      "time": 1782213205747,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mikgft"
-    },
-    {
-      "id": "us6000t7kj",
-      "lon": 27.4993,
-      "lat": 37.8888,
-      "depth": 10,
-      "mag": 4.2,
-      "place": "9 km WNW of Germencik, Turkey",
-      "time": 1782212676971,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7kj"
     }
   ]
 }
