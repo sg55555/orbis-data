@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-24T17:01:24Z",
-  "count": 316,
+  "updated": "2026-06-24T17:15:54Z",
+  "count": 313,
   "points": [
+    {
+      "id": "nc75383176",
+      "lon": -123.235832214355,
+      "lat": 39.3624992370605,
+      "depth": 5.65999984741211,
+      "mag": 2.41,
+      "place": "11 km NNW of Redwood Valley, CA",
+      "time": 1782320728010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383176"
+    },
     {
       "id": "nc75383161",
       "lon": -123.229667663574,
@@ -474,6 +484,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382916"
     },
     {
+      "id": "uu80143231",
+      "lon": -110.436666666667,
+      "lat": 44.8178333333333,
+      "depth": 10.43,
+      "mag": 1.78,
+      "place": "27 km SE of Mammoth, Wyoming",
+      "time": 1782313145470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143231"
+    },
+    {
       "id": "aka2026mknngi",
       "lon": -157.089,
       "lat": 56.282,
@@ -512,16 +532,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1782311776730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382906"
-    },
-    {
-      "id": "aka2026mkmkxi",
-      "lon": -154.846,
-      "lat": 58.444,
-      "depth": 5,
-      "mag": 0.6,
-      "place": "100 km NNW of Karluk, Alaska",
-      "time": 1782310685284,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mkmkxi"
     },
     {
       "id": "aka2026mkmeaf",
@@ -3122,46 +3132,6 @@
       "place": "6 km N of Pāhala, Hawaii",
       "time": 1782234990530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74989352"
-    },
-    {
-      "id": "us6000t7ng",
-      "lon": -27.4538,
-      "lat": -59.4812,
-      "depth": 231.662,
-      "mag": 4.5,
-      "place": "South Sandwich Islands region",
-      "time": 1782234535838,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7ng"
-    },
-    {
-      "id": "tx2026mgwrgw",
-      "lon": -101.931,
-      "lat": 32.103,
-      "depth": 7.4951,
-      "mag": 1.4,
-      "place": "13 km WSW of Stanton, Texas",
-      "time": 1782234423272,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mgwrgw"
-    },
-    {
-      "id": "ci41493536",
-      "lon": -118.023166666667,
-      "lat": 36.1781666666667,
-      "depth": 2.95,
-      "mag": 1.24,
-      "place": "12 km S of Olancha, CA",
-      "time": 1782234341770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493536"
-    },
-    {
-      "id": "tx2026mgwove",
-      "lon": -101.928,
-      "lat": 32.107,
-      "depth": 7.9346,
-      "mag": 1.3,
-      "place": "13 km W of Stanton, Texas",
-      "time": 1782234251168,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mgwove"
     }
   ]
 }
