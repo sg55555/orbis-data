@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-24T20:31:12Z",
-  "count": 319,
+  "updated": "2026-06-24T20:45:51Z",
+  "count": 320,
   "points": [
+    {
+      "id": "aka2026mkzfre",
+      "lon": -153.565,
+      "lat": 59.709,
+      "depth": 135.4,
+      "mag": 2.9,
+      "place": "31 km ESE of Pedro Bay, Alaska",
+      "time": 1782333714446,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mkzfre"
+    },
     {
       "id": "aka2026mkyggs",
       "lon": -146.558,
@@ -32,6 +42,16 @@
       "place": "84 km W of Karluk, Alaska",
       "time": 1782331686156,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mkycjy"
+    },
+    {
+      "id": "tx2026miyjxw",
+      "lon": -97.864,
+      "lat": 29.054,
+      "depth": 7.3976,
+      "mag": 1.5,
+      "place": "16 km ENE of Falls City, Texas",
+      "time": 1782331670720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026miyjxw"
     },
     {
       "id": "nc75383396",
@@ -925,12 +945,12 @@
     },
     {
       "id": "ci41494368",
-      "lon": -117.679,
-      "lat": 35.9501666666667,
-      "depth": 4.92,
-      "mag": 0.71,
+      "lon": -117.678666666667,
+      "lat": 35.95,
+      "depth": 5.09,
+      "mag": 0.79,
       "place": "21 km E of Little Lake, CA",
-      "time": 1782313306130,
+      "time": 1782313306100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494368"
     },
     {
@@ -3134,6 +3154,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493800"
     },
     {
+      "id": "uw714030861",
+      "lon": -119.286666666667,
+      "lat": 45.9088333333333,
+      "depth": -0.26,
+      "mag": 1.7,
+      "place": "4 km ESE of Umatilla, Oregon",
+      "time": 1782248570910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714030861"
+    },
+    {
       "id": "ci41493776",
       "lon": -117.147666666667,
       "lat": 33.3313333333333,
@@ -3172,26 +3202,6 @@
       "place": "5 km NW of Farmers Loop, Alaska",
       "time": 1782247878807,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mjdnhg"
-    },
-    {
-      "id": "ci41493752",
-      "lon": -116.029166666667,
-      "lat": 32.7106666666667,
-      "depth": 11.43,
-      "mag": 1.21,
-      "place": "4 km SW of Ocotillo, CA",
-      "time": 1782247513860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493752"
-    },
-    {
-      "id": "av94265123",
-      "lon": -152.24,
-      "lat": 61.2765,
-      "depth": 3.11,
-      "mag": -0.79,
-      "place": "63 km WNW of Tyonek, Alaska",
-      "time": 1782247500110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94265123"
     }
   ]
 }
