@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-24T11:16:20Z",
-  "count": 292,
+  "updated": "2026-06-24T11:31:16Z",
+  "count": 294,
   "points": [
     {
+      "id": "nc75382826",
+      "lon": -122.761665344238,
+      "lat": 38.8136672973633,
+      "depth": 1.79999995231628,
+      "mag": 1.14,
+      "place": "3 km WSW of Cobb, CA",
+      "time": 1782300268180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382826"
+    },
+    {
       "id": "aka2026mkggvj",
-      "lon": -137.567,
-      "lat": 57.09,
-      "depth": 13,
-      "mag": 3.1,
-      "place": "125 km SW of Pelican, Alaska",
-      "time": 1782299601742,
+      "lon": -137.578,
+      "lat": 57.132,
+      "depth": 5,
+      "mag": 3,
+      "place": "122 km SW of Pelican, Alaska",
+      "time": 1782299600815,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mkggvj"
     },
     {
@@ -22,6 +32,26 @@
       "place": "10 km SW of Manton, CA",
       "time": 1782298951680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382821"
+    },
+    {
+      "id": "tx2026migfqj",
+      "lon": -99.153,
+      "lat": 28.733,
+      "depth": 4.9447,
+      "mag": 2.1,
+      "place": "4 km NNE of Hilltop, Texas",
+      "time": 1782298780871,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026migfqj"
+    },
+    {
+      "id": "us6000t7u2",
+      "lon": 119.2775,
+      "lat": 16.574,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "64 km WNW of Catuday, Philippines",
+      "time": 1782298288685,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7u2"
     },
     {
       "id": "ci41494280",
@@ -2912,16 +2942,6 @@
       "place": "17 km ESE of Little Lake, CA",
       "time": 1782214309610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493240"
-    },
-    {
-      "id": "nc75382056",
-      "lon": -122.803337097168,
-      "lat": 38.8346672058105,
-      "depth": 1.79999995231628,
-      "mag": 1.02,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1782214159950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382056"
     }
   ]
 }
