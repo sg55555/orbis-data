@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-24T10:31:10Z",
-  "count": 292,
+  "updated": "2026-06-24T10:45:59Z",
+  "count": 291,
   "points": [
+    {
+      "id": "nc75382806",
+      "lon": -122.776832580566,
+      "lat": 38.7495002746582,
+      "depth": 21.7900009155273,
+      "mag": 1,
+      "place": "4 km SSW of The Geysers, CA",
+      "time": 1782297171930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382806"
+    },
     {
       "id": "ci41494272",
       "lon": -118.3885,
@@ -42,6 +52,16 @@
       "place": "63 km ENE of Ouzinkie, Alaska",
       "time": 1782295165142,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mkduqr"
+    },
+    {
+      "id": "tx2026mieeob",
+      "lon": -104.391,
+      "lat": 31.678,
+      "depth": 6.0999,
+      "mag": 1.6,
+      "place": "55 km S of Whites City, New Mexico",
+      "time": 1782295082298,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mieeob"
     },
     {
       "id": "tx2026mieaxm",
@@ -2892,36 +2912,6 @@
       "place": "13 km WSW of Stanton, Texas",
       "time": 1782211742549,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mgkdoe"
-    },
-    {
-      "id": "us6000t7lx",
-      "lon": 176.2819,
-      "lat": 51.9243,
-      "depth": 47.198,
-      "mag": 3.9,
-      "place": "234 km ESE of Attu Station, Alaska",
-      "time": 1782211292010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7lx"
-    },
-    {
-      "id": "nc75382041",
-      "lon": -122.847999572754,
-      "lat": 38.8481674194336,
-      "depth": 1.88999998569489,
-      "mag": 0.68,
-      "place": "11 km NW of The Geysers, CA",
-      "time": 1782211107100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382041"
-    },
-    {
-      "id": "ci41493232",
-      "lon": -116.426833333333,
-      "lat": 33.0425,
-      "depth": 12.46,
-      "mag": 0.45,
-      "place": "17 km ESE of Julian, CA",
-      "time": 1782210672650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493232"
     }
   ]
 }
