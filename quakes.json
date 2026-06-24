@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-24T08:15:55Z",
-  "count": 303,
+  "updated": "2026-06-24T08:31:10Z",
+  "count": 302,
   "points": [
+    {
+      "id": "ci41494216",
+      "lon": -115.660666666667,
+      "lat": 32.6631666666667,
+      "depth": 9.88,
+      "mag": 1.29,
+      "place": "12 km NW of Progreso, B.C., MX",
+      "time": 1782289087270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494216"
+    },
     {
       "id": "aka2026mkacod",
       "lon": -152.226,
@@ -3012,26 +3022,6 @@
       "place": "99 km NW of Aleneva, Alaska",
       "time": 1782203649770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94263933"
-    },
-    {
-      "id": "av94263908",
-      "lon": -152.764333333333,
-      "lat": 60.491,
-      "depth": 0.47,
-      "mag": -0.9,
-      "place": "78 km NW of Ninilchik, Alaska",
-      "time": 1782202831510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94263908"
-    },
-    {
-      "id": "tx2026mgfdqm",
-      "lon": -103.927,
-      "lat": 31.733,
-      "depth": 6.9073,
-      "mag": 0.5,
-      "place": "31 km W of Mentone, Texas",
-      "time": 1782202699592,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mgfdqm"
     }
   ]
 }
