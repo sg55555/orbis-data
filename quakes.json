@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-24T09:31:15Z",
+  "updated": "2026-06-24T09:45:59Z",
   "count": 294,
   "points": [
+    {
+      "id": "ci41494248",
+      "lon": -117.5525,
+      "lat": 34.044,
+      "depth": 10.89,
+      "mag": 1.01,
+      "place": "7 km NNW of Mira Loma, CA",
+      "time": 1782293997370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494248"
+    },
+    {
+      "id": "nc75382781",
+      "lon": -122.753997802734,
+      "lat": 38.7956657409668,
+      "depth": 1.27999997138977,
+      "mag": 0.73,
+      "place": "2 km N of The Geysers, CA",
+      "time": 1782293367340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382781"
+    },
     {
       "id": "tx2026micvfg",
       "lon": -101.906,
@@ -972,6 +992,16 @@
       "place": "3 km SE of Pinnacles, CA",
       "time": 1782259433710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382526"
+    },
+    {
+      "id": "tx2026mhkfig",
+      "lon": -101.931,
+      "lat": 32.11,
+      "depth": 8.5693,
+      "mag": 0.8,
+      "place": "13 km W of Stanton, Texas",
+      "time": 1782258934324,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mhkfig"
     },
     {
       "id": "us6000t7rf",
@@ -2912,36 +2942,6 @@
       "place": "96 km N of Karluk, Alaska",
       "time": 1782208083620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062519"
-    },
-    {
-      "id": "nc75382026",
-      "lon": -122.807166666667,
-      "lat": 38.8341666666667,
-      "depth": 2.75,
-      "mag": 0.32,
-      "place": "7 km W of Cobb, CA",
-      "time": 1782207822500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382026"
-    },
-    {
-      "id": "nc75382021",
-      "lon": -122.80883026123,
-      "lat": 38.8375015258789,
-      "depth": 2.16000008583069,
-      "mag": 0.37,
-      "place": "8 km WNW of Cobb, CA",
-      "time": 1782207260620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382021"
-    },
-    {
-      "id": "ci41493184",
-      "lon": -117.855833333333,
-      "lat": 36.3741666666667,
-      "depth": 1.96,
-      "mag": 1.73,
-      "place": "17 km NE of Olancha, CA",
-      "time": 1782207083210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493184"
     }
   ]
 }
