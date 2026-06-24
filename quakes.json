@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-24T21:57:58Z",
-  "count": 316,
+  "updated": "2026-06-24T22:01:17Z",
+  "count": 318,
   "points": [
+    {
+      "id": "ci41494760",
+      "lon": -116.717330932617,
+      "lat": 33.5286674499512,
+      "depth": 3.41000008583069,
+      "mag": 2.10675539861422,
+      "place": "5 km SW of Anza, CA",
+      "time": 1782338331640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494760"
+    },
+    {
+      "id": "tx2026mjbysd",
+      "lon": -100.402,
+      "lat": 32.201,
+      "depth": 5.6937,
+      "mag": 1.5,
+      "place": "14 km NNW of Blackwell, Texas",
+      "time": 1782338128231,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjbysd"
+    },
     {
       "id": "nc75383546",
       "lon": -123.227836608887,
@@ -45,12 +65,12 @@
     },
     {
       "id": "tx2026mjajfa",
-      "lon": -104.276,
-      "lat": 31.596,
-      "depth": 3.9926,
+      "lon": -104.255,
+      "lat": 31.609,
+      "depth": 4.9719,
       "mag": 1.5,
-      "place": "55 km NW of Toyah, Texas",
-      "time": 1782335243557,
+      "place": "54 km NW of Toyah, Texas",
+      "time": 1782335243751,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjajfa"
     },
     {
@@ -2744,6 +2764,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382536"
     },
     {
+      "id": "av94265703",
+      "lon": -153.1235,
+      "lat": 60.0545,
+      "depth": -1.03,
+      "mag": -0.79,
+      "place": "62 km ENE of Pedro Bay, Alaska",
+      "time": 1782263104620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94265703"
+    },
+    {
       "id": "ci10245142",
       "lon": -116.081666666667,
       "lat": 33.2321666666667,
@@ -2772,6 +2802,16 @@
       "place": "11 km NNE of Ocotillo Wells, CA",
       "time": 1782262652060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493992"
+    },
+    {
+      "id": "av94265693",
+      "lon": -152.351,
+      "lat": 61.3066666666667,
+      "depth": 2.99,
+      "mag": 0.09,
+      "place": "70 km WNW of Tyonek, Alaska",
+      "time": 1782262390290,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94265693"
     },
     {
       "id": "av94265688",
@@ -3142,26 +3182,6 @@
       "place": "28 km WSW of Olancha, CA",
       "time": 1782252774840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41493872"
-    },
-    {
-      "id": "av94265278",
-      "lon": -153.064666666667,
-      "lat": 60.0726666666667,
-      "depth": 2.16,
-      "mag": -0.42,
-      "place": "66 km ENE of Pedro Bay, Alaska",
-      "time": 1782252053510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94265278"
-    },
-    {
-      "id": "av94265268",
-      "lon": -158.180833333333,
-      "lat": 56.8658333333333,
-      "depth": 3.47,
-      "mag": 0.13,
-      "place": "65 km NNE of Chignik, Alaska",
-      "time": 1782251906100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94265268"
     }
   ]
 }
