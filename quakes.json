@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T14:45:53Z",
-  "count": 261,
+  "updated": "2026-06-25T15:11:07Z",
+  "count": 256,
   "points": [
+    {
+      "id": "hv74990832",
+      "lon": -155.486999511719,
+      "lat": 19.2481670379639,
+      "depth": -1.3400000333786,
+      "mag": 2.56,
+      "place": "5 km N of Pāhala, Hawaii",
+      "time": 1782400009230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74990832"
+    },
+    {
+      "id": "aka2026mmjhby",
+      "lon": -158.701,
+      "lat": 58.8,
+      "depth": 0.7,
+      "mag": 1.9,
+      "place": "9 km WSW of Clarks Point, Alaska",
+      "time": 1782398579649,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mmjhby"
+    },
     {
       "id": "nc75384011",
       "lon": -122.806831359863,
@@ -22,6 +42,16 @@
       "place": "23 km N of Ridgecrest, CA",
       "time": 1782397605190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495064"
+    },
+    {
+      "id": "tx2026mkitzd",
+      "lon": -100.589,
+      "lat": 32.837,
+      "depth": 8.7646,
+      "mag": 1.5,
+      "place": "11 km W of Rotan, Texas",
+      "time": 1782397549000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mkitzd"
     },
     {
       "id": "aka2026mminor",
@@ -625,12 +655,12 @@
     },
     {
       "id": "ci41494928",
-      "lon": -118.718,
-      "lat": 33.8658333333333,
-      "depth": 3.23,
-      "mag": 1.96,
+      "lon": -118.713333333333,
+      "lat": 33.8646666666667,
+      "depth": 3.77,
+      "mag": 2.23,
       "place": "18 km SSE of Malibu, CA",
-      "time": 1782373946970,
+      "time": 1782373946990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494928"
     },
     {
@@ -2532,86 +2562,6 @@
       "place": "15 km ENE of Indio, CA",
       "time": 1782313928220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10245150"
-    },
-    {
-      "id": "nc75382936",
-      "lon": -123.228833333333,
-      "lat": 39.3623333333333,
-      "depth": 8.85,
-      "mag": 5.59,
-      "place": "11 km N of Redwood Valley, CA",
-      "time": 1782313840760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382936"
-    },
-    {
-      "id": "nc75382931",
-      "lon": -122.81266784668,
-      "lat": 38.8153343200684,
-      "depth": 2.71000003814697,
-      "mag": 1.37,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1782313699880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382931"
-    },
-    {
-      "id": "av94267308",
-      "lon": -178.784333333333,
-      "lat": 51.809,
-      "depth": 6.58,
-      "mag": 0.19,
-      "place": "148 km W of Adak, Alaska",
-      "time": 1782313353020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94267308"
-    },
-    {
-      "id": "ci41494368",
-      "lon": -117.678666666667,
-      "lat": 35.95,
-      "depth": 5.09,
-      "mag": 0.79,
-      "place": "21 km E of Little Lake, CA",
-      "time": 1782313306100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494368"
-    },
-    {
-      "id": "nc75382916",
-      "lon": -122.807830810547,
-      "lat": 38.8153343200684,
-      "depth": -0.610000014305115,
-      "mag": 0.74,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1782313267920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382916"
-    },
-    {
-      "id": "uu80143231",
-      "lon": -110.436666666667,
-      "lat": 44.8178333333333,
-      "depth": 10.43,
-      "mag": 1.78,
-      "place": "27 km SE of Mammoth, Wyoming",
-      "time": 1782313145470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143231"
-    },
-    {
-      "id": "tx2026miocym",
-      "lon": -102.153,
-      "lat": 32.129,
-      "depth": 0.7423,
-      "mag": 1.2,
-      "place": "16 km NNW of Midland, Texas",
-      "time": 1782313078383,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026miocym"
-    },
-    {
-      "id": "aka2026mknngi",
-      "lon": -157.089,
-      "lat": 56.282,
-      "depth": 18.9,
-      "mag": 1.6,
-      "place": "81 km E of Chignik, Alaska",
-      "time": 1782312647022,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mknngi"
     }
   ]
 }
