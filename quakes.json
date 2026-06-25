@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T11:45:50Z",
-  "count": 264,
+  "updated": "2026-06-25T12:01:20Z",
+  "count": 262,
   "points": [
+    {
+      "id": "ci41494992",
+      "lon": -117.81,
+      "lat": 35.2956666666667,
+      "depth": 8.32,
+      "mag": 1.22,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": 1782388455250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494992"
+    },
+    {
+      "id": "nc75383946",
+      "lon": -123.22533416748,
+      "lat": 39.3783340454102,
+      "depth": 8.06999969482422,
+      "mag": 1.57,
+      "place": "12 km ESE of Willits, CA",
+      "time": 1782388057870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383946"
+    },
+    {
+      "id": "hv74990767",
+      "lon": -155.433837890625,
+      "lat": 19.2368335723877,
+      "depth": -0.540000021457672,
+      "mag": 1.73,
+      "place": "6 km NE of Pāhala, Hawaii",
+      "time": 1782388048660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74990767"
+    },
     {
       "id": "hv74990762",
       "lon": -155.384674072266,
@@ -312,6 +342,16 @@
       "place": "61 km N of Petersville, Alaska",
       "time": 1782375362541,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mlwjof"
+    },
+    {
+      "id": "tx2026mjwjyr",
+      "lon": -101.668,
+      "lat": 31.873,
+      "depth": 8.8379,
+      "mag": 0.7,
+      "place": "17 km W of Garden City, Texas",
+      "time": 1782375112111,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjwjyr"
     },
     {
       "id": "nc75383816",
@@ -854,16 +894,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383676"
     },
     {
-      "id": "tx2026mjjhom",
-      "lon": -103.691,
-      "lat": 30.887,
-      "depth": 3.6369,
-      "mag": 2,
-      "place": "11 km SSE of Balmorhea, Texas",
-      "time": 1782351425429,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjjhom"
-    },
-    {
       "id": "aka2026mlifce",
       "lon": -155.818,
       "lat": 56.111,
@@ -1115,12 +1145,12 @@
     },
     {
       "id": "tx2026mjbysd",
-      "lon": -100.402,
-      "lat": 32.201,
-      "depth": 5.6937,
-      "mag": 1.5,
-      "place": "14 km NNW of Blackwell, Texas",
-      "time": 1782338128231,
+      "lon": -101.051,
+      "lat": 32.144,
+      "depth": 2.1973,
+      "mag": 0.6,
+      "place": "23 km S of Westbrook, Texas",
+      "time": 1782338127179,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjbysd"
     },
     {
@@ -2592,56 +2622,6 @@
       "place": "7 km NNW of Julian, CA",
       "time": 1782302794270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494288"
-    },
-    {
-      "id": "nc75382851",
-      "lon": -122.764167785645,
-      "lat": 38.8231658935547,
-      "depth": 2.19000005722046,
-      "mag": 0.55,
-      "place": "4 km W of Cobb, CA",
-      "time": 1782302355590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382851"
-    },
-    {
-      "id": "aka2026mkhsze",
-      "lon": -159.05,
-      "lat": 56.053,
-      "depth": 82.9,
-      "mag": 0.9,
-      "place": "16 km NNE of Perryville, Alaska",
-      "time": 1782302247665,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mkhsze"
-    },
-    {
-      "id": "aka2026mkhmli",
-      "lon": -156.211,
-      "lat": 56.005,
-      "depth": 5,
-      "mag": 1.7,
-      "place": "140 km ESE of Chignik, Alaska",
-      "time": 1782301796253,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mkhmli"
-    },
-    {
-      "id": "nc75382846",
-      "lon": -122.005996704102,
-      "lat": 40.3096656799316,
-      "depth": 4.09000015258789,
-      "mag": 2.09,
-      "place": "17 km SW of Manton, CA",
-      "time": 1782301786710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382846"
-    },
-    {
-      "id": "pr71521043",
-      "lon": -67.0471666666667,
-      "lat": 18.7541666666667,
-      "depth": 34.15,
-      "mag": 2.77,
-      "place": "28 km N of Isabela, Puerto Rico",
-      "time": 1782301526310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521043"
     }
   ]
 }
