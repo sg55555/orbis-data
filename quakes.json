@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T09:15:51Z",
-  "count": 278,
+  "updated": "2026-06-25T09:31:08Z",
+  "count": 280,
   "points": [
+    {
+      "id": "ci41494960",
+      "lon": -118.624496459961,
+      "lat": 34.3593330383301,
+      "depth": 8.68000030517578,
+      "mag": 1.80255556506269,
+      "place": "12 km N of Chatsworth, CA",
+      "time": 1782379641840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494960"
+    },
+    {
+      "id": "ci41494952",
+      "lon": -116.163333333333,
+      "lat": 33.9,
+      "depth": 5.27,
+      "mag": 0.8,
+      "place": "21 km NNE of Indio, CA",
+      "time": 1782379357620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494952"
+    },
+    {
+      "id": "ci41494944",
+      "lon": -116.711,
+      "lat": 33.5406666666667,
+      "depth": 5.78,
+      "mag": 0.29,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1782378732860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494944"
+    },
     {
       "id": "nc75383871",
       "lon": -123.232330322266,
@@ -902,6 +932,16 @@
       "place": "5 km SW of Anza, CA",
       "time": 1782338331680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494760"
+    },
+    {
+      "id": "tx2026mjcabf",
+      "lon": -102.1,
+      "lat": 32.343,
+      "depth": 7.2021,
+      "mag": 0.8,
+      "place": "37 km NW of Stanton, Texas",
+      "time": 1782338224795,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjcabf"
     },
     {
       "id": "tx2026mjbysd",
@@ -2762,26 +2802,6 @@
       "place": "37 km NNE of Amboy, Washington",
       "time": 1782293793470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714031161"
-    },
-    {
-      "id": "nc75382781",
-      "lon": -122.753997802734,
-      "lat": 38.7956657409668,
-      "depth": 1.27999997138977,
-      "mag": 0.73,
-      "place": "2 km N of The Geysers, CA",
-      "time": 1782293367340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382781"
-    },
-    {
-      "id": "tx2026micvfg",
-      "lon": -101.912,
-      "lat": 32.108,
-      "depth": 8.9355,
-      "mag": 1.7,
-      "place": "11 km WSW of Stanton, Texas",
-      "time": 1782292657128,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026micvfg"
     }
   ]
 }
