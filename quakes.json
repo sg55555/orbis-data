@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T19:45:50Z",
+  "updated": "2026-06-25T20:01:25Z",
   "count": 208,
   "points": [
+    {
+      "id": "ci41495440",
+      "lon": -118.2085,
+      "lat": 33.9193333333333,
+      "depth": 5.1,
+      "mag": 1.53,
+      "place": "1 km SSE of Lynwood, CA",
+      "time": 1782417441050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495440"
+    },
     {
       "id": "nc75384286",
       "lon": -121.039665222168,
@@ -45,9 +55,9 @@
     },
     {
       "id": "ci41495408",
-      "lon": -116.712501525879,
-      "lat": 33.5363349914551,
-      "depth": 5.8600001335144,
+      "lon": -116.712166666667,
+      "lat": 33.536,
+      "depth": 5.83,
       "mag": 1.05630697036167,
       "place": "4 km WSW of Anza, CA",
       "time": 1782416004550,
@@ -122,6 +132,16 @@
       "place": "8 km NNW of Redwood Valley, CA",
       "time": 1782412491050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384221"
+    },
+    {
+      "id": "hv74990967",
+      "lon": -155.679833333333,
+      "lat": 19.4143333333333,
+      "depth": 9.61,
+      "mag": 2.66,
+      "place": "19 km ESE of Honaunau-Napoopoo, Hawaii",
+      "time": 1782412470550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74990967"
     },
     {
       "id": "hv74990962",
@@ -1404,6 +1424,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t815"
     },
     {
+      "id": "av93062634",
+      "lon": -177.829333333333,
+      "lat": 51.8576666666667,
+      "depth": 4.64,
+      "mag": 1.36,
+      "place": "82 km W of Adak, Alaska",
+      "time": 1782359505790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062634"
+    },
+    {
       "id": "ci41494856",
       "lon": -116.409333333333,
       "lat": 33.0281666666667,
@@ -2052,36 +2082,6 @@
       "place": "124 km SW of Adak, Alaska",
       "time": 1782331399963,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mkxyfx"
-    },
-    {
-      "id": "av94267808",
-      "lon": -155.346166666667,
-      "lat": 58.1733333333333,
-      "depth": 1.12,
-      "mag": -0.7,
-      "place": "85 km NW of Karluk, Alaska",
-      "time": 1782331117550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94267808"
-    },
-    {
-      "id": "nc75383396",
-      "lon": -123.237663269043,
-      "lat": 39.3858337402344,
-      "depth": 7.75,
-      "mag": 1.41,
-      "place": "10 km ESE of Willits, CA",
-      "time": 1782330828390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383396"
-    },
-    {
-      "id": "uw714031581",
-      "lon": -123.094166666667,
-      "lat": 47.104,
-      "depth": -0.21,
-      "mag": 1.4,
-      "place": "12 km S of Shelton, Washington",
-      "time": 1782330309960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714031581"
     }
   ]
 }
