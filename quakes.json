@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T04:01:13Z",
-  "count": 304,
+  "updated": "2026-06-25T04:15:47Z",
+  "count": 303,
   "points": [
+    {
+      "id": "us6000t815",
+      "lon": 50.8792,
+      "lat": 13.3421,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "152 km N of Caluula, Somalia",
+      "time": 1782359604853,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t815"
+    },
     {
       "id": "ci41494856",
       "lon": -116.409333333333,
@@ -3022,26 +3032,6 @@
       "place": "17 km NW of Ninilchik, Alaska",
       "time": 1782274576241,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mjsjbm"
-    },
-    {
-      "id": "av94266108",
-      "lon": -169.814333333333,
-      "lat": 52.8553333333333,
-      "depth": -0.35,
-      "mag": 1.05,
-      "place": "64 km W of Nikolski, Alaska",
-      "time": 1782274454460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94266108"
-    },
-    {
-      "id": "ci41494088",
-      "lon": -116.084,
-      "lat": 33.2286666666667,
-      "depth": 8.87,
-      "mag": 0.98,
-      "place": "10 km NNE of Ocotillo Wells, CA",
-      "time": 1782274070790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494088"
     }
   ]
 }
