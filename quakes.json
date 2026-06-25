@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T03:15:44Z",
-  "count": 308,
+  "updated": "2026-06-25T03:31:02Z",
+  "count": 306,
   "points": [
+    {
+      "id": "ci41494824",
+      "lon": -116.794333333333,
+      "lat": 33.4888333333333,
+      "depth": 8.62,
+      "mag": 0.75,
+      "place": "8 km NE of Aguanga, CA",
+      "time": 1782357785950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494824"
+    },
+    {
+      "id": "aka2026mlmnbx",
+      "lon": -149.64,
+      "lat": 61.682,
+      "depth": 31.9,
+      "mag": 1.9,
+      "place": "6 km NNW of Meadow Lakes, Alaska",
+      "time": 1782357615134,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mlmnbx"
+    },
+    {
+      "id": "aka2026mlmjpy",
+      "lon": -151.966,
+      "lat": 60.259,
+      "depth": 85.2,
+      "mag": 2.6,
+      "place": "28 km NW of Ninilchik, Alaska",
+      "time": 1782357382707,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mlmjpy"
+    },
     {
       "id": "ci41494816",
       "lon": -116.640333333333,
@@ -992,6 +1022,16 @@
       "place": "5 km SSE of Monroe, Oregon",
       "time": 1782321734250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714031471"
+    },
+    {
+      "id": "av94267548",
+      "lon": -178.641666666667,
+      "lat": 51.73,
+      "depth": 23.33,
+      "mag": 0.97,
+      "place": "139 km W of Adak, Alaska",
+      "time": 1782321305520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94267548"
     },
     {
       "id": "ci41494432",
@@ -2915,12 +2955,12 @@
     },
     {
       "id": "hv74989722",
-      "lon": -155.359664916992,
-      "lat": 19.0590000152588,
-      "depth": 30.9099998474121,
-      "mag": 2.27,
-      "place": "20 km SE of Pāhala, Hawaii",
-      "time": 1782274741600,
+      "lon": -155.3575,
+      "lat": 19.0845,
+      "depth": 33.5,
+      "mag": 2.17,
+      "place": "18 km SE of Pāhala, Hawaii",
+      "time": 1782274741690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74989722"
     },
     {
@@ -3022,66 +3062,6 @@
       "place": "78 km SSW of Lumatil, Philippines",
       "time": 1782271926910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7s8"
-    },
-    {
-      "id": "us6000t7s7",
-      "lon": 128.5566,
-      "lat": -6.2707,
-      "depth": 344.617,
-      "mag": 4.6,
-      "place": "287 km S of Ambon, Indonesia",
-      "time": 1782271616139,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7s7"
-    },
-    {
-      "id": "ci41494064",
-      "lon": -115.832833333333,
-      "lat": 32.7788333333333,
-      "depth": 4.82,
-      "mag": 1.3,
-      "place": "16 km ENE of Ocotillo, CA",
-      "time": 1782271444310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494064"
-    },
-    {
-      "id": "aka2026mjqlzo",
-      "lon": -155.353,
-      "lat": 58.147,
-      "depth": 5,
-      "mag": 0.2,
-      "place": "83 km NW of Karluk, Alaska",
-      "time": 1782271178204,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mjqlzo"
-    },
-    {
-      "id": "pr71521028",
-      "lon": -66.9406666666667,
-      "lat": 17.8891666666667,
-      "depth": 11.52,
-      "mag": 2.2,
-      "place": "9 km SSW of Guánica, Puerto Rico",
-      "time": 1782271082460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521028"
-    },
-    {
-      "id": "av94265973",
-      "lon": -152.0775,
-      "lat": 61.4231666666667,
-      "depth": 9.07,
-      "mag": -0.24,
-      "place": "61 km WNW of Beluga, Alaska",
-      "time": 1782270969390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94265973"
-    },
-    {
-      "id": "uw714031091",
-      "lon": -122.831166666667,
-      "lat": 47.7905,
-      "depth": 20.03,
-      "mag": 1.42,
-      "place": "4 km SE of Quilcene, Washington",
-      "time": 1782270947940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714031091"
     }
   ]
 }
