@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T06:31:06Z",
-  "count": 274,
+  "updated": "2026-06-25T06:45:49Z",
+  "count": 275,
   "points": [
+    {
+      "id": "ci41494904",
+      "lon": -116.5495,
+      "lat": 33.451,
+      "depth": 10.72,
+      "mag": 1.05,
+      "place": "16 km SE of Anza, CA",
+      "time": 1782369407940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494904"
+    },
+    {
+      "id": "us6000t81q",
+      "lon": 152.791,
+      "lat": -4.2981,
+      "depth": 52.51,
+      "mag": 5.4,
+      "place": "58 km E of Kokopo, Papua New Guinea",
+      "time": 1782368378278,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t81q"
+    },
     {
       "id": "ci41494896",
       "lon": -116.87,
@@ -12,6 +32,16 @@
       "place": "8 km S of Banning, CA",
       "time": 1782367969410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494896"
+    },
+    {
+      "id": "us6000t81p",
+      "lon": -66.5057,
+      "lat": 10.5111,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "5 km NE of Guatire, Venezuela",
+      "time": 1782366503136,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t81p"
     },
     {
       "id": "nc75383746",
@@ -2722,26 +2752,6 @@
       "place": "13 km WSW of Stanton, Texas",
       "time": 1782283684976,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mhxwul"
-    },
-    {
-      "id": "ci41494168",
-      "lon": -117.658666666667,
-      "lat": 34.3665,
-      "depth": 5.52,
-      "mag": 1.41,
-      "place": "2 km WNW of Wrightwood, CA",
-      "time": 1782283076080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494168"
-    },
-    {
-      "id": "uu80143196",
-      "lon": -111.018833333333,
-      "lat": 44.8228333333333,
-      "depth": 8.2,
-      "mag": 0.88,
-      "place": "14 km ENE of Hebgen Lake Estates, Montana",
-      "time": 1782282931360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143196"
     }
   ]
 }
