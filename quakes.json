@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T11:31:07Z",
-  "count": 266,
+  "updated": "2026-06-25T11:45:50Z",
+  "count": 264,
   "points": [
+    {
+      "id": "hv74990762",
+      "lon": -155.384674072266,
+      "lat": 19.242000579834,
+      "depth": 30.4200000762939,
+      "mag": 2.25,
+      "place": "10 km ENE of Pāhala, Hawaii",
+      "time": 1782387560520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74990762"
+    },
     {
       "id": "nc75383921",
       "lon": -121.341331481934,
@@ -482,6 +492,16 @@
       "place": "16 km SE of Anza, CA",
       "time": 1782369407940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494904"
+    },
+    {
+      "id": "pr71521153",
+      "lon": -67.0026666666667,
+      "lat": 18.166,
+      "depth": 20.33,
+      "mag": 2.73,
+      "place": "2 km SW of Maricao, Puerto Rico",
+      "time": 1782368951440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521153"
     },
     {
       "id": "us6000t81q",
@@ -1042,16 +1062,6 @@
       "place": "7 km SSW of Boonville, CA",
       "time": 1782339516730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383571"
-    },
-    {
-      "id": "tx2026mjcrfo",
-      "lon": -101.894,
-      "lat": 32.094,
-      "depth": 3.1151,
-      "mag": 1.5,
-      "place": "10 km WSW of Stanton, Texas",
-      "time": 1782339416682,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjcrfo"
     },
     {
       "id": "us6000t7zp",
@@ -2632,36 +2642,6 @@
       "place": "28 km N of Isabela, Puerto Rico",
       "time": 1782301526310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521043"
-    },
-    {
-      "id": "nc75382836",
-      "lon": -122.023666381836,
-      "lat": 40.2386665344238,
-      "depth": 21.9599990844727,
-      "mag": 1.86,
-      "place": "19 km ENE of Red Bluff, CA",
-      "time": 1782301478640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382836"
-    },
-    {
-      "id": "nc75382831",
-      "lon": -121.400329589844,
-      "lat": 36.780834197998,
-      "depth": 5.48999977111816,
-      "mag": 1.24,
-      "place": "5 km SW of Ridgemark, CA",
-      "time": 1782301308600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382831"
-    },
-    {
-      "id": "aka2026mkgzvc",
-      "lon": -152.298,
-      "lat": 60.401,
-      "depth": 103.3,
-      "mag": 2.4,
-      "place": "52 km NW of Ninilchik, Alaska",
-      "time": 1782300942158,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mkgzvc"
     }
   ]
 }
