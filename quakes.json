@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T13:15:53Z",
-  "count": 267,
+  "updated": "2026-06-25T13:31:15Z",
+  "count": 266,
   "points": [
+    {
+      "id": "nc75383981",
+      "lon": -122.848999023438,
+      "lat": 38.8513336181641,
+      "depth": 0.790000021457672,
+      "mag": 1.29,
+      "place": "11 km WNW of Cobb, CA",
+      "time": 1782393804800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383981"
+    },
+    {
+      "id": "nc75383976",
+      "lon": -123.208999633789,
+      "lat": 39.3331680297852,
+      "depth": 3.3199999332428,
+      "mag": 1.49,
+      "place": "8 km N of Redwood Valley, CA",
+      "time": 1782393723760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383976"
+    },
     {
       "id": "hv74990787",
       "lon": -155.356994628906,
@@ -45,12 +65,12 @@
     },
     {
       "id": "uu80143306",
-      "lon": -111.6795,
-      "lat": 41.6646666666667,
-      "depth": 3.02,
-      "mag": 2.63,
+      "lon": -111.673,
+      "lat": 41.662,
+      "depth": 9.08,
+      "mag": 2.59,
       "place": "12 km E of Millville, Utah",
-      "time": 1782391975140,
+      "time": 1782391974810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143306"
     },
     {
@@ -845,12 +865,12 @@
     },
     {
       "id": "ci41494872",
-      "lon": -117.015666666667,
-      "lat": 33.6646666666667,
-      "depth": 10.88,
+      "lon": -117.015333333333,
+      "lat": 33.6651666666667,
+      "depth": 10.92,
       "mag": 0.76,
       "place": "8 km SE of Winchester, CA",
-      "time": 1782361622850,
+      "time": 1782361622840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494872"
     },
     {
@@ -2642,36 +2662,6 @@
       "place": "64 km ENE of Pedro Bay, Alaska",
       "time": 1782307898480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94267133"
-    },
-    {
-      "id": "us6000t7un",
-      "lon": 179.8323,
-      "lat": -25.1509,
-      "depth": 512.681,
-      "mag": 4.5,
-      "place": "south of the Fiji Islands",
-      "time": 1782307174898,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7un"
-    },
-    {
-      "id": "aka2026mkkkco",
-      "lon": -152.84,
-      "lat": 60.215,
-      "depth": 124.9,
-      "mag": 1.9,
-      "place": "67 km WNW of Ninilchik, Alaska",
-      "time": 1782307026263,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mkkkco"
-    },
-    {
-      "id": "aka2026mkkjrj",
-      "lon": -135.576,
-      "lat": 58.459,
-      "depth": 5,
-      "mag": 2.5,
-      "place": "8 km WNW of Excursion Inlet, Alaska",
-      "time": 1782307000790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mkkjrj"
     }
   ]
 }
