@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T10:01:14Z",
-  "count": 275,
+  "updated": "2026-06-25T10:15:52Z",
+  "count": 272,
   "points": [
+    {
+      "id": "ci41494976",
+      "lon": -116.163333333333,
+      "lat": 33.8995,
+      "depth": 5.05,
+      "mag": 1.01,
+      "place": "20 km NNE of Indio, CA",
+      "time": 1782381570760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494976"
+    },
     {
       "id": "aka2026mlzmkp",
       "lon": -152.877,
@@ -222,6 +232,16 @@
       "place": "14 km SE of Yosemite Valley, CA",
       "time": 1782374889400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383816"
+    },
+    {
+      "id": "tx2026mjwgba",
+      "lon": -102.075,
+      "lat": 32.349,
+      "depth": 7.373,
+      "mag": 0.6,
+      "place": "36 km NW of Stanton, Texas",
+      "time": 1782374846451,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjwgba"
     },
     {
       "id": "nc75383811",
@@ -1022,16 +1042,6 @@
       "place": "12 km N of Redwood Valley, CA",
       "time": 1782338065720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383546"
-    },
-    {
-      "id": "nc75383541",
-      "lon": -123.251335144043,
-      "lat": 39.336498260498,
-      "depth": 7.65000009536743,
-      "mag": 1.11,
-      "place": "9 km NNW of Redwood Valley, CA",
-      "time": 1782338033850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383541"
     },
     {
       "id": "nc75383536",
@@ -2712,46 +2722,6 @@
       "place": "15 km ENE of Hebgen Lake Estates, Montana",
       "time": 1782296740560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143221"
-    },
-    {
-      "id": "ci41494272",
-      "lon": -118.387166666667,
-      "lat": 36.6453333333333,
-      "depth": 3.26,
-      "mag": 1.59,
-      "place": "24 km SW of Independence, CA",
-      "time": 1782295872100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494272"
-    },
-    {
-      "id": "ci41494264",
-      "lon": -116.446833333333,
-      "lat": 33.4951666666667,
-      "depth": 14.41,
-      "mag": 0.3,
-      "place": "22 km ESE of Anza, CA",
-      "time": 1782295765340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494264"
-    },
-    {
-      "id": "tx2026mieoey",
-      "lon": -101.143,
-      "lat": 32.069,
-      "depth": 8.3008,
-      "mag": 1.3,
-      "place": "21 km ESE of Forsan, Texas",
-      "time": 1782295757964,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mieoey"
-    },
-    {
-      "id": "aka2026mkecnx",
-      "lon": -150.319,
-      "lat": 63.412,
-      "depth": 0,
-      "mag": 1.6,
-      "place": "68 km W of Cantwell, Alaska",
-      "time": 1782295703876,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mkecnx"
     }
   ]
 }
