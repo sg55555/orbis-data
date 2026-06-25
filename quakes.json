@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T02:31:03Z",
-  "count": 313,
+  "updated": "2026-06-25T02:45:47Z",
+  "count": 312,
   "points": [
+    {
+      "id": "us6000t80r",
+      "lon": -68.8588,
+      "lat": -22.1754,
+      "depth": 115.669,
+      "mag": 4.4,
+      "place": "31 km NNE of Calama, Chile",
+      "time": 1782353825326,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t80r"
+    },
     {
       "id": "aka2026mljvpc",
       "lon": -155.712,
@@ -534,6 +544,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74990137"
     },
     {
+      "id": "av94267793",
+      "lon": -169.925166666667,
+      "lat": 52.8135,
+      "depth": 4.3,
+      "mag": 1.49,
+      "place": "72 km WSW of Nikolski, Alaska",
+      "time": 1782329244510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94267793"
+    },
+    {
       "id": "nc75383346",
       "lon": -122.80233001709,
       "lat": 38.7958335876465,
@@ -562,6 +582,16 @@
       "place": "5 km S of Idyllwild, CA",
       "time": 1782328704240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494624"
+    },
+    {
+      "id": "av94267763",
+      "lon": -152.299333333333,
+      "lat": 61.21,
+      "depth": 5.82,
+      "mag": -0.42,
+      "place": "64 km WNW of Tyonek, Alaska",
+      "time": 1782328690070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94267763"
     },
     {
       "id": "ci41494616",
@@ -632,16 +662,6 @@
       "place": "3 km E of Lexington, Oregon",
       "time": 1782326625420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714031501"
-    },
-    {
-      "id": "av94267688",
-      "lon": -176.432166666667,
-      "lat": 51.4525,
-      "depth": 51.95,
-      "mag": 1.46,
-      "place": "48 km SSE of Adak, Alaska",
-      "time": 1782326182870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94267688"
     },
     {
       "id": "nc75383296",
@@ -3102,36 +3122,6 @@
       "place": "4 km NW of The Geysers, CA",
       "time": 1782269127170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382576"
-    },
-    {
-      "id": "nc75382571",
-      "lon": -122.809829711914,
-      "lat": 38.832332611084,
-      "depth": 1.91999995708466,
-      "mag": 0.73,
-      "place": "8 km W of Cobb, CA",
-      "time": 1782268562210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382571"
-    },
-    {
-      "id": "ci41494048",
-      "lon": -116.709666666667,
-      "lat": 33.541,
-      "depth": 5.63,
-      "mag": 0.3,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1782268426990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494048"
-    },
-    {
-      "id": "aka2026mjoybx",
-      "lon": -155.532,
-      "lat": 56.823,
-      "depth": 6.2,
-      "mag": 1.9,
-      "place": "84 km W of Akhiok, Alaska",
-      "time": 1782268416341,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mjoybx"
     }
   ]
 }
