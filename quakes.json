@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-24T23:45:48Z",
-  "count": 325,
+  "updated": "2026-06-25T00:01:18Z",
+  "count": 327,
   "points": [
+    {
+      "id": "hv74990372",
+      "lon": -155.373168945312,
+      "lat": 19.0563335418701,
+      "depth": 28.1399993896484,
+      "mag": 1.76,
+      "place": "19 km SE of Pāhala, Hawaii",
+      "time": 1782345065480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74990372"
+    },
+    {
+      "id": "aka2026mlfhuz",
+      "lon": -152.269,
+      "lat": 61.076,
+      "depth": 127.7,
+      "mag": 2.6,
+      "place": "61 km W of Tyonek, Alaska",
+      "time": 1782344655922,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mlfhuz"
+    },
     {
       "id": "nc75383601",
       "lon": -121.839332580566,
@@ -1904,6 +1924,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494232"
     },
     {
+      "id": "av94266693",
+      "lon": -153.079666666667,
+      "lat": 60.05,
+      "depth": -2.15,
+      "mag": -0.7,
+      "place": "64 km ENE of Pedro Bay, Alaska",
+      "time": 1782291472240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94266693"
+    },
+    {
       "id": "us6000t7tg",
       "lon": -63.1861,
       "lat": -27.1825,
@@ -2012,6 +2042,16 @@
       "place": "3 km SSW of San Juan Bautista, CA",
       "time": 1782288198210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382746"
+    },
+    {
+      "id": "av93062589",
+      "lon": -177.782,
+      "lat": 51.8533333333333,
+      "depth": -1.74,
+      "mag": 0.62,
+      "place": "79 km W of Adak, Alaska",
+      "time": 1782287812050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062589"
     },
     {
       "id": "ci41494208",
@@ -3232,26 +3272,6 @@
       "place": "3 km SE of Pinnacles, CA",
       "time": 1782259433710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382526"
-    },
-    {
-      "id": "tx2026mhkfig",
-      "lon": -101.931,
-      "lat": 32.11,
-      "depth": 8.5693,
-      "mag": 0.8,
-      "place": "13 km W of Stanton, Texas",
-      "time": 1782258934324,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mhkfig"
-    },
-    {
-      "id": "us6000t7rf",
-      "lon": 119.3422,
-      "lat": 16.461,
-      "depth": 10,
-      "mag": 4.8,
-      "place": "52 km WNW of Catuday, Philippines",
-      "time": 1782258917095,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7rf"
     }
   ]
 }
