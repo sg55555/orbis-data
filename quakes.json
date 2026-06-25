@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T12:15:52Z",
-  "count": 262,
+  "updated": "2026-06-25T12:31:04Z",
+  "count": 261,
   "points": [
+    {
+      "id": "tx2026mkeqtp",
+      "lon": -103.562,
+      "lat": 30.884,
+      "depth": 0,
+      "mag": 1.9,
+      "place": "20 km ESE of Balmorhea, Texas",
+      "time": 1782390073462,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mkeqtp"
+    },
     {
       "id": "aka2026mmeema",
       "lon": -152.598,
@@ -672,6 +682,16 @@
       "place": "65 km SSW of Whites City, New Mexico",
       "time": 1782364119977,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjqhzo"
+    },
+    {
+      "id": "tx2026mjqcpt",
+      "lon": -102.216,
+      "lat": 32.129,
+      "depth": 6.3232,
+      "mag": 0.4,
+      "place": "19 km NW of Midland, Texas",
+      "time": 1782363749884,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjqcpt"
     },
     {
       "id": "tx2026mjpvks",
@@ -2592,36 +2612,6 @@
       "place": "58 km S of Whites City, New Mexico",
       "time": 1782304647700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mijlwm"
-    },
-    {
-      "id": "hv74989947",
-      "lon": -155.309005737305,
-      "lat": 19.1940002441406,
-      "depth": 39.7299995422363,
-      "mag": 1.72,
-      "place": "17 km E of Pāhala, Hawaii",
-      "time": 1782303938600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74989947"
-    },
-    {
-      "id": "nc75382866",
-      "lon": -125.221664428711,
-      "lat": 40.390998840332,
-      "depth": 0.649999976158142,
-      "mag": 2.62,
-      "place": "80 km W of Petrolia, CA",
-      "time": 1782303412560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382866"
-    },
-    {
-      "id": "us6000t7uf",
-      "lon": -93.197,
-      "lat": 15.4949,
-      "depth": 93.488,
-      "mag": 4.9,
-      "place": "1 km E of El Palmarcito, Mexico",
-      "time": 1782303391673,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7uf"
     }
   ]
 }
