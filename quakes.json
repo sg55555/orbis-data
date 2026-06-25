@@ -1,16 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T09:31:08Z",
-  "count": 280,
+  "updated": "2026-06-25T09:39:47Z",
+  "count": 283,
   "points": [
     {
+      "id": "ci41494968",
+      "lon": -116.163166666667,
+      "lat": 33.8988333333333,
+      "depth": 5.09,
+      "mag": 0.87,
+      "place": "20 km NNE of Indio, CA",
+      "time": 1782380096260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494968"
+    },
+    {
+      "id": "hv74990707",
+      "lon": -155.346328735352,
+      "lat": 19.0259990692139,
+      "depth": 14.4300003051758,
+      "mag": 1.82,
+      "place": "24 km SE of Pāhala, Hawaii",
+      "time": 1782379994750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74990707"
+    },
+    {
+      "id": "nc75383881",
+      "lon": -123.220169067383,
+      "lat": 39.3633346557617,
+      "depth": 7.32999992370605,
+      "mag": 2.5,
+      "place": "11 km N of Redwood Valley, CA",
+      "time": 1782379778800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383881"
+    },
+    {
       "id": "ci41494960",
-      "lon": -118.624496459961,
-      "lat": 34.3593330383301,
-      "depth": 8.68000030517578,
-      "mag": 1.80255556506269,
-      "place": "12 km N of Chatsworth, CA",
-      "time": 1782379641840,
+      "lon": -118.626833333333,
+      "lat": 34.3603333333333,
+      "depth": 9.17,
+      "mag": 1.91,
+      "place": "12 km SSW of Valencia, CA",
+      "time": 1782379641770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494960"
     },
     {
@@ -232,6 +262,16 @@
       "place": "15 km W of Petrolia, CA",
       "time": 1782373210170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383791"
+    },
+    {
+      "id": "tx2026mjvhcb",
+      "lon": -101.9,
+      "lat": 32.258,
+      "depth": 8.8379,
+      "mag": 0.8,
+      "place": "17 km NW of Stanton, Texas",
+      "time": 1782373119509,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjvhcb"
     },
     {
       "id": "ci41494912",
@@ -2792,16 +2832,6 @@
       "place": "7 km NNW of Mira Loma, CA",
       "time": 1782293997370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494248"
-    },
-    {
-      "id": "uw714031161",
-      "lon": -122.1875,
-      "lat": 46.1973333333333,
-      "depth": 6.65,
-      "mag": 0.16,
-      "place": "37 km NNE of Amboy, Washington",
-      "time": 1782293793470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714031161"
     }
   ]
 }
