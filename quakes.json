@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T19:29:59Z",
+  "updated": "2026-06-25T19:31:18Z",
   "count": 203,
   "points": [
+    {
+      "id": "ci41495392",
+      "lon": -116.916666666667,
+      "lat": 33.8056666666667,
+      "depth": 6.8,
+      "mag": 0.93,
+      "place": "5 km ENE of San Jacinto, CA",
+      "time": 1782415618410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495392"
+    },
     {
       "id": "nc75384256",
       "lon": -122.800834655762,
@@ -1504,6 +1514,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383676"
     },
     {
+      "id": "av94268278",
+      "lon": -154.901833333333,
+      "lat": 58.285,
+      "depth": 4.86,
+      "mag": 0.04,
+      "place": "84 km NNW of Karluk, Alaska",
+      "time": 1782352206740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94268278"
+    },
+    {
       "id": "av94268273",
       "lon": -153.104833333333,
       "lat": 60.074,
@@ -2012,26 +2032,6 @@
       "place": "11 km NE of Julian, CA",
       "time": 1782329619420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494656"
-    },
-    {
-      "id": "nc75383356",
-      "lon": -123.224998474121,
-      "lat": 39.3375015258789,
-      "depth": 5,
-      "mag": 1.72,
-      "place": "8 km NNW of Redwood Valley, CA",
-      "time": 1782329446730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383356"
-    },
-    {
-      "id": "hv74990137",
-      "lon": -155.481506347656,
-      "lat": 20.1436672210693,
-      "depth": -1.69000005722046,
-      "mag": 1.79,
-      "place": "7 km NNW of Honoka‘a, Hawaii",
-      "time": 1782329357080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74990137"
     }
   ]
 }
