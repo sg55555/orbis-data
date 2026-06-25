@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T23:15:49Z",
-  "count": 223,
+  "updated": "2026-06-25T23:31:02Z",
+  "count": 224,
   "points": [
+    {
+      "id": "ci41495688",
+      "lon": -116.168,
+      "lat": 33.9008333333333,
+      "depth": 4.35,
+      "mag": 1.13,
+      "place": "21 km NNE of Indio, CA",
+      "time": 1782429678240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495688"
+    },
     {
       "id": "nc75384381",
       "lon": -122.705001831055,
@@ -862,6 +872,16 @@
       "place": "6 km NNW of Redwood Valley, CA",
       "time": 1782391075630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383956"
+    },
+    {
+      "id": "av94269183",
+      "lon": -153.900333333333,
+      "lat": 58.9773333333333,
+      "depth": 10.9,
+      "mag": 0.53,
+      "place": "71 km SE of Kokhanok, Alaska",
+      "time": 1782391030540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94269183"
     },
     {
       "id": "pr71521208",
@@ -2134,6 +2154,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t80i"
     },
     {
+      "id": "aka2026mlgxlm",
+      "lon": -150.923,
+      "lat": 59.784,
+      "depth": 37.3,
+      "mag": 1.8,
+      "place": "8 km SSE of Fox River, Alaska",
+      "time": 1782347537872,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mlgxlm"
+    },
+    {
       "id": "ci41494800",
       "lon": -116.712333333333,
       "lat": 33.537,
@@ -2165,12 +2195,12 @@
     },
     {
       "id": "aka2026mlgirh",
-      "lon": -155.194,
-      "lat": 56.786,
-      "depth": 4.5,
-      "mag": 1.9,
-      "place": "64 km WSW of Akhiok, Alaska",
-      "time": 1782346514249,
+      "lon": -155.193,
+      "lat": 56.679,
+      "depth": 18.5,
+      "mag": 2.1,
+      "place": "69 km WSW of Akhiok, Alaska",
+      "time": 1782346514431,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mlgirh"
     },
     {
@@ -2212,26 +2242,6 @@
       "place": "17 km NNE of Shingletown, CA",
       "time": 1782344622920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383601"
-    },
-    {
-      "id": "aka2026mleter",
-      "lon": -152.636,
-      "lat": 59.415,
-      "depth": 77.4,
-      "mag": 2.2,
-      "place": "41 km W of Nanwalek, Alaska",
-      "time": 1782343645072,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mleter"
-    },
-    {
-      "id": "nc75383596",
-      "lon": -123.26000213623,
-      "lat": 39.3288345336914,
-      "depth": 2.8199999332428,
-      "mag": 1.17,
-      "place": "9 km NW of Redwood Valley, CA",
-      "time": 1782343403030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383596"
     }
   ]
 }
