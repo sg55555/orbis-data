@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T10:15:52Z",
-  "count": 272,
+  "updated": "2026-06-25T10:31:04Z",
+  "count": 273,
   "points": [
+    {
+      "id": "nc75383901",
+      "lon": -121.181503295898,
+      "lat": 36.673999786377,
+      "depth": 17.0499992370605,
+      "mag": 1.04,
+      "place": "16 km NNW of Pinnacles, CA",
+      "time": 1782382430120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383901"
+    },
     {
       "id": "ci41494976",
       "lon": -116.163333333333,
@@ -82,6 +92,16 @@
       "place": "21 km NNE of Indio, CA",
       "time": 1782379357620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494952"
+    },
+    {
+      "id": "pr71521178",
+      "lon": -65.0708333333333,
+      "lat": 18.8575,
+      "depth": 15.21,
+      "mag": 2.88,
+      "place": "58 km NNW of Charlotte Amalie, U.S. Virgin Islands",
+      "time": 1782379169390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521178"
     },
     {
       "id": "ci41494944",
@@ -2712,16 +2732,6 @@
       "place": "4 km SSW of The Geysers, CA",
       "time": 1782297171930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382806"
-    },
-    {
-      "id": "uu80143221",
-      "lon": -111.018,
-      "lat": 44.8343333333333,
-      "depth": 8.69,
-      "mag": 0.94,
-      "place": "15 km ENE of Hebgen Lake Estates, Montana",
-      "time": 1782296740560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143221"
     }
   ]
 }
