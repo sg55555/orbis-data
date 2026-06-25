@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T02:01:18Z",
-  "count": 314,
+  "updated": "2026-06-25T02:15:49Z",
+  "count": 316,
   "points": [
+    {
+      "id": "aka2026mljvpc",
+      "lon": -155.712,
+      "lat": 57.339,
+      "depth": 79.1,
+      "mag": 1.1,
+      "place": "79 km WSW of Karluk, Alaska",
+      "time": 1782352806512,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mljvpc"
+    },
+    {
+      "id": "nc75383676",
+      "lon": -123.251663208008,
+      "lat": 39.3421669006348,
+      "depth": -0.00999999977648258,
+      "mag": 1.24,
+      "place": "9 km NNW of Redwood Valley, CA",
+      "time": 1782352781800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383676"
+    },
     {
       "id": "tx2026mjjhom",
       "lon": -103.691,
@@ -184,6 +204,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjdpby"
     },
     {
+      "id": "pr71521098",
+      "lon": -67.0148333333333,
+      "lat": 17.959,
+      "depth": 7.55,
+      "mag": 1.76,
+      "place": "3 km ESE of La Parguera, Puerto Rico",
+      "time": 1782340915600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521098"
+    },
+    {
       "id": "tx2026mjdhqd",
       "lon": -104.233,
       "lat": 31.492,
@@ -255,12 +285,12 @@
     },
     {
       "id": "us6000t7zc",
-      "lon": -68.52,
-      "lat": 10.3874,
-      "depth": 21.896,
+      "lon": -68.5277,
+      "lat": 10.436,
+      "depth": 20.294,
       "mag": 7.2,
-      "place": "24 km ENE of San Felipe, Venezuela",
-      "time": 1782338673586,
+      "place": "23 km SE of Yumare, Venezuela",
+      "time": 1782338673389,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zc"
     },
     {
@@ -692,6 +722,16 @@
       "place": "86 km NNW of Karluk, Alaska",
       "time": 1782324905667,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mkuikp"
+    },
+    {
+      "id": "av94267658",
+      "lon": -152.088166666667,
+      "lat": 61.4276666666667,
+      "depth": 8.54,
+      "mag": -0.13,
+      "place": "62 km WNW of Beluga, Alaska",
+      "time": 1782324837450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94267658"
     },
     {
       "id": "aka2026mkuakc",
@@ -3122,26 +3162,6 @@
       "place": "12 km WNW of Whittier, Alaska",
       "time": 1782267361293,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mjoivc"
-    },
-    {
-      "id": "uu80143171",
-      "lon": -110.457333333333,
-      "lat": 44.3656666666667,
-      "depth": 8.23,
-      "mag": 0.66,
-      "place": "61 km ESE of West Yellowstone, Montana",
-      "time": 1782267183060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143171"
-    },
-    {
-      "id": "us6000t7rx",
-      "lon": 119.1731,
-      "lat": 16.5122,
-      "depth": 10,
-      "mag": 5,
-      "place": "71 km WNW of Catuday, Philippines",
-      "time": 1782266689661,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7rx"
     }
   ]
 }
