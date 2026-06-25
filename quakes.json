@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T18:45:50Z",
-  "count": 208,
+  "updated": "2026-06-25T19:01:14Z",
+  "count": 206,
   "points": [
     {
       "id": "nc75384221",
@@ -25,12 +25,12 @@
     },
     {
       "id": "hv74990962",
-      "lon": -155.861831665039,
-      "lat": 19.341833114624,
-      "depth": 20.3299999237061,
-      "mag": 3.57,
+      "lon": -155.857166666667,
+      "lat": 19.3401666666667,
+      "depth": 21.28,
+      "mag": 3.1,
       "place": "12 km S of Honaunau-Napoopoo, Hawaii",
-      "time": 1782412467520,
+      "time": 1782412467540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74990962"
     },
     {
@@ -52,6 +52,16 @@
       "place": "17 km SSW of Weston, Colorado",
       "time": 1782411696234,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t88n"
+    },
+    {
+      "id": "tx2026mkqivl",
+      "lon": -103.71,
+      "lat": 32.157,
+      "depth": 2.6417,
+      "mag": 1,
+      "place": "34 km ESE of Malaga, New Mexico",
+      "time": 1782411245693,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mkqivl"
     },
     {
       "id": "tx2026mkpwls",
@@ -2052,36 +2062,6 @@
       "place": "42 km SSE of Evanston, Wyoming",
       "time": 1782328553420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143266"
-    },
-    {
-      "id": "ci41494608",
-      "lon": -118.186833333333,
-      "lat": 34.9916666666667,
-      "depth": -0.9,
-      "mag": 1.05,
-      "place": "7 km S of Mojave, CA",
-      "time": 1782327646320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494608"
-    },
-    {
-      "id": "nc75383321",
-      "lon": -123.228668212891,
-      "lat": 39.3366661071777,
-      "depth": 4.90999984741211,
-      "mag": 1.78,
-      "place": "8 km NNW of Redwood Valley, CA",
-      "time": 1782326987510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383321"
-    },
-    {
-      "id": "hv74990112",
-      "lon": -155.230499267578,
-      "lat": 19.1919994354248,
-      "depth": 40.0099983215332,
-      "mag": 2.06,
-      "place": "26 km E of Pāhala, Hawaii",
-      "time": 1782326945530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74990112"
     }
   ]
 }
