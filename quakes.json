@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T10:31:04Z",
-  "count": 273,
+  "updated": "2026-06-25T10:45:51Z",
+  "count": 271,
   "points": [
     {
       "id": "nc75383901",
@@ -192,6 +192,16 @@
       "place": "69 km W of Cantwell, Alaska",
       "time": 1782376581972,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mlxbeq"
+    },
+    {
+      "id": "pr71521173",
+      "lon": -66.9786666666667,
+      "lat": 18.162,
+      "depth": 21.11,
+      "mag": 2.07,
+      "place": "2 km S of Maricao, Puerto Rico",
+      "time": 1782376185440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521173"
     },
     {
       "id": "nc75383841",
@@ -694,6 +704,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74990542"
     },
     {
+      "id": "pr71521133",
+      "lon": -67.0115,
+      "lat": 18.1243333333333,
+      "depth": 57.79,
+      "mag": 2.55,
+      "place": "5 km NE of San Germán, Puerto Rico",
+      "time": 1782356195560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521133"
+    },
+    {
       "id": "aka2026mllrsh",
       "lon": -150.008,
       "lat": 62.202,
@@ -934,16 +954,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521098"
     },
     {
-      "id": "tx2026mjdhqd",
-      "lon": -104.233,
-      "lat": 31.492,
-      "depth": 0,
-      "mag": 2.4,
-      "place": "46 km WNW of Toyah, Texas",
-      "time": 1782340558919,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjdhqd"
-    },
-    {
       "id": "us6000t7zq",
       "lon": 142.0981,
       "lat": 40.2912,
@@ -982,16 +992,6 @@
       "place": "10 km WSW of Stanton, Texas",
       "time": 1782339416682,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjcrfo"
-    },
-    {
-      "id": "tx2026mjcpkh",
-      "lon": -103.791,
-      "lat": 32.056,
-      "depth": 0,
-      "mag": 1.7,
-      "place": "32 km SE of Malaga, New Mexico",
-      "time": 1782339281348,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjcpkh"
     },
     {
       "id": "us6000t7zp",
@@ -2712,26 +2712,6 @@
       "place": "32 km SSW of Anaconda, Montana",
       "time": 1782297919940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90146208"
-    },
-    {
-      "id": "us6000t7tx",
-      "lon": -71.2145,
-      "lat": -29.8291,
-      "depth": 59.354,
-      "mag": 4.5,
-      "place": "8 km NNE of La Serena, Chile",
-      "time": 1782297394167,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7tx"
-    },
-    {
-      "id": "nc75382806",
-      "lon": -122.776832580566,
-      "lat": 38.7495002746582,
-      "depth": 21.7900009155273,
-      "mag": 1,
-      "place": "4 km SSW of The Geysers, CA",
-      "time": 1782297171930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382806"
     }
   ]
 }
