@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T21:01:12Z",
-  "count": 214,
+  "updated": "2026-06-25T21:15:54Z",
+  "count": 212,
   "points": [
+    {
+      "id": "aka2026mmvzam",
+      "lon": -151.384,
+      "lat": 64.394,
+      "depth": 0.6,
+      "mag": 3.5,
+      "place": "72 km NE of Lake Minchumina, Alaska",
+      "time": 1782421424340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mmvzam"
+    },
     {
       "id": "aka2026mmunmv",
       "lon": -147.801,
@@ -1174,6 +1184,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383796"
     },
     {
+      "id": "uw714032021",
+      "lon": -121.126166666667,
+      "lat": 46.7278333333333,
+      "depth": 6.1,
+      "mag": 1.08,
+      "place": "17 km SW of Nile, Washington",
+      "time": 1782373284320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714032021"
+    },
+    {
       "id": "nc75383791",
       "lon": -124.466003417969,
       "lat": 40.3214988708496,
@@ -1282,6 +1302,16 @@
       "place": "12 km ESE of Willits, CA",
       "time": 1782369984200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383771"
+    },
+    {
+      "id": "av94268658",
+      "lon": -169.885833333333,
+      "lat": 52.819,
+      "depth": 4.04,
+      "mag": 1.02,
+      "place": "70 km WSW of Nikolski, Alaska",
+      "time": 1782369702170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94268658"
     },
     {
       "id": "ci41494904",
@@ -2092,56 +2122,6 @@
       "place": "60 km S of Whites City, New Mexico",
       "time": 1782336640294,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjbdhv"
-    },
-    {
-      "id": "uu80143276",
-      "lon": -110.819166666667,
-      "lat": 44.764,
-      "depth": 4.94,
-      "mag": 1.28,
-      "place": "25 km ENE of West Yellowstone, Montana",
-      "time": 1782335442970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143276"
-    },
-    {
-      "id": "tx2026mjajfa",
-      "lon": -104.264,
-      "lat": 31.606,
-      "depth": 6.0486,
-      "mag": 1.5,
-      "place": "55 km NW of Toyah, Texas",
-      "time": 1782335243605,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjajfa"
-    },
-    {
-      "id": "nc75383506",
-      "lon": -123.248497009277,
-      "lat": 39.3773345947266,
-      "depth": 4.3899998664856,
-      "mag": 1.72,
-      "place": "10 km ESE of Willits, CA",
-      "time": 1782335018670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383506"
-    },
-    {
-      "id": "us6000t7yv",
-      "lon": 128.6735,
-      "lat": 2.6449,
-      "depth": 269.213,
-      "mag": 4.5,
-      "place": "125 km NE of Tobelo, Indonesia",
-      "time": 1782334976064,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7yv"
-    },
-    {
-      "id": "ci41494720",
-      "lon": -117.577166666667,
-      "lat": 35.7521666666667,
-      "depth": 8.07,
-      "mag": 1.65,
-      "place": "16 km W of Searles Valley, CA",
-      "time": 1782334973380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494720"
     }
   ]
 }
