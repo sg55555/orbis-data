@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T07:31:10Z",
-  "count": 276,
+  "updated": "2026-06-25T07:45:48Z",
+  "count": 274,
   "points": [
+    {
+      "id": "nc75383791",
+      "lon": -124.466003417969,
+      "lat": 40.3214988708496,
+      "depth": 9.52999973297119,
+      "mag": 1.81,
+      "place": "15 km W of Petrolia, CA",
+      "time": 1782373210170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383791"
+    },
     {
       "id": "ci41494912",
       "lon": -117.360833333333,
@@ -17,7 +27,7 @@
       "id": "tx2026mjuvse",
       "lon": -104.287,
       "lat": 31.707,
-      "depth": 4.3513,
+      "depth": 4.3512,
       "mag": 1.5,
       "place": "52 km S of Whites City, New Mexico",
       "time": 1782372330242,
@@ -42,6 +52,16 @@
       "place": "24 km SSW of Ivanof Bay, Alaska",
       "time": 1782371955305,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mlumie"
+    },
+    {
+      "id": "tx2026mjufeb",
+      "lon": -103.221,
+      "lat": 32.01,
+      "depth": 1.9287,
+      "mag": 1.7,
+      "place": "11 km SSW of Jal, New Mexico",
+      "time": 1782371240656,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjufeb"
     },
     {
       "id": "nc75383776",
@@ -2722,46 +2742,6 @@
       "place": "79 km W of Adak, Alaska",
       "time": 1782287812050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062589"
-    },
-    {
-      "id": "ci41494208",
-      "lon": -117.128,
-      "lat": 34.2473333333333,
-      "depth": 2.24,
-      "mag": 0.69,
-      "place": "5 km NNW of Running Springs, CA",
-      "time": 1782286990630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494208"
-    },
-    {
-      "id": "ci41494200",
-      "lon": -117.197,
-      "lat": 33.9311666666667,
-      "depth": 13.96,
-      "mag": 0.65,
-      "place": "3 km E of Moreno Valley, CA",
-      "time": 1782286796300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494200"
-    },
-    {
-      "id": "av93062584",
-      "lon": -154.2345,
-      "lat": 58.4373333333333,
-      "depth": 0.72,
-      "mag": 0.06,
-      "place": "88 km WNW of Aleneva, Alaska",
-      "time": 1782286578000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062584"
-    },
-    {
-      "id": "ci41494192",
-      "lon": -118.579666666667,
-      "lat": 34.6368333333333,
-      "depth": 9.89,
-      "mag": 0.9,
-      "place": "13 km WSW of Lake Hughes, CA",
-      "time": 1782286368450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494192"
     }
   ]
 }
