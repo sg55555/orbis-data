@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T01:45:47Z",
-  "count": 316,
+  "updated": "2026-06-25T02:01:18Z",
+  "count": 314,
   "points": [
+    {
+      "id": "tx2026mjjhom",
+      "lon": -103.691,
+      "lat": 30.887,
+      "depth": 3.6369,
+      "mag": 2,
+      "place": "11 km SSE of Balmorhea, Texas",
+      "time": 1782351425429,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjjhom"
+    },
     {
       "id": "aka2026mlifce",
       "lon": -155.818,
@@ -185,12 +195,12 @@
     },
     {
       "id": "us6000t7zq",
-      "lon": 142.132,
-      "lat": 40.3462,
-      "depth": 51.709,
+      "lon": 142.0981,
+      "lat": 40.2912,
+      "depth": 50.923,
       "mag": 6.9,
-      "place": "35 km ENE of Kuji, Japan",
-      "time": 1782340215418,
+      "place": "30 km ENE of Kuji, Japan",
+      "time": 1782340214931,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zq"
     },
     {
@@ -712,6 +722,16 @@
       "place": "12 km ESE of Willits, CA",
       "time": 1782323902840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383221"
+    },
+    {
+      "id": "av94267613",
+      "lon": -158.862833333333,
+      "lat": 56.4003333333333,
+      "depth": 0.35,
+      "mag": 0.52,
+      "place": "17 km NNW of Chignik Lake, Alaska",
+      "time": 1782323669730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94267613"
     },
     {
       "id": "nc75383216",
@@ -3122,46 +3142,6 @@
       "place": "71 km WNW of Catuday, Philippines",
       "time": 1782266689661,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7rx"
-    },
-    {
-      "id": "uu80143166",
-      "lon": -110.451,
-      "lat": 44.366,
-      "depth": 7.98,
-      "mag": 0.86,
-      "place": "61 km ESE of West Yellowstone, Montana",
-      "time": 1782266407950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143166"
-    },
-    {
-      "id": "aka2026mjnuii",
-      "lon": -152.542,
-      "lat": 60.728,
-      "depth": 116.9,
-      "mag": 1.7,
-      "place": "67 km W of Salamatof, Alaska",
-      "time": 1782266355977,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mjnuii"
-    },
-    {
-      "id": "us6000t7rv",
-      "lon": 119.3341,
-      "lat": 16.3256,
-      "depth": 10,
-      "mag": 4.4,
-      "place": "49 km WNW of Macabuboni, Philippines",
-      "time": 1782265709098,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7rv"
-    },
-    {
-      "id": "ci41494032",
-      "lon": -117.677333333333,
-      "lat": 33.8576666666667,
-      "depth": 7.73,
-      "mag": 0.55,
-      "place": "10 km W of Corona, CA",
-      "time": 1782265509770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494032"
     }
   ]
 }
