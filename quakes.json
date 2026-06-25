@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T08:01:16Z",
-  "count": 277,
+  "updated": "2026-06-25T08:15:52Z",
+  "count": 274,
   "points": [
+    {
+      "id": "nc75383816",
+      "lon": -119.446662902832,
+      "lat": 37.6669998168945,
+      "depth": 16.2800006866455,
+      "mag": 1.93,
+      "place": "14 km SE of Yosemite Valley, CA",
+      "time": 1782374889400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383816"
+    },
+    {
+      "id": "nc75383811",
+      "lon": -122.841003417969,
+      "lat": 38.8193321228027,
+      "depth": 1.5,
+      "mag": 0.75,
+      "place": "9 km WNW of The Geysers, CA",
+      "time": 1782374746320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383811"
+    },
     {
       "id": "ci41494936",
       "lon": -116.799833333333,
@@ -65,12 +85,12 @@
     },
     {
       "id": "tx2026mjuvse",
-      "lon": -104.287,
-      "lat": 31.707,
-      "depth": 4.3512,
+      "lon": -104.282,
+      "lat": 31.71,
+      "depth": 6.3818,
       "mag": 1.5,
       "place": "52 km S of Whites City, New Mexico",
-      "time": 1782372330242,
+      "time": 1782372330220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjuvse"
     },
     {
@@ -2722,56 +2742,6 @@
       "place": "12 km NW of Progreso, B.C., MX",
       "time": 1782289087160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494216"
-    },
-    {
-      "id": "tx2026miatql",
-      "lon": -101.926,
-      "lat": 31.83,
-      "depth": 5.3955,
-      "mag": 0,
-      "place": "23 km SE of Midland, Texas",
-      "time": 1782288896090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026miatql"
-    },
-    {
-      "id": "tx2026miaslk",
-      "lon": -101.933,
-      "lat": 32.099,
-      "depth": 7.8369,
-      "mag": 0.2,
-      "place": "14 km WSW of Stanton, Texas",
-      "time": 1782288813434,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026miaslk"
-    },
-    {
-      "id": "aka2026mkacod",
-      "lon": -152.226,
-      "lat": 58.855,
-      "depth": 51.2,
-      "mag": 1.5,
-      "place": "58 km SSW of Nanwalek, Alaska",
-      "time": 1782288517853,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mkacod"
-    },
-    {
-      "id": "nc75382751",
-      "lon": -122.795166015625,
-      "lat": 38.8248329162598,
-      "depth": 2.61999988555908,
-      "mag": 0.93,
-      "place": "6 km W of Cobb, CA",
-      "time": 1782288386090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382751"
-    },
-    {
-      "id": "nc75382746",
-      "lon": -121.555168151855,
-      "lat": 36.8185005187988,
-      "depth": 5.82000017166138,
-      "mag": 2.18,
-      "place": "3 km SSW of San Juan Bautista, CA",
-      "time": 1782288198210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382746"
     }
   ]
 }
