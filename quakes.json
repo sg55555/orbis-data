@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-25T12:33:02Z",
-  "count": 261,
+  "updated": "2026-06-25T12:45:55Z",
+  "count": 263,
   "points": [
+    {
+      "id": "ci41495016",
+      "lon": -116.822,
+      "lat": 33.7175,
+      "depth": 17.68,
+      "mag": 0.61,
+      "place": "7 km ESE of Valle Vista, CA",
+      "time": 1782391260880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495016"
+    },
+    {
+      "id": "nc75383956",
+      "lon": -123.219833374023,
+      "lat": 39.3190002441406,
+      "depth": 5.53999996185303,
+      "mag": 2.34,
+      "place": "6 km NNW of Redwood Valley, CA",
+      "time": 1782391075630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383956"
+    },
+    {
+      "id": "aka2026mmeznj",
+      "lon": -158.808,
+      "lat": 55.143,
+      "depth": 6.1,
+      "mag": 2,
+      "place": "88 km SSE of Perryville, Alaska",
+      "time": 1782390862018,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mmeznj"
+    },
     {
       "id": "tx2026mkeqtp",
       "lon": -103.562,
@@ -2602,16 +2632,6 @@
       "place": "23 km ENE of Ashford, Washington",
       "time": 1782305576940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714031221"
-    },
-    {
-      "id": "tx2026mijlwm",
-      "lon": -104.479,
-      "lat": 31.658,
-      "depth": 7.1384,
-      "mag": 0,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": 1782304647700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mijlwm"
     }
   ]
 }
