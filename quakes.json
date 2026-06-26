@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-26T15:03:40Z",
+  "updated": "2026-06-26T15:15:52Z",
   "count": 213,
   "points": [
+    {
+      "id": "nc75384726",
+      "lon": -122.829666137695,
+      "lat": 38.8624992370605,
+      "depth": 1.45000004768372,
+      "mag": 0.46,
+      "place": "10 km WNW of Cobb, CA",
+      "time": 1782486420280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384726"
+    },
     {
       "id": "ci41495960",
       "lon": -116.512666666667,
@@ -482,6 +492,26 @@
       "place": "61 km SSE of Mammoth, Wyoming",
       "time": 1782467829070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143386"
+    },
+    {
+      "id": "uu80143381",
+      "lon": -110.3745,
+      "lat": 44.4761666666667,
+      "depth": 2.02,
+      "mag": 0.76,
+      "place": "61 km SSE of Mammoth, Wyoming",
+      "time": 1782467799470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143381"
+    },
+    {
+      "id": "tx2026mlvfwt",
+      "lon": -98.992,
+      "lat": 28.863,
+      "depth": 8.3121,
+      "mag": 1.9,
+      "place": "10 km ESE of Pearsall, Texas",
+      "time": 1782467156657,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mlvfwt"
     },
     {
       "id": "aka2026mnvgrp",
@@ -2102,36 +2132,6 @@
       "place": "4 km WSW of Anza, CA",
       "time": 1782401643010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495104"
-    },
-    {
-      "id": "av94269398",
-      "lon": -153.048,
-      "lat": 60.0626666666667,
-      "depth": 0.83,
-      "mag": -0.65,
-      "place": "66 km ENE of Pedro Bay, Alaska",
-      "time": 1782400253890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94269398"
-    },
-    {
-      "id": "av94269388",
-      "lon": -152.695,
-      "lat": 60.4825,
-      "depth": 10.22,
-      "mag": -0.67,
-      "place": "74 km NW of Ninilchik, Alaska",
-      "time": 1782400009240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94269388"
-    },
-    {
-      "id": "hv74990832",
-      "lon": -155.477166666667,
-      "lat": 19.2566666666667,
-      "depth": -0.96,
-      "mag": 2.23,
-      "place": "5 km N of Pāhala, Hawaii",
-      "time": 1782400009210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74990832"
     }
   ]
 }
