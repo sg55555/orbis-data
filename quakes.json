@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-26T03:15:52Z",
-  "count": 243,
+  "updated": "2026-06-26T03:31:05Z",
+  "count": 240,
   "points": [
+    {
+      "id": "nn00920761",
+      "lon": -118.7719,
+      "lat": 38.7823,
+      "depth": 4.046,
+      "mag": 1.59,
+      "place": "14 km N of Walker Lake, Nevada",
+      "time": 1782443692609,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920761"
+    },
     {
       "id": "nc75384481",
       "lon": -125.075500488281,
@@ -2392,46 +2402,6 @@
       "place": "7 km NE of Coso Junction, CA",
       "time": 1782359095500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494840"
-    },
-    {
-      "id": "ci41494824",
-      "lon": -116.794333333333,
-      "lat": 33.4888333333333,
-      "depth": 8.62,
-      "mag": 0.75,
-      "place": "8 km NE of Aguanga, CA",
-      "time": 1782357785950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494824"
-    },
-    {
-      "id": "aka2026mlmnbx",
-      "lon": -149.64,
-      "lat": 61.682,
-      "depth": 31.9,
-      "mag": 1.9,
-      "place": "6 km NNW of Meadow Lakes, Alaska",
-      "time": 1782357615134,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mlmnbx"
-    },
-    {
-      "id": "us6000t813",
-      "lon": 140.5797,
-      "lat": 42.1218,
-      "depth": 127.925,
-      "mag": 4.4,
-      "place": "22 km WNW of Shikabe, Japan",
-      "time": 1782357486513,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t813"
-    },
-    {
-      "id": "aka2026mlmjpy",
-      "lon": -151.966,
-      "lat": 60.259,
-      "depth": 85.2,
-      "mag": 2.6,
-      "place": "28 km NW of Ninilchik, Alaska",
-      "time": 1782357382707,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mlmjpy"
     }
   ]
 }
