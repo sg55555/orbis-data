@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-26T21:45:48Z",
-  "count": 215,
+  "updated": "2026-06-26T22:01:15Z",
+  "count": 213,
   "points": [
+    {
+      "id": "hv74991917",
+      "lon": -155.495834350586,
+      "lat": 19.1863327026367,
+      "depth": 28.3099994659424,
+      "mag": 1.77,
+      "place": "2 km SW of Pāhala, Hawaii",
+      "time": 1782510120430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74991917"
+    },
     {
       "id": "nc75384926",
       "lon": -123.222503662109,
@@ -735,12 +745,12 @@
     },
     {
       "id": "ci41495832",
-      "lon": -115.6495,
-      "lat": 32.7905,
-      "depth": 14.4,
-      "mag": 2.45,
-      "place": "9 km W of El Centro, CA",
-      "time": 1782477728230,
+      "lon": -115.645833333333,
+      "lat": 32.7886666666667,
+      "depth": 15.05,
+      "mag": 2.35,
+      "place": "8 km W of El Centro, CA",
+      "time": 1782477728030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495832"
     },
     {
@@ -2122,36 +2132,6 @@
       "place": "2 km NW of The Geysers, CA",
       "time": 1782425099380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384346"
-    },
-    {
-      "id": "aka2026mmxsov",
-      "lon": -154.267,
-      "lat": 59.76,
-      "depth": 191.5,
-      "mag": 3.4,
-      "place": "9 km WSW of Pedro Bay, Alaska",
-      "time": 1782424568107,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mmxsov"
-    },
-    {
-      "id": "pr71521313",
-      "lon": -66.4496666666667,
-      "lat": 19.1186666666667,
-      "depth": 19.8,
-      "mag": 3.03,
-      "place": "72 km N of Tierras Nuevas Poniente, Puerto Rico",
-      "time": 1782424482060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521313"
-    },
-    {
-      "id": "ci41495560",
-      "lon": -116.711833333333,
-      "lat": 33.5351666666667,
-      "depth": 5.05,
-      "mag": 0.9,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1782423957300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495560"
     }
   ]
 }
