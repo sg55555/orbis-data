@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-26T07:01:17Z",
-  "count": 232,
+  "updated": "2026-06-26T07:15:55Z",
+  "count": 230,
   "points": [
+    {
+      "id": "ci41495776",
+      "lon": -119.442166666667,
+      "lat": 34.9328333333333,
+      "depth": 8.99,
+      "mag": 1.26,
+      "place": "15 km SSW of Maricopa, CA",
+      "time": 1782457247920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495776"
+    },
     {
       "id": "nc75384551",
       "lon": -122.797836303711,
@@ -2292,36 +2302,6 @@
       "place": "61 km WNW of Beluga, Alaska",
       "time": 1782371756730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94268698"
-    },
-    {
-      "id": "uw714032011",
-      "lon": -123.503666666667,
-      "lat": 47.5608333333333,
-      "depth": 34.86,
-      "mag": 0.85,
-      "place": "31 km ENE of Amanda Park, Washington",
-      "time": 1782371437760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714032011"
-    },
-    {
-      "id": "tx2026mjufeb",
-      "lon": -103.221,
-      "lat": 32.01,
-      "depth": 1.9287,
-      "mag": 1.7,
-      "place": "11 km SSW of Jal, New Mexico",
-      "time": 1782371240656,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjufeb"
-    },
-    {
-      "id": "nc75383776",
-      "lon": -122.800331115723,
-      "lat": 38.8371658325195,
-      "depth": 2.39000010490417,
-      "mag": 0.6,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1782371094220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383776"
     }
   ]
 }
