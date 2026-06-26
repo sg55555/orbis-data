@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-26T17:31:03Z",
-  "count": 216,
+  "updated": "2026-06-26T17:45:48Z",
+  "count": 217,
   "points": [
+    {
+      "id": "ci41496088",
+      "lon": -117.2675,
+      "lat": 34.0636666666667,
+      "depth": 15,
+      "mag": 1.23,
+      "place": "2 km NNW of Loma Linda, CA",
+      "time": 1782495161590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496088"
+    },
+    {
+      "id": "nc75384786",
+      "lon": -123.211669921875,
+      "lat": 39.3629989624023,
+      "depth": 8.34000015258789,
+      "mag": 1.69,
+      "place": "11 km N of Redwood Valley, CA",
+      "time": 1782495131180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384786"
+    },
     {
       "id": "ci41496064",
       "lon": -117.419333333333,
@@ -152,6 +172,16 @@
       "place": "24 km ENE of Ashford, Washington",
       "time": 1782487821760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714033701"
+    },
+    {
+      "id": "ci41495976",
+      "lon": -117.469166666667,
+      "lat": 35.9716666666667,
+      "depth": 6.82,
+      "mag": 0.22,
+      "place": "23 km NNW of Searles Valley, CA",
+      "time": 1782487533980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495976"
     },
     {
       "id": "hv74991717",
@@ -2142,26 +2172,6 @@
       "place": "21 km WSW of Ivanof Bay, Alaska",
       "time": 1782409627043,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mmpkts"
-    },
-    {
-      "id": "av94269638",
-      "lon": -153.035666666667,
-      "lat": 60.0458333333333,
-      "depth": -2.8,
-      "mag": -0.64,
-      "place": "66 km ENE of Pedro Bay, Alaska",
-      "time": 1782409114510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94269638"
-    },
-    {
-      "id": "ci41495200",
-      "lon": -116.714,
-      "lat": 33.5348333333333,
-      "depth": 5.77,
-      "mag": 0.1,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1782408734150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495200"
     }
   ]
 }
