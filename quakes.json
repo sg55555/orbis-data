@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-26T10:31:06Z",
-  "count": 202,
+  "updated": "2026-06-26T10:45:50Z",
+  "count": 205,
   "points": [
+    {
+      "id": "nc75384611",
+      "lon": -122.802833557129,
+      "lat": 38.8273315429688,
+      "depth": 1.62999999523163,
+      "mag": 0.77,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1782469876170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384611"
+    },
+    {
+      "id": "ci41495816",
+      "lon": -117.508166666667,
+      "lat": 35.9681666666667,
+      "depth": 4.47,
+      "mag": 1.12,
+      "place": "24 km NNW of Searles Valley, CA",
+      "time": 1782469688720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495816"
+    },
     {
       "id": "ci41495808",
       "lon": -116.253,
@@ -112,6 +132,16 @@
       "place": "17 km ENE of Borrego Springs, CA",
       "time": 1782463856810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495792"
+    },
+    {
+      "id": "pr71521423",
+      "lon": -66.7765,
+      "lat": 18.9936666666667,
+      "depth": 20.92,
+      "mag": 3.08,
+      "place": "56 km N of Hatillo, Puerto Rico",
+      "time": 1782463531070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521423"
     },
     {
       "id": "aka2026mntimw",
@@ -552,6 +582,16 @@
       "place": "13 km NE of Pāhala, Hawaii",
       "time": 1782442612900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74991277"
+    },
+    {
+      "id": "pr71521373",
+      "lon": -64.814,
+      "lat": 18.8838333333333,
+      "depth": 15.79,
+      "mag": 3.38,
+      "place": "61 km N of Cruz Bay, U.S. Virgin Islands",
+      "time": 1782442378520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521373"
     },
     {
       "id": "nc75384471",
@@ -2012,16 +2052,6 @@
       "place": "133 km E of Chalkyitsik, Alaska",
       "time": 1782385090413,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t832"
-    },
-    {
-      "id": "aka2026mmbasm",
-      "lon": -173.413,
-      "lat": 52.171,
-      "depth": 2.6,
-      "mag": 4.1,
-      "place": "53 km E of Atka, Alaska",
-      "time": 1782383746785,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mmbasm"
     }
   ]
 }
