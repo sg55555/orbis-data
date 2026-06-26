@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-26T21:01:11Z",
+  "updated": "2026-06-26T21:15:49Z",
   "count": 223,
   "points": [
+    {
+      "id": "nc75384911",
+      "lon": -122.815330505371,
+      "lat": 38.7985000610352,
+      "depth": 3.15000009536743,
+      "mag": 0.8,
+      "place": "6 km WNW of The Geysers, CA",
+      "time": 1782507779130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384911"
+    },
     {
       "id": "ci41496280",
       "lon": -116.7515,
@@ -842,6 +852,16 @@
       "place": "13 km WNW of Valdez, Alaska",
       "time": 1782473374458,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mnyvxw"
+    },
+    {
+      "id": "tx2026mlyrcl",
+      "lon": -103.248,
+      "lat": 32.008,
+      "depth": 7.3303,
+      "mag": 1,
+      "place": "12 km SSW of Jal, New Mexico",
+      "time": 1782473370776,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mlyrcl"
     },
     {
       "id": "uw714033531",
@@ -2212,26 +2232,6 @@
       "place": "93 km E of Union, Philippines",
       "time": 1782422269072,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8al"
-    },
-    {
-      "id": "aka2026mmvzam",
-      "lon": -151.384,
-      "lat": 64.394,
-      "depth": 0.6,
-      "mag": 3.5,
-      "place": "72 km NE of Lake Minchumina, Alaska",
-      "time": 1782421424340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mmvzam"
-    },
-    {
-      "id": "av94269883",
-      "lon": -152.271333333333,
-      "lat": 61.36,
-      "depth": 3.49,
-      "mag": 0.27,
-      "place": "68 km WNW of Beluga, Alaska",
-      "time": 1782421412390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94269883"
     }
   ]
 }
