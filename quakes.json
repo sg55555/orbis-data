@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-26T11:01:16Z",
-  "count": 207,
+  "updated": "2026-06-26T11:15:48Z",
+  "count": 204,
   "points": [
     {
       "id": "tx2026mlxevc",
@@ -145,12 +145,12 @@
     },
     {
       "id": "tx2026mltnju",
-      "lon": -101.752,
-      "lat": 32.422,
-      "depth": 4.177,
+      "lon": -101.748,
+      "lat": 32.42,
+      "depth": 8.8135,
       "mag": 2,
       "place": "12 km SSW of Ackerly, Texas",
-      "time": 1782464088581,
+      "time": 1782464089045,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mltnju"
     },
     {
@@ -392,6 +392,16 @@
       "place": "38 km ENE of McKinney Acres, Texas",
       "time": 1782453877505,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mlnvsw"
+    },
+    {
+      "id": "tx2026mlnxcb",
+      "lon": -102.14,
+      "lat": 32.413,
+      "depth": 5.7367,
+      "mag": 1.6,
+      "place": "38 km ENE of McKinney Acres, Texas",
+      "time": 1782453876969,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mlnxcb"
     },
     {
       "id": "us6000t8dg",
@@ -2032,46 +2042,6 @@
       "place": "13 km S of Tres Pinos, CA",
       "time": 1782386212370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383921"
-    },
-    {
-      "id": "us6000t836",
-      "lon": -68.6213,
-      "lat": -22.2133,
-      "depth": 113.286,
-      "mag": 4.3,
-      "place": "41 km NE of Calama, Chile",
-      "time": 1782385997644,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t836"
-    },
-    {
-      "id": "av94269028",
-      "lon": -152.566166666667,
-      "lat": 60.5143333333333,
-      "depth": 11.81,
-      "mag": -0.06,
-      "place": "69 km W of Salamatof, Alaska",
-      "time": 1782385886910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94269028"
-    },
-    {
-      "id": "aka2026mmccgx",
-      "lon": -151.655,
-      "lat": 59.789,
-      "depth": 54,
-      "mag": 2,
-      "place": "3 km SW of Nikolaevsk, Alaska",
-      "time": 1782385654552,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mmccgx"
-    },
-    {
-      "id": "aka2026mmcbad",
-      "lon": -152.39,
-      "lat": 59.621,
-      "depth": 73.3,
-      "mag": 2.3,
-      "place": "35 km WSW of Anchor Point, Alaska",
-      "time": 1782385566271,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mmcbad"
     }
   ]
 }
