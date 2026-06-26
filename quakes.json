@@ -1,8 +1,48 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-26T12:01:22Z",
-  "count": 200,
+  "updated": "2026-06-26T12:15:50Z",
+  "count": 202,
   "points": [
+    {
+      "id": "nc75384626",
+      "lon": -122.809829711914,
+      "lat": 38.8349990844727,
+      "depth": 2.25999999046326,
+      "mag": 1.11,
+      "place": "8 km W of Cobb, CA",
+      "time": 1782475661100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384626"
+    },
+    {
+      "id": "hv74991617",
+      "lon": -155.214340209961,
+      "lat": 19.3051662445068,
+      "depth": 0.730000019073486,
+      "mag": 2.21,
+      "place": "15 km S of Volcano, Hawaii",
+      "time": 1782475210580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74991617"
+    },
+    {
+      "id": "hv74991612",
+      "lon": -155.376327514648,
+      "lat": 19.2830009460449,
+      "depth": 30.3299999237061,
+      "mag": 2.14,
+      "place": "13 km NE of Pāhala, Hawaii",
+      "time": 1782475119370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74991612"
+    },
+    {
+      "id": "us6000t8ei",
+      "lon": 69.6336,
+      "lat": 30.3661,
+      "depth": 10,
+      "mag": 5.2,
+      "place": "52 km NNE of Barkhan, Pakistan",
+      "time": 1782474527037,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ei"
+    },
     {
       "id": "hv74991602",
       "lon": -155.768173217773,
@@ -1982,26 +2022,6 @@
       "place": "88 km SSE of Perryville, Alaska",
       "time": 1782390862018,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mmeznj"
-    },
-    {
-      "id": "aka2026mmeema",
-      "lon": -152.598,
-      "lat": 59.816,
-      "depth": 93.8,
-      "mag": 1.6,
-      "place": "43 km W of Anchor Point, Alaska",
-      "time": 1782389406469,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mmeema"
-    },
-    {
-      "id": "ci41495000",
-      "lon": -117.809666666667,
-      "lat": 35.2976666666667,
-      "depth": 7.47,
-      "mag": 1.31,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1782388894630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495000"
     }
   ]
 }
