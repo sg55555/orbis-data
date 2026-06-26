@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-26T00:31:05Z",
-  "count": 235,
+  "updated": "2026-06-26T00:45:49Z",
+  "count": 233,
   "points": [
     {
       "id": "ci41495728",
@@ -72,6 +72,16 @@
       "place": "23 km NNE of Mentone, Texas",
       "time": 1782430748248,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mlbcxy"
+    },
+    {
+      "id": "pr2026176000",
+      "lon": -63.6606,
+      "lat": 19.6768,
+      "depth": 19,
+      "mag": 3.98,
+      "place": "173 km NNW of The Valley, Anguilla",
+      "time": 1782430559240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026176000"
     },
     {
       "id": "pr71521348",
@@ -2322,36 +2332,6 @@
       "place": "12 km N of Redwood Valley, CA",
       "time": 1782349465430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383651"
-    },
-    {
-      "id": "nc75383631",
-      "lon": -122.800163269043,
-      "lat": 38.8194999694824,
-      "depth": 3.29999995231628,
-      "mag": 1.79,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1782348036930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383631"
-    },
-    {
-      "id": "us6000t80i",
-      "lon": 142.2262,
-      "lat": 40.4991,
-      "depth": 64.594,
-      "mag": 4.3,
-      "place": "52 km NE of Kuji, Japan",
-      "time": 1782347636809,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t80i"
-    },
-    {
-      "id": "aka2026mlgxlm",
-      "lon": -150.923,
-      "lat": 59.784,
-      "depth": 37.3,
-      "mag": 1.8,
-      "place": "8 km SSE of Fox River, Alaska",
-      "time": 1782347537872,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mlgxlm"
     }
   ]
 }
