@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-26T19:15:50Z",
-  "count": 220,
+  "updated": "2026-06-26T19:31:02Z",
+  "count": 219,
   "points": [
+    {
+      "id": "aka2026mooopo",
+      "lon": -150.868,
+      "lat": 61.721,
+      "depth": 72.7,
+      "mag": 2.6,
+      "place": "27 km NW of Susitna, Alaska",
+      "time": 1782501653643,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mooopo"
+    },
     {
       "id": "nc75384831",
       "lon": -122.799835205078,
@@ -1515,12 +1525,12 @@
     },
     {
       "id": "hv74991277",
-      "lon": -155.401000976562,
-      "lat": 19.2968330383301,
-      "depth": 28.5599994659424,
-      "mag": 2.39,
-      "place": "13 km NE of Pāhala, Hawaii",
-      "time": 1782442612900,
+      "lon": -155.399833333333,
+      "lat": 19.3105,
+      "depth": 29.24,
+      "mag": 1.64,
+      "place": "14 km NE of Pāhala, Hawaii",
+      "time": 1782442612870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74991277"
     },
     {
@@ -1822,6 +1832,16 @@
       "place": "18 km NNW of Indian Springs, Nevada",
       "time": 1782429025716,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920742"
+    },
+    {
+      "id": "uw714033041",
+      "lon": -122.190333333333,
+      "lat": 46.2253333333333,
+      "depth": -1.55,
+      "mag": -0.04,
+      "place": "37 km S of Morton, Washington",
+      "time": 1782428879550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714033041"
     },
     {
       "id": "aka2026mnackx",
@@ -2165,43 +2185,13 @@
     },
     {
       "id": "ci41495400",
-      "lon": -116.7135,
-      "lat": 33.5395,
-      "depth": 5.32,
-      "mag": 1.07,
+      "lon": -116.712833333333,
+      "lat": 33.5355,
+      "depth": 6.26,
+      "mag": 1.06,
       "place": "4 km WSW of Anza, CA",
-      "time": 1782416004580,
+      "time": 1782416004500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495400"
-    },
-    {
-      "id": "ci41495408",
-      "lon": -116.712166666667,
-      "lat": 33.536,
-      "depth": 5.83,
-      "mag": 1.05630697036167,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1782416004550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495408"
-    },
-    {
-      "id": "ci41495392",
-      "lon": -116.931666666667,
-      "lat": 33.7811666666667,
-      "depth": 13.17,
-      "mag": 0.75,
-      "place": "3 km E of San Jacinto, CA",
-      "time": 1782415618410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495392"
-    },
-    {
-      "id": "nc75384256",
-      "lon": -122.800834655762,
-      "lat": 38.8366661071777,
-      "depth": 2.22000002861023,
-      "mag": 0.82,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1782415375810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384256"
     }
   ]
 }
