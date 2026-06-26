@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-26T00:01:23Z",
-  "count": 235,
+  "updated": "2026-06-26T00:15:47Z",
+  "count": 237,
   "points": [
+    {
+      "id": "ci41495728",
+      "lon": -115.529833333333,
+      "lat": 32.9263333333333,
+      "depth": 9.23,
+      "mag": 1.51,
+      "place": "6 km S of Brawley, CA",
+      "time": 1782432233890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495728"
+    },
     {
       "id": "ci41495720",
       "lon": -117.571333333333,
@@ -132,6 +142,16 @@
       "place": "23 km WSW of Ivanof Bay, Alaska",
       "time": 1782428845881,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mnackx"
+    },
+    {
+      "id": "us6000t8bm",
+      "lon": -169.886,
+      "lat": 52.4413,
+      "depth": 59.306,
+      "mag": 4.9,
+      "place": "88 km SW of Nikolski, Alaska",
+      "time": 1782428752643,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8bm"
     },
     {
       "id": "aka2026mmzshc",
@@ -902,6 +922,16 @@
       "place": "4 km WSW of Anza, CA",
       "time": 1782397162870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495056"
+    },
+    {
+      "id": "uw714032171",
+      "lon": -122.429166666667,
+      "lat": 48.0211666666667,
+      "depth": 3.82,
+      "mag": 0.85,
+      "place": "2 km SW of Langley, Washington",
+      "time": 1782396952870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714032171"
     },
     {
       "id": "tx2026mkihlo",
@@ -2342,16 +2372,6 @@
       "place": "69 km WSW of Akhiok, Alaska",
       "time": 1782346514431,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mlgirh"
-    },
-    {
-      "id": "aka2026mlghis",
-      "lon": -150.31,
-      "lat": 60.475,
-      "depth": 53.8,
-      "mag": 2,
-      "place": "25 km E of Funny River, Alaska",
-      "time": 1782346434662,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mlghis"
     }
   ]
 }
