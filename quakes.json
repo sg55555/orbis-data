@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-26T07:15:55Z",
-  "count": 230,
+  "updated": "2026-06-26T07:31:16Z",
+  "count": 227,
   "points": [
+    {
+      "id": "nc75384556",
+      "lon": -122.765335083008,
+      "lat": 38.8248329162598,
+      "depth": 2.15000009536743,
+      "mag": 2.01,
+      "place": "4 km W of Cobb, CA",
+      "time": 1782458352730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384556"
+    },
+    {
+      "id": "aka2026mnqmps",
+      "lon": -152.505,
+      "lat": 60.141,
+      "depth": 100.9,
+      "mag": 1.6,
+      "place": "47 km WNW of Ninilchik, Alaska",
+      "time": 1782458335282,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mnqmps"
+    },
     {
       "id": "ci41495776",
       "lon": -119.442166666667,
@@ -76,11 +96,11 @@
     {
       "id": "tx2026mlnvsw",
       "lon": -102.143,
-      "lat": 32.421,
-      "depth": 4.6221,
-      "mag": 1.7,
+      "lat": 32.423,
+      "depth": 8.8623,
+      "mag": 1.8,
       "place": "38 km ENE of McKinney Acres, Texas",
-      "time": 1782453876990,
+      "time": 1782453877505,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mlnvsw"
     },
     {
@@ -115,12 +135,12 @@
     },
     {
       "id": "tx2026mlniec",
-      "lon": -101.607,
-      "lat": 32.392,
-      "depth": 3.9776,
-      "mag": 1.4,
-      "place": "18 km SE of Ackerly, Texas",
-      "time": 1782452855174,
+      "lon": -101.605,
+      "lat": 32.398,
+      "depth": 6.0303,
+      "mag": 1.6,
+      "place": "17 km SE of Ackerly, Texas",
+      "time": 1782452855649,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mlniec"
     },
     {
@@ -2252,56 +2272,6 @@
       "place": "17 km NW of Stanton, Texas",
       "time": 1782373119509,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjvhcb"
-    },
-    {
-      "id": "ci41494912",
-      "lon": -117.360833333333,
-      "lat": 36.0553333333333,
-      "depth": 1.87,
-      "mag": 0.82,
-      "place": "32 km N of Searles Valley, CA",
-      "time": 1782372350590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494912"
-    },
-    {
-      "id": "tx2026mjuvse",
-      "lon": -104.282,
-      "lat": 31.71,
-      "depth": 6.3818,
-      "mag": 1.5,
-      "place": "52 km S of Whites City, New Mexico",
-      "time": 1782372330220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjuvse"
-    },
-    {
-      "id": "aka2026mluoqf",
-      "lon": -159.713,
-      "lat": 55.851,
-      "depth": 10.7,
-      "mag": 1.7,
-      "place": "15 km WSW of Ivanof Bay, Alaska",
-      "time": 1782372112191,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mluoqf"
-    },
-    {
-      "id": "aka2026mlumie",
-      "lon": -159.624,
-      "lat": 55.699,
-      "depth": 5,
-      "mag": 1.7,
-      "place": "24 km SSW of Ivanof Bay, Alaska",
-      "time": 1782371955305,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mlumie"
-    },
-    {
-      "id": "av94268698",
-      "lon": -152.069166666667,
-      "lat": 61.4185,
-      "depth": 9.49,
-      "mag": -0.2,
-      "place": "61 km WNW of Beluga, Alaska",
-      "time": 1782371756730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94268698"
     }
   ]
 }
