@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-26T21:31:05Z",
-  "count": 219,
+  "updated": "2026-06-26T21:38:41Z",
+  "count": 218,
   "points": [
+    {
+      "id": "nc75384926",
+      "lon": -123.222503662109,
+      "lat": 39.3208351135254,
+      "depth": 5.1399998664856,
+      "mag": 2.41,
+      "place": "6 km NNW of Redwood Valley, CA",
+      "time": 1782509786970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384926"
+    },
+    {
+      "id": "nc75384916",
+      "lon": -122.765998840332,
+      "lat": 38.7886657714844,
+      "depth": 1.58000004291534,
+      "mag": 1.08,
+      "place": "2 km NNW of The Geysers, CA",
+      "time": 1782509546840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384916"
+    },
     {
       "id": "hv74991897",
       "lon": -155.40983581543,
@@ -1355,12 +1375,12 @@
     },
     {
       "id": "ci41495776",
-      "lon": -119.442166666667,
-      "lat": 34.9328333333333,
-      "depth": 8.99,
+      "lon": -119.443,
+      "lat": 34.9356666666667,
+      "depth": 9.91,
       "mag": 1.26,
-      "place": "15 km SSW of Maricopa, CA",
-      "time": 1782457247920,
+      "place": "14 km SSW of Maricopa, CA",
+      "time": 1782457247800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495776"
     },
     {
@@ -2162,36 +2182,6 @@
       "place": "15 km SSW of Honaunau-Napoopoo, Hawaii",
       "time": 1782423676930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74991072"
-    },
-    {
-      "id": "pr71521298",
-      "lon": -66.4586666666667,
-      "lat": 19.0983333333333,
-      "depth": 33.16,
-      "mag": 2.87,
-      "place": "70 km N of Tierras Nuevas Poniente, Puerto Rico",
-      "time": 1782423416380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521298"
-    },
-    {
-      "id": "nn00920735",
-      "lon": -115.7681,
-      "lat": 36.7165,
-      "depth": 5.6917,
-      "mag": 2.64,
-      "place": "18 km NNW of Indian Springs, Nevada",
-      "time": 1782423236816,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920735"
-    },
-    {
-      "id": "pr71521288",
-      "lon": -66.4653333333333,
-      "lat": 19.1175,
-      "depth": 21.01,
-      "mag": 3.1,
-      "place": "72 km N of Tierras Nuevas Poniente, Puerto Rico",
-      "time": 1782423162230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521288"
     }
   ]
 }
