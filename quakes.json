@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-26T09:15:56Z",
-  "count": 204,
+  "updated": "2026-06-26T09:31:15Z",
+  "count": 202,
   "points": [
     {
       "id": "nc75384591",
@@ -42,6 +42,16 @@
       "place": "33 km NNW of Chase, Alaska",
       "time": 1782463449361,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mntimw"
+    },
+    {
+      "id": "us6000t8dx",
+      "lon": -59.5784,
+      "lat": 16.5672,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "162 km E of Beauséjour, Guadeloupe",
+      "time": 1782462184558,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8dx"
     },
     {
       "id": "nc75384576",
@@ -122,6 +132,16 @@
       "place": "3 km NW of Little America, Wyoming",
       "time": 1782459057610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143376"
+    },
+    {
+      "id": "us6000t8dq",
+      "lon": 142.9911,
+      "lat": 40.0393,
+      "depth": 39.212,
+      "mag": 4.4,
+      "place": "99 km ENE of Miyako, Japan",
+      "time": 1782458520186,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8dq"
     },
     {
       "id": "nc75384556",
@@ -365,12 +385,12 @@
     },
     {
       "id": "tx2026mlkzei",
-      "lon": -101.186,
-      "lat": 32.254,
-      "depth": 3.9873,
-      "mag": 1.3,
-      "place": "12 km ESE of Coahoma, Texas",
-      "time": 1782448802447,
+      "lon": -101.161,
+      "lat": 32.268,
+      "depth": 8.1787,
+      "mag": 1.1,
+      "place": "14 km ESE of Coahoma, Texas",
+      "time": 1782448802645,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mlkzei"
     },
     {
@@ -2002,46 +2022,6 @@
       "place": "24 km SE of Pāhala, Hawaii",
       "time": 1782379994750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74990707"
-    },
-    {
-      "id": "nc75383881",
-      "lon": -123.220169067383,
-      "lat": 39.3633346557617,
-      "depth": 7.32999992370605,
-      "mag": 2.5,
-      "place": "11 km N of Redwood Valley, CA",
-      "time": 1782379778800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383881"
-    },
-    {
-      "id": "ci41494960",
-      "lon": -118.622833333333,
-      "lat": 34.3613333333333,
-      "depth": 8.99,
-      "mag": 1.85,
-      "place": "11 km SSW of Valencia, CA",
-      "time": 1782379641730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494960"
-    },
-    {
-      "id": "ci41494952",
-      "lon": -116.163333333333,
-      "lat": 33.9,
-      "depth": 5.27,
-      "mag": 0.8,
-      "place": "21 km NNE of Indio, CA",
-      "time": 1782379357620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494952"
-    },
-    {
-      "id": "pr71521178",
-      "lon": -65.0708333333333,
-      "lat": 18.8575,
-      "depth": 15.21,
-      "mag": 2.88,
-      "place": "58 km NNW of Charlotte Amalie, U.S. Virgin Islands",
-      "time": 1782379169390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521178"
     }
   ]
 }
