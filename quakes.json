@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-26T18:31:10Z",
-  "count": 216,
+  "updated": "2026-06-26T18:45:48Z",
+  "count": 213,
   "points": [
+    {
+      "id": "nc75384811",
+      "lon": -122.47550201416,
+      "lat": 37.9715003967285,
+      "depth": 0.430000007152557,
+      "mag": 1.41,
+      "place": "5 km E of San Rafael, CA",
+      "time": 1782499396520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384811"
+    },
     {
       "id": "nc75384806",
       "lon": -122.87866973877,
@@ -12,6 +22,16 @@
       "place": "13 km ENE of Cloverdale, CA",
       "time": 1782498176680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384806"
+    },
+    {
+      "id": "uw714033901",
+      "lon": -118.223166666667,
+      "lat": 47.8215,
+      "depth": -0.67,
+      "mag": 1.62,
+      "place": "19 km NNW of Davenport, Washington",
+      "time": 1782498007770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714033901"
     },
     {
       "id": "uw714033881",
@@ -52,6 +72,16 @@
       "place": "11 km N of Redwood Valley, CA",
       "time": 1782495131180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384786"
+    },
+    {
+      "id": "us6000t8j3",
+      "lon": -179.8181,
+      "lat": -23.9971,
+      "depth": 515.603,
+      "mag": 4.4,
+      "place": "south of the Fiji Islands",
+      "time": 1782494407079,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8j3"
     },
     {
       "id": "ci41496064",
@@ -105,12 +135,12 @@
     },
     {
       "id": "ci41496032",
-      "lon": -116.166,
-      "lat": 33.8883333333333,
-      "depth": 5.17,
-      "mag": 2.71,
+      "lon": -116.167833333333,
+      "lat": 33.8881666666667,
+      "depth": 5.68,
+      "mag": 2.83,
       "place": "19 km NNE of Indio, CA",
-      "time": 1782491793460,
+      "time": 1782491793450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496032"
     },
     {
@@ -2102,66 +2132,6 @@
       "place": "7 km SSW of Mojave, CA",
       "time": 1782414211110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495344"
-    },
-    {
-      "id": "tx2026mkrekj",
-      "lon": -100.546,
-      "lat": 32.841,
-      "depth": 3.6377,
-      "mag": 1.2,
-      "place": "7 km W of Rotan, Texas",
-      "time": 1782412748050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mkrekj"
-    },
-    {
-      "id": "nc75384221",
-      "lon": -123.222999572754,
-      "lat": 39.3338317871094,
-      "depth": 1.76999998092651,
-      "mag": 1.4,
-      "place": "8 km NNW of Redwood Valley, CA",
-      "time": 1782412491050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384221"
-    },
-    {
-      "id": "hv74990967",
-      "lon": -155.679833333333,
-      "lat": 19.4143333333333,
-      "depth": 9.61,
-      "mag": 2.66,
-      "place": "19 km ESE of Honaunau-Napoopoo, Hawaii",
-      "time": 1782412470550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74990967"
-    },
-    {
-      "id": "hv74990962",
-      "lon": -155.857166666667,
-      "lat": 19.3401666666667,
-      "depth": 21.28,
-      "mag": 3.1,
-      "place": "12 km S of Honaunau-Napoopoo, Hawaii",
-      "time": 1782412467540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74990962"
-    },
-    {
-      "id": "av94269673",
-      "lon": -165.970166666667,
-      "lat": 54.1221666666667,
-      "depth": 3.58,
-      "mag": -0.66,
-      "place": "12 km W of Akutan, Alaska",
-      "time": 1782412339710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94269673"
-    },
-    {
-      "id": "ci41495280",
-      "lon": -117.5735,
-      "lat": 35.7525,
-      "depth": 7.11,
-      "mag": 0.58,
-      "place": "15 km W of Searles Valley, CA",
-      "time": 1782412325740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495280"
     }
   ]
 }
