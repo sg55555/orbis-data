@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-26T04:31:04Z",
-  "count": 233,
+  "updated": "2026-06-26T04:52:50Z",
+  "count": 232,
   "points": [
+    {
+      "id": "nc75384511",
+      "lon": -122.83683013916,
+      "lat": 38.8371658325195,
+      "depth": 1.32000005245209,
+      "mag": 1.19,
+      "place": "10 km NW of The Geysers, CA",
+      "time": 1782448850240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384511"
+    },
+    {
+      "id": "tx2026mlkzei",
+      "lon": -101.186,
+      "lat": 32.254,
+      "depth": 3.9873,
+      "mag": 1.3,
+      "place": "12 km ESE of Coahoma, Texas",
+      "time": 1782448802447,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mlkzei"
+    },
+    {
+      "id": "us6000t8d1",
+      "lon": -68.3607,
+      "lat": 10.4537,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "17 km WSW of Morón, Venezuela",
+      "time": 1782447570378,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8d1"
+    },
     {
       "id": "nc75384501",
       "lon": -122.799667358398,
@@ -15,12 +45,12 @@
     },
     {
       "id": "us6000t8cy",
-      "lon": 140.5017,
-      "lat": 35.6092,
-      "depth": 55.62,
+      "lon": 140.5099,
+      "lat": 35.6314,
+      "depth": 43,
       "mag": 5.8,
-      "place": "4 km SSE of Yokoshiba, Japan",
-      "time": 1782445597180,
+      "place": "3 km SE of Yokoshiba, Japan",
+      "time": 1782445595803,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8cy"
     },
     {
@@ -2292,46 +2322,6 @@
       "place": "19 km NE of Gardendale, Texas",
       "time": 1782363244868,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjpvks"
-    },
-    {
-      "id": "tx2026mjpnyj",
-      "lon": -101.999,
-      "lat": 31.806,
-      "depth": 3.3447,
-      "mag": 0.9,
-      "place": "22 km SSE of Midland, Texas",
-      "time": 1782362723862,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjpnyj"
-    },
-    {
-      "id": "ci41494880",
-      "lon": -117.6005,
-      "lat": 34.2485,
-      "depth": 2.65,
-      "mag": 1.32,
-      "place": "9 km W of Lytle Creek, CA",
-      "time": 1782362643480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494880"
-    },
-    {
-      "id": "nc75383721",
-      "lon": -124.452003479004,
-      "lat": 40.3181648254395,
-      "depth": 10.3500003814697,
-      "mag": 2.23,
-      "place": "14 km W of Petrolia, CA",
-      "time": 1782362193030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383721"
-    },
-    {
-      "id": "hv74990632",
-      "lon": -155.494003295898,
-      "lat": 19.1871662139893,
-      "depth": 26.9599990844727,
-      "mag": 1.85,
-      "place": "2 km SW of Pāhala, Hawaii",
-      "time": 1782361960600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74990632"
     }
   ]
 }
