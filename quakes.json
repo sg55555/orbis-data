@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-26T21:15:49Z",
-  "count": 223,
+  "updated": "2026-06-26T21:31:05Z",
+  "count": 219,
   "points": [
+    {
+      "id": "hv74991897",
+      "lon": -155.40983581543,
+      "lat": 19.2921657562256,
+      "depth": 31.4599990844727,
+      "mag": 2.18,
+      "place": "12 km NE of Pāhala, Hawaii",
+      "time": 1782509173240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74991897"
+    },
     {
       "id": "nc75384911",
       "lon": -122.815330505371,
@@ -492,16 +502,6 @@
       "place": "25 km SSE of Ivanof Bay, Alaska",
       "time": 1782487254190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mogomt"
-    },
-    {
-      "id": "tx2026mmgcqg",
-      "lon": -103.095,
-      "lat": 31.579,
-      "depth": 2.5864,
-      "mag": 1.4,
-      "place": "5 km NNE of Pyote, Texas",
-      "time": 1782486846067,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mmgcqg"
     },
     {
       "id": "us6000t8fs",
@@ -1375,12 +1375,12 @@
     },
     {
       "id": "ci41495768",
-      "lon": -116.424833333333,
-      "lat": 33.4083333333333,
-      "depth": 13.14,
-      "mag": 0.79,
-      "place": "18 km NNW of Borrego Springs, CA",
-      "time": 1782456076560,
+      "lon": -116.424,
+      "lat": 33.4071666666667,
+      "depth": 14.83,
+      "mag": 0.73,
+      "place": "17 km NNW of Borrego Springs, CA",
+      "time": 1782456076400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495768"
     },
     {
@@ -2192,46 +2192,6 @@
       "place": "72 km N of Tierras Nuevas Poniente, Puerto Rico",
       "time": 1782423162230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521288"
-    },
-    {
-      "id": "pr71521268",
-      "lon": -66.4675,
-      "lat": 19.1111666666667,
-      "depth": 20.36,
-      "mag": 3.14,
-      "place": "71 km N of Tierras Nuevas Poniente, Puerto Rico",
-      "time": 1782422781010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521268"
-    },
-    {
-      "id": "uw714032781",
-      "lon": -119.049,
-      "lat": 43.6755,
-      "depth": -1.41,
-      "mag": 1.62,
-      "place": "9 km N of Burns, Oregon",
-      "time": 1782422706440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714032781"
-    },
-    {
-      "id": "tx2026mkwqhl",
-      "lon": -104.353,
-      "lat": 31.664,
-      "depth": 6.51,
-      "mag": 1.8,
-      "place": "56 km S of Whites City, New Mexico",
-      "time": 1782422626743,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mkwqhl"
-    },
-    {
-      "id": "us6000t8al",
-      "lon": 126.9518,
-      "lat": 9.8919,
-      "depth": 10,
-      "mag": 5,
-      "place": "93 km E of Union, Philippines",
-      "time": 1782422269072,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8al"
     }
   ]
 }
