@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-26T17:45:48Z",
-  "count": 217,
+  "updated": "2026-06-26T18:01:17Z",
+  "count": 218,
   "points": [
+    {
+      "id": "uw714033841",
+      "lon": -123.0365,
+      "lat": 47.9693333333333,
+      "depth": 18.41,
+      "mag": 0.68,
+      "place": "6 km SSW of Blyn, Washington",
+      "time": 1782495258550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714033841"
+    },
     {
       "id": "ci41496088",
       "lon": -117.2675,
@@ -182,6 +192,16 @@
       "place": "23 km NNW of Searles Valley, CA",
       "time": 1782487533980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495976"
+    },
+    {
+      "id": "ci10245222",
+      "lon": -117.482333333333,
+      "lat": 35.9743333333333,
+      "depth": 7.88,
+      "mag": -0.03,
+      "place": "24 km NNW of Searles Valley, CA",
+      "time": 1782487508490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10245222"
     },
     {
       "id": "hv74991717",
@@ -2162,16 +2182,6 @@
       "place": "18 km WNW of Ivanof Bay, Alaska",
       "time": 1782410712450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062709"
-    },
-    {
-      "id": "aka2026mmpkts",
-      "lon": -159.807,
-      "lat": 55.835,
-      "depth": 8.9,
-      "mag": 1.7,
-      "place": "21 km WSW of Ivanof Bay, Alaska",
-      "time": 1782409627043,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mmpkts"
     }
   ]
 }
