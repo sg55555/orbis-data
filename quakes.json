@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-27T01:32:25Z",
-  "count": 228,
+  "updated": "2026-06-27T01:45:46Z",
+  "count": 229,
   "points": [
+    {
+      "id": "pr71521543",
+      "lon": -66.8375,
+      "lat": 17.927,
+      "depth": 12.65,
+      "mag": 2.36,
+      "place": "7 km SSW of Indios, Puerto Rico",
+      "time": 1782523941200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521543"
+    },
+    {
+      "id": "nc75384996",
+      "lon": -121.588165283203,
+      "lat": 36.9613342285156,
+      "depth": 3.82999992370605,
+      "mag": 1.18,
+      "place": "5 km SSW of Gilroy, CA",
+      "time": 1782523835550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384996"
+    },
     {
       "id": "aka2026mpauzz",
       "lon": -148.294,
@@ -35,12 +55,12 @@
     },
     {
       "id": "aka2026mpakbo",
-      "lon": -151.26,
-      "lat": 60.133,
-      "depth": 52.4,
+      "lon": -151.273,
+      "lat": 60.13,
+      "depth": 55,
       "mag": 4.9,
-      "place": "13 km SE of Clam Gulch, Alaska",
-      "time": 1782522931451,
+      "place": "13 km SSE of Clam Gulch, Alaska",
+      "time": 1782522931509,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpakbo"
     },
     {
@@ -75,12 +95,12 @@
     },
     {
       "id": "hv74991972",
-      "lon": -155.224334716797,
-      "lat": 19.3285007476807,
-      "depth": 3.13000011444092,
-      "mag": 2.74,
-      "place": "12 km S of Volcano, Hawaii",
-      "time": 1782522635520,
+      "lon": -155.223,
+      "lat": 19.3186666666667,
+      "depth": 6.9,
+      "mag": 2.63,
+      "place": "13 km S of Volcano, Hawaii",
+      "time": 1782522635310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74991972"
     },
     {
@@ -122,6 +142,16 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1782520592790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384971"
+    },
+    {
+      "id": "us6000t8kp",
+      "lon": -68.7714,
+      "lat": -22.2857,
+      "depth": 113.824,
+      "mag": 4.3,
+      "place": "24 km NE of Calama, Chile",
+      "time": 1782520549897,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8kp"
     },
     {
       "id": "ci41496440",
@@ -1034,6 +1064,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8fe"
     },
     {
+      "id": "av94271213",
+      "lon": -174.1435,
+      "lat": 52.3681666666667,
+      "depth": 0.3,
+      "mag": 0.45,
+      "place": "19 km NNE of Atka, Alaska",
+      "time": 1782479737560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94271213"
+    },
+    {
       "id": "nc75384666",
       "lon": -123.233497619629,
       "lat": 39.372501373291,
@@ -1915,12 +1955,12 @@
     },
     {
       "id": "uw714033381",
-      "lon": -121.1685,
-      "lat": 47.2238333333333,
-      "depth": 0.24,
+      "lon": -121.168666666667,
+      "lat": 47.2243333333333,
+      "depth": 0.03,
       "mag": 2.82,
       "place": "1 km SSE of Easton, Washington",
-      "time": 1782451889640,
+      "time": 1782451889620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714033381"
     },
     {
@@ -2252,36 +2292,6 @@
       "place": "4 km NNW of Strawberry, Arkansas",
       "time": 1782438969370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60505808"
-    },
-    {
-      "id": "pr71521368",
-      "lon": -66.8185,
-      "lat": 17.9765,
-      "depth": 15.21,
-      "mag": 1.85,
-      "place": "1 km S of Indios, Puerto Rico",
-      "time": 1782438027480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521368"
-    },
-    {
-      "id": "nc75384436",
-      "lon": -122.786163330078,
-      "lat": 38.8356666564941,
-      "depth": 1.75999999046326,
-      "mag": 0.72,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1782437703080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384436"
-    },
-    {
-      "id": "ci41495736",
-      "lon": -116.723166666667,
-      "lat": 33.5341666666667,
-      "depth": 6.57,
-      "mag": 0.29,
-      "place": "5 km WSW of Anza, CA",
-      "time": 1782437621340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495736"
     }
   ]
 }
