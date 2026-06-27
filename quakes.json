@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-27T06:45:44Z",
-  "count": 223,
+  "updated": "2026-06-27T07:01:11Z",
+  "count": 224,
   "points": [
+    {
+      "id": "us6000t8m6",
+      "lon": -68.6501,
+      "lat": -22.0423,
+      "depth": 119.572,
+      "mag": 4.4,
+      "place": "53 km NNE of Calama, Chile",
+      "time": 1782542187012,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8m6"
+    },
     {
       "id": "nc75385131",
       "lon": -122.809669494629,
@@ -52,6 +62,16 @@
       "place": "19 km SSE of Malibu Beach, CA",
       "time": 1782540306240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496504"
+    },
+    {
+      "id": "uw714034831",
+      "lon": -122.078833333333,
+      "lat": 46.0813333333333,
+      "depth": 10.77,
+      "mag": 0.92,
+      "place": "34 km ENE of Amboy, Washington",
+      "time": 1782540185310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714034831"
     },
     {
       "id": "nn00920810",
@@ -2222,16 +2242,6 @@
       "place": "14 km SSW of Maricopa, CA",
       "time": 1782457247800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495776"
-    },
-    {
-      "id": "nc75384551",
-      "lon": -122.797836303711,
-      "lat": 38.8404998779297,
-      "depth": 1.05999994277954,
-      "mag": 0.79,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1782456740130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384551"
     }
   ]
 }
