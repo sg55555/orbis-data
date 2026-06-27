@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-27T17:01:11Z",
-  "count": 186,
+  "updated": "2026-06-27T17:15:45Z",
+  "count": 187,
   "points": [
+    {
+      "id": "aka2026mqfwxb",
+      "lon": -150.876,
+      "lat": 60.76,
+      "depth": 56.1,
+      "mag": 2.3,
+      "place": "20 km SSW of Point Possession, Alaska",
+      "time": 1782579608440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mqfwxb"
+    },
     {
       "id": "hv74992262",
       "lon": -155.441497802734,
@@ -12,6 +22,16 @@
       "place": "6 km NE of Pāhala, Hawaii",
       "time": 1782578484160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74992262"
+    },
+    {
+      "id": "us6000t8pw",
+      "lon": 176.4343,
+      "lat": 52.1982,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "231 km ESE of Attu Station, Alaska",
+      "time": 1782578134867,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8pw"
     },
     {
       "id": "nc75385291",
@@ -1852,16 +1872,6 @@
       "place": "south of the Fiji Islands",
       "time": 1782494407079,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8j3"
-    },
-    {
-      "id": "ci41496064",
-      "lon": -117.419333333333,
-      "lat": 35.6146666666667,
-      "depth": 5.6,
-      "mag": 0.96,
-      "place": "17 km SSW of Trona, CA",
-      "time": 1782493431130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496064"
     }
   ]
 }
