@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-27T11:45:49Z",
-  "count": 205,
+  "updated": "2026-06-27T12:00:47Z",
+  "count": 202,
   "points": [
+    {
+      "id": "tx2026mnuxex",
+      "lon": -103.56,
+      "lat": 31.414,
+      "depth": 5.5936,
+      "mag": 1.6,
+      "place": "5 km NNW of Lindsay, Texas",
+      "time": 1782560694425,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mnuxex"
+    },
     {
       "id": "aka2026mpuwpk",
       "lon": -152.052,
@@ -112,6 +122,16 @@
       "place": "2 km N of Banning, CA",
       "time": 1782556368760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496544"
+    },
+    {
+      "id": "us6000t8na",
+      "lon": 26.3051,
+      "lat": 39.4258,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "7 km SSW of Behram, Turkey",
+      "time": 1782556058795,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8na"
     },
     {
       "id": "ci41496536",
@@ -2002,56 +2022,6 @@
       "place": "8 km W of Cobb, CA",
       "time": 1782475661100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384626"
-    },
-    {
-      "id": "hv74991617",
-      "lon": -155.214,
-      "lat": 19.2951666666667,
-      "depth": 0.29,
-      "mag": 2.03,
-      "place": "16 km S of Volcano, Hawaii",
-      "time": 1782475210280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74991617"
-    },
-    {
-      "id": "hv74991612",
-      "lon": -155.376327514648,
-      "lat": 19.2830009460449,
-      "depth": 30.3299999237061,
-      "mag": 2.14,
-      "place": "13 km NE of Pāhala, Hawaii",
-      "time": 1782475119370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74991612"
-    },
-    {
-      "id": "us6000t8ey",
-      "lon": -86.4565,
-      "lat": 12.0312,
-      "depth": 120.479,
-      "mag": 5.2,
-      "place": "7 km NE of Villa El Carmen, Nicaragua",
-      "time": 1782475045458,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ey"
-    },
-    {
-      "id": "us6000t8ei",
-      "lon": 69.6336,
-      "lat": 30.3661,
-      "depth": 10,
-      "mag": 5.2,
-      "place": "52 km NNE of Barkhan, Pakistan",
-      "time": 1782474527037,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ei"
-    },
-    {
-      "id": "hv74991602",
-      "lon": -155.768173217773,
-      "lat": 19.7014999389648,
-      "depth": 100.680000305176,
-      "mag": 3.19,
-      "place": "20 km ENE of Hōlualoa, Hawaii",
-      "time": 1782474385630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74991602"
     }
   ]
 }
