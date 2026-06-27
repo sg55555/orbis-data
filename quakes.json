@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-27T02:15:45Z",
-  "count": 235,
+  "updated": "2026-06-27T02:31:00Z",
+  "count": 237,
   "points": [
     {
       "id": "nc75385001",
@@ -75,12 +75,12 @@
     },
     {
       "id": "hv74991977",
-      "lon": -155.227493286133,
-      "lat": 19.3146667480469,
-      "depth": 1.46000003814697,
-      "mag": 2.32,
+      "lon": -155.223666666667,
+      "lat": 19.3136666666667,
+      "depth": 1.85,
+      "mag": 2.01,
       "place": "14 km S of Volcano, Hawaii",
-      "time": 1782523494270,
+      "time": 1782523494250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74991977"
     },
     {
@@ -514,6 +514,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8jp"
     },
     {
+      "id": "av94271853",
+      "lon": -152.2375,
+      "lat": 61.278,
+      "depth": 3.07,
+      "mag": -0.81,
+      "place": "63 km WNW of Tyonek, Alaska",
+      "time": 1782504145170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94271853"
+    },
+    {
+      "id": "av94271848",
+      "lon": -156.025333333333,
+      "lat": 57.9775,
+      "depth": 8.67,
+      "mag": 0.1,
+      "place": "83 km ESE of Egegik, Alaska",
+      "time": 1782504075190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94271848"
+    },
+    {
       "id": "nc75384866",
       "lon": -123.228332519531,
       "lat": 39.3451652526855,
@@ -552,6 +572,16 @@
       "place": "2 km NNE of Valle Vista, CA",
       "time": 1782503055740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496216"
+    },
+    {
+      "id": "av93062759",
+      "lon": -155.121333333333,
+      "lat": 58.2305,
+      "depth": 2.43,
+      "mag": -0.4,
+      "place": "83 km NNW of Karluk, Alaska",
+      "time": 1782502936580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062759"
     },
     {
       "id": "av93062754",
@@ -2342,16 +2372,6 @@
       "place": "71 km WSW of Nikolski, Alaska",
       "time": 1782441015080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062729"
-    },
-    {
-      "id": "nc75384456",
-      "lon": -123.198669433594,
-      "lat": 39.3463325500488,
-      "depth": 8.05000019073486,
-      "mag": 1.52,
-      "place": "9 km N of Redwood Valley, CA",
-      "time": 1782440932500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384456"
     }
   ]
 }
