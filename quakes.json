@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-27T14:03:31Z",
-  "count": 192,
+  "updated": "2026-06-27T14:31:03Z",
+  "count": 190,
   "points": [
+    {
+      "id": "aka2026mqairq",
+      "lon": -149.342,
+      "lat": 61.59,
+      "depth": 22.3,
+      "mag": 1.1,
+      "place": "2 km SW of Lakes, Alaska",
+      "time": 1782569614537,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mqairq"
+    },
     {
       "id": "aka2026mpztzk",
       "lon": -145.947,
@@ -25,12 +35,12 @@
     },
     {
       "id": "us6000t8pa",
-      "lon": 70.7401,
-      "lat": 36.4806,
-      "depth": 208.328,
+      "lon": 70.7644,
+      "lat": 36.4731,
+      "depth": 199,
       "mag": 6.1,
       "place": "43 km S of Jurm, Afghanistan",
-      "time": 1782567293358,
+      "time": 1782567292534,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8pa"
     },
     {
@@ -1892,36 +1902,6 @@
       "place": "59 km ESE of Chignik, Alaska",
       "time": 1782485002255,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mofhxe"
-    },
-    {
-      "id": "ci41495920",
-      "lon": -117.799333333333,
-      "lat": 34.098,
-      "depth": 13.52,
-      "mag": 1.3,
-      "place": "1 km SE of San Dimas, CA",
-      "time": 1782484040180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495920"
-    },
-    {
-      "id": "aka2026moesbm",
-      "lon": -152.712,
-      "lat": 59.968,
-      "depth": 104.5,
-      "mag": 1.8,
-      "place": "53 km WNW of Anchor Point, Alaska",
-      "time": 1782483901696,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026moesbm"
-    },
-    {
-      "id": "nc75384716",
-      "lon": -122.842330932617,
-      "lat": 38.8238334655762,
-      "depth": 1.87999999523163,
-      "mag": 1.18,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1782483877900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384716"
     }
   ]
 }
