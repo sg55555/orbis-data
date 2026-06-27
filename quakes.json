@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-27T15:01:07Z",
+  "updated": "2026-06-27T15:15:51Z",
   "count": 194,
   "points": [
+    {
+      "id": "nc75385251",
+      "lon": -122.50016784668,
+      "lat": 37.6788330078125,
+      "depth": 6.46999979019165,
+      "mag": 1.19,
+      "place": "3 km WSW of Daly City, CA",
+      "time": 1782572436580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385251"
+    },
     {
       "id": "ci41496608",
       "lon": -115.551833333333,
@@ -42,6 +52,16 @@
       "place": "42 km NW of Toyah, Texas",
       "time": 1782570768925,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026moalxs"
+    },
+    {
+      "id": "pr71521633",
+      "lon": -66.8963333333333,
+      "lat": 18.5351666666667,
+      "depth": 53.03,
+      "mag": 2.78,
+      "place": "7 km NW of Camuy, Puerto Rico",
+      "time": 1782570608080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521633"
     },
     {
       "id": "ci41496592",
@@ -1922,26 +1942,6 @@
       "place": "25 km SSE of Ivanof Bay, Alaska",
       "time": 1782487254190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mogomt"
-    },
-    {
-      "id": "us6000t8fs",
-      "lon": -163.1184,
-      "lat": 65.112,
-      "depth": 5,
-      "mag": 2.5,
-      "place": "49 km NNE of White Mountain, Alaska",
-      "time": 1782486648285,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8fs"
-    },
-    {
-      "id": "nc75384726",
-      "lon": -122.829666137695,
-      "lat": 38.8624992370605,
-      "depth": 1.45000004768372,
-      "mag": 0.46,
-      "place": "10 km WNW of Cobb, CA",
-      "time": 1782486420280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384726"
     }
   ]
 }
