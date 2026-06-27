@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-27T05:31:02Z",
+  "updated": "2026-06-27T05:35:06Z",
   "count": 229,
   "points": [
     {
+      "id": "aka2026mpiyig",
+      "lon": -147.412,
+      "lat": 61.219,
+      "depth": 16.7,
+      "mag": 2.5,
+      "place": "55 km NW of Tatitlek, Alaska",
+      "time": 1782538310711,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpiyig"
+    },
+    {
       "id": "aka2026mpitdk",
-      "lon": -150.139,
-      "lat": 60.971,
-      "depth": 18,
-      "mag": 4.3,
+      "lon": -150.136,
+      "lat": 60.982,
+      "depth": 50,
+      "mag": 4.2,
       "place": "27 km WNW of Hope, Alaska",
-      "time": 1782537950846,
+      "time": 1782537952462,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpitdk"
     },
     {
@@ -2282,16 +2292,6 @@
       "place": "68 km ENE of Pedro Bay, Alaska",
       "time": 1782452366940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94270608"
-    },
-    {
-      "id": "uw714033381",
-      "lon": -121.168666666667,
-      "lat": 47.2243333333333,
-      "depth": 0.03,
-      "mag": 2.82,
-      "place": "1 km SSE of Easton, Washington",
-      "time": 1782451889620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714033381"
     }
   ]
 }
