@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-27T03:15:55Z",
+  "updated": "2026-06-27T03:31:06Z",
   "count": 230,
   "points": [
+    {
+      "id": "nc75385031",
+      "lon": -122.8056640625,
+      "lat": 38.8359985351562,
+      "depth": 2.04999995231628,
+      "mag": 0.93,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1782530449700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385031"
+    },
     {
       "id": "aka2026mpehod",
       "lon": -147.286,
@@ -12,6 +22,16 @@
       "place": "45 km ENE of Chenega, Alaska",
       "time": 1782529953595,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpehod"
+    },
+    {
+      "id": "us6000t8le",
+      "lon": 69.6859,
+      "lat": 30.4545,
+      "depth": 10,
+      "mag": 5.4,
+      "place": "63 km NNE of Barkhan, Pakistan",
+      "time": 1782529581113,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8le"
     },
     {
       "id": "nc75385021",
@@ -2282,26 +2302,6 @@
       "place": "7 km NE of Coso Junction, CA",
       "time": 1782444876510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495744"
-    },
-    {
-      "id": "av94270443",
-      "lon": -174.1665,
-      "lat": 52.3686666666667,
-      "depth": 7.3,
-      "mag": 0.68,
-      "place": "19 km N of Atka, Alaska",
-      "time": 1782444008750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94270443"
-    },
-    {
-      "id": "uw714033291",
-      "lon": -123.093,
-      "lat": 48.1805,
-      "depth": 21.48,
-      "mag": 0.83,
-      "place": "5 km N of Jamestown, Washington",
-      "time": 1782443926610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714033291"
     }
   ]
 }
