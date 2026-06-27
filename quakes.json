@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-27T05:15:53Z",
+  "updated": "2026-06-27T05:31:02Z",
   "count": 229,
   "points": [
     {
+      "id": "aka2026mpitdk",
+      "lon": -150.139,
+      "lat": 60.971,
+      "depth": 18,
+      "mag": 4.3,
+      "place": "27 km WNW of Hope, Alaska",
+      "time": 1782537950846,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpitdk"
+    },
+    {
+      "id": "tx2026mniaym",
+      "lon": -102.131,
+      "lat": 31.954,
+      "depth": 0,
+      "mag": 1.5,
+      "place": "6 km SW of Midland, Texas",
+      "time": 1782537419807,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mniaym"
+    },
+    {
       "id": "ci41496496",
-      "lon": -116.791664123535,
-      "lat": 33.6865005493164,
-      "depth": 18.0900001525879,
-      "mag": 1.20106418750617,
+      "lon": -116.791166666667,
+      "lat": 33.685,
+      "depth": 18.07,
+      "mag": 0.93,
       "place": "9 km SW of Idyllwild, CA",
-      "time": 1782537094370,
+      "time": 1782537094350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496496"
     },
     {
@@ -2272,26 +2292,6 @@
       "place": "1 km SSE of Easton, Washington",
       "time": 1782451889620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714033381"
-    },
-    {
-      "id": "aka2026mnmset",
-      "lon": -155.269,
-      "lat": 58.183,
-      "depth": 5,
-      "mag": 0.6,
-      "place": "83 km NW of Karluk, Alaska",
-      "time": 1782451525372,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mnmset"
-    },
-    {
-      "id": "aka2026mnmqfw",
-      "lon": -147.411,
-      "lat": 64.83,
-      "depth": 16.7,
-      "mag": 3.1,
-      "place": "6 km ENE of Badger, Alaska",
-      "time": 1782451390679,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mnmqfw"
     }
   ]
 }
