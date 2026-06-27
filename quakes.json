@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-27T03:31:06Z",
-  "count": 230,
+  "updated": "2026-06-27T03:45:43Z",
+  "count": 231,
   "points": [
+    {
+      "id": "nc75385036",
+      "lon": -123.248168945312,
+      "lat": 39.3428344726562,
+      "depth": 5.76000022888184,
+      "mag": 1.4,
+      "place": "9 km NNW of Redwood Valley, CA",
+      "time": 1782531044410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385036"
+    },
+    {
+      "id": "us6000t8lh",
+      "lon": -128.1349,
+      "lat": 43.6976,
+      "depth": 10,
+      "mag": 3.3,
+      "place": "off the coast of Oregon",
+      "time": 1782530498976,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8lh"
+    },
     {
       "id": "nc75385031",
       "lon": -122.8056640625,
@@ -2292,16 +2312,6 @@
       "place": "3 km SE of Yokoshiba, Japan",
       "time": 1782445595803,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8cy"
-    },
-    {
-      "id": "ci41495744",
-      "lon": -117.895333333333,
-      "lat": 36.0948333333333,
-      "depth": 5.39,
-      "mag": 1.82,
-      "place": "7 km NE of Coso Junction, CA",
-      "time": 1782444876510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495744"
     }
   ]
 }
