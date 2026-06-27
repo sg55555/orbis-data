@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-27T19:31:03Z",
-  "count": 188,
+  "updated": "2026-06-27T20:01:23Z",
+  "count": 185,
   "points": [
+    {
+      "id": "nc75385376",
+      "lon": -122.879501342773,
+      "lat": 38.841667175293,
+      "depth": 2,
+      "mag": 0.69,
+      "place": "13 km ENE of Cloverdale, CA",
+      "time": 1782589903470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385376"
+    },
     {
       "id": "aka2026mqksud",
       "lon": -159.856,
@@ -12,6 +22,16 @@
       "place": "23 km WSW of Ivanof Bay, Alaska",
       "time": 1782588302092,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mqksud"
+    },
+    {
+      "id": "us6000t8q8",
+      "lon": -67.5112,
+      "lat": 10.6023,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "35 km NNE of El Limón, Venezuela",
+      "time": 1782588036606,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8q8"
     },
     {
       "id": "aka2026mqkouk",
@@ -255,12 +275,12 @@
     },
     {
       "id": "nc75385291",
-      "lon": -122.472503662109,
-      "lat": 37.6030006408691,
-      "depth": 9.07999992370605,
-      "mag": 2.34,
+      "lon": -122.4715,
+      "lat": 37.6026666666667,
+      "depth": 9.29,
+      "mag": 2.25,
       "place": "2 km SE of Pacifica, CA",
-      "time": 1782577537620,
+      "time": 1782577537590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385291"
     },
     {
@@ -1832,56 +1852,6 @@
       "place": "83 km ESE of Egegik, Alaska",
       "time": 1782504075190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94271848"
-    },
-    {
-      "id": "nc75384866",
-      "lon": -123.228332519531,
-      "lat": 39.3451652526855,
-      "depth": 5.90000009536743,
-      "mag": 2.15,
-      "place": "9 km NNW of Redwood Valley, CA",
-      "time": 1782503547240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384866"
-    },
-    {
-      "id": "hv74991872",
-      "lon": -155.416000366211,
-      "lat": 19.2919998168945,
-      "depth": 29.4599990844727,
-      "mag": 2.07,
-      "place": "11 km NNE of Pāhala, Hawaii",
-      "time": 1782503415580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74991872"
-    },
-    {
-      "id": "tx2026mmpdmk",
-      "lon": -104.378,
-      "lat": 31.652,
-      "depth": 6.0999,
-      "mag": 2.4,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": 1782503203137,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mmpdmk"
-    },
-    {
-      "id": "ci41496216",
-      "lon": -116.888166666667,
-      "lat": 33.7683333333333,
-      "depth": 11.14,
-      "mag": 0.26,
-      "place": "2 km NNE of Valle Vista, CA",
-      "time": 1782503055740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496216"
-    },
-    {
-      "id": "av93062759",
-      "lon": -155.121333333333,
-      "lat": 58.2305,
-      "depth": 2.43,
-      "mag": -0.4,
-      "place": "83 km NNW of Karluk, Alaska",
-      "time": 1782502936580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062759"
     }
   ]
 }
