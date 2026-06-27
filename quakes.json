@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-27T15:15:51Z",
-  "count": 194,
+  "updated": "2026-06-27T15:31:00Z",
+  "count": 191,
   "points": [
+    {
+      "id": "ci41496616",
+      "lon": -116.543833333333,
+      "lat": 33.4543333333333,
+      "depth": 10.79,
+      "mag": 0.72,
+      "place": "16 km SE of Anza, CA",
+      "time": 1782573669310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496616"
+    },
     {
       "id": "nc75385251",
       "lon": -122.50016784668,
@@ -1902,46 +1912,6 @@
       "place": "24 km ENE of Ashford, Washington",
       "time": 1782487821760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714033701"
-    },
-    {
-      "id": "ci41495976",
-      "lon": -117.469166666667,
-      "lat": 35.9716666666667,
-      "depth": 6.82,
-      "mag": 0.22,
-      "place": "23 km NNW of Searles Valley, CA",
-      "time": 1782487533980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495976"
-    },
-    {
-      "id": "ci10245222",
-      "lon": -117.482333333333,
-      "lat": 35.9743333333333,
-      "depth": 7.88,
-      "mag": -0.03,
-      "place": "24 km NNW of Searles Valley, CA",
-      "time": 1782487508490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10245222"
-    },
-    {
-      "id": "hv74991717",
-      "lon": -155.3725,
-      "lat": 19.1245,
-      "depth": 29.37,
-      "mag": 1.69,
-      "place": "14 km SE of Pāhala, Hawaii",
-      "time": 1782487403120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74991717"
-    },
-    {
-      "id": "aka2026mogomt",
-      "lon": -159.327,
-      "lat": 55.692,
-      "depth": 67.4,
-      "mag": 2.8,
-      "place": "25 km SSE of Ivanof Bay, Alaska",
-      "time": 1782487254190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mogomt"
     }
   ]
 }
