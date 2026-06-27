@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-27T01:45:46Z",
-  "count": 229,
+  "updated": "2026-06-27T02:01:12Z",
+  "count": 232,
   "points": [
+    {
+      "id": "ci41496472",
+      "lon": -117.719666666667,
+      "lat": 34.1578333333333,
+      "depth": 12.34,
+      "mag": 0.79,
+      "place": "7 km N of Claremont, CA",
+      "time": 1782524895490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496472"
+    },
+    {
+      "id": "tx2026mnbcgb",
+      "lon": -103.638,
+      "lat": 30.762,
+      "depth": 0,
+      "mag": 1.6,
+      "place": "26 km SSE of Balmorhea, Texas",
+      "time": 1782524837806,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mnbcgb"
+    },
     {
       "id": "pr71521543",
       "lon": -66.8375,
@@ -122,6 +142,16 @@
       "place": "13 km S of Volcano, Hawaii",
       "time": 1782522190620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74991962"
+    },
+    {
+      "id": "us6000t8kt",
+      "lon": 69.1326,
+      "lat": 30.3226,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "48 km NNW of Kohlu, Pakistan",
+      "time": 1782521097304,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8kt"
     },
     {
       "id": "nc75384976",
@@ -1694,6 +1724,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74991467"
     },
     {
+      "id": "us6000t8l4",
+      "lon": -71.8683,
+      "lat": 42.7225,
+      "depth": 14.394,
+      "mag": 1.2,
+      "place": "3 km SSW of New Ipswich, New Hampshire",
+      "time": 1782460316597,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8l4"
+    },
+    {
       "id": "ci41495784",
       "lon": -116.421666666667,
       "lat": 33.0016666666667,
@@ -2282,16 +2322,6 @@
       "place": "27 km SE of Waimea, Hawaii",
       "time": 1782439823620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74991232"
-    },
-    {
-      "id": "nm60505808",
-      "lon": -91.3355,
-      "lat": 36.0023333333333,
-      "depth": 8.17,
-      "mag": 1.81,
-      "place": "4 km NNW of Strawberry, Arkansas",
-      "time": 1782438969370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60505808"
     }
   ]
 }
