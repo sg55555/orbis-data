@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-27T21:01:12Z",
-  "count": 184,
+  "updated": "2026-06-27T21:15:48Z",
+  "count": 185,
   "points": [
+    {
+      "id": "aka2026mqobsb",
+      "lon": -159.905,
+      "lat": 55.831,
+      "depth": 5,
+      "mag": 1.1,
+      "place": "27 km WSW of Ivanof Bay, Alaska",
+      "time": 1782594314032,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mqobsb"
+    },
     {
       "id": "nc75385401",
       "lon": -122.768997192383,
@@ -44,13 +54,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mqmypj"
     },
     {
+      "id": "pr71521703",
+      "lon": -67.1078333333333,
+      "lat": 19.3498333333333,
+      "depth": 24.95,
+      "mag": 3.12,
+      "place": "94 km N of Isabela, Puerto Rico",
+      "time": 1782591978670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521703"
+    },
+    {
       "id": "us6000t8qd",
-      "lon": 142.3816,
-      "lat": 40.2598,
-      "depth": 35,
-      "mag": 5.9,
-      "place": "50 km ENE of Noda, Japan",
-      "time": 1782591711006,
+      "lon": 142.4136,
+      "lat": 40.206,
+      "depth": 34,
+      "mag": 5.8,
+      "place": "51 km ENE of Noda, Japan",
+      "time": 1782591710769,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8qd"
     },
     {
@@ -1832,16 +1852,6 @@
       "place": "12 km NE of Pāhala, Hawaii",
       "time": 1782509173240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74991897"
-    },
-    {
-      "id": "nc75384911",
-      "lon": -122.815330505371,
-      "lat": 38.7985000610352,
-      "depth": 3.15000009536743,
-      "mag": 0.8,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": 1782507779130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384911"
     }
   ]
 }
