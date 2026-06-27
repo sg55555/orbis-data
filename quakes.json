@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-27T10:15:46Z",
-  "count": 203,
+  "updated": "2026-06-27T10:31:00Z",
+  "count": 202,
   "points": [
+    {
+      "id": "ci41496536",
+      "lon": -116.724333333333,
+      "lat": 33.6651666666667,
+      "depth": 14.15,
+      "mag": 0.83,
+      "place": "8 km S of Idyllwild, CA",
+      "time": 1782555507470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496536"
+    },
     {
       "id": "aka2026mpsbyb",
       "lon": -159.408,
@@ -214,6 +224,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpnflw"
     },
     {
+      "id": "pr71521568",
+      "lon": -66.8535,
+      "lat": 17.9441666666667,
+      "depth": 12.05,
+      "mag": 2.25,
+      "place": "5 km SE of Maria Antonia, Puerto Rico",
+      "time": 1782545493130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521568"
+    },
+    {
       "id": "nc75385136",
       "lon": -120.733665466309,
       "lat": 39.7603340148926,
@@ -332,6 +352,16 @@
       "place": "28 km ENE of Point Possession, Alaska",
       "time": 1782539632145,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpjrkt"
+    },
+    {
+      "id": "pr71521563",
+      "lon": -66.6006666666667,
+      "lat": 17.9676666666667,
+      "depth": 12.63,
+      "mag": 1.97,
+      "place": "5 km SSE of Ponce, Puerto Rico",
+      "time": 1782538951880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521563"
     },
     {
       "id": "aka2026mpiyig",
@@ -1992,46 +2022,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1782469876170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384611"
-    },
-    {
-      "id": "ci41495816",
-      "lon": -117.508166666667,
-      "lat": 35.9681666666667,
-      "depth": 4.47,
-      "mag": 1.12,
-      "place": "24 km NNW of Searles Valley, CA",
-      "time": 1782469688720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495816"
-    },
-    {
-      "id": "uu80143411",
-      "lon": -110.375666666667,
-      "lat": 44.477,
-      "depth": 3.16,
-      "mag": 0.6,
-      "place": "61 km SSE of Mammoth, Wyoming",
-      "time": 1782469443440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143411"
-    },
-    {
-      "id": "ci41495808",
-      "lon": -116.253,
-      "lat": 33.0635,
-      "depth": 9.88,
-      "mag": 0.98,
-      "place": "14 km SW of Ocotillo Wells, CA",
-      "time": 1782469076460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41495808"
-    },
-    {
-      "id": "aka2026mnwjtb",
-      "lon": -159.775,
-      "lat": 55.959,
-      "depth": 13.4,
-      "mag": 1.6,
-      "place": "19 km WNW of Ivanof Bay, Alaska",
-      "time": 1782468934947,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mnwjtb"
     }
   ]
 }
