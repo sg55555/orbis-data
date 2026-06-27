@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-27T11:30:59Z",
-  "count": 206,
+  "updated": "2026-06-27T11:45:49Z",
+  "count": 205,
   "points": [
+    {
+      "id": "aka2026mpuwpk",
+      "lon": -152.052,
+      "lat": 60.364,
+      "depth": 89.9,
+      "mag": 2,
+      "place": "39 km WNW of Clam Gulch, Alaska",
+      "time": 1782559781199,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpuwpk"
+    },
     {
       "id": "ci41496560",
       "lon": -115.532833333333,
@@ -12,6 +22,16 @@
       "place": "1 km SSW of Brawley, CA",
       "time": 1782559383060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496560"
+    },
+    {
+      "id": "us6000t8ny",
+      "lon": 163.1809,
+      "lat": -10.655,
+      "depth": 10,
+      "mag": 5.2,
+      "place": "139 km E of Kirakira, Solomon Islands",
+      "time": 1782559382399,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ny"
     },
     {
       "id": "nc75385191",
@@ -2032,36 +2052,6 @@
       "place": "20 km ENE of Hōlualoa, Hawaii",
       "time": 1782474385630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74991602"
-    },
-    {
-      "id": "tx2026mlyywf",
-      "lon": -103.244,
-      "lat": 32.014,
-      "depth": 8.9197,
-      "mag": 1.4,
-      "place": "11 km SSW of Jal, New Mexico",
-      "time": 1782473969142,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mlyywf"
-    },
-    {
-      "id": "us6000t8ec",
-      "lon": 125.1965,
-      "lat": 5.2392,
-      "depth": 42,
-      "mag": 6.5,
-      "place": "34 km WSW of Sarangani, Philippines",
-      "time": 1782473681498,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ec"
-    },
-    {
-      "id": "us6000t8ed",
-      "lon": 155.4761,
-      "lat": -6.9205,
-      "depth": 35,
-      "mag": 4.6,
-      "place": "66 km S of Panguna, Papua New Guinea",
-      "time": 1782473565723,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ed"
     }
   ]
 }
