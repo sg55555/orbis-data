@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T13:15:48Z",
+  "updated": "2026-06-28T13:31:02Z",
   "count": 213,
   "points": [
+    {
+      "id": "ci41497112",
+      "lon": -116.495,
+      "lat": 33.4948333333333,
+      "depth": 12.43,
+      "mag": 0.5,
+      "place": "18 km ESE of Anza, CA",
+      "time": 1782652377320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497112"
+    },
     {
       "id": "uw714035921",
       "lon": -123.040496826172,
@@ -122,6 +132,16 @@
       "place": "21 km ENE of Sterling, Alaska",
       "time": 1782646164893,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mrqwyc"
+    },
+    {
+      "id": "us6000t8t9",
+      "lon": -66.8773,
+      "lat": -24.0562,
+      "depth": 206.575,
+      "mag": 4.2,
+      "place": "59 km WNW of San Antonio de los Cobres, Argentina",
+      "time": 1782645985588,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8t9"
     },
     {
       "id": "ci41497072",
@@ -2112,26 +2132,6 @@
       "place": "43 km S of Jurm, Afghanistan",
       "time": 1782567292534,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8pa"
-    },
-    {
-      "id": "aka2026mpysig",
-      "lon": -155.161,
-      "lat": 58.241,
-      "depth": 5,
-      "mag": 0.6,
-      "place": "85 km NNW of Karluk, Alaska",
-      "time": 1782566682253,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpysig"
-    },
-    {
-      "id": "hv74992182",
-      "lon": -155.463165283203,
-      "lat": 19.1485004425049,
-      "depth": 29.8700008392334,
-      "mag": 1.73,
-      "place": "6 km SSE of Pāhala, Hawaii",
-      "time": 1782566588120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74992182"
     }
   ]
 }
