@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T16:45:49Z",
-  "count": 215,
+  "updated": "2026-06-28T17:01:21Z",
+  "count": 216,
   "points": [
+    {
+      "id": "nc75385861",
+      "lon": -122.674835205078,
+      "lat": 39.6851654052734,
+      "depth": 8.72000026702881,
+      "mag": 2.05,
+      "place": "6 km NE of Alder Springs, CA",
+      "time": 1782665394740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385861"
+    },
     {
       "id": "nc75385856",
       "lon": -122.826835632324,
@@ -112,6 +122,16 @@
       "place": "6 km E of Elgin, South Carolina",
       "time": 1782658597970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60505813"
+    },
+    {
+      "id": "us6000t8tv",
+      "lon": 142.2587,
+      "lat": 40.3091,
+      "depth": 56.833,
+      "mag": 4.2,
+      "place": "43 km ENE of Noda, Japan",
+      "time": 1782658173467,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8tv"
     },
     {
       "id": "tx2026mpwrqa",
@@ -925,12 +945,12 @@
     },
     {
       "id": "ci41496968",
-      "lon": -119.097333333333,
-      "lat": 35.04,
-      "depth": 18.06,
-      "mag": 1.53,
-      "place": "19 km NW of Grapevine, CA",
-      "time": 1782621794920,
+      "lon": -119.100666666667,
+      "lat": 35.0495,
+      "depth": 15.68,
+      "mag": 1.5,
+      "place": "20 km NW of Grapevine, CA",
+      "time": 1782621794840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496968"
     },
     {
@@ -2142,16 +2162,6 @@
       "place": "15 km SSW of Alamo, Nevada",
       "time": 1782580531923,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920838"
-    },
-    {
-      "id": "aka2026mqfwxb",
-      "lon": -150.876,
-      "lat": 60.76,
-      "depth": 56.1,
-      "mag": 2.3,
-      "place": "20 km SSW of Point Possession, Alaska",
-      "time": 1782579608440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mqfwxb"
     }
   ]
 }
