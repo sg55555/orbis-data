@@ -1,8 +1,48 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T17:01:21Z",
-  "count": 216,
+  "updated": "2026-06-28T17:15:50Z",
+  "count": 220,
   "points": [
+    {
+      "id": "ci41497272",
+      "lon": -116.390833333333,
+      "lat": 33.3338333333333,
+      "depth": 6.21,
+      "mag": 1.08,
+      "place": "9 km N of Borrego Springs, CA",
+      "time": 1782666570980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497272"
+    },
+    {
+      "id": "ci41497264",
+      "lon": -117.693,
+      "lat": 36.064,
+      "depth": 2.48,
+      "mag": 0.68,
+      "place": "23 km E of Coso Junction, CA",
+      "time": 1782666425710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497264"
+    },
+    {
+      "id": "aka2026msccmz",
+      "lon": -151.913,
+      "lat": 61.795,
+      "depth": 109.2,
+      "mag": 2,
+      "place": "34 km SW of Skwentna, Alaska",
+      "time": 1782666341156,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026msccmz"
+    },
+    {
+      "id": "ci41497256",
+      "lon": -116.667,
+      "lat": 33.9996666666667,
+      "depth": 13.11,
+      "mag": 1.51,
+      "place": "10 km WSW of Morongo Valley, CA",
+      "time": 1782666010980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497256"
+    },
     {
       "id": "nc75385861",
       "lon": -122.674835205078,
@@ -112,6 +152,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1782660137570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385806"
+    },
+    {
+      "id": "us6000t8tw",
+      "lon": -160.7948,
+      "lat": 54.1962,
+      "depth": 30.074,
+      "mag": 3.6,
+      "place": "128 km S of Sand Point, Alaska",
+      "time": 1782659046524,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8tw"
     },
     {
       "id": "se60505813",
@@ -265,12 +315,12 @@
     },
     {
       "id": "tx2026mptfxk",
-      "lon": -104.485,
-      "lat": 31.628,
-      "depth": 3.8514,
-      "mag": 1.5,
+      "lon": -104.493,
+      "lat": 31.632,
+      "depth": 3.595,
+      "mag": 1.6,
       "place": "61 km S of Whites City, New Mexico",
-      "time": 1782651816135,
+      "time": 1782651816070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mptfxk"
     },
     {
@@ -2152,16 +2202,6 @@
       "place": "11 km ESE of Willits, CA",
       "time": 1782580671840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385306"
-    },
-    {
-      "id": "nn00920838",
-      "lon": -115.1985,
-      "lat": 37.2292,
-      "depth": 5.6542,
-      "mag": 1.73,
-      "place": "15 km SSW of Alamo, Nevada",
-      "time": 1782580531923,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920838"
     }
   ]
 }
