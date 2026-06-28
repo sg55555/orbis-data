@@ -1,17 +1,27 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T15:15:49Z",
-  "count": 215,
+  "updated": "2026-06-28T15:31:06Z",
+  "count": 216,
   "points": [
     {
-      "id": "us6000t8tu",
-      "lon": -80.7265,
-      "lat": 34.1653,
-      "depth": 3.196,
-      "mag": 2.3,
+      "id": "nc75385806",
+      "lon": -122.80883026123,
+      "lat": 38.8238334655762,
+      "depth": 2.65000009536743,
+      "mag": 1.1,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1782660137570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385806"
+    },
+    {
+      "id": "se60505813",
+      "lon": -80.72,
+      "lat": 34.1641666666667,
+      "depth": 4.38,
+      "mag": 2.22,
       "place": "6 km E of Elgin, South Carolina",
-      "time": 1782658598624,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8tu"
+      "time": 1782658597970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60505813"
     },
     {
       "id": "tx2026mpwrqa",
@@ -462,6 +472,16 @@
       "place": "88 km SE of Ugashik, Alaska",
       "time": 1782640384529,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mrnrjy"
+    },
+    {
+      "id": "pr2026179002",
+      "lon": -68.352,
+      "lat": 18.4056,
+      "depth": 158,
+      "mag": 3.82,
+      "place": "20 km SSE of Punta Cana, Dominican Republic",
+      "time": 1782639932960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026179002"
     },
     {
       "id": "nc75385711",
@@ -1395,12 +1415,12 @@
     },
     {
       "id": "ci41496816",
-      "lon": -115.555,
-      "lat": 32.9491666666667,
-      "depth": 8.32,
-      "mag": 2.24,
-      "place": "4 km SW of Brawley, CA",
-      "time": 1782601615680,
+      "lon": -115.550333333333,
+      "lat": 32.9496666666667,
+      "depth": 7.83,
+      "mag": 2.25,
+      "place": "4 km SSW of Brawley, CA",
+      "time": 1782601615590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496816"
     },
     {
@@ -2142,16 +2162,6 @@
       "place": "15 km E of Pāhala, Hawaii",
       "time": 1782574478670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74992232"
-    },
-    {
-      "id": "ci41496616",
-      "lon": -116.543833333333,
-      "lat": 33.4543333333333,
-      "depth": 10.79,
-      "mag": 0.72,
-      "place": "16 km SE of Anza, CA",
-      "time": 1782573669310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496616"
     }
   ]
 }
