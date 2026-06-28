@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T23:01:14Z",
-  "count": 210,
+  "updated": "2026-06-28T23:15:39Z",
+  "count": 207,
   "points": [
+    {
+      "id": "uw714037111",
+      "lon": -121.999664306641,
+      "lat": 46.8488349914551,
+      "depth": 7.28000020980835,
+      "mag": 0.360000014,
+      "place": "10 km NNE of Ashford, Washington",
+      "time": 1782687704420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714037111"
+    },
     {
       "id": "nc75385981",
       "lon": -123.200836181641,
@@ -2062,46 +2072,6 @@
       "place": "10 km N of Indio, CA",
       "time": 1782602698040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496832"
-    },
-    {
-      "id": "aka2026mqsjhk",
-      "lon": -146.389,
-      "lat": 61.081,
-      "depth": 15.6,
-      "mag": 0.8,
-      "place": "5 km SSW of Valdez, Alaska",
-      "time": 1782602041167,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mqsjhk"
-    },
-    {
-      "id": "aka2026mqsdhv",
-      "lon": -159.781,
-      "lat": 55.772,
-      "depth": 5,
-      "mag": 1.2,
-      "place": "23 km SW of Ivanof Bay, Alaska",
-      "time": 1782601626675,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mqsdhv"
-    },
-    {
-      "id": "ci41496816",
-      "lon": -115.550333333333,
-      "lat": 32.9496666666667,
-      "depth": 7.83,
-      "mag": 2.25,
-      "place": "4 km SSW of Brawley, CA",
-      "time": 1782601615590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496816"
-    },
-    {
-      "id": "ci41496808",
-      "lon": -115.552,
-      "lat": 32.9486666666667,
-      "depth": 9.11,
-      "mag": 1.85,
-      "place": "4 km SSW of Brawley, CA",
-      "time": 1782601486140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496808"
     }
   ]
 }
