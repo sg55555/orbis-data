@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T10:01:12Z",
-  "count": 204,
+  "updated": "2026-06-28T10:15:48Z",
+  "count": 205,
   "points": [
+    {
+      "id": "ci41497032",
+      "lon": -117.231333333333,
+      "lat": 34.0258333333333,
+      "depth": 11.85,
+      "mag": 1.08,
+      "place": "4 km SE of Loma Linda, CA",
+      "time": 1782641441890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497032"
+    },
+    {
+      "id": "aka2026mrnyry",
+      "lon": -148.091,
+      "lat": 62.526,
+      "depth": 61.6,
+      "mag": 1.6,
+      "place": "81 km NW of Eureka Roadhouse, Alaska",
+      "time": 1782640892206,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mrnyry"
+    },
     {
       "id": "aka2026mrnrjy",
       "lon": -156.539,
@@ -292,6 +312,16 @@
       "place": "11 km WNW of Cobb, CA",
       "time": 1782626338080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385646"
+    },
+    {
+      "id": "us6000t8si",
+      "lon": 142.3616,
+      "lat": 40.2288,
+      "depth": 51.62,
+      "mag": 4.5,
+      "place": "48 km ENE of Noda, Japan",
+      "time": 1782625172691,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8si"
     },
     {
       "id": "nc75385636",
@@ -2022,26 +2052,6 @@
       "place": "8 km S of Idyllwild, CA",
       "time": 1782555507470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496536"
-    },
-    {
-      "id": "av93062774",
-      "lon": -152.237166666667,
-      "lat": 61.2766666666667,
-      "depth": 3.35,
-      "mag": -0.57,
-      "place": "63 km WNW of Tyonek, Alaska",
-      "time": 1782555128890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062774"
-    },
-    {
-      "id": "aka2026mpsbyb",
-      "lon": -159.408,
-      "lat": 56.091,
-      "depth": 32.3,
-      "mag": 0.6,
-      "place": "21 km NNE of Ivanof Bay, Alaska",
-      "time": 1782554749384,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpsbyb"
     }
   ]
 }
