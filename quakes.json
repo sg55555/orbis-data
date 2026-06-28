@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T03:15:45Z",
-  "count": 192,
+  "updated": "2026-06-28T03:31:04Z",
+  "count": 193,
   "points": [
+    {
+      "id": "aka2026mraoft",
+      "lon": -151.388,
+      "lat": 60.129,
+      "depth": 53.1,
+      "mag": 2.5,
+      "place": "11 km S of Clam Gulch, Alaska",
+      "time": 1782616776986,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mraoft"
+    },
+    {
+      "id": "ci41496920",
+      "lon": -117.523833333333,
+      "lat": 33.6978333333333,
+      "depth": 5.84,
+      "mag": 1.03,
+      "place": "7 km NE of Trabuco Canyon, CA",
+      "time": 1782616427260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496920"
+    },
+    {
+      "id": "us6000t8s8",
+      "lon": -67.964,
+      "lat": -31.5471,
+      "depth": 109.673,
+      "mag": 4.4,
+      "place": "32 km ENE of Caucete, Argentina",
+      "time": 1782616326495,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8s8"
+    },
     {
       "id": "uw714035811",
       "lon": -122.111335754395,
@@ -22,6 +52,16 @@
       "place": "18 km WSW of Johannesburg, CA",
       "time": 1782615754170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496912"
+    },
+    {
+      "id": "us6000t8s6",
+      "lon": 147.7078,
+      "lat": -6.4393,
+      "depth": 73.067,
+      "mag": 4.9,
+      "place": "20 km NW of Finschhafen, Papua New Guinea",
+      "time": 1782615560239,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8s6"
     },
     {
       "id": "ci41496904",
@@ -1892,36 +1932,6 @@
       "place": "9 km NNW of Redwood Valley, CA",
       "time": 1782531044410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385036"
-    },
-    {
-      "id": "uw714034721",
-      "lon": -124.715,
-      "lat": 45.4965,
-      "depth": 29.82,
-      "mag": 2.24,
-      "place": "58 km W of Oceanside, Oregon",
-      "time": 1782530542540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714034721"
-    },
-    {
-      "id": "us6000t8lh",
-      "lon": -128.1349,
-      "lat": 43.6976,
-      "depth": 10,
-      "mag": 3.3,
-      "place": "off the coast of Oregon",
-      "time": 1782530498976,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8lh"
-    },
-    {
-      "id": "nc75385031",
-      "lon": -122.8056640625,
-      "lat": 38.8359985351562,
-      "depth": 2.04999995231628,
-      "mag": 0.93,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1782530449700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385031"
     }
   ]
 }
