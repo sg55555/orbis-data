@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T05:15:51Z",
+  "updated": "2026-06-28T05:31:03Z",
   "count": 201,
   "points": [
+    {
+      "id": "nc75385626",
+      "lon": -122.843002319336,
+      "lat": 38.8596649169922,
+      "depth": 0.850000023841858,
+      "mag": 1.25,
+      "place": "11 km WNW of Cobb, CA",
+      "time": 1782624419220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385626"
+    },
     {
       "id": "ci41496976",
       "lon": -117.528333333333,
@@ -1134,6 +1144,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385291"
     },
     {
+      "id": "av94273593",
+      "lon": -159.807,
+      "lat": 55.8988333333333,
+      "depth": 1.24,
+      "mag": 0.61,
+      "place": "20 km W of Ivanof Bay, Alaska",
+      "time": 1782577348100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94273593"
+    },
+    {
       "id": "aka2026mqegmz",
       "lon": -159.875,
       "lat": 55.978,
@@ -1992,26 +2012,6 @@
       "place": "55 km NW of Tatitlek, Alaska",
       "time": 1782538310711,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpiyig"
-    },
-    {
-      "id": "aka2026mpitdk",
-      "lon": -150.125,
-      "lat": 60.988,
-      "depth": 47,
-      "mag": 4.2,
-      "place": "27 km WNW of Hope, Alaska",
-      "time": 1782537952340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpitdk"
-    },
-    {
-      "id": "tx2026mniaym",
-      "lon": -101.99,
-      "lat": 31.976,
-      "depth": 4.0396,
-      "mag": 0.4,
-      "place": "8 km ESE of Midland, Texas",
-      "time": 1782537419665,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mniaym"
     }
   ]
 }
