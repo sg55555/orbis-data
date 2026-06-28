@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T13:45:48Z",
-  "count": 215,
+  "updated": "2026-06-28T14:01:14Z",
+  "count": 216,
   "points": [
     {
+      "id": "aka2026mrvnzv",
+      "lon": -149.898,
+      "lat": 61.361,
+      "depth": 30.2,
+      "mag": 1.1,
+      "place": "4 km E of Point MacKenzie, Alaska",
+      "time": 1782654543124,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mrvnzv"
+    },
+    {
       "id": "ci41497136",
-      "lon": -118.359336853027,
-      "lat": 34.0593338012695,
-      "depth": 9.96000003814697,
-      "mag": 1.59954406992719,
-      "place": "3 km S of West Hollywood, CA",
-      "time": 1782654129230,
+      "lon": -118.356333333333,
+      "lat": 34.0501666666667,
+      "depth": 10.36,
+      "mag": 1.57,
+      "place": "4 km S of West Hollywood, CA",
+      "time": 1782654129130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497136"
     },
     {
@@ -64,6 +74,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714035921"
     },
     {
+      "id": "tx2026mptfxk",
+      "lon": -104.485,
+      "lat": 31.628,
+      "depth": 3.8514,
+      "mag": 1.5,
+      "place": "61 km S of Whites City, New Mexico",
+      "time": 1782651816135,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mptfxk"
+    },
+    {
       "id": "ci41497104",
       "lon": -116.744833333333,
       "lat": 33.5171666666667,
@@ -92,6 +112,16 @@
       "place": "12 km ESE of Anza, CA",
       "time": 1782650333670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497096"
+    },
+    {
+      "id": "us6000t8tc",
+      "lon": -64.1929,
+      "lat": 18.1534,
+      "depth": 10,
+      "mag": 2.8,
+      "place": "66 km ESE of Cruz Bay, U.S. Virgin Islands",
+      "time": 1782648547947,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8tc"
     },
     {
       "id": "aka2026mrserw",
@@ -2132,26 +2162,6 @@
       "place": "2 km SW of Lakes, Alaska",
       "time": 1782569614537,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mqairq"
-    },
-    {
-      "id": "aka2026mpztzk",
-      "lon": -145.947,
-      "lat": 60.207,
-      "depth": 11.8,
-      "mag": 1.8,
-      "place": "38 km SSW of Cordova, Alaska",
-      "time": 1782568595895,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpztzk"
-    },
-    {
-      "id": "aka2026mpzqoh",
-      "lon": -148.731,
-      "lat": 63.524,
-      "depth": 11.3,
-      "mag": 1.8,
-      "place": "18 km NE of Cantwell, Alaska",
-      "time": 1782568359187,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpzqoh"
     }
   ]
 }
