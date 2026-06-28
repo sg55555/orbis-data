@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T08:15:50Z",
-  "count": 203,
+  "updated": "2026-06-28T08:28:22Z",
+  "count": 204,
   "points": [
+    {
+      "id": "ci41497016",
+      "lon": -116.6185,
+      "lat": 33.4273333333333,
+      "depth": 9.71,
+      "mag": 0.96,
+      "place": "15 km SSE of Anza, CA",
+      "time": 1782634844650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497016"
+    },
+    {
+      "id": "nc75385691",
+      "lon": -122.806503295898,
+      "lat": 38.8255004882812,
+      "depth": 2.44000005722046,
+      "mag": 1.1,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1782634663090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385691"
+    },
     {
       "id": "aka2026mrkcas",
       "lon": -151.08,
@@ -645,12 +665,12 @@
     },
     {
       "id": "av94274253",
-      "lon": -178.807833333333,
-      "lat": 51.7043333333333,
-      "depth": 26.21,
-      "mag": 1.16,
-      "place": "151 km W of Adak, Alaska",
-      "time": 1782604927660,
+      "lon": -178.855166666667,
+      "lat": 51.7386666666667,
+      "depth": 25.38,
+      "mag": 0.94,
+      "place": "153 km W of Adak, Alaska",
+      "time": 1782604928000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94274253"
     },
     {
@@ -2022,16 +2042,6 @@
       "place": "77 km WSW of Nanwalek, Alaska",
       "time": 1782549177620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpozix"
-    },
-    {
-      "id": "pr71521583",
-      "lon": -66.8183333333333,
-      "lat": 17.9685,
-      "depth": 13.33,
-      "mag": 1.99,
-      "place": "2 km S of Indios, Puerto Rico",
-      "time": 1782548299080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521583"
     }
   ]
 }
