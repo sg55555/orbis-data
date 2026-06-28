@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T19:01:15Z",
-  "count": 217,
+  "updated": "2026-06-28T19:15:53Z",
+  "count": 215,
   "points": [
+    {
+      "id": "nc75385901",
+      "lon": -122.791000366211,
+      "lat": 38.8221664428711,
+      "depth": 0.959999978542328,
+      "mag": 1.08,
+      "place": "6 km NNW of The Geysers, CA",
+      "time": 1782673475690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385901"
+    },
     {
       "id": "nc75385896",
       "lon": -122.813499450684,
@@ -22,6 +32,16 @@
       "place": "8 km ENE of Fox, Alaska",
       "time": 1782672597829,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026msfoxm"
+    },
+    {
+      "id": "us6000t8uv",
+      "lon": 149.341,
+      "lat": -6.4983,
+      "depth": 30.018,
+      "mag": 4.7,
+      "place": "39 km SW of Kandrian, Papua New Guinea",
+      "time": 1782672321433,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8uv"
     },
     {
       "id": "us6000t8ut",
@@ -655,12 +675,12 @@
     },
     {
       "id": "tx2026mppmkl",
-      "lon": -103.239,
-      "lat": 31.998,
-      "depth": 5.6297,
+      "lon": -103.248,
+      "lat": 32.012,
+      "depth": 8.0324,
       "mag": 1.9,
-      "place": "13 km SSW of Jal, New Mexico",
-      "time": 1782645039738,
+      "place": "12 km SSW of Jal, New Mexico",
+      "time": 1782645039471,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mppmkl"
     },
     {
@@ -2132,46 +2152,6 @@
       "place": "27 km E of Cordova, Alaska",
       "time": 1782588028307,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mqkouk"
-    },
-    {
-      "id": "aka2026mqkdns",
-      "lon": -159.89,
-      "lat": 55.913,
-      "depth": 6.6,
-      "mag": 1.7,
-      "place": "25 km W of Ivanof Bay, Alaska",
-      "time": 1782587251125,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mqkdns"
-    },
-    {
-      "id": "tx2026mojlcf",
-      "lon": -103.244,
-      "lat": 32.006,
-      "depth": 7.4356,
-      "mag": 1.4,
-      "place": "12 km SSW of Jal, New Mexico",
-      "time": 1782587005023,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mojlcf"
-    },
-    {
-      "id": "nc75385361",
-      "lon": -122.783500671387,
-      "lat": 38.8334999084473,
-      "depth": 2.5,
-      "mag": 2.32,
-      "place": "5 km WNW of Cobb, CA",
-      "time": 1782586993270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385361"
-    },
-    {
-      "id": "aka2026mqjyzg",
-      "lon": -159.993,
-      "lat": 56.003,
-      "depth": 0.1,
-      "mag": 2.6,
-      "place": "33 km WNW of Ivanof Bay, Alaska",
-      "time": 1782586935845,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mqjyzg"
     }
   ]
 }
