@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T16:01:16Z",
-  "count": 213,
+  "updated": "2026-06-28T16:15:47Z",
+  "count": 212,
   "points": [
+    {
+      "id": "aka2026msafek",
+      "lon": -153.468,
+      "lat": 59.705,
+      "depth": 123.7,
+      "mag": 1.8,
+      "place": "37 km ESE of Pedro Bay, Alaska",
+      "time": 1782662928001,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026msafek"
+    },
     {
       "id": "aka2026mrzarq",
       "lon": -155.36,
@@ -1435,12 +1445,12 @@
     },
     {
       "id": "ci41496808",
-      "lon": -115.5555,
-      "lat": 32.9461666666667,
-      "depth": 4.83,
-      "mag": 1.82,
+      "lon": -115.552,
+      "lat": 32.9486666666667,
+      "depth": 9.11,
+      "mag": 1.85,
       "place": "4 km SSW of Brawley, CA",
-      "time": 1782601486340,
+      "time": 1782601486140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496808"
     },
     {
@@ -2112,26 +2122,6 @@
       "place": "20 km W of Ivanof Bay, Alaska",
       "time": 1782577348100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94273593"
-    },
-    {
-      "id": "aka2026mqegmz",
-      "lon": -159.875,
-      "lat": 55.978,
-      "depth": 11.4,
-      "mag": 2.5,
-      "place": "25 km WNW of Ivanof Bay, Alaska",
-      "time": 1782576656996,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mqegmz"
-    },
-    {
-      "id": "nc75385276",
-      "lon": -122.876502990723,
-      "lat": 38.8388328552246,
-      "depth": 2.5699999332428,
-      "mag": 0.91,
-      "place": "12 km WNW of The Geysers, CA",
-      "time": 1782576052390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385276"
     }
   ]
 }
