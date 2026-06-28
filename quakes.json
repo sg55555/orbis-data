@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T04:31:02Z",
-  "count": 199,
+  "updated": "2026-06-28T04:45:48Z",
+  "count": 200,
   "points": [
+    {
+      "id": "ci41496968",
+      "lon": -119.10066986084,
+      "lat": 35.0400009155273,
+      "depth": 16.6900005340576,
+      "mag": 1.59439450548784,
+      "place": "19 km NW of Grapevine, CA",
+      "time": 1782621794920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496968"
+    },
+    {
+      "id": "ci41496960",
+      "lon": -116.338666666667,
+      "lat": 33.259,
+      "depth": 3.32,
+      "mag": 0.98,
+      "place": "3 km E of Borrego Springs, CA",
+      "time": 1782621248500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496960"
+    },
     {
       "id": "ci41496952",
       "lon": -116.6855,
@@ -1524,6 +1544,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8na"
     },
     {
+      "id": "av94273083",
+      "lon": -177.835333333333,
+      "lat": 51.8583333333333,
+      "depth": 3.42,
+      "mag": 1.14,
+      "place": "82 km W of Adak, Alaska",
+      "time": 1782555640990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94273083"
+    },
+    {
       "id": "ci41496536",
       "lon": -116.724333333333,
       "lat": 33.6651666666667,
@@ -1972,26 +2002,6 @@
       "place": "5 km NNW of Redwood Valley, CA",
       "time": 1782535654940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385091"
-    },
-    {
-      "id": "av94272628",
-      "lon": -153.073833333333,
-      "lat": 60.0498333333333,
-      "depth": 1.22,
-      "mag": -0.74,
-      "place": "64 km ENE of Pedro Bay, Alaska",
-      "time": 1782535363510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94272628"
-    },
-    {
-      "id": "nc75385081",
-      "lon": -122.80549621582,
-      "lat": 38.8235015869141,
-      "depth": 2.50999999046326,
-      "mag": 1.07,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1782535210450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385081"
     }
   ]
 }
