@@ -1,14 +1,14 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T04:45:48Z",
-  "count": 200,
+  "updated": "2026-06-28T05:04:57Z",
+  "count": 201,
   "points": [
     {
       "id": "ci41496968",
-      "lon": -119.10066986084,
-      "lat": 35.0400009155273,
-      "depth": 16.6900005340576,
-      "mag": 1.59439450548784,
+      "lon": -119.097333333333,
+      "lat": 35.04,
+      "depth": 18.06,
+      "mag": 1.53,
       "place": "19 km NW of Grapevine, CA",
       "time": 1782621794920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496968"
@@ -1224,6 +1224,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521648"
     },
     {
+      "id": "av94273473",
+      "lon": -153.1225,
+      "lat": 59.9895,
+      "depth": 4.97,
+      "mag": -0.64,
+      "place": "59 km ENE of Pedro Bay, Alaska",
+      "time": 1782572228330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94273473"
+    },
+    {
       "id": "ci41496608",
       "lon": -115.551833333333,
       "lat": 32.933,
@@ -1362,6 +1372,16 @@
       "place": "6 km SSE of Pāhala, Hawaii",
       "time": 1782566588120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74992182"
+    },
+    {
+      "id": "av93062779",
+      "lon": -165.964666666667,
+      "lat": 54.1211666666667,
+      "depth": 6.1,
+      "mag": 1.1,
+      "place": "12 km W of Akutan, Alaska",
+      "time": 1782565749230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062779"
     },
     {
       "id": "hv74992177",
@@ -1562,6 +1582,16 @@
       "place": "8 km S of Idyllwild, CA",
       "time": 1782555507470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496536"
+    },
+    {
+      "id": "av93062774",
+      "lon": -152.237166666667,
+      "lat": 61.2766666666667,
+      "depth": 3.35,
+      "mag": -0.57,
+      "place": "63 km WNW of Tyonek, Alaska",
+      "time": 1782555128890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062774"
     },
     {
       "id": "aka2026mpsbyb",
@@ -1982,26 +2012,6 @@
       "place": "9 km SW of Idyllwild, CA",
       "time": 1782537094350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496496"
-    },
-    {
-      "id": "nc75385096",
-      "lon": -122.805000305176,
-      "lat": 38.8240013122559,
-      "depth": 2.61999988555908,
-      "mag": 0.76,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1782535971330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385096"
-    },
-    {
-      "id": "nc75385091",
-      "lon": -123.231002807617,
-      "lat": 39.3004989624023,
-      "depth": 0.0799999982118607,
-      "mag": 2.46,
-      "place": "5 km NNW of Redwood Valley, CA",
-      "time": 1782535654940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385091"
     }
   ]
 }
