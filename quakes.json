@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T13:01:18Z",
-  "count": 212,
+  "updated": "2026-06-28T13:15:48Z",
+  "count": 213,
   "points": [
+    {
+      "id": "uw714035921",
+      "lon": -123.040496826172,
+      "lat": 47.4661674499512,
+      "depth": 6.42999982833862,
+      "mag": 2.03133034706116,
+      "place": "10 km NE of Hoodsport, Washington",
+      "time": 1782651867160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714035921"
+    },
     {
       "id": "ci41497104",
       "lon": -116.744833333333,
@@ -562,6 +572,16 @@
       "place": "11 km WNW of Cobb, CA",
       "time": 1782626338080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385646"
+    },
+    {
+      "id": "pr2026179001",
+      "lon": -63.7693,
+      "lat": 19.6353,
+      "depth": 15,
+      "mag": 3.8,
+      "place": "173 km NNW of The Valley, Anguilla",
+      "time": 1782626320640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026179001"
     },
     {
       "id": "us6000t8si",
@@ -2112,16 +2132,6 @@
       "place": "6 km SSE of Pāhala, Hawaii",
       "time": 1782566588120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74992182"
-    },
-    {
-      "id": "av93062779",
-      "lon": -165.964666666667,
-      "lat": 54.1211666666667,
-      "depth": 6.1,
-      "mag": 1.1,
-      "place": "12 km W of Akutan, Alaska",
-      "time": 1782565749230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062779"
     }
   ]
 }
