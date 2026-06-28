@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T05:45:52Z",
+  "updated": "2026-06-28T06:01:12Z",
   "count": 201,
   "points": [
+    {
+      "id": "nc75385646",
+      "lon": -122.84366607666,
+      "lat": 38.8605003356934,
+      "depth": 1.0900000333786,
+      "mag": 1,
+      "place": "11 km WNW of Cobb, CA",
+      "time": 1782626338080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385646"
+    },
     {
       "id": "nc75385636",
       "lon": -122.843330383301,
@@ -974,6 +984,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mqjggl"
     },
     {
+      "id": "av94273803",
+      "lon": -153.027166666667,
+      "lat": 60.0318333333333,
+      "depth": 0.3,
+      "mag": -0.3,
+      "place": "66 km ENE of Pedro Bay, Alaska",
+      "time": 1782585358040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94273803"
+    },
+    {
       "id": "ci41496696",
       "lon": -116.7235,
       "lat": 33.5331666666667,
@@ -1452,6 +1472,16 @@
       "place": "38 km WNW of Skwentna, Alaska",
       "time": 1782564659672,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpxpcf"
+    },
+    {
+      "id": "us6000t8p4",
+      "lon": -69.1501,
+      "lat": -22.7701,
+      "depth": 114.836,
+      "mag": 4.2,
+      "place": "41 km SW of Calama, Chile",
+      "time": 1782564652230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8p4"
     },
     {
       "id": "us6000t8p3",
@@ -1982,36 +2012,6 @@
       "place": "34 km ENE of Amboy, Washington",
       "time": 1782540185310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714034831"
-    },
-    {
-      "id": "nn00920810",
-      "lon": -115.7451,
-      "lat": 36.7198,
-      "depth": 1.3031,
-      "mag": 2.01,
-      "place": "17 km NNW of Indian Springs, Nevada",
-      "time": 1782539655190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920810"
-    },
-    {
-      "id": "aka2026mpjrkt",
-      "lon": -150.187,
-      "lat": 60.997,
-      "depth": 52.8,
-      "mag": 1.8,
-      "place": "28 km ENE of Point Possession, Alaska",
-      "time": 1782539632145,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpjrkt"
-    },
-    {
-      "id": "av94272698",
-      "lon": -153.0605,
-      "lat": 60.0455,
-      "depth": -1.88,
-      "mag": -0.87,
-      "place": "65 km ENE of Pedro Bay, Alaska",
-      "time": 1782539242480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94272698"
     }
   ]
 }
