@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T07:01:12Z",
-  "count": 201,
+  "updated": "2026-06-28T07:15:51Z",
+  "count": 205,
   "points": [
+    {
+      "id": "ci41497008",
+      "lon": -116.490333333333,
+      "lat": 33.5063333333333,
+      "depth": 12.12,
+      "mag": 0.57,
+      "place": "18 km ESE of Anza, CA",
+      "time": 1782630300290,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497008"
+    },
+    {
+      "id": "nc75385671",
+      "lon": -123.231163024902,
+      "lat": 39.3703346252441,
+      "depth": 6.55999994277954,
+      "mag": 1.44,
+      "place": "12 km ESE of Willits, CA",
+      "time": 1782630091680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385671"
+    },
+    {
+      "id": "nc75385666",
+      "lon": -122.737998962402,
+      "lat": 38.7868347167969,
+      "depth": 0.430000007152557,
+      "mag": 0.96,
+      "place": "2 km ENE of The Geysers, CA",
+      "time": 1782630031030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385666"
+    },
     {
       "id": "ci41497000",
       "lon": -116.078166666667,
@@ -714,6 +744,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74992362"
     },
     {
+      "id": "tx2026mopwwb",
+      "lon": -103.243,
+      "lat": 32.005,
+      "depth": 7.5124,
+      "mag": 1.5,
+      "place": "12 km SSW of Jal, New Mexico",
+      "time": 1782598694502,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mopwwb"
+    },
+    {
       "id": "aka2026mqqkvy",
       "lon": -151.071,
       "lat": 58.058,
@@ -982,6 +1022,16 @@
       "place": "64 km WNW of Beluga, Alaska",
       "time": 1782587096210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94273868"
+    },
+    {
+      "id": "tx2026mojlcf",
+      "lon": -103.244,
+      "lat": 32.006,
+      "depth": 7.4356,
+      "mag": 1.4,
+      "place": "12 km SSW of Jal, New Mexico",
+      "time": 1782587005023,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mojlcf"
     },
     {
       "id": "nc75385361",
@@ -2002,16 +2052,6 @@
       "place": "9 km SW of Anza, CA",
       "time": 1782544686230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496512"
-    },
-    {
-      "id": "aka2026mplyyd",
-      "lon": -145.272,
-      "lat": 63.327,
-      "depth": 5,
-      "mag": 1.4,
-      "place": "31 km NNE of Paxson, Alaska",
-      "time": 1782543750457,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mplyyd"
     }
   ]
 }
