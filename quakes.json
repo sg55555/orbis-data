@@ -1,16 +1,16 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T01:15:48Z",
-  "count": 188,
+  "updated": "2026-06-28T01:30:59Z",
+  "count": 186,
   "points": [
     {
       "id": "uw714035751",
-      "lon": -124.856163024902,
-      "lat": 48.6143341064453,
-      "depth": 40.2299995422363,
-      "mag": 2.33899259567261,
-      "place": "32 km NNW of Neah Bay, Washington",
-      "time": 1782609108720,
+      "lon": -124.833,
+      "lat": 48.6358333333333,
+      "depth": 33.99,
+      "mag": 2.31,
+      "place": "33 km NNW of Neah Bay, Washington",
+      "time": 1782609109270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714035751"
     },
     {
@@ -122,6 +122,16 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1782605274520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385481"
+    },
+    {
+      "id": "av94274253",
+      "lon": -178.807833333333,
+      "lat": 51.7043333333333,
+      "depth": 26.21,
+      "mag": 1.16,
+      "place": "151 km W of Adak, Alaska",
+      "time": 1782604927660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94274253"
     },
     {
       "id": "ci41496864",
@@ -632,6 +642,16 @@
       "place": "89 km N of Karluk, Alaska",
       "time": 1782583379588,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mqhzpr"
+    },
+    {
+      "id": "av94273728",
+      "lon": -178.850666666667,
+      "lat": 51.7961666666667,
+      "depth": 9.34,
+      "mag": 0,
+      "place": "153 km W of Adak, Alaska",
+      "time": 1782582168870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94273728"
     },
     {
       "id": "av94273718",
@@ -1842,46 +1862,6 @@
       "place": "5 km SSW of Gilroy, CA",
       "time": 1782523835550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384996"
-    },
-    {
-      "id": "aka2026mpauzz",
-      "lon": -148.294,
-      "lat": 60.409,
-      "depth": 3.4,
-      "mag": 1.7,
-      "place": "41 km NNW of Chenega, Alaska",
-      "time": 1782523688005,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpauzz"
-    },
-    {
-      "id": "hv74991977",
-      "lon": -155.223666666667,
-      "lat": 19.3136666666667,
-      "depth": 1.85,
-      "mag": 2.01,
-      "place": "14 km S of Volcano, Hawaii",
-      "time": 1782523494250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74991977"
-    },
-    {
-      "id": "ci41496464",
-      "lon": -116.457666666667,
-      "lat": 33.0421666666667,
-      "depth": 9.5,
-      "mag": 1.5,
-      "place": "14 km ESE of Julian, CA",
-      "time": 1782523355120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496464"
-    },
-    {
-      "id": "aka2026mpakbo",
-      "lon": -151.273,
-      "lat": 60.13,
-      "depth": 55,
-      "mag": 4.9,
-      "place": "13 km SSE of Clam Gulch, Alaska",
-      "time": 1782522931509,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpakbo"
     }
   ]
 }
