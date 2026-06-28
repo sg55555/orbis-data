@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T11:31:07Z",
-  "count": 205,
+  "updated": "2026-06-28T11:45:47Z",
+  "count": 206,
   "points": [
+    {
+      "id": "aka2026mrqxyc",
+      "lon": -150.703,
+      "lat": 61.251,
+      "depth": 55.6,
+      "mag": 1.9,
+      "place": "23 km ENE of Beluga, Alaska",
+      "time": 1782646235557,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mrqxyc"
+    },
+    {
+      "id": "aka2026mrqwyc",
+      "lon": -150.441,
+      "lat": 60.641,
+      "depth": 49.1,
+      "mag": 1.3,
+      "place": "21 km ENE of Sterling, Alaska",
+      "time": 1782646164893,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mrqwyc"
+    },
     {
       "id": "ci41497072",
       "lon": -116.167833333333,
@@ -492,6 +512,16 @@
       "place": "11 km WNW of Cobb, CA",
       "time": 1782624419220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385626"
+    },
+    {
+      "id": "pr71521733",
+      "lon": -65.8206666666667,
+      "lat": 19.4575,
+      "depth": 28.87,
+      "mag": 3.26,
+      "place": "113 km NNE of San Juan, Puerto Rico",
+      "time": 1782624393070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521733"
     },
     {
       "id": "ci41496976",
@@ -2032,26 +2062,6 @@
       "place": "14 km ESE of Pāhala, Hawaii",
       "time": 1782563398430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74992162"
-    },
-    {
-      "id": "tx2026mnuxex",
-      "lon": -103.56,
-      "lat": 31.414,
-      "depth": 5.5936,
-      "mag": 1.6,
-      "place": "5 km NNW of Lindsay, Texas",
-      "time": 1782560694425,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mnuxex"
-    },
-    {
-      "id": "us6000t8p0",
-      "lon": -68.6994,
-      "lat": -21.4055,
-      "depth": 125.137,
-      "mag": 4.3,
-      "place": "50 km WSW of Ollagüe, Chile",
-      "time": 1782560384765,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8p0"
     }
   ]
 }
