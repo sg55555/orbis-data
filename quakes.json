@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T15:01:13Z",
-  "count": 216,
+  "updated": "2026-06-28T15:15:49Z",
+  "count": 215,
   "points": [
+    {
+      "id": "us6000t8tu",
+      "lon": -80.7265,
+      "lat": 34.1653,
+      "depth": 3.196,
+      "mag": 2.3,
+      "place": "6 km E of Elgin, South Carolina",
+      "time": 1782658598624,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8tu"
+    },
     {
       "id": "tx2026mpwrqa",
       "lon": -103.029,
@@ -2142,26 +2152,6 @@
       "place": "16 km SE of Anza, CA",
       "time": 1782573669310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496616"
-    },
-    {
-      "id": "tx2026mobooa",
-      "lon": -103.245,
-      "lat": 32.009,
-      "depth": 7.9168,
-      "mag": 1.5,
-      "place": "12 km SSW of Jal, New Mexico",
-      "time": 1782572762906,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mobooa"
-    },
-    {
-      "id": "nc75385251",
-      "lon": -122.50016784668,
-      "lat": 37.6788330078125,
-      "depth": 6.46999979019165,
-      "mag": 1.19,
-      "place": "3 km WSW of Daly City, CA",
-      "time": 1782572436580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385251"
     }
   ]
 }
