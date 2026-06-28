@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T12:31:05Z",
-  "count": 212,
+  "updated": "2026-06-28T12:45:47Z",
+  "count": 213,
   "points": [
+    {
+      "id": "ci41497096",
+      "lon": -116.552833333333,
+      "lat": 33.5136666666667,
+      "depth": 13.86,
+      "mag": 0.57,
+      "place": "12 km ESE of Anza, CA",
+      "time": 1782650333670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497096"
+    },
     {
       "id": "aka2026mrserw",
       "lon": -149.567,
@@ -1354,6 +1364,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mqobsb"
     },
     {
+      "id": "us6000t8qt",
+      "lon": -177.2878,
+      "lat": -17.0646,
+      "depth": 404.425,
+      "mag": 4.1,
+      "place": "Fiji region",
+      "time": 1782593974190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8qt"
+    },
+    {
       "id": "nc75385401",
       "lon": -122.768997192383,
       "lat": 38.6613349914551,
@@ -2112,16 +2132,6 @@
       "place": "41 km SW of Calama, Chile",
       "time": 1782564652230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8p4"
-    },
-    {
-      "id": "us6000t8p3",
-      "lon": -178.8386,
-      "lat": -17.653,
-      "depth": 531.393,
-      "mag": 4.5,
-      "place": "200 km ENE of Levuka, Fiji",
-      "time": 1782563716218,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8p3"
     }
   ]
 }
