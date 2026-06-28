@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T15:31:06Z",
-  "count": 216,
+  "updated": "2026-06-28T15:45:47Z",
+  "count": 214,
   "points": [
+    {
+      "id": "aka2026mrzarq",
+      "lon": -155.36,
+      "lat": 58.214,
+      "depth": 2.6,
+      "mag": 0.4,
+      "place": "89 km NW of Karluk, Alaska",
+      "time": 1782660818191,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mrzarq"
+    },
     {
       "id": "nc75385806",
       "lon": -122.80883026123,
@@ -885,12 +895,12 @@
     },
     {
       "id": "ci10245254",
-      "lon": -117.715666666667,
-      "lat": 35.919,
-      "depth": 2.91,
-      "mag": 1.87,
-      "place": "17 km E of Little Lake, CA",
-      "time": 1782618363930,
+      "lon": -117.713833333333,
+      "lat": 35.9166666666667,
+      "depth": 1.9,
+      "mag": -0.34,
+      "place": "18 km E of Little Lake, CA",
+      "time": 1782618363870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10245254"
     },
     {
@@ -1165,12 +1175,12 @@
     },
     {
       "id": "ci41496880",
-      "lon": -116.084333333333,
-      "lat": 33.7855,
-      "depth": 2.51,
-      "mag": 2,
+      "lon": -116.083833333333,
+      "lat": 33.7853333333333,
+      "depth": 2.81,
+      "mag": 2.09,
       "place": "14 km ENE of Indio, CA",
-      "time": 1782611067440,
+      "time": 1782611067430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496880"
     },
     {
@@ -2132,36 +2142,6 @@
       "place": "10 km NNW of Pine Mountain Club, CA",
       "time": 1782575941400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496632"
-    },
-    {
-      "id": "nc75385266",
-      "lon": -122.876167297363,
-      "lat": 38.8401679992676,
-      "depth": 2.54999995231628,
-      "mag": 1.02,
-      "place": "13 km NW of The Geysers, CA",
-      "time": 1782574981680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385266"
-    },
-    {
-      "id": "aka2026mqdfhx",
-      "lon": -153.418,
-      "lat": 59.617,
-      "depth": 118.4,
-      "mag": 1.6,
-      "place": "43 km ESE of Pedro Bay, Alaska",
-      "time": 1782574778663,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mqdfhx"
-    },
-    {
-      "id": "hv74992232",
-      "lon": -155.334503173828,
-      "lat": 19.199499130249,
-      "depth": 27.9099998474121,
-      "mag": 2.43,
-      "place": "15 km E of Pāhala, Hawaii",
-      "time": 1782574478670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74992232"
     }
   ]
 }
