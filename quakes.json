@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-28T09:48:38Z",
-  "count": 205,
+  "updated": "2026-06-28T10:01:12Z",
+  "count": 204,
   "points": [
+    {
+      "id": "aka2026mrnrjy",
+      "lon": -156.539,
+      "lat": 56.871,
+      "depth": 0.5,
+      "mag": 2,
+      "place": "88 km SE of Ugashik, Alaska",
+      "time": 1782640384529,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mrnrjy"
+    },
     {
       "id": "nc75385711",
       "lon": -122.744499206543,
@@ -12,6 +22,16 @@
       "place": "1 km ENE of The Geysers, CA",
       "time": 1782639532020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385711"
+    },
+    {
+      "id": "us6000t8sx",
+      "lon": -68.3766,
+      "lat": 10.4497,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "19 km WSW of Morón, Venezuela",
+      "time": 1782639238852,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8sx"
     },
     {
       "id": "ci41497024",
@@ -2022,36 +2042,6 @@
       "place": "21 km NNE of Ivanof Bay, Alaska",
       "time": 1782554749384,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpsbyb"
-    },
-    {
-      "id": "aka2026mprsyx",
-      "lon": -159.753,
-      "lat": 55.966,
-      "depth": 5.7,
-      "mag": 2.4,
-      "place": "18 km WNW of Ivanof Bay, Alaska",
-      "time": 1782554133752,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mprsyx"
-    },
-    {
-      "id": "aka2026mprrir",
-      "lon": -159.755,
-      "lat": 55.949,
-      "depth": 6.4,
-      "mag": 1.6,
-      "place": "17 km WNW of Ivanof Bay, Alaska",
-      "time": 1782554017581,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mprrir"
-    },
-    {
-      "id": "aka2026mprqme",
-      "lon": -153.443,
-      "lat": 59.366,
-      "depth": 5,
-      "mag": 1.7,
-      "place": "60 km SE of Pedro Bay, Alaska",
-      "time": 1782553959953,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mprqme"
     }
   ]
 }
