@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T17:15:46Z",
+  "updated": "2026-06-29T17:30:59Z",
   "count": 210,
   "points": [
+    {
+      "id": "aka2026mtyszt",
+      "lon": -151.473,
+      "lat": 61.411,
+      "depth": 78.6,
+      "mag": 1.9,
+      "place": "36 km NW of Beluga, Alaska",
+      "time": 1782753844275,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mtyszt"
+    },
     {
       "id": "ci41497880",
       "lon": -117.5055,
@@ -245,12 +255,12 @@
     },
     {
       "id": "hv74993432",
-      "lon": -155.401168823242,
-      "lat": 19.4221668243408,
-      "depth": 4.8600001335144,
-      "mag": 2.35,
+      "lon": -155.398833333333,
+      "lat": 19.4245,
+      "depth": 7.56,
+      "mag": 2.05,
       "place": "17 km W of Volcano, Hawaii",
-      "time": 1782738866060,
+      "time": 1782738865930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993432"
     },
     {
@@ -602,6 +612,16 @@
       "place": "4 km S of Elmendorf Air Force Base, Alaska",
       "time": 1782726701057,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mtjqto"
+    },
+    {
+      "id": "tx2026mridzw",
+      "lon": -102.171,
+      "lat": 32.374,
+      "depth": 8.4717,
+      "mag": 0.6,
+      "place": "34 km ENE of McKinney Acres, Texas",
+      "time": 1782725914553,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mridzw"
     },
     {
       "id": "tx2026mrhxuj",
@@ -2082,26 +2102,6 @@
       "place": "50 km WSW of Abra Pampa, Argentina",
       "time": 1782668056402,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ua"
-    },
-    {
-      "id": "ci41497296",
-      "lon": -117.822333333333,
-      "lat": 35.3033333333333,
-      "depth": 8.48,
-      "mag": 1.07,
-      "place": "19 km WSW of Johannesburg, CA",
-      "time": 1782667439290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497296"
-    },
-    {
-      "id": "us6000t8u7",
-      "lon": -140.5106,
-      "lat": 66.6321,
-      "depth": 9.519,
-      "mag": 2.7,
-      "place": "142 km E of Chalkyitsik, Alaska",
-      "time": 1782667336498,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8u7"
     }
   ]
 }
