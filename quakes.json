@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T07:15:52Z",
-  "count": 202,
+  "updated": "2026-06-29T07:31:02Z",
+  "count": 203,
   "points": [
     {
+      "id": "nn00920893",
+      "lon": -119.0585,
+      "lat": 39.3155,
+      "depth": 8.2061,
+      "mag": 2.23,
+      "place": "18 km SE of Silver Springs, Nevada",
+      "time": 1782717799770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920893"
+    },
+    {
+      "id": "nn00920892",
+      "lon": -119.0821,
+      "lat": 39.335,
+      "depth": 13.4187,
+      "mag": 1.87,
+      "place": "15 km SE of Silver Springs, Nevada",
+      "time": 1782717775280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920892"
+    },
+    {
       "id": "nm60623916",
-      "lon": -87.9741668701172,
-      "lat": 38.6218338012695,
-      "depth": 19.7199993133545,
-      "mag": 3.08999991,
-      "place": "6 km ESE of Calhoun, Illinois",
-      "time": 1782716742890,
+      "lon": -87.9646666666667,
+      "lat": 38.5645,
+      "depth": 19.76,
+      "mag": 3.51,
+      "place": "5 km NE of West Salem, Illinois",
+      "time": 1782716742520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60623916"
     },
     {
@@ -2012,16 +2032,6 @@
       "place": "76 km NW of Karluk, Alaska",
       "time": 1782632581188,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mrjihy"
-    },
-    {
-      "id": "aka2026mrista",
-      "lon": -147,
-      "lat": 60.812,
-      "depth": 28.7,
-      "mag": 1.6,
-      "place": "18 km WSW of Tatitlek, Alaska",
-      "time": 1782631481690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mrista"
     }
   ]
 }
