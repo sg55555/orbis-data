@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T08:45:49Z",
-  "count": 204,
+  "updated": "2026-06-29T09:01:26Z",
+  "count": 203,
   "points": [
+    {
+      "id": "nc75386266",
+      "lon": -122.816833496094,
+      "lat": 38.8183326721191,
+      "depth": 2.74000000953674,
+      "mag": 1.08,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1782723063430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386266"
+    },
     {
       "id": "hv74993352",
       "lon": -155.229827880859,
@@ -225,12 +235,12 @@
     },
     {
       "id": "tx2026mrantn",
-      "lon": -103.831,
-      "lat": 32.007,
-      "depth": 4.6715,
+      "lon": -103.819,
+      "lat": 31.999,
+      "depth": 7.8815,
       "mag": 1.6,
-      "place": "33 km SE of Malaga, New Mexico",
-      "time": 1782712107820,
+      "place": "34 km SE of Malaga, New Mexico",
+      "time": 1782712107806,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mrantn"
     },
     {
@@ -2022,26 +2032,6 @@
       "place": "6 km SW of Funny River, Alaska",
       "time": 1782638306797,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mrmnji"
-    },
-    {
-      "id": "nn00920859",
-      "lon": -115.7729,
-      "lat": 36.7333,
-      "depth": 1.6792,
-      "mag": 1.9,
-      "place": "20 km NNW of Indian Springs, Nevada",
-      "time": 1782637044824,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920859"
-    },
-    {
-      "id": "us6000t8su",
-      "lon": -68.4901,
-      "lat": 10.6806,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "20 km W of Boca de Aroa, Venezuela",
-      "time": 1782636370376,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8su"
     }
   ]
 }
