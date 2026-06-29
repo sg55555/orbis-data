@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T16:45:46Z",
-  "count": 213,
+  "updated": "2026-06-29T17:01:11Z",
+  "count": 211,
   "points": [
+    {
+      "id": "ci41497856",
+      "lon": -116.7955,
+      "lat": 33.6851666666667,
+      "depth": 17.89,
+      "mag": 0.8,
+      "place": "9 km SW of Idyllwild, CA",
+      "time": 1782751455160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497856"
+    },
     {
       "id": "nc75386381",
       "lon": -124.188835144043,
@@ -52,16 +62,6 @@
       "place": "4 km WSW of Anza, CA",
       "time": 1782750826870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497840"
-    },
-    {
-      "id": "ci41497824",
-      "lon": -116.944166666667,
-      "lat": 34.1743333333333,
-      "depth": 11.76,
-      "mag": 1.4,
-      "place": "8 km SSW of Big Bear Lake, CA",
-      "time": 1782750494140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497824"
     },
     {
       "id": "hv74993477",
@@ -2112,26 +2112,6 @@
       "place": "34 km SW of Skwentna, Alaska",
       "time": 1782666341156,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026msccmz"
-    },
-    {
-      "id": "ci41497256",
-      "lon": -116.667,
-      "lat": 33.9996666666667,
-      "depth": 13.11,
-      "mag": 1.51,
-      "place": "10 km WSW of Morongo Valley, CA",
-      "time": 1782666010980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497256"
-    },
-    {
-      "id": "nc75385861",
-      "lon": -122.674835205078,
-      "lat": 39.6851654052734,
-      "depth": 8.72000026702881,
-      "mag": 2.05,
-      "place": "6 km NE of Alder Springs, CA",
-      "time": 1782665394740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385861"
     }
   ]
 }
