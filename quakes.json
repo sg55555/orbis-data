@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T05:17:06Z",
-  "count": 201,
+  "updated": "2026-06-29T05:31:05Z",
+  "count": 199,
   "points": [
+    {
+      "id": "nc75386201",
+      "lon": -122.788330078125,
+      "lat": 38.826831817627,
+      "depth": 1.85000002384186,
+      "mag": 0.95,
+      "place": "6 km W of Cobb, CA",
+      "time": 1782710774810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386201"
+    },
     {
       "id": "aka2026mtahal",
       "lon": -153.171,
@@ -1982,36 +1992,6 @@
       "place": "11 km WNW of Cobb, CA",
       "time": 1782625112380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385636"
-    },
-    {
-      "id": "tx2026mpeevc",
-      "lon": -101.482,
-      "lat": 32.074,
-      "depth": 3.2501,
-      "mag": 1.2,
-      "place": "11 km WSW of Forsan, Texas",
-      "time": 1782624585016,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mpeevc"
-    },
-    {
-      "id": "nc75385626",
-      "lon": -122.843002319336,
-      "lat": 38.8596649169922,
-      "depth": 0.850000023841858,
-      "mag": 1.25,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1782624419220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385626"
-    },
-    {
-      "id": "pr71521733",
-      "lon": -65.8206666666667,
-      "lat": 19.4575,
-      "depth": 28.87,
-      "mag": 3.26,
-      "place": "113 km NNE of San Juan, Puerto Rico",
-      "time": 1782624393070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521733"
     }
   ]
 }
