@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T21:31:02Z",
-  "count": 219,
+  "updated": "2026-06-29T21:45:43Z",
+  "count": 218,
   "points": [
+    {
+      "id": "uw714038281",
+      "lon": -122.304,
+      "lat": 46.4681666666667,
+      "depth": 18.08,
+      "mag": 1.35,
+      "place": "10 km SSW of Morton, Washington",
+      "time": 1782768890800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714038281"
+    },
+    {
+      "id": "nc75386511",
+      "lon": -122.803001403809,
+      "lat": 38.8263320922852,
+      "depth": 2.50999999046326,
+      "mag": 0.81,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1782768879030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386511"
+    },
     {
       "id": "nc75386496",
       "lon": -122.800834655762,
@@ -32,6 +52,16 @@
       "place": "36 km ENE of Yilan, Taiwan",
       "time": 1782767701894,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t931"
+    },
+    {
+      "id": "pr71522003",
+      "lon": -66.418,
+      "lat": 18.2591666666667,
+      "depth": 28.99,
+      "mag": 1.86,
+      "place": "4 km NW of Orocovis, Puerto Rico",
+      "time": 1782767556600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522003"
     },
     {
       "id": "ci41283831",
@@ -305,12 +335,12 @@
     },
     {
       "id": "uw714038101",
-      "lon": -122.290336608887,
-      "lat": 46.4879989624023,
-      "depth": 8.55000019073486,
-      "mag": 1.09000003,
-      "place": "7 km S of Morton, Washington",
-      "time": 1782757216890,
+      "lon": -122.285333333333,
+      "lat": 46.486,
+      "depth": 10.44,
+      "mag": 1.3,
+      "place": "8 km S of Morton, Washington",
+      "time": 1782757216820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714038101"
     },
     {
@@ -1494,6 +1524,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143626"
     },
     {
+      "id": "tx2026mqxuyq",
+      "lon": -103.236,
+      "lat": 32.007,
+      "depth": 6.4331,
+      "mag": 1.2,
+      "place": "12 km SSW of Jal, New Mexico",
+      "time": 1782707178071,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mqxuyq"
+    },
+    {
       "id": "ci41497600",
       "lon": -117.4355,
       "lat": 35.6753333333333,
@@ -2142,56 +2182,6 @@
       "place": "19 km SSW of Susitna, Alaska",
       "time": 1782683176638,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mslluc"
-    },
-    {
-      "id": "us6000t8vm",
-      "lon": 116.1434,
-      "lat": -10.2969,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "173 km S of Lembar, Indonesia",
-      "time": 1782683031471,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8vm"
-    },
-    {
-      "id": "uw714036881",
-      "lon": -122.078833333333,
-      "lat": 48.642,
-      "depth": 8.32,
-      "mag": 0.77,
-      "place": "12 km SE of Acme, Washington",
-      "time": 1782683003600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714036881"
-    },
-    {
-      "id": "hv74993142",
-      "lon": -156.002502441406,
-      "lat": 19.6938323974609,
-      "depth": 42.0900001525879,
-      "mag": 2.09,
-      "place": "4 km SSW of Kalaoa, Hawaii",
-      "time": 1782682936860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993142"
-    },
-    {
-      "id": "av94276188",
-      "lon": -176.605,
-      "lat": 51.8605,
-      "depth": 4.51,
-      "mag": 1.01,
-      "place": "2 km SE of Adak, Alaska",
-      "time": 1782682881620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94276188"
-    },
-    {
-      "id": "us6000t8vj",
-      "lon": 70.849,
-      "lat": 36.384,
-      "depth": 146.873,
-      "mag": 4.1,
-      "place": "53 km S of Jurm, Afghanistan",
-      "time": 1782682296490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8vj"
     }
   ]
 }
