@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T03:15:51Z",
+  "updated": "2026-06-29T03:31:05Z",
   "count": 195,
   "points": [
+    {
+      "id": "tx2026mqvogv",
+      "lon": -104.379,
+      "lat": 31.606,
+      "depth": 4.037,
+      "mag": 2,
+      "place": "63 km S of Whites City, New Mexico",
+      "time": 1782703117347,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mqvogv"
+    },
     {
       "id": "nc75386121",
       "lon": -122.760330200195,
@@ -12,6 +22,16 @@
       "place": "2 km NNW of The Geysers, CA",
       "time": 1782702496150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386121"
+    },
+    {
+      "id": "us6000t8wn",
+      "lon": -139.8774,
+      "lat": 60.466,
+      "depth": 5,
+      "mag": 2.7,
+      "place": "102 km N of Yakutat, Alaska",
+      "time": 1782702334262,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8wn"
     },
     {
       "id": "nc75386116",
@@ -1932,26 +1952,6 @@
       "place": "7 km S of Boonville, CA",
       "time": 1782617781720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385571"
-    },
-    {
-      "id": "aka2026mraoft",
-      "lon": -151.388,
-      "lat": 60.129,
-      "depth": 53.1,
-      "mag": 2.5,
-      "place": "11 km S of Clam Gulch, Alaska",
-      "time": 1782616776986,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mraoft"
-    },
-    {
-      "id": "us6000t8sa",
-      "lon": 176.5173,
-      "lat": 51.9528,
-      "depth": 54.904,
-      "mag": 4.3,
-      "place": "247 km ESE of Attu Station, Alaska",
-      "time": 1782616727190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8sa"
     }
   ]
 }
