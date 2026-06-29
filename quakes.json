@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T07:02:40Z",
+  "updated": "2026-06-29T07:15:52Z",
   "count": 202,
   "points": [
+    {
+      "id": "nm60623916",
+      "lon": -87.9741668701172,
+      "lat": 38.6218338012695,
+      "depth": 19.7199993133545,
+      "mag": 3.08999991,
+      "place": "6 km ESE of Calhoun, Illinois",
+      "time": 1782716742890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60623916"
+    },
+    {
+      "id": "aka2026mtechx",
+      "lon": -152.096,
+      "lat": 61.025,
+      "depth": 37.5,
+      "mag": 1.2,
+      "place": "52 km W of Tyonek, Alaska",
+      "time": 1782716700210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mtechx"
+    },
     {
       "id": "ci41497640",
       "lon": -116.484166666667,
@@ -85,12 +105,12 @@
     },
     {
       "id": "tx2026mrantn",
-      "lon": -103.82,
-      "lat": 32.01,
-      "depth": 7.1977,
+      "lon": -103.831,
+      "lat": 32.007,
+      "depth": 4.6715,
       "mag": 1.6,
       "place": "33 km SE of Malaga, New Mexico",
-      "time": 1782712107423,
+      "time": 1782712107820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mrantn"
     },
     {
@@ -2002,26 +2022,6 @@
       "place": "18 km WSW of Tatitlek, Alaska",
       "time": 1782631481690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mrista"
-    },
-    {
-      "id": "us6000t8sl",
-      "lon": 167.4024,
-      "lat": -14.7852,
-      "depth": 160.295,
-      "mag": 5.2,
-      "place": "45 km NE of Port-Olry, Vanuatu",
-      "time": 1782630345186,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8sl"
-    },
-    {
-      "id": "ci41497008",
-      "lon": -116.490333333333,
-      "lat": 33.5063333333333,
-      "depth": 12.12,
-      "mag": 0.57,
-      "place": "18 km ESE of Anza, CA",
-      "time": 1782630300290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497008"
     }
   ]
 }
