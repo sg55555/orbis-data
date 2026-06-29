@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T22:45:48Z",
+  "updated": "2026-06-29T23:01:09Z",
   "count": 221,
   "points": [
+    {
+      "id": "tx2026msigqw",
+      "lon": -104.383,
+      "lat": 31.651,
+      "depth": 4.007,
+      "mag": 1.7,
+      "place": "58 km S of Whites City, New Mexico",
+      "time": 1782773221021,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026msigqw"
+    },
     {
       "id": "aka2026mujguq",
       "lon": -148.254,
@@ -52,6 +62,16 @@
       "place": "2 km NNW of The Geysers, CA",
       "time": 1782771062940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386556"
+    },
+    {
+      "id": "us6000t939",
+      "lon": 151.8082,
+      "lat": 44.8824,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "east of the Kuril Islands",
+      "time": 1782770806596,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t939"
     },
     {
       "id": "nc75386536",
@@ -2192,26 +2212,6 @@
       "place": "10 km NNE of Ashford, Washington",
       "time": 1782687704320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714037111"
-    },
-    {
-      "id": "nc75385981",
-      "lon": -123.200836181641,
-      "lat": 39.3476676940918,
-      "depth": 8.4399995803833,
-      "mag": 1.44,
-      "place": "9 km N of Redwood Valley, CA",
-      "time": 1782687243940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385981"
-    },
-    {
-      "id": "nc75385971",
-      "lon": -122.46900177002,
-      "lat": 37.6030006408691,
-      "depth": 8.88000011444092,
-      "mag": 1.33,
-      "place": "2 km SE of Pacifica, CA",
-      "time": 1782686855690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385971"
     }
   ]
 }
