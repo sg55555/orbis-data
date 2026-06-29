@@ -1,16 +1,16 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T14:15:47Z",
+  "updated": "2026-06-29T14:31:04Z",
   "count": 209,
   "points": [
     {
       "id": "ci41497704",
-      "lon": -116.739666666667,
-      "lat": 33.5148333333333,
-      "depth": 4.16,
-      "mag": 2.01,
+      "lon": -116.739333333333,
+      "lat": 33.5138333333333,
+      "depth": 4.6,
+      "mag": 0.58,
       "place": "8 km SW of Anza, CA",
-      "time": 1782741318310,
+      "time": 1782741318280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497704"
     },
     {
@@ -22,6 +22,16 @@
       "place": "3 km SSW of Pāhala, Hawaii",
       "time": 1782740923580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993442"
+    },
+    {
+      "id": "us6000t8zp",
+      "lon": -127.6256,
+      "lat": 43.0357,
+      "depth": 10,
+      "mag": 3.4,
+      "place": "257 km W of Port Orford, Oregon",
+      "time": 1782740334327,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8zp"
     },
     {
       "id": "pr71521953",
@@ -242,6 +252,16 @@
       "place": "18 km NW of Three Rivers, Texas",
       "time": 1782731291234,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mrldjc"
+    },
+    {
+      "id": "tx2026mrkxqg",
+      "lon": -104.336,
+      "lat": 31.666,
+      "depth": 6.0999,
+      "mag": 1.7,
+      "place": "56 km S of Whites City, New Mexico",
+      "time": 1782730893856,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mrkxqg"
     },
     {
       "id": "us6000t8yf",
@@ -2054,16 +2074,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8tv"
     },
     {
-      "id": "tx2026mpwrqa",
-      "lon": -103.029,
-      "lat": 31.625,
-      "depth": 0,
-      "mag": 1.7,
-      "place": "6 km NNW of Wickett, Texas",
-      "time": 1782658062478,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mpwrqa"
-    },
-    {
       "id": "ci41497144",
       "lon": -116.711666666667,
       "lat": 33.539,
@@ -2082,16 +2092,6 @@
       "place": "84 km NNW of Venetie, Alaska",
       "time": 1782657369410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mrxcvr"
-    },
-    {
-      "id": "nc75385781",
-      "lon": -122.824165344238,
-      "lat": 38.8404998779297,
-      "depth": 2.25999999046326,
-      "mag": 0.78,
-      "place": "9 km WNW of Cobb, CA",
-      "time": 1782656546240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385781"
     }
   ]
 }
