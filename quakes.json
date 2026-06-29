@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T12:01:14Z",
-  "count": 207,
+  "updated": "2026-06-29T12:07:04Z",
+  "count": 205,
   "points": [
     {
+      "id": "nc75386311",
+      "lon": -122.804664611816,
+      "lat": 38.8428344726562,
+      "depth": 0.930000007152557,
+      "mag": 1.27,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1782734466490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386311"
+    },
+    {
       "id": "ci41497696",
-      "lon": -116.494834899902,
-      "lat": 33.5029983520508,
-      "depth": 11.9300003051758,
-      "mag": 1.48843911078953,
-      "place": "18 km ESE of Anza, CA",
-      "time": 1782734261660,
+      "lon": -116.499,
+      "lat": 33.5035,
+      "depth": 12.08,
+      "mag": 1.41,
+      "place": "17 km ESE of Anza, CA",
+      "time": 1782734261670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497696"
     },
     {
@@ -65,12 +75,12 @@
     },
     {
       "id": "tx2026mrlrth",
-      "lon": -98.35,
-      "lat": 28.556,
-      "depth": 10.608,
+      "lon": -98.349,
+      "lat": 28.553,
+      "depth": 10.5532,
       "mag": 1.6,
       "place": "19 km WNW of Three Rivers, Texas",
-      "time": 1782732299742,
+      "time": 1782732299768,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mrlrth"
     },
     {
@@ -912,16 +922,6 @@
       "place": "2 km N of The Geysers, CA",
       "time": 1782701565280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386111"
-    },
-    {
-      "id": "tx2026mquqjl",
-      "lon": -104.327,
-      "lat": 31.662,
-      "depth": 6.3086,
-      "mag": 1.5,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": 1782701423212,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mquqjl"
     },
     {
       "id": "ci41497568",
@@ -2052,26 +2052,6 @@
       "place": "16 km ESE of Susitna North, Alaska",
       "time": 1782648502146,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mrserw"
-    },
-    {
-      "id": "tx2026mpridy",
-      "lon": -103.28,
-      "lat": 32.033,
-      "depth": 1.6606,
-      "mag": 1.7,
-      "place": "12 km SW of Jal, New Mexico",
-      "time": 1782648363883,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mpridy"
-    },
-    {
-      "id": "aka2026mrrzew",
-      "lon": -146.542,
-      "lat": 61.147,
-      "depth": 12.5,
-      "mag": 1.3,
-      "place": "10 km W of Valdez, Alaska",
-      "time": 1782648120688,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mrrzew"
     }
   ]
 }
