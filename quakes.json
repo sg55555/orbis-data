@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T09:15:44Z",
-  "count": 205,
+  "updated": "2026-06-29T09:31:03Z",
+  "count": 201,
   "points": [
+    {
+      "id": "nc75386271",
+      "lon": -122.814331054688,
+      "lat": 38.829833984375,
+      "depth": 1.87000000476837,
+      "mag": 0.89,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1782724903730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386271"
+    },
     {
       "id": "nc75386266",
       "lon": -122.816833496094,
@@ -2002,56 +2012,6 @@
       "place": "19 km WSW of Morón, Venezuela",
       "time": 1782639238852,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8sx"
-    },
-    {
-      "id": "ci41497024",
-      "lon": -117.986166666667,
-      "lat": 36.0795,
-      "depth": 6.24,
-      "mag": 0.64,
-      "place": "5 km NW of Coso Junction, CA",
-      "time": 1782638778870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497024"
-    },
-    {
-      "id": "nc75385701",
-      "lon": -118.823166666667,
-      "lat": 37.5541666666667,
-      "depth": 4,
-      "mag": 0.57,
-      "place": "13 km W of Toms Place, CA",
-      "time": 1782638724690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385701"
-    },
-    {
-      "id": "aka2026mrmtbi",
-      "lon": -152.585,
-      "lat": 59.426,
-      "depth": 75.3,
-      "mag": 2.9,
-      "place": "38 km WNW of Nanwalek, Alaska",
-      "time": 1782638700689,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mrmtbi"
-    },
-    {
-      "id": "hv74992667",
-      "lon": -155.278839111328,
-      "lat": 19.4223327636719,
-      "depth": -1.11000001430511,
-      "mag": 1.81,
-      "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1782638620350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74992667"
-    },
-    {
-      "id": "aka2026mrmnji",
-      "lon": -150.858,
-      "lat": 60.465,
-      "depth": 61.9,
-      "mag": 1.6,
-      "place": "6 km SW of Funny River, Alaska",
-      "time": 1782638306797,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mrmnji"
     }
   ]
 }
