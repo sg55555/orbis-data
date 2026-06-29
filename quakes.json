@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T17:01:11Z",
-  "count": 211,
+  "updated": "2026-06-29T17:15:46Z",
+  "count": 210,
   "points": [
+    {
+      "id": "ci41497880",
+      "lon": -117.5055,
+      "lat": 35.7105,
+      "depth": 6.24,
+      "mag": 0.92,
+      "place": "11 km SW of Searles Valley, CA",
+      "time": 1782752608140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497880"
+    },
+    {
+      "id": "nc75386396",
+      "lon": -120.470664978027,
+      "lat": 35.9225006103516,
+      "depth": 4.92999982833862,
+      "mag": 2.31,
+      "place": "4 km NW of Parkfield, CA",
+      "time": 1782752459900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386396"
+    },
     {
       "id": "ci41497856",
       "lon": -116.7955,
@@ -45,23 +65,13 @@
     },
     {
       "id": "ci41497832",
-      "lon": -116.714166666667,
-      "lat": 33.5375,
-      "depth": 4.64,
-      "mag": 0.98,
+      "lon": -116.7135,
+      "lat": 33.5338333333333,
+      "depth": 5.89,
+      "mag": 0.94,
       "place": "4 km WSW of Anza, CA",
-      "time": 1782750826920,
+      "time": 1782750826800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497832"
-    },
-    {
-      "id": "ci41497840",
-      "lon": -116.713333333333,
-      "lat": 33.5366666666667,
-      "depth": 5.43,
-      "mag": 0.98,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1782750826870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497840"
     },
     {
       "id": "hv74993477",
@@ -1084,6 +1094,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497592"
     },
     {
+      "id": "tx2026mqxmih",
+      "lon": -102.083,
+      "lat": 32.412,
+      "depth": 6.8604,
+      "mag": 0.3,
+      "place": "36 km WSW of Ackerly, Texas",
+      "time": 1782706573624,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mqxmih"
+    },
+    {
       "id": "us6000t8x6",
       "lon": 125.4036,
       "lat": 4.5908,
@@ -2082,36 +2102,6 @@
       "place": "142 km E of Chalkyitsik, Alaska",
       "time": 1782667336498,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8u7"
-    },
-    {
-      "id": "ci41497272",
-      "lon": -116.390833333333,
-      "lat": 33.3338333333333,
-      "depth": 6.21,
-      "mag": 1.08,
-      "place": "9 km N of Borrego Springs, CA",
-      "time": 1782666570980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497272"
-    },
-    {
-      "id": "ci41497264",
-      "lon": -117.693,
-      "lat": 36.064,
-      "depth": 2.48,
-      "mag": 0.68,
-      "place": "23 km E of Coso Junction, CA",
-      "time": 1782666425710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497264"
-    },
-    {
-      "id": "aka2026msccmz",
-      "lon": -151.913,
-      "lat": 61.795,
-      "depth": 109.2,
-      "mag": 2,
-      "place": "34 km SW of Skwentna, Alaska",
-      "time": 1782666341156,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026msccmz"
     }
   ]
 }
