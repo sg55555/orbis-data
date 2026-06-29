@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T13:31:02Z",
-  "count": 209,
+  "updated": "2026-06-29T13:45:45Z",
+  "count": 207,
   "points": [
+    {
+      "id": "pr71521953",
+      "lon": -66.8168333333333,
+      "lat": 17.971,
+      "depth": 11.19,
+      "mag": 2.65,
+      "place": "2 km S of Indios, Puerto Rico",
+      "time": 1782739388600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521953"
+    },
     {
       "id": "hv74993432",
       "lon": -155.401168823242,
@@ -552,6 +562,16 @@
       "place": "52 km W of Tyonek, Alaska",
       "time": 1782716700210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mtechx"
+    },
+    {
+      "id": "uu80143636",
+      "lon": -110.543666666667,
+      "lat": 40.4863333333333,
+      "depth": 10.26,
+      "mag": 1.42,
+      "place": "20 km NE of Tabiona, Utah",
+      "time": 1782716525900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143636"
     },
     {
       "id": "ci41497640",
@@ -2052,46 +2072,6 @@
       "place": "4 km E of Point MacKenzie, Alaska",
       "time": 1782654543124,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mrvnzv"
-    },
-    {
-      "id": "ci41497136",
-      "lon": -118.356166666667,
-      "lat": 34.05,
-      "depth": 10.66,
-      "mag": 1.51,
-      "place": "4 km S of West Hollywood, CA",
-      "time": 1782654129080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497136"
-    },
-    {
-      "id": "ci41497128",
-      "lon": -116.4885,
-      "lat": 33.5111666666667,
-      "depth": 15.17,
-      "mag": 0.55,
-      "place": "18 km ESE of Anza, CA",
-      "time": 1782654034700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497128"
-    },
-    {
-      "id": "ci41497120",
-      "lon": -116.490666666667,
-      "lat": 33.5023333333333,
-      "depth": 12.57,
-      "mag": 0.47,
-      "place": "18 km ESE of Anza, CA",
-      "time": 1782653661810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497120"
-    },
-    {
-      "id": "hv74992897",
-      "lon": -155.501159667969,
-      "lat": 19.1846675872803,
-      "depth": 31.9400005340576,
-      "mag": 1.94,
-      "place": "3 km SW of Pāhala, Hawaii",
-      "time": 1782653479360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74992897"
     }
   ]
 }
