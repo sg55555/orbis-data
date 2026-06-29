@@ -1,14 +1,24 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T06:01:15Z",
-  "count": 203,
+  "updated": "2026-06-29T06:15:52Z",
+  "count": 202,
   "points": [
     {
+      "id": "nc75386221",
+      "lon": -122.814163208008,
+      "lat": 38.8311653137207,
+      "depth": 1.53999996185303,
+      "mag": 0.88,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1782713604610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386221"
+    },
+    {
       "id": "ci41497608",
-      "lon": -117.805335998535,
-      "lat": 35.298999786377,
-      "depth": 7.46999979019165,
-      "mag": 1.81835388804514,
+      "lon": -117.807666666667,
+      "lat": 35.2986666666667,
+      "depth": 7.62,
+      "mag": 1.71,
       "place": "18 km WSW of Johannesburg, CA",
       "time": 1782712654590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497608"
@@ -117,10 +127,10 @@
       "id": "tx2026mqywfq",
       "lon": -104.333,
       "lat": 31.655,
-      "depth": 6.1788,
+      "depth": 6.1968,
       "mag": 1.3,
       "place": "57 km S of Whites City, New Mexico",
-      "time": 1782709084903,
+      "time": 1782709084899,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mqywfq"
     },
     {
@@ -2012,26 +2022,6 @@
       "place": "19 km WSW of Delta, B.C., MX",
       "time": 1782627879570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496992"
-    },
-    {
-      "id": "aka2026mrghew",
-      "lon": -151.959,
-      "lat": 60.635,
-      "depth": 99.1,
-      "mag": 2.5,
-      "place": "35 km W of Salamatof, Alaska",
-      "time": 1782627086486,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mrghew"
-    },
-    {
-      "id": "nc75385656",
-      "lon": -121.950668334961,
-      "lat": 37.771167755127,
-      "depth": 6.71999979019165,
-      "mag": 1.39,
-      "place": "3 km ESE of San Ramon, CA",
-      "time": 1782626900030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385656"
     }
   ]
 }
