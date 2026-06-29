@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T18:01:12Z",
-  "count": 211,
+  "updated": "2026-06-29T18:15:44Z",
+  "count": 209,
   "points": [
+    {
+      "id": "ci41283703",
+      "lon": -116.831333333333,
+      "lat": 34.0168333333333,
+      "depth": 13.61,
+      "mag": 1.09,
+      "place": "11 km NNE of Banning, CA",
+      "time": 1782756250800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41283703"
+    },
     {
       "id": "ci41283687",
       "lon": -116.337833333333,
@@ -15,12 +25,12 @@
     },
     {
       "id": "ci41283679",
-      "lon": -116.749166666667,
-      "lat": 33.4856666666667,
-      "depth": 9.27,
+      "lon": -116.751166666667,
+      "lat": 33.4845,
+      "depth": 9.42,
       "mag": 0.94,
-      "place": "10 km SW of Anza, CA",
-      "time": 1782754490060,
+      "place": "11 km SW of Anza, CA",
+      "time": 1782754489990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41283679"
     },
     {
@@ -2082,36 +2092,6 @@
       "place": "37 km NE of Whittier, Alaska",
       "time": 1782670573790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mselqt"
-    },
-    {
-      "id": "nc75385881",
-      "lon": -122.788497924805,
-      "lat": 38.8209991455078,
-      "depth": 2.42000007629395,
-      "mag": 1.17,
-      "place": "6 km NNW of The Geysers, CA",
-      "time": 1782670019030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385881"
-    },
-    {
-      "id": "ci41497304",
-      "lon": -115.6225,
-      "lat": 31.5041666666667,
-      "depth": 7.07,
-      "mag": 3.11,
-      "place": "91 km SSW of Alberto Oviedo Mota, B.C., MX",
-      "time": 1782670008470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497304"
-    },
-    {
-      "id": "aka2026msedgr",
-      "lon": -149.409,
-      "lat": 61.087,
-      "depth": 32.6,
-      "mag": 1.2,
-      "place": "20 km NW of Girdwood, Alaska",
-      "time": 1782669992543,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026msedgr"
     }
   ]
 }
