@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T17:30:59Z",
-  "count": 210,
+  "updated": "2026-06-29T17:45:46Z",
+  "count": 211,
   "points": [
+    {
+      "id": "ci41283679",
+      "lon": -116.749166666667,
+      "lat": 33.4856666666667,
+      "depth": 9.27,
+      "mag": 0.94,
+      "place": "10 km SW of Anza, CA",
+      "time": 1782754490060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41283679"
+    },
+    {
+      "id": "nc75386411",
+      "lon": -122.847663879395,
+      "lat": 38.852165222168,
+      "depth": 1.54999995231628,
+      "mag": 0.9,
+      "place": "11 km WNW of Cobb, CA",
+      "time": 1782754352500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386411"
+    },
     {
       "id": "aka2026mtyszt",
       "lon": -151.473,
@@ -1015,12 +1035,12 @@
     },
     {
       "id": "tx2026mqzpph",
-      "lon": -103.471,
-      "lat": 31.187,
-      "depth": 5.4702,
+      "lon": -103.504,
+      "lat": 31.202,
+      "depth": 3.9722,
       "mag": 1.2,
-      "place": "21 km SSE of Lindsay, Texas",
-      "time": 1782710422825,
+      "place": "18 km S of Lindsay, Texas",
+      "time": 1782710421212,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mqzpph"
     },
     {
@@ -1744,6 +1764,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497360"
     },
     {
+      "id": "av94276143",
+      "lon": -178.804833333333,
+      "lat": 51.7696666666667,
+      "depth": 10.81,
+      "mag": 0.66,
+      "place": "150 km W of Adak, Alaska",
+      "time": 1782681515180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94276143"
+    },
+    {
       "id": "aka2026mskmpk",
       "lon": -149.126,
       "lat": 63.652,
@@ -2082,26 +2112,6 @@
       "place": "4 km NW of Belden, CA",
       "time": 1782669028320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385876"
-    },
-    {
-      "id": "aka2026msdipe",
-      "lon": -153.444,
-      "lat": 59.196,
-      "depth": 96.5,
-      "mag": 2.2,
-      "place": "71 km SE of Pope-Vannoy Landing, Alaska",
-      "time": 1782668582554,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026msdipe"
-    },
-    {
-      "id": "us6000t8ua",
-      "lon": -66.1655,
-      "lat": -22.8713,
-      "depth": 252.862,
-      "mag": 4.5,
-      "place": "50 km WSW of Abra Pampa, Argentina",
-      "time": 1782668056402,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ua"
     }
   ]
 }
