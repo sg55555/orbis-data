@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T03:45:49Z",
-  "count": 196,
+  "updated": "2026-06-29T04:01:16Z",
+  "count": 195,
   "points": [
+    {
+      "id": "nc75386161",
+      "lon": -122.8056640625,
+      "lat": 38.7906684875488,
+      "depth": 2.82999992370605,
+      "mag": 1.31,
+      "place": "5 km WNW of The Geysers, CA",
+      "time": 1782704968890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386161"
+    },
+    {
+      "id": "hv74993242",
+      "lon": -155.508331298828,
+      "lat": 19.1653327941895,
+      "depth": 28.1499996185303,
+      "mag": 1.85,
+      "place": "5 km SW of Pāhala, Hawaii",
+      "time": 1782704957620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993242"
+    },
     {
       "id": "nc75386156",
       "lon": -122.791831970215,
@@ -22,16 +42,6 @@
       "place": "39 km SSW of Cordova, Alaska",
       "time": 1782704246396,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026msxegs"
-    },
-    {
-      "id": "aka2026msxbmo",
-      "lon": -157.156,
-      "lat": 56.906,
-      "depth": 31.4,
-      "mag": 2.8,
-      "place": "69 km SSE of Ugashik, Alaska",
-      "time": 1782704054217,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026msxbmo"
     },
     {
       "id": "nc75386146",
@@ -55,12 +65,12 @@
     },
     {
       "id": "aka2026msxacu",
-      "lon": -145.94,
-      "lat": 60.209,
-      "depth": 13.6,
+      "lon": -145.91,
+      "lat": 60.237,
+      "depth": 13.3,
       "mag": 5.3,
-      "place": "38 km SSW of Cordova, Alaska",
-      "time": 1782703959293,
+      "place": "35 km SSW of Cordova, Alaska",
+      "time": 1782703959606,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026msxacu"
     },
     {
@@ -77,10 +87,10 @@
       "id": "tx2026mqvogv",
       "lon": -104.379,
       "lat": 31.606,
-      "depth": 4.037,
+      "depth": 4.0276,
       "mag": 2,
       "place": "63 km S of Whites City, New Mexico",
-      "time": 1782703117347,
+      "time": 1782703117344,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mqvogv"
     },
     {
@@ -1942,26 +1952,6 @@
       "place": "9 km N of Anza, CA",
       "time": 1782619247830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496944"
-    },
-    {
-      "id": "nc75385586",
-      "lon": -122.842002868652,
-      "lat": 38.818000793457,
-      "depth": 2.19000005722046,
-      "mag": 0.72,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": 1782618952430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385586"
-    },
-    {
-      "id": "ci10245254",
-      "lon": -117.713833333333,
-      "lat": 35.9166666666667,
-      "depth": 1.9,
-      "mag": -0.34,
-      "place": "18 km E of Little Lake, CA",
-      "time": 1782618363870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10245254"
     }
   ]
 }
