@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T19:30:59Z",
-  "count": 202,
+  "updated": "2026-06-29T19:45:48Z",
+  "count": 200,
   "points": [
+    {
+      "id": "ci41283751",
+      "lon": -116.791166666667,
+      "lat": 33.6823333333333,
+      "depth": 15.74,
+      "mag": 0.62,
+      "place": "9 km SW of Idyllwild, CA",
+      "time": 1782761444080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41283751"
+    },
     {
       "id": "nc75386436",
       "lon": -123.235168457031,
@@ -1992,36 +2002,6 @@
       "place": "57 km S of Whites City, New Mexico",
       "time": 1782676054614,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mqgqad"
-    },
-    {
-      "id": "aka2026mshiyq",
-      "lon": -175.688,
-      "lat": 51.325,
-      "depth": 21.7,
-      "mag": 3.5,
-      "place": "89 km SE of Adak, Alaska",
-      "time": 1782675790553,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mshiyq"
-    },
-    {
-      "id": "aka2026mshijs",
-      "lon": -155.1,
-      "lat": 57.21,
-      "depth": 61.6,
-      "mag": 1.9,
-      "place": "55 km SW of Karluk, Alaska",
-      "time": 1782675744651,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mshijs"
-    },
-    {
-      "id": "nn00920879",
-      "lon": -115.2844,
-      "lat": 37.1161,
-      "depth": 3.1144,
-      "mag": 2.41,
-      "place": "29 km SSW of Alamo, Nevada",
-      "time": 1782675059615,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920879"
     }
   ]
 }
