@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T21:15:42Z",
-  "count": 217,
+  "updated": "2026-06-29T21:31:02Z",
+  "count": 219,
   "points": [
+    {
+      "id": "nc75386496",
+      "lon": -122.800834655762,
+      "lat": 38.8251647949219,
+      "depth": 2.86999988555908,
+      "mag": 0.82,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1782767962280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386496"
+    },
+    {
+      "id": "ci41283847",
+      "lon": -116.927833333333,
+      "lat": 34.014,
+      "depth": 16.47,
+      "mag": 1.28,
+      "place": "10 km NNE of Beaumont, CA",
+      "time": 1782767930580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41283847"
+    },
+    {
+      "id": "us6000t931",
+      "lon": 122.1068,
+      "lat": 24.837,
+      "depth": 98.34,
+      "mag": 4.2,
+      "place": "36 km ENE of Yilan, Taiwan",
+      "time": 1782767701894,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t931"
+    },
     {
       "id": "ci41283831",
       "lon": -118.882833333333,
@@ -12,6 +42,26 @@
       "place": "20 km NNW of Piru, CA",
       "time": 1782766460560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41283831"
+    },
+    {
+      "id": "av94278523",
+      "lon": -178.691666666667,
+      "lat": 51.7276666666667,
+      "depth": 11.02,
+      "mag": 1.19,
+      "place": "142 km W of Adak, Alaska",
+      "time": 1782765928660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94278523"
+    },
+    {
+      "id": "av94278518",
+      "lon": -178.826833333333,
+      "lat": 51.8025,
+      "depth": 11.68,
+      "mag": 1.07,
+      "place": "151 km W of Adak, Alaska",
+      "time": 1782765872200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94278518"
     },
     {
       "id": "ci41283815",
@@ -1774,6 +1824,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mstvql"
     },
     {
+      "id": "tx2026mqstks",
+      "lon": -102.006,
+      "lat": 31.671,
+      "depth": 5.1025,
+      "mag": 0.6,
+      "place": "36 km S of Midland, Texas",
+      "time": 1782698014127,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mqstks"
+    },
+    {
       "id": "nc75386086",
       "lon": -122.812164306641,
       "lat": 38.8301658630371,
@@ -2132,46 +2192,6 @@
       "place": "53 km S of Jurm, Afghanistan",
       "time": 1782682296490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8vj"
-    },
-    {
-      "id": "ci41497360",
-      "lon": -117.390333333333,
-      "lat": 35.957,
-      "depth": 3.04,
-      "mag": 2.17,
-      "place": "21 km N of Searles Valley, CA",
-      "time": 1782681673810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497360"
-    },
-    {
-      "id": "av94276153",
-      "lon": -178.803666666667,
-      "lat": 51.775,
-      "depth": 11.38,
-      "mag": 0.39,
-      "place": "149 km W of Adak, Alaska",
-      "time": 1782681644690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94276153"
-    },
-    {
-      "id": "av94276143",
-      "lon": -178.804833333333,
-      "lat": 51.7696666666667,
-      "depth": 10.81,
-      "mag": 0.66,
-      "place": "150 km W of Adak, Alaska",
-      "time": 1782681515180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94276143"
-    },
-    {
-      "id": "aka2026mskmpk",
-      "lon": -149.126,
-      "lat": 63.652,
-      "depth": 5,
-      "mag": 1.7,
-      "place": "13 km SW of Denali Park, Alaska",
-      "time": 1782681433774,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mskmpk"
     }
   ]
 }
