@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T15:15:45Z",
-  "count": 207,
+  "updated": "2026-06-29T15:30:59Z",
+  "count": 209,
   "points": [
+    {
+      "id": "nc75386356",
+      "lon": -122.880165100098,
+      "lat": 38.8409996032715,
+      "depth": 2.20000004768372,
+      "mag": 1.07,
+      "place": "13 km ENE of Cloverdale, CA",
+      "time": 1782746800900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386356"
+    },
     {
       "id": "aka2026mtuikv",
       "lon": -149.602,
@@ -12,6 +22,16 @@
       "place": "32 km NE of Chase, Alaska",
       "time": 1782745918803,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mtuikv"
+    },
+    {
+      "id": "us6000t8zt",
+      "lon": -161.4599,
+      "lat": 54.2588,
+      "depth": 35,
+      "mag": 2.9,
+      "place": "105 km SSE of King Cove, Alaska",
+      "time": 1782745901319,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8zt"
     },
     {
       "id": "ci41497760",
@@ -225,12 +245,12 @@
     },
     {
       "id": "tx2026mrlrth",
-      "lon": -98.349,
-      "lat": 28.553,
-      "depth": 10.5532,
-      "mag": 1.6,
-      "place": "19 km WNW of Three Rivers, Texas",
-      "time": 1782732299768,
+      "lon": -98.348,
+      "lat": 28.564,
+      "depth": 7.8051,
+      "mag": 1.5,
+      "place": "19 km NW of Three Rivers, Texas",
+      "time": 1782732298993,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mrlrth"
     },
     {
@@ -502,6 +522,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1782723063430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386266"
+    },
+    {
+      "id": "tx2026mrggfb",
+      "lon": -98.002,
+      "lat": 28.946,
+      "depth": 8.4586,
+      "mag": 1,
+      "place": "4 km SSE of Falls City, Texas",
+      "time": 1782722438949,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mrggfb"
     },
     {
       "id": "hv74993352",
@@ -2062,16 +2092,6 @@
       "place": "89 km NW of Karluk, Alaska",
       "time": 1782660818191,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mrzarq"
-    },
-    {
-      "id": "nc75385806",
-      "lon": -122.80883026123,
-      "lat": 38.8238334655762,
-      "depth": 2.65000009536743,
-      "mag": 1.1,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1782660137570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385806"
     }
   ]
 }
