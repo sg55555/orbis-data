@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T13:01:09Z",
-  "count": 207,
+  "updated": "2026-06-29T13:15:51Z",
+  "count": 206,
   "points": [
+    {
+      "id": "nc75386331",
+      "lon": -124.496002197266,
+      "lat": 40.2946662902832,
+      "depth": 8.02999973297119,
+      "mag": 2.87,
+      "place": "18 km W of Petrolia, CA",
+      "time": 1782738667390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386331"
+    },
     {
       "id": "nc75386321",
       "lon": -122.845001220703,
@@ -2052,26 +2062,6 @@
       "place": "10 km SSE of Ackerly, Texas",
       "time": 1782653147743,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mptyzz"
-    },
-    {
-      "id": "ci41497112",
-      "lon": -116.495,
-      "lat": 33.4948333333333,
-      "depth": 12.43,
-      "mag": 0.5,
-      "place": "18 km ESE of Anza, CA",
-      "time": 1782652377320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497112"
-    },
-    {
-      "id": "uw714035921",
-      "lon": -123.040496826172,
-      "lat": 47.4661674499512,
-      "depth": 6.42999982833862,
-      "mag": 2.03133034706116,
-      "place": "10 km NE of Hoodsport, Washington",
-      "time": 1782651867160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714035921"
     }
   ]
 }
