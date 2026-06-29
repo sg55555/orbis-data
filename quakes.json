@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T17:45:46Z",
+  "updated": "2026-06-29T18:01:12Z",
   "count": 211,
   "points": [
+    {
+      "id": "ci41283687",
+      "lon": -116.337833333333,
+      "lat": 33.2566666666667,
+      "depth": 3.05,
+      "mag": 1.23,
+      "place": "3 km E of Borrego Springs, CA",
+      "time": 1782755152210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41283687"
+    },
     {
       "id": "ci41283679",
       "lon": -116.749166666667,
@@ -1665,12 +1675,12 @@
     },
     {
       "id": "uw714037011",
-      "lon": -121.99649810791,
-      "lat": 46.8488349914551,
-      "depth": 7.61999988555908,
-      "mag": 1.51136815547943,
-      "place": "10 km NNE of Ashford, Washington",
-      "time": 1782685476650,
+      "lon": -121.9925,
+      "lat": 46.8548333333333,
+      "depth": 9.56,
+      "mag": 1.54,
+      "place": "11 km NNE of Ashford, Washington",
+      "time": 1782685476520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714037011"
     },
     {
@@ -1744,6 +1754,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993142"
     },
     {
+      "id": "av94276188",
+      "lon": -176.605,
+      "lat": 51.8605,
+      "depth": 4.51,
+      "mag": 1.01,
+      "place": "2 km SE of Adak, Alaska",
+      "time": 1782682881620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94276188"
+    },
+    {
       "id": "us6000t8vj",
       "lon": 70.849,
       "lat": 36.384,
@@ -1762,6 +1782,16 @@
       "place": "21 km N of Searles Valley, CA",
       "time": 1782681673810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497360"
+    },
+    {
+      "id": "av94276153",
+      "lon": -178.803666666667,
+      "lat": 51.775,
+      "depth": 11.38,
+      "mag": 0.39,
+      "place": "149 km W of Adak, Alaska",
+      "time": 1782681644690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94276153"
     },
     {
       "id": "av94276143",
@@ -2082,36 +2112,6 @@
       "place": "20 km NW of Girdwood, Alaska",
       "time": 1782669992543,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026msedgr"
-    },
-    {
-      "id": "us6000t8uk",
-      "lon": 125.36,
-      "lat": 5.7561,
-      "depth": 60.243,
-      "mag": 4.5,
-      "place": "10 km SSE of Kiupo, Philippines",
-      "time": 1782669437188,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8uk"
-    },
-    {
-      "id": "aka2026msduim",
-      "lon": -140.007,
-      "lat": 60.319,
-      "depth": 5,
-      "mag": 2.2,
-      "place": "87 km N of Yakutat, Alaska",
-      "time": 1782669369056,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026msduim"
-    },
-    {
-      "id": "nc75385876",
-      "lon": -121.277168273926,
-      "lat": 40.0328330993652,
-      "depth": 12.0299997329712,
-      "mag": 2.15,
-      "place": "4 km NW of Belden, CA",
-      "time": 1782669028320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385876"
     }
   ]
 }
