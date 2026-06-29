@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T01:15:51Z",
+  "updated": "2026-06-29T01:31:01Z",
   "count": 197,
   "points": [
+    {
+      "id": "aka2026mssvhy",
+      "lon": -151.248,
+      "lat": 60.209,
+      "depth": 57.4,
+      "mag": 2.5,
+      "place": "8 km ESE of Clam Gulch, Alaska",
+      "time": 1782696430673,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mssvhy"
+    },
     {
       "id": "nc75386041",
       "lon": -122.752830505371,
@@ -252,6 +262,16 @@
       "place": "4 km SSW of Kalaoa, Hawaii",
       "time": 1782682936860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993142"
+    },
+    {
+      "id": "us6000t8vj",
+      "lon": 70.849,
+      "lat": 36.384,
+      "depth": 146.873,
+      "mag": 4.1,
+      "place": "53 km S of Jurm, Afghanistan",
+      "time": 1782682296490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8vj"
     },
     {
       "id": "ci41497360",
@@ -1952,26 +1972,6 @@
       "place": "14 km ENE of Indio, CA",
       "time": 1782611067430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496880"
-    },
-    {
-      "id": "aka2026mqwwgx",
-      "lon": -159.204,
-      "lat": 55.345,
-      "depth": 5.5,
-      "mag": 2.1,
-      "place": "63 km S of Perryville, Alaska",
-      "time": 1782610143375,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mqwwgx"
-    },
-    {
-      "id": "hv74992422",
-      "lon": -156.516662597656,
-      "lat": 19.6746673583984,
-      "depth": 12.710000038147,
-      "mag": 2.62,
-      "place": "54 km W of Kailua-Kona, Hawaii",
-      "time": 1782609935470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74992422"
     }
   ]
 }
