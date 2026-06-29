@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-29T22:01:11Z",
-  "count": 219,
+  "updated": "2026-06-29T22:15:44Z",
+  "count": 220,
   "points": [
+    {
+      "id": "nc75386556",
+      "lon": -122.767669677734,
+      "lat": 38.7911682128906,
+      "depth": 1.49000000953674,
+      "mag": 1.05,
+      "place": "2 km NNW of The Geysers, CA",
+      "time": 1782771062940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386556"
+    },
     {
       "id": "nc75386536",
       "lon": -122.724670410156,
@@ -22,6 +32,16 @@
       "place": "9 km NW of Cobb, CA",
       "time": 1782769961220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386531"
+    },
+    {
+      "id": "us6000t937",
+      "lon": -178.4499,
+      "lat": -17.9754,
+      "depth": 616.793,
+      "mag": 4.6,
+      "place": "236 km E of Levuka, Fiji",
+      "time": 1782769116945,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t937"
     },
     {
       "id": "uw714038281",
@@ -632,6 +652,16 @@
       "place": "6 km WSW of Yucaipa, CA",
       "time": 1782745144080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497736"
+    },
+    {
+      "id": "tx2026mrrjhi",
+      "lon": -103.766,
+      "lat": 31.417,
+      "depth": 3.6646,
+      "mag": 1.1,
+      "place": "11 km NNE of Toyah, Texas",
+      "time": 1782742568930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mrrjhi"
     },
     {
       "id": "pr71521968",
@@ -2172,26 +2202,6 @@
       "place": "17 km SSW of Oasis, CA",
       "time": 1782685006610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497392"
-    },
-    {
-      "id": "us6000t8vp",
-      "lon": 22.8017,
-      "lat": 36.9735,
-      "depth": 73.393,
-      "mag": 4.4,
-      "place": "8 km ESE of Geráki, Greece",
-      "time": 1782684508432,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8vp"
-    },
-    {
-      "id": "uw714036971",
-      "lon": -122.398333333333,
-      "lat": 45.911,
-      "depth": 11.92,
-      "mag": 0.8,
-      "place": "3 km E of Amboy, Washington",
-      "time": 1782684316310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714036971"
     }
   ]
 }
