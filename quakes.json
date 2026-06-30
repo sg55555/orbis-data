@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T04:01:06Z",
-  "count": 230,
+  "updated": "2026-06-30T04:15:42Z",
+  "count": 226,
   "points": [
     {
       "id": "nc75386686",
@@ -15,12 +15,12 @@
     },
     {
       "id": "nm60623971",
-      "lon": -90.642333984375,
-      "lat": 36.8564987182617,
-      "depth": 1.79999995231628,
-      "mag": 2.6400001,
-      "place": "12 km SE of Ellsinore, Missouri",
-      "time": 1782790887810,
+      "lon": -90.5948333333333,
+      "lat": 36.8405,
+      "depth": 2.8,
+      "mag": 2.93,
+      "place": "15 km SSW of Williamsville, Missouri",
+      "time": 1782790887740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60623971"
     },
     {
@@ -992,6 +992,16 @@
       "place": "south of the Fiji Islands",
       "time": 1782748278068,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t907"
+    },
+    {
+      "id": "av94278078",
+      "lon": -152.242166666667,
+      "lat": 61.2786666666667,
+      "depth": 2.94,
+      "mag": -0.61,
+      "place": "63 km WNW of Tyonek, Alaska",
+      "time": 1782747569610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94278078"
     },
     {
       "id": "nc75386361",
@@ -2252,56 +2262,6 @@
       "place": "36 km WSW of Ackerly, Texas",
       "time": 1782706573624,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mqxmih"
-    },
-    {
-      "id": "us6000t8x6",
-      "lon": 125.4036,
-      "lat": 4.5908,
-      "depth": 45.108,
-      "mag": 4.9,
-      "place": "90 km S of Sarangani, Philippines",
-      "time": 1782706473185,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8x6"
-    },
-    {
-      "id": "nc75386181",
-      "lon": -122.791999816895,
-      "lat": 38.835334777832,
-      "depth": 1.77999997138977,
-      "mag": 1.05,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1782706372140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386181"
-    },
-    {
-      "id": "aka2026msyill",
-      "lon": -151.071,
-      "lat": 61.144,
-      "depth": 65.7,
-      "mag": 1.5,
-      "place": "0 km ENE of Beluga, Alaska",
-      "time": 1782706365983,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026msyill"
-    },
-    {
-      "id": "nc75386176",
-      "lon": -121.112335205078,
-      "lat": 36.8676681518555,
-      "depth": 0.850000023841858,
-      "mag": 1.87,
-      "place": "20 km ENE of Tres Pinos, CA",
-      "time": 1782706145970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386176"
-    },
-    {
-      "id": "pr71521888",
-      "lon": -66.8438333333333,
-      "lat": 17.9455,
-      "depth": 11.89,
-      "mag": 2.46,
-      "place": "5 km SSW of Indios, Puerto Rico",
-      "time": 1782705954010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521888"
     }
   ]
 }
