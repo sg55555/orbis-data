@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T00:31:02Z",
+  "updated": "2026-06-30T00:45:47Z",
   "count": 228,
   "points": [
+    {
+      "id": "nc75386626",
+      "lon": -122.726829528809,
+      "lat": 38.7686653137207,
+      "depth": 0.769999980926514,
+      "mag": 0.8,
+      "place": "3 km ESE of The Geysers, CA",
+      "time": 1782779958570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386626"
+    },
+    {
+      "id": "aka2026munaoi",
+      "lon": -154.369,
+      "lat": 57.027,
+      "depth": 5,
+      "mag": 2.3,
+      "place": "15 km NW of Akhiok, Alaska",
+      "time": 1782779555295,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026munaoi"
+    },
     {
       "id": "aka2026mumomv",
       "lon": -159.735,
@@ -12,6 +32,16 @@
       "place": "15 km W of Ivanof Bay, Alaska",
       "time": 1782778718755,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mumomv"
+    },
+    {
+      "id": "us6000t93x",
+      "lon": -27.0307,
+      "lat": -55.5101,
+      "depth": 35,
+      "mag": 5.1,
+      "place": "South Sandwich Islands region",
+      "time": 1782778511912,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t93x"
     },
     {
       "id": "ci41283959",
@@ -2252,36 +2282,6 @@
       "place": "2 km ENE of Studio City, CA",
       "time": 1782694750160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497552"
-    },
-    {
-      "id": "tx2026mqqmfz",
-      "lon": -104.148,
-      "lat": 31.912,
-      "depth": 0,
-      "mag": 1.4,
-      "place": "35 km SSW of Malaga, New Mexico",
-      "time": 1782693888988,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mqqmfz"
-    },
-    {
-      "id": "nc75386031",
-      "lon": -122.736167907715,
-      "lat": 38.7859992980957,
-      "depth": 1.87999999523163,
-      "mag": 0.49,
-      "place": "2 km ENE of The Geysers, CA",
-      "time": 1782693688250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386031"
-    },
-    {
-      "id": "uu80143616",
-      "lon": -109.415166666667,
-      "lat": 39.2196666666667,
-      "depth": 7.89,
-      "mag": 1.74,
-      "place": "37 km NE of Thompson Springs, Utah",
-      "time": 1782693541440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143616"
     }
   ]
 }
