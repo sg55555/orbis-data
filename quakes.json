@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T14:31:05Z",
-  "count": 195,
+  "updated": "2026-06-30T14:59:55Z",
+  "count": 197,
   "points": [
+    {
+      "id": "us6000t978",
+      "lon": 150.9338,
+      "lat": -5.727,
+      "depth": 35,
+      "mag": 5.4,
+      "place": "90 km ESE of Kimbe, Papua New Guinea",
+      "time": 1782830470582,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t978"
+    },
+    {
+      "id": "hv74993902",
+      "lon": -155.274169921875,
+      "lat": 19.3913326263428,
+      "depth": 1.91999995708466,
+      "mag": 1.78,
+      "place": "7 km SW of Volcano, Hawaii",
+      "time": 1782829754360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993902"
+    },
     {
       "id": "nc75386836",
       "lon": -122.769500732422,
@@ -115,12 +135,12 @@
     },
     {
       "id": "ci41284103",
-      "lon": -116.163333333333,
-      "lat": 33.8575,
-      "depth": 3.7,
-      "mag": 0.85,
+      "lon": -116.159333333333,
+      "lat": 33.8598333333333,
+      "depth": 5.1,
+      "mag": 0.86,
       "place": "16 km NNE of Indio, CA",
-      "time": 1782823886670,
+      "time": 1782823886640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284103"
     },
     {
@@ -276,11 +296,11 @@
     {
       "id": "ci41284079",
       "lon": -116.085666666667,
-      "lat": 33.7843333333333,
-      "depth": 2.18,
+      "lat": 33.7838333333333,
+      "depth": 2.12,
       "mag": 1.02,
       "place": "14 km ENE of Indio, CA",
-      "time": 1782815677020,
+      "time": 1782815676990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284079"
     },
     {
@@ -685,12 +705,12 @@
     },
     {
       "id": "ci41284023",
-      "lon": -117.120666666667,
-      "lat": 33.9006666666667,
-      "depth": 11.38,
-      "mag": 0.74,
-      "place": "10 km ESE of Moreno Valley, CA",
-      "time": 1782796153090,
+      "lon": -117.1165,
+      "lat": 33.8978333333333,
+      "depth": 11.81,
+      "mag": 0.58,
+      "place": "11 km ESE of Moreno Valley, CA",
+      "time": 1782796153110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284023"
     },
     {
@@ -1232,6 +1252,16 @@
       "place": "9 km NW of Cobb, CA",
       "time": 1782769961220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386531"
+    },
+    {
+      "id": "uw714038311",
+      "lon": -122.133833333333,
+      "lat": 49.1618333333333,
+      "depth": -0.71,
+      "mag": 1.75,
+      "place": "12 km ENE of Mission, Canada",
+      "time": 1782769569840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714038311"
     },
     {
       "id": "uw714038301",
@@ -1942,16 +1972,6 @@
       "place": "4 km WSW of Anza, CA",
       "time": 1782745470930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497760"
-    },
-    {
-      "id": "ci41497736",
-      "lon": -117.1045,
-      "lat": 34.0213333333333,
-      "depth": 15.64,
-      "mag": 1,
-      "place": "6 km WSW of Yucaipa, CA",
-      "time": 1782745144080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497736"
     }
   ]
 }
