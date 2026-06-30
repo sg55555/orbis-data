@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T17:31:45Z",
-  "count": 219,
+  "updated": "2026-06-30T17:45:42Z",
+  "count": 218,
   "points": [
+    {
+      "id": "aka2026mvvjqf",
+      "lon": -150.997,
+      "lat": 60.297,
+      "depth": 54.2,
+      "mag": 1.8,
+      "place": "15 km ESE of Kasilof, Alaska",
+      "time": 1782841355365,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvvjqf"
+    },
+    {
+      "id": "aka2026mvvcuh",
+      "lon": -152.972,
+      "lat": 60.402,
+      "depth": 5,
+      "mag": 0.8,
+      "place": "77 km ENE of Port Alsworth, Alaska",
+      "time": 1782840881738,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvvcuh"
+    },
     {
       "id": "tx2026mttktz",
       "lon": -104.383,
@@ -1465,12 +1485,12 @@
     },
     {
       "id": "aka2026mumomv",
-      "lon": -159.735,
-      "lat": 55.926,
-      "depth": 11.8,
-      "mag": 1.9,
+      "lon": -159.724,
+      "lat": 55.9,
+      "depth": 7.9,
+      "mag": 2,
       "place": "15 km W of Ivanof Bay, Alaska",
-      "time": 1782778718755,
+      "time": 1782778718594,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mumomv"
     },
     {
@@ -2162,36 +2182,6 @@
       "place": "3 km E of Borrego Springs, CA",
       "time": 1782755152210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41283687"
-    },
-    {
-      "id": "tx2026mrygkw",
-      "lon": -102.177,
-      "lat": 32.365,
-      "depth": 8.7158,
-      "mag": 0.6,
-      "place": "33 km ENE of McKinney Acres, Texas",
-      "time": 1782755040613,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mrygkw"
-    },
-    {
-      "id": "ci41283679",
-      "lon": -116.751166666667,
-      "lat": 33.4845,
-      "depth": 9.42,
-      "mag": 0.94,
-      "place": "11 km SW of Anza, CA",
-      "time": 1782754489990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41283679"
-    },
-    {
-      "id": "nc75386411",
-      "lon": -122.847663879395,
-      "lat": 38.852165222168,
-      "depth": 1.54999995231628,
-      "mag": 0.9,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1782754352500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386411"
     }
   ]
 }
