@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T18:31:03Z",
-  "count": 223,
+  "updated": "2026-06-30T18:45:47Z",
+  "count": 225,
   "points": [
+    {
+      "id": "ci41284327",
+      "lon": -117.077833333333,
+      "lat": 34.2136666666667,
+      "depth": 3.05,
+      "mag": 1.08,
+      "place": "3 km ENE of Running Springs, CA",
+      "time": 1782844522350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284327"
+    },
+    {
+      "id": "nc75387056",
+      "lon": -122.841667175293,
+      "lat": 38.828498840332,
+      "depth": -0.589999973773956,
+      "mag": 1.32,
+      "place": "9 km NW of The Geysers, CA",
+      "time": 1782844268230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387056"
+    },
     {
       "id": "aka2026mvwsws",
       "lon": -155.332,
@@ -35,12 +55,12 @@
     },
     {
       "id": "uw714038961",
-      "lon": -119.118499755859,
-      "lat": 46.1629981994629,
-      "depth": 0.649999976158142,
-      "mag": 2.10213339328766,
-      "place": "3 km N of Highland, Washington",
-      "time": 1782842682870,
+      "lon": -119.116166666667,
+      "lat": 46.154,
+      "depth": -0.22,
+      "mag": 1.91,
+      "place": "2 km N of Highland, Washington",
+      "time": 1782842682690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714038961"
     },
     {
@@ -255,12 +275,12 @@
     },
     {
       "id": "hv74993952",
-      "lon": -155.51416015625,
-      "lat": 18.9553337097168,
-      "depth": 41.8699989318848,
-      "mag": 3.19,
-      "place": "14 km SSE of Naalehu, Hawaii",
-      "time": 1782836803470,
+      "lon": -155.559,
+      "lat": 19.0496666666667,
+      "depth": 49.71,
+      "mag": 2.71,
+      "place": "2 km SE of Naalehu, Hawaii",
+      "time": 1782836803180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993952"
     },
     {
@@ -482,6 +502,16 @@
       "place": "7 km SW of Volcano, Hawaii",
       "time": 1782829754360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993902"
+    },
+    {
+      "id": "us6000t977",
+      "lon": 125.9464,
+      "lat": 3.2669,
+      "depth": 56.219,
+      "mag": 4.6,
+      "place": "221 km NNE of Bitung, Indonesia",
+      "time": 1782829607700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t977"
     },
     {
       "id": "nc75386836",
@@ -2222,16 +2252,6 @@
       "place": "234 km SSW of ‘Ohonua, Tonga",
       "time": 1782758836538,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t91x"
-    },
-    {
-      "id": "nc75386421",
-      "lon": -122.159164428711,
-      "lat": 38.1256675720215,
-      "depth": 3.14000010490417,
-      "mag": 2.17,
-      "place": "7 km ENE of Vallejo, CA",
-      "time": 1782758291360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386421"
     }
   ]
 }
