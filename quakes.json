@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T13:15:45Z",
-  "count": 192,
+  "updated": "2026-06-30T13:31:04Z",
+  "count": 193,
   "points": [
+    {
+      "id": "ci41284119",
+      "lon": -116.403,
+      "lat": 33.4513333333333,
+      "depth": 7.89,
+      "mag": 1.03,
+      "place": "22 km N of Borrego Springs, CA",
+      "time": 1782825635090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284119"
+    },
+    {
+      "id": "aka2026mvmnjs",
+      "lon": -148.267,
+      "lat": 62.098,
+      "depth": 31.6,
+      "mag": 1.6,
+      "place": "35 km NNE of Chickaloon, Alaska",
+      "time": 1782825424024,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvmnjs"
+    },
     {
       "id": "ci41284111",
       "lon": -116.437833333333,
@@ -1912,16 +1932,6 @@
       "place": "257 km W of Port Orford, Oregon",
       "time": 1782740334327,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8zp"
-    },
-    {
-      "id": "pr71521953",
-      "lon": -66.8168333333333,
-      "lat": 17.971,
-      "depth": 11.19,
-      "mag": 2.65,
-      "place": "2 km S of Indios, Puerto Rico",
-      "time": 1782739388600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71521953"
     }
   ]
 }
