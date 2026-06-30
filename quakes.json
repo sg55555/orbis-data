@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T00:45:47Z",
-  "count": 228,
+  "updated": "2026-06-30T01:01:11Z",
+  "count": 230,
   "points": [
+    {
+      "id": "ci41283967",
+      "lon": -115.6295,
+      "lat": 33.1618333333333,
+      "depth": 2.37,
+      "mag": 1.26,
+      "place": "11 km WNW of Calipatria, CA",
+      "time": 1782780426320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41283967"
+    },
     {
       "id": "nc75386626",
       "lon": -122.726829528809,
@@ -35,12 +45,12 @@
     },
     {
       "id": "us6000t93x",
-      "lon": -27.0307,
-      "lat": -55.5101,
+      "lon": -27.2192,
+      "lat": -55.5087,
       "depth": 35,
       "mag": 5.1,
       "place": "South Sandwich Islands region",
-      "time": 1782778511912,
+      "time": 1782778512439,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t93x"
     },
     {
@@ -1534,6 +1544,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8xr"
     },
     {
+      "id": "av93062804",
+      "lon": -169.754166666667,
+      "lat": 52.6643333333333,
+      "depth": 6.62,
+      "mag": 1.67,
+      "place": "67 km WSW of Nikolski, Alaska",
+      "time": 1782718527820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062804"
+    },
+    {
       "id": "nn00920893",
       "lon": -119.0585,
       "lat": 39.3155,
@@ -1542,6 +1562,16 @@
       "place": "18 km SE of Silver Springs, Nevada",
       "time": 1782717799770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920893"
+    },
+    {
+      "id": "av94277263",
+      "lon": -152.341333333333,
+      "lat": 61.0313333333333,
+      "depth": 11.1,
+      "mag": 0.26,
+      "place": "65 km W of Tyonek, Alaska",
+      "time": 1782717775450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94277263"
     },
     {
       "id": "nn00920892",
@@ -2272,16 +2302,6 @@
       "place": "2 km N of The Geysers, CA",
       "time": 1782694985340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386041"
-    },
-    {
-      "id": "ci41497552",
-      "lon": -118.372833333333,
-      "lat": 34.1536666666667,
-      "depth": 14.82,
-      "mag": 1.28,
-      "place": "2 km ENE of Studio City, CA",
-      "time": 1782694750160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497552"
     }
   ]
 }
