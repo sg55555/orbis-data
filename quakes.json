@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T01:34:07Z",
-  "count": 238,
+  "updated": "2026-06-30T01:45:41Z",
+  "count": 241,
   "points": [
+    {
+      "id": "ci41283999",
+      "lon": -116.470666666667,
+      "lat": 33.4848333333333,
+      "depth": 11.4,
+      "mag": 0.94,
+      "place": "20 km ESE of Anza, CA",
+      "time": 1782783618190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41283999"
+    },
+    {
+      "id": "nc75386646",
+      "lon": -120.468330383301,
+      "lat": 35.9259986877441,
+      "depth": 5.21999979019165,
+      "mag": 0.19,
+      "place": "5 km NW of Parkfield, CA",
+      "time": 1782783295830,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386646"
+    },
+    {
+      "id": "ci41283991",
+      "lon": -116.714666666667,
+      "lat": 33.5348333333333,
+      "depth": 6.02,
+      "mag": 0.91,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1782783164000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41283991"
+    },
     {
       "id": "nc75386641",
       "lon": -122.812835693359,
@@ -52,6 +82,16 @@
       "place": "23 km N of Borrego Springs, CA",
       "time": 1782781643280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41283983"
+    },
+    {
+      "id": "pr2026181000",
+      "lon": -64.3895,
+      "lat": 19.5731,
+      "depth": 25,
+      "mag": 3.7,
+      "place": "143 km NNE of Cruz Bay, U.S. Virgin Islands",
+      "time": 1782781401150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026181000"
     },
     {
       "id": "us6000t947",
@@ -1334,6 +1374,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mtktkg"
     },
     {
+      "id": "av94277618",
+      "lon": -169.774333333333,
+      "lat": 52.6558333333333,
+      "depth": 8.85,
+      "mag": 1.4,
+      "place": "69 km WSW of Nikolski, Alaska",
+      "time": 1782728504840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94277618"
+    },
+    {
       "id": "aka2026mtkowu",
       "lon": -149.611,
       "lat": 61.214,
@@ -2362,26 +2412,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1782697873720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386086"
-    },
-    {
-      "id": "tx2026mqsjbs",
-      "lon": -104.174,
-      "lat": 31.53,
-      "depth": 0,
-      "mag": 1.2,
-      "place": "43 km WNW of Toyah, Texas",
-      "time": 1782697296890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mqsjbs"
-    },
-    {
-      "id": "us6000t8wf",
-      "lon": -140.6705,
-      "lat": 64.788,
-      "depth": 5.888,
-      "mag": 3.6,
-      "place": "21 km E of Eagle Village, Alaska",
-      "time": 1782696988332,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8wf"
     }
   ]
 }
