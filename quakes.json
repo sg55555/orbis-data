@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T04:45:43Z",
+  "updated": "2026-06-30T05:01:08Z",
   "count": 223,
   "points": [
+    {
+      "id": "aka2026muvpgd",
+      "lon": -149.133,
+      "lat": 64.724,
+      "depth": 0.9,
+      "mag": 1.3,
+      "place": "13 km N of Four Mile Road, Alaska",
+      "time": 1782794965739,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026muvpgd"
+    },
+    {
+      "id": "nc75386691",
+      "lon": -122.744499206543,
+      "lat": 38.7796669006348,
+      "depth": -0.790000021457672,
+      "mag": 0.9,
+      "place": "1 km ENE of The Geysers, CA",
+      "time": 1782794895470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386691"
+    },
     {
       "id": "us6000t94i",
       "lon": 22.6847,
@@ -922,6 +942,16 @@
       "place": "5 km WNW of The Geysers, CA",
       "time": 1782751306350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386376"
+    },
+    {
+      "id": "av94278173",
+      "lon": -155.275333333333,
+      "lat": 58.1855,
+      "depth": 2.37,
+      "mag": -0.19,
+      "place": "84 km NW of Karluk, Alaska",
+      "time": 1782751058370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94278173"
     },
     {
       "id": "av94278168",
@@ -2035,12 +2065,12 @@
     },
     {
       "id": "ci41497616",
-      "lon": -119.156833333333,
-      "lat": 34.5523333333333,
-      "depth": -0.24,
-      "mag": 1.32,
+      "lon": -119.156,
+      "lat": 34.5503333333333,
+      "depth": -0.45,
+      "mag": 1.31,
       "place": "14 km NE of Ojai, CA",
-      "time": 1782713926580,
+      "time": 1782713926590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497616"
     },
     {
@@ -2202,36 +2232,6 @@
       "place": "19 km NNE of Atka, Alaska",
       "time": 1782709329210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94276993"
-    },
-    {
-      "id": "tx2026mqywfq",
-      "lon": -104.333,
-      "lat": 31.655,
-      "depth": 6.1968,
-      "mag": 1.3,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": 1782709084899,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mqywfq"
-    },
-    {
-      "id": "nc75386196",
-      "lon": -122.815498352051,
-      "lat": 38.8311653137207,
-      "depth": 1.22000002861023,
-      "mag": 0.85,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1782708950590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386196"
-    },
-    {
-      "id": "uu80143631",
-      "lon": -111.122666666667,
-      "lat": 39.5173333333333,
-      "depth": 3.03,
-      "mag": 1.1,
-      "place": "10 km WNW of Hiawatha, Utah",
-      "time": 1782708570680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143631"
     }
   ]
 }
