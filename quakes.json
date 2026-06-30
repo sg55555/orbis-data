@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T07:45:48Z",
+  "updated": "2026-06-30T08:01:16Z",
   "count": 214,
   "points": [
+    {
+      "id": "nc75386736",
+      "lon": -120.46900177002,
+      "lat": 35.9238319396973,
+      "depth": 4.44000005722046,
+      "mag": 0.58,
+      "place": "4 km NW of Parkfield, CA",
+      "time": 1782806361700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386736"
+    },
     {
       "id": "ci41284047",
       "lon": -119.205166666667,
@@ -122,6 +132,16 @@
       "place": "55 km S of Whites City, New Mexico",
       "time": 1782797754011,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026msvvkb"
+    },
+    {
+      "id": "tx2026msvutm",
+      "lon": -102.094,
+      "lat": 32.354,
+      "depth": 7.9346,
+      "mag": 1,
+      "place": "38 km NW of Stanton, Texas",
+      "time": 1782797682899,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026msvutm"
     },
     {
       "id": "nc75386701",
@@ -2122,26 +2142,6 @@
       "place": "68 km WSW of Nikolski, Alaska",
       "time": 1782720194120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94277353"
-    },
-    {
-      "id": "nc75386246",
-      "lon": -122.801170349121,
-      "lat": 38.816333770752,
-      "depth": 2.48000001907349,
-      "mag": 0.75,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1782720005920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386246"
-    },
-    {
-      "id": "nc75386241",
-      "lon": -122.806831359863,
-      "lat": 38.8359985351562,
-      "depth": 2.23000001907349,
-      "mag": 0.7,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1782719731210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386241"
     }
   ]
 }
