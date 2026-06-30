@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T12:31:06Z",
+  "updated": "2026-06-30T12:45:54Z",
   "count": 194,
   "points": [
+    {
+      "id": "aka2026mvlend",
+      "lon": -156.475,
+      "lat": 56.167,
+      "depth": 62.3,
+      "mag": 1.8,
+      "place": "120 km E of Chignik, Alaska",
+      "time": 1782823009462,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvlend"
+    },
     {
       "id": "nc75386806",
       "lon": -122.813499450684,
@@ -95,12 +105,12 @@
     },
     {
       "id": "tx2026mtheee",
-      "lon": -98.993,
-      "lat": 28.918,
-      "depth": 7.8061,
-      "mag": 2,
-      "place": "10 km E of North Pearsall, Texas",
-      "time": 1782818244018,
+      "lon": -98.977,
+      "lat": 28.851,
+      "depth": 7.251,
+      "mag": 1.8,
+      "place": "12 km ESE of Pearsall, Texas",
+      "time": 1782818242416,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mtheee"
     },
     {
@@ -1932,16 +1942,6 @@
       "place": "210 km W of Langlois, Oregon",
       "time": 1782737230101,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8z7"
-    },
-    {
-      "id": "us6000t8z3",
-      "lon": 81.3141,
-      "lat": 41.6562,
-      "depth": 10,
-      "mag": 4.8,
-      "place": "101 km ENE of Aksu, China",
-      "time": 1782736384790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8z3"
     }
   ]
 }
