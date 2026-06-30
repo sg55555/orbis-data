@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T16:15:44Z",
-  "count": 202,
+  "updated": "2026-06-30T16:30:57Z",
+  "count": 206,
   "points": [
+    {
+      "id": "hv74993952",
+      "lon": -155.51416015625,
+      "lat": 18.9553337097168,
+      "depth": 41.8699989318848,
+      "mag": 3.19,
+      "place": "14 km SSE of Naalehu, Hawaii",
+      "time": 1782836803470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993952"
+    },
+    {
+      "id": "nc75386981",
+      "lon": -124.417831420898,
+      "lat": 40.3544998168945,
+      "depth": 14.1199998855591,
+      "mag": 2.19,
+      "place": "12 km WNW of Petrolia, CA",
+      "time": 1782836476390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386981"
+    },
+    {
+      "id": "ci41284247",
+      "lon": -116.889333333333,
+      "lat": 34.191,
+      "depth": 1.74,
+      "mag": 2.1,
+      "place": "6 km SSE of Big Bear Lake, CA",
+      "time": 1782836101110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284247"
+    },
     {
       "id": "tx2026mtqtdr",
       "lon": -101.849,
@@ -75,22 +105,32 @@
     },
     {
       "id": "tx2026mtptxi",
-      "lon": -101.49,
-      "lat": 32.097,
-      "depth": 4.6919,
-      "mag": 1.4,
+      "lon": -101.491,
+      "lat": 32.099,
+      "depth": 9.5459,
+      "mag": 1.5,
       "place": "11 km W of Forsan, Texas",
-      "time": 1782833820075,
+      "time": 1782833820718,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mtptxi"
     },
     {
-      "id": "ci41284191",
-      "lon": -117.722833333333,
-      "lat": 35.894,
+      "id": "ci10245558",
+      "lon": -117.719,
+      "lat": 35.896,
       "depth": 7.84,
+      "mag": 0.75,
+      "place": "17 km ESE of Little Lake, CA",
+      "time": 1782833474220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10245558"
+    },
+    {
+      "id": "ci41284191",
+      "lon": -117.722,
+      "lat": 35.8958333333333,
+      "depth": 8.21,
       "mag": 0.93,
       "place": "17 km ESE of Little Lake, CA",
-      "time": 1782833461680,
+      "time": 1782833461640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284191"
     },
     {
@@ -765,13 +805,23 @@
     },
     {
       "id": "uw714038541",
-      "lon": -121.757835388184,
-      "lat": 46.8515014648438,
-      "depth": 0.899999976158142,
-      "mag": 0.769999981,
+      "lon": -121.762,
+      "lat": 46.8521666666667,
+      "depth": 0.63,
+      "mag": 0.72,
       "place": "23 km ENE of Ashford, Washington",
-      "time": 1782800795140,
+      "time": 1782800795170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714038541"
+    },
+    {
+      "id": "uw714038531",
+      "lon": -121.760166666667,
+      "lat": 46.8521666666667,
+      "depth": 1.21,
+      "mag": 0.22,
+      "place": "23 km ENE of Ashford, Washington",
+      "time": 1782800427850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714038531"
     },
     {
       "id": "aka2026muyokn",
@@ -2012,16 +2062,6 @@
       "place": "4 km WSW of Anza, CA",
       "time": 1782750826800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497832"
-    },
-    {
-      "id": "hv74993477",
-      "lon": -155.467498779297,
-      "lat": 19.1870002746582,
-      "depth": 36.7799987792969,
-      "mag": 1.71,
-      "place": "2 km SSE of Pāhala, Hawaii",
-      "time": 1782749787840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993477"
     }
   ]
 }
