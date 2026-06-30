@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T23:30:59Z",
-  "count": 227,
+  "updated": "2026-06-30T23:45:41Z",
+  "count": 232,
   "points": [
+    {
+      "id": "pr71522148",
+      "lon": -66.767,
+      "lat": 18.1283333333333,
+      "depth": 23.06,
+      "mag": 2.22,
+      "place": "6 km SW of Adjuntas, Puerto Rico",
+      "time": 1782861665460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522148"
+    },
     {
       "id": "aka2026mwglzp",
       "lon": -150.811,
@@ -45,12 +55,12 @@
     },
     {
       "id": "ci41284415",
-      "lon": -117.599166666667,
-      "lat": 35.7816666666667,
-      "depth": 10,
+      "lon": -117.592333333333,
+      "lat": 35.7846666666667,
+      "depth": 10.85,
       "mag": 0.58,
-      "place": "18 km W of Searles Valley, CA",
-      "time": 1782858646420,
+      "place": "17 km W of Searles Valley, CA",
+      "time": 1782858646340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284415"
     },
     {
@@ -834,6 +844,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t977"
     },
     {
+      "id": "aka2026mvoplg",
+      "lon": -178.776,
+      "lat": 51.455,
+      "depth": 10.6,
+      "mag": 2.5,
+      "place": "155 km WSW of Adak, Alaska",
+      "time": 1782829161630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvoplg"
+    },
+    {
       "id": "nc75386836",
       "lon": -122.769500732422,
       "lat": 38.787166595459,
@@ -852,6 +872,16 @@
       "place": "6 km WNW of The Geysers, CA",
       "time": 1782828827840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386831"
+    },
+    {
+      "id": "aka2026mvokdi",
+      "lon": -177.964,
+      "lat": 51.8,
+      "depth": 14.9,
+      "mag": 2.9,
+      "place": "92 km W of Adak, Alaska",
+      "time": 1782828795120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvokdi"
     },
     {
       "id": "ci41284151",
@@ -894,6 +924,36 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284127"
     },
     {
+      "id": "aka2026mvmvku",
+      "lon": -177.963,
+      "lat": 51.822,
+      "depth": 12.7,
+      "mag": 2.7,
+      "place": "91 km W of Adak, Alaska",
+      "time": 1782825978117,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvmvku"
+    },
+    {
+      "id": "aka2026mvmutc",
+      "lon": -177.938,
+      "lat": 51.856,
+      "depth": 11.3,
+      "mag": 2.7,
+      "place": "89 km W of Adak, Alaska",
+      "time": 1782825932066,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvmutc"
+    },
+    {
+      "id": "aka2026mvmrme",
+      "lon": -163.95,
+      "lat": 52.698,
+      "depth": 20,
+      "mag": 2.7,
+      "place": "200 km SE of Akutan, Alaska",
+      "time": 1782825693360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvmrme"
+    },
+    {
       "id": "ci41284119",
       "lon": -116.403,
       "lat": 33.4513333333333,
@@ -905,12 +965,12 @@
     },
     {
       "id": "aka2026mvmnjs",
-      "lon": -148.267,
-      "lat": 62.098,
-      "depth": 31.6,
-      "mag": 1.6,
-      "place": "35 km NNE of Chickaloon, Alaska",
-      "time": 1782825424024,
+      "lon": -148.285,
+      "lat": 62.099,
+      "depth": 22.1,
+      "mag": 1.8,
+      "place": "34 km NNE of Chickaloon, Alaska",
+      "time": 1782825423525,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvmnjs"
     },
     {
@@ -2262,16 +2322,6 @@
       "place": "3 km NW of The Geysers, CA",
       "time": 1782776828190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386606"
-    },
-    {
-      "id": "nc75386601",
-      "lon": -122.816497802734,
-      "lat": 38.8245010375977,
-      "depth": 1.19000005722046,
-      "mag": 0.76,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1782776572410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386601"
     }
   ]
 }
