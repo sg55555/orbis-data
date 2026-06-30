@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T10:31:02Z",
-  "count": 201,
+  "updated": "2026-06-30T10:45:42Z",
+  "count": 197,
   "points": [
     {
+      "id": "ci41284079",
+      "lon": -116.085666666667,
+      "lat": 33.7843333333333,
+      "depth": 2.18,
+      "mag": 1.02,
+      "place": "14 km ENE of Indio, CA",
+      "time": 1782815677020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284079"
+    },
+    {
       "id": "ci41284071",
-      "lon": -116.724670410156,
-      "lat": 33.7184982299805,
-      "depth": 18.1700000762939,
-      "mag": 1.33835095415814,
-      "place": "2 km SSW of Idyllwild, CA",
-      "time": 1782815251790,
+      "lon": -116.7375,
+      "lat": 33.7355,
+      "depth": 19.38,
+      "mag": 0.93,
+      "place": "2 km WSW of Idyllwild, CA",
+      "time": 1782815251380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284071"
     },
     {
@@ -1962,56 +1972,6 @@
       "place": "70 km W of Akhiok, Alaska",
       "time": 1782730012491,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mtlmoz"
-    },
-    {
-      "id": "ci41497648",
-      "lon": -116.191,
-      "lat": 33.2158333333333,
-      "depth": 9.91,
-      "mag": 0.79,
-      "place": "10 km NW of Ocotillo Wells, CA",
-      "time": 1782729703270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497648"
-    },
-    {
-      "id": "nc75386286",
-      "lon": -122.808166503906,
-      "lat": 38.8366661071777,
-      "depth": 1.97000002861023,
-      "mag": 1.54,
-      "place": "8 km WNW of Cobb, CA",
-      "time": 1782729533590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386286"
-    },
-    {
-      "id": "tx2026mrkdrd",
-      "lon": -103.244,
-      "lat": 32.011,
-      "depth": 6.5356,
-      "mag": 1.1,
-      "place": "12 km SSW of Jal, New Mexico",
-      "time": 1782729506137,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mrkdrd"
-    },
-    {
-      "id": "av94277643",
-      "lon": -169.7605,
-      "lat": 52.6756666666667,
-      "depth": 7.55,
-      "mag": 1.16,
-      "place": "67 km WSW of Nikolski, Alaska",
-      "time": 1782729273420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94277643"
-    },
-    {
-      "id": "pr2026180000",
-      "lon": -64.4973,
-      "lat": 19.6011,
-      "depth": 36,
-      "mag": 3.89,
-      "place": "143 km NNE of Cruz Bay, U.S. Virgin Islands",
-      "time": 1782729064600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026180000"
     }
   ]
 }
