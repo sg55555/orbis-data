@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T10:45:42Z",
-  "count": 197,
+  "updated": "2026-06-30T11:01:10Z",
+  "count": 198,
   "points": [
+    {
+      "id": "nc75386786",
+      "lon": -122.758163452148,
+      "lat": 38.7941665649414,
+      "depth": 1.07000005245209,
+      "mag": 0.41,
+      "place": "2 km N of The Geysers, CA",
+      "time": 1782816876730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386786"
+    },
+    {
+      "id": "nn00920940",
+      "lon": -119.0472,
+      "lat": 39.3261,
+      "depth": 9.6859,
+      "mag": 2.19,
+      "place": "18 km ESE of Silver Springs, Nevada",
+      "time": 1782816620491,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920940"
+    },
     {
       "id": "ci41284079",
       "lon": -116.085666666667,
@@ -642,6 +662,16 @@
       "place": "15 km NW of Akhiok, Alaska",
       "time": 1782779555295,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026munaoi"
+    },
+    {
+      "id": "tx2026mslpcd",
+      "lon": -103.369,
+      "lat": 31.943,
+      "depth": 5.6256,
+      "mag": 1.1,
+      "place": "25 km SW of Jal, New Mexico",
+      "time": 1782779169659,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mslpcd"
     },
     {
       "id": "aka2026mumomv",
@@ -1952,26 +1982,6 @@
       "place": "27 km N of Caraballeda, Venezuela",
       "time": 1782730863516,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
-    },
-    {
-      "id": "ci41497656",
-      "lon": -117.588166666667,
-      "lat": 35.7696666666667,
-      "depth": 5.53,
-      "mag": 1.34,
-      "place": "17 km W of Searles Valley, CA",
-      "time": 1782730355030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497656"
-    },
-    {
-      "id": "aka2026mtlmoz",
-      "lon": -155.321,
-      "lat": 57.056,
-      "depth": 8.6,
-      "mag": 1.7,
-      "place": "70 km W of Akhiok, Alaska",
-      "time": 1782730012491,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mtlmoz"
     }
   ]
 }
