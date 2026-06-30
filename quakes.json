@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T20:01:08Z",
-  "count": 231,
+  "updated": "2026-06-30T20:15:45Z",
+  "count": 229,
   "points": [
+    {
+      "id": "ci41284383",
+      "lon": -117.508666666667,
+      "lat": 33.8706666666667,
+      "depth": 1.96,
+      "mag": 1.15,
+      "place": "1 km SE of Home Gardens, CA",
+      "time": 1782850202550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284383"
+    },
+    {
+      "id": "aka2026mwaead",
+      "lon": -156.221,
+      "lat": 57.372,
+      "depth": 82,
+      "mag": 1.4,
+      "place": "72 km ESE of Ugashik, Alaska",
+      "time": 1782849961508,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mwaead"
+    },
+    {
+      "id": "aka2026mvzysm",
+      "lon": -146.612,
+      "lat": 61.423,
+      "depth": 26.5,
+      "mag": 2.2,
+      "place": "35 km NNW of Valdez, Alaska",
+      "time": 1782849596702,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvzysm"
+    },
     {
       "id": "tx2026mtycjh",
       "lon": -101.184,
@@ -12,6 +42,16 @@
       "place": "21 km NW of Westbrook, Texas",
       "time": 1782848897343,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mtycjh"
+    },
+    {
+      "id": "us6000t99j",
+      "lon": -108.9285,
+      "lat": 24.8239,
+      "depth": 10,
+      "mag": 6,
+      "place": "75 km SSW of El Progreso, Mexico",
+      "time": 1782848740116,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t99j"
     },
     {
       "id": "aka2026mvzlxy",
@@ -364,16 +404,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mtrvpp"
     },
     {
-      "id": "tx2026mtrulz",
-      "lon": -103.485,
-      "lat": 31.141,
-      "depth": 0,
-      "mag": 1.6,
-      "place": "25 km SSE of Lindsay, Texas",
-      "time": 1782837481953,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mtrulz"
-    },
-    {
       "id": "hv74993967",
       "lon": -155.357666015625,
       "lat": 19.0633335113525,
@@ -382,16 +412,6 @@
       "place": "20 km SE of Pāhala, Hawaii",
       "time": 1782837381910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993967"
-    },
-    {
-      "id": "tx2026mtrsnd",
-      "lon": -103.66,
-      "lat": 30.924,
-      "depth": 0,
-      "mag": 1.8,
-      "place": "10 km SE of Balmorhea, Texas",
-      "time": 1782837347089,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mtrsnd"
     },
     {
       "id": "aka2026mvtccs",
@@ -2272,46 +2292,6 @@
       "place": "16 km SE of Pinnacles, CA",
       "time": 1782764172190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386466"
-    },
-    {
-      "id": "ci41283783",
-      "lon": -117.802833333333,
-      "lat": 35.3031666666667,
-      "depth": 7.06,
-      "mag": 1.17,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1782763668180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41283783"
-    },
-    {
-      "id": "nc75386461",
-      "lon": -122.854164123535,
-      "lat": 38.8066673278809,
-      "depth": 21.2600002288818,
-      "mag": 1.05,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": 1782763609520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386461"
-    },
-    {
-      "id": "nc75386456",
-      "lon": -122.78450012207,
-      "lat": 38.8359985351562,
-      "depth": 1.3400000333786,
-      "mag": 0.7,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1782763305060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386456"
-    },
-    {
-      "id": "av93062859",
-      "lon": -152.236,
-      "lat": 61.2783333333333,
-      "depth": 3.13,
-      "mag": -0.56,
-      "place": "63 km WNW of Tyonek, Alaska",
-      "time": 1782763260080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062859"
     }
   ]
 }
