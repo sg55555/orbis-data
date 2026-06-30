@@ -1,6 +1,6 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T22:15:42Z",
+  "updated": "2026-06-30T22:31:02Z",
   "count": 223,
   "points": [
     {
@@ -12,6 +12,16 @@
       "place": "31 km SSW of Alamo, Nevada",
       "time": 1782855480356,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920970"
+    },
+    {
+      "id": "us6000t9ad",
+      "lon": 125.3372,
+      "lat": 5.6529,
+      "depth": 76.086,
+      "mag": 4.9,
+      "place": "8 km SE of Pangyan, Philippines",
+      "time": 1782855293425,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ad"
     },
     {
       "id": "nn00920969",
@@ -1814,6 +1824,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026muquco"
     },
     {
+      "id": "av93062929",
+      "lon": -165.974666666667,
+      "lat": 54.1238333333333,
+      "depth": 12.97,
+      "mag": -0.69,
+      "place": "13 km W of Akutan, Alaska",
+      "time": 1782786096610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062929"
+    },
+    {
+      "id": "av93062919",
+      "lon": -165.981833333333,
+      "lat": 54.0838333333333,
+      "depth": 14.19,
+      "mag": -0.54,
+      "place": "14 km WSW of Akutan, Alaska",
+      "time": 1782785723270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062919"
+    },
+    {
       "id": "av93062904",
       "lon": -166.027333333333,
       "lat": 54.0871666666667,
@@ -1835,12 +1865,12 @@
     },
     {
       "id": "av93062894",
-      "lon": -165.971333333333,
-      "lat": 54.1235,
-      "depth": 9.28,
+      "lon": -165.9725,
+      "lat": 54.1261666666667,
+      "depth": 9.53,
       "mag": -0.79,
       "place": "12 km W of Akutan, Alaska",
-      "time": 1782784812520,
+      "time": 1782784812480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062894"
     },
     {
@@ -2202,36 +2232,6 @@
       "place": "17 km SE of Chickaloon, Alaska",
       "time": 1782772790483,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mujguq"
-    },
-    {
-      "id": "pr71522023",
-      "lon": -66.9953333333333,
-      "lat": 17.9818333333333,
-      "depth": 8.96,
-      "mag": 2.14,
-      "place": "5 km E of La Parguera, Puerto Rico",
-      "time": 1782772058220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522023"
-    },
-    {
-      "id": "aka2026muiulm",
-      "lon": -153.295,
-      "lat": 59.701,
-      "depth": 113.3,
-      "mag": 1.2,
-      "place": "46 km ESE of Pedro Bay, Alaska",
-      "time": 1782771935968,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026muiulm"
-    },
-    {
-      "id": "ci41283895",
-      "lon": -117.08,
-      "lat": 34.212,
-      "depth": 4.44,
-      "mag": 0.88,
-      "place": "3 km E of Running Springs, CA",
-      "time": 1782771886080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41283895"
     }
   ]
 }
