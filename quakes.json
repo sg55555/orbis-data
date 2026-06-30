@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T18:45:47Z",
-  "count": 225,
+  "updated": "2026-06-30T19:01:08Z",
+  "count": 227,
   "points": [
+    {
+      "id": "nc75387076",
+      "lon": -122.816665649414,
+      "lat": 38.8371658325195,
+      "depth": 1.97000002861023,
+      "mag": 0.45,
+      "place": "8 km WNW of Cobb, CA",
+      "time": 1782845801680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387076"
+    },
+    {
+      "id": "hv74994057",
+      "lon": -155.371505737305,
+      "lat": 19.1318340301514,
+      "depth": 28.9099998474121,
+      "mag": 1.74,
+      "place": "13 km SE of Pāhala, Hawaii",
+      "time": 1782845489280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994057"
+    },
+    {
+      "id": "nc75387066",
+      "lon": -122.768836975098,
+      "lat": 38.7923316955566,
+      "depth": 4.23999977111816,
+      "mag": 0.74,
+      "place": "2 km NNW of The Geysers, CA",
+      "time": 1782845102430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387066"
+    },
     {
       "id": "ci41284327",
       "lon": -117.077833333333,
@@ -67,7 +97,7 @@
       "id": "tx2026mtuoqz",
       "lon": -104.368,
       "lat": 31.762,
-      "depth": 4.1438,
+      "depth": 4.1389,
       "mag": 0.9,
       "place": "45 km S of Whites City, New Mexico",
       "time": 1782842510846,
@@ -442,6 +472,16 @@
       "place": "9 km ENE of Morgan Hill, CA",
       "time": 1782832532300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386901"
+    },
+    {
+      "id": "us6000t97h",
+      "lon": -26.949,
+      "lat": -56.0388,
+      "depth": 57.943,
+      "mag": 4.9,
+      "place": "South Sandwich Islands region",
+      "time": 1782832517435,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t97h"
     },
     {
       "id": "hv74993922",
@@ -2232,26 +2272,6 @@
       "place": "21 km ESE of Naalehu, Hawaii",
       "time": 1782760344910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993527"
-    },
-    {
-      "id": "us6000t93t",
-      "lon": 176.2146,
-      "lat": 51.9451,
-      "depth": 11.218,
-      "mag": 3.9,
-      "place": "229 km ESE of Attu Station, Alaska",
-      "time": 1782758914396,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t93t"
-    },
-    {
-      "id": "us6000t91x",
-      "lon": -175.4452,
-      "lat": -23.414,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "234 km SSW of ‘Ohonua, Tonga",
-      "time": 1782758836538,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t91x"
     }
   ]
 }
