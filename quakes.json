@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T13:31:04Z",
-  "count": 193,
+  "updated": "2026-06-30T13:45:49Z",
+  "count": 195,
   "points": [
+    {
+      "id": "ci41284135",
+      "lon": -117.445833333333,
+      "lat": 35.6343333333333,
+      "depth": 9.07,
+      "mag": 0.59,
+      "place": "15 km SSW of Searles Valley, CA",
+      "time": 1782826602410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284135"
+    },
+    {
+      "id": "ci41284127",
+      "lon": -117.8205,
+      "lat": 35.3093333333333,
+      "depth": 8.2,
+      "mag": 1.13,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": 1782826420490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284127"
+    },
     {
       "id": "ci41284119",
       "lon": -116.403,
@@ -62,6 +82,16 @@
       "place": "16 km NNE of Indio, CA",
       "time": 1782823886670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284103"
+    },
+    {
+      "id": "us6000t96r",
+      "lon": 131.3868,
+      "lat": 28.9088,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "168 km SSE of Koshima, Japan",
+      "time": 1782823196740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t96r"
     },
     {
       "id": "aka2026mvlend",
@@ -1922,16 +1952,6 @@
       "place": "3 km SSW of Pāhala, Hawaii",
       "time": 1782740923580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993442"
-    },
-    {
-      "id": "us6000t8zp",
-      "lon": -127.6256,
-      "lat": 43.0357,
-      "depth": 10,
-      "mag": 3.4,
-      "place": "257 km W of Port Orford, Oregon",
-      "time": 1782740334327,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8zp"
     }
   ]
 }
