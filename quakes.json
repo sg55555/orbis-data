@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T07:15:45Z",
-  "count": 219,
+  "updated": "2026-06-30T07:30:59Z",
+  "count": 217,
   "points": [
+    {
+      "id": "ci41284047",
+      "lon": -119.205166666667,
+      "lat": 34.4665,
+      "depth": 6.95,
+      "mag": 0.98,
+      "place": "4 km ENE of Ojai, CA",
+      "time": 1782804071680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284047"
+    },
     {
       "id": "nc75386716",
       "lon": -122.72216796875,
@@ -105,12 +115,12 @@
     },
     {
       "id": "tx2026msvvkb",
-      "lon": -104.437,
-      "lat": 31.646,
-      "depth": 3.6407,
-      "mag": 2.2,
-      "place": "59 km S of Whites City, New Mexico",
-      "time": 1782797753971,
+      "lon": -104.404,
+      "lat": 31.673,
+      "depth": 6.0999,
+      "mag": 2,
+      "place": "55 km S of Whites City, New Mexico",
+      "time": 1782797754011,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026msvvkb"
     },
     {
@@ -232,6 +242,16 @@
       "place": "5 km NW of The Geysers, CA",
       "time": 1782788317930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386671"
+    },
+    {
+      "id": "tx2026msqmjx",
+      "lon": -104.305,
+      "lat": 31.692,
+      "depth": 6.9458,
+      "mag": 1.7,
+      "place": "54 km S of Whites City, New Mexico",
+      "time": 1782788041082,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026msqmjx"
     },
     {
       "id": "ci41284015",
@@ -2152,46 +2172,6 @@
       "place": "67 km WSW of Nikolski, Alaska",
       "time": 1782718527820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062804"
-    },
-    {
-      "id": "nn00920893",
-      "lon": -119.0585,
-      "lat": 39.3155,
-      "depth": 8.2061,
-      "mag": 2.23,
-      "place": "18 km SE of Silver Springs, Nevada",
-      "time": 1782717799770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920893"
-    },
-    {
-      "id": "av94277263",
-      "lon": -152.341333333333,
-      "lat": 61.0313333333333,
-      "depth": 11.1,
-      "mag": 0.26,
-      "place": "65 km W of Tyonek, Alaska",
-      "time": 1782717775450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94277263"
-    },
-    {
-      "id": "nn00920892",
-      "lon": -119.0821,
-      "lat": 39.335,
-      "depth": 13.4187,
-      "mag": 1.87,
-      "place": "15 km SE of Silver Springs, Nevada",
-      "time": 1782717775280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920892"
-    },
-    {
-      "id": "us6000t8xp",
-      "lon": 126.2952,
-      "lat": 1.285,
-      "depth": 35,
-      "mag": 4.6,
-      "place": "131 km E of Bitung, Indonesia",
-      "time": 1782717590329,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8xp"
     }
   ]
 }
