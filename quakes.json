@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T20:45:42Z",
-  "count": 224,
+  "updated": "2026-06-30T21:01:13Z",
+  "count": 223,
   "points": [
+    {
+      "id": "aka2026mwbjwv",
+      "lon": -148.178,
+      "lat": 62.2,
+      "depth": 5,
+      "mag": 2.1,
+      "place": "47 km NNE of Chickaloon, Alaska",
+      "time": 1782852241920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mwbjwv"
+    },
     {
       "id": "aka2026mwaugs",
       "lon": -149.13,
@@ -245,12 +255,12 @@
     },
     {
       "id": "uw714038961",
-      "lon": -119.116166666667,
-      "lat": 46.154,
+      "lon": -119.114,
+      "lat": 46.1551666666667,
       "depth": -0.22,
-      "mag": 1.91,
+      "mag": 2.06,
       "place": "2 km N of Highland, Washington",
-      "time": 1782842682690,
+      "time": 1782842682700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714038961"
     },
     {
@@ -1255,9 +1265,9 @@
     },
     {
       "id": "uw714038591",
-      "lon": -121.668,
+      "lon": -121.667833333333,
       "lat": 48.2541666666667,
-      "depth": 9.08,
+      "depth": 9.04,
       "mag": 1.25,
       "place": "4 km W of Darrington, Washington",
       "time": 1782805544250,
@@ -2222,26 +2232,6 @@
       "place": "4 km NW of Orocovis, Puerto Rico",
       "time": 1782767556600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522003"
-    },
-    {
-      "id": "ci41283831",
-      "lon": -118.883333333333,
-      "lat": 34.5831666666667,
-      "depth": 2.07,
-      "mag": 1.6,
-      "place": "20 km NNW of Piru, CA",
-      "time": 1782766460560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41283831"
-    },
-    {
-      "id": "av94278523",
-      "lon": -178.691666666667,
-      "lat": 51.7276666666667,
-      "depth": 11.02,
-      "mag": 1.19,
-      "place": "142 km W of Adak, Alaska",
-      "time": 1782765928660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94278523"
     }
   ]
 }
