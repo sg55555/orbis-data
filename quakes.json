@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-06-30T14:15:49Z",
+  "updated": "2026-06-30T14:31:05Z",
   "count": 195,
   "points": [
+    {
+      "id": "nc75386836",
+      "lon": -122.769500732422,
+      "lat": 38.787166595459,
+      "depth": 3.63000011444092,
+      "mag": 1.06,
+      "place": "2 km NW of The Geysers, CA",
+      "time": 1782828968410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386836"
+    },
     {
       "id": "nc75386831",
       "lon": -122.819000244141,
@@ -24,13 +34,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284151"
     },
     {
+      "id": "us6000t973",
+      "lon": 142.3618,
+      "lat": 40.16,
+      "depth": 62.767,
+      "mag": 4.8,
+      "place": "46 km E of Noda, Japan",
+      "time": 1782828143783,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t973"
+    },
+    {
       "id": "ci41284135",
-      "lon": -117.445833333333,
-      "lat": 35.6343333333333,
-      "depth": 9.07,
-      "mag": 0.59,
-      "place": "15 km SSW of Searles Valley, CA",
-      "time": 1782826602410,
+      "lon": -117.451166666667,
+      "lat": 35.653,
+      "depth": 8.55,
+      "mag": 0.43,
+      "place": "13 km SSW of Searles Valley, CA",
+      "time": 1782826602670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284135"
     },
     {
@@ -192,16 +212,6 @@
       "place": "23 km ESE of Naalehu, Hawaii",
       "time": 1782819296520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993857"
-    },
-    {
-      "id": "tx2026mthsnb",
-      "lon": -104.445,
-      "lat": 31.65,
-      "depth": 0.3794,
-      "mag": 0.3,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": 1782819246787,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mthsnb"
     },
     {
       "id": "ci41284087",
@@ -505,12 +515,12 @@
     },
     {
       "id": "ci41284047",
-      "lon": -119.205166666667,
-      "lat": 34.4665,
-      "depth": 6.95,
-      "mag": 0.98,
-      "place": "4 km ENE of Ojai, CA",
-      "time": 1782804071680,
+      "lon": -119.216333333333,
+      "lat": 34.4525,
+      "depth": 10.66,
+      "mag": 0.88,
+      "place": "2 km ENE of Ojai, CA",
+      "time": 1782804071390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284047"
     },
     {
@@ -1942,16 +1952,6 @@
       "place": "6 km WSW of Yucaipa, CA",
       "time": 1782745144080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41497736"
-    },
-    {
-      "id": "tx2026mrrjhi",
-      "lon": -103.766,
-      "lat": 31.417,
-      "depth": 3.6646,
-      "mag": 1.1,
-      "place": "11 km NNE of Toyah, Texas",
-      "time": 1782742568930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mrrjhi"
     }
   ]
 }
