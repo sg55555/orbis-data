@@ -1,16 +1,56 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T11:30:59Z",
-  "count": 256,
+  "updated": "2026-07-01T11:45:59Z",
+  "count": 255,
   "points": [
     {
+      "id": "ci41284719",
+      "lon": -117.807662963867,
+      "lat": 35.3058319091797,
+      "depth": 6.51999998092651,
+      "mag": 1.83206445429962,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1782906211230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284719"
+    },
+    {
+      "id": "ci41284711",
+      "lon": -115.353166666667,
+      "lat": 32.2688333333333,
+      "depth": 1.95,
+      "mag": 2.19,
+      "place": "18 km WSW of Delta, B.C., MX",
+      "time": 1782905886880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284711"
+    },
+    {
+      "id": "ci41284703",
+      "lon": -117.804333333333,
+      "lat": 35.3081666666667,
+      "depth": 7.08,
+      "mag": 1.95,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1782905671620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284703"
+    },
+    {
+      "id": "ci41284695",
+      "lon": -117.802166666667,
+      "lat": 35.3093333333333,
+      "depth": 6.95,
+      "mag": 2.09,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1782905454210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284695"
+    },
+    {
       "id": "tx2026mvdbvd",
-      "lon": -101.915,
-      "lat": 32.121,
-      "depth": 3.3948,
-      "mag": 3,
-      "place": "11 km W of Stanton, Texas",
-      "time": 1782904977123,
+      "lon": -101.92,
+      "lat": 32.123,
+      "depth": 7.2998,
+      "mag": 2.9,
+      "place": "12 km W of Stanton, Texas",
+      "time": 1782904977446,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mvdbvd"
     },
     {
@@ -192,16 +232,6 @@
       "place": "3 km S of Cobb, CA",
       "time": 1782897751700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387416"
-    },
-    {
-      "id": "tx2026muyxyq",
-      "lon": -104.511,
-      "lat": 31.622,
-      "depth": 1.8726,
-      "mag": 1.7,
-      "place": "62 km SSW of Whites City, New Mexico",
-      "time": 1782897477542,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026muyxyq"
     },
     {
       "id": "us6000t9dl",
@@ -2522,46 +2552,6 @@
       "place": "84 km W of Adak, Alaska",
       "time": 1782820314468,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvjroj"
-    },
-    {
-      "id": "nc75386796",
-      "lon": -122.783996582031,
-      "lat": 38.8311653137207,
-      "depth": 2.52999997138977,
-      "mag": 0.83,
-      "place": "5 km W of Cobb, CA",
-      "time": 1782819686260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386796"
-    },
-    {
-      "id": "aka2026mvjgvu",
-      "lon": -151.349,
-      "lat": 58.218,
-      "depth": 12.8,
-      "mag": 2.2,
-      "place": "75 km ENE of Ouzinkie, Alaska",
-      "time": 1782819592942,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvjgvu"
-    },
-    {
-      "id": "av94279848",
-      "lon": -178.853833333333,
-      "lat": 51.79,
-      "depth": 15,
-      "mag": 0.46,
-      "place": "153 km W of Adak, Alaska",
-      "time": 1782819456490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94279848"
-    },
-    {
-      "id": "hv74993857",
-      "lon": -155.3681640625,
-      "lat": 19.0156669616699,
-      "depth": 30.6599998474121,
-      "mag": 2.24,
-      "place": "23 km ESE of Naalehu, Hawaii",
-      "time": 1782819296520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993857"
     }
   ]
 }
