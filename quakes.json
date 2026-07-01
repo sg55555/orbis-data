@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T08:15:44Z",
-  "count": 256,
+  "updated": "2026-07-01T08:31:00Z",
+  "count": 252,
   "points": [
+    {
+      "id": "ci41284607",
+      "lon": -117.491833333333,
+      "lat": 35.6841666666667,
+      "depth": 5.74,
+      "mag": 0.9,
+      "place": "12 km SW of Searles Valley, CA",
+      "time": 1782894132710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284607"
+    },
     {
       "id": "nc75387396",
       "lon": -122.818832397461,
@@ -2512,56 +2522,6 @@
       "place": "60 km E of Pedro Bay, Alaska",
       "time": 1782808864623,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvdicx"
-    },
-    {
-      "id": "us6000t961",
-      "lon": -177.6667,
-      "lat": -20.3976,
-      "depth": 526.733,
-      "mag": 4.4,
-      "place": "260 km WNW of Houma, Tonga",
-      "time": 1782808061742,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t961"
-    },
-    {
-      "id": "nc75386746",
-      "lon": -122.823829650879,
-      "lat": 38.8404998779297,
-      "depth": 2,
-      "mag": 1,
-      "place": "9 km WNW of Cobb, CA",
-      "time": 1782807892750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386746"
-    },
-    {
-      "id": "hv74993757",
-      "lon": -155.421997070312,
-      "lat": 19.1746673583984,
-      "depth": 37.7599983215332,
-      "mag": 1.7,
-      "place": "6 km ESE of Pāhala, Hawaii",
-      "time": 1782807821520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993757"
-    },
-    {
-      "id": "hv74993752",
-      "lon": -155.478164672852,
-      "lat": 19.1338329315186,
-      "depth": 28.8299999237061,
-      "mag": 1.87,
-      "place": "7 km S of Pāhala, Hawaii",
-      "time": 1782807673060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993752"
-    },
-    {
-      "id": "nc75386741",
-      "lon": -118.814498901367,
-      "lat": 37.4558334350586,
-      "depth": -0.839999973773956,
-      "mag": 1.4,
-      "place": "17 km SW of Toms Place, CA",
-      "time": 1782807407480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386741"
     }
   ]
 }
