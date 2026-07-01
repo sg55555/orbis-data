@@ -1,13 +1,23 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T07:01:13Z",
-  "count": 254,
+  "updated": "2026-07-01T07:15:47Z",
+  "count": 252,
   "points": [
+    {
+      "id": "nc75387361",
+      "lon": -122.804664611816,
+      "lat": 38.8216667175293,
+      "depth": 3.3199999332428,
+      "mag": 1.65,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1782889928750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387361"
+    },
     {
       "id": "tx2026muublw",
       "lon": -104.447,
       "lat": 31.619,
-      "depth": 3.3453,
+      "depth": 3.3457,
       "mag": 1.8,
       "place": "62 km S of Whites City, New Mexico",
       "time": 1782888659055,
@@ -1604,6 +1614,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284151"
     },
     {
+      "id": "av94280138",
+      "lon": -177.919666666667,
+      "lat": 51.8568333333333,
+      "depth": 2.79,
+      "mag": 0.85,
+      "place": "88 km W of Adak, Alaska",
+      "time": 1782828234430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94280138"
+    },
+    {
       "id": "us6000t973",
       "lon": 142.3618,
       "lat": 40.16,
@@ -2502,46 +2522,6 @@
       "place": "26 km SSW of Ivanof Bay, Alaska",
       "time": 1782803767841,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvamml"
-    },
-    {
-      "id": "av93063019",
-      "lon": -159.7075,
-      "lat": 56.0588333333333,
-      "depth": 23.9,
-      "mag": 0.7,
-      "place": "22 km NW of Ivanof Bay, Alaska",
-      "time": 1782803672430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063019"
-    },
-    {
-      "id": "av94279473",
-      "lon": -159.709166666667,
-      "lat": 55.9671666666667,
-      "depth": 20.48,
-      "mag": 0.44,
-      "place": "15 km WNW of Ivanof Bay, Alaska",
-      "time": 1782803657870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94279473"
-    },
-    {
-      "id": "nc75386716",
-      "lon": -122.72216796875,
-      "lat": 38.7571678161621,
-      "depth": 2.67000007629395,
-      "mag": 1.6,
-      "place": "3 km SW of Anderson Springs, CA",
-      "time": 1782803204460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386716"
-    },
-    {
-      "id": "aka2026mvaatw",
-      "lon": -143.224,
-      "lat": 60.207,
-      "depth": 1.2,
-      "mag": 1.8,
-      "place": "137 km S of McCarthy, Alaska",
-      "time": 1782802959171,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvaatw"
     }
   ]
 }
