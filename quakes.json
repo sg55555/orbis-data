@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T17:45:44Z",
-  "count": 256,
+  "updated": "2026-07-01T18:01:08Z",
+  "count": 255,
   "points": [
+    {
+      "id": "tx2026mvqbse",
+      "lon": -104.398,
+      "lat": 31.463,
+      "depth": 0,
+      "mag": 1.2,
+      "place": "59 km WNW of Toyah, Texas",
+      "time": 1782928504619,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mvqbse"
+    },
     {
       "id": "nc75387636",
       "lon": -122.732330322266,
@@ -55,12 +65,12 @@
     },
     {
       "id": "hv74994612",
-      "lon": -155.497329711914,
-      "lat": 19.1706657409668,
-      "depth": 31.5699996948242,
-      "mag": 2.66,
-      "place": "4 km SSW of Pāhala, Hawaii",
-      "time": 1782925982770,
+      "lon": -155.494166666667,
+      "lat": 19.181,
+      "depth": 31.97,
+      "mag": 2.69,
+      "place": "2 km SW of Pāhala, Hawaii",
+      "time": 1782925982820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994612"
     },
     {
@@ -85,12 +95,12 @@
     },
     {
       "id": "nn00921005",
-      "lon": -118.913,
-      "lat": 39.3096,
-      "depth": 0.0149,
-      "mag": 1.9,
-      "place": "20 km SW of Fallon Station, Nevada",
-      "time": 1782923614195,
+      "lon": -119.016,
+      "lat": 39.3438,
+      "depth": 6.9815,
+      "mag": 1.93,
+      "place": "19 km ESE of Silver Springs, Nevada",
+      "time": 1782923616604,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921005"
     },
     {
@@ -2494,6 +2504,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387056"
     },
     {
+      "id": "av94280523",
+      "lon": -155.522666666667,
+      "lat": 58.2355,
+      "depth": 2.67,
+      "mag": -0.33,
+      "place": "83 km SE of King Salmon, Alaska",
+      "time": 1782843842860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94280523"
+    },
+    {
+      "id": "av94280518",
+      "lon": -155.358166666667,
+      "lat": 58.1721666666667,
+      "depth": 1.74,
+      "mag": 0.13,
+      "place": "85 km NW of Karluk, Alaska",
+      "time": 1782843793940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94280518"
+    },
+    {
       "id": "ci41284287",
       "lon": -116.858,
       "lat": 34.3425,
@@ -2522,46 +2552,6 @@
       "place": "2 km N of Highland, Washington",
       "time": 1782842682700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714038961"
-    },
-    {
-      "id": "ci41284279",
-      "lon": -115.0015,
-      "lat": 33.0608333333333,
-      "depth": -0.2,
-      "mag": 0.98,
-      "place": "45 km NE of Holtville, CA",
-      "time": 1782842450720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284279"
-    },
-    {
-      "id": "hv74994017",
-      "lon": -155.267837524414,
-      "lat": 19.4036674499512,
-      "depth": 6.05999994277954,
-      "mag": 1.8,
-      "place": "5 km SW of Volcano, Hawaii",
-      "time": 1782842032040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994017"
-    },
-    {
-      "id": "aka2026mvvqlb",
-      "lon": -159.06,
-      "lat": 55.59,
-      "depth": 52.4,
-      "mag": 2.8,
-      "place": "36 km S of Perryville, Alaska",
-      "time": 1782841826188,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvvqlb"
-    },
-    {
-      "id": "nc75387031",
-      "lon": -122.843170166016,
-      "lat": 38.8523330688477,
-      "depth": 3.29999995231628,
-      "mag": 0.28,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1782841662230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387031"
     }
   ]
 }
