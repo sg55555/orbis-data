@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T01:45:45Z",
+  "updated": "2026-07-01T02:01:04Z",
   "count": 234,
   "points": [
+    {
+      "id": "aka2026mwllqa",
+      "lon": -158.617,
+      "lat": 55.837,
+      "depth": 60.5,
+      "mag": 1.5,
+      "place": "34 km ESE of Perryville, Alaska",
+      "time": 1782870279978,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mwllqa"
+    },
     {
       "id": "aka2026mwlaev",
       "lon": -152.374,
@@ -195,12 +205,12 @@
     },
     {
       "id": "us6000t9bg",
-      "lon": 95.4269,
-      "lat": 37.816,
+      "lon": 95.342,
+      "lat": 37.8705,
       "depth": 10,
-      "mag": 5.2,
-      "place": "268 km SSE of Dunhuang, China",
-      "time": 1782863095421,
+      "mag": 5.5,
+      "place": "261 km SSE of Dunhuang, China",
+      "time": 1782863094864,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9bg"
     },
     {
@@ -662,6 +672,16 @@
       "place": "11 km WNW of Cobb, CA",
       "time": 1782841662230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387031"
+    },
+    {
+      "id": "aka2026mvvkxh",
+      "lon": -170.436,
+      "lat": 51.859,
+      "depth": 9.1,
+      "mag": 3.5,
+      "place": "161 km SW of Nikolski, Alaska",
+      "time": 1782841441438,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvvkxh"
     },
     {
       "id": "aka2026mvvjqf",
@@ -2322,26 +2342,6 @@
       "place": "13 km W of Akutan, Alaska",
       "time": 1782785014160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062899"
-    },
-    {
-      "id": "av93062894",
-      "lon": -165.971666666667,
-      "lat": 54.126,
-      "depth": 9.54,
-      "mag": -0.77,
-      "place": "12 km W of Akutan, Alaska",
-      "time": 1782784812480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062894"
-    },
-    {
-      "id": "ci41284007",
-      "lon": -117.8115,
-      "lat": 35.3098333333333,
-      "depth": 7.91,
-      "mag": 1.72,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1782784010800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284007"
     }
   ]
 }
