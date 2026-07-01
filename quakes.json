@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T19:01:08Z",
-  "count": 254,
+  "updated": "2026-07-01T19:15:46Z",
+  "count": 251,
   "points": [
+    {
+      "id": "tx2026mvsaso",
+      "lon": -103.746,
+      "lat": 32.155,
+      "depth": 0,
+      "mag": 1.3,
+      "place": "31 km ESE of Malaga, New Mexico",
+      "time": 1782932053858,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mvsaso"
+    },
     {
       "id": "nc75387661",
       "lon": -122.791999816895,
@@ -60,7 +70,7 @@
       "depth": 0,
       "mag": 1.2,
       "place": "59 km WNW of Toyah, Texas",
-      "time": 1782928504619,
+      "time": 1782928504618,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mvqbse"
     },
     {
@@ -1455,12 +1465,12 @@
     },
     {
       "id": "hv74994377",
-      "lon": -155.396499633789,
-      "lat": 19.1626663208008,
-      "depth": 38.5299987792969,
-      "mag": 2.17,
-      "place": "9 km ESE of Pāhala, Hawaii",
-      "time": 1782887974360,
+      "lon": -155.4085,
+      "lat": 19.1315,
+      "depth": 37.89,
+      "mag": 1.87,
+      "place": "10 km SE of Pāhala, Hawaii",
+      "time": 1782887974080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994377"
     },
     {
@@ -2502,46 +2512,6 @@
       "place": "2 km NNW of The Geysers, CA",
       "time": 1782846978160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387091"
-    },
-    {
-      "id": "uw714039031",
-      "lon": -123.942666666667,
-      "lat": 46.8336666666667,
-      "depth": 14.51,
-      "mag": 1.21,
-      "place": "9 km SSE of Markham, Washington",
-      "time": 1782846728440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714039031"
-    },
-    {
-      "id": "aka2026mvydas",
-      "lon": -152.438,
-      "lat": 60.089,
-      "depth": 101.5,
-      "mag": 1.6,
-      "place": "42 km WNW of Happy Valley, Alaska",
-      "time": 1782846297734,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvydas"
-    },
-    {
-      "id": "nc75387081",
-      "lon": -121.609664916992,
-      "lat": 36.9713325500488,
-      "depth": 3.32999992370605,
-      "mag": 1.31,
-      "place": "5 km SW of Gilroy, CA",
-      "time": 1782846063590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387081"
-    },
-    {
-      "id": "ci41284343",
-      "lon": -118.1755,
-      "lat": 34.9796666666667,
-      "depth": -0.82,
-      "mag": 1.29,
-      "place": "8 km S of Mojave, CA",
-      "time": 1782846057430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284343"
     }
   ]
 }
