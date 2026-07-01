@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T18:30:58Z",
-  "count": 257,
+  "updated": "2026-07-01T18:45:42Z",
+  "count": 255,
   "points": [
+    {
+      "id": "aka2026mxthvg",
+      "lon": -149.983,
+      "lat": 61.472,
+      "depth": 28.3,
+      "mag": 2,
+      "place": "5 km SSW of Big Lake, Alaska",
+      "time": 1782931190002,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mxthvg"
+    },
     {
       "id": "nc75387656",
       "lon": -122.813499450684,
@@ -2542,36 +2552,6 @@
       "place": "2 km NNW of The Geysers, CA",
       "time": 1782845102430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387066"
-    },
-    {
-      "id": "mb90201173",
-      "lon": -112.436,
-      "lat": 45.1855,
-      "depth": 4.95,
-      "mag": 1.06,
-      "place": "16 km ESE of Dillon, Montana",
-      "time": 1782844522930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90201173"
-    },
-    {
-      "id": "ci41284327",
-      "lon": -117.077833333333,
-      "lat": 34.2136666666667,
-      "depth": 3.05,
-      "mag": 1.08,
-      "place": "3 km ENE of Running Springs, CA",
-      "time": 1782844522350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284327"
-    },
-    {
-      "id": "nc75387056",
-      "lon": -122.841667175293,
-      "lat": 38.828498840332,
-      "depth": -0.589999973773956,
-      "mag": 1.32,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1782844268230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387056"
     }
   ]
 }
