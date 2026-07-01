@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T00:18:05Z",
-  "count": 236,
+  "updated": "2026-07-01T00:30:56Z",
+  "count": 237,
   "points": [
+    {
+      "id": "hv74994187",
+      "lon": -155.427505493164,
+      "lat": 19.0556659698486,
+      "depth": 39.9599990844727,
+      "mag": 1.77,
+      "place": "16 km E of Naalehu, Hawaii",
+      "time": 1782865514660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994187"
+    },
+    {
+      "id": "ci41284439",
+      "lon": -116.919333333333,
+      "lat": 33.3471666666667,
+      "depth": 7.32,
+      "mag": 0.91,
+      "place": "5 km W of Palomar Observatory, CA",
+      "time": 1782865078020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284439"
+    },
     {
       "id": "nc75387191",
       "lon": -122.765167236328,
@@ -62,6 +82,16 @@
       "place": "268 km SSE of Dunhuang, China",
       "time": 1782863095421,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9bg"
+    },
+    {
+      "id": "us6000t9bc",
+      "lon": 131.534,
+      "lat": 32.3973,
+      "depth": 41.59,
+      "mag": 4.8,
+      "place": "10 km WSW of Hyūga, Japan",
+      "time": 1782862816662,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9bc"
     },
     {
       "id": "pr71522148",
@@ -2342,26 +2372,6 @@
       "place": "57 km SSW of Unalaska, Alaska",
       "time": 1782779543137,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026munaiy"
-    },
-    {
-      "id": "tx2026mslpcd",
-      "lon": -103.369,
-      "lat": 31.943,
-      "depth": 5.6256,
-      "mag": 1.1,
-      "place": "25 km SW of Jal, New Mexico",
-      "time": 1782779169659,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mslpcd"
-    },
-    {
-      "id": "aka2026mumomv",
-      "lon": -159.724,
-      "lat": 55.9,
-      "depth": 7.9,
-      "mag": 2,
-      "place": "15 km W of Ivanof Bay, Alaska",
-      "time": 1782778718594,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mumomv"
     }
   ]
 }
