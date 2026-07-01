@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T13:31:02Z",
-  "count": 262,
+  "updated": "2026-07-01T13:45:42Z",
+  "count": 261,
   "points": [
+    {
+      "id": "ci41284783",
+      "lon": -117.718166666667,
+      "lat": 35.8945,
+      "depth": 8.61,
+      "mag": 0.72,
+      "place": "18 km ESE of Little Lake, CA",
+      "time": 1782912565650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284783"
+    },
+    {
+      "id": "nc75387531",
+      "lon": -121.099670410156,
+      "lat": 36.5130004882812,
+      "depth": 3.20000004768372,
+      "mag": 1.13,
+      "place": "4 km ESE of Pinnacles, CA",
+      "time": 1782912563330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387531"
+    },
     {
       "id": "nc75387526",
       "lon": -122.799835205078,
@@ -2592,36 +2612,6 @@
       "place": "89 km W of Adak, Alaska",
       "time": 1782827123930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94280093"
-    },
-    {
-      "id": "ci41284135",
-      "lon": -117.451166666667,
-      "lat": 35.653,
-      "depth": 8.55,
-      "mag": 0.43,
-      "place": "13 km SSW of Searles Valley, CA",
-      "time": 1782826602670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284135"
-    },
-    {
-      "id": "av94280068",
-      "lon": -177.921166666667,
-      "lat": 51.8628333333333,
-      "depth": 3.76,
-      "mag": 1.01,
-      "place": "88 km W of Adak, Alaska",
-      "time": 1782826481760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94280068"
-    },
-    {
-      "id": "ci41284127",
-      "lon": -117.8205,
-      "lat": 35.3093333333333,
-      "depth": 8.2,
-      "mag": 1.13,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1782826420490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284127"
     }
   ]
 }
