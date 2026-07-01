@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T22:31:06Z",
-  "count": 261,
+  "updated": "2026-07-01T22:50:25Z",
+  "count": 259,
   "points": [
     {
       "id": "ci41284999",
@@ -174,16 +174,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387691"
     },
     {
-      "id": "aka2026mxwkrj",
-      "lon": -155.315,
-      "lat": 58.163,
-      "depth": 5,
-      "mag": 0.8,
-      "place": "83 km NW of Karluk, Alaska",
-      "time": 1782936784148,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mxwkrj"
-    },
-    {
       "id": "tx2026mvundm",
       "lon": -104.292,
       "lat": 31.757,
@@ -352,6 +342,16 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1782930119860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387656"
+    },
+    {
+      "id": "tx2026mvqyis",
+      "lon": -103.884,
+      "lat": 31.494,
+      "depth": 5.8435,
+      "mag": 2,
+      "place": "21 km NNW of Toyah, Texas",
+      "time": 1782930095764,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mvqyis"
     },
     {
       "id": "us6000t9gi",
@@ -1825,12 +1825,12 @@
     },
     {
       "id": "hv74994372",
-      "lon": -155.421340942383,
-      "lat": 19.1183338165283,
-      "depth": 39.9900016784668,
-      "mag": 2.18,
+      "lon": -155.4275,
+      "lat": 19.1135,
+      "depth": 41.13,
+      "mag": 1.8,
       "place": "11 km SSE of Pāhala, Hawaii",
-      "time": 1782887576230,
+      "time": 1782887576180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994372"
     },
     {
@@ -2202,6 +2202,16 @@
       "place": "77 km SW of Nanwalek, Alaska",
       "time": 1782874825739,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mwnzhp"
+    },
+    {
+      "id": "av93063194",
+      "lon": -159.6925,
+      "lat": 55.9523333333333,
+      "depth": 23.44,
+      "mag": 0.39,
+      "place": "14 km WNW of Ivanof Bay, Alaska",
+      "time": 1782873607780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063194"
     },
     {
       "id": "ci41284471",
@@ -2582,36 +2592,6 @@
       "place": "2 km E of Kailua-Kona, Hawaii",
       "time": 1782860113580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994167"
-    },
-    {
-      "id": "av94280788",
-      "lon": -169.895666666667,
-      "lat": 52.7841666666667,
-      "depth": 9.57,
-      "mag": 1.11,
-      "place": "71 km WSW of Nikolski, Alaska",
-      "time": 1782859379670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94280788"
-    },
-    {
-      "id": "aka2026mwfcfb",
-      "lon": -154.397,
-      "lat": 58.655,
-      "depth": 12.9,
-      "mag": 1.6,
-      "place": "90 km SSE of Kokhanok, Alaska",
-      "time": 1782858843123,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mwfcfb"
-    },
-    {
-      "id": "ci41284415",
-      "lon": -117.592333333333,
-      "lat": 35.7846666666667,
-      "depth": 10.85,
-      "mag": 0.58,
-      "place": "17 km W of Searles Valley, CA",
-      "time": 1782858646340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284415"
     }
   ]
 }
