@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T20:31:01Z",
-  "count": 249,
+  "updated": "2026-07-01T20:45:46Z",
+  "count": 250,
   "points": [
+    {
+      "id": "nc75387691",
+      "lon": -122.879501342773,
+      "lat": 38.839168548584,
+      "depth": 2.34999990463257,
+      "mag": 0.75,
+      "place": "13 km ENE of Cloverdale, CA",
+      "time": 1782937992890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387691"
+    },
     {
       "id": "aka2026mxwkrj",
       "lon": -155.315,
@@ -34,6 +44,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mxwerj"
     },
     {
+      "id": "uw714038822",
+      "lon": -122.010166666667,
+      "lat": 45.3895,
+      "depth": -1.6,
+      "mag": 1.67,
+      "place": "4 km NNW of Mount Hood Village, Oregon",
+      "time": 1782936075610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714038822"
+    },
+    {
       "id": "hv74994672",
       "lon": -155.494995117188,
       "lat": 19.1406669616699,
@@ -54,6 +74,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284959"
     },
     {
+      "id": "us6000t9h4",
+      "lon": -72.8733,
+      "lat": -36.4913,
+      "depth": 45.797,
+      "mag": 4.4,
+      "place": "15 km NNE of Tomé, Chile",
+      "time": 1782935522010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9h4"
+    },
+    {
       "id": "tx2026mvtpqp",
       "lon": -103.576,
       "lat": 30.909,
@@ -72,16 +102,6 @@
       "place": "61 km S of Whites City, New Mexico",
       "time": 1782934314294,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mvthds"
-    },
-    {
-      "id": "ci41284943",
-      "lon": -117.954170227051,
-      "lat": 33.8253326416016,
-      "depth": 16.8799991607666,
-      "mag": 1.9551625947728,
-      "place": "4 km NE of Stanton, CA",
-      "time": 1782934156310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284943"
     },
     {
       "id": "tx2026mvtdgd",
@@ -236,11 +256,11 @@
     {
       "id": "ci41284919",
       "lon": -118.602333333333,
-      "lat": 34.9553333333333,
-      "depth": 8.7,
-      "mag": 1.05,
+      "lat": 34.9566666666667,
+      "depth": 8.57,
+      "mag": 1.03,
       "place": "20 km N of Neenach, CA",
-      "time": 1782926902770,
+      "time": 1782926902780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284919"
     },
     {
@@ -2482,16 +2502,6 @@
       "place": "95 km SSW of El Progreso, Mexico",
       "time": 1782853294191,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9a4"
-    },
-    {
-      "id": "aka2026mwbjwv",
-      "lon": -148.167,
-      "lat": 62.173,
-      "depth": 10,
-      "mag": 2.2,
-      "place": "44 km NNE of Chickaloon, Alaska",
-      "time": 1782852242940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mwbjwv"
     }
   ]
 }
