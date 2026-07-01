@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T21:15:43Z",
-  "count": 256,
+  "updated": "2026-07-01T21:30:57Z",
+  "count": 255,
   "points": [
+    {
+      "id": "tx2026mvwvuw",
+      "lon": -104.455,
+      "lat": 31.606,
+      "depth": 3.056,
+      "mag": 1.1,
+      "place": "63 km S of Whites City, New Mexico",
+      "time": 1782940764652,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mvwvuw"
+    },
     {
       "id": "aka2026mxykvi",
       "lon": -147.751,
@@ -2542,26 +2552,6 @@
       "place": "8 km SE of Pangyan, Philippines",
       "time": 1782855293425,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ad"
-    },
-    {
-      "id": "pr71522138",
-      "lon": -68.5475,
-      "lat": 17.8996666666667,
-      "depth": 58.75,
-      "mag": 3.36,
-      "place": "53 km S of Boca de Yuma, Dominican Republic",
-      "time": 1782854831440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522138"
-    },
-    {
-      "id": "av94280708",
-      "lon": -154.431333333333,
-      "lat": 58.657,
-      "depth": 8.83,
-      "mag": 0.47,
-      "place": "89 km SSE of Kokhanok, Alaska",
-      "time": 1782854279870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94280708"
     }
   ]
 }
