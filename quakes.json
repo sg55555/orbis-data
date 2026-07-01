@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T11:01:10Z",
-  "count": 257,
+  "updated": "2026-07-01T11:15:41Z",
+  "count": 259,
   "points": [
+    {
+      "id": "nc75387456",
+      "lon": -122.816665649414,
+      "lat": 38.8308334350586,
+      "depth": 1.67999994754791,
+      "mag": 0.68,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1782903623410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387456"
+    },
+    {
+      "id": "us6000t9e1",
+      "lon": 178.6881,
+      "lat": -20.1466,
+      "depth": 536.709,
+      "mag": 5.6,
+      "place": "224 km S of Suva, Fiji",
+      "time": 1782902563103,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9e1"
+    },
     {
       "id": "nc75387446",
       "lon": -122.80549621582,
@@ -142,6 +162,16 @@
       "place": "14 km ESE of Julian, CA",
       "time": 1782898313690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284639"
+    },
+    {
+      "id": "pr2026182000",
+      "lon": -68.1506,
+      "lat": 19.1235,
+      "depth": 55,
+      "mag": 3.69,
+      "place": "65 km NNE of Punta Cana, Dominican Republic",
+      "time": 1782897802150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026182000"
     },
     {
       "id": "nc75387416",
@@ -762,6 +792,16 @@
       "place": "13 km NW of The Geysers, CA",
       "time": 1782876481640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387276"
+    },
+    {
+      "id": "tx2026munbqr",
+      "lon": -102.001,
+      "lat": 31.665,
+      "depth": 4.7119,
+      "mag": 0.8,
+      "place": "37 km S of Midland, Texas",
+      "time": 1782876022604,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026munbqr"
     },
     {
       "id": "ci41284495",
@@ -2552,26 +2592,6 @@
       "place": "23 km W of Garden City, Texas",
       "time": 1782818196992,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mthaus"
-    },
-    {
-      "id": "hv74993837",
-      "lon": -155.373,
-      "lat": 19.0535,
-      "depth": 32.45,
-      "mag": 2.64,
-      "place": "19 km SE of Pāhala, Hawaii",
-      "time": 1782818074900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993837"
-    },
-    {
-      "id": "av94279798",
-      "lon": -176.206666666667,
-      "lat": 52.106,
-      "depth": 13.13,
-      "mag": 1.35,
-      "place": "39 km NE of Adak, Alaska",
-      "time": 1782817260670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94279798"
     }
   ]
 }
