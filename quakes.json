@@ -1,8 +1,48 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T07:30:59Z",
-  "count": 246,
+  "updated": "2026-07-01T07:45:47Z",
+  "count": 251,
   "points": [
+    {
+      "id": "nc75387371",
+      "lon": -122.789169311523,
+      "lat": 38.8161659240723,
+      "depth": 1.16999995708466,
+      "mag": 1.13,
+      "place": "5 km NNW of The Geysers, CA",
+      "time": 1782891770300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387371"
+    },
+    {
+      "id": "tx2026muvttn",
+      "lon": -104.419,
+      "lat": 31.669,
+      "depth": 6.5365,
+      "mag": 1.9,
+      "place": "56 km S of Whites City, New Mexico",
+      "time": 1782891743282,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026muvttn"
+    },
+    {
+      "id": "nc75387366",
+      "lon": -122.816329956055,
+      "lat": 38.8289985656738,
+      "depth": 1.87000000476837,
+      "mag": 0.76,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1782891319160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387366"
+    },
+    {
+      "id": "aka2026mwwycq",
+      "lon": -156.339,
+      "lat": 67.579,
+      "depth": 5,
+      "mag": 2.2,
+      "place": "78 km NNE of Kobuk, Alaska",
+      "time": 1782890933892,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mwwycq"
+    },
     {
       "id": "hv74994397",
       "lon": -155.367660522461,
@@ -205,12 +245,12 @@
     },
     {
       "id": "tx2026murizx",
-      "lon": -102.037,
+      "lon": -102.044,
       "lat": 32.401,
-      "depth": 4.2503,
-      "mag": 1,
+      "depth": 8.1299,
+      "mag": 1.1,
       "place": "33 km WSW of Ackerly, Texas",
-      "time": 1782883752014,
+      "time": 1782883752336,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026murizx"
     },
     {
@@ -272,6 +312,16 @@
       "place": "75 km SSE of Lively, Canada",
       "time": 1782880863674,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9c6"
+    },
+    {
+      "id": "us6000t9c5",
+      "lon": -64.382,
+      "lat": -30.6831,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "24 km NE of Capilla del Monte, Argentina",
+      "time": 1782880453180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9c5"
     },
     {
       "id": "aka2026mwqvdp",
@@ -1514,6 +1564,36 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993917"
     },
     {
+      "id": "av94280248",
+      "lon": -177.9055,
+      "lat": 51.8618333333333,
+      "depth": 2.7,
+      "mag": 1.05,
+      "place": "87 km W of Adak, Alaska",
+      "time": 1782831697610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94280248"
+    },
+    {
+      "id": "av93063089",
+      "lon": -177.931166666667,
+      "lat": 51.8671666666667,
+      "depth": 6.46,
+      "mag": 1.18,
+      "place": "89 km W of Adak, Alaska",
+      "time": 1782831509310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063089"
+    },
+    {
+      "id": "av93063084",
+      "lon": -177.9375,
+      "lat": 51.8681666666667,
+      "depth": 7.39,
+      "mag": 1.09,
+      "place": "89 km W of Adak, Alaska",
+      "time": 1782831498950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063084"
+    },
+    {
       "id": "aka2026mvpwyf",
       "lon": -177.935,
       "lat": 51.845,
@@ -2432,36 +2512,6 @@
       "place": "15 km S of Clam Gulch, Alaska",
       "time": 1782806249111,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvbwib"
-    },
-    {
-      "id": "uw714038591",
-      "lon": -121.667833333333,
-      "lat": 48.2541666666667,
-      "depth": 9.04,
-      "mag": 1.25,
-      "place": "4 km W of Darrington, Washington",
-      "time": 1782805544250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714038591"
-    },
-    {
-      "id": "uw714038581",
-      "lon": -121.878833333333,
-      "lat": 46.7236666666667,
-      "depth": 5.68,
-      "mag": 0.44,
-      "place": "12 km ESE of Ashford, Washington",
-      "time": 1782805429620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714038581"
-    },
-    {
-      "id": "uu80007583",
-      "lon": -111.225666666667,
-      "lat": 39.3106666666667,
-      "depth": -1.2,
-      "mag": 1.02,
-      "place": "17 km WNW of Orangeville, Utah",
-      "time": 1782805064740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007583"
     }
   ]
 }
