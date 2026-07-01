@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T01:15:40Z",
-  "count": 240,
+  "updated": "2026-07-01T01:31:03Z",
+  "count": 236,
   "points": [
+    {
+      "id": "ci41284463",
+      "lon": -116.4345,
+      "lat": 33.4696666666667,
+      "depth": 2.64,
+      "mag": 0.88,
+      "place": "24 km ESE of Anza, CA",
+      "time": 1782868979550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284463"
+    },
     {
       "id": "nc75387221",
       "lon": -122.733497619629,
@@ -242,6 +252,16 @@
       "place": "17 km W of Searles Valley, CA",
       "time": 1782858646340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284415"
+    },
+    {
+      "id": "us6000t9ak",
+      "lon": 146.4002,
+      "lat": 4.8389,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "Federated States of Micronesia region",
+      "time": 1782856159866,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ak"
     },
     {
       "id": "nn00920970",
@@ -2342,66 +2362,6 @@
       "place": "4 km WSW of Anza, CA",
       "time": 1782783164000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41283991"
-    },
-    {
-      "id": "nc75386641",
-      "lon": -122.812835693359,
-      "lat": 38.8320007324219,
-      "depth": 2.20000004768372,
-      "mag": 0.26,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1782782900720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386641"
-    },
-    {
-      "id": "hv74993642",
-      "lon": -155.079162597656,
-      "lat": 19.3856658935547,
-      "depth": 36.4099998474121,
-      "mag": 1.84,
-      "place": "10 km SE of Fern Forest, Hawaii",
-      "time": 1782782861200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993642"
-    },
-    {
-      "id": "av93062884",
-      "lon": -159.703333333333,
-      "lat": 55.9585,
-      "depth": 12.07,
-      "mag": 0.22,
-      "place": "15 km WNW of Ivanof Bay, Alaska",
-      "time": 1782782627390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062884"
-    },
-    {
-      "id": "nc75386636",
-      "lon": -120.470497131348,
-      "lat": 35.9206657409668,
-      "depth": 4.51999998092651,
-      "mag": 1.05,
-      "place": "4 km NW of Parkfield, CA",
-      "time": 1782782285960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386636"
-    },
-    {
-      "id": "tx2026msnhat",
-      "lon": -103.226,
-      "lat": 32.006,
-      "depth": 4.613,
-      "mag": 0.9,
-      "place": "12 km SSW of Jal, New Mexico",
-      "time": 1782782243178,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026msnhat"
-    },
-    {
-      "id": "tx2026msncmr",
-      "lon": -102.256,
-      "lat": 32.043,
-      "depth": 7.0068,
-      "mag": 0.6,
-      "place": "11 km ENE of Gardendale, Texas",
-      "time": 1782782133755,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026msncmr"
     }
   ]
 }
