@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T00:01:10Z",
-  "count": 236,
+  "updated": "2026-07-01T00:15:43Z",
+  "count": 237,
   "points": [
     {
       "id": "nc75387191",
@@ -15,13 +15,23 @@
     },
     {
       "id": "ci41284431",
-      "lon": -117.665333333333,
-      "lat": 35.8293333333333,
-      "depth": 9.73,
-      "mag": 1.52,
+      "lon": -117.665666666667,
+      "lat": 35.8298333333333,
+      "depth": 9.74,
+      "mag": 1.61,
       "place": "23 km N of Ridgecrest, CA",
       "time": 1782863759340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284431"
+    },
+    {
+      "id": "pr71522158",
+      "lon": -66.8376666666667,
+      "lat": 17.9491666666667,
+      "depth": 13.44,
+      "mag": 1.75,
+      "place": "5 km SSW of Indios, Puerto Rico",
+      "time": 1782863593420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522158"
     },
     {
       "id": "aka2026mwhpbi",
@@ -575,12 +585,12 @@
     },
     {
       "id": "aka2026mvtkhu",
-      "lon": -151.586,
-      "lat": 60.697,
-      "depth": 79.5,
-      "mag": 1.5,
+      "lon": -151.591,
+      "lat": 60.7,
+      "depth": 84.4,
+      "mag": 1.7,
       "place": "16 km W of Nikiski, Alaska",
-      "time": 1782837804181,
+      "time": 1782837803733,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvtkhu"
     },
     {
@@ -595,12 +605,12 @@
     },
     {
       "id": "aka2026mvtimj",
-      "lon": -150.92,
-      "lat": 58.342,
-      "depth": 5,
-      "mag": 1.9,
-      "place": "104 km ENE of Ouzinkie, Alaska",
-      "time": 1782837677445,
+      "lon": -150.803,
+      "lat": 58.29,
+      "depth": 20,
+      "mag": 2.1,
+      "place": "108 km ENE of Ouzinkie, Alaska",
+      "time": 1782837678374,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvtimj"
     },
     {
@@ -625,12 +635,12 @@
     },
     {
       "id": "aka2026mvtccs",
-      "lon": -151.451,
-      "lat": 62.382,
-      "depth": 89.7,
+      "lon": -151.424,
+      "lat": 62.381,
+      "depth": 93.4,
       "mag": 1.9,
-      "place": "37 km WSW of Petersville, Alaska",
-      "time": 1782837236866,
+      "place": "36 km WSW of Petersville, Alaska",
+      "time": 1782837236560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvtccs"
     },
     {
@@ -642,6 +652,16 @@
       "place": "2 km SE of Naalehu, Hawaii",
       "time": 1782836803180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993952"
+    },
+    {
+      "id": "aka2026mvsrro",
+      "lon": -170.437,
+      "lat": 51.905,
+      "depth": 15.2,
+      "mag": 3.5,
+      "place": "157 km SW of Nikolski, Alaska",
+      "time": 1782836512247,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvsrro"
     },
     {
       "id": "nc75386981",
@@ -685,12 +705,12 @@
     },
     {
       "id": "aka2026mvruui",
-      "lon": -155.341,
-      "lat": 56.788,
-      "depth": 6.6,
-      "mag": 1.5,
-      "place": "73 km WSW of Akhiok, Alaska",
-      "time": 1782834930622,
+      "lon": -155.315,
+      "lat": 56.809,
+      "depth": 6.2,
+      "mag": 1.8,
+      "place": "71 km WSW of Akhiok, Alaska",
+      "time": 1782834931078,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvruui"
     },
     {
@@ -2352,16 +2372,6 @@
       "place": "South Sandwich Islands region",
       "time": 1782778512439,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t93x"
-    },
-    {
-      "id": "ci41283959",
-      "lon": -117.719166666667,
-      "lat": 35.8921666666667,
-      "depth": 7.51,
-      "mag": 1.01,
-      "place": "18 km ESE of Little Lake, CA",
-      "time": 1782777734420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41283959"
     }
   ]
 }
