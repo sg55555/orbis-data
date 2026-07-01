@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T18:01:08Z",
-  "count": 255,
+  "updated": "2026-07-01T18:15:45Z",
+  "count": 254,
   "points": [
+    {
+      "id": "us6000t9gg",
+      "lon": 70.4468,
+      "lat": 36.5317,
+      "depth": 216.694,
+      "mag": 5.5,
+      "place": "50 km SW of Jurm, Afghanistan",
+      "time": 1782928623491,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9gg"
+    },
     {
       "id": "tx2026mvqbse",
       "lon": -104.398,
@@ -155,12 +165,12 @@
     },
     {
       "id": "hv74994577",
-      "lon": -155.355163574219,
-      "lat": 19.2553329467773,
-      "depth": 31,
-      "mag": 2.68,
-      "place": "14 km ENE of Pāhala, Hawaii",
-      "time": 1782922461660,
+      "lon": -155.359166666667,
+      "lat": 19.2576666666667,
+      "depth": 29.96,
+      "mag": 1.94,
+      "place": "13 km ENE of Pāhala, Hawaii",
+      "time": 1782922461780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994577"
     },
     {
@@ -2334,6 +2344,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t99j"
     },
     {
+      "id": "av94280603",
+      "lon": -154.919166666667,
+      "lat": 58.2955,
+      "depth": 5.24,
+      "mag": 0.01,
+      "place": "85 km NNW of Karluk, Alaska",
+      "time": 1782848709750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94280603"
+    },
+    {
       "id": "ci41284367",
       "lon": -118.344333333333,
       "lat": 35.055,
@@ -2522,36 +2542,6 @@
       "place": "85 km NW of Karluk, Alaska",
       "time": 1782843793940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94280518"
-    },
-    {
-      "id": "ci41284287",
-      "lon": -116.858,
-      "lat": 34.3425,
-      "depth": -1.7,
-      "mag": 1.17,
-      "place": "9 km N of Big Bear City, CA",
-      "time": 1782843039310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284287"
-    },
-    {
-      "id": "nc75387036",
-      "lon": -122.767997741699,
-      "lat": 38.7906684875488,
-      "depth": 3.72000002861023,
-      "mag": 1.44,
-      "place": "2 km NW of The Geysers, CA",
-      "time": 1782842835340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387036"
-    },
-    {
-      "id": "uw714038961",
-      "lon": -119.114,
-      "lat": 46.1551666666667,
-      "depth": -0.22,
-      "mag": 2.06,
-      "place": "2 km N of Highland, Washington",
-      "time": 1782842682700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714038961"
     }
   ]
 }
