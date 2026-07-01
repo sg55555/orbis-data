@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T02:31:00Z",
-  "count": 235,
+  "updated": "2026-07-01T02:45:45Z",
+  "count": 237,
   "points": [
+    {
+      "id": "ci41284471",
+      "lon": -118.616333333333,
+      "lat": 34.408,
+      "depth": 4.32,
+      "mag": 1.19,
+      "place": "7 km SW of Valencia, CA",
+      "time": 1782873258600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284471"
+    },
     {
       "id": "nc75387256",
       "lon": -123.234832763672,
@@ -85,12 +95,12 @@
     },
     {
       "id": "hv74994232",
-      "lon": -155.532165527344,
-      "lat": 19.9491672515869,
-      "depth": -1.79999995231628,
-      "mag": 2.43,
-      "place": "15 km SSW of Honoka‘a, Hawaii",
-      "time": 1782867666160,
+      "lon": -155.565666666667,
+      "lat": 19.9935,
+      "depth": 7.29,
+      "mag": 2.58,
+      "place": "11 km ESE of Waimea, Hawaii",
+      "time": 1782867666670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994232"
     },
     {
@@ -1914,6 +1924,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvamml"
     },
     {
+      "id": "av94279473",
+      "lon": -159.709166666667,
+      "lat": 55.9671666666667,
+      "depth": 20.48,
+      "mag": 0.44,
+      "place": "15 km WNW of Ivanof Bay, Alaska",
+      "time": 1782803657870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94279473"
+    },
+    {
       "id": "nc75386716",
       "lon": -122.72216796875,
       "lat": 38.7571678161621,
@@ -1942,6 +1962,16 @@
       "place": "11 km ESE of Willits, CA",
       "time": 1782801524110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386711"
+    },
+    {
+      "id": "av93063014",
+      "lon": -159.706,
+      "lat": 55.9546666666667,
+      "depth": 22.75,
+      "mag": 0.62,
+      "place": "15 km WNW of Ivanof Bay, Alaska",
+      "time": 1782801389360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063014"
     },
     {
       "id": "av93063009",
@@ -2342,16 +2372,6 @@
       "place": "25 km NE of Ojai, CA",
       "time": 1782787797560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284015"
-    },
-    {
-      "id": "av94279028",
-      "lon": -178.835666666667,
-      "lat": 51.7633333333333,
-      "depth": 7.86,
-      "mag": 0.82,
-      "place": "152 km W of Adak, Alaska",
-      "time": 1782787103350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94279028"
     }
   ]
 }
