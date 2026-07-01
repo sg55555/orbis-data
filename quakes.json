@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T19:15:46Z",
-  "count": 251,
+  "updated": "2026-07-01T19:22:16Z",
+  "count": 250,
   "points": [
+    {
+      "id": "hv74994657",
+      "lon": -155.10400390625,
+      "lat": 19.3531665802002,
+      "depth": 1.41999995708466,
+      "mag": 1.88,
+      "place": "12 km SSE of Fern Forest, Hawaii",
+      "time": 1782933358580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994657"
+    },
     {
       "id": "tx2026mvsaso",
       "lon": -103.746,
@@ -102,6 +112,16 @@
       "place": "62 km S of Whites City, New Mexico",
       "time": 1782927362041,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mvpjll"
+    },
+    {
+      "id": "us6000t9gc",
+      "lon": -179.8909,
+      "lat": -23.7708,
+      "depth": 545.16,
+      "mag": 4.5,
+      "place": "south of the Fiji Islands",
+      "time": 1782926916132,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9gc"
     },
     {
       "id": "ci41284919",
@@ -345,12 +365,12 @@
     },
     {
       "id": "hv74994542",
-      "lon": -155.490829467773,
-      "lat": 19.166166305542,
-      "depth": 30.6299991607666,
-      "mag": 1.97,
-      "place": "4 km SSW of Pāhala, Hawaii",
-      "time": 1782917698580,
+      "lon": -155.489,
+      "lat": 19.1691666666667,
+      "depth": 30.6,
+      "mag": 1.87,
+      "place": "3 km SSW of Pāhala, Hawaii",
+      "time": 1782917698610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994542"
     },
     {
@@ -922,6 +942,16 @@
       "place": "62 km WNW of Nikiski, Alaska",
       "time": 1782901216723,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mxcqrp"
+    },
+    {
+      "id": "av94281403",
+      "lon": -163.5015,
+      "lat": 54.5358333333333,
+      "depth": 9.46,
+      "mag": 0.81,
+      "place": "35 km S of False Pass, Alaska",
+      "time": 1782900711840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94281403"
     },
     {
       "id": "se60505828",
@@ -2472,46 +2502,6 @@
       "place": "6 km SW of Volcano, Hawaii",
       "time": 1782847351610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994092"
-    },
-    {
-      "id": "us6000t999",
-      "lon": -177.3439,
-      "lat": -23.9863,
-      "depth": 209.157,
-      "mag": 4.9,
-      "place": "south of the Fiji Islands",
-      "time": 1782847267743,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t999"
-    },
-    {
-      "id": "hv74994087",
-      "lon": -155.467498779297,
-      "lat": 19.2378330230713,
-      "depth": 0.939999997615814,
-      "mag": 1.82,
-      "place": "4 km NNE of Pāhala, Hawaii",
-      "time": 1782847141570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994087"
-    },
-    {
-      "id": "nc75387096",
-      "lon": -122.740501403809,
-      "lat": 38.7613334655762,
-      "depth": 5.84999990463257,
-      "mag": 0.35,
-      "place": "2 km SE of The Geysers, CA",
-      "time": 1782847067370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387096"
-    },
-    {
-      "id": "nc75387091",
-      "lon": -122.767166137695,
-      "lat": 38.7921676635742,
-      "depth": 3.99000000953674,
-      "mag": 1.04,
-      "place": "2 km NNW of The Geysers, CA",
-      "time": 1782846978160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387091"
     }
   ]
 }
