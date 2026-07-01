@@ -1,14 +1,44 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T21:01:15Z",
-  "count": 252,
+  "updated": "2026-07-01T21:10:54Z",
+  "count": 254,
   "points": [
+    {
+      "id": "nc75387711",
+      "lon": -122.807830810547,
+      "lat": 38.8173332214355,
+      "depth": 2.48000001907349,
+      "mag": 0.72,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1782939981720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387711"
+    },
+    {
+      "id": "nc75387706",
+      "lon": -121.037002563477,
+      "lat": 36.4553337097168,
+      "depth": 10.4200000762939,
+      "mag": 2.09,
+      "place": "13 km SE of Pinnacles, CA",
+      "time": 1782939920310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387706"
+    },
+    {
+      "id": "ci41284991",
+      "lon": -116.382833333333,
+      "lat": 33.3331666666667,
+      "depth": 11.45,
+      "mag": 1.22,
+      "place": "9 km N of Borrego Springs, CA",
+      "time": 1782939787630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284991"
+    },
     {
       "id": "tx2026mvwaib",
       "lon": -104.603,
       "lat": 31.715,
       "depth": 1.973,
-      "mag": 1.8,
+      "mag": 1.6,
       "place": "55 km SSW of Whites City, New Mexico",
       "time": 1782939453313,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mvwaib"
@@ -715,12 +745,12 @@
     },
     {
       "id": "aka2026mxigrn",
-      "lon": -160.564,
-      "lat": 63.903,
-      "depth": 34.9,
-      "mag": 3.6,
-      "place": "11 km ENE of Unalakleet, Alaska",
-      "time": 1782911298660,
+      "lon": -160.619,
+      "lat": 63.876,
+      "depth": 34.4,
+      "mag": 3.5,
+      "place": "8 km E of Unalakleet, Alaska",
+      "time": 1782911298202,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mxigrn"
     },
     {
@@ -2454,6 +2484,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026muczuc"
     },
     {
+      "id": "nn00920972",
+      "lon": -119.1117,
+      "lat": 39.2781,
+      "depth": 5.5862,
+      "mag": 1.54,
+      "place": "18 km SSE of Silver Springs, Nevada",
+      "time": 1782856337157,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920972"
+    },
+    {
       "id": "us6000t9ak",
       "lon": 146.4002,
       "lat": 4.8389,
@@ -2484,16 +2524,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ad"
     },
     {
-      "id": "nn00920969",
-      "lon": -115.2376,
-      "lat": 36.0117,
-      "depth": 15.8235,
-      "mag": 1.71,
-      "place": "1 km SSE of Enterprise, Nevada",
-      "time": 1782855064468,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920969"
-    },
-    {
       "id": "pr71522138",
       "lon": -68.5475,
       "lat": 17.8996666666667,
@@ -2512,16 +2542,6 @@
       "place": "89 km SSE of Kokhanok, Alaska",
       "time": 1782854279870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94280708"
-    },
-    {
-      "id": "us6000t9a4",
-      "lon": -109.0169,
-      "lat": 24.6598,
-      "depth": 10,
-      "mag": 5.3,
-      "place": "95 km SSW of El Progreso, Mexico",
-      "time": 1782853294191,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9a4"
     }
   ]
 }
