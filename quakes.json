@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T14:45:44Z",
-  "count": 261,
+  "updated": "2026-07-01T15:01:12Z",
+  "count": 259,
   "points": [
+    {
+      "id": "hv74994542",
+      "lon": -155.490829467773,
+      "lat": 19.166166305542,
+      "depth": 30.6299991607666,
+      "mag": 1.97,
+      "place": "4 km SSW of Pāhala, Hawaii",
+      "time": 1782917698580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994542"
+    },
+    {
+      "id": "tx2026mvjqws",
+      "lon": -104.369,
+      "lat": 31.659,
+      "depth": 7.3303,
+      "mag": 2.2,
+      "place": "57 km S of Whites City, New Mexico",
+      "time": 1782917008302,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mvjqws"
+    },
     {
       "id": "ci41284823",
       "lon": -116.237166666667,
@@ -12,6 +32,16 @@
       "place": "13 km E of Borrego Springs, CA",
       "time": 1782916135560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284823"
+    },
+    {
+      "id": "ci41284815",
+      "lon": -117.858,
+      "lat": 36.1156666666667,
+      "depth": 3.75,
+      "mag": 0,
+      "place": "11 km NE of Coso Junction, CA",
+      "time": 1782915761250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284815"
     },
     {
       "id": "nc75387536",
@@ -954,6 +984,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387361"
     },
     {
+      "id": "ci41284583",
+      "lon": -115.267333333333,
+      "lat": 32.3696666666667,
+      "depth": 6.09,
+      "mag": 1.76,
+      "place": "7 km WNW of Delta, B.C., MX",
+      "time": 1782889518000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284583"
+    },
+    {
       "id": "uu80143731",
       "lon": -112.599333333333,
       "lat": 37.0735,
@@ -1222,16 +1262,6 @@
       "place": "13 km N of Ocotillo Wells, CA",
       "time": 1782881698220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284519"
-    },
-    {
-      "id": "tx2026mupzly",
-      "lon": -104.487,
-      "lat": 31.612,
-      "depth": 7.1087,
-      "mag": 2.6,
-      "place": "63 km S of Whites City, New Mexico",
-      "time": 1782881278064,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mupzly"
     },
     {
       "id": "us6000t9c6",
@@ -1824,16 +1854,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9a4"
     },
     {
-      "id": "tx2026mualut",
-      "lon": -102.229,
-      "lat": 31.986,
-      "depth": 5.2508,
-      "mag": 1.8,
-      "place": "14 km W of Midland, Texas",
-      "time": 1782853172540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mualut"
-    },
-    {
       "id": "aka2026mwbjwv",
       "lon": -148.167,
       "lat": 62.173,
@@ -2264,6 +2284,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvtimj"
     },
     {
+      "id": "tx2026mtrwgy",
+      "lon": -99.003,
+      "lat": 28.833,
+      "depth": 9.6361,
+      "mag": 2,
+      "place": "11 km SE of Pearsall, Texas",
+      "time": 1782837605811,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mtrwgy"
+    },
+    {
       "id": "tx2026mtrvpp",
       "lon": -103.829,
       "lat": 31.735,
@@ -2562,56 +2592,6 @@
       "place": "87 km W of Adak, Alaska",
       "time": 1782831697610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94280248"
-    },
-    {
-      "id": "av93063089",
-      "lon": -177.931166666667,
-      "lat": 51.8671666666667,
-      "depth": 6.46,
-      "mag": 1.18,
-      "place": "89 km W of Adak, Alaska",
-      "time": 1782831509310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063089"
-    },
-    {
-      "id": "av93063084",
-      "lon": -177.9375,
-      "lat": 51.8681666666667,
-      "depth": 7.39,
-      "mag": 1.09,
-      "place": "89 km W of Adak, Alaska",
-      "time": 1782831498950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063084"
-    },
-    {
-      "id": "aka2026mvpwyf",
-      "lon": -177.935,
-      "lat": 51.845,
-      "depth": 11.7,
-      "mag": 1.8,
-      "place": "89 km W of Adak, Alaska",
-      "time": 1782831480723,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvpwyf"
-    },
-    {
-      "id": "av94280228",
-      "lon": -177.922166666667,
-      "lat": 51.863,
-      "depth": 4.02,
-      "mag": 1.29,
-      "place": "88 km W of Adak, Alaska",
-      "time": 1782831301510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94280228"
-    },
-    {
-      "id": "aka2026mvpsdu",
-      "lon": -152.742,
-      "lat": 59.725,
-      "depth": 96.9,
-      "mag": 1.6,
-      "place": "51 km W of Anchor Point, Alaska",
-      "time": 1782831151316,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvpsdu"
     }
   ]
 }
