@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T11:15:41Z",
-  "count": 259,
+  "updated": "2026-07-01T11:30:59Z",
+  "count": 256,
   "points": [
+    {
+      "id": "tx2026mvdbvd",
+      "lon": -101.915,
+      "lat": 32.121,
+      "depth": 3.3948,
+      "mag": 3,
+      "place": "11 km W of Stanton, Texas",
+      "time": 1782904977123,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mvdbvd"
+    },
     {
       "id": "nc75387456",
       "lon": -122.816665649414,
@@ -372,6 +382,16 @@
       "place": "17 km ESE of Little Lake, CA",
       "time": 1782891946230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284599"
+    },
+    {
+      "id": "pr71522173",
+      "lon": -67.035,
+      "lat": 18.279,
+      "depth": 18.12,
+      "mag": 2.24,
+      "place": "5 km WNW of Las Marías, Puerto Rico",
+      "time": 1782891842360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522173"
     },
     {
       "id": "ci41284591",
@@ -2542,56 +2562,6 @@
       "place": "23 km ESE of Naalehu, Hawaii",
       "time": 1782819296520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74993857"
-    },
-    {
-      "id": "aka2026mviyqt",
-      "lon": -176.301,
-      "lat": 51.426,
-      "depth": 31.4,
-      "mag": 2.2,
-      "place": "54 km SSE of Adak, Alaska",
-      "time": 1782819003915,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mviyqt"
-    },
-    {
-      "id": "ci41284087",
-      "lon": -118.369666666667,
-      "lat": 34.1513333333333,
-      "depth": 15.75,
-      "mag": 0.77,
-      "place": "2 km NW of Universal City, CA",
-      "time": 1782818994010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284087"
-    },
-    {
-      "id": "aka2026mviwgz",
-      "lon": -151.145,
-      "lat": 59.831,
-      "depth": 43.4,
-      "mag": 1.7,
-      "place": "10 km WSW of Fox River, Alaska",
-      "time": 1782818845262,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mviwgz"
-    },
-    {
-      "id": "tx2026mtheee",
-      "lon": -98.977,
-      "lat": 28.851,
-      "depth": 7.251,
-      "mag": 1.8,
-      "place": "12 km ESE of Pearsall, Texas",
-      "time": 1782818242416,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mtheee"
-    },
-    {
-      "id": "tx2026mthaus",
-      "lon": -101.727,
-      "lat": 31.848,
-      "depth": 8.1299,
-      "mag": 1.8,
-      "place": "23 km W of Garden City, Texas",
-      "time": 1782818196992,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mthaus"
     }
   ]
 }
