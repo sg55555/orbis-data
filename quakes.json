@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T01:01:10Z",
-  "count": 241,
+  "updated": "2026-07-01T01:15:40Z",
+  "count": 240,
   "points": [
+    {
+      "id": "nc75387221",
+      "lon": -122.733497619629,
+      "lat": 38.7853317260742,
+      "depth": 1.25,
+      "mag": 0.74,
+      "place": "2 km ENE of The Geysers, CA",
+      "time": 1782868200490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387221"
+    },
+    {
+      "id": "hv74994232",
+      "lon": -155.532165527344,
+      "lat": 19.9491672515869,
+      "depth": -1.79999995231628,
+      "mag": 2.43,
+      "place": "15 km SSW of Honoka‘a, Hawaii",
+      "time": 1782867666160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994232"
+    },
     {
       "id": "nc75387216",
       "lon": -122.845169067383,
@@ -1834,6 +1854,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386711"
     },
     {
+      "id": "av93062984",
+      "lon": -159.69,
+      "lat": 55.9781666666667,
+      "depth": 25.7,
+      "mag": 0.19,
+      "place": "15 km WNW of Ivanof Bay, Alaska",
+      "time": 1782801184030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062984"
+    },
+    {
       "id": "uw714038541",
       "lon": -121.762,
       "lat": 46.8521666666667,
@@ -2372,46 +2402,6 @@
       "place": "11 km ENE of Gardendale, Texas",
       "time": 1782782133755,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026msncmr"
-    },
-    {
-      "id": "aka2026muoida",
-      "lon": -152.239,
-      "lat": 60.291,
-      "depth": 89.2,
-      "mag": 1.9,
-      "place": "41 km NW of Ninilchik, Alaska",
-      "time": 1782781880068,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026muoida"
-    },
-    {
-      "id": "aka2026muogdc",
-      "lon": -148.022,
-      "lat": 62.45,
-      "depth": 23.6,
-      "mag": 1.6,
-      "place": "72 km NW of Eureka Roadhouse, Alaska",
-      "time": 1782781739814,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026muogdc"
-    },
-    {
-      "id": "ci41283983",
-      "lon": -116.4195,
-      "lat": 33.4603333333333,
-      "depth": 2.88,
-      "mag": 0.95,
-      "place": "23 km N of Borrego Springs, CA",
-      "time": 1782781643280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41283983"
-    },
-    {
-      "id": "pr2026181000",
-      "lon": -64.3895,
-      "lat": 19.5731,
-      "depth": 25,
-      "mag": 3.7,
-      "place": "143 km NNE of Cruz Bay, U.S. Virgin Islands",
-      "time": 1782781401150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026181000"
     }
   ]
 }
