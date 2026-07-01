@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T14:31:02Z",
-  "count": 262,
+  "updated": "2026-07-01T14:45:44Z",
+  "count": 261,
   "points": [
+    {
+      "id": "ci41284823",
+      "lon": -116.237166666667,
+      "lat": 33.247,
+      "depth": 9.77,
+      "mag": 0.81,
+      "place": "13 km E of Borrego Springs, CA",
+      "time": 1782916135560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284823"
+    },
     {
       "id": "nc75387536",
       "lon": -123.247001647949,
@@ -205,12 +215,12 @@
     },
     {
       "id": "tx2026mvfter",
-      "lon": -103.591,
-      "lat": 30.978,
-      "depth": 4.6751,
-      "mag": 1.6,
-      "place": "14 km E of Balmorhea, Texas",
-      "time": 1782909806028,
+      "lon": -103.561,
+      "lat": 30.955,
+      "depth": 3.3826,
+      "mag": 1.5,
+      "place": "17 km E of Balmorhea, Texas",
+      "time": 1782909805015,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mvfter"
     },
     {
@@ -714,16 +724,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026muxuqc"
     },
     {
-      "id": "tx2026muxuhl",
-      "lon": -103.599,
-      "lat": 31.011,
-      "depth": 4.7849,
-      "mag": 2,
-      "place": "14 km ENE of Balmorhea, Texas",
-      "time": 1782895400571,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026muxuhl"
-    },
-    {
       "id": "nc75387406",
       "lon": -122.804664611816,
       "lat": 38.8120002746582,
@@ -952,6 +952,16 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1782889928750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387361"
+    },
+    {
+      "id": "uu80143731",
+      "lon": -112.599333333333,
+      "lat": 37.0735,
+      "depth": 18.68,
+      "mag": 2.16,
+      "place": "7 km WNW of Kanab, Utah",
+      "time": 1782889365700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143731"
     },
     {
       "id": "tx2026muublw",
@@ -2602,26 +2612,6 @@
       "place": "51 km W of Anchor Point, Alaska",
       "time": 1782831151316,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mvpsdu"
-    },
-    {
-      "id": "us6000t978",
-      "lon": 150.9338,
-      "lat": -5.727,
-      "depth": 35,
-      "mag": 5.4,
-      "place": "90 km ESE of Kimbe, Papua New Guinea",
-      "time": 1782830470582,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t978"
-    },
-    {
-      "id": "uu80143661",
-      "lon": -110.777166666667,
-      "lat": 44.765,
-      "depth": 2.84,
-      "mag": 0.83,
-      "place": "24 km SSW of Mammoth, Wyoming",
-      "time": 1782830326340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143661"
     }
   ]
 }
