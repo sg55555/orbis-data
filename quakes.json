@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T22:15:41Z",
+  "updated": "2026-07-01T22:31:06Z",
   "count": 261,
   "points": [
     {
+      "id": "ci41284999",
+      "lon": -117.338833333333,
+      "lat": 33.714,
+      "depth": 1.09,
+      "mag": 1.59,
+      "place": "5 km NNW of Lake Elsinore, CA",
+      "time": 1782944187320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284999"
+    },
+    {
       "id": "aka2026myakbr",
-      "lon": -153.466,
-      "lat": 59.765,
-      "depth": 129.1,
-      "mag": 2,
-      "place": "36 km E of Pedro Bay, Alaska",
-      "time": 1782943940162,
+      "lon": -153.383,
+      "lat": 59.766,
+      "depth": 128.9,
+      "mag": 2.5,
+      "place": "40 km E of Pedro Bay, Alaska",
+      "time": 1782943940266,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026myakbr"
     },
     {
@@ -855,12 +865,12 @@
     },
     {
       "id": "aka2026mxigrn",
-      "lon": -160.619,
-      "lat": 63.876,
-      "depth": 34.4,
-      "mag": 3.5,
-      "place": "8 km E of Unalakleet, Alaska",
-      "time": 1782911298202,
+      "lon": -160.586,
+      "lat": 63.873,
+      "depth": 19.8,
+      "mag": 3.6,
+      "place": "9 km E of Unalakleet, Alaska",
+      "time": 1782911296454,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mxigrn"
     },
     {
@@ -2602,16 +2612,6 @@
       "place": "17 km W of Searles Valley, CA",
       "time": 1782858646340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284415"
-    },
-    {
-      "id": "tx2026muczuc",
-      "lon": -102.177,
-      "lat": 32.105,
-      "depth": 6.2744,
-      "mag": 0.7,
-      "place": "15 km NW of Midland, Texas",
-      "time": 1782857765465,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026muczuc"
     }
   ]
 }
