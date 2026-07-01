@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T02:01:04Z",
-  "count": 234,
+  "updated": "2026-07-01T02:15:40Z",
+  "count": 235,
   "points": [
+    {
+      "id": "pr71522163",
+      "lon": -65.5325,
+      "lat": 18.1296666666667,
+      "depth": 14.62,
+      "mag": 2.39,
+      "place": "7 km WNW of Esperanza, Puerto Rico",
+      "time": 1782871071350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522163"
+    },
     {
       "id": "aka2026mwllqa",
       "lon": -158.617,
@@ -1914,6 +1924,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386711"
     },
     {
+      "id": "av93062999",
+      "lon": -159.704333333333,
+      "lat": 55.9871666666667,
+      "depth": 28.39,
+      "mag": 0.33,
+      "place": "16 km NW of Ivanof Bay, Alaska",
+      "time": 1782801238980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062999"
+    },
+    {
+      "id": "av93062989",
+      "lon": -159.696833333333,
+      "lat": 55.9646666666667,
+      "depth": 22.17,
+      "mag": 0.51,
+      "place": "15 km WNW of Ivanof Bay, Alaska",
+      "time": 1782801218550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062989"
+    },
+    {
       "id": "av93062984",
       "lon": -159.69,
       "lat": 55.9781666666667,
@@ -2322,26 +2352,6 @@
       "place": "15 km WSW of Akutan, Alaska",
       "time": 1782785723160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062919"
-    },
-    {
-      "id": "av93062904",
-      "lon": -166.027333333333,
-      "lat": 54.0871666666667,
-      "depth": 15.38,
-      "mag": -0.05,
-      "place": "17 km WSW of Akutan, Alaska",
-      "time": 1782785473660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062904"
-    },
-    {
-      "id": "av93062899",
-      "lon": -165.973666666667,
-      "lat": 54.1263333333333,
-      "depth": 10.32,
-      "mag": -0.19,
-      "place": "13 km W of Akutan, Alaska",
-      "time": 1782785014160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93062899"
     }
   ]
 }
