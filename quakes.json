@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-02T17:31:06Z",
-  "count": 264,
+  "updated": "2026-07-02T17:45:46Z",
+  "count": 263,
   "points": [
     {
       "id": "nc75388096",
@@ -94,6 +94,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285575"
     },
     {
+      "id": "pr71522388",
+      "lon": -67.0426666666667,
+      "lat": 18.0995,
+      "depth": 4.19,
+      "mag": 2.68,
+      "place": "1 km N of San Germán, Puerto Rico",
+      "time": 1783008782280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522388"
+    },
+    {
       "id": "ci41285551",
       "lon": -116.128666666667,
       "lat": 33.2651666666667,
@@ -165,12 +175,12 @@
     },
     {
       "id": "hv74995941",
-      "lon": -155.23616027832,
-      "lat": 19.3840007781982,
-      "depth": 25.6000003814697,
-      "mag": 1.88,
+      "lon": -155.241166666667,
+      "lat": 19.386,
+      "depth": 25.65,
+      "mag": 1.32,
       "place": "6 km S of Volcano, Hawaii",
-      "time": 1783003730680,
+      "time": 1783003730720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74995941"
     },
     {
@@ -822,6 +832,16 @@
       "place": "17 km SE of Silver Springs, Nevada",
       "time": 1782985070504,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921053"
+    },
+    {
+      "id": "uw714040281",
+      "lon": -122.609833333333,
+      "lat": 48.2873333333333,
+      "depth": 24.28,
+      "mag": 1.24,
+      "place": "2 km ESE of Oak Harbor, Washington",
+      "time": 1782984622500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714040281"
     },
     {
       "id": "us6000t9li",
@@ -2612,36 +2632,6 @@
       "place": "47 km SW of Jurm, Afghanistan",
       "time": 1782928622913,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9gg"
-    },
-    {
-      "id": "nc75387636",
-      "lon": -122.732330322266,
-      "lat": 38.7561683654785,
-      "depth": 1.61000001430511,
-      "mag": 1.26,
-      "place": "3 km SE of The Geysers, CA",
-      "time": 1782927571050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387636"
-    },
-    {
-      "id": "nc75387626",
-      "lon": -122.731666564941,
-      "lat": 38.7571678161621,
-      "depth": 1.53999996185303,
-      "mag": 0.95,
-      "place": "3 km SE of The Geysers, CA",
-      "time": 1782927489700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387626"
-    },
-    {
-      "id": "tx2026mvpjll",
-      "lon": -104.443,
-      "lat": 31.651,
-      "depth": 5.4846,
-      "mag": 1.8,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": 1782927362380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mvpjll"
     }
   ]
 }
