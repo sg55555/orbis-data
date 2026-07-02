@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-02T20:15:43Z",
-  "count": 262,
+  "updated": "2026-07-02T20:31:10Z",
+  "count": 263,
   "points": [
     {
       "id": "nc75388181",
@@ -32,6 +32,16 @@
       "place": "11 km SE of Pinnacles, CA",
       "time": 1783021765360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388176"
+    },
+    {
+      "id": "uw714040731",
+      "lon": -122.821666666667,
+      "lat": 46.0415,
+      "depth": -0.29,
+      "mag": 1.6,
+      "place": "4 km NNE of Kalama, Washington",
+      "time": 1783020925560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714040731"
     },
     {
       "id": "nc75388161",
@@ -1904,13 +1914,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387826"
     },
     {
+      "id": "ci10245622",
+      "lon": -117.8045,
+      "lat": 35.3201666666667,
+      "depth": 4.66,
+      "mag": 1.62,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1782961609010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10245622"
+    },
+    {
       "id": "ci41285111",
-      "lon": -117.805333333333,
-      "lat": 35.3098333333333,
-      "depth": 6.64,
-      "mag": 1.75,
+      "lon": -117.805833333333,
+      "lat": 35.3065,
+      "depth": 7.68,
+      "mag": 1.74,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1782961597920,
+      "time": 1782961597810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285111"
     },
     {
@@ -2155,12 +2175,12 @@
     },
     {
       "id": "ci41285047",
-      "lon": -118.4805,
-      "lat": 35.356,
-      "depth": 7.14,
-      "mag": 1.26,
+      "lon": -118.478833333333,
+      "lat": 35.3543333333333,
+      "depth": 7.71,
+      "mag": 1.24,
       "place": "25 km N of Tehachapi, CA",
-      "time": 1782951704620,
+      "time": 1782951704570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285047"
     },
     {
@@ -2612,16 +2632,6 @@
       "place": "13 km ENE of Cloverdale, CA",
       "time": 1782937992890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387691"
-    },
-    {
-      "id": "tx2026mvuxlk",
-      "lon": -102.031,
-      "lat": 32.011,
-      "depth": 6.0791,
-      "mag": 0.7,
-      "place": "4 km ENE of Midland, Texas",
-      "time": 1782937478512,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mvuxlk"
     }
   ]
 }
