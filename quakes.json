@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-02T22:01:16Z",
-  "count": 263,
+  "updated": "2026-07-02T22:15:41Z",
+  "count": 262,
   "points": [
+    {
+      "id": "ci41285735",
+      "lon": -117.669666666667,
+      "lat": 35.9373333333333,
+      "depth": 2.78,
+      "mag": 0.72,
+      "place": "21 km E of Little Lake, CA",
+      "time": 1783030182330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285735"
+    },
     {
       "id": "tx2026mxszrl",
       "lon": -102.018,
@@ -22,6 +32,26 @@
       "place": "29 km ENE of Crane, Texas",
       "time": 1783027222557,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mxspnf"
+    },
+    {
+      "id": "uu80143861",
+      "lon": -110.998,
+      "lat": 44.699,
+      "depth": 6.51,
+      "mag": 0.89,
+      "place": "9 km ENE of West Yellowstone, Montana",
+      "time": 1783027190160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143861"
+    },
+    {
+      "id": "us6000t9q1",
+      "lon": 146.0573,
+      "lat": 18.395,
+      "depth": 158.878,
+      "mag": 4.4,
+      "place": "Pagan region, Northern Mariana Islands",
+      "time": 1783027109338,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9q1"
     },
     {
       "id": "aka2026mzunma",
@@ -285,12 +315,12 @@
     },
     {
       "id": "ci41285623",
-      "lon": -118.320166666667,
-      "lat": 35.0501666666667,
-      "depth": -0.89,
-      "mag": 1.13,
+      "lon": -118.320666666667,
+      "lat": 35.0508333333333,
+      "depth": -1.01,
+      "mag": 1.01,
       "place": "13 km W of Mojave, CA",
-      "time": 1783014905470,
+      "time": 1783014905420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285623"
     },
     {
@@ -2592,46 +2622,6 @@
       "place": "5 km N of Lake Elsinore, CA",
       "time": 1782944187080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284999"
-    },
-    {
-      "id": "aka2026myakbr",
-      "lon": -153.383,
-      "lat": 59.766,
-      "depth": 128.9,
-      "mag": 2.5,
-      "place": "40 km E of Pedro Bay, Alaska",
-      "time": 1782943940266,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026myakbr"
-    },
-    {
-      "id": "us6000t9id",
-      "lon": -100.0804,
-      "lat": 17.2385,
-      "depth": 35,
-      "mag": 4.4,
-      "place": "4 km ENE of Tepetixtla, Mexico",
-      "time": 1782943895600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9id"
-    },
-    {
-      "id": "uu80143776",
-      "lon": -110.339333333333,
-      "lat": 39.5055,
-      "depth": -1.04,
-      "mag": 1.67,
-      "place": "6 km SE of Sunnyside, Utah",
-      "time": 1782943385960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143776"
-    },
-    {
-      "id": "aka2026myabxz",
-      "lon": -150.056,
-      "lat": 66.27,
-      "depth": 5,
-      "mag": 1.5,
-      "place": "52 km WNW of Stevens Village, Alaska",
-      "time": 1782943373592,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026myabxz"
     }
   ]
 }
