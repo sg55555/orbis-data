@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-02T17:20:05Z",
+  "updated": "2026-07-02T17:31:06Z",
   "count": 264,
   "points": [
+    {
+      "id": "nc75388096",
+      "lon": -122.434829711914,
+      "lat": 38.7901649475098,
+      "depth": 7.6100001335144,
+      "mag": 1.35,
+      "place": "11 km E of Hidden Valley Lake, CA",
+      "time": 1783012969690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388096"
+    },
+    {
+      "id": "aka2026mzmqit",
+      "lon": -154.794,
+      "lat": 57.461,
+      "depth": 56.7,
+      "mag": 1.9,
+      "place": "23 km WSW of Karluk, Alaska",
+      "time": 1783012742258,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mzmqit"
+    },
     {
       "id": "ci41285607",
       "lon": -117.818000793457,
@@ -55,12 +75,12 @@
     },
     {
       "id": "tx2026mxjgty",
-      "lon": -101.896,
-      "lat": 32.104,
-      "depth": 3.252,
+      "lon": -101.898,
+      "lat": 32.107,
+      "depth": 9.5459,
       "mag": 2.6,
       "place": "10 km WSW of Stanton, Texas",
-      "time": 1783010321193,
+      "time": 1783010321305,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mxjgty"
     },
     {
@@ -872,6 +892,16 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1782981591860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285351"
+    },
+    {
+      "id": "uw714040271",
+      "lon": -122.185333333333,
+      "lat": 46.2006666666667,
+      "depth": -1.82,
+      "mag": -0.25,
+      "place": "38 km NNE of Amboy, Washington",
+      "time": 1782980725220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714040271"
     },
     {
       "id": "hv74995846",
@@ -2612,36 +2642,6 @@
       "place": "58 km S of Whites City, New Mexico",
       "time": 1782927362380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mvpjll"
-    },
-    {
-      "id": "us6000t9gc",
-      "lon": -179.8909,
-      "lat": -23.7708,
-      "depth": 545.16,
-      "mag": 4.5,
-      "place": "south of the Fiji Islands",
-      "time": 1782926916132,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9gc"
-    },
-    {
-      "id": "ci41284919",
-      "lon": -118.602333333333,
-      "lat": 34.9566666666667,
-      "depth": 8.57,
-      "mag": 1.03,
-      "place": "20 km N of Neenach, CA",
-      "time": 1782926902780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284919"
-    },
-    {
-      "id": "tx2026mvpboy",
-      "lon": -101.941,
-      "lat": 32.059,
-      "depth": 8.5205,
-      "mag": 0.9,
-      "place": "14 km ENE of Midland, Texas",
-      "time": 1782926693907,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mvpboy"
     }
   ]
 }
