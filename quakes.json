@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-01T23:45:48Z",
-  "count": 264,
+  "updated": "2026-07-02T00:01:20Z",
+  "count": 262,
   "points": [
+    {
+      "id": "us6000t9j0",
+      "lon": -111.8404,
+      "lat": 44.7055,
+      "depth": 10,
+      "mag": 2.7,
+      "place": "47 km NE of Spencer, Idaho",
+      "time": 1782949479973,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9j0"
+    },
+    {
+      "id": "pr71522278",
+      "lon": -66.8485,
+      "lat": 17.9423333333333,
+      "depth": 16.25,
+      "mag": 1.91,
+      "place": "5 km SE of Maria Antonia, Puerto Rico",
+      "time": 1782949061650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522278"
+    },
     {
       "id": "ci41285039",
       "lon": -117.6675,
@@ -185,12 +205,12 @@
     },
     {
       "id": "us6000t9hu",
-      "lon": -174.8465,
-      "lat": -16.8952,
-      "depth": 265.922,
+      "lon": -174.8243,
+      "lat": -16.9457,
+      "depth": 259,
       "mag": 5.7,
-      "place": "153 km SW of Hihifo, Tonga",
-      "time": 1782940421188,
+      "place": "155 km SW of Hihifo, Tonga",
+      "time": 1782940420262,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9hu"
     },
     {
@@ -1864,6 +1884,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522168"
     },
     {
+      "id": "hv74994387",
+      "lon": -155.414333333333,
+      "lat": 19.1001666666667,
+      "depth": 50.74,
+      "mag": 2.39,
+      "place": "13 km SSE of Pāhala, Hawaii",
+      "time": 1782888188880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994387"
+    },
+    {
       "id": "ci41284575",
       "lon": -117.0775,
       "lat": 34.2153333333333,
@@ -2592,56 +2622,6 @@
       "place": "5 km W of Palomar Observatory, CA",
       "time": 1782865078020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284439"
-    },
-    {
-      "id": "nc75387191",
-      "lon": -122.765167236328,
-      "lat": 38.787166595459,
-      "depth": 3.76999998092651,
-      "mag": 0.72,
-      "place": "1 km NW of The Geysers, CA",
-      "time": 1782863944240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387191"
-    },
-    {
-      "id": "ci41284431",
-      "lon": -117.665666666667,
-      "lat": 35.8298333333333,
-      "depth": 9.74,
-      "mag": 1.61,
-      "place": "23 km N of Ridgecrest, CA",
-      "time": 1782863759340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284431"
-    },
-    {
-      "id": "pr71522158",
-      "lon": -66.8376666666667,
-      "lat": 17.9491666666667,
-      "depth": 13.44,
-      "mag": 1.75,
-      "place": "5 km SSW of Indios, Puerto Rico",
-      "time": 1782863593420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522158"
-    },
-    {
-      "id": "aka2026mwhpbi",
-      "lon": -151.242,
-      "lat": 62.944,
-      "depth": 111.9,
-      "mag": 2.2,
-      "place": "55 km NNW of Petersville, Alaska",
-      "time": 1782863321133,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mwhpbi"
-    },
-    {
-      "id": "nc75387186",
-      "lon": -121.201332092285,
-      "lat": 36.6028327941895,
-      "depth": 6.28000020980835,
-      "mag": 1.35,
-      "place": "9 km NNW of Pinnacles, CA",
-      "time": 1782863232720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387186"
     }
   ]
 }
