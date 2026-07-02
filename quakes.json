@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-02T00:45:40Z",
-  "count": 264,
+  "updated": "2026-07-02T01:01:03Z",
+  "count": 267,
   "points": [
+    {
+      "id": "nc75387771",
+      "lon": -122.849670410156,
+      "lat": 38.8515014648438,
+      "depth": 1.13999998569489,
+      "mag": 0.49,
+      "place": "11 km WNW of Cobb, CA",
+      "time": 1782953726750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387771"
+    },
     {
       "id": "hv74994897",
       "lon": -155.488327026367,
@@ -24,6 +34,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285063"
     },
     {
+      "id": "us6000t9j7",
+      "lon": -75.2307,
+      "lat": -38.1347,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "150 km WSW of Lebu, Chile",
+      "time": 1782951919888,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9j7"
+    },
+    {
       "id": "ci41285047",
       "lon": -118.4805,
       "lat": 35.356,
@@ -32,6 +52,36 @@
       "place": "25 km N of Tehachapi, CA",
       "time": 1782951704620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285047"
+    },
+    {
+      "id": "av94282518",
+      "lon": -178.833,
+      "lat": 51.759,
+      "depth": 14.78,
+      "mag": 1.8,
+      "place": "152 km W of Adak, Alaska",
+      "time": 1782951646450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94282518"
+    },
+    {
+      "id": "av94282508",
+      "lon": -152.850166666667,
+      "lat": 60.0336666666667,
+      "depth": 14.21,
+      "mag": -0.11,
+      "place": "63 km W of Happy Valley, Alaska",
+      "time": 1782951540590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94282508"
+    },
+    {
+      "id": "av94282503",
+      "lon": -136.237833333333,
+      "lat": 56.9145,
+      "depth": 12.67,
+      "mag": 1.2,
+      "place": "57 km WSW of Sitka, Alaska",
+      "time": 1782951287980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94282503"
     },
     {
       "id": "av94282498",
@@ -452,6 +502,16 @@
       "place": "15 km NNE of Tomé, Chile",
       "time": 1782935522010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9h4"
+    },
+    {
+      "id": "ci41284951",
+      "lon": -117.769666666667,
+      "lat": 33.8435,
+      "depth": 6.98,
+      "mag": 0.88,
+      "place": "5 km NE of Villa Park, CA",
+      "time": 1782935266790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284951"
     },
     {
       "id": "tx2026mvthds",
@@ -2612,36 +2672,6 @@
       "place": "11 km ESE of Waimea, Hawaii",
       "time": 1782867666670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994232"
-    },
-    {
-      "id": "av94280923",
-      "lon": -151.848166666667,
-      "lat": 61.3625,
-      "depth": 2.19,
-      "mag": -0.22,
-      "place": "47 km WNW of Beluga, Alaska",
-      "time": 1782867410080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94280923"
-    },
-    {
-      "id": "nc75387216",
-      "lon": -122.845169067383,
-      "lat": 38.8468322753906,
-      "depth": 1.27999997138977,
-      "mag": 0.23,
-      "place": "11 km NW of The Geysers, CA",
-      "time": 1782867403070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387216"
-    },
-    {
-      "id": "nc75387211",
-      "lon": -121.266502380371,
-      "lat": 36.746166229248,
-      "depth": 9.21000003814697,
-      "mag": 1.31,
-      "place": "7 km SE of Tres Pinos, CA",
-      "time": 1782867347440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387211"
     }
   ]
 }
