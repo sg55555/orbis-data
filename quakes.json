@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-02T08:31:00Z",
-  "count": 286,
+  "updated": "2026-07-02T08:45:43Z",
+  "count": 283,
   "points": [
+    {
+      "id": "ci41285351",
+      "lon": -117.8105,
+      "lat": 35.3186666666667,
+      "depth": 8.06,
+      "mag": 0.82,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1782981591860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285351"
+    },
     {
       "id": "hv74995846",
       "lon": -155.507659912109,
@@ -122,6 +132,16 @@
       "place": "3 km E of Oak Harbor, Washington",
       "time": 1782976038800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714040251"
+    },
+    {
+      "id": "us6000t9l3",
+      "lon": -66.7559,
+      "lat": 18.9837,
+      "depth": 35,
+      "mag": 3.6,
+      "place": "55 km N of Hatillo, Puerto Rico",
+      "time": 1782975915036,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9l3"
     },
     {
       "id": "ci41285303",
@@ -2812,56 +2832,6 @@
       "place": "6 km SSE of Big Bear Lake, CA",
       "time": 1782895526100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284631"
-    },
-    {
-      "id": "tx2026muxuqc",
-      "lon": -103.653,
-      "lat": 31.016,
-      "depth": 6.1255,
-      "mag": 1.7,
-      "place": "9 km ENE of Balmorhea, Texas",
-      "time": 1782895427943,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026muxuqc"
-    },
-    {
-      "id": "nc75387406",
-      "lon": -122.804664611816,
-      "lat": 38.8120002746582,
-      "depth": 2.25,
-      "mag": 0.68,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1782895348420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387406"
-    },
-    {
-      "id": "aka2026mwziqd",
-      "lon": -151.521,
-      "lat": 61.774,
-      "depth": 73.9,
-      "mag": 1.7,
-      "place": "24 km SSW of Skwentna, Alaska",
-      "time": 1782895259820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mwziqd"
-    },
-    {
-      "id": "ci41284623",
-      "lon": -116.886666666667,
-      "lat": 34.1926666666667,
-      "depth": 2.67,
-      "mag": 0.47,
-      "place": "6 km SSE of Big Bear Lake, CA",
-      "time": 1782894903720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284623"
-    },
-    {
-      "id": "aka2026mwzaho",
-      "lon": -148.201,
-      "lat": 61.665,
-      "depth": 23.5,
-      "mag": 2,
-      "place": "20 km SE of Chickaloon, Alaska",
-      "time": 1782894685948,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mwzaho"
     }
   ]
 }
