@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-02T16:31:06Z",
-  "count": 266,
+  "updated": "2026-07-02T16:45:42Z",
+  "count": 261,
   "points": [
+    {
+      "id": "tx2026mxjgty",
+      "lon": -101.896,
+      "lat": 32.104,
+      "depth": 3.252,
+      "mag": 2.6,
+      "place": "10 km WSW of Stanton, Texas",
+      "time": 1783010321193,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mxjgty"
+    },
     {
       "id": "ci41285575",
       "lon": -117.802166666667,
@@ -605,12 +615,12 @@
     },
     {
       "id": "uw714040321",
-      "lon": -122.590835571289,
-      "lat": 48.291332244873,
-      "depth": 25.3799991607666,
-      "mag": 1.97120141983032,
-      "place": "3 km E of Oak Harbor, Washington",
-      "time": 1782989454870,
+      "lon": -122.605166666667,
+      "lat": 48.2938333333333,
+      "depth": 26,
+      "mag": 2.02,
+      "place": "2 km E of Oak Harbor, Washington",
+      "time": 1782989454780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714040321"
     },
     {
@@ -1152,16 +1162,6 @@
       "place": "13 km SSE of Stonewall Gap, Colorado",
       "time": 1782973098034,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kv"
-    },
-    {
-      "id": "nn00921045",
-      "lon": -116.6165,
-      "lat": 35.8857,
-      "depth": 15.0054,
-      "mag": 1.55,
-      "place": "32 km WSW of Shoshone, California",
-      "time": 1782973092057,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921045"
     },
     {
       "id": "ci41285223",
@@ -2612,56 +2612,6 @@
       "place": "4 km W of Cobb, CA",
       "time": 1782925184820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387611"
-    },
-    {
-      "id": "av93063284",
-      "lon": -154.890833333333,
-      "lat": 58.3103333333333,
-      "depth": 5.31,
-      "mag": -0.26,
-      "place": "86 km NNW of Karluk, Alaska",
-      "time": 1782924282880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063284"
-    },
-    {
-      "id": "av94281898",
-      "lon": -154.8745,
-      "lat": 58.3023333333333,
-      "depth": 4.88,
-      "mag": -0.18,
-      "place": "85 km NNW of Karluk, Alaska",
-      "time": 1782924168170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94281898"
-    },
-    {
-      "id": "tx2026mvnonb",
-      "lon": -103.457,
-      "lat": 31.342,
-      "depth": 15.1642,
-      "mag": 2.2,
-      "place": "8 km ESE of Lindsay, Texas",
-      "time": 1782923963799,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mvnonb"
-    },
-    {
-      "id": "nn00921005",
-      "lon": -119.016,
-      "lat": 39.3438,
-      "depth": 6.9815,
-      "mag": 1.93,
-      "place": "19 km ESE of Silver Springs, Nevada",
-      "time": 1782923616604,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921005"
-    },
-    {
-      "id": "aka2026mxpayh",
-      "lon": -147.786,
-      "lat": 60.389,
-      "depth": 12.4,
-      "mag": 1.6,
-      "place": "38 km NNE of Chenega, Alaska",
-      "time": 1782923515859,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mxpayh"
     }
   ]
 }
