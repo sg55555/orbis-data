@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-02T00:18:12Z",
-  "count": 262,
+  "updated": "2026-07-02T00:30:59Z",
+  "count": 264,
   "points": [
+    {
+      "id": "ci41285047",
+      "lon": -118.4805,
+      "lat": 35.356,
+      "depth": 7.14,
+      "mag": 1.26,
+      "place": "25 km N of Tehachapi, CA",
+      "time": 1782951704620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285047"
+    },
+    {
+      "id": "pr71522293",
+      "lon": -66.8285,
+      "lat": 18.0261666666667,
+      "depth": 13.06,
+      "mag": 1.95,
+      "place": "2 km ESE of Yauco, Puerto Rico",
+      "time": 1782950894600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522293"
+    },
+    {
+      "id": "av94282483",
+      "lon": -169.755166666667,
+      "lat": 52.75,
+      "depth": 10.18,
+      "mag": 1.65,
+      "place": "63 km WSW of Nikolski, Alaska",
+      "time": 1782950615420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94282483"
+    },
     {
       "id": "us6000t9j0",
       "lon": -111.8404,
@@ -132,6 +162,16 @@
       "place": "40 km E of Pedro Bay, Alaska",
       "time": 1782943940266,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026myakbr"
+    },
+    {
+      "id": "us6000t9id",
+      "lon": -100.0804,
+      "lat": 17.2385,
+      "depth": 35,
+      "mag": 4.4,
+      "place": "4 km ENE of Tepetixtla, Mexico",
+      "time": 1782943895600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9id"
     },
     {
       "id": "aka2026myabxz",
@@ -875,12 +915,12 @@
     },
     {
       "id": "hv74994507",
-      "lon": -155.486999511719,
-      "lat": 19.1548328399658,
-      "depth": 28.25,
-      "mag": 2.11,
-      "place": "5 km S of Pāhala, Hawaii",
-      "time": 1782914133810,
+      "lon": -155.4885,
+      "lat": 19.1646666666667,
+      "depth": 30.17,
+      "mag": 1.56,
+      "place": "4 km SSW of Pāhala, Hawaii",
+      "time": 1782914133730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994507"
     },
     {
@@ -1964,6 +2004,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994372"
     },
     {
+      "id": "av93063229",
+      "lon": -159.608666666667,
+      "lat": 56.187,
+      "depth": 14.32,
+      "mag": 0.38,
+      "place": "32 km NNW of Ivanof Bay, Alaska",
+      "time": 1782887353980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063229"
+    },
+    {
       "id": "us6000t9cu",
       "lon": 170.7102,
       "lat": -22.7972,
@@ -2592,36 +2642,6 @@
       "place": "19 km S of Lima, Montana",
       "time": 1782866115247,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9bn"
-    },
-    {
-      "id": "av93063184",
-      "lon": -154.421,
-      "lat": 58.6683333333333,
-      "depth": 5.09,
-      "mag": -0.18,
-      "place": "88 km SSE of Kokhanok, Alaska",
-      "time": 1782865585240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063184"
-    },
-    {
-      "id": "hv74994187",
-      "lon": -155.427505493164,
-      "lat": 19.0556659698486,
-      "depth": 39.9599990844727,
-      "mag": 1.77,
-      "place": "16 km E of Naalehu, Hawaii",
-      "time": 1782865514660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994187"
-    },
-    {
-      "id": "ci41284439",
-      "lon": -116.919333333333,
-      "lat": 33.3471666666667,
-      "depth": 7.32,
-      "mag": 0.91,
-      "place": "5 km W of Palomar Observatory, CA",
-      "time": 1782865078020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284439"
     }
   ]
 }
