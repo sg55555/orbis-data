@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-02T13:31:00Z",
-  "count": 266,
+  "updated": "2026-07-02T13:45:45Z",
+  "count": 267,
   "points": [
+    {
+      "id": "nc75387991",
+      "lon": -122.794166564941,
+      "lat": 38.8196678161621,
+      "depth": 3.85999989509583,
+      "mag": 0.72,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1782999183640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387991"
+    },
+    {
+      "id": "ci41285479",
+      "lon": -117.598333333333,
+      "lat": 34.1203333333333,
+      "depth": 11.03,
+      "mag": 1.02,
+      "place": "2 km W of Rancho Cucamonga, CA",
+      "time": 1782998971880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285479"
+    },
     {
       "id": "ci41285471",
       "lon": -116.715166666667,
@@ -242,6 +262,16 @@
       "place": "14 km ENE of Eielson Air Force Base, Alaska",
       "time": 1782990745858,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mzakmf"
+    },
+    {
+      "id": "tx2026mwykwa",
+      "lon": -101.933,
+      "lat": 32.264,
+      "depth": 5.9814,
+      "mag": 0.4,
+      "place": "20 km NW of Stanton, Texas",
+      "time": 1782990691852,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mwykwa"
     },
     {
       "id": "aka2026mzahpt",
@@ -2642,26 +2672,6 @@
       "place": "66 km NE of Chignik, Alaska",
       "time": 1782913573956,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mxjnib"
-    },
-    {
-      "id": "us6000t9f9",
-      "lon": -83.2596,
-      "lat": 8.7365,
-      "depth": 27.196,
-      "mag": 4.4,
-      "place": "21 km NW of Golfito, Costa Rica",
-      "time": 1782913276690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9f9"
-    },
-    {
-      "id": "av93063269",
-      "lon": -176.556333333333,
-      "lat": 51.8841666666667,
-      "depth": 2.93,
-      "mag": 1.5,
-      "place": "5 km ENE of Adak, Alaska",
-      "time": 1782913169590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063269"
     }
   ]
 }
