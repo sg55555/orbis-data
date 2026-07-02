@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-02T02:45:42Z",
+  "updated": "2026-07-02T03:01:07Z",
   "count": 267,
   "points": [
+    {
+      "id": "ci41285095",
+      "lon": -116.42,
+      "lat": 33.4556666666667,
+      "depth": 12.64,
+      "mag": 1.01,
+      "place": "23 km N of Borrego Springs, CA",
+      "time": 1782960665240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285095"
+    },
     {
       "id": "aka2026myjkqr",
       "lon": -156.463,
@@ -362,6 +372,16 @@
       "place": "21 km E of Little Lake, CA",
       "time": 1782946379010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285015"
+    },
+    {
+      "id": "av94282308",
+      "lon": -178.8205,
+      "lat": 51.7621666666667,
+      "depth": 10.22,
+      "mag": 1.15,
+      "place": "151 km W of Adak, Alaska",
+      "time": 1782944674650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94282308"
     },
     {
       "id": "ci41284999",
@@ -2652,26 +2672,6 @@
       "place": "11 km W of Akutan, Alaska",
       "time": 1782875285780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063204"
-    },
-    {
-      "id": "ci41284487",
-      "lon": -117.893666666667,
-      "lat": 36.1296666666667,
-      "depth": 3.48,
-      "mag": 0.66,
-      "place": "11 km NNE of Coso Junction, CA",
-      "time": 1782874851310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284487"
-    },
-    {
-      "id": "aka2026mwnzhp",
-      "lon": -152.933,
-      "lat": 58.897,
-      "depth": 65.9,
-      "mag": 1.8,
-      "place": "77 km SW of Nanwalek, Alaska",
-      "time": 1782874825739,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mwnzhp"
     }
   ]
 }
