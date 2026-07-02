@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-02T15:54:33Z",
-  "count": 275,
+  "updated": "2026-07-02T16:01:10Z",
+  "count": 274,
   "points": [
     {
+      "id": "ci41285551",
+      "lon": -116.128666666667,
+      "lat": 33.2651666666667,
+      "depth": 4.82,
+      "mag": 0.7,
+      "place": "14 km N of Ocotillo Wells, CA",
+      "time": 1783007799470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285551"
+    },
+    {
       "id": "aka2026mzjshm",
-      "lon": -149.29,
-      "lat": 63.67,
-      "depth": 118.2,
-      "mag": 1.6,
+      "lon": -149.269,
+      "lat": 63.667,
+      "depth": 119.9,
+      "mag": 2.6,
       "place": "19 km WSW of Denali Park, Alaska",
-      "time": 1783007479628,
+      "time": 1783007479530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mzjshm"
     },
     {
@@ -2732,26 +2742,6 @@
       "place": "59 km S of Boca de Yuma, Dominican Republic",
       "time": 1782921859290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026182001"
-    },
-    {
-      "id": "ci41284887",
-      "lon": -118.912833333333,
-      "lat": 34.8298333333333,
-      "depth": 10.19,
-      "mag": 2.02,
-      "place": "3 km ENE of Frazier Park, CA",
-      "time": 1782921599900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284887"
-    },
-    {
-      "id": "pr71522238",
-      "lon": -68.6568333333333,
-      "lat": 18.6806666666667,
-      "depth": 85.28,
-      "mag": 3.38,
-      "place": "3 km N of Otra Banda, Dominican Republic",
-      "time": 1782921457310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522238"
     }
   ]
 }
