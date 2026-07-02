@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-02T08:21:24Z",
-  "count": 288,
+  "updated": "2026-07-02T08:31:00Z",
+  "count": 286,
   "points": [
+    {
+      "id": "hv74995846",
+      "lon": -155.507659912109,
+      "lat": 19.2110004425049,
+      "depth": 0.170000001788139,
+      "mag": 1.87,
+      "place": "3 km WNW of Pāhala, Hawaii",
+      "time": 1782980503330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74995846"
+    },
     {
       "id": "ci41285343",
       "lon": -116.301333333333,
@@ -465,12 +475,12 @@
     },
     {
       "id": "tx2026mwlwaa",
-      "lon": -100.956,
+      "lon": -100.966,
       "lat": 32.209,
-      "depth": 0.1739,
-      "mag": 1.8,
-      "place": "17 km SSE of Westbrook, Texas",
-      "time": 1782967933577,
+      "depth": 5.835,
+      "mag": 1.7,
+      "place": "16 km SSE of Westbrook, Texas",
+      "time": 1782967933397,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mwlwaa"
     },
     {
@@ -2852,36 +2862,6 @@
       "place": "20 km SE of Chickaloon, Alaska",
       "time": 1782894685948,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mwzaho"
-    },
-    {
-      "id": "ci41284615",
-      "lon": -116.641,
-      "lat": 33.1395,
-      "depth": 4.64,
-      "mag": 0.53,
-      "place": "8 km NNW of Julian, CA",
-      "time": 1782894514510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284615"
-    },
-    {
-      "id": "tx2026muxgfe",
-      "lon": -99.154,
-      "lat": 28.795,
-      "depth": 2.2607,
-      "mag": 1.8,
-      "place": "11 km N of Hilltop, Texas",
-      "time": 1782894416509,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026muxgfe"
-    },
-    {
-      "id": "ci41284607",
-      "lon": -117.491833333333,
-      "lat": 35.6841666666667,
-      "depth": 5.74,
-      "mag": 0.9,
-      "place": "12 km SW of Searles Valley, CA",
-      "time": 1782894132710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284607"
     }
   ]
 }
