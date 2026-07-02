@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-02T05:15:42Z",
-  "count": 283,
+  "updated": "2026-07-02T05:30:59Z",
+  "count": 284,
   "points": [
+    {
+      "id": "nc75387881",
+      "lon": -122.465835571289,
+      "lat": 37.6008338928223,
+      "depth": 8.53999996185303,
+      "mag": 1.43,
+      "place": "2 km SE of Pacifica, CA",
+      "time": 1782969745460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387881"
+    },
+    {
+      "id": "aka2026myosnl",
+      "lon": -148.07,
+      "lat": 60.793,
+      "depth": 68.9,
+      "mag": 0.9,
+      "place": "33 km E of Whittier, Alaska",
+      "time": 1782969713184,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026myosnl"
+    },
     {
       "id": "nn00921043",
       "lon": -117.8063,
@@ -1342,6 +1362,16 @@
       "place": "14 km W of Searles Valley, CA",
       "time": 1782920747410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284879"
+    },
+    {
+      "id": "av94281823",
+      "lon": -153.067,
+      "lat": 60.056,
+      "depth": 0.82,
+      "mag": -1.31,
+      "place": "65 km ENE of Pedro Bay, Alaska",
+      "time": 1782920705070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94281823"
     },
     {
       "id": "aka2026mxnjdp",
@@ -2812,26 +2842,6 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1782884130870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387321"
-    },
-    {
-      "id": "tx2026murizx",
-      "lon": -102.044,
-      "lat": 32.401,
-      "depth": 8.1299,
-      "mag": 1.1,
-      "place": "33 km WSW of Ackerly, Texas",
-      "time": 1782883752336,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026murizx"
-    },
-    {
-      "id": "uw714038492",
-      "lon": -121.997166666667,
-      "lat": 46.8178333333333,
-      "depth": 6.02,
-      "mag": 0.42,
-      "place": "7 km NNE of Ashford, Washington",
-      "time": 1782883258470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714038492"
     }
   ]
 }
