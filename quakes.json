@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-02T15:31:02Z",
-  "count": 276,
+  "updated": "2026-07-02T15:45:53Z",
+  "count": 275,
   "points": [
+    {
+      "id": "nc75388051",
+      "lon": -122.817832946777,
+      "lat": 38.806999206543,
+      "depth": 2.79999995231628,
+      "mag": 1.07,
+      "place": "6 km WNW of The Geysers, CA",
+      "time": 1783006906860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388051"
+    },
     {
       "id": "ci41285535",
       "lon": -115.54,
@@ -1614,6 +1624,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143811"
     },
     {
+      "id": "tx2026mwgiar",
+      "lon": -101.753,
+      "lat": 31.916,
+      "depth": 7.9834,
+      "mag": 0.4,
+      "place": "23 km S of Stanton, Texas",
+      "time": 1782957908687,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mwgiar"
+    },
+    {
       "id": "ci41285079",
       "lon": -117.915666666667,
       "lat": 35.9778333333333,
@@ -2732,36 +2752,6 @@
       "place": "14 km W of Searles Valley, CA",
       "time": 1782920747410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284879"
-    },
-    {
-      "id": "av94281823",
-      "lon": -153.067,
-      "lat": 60.056,
-      "depth": 0.82,
-      "mag": -1.31,
-      "place": "65 km ENE of Pedro Bay, Alaska",
-      "time": 1782920705070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94281823"
-    },
-    {
-      "id": "aka2026mxnjdp",
-      "lon": -157.08,
-      "lat": 57.16,
-      "depth": 101.1,
-      "mag": 1.9,
-      "place": "43 km SSE of Ugashik, Alaska",
-      "time": 1782920479516,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mxnjdp"
-    },
-    {
-      "id": "ci41284871",
-      "lon": -117.804333333333,
-      "lat": 35.3063333333333,
-      "depth": 7.23,
-      "mag": 1.45,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1782920070680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284871"
     }
   ]
 }
