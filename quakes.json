@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-02T18:15:46Z",
-  "count": 268,
+  "updated": "2026-07-02T18:31:02Z",
+  "count": 269,
   "points": [
+    {
+      "id": "ci41285639",
+      "lon": -117.804,
+      "lat": 35.3055,
+      "depth": 6.2,
+      "mag": 1.35,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1783016824860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285639"
+    },
+    {
+      "id": "nc75388131",
+      "lon": -122.792999267578,
+      "lat": 38.8301658630371,
+      "depth": 1.70000004768372,
+      "mag": 0.7,
+      "place": "6 km W of Cobb, CA",
+      "time": 1783016152020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388131"
+    },
+    {
+      "id": "nc75388121",
+      "lon": -122.792503356934,
+      "lat": 38.8308334350586,
+      "depth": 1.75,
+      "mag": 1.04,
+      "place": "6 km W of Cobb, CA",
+      "time": 1783016061960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388121"
+    },
     {
       "id": "ci41285631",
       "lon": -117.483166666667,
@@ -22,6 +52,16 @@
       "place": "13 km W of Mojave, CA",
       "time": 1783014905470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285623"
+    },
+    {
+      "id": "uu80143841",
+      "lon": -112.877833333333,
+      "lat": 38.5111666666667,
+      "depth": 1.95,
+      "mag": 1.09,
+      "place": "17 km NE of Milford, Utah",
+      "time": 1783014655140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143841"
     },
     {
       "id": "ci41285615",
@@ -65,12 +105,12 @@
     },
     {
       "id": "ci41285607",
-      "lon": -117.817833333333,
-      "lat": 35.3081666666667,
-      "depth": 8.85,
-      "mag": 1.46,
+      "lon": -117.817166666667,
+      "lat": 35.3066666666667,
+      "depth": 8.64,
+      "mag": 1.41,
       "place": "18 km WSW of Johannesburg, CA",
-      "time": 1783011882660,
+      "time": 1783011882650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285607"
     },
     {
@@ -162,6 +202,16 @@
       "place": "19 km WSW of Denali Park, Alaska",
       "time": 1783007479530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mzjshm"
+    },
+    {
+      "id": "uw714040531",
+      "lon": -122.827166666667,
+      "lat": 47.4113333333333,
+      "depth": 15.75,
+      "mag": 0.7,
+      "place": "2 km N of Allyn, Washington",
+      "time": 1783007141960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714040531"
     },
     {
       "id": "nc75388051",
@@ -1335,12 +1385,12 @@
     },
     {
       "id": "ci41285223",
-      "lon": -116.123832702637,
-      "lat": 33.2536659240723,
-      "depth": 9.5600004196167,
-      "mag": 3.26949813565297,
+      "lon": -116.123166666667,
+      "lat": 33.252,
+      "depth": 10.19,
+      "mag": 3.39,
       "place": "12 km N of Ocotillo Wells, CA",
-      "time": 1782973046390,
+      "time": 1782973046320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285223"
     },
     {
@@ -2642,46 +2692,6 @@
       "place": "5 km SSW of Big Lake, Alaska",
       "time": 1782931190002,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mxthvg"
-    },
-    {
-      "id": "av94281998",
-      "lon": -159.406166666667,
-      "lat": 56.1663333333333,
-      "depth": 17.68,
-      "mag": 0.21,
-      "place": "29 km N of Ivanof Bay, Alaska",
-      "time": 1782930542930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94281998"
-    },
-    {
-      "id": "nc75387656",
-      "lon": -122.813499450684,
-      "lat": 38.8113327026367,
-      "depth": 2.91000008583069,
-      "mag": 1.22,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1782930119860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387656"
-    },
-    {
-      "id": "tx2026mvqyis",
-      "lon": -103.884,
-      "lat": 31.494,
-      "depth": 5.8435,
-      "mag": 2,
-      "place": "21 km NNW of Toyah, Texas",
-      "time": 1782930095764,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mvqyis"
-    },
-    {
-      "id": "us6000t9gi",
-      "lon": -149.7186,
-      "lat": 56.2109,
-      "depth": 10,
-      "mag": 3.3,
-      "place": "220 km SE of Chiniak, Alaska",
-      "time": 1782929960929,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9gi"
     }
   ]
 }
