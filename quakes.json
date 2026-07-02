@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-02T07:30:57Z",
-  "count": 292,
+  "updated": "2026-07-02T07:45:43Z",
+  "count": 287,
   "points": [
     {
       "id": "ci41285327",
@@ -104,6 +104,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mwpzio"
     },
     {
+      "id": "uw714040241",
+      "lon": -121.891333333333,
+      "lat": 46.7191666666667,
+      "depth": 2.06,
+      "mag": 0.61,
+      "place": "11 km ESE of Ashford, Washington",
+      "time": 1782975333060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714040241"
+    },
+    {
       "id": "ci41285279",
       "lon": -116.124666666667,
       "lat": 33.2573333333333,
@@ -115,12 +125,12 @@
     },
     {
       "id": "uw714040231",
-      "lon": -122.602333068848,
-      "lat": 48.2788314819336,
-      "depth": 26.9500007629395,
-      "mag": 2.54609513282776,
-      "place": "3 km ESE of Oak Harbor, Washington",
-      "time": 1782974935880,
+      "lon": -122.606333333333,
+      "lat": 48.2895,
+      "depth": 25.5,
+      "mag": 2.31,
+      "place": "2 km E of Oak Harbor, Washington",
+      "time": 1782974936010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714040231"
     },
     {
@@ -1202,6 +1212,16 @@
       "place": "13 km ENE of Cloverdale, CA",
       "time": 1782937992890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387691"
+    },
+    {
+      "id": "av94282123",
+      "lon": -155.3265,
+      "lat": 58.1626666666667,
+      "depth": 2.05,
+      "mag": 0.05,
+      "place": "83 km NW of Karluk, Alaska",
+      "time": 1782936783510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94282123"
     },
     {
       "id": "tx2026mvundm",
@@ -2852,76 +2872,6 @@
       "place": "17 km ESE of Little Lake, CA",
       "time": 1782891946230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284599"
-    },
-    {
-      "id": "pr71522173",
-      "lon": -67.035,
-      "lat": 18.279,
-      "depth": 18.12,
-      "mag": 2.24,
-      "place": "5 km WNW of Las Marías, Puerto Rico",
-      "time": 1782891842360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522173"
-    },
-    {
-      "id": "ci41284591",
-      "lon": -116.120333333333,
-      "lat": 33.2645,
-      "depth": 10.72,
-      "mag": 0.49,
-      "place": "14 km N of Ocotillo Wells, CA",
-      "time": 1782891820630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284591"
-    },
-    {
-      "id": "nc75387371",
-      "lon": -122.789169311523,
-      "lat": 38.8161659240723,
-      "depth": 1.16999995708466,
-      "mag": 1.13,
-      "place": "5 km NNW of The Geysers, CA",
-      "time": 1782891770300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387371"
-    },
-    {
-      "id": "tx2026muvttn",
-      "lon": -104.407,
-      "lat": 31.674,
-      "depth": 6.0999,
-      "mag": 1.9,
-      "place": "55 km S of Whites City, New Mexico",
-      "time": 1782891743624,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026muvttn"
-    },
-    {
-      "id": "nn00920981",
-      "lon": -114.7765,
-      "lat": 36.5786,
-      "depth": 3.1159,
-      "mag": 1.52,
-      "place": "19 km SW of Moapa Town, Nevada",
-      "time": 1782891743411,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920981"
-    },
-    {
-      "id": "nc75387366",
-      "lon": -122.816329956055,
-      "lat": 38.8289985656738,
-      "depth": 1.87000000476837,
-      "mag": 0.76,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1782891319160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387366"
-    },
-    {
-      "id": "av93063234",
-      "lon": -154.875666666667,
-      "lat": 58.3035,
-      "depth": 4.25,
-      "mag": -0.06,
-      "place": "85 km NNW of Karluk, Alaska",
-      "time": 1782891061090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063234"
     }
   ]
 }
