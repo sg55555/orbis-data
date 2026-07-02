@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-02T05:30:59Z",
-  "count": 284,
+  "updated": "2026-07-02T05:45:43Z",
+  "count": 285,
   "points": [
+    {
+      "id": "us6000t9kl",
+      "lon": -23.537,
+      "lat": -60.9974,
+      "depth": 10,
+      "mag": 5.3,
+      "place": "South Sandwich Islands region",
+      "time": 1782969797823,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kl"
+    },
     {
       "id": "nc75387881",
       "lon": -122.465835571289,
@@ -22,6 +32,16 @@
       "place": "33 km E of Whittier, Alaska",
       "time": 1782969713184,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026myosnl"
+    },
+    {
+      "id": "us6000t9kj",
+      "lon": -8.4887,
+      "lat": -57.8826,
+      "depth": 10,
+      "mag": 5.2,
+      "place": "east of the South Sandwich Islands",
+      "time": 1782969240518,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kj"
     },
     {
       "id": "nn00921043",
@@ -1272,6 +1292,16 @@
       "place": "18 km N of Chignik Lagoon, Alaska",
       "time": 1782922859491,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mxorlw"
+    },
+    {
+      "id": "av94281863",
+      "lon": -153.081166666667,
+      "lat": 60.0505,
+      "depth": 0.43,
+      "mag": -0.69,
+      "place": "64 km ENE of Pedro Bay, Alaska",
+      "time": 1782922746960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94281863"
     },
     {
       "id": "us6000t9fz",
@@ -2822,26 +2852,6 @@
       "place": "5 km SW of Idyllwild, CA",
       "time": 1782884900730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41284535"
-    },
-    {
-      "id": "uu80007593",
-      "lon": -111.556666666667,
-      "lat": 40.8521666666667,
-      "depth": 9.9,
-      "mag": 0.42,
-      "place": "12 km NNE of Summit Park, Utah",
-      "time": 1782884390480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007593"
-    },
-    {
-      "id": "nc75387321",
-      "lon": -122.792167663574,
-      "lat": 38.835334777832,
-      "depth": 2.05999994277954,
-      "mag": 0.21,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1782884130870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387321"
     }
   ]
 }
