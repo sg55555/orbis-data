@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-03T15:31:05Z",
-  "count": 194,
+  "updated": "2026-07-03T15:45:53Z",
+  "count": 195,
   "points": [
+    {
+      "id": "aka2026nbfekj",
+      "lon": -151.673,
+      "lat": 61.025,
+      "depth": 76.3,
+      "mag": 1.4,
+      "place": "29 km W of Tyonek, Alaska",
+      "time": 1783092879372,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nbfekj"
+    },
+    {
+      "id": "nc75388656",
+      "lon": -122.791496276855,
+      "lat": 38.8113327026367,
+      "depth": 3.17000007629395,
+      "mag": 0.75,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1783092839580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388656"
+    },
     {
       "id": "ci41286015",
       "lon": -117.077,
@@ -185,12 +205,12 @@
     },
     {
       "id": "ci41285967",
-      "lon": -118.885166666667,
-      "lat": 34.5838333333333,
-      "depth": 1.98,
+      "lon": -118.887,
+      "lat": 34.5826666666667,
+      "depth": 2.08,
       "mag": 1.44,
-      "place": "21 km NNW of Piru, CA",
-      "time": 1783085919350,
+      "place": "20 km NNW of Piru, CA",
+      "time": 1783085919300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285967"
     },
     {
@@ -442,6 +462,16 @@
       "place": "11 km WSW of Templeton, CA",
       "time": 1783071872440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388516"
+    },
+    {
+      "id": "us6000t9tt",
+      "lon": 72.9214,
+      "lat": 39.7508,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "59 km ENE of Kyzyl-Eshme, Kyrgyzstan",
+      "time": 1783071353629,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9tt"
     },
     {
       "id": "nc75388506",
@@ -1045,12 +1075,12 @@
     },
     {
       "id": "ci41285823",
-      "lon": -118.886333333333,
-      "lat": 34.5855,
-      "depth": 3.89,
+      "lon": -118.8855,
+      "lat": 34.583,
+      "depth": 2.02,
       "mag": 1.39,
-      "place": "21 km NNW of Piru, CA",
-      "time": 1783047731700,
+      "place": "20 km NNW of Piru, CA",
+      "time": 1783047731520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285823"
     },
     {
@@ -1922,26 +1952,6 @@
       "place": "2 km N of Allyn, Washington",
       "time": 1783007141960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714040531"
-    },
-    {
-      "id": "nc75388051",
-      "lon": -122.817832946777,
-      "lat": 38.806999206543,
-      "depth": 2.79999995231628,
-      "mag": 1.07,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": 1783006906860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388051"
-    },
-    {
-      "id": "uw714040511",
-      "lon": -117.130166666667,
-      "lat": 47.1636666666667,
-      "depth": -0.79,
-      "mag": 1.75,
-      "place": "7 km SSW of Tekoa, Washington",
-      "time": 1783006531390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714040511"
     }
   ]
 }
