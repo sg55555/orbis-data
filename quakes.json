@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-03T00:45:40Z",
-  "count": 247,
+  "updated": "2026-07-03T01:01:13Z",
+  "count": 248,
   "points": [
+    {
+      "id": "ci41285799",
+      "lon": -117.046833333333,
+      "lat": 35.9196666666667,
+      "depth": 1.52,
+      "mag": 1.18,
+      "place": "35 km ENE of Trona, CA",
+      "time": 1783040037300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285799"
+    },
     {
       "id": "nc75388291",
       "lon": -122.816833496094,
@@ -275,12 +285,12 @@
     },
     {
       "id": "hv74996071",
-      "lon": -155.360992431641,
-      "lat": 19.2231674194336,
-      "depth": 32,
-      "mag": 2.27,
+      "lon": -155.359333333333,
+      "lat": 19.2146666666667,
+      "depth": 30.43,
+      "mag": 1.68,
       "place": "12 km E of Pāhala, Hawaii",
-      "time": 1783024076380,
+      "time": 1783024076530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74996071"
     },
     {
@@ -1262,6 +1272,16 @@
       "place": "96 km WNW of Yakutat, Alaska",
       "time": 1782988770747,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026myzhya"
+    },
+    {
+      "id": "hv74995881",
+      "lon": -155.605166666667,
+      "lat": 19.43,
+      "depth": 38.22,
+      "mag": 2.18,
+      "place": "27 km E of Honaunau-Napoopoo, Hawaii",
+      "time": 1782988614080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74995881"
     },
     {
       "id": "nc75387931",
@@ -2462,16 +2482,6 @@
       "place": "6 km S of Pāhala, Hawaii",
       "time": 1782954717380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994912"
-    },
-    {
-      "id": "nc75387771",
-      "lon": -122.849670410156,
-      "lat": 38.8515014648438,
-      "depth": 1.13999998569489,
-      "mag": 0.49,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1782953726750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387771"
     }
   ]
 }
