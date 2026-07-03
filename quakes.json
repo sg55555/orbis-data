@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-03T16:31:09Z",
-  "count": 194,
+  "updated": "2026-07-03T17:03:08Z",
+  "count": 192,
   "points": [
+    {
+      "id": "ci41286063",
+      "lon": -117.306333333333,
+      "lat": 34.639,
+      "depth": -0.69,
+      "mag": 1.2,
+      "place": "11 km ENE of Adelanto, CA",
+      "time": 1783097660050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286063"
+    },
     {
       "id": "aka2026nbgxaw",
       "lon": -148.919,
@@ -92,6 +102,16 @@
       "place": "23 km W of Petrolia, CA",
       "time": 1783090705140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388641"
+    },
+    {
+      "id": "pr2026184000",
+      "lon": -68.8915,
+      "lat": 18.3276,
+      "depth": 148,
+      "mag": 3.92,
+      "place": "13 km SE of La Romana, Dominican Republic",
+      "time": 1783090655180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026184000"
     },
     {
       "id": "nc75388631",
@@ -1902,46 +1922,6 @@
       "place": "18 km WSW of Johannesburg, CA",
       "time": 1783011882650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285607"
-    },
-    {
-      "id": "ci41285599",
-      "lon": -117.590333333333,
-      "lat": 34.022,
-      "depth": 5.05,
-      "mag": 1.41,
-      "place": "5 km SE of Ontario, CA",
-      "time": 1783011604210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285599"
-    },
-    {
-      "id": "tx2026mxjlum",
-      "lon": -103.405,
-      "lat": 31.255,
-      "depth": 5.5359,
-      "mag": 1.5,
-      "place": "17 km SE of Lindsay, Texas",
-      "time": 1783010683367,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mxjlum"
-    },
-    {
-      "id": "aka2026mzlldm",
-      "lon": -155.139,
-      "lat": 56.969,
-      "depth": 16.1,
-      "mag": 1.5,
-      "place": "58 km W of Akhiok, Alaska",
-      "time": 1783010590903,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mzlldm"
-    },
-    {
-      "id": "tx2026mxjgty",
-      "lon": -101.898,
-      "lat": 32.107,
-      "depth": 9.5459,
-      "mag": 2.6,
-      "place": "10 km WSW of Stanton, Texas",
-      "time": 1783010321305,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mxjgty"
     }
   ]
 }
