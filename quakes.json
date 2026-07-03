@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-03T09:52:05Z",
-  "count": 217,
+  "updated": "2026-07-03T10:01:20Z",
+  "count": 215,
   "points": [
     {
       "id": "nc75388516",
@@ -62,6 +62,16 @@
       "place": "2 km NNW of Cobb, CA",
       "time": 1783070422210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388491"
+    },
+    {
+      "id": "us6000t9ts",
+      "lon": 147.0388,
+      "lat": -56.2709,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "west of Macquarie Island",
+      "time": 1783070195165,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ts"
     },
     {
       "id": "aka2026nasohc",
@@ -1032,16 +1042,6 @@
       "place": "11 km NW of The Geysers, CA",
       "time": 1783025209270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388196"
-    },
-    {
-      "id": "tx2026mxrhol",
-      "lon": -104.424,
-      "lat": 31.646,
-      "depth": 6.6091,
-      "mag": 0.9,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": 1783024880331,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mxrhol"
     },
     {
       "id": "tx2026mxrgkj",
@@ -2152,26 +2152,6 @@
       "place": "13 km N of Ocotillo Wells, CA",
       "time": 1782986749080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285375"
-    },
-    {
-      "id": "us6000t9ls",
-      "lon": 119.2208,
-      "lat": 16.4366,
-      "depth": 22.124,
-      "mag": 4.7,
-      "place": "64 km WNW of Catuday, Philippines",
-      "time": 1782986366168,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ls"
-    },
-    {
-      "id": "aka2026myxvcz",
-      "lon": -152.815,
-      "lat": 59.482,
-      "depth": 86.6,
-      "mag": 1.6,
-      "place": "52 km WNW of Nanwalek, Alaska",
-      "time": 1782986085305,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026myxvcz"
     }
   ]
 }
