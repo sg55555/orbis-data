@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-03T12:01:16Z",
+  "updated": "2026-07-03T12:15:45Z",
   "count": 198,
   "points": [
+    {
+      "id": "nc75388551",
+      "lon": -121.830001831055,
+      "lat": 37.8585014343262,
+      "depth": 7.42000007629395,
+      "mag": 1.68,
+      "place": "8 km ENE of Blackhawk, CA",
+      "time": 1783080144780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388551"
+    },
     {
       "id": "aka2026naxvnq",
       "lon": -150.357,
@@ -262,6 +272,16 @@
       "place": "296 km SSW of Severo-Kuril’sk, Russia",
       "time": 1783066973615,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9tf"
+    },
+    {
+      "id": "tx2026myolxn",
+      "lon": -97.805,
+      "lat": 29.124,
+      "depth": 8.8236,
+      "mag": 0.9,
+      "place": "16 km SSW of Nixon, Texas",
+      "time": 1783066796962,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026myolxn"
     },
     {
       "id": "aka2026naqnzw",
@@ -1384,6 +1404,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285631"
     },
     {
+      "id": "tx2026mxmdph",
+      "lon": -103.236,
+      "lat": 32.007,
+      "depth": 6.9714,
+      "mag": 1.1,
+      "place": "12 km SSW of Jal, New Mexico",
+      "time": 1783015530116,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mxmdph"
+    },
+    {
       "id": "ci41285623",
       "lon": -118.320666666667,
       "lat": 35.0508333333333,
@@ -1952,36 +1982,6 @@
       "place": "13 km SSW of Jal, New Mexico",
       "time": 1782994925469,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mxatsp"
-    },
-    {
-      "id": "nc75387961",
-      "lon": -122.785667419434,
-      "lat": 38.8343315124512,
-      "depth": 2.1800000667572,
-      "mag": 1.1,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1782994488500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387961"
-    },
-    {
-      "id": "ci41285415",
-      "lon": -116.040666666667,
-      "lat": 33.173,
-      "depth": 3.99,
-      "mag": 1.93,
-      "place": "9 km ENE of Ocotillo Wells, CA",
-      "time": 1782994458380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285415"
-    },
-    {
-      "id": "hv74995896",
-      "lon": -155.452835083008,
-      "lat": 19.1264991760254,
-      "depth": 26.5599994659424,
-      "mag": 1.92,
-      "place": "8 km SSE of Pāhala, Hawaii",
-      "time": 1782993687200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74995896"
     }
   ]
 }
