@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-03T00:01:15Z",
-  "count": 254,
+  "updated": "2026-07-03T00:15:45Z",
+  "count": 250,
   "points": [
+    {
+      "id": "aka2026naadhx",
+      "lon": -153.306,
+      "lat": 59.442,
+      "depth": 113.6,
+      "mag": 0.8,
+      "place": "59 km SE of Pedro Bay, Alaska",
+      "time": 1783037028428,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026naadhx"
+    },
     {
       "id": "ci41285775",
       "lon": -117.715666666667,
@@ -85,12 +95,12 @@
     },
     {
       "id": "ci41285743",
-      "lon": -117.245333333333,
-      "lat": 34.0378333333333,
-      "depth": 16.33,
-      "mag": 1.14,
+      "lon": -117.244166666667,
+      "lat": 34.0388333333333,
+      "depth": 16.12,
+      "mag": 1.02,
       "place": "2 km SE of Loma Linda, CA",
-      "time": 1783030803540,
+      "time": 1783030803470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285743"
     },
     {
@@ -2492,56 +2502,6 @@
       "place": "63 km W of Happy Valley, Alaska",
       "time": 1782951540590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94282508"
-    },
-    {
-      "id": "av94282503",
-      "lon": -136.237833333333,
-      "lat": 56.9145,
-      "depth": 12.67,
-      "mag": 1.2,
-      "place": "57 km WSW of Sitka, Alaska",
-      "time": 1782951287980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94282503"
-    },
-    {
-      "id": "av94282498",
-      "lon": -178.771833333333,
-      "lat": 51.7866666666667,
-      "depth": 11.33,
-      "mag": 1.38,
-      "place": "147 km W of Adak, Alaska",
-      "time": 1782951225590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94282498"
-    },
-    {
-      "id": "av94282488",
-      "lon": -178.799,
-      "lat": 51.7713333333333,
-      "depth": 9.97,
-      "mag": 0.43,
-      "place": "149 km W of Adak, Alaska",
-      "time": 1782951004670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94282488"
-    },
-    {
-      "id": "pr71522293",
-      "lon": -66.8285,
-      "lat": 18.0261666666667,
-      "depth": 13.06,
-      "mag": 1.95,
-      "place": "2 km ESE of Yauco, Puerto Rico",
-      "time": 1782950894600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522293"
-    },
-    {
-      "id": "av94282483",
-      "lon": -169.755166666667,
-      "lat": 52.75,
-      "depth": 10.18,
-      "mag": 1.65,
-      "place": "63 km WSW of Nikolski, Alaska",
-      "time": 1782950615420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94282483"
     }
   ]
 }
