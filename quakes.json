@@ -1,14 +1,14 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-03T01:45:42Z",
-  "count": 244,
+  "updated": "2026-07-03T02:01:12Z",
+  "count": 242,
   "points": [
     {
       "id": "nc75388321",
       "lon": -122.67749786377,
       "lat": 39.7848320007324,
       "depth": 13.4099998474121,
-      "mag": 3.84,
+      "mag": 3.85,
       "place": "15 km NNE of Alder Springs, CA",
       "time": 1783042750270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388321"
@@ -382,6 +382,16 @@
       "place": "4 km NNE of Kalama, Washington",
       "time": 1783020925560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714040731"
+    },
+    {
+      "id": "tx2026mxomig",
+      "lon": -102.072,
+      "lat": 32.354,
+      "depth": 8.0322,
+      "mag": 0.6,
+      "place": "36 km NW of Stanton, Texas",
+      "time": 1783019760723,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mxomig"
     },
     {
       "id": "nc75388161",
@@ -2412,36 +2422,6 @@
       "place": "23 km S of Stanton, Texas",
       "time": 1782957908687,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mwgiar"
-    },
-    {
-      "id": "ci41285079",
-      "lon": -117.915666666667,
-      "lat": 35.9778333333333,
-      "depth": 1.85,
-      "mag": 1.03,
-      "place": "5 km N of Little Lake, CA",
-      "time": 1782957566080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285079"
-    },
-    {
-      "id": "av94282708",
-      "lon": -178.668333333333,
-      "lat": 51.6856666666667,
-      "depth": 6,
-      "mag": 1.51,
-      "place": "141 km W of Adak, Alaska",
-      "time": 1782957539740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94282708"
-    },
-    {
-      "id": "av94282703",
-      "lon": -153.091833333333,
-      "lat": 60.0203333333333,
-      "depth": 1.58,
-      "mag": -0.79,
-      "place": "62 km ENE of Pedro Bay, Alaska",
-      "time": 1782957088570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94282703"
     }
   ]
 }
