@@ -1,6 +1,6 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-03T03:15:46Z",
+  "updated": "2026-07-03T03:31:05Z",
   "count": 244,
   "points": [
     {
@@ -94,6 +94,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9r5"
     },
     {
+      "id": "us6000t9r4",
+      "lon": -65.0196,
+      "lat": 18.8457,
+      "depth": 52.508,
+      "mag": 2.7,
+      "place": "56 km N of Charlotte Amalie, U.S. Virgin Islands",
+      "time": 1783045859161,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9r4"
+    },
+    {
       "id": "ci41285807",
       "lon": -117.87,
       "lat": 36.3923333333333,
@@ -182,6 +192,16 @@
       "place": "35 km ENE of Trona, CA",
       "time": 1783040037300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285799"
+    },
+    {
+      "id": "uw714039962",
+      "lon": -122.597333333333,
+      "lat": 48.2993333333333,
+      "depth": 25.26,
+      "mag": 1.24,
+      "place": "3 km ENE of Oak Harbor, Washington",
+      "time": 1783039739470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714039962"
     },
     {
       "id": "us6000t9qp",
@@ -2074,6 +2094,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026myqmjr"
     },
     {
+      "id": "av93063329",
+      "lon": -152.983333333333,
+      "lat": 59.9945,
+      "depth": 4.73,
+      "mag": -0.98,
+      "place": "66 km ENE of Pedro Bay, Alaska",
+      "time": 1782972147720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063329"
+    },
+    {
       "id": "av94283023",
       "lon": -153.023833333333,
       "lat": 59.9925,
@@ -2412,36 +2442,6 @@
       "place": "7 km ESE of Yucaipa, CA",
       "time": 1782963085980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285135"
-    },
-    {
-      "id": "ci41285127",
-      "lon": -117.806166666667,
-      "lat": 35.306,
-      "depth": 7.43,
-      "mag": 3.26,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1782962982830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285127"
-    },
-    {
-      "id": "tx2026mwjbqf",
-      "lon": -98.982,
-      "lat": 28.831,
-      "depth": 6.7243,
-      "mag": 1.5,
-      "place": "12 km ESE of Pearsall, Texas",
-      "time": 1782962893100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mwjbqf"
-    },
-    {
-      "id": "ci41285119",
-      "lon": -116.1215,
-      "lat": 33.2608333333333,
-      "depth": 6.99,
-      "mag": 0.74,
-      "place": "13 km N of Ocotillo Wells, CA",
-      "time": 1782962131770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285119"
     }
   ]
 }
