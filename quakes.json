@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-03T03:45:45Z",
+  "updated": "2026-07-03T04:01:17Z",
   "count": 242,
   "points": [
+    {
+      "id": "ci41285847",
+      "lon": -118.481,
+      "lat": 34.9548333333333,
+      "depth": 2.31,
+      "mag": 0.88,
+      "place": "20 km S of Tehachapi, CA",
+      "time": 1783050513900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285847"
+    },
+    {
+      "id": "aka2026nahngx",
+      "lon": -155.305,
+      "lat": 58.164,
+      "depth": 5,
+      "mag": 1,
+      "place": "83 km NW of Karluk, Alaska",
+      "time": 1783050312334,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nahngx"
+    },
     {
       "id": "aka2026nahmav",
       "lon": -147.77,
@@ -152,6 +172,16 @@
       "place": "5 km E of Willits, CA",
       "time": 1783044358460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388326"
+    },
+    {
+      "id": "us6000t9qz",
+      "lon": -27.2923,
+      "lat": -55.9005,
+      "depth": 44.666,
+      "mag": 4.6,
+      "place": "South Sandwich Islands region",
+      "time": 1783043396752,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9qz"
     },
     {
       "id": "us6000t9qx",
@@ -2392,36 +2422,6 @@
       "place": "66 km SW of Adak, Alaska",
       "time": 1782964851997,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mymadk"
-    },
-    {
-      "id": "aka2026mylwre",
-      "lon": -150.841,
-      "lat": 61.786,
-      "depth": 75.1,
-      "mag": 1.9,
-      "place": "32 km NNW of Susitna, Alaska",
-      "time": 1782964601495,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mylwre"
-    },
-    {
-      "id": "tx2026mwjyov",
-      "lon": -102.438,
-      "lat": 32.111,
-      "depth": 0,
-      "mag": 1.7,
-      "place": "11 km NNW of Gardendale, Texas",
-      "time": 1782964491916,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mwjyov"
-    },
-    {
-      "id": "aka2026mylquh",
-      "lon": -152.932,
-      "lat": 60.392,
-      "depth": 118.7,
-      "mag": 1.2,
-      "place": "79 km ENE of Port Alsworth, Alaska",
-      "time": 1782964194772,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mylquh"
     }
   ]
 }
