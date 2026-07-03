@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-03T20:45:43Z",
-  "count": 202,
+  "updated": "2026-07-03T21:01:15Z",
+  "count": 200,
   "points": [
     {
       "id": "nc75388851",
@@ -32,6 +32,16 @@
       "place": "17 km NW of Midland, Texas",
       "time": 1783110683711,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mzmscy"
+    },
+    {
+      "id": "us6000t9zw",
+      "lon": 155.7881,
+      "lat": -62.1125,
+      "depth": 10,
+      "mag": 5.3,
+      "place": "Balleny Islands region",
+      "time": 1783110135219,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9zw"
     },
     {
       "id": "hv74996471",
@@ -82,16 +92,6 @@
       "place": "50 km NW of Beluga, Alaska",
       "time": 1783108421849,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nbnuym"
-    },
-    {
-      "id": "aka2026nbnrxq",
-      "lon": -154.934,
-      "lat": 58.248,
-      "depth": 5,
-      "mag": 0.7,
-      "place": "80 km NNW of Karluk, Alaska",
-      "time": 1783108207297,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nbnrxq"
     },
     {
       "id": "nn00921130",
@@ -202,6 +202,16 @@
       "place": "30 km NW of Toyah, Texas",
       "time": 1783104492715,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mzjhbs"
+    },
+    {
+      "id": "nc75388776",
+      "lon": -118.875666666667,
+      "lat": 37.527,
+      "depth": 5.09,
+      "mag": 0.73,
+      "place": "15 km SE of Mammoth Lakes, CA",
+      "time": 1783104326930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388776"
     },
     {
       "id": "aka2026nblhpw",
@@ -1992,36 +2002,6 @@
       "place": "65 km N of Chickaloon, Alaska",
       "time": 1783026936888,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mzunma"
-    },
-    {
-      "id": "tx2026mxrmrh",
-      "lon": -102.314,
-      "lat": 31.969,
-      "depth": 8.4229,
-      "mag": 2.4,
-      "place": "8 km SE of Gardendale, Texas",
-      "time": 1783025352607,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mxrmrh"
-    },
-    {
-      "id": "nc75388201",
-      "lon": -122.840835571289,
-      "lat": 38.8176651000977,
-      "depth": 2.20000004768372,
-      "mag": 0.78,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": 1783025294710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388201"
-    },
-    {
-      "id": "nc75388196",
-      "lon": -122.848831176758,
-      "lat": 38.845832824707,
-      "depth": 0.819999992847443,
-      "mag": 1.29,
-      "place": "11 km NW of The Geysers, CA",
-      "time": 1783025209270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388196"
     }
   ]
 }
