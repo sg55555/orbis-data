@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-03T16:01:23Z",
+  "updated": "2026-07-03T16:15:45Z",
   "count": 195,
   "points": [
     {
+      "id": "ci41286039",
+      "lon": -115.880833333333,
+      "lat": 33.0766666666667,
+      "depth": 2.09,
+      "mag": 1.22,
+      "place": "25 km ESE of Ocotillo Wells, CA",
+      "time": 1783094771560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286039"
+    },
+    {
       "id": "uw714040272",
-      "lon": -122.452667236328,
-      "lat": 47.7603340148926,
-      "depth": 24.9799995422363,
-      "mag": 2.44492971897125,
+      "lon": -122.453166666667,
+      "lat": 47.7648333333333,
+      "depth": 27.83,
+      "mag": 2.29,
       "place": "5 km SE of Kingston, Washington",
-      "time": 1783094119840,
+      "time": 1783094119640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714040272"
     },
     {
@@ -1942,16 +1952,6 @@
       "place": "16 km WSW of Johannesburg, CA",
       "time": 1783009211140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285567"
-    },
-    {
-      "id": "pr71522388",
-      "lon": -67.0426666666667,
-      "lat": 18.0995,
-      "depth": 4.19,
-      "mag": 2.68,
-      "place": "1 km N of San Germán, Puerto Rico",
-      "time": 1783008782280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522388"
     }
   ]
 }
