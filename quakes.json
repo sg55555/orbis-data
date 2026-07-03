@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-03T21:20:29Z",
-  "count": 203,
+  "updated": "2026-07-03T21:31:07Z",
+  "count": 202,
   "points": [
+    {
+      "id": "nn00921137",
+      "lon": -115.1767,
+      "lat": 36.1562,
+      "depth": 3.2454,
+      "mag": 2.18,
+      "place": "4 km WSW of Las Vegas, Nevada",
+      "time": 1783113853123,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921137"
+    },
     {
       "id": "aka2026nbqlxy",
       "lon": -151.213,
@@ -2012,26 +2022,6 @@
       "place": "29 km WSW of Ackerly, Texas",
       "time": 1783027930238,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mxszrl"
-    },
-    {
-      "id": "tx2026mxspnf",
-      "lon": -102.054,
-      "lat": 31.485,
-      "depth": 13.9918,
-      "mag": 1.6,
-      "place": "29 km ENE of Crane, Texas",
-      "time": 1783027222557,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mxspnf"
-    },
-    {
-      "id": "uu80143861",
-      "lon": -110.998,
-      "lat": 44.699,
-      "depth": 6.51,
-      "mag": 0.89,
-      "place": "9 km ENE of West Yellowstone, Montana",
-      "time": 1783027190160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143861"
     }
   ]
 }
