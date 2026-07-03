@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-03T11:01:18Z",
-  "count": 207,
+  "updated": "2026-07-03T11:15:42Z",
+  "count": 204,
   "points": [
+    {
+      "id": "nc75388531",
+      "lon": -121.516334533691,
+      "lat": 37.140998840332,
+      "depth": 10.039999961853,
+      "mag": 1.11,
+      "place": "10 km NE of San Martin, CA",
+      "time": 1783076917420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388531"
+    },
+    {
+      "id": "aka2026nawgyn",
+      "lon": -152.411,
+      "lat": 59.012,
+      "depth": 74,
+      "mag": 1.5,
+      "place": "47 km SW of Nanwalek, Alaska",
+      "time": 1783076862516,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nawgyn"
+    },
     {
       "id": "aka2026nautov",
       "lon": -153.432,
@@ -174,6 +194,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285919"
     },
     {
+      "id": "tx2026myphls",
+      "lon": -98.954,
+      "lat": 28.823,
+      "depth": 7.4047,
+      "mag": 1.7,
+      "place": "15 km ESE of Pearsall, Texas",
+      "time": 1783068305684,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026myphls"
+    },
+    {
       "id": "nc75388461",
       "lon": -122.842666625977,
       "lat": 38.8196678161621,
@@ -322,16 +352,6 @@
       "place": "52 km SSW of Whites City, New Mexico",
       "time": 1783060665175,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mylbuu"
-    },
-    {
-      "id": "tx2026mykysx",
-      "lon": -102.474,
-      "lat": 31.751,
-      "depth": 0,
-      "mag": 1.9,
-      "place": "10 km SSE of West Odessa, Texas",
-      "time": 1783060449392,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mykysx"
     },
     {
       "id": "aka2026nanbve",
@@ -2022,56 +2042,6 @@
       "place": "18 km WSW of Ault Field, Washington",
       "time": 1782991332250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714040331"
-    },
-    {
-      "id": "aka2026mzakmf",
-      "lon": -146.783,
-      "lat": 64.719,
-      "depth": 6,
-      "mag": 0.9,
-      "place": "14 km ENE of Eielson Air Force Base, Alaska",
-      "time": 1782990745858,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mzakmf"
-    },
-    {
-      "id": "tx2026mwykwa",
-      "lon": -101.933,
-      "lat": 32.264,
-      "depth": 5.9814,
-      "mag": 0.4,
-      "place": "20 km NW of Stanton, Texas",
-      "time": 1782990691852,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mwykwa"
-    },
-    {
-      "id": "aka2026mzahpt",
-      "lon": -159.749,
-      "lat": 55.92,
-      "depth": 11.6,
-      "mag": 1.6,
-      "place": "16 km W of Ivanof Bay, Alaska",
-      "time": 1782990546023,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mzahpt"
-    },
-    {
-      "id": "us6000t9lz",
-      "lon": 27.2953,
-      "lat": 35.3034,
-      "depth": 10,
-      "mag": 5.2,
-      "place": "23 km SSE of Karpathos, Greece",
-      "time": 1782990381727,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9lz"
-    },
-    {
-      "id": "ci41285399",
-      "lon": -116.122166666667,
-      "lat": 33.2563333333333,
-      "depth": 9.64,
-      "mag": 1.14,
-      "place": "13 km N of Ocotillo Wells, CA",
-      "time": 1782990174540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285399"
     }
   ]
 }
