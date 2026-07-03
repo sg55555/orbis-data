@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-03T02:45:45Z",
-  "count": 243,
+  "updated": "2026-07-03T03:01:14Z",
+  "count": 244,
   "points": [
+    {
+      "id": "hv74996171",
+      "lon": -156.065673828125,
+      "lat": 19.4564990997314,
+      "depth": 122.349998474121,
+      "mag": 3.31,
+      "place": "15 km WSW of Captain Cook, Hawaii",
+      "time": 1783046575650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74996171"
+    },
     {
       "id": "aka2026naflbd",
       "lon": -159.193,
@@ -2164,6 +2174,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285159"
     },
     {
+      "id": "av94282923",
+      "lon": -152.756166666667,
+      "lat": 60.5053333333333,
+      "depth": 5.36,
+      "mag": -0.59,
+      "place": "78 km NW of Ninilchik, Alaska",
+      "time": 1782966962070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94282923"
+    },
+    {
       "id": "pr71522328",
       "lon": -67.056,
       "lat": 18.1316666666667,
@@ -2232,6 +2252,16 @@
       "place": "52 km SSE of Whites City, New Mexico",
       "time": 1782965453940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mwklvo"
+    },
+    {
+      "id": "av94282898",
+      "lon": -163.284,
+      "lat": 54.557,
+      "depth": 6.59,
+      "mag": 2.57,
+      "place": "34 km SSE of False Pass, Alaska",
+      "time": 1782965060310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94282898"
     },
     {
       "id": "aka2026mymadk",
@@ -2412,26 +2442,6 @@
       "place": "1 km NW of The Geysers, CA",
       "time": 1782961259540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387811"
-    },
-    {
-      "id": "us6000t9jv",
-      "lon": -26.5923,
-      "lat": -58.4797,
-      "depth": 183.485,
-      "mag": 5.2,
-      "place": "South Sandwich Islands region",
-      "time": 1782961062207,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9jv"
-    },
-    {
-      "id": "ci41285095",
-      "lon": -116.42,
-      "lat": 33.4556666666667,
-      "depth": 12.64,
-      "mag": 1.01,
-      "place": "23 km N of Borrego Springs, CA",
-      "time": 1782960665240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285095"
     }
   ]
 }
