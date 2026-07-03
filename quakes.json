@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-03T04:01:17Z",
-  "count": 242,
+  "updated": "2026-07-03T04:17:40Z",
+  "count": 239,
   "points": [
+    {
+      "id": "us6000t9si",
+      "lon": 125.8671,
+      "lat": 26.0523,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "149 km NNE of Hirara, Japan",
+      "time": 1783050802105,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9si"
+    },
     {
       "id": "ci41285847",
       "lon": -118.481,
@@ -2382,46 +2392,6 @@
       "place": "140 km N of Cruz Bay, U.S. Virgin Islands",
       "time": 1782965935630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026183000"
-    },
-    {
-      "id": "nc75387856",
-      "lon": -121.40299987793,
-      "lat": 36.7801666259766,
-      "depth": 6.44999980926514,
-      "mag": 1.9,
-      "place": "5 km SW of Ridgemark, CA",
-      "time": 1782965544380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387856"
-    },
-    {
-      "id": "tx2026mwklvo",
-      "lon": -104.154,
-      "lat": 31.743,
-      "depth": 6.8304,
-      "mag": 1.8,
-      "place": "52 km SSE of Whites City, New Mexico",
-      "time": 1782965453940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mwklvo"
-    },
-    {
-      "id": "av94282898",
-      "lon": -163.284,
-      "lat": 54.557,
-      "depth": 6.59,
-      "mag": 2.57,
-      "place": "34 km SSE of False Pass, Alaska",
-      "time": 1782965060310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94282898"
-    },
-    {
-      "id": "aka2026mymadk",
-      "lon": -177.264,
-      "lat": 51.426,
-      "depth": 38.2,
-      "mag": 3.5,
-      "place": "66 km SW of Adak, Alaska",
-      "time": 1782964851997,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mymadk"
     }
   ]
 }
