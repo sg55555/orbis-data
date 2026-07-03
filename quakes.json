@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-03T00:31:02Z",
-  "count": 248,
+  "updated": "2026-07-03T00:45:40Z",
+  "count": 247,
   "points": [
+    {
+      "id": "nc75388291",
+      "lon": -122.816833496094,
+      "lat": 38.828498840332,
+      "depth": 2.44000005722046,
+      "mag": 0.44,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1783038876980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388291"
+    },
     {
       "id": "hv74996146",
       "lon": -155.337005615234,
@@ -25,12 +35,12 @@
     },
     {
       "id": "tx2026mxykpg",
-      "lon": -104.433,
-      "lat": 31.63,
-      "depth": 4.2211,
+      "lon": -104.415,
+      "lat": 31.66,
+      "depth": 6.0999,
       "mag": 1.9,
-      "place": "60 km S of Whites City, New Mexico",
-      "time": 1783037759233,
+      "place": "57 km S of Whites City, New Mexico",
+      "time": 1783037759318,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mxykpg"
     },
     {
@@ -145,12 +155,12 @@
     },
     {
       "id": "tx2026mxszrl",
-      "lon": -102.018,
+      "lon": -102.023,
       "lat": 32.455,
-      "depth": 4.7147,
+      "depth": 9.3994,
       "mag": 1.7,
       "place": "29 km WSW of Ackerly, Texas",
-      "time": 1783027929977,
+      "time": 1783027930238,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mxszrl"
     },
     {
@@ -2462,26 +2472,6 @@
       "place": "11 km WNW of Cobb, CA",
       "time": 1782953726750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387771"
-    },
-    {
-      "id": "hv74994897",
-      "lon": -155.487333333333,
-      "lat": 19.1633333333333,
-      "depth": 28.77,
-      "mag": 1.46,
-      "place": "4 km SSW of Pāhala, Hawaii",
-      "time": 1782952579700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74994897"
-    },
-    {
-      "id": "ci41285063",
-      "lon": -117.913666666667,
-      "lat": 35.9815,
-      "depth": 2.73,
-      "mag": 1.24,
-      "place": "5 km N of Little Lake, CA",
-      "time": 1782952466630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285063"
     }
   ]
 }
