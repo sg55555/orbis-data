@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-03T19:15:45Z",
-  "count": 192,
+  "updated": "2026-07-03T19:31:10Z",
+  "count": 193,
   "points": [
+    {
+      "id": "us6000t9zf",
+      "lon": 125.049,
+      "lat": 5.3374,
+      "depth": 59.785,
+      "mag": 4.8,
+      "place": "42 km SW of Balangonan, Philippines",
+      "time": 1783105757167,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9zf"
+    },
     {
       "id": "aka2026nbmhvw",
       "lon": -153.548,
@@ -32,6 +42,16 @@
       "place": "61 km NW of Beluga, Alaska",
       "time": 1783105267985,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nbmblc"
+    },
+    {
+      "id": "us6000t9zc",
+      "lon": 130.4865,
+      "lat": -6.1348,
+      "depth": 139.299,
+      "mag": 4.3,
+      "place": "257 km WSW of Tual, Indonesia",
+      "time": 1783105232733,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9zc"
     },
     {
       "id": "tx2026mzjhbs",
@@ -1912,16 +1932,6 @@
       "place": "4 km NNE of Kalama, Washington",
       "time": 1783020925560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714040731"
-    },
-    {
-      "id": "tx2026mxomig",
-      "lon": -102.072,
-      "lat": 32.354,
-      "depth": 8.0322,
-      "mag": 0.6,
-      "place": "36 km NW of Stanton, Texas",
-      "time": 1783019760723,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mxomig"
     }
   ]
 }
