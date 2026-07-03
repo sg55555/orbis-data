@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-03T13:31:08Z",
+  "updated": "2026-07-03T13:45:43Z",
   "count": 192,
   "points": [
+    {
+      "id": "ci41285967",
+      "lon": -118.885166666667,
+      "lat": 34.5838333333333,
+      "depth": 1.98,
+      "mag": 1.44,
+      "place": "21 km NNW of Piru, CA",
+      "time": 1783085919350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285967"
+    },
     {
       "id": "ci41285959",
       "lon": -116.171666666667,
@@ -52,6 +62,16 @@
       "place": "44 km W of Ninilchik, Alaska",
       "time": 1783083601362,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nbaaik"
+    },
+    {
+      "id": "tx2026myxaxz",
+      "lon": -104.493,
+      "lat": 31.707,
+      "depth": 6.3818,
+      "mag": 1.9,
+      "place": "53 km SSW of Whites City, New Mexico",
+      "time": 1783082368964,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026myxaxz"
     },
     {
       "id": "nc75388571",
@@ -1902,26 +1922,6 @@
       "place": "12 km SSE of Yucca Valley, CA",
       "time": 1783000280240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285487"
-    },
-    {
-      "id": "nc75387991",
-      "lon": -122.794166564941,
-      "lat": 38.8196678161621,
-      "depth": 3.85999989509583,
-      "mag": 0.72,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1782999183640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387991"
-    },
-    {
-      "id": "tx2026mxdbbo",
-      "lon": -103.854,
-      "lat": 31.92,
-      "depth": 7.2791,
-      "mag": 1,
-      "place": "33 km NW of Mentone, Texas",
-      "time": 1782999140923,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mxdbbo"
     }
   ]
 }
