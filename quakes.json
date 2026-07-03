@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-03T11:31:11Z",
-  "count": 203,
+  "updated": "2026-07-03T11:45:43Z",
+  "count": 204,
   "points": [
+    {
+      "id": "nc75388536",
+      "lon": -123.267501831055,
+      "lat": 39.3291664123535,
+      "depth": 6.90999984741211,
+      "mag": 1.46,
+      "place": "9 km NW of Redwood Valley, CA",
+      "time": 1783078382790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388536"
+    },
     {
       "id": "nc75388531",
       "lon": -121.516334533691,
@@ -22,6 +32,16 @@
       "place": "47 km SW of Nanwalek, Alaska",
       "time": 1783076862516,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nawgyn"
+    },
+    {
+      "id": "tx2026mystbq",
+      "lon": -102.162,
+      "lat": 32.185,
+      "depth": 8.9111,
+      "mag": 0.7,
+      "place": "22 km NNW of Midland, Texas",
+      "time": 1783074678134,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mystbq"
     },
     {
       "id": "tx2026myspzh",
@@ -2022,16 +2042,6 @@
       "place": "17 km NE of Milford, Utah",
       "time": 1782992793660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143836"
-    },
-    {
-      "id": "uu80143831",
-      "lon": -112.880833333333,
-      "lat": 38.515,
-      "depth": 2.58,
-      "mag": 1.26,
-      "place": "17 km NE of Milford, Utah",
-      "time": 1782992057590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143831"
     }
   ]
 }
