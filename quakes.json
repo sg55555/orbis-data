@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-04T23:01:13Z",
-  "count": 239,
+  "updated": "2026-07-04T23:15:41Z",
+  "count": 238,
   "points": [
+    {
+      "id": "nc75389616",
+      "lon": -122.76000213623,
+      "lat": 38.8074989318848,
+      "depth": 3.69000005722046,
+      "mag": 0.74,
+      "place": "3 km N of The Geysers, CA",
+      "time": 1783206779400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389616"
+    },
     {
       "id": "tx2026nbnaql",
       "lon": -103.719,
@@ -405,12 +415,12 @@
     },
     {
       "id": "tx2026nbefft",
-      "lon": -101.201,
-      "lat": 32.506,
-      "depth": 3.5454,
-      "mag": 1.9,
-      "place": "24 km NW of Westbrook, Texas",
-      "time": 1783189435800,
+      "lon": -101.194,
+      "lat": 32.5,
+      "depth": 3.6223,
+      "mag": 1.8,
+      "place": "23 km NW of Westbrook, Texas",
+      "time": 1783189435701,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nbefft"
     },
     {
@@ -2372,26 +2382,6 @@
       "place": "8 km SSW of Pāhala, Hawaii",
       "time": 1783120679940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74996561"
-    },
-    {
-      "id": "uw714040502",
-      "lon": -123.036666666667,
-      "lat": 47.4658333333333,
-      "depth": 7.28,
-      "mag": 1.21,
-      "place": "10 km NE of Hoodsport, Washington",
-      "time": 1783120240990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714040502"
-    },
-    {
-      "id": "us6000ta1r",
-      "lon": 176.3065,
-      "lat": 52.0169,
-      "depth": 16.743,
-      "mag": 4.1,
-      "place": "231 km ESE of Attu Station, Alaska",
-      "time": 1783119821355,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta1r"
     }
   ]
 }
