@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-04T02:31:05Z",
-  "count": 219,
+  "updated": "2026-07-04T02:45:40Z",
+  "count": 217,
   "points": [
+    {
+      "id": "ci41286279",
+      "lon": -117.669833333333,
+      "lat": 33.8133333333333,
+      "depth": 4.47,
+      "mag": 1.49,
+      "place": "11 km WSW of Corona, CA",
+      "time": 1783132212570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286279"
+    },
     {
       "id": "nc75389021",
       "lon": -122.717498779297,
@@ -12,6 +22,16 @@
       "place": "3 km SW of Anderson Springs, CA",
       "time": 1783131820870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389021"
+    },
+    {
+      "id": "us6000ta14",
+      "lon": 125.1808,
+      "lat": 5.429,
+      "depth": 10,
+      "mag": 5.2,
+      "place": "24 km SW of Balangonan, Philippines",
+      "time": 1783131683141,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta14"
     },
     {
       "id": "ci41286263",
@@ -2152,46 +2172,6 @@
       "place": "0 km N of Little America, Wyoming",
       "time": 1783047372430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143896"
-    },
-    {
-      "id": "hv74996171",
-      "lon": -156.065673828125,
-      "lat": 19.4564990997314,
-      "depth": 122.349998474121,
-      "mag": 3.31,
-      "place": "15 km WSW of Captain Cook, Hawaii",
-      "time": 1783046575650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74996171"
-    },
-    {
-      "id": "aka2026naflbd",
-      "lon": -159.193,
-      "lat": 55.974,
-      "depth": 243.8,
-      "mag": 1.9,
-      "place": "7 km NNW of Perryville, Alaska",
-      "time": 1783046570381,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026naflbd"
-    },
-    {
-      "id": "nn00921092",
-      "lon": -120.0638,
-      "lat": 40.7561,
-      "depth": 0.0092,
-      "mag": 2.26,
-      "place": "49 km NNE of Litchfield, California",
-      "time": 1783046264520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921092"
-    },
-    {
-      "id": "us6000t9r5",
-      "lon": 127.4916,
-      "lat": 1.8205,
-      "depth": 120.932,
-      "mag": 6.2,
-      "place": "58 km W of Tobelo, Indonesia",
-      "time": 1783045888846,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9r5"
     }
   ]
 }
