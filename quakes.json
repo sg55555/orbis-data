@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-04T03:30:59Z",
-  "count": 216,
+  "updated": "2026-07-04T03:45:41Z",
+  "count": 217,
   "points": [
+    {
+      "id": "nc75389056",
+      "lon": -122.847503662109,
+      "lat": 38.8211669921875,
+      "depth": 2.44000005722046,
+      "mag": 0.28,
+      "place": "9 km WNW of The Geysers, CA",
+      "time": 1783136312810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389056"
+    },
+    {
+      "id": "ci41286295",
+      "lon": -117.219333333333,
+      "lat": 34.0013333333333,
+      "depth": 4.59,
+      "mag": 0.62,
+      "place": "6 km SE of Loma Linda, CA",
+      "time": 1783135806920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286295"
+    },
+    {
+      "id": "ci41286287",
+      "lon": -116.5155,
+      "lat": 33.15,
+      "depth": 8.6,
+      "mag": 0.55,
+      "place": "11 km NE of Julian, CA",
+      "time": 1783135709720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286287"
+    },
     {
       "id": "aka2026ncclpa",
       "lon": -135.599,
@@ -32,6 +62,16 @@
       "place": "22 km NE of Chase, Alaska",
       "time": 1783134484559,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ncchqq"
+    },
+    {
+      "id": "us6000ta17",
+      "lon": 136.8775,
+      "lat": 33.3762,
+      "depth": 388.05,
+      "mag": 4.6,
+      "place": "91 km SE of Kumano, Japan",
+      "time": 1783133775263,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta17"
     },
     {
       "id": "ci41286279",
@@ -2132,36 +2172,6 @@
       "place": "83 km NW of Karluk, Alaska",
       "time": 1783050312334,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nahngx"
-    },
-    {
-      "id": "aka2026nahmav",
-      "lon": -147.77,
-      "lat": 64.795,
-      "depth": 14.5,
-      "mag": 0.5,
-      "place": "1 km SSE of South Van Horn, Alaska",
-      "time": 1783050229922,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nahmav"
-    },
-    {
-      "id": "av94284933",
-      "lon": -178.846666666667,
-      "lat": 51.7666666666667,
-      "depth": 7.38,
-      "mag": 0.26,
-      "place": "153 km W of Adak, Alaska",
-      "time": 1783050077450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94284933"
-    },
-    {
-      "id": "ci41285839",
-      "lon": -118.889,
-      "lat": 34.5891666666667,
-      "depth": 1.49,
-      "mag": 1.27,
-      "place": "21 km NNW of Piru, CA",
-      "time": 1783050050470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285839"
     }
   ]
 }
