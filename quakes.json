@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-04T18:01:14Z",
-  "count": 234,
+  "updated": "2026-07-04T18:15:45Z",
+  "count": 237,
   "points": [
+    {
+      "id": "ci41286695",
+      "lon": -116.949333333333,
+      "lat": 33.3556666666667,
+      "depth": 13.16,
+      "mag": 1.41,
+      "place": "8 km W of Palomar Observatory, CA",
+      "time": 1783188503680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286695"
+    },
+    {
+      "id": "ci41286687",
+      "lon": -116.7055,
+      "lat": 33.5085,
+      "depth": 10.74,
+      "mag": 0.55,
+      "place": "6 km SSW of Anza, CA",
+      "time": 1783188237920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286687"
+    },
+    {
+      "id": "ci41286679",
+      "lon": -116.736166666667,
+      "lat": 33.6966666666667,
+      "depth": 17.41,
+      "mag": 0.58,
+      "place": "5 km SSW of Idyllwild, CA",
+      "time": 1783187946370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286679"
+    },
     {
       "id": "aka2026ndfzxc",
       "lon": -151.659,
@@ -14,11 +44,21 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ndfzxc"
     },
     {
+      "id": "ci41286671",
+      "lon": -116.828666666667,
+      "lat": 34.0325,
+      "depth": 11.98,
+      "mag": 0.81,
+      "place": "13 km NNE of Banning, CA",
+      "time": 1783187820220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286671"
+    },
+    {
       "id": "tx2026nbdhdr",
       "lon": -104.186,
       "lat": 31.624,
       "depth": 4.05,
-      "mag": 2,
+      "mag": 1.9,
       "place": "50 km NW of Toyah, Texas",
       "time": 1783187792456,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nbdhdr"
@@ -2332,16 +2372,6 @@
       "place": "21 km ESE of Little Lake, CA",
       "time": 1783102556090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286135"
-    },
-    {
-      "id": "ci41286127",
-      "lon": -117.077666666667,
-      "lat": 34.2126666666667,
-      "depth": 3.81,
-      "mag": 1.24,
-      "place": "3 km E of Running Springs, CA",
-      "time": 1783101670230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286127"
     }
   ]
 }
