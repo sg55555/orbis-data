@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-04T17:31:08Z",
-  "count": 233,
+  "updated": "2026-07-04T17:42:29Z",
+  "count": 232,
   "points": [
+    {
+      "id": "tx2026nbcmeq",
+      "lon": -104.01,
+      "lat": 31.519,
+      "depth": 4.7492,
+      "mag": 2.3,
+      "place": "30 km NW of Toyah, Texas",
+      "time": 1783186345033,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nbcmeq"
+    },
+    {
+      "id": "ci41286639",
+      "lon": -119.543666666667,
+      "lat": 34.6535,
+      "depth": 9.44,
+      "mag": 0.86,
+      "place": "25 km NNE of Montecito, CA",
+      "time": 1783186240060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286639"
+    },
     {
       "id": "ci41286631",
       "lon": -117.940166666667,
@@ -82,6 +102,16 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1783184828020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389371"
+    },
+    {
+      "id": "us6000ta53",
+      "lon": 142.0588,
+      "lat": 29.7008,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "Izu Islands, Japan region",
+      "time": 1783184639362,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta53"
     },
     {
       "id": "ci41286591",
@@ -2292,46 +2322,6 @@
       "place": "23 km E of Tres Pinos, CA",
       "time": 1783101246740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388726"
-    },
-    {
-      "id": "nc75388721",
-      "lon": -124.179496765137,
-      "lat": 40.232666015625,
-      "depth": 12.5600004196167,
-      "mag": 1.6,
-      "place": "14 km SE of Petrolia, CA",
-      "time": 1783100112020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388721"
-    },
-    {
-      "id": "ci41286119",
-      "lon": -117.0755,
-      "lat": 34.2146666666667,
-      "depth": 3.64,
-      "mag": 0.94,
-      "place": "3 km ENE of Running Springs, CA",
-      "time": 1783100085610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286119"
-    },
-    {
-      "id": "ci41286103",
-      "lon": -117.076333333333,
-      "lat": 34.2153333333333,
-      "depth": 3.7,
-      "mag": 2.03,
-      "place": "3 km ENE of Running Springs, CA",
-      "time": 1783099862800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286103"
-    },
-    {
-      "id": "ci41286095",
-      "lon": -117.0745,
-      "lat": 34.2156666666667,
-      "depth": 3.77,
-      "mag": 1.05,
-      "place": "3 km ENE of Running Springs, CA",
-      "time": 1783099821610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286095"
     }
   ]
 }
