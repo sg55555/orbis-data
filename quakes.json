@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-04T21:01:18Z",
-  "count": 242,
+  "updated": "2026-07-04T21:15:40Z",
+  "count": 239,
   "points": [
+    {
+      "id": "tx2026nbjhuj",
+      "lon": -101.868,
+      "lat": 31.748,
+      "depth": 3.7936,
+      "mag": 1,
+      "place": "34 km SE of Midland, Texas",
+      "time": 1783198692519,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nbjhuj"
+    },
     {
       "id": "nc75389541",
       "lon": -122.841163635254,
@@ -112,6 +122,16 @@
       "place": "2 km SE of Pacifica, CA",
       "time": 1783194772740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389496"
+    },
+    {
+      "id": "nc75389506",
+      "lon": -122.472333333333,
+      "lat": 37.5995,
+      "depth": 9.42,
+      "mag": 1.46,
+      "place": "2 km SE of Pacifica, CA",
+      "time": 1783194772700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389506"
     },
     {
       "id": "ci41286743",
@@ -2372,56 +2392,6 @@
       "place": "144 km W of Adak, Alaska",
       "time": 1783113546810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94286803"
-    },
-    {
-      "id": "aka2026nbqlxy",
-      "lon": -151.213,
-      "lat": 62.3,
-      "depth": 74.7,
-      "mag": 1.4,
-      "place": "31 km SW of Petersville, Alaska",
-      "time": 1783113190949,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nbqlxy"
-    },
-    {
-      "id": "ci41286167",
-      "lon": -116.314333333333,
-      "lat": 33.9538333333333,
-      "depth": 8.94,
-      "mag": 0.89,
-      "place": "16 km NNE of Thousand Palms, CA",
-      "time": 1783112956580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286167"
-    },
-    {
-      "id": "nc75388866",
-      "lon": -122.763832092285,
-      "lat": 38.8224983215332,
-      "depth": 2.47000002861023,
-      "mag": 0.83,
-      "place": "4 km W of Cobb, CA",
-      "time": 1783112737890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388866"
-    },
-    {
-      "id": "aka2026nbqfcu",
-      "lon": -145.542,
-      "lat": 59.896,
-      "depth": 15.5,
-      "mag": 1.8,
-      "place": "73 km S of Cordova, Alaska",
-      "time": 1783112717720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nbqfcu"
-    },
-    {
-      "id": "tx2026mzntja",
-      "lon": -104.009,
-      "lat": 31.525,
-      "depth": 4.22,
-      "mag": 1.7,
-      "place": "31 km NW of Toyah, Texas",
-      "time": 1783112578460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mzntja"
     }
   ]
 }
