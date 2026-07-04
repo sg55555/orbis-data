@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-04T07:15:43Z",
-  "count": 220,
+  "updated": "2026-07-04T07:25:57Z",
+  "count": 221,
   "points": [
+    {
+      "id": "nc75389121",
+      "lon": -122.789001464844,
+      "lat": 38.820499420166,
+      "depth": 0.910000026226044,
+      "mag": 1.27,
+      "place": "6 km NNW of The Geysers, CA",
+      "time": 1783149326240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389121"
+    },
+    {
+      "id": "ci41286391",
+      "lon": -116.382833333333,
+      "lat": 33.334,
+      "depth": 11.9,
+      "mag": 0.73,
+      "place": "9 km N of Borrego Springs, CA",
+      "time": 1783149241700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286391"
+    },
     {
       "id": "aka2026ncjvhr",
       "lon": -148.86,
@@ -2192,16 +2212,6 @@
       "place": "70 km W of Petersville, Alaska",
       "time": 1783063972120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026napcre"
-    },
-    {
-      "id": "ci41285903",
-      "lon": -116.659333333333,
-      "lat": 33.6186666666667,
-      "depth": 15.08,
-      "mag": 0.63,
-      "place": "7 km N of Anza, CA",
-      "time": 1783063228510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285903"
     }
   ]
 }
