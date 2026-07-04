@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-04T00:01:24Z",
-  "count": 204,
+  "updated": "2026-07-04T00:15:33Z",
+  "count": 205,
   "points": [
+    {
+      "id": "hv74996581",
+      "lon": -155.650329589844,
+      "lat": 19.7216663360596,
+      "depth": 36.9700012207031,
+      "mag": 1.75,
+      "place": "28 km SSE of Waikoloa, Hawaii",
+      "time": 1783123087940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74996581"
+    },
     {
       "id": "ci41286215",
       "lon": -117.800333333333,
@@ -32,6 +42,16 @@
       "place": "58 km W of Anchor Point, Alaska",
       "time": 1783122101253,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nbvkrw"
+    },
+    {
+      "id": "pr71522593",
+      "lon": -67.1056666666667,
+      "lat": 19.3556666666667,
+      "depth": 24.06,
+      "mag": 3.25,
+      "place": "95 km N of Isabela, Puerto Rico",
+      "time": 1783121940920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522593"
     },
     {
       "id": "hv74996561",
@@ -2032,16 +2052,6 @@
       "place": "57 km S of Whites City, New Mexico",
       "time": 1783037759318,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mxykpg"
-    },
-    {
-      "id": "aka2026naadhx",
-      "lon": -153.306,
-      "lat": 59.442,
-      "depth": 113.6,
-      "mag": 0.8,
-      "place": "59 km SE of Pedro Bay, Alaska",
-      "time": 1783037028428,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026naadhx"
     }
   ]
 }
