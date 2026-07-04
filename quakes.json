@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-04T09:06:48Z",
-  "count": 223,
+  "updated": "2026-07-04T09:15:40Z",
+  "count": 224,
   "points": [
+    {
+      "id": "nc75389176",
+      "lon": -122.803833007812,
+      "lat": 38.8231658935547,
+      "depth": 2.5699999332428,
+      "mag": 0.78,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1783156186120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389176"
+    },
     {
       "id": "aka2026ncoefa",
       "lon": -154.235,
@@ -22,6 +32,16 @@
       "place": "7 km S of Muir Beach, CA",
       "time": 1783155795380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389171"
+    },
+    {
+      "id": "us6000ta32",
+      "lon": 138.2529,
+      "lat": -2.5131,
+      "depth": 39.448,
+      "mag": 5.1,
+      "place": "264 km W of Abepura, Indonesia",
+      "time": 1783155354191,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta32"
     },
     {
       "id": "ci41286415",
@@ -2222,16 +2242,6 @@
       "place": "38 km W of Tatitlek, Alaska",
       "time": 1783070173292,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nasohc"
-    },
-    {
-      "id": "nc75388486",
-      "lon": -122.807502746582,
-      "lat": 38.8253326416016,
-      "depth": 2.57999992370605,
-      "mag": 1.23,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1783070071000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388486"
     }
   ]
 }
