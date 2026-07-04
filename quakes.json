@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-04T05:31:05Z",
-  "count": 223,
+  "updated": "2026-07-04T05:45:45Z",
+  "count": 221,
   "points": [
+    {
+      "id": "ci41286343",
+      "lon": -116.297500610352,
+      "lat": 33.2851676940918,
+      "depth": 8.36999988555908,
+      "mag": 2.5587507942978,
+      "place": "8 km ENE of Borrego Springs, CA",
+      "time": 1783143729180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286343"
+    },
     {
       "id": "aka2026ncgxzc",
       "lon": -153.407,
@@ -2202,36 +2212,6 @@
       "place": "11 km S of Odessa, Texas",
       "time": 1783057884455,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026myjnur"
-    },
-    {
-      "id": "nc75388401",
-      "lon": -123.232833862305,
-      "lat": 39.3116683959961,
-      "depth": 3.98000001907349,
-      "mag": 1.61,
-      "place": "6 km NNW of Redwood Valley, CA",
-      "time": 1783057469530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388401"
-    },
-    {
-      "id": "aka2026nalffa",
-      "lon": -153.061,
-      "lat": 59.731,
-      "depth": 104.2,
-      "mag": 1.4,
-      "place": "59 km E of Pedro Bay, Alaska",
-      "time": 1783056951008,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nalffa"
-    },
-    {
-      "id": "aka2026nalbff",
-      "lon": -154.243,
-      "lat": 58.607,
-      "depth": 11.4,
-      "mag": 1.3,
-      "place": "97 km SSE of Kokhanok, Alaska",
-      "time": 1783056674012,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nalbff"
     }
   ]
 }
