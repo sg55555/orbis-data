@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-04T08:31:05Z",
-  "count": 222,
+  "updated": "2026-07-04T08:45:43Z",
+  "count": 224,
   "points": [
+    {
+      "id": "nc75389166",
+      "lon": -122.793663024902,
+      "lat": 38.8223342895508,
+      "depth": 3.08999991416931,
+      "mag": 0.47,
+      "place": "6 km NNW of The Geysers, CA",
+      "time": 1783154552050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389166"
+    },
+    {
+      "id": "nc75389161",
+      "lon": -122.797668457031,
+      "lat": 38.8339996337891,
+      "depth": 3.10999989509583,
+      "mag": 0.2,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1783153990230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389161"
+    },
     {
       "id": "ci41286407",
       "lon": -118.885,
@@ -102,6 +122,16 @@
       "place": "9 km N of Borrego Springs, CA",
       "time": 1783149241700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286391"
+    },
+    {
+      "id": "us6000ta2j",
+      "lon": 127.1542,
+      "lat": -4.2511,
+      "depth": 263.259,
+      "mag": 4.2,
+      "place": "129 km WSW of Ambon, Indonesia",
+      "time": 1783148732073,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta2j"
     },
     {
       "id": "tx2026nahmga",
@@ -2212,16 +2242,6 @@
       "place": "15 km ESE of Pearsall, Texas",
       "time": 1783068305684,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026myphls"
-    },
-    {
-      "id": "nc75388461",
-      "lon": -122.842666625977,
-      "lat": 38.8196678161621,
-      "depth": 2.32999992370605,
-      "mag": 0.72,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": 1783067556470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388461"
     }
   ]
 }
