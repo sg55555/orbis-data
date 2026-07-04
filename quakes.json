@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-04T21:15:40Z",
-  "count": 239,
+  "updated": "2026-07-04T21:31:07Z",
+  "count": 237,
   "points": [
+    {
+      "id": "nc75389551",
+      "lon": -122.733169555664,
+      "lat": 38.7854995727539,
+      "depth": 1.38999998569489,
+      "mag": 0.73,
+      "place": "2 km ENE of The Geysers, CA",
+      "time": 1783200107410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389551"
+    },
     {
       "id": "tx2026nbjhuj",
       "lon": -101.868,
@@ -112,16 +122,6 @@
       "place": "18 km WSW of Johannesburg, CA",
       "time": 1783194814870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286751"
-    },
-    {
-      "id": "nc75389496",
-      "lon": -122.472831726074,
-      "lat": 37.6011657714844,
-      "depth": 9.3100004196167,
-      "mag": 1.32,
-      "place": "2 km SE of Pacifica, CA",
-      "time": 1783194772740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389496"
     },
     {
       "id": "nc75389506",
@@ -2264,14 +2264,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714040502"
     },
     {
-      "id": "aka2026nbudue",
-      "lon": 176.226,
-      "lat": 51.879,
-      "depth": 10,
-      "mag": 4,
-      "place": "233 km ESE of Attu Station, Alaska",
-      "time": 1783119820230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nbudue"
+      "id": "us6000ta1r",
+      "lon": 176.3065,
+      "lat": 52.0169,
+      "depth": 16.743,
+      "mag": 4.1,
+      "place": "231 km ESE of Attu Station, Alaska",
+      "time": 1783119821355,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta1r"
     },
     {
       "id": "aka2026nbtpaw",
@@ -2372,26 +2372,6 @@
       "place": "5 km NNW of Susitna North, Alaska",
       "time": 1783114661855,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nbrhet"
-    },
-    {
-      "id": "nn00921137",
-      "lon": -115.1767,
-      "lat": 36.1562,
-      "depth": 3.2454,
-      "mag": 2.18,
-      "place": "4 km WSW of Las Vegas, Nevada",
-      "time": 1783113853123,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921137"
-    },
-    {
-      "id": "av94286803",
-      "lon": -178.734833333333,
-      "lat": 51.824,
-      "depth": 14.71,
-      "mag": 1.03,
-      "place": "144 km W of Adak, Alaska",
-      "time": 1783113546810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94286803"
     }
   ]
 }
