@@ -1,8 +1,68 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-04T10:45:43Z",
-  "count": 219,
+  "updated": "2026-07-04T11:19:17Z",
+  "count": 224,
   "points": [
+    {
+      "id": "ci41286455",
+      "lon": -118.528335571289,
+      "lat": 35.3300018310547,
+      "depth": 5.42999982833862,
+      "mag": 1.32942790979042,
+      "place": "23 km NNW of Tehachapi, CA",
+      "time": 1783163787660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286455"
+    },
+    {
+      "id": "aka2026ncskzt",
+      "lon": -147.482,
+      "lat": 61.208,
+      "depth": 15.8,
+      "mag": 1.2,
+      "place": "57 km NW of Tatitlek, Alaska",
+      "time": 1783163503164,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ncskzt"
+    },
+    {
+      "id": "ci41286447",
+      "lon": -118.883166666667,
+      "lat": 34.5853333333333,
+      "depth": 2.03,
+      "mag": 1.38,
+      "place": "21 km NNW of Piru, CA",
+      "time": 1783163239960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286447"
+    },
+    {
+      "id": "aka2026ncrzwt",
+      "lon": -149.592,
+      "lat": 62.156,
+      "depth": 52.4,
+      "mag": 1.5,
+      "place": "13 km E of Susitna North, Alaska",
+      "time": 1783162734950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ncrzwt"
+    },
+    {
+      "id": "ci41286439",
+      "lon": -116.829166666667,
+      "lat": 33.9706666666667,
+      "depth": 16.77,
+      "mag": 0.46,
+      "place": "7 km NE of Banning, CA",
+      "time": 1783162159280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286439"
+    },
+    {
+      "id": "nc75389196",
+      "lon": -122.803497314453,
+      "lat": 38.8248329162598,
+      "depth": 2.66000008583069,
+      "mag": 0.73,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1783161936040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389196"
+    },
     {
       "id": "nc75389191",
       "lon": -123.208335876465,
@@ -195,22 +255,22 @@
     },
     {
       "id": "tx2026nakkaf",
-      "lon": -102.112,
-      "lat": 32.43,
-      "depth": 5.7357,
+      "lon": -102.108,
+      "lat": 32.432,
+      "depth": 6.2357,
       "mag": 1.1,
       "place": "36 km SSW of Los Ybanez, Texas",
-      "time": 1783153567226,
+      "time": 1783153567086,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nakkaf"
     },
     {
       "id": "tx2026nakhdw",
-      "lon": -102.116,
+      "lon": -102.115,
       "lat": 32.436,
-      "depth": 4.1364,
+      "depth": 4.3006,
       "mag": 1.4,
       "place": "36 km SSW of Los Ybanez, Texas",
-      "time": 1783153364211,
+      "time": 1783153364129,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nakhdw"
     },
     {
@@ -305,12 +365,12 @@
     },
     {
       "id": "tx2026nahmga",
-      "lon": -102.41,
-      "lat": 31.558,
-      "depth": 0,
-      "mag": 1.7,
-      "place": "18 km NNW of Crane, Texas",
-      "time": 1783148281246,
+      "lon": -102.361,
+      "lat": 31.847,
+      "depth": 3.856,
+      "mag": 1.1,
+      "place": "0 km ENE of Odessa, Texas",
+      "time": 1783148286090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nahmga"
     },
     {
@@ -482,6 +542,16 @@
       "place": "31 km NW of Toyah, Texas",
       "time": 1783142559695,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026naehlt"
+    },
+    {
+      "id": "tx2026naehbm",
+      "lon": -102.103,
+      "lat": 32.429,
+      "depth": 6.4044,
+      "mag": 1,
+      "place": "36 km SSW of Los Ybanez, Texas",
+      "time": 1783142495919,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026naehbm"
     },
     {
       "id": "aka2026ncgtjw",
@@ -2172,26 +2242,6 @@
       "place": "18 km NW of Stanton, Texas",
       "time": 1783078008085,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026myuoel"
-    },
-    {
-      "id": "nc75388531",
-      "lon": -121.516334533691,
-      "lat": 37.140998840332,
-      "depth": 10.039999961853,
-      "mag": 1.11,
-      "place": "10 km NE of San Martin, CA",
-      "time": 1783076917420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388531"
-    },
-    {
-      "id": "aka2026nawgyn",
-      "lon": -152.411,
-      "lat": 59.012,
-      "depth": 74,
-      "mag": 1.5,
-      "place": "47 km SW of Nanwalek, Alaska",
-      "time": 1783076862516,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nawgyn"
     }
   ]
 }
