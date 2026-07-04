@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-04T01:31:05Z",
-  "count": 208,
+  "updated": "2026-07-04T01:45:40Z",
+  "count": 209,
   "points": [
+    {
+      "id": "ci41286255",
+      "lon": -116.128,
+      "lat": 33.2621666666667,
+      "depth": 6.98,
+      "mag": 0.79,
+      "place": "13 km N of Ocotillo Wells, CA",
+      "time": 1783129223410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286255"
+    },
+    {
+      "id": "ci41286247",
+      "lon": -116.125833333333,
+      "lat": 33.2591666666667,
+      "depth": 8.27,
+      "mag": 1.16,
+      "place": "13 km N of Ocotillo Wells, CA",
+      "time": 1783129008730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286247"
+    },
     {
       "id": "ci41286239",
       "lon": -116.121666666667,
@@ -52,6 +72,16 @@
       "place": "3 km NW of The Geysers, CA",
       "time": 1783127607090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388971"
+    },
+    {
+      "id": "pr71522598",
+      "lon": -66.772,
+      "lat": 19.074,
+      "depth": 40.22,
+      "mag": 3.29,
+      "place": "65 km N of Hatillo, Puerto Rico",
+      "time": 1783127414830,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522598"
     },
     {
       "id": "hv74996611",
@@ -2062,26 +2092,6 @@
       "place": "South Sandwich Islands region",
       "time": 1783043396752,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9qz"
-    },
-    {
-      "id": "us6000t9qx",
-      "lon": 142.2568,
-      "lat": 38.728,
-      "depth": 33.97,
-      "mag": 5.1,
-      "place": "60 km SE of Ōfunato, Japan",
-      "time": 1783043090399,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9qx"
-    },
-    {
-      "id": "nc75388321",
-      "lon": -122.683833333333,
-      "lat": 39.7846666666667,
-      "depth": 14.18,
-      "mag": 3.85,
-      "place": "15 km NNE of Alder Springs, CA",
-      "time": 1783042750280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388321"
     }
   ]
 }
