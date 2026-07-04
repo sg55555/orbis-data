@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-04T23:15:41Z",
-  "count": 238,
+  "updated": "2026-07-04T23:31:09Z",
+  "count": 239,
   "points": [
+    {
+      "id": "ci41286815",
+      "lon": -117.802833333333,
+      "lat": 35.2966666666667,
+      "depth": 6.95,
+      "mag": 1.36,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1783206850110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286815"
+    },
+    {
+      "id": "nc75389621",
+      "lon": -122.810997009277,
+      "lat": 38.8223342895508,
+      "depth": 2.78999996185303,
+      "mag": 1.25,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1783206834950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389621"
+    },
     {
       "id": "nc75389616",
       "lon": -122.76000213623,
@@ -145,12 +165,12 @@
     },
     {
       "id": "tx2026nbjhuj",
-      "lon": -101.868,
-      "lat": 31.748,
-      "depth": 3.7936,
+      "lon": -101.864,
+      "lat": 31.745,
+      "depth": 3.5693,
       "mag": 1,
       "place": "34 km SE of Midland, Texas",
-      "time": 1783198692519,
+      "time": 1783198692589,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nbjhuj"
     },
     {
@@ -165,12 +185,12 @@
     },
     {
       "id": "tx2026nbjccw",
-      "lon": -101.266,
-      "lat": 32.289,
-      "depth": 2.6445,
+      "lon": -101.256,
+      "lat": 32.29,
+      "depth": 3.6789,
       "mag": 1.6,
-      "place": "3 km ESE of Coahoma, Texas",
-      "time": 1783198273175,
+      "place": "4 km E of Coahoma, Texas",
+      "time": 1783198272850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nbjccw"
     },
     {
@@ -2372,16 +2392,6 @@
       "place": "95 km N of Isabela, Puerto Rico",
       "time": 1783121940920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522593"
-    },
-    {
-      "id": "hv74996561",
-      "lon": -155.5,
-      "lat": 19.1266670227051,
-      "depth": 28.1499996185303,
-      "mag": 1.77,
-      "place": "8 km SSW of Pāhala, Hawaii",
-      "time": 1783120679940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74996561"
     }
   ]
 }
