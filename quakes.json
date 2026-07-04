@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-04T15:45:43Z",
-  "count": 221,
+  "updated": "2026-07-04T16:01:17Z",
+  "count": 219,
   "points": [
     {
+      "id": "nc75389306",
+      "lon": -123.264663696289,
+      "lat": 39.3256683349609,
+      "depth": 6.82000017166138,
+      "mag": 1.38,
+      "place": "8 km NW of Redwood Valley, CA",
+      "time": 1783180643770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389306"
+    },
+    {
       "id": "uw714040872",
-      "lon": -122.60050201416,
-      "lat": 48.2818336486816,
-      "depth": 25.1800003051758,
-      "mag": 2.23160982131958,
+      "lon": -122.601166666667,
+      "lat": 48.286,
+      "depth": 25.97,
+      "mag": 2.28,
       "place": "3 km ESE of Oak Harbor, Washington",
-      "time": 1783179556360,
+      "time": 1783179556220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714040872"
     },
     {
@@ -35,12 +45,12 @@
     },
     {
       "id": "tx2026naxwcl",
-      "lon": -103.846,
+      "lon": -103.859,
       "lat": 31.959,
-      "depth": 7.2693,
-      "mag": 1.6,
-      "place": "36 km SE of Malaga, New Mexico",
-      "time": 1783177936896,
+      "depth": 4.0072,
+      "mag": 1.5,
+      "place": "35 km SE of Malaga, New Mexico",
+      "time": 1783177937533,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026naxwcl"
     },
     {
@@ -455,12 +465,12 @@
     },
     {
       "id": "hv74996856",
-      "lon": -155.621002197266,
-      "lat": 19.1893329620361,
-      "depth": 5.71999979019165,
-      "mag": 3.5,
+      "lon": -155.609,
+      "lat": 19.1941666666667,
+      "depth": 7.21,
+      "mag": 3.24,
       "place": "13 km N of Wai‘ōhinu, Hawaii",
-      "time": 1783160768240,
+      "time": 1783160768320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74996856"
     },
     {
@@ -1994,6 +2004,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286135"
     },
     {
+      "id": "ci41286127",
+      "lon": -117.077666666667,
+      "lat": 34.2126666666667,
+      "depth": 3.81,
+      "mag": 1.24,
+      "place": "3 km E of Running Springs, CA",
+      "time": 1783101670230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286127"
+    },
+    {
       "id": "aka2026nbjzln",
       "lon": -147.83,
       "lat": 61.951,
@@ -2172,46 +2192,6 @@
       "place": "25 km ESE of Ocotillo Wells, CA",
       "time": 1783094771560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286039"
-    },
-    {
-      "id": "uw714040272",
-      "lon": -122.453166666667,
-      "lat": 47.7648333333333,
-      "depth": 27.83,
-      "mag": 2.29,
-      "place": "5 km SE of Kingston, Washington",
-      "time": 1783094119640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714040272"
-    },
-    {
-      "id": "ci41286031",
-      "lon": -116.502,
-      "lat": 33.4836666666667,
-      "depth": 11.54,
-      "mag": 0.98,
-      "place": "18 km ESE of Anza, CA",
-      "time": 1783093868410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286031"
-    },
-    {
-      "id": "ci41286023",
-      "lon": -116.509166666667,
-      "lat": 33.482,
-      "depth": 11.59,
-      "mag": 1.27,
-      "place": "17 km ESE of Anza, CA",
-      "time": 1783093849480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286023"
-    },
-    {
-      "id": "us6000t9zv",
-      "lon": -177.431,
-      "lat": 50.1074,
-      "depth": 10,
-      "mag": 3.5,
-      "place": "204 km SSW of Adak, Alaska",
-      "time": 1783093721175,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9zv"
     }
   ]
 }
