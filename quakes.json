@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-04T05:45:45Z",
-  "count": 221,
+  "updated": "2026-07-04T06:01:21Z",
+  "count": 222,
   "points": [
     {
+      "id": "tx2026nafidl",
+      "lon": -102.335,
+      "lat": 31.884,
+      "depth": 5.8426,
+      "mag": 1.1,
+      "place": "5 km NE of Odessa, Texas",
+      "time": 1783144380406,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nafidl"
+    },
+    {
+      "id": "ci41286351",
+      "lon": -116.359833333333,
+      "lat": 33.0565,
+      "depth": 12.97,
+      "mag": 0.89,
+      "place": "22 km S of Borrego Springs, CA",
+      "time": 1783143842230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286351"
+    },
+    {
       "id": "ci41286343",
-      "lon": -116.297500610352,
-      "lat": 33.2851676940918,
-      "depth": 8.36999988555908,
-      "mag": 2.5587507942978,
+      "lon": -116.296333333333,
+      "lat": 33.2858333333333,
+      "depth": 8.29,
+      "mag": 2.5,
       "place": "8 km ENE of Borrego Springs, CA",
-      "time": 1783143729180,
+      "time": 1783143729130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286343"
     },
     {
@@ -602,6 +622,16 @@
       "place": "8 km SSW of Pāhala, Hawaii",
       "time": 1783120679940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74996561"
+    },
+    {
+      "id": "uw714040502",
+      "lon": -123.036666666667,
+      "lat": 47.4658333333333,
+      "depth": 7.28,
+      "mag": 1.21,
+      "place": "10 km NE of Hoodsport, Washington",
+      "time": 1783120240990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714040502"
     },
     {
       "id": "aka2026nbudue",
@@ -2192,26 +2222,6 @@
       "place": "2 km NE of Anza, CA",
       "time": 1783058711790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285871"
-    },
-    {
-      "id": "aka2026namakt",
-      "lon": -151.63,
-      "lat": 62.112,
-      "depth": 4.3,
-      "mag": 2,
-      "place": "18 km NW of Skwentna, Alaska",
-      "time": 1783058418659,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026namakt"
-    },
-    {
-      "id": "tx2026myjnur",
-      "lon": -102.349,
-      "lat": 31.744,
-      "depth": 0,
-      "mag": 1.6,
-      "place": "11 km S of Odessa, Texas",
-      "time": 1783057884455,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026myjnur"
     }
   ]
 }
