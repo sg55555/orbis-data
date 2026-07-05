@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T06:31:07Z",
-  "count": 241,
+  "updated": "2026-07-05T06:45:48Z",
+  "count": 240,
   "points": [
+    {
+      "id": "ci41287111",
+      "lon": -117.806666666667,
+      "lat": 35.3013333333333,
+      "depth": 6.79,
+      "mag": 2.74,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": 1783233408140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287111"
+    },
     {
       "id": "tx2026nccffh",
       "lon": -103.485,
@@ -2392,26 +2402,6 @@
       "place": "7 km NW of Sutton-Alpine, Alaska",
       "time": 1783148024012,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ncjvhr"
-    },
-    {
-      "id": "ci41286383",
-      "lon": -117.557833333333,
-      "lat": 35.6445,
-      "depth": 5.83,
-      "mag": 0.58,
-      "place": "11 km ENE of Ridgecrest, CA",
-      "time": 1783146800370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286383"
-    },
-    {
-      "id": "nc75389116",
-      "lon": -122.780166625977,
-      "lat": 38.8038330078125,
-      "depth": 3.35999989509583,
-      "mag": 0.76,
-      "place": "4 km NW of The Geysers, CA",
-      "time": 1783146790410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389116"
     }
   ]
 }
