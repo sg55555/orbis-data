@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T11:01:21Z",
-  "count": 230,
+  "updated": "2026-07-05T11:15:42Z",
+  "count": 229,
   "points": [
+    {
+      "id": "nc75389951",
+      "lon": -118.825996398926,
+      "lat": 37.5273323059082,
+      "depth": 5.59000015258789,
+      "mag": 1.09,
+      "place": "13 km WSW of Toms Place, CA",
+      "time": 1783249504950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389951"
+    },
     {
       "id": "nc75389946",
       "lon": -122.8125,
@@ -315,12 +325,12 @@
     },
     {
       "id": "tx2026ncbqng",
-      "lon": -100.962,
-      "lat": 32.207,
-      "depth": 2.263,
-      "mag": 1.6,
-      "place": "17 km SSE of Westbrook, Texas",
-      "time": 1783231873290,
+      "lon": -100.974,
+      "lat": 32.196,
+      "depth": 1.4002,
+      "mag": 1.5,
+      "place": "18 km SSE of Westbrook, Texas",
+      "time": 1783231873535,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ncbqng"
     },
     {
@@ -2282,26 +2292,6 @@
       "place": "23 km NNW of Tehachapi, CA",
       "time": 1783163787650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286455"
-    },
-    {
-      "id": "aka2026ncskzt",
-      "lon": -147.482,
-      "lat": 61.208,
-      "depth": 15.8,
-      "mag": 1.2,
-      "place": "57 km NW of Tatitlek, Alaska",
-      "time": 1783163503164,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ncskzt"
-    },
-    {
-      "id": "ci41286447",
-      "lon": -118.883166666667,
-      "lat": 34.5853333333333,
-      "depth": 2.03,
-      "mag": 1.38,
-      "place": "21 km NNW of Piru, CA",
-      "time": 1783163239960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286447"
     }
   ]
 }
