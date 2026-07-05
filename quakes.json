@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T20:15:43Z",
-  "count": 224,
+  "updated": "2026-07-05T20:31:21Z",
+  "count": 225,
   "points": [
+    {
+      "id": "ci41287527",
+      "lon": -117.681,
+      "lat": 35.9758333333333,
+      "depth": 2.08,
+      "mag": 1,
+      "place": "21 km ENE of Little Lake, CA",
+      "time": 1783282605630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287527"
+    },
     {
       "id": "tx2026nddopi",
       "lon": -103.51,
@@ -472,6 +482,16 @@
       "place": "1 km ESE of The Geysers, CA",
       "time": 1783265133630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390071"
+    },
+    {
+      "id": "us6000taa7",
+      "lon": 104.0992,
+      "lat": 31.6035,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "31 km NNW of Mianzhu, Deyang, Sichuan, China",
+      "time": 1783264813084,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taa7"
     },
     {
       "id": "ci41287391",
@@ -2232,16 +2252,6 @@
       "place": "41 km SW of Nanwalek, Alaska",
       "time": 1783197061962,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ndlbxm"
-    },
-    {
-      "id": "us6000ta64",
-      "lon": -73.5875,
-      "lat": -16.6722,
-      "depth": 26.779,
-      "mag": 4.7,
-      "place": "51 km S of Atico, Peru",
-      "time": 1783196688581,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta64"
     }
   ]
 }
