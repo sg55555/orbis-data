@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T23:15:46Z",
+  "updated": "2026-07-05T23:31:22Z",
   "count": 222,
   "points": [
+    {
+      "id": "ci41287591",
+      "lon": -116.123833333333,
+      "lat": 33.2531666666667,
+      "depth": 8.2,
+      "mag": 2.34,
+      "place": "12 km N of Ocotillo Wells, CA",
+      "time": 1783293654350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287591"
+    },
     {
       "id": "tx2026ndjjkm",
       "lon": -104.435,
@@ -12,6 +22,16 @@
       "place": "56 km S of Whites City, New Mexico",
       "time": 1783292916559,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ndjjkm"
+    },
+    {
+      "id": "pr71522793",
+      "lon": -66.3561666666667,
+      "lat": 18.8411666666667,
+      "depth": 30.71,
+      "mag": 2.68,
+      "place": "41 km N of Brenas, Puerto Rico",
+      "time": 1783292766670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522793"
     },
     {
       "id": "tx2026ndidxx",
@@ -315,12 +335,12 @@
     },
     {
       "id": "tx2026ndbxhg",
-      "lon": -102.042,
-      "lat": 32.398,
-      "depth": 4.6886,
-      "mag": 1,
+      "lon": -102.044,
+      "lat": 32.399,
+      "depth": 6.2597,
+      "mag": 1.1,
       "place": "33 km WSW of Ackerly, Texas",
-      "time": 1783279398127,
+      "time": 1783279397829,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ndbxhg"
     },
     {
@@ -2202,26 +2222,6 @@
       "place": "29 km N of Four Mile Road, Alaska",
       "time": 1783208191839,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ndrguk"
-    },
-    {
-      "id": "nc75389626",
-      "lon": -122.701164245605,
-      "lat": 38.7626647949219,
-      "depth": 1.54999995231628,
-      "mag": 1.01,
-      "place": "2 km SSW of Anderson Springs, CA",
-      "time": 1783207794480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389626"
-    },
-    {
-      "id": "se60505863",
-      "lon": -80.9633333333333,
-      "lat": 36.3776666666667,
-      "depth": 4.6,
-      "mag": 1.86,
-      "place": "3 km WNW of Thurmond, North Carolina",
-      "time": 1783206987690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60505863"
     }
   ]
 }
