@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T01:31:01Z",
-  "count": 241,
+  "updated": "2026-07-05T01:45:41Z",
+  "count": 240,
   "points": [
+    {
+      "id": "nc75389736",
+      "lon": -122.78150177002,
+      "lat": 38.8009986877441,
+      "depth": 3.45000004768372,
+      "mag": 0.75,
+      "place": "3 km NW of The Geysers, CA",
+      "time": 1783215462630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389736"
+    },
     {
       "id": "nc75389731",
       "lon": -123.252166748047,
@@ -2392,26 +2402,6 @@
       "place": "62 km S of Whites City, New Mexico",
       "time": 1783130395424,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mzxpdb"
-    },
-    {
-      "id": "ci41286255",
-      "lon": -116.128,
-      "lat": 33.2621666666667,
-      "depth": 6.98,
-      "mag": 0.79,
-      "place": "13 km N of Ocotillo Wells, CA",
-      "time": 1783129223410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286255"
-    },
-    {
-      "id": "ci41286247",
-      "lon": -116.125833333333,
-      "lat": 33.2591666666667,
-      "depth": 8.27,
-      "mag": 1.16,
-      "place": "13 km N of Ocotillo Wells, CA",
-      "time": 1783129008730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286247"
     }
   ]
 }
