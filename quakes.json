@@ -1,16 +1,16 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T08:01:20Z",
-  "count": 242,
+  "updated": "2026-07-05T08:15:47Z",
+  "count": 241,
   "points": [
     {
       "id": "ci41287167",
-      "lon": -119.335334777832,
-      "lat": 34.9376678466797,
-      "depth": 3,
-      "mag": 1.27072208502158,
+      "lon": -119.327,
+      "lat": 34.9335,
+      "depth": 1.88,
+      "mag": 0.98,
       "place": "15 km SSE of Maricopa, CA",
-      "time": 1783238258030,
+      "time": 1783238257920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287167"
     },
     {
@@ -57,7 +57,7 @@
       "id": "tx2026ncewlh",
       "lon": -102.089,
       "lat": 32.355,
-      "depth": 6.8188,
+      "depth": 6.8133,
       "mag": 1,
       "place": "37 km NW of Stanton, Texas",
       "time": 1783237716304,
@@ -2412,16 +2412,6 @@
       "place": "36 km SSW of Los Ybanez, Texas",
       "time": 1783153364129,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nakhdw"
-    },
-    {
-      "id": "nc75389151",
-      "lon": -122.811668395996,
-      "lat": 38.8156661987305,
-      "depth": 2.9300000667572,
-      "mag": 0.39,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1783152398380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389151"
     }
   ]
 }
