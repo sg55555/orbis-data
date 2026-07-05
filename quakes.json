@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T13:01:21Z",
-  "count": 229,
+  "updated": "2026-07-05T13:15:47Z",
+  "count": 231,
   "points": [
+    {
+      "id": "ci41287319",
+      "lon": -117.8175,
+      "lat": 35.309,
+      "depth": 8.32,
+      "mag": 0.87,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": 1783256817420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287319"
+    },
+    {
+      "id": "ci41287311",
+      "lon": -116.9265,
+      "lat": 33.4985,
+      "depth": 10.86,
+      "mag": 0.55,
+      "place": "8 km NW of Aguanga, CA",
+      "time": 1783256282170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287311"
+    },
     {
       "id": "ci41287303",
       "lon": -117.806166666667,
@@ -402,6 +422,16 @@
       "place": "38 km NW of Stanton, Texas",
       "time": 1783237716831,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ncewlh"
+    },
+    {
+      "id": "pr71522713",
+      "lon": -67.0656666666667,
+      "lat": 18.2358333333333,
+      "depth": 94.66,
+      "mag": 2.99,
+      "place": "7 km SE of Espino, Puerto Rico",
+      "time": 1783237305720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522713"
     },
     {
       "id": "ci41287127",
@@ -2282,16 +2312,6 @@
       "place": "36 km NW of Mentone, Texas",
       "time": 1783171098051,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026naubst"
-    },
-    {
-      "id": "tx2026natslx",
-      "lon": -104.012,
-      "lat": 31.52,
-      "depth": 4.3848,
-      "mag": 1.6,
-      "place": "30 km NW of Toyah, Texas",
-      "time": 1783170443290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026natslx"
     }
   ]
 }
