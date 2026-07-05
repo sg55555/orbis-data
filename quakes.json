@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T13:45:45Z",
-  "count": 240,
+  "updated": "2026-07-05T14:01:30Z",
+  "count": 238,
   "points": [
     {
+      "id": "nc75390001",
+      "lon": -122.709663391113,
+      "lat": 38.7536659240723,
+      "depth": 1.05999994277954,
+      "mag": 1.05,
+      "place": "3 km SSW of Anderson Springs, CA",
+      "time": 1783259559020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390001"
+    },
+    {
       "id": "ci41287351",
-      "lon": -117.809669494629,
-      "lat": 35.3074989318848,
-      "depth": 9.5600004196167,
-      "mag": 1.27026103413167,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1783258963480,
+      "lon": -117.813666666667,
+      "lat": 35.308,
+      "depth": 8.36,
+      "mag": 0.9,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": 1783258963580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287351"
     },
     {
@@ -2372,36 +2382,6 @@
       "place": "12 km ENE of Cloverdale, CA",
       "time": 1783174187020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389251"
-    },
-    {
-      "id": "nc75389246",
-      "lon": -122.800834655762,
-      "lat": 38.8289985656738,
-      "depth": 2.0699999332428,
-      "mag": 1.05,
-      "place": "7 km W of Cobb, CA",
-      "time": 1783173552510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389246"
-    },
-    {
-      "id": "pr2026185002",
-      "lon": -68.0803,
-      "lat": 19.3063,
-      "depth": 62,
-      "mag": 3.87,
-      "place": "87 km NNE of Punta Cana, Dominican Republic",
-      "time": 1783173304500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026185002"
-    },
-    {
-      "id": "nc75389241",
-      "lon": -121.261497497559,
-      "lat": 35.7901649475098,
-      "depth": 9.60000038146973,
-      "mag": 1.11,
-      "place": "18 km NNW of San Simeon, CA",
-      "time": 1783173152240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389241"
     }
   ]
 }
