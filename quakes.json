@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T14:45:42Z",
-  "count": 242,
+  "updated": "2026-07-05T15:01:26Z",
+  "count": 243,
   "points": [
+    {
+      "id": "nc75390046",
+      "lon": -122.80883026123,
+      "lat": 38.8330001831055,
+      "depth": 2.17000007629395,
+      "mag": 0.71,
+      "place": "8 km W of Cobb, CA",
+      "time": 1783263025680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390046"
+    },
+    {
+      "id": "nc75390041",
+      "lon": -121.623664855957,
+      "lat": 36.8778343200684,
+      "depth": 7.09999990463257,
+      "mag": 3.18,
+      "place": "2 km SE of Aromas, CA",
+      "time": 1783262706680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390041"
+    },
     {
       "id": "nc75390031",
       "lon": -122.758834838867,
@@ -2044,14 +2064,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nbcuan"
     },
     {
-      "id": "tx2026nbcmeq",
+      "id": "tx2026nbcmvr",
       "lon": -104.01,
-      "lat": 31.519,
-      "depth": 4.7492,
+      "lat": 31.528,
+      "depth": 7.3816,
       "mag": 2.3,
-      "place": "30 km NW of Toyah, Texas",
-      "time": 1783186345033,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nbcmeq"
+      "place": "31 km NW of Toyah, Texas",
+      "time": 1783186345055,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nbcmvr"
     },
     {
       "id": "ci41286639",
@@ -2412,16 +2432,6 @@
       "place": "36 km SE of Malaga, New Mexico",
       "time": 1783177937346,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026naxwcl"
-    },
-    {
-      "id": "ci41286535",
-      "lon": -117.816833333333,
-      "lat": 35.2995,
-      "depth": 9.23,
-      "mag": 1.06,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1783177135780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286535"
     }
   ]
 }
