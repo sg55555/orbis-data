@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T10:15:43Z",
+  "updated": "2026-07-05T10:25:31Z",
   "count": 232,
   "points": [
     {
+      "id": "ci41287231",
+      "lon": -116.742333333333,
+      "lat": 33.6545,
+      "depth": 13.99,
+      "mag": 0.33,
+      "place": "10 km SSW of Idyllwild, CA",
+      "time": 1783246437110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287231"
+    },
+    {
       "id": "ci41287223",
-      "lon": -117.808334350586,
-      "lat": 35.3120002746582,
-      "depth": 8.9399995803833,
-      "mag": 1.38909225730058,
+      "lon": -117.8115,
+      "lat": 35.315,
+      "depth": 7.89,
+      "mag": 0.79,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1783246312290,
+      "time": 1783246312320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287223"
     },
     {
@@ -2312,16 +2322,6 @@
       "place": "13 km N of Wai‘ōhinu, Hawaii",
       "time": 1783160768320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74996856"
-    },
-    {
-      "id": "hv74996851",
-      "lon": -155.36067199707,
-      "lat": 19.0170001983643,
-      "depth": 26.1700000762939,
-      "mag": 1.74,
-      "place": "23 km ESE of Naalehu, Hawaii",
-      "time": 1783160460850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74996851"
     }
   ]
 }
