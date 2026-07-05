@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T16:01:26Z",
+  "updated": "2026-07-05T16:15:43Z",
   "count": 242,
   "points": [
+    {
+      "id": "nc75390101",
+      "lon": -121.448333740234,
+      "lat": 36.9656677246094,
+      "depth": 4.30999994277954,
+      "mag": 1.95,
+      "place": "12 km ESE of Gilroy, CA",
+      "time": 1783267326360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390101"
+    },
     {
       "id": "ci41287407",
       "lon": -117.544333333333,
@@ -12,6 +22,16 @@
       "place": "13 km WSW of Searles Valley, CA",
       "time": 1783266930930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287407"
+    },
+    {
+      "id": "us6000taab",
+      "lon": -72.0113,
+      "lat": -29.1964,
+      "depth": 10,
+      "mag": 5,
+      "place": "106 km NW of Coquimbo, Chile",
+      "time": 1783266813718,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taab"
     },
     {
       "id": "nc75390081",
@@ -95,12 +115,12 @@
     },
     {
       "id": "us6000taa2",
-      "lon": 104.0877,
-      "lat": 31.5461,
-      "depth": 45.552,
-      "mag": 4.9,
-      "place": "26 km NNW of Mianzhu, Deyang, Sichuan, China",
-      "time": 1783263811898,
+      "lon": 104.0978,
+      "lat": 31.5223,
+      "depth": 10,
+      "mag": 5,
+      "place": "23 km NNW of Mianzhu, Deyang, Sichuan, China",
+      "time": 1783263807206,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taa2"
     },
     {
@@ -1725,12 +1745,12 @@
     },
     {
       "id": "tx2026nbjhuj",
-      "lon": -101.864,
-      "lat": 31.745,
-      "depth": 3.5693,
+      "lon": -101.875,
+      "lat": 31.746,
+      "depth": 7.1533,
       "mag": 1,
-      "place": "34 km SE of Midland, Texas",
-      "time": 1783198692589,
+      "place": "33 km SE of Midland, Texas",
+      "time": 1783198692973,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nbjhuj"
     },
     {
@@ -2402,26 +2422,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1783181984970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389321"
-    },
-    {
-      "id": "us6000ta4u",
-      "lon": -84.2163,
-      "lat": 3.2099,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "off the coast of Central America",
-      "time": 1783181227817,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta4u"
-    },
-    {
-      "id": "ci41286559",
-      "lon": -118.8815,
-      "lat": 34.5868333333333,
-      "depth": 2.24,
-      "mag": 1.82,
-      "place": "21 km NNW of Piru, CA",
-      "time": 1783181022040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286559"
     }
   ]
 }
