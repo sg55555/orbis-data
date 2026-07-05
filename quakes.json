@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T14:31:12Z",
-  "count": 240,
+  "updated": "2026-07-05T14:45:42Z",
+  "count": 242,
   "points": [
     {
+      "id": "nc75390031",
+      "lon": -122.758834838867,
+      "lat": 38.7789993286133,
+      "depth": 1.5,
+      "mag": 0.47,
+      "place": "0 km NW of The Geysers, CA",
+      "time": 1783262145070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390031"
+    },
+    {
+      "id": "ci41287367",
+      "lon": -117.554833333333,
+      "lat": 35.7391666666667,
+      "depth": 8.77,
+      "mag": 1.27,
+      "place": "14 km WSW of Searles Valley, CA",
+      "time": 1783262030130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287367"
+    },
+    {
       "id": "ci41287359",
-      "lon": -116.425498962402,
-      "lat": 33.4626655578613,
-      "depth": 3.26999998092651,
-      "mag": 1.03998585046334,
-      "place": "23 km NNW of Borrego Springs, CA",
-      "time": 1783261658410,
+      "lon": -116.427333333333,
+      "lat": 33.4638333333333,
+      "depth": 3.41,
+      "mag": 0.76,
+      "place": "24 km NNW of Borrego Springs, CA",
+      "time": 1783261658400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287359"
     },
     {
@@ -22,6 +42,16 @@
       "place": "61 km WSW of Lopez Point, CA",
       "time": 1783261541170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390026"
+    },
+    {
+      "id": "us6000ta9m",
+      "lon": -179.03,
+      "lat": -19.9807,
+      "depth": 685.692,
+      "mag": 5.8,
+      "place": "274 km SE of Levuka, Fiji",
+      "time": 1783261346034,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta9m"
     },
     {
       "id": "aka2026neustu",
@@ -1975,12 +2005,12 @@
     },
     {
       "id": "tx2026nbdhdr",
-      "lon": -104.186,
-      "lat": 31.624,
-      "depth": 4.05,
-      "mag": 1.9,
+      "lon": -104.18,
+      "lat": 31.626,
+      "depth": 6.4459,
+      "mag": 2,
       "place": "50 km NW of Toyah, Texas",
-      "time": 1783187792456,
+      "time": 1783187792223,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nbdhdr"
     },
     {
@@ -2392,16 +2422,6 @@
       "place": "18 km WSW of Johannesburg, CA",
       "time": 1783177135780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286535"
-    },
-    {
-      "id": "ci41286519",
-      "lon": -117.816333333333,
-      "lat": 35.3011666666667,
-      "depth": 9.04,
-      "mag": 0.84,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1783175477750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286519"
     }
   ]
 }
