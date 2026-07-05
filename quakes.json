@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T18:12:45Z",
-  "count": 224,
+  "updated": "2026-07-05T18:15:46Z",
+  "count": 225,
   "points": [
+    {
+      "id": "ci41287487",
+      "lon": -115.538833333333,
+      "lat": 32.9693333333333,
+      "depth": 11,
+      "mag": 1.25,
+      "place": "1 km SW of Brawley, CA",
+      "time": 1783275084700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287487"
+    },
     {
       "id": "tx2026nczjul",
       "lon": -102.12,
@@ -1694,6 +1704,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389646"
     },
     {
+      "id": "tx2026nbotxo",
+      "lon": -102.118,
+      "lat": 32.437,
+      "depth": 7.7637,
+      "mag": 0.8,
+      "place": "36 km SSW of Los Ybanez, Texas",
+      "time": 1783208562032,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nbotxo"
+    },
+    {
       "id": "nc75389641",
       "lon": -121.405830383301,
       "lat": 36.7803344726562,
@@ -2232,16 +2252,6 @@
       "place": "3 km SW of Pāhala, Hawaii",
       "time": 1783188946660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74997006"
-    },
-    {
-      "id": "nc75389406",
-      "lon": -122.842163085938,
-      "lat": 38.8580017089844,
-      "depth": 0.300000011920929,
-      "mag": 0.61,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1783188833510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389406"
     }
   ]
 }
