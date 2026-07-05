@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T12:15:45Z",
-  "count": 230,
+  "updated": "2026-07-05T12:31:11Z",
+  "count": 231,
   "points": [
+    {
+      "id": "nc75389991",
+      "lon": -122.794998168945,
+      "lat": 38.8235015869141,
+      "depth": 2.29999995231628,
+      "mag": 0.44,
+      "place": "6 km NNW of The Geysers, CA",
+      "time": 1783254324860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389991"
+    },
+    {
+      "id": "ci41287287",
+      "lon": -116.915166666667,
+      "lat": 34.0365,
+      "depth": 16.91,
+      "mag": 1.27,
+      "place": "12 km E of Yucaipa, CA",
+      "time": 1783254236980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287287"
+    },
     {
       "id": "aka2026neqmpq",
       "lon": -154.931,
@@ -14,6 +34,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026neqmpq"
     },
     {
+      "id": "nn00921212",
+      "lon": -116.5575,
+      "lat": 38.1339,
+      "depth": 9.0284,
+      "mag": 1.78,
+      "place": "59 km E of Tonopah, Nevada",
+      "time": 1783253570026,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921212"
+    },
+    {
       "id": "ci41287279",
       "lon": -117.8075,
       "lat": 35.2981666666667,
@@ -22,6 +52,16 @@
       "place": "18 km WSW of Johannesburg, CA",
       "time": 1783252974090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287279"
+    },
+    {
+      "id": "us6000ta95",
+      "lon": -71.9367,
+      "lat": -30.6592,
+      "depth": 17.675,
+      "mag": 4.5,
+      "place": "71 km W of Ovalle, Chile",
+      "time": 1783252647433,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta95"
     },
     {
       "id": "nc75389976",
@@ -2272,36 +2312,6 @@
       "place": "Reykjanes Ridge",
       "time": 1783168363084,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3s"
-    },
-    {
-      "id": "us6000ta3q",
-      "lon": -30.5396,
-      "lat": 59.4012,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "Reykjanes Ridge",
-      "time": 1783168018093,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3q"
-    },
-    {
-      "id": "aka2026ncuwds",
-      "lon": -156.737,
-      "lat": 57.022,
-      "depth": 85.9,
-      "mag": 2,
-      "place": "67 km SE of Ugashik, Alaska",
-      "time": 1783167870789,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ncuwds"
-    },
-    {
-      "id": "aka2026ncutsf",
-      "lon": -147.706,
-      "lat": 63.568,
-      "depth": 1,
-      "mag": 1.7,
-      "place": "62 km ESE of Denali Park, Alaska",
-      "time": 1783167704307,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ncutsf"
     }
   ]
 }
