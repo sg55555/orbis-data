@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T16:45:42Z",
-  "count": 241,
+  "updated": "2026-07-05T17:01:21Z",
+  "count": 237,
   "points": [
+    {
+      "id": "ci41287455",
+      "lon": -117.8835,
+      "lat": 36.1051666666667,
+      "depth": 5.68,
+      "mag": 0.88,
+      "place": "9 km NE of Coso Junction, CA",
+      "time": 1783269985570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287455"
+    },
+    {
+      "id": "us6000taah",
+      "lon": -106.8454,
+      "lat": 36.6583,
+      "depth": 10,
+      "mag": 3.5,
+      "place": "25 km WSW of Los Ojos, New Mexico",
+      "time": 1783269448478,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taah"
+    },
     {
       "id": "ci41287439",
       "lon": -115.536,
@@ -52,6 +72,16 @@
       "place": "3 km NW of The Geysers, CA",
       "time": 1783268533880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390106"
+    },
+    {
+      "id": "pr2026186001",
+      "lon": -68.2458,
+      "lat": 18.2933,
+      "depth": 79,
+      "mag": 3.74,
+      "place": "36 km SSE of Punta Cana, Dominican Republic",
+      "time": 1783268268930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026186001"
     },
     {
       "id": "hv74997541",
@@ -2342,76 +2372,6 @@
       "place": "Izu Islands, Japan region",
       "time": 1783184639362,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta53"
-    },
-    {
-      "id": "us6000ta52",
-      "lon": 142.1706,
-      "lat": 29.6924,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "Izu Islands, Japan region",
-      "time": 1783184273866,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta52"
-    },
-    {
-      "id": "ci41286591",
-      "lon": -117.651,
-      "lat": 35.8105,
-      "depth": 5.66,
-      "mag": 0.43,
-      "place": "21 km N of Ridgecrest, CA",
-      "time": 1783184203940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286591"
-    },
-    {
-      "id": "ci41286599",
-      "lon": -116.639833333333,
-      "lat": 33.4451666666667,
-      "depth": 6.31,
-      "mag": 0.39,
-      "place": "13 km SSE of Anza, CA",
-      "time": 1783184202430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286599"
-    },
-    {
-      "id": "ci41286583",
-      "lon": -117.806,
-      "lat": 35.299,
-      "depth": 7.06,
-      "mag": 1.32,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1783184117800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286583"
-    },
-    {
-      "id": "nc75389356",
-      "lon": -118.841003417969,
-      "lat": 37.4911651611328,
-      "depth": 6.05000019073486,
-      "mag": 1.99,
-      "place": "16 km WSW of Toms Place, CA",
-      "time": 1783183984590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389356"
-    },
-    {
-      "id": "aka2026nddsnw",
-      "lon": -150.175,
-      "lat": 60.979,
-      "depth": 44.3,
-      "mag": 2.3,
-      "place": "28 km ENE of Point Possession, Alaska",
-      "time": 1783183829076,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nddsnw"
-    },
-    {
-      "id": "nc75389351",
-      "lon": -121.089332580566,
-      "lat": 36.4791679382324,
-      "depth": -0.129999995231628,
-      "mag": 1.43,
-      "place": "8 km SE of Pinnacles, CA",
-      "time": 1783183791810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389351"
     }
   ]
 }
