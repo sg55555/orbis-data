@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T03:31:07Z",
-  "count": 240,
+  "updated": "2026-07-05T03:45:46Z",
+  "count": 241,
   "points": [
+    {
+      "id": "ci41286919",
+      "lon": -116.872,
+      "lat": 34.2101666666667,
+      "depth": 0.68,
+      "mag": 0.47,
+      "place": "5 km SE of Big Bear Lake, CA",
+      "time": 1783222605370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286919"
+    },
     {
       "id": "hv74997211",
       "lon": -155.461669921875,
@@ -82,6 +92,16 @@
       "place": "17 km SE of Silver Springs, Nevada",
       "time": 1783218860504,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921195"
+    },
+    {
+      "id": "ci41286903",
+      "lon": -116.980833333333,
+      "lat": 34.0046666666667,
+      "depth": 12.53,
+      "mag": 0.43,
+      "place": "7 km ESE of Yucaipa, CA",
+      "time": 1783218335300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286903"
     },
     {
       "id": "hv74997186",
@@ -2392,16 +2412,6 @@
       "place": "91 km SE of Pope-Vannoy Landing, Alaska",
       "time": 1783136722657,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ncdnzv"
-    },
-    {
-      "id": "nc75389056",
-      "lon": -122.847503662109,
-      "lat": 38.8211669921875,
-      "depth": 2.44000005722046,
-      "mag": 0.28,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": 1783136312810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389056"
     }
   ]
 }
