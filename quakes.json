@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T05:15:39Z",
-  "count": 246,
+  "updated": "2026-07-05T05:31:05Z",
+  "count": 245,
   "points": [
+    {
+      "id": "ci41287087",
+      "lon": -117.7135,
+      "lat": 35.901,
+      "depth": 6.11,
+      "mag": 0.25,
+      "place": "18 km ESE of Little Lake, CA",
+      "time": 1783229191220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287087"
+    },
+    {
+      "id": "aka2026necqet",
+      "lon": -152.953,
+      "lat": 60.506,
+      "depth": 144.7,
+      "mag": 2.4,
+      "place": "82 km ENE of Port Alsworth, Alaska",
+      "time": 1783228632578,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026necqet"
+    },
     {
       "id": "aka2026neciwy",
       "lon": -149.284,
@@ -845,12 +865,12 @@
     },
     {
       "id": "uw714040982",
-      "lon": -122.306999206543,
-      "lat": 47.735668182373,
-      "depth": 19.2000007629395,
-      "mag": 1.55983006954193,
-      "place": "3 km SW of Lake Forest Park, Washington",
-      "time": 1783195716290,
+      "lon": -122.298833333333,
+      "lat": 47.738,
+      "depth": 26.03,
+      "mag": 1.61,
+      "place": "2 km SSW of Lake Forest Park, Washington",
+      "time": 1783195715990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714040982"
     },
     {
@@ -1744,6 +1764,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3r"
     },
     {
+      "id": "us6000ta3s",
+      "lon": -30.3455,
+      "lat": 59.2926,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "Reykjanes Ridge",
+      "time": 1783168363084,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3s"
+    },
+    {
+      "id": "us6000ta3q",
+      "lon": -30.5396,
+      "lat": 59.4012,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "Reykjanes Ridge",
+      "time": 1783168018093,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3q"
+    },
+    {
       "id": "aka2026ncuwds",
       "lon": -156.737,
       "lat": 57.022,
@@ -2412,56 +2452,6 @@
       "place": "8 km ENE of Borrego Springs, CA",
       "time": 1783143729130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286343"
-    },
-    {
-      "id": "aka2026ncgxzc",
-      "lon": -153.407,
-      "lat": 59.616,
-      "depth": 19.5,
-      "mag": 1.3,
-      "place": "43 km ESE of Pedro Bay, Alaska",
-      "time": 1783142815612,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ncgxzc"
-    },
-    {
-      "id": "tx2026naejjc",
-      "lon": -104.012,
-      "lat": 31.524,
-      "depth": 4.5052,
-      "mag": 2.4,
-      "place": "31 km NW of Toyah, Texas",
-      "time": 1783142654898,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026naejjc"
-    },
-    {
-      "id": "tx2026naehlt",
-      "lon": -104.01,
-      "lat": 31.53,
-      "depth": 4.3386,
-      "mag": 2.4,
-      "place": "31 km NW of Toyah, Texas",
-      "time": 1783142559695,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026naehlt"
-    },
-    {
-      "id": "tx2026naehbm",
-      "lon": -102.103,
-      "lat": 32.429,
-      "depth": 6.4044,
-      "mag": 1,
-      "place": "36 km SSW of Los Ybanez, Texas",
-      "time": 1783142495919,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026naehbm"
-    },
-    {
-      "id": "aka2026ncgtjw",
-      "lon": -145.566,
-      "lat": 60.023,
-      "depth": 12.3,
-      "mag": 1.7,
-      "place": "58 km S of Cordova, Alaska",
-      "time": 1783142493320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ncgtjw"
     }
   ]
 }
