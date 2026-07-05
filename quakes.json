@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T17:31:15Z",
-  "count": 230,
+  "updated": "2026-07-05T17:45:44Z",
+  "count": 228,
   "points": [
+    {
+      "id": "ci41287463",
+      "lon": -116.038166666667,
+      "lat": 33.2031666666667,
+      "depth": 9.59,
+      "mag": 0.55,
+      "place": "11 km NE of Ocotillo Wells, CA",
+      "time": 1783273011350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287463"
+    },
     {
       "id": "aka2026nfayvf",
       "lon": -144.336,
@@ -42,6 +52,16 @@
       "place": "9 km NE of Coso Junction, CA",
       "time": 1783269985570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287455"
+    },
+    {
+      "id": "pr71522768",
+      "lon": -66.6996666666667,
+      "lat": 18.6036666666667,
+      "depth": 13.94,
+      "mag": 2.38,
+      "place": "14 km N of Arecibo, Puerto Rico",
+      "time": 1783269614080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522768"
     },
     {
       "id": "us6000taah",
@@ -1785,12 +1805,12 @@
     },
     {
       "id": "tx2026nblhmn",
-      "lon": -104.342,
-      "lat": 31.654,
-      "depth": 3.8591,
+      "lon": -104.339,
+      "lat": 31.666,
+      "depth": 4.5618,
       "mag": 1.6,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": 1783202473847,
+      "place": "56 km S of Whites City, New Mexico",
+      "time": 1783202473919,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nblhmn"
     },
     {
@@ -2262,46 +2282,6 @@
       "place": "3 km ENE of Running Springs, CA",
       "time": 1783187612770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286655"
-    },
-    {
-      "id": "us6000ta5h",
-      "lon": 142.0799,
-      "lat": 29.6961,
-      "depth": 10,
-      "mag": 4.4,
-      "place": "Izu Islands, Japan region",
-      "time": 1783187086301,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta5h"
-    },
-    {
-      "id": "tx2026nbcuan",
-      "lon": -104.008,
-      "lat": 31.527,
-      "depth": 7.5867,
-      "mag": 1.7,
-      "place": "31 km NW of Toyah, Texas",
-      "time": 1783186846468,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nbcuan"
-    },
-    {
-      "id": "tx2026nbcmvr",
-      "lon": -104.01,
-      "lat": 31.528,
-      "depth": 7.3816,
-      "mag": 2.3,
-      "place": "31 km NW of Toyah, Texas",
-      "time": 1783186345055,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nbcmvr"
-    },
-    {
-      "id": "ci41286639",
-      "lon": -119.543666666667,
-      "lat": 34.6535,
-      "depth": 9.44,
-      "mag": 0.86,
-      "place": "25 km NNE of Montecito, CA",
-      "time": 1783186240060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286639"
     }
   ]
 }
