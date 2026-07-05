@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T14:23:49Z",
+  "updated": "2026-07-05T14:31:12Z",
   "count": 240,
   "points": [
+    {
+      "id": "ci41287359",
+      "lon": -116.425498962402,
+      "lat": 33.4626655578613,
+      "depth": 3.26999998092651,
+      "mag": 1.03998585046334,
+      "place": "23 km NNW of Borrego Springs, CA",
+      "time": 1783261658410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287359"
+    },
+    {
+      "id": "nc75390026",
+      "lon": -122.179832458496,
+      "lat": 35.7900009155273,
+      "depth": 3.92000007629395,
+      "mag": 1.38,
+      "place": "61 km WSW of Lopez Point, CA",
+      "time": 1783261541170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390026"
+    },
     {
       "id": "aka2026neustu",
       "lon": -150.637,
@@ -2325,12 +2345,12 @@
     },
     {
       "id": "tx2026nayngf",
-      "lon": -104.239,
-      "lat": 31.652,
-      "depth": 4.2272,
+      "lon": -104.234,
+      "lat": 31.655,
+      "depth": 6.3947,
       "mag": 2.2,
       "place": "56 km NW of Toyah, Texas",
-      "time": 1783179133091,
+      "time": 1783179132817,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nayngf"
     },
     {
@@ -2382,26 +2402,6 @@
       "place": "18 km WSW of Johannesburg, CA",
       "time": 1783175477750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286519"
-    },
-    {
-      "id": "tx2026nawhmf",
-      "lon": -104.01,
-      "lat": 31.521,
-      "depth": 4.3251,
-      "mag": 2.3,
-      "place": "30 km NW of Toyah, Texas",
-      "time": 1783175320086,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nawhmf"
-    },
-    {
-      "id": "ci41286511",
-      "lon": -117.914166666667,
-      "lat": 35.9808333333333,
-      "depth": 2.68,
-      "mag": 0.85,
-      "place": "5 km N of Little Lake, CA",
-      "time": 1783175092530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286511"
     }
   ]
 }
