@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T09:15:46Z",
+  "updated": "2026-07-05T09:39:56Z",
   "count": 232,
   "points": [
+    {
+      "id": "ci41287191",
+      "lon": -117.804166666667,
+      "lat": 35.2996666666667,
+      "depth": 6.6,
+      "mag": 1.42,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1783243000050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287191"
+    },
     {
       "id": "ci41287183",
       "lon": -116.337666666667,
@@ -162,6 +172,16 @@
       "place": "9 km SW of Point MacKenzie, Alaska",
       "time": 1783234014876,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nefpyu"
+    },
+    {
+      "id": "us6000ta7w",
+      "lon": -106.8465,
+      "lat": 36.6351,
+      "depth": 9.206,
+      "mag": 2.5,
+      "place": "26 km WSW of Los Ojos, New Mexico",
+      "time": 1783233953306,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta7w"
     },
     {
       "id": "ci41287111",
@@ -2302,26 +2322,6 @@
       "place": "9 km SSE of Redlands, CA",
       "time": 1783158370620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286423"
-    },
-    {
-      "id": "aka2026ncotqo",
-      "lon": -152.446,
-      "lat": 58.221,
-      "depth": 34.9,
-      "mag": 2.8,
-      "place": "32 km ENE of Aleneva, Alaska",
-      "time": 1783156904904,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ncotqo"
-    },
-    {
-      "id": "nc75389181",
-      "lon": -122.797332763672,
-      "lat": 38.8400001525879,
-      "depth": 12.1899995803833,
-      "mag": 0.61,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1783156512680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389181"
     }
   ]
 }
