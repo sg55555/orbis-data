@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T05:31:05Z",
-  "count": 245,
+  "updated": "2026-07-05T05:45:41Z",
+  "count": 244,
   "points": [
+    {
+      "id": "nc75389876",
+      "lon": -122.820999145508,
+      "lat": 38.8110008239746,
+      "depth": 1.92999994754791,
+      "mag": 1.07,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1783229671740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389876"
+    },
     {
       "id": "ci41287087",
       "lon": -117.7135,
@@ -2432,26 +2442,6 @@
       "place": "124 km WSW of Hihifo, Tonga",
       "time": 1783144003221,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta2b"
-    },
-    {
-      "id": "ci41286351",
-      "lon": -116.359833333333,
-      "lat": 33.0565,
-      "depth": 12.97,
-      "mag": 0.89,
-      "place": "22 km S of Borrego Springs, CA",
-      "time": 1783143842230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286351"
-    },
-    {
-      "id": "ci41286343",
-      "lon": -116.296333333333,
-      "lat": 33.2858333333333,
-      "depth": 8.29,
-      "mag": 2.5,
-      "place": "8 km ENE of Borrego Springs, CA",
-      "time": 1783143729130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286343"
     }
   ]
 }
