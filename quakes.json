@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-05T15:45:46Z",
+  "updated": "2026-07-05T16:01:26Z",
   "count": 242,
   "points": [
+    {
+      "id": "ci41287407",
+      "lon": -117.544333333333,
+      "lat": 35.7278333333333,
+      "depth": 2.32,
+      "mag": 0.7,
+      "place": "13 km WSW of Searles Valley, CA",
+      "time": 1783266930930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287407"
+    },
     {
       "id": "nc75390081",
       "lon": -122.801666259766,
@@ -12,6 +22,16 @@
       "place": "5 km NW of The Geysers, CA",
       "time": 1783265941630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390081"
+    },
+    {
+      "id": "us6000taaa",
+      "lon": 104.126,
+      "lat": 31.5649,
+      "depth": 10,
+      "mag": 5,
+      "place": "26 km NNW of Mianzhu, Deyang, Sichuan, China",
+      "time": 1783265413631,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taaa"
     },
     {
       "id": "ci41287399",
@@ -765,12 +785,12 @@
     },
     {
       "id": "tx2026ncewlh",
-      "lon": -102.093,
-      "lat": 32.356,
-      "depth": 4.3029,
+      "lon": -102.094,
+      "lat": 32.346,
+      "depth": 7.6416,
       "mag": 0.9,
-      "place": "38 km NW of Stanton, Texas",
-      "time": 1783237716831,
+      "place": "37 km NW of Stanton, Texas",
+      "time": 1783237717040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ncewlh"
     },
     {
@@ -1684,6 +1704,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389556"
     },
     {
+      "id": "tx2026nbkfjt",
+      "lon": -102.119,
+      "lat": 32.438,
+      "depth": 8.9111,
+      "mag": 1,
+      "place": "36 km SSW of Los Ybanez, Texas",
+      "time": 1783200307663,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nbkfjt"
+    },
+    {
       "id": "nc75389551",
       "lon": -122.733169555664,
       "lat": 38.7854995727539,
@@ -2392,36 +2422,6 @@
       "place": "21 km NNW of Piru, CA",
       "time": 1783181022040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286559"
-    },
-    {
-      "id": "nc75389311",
-      "lon": -122.760833740234,
-      "lat": 38.7901649475098,
-      "depth": 0.790000021457672,
-      "mag": 1.1,
-      "place": "1 km NNW of The Geysers, CA",
-      "time": 1783180725220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389311"
-    },
-    {
-      "id": "nn00921176",
-      "lon": -119.0947,
-      "lat": 39.5992,
-      "depth": 8.5432,
-      "mag": 1.89,
-      "place": "13 km E of Fernley, Nevada",
-      "time": 1783180718762,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921176"
-    },
-    {
-      "id": "nc75389306",
-      "lon": -123.264663696289,
-      "lat": 39.3256683349609,
-      "depth": 6.82000017166138,
-      "mag": 1.38,
-      "place": "8 km NW of Redwood Valley, CA",
-      "time": 1783180643770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389306"
     }
   ]
 }
