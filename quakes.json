@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-06T19:45:40Z",
-  "count": 210,
+  "updated": "2026-07-06T20:01:29Z",
+  "count": 208,
   "points": [
+    {
+      "id": "ci41288127",
+      "lon": -118.342833333333,
+      "lat": 35.061,
+      "depth": -1.02,
+      "mag": 1.41,
+      "place": "12 km SE of Tehachapi, CA",
+      "time": 1783367490650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288127"
+    },
     {
       "id": "tx2026nexkvv",
       "lon": -101.623,
@@ -2072,36 +2082,6 @@
       "place": "5 km WSW of Anza, CA",
       "time": 1783282296690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287519"
-    },
-    {
-      "id": "uw714041822",
-      "lon": -122.600833333333,
-      "lat": 48.2883333333333,
-      "depth": 24.73,
-      "mag": 1.87,
-      "place": "3 km E of Oak Harbor, Washington",
-      "time": 1783281403530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714041822"
-    },
-    {
-      "id": "nc75390251",
-      "lon": -122.759666442871,
-      "lat": 38.792667388916,
-      "depth": 1.3400000333786,
-      "mag": 0.97,
-      "place": "2 km N of The Geysers, CA",
-      "time": 1783281134950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390251"
-    },
-    {
-      "id": "ci41287511",
-      "lon": -116.878166666667,
-      "lat": 34.2095,
-      "depth": 1.55,
-      "mag": 1.17,
-      "place": "5 km SE of Big Bear Lake, CA",
-      "time": 1783280778190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287511"
     }
   ]
 }
