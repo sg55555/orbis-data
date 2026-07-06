@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-06T17:31:23Z",
-  "count": 210,
+  "updated": "2026-07-06T17:45:44Z",
+  "count": 211,
   "points": [
+    {
+      "id": "ci41288047",
+      "lon": -116.308333333333,
+      "lat": 33.3378333333333,
+      "depth": 11.64,
+      "mag": 0.7,
+      "place": "11 km NE of Borrego Springs, CA",
+      "time": 1783359289580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288047"
+    },
     {
       "id": "nc75390741",
       "lon": -122.760665893555,
@@ -22,6 +32,16 @@
       "place": "11 km ENE of Borrego Springs, CA",
       "time": 1783358813640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288039"
+    },
+    {
+      "id": "us6000tai6",
+      "lon": 142.4253,
+      "lat": 40.1864,
+      "depth": 57.696,
+      "mag": 4.6,
+      "place": "52 km E of Noda, Japan",
+      "time": 1783357743352,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tai6"
     },
     {
       "id": "hv74997976",
@@ -2034,6 +2054,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nczxjo"
     },
     {
+      "id": "nn00921222",
+      "lon": -119.0725,
+      "lat": 39.3072,
+      "depth": 10.3986,
+      "mag": 1.51,
+      "place": "17 km SE of Silver Springs, Nevada",
+      "time": 1783275442192,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921222"
+    },
+    {
       "id": "ci41287495",
       "lon": -115.537833333333,
       "lat": 32.9725,
@@ -2082,26 +2112,6 @@
       "place": "7 km WNW of Cobb, CA",
       "time": 1783273738120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390136"
-    },
-    {
-      "id": "pr71522773",
-      "lon": -67.4195,
-      "lat": 17.1536666666667,
-      "depth": 21.96,
-      "mag": 3.21,
-      "place": "94 km SSW of Pole Ojea, Puerto Rico",
-      "time": 1783273141500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522773"
-    },
-    {
-      "id": "ci41287463",
-      "lon": -116.038166666667,
-      "lat": 33.2031666666667,
-      "depth": 9.59,
-      "mag": 0.55,
-      "place": "11 km NE of Ocotillo Wells, CA",
-      "time": 1783273011350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287463"
     }
   ]
 }
