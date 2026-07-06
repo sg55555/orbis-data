@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-06T15:15:50Z",
-  "count": 198,
+  "updated": "2026-07-06T15:31:24Z",
+  "count": 194,
   "points": [
     {
       "id": "ci41287935",
@@ -22,6 +22,16 @@
       "place": "5 km NNW of The Geysers, CA",
       "time": 1783349301500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390636"
+    },
+    {
+      "id": "us6000taft",
+      "lon": -172.07,
+      "lat": -16.892,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "211 km ESE of Hihifo, Tonga",
+      "time": 1783349018525,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taft"
     },
     {
       "id": "tx2026neocwr",
@@ -1932,56 +1942,6 @@
       "place": "5 km NW of The Geysers, CA",
       "time": 1783265941630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390081"
-    },
-    {
-      "id": "us6000taaa",
-      "lon": 104.126,
-      "lat": 31.5649,
-      "depth": 10,
-      "mag": 5,
-      "place": "26 km NNW of Mianzhu, Deyang, Sichuan, China",
-      "time": 1783265413631,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taaa"
-    },
-    {
-      "id": "ci41287399",
-      "lon": -115.5355,
-      "lat": 32.9795,
-      "depth": 10.68,
-      "mag": 1.81,
-      "place": "0 km W of Brawley, CA",
-      "time": 1783265156080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287399"
-    },
-    {
-      "id": "nc75390071",
-      "lon": -122.748336791992,
-      "lat": 38.7750015258789,
-      "depth": 3.75,
-      "mag": 0.8,
-      "place": "1 km ESE of The Geysers, CA",
-      "time": 1783265133630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390071"
-    },
-    {
-      "id": "us6000taa7",
-      "lon": 104.0992,
-      "lat": 31.6035,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "31 km NNW of Mianzhu, Deyang, Sichuan, China",
-      "time": 1783264813084,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taa7"
-    },
-    {
-      "id": "ci41287391",
-      "lon": -115.564333333333,
-      "lat": 32.9621666666667,
-      "depth": 14.84,
-      "mag": 1.43,
-      "place": "4 km WSW of Brawley, CA",
-      "time": 1783264776310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287391"
     }
   ]
 }
