@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-06T15:31:24Z",
-  "count": 194,
+  "updated": "2026-07-06T15:45:44Z",
+  "count": 196,
   "points": [
+    {
+      "id": "aka2026ngthwy",
+      "lon": -151.734,
+      "lat": 61.68,
+      "depth": 104.2,
+      "mag": 2.4,
+      "place": "38 km SSW of Skwentna, Alaska",
+      "time": 1783352200003,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ngthwy"
+    },
     {
       "id": "ci41287935",
       "lon": -118.398666666667,
@@ -612,6 +622,16 @@
       "place": "2 km NW of Wrightwood, CA",
       "time": 1783326727610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287775"
+    },
+    {
+      "id": "uu80144576",
+      "lon": -112.875833333333,
+      "lat": 38.5136666666667,
+      "depth": 1.37,
+      "mag": 1.5,
+      "place": "17 km NE of Milford, Utah",
+      "time": 1783326724400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144576"
     },
     {
       "id": "aka2026ngfbxm",
@@ -1555,12 +1575,12 @@
     },
     {
       "id": "ci41287503",
-      "lon": -115.538166666667,
-      "lat": 32.9755,
-      "depth": 7.63,
-      "mag": 1.71,
-      "place": "1 km WSW of Brawley, CA",
-      "time": 1783279607140,
+      "lon": -115.535166666667,
+      "lat": 32.973,
+      "depth": 9.72,
+      "mag": 1.76,
+      "place": "1 km SW of Brawley, CA",
+      "time": 1783279607050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287503"
     },
     {
@@ -1764,6 +1784,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287463"
     },
     {
+      "id": "uw714041762",
+      "lon": -120.541833333333,
+      "lat": 49.4258333333333,
+      "depth": -0.36,
+      "mag": 1.82,
+      "place": "4 km SSW of Princeton, Canada",
+      "time": 1783272566450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714041762"
+    },
+    {
       "id": "aka2026nfayvf",
       "lon": -144.336,
       "lat": 63.127,
@@ -1932,16 +1962,6 @@
       "place": "106 km NW of Coquimbo, Chile",
       "time": 1783266813718,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taab"
-    },
-    {
-      "id": "nc75390081",
-      "lon": -122.801666259766,
-      "lat": 38.8105010986328,
-      "depth": 0.319999992847443,
-      "mag": 1.58,
-      "place": "5 km NW of The Geysers, CA",
-      "time": 1783265941630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390081"
     }
   ]
 }
