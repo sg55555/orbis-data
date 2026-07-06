@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-06T13:31:32Z",
-  "count": 207,
+  "updated": "2026-07-06T13:45:51Z",
+  "count": 206,
   "points": [
     {
+      "id": "tx2026nelyuq",
+      "lon": -97.53,
+      "lat": 29.492,
+      "depth": 0.2113,
+      "mag": 1.5,
+      "place": "7 km W of Gonzales, Texas",
+      "time": 1783344676535,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nelyuq"
+    },
+    {
       "id": "tx2026nelplw",
-      "lon": -104.134,
-      "lat": 31.521,
-      "depth": 7.9788,
-      "mag": 2.3,
-      "place": "39 km NW of Toyah, Texas",
-      "time": 1783344238330,
+      "lon": -104.158,
+      "lat": 31.529,
+      "depth": 4.3656,
+      "mag": 2.1,
+      "place": "42 km NW of Toyah, Texas",
+      "time": 1783344238508,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nelplw"
     },
     {
@@ -162,6 +172,16 @@
       "place": "3 km W of Glacier View, Alaska",
       "time": 1783338779008,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nglvxp"
+    },
+    {
+      "id": "uu80144621",
+      "lon": -110.33,
+      "lat": 44.3788333333333,
+      "depth": 6.76,
+      "mag": 0.02,
+      "place": "69 km ESE of West Yellowstone, Montana",
+      "time": 1783337782840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144621"
     },
     {
       "id": "ci41287839",
@@ -912,16 +932,6 @@
       "place": "27 km N of Yucca Valley, CA",
       "time": 1783299963210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287671"
-    },
-    {
-      "id": "ci41287655",
-      "lon": -117.028,
-      "lat": 33.0081666666667,
-      "depth": -0.6,
-      "mag": 0.79,
-      "place": "5 km N of Poway, CA",
-      "time": 1783299165420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287655"
     },
     {
       "id": "ci41287639",
@@ -2052,26 +2062,6 @@
       "place": "3 km SSW of Anderson Springs, CA",
       "time": 1783259559020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390001"
-    },
-    {
-      "id": "ci41287351",
-      "lon": -117.813666666667,
-      "lat": 35.308,
-      "depth": 8.36,
-      "mag": 0.9,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1783258963580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287351"
-    },
-    {
-      "id": "aka2026netewc",
-      "lon": -150.342,
-      "lat": 62.967,
-      "depth": 94.1,
-      "mag": 1.4,
-      "place": "56 km NNE of Petersville, Alaska",
-      "time": 1783258434777,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026netewc"
     }
   ]
 }
