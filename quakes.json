@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-06T12:31:27Z",
-  "count": 204,
+  "updated": "2026-07-06T12:45:44Z",
+  "count": 206,
   "points": [
+    {
+      "id": "ci41287847",
+      "lon": -116.526,
+      "lat": 33.1505,
+      "depth": 6.03,
+      "mag": 0.63,
+      "place": "11 km NE of Julian, CA",
+      "time": 1783341436630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287847"
+    },
     {
       "id": "nc75390586",
       "lon": -121.273498535156,
@@ -392,6 +402,16 @@
       "place": "3 km NNW of The Geysers, CA",
       "time": 1783320325790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390516"
+    },
+    {
+      "id": "se60505878",
+      "lon": -82.7051666666667,
+      "lat": 36.712,
+      "depth": 5.2,
+      "mag": 2.14,
+      "place": "5 km NE of Clinchport, Virginia",
+      "time": 1783318681720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60505878"
     },
     {
       "id": "aka2026ngaqim",
@@ -1214,6 +1234,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390231"
     },
     {
+      "id": "tx2026ndcklv",
+      "lon": -101.926,
+      "lat": 31.836,
+      "depth": 4.8096,
+      "mag": 0.9,
+      "place": "22 km SE of Midland, Texas",
+      "time": 1783280340827,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ndcklv"
+    },
+    {
       "id": "aka2026nfezvx",
       "lon": -154.664,
       "lat": 58.098,
@@ -2032,16 +2062,6 @@
       "place": "6 km SSW of Pāhala, Hawaii",
       "time": 1783256088990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74997431"
-    },
-    {
-      "id": "uw714041662",
-      "lon": -122.1555,
-      "lat": 46.1998333333333,
-      "depth": 7.09,
-      "mag": -0.11,
-      "place": "39 km NE of Amboy, Washington",
-      "time": 1783255282420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714041662"
     }
   ]
 }
