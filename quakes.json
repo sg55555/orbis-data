@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-06T01:01:28Z",
-  "count": 216,
+  "updated": "2026-07-06T01:15:50Z",
+  "count": 214,
   "points": [
+    {
+      "id": "ci41287671",
+      "lon": -116.450833333333,
+      "lat": 34.3595,
+      "depth": 26.44,
+      "mag": 1.27,
+      "place": "27 km N of Yucca Valley, CA",
+      "time": 1783299963210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287671"
+    },
     {
       "id": "ci41287655",
       "lon": -117.028,
@@ -2132,36 +2142,6 @@
       "place": "10 km NNW of Redwood Valley, CA",
       "time": 1783214194900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389731"
-    },
-    {
-      "id": "nc75389721",
-      "lon": -122.752998352051,
-      "lat": 38.7956657409668,
-      "depth": 1.72000002861023,
-      "mag": 1.02,
-      "place": "2 km N of The Geysers, CA",
-      "time": 1783213962350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389721"
-    },
-    {
-      "id": "ci41286863",
-      "lon": -118.021333333333,
-      "lat": 36.1746666666667,
-      "depth": 3.5,
-      "mag": 1.08,
-      "place": "12 km S of Olancha, CA",
-      "time": 1783213597910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286863"
-    },
-    {
-      "id": "hv74997171",
-      "lon": -155.511672973633,
-      "lat": 19.1548328399658,
-      "depth": 30.25,
-      "mag": 2,
-      "place": "6 km SSW of Pāhala, Hawaii",
-      "time": 1783213356280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74997171"
     }
   ]
 }
