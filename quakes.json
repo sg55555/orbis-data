@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-06T02:45:40Z",
-  "count": 213,
+  "updated": "2026-07-06T03:01:25Z",
+  "count": 214,
   "points": [
+    {
+      "id": "ci41287703",
+      "lon": -116.678833333333,
+      "lat": 33.9768333333333,
+      "depth": 16.69,
+      "mag": 0.6,
+      "place": "12 km SW of Morongo Valley, CA",
+      "time": 1783306498820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287703"
+    },
+    {
+      "id": "nc75390436",
+      "lon": -122.198997497559,
+      "lat": 40.3101654052734,
+      "depth": 26.8799991607666,
+      "mag": 2.62,
+      "place": "15 km NNE of Red Bluff, CA",
+      "time": 1783306179220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390436"
+    },
     {
       "id": "nc75390431",
       "lon": -118.831001281738,
@@ -12,6 +32,16 @@
       "place": "14 km WSW of Toms Place, CA",
       "time": 1783305756940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390431"
+    },
+    {
+      "id": "us6000tacl",
+      "lon": -86.5428,
+      "lat": 10.7504,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "91 km WNW of Tamarindo, Costa Rica",
+      "time": 1783305451983,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tacl"
     },
     {
       "id": "hv74997696",
@@ -322,6 +352,16 @@
       "place": "16 km N of Lopez Point, CA",
       "time": 1783289133540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390331"
+    },
+    {
+      "id": "uw714041912",
+      "lon": -123.046,
+      "lat": 47.47,
+      "depth": 7.83,
+      "mag": 1.32,
+      "place": "10 km NE of Hoodsport, Washington",
+      "time": 1783288929950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714041912"
     },
     {
       "id": "nc75390321",
@@ -2102,36 +2142,6 @@
       "place": "10 km SSW of Dillsboro, North Carolina",
       "time": 1783220717470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60505858"
-    },
-    {
-      "id": "hv74997201",
-      "lon": -155.513000488281,
-      "lat": 19.1533336639404,
-      "depth": 31.3299999237061,
-      "mag": 2.4,
-      "place": "6 km SSW of Pāhala, Hawaii",
-      "time": 1783220350500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74997201"
-    },
-    {
-      "id": "aka2026ndxymh",
-      "lon": -154.963,
-      "lat": 58.278,
-      "depth": 5,
-      "mag": 0.7,
-      "place": "84 km NNW of Karluk, Alaska",
-      "time": 1783220210685,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ndxymh"
-    },
-    {
-      "id": "tx2026nbuzsu",
-      "lon": -104.019,
-      "lat": 31.559,
-      "depth": 7.5867,
-      "mag": 1.7,
-      "place": "34 km NW of Toyah, Texas",
-      "time": 1783219837104,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nbuzsu"
     }
   ]
 }
