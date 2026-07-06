@@ -1,16 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-06T22:02:04Z",
-  "count": 203,
+  "updated": "2026-07-06T22:15:41Z",
+  "count": 204,
   "points": [
     {
+      "id": "nc75391011",
+      "lon": -122.839668273926,
+      "lat": 38.8398323059082,
+      "depth": 1.3400000333786,
+      "mag": 1.17,
+      "place": "10 km NW of The Geysers, CA",
+      "time": 1783375451230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391011"
+    },
+    {
+      "id": "ci41288191",
+      "lon": -116.3885,
+      "lat": 33.0476666666667,
+      "depth": 10.33,
+      "mag": 1.01,
+      "place": "20 km E of Julian, CA",
+      "time": 1783375368930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288191"
+    },
+    {
+      "id": "nc75391001",
+      "lon": -122.843330383301,
+      "lat": 38.8248329162598,
+      "depth": 1.63999998569489,
+      "mag": 0.78,
+      "place": "9 km NW of The Geysers, CA",
+      "time": 1783375231130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391001"
+    },
+    {
       "id": "ci41288183",
-      "lon": -117.488670349121,
-      "lat": 33.8580017089844,
-      "depth": 0.400000005960464,
-      "mag": 1.45963464061699,
-      "place": "4 km SE of Home Gardens, CA",
-      "time": 1783375161950,
+      "lon": -117.4935,
+      "lat": 33.8445,
+      "depth": 2.37,
+      "mag": 1.47,
+      "place": "5 km SE of Home Gardens, CA",
+      "time": 1783375162000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288183"
     },
     {
@@ -1065,12 +1095,12 @@
     },
     {
       "id": "us6000tadr",
-      "lon": -104.8302,
-      "lat": 36.8926,
+      "lon": -104.8158,
+      "lat": 36.8545,
       "depth": 5,
-      "mag": 4,
-      "place": "26 km SSW of Segundo, Colorado",
-      "time": 1783330300718,
+      "mag": 3.8,
+      "place": "30 km S of Segundo, Colorado",
+      "time": 1783330300350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tadr"
     },
     {
@@ -1095,12 +1125,12 @@
     },
     {
       "id": "us6000tadn",
-      "lon": -104.8326,
-      "lat": 36.8335,
-      "depth": 6.217,
-      "mag": 4.2,
+      "lon": -104.832,
+      "lat": 36.8317,
+      "depth": 4.19,
+      "mag": 3.8,
       "place": "33 km SSW of Segundo, Colorado",
-      "time": 1783329714771,
+      "time": 1783329714529,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tadn"
     },
     {
@@ -2012,26 +2042,6 @@
       "place": "6 km ESE of Lone Pine, CA",
       "time": 1783289799580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287575"
-    },
-    {
-      "id": "nc75390331",
-      "lon": -121.587997436523,
-      "lat": 36.1613349914551,
-      "depth": 8.40999984741211,
-      "mag": 1.59,
-      "place": "16 km N of Lopez Point, CA",
-      "time": 1783289133540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390331"
-    },
-    {
-      "id": "uw714041912",
-      "lon": -123.046,
-      "lat": 47.47,
-      "depth": 7.83,
-      "mag": 1.32,
-      "place": "10 km NE of Hoodsport, Washington",
-      "time": 1783288929950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714041912"
     }
   ]
 }
