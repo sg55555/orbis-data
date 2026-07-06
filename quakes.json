@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-06T09:31:28Z",
-  "count": 205,
+  "updated": "2026-07-06T09:45:46Z",
+  "count": 207,
   "points": [
+    {
+      "id": "tx2026neecwg",
+      "lon": -104.144,
+      "lat": 31.535,
+      "depth": 7.1205,
+      "mag": 1.6,
+      "place": "41 km NW of Toyah, Texas",
+      "time": 1783330483929,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026neecwg"
+    },
+    {
+      "id": "tx2026nedysj",
+      "lon": -102.104,
+      "lat": 32.432,
+      "depth": 4.6959,
+      "mag": 1.6,
+      "place": "36 km SSW of Los Ybanez, Texas",
+      "time": 1783330188022,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nedysj"
+    },
     {
       "id": "tx2026nedssw",
       "lon": -104.379,
@@ -12,6 +32,16 @@
       "place": "63 km S of Whites City, New Mexico",
       "time": 1783329783738,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nedssw"
+    },
+    {
+      "id": "us6000tadn",
+      "lon": -104.8326,
+      "lat": 36.8335,
+      "depth": 6.217,
+      "mag": 4.2,
+      "place": "33 km SSW of Segundo, Colorado",
+      "time": 1783329714771,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tadn"
     },
     {
       "id": "ci41287791",
@@ -2042,16 +2072,6 @@
       "place": "10 km NE of Hoodsport, Washington",
       "time": 1783244733290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714041642"
-    },
-    {
-      "id": "ci41287199",
-      "lon": -117.4925,
-      "lat": 35.732,
-      "depth": -0.32,
-      "mag": 0.41,
-      "place": "9 km WSW of Searles Valley, CA",
-      "time": 1783244422940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287199"
     }
   ]
 }
