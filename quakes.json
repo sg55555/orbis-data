@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-06T14:45:49Z",
-  "count": 200,
+  "updated": "2026-07-06T15:01:37Z",
+  "count": 202,
   "points": [
+    {
+      "id": "nc75390636",
+      "lon": -122.78466796875,
+      "lat": 38.8133316040039,
+      "depth": 1.5,
+      "mag": 1.14,
+      "place": "5 km NNW of The Geysers, CA",
+      "time": 1783349301500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390636"
+    },
     {
       "id": "tx2026neocwr",
       "lon": -98.495,
@@ -32,6 +42,16 @@
       "place": "21 km NNE of Indio, CA",
       "time": 1783347610200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287911"
+    },
+    {
+      "id": "tx2026nencyu",
+      "lon": -103.856,
+      "lat": 31.922,
+      "depth": 6.0999,
+      "mag": 1.1,
+      "place": "34 km NW of Mentone, Texas",
+      "time": 1783346785944,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nencyu"
     },
     {
       "id": "hv74997896",
@@ -632,6 +652,16 @@
       "place": "11 km N of Redwood Valley, CA",
       "time": 1783324941580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390526"
+    },
+    {
+      "id": "us6000tafp",
+      "lon": -70.1863,
+      "lat": -19.6793,
+      "depth": 58.165,
+      "mag": 3.4,
+      "place": "55 km NW of Huara, Chile",
+      "time": 1783322990733,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tafp"
     },
     {
       "id": "nc75390516",
@@ -1624,6 +1654,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390151"
     },
     {
+      "id": "tx2026nczxjo",
+      "lon": -102.118,
+      "lat": 32.1,
+      "depth": 6.6895,
+      "mag": 0.4,
+      "place": "11 km NNW of Midland, Texas",
+      "time": 1783275805087,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nczxjo"
+    },
+    {
       "id": "ci41287495",
       "lon": -115.537833333333,
       "lat": 32.9725,
@@ -1785,12 +1825,12 @@
     },
     {
       "id": "ci41287431",
-      "lon": -115.783166666667,
-      "lat": 32.9541666666667,
-      "depth": 9.49,
-      "mag": 2.77,
+      "lon": -115.779333333333,
+      "lat": 32.9521666666667,
+      "depth": 10.01,
+      "mag": 2.83,
       "place": "18 km WSW of Westmorland, CA",
-      "time": 1783268645480,
+      "time": 1783268645400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287431"
     },
     {
@@ -1982,26 +2022,6 @@
       "place": "10 km NNW of Redwood Valley, CA",
       "time": 1783263776970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390051"
-    },
-    {
-      "id": "ci41287375",
-      "lon": -115.535,
-      "lat": 32.9786666666667,
-      "depth": 11.82,
-      "mag": 2.05,
-      "place": "0 km W of Brawley, CA",
-      "time": 1783263582900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287375"
-    },
-    {
-      "id": "nc75390046",
-      "lon": -122.80883026123,
-      "lat": 38.8330001831055,
-      "depth": 2.17000007629395,
-      "mag": 0.71,
-      "place": "8 km W of Cobb, CA",
-      "time": 1783263025680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390046"
     }
   ]
 }
