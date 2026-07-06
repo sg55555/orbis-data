@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-06T15:01:37Z",
-  "count": 202,
+  "updated": "2026-07-06T15:15:50Z",
+  "count": 198,
   "points": [
+    {
+      "id": "ci41287935",
+      "lon": -118.398666666667,
+      "lat": 35.4983333333333,
+      "depth": 4.26,
+      "mag": 1.1,
+      "place": "13 km SE of Bodfish, CA",
+      "time": 1783350345150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287935"
+    },
     {
       "id": "nc75390636",
       "lon": -122.78466796875,
@@ -572,6 +582,16 @@
       "place": "65 km SSW of Sarangani, Philippines",
       "time": 1783327298715,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tadj"
+    },
+    {
+      "id": "uu80144581",
+      "lon": -112.8775,
+      "lat": 38.5106666666667,
+      "depth": 1.53,
+      "mag": 0.89,
+      "place": "17 km NE of Milford, Utah",
+      "time": 1783326886000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144581"
     },
     {
       "id": "ci41287775",
@@ -1215,12 +1235,12 @@
     },
     {
       "id": "tx2026ndidxx",
-      "lon": -102.081,
-      "lat": 32.147,
-      "depth": 7.1045,
+      "lon": -102.077,
+      "lat": 32.142,
+      "depth": 7.3242,
       "mag": 2.4,
       "place": "16 km N of Midland, Texas",
-      "time": 1783290725125,
+      "time": 1783290725091,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ndidxx"
     },
     {
@@ -1962,66 +1982,6 @@
       "place": "4 km WSW of Brawley, CA",
       "time": 1783264776310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287391"
-    },
-    {
-      "id": "tx2026nctloo",
-      "lon": -104.084,
-      "lat": 31.666,
-      "depth": 12.6497,
-      "mag": 1.5,
-      "place": "46 km W of Mentone, Texas",
-      "time": 1783264100624,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nctloo"
-    },
-    {
-      "id": "tx2026nctkwm",
-      "lon": -98.675,
-      "lat": 28.798,
-      "depth": 13.3227,
-      "mag": 1.6,
-      "place": "7 km SSE of Charlotte, Texas",
-      "time": 1783264052254,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nctkwm"
-    },
-    {
-      "id": "us6000taa3",
-      "lon": 146.4326,
-      "lat": 43.9525,
-      "depth": 98.821,
-      "mag": 4.5,
-      "place": "28 km NW of Shikotan, Russia",
-      "time": 1783263989483,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taa3"
-    },
-    {
-      "id": "ci41287383",
-      "lon": -117.807,
-      "lat": 35.2951666666667,
-      "depth": 7.51,
-      "mag": 1.68,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1783263976020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287383"
-    },
-    {
-      "id": "us6000taa2",
-      "lon": 104.0978,
-      "lat": 31.5223,
-      "depth": 10,
-      "mag": 5,
-      "place": "23 km NNW of Mianzhu, Deyang, Sichuan, China",
-      "time": 1783263807206,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taa2"
-    },
-    {
-      "id": "nc75390051",
-      "lon": -123.25016784668,
-      "lat": 39.3506660461426,
-      "depth": 4.26999998092651,
-      "mag": 2.04,
-      "place": "10 km NNW of Redwood Valley, CA",
-      "time": 1783263776970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390051"
     }
   ]
 }
