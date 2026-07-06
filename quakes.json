@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-06T11:45:48Z",
-  "count": 208,
+  "updated": "2026-07-06T12:01:31Z",
+  "count": 207,
   "points": [
+    {
+      "id": "aka2026nglvxp",
+      "lon": -147.728,
+      "lat": 61.814,
+      "depth": 35.9,
+      "mag": 1.4,
+      "place": "3 km W of Glacier View, Alaska",
+      "time": 1783338779008,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nglvxp"
+    },
     {
       "id": "ci41287839",
       "lon": -116.435166666667,
@@ -12,6 +22,16 @@
       "place": "17 km ESE of Julian, CA",
       "time": 1783337496870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287839"
+    },
+    {
+      "id": "us6000taf3",
+      "lon": 141.845,
+      "lat": 40.4353,
+      "depth": 66.979,
+      "mag": 4.6,
+      "place": "28 km NNE of Kuji, Japan",
+      "time": 1783337376717,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taf3"
     },
     {
       "id": "nc75390571",
@@ -1055,12 +1075,12 @@
     },
     {
       "id": "tx2026ndfbfl",
-      "lon": -104.433,
-      "lat": 31.672,
-      "depth": 6.1996,
-      "mag": 1.8,
-      "place": "56 km S of Whites City, New Mexico",
-      "time": 1783285141250,
+      "lon": -104.411,
+      "lat": 31.687,
+      "depth": 5.1257,
+      "mag": 1.6,
+      "place": "54 km S of Whites City, New Mexico",
+      "time": 1783285141567,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ndfbfl"
     },
     {
@@ -2052,36 +2072,6 @@
       "place": "18 km WSW of Johannesburg, CA",
       "time": 1783252974090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287279"
-    },
-    {
-      "id": "us6000ta95",
-      "lon": -71.9367,
-      "lat": -30.6592,
-      "depth": 17.675,
-      "mag": 4.5,
-      "place": "71 km W of Ovalle, Chile",
-      "time": 1783252647433,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta95"
-    },
-    {
-      "id": "nc75389976",
-      "lon": -122.815330505371,
-      "lat": 38.826831817627,
-      "depth": 2.26999998092651,
-      "mag": 0.73,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1783252156780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389976"
-    },
-    {
-      "id": "tx2026ncmusu",
-      "lon": -104.432,
-      "lat": 31.642,
-      "depth": 6.2537,
-      "mag": 1.5,
-      "place": "59 km S of Whites City, New Mexico",
-      "time": 1783252065761,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ncmusu"
     }
   ]
 }
