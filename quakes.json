@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-06T19:01:26Z",
-  "count": 218,
+  "updated": "2026-07-06T19:15:52Z",
+  "count": 217,
   "points": [
     {
       "id": "nc75390841",
@@ -25,12 +25,12 @@
     },
     {
       "id": "ci41288119",
-      "lon": -118.186164855957,
-      "lat": 34.9850006103516,
-      "depth": 0.28999999165535,
-      "mag": 1.30940181221065,
-      "place": "8 km S of Mojave, CA",
-      "time": 1783364237690,
+      "lon": -118.192666666667,
+      "lat": 34.9875,
+      "depth": 0.61,
+      "mag": 1.24,
+      "place": "7 km SSW of Mojave, CA",
+      "time": 1783364237710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288119"
     },
     {
@@ -52,6 +52,16 @@
       "place": "16 km NNE of Midland, Texas",
       "time": 1783362565019,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nevvsi"
+    },
+    {
+      "id": "tx2026neuqhv",
+      "lon": -104.379,
+      "lat": 31.665,
+      "depth": 5.3404,
+      "mag": 2.5,
+      "place": "56 km S of Whites City, New Mexico",
+      "time": 1783360584790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026neuqhv"
     },
     {
       "id": "aka2026ngxvhm",
@@ -545,12 +555,12 @@
     },
     {
       "id": "tx2026nelbux",
-      "lon": -104.133,
+      "lon": -104.134,
       "lat": 31.656,
-      "depth": 4.2851,
+      "depth": 6.1383,
       "mag": 1.5,
       "place": "49 km NW of Toyah, Texas",
-      "time": 1783343093069,
+      "time": 1783343092960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nelbux"
     },
     {
@@ -912,6 +922,16 @@
       "place": "17 km NE of Milford, Utah",
       "time": 1783330589450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144601"
+    },
+    {
+      "id": "av94292053",
+      "lon": -178.794,
+      "lat": 51.8145,
+      "depth": 6.59,
+      "mag": -0.28,
+      "place": "148 km W of Adak, Alaska",
+      "time": 1783330392380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94292053"
     },
     {
       "id": "us6000tadr",
@@ -1474,6 +1494,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74997696"
     },
     {
+      "id": "uu80144496",
+      "lon": -112.882833333333,
+      "lat": 38.5045,
+      "depth": 2.17,
+      "mag": 1.47,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1783304908460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144496"
+    },
+    {
       "id": "nc75390421",
       "lon": -124.310997009277,
       "lat": 40.3518333435059,
@@ -2015,12 +2045,12 @@
     },
     {
       "id": "ci41287519",
-      "lon": -116.721333333333,
-      "lat": 33.5328333333333,
-      "depth": 4.93,
-      "mag": 0.26,
+      "lon": -116.7245,
+      "lat": 33.533,
+      "depth": 5.19,
+      "mag": 0.17,
       "place": "5 km WSW of Anza, CA",
-      "time": 1783282296720,
+      "time": 1783282296690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287519"
     },
     {
@@ -2142,46 +2172,6 @@
       "place": "65 km SW of Cordova, Alaska",
       "time": 1783279171080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nfesnt"
-    },
-    {
-      "id": "us6000tab1",
-      "lon": 122.268,
-      "lat": 24.9267,
-      "depth": 125.429,
-      "mag": 4.3,
-      "place": "47 km ESE of Jiufen, Taiwan",
-      "time": 1783278694177,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tab1"
-    },
-    {
-      "id": "nc75390186",
-      "lon": -122.811500549316,
-      "lat": 38.8315010070801,
-      "depth": 1.97000002861023,
-      "mag": 1.04,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1783278655970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390186"
-    },
-    {
-      "id": "us6000tab5",
-      "lon": 138.968,
-      "lat": -2.7128,
-      "depth": 19.39,
-      "mag": 4.6,
-      "place": "185 km W of Abepura, Indonesia",
-      "time": 1783278614439,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tab5"
-    },
-    {
-      "id": "aka2026nfefty",
-      "lon": -150.78,
-      "lat": 62.159,
-      "depth": 64.3,
-      "mag": 2.2,
-      "place": "33 km WSW of Trapper Creek, Alaska",
-      "time": 1783278289796,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nfefty"
     }
   ]
 }
