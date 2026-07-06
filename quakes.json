@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-06T12:56:53Z",
-  "count": 209,
+  "updated": "2026-07-06T13:01:33Z",
+  "count": 208,
   "points": [
+    {
+      "id": "nc75390601",
+      "lon": -122.84349822998,
+      "lat": 38.8245010375977,
+      "depth": 1.5,
+      "mag": 0.69,
+      "place": "9 km NW of The Geysers, CA",
+      "time": 1783342582250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390601"
+    },
     {
       "id": "ci41287863",
       "lon": -118.287002563477,
@@ -475,12 +485,12 @@
     },
     {
       "id": "tx2026ndwncz",
-      "lon": -102.311,
-      "lat": 31.977,
-      "depth": 3.7695,
+      "lon": -102.314,
+      "lat": 31.971,
+      "depth": 8.5205,
       "mag": 1,
       "place": "8 km SE of Gardendale, Texas",
-      "time": 1783316706535,
+      "time": 1783316706575,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ndwncz"
     },
     {
@@ -2072,26 +2082,6 @@
       "place": "18 km WSW of Johannesburg, CA",
       "time": 1783256817420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287319"
-    },
-    {
-      "id": "ci41287311",
-      "lon": -116.9265,
-      "lat": 33.4985,
-      "depth": 10.86,
-      "mag": 0.55,
-      "place": "8 km NW of Aguanga, CA",
-      "time": 1783256282170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287311"
-    },
-    {
-      "id": "ci41287303",
-      "lon": -117.806166666667,
-      "lat": 35.2946666666667,
-      "depth": 7.16,
-      "mag": 1.35,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1783256242010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287303"
     }
   ]
 }
