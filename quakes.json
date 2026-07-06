@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-06T00:15:42Z",
-  "count": 219,
+  "updated": "2026-07-06T00:31:18Z",
+  "count": 217,
   "points": [
+    {
+      "id": "ci41287623",
+      "lon": -116.1225,
+      "lat": 33.2623333333333,
+      "depth": 7.05,
+      "mag": 0.79,
+      "place": "13 km N of Ocotillo Wells, CA",
+      "time": 1783297328380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287623"
+    },
+    {
+      "id": "nc75390391",
+      "lon": -122.831336975098,
+      "lat": 38.8543319702148,
+      "depth": 13.460000038147,
+      "mag": 0.83,
+      "place": "10 km WNW of Cobb, CA",
+      "time": 1783297229400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390391"
+    },
     {
       "id": "ci41287615",
       "lon": -118.5225,
@@ -32,6 +52,16 @@
       "place": "14 km S of South Van Horn, Alaska",
       "time": 1783294261717,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nfncpx"
+    },
+    {
+      "id": "us6000tabx",
+      "lon": 152.7507,
+      "lat": 52.8014,
+      "depth": 535.114,
+      "mag": 3.9,
+      "place": "294 km WNW of Ozernovskiy, Russia",
+      "time": 1783293729724,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tabx"
     },
     {
       "id": "pr71522803",
@@ -2142,56 +2172,6 @@
       "place": "10 km NNW of Redwood Valley, CA",
       "time": 1783212467750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389701"
-    },
-    {
-      "id": "ci41286847",
-      "lon": -118.023,
-      "lat": 36.1763333333333,
-      "depth": 5.84,
-      "mag": 0.93,
-      "place": "12 km S of Olancha, CA",
-      "time": 1783211277270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286847"
-    },
-    {
-      "id": "ci41286839",
-      "lon": -118.026833333333,
-      "lat": 36.175,
-      "depth": 2.5,
-      "mag": 2.12,
-      "place": "12 km S of Olancha, CA",
-      "time": 1783211170310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286839"
-    },
-    {
-      "id": "nc75389671",
-      "lon": -122.438667297363,
-      "lat": 37.5636672973633,
-      "depth": 16.7399997711182,
-      "mag": 1.38,
-      "place": "5 km WSW of Hillsborough, CA",
-      "time": 1783211096380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389671"
-    },
-    {
-      "id": "nn00921191",
-      "lon": -115.1228,
-      "lat": 40.093,
-      "depth": 1.0913,
-      "mag": 3.1,
-      "place": "76 km SSE of Lamoille, Nevada",
-      "time": 1783210759062,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921191"
-    },
-    {
-      "id": "ci41286831",
-      "lon": -116.706,
-      "lat": 33.5523333333333,
-      "depth": 4,
-      "mag": -0.09,
-      "place": "3 km W of Anza, CA",
-      "time": 1783210616940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41286831"
     }
   ]
 }
