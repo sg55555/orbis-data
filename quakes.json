@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-06T12:15:48Z",
-  "count": 205,
+  "updated": "2026-07-06T12:31:27Z",
+  "count": 204,
   "points": [
     {
       "id": "nc75390586",
@@ -204,6 +204,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nghwjk"
     },
     {
+      "id": "se60505873",
+      "lon": -83.7985,
+      "lat": 36.0728333333333,
+      "depth": 17.71,
+      "mag": 1.97,
+      "place": "4 km WNW of Mascot, Tennessee",
+      "time": 1783331369430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60505873"
+    },
+    {
       "id": "nc75390546",
       "lon": -120.823165893555,
       "lat": 35.5196647644043,
@@ -212,16 +222,6 @@
       "place": "11 km NE of Cayucos, CA",
       "time": 1783331181930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390546"
-    },
-    {
-      "id": "tx2026neecwg",
-      "lon": -104.144,
-      "lat": 31.535,
-      "depth": 7.1205,
-      "mag": 1.6,
-      "place": "41 km NW of Toyah, Texas",
-      "time": 1783330483929,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026neecwg"
     },
     {
       "id": "us6000tadr",
@@ -792,6 +792,16 @@
       "place": "36 km SSE of Midland, Texas",
       "time": 1783298826065,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ndmqhl"
+    },
+    {
+      "id": "tx2026ndmerh",
+      "lon": -102.046,
+      "lat": 32.403,
+      "depth": 7.6416,
+      "mag": 0.9,
+      "place": "33 km WSW of Ackerly, Texas",
+      "time": 1783298015322,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ndmerh"
     },
     {
       "id": "ci41287623",
@@ -2032,26 +2042,6 @@
       "place": "39 km NE of Amboy, Washington",
       "time": 1783255282420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714041662"
-    },
-    {
-      "id": "nc75389991",
-      "lon": -122.794998168945,
-      "lat": 38.8235015869141,
-      "depth": 2.29999995231628,
-      "mag": 0.44,
-      "place": "6 km NNW of The Geysers, CA",
-      "time": 1783254324860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389991"
-    },
-    {
-      "id": "ci41287287",
-      "lon": -116.915166666667,
-      "lat": 34.0365,
-      "depth": 16.91,
-      "mag": 1.27,
-      "place": "12 km E of Yucaipa, CA",
-      "time": 1783254236980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287287"
     }
   ]
 }
