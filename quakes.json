@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-06T08:48:24Z",
-  "count": 201,
+  "updated": "2026-07-06T09:01:35Z",
+  "count": 202,
   "points": [
+    {
+      "id": "ci41287783",
+      "lon": -116.423164367676,
+      "lat": 33.4070014953613,
+      "depth": 17.0699996948242,
+      "mag": 1.06159653983717,
+      "place": "17 km NNW of Borrego Springs, CA",
+      "time": 1783328271470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287783"
+    },
+    {
+      "id": "us6000tadj",
+      "lon": 125.1424,
+      "lat": 4.9091,
+      "depth": 35,
+      "mag": 5.4,
+      "place": "65 km SSW of Sarangani, Philippines",
+      "time": 1783327298715,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tadj"
+    },
     {
       "id": "ci41287775",
       "lon": -117.651,
@@ -2002,16 +2022,6 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1783243000050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287191"
-    },
-    {
-      "id": "ci41287183",
-      "lon": -116.337666666667,
-      "lat": 33.1975,
-      "depth": 9.76,
-      "mag": 0.18,
-      "place": "7 km SSE of Borrego Springs, CA",
-      "time": 1783241462650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287183"
     }
   ]
 }
