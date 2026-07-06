@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-06T22:15:41Z",
-  "count": 204,
+  "updated": "2026-07-06T22:31:21Z",
+  "count": 201,
   "points": [
+    {
+      "id": "ci41288199",
+      "lon": -118.335,
+      "lat": 33.3613333333333,
+      "depth": 19.67,
+      "mag": 2.23,
+      "place": "2 km NNW of Avalon, CA",
+      "time": 1783376601270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288199"
+    },
+    {
+      "id": "tx2026nfdmuw",
+      "lon": -102.001,
+      "lat": 32.44,
+      "depth": 3.5836,
+      "mag": 2.4,
+      "place": "28 km WSW of Ackerly, Texas",
+      "time": 1783376470272,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nfdmuw"
+    },
+    {
+      "id": "tx2026nfdlqb",
+      "lon": -104.534,
+      "lat": 31.891,
+      "depth": 0,
+      "mag": 0.9,
+      "place": "34 km SSW of Whites City, New Mexico",
+      "time": 1783376345708,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nfdlqb"
+    },
     {
       "id": "nc75391011",
       "lon": -122.839668273926,
@@ -105,12 +135,12 @@
     },
     {
       "id": "ci41288175",
-      "lon": -119.094833333333,
-      "lat": 35.0708333333333,
-      "depth": 9.65,
-      "mag": 2.04,
-      "place": "21 km NW of Grapevine, CA",
-      "time": 1783370666080,
+      "lon": -119.0935,
+      "lat": 35.0658333333333,
+      "depth": 12.91,
+      "mag": 2.05,
+      "place": "20 km NW of Grapevine, CA",
+      "time": 1783370665970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288175"
     },
     {
@@ -1354,6 +1384,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144556"
     },
     {
+      "id": "uu80144551",
+      "lon": -112.877666666667,
+      "lat": 38.5096666666667,
+      "depth": 2.24,
+      "mag": 0.64,
+      "place": "17 km NE of Milford, Utah",
+      "time": 1783322619700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144551"
+    },
+    {
       "id": "nc75390516",
       "lon": -122.772499084473,
       "lat": 38.7993316650391,
@@ -1972,76 +2012,6 @@
       "place": "16 km N of Midland, Texas",
       "time": 1783290725091,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ndidxx"
-    },
-    {
-      "id": "av94290993",
-      "lon": -178.7875,
-      "lat": 51.7308333333333,
-      "depth": 12.3,
-      "mag": 0.62,
-      "place": "149 km W of Adak, Alaska",
-      "time": 1783290550020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94290993"
-    },
-    {
-      "id": "aka2026nfkyqt",
-      "lon": -148.208,
-      "lat": 62.202,
-      "depth": 5,
-      "mag": 1.8,
-      "place": "47 km NNE of Chickaloon, Alaska",
-      "time": 1783290391658,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nfkyqt"
-    },
-    {
-      "id": "ci41287583",
-      "lon": -116.7945,
-      "lat": 33.6898333333333,
-      "depth": 15.69,
-      "mag": 0.44,
-      "place": "9 km SW of Idyllwild, CA",
-      "time": 1783290362210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287583"
-    },
-    {
-      "id": "nc75390351",
-      "lon": -122.792831420898,
-      "lat": 38.836498260498,
-      "depth": 2.16000008583069,
-      "mag": 0.69,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1783290228950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390351"
-    },
-    {
-      "id": "nc75390346",
-      "lon": -122.845832824707,
-      "lat": 38.8213348388672,
-      "depth": 2.28999996185303,
-      "mag": 1.09,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": 1783290194720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390346"
-    },
-    {
-      "id": "ci10245646",
-      "lon": -117.845,
-      "lat": 36.1353333333333,
-      "depth": 3.95,
-      "mag": 0.69,
-      "place": "14 km NE of Coso Junction, CA",
-      "time": 1783289808710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10245646"
-    },
-    {
-      "id": "ci41287575",
-      "lon": -118.003833333333,
-      "lat": 36.5748333333333,
-      "depth": 9.3,
-      "mag": 1.38,
-      "place": "6 km ESE of Lone Pine, CA",
-      "time": 1783289799580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287575"
     }
   ]
 }
