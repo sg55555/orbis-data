@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-06T17:15:46Z",
-  "count": 209,
+  "updated": "2026-07-06T17:31:23Z",
+  "count": 210,
   "points": [
+    {
+      "id": "nc75390741",
+      "lon": -122.760665893555,
+      "lat": 38.7915000915527,
+      "depth": 1.21000003814697,
+      "mag": 1.05,
+      "place": "2 km NNW of The Geysers, CA",
+      "time": 1783358851500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390741"
+    },
+    {
+      "id": "ci41288039",
+      "lon": -116.265666666667,
+      "lat": 33.2906666666667,
+      "depth": 5.72,
+      "mag": 0.77,
+      "place": "11 km ENE of Borrego Springs, CA",
+      "time": 1783358813640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288039"
+    },
     {
       "id": "hv74997976",
       "lon": -155.494338989258,
@@ -22,6 +42,16 @@
       "place": "61 km S of Whites City, New Mexico",
       "time": 1783356720450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nesplp"
+    },
+    {
+      "id": "us6000tai4",
+      "lon": 48.1396,
+      "lat": -38.3692,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "Southwest Indian Ridge",
+      "time": 1783356610046,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tai4"
     },
     {
       "id": "aka2026ngvpxu",
@@ -2072,26 +2102,6 @@
       "place": "11 km NE of Ocotillo Wells, CA",
       "time": 1783273011350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287463"
-    },
-    {
-      "id": "uw714041762",
-      "lon": -120.541833333333,
-      "lat": 49.4258333333333,
-      "depth": -0.36,
-      "mag": 1.82,
-      "place": "4 km SSW of Princeton, Canada",
-      "time": 1783272566450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714041762"
-    },
-    {
-      "id": "aka2026nfayvf",
-      "lon": -144.336,
-      "lat": 63.127,
-      "depth": 5,
-      "mag": 1.5,
-      "place": "36 km NW of Mentasta Lake, Alaska",
-      "time": 1783272410369,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nfayvf"
     }
   ]
 }
