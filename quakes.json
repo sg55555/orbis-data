@@ -1,14 +1,44 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-07T12:01:31Z",
-  "count": 187,
+  "updated": "2026-07-07T12:15:44Z",
+  "count": 188,
   "points": [
+    {
+      "id": "ci41288479",
+      "lon": -117.678665161133,
+      "lat": 35.9373321533203,
+      "depth": 4.6100001335144,
+      "mag": 1.32835185513636,
+      "place": "21 km E of Little Lake, CA",
+      "time": 1783426328350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288479"
+    },
+    {
+      "id": "ci41288471",
+      "lon": -116.9875,
+      "lat": 34.2818333333333,
+      "depth": 11.07,
+      "mag": 1.74,
+      "place": "8 km WNW of Big Bear Lake, CA",
+      "time": 1783426138020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288471"
+    },
+    {
+      "id": "ci41288463",
+      "lon": -116.7505,
+      "lat": 33.3626666666667,
+      "depth": 12.72,
+      "mag": 0.48,
+      "place": "11 km E of Palomar Observatory, CA",
+      "time": 1783425973260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288463"
+    },
     {
       "id": "hv74998406",
       "lon": -155.449340820312,
       "lat": 19.2041664123535,
       "depth": -0.490000009536743,
-      "mag": 1.95000005,
+      "mag": 2.5,
       "place": "3 km E of Pāhala, Hawaii",
       "time": 1783425483490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74998406"
@@ -1852,26 +1882,6 @@
       "place": "11 km NE of Julian, CA",
       "time": 1783341436630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287847"
-    },
-    {
-      "id": "nc75390586",
-      "lon": -121.273498535156,
-      "lat": 36.6223335266113,
-      "depth": 9.46000003814697,
-      "mag": 1.07,
-      "place": "15 km NW of Pinnacles, CA",
-      "time": 1783339988270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390586"
-    },
-    {
-      "id": "uu80144631",
-      "lon": -112.8755,
-      "lat": 38.5045,
-      "depth": 1.77,
-      "mag": 1.18,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1783339353980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144631"
     }
   ]
 }
