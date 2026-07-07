@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-07T02:45:44Z",
-  "count": 204,
+  "updated": "2026-07-07T03:01:30Z",
+  "count": 202,
   "points": [
+    {
+      "id": "hv74998216",
+      "lon": -155.488998413086,
+      "lat": 19.1520004272461,
+      "depth": 25.8199996948242,
+      "mag": 1.84,
+      "place": "5 km S of Pāhala, Hawaii",
+      "time": 1783392770420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74998216"
+    },
     {
       "id": "aka2026nhpisa",
       "lon": -149.715,
@@ -1365,12 +1375,12 @@
     },
     {
       "id": "hv74997846",
-      "lon": -154.921661376953,
-      "lat": 19.283332824707,
-      "depth": 38.2799987792969,
-      "mag": 2.7,
-      "place": "20 km S of Leilani Estates, Hawaii",
-      "time": 1783332693300,
+      "lon": -154.926833333333,
+      "lat": 19.2996666666667,
+      "depth": 40.66,
+      "mag": 2.21,
+      "place": "18 km S of Leilani Estates, Hawaii",
+      "time": 1783332693200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74997846"
     },
     {
@@ -2012,36 +2022,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1783306991480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390441"
-    },
-    {
-      "id": "uu80144506",
-      "lon": -112.8755,
-      "lat": 38.5166666666667,
-      "depth": 1.89,
-      "mag": 0.97,
-      "place": "17 km NE of Milford, Utah",
-      "time": 1783306556930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144506"
-    },
-    {
-      "id": "ci41287703",
-      "lon": -116.678833333333,
-      "lat": 33.9768333333333,
-      "depth": 16.69,
-      "mag": 0.6,
-      "place": "12 km SW of Morongo Valley, CA",
-      "time": 1783306498820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287703"
-    },
-    {
-      "id": "nc75390436",
-      "lon": -122.198997497559,
-      "lat": 40.3101654052734,
-      "depth": 26.8799991607666,
-      "mag": 2.62,
-      "place": "15 km NNE of Red Bluff, CA",
-      "time": 1783306179220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390436"
     }
   ]
 }
