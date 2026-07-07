@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-07T00:15:42Z",
-  "count": 208,
+  "updated": "2026-07-07T00:31:20Z",
+  "count": 210,
   "points": [
+    {
+      "id": "nc75391081",
+      "lon": -122.794830322266,
+      "lat": 38.8165016174316,
+      "depth": 2.35999989509583,
+      "mag": 1.08,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1783383942830,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391081"
+    },
+    {
+      "id": "nc75391076",
+      "lon": -120.732330322266,
+      "lat": 39.8089981079102,
+      "depth": 7.26999998092651,
+      "mag": 1.96,
+      "place": "5 km NW of Johnsville, CA",
+      "time": 1783383846250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391076"
+    },
+    {
+      "id": "aka2026nhkowr",
+      "lon": -146.818,
+      "lat": 60.56,
+      "depth": 32.4,
+      "mag": 1.1,
+      "place": "34 km SSW of Tatitlek, Alaska",
+      "time": 1783383272115,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nhkowr"
+    },
     {
       "id": "tx2026nfgzfm",
       "lon": -104.191,
@@ -122,6 +152,16 @@
       "place": "10 km W of Midland, Texas",
       "time": 1783377488120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nfebyd"
+    },
+    {
+      "id": "aka2026nhhiih",
+      "lon": 176.743,
+      "lat": 51.666,
+      "depth": 19.6,
+      "mag": 3.7,
+      "place": "276 km ESE of Attu Station, Alaska",
+      "time": 1783377418111,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nhhiih"
     },
     {
       "id": "aka2026nhhelj",
@@ -2062,26 +2102,6 @@
       "place": "33 km WSW of Ackerly, Texas",
       "time": 1783298015322,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ndmerh"
-    },
-    {
-      "id": "ci41287623",
-      "lon": -116.1225,
-      "lat": 33.2623333333333,
-      "depth": 7.05,
-      "mag": 0.79,
-      "place": "13 km N of Ocotillo Wells, CA",
-      "time": 1783297328380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287623"
-    },
-    {
-      "id": "nc75390391",
-      "lon": -122.831336975098,
-      "lat": 38.8543319702148,
-      "depth": 13.460000038147,
-      "mag": 0.83,
-      "place": "10 km WNW of Cobb, CA",
-      "time": 1783297229400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390391"
     }
   ]
 }
