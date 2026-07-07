@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-07T22:41:08Z",
-  "count": 235,
+  "updated": "2026-07-07T22:45:47Z",
+  "count": 236,
   "points": [
+    {
+      "id": "nc75391671",
+      "lon": -122.782165527344,
+      "lat": 38.810001373291,
+      "depth": 3.53999996185303,
+      "mag": 0.55,
+      "place": "4 km NNW of The Geysers, CA",
+      "time": 1783464103100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391671"
+    },
     {
       "id": "nc75391666",
       "lon": -122.447998046875,
@@ -22,6 +32,16 @@
       "place": "12 km W of Bradley, CA",
       "time": 1783463159430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391661"
+    },
+    {
+      "id": "us6000tatk",
+      "lon": 23.4538,
+      "lat": 35.3425,
+      "depth": 39.943,
+      "mag": 4.4,
+      "place": "24 km WNW of Palaióchora, Greece",
+      "time": 1783462683961,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tatk"
     },
     {
       "id": "ci41288903",
@@ -2342,16 +2362,6 @@
       "place": "1 km SSE of Kapowsin, Washington",
       "time": 1783378625850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714042732"
-    },
-    {
-      "id": "nc75391041",
-      "lon": -122.765830993652,
-      "lat": 38.8238334655762,
-      "depth": 2.00999999046326,
-      "mag": 1.19,
-      "place": "4 km W of Cobb, CA",
-      "time": 1783377688680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391041"
     }
   ]
 }
