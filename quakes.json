@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-07T09:01:31Z",
-  "count": 201,
+  "updated": "2026-07-07T09:15:48Z",
+  "count": 202,
   "points": [
+    {
+      "id": "ci41288423",
+      "lon": -116.711333333333,
+      "lat": 33.5401666666667,
+      "depth": 6.08,
+      "mag": 0.12,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1783415497990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288423"
+    },
+    {
+      "id": "nc75391246",
+      "lon": -121.317169189453,
+      "lat": 36.8488349914551,
+      "depth": 4.73999977111816,
+      "mag": 1.25,
+      "place": "6 km NE of Ridgemark, CA",
+      "time": 1783415144970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391246"
+    },
     {
       "id": "nc75391241",
       "lon": -122.80549621582,
@@ -2002,16 +2022,6 @@
       "place": "17 km NE of Milford, Utah",
       "time": 1783329330250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144586"
-    },
-    {
-      "id": "aka2026nggfoi",
-      "lon": -155.054,
-      "lat": 58.611,
-      "depth": 132.2,
-      "mag": 1.9,
-      "place": "93 km SSE of Igiugig, Alaska",
-      "time": 1783328652400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nggfoi"
     }
   ]
 }
