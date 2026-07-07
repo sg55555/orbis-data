@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-07T12:35:52Z",
-  "count": 191,
+  "updated": "2026-07-07T12:45:42Z",
+  "count": 190,
   "points": [
+    {
+      "id": "ci41288511",
+      "lon": -119.607833333333,
+      "lat": 34.9095,
+      "depth": 8.83,
+      "mag": 1.7,
+      "place": "25 km SW of Maricopa, CA",
+      "time": 1783427635560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288511"
+    },
     {
       "id": "ci41288503",
       "lon": -116.063333333333,
@@ -95,12 +105,12 @@
     },
     {
       "id": "tx2026ngeexz",
-      "lon": -104.346,
-      "lat": 31.652,
-      "depth": 3.7576,
+      "lon": -104.345,
+      "lat": 31.672,
+      "depth": 5.177,
       "mag": 2,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": 1783424757412,
+      "place": "55 km S of Whites City, New Mexico",
+      "time": 1783424757381,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ngeexz"
     },
     {
@@ -1892,26 +1902,6 @@
       "place": "68 km ESE of West Yellowstone, Montana",
       "time": 1783342049220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144636"
-    },
-    {
-      "id": "ci41287855",
-      "lon": -117.227166666667,
-      "lat": 34.0248333333333,
-      "depth": 14.71,
-      "mag": 1.08,
-      "place": "4 km SE of Loma Linda, CA",
-      "time": 1783341819370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287855"
-    },
-    {
-      "id": "ci41287847",
-      "lon": -116.526,
-      "lat": 33.1505,
-      "depth": 6.03,
-      "mag": 0.63,
-      "place": "11 km NE of Julian, CA",
-      "time": 1783341436630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287847"
     }
   ]
 }
