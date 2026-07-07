@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-07T17:15:44Z",
-  "count": 212,
+  "updated": "2026-07-07T17:41:23Z",
+  "count": 210,
   "points": [
+    {
+      "id": "ci41288679",
+      "lon": -117.5595,
+      "lat": 35.7035,
+      "depth": 8.73,
+      "mag": 0.97,
+      "place": "14 km NE of Ridgecrest, CA",
+      "time": 1783445074220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288679"
+    },
     {
       "id": "aka2026nislsf",
       "lon": -156.208,
@@ -115,22 +125,22 @@
     },
     {
       "id": "ci41288647",
-      "lon": -117.872,
-      "lat": 33.903,
-      "depth": 5.57,
-      "mag": 1.79,
-      "place": "3 km ESE of Brea, CA",
-      "time": 1783441823360,
+      "lon": -117.8775,
+      "lat": 33.9011666666667,
+      "depth": 7.66,
+      "mag": 1.7,
+      "place": "3 km SE of Brea, CA",
+      "time": 1783441823250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288647"
     },
     {
       "id": "tx2026ngnngv",
-      "lon": -104.449,
-      "lat": 31.63,
-      "depth": 3.958,
+      "lon": -104.424,
+      "lat": 31.642,
+      "depth": 6.0999,
       "mag": 2.2,
-      "place": "60 km S of Whites City, New Mexico",
-      "time": 1783441643270,
+      "place": "59 km S of Whites City, New Mexico",
+      "time": 1783441643152,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ngnngv"
     },
     {
@@ -345,12 +355,12 @@
     },
     {
       "id": "tx2026ngjorc",
-      "lon": -104.243,
-      "lat": 31.649,
-      "depth": 4.6032,
+      "lon": -104.24,
+      "lat": 31.651,
+      "depth": 7.3303,
       "mag": 2.1,
       "place": "56 km NW of Toyah, Texas",
-      "time": 1783434488983,
+      "time": 1783434489028,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ngjorc"
     },
     {
@@ -922,6 +932,16 @@
       "place": "13 km N of Ocotillo Wells, CA",
       "time": 1783411181460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288407"
+    },
+    {
+      "id": "aka2026niabsn",
+      "lon": 178.263,
+      "lat": 51.165,
+      "depth": 10,
+      "mag": 3.3,
+      "place": "Rat Islands, Aleutian Islands, Alaska",
+      "time": 1783411155661,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026niabsn"
     },
     {
       "id": "ci41288391",
@@ -2082,46 +2102,6 @@
       "place": "5 km SSW of Redlands, CA",
       "time": 1783359878450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288063"
-    },
-    {
-      "id": "uu80144671",
-      "lon": -111.001,
-      "lat": 44.7768333333333,
-      "depth": 10.24,
-      "mag": 0.44,
-      "place": "15 km E of Hebgen Lake Estates, Montana",
-      "time": 1783359452230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144671"
-    },
-    {
-      "id": "ci41288047",
-      "lon": -116.308333333333,
-      "lat": 33.3378333333333,
-      "depth": 11.64,
-      "mag": 0.7,
-      "place": "11 km NE of Borrego Springs, CA",
-      "time": 1783359289580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288047"
-    },
-    {
-      "id": "nc75390741",
-      "lon": -122.760665893555,
-      "lat": 38.7915000915527,
-      "depth": 1.21000003814697,
-      "mag": 1.05,
-      "place": "2 km NNW of The Geysers, CA",
-      "time": 1783358851500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390741"
-    },
-    {
-      "id": "ci41288039",
-      "lon": -116.265666666667,
-      "lat": 33.2906666666667,
-      "depth": 5.72,
-      "mag": 0.77,
-      "place": "11 km ENE of Borrego Springs, CA",
-      "time": 1783358813640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288039"
     }
   ]
 }
