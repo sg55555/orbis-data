@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-07T05:01:31Z",
-  "count": 195,
+  "updated": "2026-07-07T05:15:40Z",
+  "count": 194,
   "points": [
+    {
+      "id": "nc75391166",
+      "lon": -122.771499633789,
+      "lat": 38.8026657104492,
+      "depth": 0.75,
+      "mag": 1.06,
+      "place": "3 km NNW of The Geysers, CA",
+      "time": 1783400843930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391166"
+    },
+    {
+      "id": "us6000takx",
+      "lon": -30.2125,
+      "lat": 59.402,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "Reykjanes Ridge",
+      "time": 1783400162614,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000takx"
+    },
     {
       "id": "aka2026nhtsue",
       "lon": -148.654,
@@ -25,12 +45,12 @@
     },
     {
       "id": "tx2026nfpmtr",
-      "lon": -104.378,
-      "lat": 31.615,
-      "depth": 3.6415,
+      "lon": -104.375,
+      "lat": 31.619,
+      "depth": 4.3058,
       "mag": 1.8,
-      "place": "62 km S of Whites City, New Mexico",
-      "time": 1783398148208,
+      "place": "61 km S of Whites City, New Mexico",
+      "time": 1783398148178,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nfpmtr"
     },
     {
@@ -125,12 +145,12 @@
     },
     {
       "id": "tx2026nfkijz",
-      "lon": -104.441,
-      "lat": 31.637,
-      "depth": 2.9078,
+      "lon": -104.435,
+      "lat": 31.631,
+      "depth": 3.7537,
       "mag": 1,
       "place": "60 km S of Whites City, New Mexico",
-      "time": 1783388793572,
+      "time": 1783388793220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nfkijz"
     },
     {
@@ -1922,36 +1942,6 @@
       "place": "44 km W of Happy Valley, Alaska",
       "time": 1783316182880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nfzhjl"
-    },
-    {
-      "id": "ci41287751",
-      "lon": -119.232,
-      "lat": 34.8508333333333,
-      "depth": 9.79,
-      "mag": 1.97,
-      "place": "8 km W of Pine Mountain Club, CA",
-      "time": 1783314466710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287751"
-    },
-    {
-      "id": "hv74997746",
-      "lon": -155.125503540039,
-      "lat": 19.3533325195312,
-      "depth": 4.32000017166138,
-      "mag": 1.92,
-      "place": "12 km S of Fern Forest, Hawaii",
-      "time": 1783314454140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74997746"
-    },
-    {
-      "id": "ci41287743",
-      "lon": -116.709833333333,
-      "lat": 33.6476666666667,
-      "depth": 13.93,
-      "mag": 0.71,
-      "place": "10 km S of Idyllwild, CA",
-      "time": 1783314120740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287743"
     }
   ]
 }
