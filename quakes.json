@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-07T02:15:46Z",
-  "count": 209,
+  "updated": "2026-07-07T02:31:12Z",
+  "count": 206,
   "points": [
+    {
+      "id": "tx2026nflodi",
+      "lon": -104.084,
+      "lat": 31.697,
+      "depth": 0,
+      "mag": 0.6,
+      "place": "45 km W of Mentone, Texas",
+      "time": 1783391201898,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nflodi"
+    },
+    {
+      "id": "tx2026nfliez",
+      "lon": -103.152,
+      "lat": 31.514,
+      "depth": 0,
+      "mag": 1.8,
+      "place": "3 km SW of Pyote, Texas",
+      "time": 1783390586798,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nfliez"
+    },
     {
       "id": "nc75391106",
       "lon": -122.724334716797,
@@ -25,12 +45,12 @@
     },
     {
       "id": "us6000takd",
-      "lon": -66.6259,
-      "lat": -57.3654,
+      "lon": -66.7593,
+      "lat": -57.3319,
       "depth": 10,
-      "mag": 5.9,
-      "place": "Drake Passage",
-      "time": 1783387605608,
+      "mag": 5.8,
+      "place": "296 km SSE of Ushuaia, Argentina",
+      "time": 1783387605626,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000takd"
     },
     {
@@ -2042,56 +2062,6 @@
       "place": "15 km ESE of Pāhala, Hawaii",
       "time": 1783305325160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74997696"
-    },
-    {
-      "id": "uu80144496",
-      "lon": -112.882833333333,
-      "lat": 38.5045,
-      "depth": 2.17,
-      "mag": 1.47,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1783304908460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144496"
-    },
-    {
-      "id": "nc75390421",
-      "lon": -124.310997009277,
-      "lat": 40.3518333435059,
-      "depth": 23.8199996948242,
-      "mag": 1.97,
-      "place": "4 km NW of Petrolia, CA",
-      "time": 1783304693440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390421"
-    },
-    {
-      "id": "ci41287695",
-      "lon": -116.970333333333,
-      "lat": 33.999,
-      "depth": 19.42,
-      "mag": 0.88,
-      "place": "8 km E of Calimesa, CA",
-      "time": 1783304606750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287695"
-    },
-    {
-      "id": "us6000taci",
-      "lon": -179.5377,
-      "lat": -22.025,
-      "depth": 592.759,
-      "mag": 4.4,
-      "place": "south of the Fiji Islands",
-      "time": 1783304494666,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taci"
-    },
-    {
-      "id": "nc75390416",
-      "lon": -122.813667297363,
-      "lat": 38.8136672973633,
-      "depth": 2.91000008583069,
-      "mag": 1.29,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1783304458720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390416"
     }
   ]
 }
