@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-07T18:45:46Z",
-  "count": 214,
+  "updated": "2026-07-07T19:01:38Z",
+  "count": 215,
   "points": [
+    {
+      "id": "ci41288727",
+      "lon": -116.41316986084,
+      "lat": 33.530834197998,
+      "depth": 9.3100004196167,
+      "mag": 1.40192751591035,
+      "place": "18 km SSW of La Quinta, CA",
+      "time": 1783450678020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288727"
+    },
+    {
+      "id": "ci41288719",
+      "lon": -116.41300201416,
+      "lat": 33.5284996032715,
+      "depth": 6.26000022888184,
+      "mag": 1.25720809774063,
+      "place": "18 km SSW of La Quinta, CA",
+      "time": 1783450643870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288719"
+    },
+    {
+      "id": "ci41288711",
+      "lon": -117.808,
+      "lat": 35.2921666666667,
+      "depth": 7.5,
+      "mag": 2.06,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": 1783449936050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288711"
+    },
     {
       "id": "ci41288703",
       "lon": -117.807,
@@ -542,6 +572,16 @@
       "place": "22 km NE of San Lucas, CA",
       "time": 1783432750960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391341"
+    },
+    {
+      "id": "uw714042972",
+      "lon": -122.607666666667,
+      "lat": 48.2835,
+      "depth": 24.42,
+      "mag": 1.79,
+      "place": "2 km ESE of Oak Harbor, Washington",
+      "time": 1783432043890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714042972"
     },
     {
       "id": "nc75391321",
@@ -1475,10 +1515,10 @@
     },
     {
       "id": "ci41288303",
-      "lon": -117.813833333333,
-      "lat": 35.3195,
-      "depth": 6.75,
-      "mag": 1.01,
+      "lon": -117.808833333333,
+      "lat": 35.3175,
+      "depth": 6.48,
+      "mag": 1.09,
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1783396318670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288303"
@@ -1824,6 +1864,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tajp"
     },
     {
+      "id": "uw714042732",
+      "lon": -122.214833333333,
+      "lat": 46.9711666666667,
+      "depth": -0.4,
+      "mag": 1.64,
+      "place": "1 km SSE of Kapowsin, Washington",
+      "time": 1783378625850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714042732"
+    },
+    {
       "id": "nc75391041",
       "lon": -122.765830993652,
       "lat": 38.8238334655762,
@@ -2102,46 +2152,6 @@
       "place": "15 km N of Morgan Hill, CA",
       "time": 1783365347130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390856"
-    },
-    {
-      "id": "nc75390841",
-      "lon": -122.838668823242,
-      "lat": 38.8395004272461,
-      "depth": 0.439999997615814,
-      "mag": 1.32,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1783364250670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390841"
-    },
-    {
-      "id": "nc75390836",
-      "lon": -122.838500976562,
-      "lat": 38.8400001525879,
-      "depth": 1.13999998569489,
-      "mag": 0.28,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1783364242260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390836"
-    },
-    {
-      "id": "ci41288119",
-      "lon": -118.192666666667,
-      "lat": 34.9875,
-      "depth": 0.61,
-      "mag": 1.24,
-      "place": "7 km SSW of Mojave, CA",
-      "time": 1783364237710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288119"
-    },
-    {
-      "id": "nc75390831",
-      "lon": -122.838836669922,
-      "lat": 38.8388328552246,
-      "depth": 0.970000028610229,
-      "mag": 1.39,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1783364197970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390831"
     }
   ]
 }
