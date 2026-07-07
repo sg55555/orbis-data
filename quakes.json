@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-07T18:31:18Z",
-  "count": 212,
+  "updated": "2026-07-07T18:45:46Z",
+  "count": 214,
   "points": [
+    {
+      "id": "ci41288703",
+      "lon": -117.807,
+      "lat": 35.2925,
+      "depth": 7.52,
+      "mag": 1.82,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": 1783449511100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288703"
+    },
+    {
+      "id": "aka2026nivdpv",
+      "lon": -152.831,
+      "lat": 59.991,
+      "depth": 110.9,
+      "mag": 2.1,
+      "place": "60 km WNW of Anchor Point, Alaska",
+      "time": 1783449085708,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nivdpv"
+    },
     {
       "id": "aka2026niusab",
       "lon": -154.536,
@@ -56,11 +76,11 @@
     {
       "id": "tx2026ngqilw",
       "lon": -101.956,
-      "lat": 32.106,
-      "depth": 3.8109,
-      "mag": 1.1,
+      "lat": 32.103,
+      "depth": 9.3018,
+      "mag": 1.2,
       "place": "16 km W of Stanton, Texas",
-      "time": 1783446736578,
+      "time": 1783446736794,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ngqilw"
     },
     {
@@ -132,6 +152,16 @@
       "place": "10 km SW of Anza, CA",
       "time": 1783443554860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288663"
+    },
+    {
+      "id": "tx2026ngoldz",
+      "lon": -104.423,
+      "lat": 31.645,
+      "depth": 6.0999,
+      "mag": 1.8,
+      "place": "59 km S of Whites City, New Mexico",
+      "time": 1783443372640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ngoldz"
     },
     {
       "id": "hv74998536",
@@ -2112,16 +2142,6 @@
       "place": "10 km NW of The Geysers, CA",
       "time": 1783364197970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390831"
-    },
-    {
-      "id": "uu80144691",
-      "lon": -111.001666666667,
-      "lat": 44.7753333333333,
-      "depth": 9.17,
-      "mag": 0.69,
-      "place": "14 km E of Hebgen Lake Estates, Montana",
-      "time": 1783363513240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144691"
     }
   ]
 }
