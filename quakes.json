@@ -1,17 +1,57 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-07T20:45:44Z",
-  "count": 225,
+  "updated": "2026-07-07T21:01:30Z",
+  "count": 228,
   "points": [
+    {
+      "id": "aka2026nizwyx",
+      "lon": -151.158,
+      "lat": 60.982,
+      "depth": 69.4,
+      "mag": 1.8,
+      "place": "9 km S of Tyonek, Alaska",
+      "time": 1783457599944,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nizwyx"
+    },
+    {
+      "id": "tx2026ngwcec",
+      "lon": -101.956,
+      "lat": 32.107,
+      "depth": 4.7693,
+      "mag": 1.5,
+      "place": "16 km W of Stanton, Texas",
+      "time": 1783457151669,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ngwcec"
+    },
+    {
+      "id": "tx2026ngwagm",
+      "lon": -101.957,
+      "lat": 32.107,
+      "depth": 4.2045,
+      "mag": 2,
+      "place": "16 km W of Stanton, Texas",
+      "time": 1783457029511,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ngwagm"
+    },
     {
       "id": "ci41288839",
       "lon": -117.814666666667,
-      "lat": 35.2961666666667,
-      "depth": 8.68,
-      "mag": 1.09,
+      "lat": 35.296,
+      "depth": 9.66,
+      "mag": 1.1,
       "place": "18 km WSW of Johannesburg, CA",
-      "time": 1783456745210,
+      "time": 1783456745110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288839"
+    },
+    {
+      "id": "us6000tase",
+      "lon": 120.6627,
+      "lat": 13.7713,
+      "depth": 155.427,
+      "mag": 4.5,
+      "place": "7 km SSE of Calatagan, Philippines",
+      "time": 1783456660097,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tase"
     },
     {
       "id": "ci41288831",
@@ -32,6 +72,16 @@
       "place": "56 km WNW of Tatitlek, Alaska",
       "time": 1783456555644,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nizhwu"
+    },
+    {
+      "id": "us6000tasa",
+      "lon": 177.4292,
+      "lat": -37.2165,
+      "depth": 121.41,
+      "mag": 4.9,
+      "place": "88 km WNW of Hicks Bay, New Zealand",
+      "time": 1783456395705,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tasa"
     },
     {
       "id": "hv74998631",
@@ -235,12 +285,12 @@
     },
     {
       "id": "ci41288687",
-      "lon": -114.982666666667,
-      "lat": 33.0446666666667,
-      "depth": 4.66,
-      "mag": 1.92,
-      "place": "45 km NNW of Los Algodones, B.C., MX",
-      "time": 1783446801290,
+      "lon": -114.989833333333,
+      "lat": 33.0508333333333,
+      "depth": -0.2,
+      "mag": 1.41,
+      "place": "45 km NE of Holtville, CA",
+      "time": 1783446800960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288687"
     },
     {
@@ -955,12 +1005,12 @@
     },
     {
       "id": "hv74998406",
-      "lon": -155.449340820312,
-      "lat": 19.2041664123535,
-      "depth": -0.490000009536743,
-      "mag": 2.5,
-      "place": "3 km E of Pāhala, Hawaii",
-      "time": 1783425483490,
+      "lon": -155.461,
+      "lat": 19.2068333333333,
+      "depth": -0.47,
+      "mag": 2.27,
+      "place": "1 km ENE of Pāhala, Hawaii",
+      "time": 1783425483420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74998406"
     },
     {
@@ -2232,26 +2282,6 @@
       "place": "3 km WSW of Huron, CA",
       "time": 1783372544090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390951"
-    },
-    {
-      "id": "nc75390936",
-      "lon": -122.791999816895,
-      "lat": 38.8173332214355,
-      "depth": 3.29999995231628,
-      "mag": 1.09,
-      "place": "5 km NW of The Geysers, CA",
-      "time": 1783371203080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390936"
-    },
-    {
-      "id": "hv74998036",
-      "lon": -155.467,
-      "lat": 19.3895,
-      "depth": 7.05,
-      "mag": 1.8,
-      "place": "20 km N of Pāhala, Hawaii",
-      "time": 1783370906110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74998036"
     }
   ]
 }
