@@ -1,16 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-07T20:31:27Z",
-  "count": 223,
+  "updated": "2026-07-07T20:45:44Z",
+  "count": 225,
   "points": [
     {
+      "id": "ci41288839",
+      "lon": -117.814666666667,
+      "lat": 35.2961666666667,
+      "depth": 8.68,
+      "mag": 1.09,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": 1783456745210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288839"
+    },
+    {
+      "id": "ci41288831",
+      "lon": -117.663,
+      "lat": 36.0713333333333,
+      "depth": 1.41,
+      "mag": 0.74,
+      "place": "26 km E of Coso Junction, CA",
+      "time": 1783456626880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288831"
+    },
+    {
+      "id": "aka2026nizhwu",
+      "lon": -147.637,
+      "lat": 61.074,
+      "depth": 23.5,
+      "mag": 2,
+      "place": "56 km WNW of Tatitlek, Alaska",
+      "time": 1783456555644,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nizhwu"
+    },
+    {
       "id": "hv74998631",
-      "lon": -155.245834350586,
-      "lat": 19.3238334655762,
-      "depth": 2.20000004768372,
-      "mag": 2.44,
-      "place": "13 km S of Volcano, Hawaii",
-      "time": 1783455197570,
+      "lon": -155.241666666667,
+      "lat": 19.327,
+      "depth": 6.27,
+      "mag": 2.18,
+      "place": "12 km S of Volcano, Hawaii",
+      "time": 1783455197600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74998631"
     },
     {
@@ -602,6 +632,16 @@
       "place": "4 km S of Sunrise Manor, Nevada",
       "time": 1783437015043,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921298"
+    },
+    {
+      "id": "uw714043062",
+      "lon": -124.741666666667,
+      "lat": 47.9143333333333,
+      "depth": 0.13,
+      "mag": 2.1,
+      "place": "26 km W of Forks, Washington",
+      "time": 1783436680370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714043062"
     },
     {
       "id": "pr71522893",
@@ -2212,26 +2252,6 @@
       "place": "20 km N of Pāhala, Hawaii",
       "time": 1783370906110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74998036"
-    },
-    {
-      "id": "ci41288175",
-      "lon": -119.0935,
-      "lat": 35.0658333333333,
-      "depth": 12.91,
-      "mag": 2.05,
-      "place": "20 km NW of Grapevine, CA",
-      "time": 1783370665970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288175"
-    },
-    {
-      "id": "ci41288167",
-      "lon": -119.090833333333,
-      "lat": 35.0645,
-      "depth": 10.42,
-      "mag": 1.34,
-      "place": "20 km NW of Grapevine, CA",
-      "time": 1783370642180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288167"
     }
   ]
 }
