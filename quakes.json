@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-07T21:15:44Z",
-  "count": 230,
+  "updated": "2026-07-07T21:31:28Z",
+  "count": 229,
   "points": [
+    {
+      "id": "ci41288863",
+      "lon": -117.459831237793,
+      "lat": 34.1193351745605,
+      "depth": 4.82000017166138,
+      "mag": 1.02891886464311,
+      "place": "2 km N of Fontana, CA",
+      "time": 1783459680160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288863"
+    },
     {
       "id": "tx2026ngwzgf",
       "lon": -97.281,
@@ -72,6 +82,16 @@
       "place": "26 km E of Coso Junction, CA",
       "time": 1783456626880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288831"
+    },
+    {
+      "id": "pr71522953",
+      "lon": -63.9108333333333,
+      "lat": 18.8975,
+      "depth": 16.56,
+      "mag": 2.93,
+      "place": "112 km NE of Cruz Bay, U.S. Virgin Islands",
+      "time": 1783456620890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522953"
     },
     {
       "id": "aka2026nizhwu",
@@ -2272,36 +2292,6 @@
       "place": "4 km WSW of Huron, CA",
       "time": 1783373663480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390976"
-    },
-    {
-      "id": "nc75390956",
-      "lon": -122.802001953125,
-      "lat": 38.8230018615723,
-      "depth": 2.61999988555908,
-      "mag": 1.05,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1783372728500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390956"
-    },
-    {
-      "id": "aka2026nherun",
-      "lon": -149.349,
-      "lat": 60.807,
-      "depth": 24.4,
-      "mag": 1.7,
-      "place": "9 km SSE of Sunrise, Alaska",
-      "time": 1783372678590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nherun"
-    },
-    {
-      "id": "nc75390951",
-      "lon": -120.137496948242,
-      "lat": 36.1896667480469,
-      "depth": 6.32000017166138,
-      "mag": 2.15,
-      "place": "3 km WSW of Huron, CA",
-      "time": 1783372544090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390951"
     }
   ]
 }
