@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-07T18:15:46Z",
-  "count": 211,
+  "updated": "2026-07-07T18:31:18Z",
+  "count": 212,
   "points": [
+    {
+      "id": "aka2026niusab",
+      "lon": -154.536,
+      "lat": 58.12,
+      "depth": 16,
+      "mag": 0.8,
+      "place": "61 km N of Karluk, Alaska",
+      "time": 1783448260166,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026niusab"
+    },
     {
       "id": "aka2026niuodt",
       "lon": -153.974,
@@ -12,6 +22,16 @@
       "place": "89 km NW of Aleneva, Alaska",
       "time": 1783447988486,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026niuodt"
+    },
+    {
+      "id": "us6000tarc",
+      "lon": -84.6042,
+      "lat": 9.8644,
+      "depth": 47.784,
+      "mag": 5.3,
+      "place": "10 km WSW of Orotina, Costa Rica",
+      "time": 1783447892787,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tarc"
     },
     {
       "id": "aka2026niuljj",
@@ -52,6 +72,16 @@
       "place": "22 km N of Nikiski, Alaska",
       "time": 1783446098096,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nitmub"
+    },
+    {
+      "id": "us6000tar3",
+      "lon": -66.8183,
+      "lat": -57.3541,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "298 km SSE of Ushuaia, Argentina",
+      "time": 1783445996121,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tar3"
     },
     {
       "id": "pr2026188002",
@@ -1205,12 +1235,12 @@
     },
     {
       "id": "tx2026nftied",
-      "lon": -103.98,
-      "lat": 31.611,
-      "depth": 4.9256,
+      "lon": -103.972,
+      "lat": 31.612,
+      "depth": 8.3685,
       "mag": 1.5,
-      "place": "37 km NNW of Toyah, Texas",
-      "time": 1783405076436,
+      "place": "36 km WSW of Mentone, Texas",
+      "time": 1783405076259,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nftied"
     },
     {
@@ -1815,12 +1845,12 @@
     },
     {
       "id": "ci41288199",
-      "lon": -118.335,
-      "lat": 33.3613333333333,
-      "depth": 19.67,
-      "mag": 2.23,
-      "place": "2 km NNW of Avalon, CA",
-      "time": 1783376601270,
+      "lon": -118.271833333333,
+      "lat": 33.4636666666667,
+      "depth": 2.03,
+      "mag": 2.26,
+      "place": "14 km NNE of Avalon, CA",
+      "time": 1783376601720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288199"
     },
     {
@@ -2092,26 +2122,6 @@
       "place": "14 km E of Hebgen Lake Estates, Montana",
       "time": 1783363513240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144691"
-    },
-    {
-      "id": "tx2026nevvsi",
-      "lon": -102.004,
-      "lat": 32.136,
-      "depth": 7.4951,
-      "mag": 1.1,
-      "place": "16 km NNE of Midland, Texas",
-      "time": 1783362565019,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nevvsi"
-    },
-    {
-      "id": "ci41288111",
-      "lon": -118.5925,
-      "lat": 35.1023333333333,
-      "depth": 8.09,
-      "mag": 0.31,
-      "place": "13 km WSW of Tehachapi, CA",
-      "time": 1783362138230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288111"
     }
   ]
 }
