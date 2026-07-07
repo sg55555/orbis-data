@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-07T02:31:12Z",
-  "count": 206,
+  "updated": "2026-07-07T02:45:44Z",
+  "count": 204,
   "points": [
+    {
+      "id": "aka2026nhpisa",
+      "lon": -149.715,
+      "lat": 62.707,
+      "depth": 74.4,
+      "mag": 2.5,
+      "place": "34 km NE of Chase, Alaska",
+      "time": 1783391840649,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nhpisa"
+    },
     {
       "id": "tx2026nflodi",
       "lon": -104.084,
@@ -2032,36 +2042,6 @@
       "place": "15 km NNE of Red Bluff, CA",
       "time": 1783306179220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390436"
-    },
-    {
-      "id": "nc75390431",
-      "lon": -118.831001281738,
-      "lat": 37.531665802002,
-      "depth": 4.61999988555908,
-      "mag": 1.37,
-      "place": "14 km WSW of Toms Place, CA",
-      "time": 1783305756940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390431"
-    },
-    {
-      "id": "us6000tacl",
-      "lon": -86.5428,
-      "lat": 10.7504,
-      "depth": 10,
-      "mag": 4.7,
-      "place": "91 km WNW of Tamarindo, Costa Rica",
-      "time": 1783305451983,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tacl"
-    },
-    {
-      "id": "hv74997696",
-      "lon": -155.35466003418,
-      "lat": 19.1258335113525,
-      "depth": 28.6599998474121,
-      "mag": 2.28,
-      "place": "15 km ESE of Pāhala, Hawaii",
-      "time": 1783305325160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74997696"
     }
   ]
 }
