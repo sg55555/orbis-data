@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-07T13:01:33Z",
-  "count": 189,
+  "updated": "2026-07-07T13:15:44Z",
+  "count": 186,
   "points": [
+    {
+      "id": "ci41288519",
+      "lon": -116.709666666667,
+      "lat": 33.5405,
+      "depth": 5.4,
+      "mag": 0.32,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1783429471090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288519"
+    },
     {
       "id": "aka2026nijyca",
       "lon": -149.693,
@@ -22,6 +32,16 @@
       "place": "3 km SW of Anderson Springs, CA",
       "time": 1783428526760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391291"
+    },
+    {
+      "id": "pr2026188001",
+      "lon": -66.3665,
+      "lat": 18.4383,
+      "depth": 89,
+      "mag": 3.15,
+      "place": "0 km WNW of Monserrate, Puerto Rico",
+      "time": 1783428162420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026188001"
     },
     {
       "id": "ci41288511",
@@ -965,12 +985,12 @@
     },
     {
       "id": "tx2026nfgzfm",
-      "lon": -104.191,
-      "lat": 31.552,
-      "depth": 3.6963,
+      "lon": -104.178,
+      "lat": 31.56,
+      "depth": 7.3303,
       "mag": 1.6,
-      "place": "46 km NW of Toyah, Texas",
-      "time": 1783382923856,
+      "place": "45 km NW of Toyah, Texas",
+      "time": 1783382923677,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nfgzfm"
     },
     {
@@ -1382,16 +1402,6 @@
       "place": "13 km WSW of Tehachapi, CA",
       "time": 1783362138230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288111"
-    },
-    {
-      "id": "tx2026neuqhv",
-      "lon": -104.379,
-      "lat": 31.665,
-      "depth": 5.3404,
-      "mag": 2.5,
-      "place": "56 km S of Whites City, New Mexico",
-      "time": 1783360584790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026neuqhv"
     },
     {
       "id": "aka2026ngxvhm",
@@ -1852,46 +1862,6 @@
       "place": "36 km NNW of Toyah, Texas",
       "time": 1783344116363,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nelqsw"
-    },
-    {
-      "id": "nc75390606",
-      "lon": -122.81266784668,
-      "lat": 38.8305015563965,
-      "depth": 1.75999999046326,
-      "mag": 0.7,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1783343380670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390606"
-    },
-    {
-      "id": "tx2026nelbux",
-      "lon": -104.134,
-      "lat": 31.656,
-      "depth": 6.1383,
-      "mag": 1.5,
-      "place": "49 km NW of Toyah, Texas",
-      "time": 1783343092960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nelbux"
-    },
-    {
-      "id": "aka2026ngogee",
-      "lon": -151.824,
-      "lat": 60.427,
-      "depth": 74.3,
-      "mag": 1.5,
-      "place": "29 km WNW of Cohoe, Alaska",
-      "time": 1783343087872,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ngogee"
-    },
-    {
-      "id": "ci41287871",
-      "lon": -116.327833333333,
-      "lat": 33.262,
-      "depth": 3.75,
-      "mag": 0.58,
-      "place": "4 km E of Borrego Springs, CA",
-      "time": 1783343015940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287871"
     }
   ]
 }
