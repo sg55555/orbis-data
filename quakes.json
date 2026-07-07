@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-07T09:31:19Z",
-  "count": 197,
+  "updated": "2026-07-07T09:45:47Z",
+  "count": 195,
   "points": [
+    {
+      "id": "ci41288431",
+      "lon": -116.438666666667,
+      "lat": 33.433,
+      "depth": 14.6,
+      "mag": 0.48,
+      "place": "21 km NNW of Borrego Springs, CA",
+      "time": 1783417206840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288431"
+    },
     {
       "id": "ci41288423",
       "lon": -116.711333333333,
@@ -1942,36 +1952,6 @@
       "place": "11 km NE of Cayucos, CA",
       "time": 1783331181930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390546"
-    },
-    {
-      "id": "uu80144601",
-      "lon": -112.881,
-      "lat": 38.5138333333333,
-      "depth": 2.81,
-      "mag": 0.89,
-      "place": "17 km NE of Milford, Utah",
-      "time": 1783330589450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144601"
-    },
-    {
-      "id": "av94292053",
-      "lon": -178.794,
-      "lat": 51.8145,
-      "depth": 6.59,
-      "mag": -0.28,
-      "place": "148 km W of Adak, Alaska",
-      "time": 1783330392380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94292053"
-    },
-    {
-      "id": "us6000tadr",
-      "lon": -104.8158,
-      "lat": 36.8545,
-      "depth": 5,
-      "mag": 3.8,
-      "place": "30 km S of Segundo, Colorado",
-      "time": 1783330300350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tadr"
     }
   ]
 }
