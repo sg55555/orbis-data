@@ -1,16 +1,16 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-07T19:45:43Z",
-  "count": 224,
+  "updated": "2026-07-07T20:01:27Z",
+  "count": 225,
   "points": [
     {
       "id": "ci41288799",
-      "lon": -117.529335021973,
-      "lat": 35.7268333435059,
-      "depth": 4.48999977111816,
-      "mag": 1.01122090542805,
-      "place": "12 km WSW of Searles Valley, CA",
-      "time": 1783453379490,
+      "lon": -117.5455,
+      "lat": 35.7206666666667,
+      "depth": 4.41,
+      "mag": 0.87,
+      "place": "14 km WSW of Searles Valley, CA",
+      "time": 1783453379430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288799"
     },
     {
@@ -22,6 +22,16 @@
       "place": "55 km S of Whites City, New Mexico",
       "time": 1783452718732,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ngtpiq"
+    },
+    {
+      "id": "us6000tarw",
+      "lon": 158.3282,
+      "lat": 49.861,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "181 km ESE of Severo-Kuril’sk, Russia",
+      "time": 1783452228027,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tarw"
     },
     {
       "id": "ci41288783",
@@ -65,10 +75,10 @@
     },
     {
       "id": "ci41288735",
-      "lon": -117.807,
-      "lat": 35.2941666666667,
-      "depth": 7.34,
-      "mag": 1.49,
+      "lon": -117.808666666667,
+      "lat": 35.2933333333333,
+      "depth": 6.6,
+      "mag": 1.54,
       "place": "18 km WSW of Johannesburg, CA",
       "time": 1783450791450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288735"
@@ -532,6 +542,16 @@
       "place": "59 km S of Whites City, New Mexico",
       "time": 1783438552234,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ngluyk"
+    },
+    {
+      "id": "tx2026nglrda",
+      "lon": -101.399,
+      "lat": 32.2,
+      "depth": 5.4443,
+      "mag": 1.1,
+      "place": "9 km SE of Big Spring, Texas",
+      "time": 1783438276304,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nglrda"
     },
     {
       "id": "aka2026niovcy",
@@ -2232,16 +2252,6 @@
       "place": "17 km ESE of Stanton, Texas",
       "time": 1783368122071,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026neyuqg"
-    },
-    {
-      "id": "ci41288127",
-      "lon": -118.342833333333,
-      "lat": 35.061,
-      "depth": -1.02,
-      "mag": 1.41,
-      "place": "12 km SE of Tehachapi, CA",
-      "time": 1783367490650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288127"
     }
   ]
 }
