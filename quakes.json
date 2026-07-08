@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-08T18:45:49Z",
-  "count": 247,
+  "updated": "2026-07-08T19:01:32Z",
+  "count": 245,
   "points": [
+    {
+      "id": "nc75392181",
+      "lon": -123.194664001465,
+      "lat": 39.259334564209,
+      "depth": -0.620000004768372,
+      "mag": 1.32,
+      "place": "1 km SE of Redwood Valley, CA",
+      "time": 1783536985000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392181"
+    },
+    {
+      "id": "nc75392156",
+      "lon": -122.761001586914,
+      "lat": 38.7779998779297,
+      "depth": 2.95000004768372,
+      "mag": 0.4,
+      "place": "0 km W of The Geysers, CA",
+      "time": 1783536490360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392156"
+    },
     {
       "id": "nc75392151",
       "lon": -122.741668701172,
@@ -15,12 +35,12 @@
     },
     {
       "id": "ci41289359",
-      "lon": -117.925166666667,
-      "lat": 34.1786666666667,
-      "depth": 1.42,
-      "mag": 1.7,
-      "place": "5 km NNW of Azusa, CA",
-      "time": 1783535040680,
+      "lon": -117.9415,
+      "lat": 34.1668333333333,
+      "depth": -0.89,
+      "mag": 0.98,
+      "place": "3 km NE of Bradbury, CA",
+      "time": 1783535040290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289359"
     },
     {
@@ -72,6 +92,16 @@
       "place": "20 km SE of Pāhala, Hawaii",
       "time": 1783531918680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74999176"
+    },
+    {
+      "id": "uu80144946",
+      "lon": -112.88,
+      "lat": 38.5101666666667,
+      "depth": 2.56,
+      "mag": 1.03,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1783531482520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144946"
     },
     {
       "id": "nc75392096",
@@ -2422,56 +2452,6 @@
       "place": "18 km SW of La Quinta, CA",
       "time": 1783451254200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288751"
-    },
-    {
-      "id": "ci41288735",
-      "lon": -117.808666666667,
-      "lat": 35.2933333333333,
-      "depth": 6.6,
-      "mag": 1.54,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1783450791450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288735"
-    },
-    {
-      "id": "ci41288727",
-      "lon": -116.416166666667,
-      "lat": 33.5303333333333,
-      "depth": 9.01,
-      "mag": 1.17,
-      "place": "18 km SSW of La Quinta, CA",
-      "time": 1783450678060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288727"
-    },
-    {
-      "id": "ci41288719",
-      "lon": -116.4155,
-      "lat": 33.5295,
-      "depth": 7.25,
-      "mag": 1.09,
-      "place": "18 km SSW of La Quinta, CA",
-      "time": 1783450643800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288719"
-    },
-    {
-      "id": "tx2026ngskmb",
-      "lon": -98.965,
-      "lat": 28.917,
-      "depth": 7.5541,
-      "mag": 1.8,
-      "place": "12 km E of North Pearsall, Texas",
-      "time": 1783450486764,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ngskmb"
-    },
-    {
-      "id": "ci41288711",
-      "lon": -117.808,
-      "lat": 35.2918333333333,
-      "depth": 7.48,
-      "mag": 2.07,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1783449936040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288711"
     }
   ]
 }
