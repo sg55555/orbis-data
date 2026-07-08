@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-08T15:01:37Z",
-  "count": 261,
+  "updated": "2026-07-08T15:15:52Z",
+  "count": 257,
   "points": [
     {
       "id": "tx2026nigcgc",
@@ -15,12 +15,12 @@
     },
     {
       "id": "ci41289279",
-      "lon": -118.883666666667,
-      "lat": 34.5868333333333,
-      "depth": 1.86,
-      "mag": 2.47,
-      "place": "21 km NNW of Piru, CA",
-      "time": 1783519417210,
+      "lon": -118.882166666667,
+      "lat": 34.584,
+      "depth": 2.02,
+      "mag": 2.37,
+      "place": "20 km NNW of Piru, CA",
+      "time": 1783519417150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289279"
     },
     {
@@ -114,23 +114,13 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523018"
     },
     {
-      "id": "ci41289247",
-      "lon": -117.8295,
-      "lat": 33.8298333333333,
-      "depth": 4.75,
-      "mag": 1.53,
-      "place": "2 km NW of Villa Park, CA",
-      "time": 1783516345290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289247"
-    },
-    {
       "id": "ci41289239",
-      "lon": -117.843002319336,
-      "lat": 33.8276672363281,
-      "depth": 4.03999996185303,
-      "mag": 1.98766236097204,
-      "place": "3 km NNW of Orange, CA",
-      "time": 1783516345140,
+      "lon": -117.836166666667,
+      "lat": 33.8286666666667,
+      "depth": 4.68,
+      "mag": 1.39,
+      "place": "3 km NW of Villa Park, CA",
+      "time": 1783516345170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289239"
     },
     {
@@ -642,6 +632,16 @@
       "place": "9 km SE of Matthews, Missouri",
       "time": 1783500592780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60624366"
+    },
+    {
+      "id": "uu80144866",
+      "lon": -112.8865,
+      "lat": 38.5125,
+      "depth": 1.95,
+      "mag": 0.86,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1783500242700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144866"
     },
     {
       "id": "aka2026njxngx",
@@ -1856,11 +1856,11 @@
     {
       "id": "tx2026ngwcec",
       "lon": -101.956,
-      "lat": 32.106,
-      "depth": 3.8559,
+      "lat": 32.107,
+      "depth": 7.251,
       "mag": 1.5,
       "place": "16 km W of Stanton, Texas",
-      "time": 1783457151942,
+      "time": 1783457152361,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ngwcec"
     },
     {
@@ -1975,12 +1975,12 @@
     },
     {
       "id": "tx2026ngtpiq",
-      "lon": -104.308,
-      "lat": 31.677,
-      "depth": 4.6092,
+      "lon": -104.311,
+      "lat": 31.69,
+      "depth": 7.4841,
       "mag": 1.7,
-      "place": "55 km S of Whites City, New Mexico",
-      "time": 1783452718591,
+      "place": "54 km S of Whites City, New Mexico",
+      "time": 1783452718491,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ngtpiq"
     },
     {
@@ -2572,46 +2572,6 @@
       "place": "69 km WNW of Ninilchik, Alaska",
       "time": 1783437676869,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026niovcy"
-    },
-    {
-      "id": "nc75391366",
-      "lon": -122.879669189453,
-      "lat": 38.8408317565918,
-      "depth": 2.51999998092651,
-      "mag": 0.22,
-      "place": "13 km ENE of Cloverdale, CA",
-      "time": 1783437098650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391366"
-    },
-    {
-      "id": "nn00921298",
-      "lon": -115.078,
-      "lat": 36.1689,
-      "depth": 4.6778,
-      "mag": 1.93,
-      "place": "4 km S of Sunrise Manor, Nevada",
-      "time": 1783437015043,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921298"
-    },
-    {
-      "id": "uu80144791",
-      "lon": -112.883166666667,
-      "lat": 38.5118333333333,
-      "depth": 2.65,
-      "mag": 1.21,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1783436827280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144791"
-    },
-    {
-      "id": "uw714043062",
-      "lon": -124.741666666667,
-      "lat": 47.9143333333333,
-      "depth": 0.13,
-      "mag": 2.1,
-      "place": "26 km W of Forks, Washington",
-      "time": 1783436680370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714043062"
     }
   ]
 }
