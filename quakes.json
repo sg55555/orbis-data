@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-08T02:15:43Z",
-  "count": 243,
+  "updated": "2026-07-08T02:31:19Z",
+  "count": 242,
   "points": [
+    {
+      "id": "ci41289015",
+      "lon": -116.4275,
+      "lat": 33.4393333333333,
+      "depth": 9.48,
+      "mag": 0.91,
+      "place": "21 km NNW of Borrego Springs, CA",
+      "time": 1783477313120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289015"
+    },
     {
       "id": "aka2026njknmo",
       "lon": -145.53,
@@ -42,6 +52,16 @@
       "place": "18 km WSW of Johannesburg, CA",
       "time": 1783476529970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289007"
+    },
+    {
+      "id": "us6000taui",
+      "lon": 104.7549,
+      "lat": 28.5871,
+      "depth": 10,
+      "mag": 5,
+      "place": "15 km NNE of Xunchang, China",
+      "time": 1783476528776,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taui"
     },
     {
       "id": "ci41288999",
@@ -2402,36 +2422,6 @@
       "place": "34 km NE of Chase, Alaska",
       "time": 1783391840649,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nhpisa"
-    },
-    {
-      "id": "av94293363",
-      "lon": -178.898833333333,
-      "lat": 51.7818333333333,
-      "depth": 11.4,
-      "mag": 1.2,
-      "place": "156 km W of Adak, Alaska",
-      "time": 1783391323730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94293363"
-    },
-    {
-      "id": "tx2026nflodi",
-      "lon": -104.084,
-      "lat": 31.697,
-      "depth": 0,
-      "mag": 0.6,
-      "place": "45 km W of Mentone, Texas",
-      "time": 1783391201898,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nflodi"
-    },
-    {
-      "id": "tx2026nfliez",
-      "lon": -103.152,
-      "lat": 31.514,
-      "depth": 0,
-      "mag": 1.8,
-      "place": "3 km SW of Pyote, Texas",
-      "time": 1783390586798,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nfliez"
     }
   ]
 }
