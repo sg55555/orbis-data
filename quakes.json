@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-08T11:01:32Z",
+  "updated": "2026-07-08T11:32:48Z",
   "count": 243,
   "points": [
+    {
+      "id": "ci41289183",
+      "lon": -116.977666666667,
+      "lat": 33.997,
+      "depth": 10.98,
+      "mag": 0.66,
+      "place": "7 km E of Calimesa, CA",
+      "time": 1783508798420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289183"
+    },
+    {
+      "id": "ci41289175",
+      "lon": -116.744666666667,
+      "lat": 33.2761666666667,
+      "depth": 16.36,
+      "mag": 0.72,
+      "place": "4 km NNE of Lake Henshaw, CA",
+      "time": 1783508479500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289175"
+    },
     {
       "id": "nc75391926",
       "lon": -121.4443359375,
@@ -42,6 +62,16 @@
       "place": "10 km WNW of The Geysers, CA",
       "time": 1783505228890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391901"
+    },
+    {
+      "id": "pr71522998",
+      "lon": -67.4783333333333,
+      "lat": 18.846,
+      "depth": 7.42,
+      "mag": 3.14,
+      "place": "56 km NW of San Antonio, Puerto Rico",
+      "time": 1783505129700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522998"
     },
     {
       "id": "hv74998971",
@@ -2402,36 +2432,6 @@
       "place": "3 km ESE of Tellico Village, Tennessee",
       "time": 1783424496400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60505883"
-    },
-    {
-      "id": "uu80144766",
-      "lon": -112.874833333333,
-      "lat": 38.5105,
-      "depth": 1.93,
-      "mag": 0.92,
-      "place": "17 km NE of Milford, Utah",
-      "time": 1783423152700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144766"
-    },
-    {
-      "id": "uu80144761",
-      "lon": -112.878666666667,
-      "lat": 38.5085,
-      "depth": 1.48,
-      "mag": 1.44,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1783422762530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144761"
-    },
-    {
-      "id": "nc75391261",
-      "lon": -122.8056640625,
-      "lat": 38.8228340148926,
-      "depth": 2.42000007629395,
-      "mag": 1.05,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1783422463540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391261"
     }
   ]
 }
