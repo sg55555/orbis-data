@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-08T01:01:24Z",
-  "count": 235,
+  "updated": "2026-07-08T01:15:49Z",
+  "count": 233,
   "points": [
+    {
+      "id": "us6000taub",
+      "lon": -64.5944,
+      "lat": 18.9482,
+      "depth": 45.656,
+      "mag": 3.3,
+      "place": "71 km NNE of Cruz Bay, U.S. Virgin Islands",
+      "time": 1783472823641,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taub"
+    },
     {
       "id": "tx2026nhejds",
       "lon": -97.575,
@@ -305,12 +315,12 @@
     },
     {
       "id": "nc75391596",
-      "lon": -122.449165344238,
-      "lat": 38.5766677856445,
-      "depth": 6.28000020980835,
+      "lon": -122.4555,
+      "lat": 38.5761666666667,
+      "depth": 8.72,
       "mag": 3.62,
-      "place": "0 km NE of Angwin, CA",
-      "time": 1783459802450,
+      "place": "0 km W of Angwin, CA",
+      "time": 1783459802490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391596"
     },
     {
@@ -2322,36 +2332,6 @@
       "place": "296 km SSE of Ushuaia, Argentina",
       "time": 1783387605626,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000takd"
-    },
-    {
-      "id": "nc75391096",
-      "lon": -122.37483215332,
-      "lat": 38.542667388916,
-      "depth": 3.92000007629395,
-      "mag": 2.44,
-      "place": "7 km ESE of Angwin, CA",
-      "time": 1783386803990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391096"
-    },
-    {
-      "id": "ci41288279",
-      "lon": -116.392833333333,
-      "lat": 33.3398333333333,
-      "depth": 6.19,
-      "mag": 0.87,
-      "place": "9 km N of Borrego Springs, CA",
-      "time": 1783386407170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288279"
-    },
-    {
-      "id": "ci41288271",
-      "lon": -116.140833333333,
-      "lat": 33.3263333333333,
-      "depth": 8.59,
-      "mag": 0.72,
-      "place": "16 km SSW of Oasis, CA",
-      "time": 1783386364040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288271"
     }
   ]
 }
