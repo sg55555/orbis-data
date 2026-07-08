@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-08T23:01:31Z",
-  "count": 254,
+  "updated": "2026-07-08T23:15:48Z",
+  "count": 251,
   "points": [
+    {
+      "id": "hv74999306",
+      "lon": -155.378173828125,
+      "lat": 19.0393333435059,
+      "depth": 33.2099990844727,
+      "mag": 1.83,
+      "place": "20 km SSE of Pāhala, Hawaii",
+      "time": 1783551966460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74999306"
+    },
+    {
+      "id": "tx2026niwijh",
+      "lon": -104.479,
+      "lat": 31.622,
+      "depth": 0,
+      "mag": 1.4,
+      "place": "62 km S of Whites City, New Mexico",
+      "time": 1783551719797,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026niwijh"
+    },
     {
       "id": "ci41289495",
       "lon": -116.731,
@@ -15,12 +35,12 @@
     },
     {
       "id": "ci41289487",
-      "lon": -115.599,
-      "lat": 33.0291666666667,
-      "depth": 9.63,
+      "lon": -115.596833333333,
+      "lat": 33.029,
+      "depth": 9.34,
       "mag": 1.67,
       "place": "2 km ESE of Westmorland, CA",
-      "time": 1783550328250,
+      "time": 1783550328230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289487"
     },
     {
@@ -695,12 +715,12 @@
     },
     {
       "id": "hv74999126",
-      "lon": -155.41633605957,
-      "lat": 18.9860000610352,
-      "depth": 42.6100006103516,
-      "mag": 2.12,
-      "place": "19 km ESE of Naalehu, Hawaii",
-      "time": 1783527153450,
+      "lon": -155.3995,
+      "lat": 18.8985,
+      "depth": 41.01,
+      "mag": 2.38,
+      "place": "26 km SE of Naalehu, Hawaii",
+      "time": 1783527152550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74999126"
     },
     {
@@ -2492,56 +2512,6 @@
       "place": "13 km WNW of Ivanof Bay, Alaska",
       "time": 1783466311250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063609"
-    },
-    {
-      "id": "nc75391686",
-      "lon": -121.202163696289,
-      "lat": 37.0410003662109,
-      "depth": 4.34999990463257,
-      "mag": 2.05,
-      "place": "28 km NE of Hollister, CA",
-      "time": 1783465889010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391686"
-    },
-    {
-      "id": "av93063604",
-      "lon": -159.688333333333,
-      "lat": 56.0346666666667,
-      "depth": 23.01,
-      "mag": 0.16,
-      "place": "19 km NW of Ivanof Bay, Alaska",
-      "time": 1783465807850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063604"
-    },
-    {
-      "id": "av94294943",
-      "lon": -152.2395,
-      "lat": 61.3058333333333,
-      "depth": 1.95,
-      "mag": 0.06,
-      "place": "64 km WNW of Beluga, Alaska",
-      "time": 1783465588140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94294943"
-    },
-    {
-      "id": "aka2026njeifl",
-      "lon": -150.076,
-      "lat": 61.894,
-      "depth": 47.9,
-      "mag": 2,
-      "place": "16 km N of Willow, Alaska",
-      "time": 1783465574392,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026njeifl"
-    },
-    {
-      "id": "ci41288943",
-      "lon": -117.722666666667,
-      "lat": 36.036,
-      "depth": 2.31,
-      "mag": 0.59,
-      "place": "20 km NE of Little Lake, CA",
-      "time": 1783465339260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288943"
     }
   ]
 }
