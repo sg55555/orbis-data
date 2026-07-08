@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-08T10:01:34Z",
-  "count": 250,
+  "updated": "2026-07-08T10:15:48Z",
+  "count": 251,
   "points": [
+    {
+      "id": "nc75391901",
+      "lon": -122.851997375488,
+      "lat": 38.8240013122559,
+      "depth": 2.11999988555908,
+      "mag": 0.53,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": 1783505228890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391901"
+    },
     {
       "id": "hv74998971",
       "lon": -155.366165161133,
@@ -12,6 +22,16 @@
       "place": "14 km SE of Pāhala, Hawaii",
       "time": 1783504321960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74998971"
+    },
+    {
+      "id": "us6000tawe",
+      "lon": 168.8353,
+      "lat": -20.2559,
+      "depth": 10,
+      "mag": 5.8,
+      "place": "91 km SSW of Isangel, Vanuatu",
+      "time": 1783504223421,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawe"
     },
     {
       "id": "nn00921335",
@@ -2492,16 +2512,6 @@
       "place": "93 km ESE of McCarthy, Alaska",
       "time": 1783419418057,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nierfp"
-    },
-    {
-      "id": "aka2026niedru",
-      "lon": -148.089,
-      "lat": 61.657,
-      "depth": 5,
-      "mag": 1,
-      "place": "25 km SE of Chickaloon, Alaska",
-      "time": 1783418481708,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026niedru"
     }
   ]
 }
