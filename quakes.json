@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-08T21:45:41Z",
-  "count": 259,
+  "updated": "2026-07-08T22:01:37Z",
+  "count": 260,
   "points": [
+    {
+      "id": "ci41289455",
+      "lon": -117.193,
+      "lat": 33.2743333333333,
+      "depth": 0.37,
+      "mag": 1.49,
+      "place": "9 km NNE of Vista, CA",
+      "time": 1783547188000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289455"
+    },
     {
       "id": "nn00921355",
       "lon": -114.7875,
@@ -72,6 +82,16 @@
       "place": "7 km NW of La Mesa, CA",
       "time": 1783544473080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289423"
+    },
+    {
+      "id": "tx2026nishwq",
+      "lon": -103.416,
+      "lat": 31.311,
+      "depth": 5.6907,
+      "mag": 2,
+      "place": "13 km ESE of Lindsay, Texas",
+      "time": 1783544463252,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nishwq"
     },
     {
       "id": "nc75392276",
@@ -2582,16 +2602,6 @@
       "place": "13 km E of Fox, Alaska",
       "time": 1783461886256,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026njcgya"
-    },
-    {
-      "id": "aka2026njbryd",
-      "lon": -154.642,
-      "lat": 56.893,
-      "depth": 0.2,
-      "mag": 2.4,
-      "place": "29 km WSW of Akhiok, Alaska",
-      "time": 1783460847605,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026njbryd"
     }
   ]
 }
