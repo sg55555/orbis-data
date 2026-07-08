@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-08T19:31:21Z",
-  "count": 251,
+  "updated": "2026-07-08T19:45:47Z",
+  "count": 248,
   "points": [
+    {
+      "id": "aka2026nkthpl",
+      "lon": -148.294,
+      "lat": 62.981,
+      "depth": 62.6,
+      "mag": 2.8,
+      "place": "56 km SE of Cantwell, Alaska",
+      "time": 1783539302697,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nkthpl"
+    },
     {
       "id": "aka2026nksuss",
       "lon": -157.729,
@@ -22,16 +32,6 @@
       "place": "10 km NW of The Geysers, CA",
       "time": 1783538276300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392196"
-    },
-    {
-      "id": "tx2026niovhm",
-      "lon": -102.458,
-      "lat": 32.012,
-      "depth": 0,
-      "mag": 2.7,
-      "place": "7 km W of Gardendale, Texas",
-      "time": 1783538132650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026niovhm"
     },
     {
       "id": "nc75392191",
@@ -2482,36 +2482,6 @@
       "place": "12 km S of Volcano, Hawaii",
       "time": 1783455197600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74998631"
-    },
-    {
-      "id": "us6000tary",
-      "lon": 105.0646,
-      "lat": -6.7717,
-      "depth": 35,
-      "mag": 5.3,
-      "place": "95 km WSW of Labuan, Indonesia",
-      "time": 1783453492435,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tary"
-    },
-    {
-      "id": "ci41288799",
-      "lon": -117.544,
-      "lat": 35.7218333333333,
-      "depth": 4.55,
-      "mag": 0.81,
-      "place": "14 km WSW of Searles Valley, CA",
-      "time": 1783453379420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288799"
-    },
-    {
-      "id": "tx2026ngtpiq",
-      "lon": -104.311,
-      "lat": 31.69,
-      "depth": 7.4841,
-      "mag": 1.7,
-      "place": "54 km S of Whites City, New Mexico",
-      "time": 1783452718491,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ngtpiq"
     }
   ]
 }
