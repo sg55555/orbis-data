@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-08T08:15:48Z",
-  "count": 244,
+  "updated": "2026-07-08T08:31:26Z",
+  "count": 246,
   "points": [
+    {
+      "id": "ci41289151",
+      "lon": -116.411333333333,
+      "lat": 33.0378333333333,
+      "depth": 10.54,
+      "mag": 1.4,
+      "place": "18 km ESE of Julian, CA",
+      "time": 1783498980220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289151"
+    },
+    {
+      "id": "nc75391861",
+      "lon": -122.815002441406,
+      "lat": 38.8318328857422,
+      "depth": 2.08999991416931,
+      "mag": 0.81,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1783498861080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391861"
+    },
+    {
+      "id": "ci41289143",
+      "lon": -118.678166666667,
+      "lat": 34.6653333333333,
+      "depth": 10.95,
+      "mag": 1.11,
+      "place": "14 km SSW of Neenach, CA",
+      "time": 1783498700580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289143"
+    },
     {
       "id": "tx2026nhsjtm",
       "lon": -104.129,
@@ -22,6 +52,16 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1783496887670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391856"
+    },
+    {
+      "id": "us6000tavs",
+      "lon": 141.8982,
+      "lat": 40.1437,
+      "depth": 58.199,
+      "mag": 4.7,
+      "place": "8 km ENE of Noda, Japan",
+      "time": 1783496151628,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tavs"
     },
     {
       "id": "ci41289135",
@@ -2422,26 +2462,6 @@
       "place": "Reykjanes Ridge",
       "time": 1783413056236,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000talm"
-    },
-    {
-      "id": "ci41288415",
-      "lon": -117.8035,
-      "lat": 35.2915,
-      "depth": 7.38,
-      "mag": 0.92,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1783412732340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288415"
-    },
-    {
-      "id": "nc75391226",
-      "lon": -122.808334350586,
-      "lat": 38.8326683044434,
-      "depth": 2.27999997138977,
-      "mag": 0.64,
-      "place": "7 km W of Cobb, CA",
-      "time": 1783412330900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391226"
     }
   ]
 }
