@@ -1,16 +1,66 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-08T11:45:47Z",
-  "count": 244,
+  "updated": "2026-07-08T12:01:33Z",
+  "count": 245,
   "points": [
     {
+      "id": "nn00921340",
+      "lon": -118.8042,
+      "lat": 40.234,
+      "depth": 15.9503,
+      "mag": 1.54,
+      "place": "28 km WNW of Lovelock, Nevada",
+      "time": 1783511828221,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921340"
+    },
+    {
+      "id": "aka2026nkdzpl",
+      "lon": -151.022,
+      "lat": 58.909,
+      "depth": 29,
+      "mag": 1.9,
+      "place": "67 km SE of Port Graham, Alaska",
+      "time": 1783511755324,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nkdzpl"
+    },
+    {
+      "id": "ci41289207",
+      "lon": -116.799666666667,
+      "lat": 33.7023333333333,
+      "depth": 15.62,
+      "mag": 0.42,
+      "place": "9 km WSW of Idyllwild, CA",
+      "time": 1783511649910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289207"
+    },
+    {
+      "id": "hv74999016",
+      "lon": -155.224670410156,
+      "lat": 18.8398342132568,
+      "depth": 4.94000005722046,
+      "mag": 1.87,
+      "place": "45 km SE of Naalehu, Hawaii",
+      "time": 1783511078980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74999016"
+    },
+    {
+      "id": "us6000tawt",
+      "lon": 168.6887,
+      "lat": -20.3518,
+      "depth": 10,
+      "mag": 5.2,
+      "place": "109 km SW of Isangel, Vanuatu",
+      "time": 1783510971921,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawt"
+    },
+    {
       "id": "ci41289199",
-      "lon": -117.661666870117,
-      "lat": 36.0699996948242,
-      "depth": 1.87000000476837,
-      "mag": 1.10514044753969,
+      "lon": -117.663833333333,
+      "lat": 36.0665,
+      "depth": 1.72,
+      "mag": 0.96,
       "place": "26 km E of Coso Junction, CA",
-      "time": 1783510920920,
+      "time": 1783510920940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289199"
     },
     {
@@ -782,6 +832,16 @@
       "place": "16 km ESE of Julian, CA",
       "time": 1783479239840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289031"
+    },
+    {
+      "id": "tx2026nhidim",
+      "lon": -101.908,
+      "lat": 32.104,
+      "depth": 8.9355,
+      "mag": 0.1,
+      "place": "11 km WSW of Stanton, Texas",
+      "time": 1783478956781,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nhidim"
     },
     {
       "id": "ci41289023",
@@ -2392,56 +2452,6 @@
       "place": "11 km E of Palomar Observatory, CA",
       "time": 1783425973260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288463"
-    },
-    {
-      "id": "hv74998406",
-      "lon": -155.461,
-      "lat": 19.2068333333333,
-      "depth": -0.47,
-      "mag": 2.27,
-      "place": "1 km ENE of Pāhala, Hawaii",
-      "time": 1783425483420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74998406"
-    },
-    {
-      "id": "uu80144771",
-      "lon": -112.891833333333,
-      "lat": 38.5106666666667,
-      "depth": 0.72,
-      "mag": 0.35,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1783425209000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144771"
-    },
-    {
-      "id": "nc75391276",
-      "lon": -121.089500427246,
-      "lat": 36.5345001220703,
-      "depth": 5.5,
-      "mag": 1.41,
-      "place": "5 km E of Pinnacles, CA",
-      "time": 1783425019220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391276"
-    },
-    {
-      "id": "nc75391271",
-      "lon": -123.228164672852,
-      "lat": 39.3759994506836,
-      "depth": 6.01000022888184,
-      "mag": 2.36,
-      "place": "12 km ESE of Willits, CA",
-      "time": 1783424986840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391271"
-    },
-    {
-      "id": "tx2026ngeexz",
-      "lon": -104.345,
-      "lat": 31.672,
-      "depth": 5.177,
-      "mag": 2,
-      "place": "55 km S of Whites City, New Mexico",
-      "time": 1783424757381,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ngeexz"
     }
   ]
 }
