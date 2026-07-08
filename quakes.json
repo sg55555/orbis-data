@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-08T01:15:49Z",
-  "count": 233,
+  "updated": "2026-07-08T01:31:18Z",
+  "count": 232,
   "points": [
+    {
+      "id": "tx2026nhfenh",
+      "lon": -97.608,
+      "lat": 28.983,
+      "depth": 11.7626,
+      "mag": 1.8,
+      "place": "6 km N of Nordheim, Texas",
+      "time": 1783473613334,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nhfenh"
+    },
     {
       "id": "us6000taub",
       "lon": -64.5944,
@@ -235,12 +245,12 @@
     },
     {
       "id": "us6000tatd",
-      "lon": 104.7718,
-      "lat": 28.5899,
+      "lon": 104.788,
+      "lat": 28.5702,
       "depth": 10,
       "mag": 5.1,
-      "place": "14 km W of Changning, China",
-      "time": 1783462349761,
+      "place": "13 km W of Changning, China",
+      "time": 1783462349518,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tatd"
     },
     {
@@ -2312,26 +2322,6 @@
       "place": "60 km S of Whites City, New Mexico",
       "time": 1783388793220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nfkijz"
-    },
-    {
-      "id": "uu80144721",
-      "lon": -112.878166666667,
-      "lat": 38.5101666666667,
-      "depth": 2.49,
-      "mag": 0.86,
-      "place": "17 km NE of Milford, Utah",
-      "time": 1783387815070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144721"
-    },
-    {
-      "id": "us6000takd",
-      "lon": -66.7593,
-      "lat": -57.3319,
-      "depth": 10,
-      "mag": 5.8,
-      "place": "296 km SSE of Ushuaia, Argentina",
-      "time": 1783387605626,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000takd"
     }
   ]
 }
