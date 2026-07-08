@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-08T06:45:45Z",
+  "updated": "2026-07-08T07:01:36Z",
   "count": 249,
   "points": [
+    {
+      "id": "aka2026njtrln",
+      "lon": -146.641,
+      "lat": 61.445,
+      "depth": 36.6,
+      "mag": 1.2,
+      "place": "38 km NNW of Valdez, Alaska",
+      "time": 1783493199800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026njtrln"
+    },
     {
       "id": "tx2026nhpvoe",
       "lon": -104.54,
       "lat": 31.577,
-      "depth": 2.7388,
+      "depth": 2.7466,
       "mag": 1.9,
       "place": "65 km NNE of Van Horn, Texas",
-      "time": 1783492910552,
+      "time": 1783492910549,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nhpvoe"
     },
     {
@@ -192,6 +202,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1783487193090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391821"
+    },
+    {
+      "id": "us6000tauz",
+      "lon": -74.7855,
+      "lat": -10.7092,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "25 km NNE of Santa Rosa, Peru",
+      "time": 1783486832411,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tauz"
     },
     {
       "id": "tx2026nhmejv",
@@ -2472,26 +2492,6 @@
       "place": "34 km WSW of Trapper Creek, Alaska",
       "time": 1783407968089,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nhyhtn"
-    },
-    {
-      "id": "ci41288383",
-      "lon": -117.181,
-      "lat": 34.037,
-      "depth": 9.91,
-      "mag": 0.6,
-      "place": "2 km S of Redlands, CA",
-      "time": 1783407631980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288383"
-    },
-    {
-      "id": "hv74998306",
-      "lon": -155.503662109375,
-      "lat": 18.9825000762939,
-      "depth": 35.1100006103516,
-      "mag": 1.84,
-      "place": "12 km SE of Naalehu, Hawaii",
-      "time": 1783407558730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74998306"
     }
   ]
 }
