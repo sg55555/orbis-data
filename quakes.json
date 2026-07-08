@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-08T20:45:50Z",
-  "count": 250,
+  "updated": "2026-07-08T21:01:41Z",
+  "count": 255,
   "points": [
+    {
+      "id": "ci41289415",
+      "lon": -116.7145,
+      "lat": 33.5351666666667,
+      "depth": 5.31,
+      "mag": 0.67,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1783543732250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289415"
+    },
+    {
+      "id": "us7000sz31",
+      "lon": 126.335,
+      "lat": 11.319,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "69 km NE of Sulangan, Philippines",
+      "time": 1783542724403,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz31"
+    },
     {
       "id": "nc75392246",
       "lon": -123.235336303711,
@@ -14,6 +34,36 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392246"
     },
     {
+      "id": "pr71523058",
+      "lon": -66.8461666666667,
+      "lat": 17.984,
+      "depth": 17.3,
+      "mag": 1.89,
+      "place": "3 km WSW of Indios, Puerto Rico",
+      "time": 1783541920290,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523058"
+    },
+    {
+      "id": "pr71523053",
+      "lon": -66.8388333333333,
+      "lat": 17.98,
+      "depth": 15.05,
+      "mag": 2.53,
+      "place": "2 km SW of Indios, Puerto Rico",
+      "time": 1783541448740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523053"
+    },
+    {
+      "id": "pr71523048",
+      "lon": -66.8463333333333,
+      "lat": 17.9778333333333,
+      "depth": 17.35,
+      "mag": 2.03,
+      "place": "3 km WSW of Indios, Puerto Rico",
+      "time": 1783541292940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523048"
+    },
+    {
       "id": "pr2026189001",
       "lon": -66.8351,
       "lat": 17.9778,
@@ -22,6 +72,16 @@
       "place": "2 km SW of Indios, Puerto Rico",
       "time": 1783541251770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026189001"
+    },
+    {
+      "id": "us7000sz2t",
+      "lon": 76.829,
+      "lat": 19.2225,
+      "depth": 10,
+      "mag": 4.2,
+      "place": "7 km SE of Parbhani, India",
+      "time": 1783541245081,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz2t"
     },
     {
       "id": "nn00921352",
@@ -182,6 +242,16 @@
       "place": "16 km NE of Milford, Utah",
       "time": 1783536851390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144966"
+    },
+    {
+      "id": "ci41289367",
+      "lon": -118.185166666667,
+      "lat": 34.9955,
+      "depth": -0.82,
+      "mag": 1.12,
+      "place": "6 km S of Mojave, CA",
+      "time": 1783536810940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289367"
     },
     {
       "id": "nc75392156",
@@ -1435,12 +1505,12 @@
     },
     {
       "id": "hv74998901",
-      "lon": -155.536666870117,
-      "lat": 19.9443340301514,
-      "depth": 41.4799995422363,
+      "lon": -155.516833333333,
+      "lat": 19.9461666666667,
+      "depth": 41.71,
       "mag": 2,
-      "place": "16 km SSW of Honoka‘a, Hawaii",
-      "time": 1783492332030,
+      "place": "15 km SSW of Honoka‘a, Hawaii",
+      "time": 1783492332120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74998901"
     },
     {
@@ -2482,26 +2552,6 @@
       "place": "2 km ESE of Westmorland, CA",
       "time": 1783459346900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288855"
-    },
-    {
-      "id": "aka2026nizwyx",
-      "lon": -151.158,
-      "lat": 60.982,
-      "depth": 69.4,
-      "mag": 1.8,
-      "place": "9 km S of Tyonek, Alaska",
-      "time": 1783457599944,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nizwyx"
-    },
-    {
-      "id": "tx2026ngwcec",
-      "lon": -101.956,
-      "lat": 32.107,
-      "depth": 7.251,
-      "mag": 1.5,
-      "place": "16 km W of Stanton, Texas",
-      "time": 1783457152361,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ngwcec"
     }
   ]
 }
