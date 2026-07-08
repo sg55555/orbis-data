@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-08T15:45:45Z",
+  "updated": "2026-07-08T15:52:38Z",
   "count": 253,
   "points": [
+    {
+      "id": "ci41289327",
+      "lon": -118.885666666667,
+      "lat": 34.5816666666667,
+      "depth": 3.74,
+      "mag": 1.43,
+      "place": "20 km NNW of Piru, CA",
+      "time": 1783525665070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289327"
+    },
     {
       "id": "aka2026nklbss",
       "lon": -146.381,
@@ -12,6 +22,16 @@
       "place": "42 km SSE of Nelchina, Alaska",
       "time": 1783524502450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nklbss"
+    },
+    {
+      "id": "us6000tazy",
+      "lon": 47.3941,
+      "lat": 33.0578,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "7 km NNW of Ābdānān, Iran",
+      "time": 1783524154759,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tazy"
     },
     {
       "id": "tx2026nigcgc",
@@ -95,12 +115,12 @@
     },
     {
       "id": "ci41289255",
-      "lon": -115.5415,
-      "lat": 32.9211666666667,
-      "depth": 6.85,
-      "mag": 1.36,
+      "lon": -115.5355,
+      "lat": 32.9246666666667,
+      "depth": 9.74,
+      "mag": 1.25,
       "place": "6 km S of Brawley, CA",
-      "time": 1783516562760,
+      "time": 1783516562660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289255"
     },
     {
@@ -2512,26 +2532,6 @@
       "place": "17 km W of Ivanof Bay, Alaska",
       "time": 1783439598571,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nipwxd"
-    },
-    {
-      "id": "nc75391396",
-      "lon": -122.054336547852,
-      "lat": 37.650333404541,
-      "depth": 5.44000005722046,
-      "mag": 2.2,
-      "place": "2 km ENE of Hayward, CA",
-      "time": 1783439500270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391396"
-    },
-    {
-      "id": "ci41288599",
-      "lon": -117.520333333333,
-      "lat": 35.9685,
-      "depth": 3.15,
-      "mag": 0.63,
-      "place": "25 km NNW of Searles Valley, CA",
-      "time": 1783439249810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288599"
     }
   ]
 }
