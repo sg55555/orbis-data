@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-08T18:31:26Z",
-  "count": 249,
+  "updated": "2026-07-08T18:45:49Z",
+  "count": 247,
   "points": [
+    {
+      "id": "nc75392151",
+      "lon": -122.741668701172,
+      "lat": 38.7890014648438,
+      "depth": 3.67000007629395,
+      "mag": 0.73,
+      "place": "2 km NE of The Geysers, CA",
+      "time": 1783536091240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392151"
+    },
     {
       "id": "ci41289359",
       "lon": -117.925166666667,
@@ -315,12 +325,12 @@
     },
     {
       "id": "tx2026nigcgc",
-      "lon": -104.162,
-      "lat": 31.56,
-      "depth": 4.271,
+      "lon": -104.151,
+      "lat": 31.566,
+      "depth": 6.1127,
       "mag": 1.8,
-      "place": "44 km NW of Toyah, Texas",
-      "time": 1783522332035,
+      "place": "43 km NW of Toyah, Texas",
+      "time": 1783522331995,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nigcgc"
     },
     {
@@ -2462,36 +2472,6 @@
       "place": "18 km WSW of Johannesburg, CA",
       "time": 1783449936040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288711"
-    },
-    {
-      "id": "uu80144806",
-      "lon": -112.873833333333,
-      "lat": 38.5138333333333,
-      "depth": 1.7,
-      "mag": 1.23,
-      "place": "17 km NE of Milford, Utah",
-      "time": 1783449572410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144806"
-    },
-    {
-      "id": "ci41288703",
-      "lon": -117.807,
-      "lat": 35.2923333333333,
-      "depth": 7.23,
-      "mag": 1.81,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1783449511070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288703"
-    },
-    {
-      "id": "aka2026nivdpv",
-      "lon": -152.831,
-      "lat": 59.991,
-      "depth": 110.9,
-      "mag": 2.1,
-      "place": "60 km WNW of Anchor Point, Alaska",
-      "time": 1783449085708,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nivdpv"
     }
   ]
 }
