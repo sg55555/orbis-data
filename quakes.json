@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-08T03:15:41Z",
+  "updated": "2026-07-08T03:31:16Z",
   "count": 246,
   "points": [
     {
+      "id": "nc75391781",
+      "lon": -122.793998718262,
+      "lat": 38.821834564209,
+      "depth": 2.79999995231628,
+      "mag": 0.29,
+      "place": "6 km NNW of The Geysers, CA",
+      "time": 1783481058710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391781"
+    },
+    {
+      "id": "tx2026nhjddd",
+      "lon": -103.644,
+      "lat": 30.897,
+      "depth": 0,
+      "mag": 1.3,
+      "place": "13 km SE of Balmorhea, Texas",
+      "time": 1783480752020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nhjddd"
+    },
+    {
       "id": "ci41289039",
-      "lon": -117.641670227051,
-      "lat": 35.7838325500488,
-      "depth": 9.19999980926514,
-      "mag": 1.40274152927274,
+      "lon": -117.640833333333,
+      "lat": 35.7835,
+      "depth": 9.44,
+      "mag": 1.08,
       "place": "18 km N of Ridgecrest, CA",
-      "time": 1783480357170,
+      "time": 1783480357120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289039"
     },
     {
@@ -2442,26 +2462,6 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1783396318670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288303"
-    },
-    {
-      "id": "nc75391126",
-      "lon": -122.835334777832,
-      "lat": 38.8383331298828,
-      "depth": 1.92999994754791,
-      "mag": 0.75,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1783394845570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391126"
-    },
-    {
-      "id": "tx2026nfnpqg",
-      "lon": -104.224,
-      "lat": 31.676,
-      "depth": 1.5628,
-      "mag": 1,
-      "place": "57 km SSE of Whites City, New Mexico",
-      "time": 1783394727866,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nfnpqg"
     }
   ]
 }
