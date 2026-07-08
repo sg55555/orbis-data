@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-08T17:31:32Z",
-  "count": 252,
+  "updated": "2026-07-08T17:45:47Z",
+  "count": 250,
   "points": [
+    {
+      "id": "hv74999176",
+      "lon": -155.364334106445,
+      "lat": 19.0564994812012,
+      "depth": 29.7199993133545,
+      "mag": 2.03,
+      "place": "20 km SE of Pāhala, Hawaii",
+      "time": 1783531918680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74999176"
+    },
     {
       "id": "nc75392096",
       "lon": -122.721000671387,
@@ -2492,36 +2502,6 @@
       "place": "16 km W of Stanton, Texas",
       "time": 1783446736794,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ngqilw"
-    },
-    {
-      "id": "aka2026nitmub",
-      "lon": -151.347,
-      "lat": 60.891,
-      "depth": 64.7,
-      "mag": 1.9,
-      "place": "22 km N of Nikiski, Alaska",
-      "time": 1783446098096,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nitmub"
-    },
-    {
-      "id": "us6000tar3",
-      "lon": -66.8183,
-      "lat": -57.3541,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "298 km SSE of Ushuaia, Argentina",
-      "time": 1783445996121,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tar3"
-    },
-    {
-      "id": "uw714043282",
-      "lon": -123.256333333333,
-      "lat": 48.1485,
-      "depth": 37.46,
-      "mag": 1.36,
-      "place": "8 km NW of Carlsborg, Washington",
-      "time": 1783445606500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714043282"
     }
   ]
 }
