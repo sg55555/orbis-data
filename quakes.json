@@ -1,8 +1,48 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T12:15:49Z",
-  "count": 208,
+  "updated": "2026-07-09T12:47:28Z",
+  "count": 205,
   "points": [
+    {
+      "id": "nc75392571",
+      "lon": -122.746002197266,
+      "lat": 38.7374992370605,
+      "depth": -0.730000019073486,
+      "mag": 0.74,
+      "place": "5 km SSE of The Geysers, CA",
+      "time": 1783600189190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392571"
+    },
+    {
+      "id": "tx2026njwwbx",
+      "lon": -103.444,
+      "lat": 31.212,
+      "depth": 0.2864,
+      "mag": 1.6,
+      "place": "19 km SSE of Lindsay, Texas",
+      "time": 1783599746211,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026njwwbx"
+    },
+    {
+      "id": "aka2026nmarzf",
+      "lon": -155.55,
+      "lat": 58.279,
+      "depth": 5,
+      "mag": 1,
+      "place": "79 km SE of King Salmon, Alaska",
+      "time": 1783599387838,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nmarzf"
+    },
+    {
+      "id": "us7000sz66",
+      "lon": 147.8872,
+      "lat": 44.4413,
+      "depth": 110.674,
+      "mag": 4.6,
+      "place": "87 km S of Kuril’sk, Russia",
+      "time": 1783598319525,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz66"
+    },
     {
       "id": "ci41289839",
       "lon": -117.046833333333,
@@ -392,6 +432,16 @@
       "place": "46 km ESE of Beatty, Nevada",
       "time": 1783580059567,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921381"
+    },
+    {
+      "id": "se60505903",
+      "lon": -83.5275,
+      "lat": 36.2813333333333,
+      "depth": 2.75,
+      "mag": 2.25,
+      "place": "1 km W of Rutledge, Tennessee",
+      "time": 1783579312640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60505903"
     },
     {
       "id": "nc75392476",
@@ -1495,12 +1545,12 @@
     },
     {
       "id": "tx2026nimwhi",
-      "lon": -104.115,
-      "lat": 31.611,
-      "depth": 3.6373,
-      "mag": 2.1,
-      "place": "44 km NW of Toyah, Texas",
-      "time": 1783534586159,
+      "lon": -104.092,
+      "lat": 31.612,
+      "depth": 7.3688,
+      "mag": 2,
+      "place": "43 km NW of Toyah, Texas",
+      "time": 1783534585906,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nimwhi"
     },
     {
@@ -2002,86 +2052,6 @@
       "place": "12 km NNW of Snyder, Texas",
       "time": 1783515110029,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026niccnq"
-    },
-    {
-      "id": "ci41289223",
-      "lon": -117.819166666667,
-      "lat": 35.3073333333333,
-      "depth": 9.24,
-      "mag": 0.92,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1783514566590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289223"
-    },
-    {
-      "id": "tx2026nibmva",
-      "lon": -101.691,
-      "lat": 32.01,
-      "depth": 9.3018,
-      "mag": 1.6,
-      "place": "16 km SE of Stanton, Texas",
-      "time": 1783514013212,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nibmva"
-    },
-    {
-      "id": "aka2026nkfdws",
-      "lon": -148.419,
-      "lat": 61.982,
-      "depth": 19.9,
-      "mag": 1.8,
-      "place": "20 km N of Chickaloon, Alaska",
-      "time": 1783513851807,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nkfdws"
-    },
-    {
-      "id": "aka2026nkfduc",
-      "lon": -158.227,
-      "lat": 55.851,
-      "depth": 45.5,
-      "mag": 2.5,
-      "place": "50 km SSE of Chignik, Alaska",
-      "time": 1783513844744,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nkfduc"
-    },
-    {
-      "id": "uu80144921",
-      "lon": -112.885333333333,
-      "lat": 38.512,
-      "depth": 1.97,
-      "mag": 1.28,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1783513550230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144921"
-    },
-    {
-      "id": "uu80144916",
-      "lon": -112.883,
-      "lat": 38.5118333333333,
-      "depth": 2.48,
-      "mag": 1.18,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1783513511370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144916"
-    },
-    {
-      "id": "nc75391956",
-      "lon": -118.811996459961,
-      "lat": 37.4710006713867,
-      "depth": 5.07999992370605,
-      "mag": 1.71,
-      "place": "15 km SW of Toms Place, CA",
-      "time": 1783513290140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391956"
-    },
-    {
-      "id": "us6000taww",
-      "lon": -174.9716,
-      "lat": -23.5549,
-      "depth": 10,
-      "mag": 5.4,
-      "place": "245 km S of ‘Ohonua, Tonga",
-      "time": 1783513139673,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taww"
     }
   ]
 }
