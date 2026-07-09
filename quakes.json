@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T01:01:26Z",
-  "count": 251,
+  "updated": "2026-07-09T01:15:45Z",
+  "count": 252,
   "points": [
+    {
+      "id": "aka2026nleouy",
+      "lon": -147.503,
+      "lat": 64.976,
+      "depth": 7.7,
+      "mag": 1.1,
+      "place": "5 km ENE of Fox, Alaska",
+      "time": 1783559587656,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nleouy"
+    },
+    {
+      "id": "aka2026nlelgz",
+      "lon": -151.871,
+      "lat": 59.263,
+      "depth": 57.9,
+      "mag": 1.8,
+      "place": "10 km SSW of Port Graham, Alaska",
+      "time": 1783559342140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nlelgz"
+    },
     {
       "id": "pr71523123",
       "lon": -66.9056666666667,
@@ -12,6 +32,16 @@
       "place": "12 km S of Guánica, Puerto Rico",
       "time": 1783557900840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523123"
+    },
+    {
+      "id": "pr71523113",
+      "lon": -66.9045,
+      "lat": 17.8635,
+      "depth": 12.78,
+      "mag": 2.94,
+      "place": "11 km S of Guánica, Puerto Rico",
+      "time": 1783557851420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523113"
     },
     {
       "id": "tx2026nizqep",
@@ -755,12 +785,12 @@
     },
     {
       "id": "hv74999176",
-      "lon": -155.364334106445,
-      "lat": 19.0564994812012,
-      "depth": 29.7199993133545,
-      "mag": 2.03,
-      "place": "20 km SE of Pāhala, Hawaii",
-      "time": 1783531918680,
+      "lon": -155.353333333333,
+      "lat": 19.0713333333333,
+      "depth": 31.39,
+      "mag": 1.82,
+      "place": "19 km SE of Pāhala, Hawaii",
+      "time": 1783531918790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74999176"
     },
     {
@@ -2492,26 +2522,6 @@
       "place": "7 km N of Nordheim, Texas",
       "time": 1783473613133,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nhfenh"
-    },
-    {
-      "id": "pr2026189000",
-      "lon": -64.6125,
-      "lat": 18.9381,
-      "depth": 5,
-      "mag": 3.67,
-      "place": "69 km NNE of Cruz Bay, U.S. Virgin Islands",
-      "time": 1783472824290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026189000"
-    },
-    {
-      "id": "se60505893",
-      "lon": -84.0661666666667,
-      "lat": 35.5906666666667,
-      "depth": 18.95,
-      "mag": 1.51,
-      "place": "12 km SE of Greenback, Tennessee",
-      "time": 1783472633360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60505893"
     }
   ]
 }
