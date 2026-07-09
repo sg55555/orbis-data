@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T07:31:24Z",
-  "count": 225,
+  "updated": "2026-07-09T07:45:51Z",
+  "count": 223,
   "points": [
+    {
+      "id": "ci41289703",
+      "lon": -118.236166666667,
+      "lat": 34.1983333333333,
+      "depth": 9.52,
+      "mag": 1.42,
+      "place": "3 km NNE of Glendale, CA",
+      "time": 1783582183100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289703"
+    },
+    {
+      "id": "ci41289695",
+      "lon": -118.022333333333,
+      "lat": 34.0396666666667,
+      "depth": 22.22,
+      "mag": 1.59,
+      "place": "3 km ESE of South El Monte, CA",
+      "time": 1783582179710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289695"
+    },
     {
       "id": "ci41289687",
       "lon": -117.205,
@@ -25,12 +45,12 @@
     },
     {
       "id": "nn00921373",
-      "lon": -116.3269,
-      "lat": 36.6754,
-      "depth": 14.6818,
-      "mag": 3.33,
-      "place": "46 km SE of Beatty, Nevada",
-      "time": 1783580346031,
+      "lon": -116.3314,
+      "lat": 36.6602,
+      "depth": 9.133,
+      "mag": 3.39,
+      "place": "47 km SE of Beatty, Nevada",
+      "time": 1783580346807,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921373"
     },
     {
@@ -2212,46 +2232,6 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1783496887670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391856"
-    },
-    {
-      "id": "av94295688",
-      "lon": -179.082833333333,
-      "lat": 51.6518333333333,
-      "depth": 9.69,
-      "mag": 1.15,
-      "place": "170 km W of Adak, Alaska",
-      "time": 1783496574110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94295688"
-    },
-    {
-      "id": "uu80144851",
-      "lon": -112.881333333333,
-      "lat": 38.519,
-      "depth": 2.7,
-      "mag": 0.87,
-      "place": "17 km NE of Milford, Utah",
-      "time": 1783496196650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144851"
-    },
-    {
-      "id": "us6000tavs",
-      "lon": 141.8982,
-      "lat": 40.1437,
-      "depth": 58.199,
-      "mag": 4.7,
-      "place": "8 km ENE of Noda, Japan",
-      "time": 1783496151628,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tavs"
-    },
-    {
-      "id": "uu80144846",
-      "lon": -112.883166666667,
-      "lat": 38.5145,
-      "depth": 2.57,
-      "mag": 0.55,
-      "place": "17 km NE of Milford, Utah",
-      "time": 1783495869080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144846"
     }
   ]
 }
