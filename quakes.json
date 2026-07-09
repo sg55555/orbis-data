@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T03:31:23Z",
-  "count": 241,
+  "updated": "2026-07-09T03:45:47Z",
+  "count": 243,
   "points": [
+    {
+      "id": "ci41289607",
+      "lon": -117.722833333333,
+      "lat": 36.035,
+      "depth": 2.3,
+      "mag": 0.58,
+      "place": "20 km ENE of Little Lake, CA",
+      "time": 1783567949520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289607"
+    },
     {
       "id": "nc75392426",
       "lon": -122.855499267578,
@@ -2284,6 +2294,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tauz"
     },
     {
+      "id": "av94295393",
+      "lon": -177.143666666667,
+      "lat": 51.9568333333333,
+      "depth": 7.36,
+      "mag": 0.44,
+      "place": "36 km WNW of Adak, Alaska",
+      "time": 1783486595510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94295393"
+    },
+    {
       "id": "tx2026nhmejv",
       "lon": -97.621,
       "lat": 28.987,
@@ -2312,6 +2332,16 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1783485365420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391816"
+    },
+    {
+      "id": "av94295338",
+      "lon": -154.878833333333,
+      "lat": 58.3041666666667,
+      "depth": 4.79,
+      "mag": -0.16,
+      "place": "85 km NNW of Karluk, Alaska",
+      "time": 1783484793330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94295338"
     },
     {
       "id": "us6000tauv",
@@ -2402,16 +2432,6 @@
       "place": "7 km N of Nordheim, Texas",
       "time": 1783482851932,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nhkhhb"
-    },
-    {
-      "id": "nc75391791",
-      "lon": -122.446662902832,
-      "lat": 38.5731658935547,
-      "depth": 1.98000001907349,
-      "mag": 1.68,
-      "place": "0 km SE of Angwin, CA",
-      "time": 1783481923870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391791"
     }
   ]
 }
