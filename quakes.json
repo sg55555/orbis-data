@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T11:45:47Z",
-  "count": 213,
+  "updated": "2026-07-09T12:01:32Z",
+  "count": 210,
   "points": [
+    {
+      "id": "ci41289839",
+      "lon": -117.046833333333,
+      "lat": 33.5331666666667,
+      "depth": 11.28,
+      "mag": 0.5,
+      "place": "10 km ENE of Temecula, CA",
+      "time": 1783597338830,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289839"
+    },
     {
       "id": "nc75392566",
       "lon": -122.814002990723,
@@ -552,16 +562,6 @@
       "place": "4 km WSW of Anza, CA",
       "time": 1783569820210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289631"
-    },
-    {
-      "id": "tx2026njgcnk",
-      "lon": -104.115,
-      "lat": 31.53,
-      "depth": 8.5543,
-      "mag": 0.5,
-      "place": "38 km NW of Toyah, Texas",
-      "time": 1783569416663,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026njgcnk"
     },
     {
       "id": "ci41289623",
@@ -2102,36 +2102,6 @@
       "place": "12 km SSW of Jal, New Mexico",
       "time": 1783512065310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026niakwb"
-    },
-    {
-      "id": "nn00921340",
-      "lon": -118.8132,
-      "lat": 40.2368,
-      "depth": 8.2779,
-      "mag": 1.79,
-      "place": "29 km WNW of Lovelock, Nevada",
-      "time": 1783511828687,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921340"
-    },
-    {
-      "id": "aka2026nkdzpl",
-      "lon": -151.022,
-      "lat": 58.909,
-      "depth": 29,
-      "mag": 1.9,
-      "place": "67 km SE of Port Graham, Alaska",
-      "time": 1783511755324,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nkdzpl"
-    },
-    {
-      "id": "ci41289207",
-      "lon": -116.799666666667,
-      "lat": 33.7023333333333,
-      "depth": 15.62,
-      "mag": 0.42,
-      "place": "9 km WSW of Idyllwild, CA",
-      "time": 1783511649910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289207"
     }
   ]
 }
