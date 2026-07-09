@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T17:15:49Z",
-  "count": 225,
+  "updated": "2026-07-09T17:31:17Z",
+  "count": 228,
   "points": [
+    {
+      "id": "hv74999666",
+      "lon": -155.56950378418,
+      "lat": 19.0911674499512,
+      "depth": 55.560001373291,
+      "mag": 2.2,
+      "place": "2 km NNE of Naalehu, Hawaii",
+      "time": 1783617882750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74999666"
+    },
     {
       "id": "uw714045642",
       "lon": -121.764503479004,
@@ -84,11 +94,21 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz8l"
     },
     {
+      "id": "ci10245726",
+      "lon": -116.820666666667,
+      "lat": 33.3403333333333,
+      "depth": 12.53,
+      "mag": 0.08,
+      "place": "4 km ESE of Palomar Observatory, CA",
+      "time": 1783615339860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10245726"
+    },
+    {
       "id": "ci41290031",
-      "lon": -116.830497741699,
-      "lat": 33.3281669616699,
-      "depth": 13.789999961853,
-      "mag": 0.999957008583847,
+      "lon": -116.838333333333,
+      "lat": 33.331,
+      "depth": 13.19,
+      "mag": 0.3,
       "place": "4 km SE of Palomar Observatory, CA",
       "time": 1783615326600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290031"
@@ -714,6 +734,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145026"
     },
     {
+      "id": "tx2026njrwnq",
+      "lon": -98.975,
+      "lat": 28.845,
+      "depth": 8.5997,
+      "mag": 1.7,
+      "place": "12 km ESE of Pearsall, Texas",
+      "time": 1783590721454,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026njrwnq"
+    },
+    {
       "id": "ci41289799",
       "lon": -116.414166666667,
       "lat": 33.3861666666667,
@@ -1062,6 +1092,16 @@
       "place": "17 km SW of Nile, Washington",
       "time": 1783577097470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714045412"
+    },
+    {
+      "id": "uw714045402",
+      "lon": -121.129,
+      "lat": 46.7273333333333,
+      "depth": 7.44,
+      "mag": 1.36,
+      "place": "17 km SW of Nile, Washington",
+      "time": 1783576983280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714045402"
     },
     {
       "id": "nc75392466",
@@ -2242,16 +2282,6 @@
       "place": "19 km SE of Pāhala, Hawaii",
       "time": 1783531918790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74999176"
-    },
-    {
-      "id": "uu80144946",
-      "lon": -112.88,
-      "lat": 38.5101666666667,
-      "depth": 2.56,
-      "mag": 1.03,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1783531482520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144946"
     }
   ]
 }
