@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T04:55:24Z",
-  "count": 241,
+  "updated": "2026-07-09T05:01:35Z",
+  "count": 240,
   "points": [
     {
       "id": "ci41289639",
@@ -34,13 +34,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nlkwpe"
     },
     {
+      "id": "tx2026njgsfy",
+      "lon": -103.028,
+      "lat": 31.538,
+      "depth": 4.499,
+      "mag": 1.6,
+      "place": "4 km SW of Wickett, Texas",
+      "time": 1783570526668,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026njgsfy"
+    },
+    {
       "id": "tx2026njgqer",
-      "lon": -103.792,
-      "lat": 31.846,
-      "depth": 0,
-      "mag": 2,
-      "place": "24 km NW of Mentone, Texas",
-      "time": 1783570371780,
+      "lon": -103.3,
+      "lat": 31.979,
+      "depth": 5.3107,
+      "mag": 1.5,
+      "place": "17 km SW of Jal, New Mexico",
+      "time": 1783570377279,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026njgqer"
     },
     {
@@ -55,12 +65,12 @@
     },
     {
       "id": "tx2026njgcnk",
-      "lon": -103.54,
-      "lat": 31.172,
-      "depth": 1.0845,
-      "mag": 1.8,
-      "place": "21 km S of Lindsay, Texas",
-      "time": 1783569407261,
+      "lon": -104.115,
+      "lat": 31.53,
+      "depth": 8.5543,
+      "mag": 0.5,
+      "place": "38 km NW of Toyah, Texas",
+      "time": 1783569416663,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026njgcnk"
     },
     {
@@ -2392,26 +2402,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1783487193090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391821"
-    },
-    {
-      "id": "us6000tauz",
-      "lon": -74.7855,
-      "lat": -10.7092,
-      "depth": 10,
-      "mag": 4.7,
-      "place": "25 km NNE of Santa Rosa, Peru",
-      "time": 1783486832411,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tauz"
-    },
-    {
-      "id": "av94295393",
-      "lon": -177.143666666667,
-      "lat": 51.9568333333333,
-      "depth": 7.36,
-      "mag": 0.44,
-      "place": "36 km WNW of Adak, Alaska",
-      "time": 1783486595510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94295393"
     }
   ]
 }
