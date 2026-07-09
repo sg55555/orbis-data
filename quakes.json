@@ -1,17 +1,27 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T00:18:39Z",
-  "count": 253,
+  "updated": "2026-07-09T00:31:19Z",
+  "count": 252,
   "points": [
     {
       "id": "aka2026nlcqsd",
-      "lon": -149.837,
-      "lat": 61.789,
-      "depth": 18,
-      "mag": 2.6,
-      "place": "11 km ENE of Willow, Alaska",
-      "time": 1783556119621,
+      "lon": -149.823,
+      "lat": 61.803,
+      "depth": 23.1,
+      "mag": 2.5,
+      "place": "12 km ENE of Willow, Alaska",
+      "time": 1783556119962,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nlcqsd"
+    },
+    {
+      "id": "tx2026niyrfb",
+      "lon": -103.512,
+      "lat": 31.285,
+      "depth": 11.6207,
+      "mag": 2,
+      "place": "9 km SSE of Lindsay, Texas",
+      "time": 1783555952952,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026niyrfb"
     },
     {
       "id": "hv74999321",
@@ -392,6 +402,16 @@
       "place": "3 km WSW of Indios, Puerto Rico",
       "time": 1783541292940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523048"
+    },
+    {
+      "id": "av94296683",
+      "lon": -178.777166666667,
+      "lat": 51.801,
+      "depth": 7.67,
+      "mag": 0.12,
+      "place": "147 km W of Adak, Alaska",
+      "time": 1783541258840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94296683"
     },
     {
       "id": "pr2026189001",
@@ -2502,36 +2522,6 @@
       "place": "7 km NNW of Nordheim, Texas",
       "time": 1783471037864,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nhdtpe"
-    },
-    {
-      "id": "nc75391721",
-      "lon": -122.782836914062,
-      "lat": 38.7938346862793,
-      "depth": 3.02999997138977,
-      "mag": 1.47,
-      "place": "3 km NW of The Geysers, CA",
-      "time": 1783470465410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391721"
-    },
-    {
-      "id": "tx2026nhdjhi",
-      "lon": -97.617,
-      "lat": 28.981,
-      "depth": 8.3801,
-      "mag": 1.2,
-      "place": "6 km N of Nordheim, Texas",
-      "time": 1783470322094,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nhdjhi"
-    },
-    {
-      "id": "pr71522958",
-      "lon": -65.3893333333333,
-      "lat": 17.9883333333333,
-      "depth": 11.27,
-      "mag": 2.59,
-      "place": "14 km SE of Esperanza, Puerto Rico",
-      "time": 1783470099620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522958"
     }
   ]
 }
