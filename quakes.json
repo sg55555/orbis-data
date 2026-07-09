@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T11:36:24Z",
-  "count": 215,
+  "updated": "2026-07-09T11:45:47Z",
+  "count": 213,
   "points": [
     {
+      "id": "nc75392566",
+      "lon": -122.814002990723,
+      "lat": 38.816333770752,
+      "depth": 2.54999995231628,
+      "mag": 0.92,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1783596935200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392566"
+    },
+    {
+      "id": "nc75392561",
+      "lon": -122.710166931152,
+      "lat": 38.7888336181641,
+      "depth": 1.76999998092651,
+      "mag": 0.84,
+      "place": "2 km NW of Anderson Springs, CA",
+      "time": 1783596884720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392561"
+    },
+    {
       "id": "ci41289831",
-      "lon": -115.686332702637,
-      "lat": 32.7491683959961,
-      "depth": 9.65999984741211,
-      "mag": 1.15536850774128,
-      "place": "13 km WSW of El Centro, CA",
-      "time": 1783596815220,
+      "lon": -115.7005,
+      "lat": 32.7555,
+      "depth": 6.36,
+      "mag": 1.32,
+      "place": "14 km WSW of El Centro, CA",
+      "time": 1783596815350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289831"
     },
     {
@@ -782,6 +802,16 @@
       "place": "17 km SSW of Jal, New Mexico",
       "time": 1783557709492,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nizqep"
+    },
+    {
+      "id": "tx2026nizoph",
+      "lon": -102.149,
+      "lat": 32.357,
+      "depth": 8.5693,
+      "mag": 0.1,
+      "place": "36 km E of McKinney Acres, Texas",
+      "time": 1783557587019,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nizoph"
     },
     {
       "id": "aka2026nlcqsd",
@@ -2102,56 +2132,6 @@
       "place": "9 km WSW of Idyllwild, CA",
       "time": 1783511649910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289207"
-    },
-    {
-      "id": "uu80144906",
-      "lon": -112.883166666667,
-      "lat": 38.5096666666667,
-      "depth": 2.49,
-      "mag": 1.03,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1783511083260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144906"
-    },
-    {
-      "id": "hv74999016",
-      "lon": -155.224670410156,
-      "lat": 18.8398342132568,
-      "depth": 4.94000005722046,
-      "mag": 1.87,
-      "place": "45 km SE of Naalehu, Hawaii",
-      "time": 1783511078980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74999016"
-    },
-    {
-      "id": "us6000tawt",
-      "lon": 168.6887,
-      "lat": -20.3518,
-      "depth": 10,
-      "mag": 5.2,
-      "place": "109 km SW of Isangel, Vanuatu",
-      "time": 1783510971921,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawt"
-    },
-    {
-      "id": "ci41289199",
-      "lon": -117.663833333333,
-      "lat": 36.0665,
-      "depth": 1.72,
-      "mag": 0.96,
-      "place": "26 km E of Coso Junction, CA",
-      "time": 1783510920940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289199"
-    },
-    {
-      "id": "uw714044122",
-      "lon": -122.610333333333,
-      "lat": 48.8308333333333,
-      "depth": 19.99,
-      "mag": 1.06,
-      "place": "2 km SW of Ferndale, Washington",
-      "time": 1783510717550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714044122"
     }
   ]
 }
