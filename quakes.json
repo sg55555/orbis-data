@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-08T23:45:44Z",
-  "count": 249,
+  "updated": "2026-07-09T00:01:32Z",
+  "count": 247,
   "points": [
+    {
+      "id": "tx2026nixrbq",
+      "lon": -102.167,
+      "lat": 32.349,
+      "depth": 8.6947,
+      "mag": 1.1,
+      "place": "34 km E of McKinney Acres, Texas",
+      "time": 1783554332307,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nixrbq"
+    },
     {
       "id": "nn00921358",
       "lon": -116.3324,
@@ -55,12 +65,12 @@
     },
     {
       "id": "tx2026niwijh",
-      "lon": -104.479,
-      "lat": 31.622,
+      "lon": -104.495,
+      "lat": 31.643,
       "depth": 0,
-      "mag": 1.4,
-      "place": "62 km S of Whites City, New Mexico",
-      "time": 1783551719797,
+      "mag": 1.5,
+      "place": "60 km S of Whites City, New Mexico",
+      "time": 1783551719611,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026niwijh"
     },
     {
@@ -1644,6 +1654,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391856"
     },
     {
+      "id": "av94295688",
+      "lon": -179.082833333333,
+      "lat": 51.6518333333333,
+      "depth": 9.69,
+      "mag": 1.15,
+      "place": "170 km W of Adak, Alaska",
+      "time": 1783496574110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94295688"
+    },
+    {
       "id": "uu80144851",
       "lon": -112.881333333333,
       "lat": 38.519,
@@ -2452,46 +2472,6 @@
       "place": "14 km SE of Esperanza, Puerto Rico",
       "time": 1783470099620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522958"
-    },
-    {
-      "id": "hv74998796",
-      "lon": -155.419494628906,
-      "lat": 19.7403335571289,
-      "depth": 24.8700008392334,
-      "mag": 1.71,
-      "place": "33 km SW of Laupāhoehoe, Hawaii",
-      "time": 1783468799850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74998796"
-    },
-    {
-      "id": "nc75391711",
-      "lon": -122.444999694824,
-      "lat": 38.5736656188965,
-      "depth": -0.379999995231628,
-      "mag": 1.42,
-      "place": "0 km ESE of Angwin, CA",
-      "time": 1783468344730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391711"
-    },
-    {
-      "id": "tx2026nhcgxp",
-      "lon": -97.629,
-      "lat": 28.984,
-      "depth": 8.7047,
-      "mag": 1.2,
-      "place": "7 km NNW of Nordheim, Texas",
-      "time": 1783468343897,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nhcgxp"
-    },
-    {
-      "id": "uu80144826",
-      "lon": -112.8825,
-      "lat": 38.5175,
-      "depth": 2.22,
-      "mag": 0.51,
-      "place": "17 km NE of Milford, Utah",
-      "time": 1783468025770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144826"
     }
   ]
 }
