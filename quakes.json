@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T09:11:43Z",
-  "count": 220,
+  "updated": "2026-07-09T09:15:52Z",
+  "count": 219,
   "points": [
+    {
+      "id": "ci41289759",
+      "lon": -116.990166666667,
+      "lat": 33.9803333333333,
+      "depth": 14.04,
+      "mag": 2.16,
+      "place": "6 km NNW of Beaumont, CA",
+      "time": 1783588140980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289759"
+    },
     {
       "id": "ci41289751",
       "lon": -117.074333333333,
@@ -2182,26 +2192,6 @@
       "place": "17 km NE of Milford, Utah",
       "time": 1783502144200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144881"
-    },
-    {
-      "id": "nn00921328",
-      "lon": -116.4926,
-      "lat": 38.449,
-      "depth": 9.9141,
-      "mag": 2.25,
-      "place": "77 km ENE of Tonopah, Nevada",
-      "time": 1783502034162,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921328"
-    },
-    {
-      "id": "nc75391881",
-      "lon": -122.786499023438,
-      "lat": 38.8356666564941,
-      "depth": 1.73000001907349,
-      "mag": 1.4,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1783502021490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391881"
     }
   ]
 }
