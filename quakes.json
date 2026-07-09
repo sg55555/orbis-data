@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T17:45:51Z",
-  "count": 228,
+  "updated": "2026-07-09T18:01:22Z",
+  "count": 229,
   "points": [
+    {
+      "id": "ci41290063",
+      "lon": -116.127166666667,
+      "lat": 33.2636666666667,
+      "depth": 6.66,
+      "mag": 0.86,
+      "place": "13 km N of Ocotillo Wells, CA",
+      "time": 1783619349850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290063"
+    },
+    {
+      "id": "aka2026nmlras",
+      "lon": -150.065,
+      "lat": 61.654,
+      "depth": 15.4,
+      "mag": 2.5,
+      "place": "10 km S of Willow, Alaska",
+      "time": 1783619113713,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nmlras"
+    },
     {
       "id": "tx2026nkhklk",
       "lon": -101.953,
@@ -22,6 +42,16 @@
       "place": "4 km S of Redlands, CA",
       "time": 1783618511840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290047"
+    },
+    {
+      "id": "tx2026nkhefb",
+      "lon": -103.269,
+      "lat": 31.441,
+      "depth": 0,
+      "mag": 1.7,
+      "place": "12 km E of Barstow, Texas",
+      "time": 1783618422130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nkhefb"
     },
     {
       "id": "ci41290039",
@@ -2262,26 +2292,6 @@
       "place": "53 km SE of Cordova, Alaska",
       "time": 1783533740272,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nkqfhp"
-    },
-    {
-      "id": "ci41289343",
-      "lon": -116.647333333333,
-      "lat": 33.6013333333333,
-      "depth": 13.24,
-      "mag": 0.58,
-      "place": "6 km NNE of Anza, CA",
-      "time": 1783533535140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289343"
-    },
-    {
-      "id": "tx2026nimbmn",
-      "lon": -104.406,
-      "lat": 31.647,
-      "depth": 6.8304,
-      "mag": 1.6,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": 1783533159574,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nimbmn"
     }
   ]
 }
