@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T19:01:22Z",
-  "count": 229,
+  "updated": "2026-07-09T19:15:46Z",
+  "count": 226,
   "points": [
+    {
+      "id": "ci41290111",
+      "lon": -116.3475,
+      "lat": 33.2651666666667,
+      "depth": 2.85,
+      "mag": 0.68,
+      "place": "3 km ENE of Borrego Springs, CA",
+      "time": 1783623861800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290111"
+    },
+    {
+      "id": "ci41290103",
+      "lon": -116.127666666667,
+      "lat": 33.2556666666667,
+      "depth": 8.94,
+      "mag": 2.38,
+      "place": "13 km N of Ocotillo Wells, CA",
+      "time": 1783623742190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290103"
+    },
     {
       "id": "aka2026nmnsoa",
       "lon": -148.331,
@@ -155,12 +175,12 @@
     },
     {
       "id": "uw714045642",
-      "lon": -121.764503479004,
-      "lat": 46.8450012207031,
-      "depth": -0.129999995231628,
-      "mag": 0.769999981,
+      "lon": -121.762666666667,
+      "lat": 46.8486666666667,
+      "depth": 0.35,
+      "mag": 0.91,
       "place": "22 km ENE of Ashford, Washington",
-      "time": 1783616976860,
+      "time": 1783616976830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714045642"
     },
     {
@@ -2242,56 +2262,6 @@
       "place": "10 km NW of The Geysers, CA",
       "time": 1783538276300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392196"
-    },
-    {
-      "id": "nc75392191",
-      "lon": -120.432502746582,
-      "lat": 35.8758316040039,
-      "depth": 8.3100004196167,
-      "mag": 0.95,
-      "place": "2 km S of Parkfield, CA",
-      "time": 1783537944330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392191"
-    },
-    {
-      "id": "us7000sz2b",
-      "lon": 154.8869,
-      "lat": -61.7788,
-      "depth": 10,
-      "mag": 5.5,
-      "place": "Balleny Islands region",
-      "time": 1783537630909,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz2b"
-    },
-    {
-      "id": "nc75392186",
-      "lon": -122.842330932617,
-      "lat": 38.8191680908203,
-      "depth": 1.69000005722046,
-      "mag": 0.87,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": 1783537581450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392186"
-    },
-    {
-      "id": "aka2026nksetr",
-      "lon": -148.2,
-      "lat": 65.439,
-      "depth": 5.6,
-      "mag": 0.9,
-      "place": "18 km ESE of Livengood, Alaska",
-      "time": 1783537301356,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nksetr"
-    },
-    {
-      "id": "ci41289391",
-      "lon": -117.503166666667,
-      "lat": 33.8721666666667,
-      "depth": 1.64,
-      "mag": 1,
-      "place": "2 km ESE of Home Gardens, CA",
-      "time": 1783537298170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289391"
     }
   ]
 }
