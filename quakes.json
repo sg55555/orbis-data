@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T22:01:21Z",
-  "count": 210,
+  "updated": "2026-07-09T22:15:47Z",
+  "count": 213,
   "points": [
+    {
+      "id": "nc75392841",
+      "lon": -122.846664428711,
+      "lat": 38.8498344421387,
+      "depth": 1.26999998092651,
+      "mag": 0.72,
+      "place": "11 km WNW of Cobb, CA",
+      "time": 1783634937140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392841"
+    },
+    {
+      "id": "aka2026nmuhlm",
+      "lon": -151.622,
+      "lat": 61.212,
+      "depth": 82.9,
+      "mag": 1.6,
+      "place": "30 km WNW of Beluga, Alaska",
+      "time": 1783634642404,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nmuhlm"
+    },
     {
       "id": "aka2026nmtsmu",
       "lon": -153.978,
@@ -42,6 +62,16 @@
       "place": "61 km NNE of Cruz Bay, U.S. Virgin Islands",
       "time": 1783631466860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523208"
+    },
+    {
+      "id": "us7000szan",
+      "lon": -179.198,
+      "lat": -21.0145,
+      "depth": 625.631,
+      "mag": 4.3,
+      "place": "Fiji region",
+      "time": 1783631045489,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szan"
     },
     {
       "id": "nc75392811",
@@ -1824,6 +1854,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nlelgz"
     },
     {
+      "id": "av94297158",
+      "lon": -152.243,
+      "lat": 61.2768333333333,
+      "depth": 3,
+      "mag": -0.7,
+      "place": "63 km WNW of Tyonek, Alaska",
+      "time": 1783558831760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94297158"
+    },
+    {
       "id": "av94297138",
       "lon": -176.1515,
       "lat": 52.0836666666667,
@@ -2092,16 +2132,6 @@
       "place": "59 km S of Kingston, Nevada",
       "time": 1783549858951,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921356"
-    },
-    {
-      "id": "aka2026nkyele",
-      "lon": -147.722,
-      "lat": 64.922,
-      "depth": 5,
-      "mag": 0.9,
-      "place": "1 km NW of Farmers Loop, Alaska",
-      "time": 1783548073999,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nkyele"
     }
   ]
 }
