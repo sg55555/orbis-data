@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T00:45:45Z",
+  "updated": "2026-07-09T01:01:26Z",
   "count": 251,
   "points": [
     {
+      "id": "pr71523123",
+      "lon": -66.9056666666667,
+      "lat": 17.8553333333333,
+      "depth": 13.27,
+      "mag": 2.49,
+      "place": "12 km S of Guánica, Puerto Rico",
+      "time": 1783557900840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523123"
+    },
+    {
       "id": "tx2026nizqep",
-      "lon": -103.305,
+      "lon": -103.304,
       "lat": 31.976,
-      "depth": 4.7603,
-      "mag": 1.7,
+      "depth": 4.7348,
+      "mag": 1.6,
       "place": "18 km SW of Jal, New Mexico",
-      "time": 1783557709834,
+      "time": 1783557709837,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nizqep"
     },
     {
@@ -2502,16 +2512,6 @@
       "place": "12 km SE of Greenback, Tennessee",
       "time": 1783472633360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60505893"
-    },
-    {
-      "id": "tx2026nhejds",
-      "lon": -97.611,
-      "lat": 28.988,
-      "depth": 7.8523,
-      "mag": 1.7,
-      "place": "7 km N of Nordheim, Texas",
-      "time": 1783472116291,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nhejds"
     }
   ]
 }
