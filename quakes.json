@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T11:01:34Z",
-  "count": 218,
+  "updated": "2026-07-09T11:15:48Z",
+  "count": 216,
   "points": [
+    {
+      "id": "nc75392551",
+      "lon": -122.808670043945,
+      "lat": 38.7963333129883,
+      "depth": 3.1800000667572,
+      "mag": 0.73,
+      "place": "5 km WNW of The Geysers, CA",
+      "time": 1783594825430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392551"
+    },
     {
       "id": "ci41289815",
       "lon": -118.002333333333,
@@ -554,6 +564,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523143"
     },
     {
+      "id": "tx2026njebqp",
+      "lon": -101.769,
+      "lat": 31.893,
+      "depth": 6.1523,
+      "mag": 0.2,
+      "place": "26 km S of Stanton, Texas",
+      "time": 1783565739769,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026njebqp"
+    },
+    {
       "id": "ci41289591",
       "lon": -117.589833333333,
       "lat": 34.0256666666667,
@@ -765,12 +785,12 @@
     },
     {
       "id": "tx2026nixrbq",
-      "lon": -102.167,
-      "lat": 32.349,
-      "depth": 8.6947,
-      "mag": 1.1,
-      "place": "34 km E of McKinney Acres, Texas",
-      "time": 1783554332307,
+      "lon": -102.177,
+      "lat": 32.351,
+      "depth": 6.4352,
+      "mag": 1,
+      "place": "33 km E of McKinney Acres, Texas",
+      "time": 1783554332660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nixrbq"
     },
     {
@@ -2142,46 +2162,6 @@
       "place": "110 km SE of Kimbe, Papua New Guinea",
       "time": 1783509784023,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawr"
-    },
-    {
-      "id": "tx2026nhysot",
-      "lon": -100.621,
-      "lat": 32.713,
-      "depth": 6.2744,
-      "mag": 1.4,
-      "place": "15 km ENE of Hermleigh, Texas",
-      "time": 1783508983503,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nhysot"
-    },
-    {
-      "id": "ci41289183",
-      "lon": -116.977666666667,
-      "lat": 33.997,
-      "depth": 10.98,
-      "mag": 0.66,
-      "place": "7 km E of Calimesa, CA",
-      "time": 1783508798420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289183"
-    },
-    {
-      "id": "av93063654",
-      "lon": -176.722333333333,
-      "lat": 51.9113333333333,
-      "depth": -1.79,
-      "mag": 0.25,
-      "place": "7 km NW of Adak, Alaska",
-      "time": 1783508507690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063654"
-    },
-    {
-      "id": "ci41289175",
-      "lon": -116.744666666667,
-      "lat": 33.2761666666667,
-      "depth": 16.36,
-      "mag": 0.72,
-      "place": "4 km NNE of Lake Henshaw, CA",
-      "time": 1783508479500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289175"
     }
   ]
 }
