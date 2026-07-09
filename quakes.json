@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T01:45:53Z",
+  "updated": "2026-07-09T02:01:29Z",
   "count": 251,
   "points": [
+    {
+      "id": "nc75392376",
+      "lon": -123.197830200195,
+      "lat": 39.3443336486816,
+      "depth": 7.90000009536743,
+      "mag": 1.29,
+      "place": "9 km N of Redwood Valley, CA",
+      "time": 1783561455890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392376"
+    },
     {
       "id": "aka2026nlfipn",
       "lon": -149.834,
@@ -32,6 +42,16 @@
       "place": "30 km ENE of Bridgeport, California",
       "time": 1783560400404,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921361"
+    },
+    {
+      "id": "pr71523128",
+      "lon": -67.8303333333333,
+      "lat": 17.2478333333333,
+      "depth": 39.15,
+      "mag": 3.4,
+      "place": "105 km SW of Pole Ojea, Puerto Rico",
+      "time": 1783560079130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523128"
     },
     {
       "id": "us7000sz4q",
@@ -2492,26 +2512,6 @@
       "place": "15 km NNE of Xunchang, China",
       "time": 1783476528776,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taui"
-    },
-    {
-      "id": "ci41288999",
-      "lon": -116.483833333333,
-      "lat": 33.0225,
-      "depth": 10.03,
-      "mag": 0.96,
-      "place": "13 km ESE of Julian, CA",
-      "time": 1783475763400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288999"
-    },
-    {
-      "id": "ci41288991",
-      "lon": -118.511666666667,
-      "lat": 35.3188333333333,
-      "depth": 6.35,
-      "mag": 1.29,
-      "place": "22 km NNW of Tehachapi, CA",
-      "time": 1783475747060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288991"
     }
   ]
 }
