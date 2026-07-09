@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T06:32:30Z",
-  "count": 228,
+  "updated": "2026-07-09T06:50:47Z",
+  "count": 226,
   "points": [
+    {
+      "id": "nc75392476",
+      "lon": -122.793663024902,
+      "lat": 38.8359985351562,
+      "depth": 2.25,
+      "mag": 0.7,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1783578837320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392476"
+    },
     {
       "id": "aka2026nlozmi",
       "lon": -152.841,
@@ -1834,6 +1844,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71522998"
     },
     {
+      "id": "av94295933",
+      "lon": -174.095166666667,
+      "lat": 52.3485,
+      "depth": 3.58,
+      "mag": 0.6,
+      "place": "18 km NNE of Atka, Alaska",
+      "time": 1783504764410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94295933"
+    },
+    {
       "id": "uu80144896",
       "lon": -111.398,
       "lat": 42.3891666666667,
@@ -2242,46 +2262,6 @@
       "place": "14 km SE of Pāhala, Hawaii",
       "time": 1783494015600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74998921"
-    },
-    {
-      "id": "uu80144836",
-      "lon": -112.882833333333,
-      "lat": 38.5105,
-      "depth": 2.48,
-      "mag": 0.67,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1783493365550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144836"
-    },
-    {
-      "id": "aka2026njtrln",
-      "lon": -146.641,
-      "lat": 61.445,
-      "depth": 36.6,
-      "mag": 1.2,
-      "place": "38 km NNW of Valdez, Alaska",
-      "time": 1783493199800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026njtrln"
-    },
-    {
-      "id": "tx2026nhpvoe",
-      "lon": -104.54,
-      "lat": 31.577,
-      "depth": 2.7466,
-      "mag": 1.9,
-      "place": "65 km NNE of Van Horn, Texas",
-      "time": 1783492910549,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nhpvoe"
-    },
-    {
-      "id": "av94295578",
-      "lon": -154.825666666667,
-      "lat": 58.339,
-      "depth": 4.82,
-      "mag": 0.21,
-      "place": "88 km NNW of Karluk, Alaska",
-      "time": 1783492812810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94295578"
     }
   ]
 }
