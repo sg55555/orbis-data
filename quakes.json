@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T21:45:40Z",
-  "count": 209,
+  "updated": "2026-07-09T22:01:21Z",
+  "count": 210,
   "points": [
     {
+      "id": "aka2026nmtsmu",
+      "lon": -153.978,
+      "lat": 58.854,
+      "depth": 99.1,
+      "mag": 1.7,
+      "place": "79 km SE of Kokhanok, Alaska",
+      "time": 1783633608405,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nmtsmu"
+    },
+    {
       "id": "aka2026nmtoia",
-      "lon": -147.365,
-      "lat": 61.932,
-      "depth": 13.2,
-      "mag": 2.8,
-      "place": "10 km W of Eureka Roadhouse, Alaska",
-      "time": 1783633320821,
+      "lon": -147.405,
+      "lat": 61.962,
+      "depth": 0.1,
+      "mag": 2.9,
+      "place": "12 km WNW of Eureka Roadhouse, Alaska",
+      "time": 1783633319494,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nmtoia"
     },
     {
@@ -1814,6 +1824,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nlelgz"
     },
     {
+      "id": "av94297138",
+      "lon": -176.1515,
+      "lat": 52.0836666666667,
+      "depth": 5.2,
+      "mag": -0.27,
+      "place": "40 km NE of Adak, Alaska",
+      "time": 1783558342800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94297138"
+    },
+    {
       "id": "pr71523123",
       "lon": -66.9056666666667,
       "lat": 17.8553333333333,
@@ -2082,16 +2102,6 @@
       "place": "1 km NW of Farmers Loop, Alaska",
       "time": 1783548073999,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nkyele"
-    },
-    {
-      "id": "ci41289455",
-      "lon": -117.1905,
-      "lat": 33.2573333333333,
-      "depth": -0.38,
-      "mag": 1.09,
-      "place": "8 km NE of Vista, CA",
-      "time": 1783547187620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289455"
     }
   ]
 }
