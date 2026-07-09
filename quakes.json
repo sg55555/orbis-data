@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T06:15:47Z",
-  "count": 231,
+  "updated": "2026-07-09T06:32:30Z",
+  "count": 228,
   "points": [
     {
+      "id": "aka2026nlozmi",
+      "lon": -152.841,
+      "lat": 60.071,
+      "depth": 98.2,
+      "mag": 1.6,
+      "place": "63 km WNW of Happy Valley, Alaska",
+      "time": 1783578317480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nlozmi"
+    },
+    {
+      "id": "tx2026njkxse",
+      "lon": -104.43,
+      "lat": 31.632,
+      "depth": 9.7108,
+      "mag": 0.7,
+      "place": "60 km S of Whites City, New Mexico",
+      "time": 1783578143644,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026njkxse"
+    },
+    {
       "id": "uw714045412",
-      "lon": -121.119667053223,
-      "lat": 46.72216796875,
-      "depth": -0.529999971389771,
-      "mag": 2.6714391708374,
+      "lon": -121.120333333333,
+      "lat": 46.7241666666667,
+      "depth": 8.65,
+      "mag": 2.62,
       "place": "17 km SW of Nile, Washington",
-      "time": 1783577097360,
+      "time": 1783577097470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714045412"
     },
     {
@@ -2262,56 +2282,6 @@
       "place": "88 km NNW of Karluk, Alaska",
       "time": 1783492812810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94295578"
-    },
-    {
-      "id": "hv74998901",
-      "lon": -155.516833333333,
-      "lat": 19.9461666666667,
-      "depth": 41.71,
-      "mag": 2,
-      "place": "15 km SSW of Honoka‘a, Hawaii",
-      "time": 1783492332120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74998901"
-    },
-    {
-      "id": "hv74998896",
-      "lon": -155.401672363281,
-      "lat": 19.2501659393311,
-      "depth": 28.6800003051758,
-      "mag": 1.72,
-      "place": "9 km ENE of Pāhala, Hawaii",
-      "time": 1783492288910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74998896"
-    },
-    {
-      "id": "ci41289119",
-      "lon": -117.8105,
-      "lat": 35.2963333333333,
-      "depth": 6.96,
-      "mag": 1.05,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1783491564880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289119"
-    },
-    {
-      "id": "ci41289111",
-      "lon": -117.806666666667,
-      "lat": 35.2938333333333,
-      "depth": 7.42,
-      "mag": 1.49,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1783491522400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289111"
-    },
-    {
-      "id": "ci41289103",
-      "lon": -116.6035,
-      "lat": 33.1613333333333,
-      "depth": 4.82,
-      "mag": 0.54,
-      "place": "9 km N of Julian, CA",
-      "time": 1783491300830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289103"
     }
   ]
 }
