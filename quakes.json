@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T20:54:24Z",
-  "count": 215,
+  "updated": "2026-07-09T21:01:23Z",
+  "count": 211,
   "points": [
+    {
+      "id": "nc75392801",
+      "lon": -121.014503479004,
+      "lat": 38.3886680603027,
+      "depth": 0.419999986886978,
+      "mag": 2.26,
+      "place": "8 km WNW of Ione, CA",
+      "time": 1783630491350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392801"
+    },
     {
       "id": "nc75392781",
       "lon": -122.798500061035,
@@ -225,12 +235,12 @@
     },
     {
       "id": "ci41290047",
-      "lon": -117.188333333333,
-      "lat": 34.0201666666667,
-      "depth": 3.66,
-      "mag": 1.33,
+      "lon": -117.1875,
+      "lat": 34.0195,
+      "depth": 3.4,
+      "mag": 1.24,
       "place": "4 km S of Redlands, CA",
-      "time": 1783618511840,
+      "time": 1783618511800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290047"
     },
     {
@@ -2102,56 +2112,6 @@
       "place": "7 km NW of La Mesa, CA",
       "time": 1783544473080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289423"
-    },
-    {
-      "id": "tx2026nishwq",
-      "lon": -103.431,
-      "lat": 31.312,
-      "depth": 5.4846,
-      "mag": 1.9,
-      "place": "11 km ESE of Lindsay, Texas",
-      "time": 1783544463612,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nishwq"
-    },
-    {
-      "id": "nc75392276",
-      "lon": -122.765830993652,
-      "lat": 38.8171653747559,
-      "depth": 1.67999994754791,
-      "mag": 1.31,
-      "place": "4 km W of Cobb, CA",
-      "time": 1783544459220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392276"
-    },
-    {
-      "id": "nc75392271",
-      "lon": -122.785499572754,
-      "lat": 38.8346672058105,
-      "depth": 1.91999995708466,
-      "mag": 1.11,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1783544403870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392271"
-    },
-    {
-      "id": "uw714044732",
-      "lon": -120.73,
-      "lat": 46.719,
-      "depth": 3.82,
-      "mag": 0.66,
-      "place": "2 km WSW of Naches, Washington",
-      "time": 1783544210050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714044732"
-    },
-    {
-      "id": "av94296758",
-      "lon": -152.328833333333,
-      "lat": 61.2935,
-      "depth": 1.44,
-      "mag": -0.11,
-      "place": "68 km WNW of Tyonek, Alaska",
-      "time": 1783544193960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94296758"
     }
   ]
 }
