@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T23:01:30Z",
-  "count": 219,
+  "updated": "2026-07-09T23:15:43Z",
+  "count": 221,
   "points": [
     {
       "id": "tx2026nkrsqq",
@@ -12,6 +12,16 @@
       "place": "44 km W of Mentone, Texas",
       "time": 1783637590322,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nkrsqq"
+    },
+    {
+      "id": "aka2026nmvcpx",
+      "lon": -157.01,
+      "lat": 56.245,
+      "depth": 5.6,
+      "mag": 2.5,
+      "place": "86 km E of Chignik, Alaska",
+      "time": 1783636108695,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nmvcpx"
     },
     {
       "id": "nc75392841",
@@ -1374,6 +1384,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289711"
     },
     {
+      "id": "av94297738",
+      "lon": -164.636166666667,
+      "lat": 54.5165,
+      "depth": 1.75,
+      "mag": 0.83,
+      "place": "85 km ENE of Akutan, Alaska",
+      "time": 1783583587200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94297738"
+    },
+    {
+      "id": "av94297723",
+      "lon": -169.856833333333,
+      "lat": 52.7985,
+      "depth": 6.57,
+      "mag": 0.39,
+      "place": "68 km WSW of Nikolski, Alaska",
+      "time": 1783583289110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94297723"
+    },
+    {
       "id": "ci41289703",
       "lon": -118.236166666667,
       "lat": 34.1983333333333,
@@ -2182,16 +2212,6 @@
       "place": "23 km ENE of Ashford, Washington",
       "time": 1783552716740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714044942"
-    },
-    {
-      "id": "hv74999306",
-      "lon": -155.378173828125,
-      "lat": 19.0393333435059,
-      "depth": 33.2099990844727,
-      "mag": 1.83,
-      "place": "20 km SSE of Pāhala, Hawaii",
-      "time": 1783551966460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74999306"
     }
   ]
 }
