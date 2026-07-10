@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T04:37:10Z",
-  "count": 208,
+  "updated": "2026-07-10T04:45:48Z",
+  "count": 210,
   "points": [
     {
+      "id": "ci41290279",
+      "lon": -116.512,
+      "lat": 33.1568333333333,
+      "depth": 5.76,
+      "mag": 0.34,
+      "place": "12 km NE of Julian, CA",
+      "time": 1783658367480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290279"
+    },
+    {
+      "id": "ci41290271",
+      "lon": -118.907666666667,
+      "lat": 35.0721666666667,
+      "depth": 18.9,
+      "mag": 1.14,
+      "place": "14 km N of Grapevine, CA",
+      "time": 1783658212190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290271"
+    },
+    {
       "id": "tx2026nldbrm",
-      "lon": -103.978,
-      "lat": 31.511,
-      "depth": 6.8005,
-      "mag": 1,
-      "place": "27 km NW of Toyah, Texas",
-      "time": 1783658069340,
+      "lon": -103.988,
+      "lat": 31.535,
+      "depth": 8.0735,
+      "mag": 0.8,
+      "place": "30 km NW of Toyah, Texas",
+      "time": 1783658069092,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nldbrm"
     },
     {
@@ -1174,6 +1194,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289903"
     },
     {
+      "id": "av94298378",
+      "lon": -166.6285,
+      "lat": 53.893,
+      "depth": 7.28,
+      "mag": -0.22,
+      "place": "5 km W of Dutch Harbor, Alaska",
+      "time": 1783607233760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94298378"
+    },
+    {
       "id": "ci41289895",
       "lon": -115.597666666667,
       "lat": 33.1723333333333,
@@ -2072,16 +2102,6 @@
       "place": "9 km WSW of Idyllwild, CA",
       "time": 1783572551080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289639"
-    },
-    {
-      "id": "av94297453",
-      "lon": -152.814,
-      "lat": 60.671,
-      "depth": 9.17,
-      "mag": -0.19,
-      "place": "82 km W of Salamatof, Alaska",
-      "time": 1783572212770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94297453"
     }
   ]
 }
