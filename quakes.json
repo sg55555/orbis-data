@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T17:45:57Z",
-  "count": 203,
+  "updated": "2026-07-10T17:57:06Z",
+  "count": 201,
   "points": [
     {
       "id": "nc75393336",
@@ -864,6 +864,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nnohxo"
     },
     {
+      "id": "uw714046112",
+      "lon": -121.739333333333,
+      "lat": 46.8316666666667,
+      "depth": -2.58,
+      "mag": 0.62,
+      "place": "23 km ENE of Ashford, Washington",
+      "time": 1783670436580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714046112"
+    },
+    {
       "id": "nc75393126",
       "lon": -122.815002441406,
       "lat": 38.8279991149902,
@@ -1255,12 +1265,12 @@
     },
     {
       "id": "ci41290263",
-      "lon": -117.813666666667,
-      "lat": 35.3126666666667,
-      "depth": 7.68,
-      "mag": 1.38,
+      "lon": -117.814,
+      "lat": 35.3136666666667,
+      "depth": 8.21,
+      "mag": 1.37,
       "place": "18 km WSW of Johannesburg, CA",
-      "time": 1783657986140,
+      "time": 1783657986070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290263"
     },
     {
@@ -2002,36 +2012,6 @@
       "place": "83 km NE of Akutan, Alaska",
       "time": 1783620157350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063769"
-    },
-    {
-      "id": "us7000sz8z",
-      "lon": 124.9069,
-      "lat": 5.2785,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "59 km WSW of Balangonan, Philippines",
-      "time": 1783619413161,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz8z"
-    },
-    {
-      "id": "ci41290063",
-      "lon": -116.128,
-      "lat": 33.2603333333333,
-      "depth": 7.36,
-      "mag": 0.87,
-      "place": "13 km N of Ocotillo Wells, CA",
-      "time": 1783619349870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290063"
-    },
-    {
-      "id": "aka2026nmlras",
-      "lon": -150.065,
-      "lat": 61.654,
-      "depth": 15.4,
-      "mag": 2.5,
-      "place": "10 km S of Willow, Alaska",
-      "time": 1783619113713,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nmlras"
     }
   ]
 }
