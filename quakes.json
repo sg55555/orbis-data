@@ -1,14 +1,24 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T13:45:46Z",
+  "updated": "2026-07-10T14:01:34Z",
   "count": 217,
   "points": [
     {
+      "id": "nc75393236",
+      "lon": -122.845664978027,
+      "lat": 38.8419990539551,
+      "depth": 13.3800001144409,
+      "mag": 0.46,
+      "place": "11 km NW of The Geysers, CA",
+      "time": 1783691035210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393236"
+    },
+    {
       "id": "ci41290479",
-      "lon": -116.79467010498,
-      "lat": 33.679500579834,
-      "depth": 16.7900009155273,
-      "mag": 1.7085931586463,
+      "lon": -116.796666666667,
+      "lat": 33.6766666666667,
+      "depth": 16.68,
+      "mag": 1.55,
       "place": "10 km SW of Idyllwild, CA",
       "time": 1783690937480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290479"
@@ -2162,16 +2172,6 @@
       "place": "95 km NNW of Karluk, Alaska",
       "time": 1783605794140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94298358"
-    },
-    {
-      "id": "ci41289871",
-      "lon": -116.7095,
-      "lat": 33.5393333333333,
-      "depth": 5.97,
-      "mag": 0.14,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1783605462310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289871"
     }
   ]
 }
