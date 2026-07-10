@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T03:15:47Z",
+  "updated": "2026-07-10T03:31:10Z",
   "count": 206,
   "points": [
+    {
+      "id": "nc75392991",
+      "lon": -122.768333435059,
+      "lat": 38.7893333435059,
+      "depth": 0.779999971389771,
+      "mag": 1.05,
+      "place": "2 km NW of The Geysers, CA",
+      "time": 1783653974820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392991"
+    },
     {
       "id": "ci41290247",
       "lon": -117.809,
@@ -32,6 +42,16 @@
       "place": "21 km SSE of Pāhala, Hawaii",
       "time": 1783650968730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74999951"
+    },
+    {
+      "id": "us7000szcl",
+      "lon": 170.0576,
+      "lat": -22.3465,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "241 km ESE of Tadine, New Caledonia",
+      "time": 1783650894493,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szcl"
     },
     {
       "id": "nc75392956",
@@ -2042,26 +2062,6 @@
       "place": "20 km ENE of Little Lake, CA",
       "time": 1783567949520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289607"
-    },
-    {
-      "id": "tx2026njfdgr",
-      "lon": -101.702,
-      "lat": 31.873,
-      "depth": 7.7637,
-      "mag": 0.8,
-      "place": "20 km W of Garden City, Texas",
-      "time": 1783567658755,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026njfdgr"
-    },
-    {
-      "id": "uw714045332",
-      "lon": -122.318333333333,
-      "lat": 46.1776666666667,
-      "depth": 9.88,
-      "mag": 0.33,
-      "place": "31 km NNE of Amboy, Washington",
-      "time": 1783567249340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714045332"
     }
   ]
 }
