@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T15:15:48Z",
-  "count": 212,
+  "updated": "2026-07-10T15:31:18Z",
+  "count": 208,
   "points": [
+    {
+      "id": "tx2026nlynjs",
+      "lon": -101.832,
+      "lat": 32.249,
+      "depth": 3.934,
+      "mag": 1.3,
+      "place": "13 km NNW of Stanton, Texas",
+      "time": 1783696896512,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nlynjs"
+    },
     {
       "id": "tx2026nlyaft",
       "lon": -103.326,
@@ -132,26 +142,6 @@
       "place": "6 km NW of Redwood Valley, CA",
       "time": 1783690445710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393231"
-    },
-    {
-      "id": "tx2026nluxkk",
-      "lon": -103.631,
-      "lat": 30.912,
-      "depth": 0,
-      "mag": 1.7,
-      "place": "13 km SE of Balmorhea, Texas",
-      "time": 1783690353183,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nluxkk"
-    },
-    {
-      "id": "tx2026nlutgc",
-      "lon": -104.489,
-      "lat": 31.659,
-      "depth": 1.9906,
-      "mag": 0.8,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": 1783690061400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nlutgc"
     },
     {
       "id": "ci41290471",
@@ -1315,12 +1305,12 @@
     },
     {
       "id": "tx2026nkqsbh",
-      "lon": -103.648,
-      "lat": 31.455,
-      "depth": 10.4387,
-      "mag": 1.7,
-      "place": "14 km NW of Lindsay, Texas",
-      "time": 1783635663754,
+      "lon": -103.16,
+      "lat": 31.557,
+      "depth": 5.2026,
+      "mag": 1.6,
+      "place": "4 km NW of Pyote, Texas",
+      "time": 1783635670057,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nkqsbh"
     },
     {
@@ -2092,36 +2082,6 @@
       "place": "20 km NE of Little Lake, CA",
       "time": 1783611307200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289959"
-    },
-    {
-      "id": "ci41289951",
-      "lon": -117.059,
-      "lat": 34.2078333333333,
-      "depth": 2.24,
-      "mag": 0.85,
-      "place": "5 km E of Running Springs, CA",
-      "time": 1783610717910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289951"
-    },
-    {
-      "id": "ci41289943",
-      "lon": -117.7245,
-      "lat": 36.0361666666667,
-      "depth": 1.92,
-      "mag": 1.12,
-      "place": "20 km NE of Little Lake, CA",
-      "time": 1783610584050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289943"
-    },
-    {
-      "id": "av94298483",
-      "lon": -177.2345,
-      "lat": 51.9508333333333,
-      "depth": 12.58,
-      "mag": 0.17,
-      "place": "42 km WNW of Adak, Alaska",
-      "time": 1783610347630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94298483"
     }
   ]
 }
