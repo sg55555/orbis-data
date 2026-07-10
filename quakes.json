@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T04:45:48Z",
-  "count": 210,
+  "updated": "2026-07-10T05:01:30Z",
+  "count": 211,
   "points": [
+    {
+      "id": "nc75393036",
+      "lon": -124.80883026123,
+      "lat": 40.3969993591309,
+      "depth": 1.37999999523163,
+      "mag": 2.47,
+      "place": "45 km W of Petrolia, CA",
+      "time": 1783658621620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393036"
+    },
     {
       "id": "ci41290279",
       "lon": -116.512,
@@ -75,12 +85,12 @@
     },
     {
       "id": "tx2026nlbxrb",
-      "lon": -103.658,
-      "lat": 30.855,
-      "depth": 0,
-      "mag": 2,
-      "place": "16 km SSE of Balmorhea, Texas",
-      "time": 1783655973738,
+      "lon": -103.625,
+      "lat": 31.484,
+      "depth": 11.8204,
+      "mag": 1,
+      "place": "14 km WNW of Pecos, Texas",
+      "time": 1783655971792,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nlbxrb"
     },
     {
@@ -1114,6 +1124,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523173"
     },
     {
+      "id": "av94298468",
+      "lon": -177.214,
+      "lat": 52.0513333333333,
+      "depth": 20.66,
+      "mag": 1.72,
+      "place": "44 km WNW of Adak, Alaska",
+      "time": 1783609785420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94298468"
+    },
+    {
       "id": "nn00921395",
       "lon": -115.2876,
       "lat": 36.0759,
@@ -2092,16 +2112,6 @@
       "place": "4 km NW of The Geysers, CA",
       "time": 1783573932920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392456"
-    },
-    {
-      "id": "ci41289639",
-      "lon": -116.808166666667,
-      "lat": 33.7083333333333,
-      "depth": 17.22,
-      "mag": 0.49,
-      "place": "9 km WSW of Idyllwild, CA",
-      "time": 1783572551080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289639"
     }
   ]
 }
