@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T21:45:49Z",
-  "count": 219,
+  "updated": "2026-07-10T22:01:26Z",
+  "count": 218,
   "points": [
+    {
+      "id": "nc75393481",
+      "lon": -122.787498474121,
+      "lat": 38.7970008850098,
+      "depth": 0.0900000035762787,
+      "mag": 1.14,
+      "place": "3 km NW of The Geysers, CA",
+      "time": 1783719899210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393481"
+    },
     {
       "id": "aka2026nopods",
       "lon": -148.641,
@@ -77,10 +87,10 @@
       "id": "tx2026nmjvrm",
       "lon": -103.155,
       "lat": 31.503,
-      "depth": 3.7264,
+      "depth": 3.7581,
       "mag": 1.7,
       "place": "4 km SW of Pyote, Texas",
-      "time": 1783717386768,
+      "time": 1783717386770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nmjvrm"
     },
     {
@@ -115,12 +125,12 @@
     },
     {
       "id": "ci41290863",
-      "lon": -116.894833333333,
-      "lat": 33.9431666666667,
-      "depth": 4.71,
+      "lon": -116.894,
+      "lat": 33.9408333333333,
+      "depth": 3.69,
       "mag": 0.79,
-      "place": "3 km NW of Banning, CA",
-      "time": 1783715885190,
+      "place": "2 km NW of Banning, CA",
+      "time": 1783715885160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290863"
     },
     {
@@ -305,10 +315,10 @@
     },
     {
       "id": "ci41290775",
-      "lon": -117.809333333333,
-      "lat": 35.3091666666667,
-      "depth": 7.91,
-      "mag": 0.9,
+      "lon": -117.811666666667,
+      "lat": 35.3106666666667,
+      "depth": 7.69,
+      "mag": 1.05,
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1783709133840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290775"
@@ -2172,26 +2182,6 @@
       "place": "36 km SSW of Los Ybanez, Texas",
       "time": 1783634578961,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nkqadb"
-    },
-    {
-      "id": "us7000szaw",
-      "lon": 126.7066,
-      "lat": 1.9145,
-      "depth": 22.683,
-      "mag": 4.5,
-      "place": "145 km NNW of Ternate, Indonesia",
-      "time": 1783634149769,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szaw"
-    },
-    {
-      "id": "aka2026nmtsmu",
-      "lon": -153.978,
-      "lat": 58.854,
-      "depth": 99.1,
-      "mag": 1.7,
-      "place": "79 km SE of Kokhanok, Alaska",
-      "time": 1783633608405,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nmtsmu"
     }
   ]
 }
