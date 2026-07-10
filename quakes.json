@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T07:01:25Z",
-  "count": 224,
+  "updated": "2026-07-10T07:15:48Z",
+  "count": 225,
   "points": [
+    {
+      "id": "hv75000071",
+      "lon": -155.373992919922,
+      "lat": 19.046667098999,
+      "depth": 33.1599998474121,
+      "mag": 2.44,
+      "place": "20 km SSE of Pāhala, Hawaii",
+      "time": 1783667239680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000071"
+    },
+    {
+      "id": "nc75393096",
+      "lon": -122.484664916992,
+      "lat": 38.4421653747559,
+      "depth": 3.83999991416931,
+      "mag": 1.14,
+      "place": "6 km ENE of Kenwood, CA",
+      "time": 1783667218180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393096"
+    },
+    {
+      "id": "ci41290327",
+      "lon": -117.7865,
+      "lat": 35.3601666666667,
+      "depth": 6.21,
+      "mag": 1.22,
+      "place": "14 km W of Johannesburg, CA",
+      "time": 1783666854090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290327"
+    },
     {
       "id": "tx2026nlhouk",
       "lon": -104.191,
@@ -792,6 +822,16 @@
       "place": "3 km N of The Geysers, CA",
       "time": 1783627835400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392766"
+    },
+    {
+      "id": "av93063779",
+      "lon": -166.969833333333,
+      "lat": 53.8778333333333,
+      "depth": 7.96,
+      "mag": -0.22,
+      "place": "28 km W of Dutch Harbor, Alaska",
+      "time": 1783627781800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063779"
     },
     {
       "id": "us7000sza0",
@@ -2212,36 +2252,6 @@
       "place": "3 km NNE of Glendale, CA",
       "time": 1783582183100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289703"
-    },
-    {
-      "id": "tx2026njmimq",
-      "lon": -102.07,
-      "lat": 32.427,
-      "depth": 8.5693,
-      "mag": 0.6,
-      "place": "35 km WSW of Ackerly, Texas",
-      "time": 1783580694393,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026njmimq"
-    },
-    {
-      "id": "ci41289687",
-      "lon": -117.205,
-      "lat": 34.0066666666667,
-      "depth": 13.57,
-      "mag": 0.96,
-      "place": "6 km SSW of Redlands, CA",
-      "time": 1783580665820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289687"
-    },
-    {
-      "id": "ci41289679",
-      "lon": -117.679666666667,
-      "lat": 35.8525,
-      "depth": 8.68,
-      "mag": 0.56,
-      "place": "22 km ESE of Little Lake, CA",
-      "time": 1783580510610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289679"
     }
   ]
 }
