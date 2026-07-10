@@ -1,14 +1,44 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T13:32:01Z",
-  "count": 215,
+  "updated": "2026-07-10T13:45:46Z",
+  "count": 217,
   "points": [
+    {
+      "id": "ci41290479",
+      "lon": -116.79467010498,
+      "lat": 33.679500579834,
+      "depth": 16.7900009155273,
+      "mag": 1.7085931586463,
+      "place": "10 km SW of Idyllwild, CA",
+      "time": 1783690937480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290479"
+    },
+    {
+      "id": "nc75393231",
+      "lon": -123.24633026123,
+      "lat": 39.3125,
+      "depth": 2.00999999046326,
+      "mag": 1.28,
+      "place": "6 km NW of Redwood Valley, CA",
+      "time": 1783690445710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393231"
+    },
+    {
+      "id": "tx2026nluxkk",
+      "lon": -103.631,
+      "lat": 30.912,
+      "depth": 0,
+      "mag": 1.7,
+      "place": "13 km SE of Balmorhea, Texas",
+      "time": 1783690353183,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nluxkk"
+    },
     {
       "id": "tx2026nlutgc",
       "lon": -104.489,
       "lat": 31.659,
       "depth": 1.9906,
-      "mag": 0.9,
+      "mag": 0.8,
       "place": "58 km S of Whites City, New Mexico",
       "time": 1783690061400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nlutgc"
@@ -1385,12 +1415,12 @@
     },
     {
       "id": "tx2026nkldsr",
-      "lon": -104.382,
-      "lat": 31.614,
-      "depth": 4.1521,
-      "mag": 1.8,
-      "place": "62 km S of Whites City, New Mexico",
-      "time": 1783625620143,
+      "lon": -104.367,
+      "lat": 31.635,
+      "depth": 6.0999,
+      "mag": 1.7,
+      "place": "59 km S of Whites City, New Mexico",
+      "time": 1783625620227,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nkldsr"
     },
     {
@@ -2142,16 +2172,6 @@
       "place": "4 km WSW of Anza, CA",
       "time": 1783605462310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289871"
-    },
-    {
-      "id": "nc75392601",
-      "lon": -124.373497009277,
-      "lat": 40.3051681518555,
-      "depth": 6.32999992370605,
-      "mag": 1.67,
-      "place": "8 km WSW of Petrolia, CA",
-      "time": 1783603915270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392601"
     }
   ]
 }
