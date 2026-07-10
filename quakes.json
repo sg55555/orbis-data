@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T02:45:48Z",
-  "count": 210,
+  "updated": "2026-07-10T03:01:24Z",
+  "count": 208,
   "points": [
     {
+      "id": "ci41290247",
+      "lon": -117.809,
+      "lat": 35.3146666666667,
+      "depth": 7.36,
+      "mag": 2.04,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1783651537050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290247"
+    },
+    {
+      "id": "ci41290239",
+      "lon": -117.8125,
+      "lat": 35.313,
+      "depth": 7.5,
+      "mag": 2.04,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1783651507480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290239"
+    },
+    {
       "id": "hv74999951",
-      "lon": -155.382659912109,
-      "lat": 19.019832611084,
-      "depth": 31.3999996185303,
-      "mag": 2.15,
-      "place": "21 km ESE of Naalehu, Hawaii",
-      "time": 1783650968640,
+      "lon": -155.380166666667,
+      "lat": 19.037,
+      "depth": 32.94,
+      "mag": 2.04,
+      "place": "21 km SSE of Pāhala, Hawaii",
+      "time": 1783650968750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74999951"
     },
     {
@@ -25,12 +45,12 @@
     },
     {
       "id": "tx2026nkymcd",
-      "lon": -103.745,
-      "lat": 32.166,
-      "depth": 1.9206,
-      "mag": 0.9,
-      "place": "31 km ESE of Malaga, New Mexico",
-      "time": 1783649737172,
+      "lon": -103.658,
+      "lat": 31.058,
+      "depth": 0,
+      "mag": 1.4,
+      "place": "11 km NE of Balmorhea, Texas",
+      "time": 1783649735960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nkymcd"
     },
     {
@@ -945,12 +965,12 @@
     },
     {
       "id": "nn00921395",
-      "lon": -115.4313,
-      "lat": 35.9476,
-      "depth": 15.98,
-      "mag": 1.98,
-      "place": "11 km SSW of Blue Diamond, Nevada",
-      "time": 1783609687928,
+      "lon": -115.2876,
+      "lat": 36.0759,
+      "depth": 8.7799,
+      "mag": 1.75,
+      "place": "5 km SW of Spring Valley, Nevada",
+      "time": 1783609688613,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921395"
     },
     {
@@ -2062,46 +2082,6 @@
       "place": "10 km WNW of The Geysers, CA",
       "time": 1783566104080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392426"
-    },
-    {
-      "id": "av94297298",
-      "lon": -176.188333333333,
-      "lat": 52.078,
-      "depth": 11.04,
-      "mag": -0.12,
-      "place": "38 km NE of Adak, Alaska",
-      "time": 1783565894880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94297298"
-    },
-    {
-      "id": "pr71523143",
-      "lon": -66.8375,
-      "lat": 17.979,
-      "depth": 16.58,
-      "mag": 2.25,
-      "place": "2 km SW of Indios, Puerto Rico",
-      "time": 1783565815740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523143"
-    },
-    {
-      "id": "tx2026njebqp",
-      "lon": -101.769,
-      "lat": 31.893,
-      "depth": 6.1523,
-      "mag": 0.2,
-      "place": "26 km S of Stanton, Texas",
-      "time": 1783565739769,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026njebqp"
-    },
-    {
-      "id": "tx2026njdzxt",
-      "lon": -102.057,
-      "lat": 32.357,
-      "depth": 6.8604,
-      "mag": 0.1,
-      "place": "35 km NW of Stanton, Texas",
-      "time": 1783565619035,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026njdzxt"
     }
   ]
 }
