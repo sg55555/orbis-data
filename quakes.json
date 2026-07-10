@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T05:31:18Z",
-  "count": 216,
+  "updated": "2026-07-10T05:45:52Z",
+  "count": 214,
   "points": [
+    {
+      "id": "hv75000031",
+      "lon": -155.246673583984,
+      "lat": 19.3126659393311,
+      "depth": 5.34000015258789,
+      "mag": 1.71,
+      "place": "14 km S of Volcano, Hawaii",
+      "time": 1783661386960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000031"
+    },
     {
       "id": "aka2026nnizzf",
       "lon": -152.292,
@@ -1335,12 +1345,12 @@
     },
     {
       "id": "nn00921389",
-      "lon": -115.319,
-      "lat": 37.1047,
-      "depth": 0.0279,
-      "mag": 1.61,
-      "place": "31 km SSW of Alamo, Nevada",
-      "time": 1783606457013,
+      "lon": -115.3102,
+      "lat": 37.1305,
+      "depth": 10.9579,
+      "mag": 1.78,
+      "place": "29 km SSW of Alamo, Nevada",
+      "time": 1783606457656,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921389"
     },
     {
@@ -2132,36 +2142,6 @@
       "place": "17 km SW of Nile, Washington",
       "time": 1783576983280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714045402"
-    },
-    {
-      "id": "nc75392466",
-      "lon": -122.758331298828,
-      "lat": 38.77783203125,
-      "depth": 0.939999997615814,
-      "mag": 0.76,
-      "place": "0 km WNW of The Geysers, CA",
-      "time": 1783575690940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392466"
-    },
-    {
-      "id": "tx2026njjmxr",
-      "lon": -98.967,
-      "lat": 28.829,
-      "depth": 6.6984,
-      "mag": 1.7,
-      "place": "14 km ESE of Pearsall, Texas",
-      "time": 1783575568322,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026njjmxr"
-    },
-    {
-      "id": "nc75392461",
-      "lon": -122.797500610352,
-      "lat": 38.8256683349609,
-      "depth": 2.19000005722046,
-      "mag": 1.48,
-      "place": "6 km NNW of The Geysers, CA",
-      "time": 1783575347590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392461"
     }
   ]
 }
