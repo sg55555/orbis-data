@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T17:24:57Z",
-  "count": 207,
+  "updated": "2026-07-10T17:31:21Z",
+  "count": 206,
   "points": [
+    {
+      "id": "ci41290695",
+      "lon": -114.9935,
+      "lat": 33.0511666666667,
+      "depth": 2.11,
+      "mag": 1.63,
+      "place": "45 km NE of Holtville, CA",
+      "time": 1783704426370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290695"
+    },
+    {
+      "id": "ci41290687",
+      "lon": -115.636666666667,
+      "lat": 32.7701666666667,
+      "depth": 9.87,
+      "mag": 1.57,
+      "place": "8 km WSW of El Centro, CA",
+      "time": 1783704230590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290687"
+    },
     {
       "id": "ci41290679",
       "lon": -119.607,
@@ -1125,12 +1145,12 @@
     },
     {
       "id": "uw714046042",
-      "lon": -122.779502868652,
-      "lat": 47.4793319702148,
-      "depth": 15.7200002670288,
-      "mag": 1.65149366855621,
-      "place": "4 km NE of Belfair, Washington",
-      "time": 1783660585120,
+      "lon": -122.767666666667,
+      "lat": 47.4771666666667,
+      "depth": 16.36,
+      "mag": 1.5,
+      "place": "5 km ENE of Belfair, Washington",
+      "time": 1783660585140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714046042"
     },
     {
@@ -2042,36 +2062,6 @@
       "place": "16 km NE of Milford, Utah",
       "time": 1783618342990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145061"
-    },
-    {
-      "id": "ci10245750",
-      "lon": -117.1935,
-      "lat": 34.026,
-      "depth": 5.24,
-      "mag": 0.88,
-      "place": "3 km SSW of Redlands, CA",
-      "time": 1783618162630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10245750"
-    },
-    {
-      "id": "ci41290039",
-      "lon": -117.1895,
-      "lat": 34.0183333333333,
-      "depth": 3.41,
-      "mag": 0.87,
-      "place": "4 km S of Redlands, CA",
-      "time": 1783618147160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290039"
-    },
-    {
-      "id": "hv74999666",
-      "lon": -155.419666666667,
-      "lat": 19.1553333333333,
-      "depth": 31.56,
-      "mag": 1.7,
-      "place": "8 km SE of Pāhala, Hawaii",
-      "time": 1783617889170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74999666"
     }
   ]
 }
