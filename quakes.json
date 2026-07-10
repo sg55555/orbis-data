@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T11:45:43Z",
-  "count": 213,
+  "updated": "2026-07-10T12:01:36Z",
+  "count": 212,
   "points": [
+    {
+      "id": "ci41290407",
+      "lon": -116.701166666667,
+      "lat": 33.6571666666667,
+      "depth": 15.38,
+      "mag": 1.12,
+      "place": "9 km S of Idyllwild, CA",
+      "time": 1783684585770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290407"
+    },
     {
       "id": "aka2026nnvmlj",
       "lon": -148.42,
@@ -692,16 +702,6 @@
       "place": "5 km NW of The Geysers, CA",
       "time": 1783657071910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393016"
-    },
-    {
-      "id": "tx2026nlbxrb",
-      "lon": -103.625,
-      "lat": 31.484,
-      "depth": 11.8204,
-      "mag": 1,
-      "place": "14 km WNW of Pecos, Texas",
-      "time": 1783655971792,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nlbxrb"
     },
     {
       "id": "nc75393001",
@@ -2122,16 +2122,6 @@
       "place": "79 km SE of King Salmon, Alaska",
       "time": 1783599387838,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nmarzf"
-    },
-    {
-      "id": "us7000sz66",
-      "lon": 147.8872,
-      "lat": 44.4413,
-      "depth": 110.674,
-      "mag": 4.6,
-      "place": "87 km S of Kuril’sk, Russia",
-      "time": 1783598319525,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz66"
     }
   ]
 }
