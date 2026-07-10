@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T14:15:55Z",
-  "count": 217,
+  "updated": "2026-07-10T14:31:17Z",
+  "count": 215,
   "points": [
+    {
+      "id": "aka2026noarqf",
+      "lon": -148.605,
+      "lat": 61.774,
+      "depth": 9,
+      "mag": 1.5,
+      "place": "7 km WSW of Chickaloon, Alaska",
+      "time": 1783692925078,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026noarqf"
+    },
     {
       "id": "aka2026noaoyn",
       "lon": -149.016,
@@ -32,6 +42,16 @@
       "place": "12 km NNE of Cabazon, CA",
       "time": 1783692213640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290487"
+    },
+    {
+      "id": "us7000szg8",
+      "lon": 168.8263,
+      "lat": -20.5669,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "123 km SSW of Isangel, Vanuatu",
+      "time": 1783691733378,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szg8"
     },
     {
       "id": "nc75393236",
@@ -124,6 +144,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290455"
     },
     {
+      "id": "us7000szfz",
+      "lon": 125.5148,
+      "lat": 5.3629,
+      "depth": 50.997,
+      "mag": 4.5,
+      "place": "7 km SE of Sarangani, Philippines",
+      "time": 1783687352882,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szfz"
+    },
+    {
       "id": "hv75000151",
       "lon": -155.494827270508,
       "lat": 19.4831657409668,
@@ -162,6 +192,16 @@
       "place": "17 km ESE of Little Lake, CA",
       "time": 1783686690680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290431"
+    },
+    {
+      "id": "pr71523293",
+      "lon": -66.9111666666667,
+      "lat": 17.9841666666667,
+      "depth": 12.27,
+      "mag": 2.26,
+      "place": "0 km SE of Fuig, Puerto Rico",
+      "time": 1783685976410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523293"
     },
     {
       "id": "hv75000146",
@@ -282,16 +322,6 @@
       "place": "43 km SSE of Nelchina, Alaska",
       "time": 1783680916420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nnuadj"
-    },
-    {
-      "id": "tx2026nlpqbp",
-      "lon": -104.164,
-      "lat": 31.519,
-      "depth": 4.0248,
-      "mag": 1.6,
-      "place": "41 km WNW of Toyah, Texas",
-      "time": 1783680813225,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nlpqbp"
     },
     {
       "id": "aka2026nntujz",
@@ -1565,12 +1595,12 @@
     },
     {
       "id": "tx2026nkiduu",
-      "lon": -104.191,
-      "lat": 31.664,
-      "depth": 4.5449,
+      "lon": -104.184,
+      "lat": 31.673,
+      "depth": 7.3303,
       "mag": 1.7,
       "place": "54 km NW of Toyah, Texas",
-      "time": 1783620200713,
+      "time": 1783620200655,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nkiduu"
     },
     {
@@ -2122,56 +2152,6 @@
       "place": "73 km ESE of Denali National Park, Alaska",
       "time": 1783607497129,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nmffdf"
-    },
-    {
-      "id": "ci41289903",
-      "lon": -115.5995,
-      "lat": 33.1753333333333,
-      "depth": 2.25,
-      "mag": 2.2,
-      "place": "10 km NW of Calipatria, CA",
-      "time": 1783607369010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289903"
-    },
-    {
-      "id": "av94298378",
-      "lon": -166.6285,
-      "lat": 53.893,
-      "depth": 7.28,
-      "mag": -0.22,
-      "place": "5 km W of Dutch Harbor, Alaska",
-      "time": 1783607233760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94298378"
-    },
-    {
-      "id": "ci41289895",
-      "lon": -115.597666666667,
-      "lat": 33.1723333333333,
-      "depth": 2.76,
-      "mag": 2.51,
-      "place": "9 km NW of Calipatria, CA",
-      "time": 1783607213650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289895"
-    },
-    {
-      "id": "ci41289887",
-      "lon": -115.601333333333,
-      "lat": 33.177,
-      "depth": 2.45,
-      "mag": 1.84,
-      "place": "10 km NW of Calipatria, CA",
-      "time": 1783607147890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289887"
-    },
-    {
-      "id": "aka2026nmexaz",
-      "lon": -155.145,
-      "lat": 58.261,
-      "depth": 5,
-      "mag": 0.5,
-      "place": "87 km NNW of Karluk, Alaska",
-      "time": 1783606935375,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nmexaz"
     }
   ]
 }
