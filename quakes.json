@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T00:45:43Z",
-  "count": 213,
+  "updated": "2026-07-10T01:01:22Z",
+  "count": 214,
   "points": [
+    {
+      "id": "nc75392906",
+      "lon": -122.725830078125,
+      "lat": 38.7425003051758,
+      "depth": 1.19000005722046,
+      "mag": 1.06,
+      "place": "5 km SW of Anderson Springs, CA",
+      "time": 1783645019800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392906"
+    },
+    {
+      "id": "tx2026nkvqtw",
+      "lon": -104.168,
+      "lat": 31.518,
+      "depth": 3.4869,
+      "mag": 1.8,
+      "place": "42 km WNW of Toyah, Texas",
+      "time": 1783644638524,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nkvqtw"
+    },
     {
       "id": "nc75392886",
       "lon": -122.78800201416,
@@ -32,6 +52,16 @@
       "place": "7 km WSW of Ridgemark, CA",
       "time": 1783641452000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392876"
+    },
+    {
+      "id": "us7000szbn",
+      "lon": -25.0419,
+      "lat": -58.5995,
+      "depth": 31.461,
+      "mag": 4.9,
+      "place": "South Sandwich Islands region",
+      "time": 1783639876860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szbn"
     },
     {
       "id": "ci41290207",
@@ -2112,26 +2142,6 @@
       "place": "63 km WNW of Tyonek, Alaska",
       "time": 1783559133310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94297168"
-    },
-    {
-      "id": "av94297158",
-      "lon": -152.243,
-      "lat": 61.2768333333333,
-      "depth": 3,
-      "mag": -0.7,
-      "place": "63 km WNW of Tyonek, Alaska",
-      "time": 1783558831760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94297158"
-    },
-    {
-      "id": "av94297138",
-      "lon": -176.1515,
-      "lat": 52.0836666666667,
-      "depth": 5.2,
-      "mag": -0.27,
-      "place": "40 km NE of Adak, Alaska",
-      "time": 1783558342800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94297138"
     }
   ]
 }
