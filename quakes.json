@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T15:08:06Z",
-  "count": 213,
+  "updated": "2026-07-10T15:15:48Z",
+  "count": 212,
   "points": [
+    {
+      "id": "tx2026nlyaft",
+      "lon": -103.326,
+      "lat": 31.117,
+      "depth": 0,
+      "mag": 1.8,
+      "place": "28 km WSW of Coyanosa, Texas",
+      "time": 1783695988293,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nlyaft"
+    },
     {
       "id": "tx2026nlxqdh",
       "lon": -104.405,
@@ -432,6 +442,16 @@
       "place": "7 km SSW of Redlands, CA",
       "time": 1783677901320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290367"
+    },
+    {
+      "id": "tx2026nlnyxt",
+      "lon": -102.109,
+      "lat": 32.352,
+      "depth": 6.8604,
+      "mag": 0.6,
+      "place": "39 km NW of Stanton, Texas",
+      "time": 1783677793661,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nlnyxt"
     },
     {
       "id": "aka2026nnsgiu",
@@ -2102,36 +2122,6 @@
       "place": "42 km WNW of Adak, Alaska",
       "time": 1783610347630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94298483"
-    },
-    {
-      "id": "pr71523173",
-      "lon": -65.6816666666667,
-      "lat": 18.876,
-      "depth": 11,
-      "mag": 2.78,
-      "place": "52 km NNE of Vieques, Puerto Rico",
-      "time": 1783610013380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523173"
-    },
-    {
-      "id": "av94298468",
-      "lon": -177.214,
-      "lat": 52.0513333333333,
-      "depth": 20.66,
-      "mag": 1.72,
-      "place": "44 km WNW of Adak, Alaska",
-      "time": 1783609785420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94298468"
-    },
-    {
-      "id": "nn00921395",
-      "lon": -115.2876,
-      "lat": 36.0759,
-      "depth": 8.7799,
-      "mag": 1.75,
-      "place": "5 km SW of Spring Valley, Nevada",
-      "time": 1783609688613,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921395"
     }
   ]
 }
