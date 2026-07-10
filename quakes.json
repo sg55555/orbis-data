@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T17:31:21Z",
-  "count": 206,
+  "updated": "2026-07-10T17:45:57Z",
+  "count": 203,
   "points": [
+    {
+      "id": "nc75393336",
+      "lon": -122.852996826172,
+      "lat": 38.821834564209,
+      "depth": 2.80999994277954,
+      "mag": 1.53,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": 1783704906010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393336"
+    },
+    {
+      "id": "ci41290711",
+      "lon": -117.186166666667,
+      "lat": 33.9921666666667,
+      "depth": 6.21,
+      "mag": 1.58,
+      "place": "7 km S of Redlands, CA",
+      "time": 1783704811400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290711"
+    },
     {
       "id": "ci41290695",
       "lon": -114.9935,
@@ -1326,11 +1346,11 @@
     {
       "id": "ci41290239",
       "lon": -117.8125,
-      "lat": 35.313,
-      "depth": 7.5,
+      "lat": 35.3126666666667,
+      "depth": 7.71,
       "mag": 2.04,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1783651507480,
+      "time": 1783651507450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290239"
     },
     {
@@ -2012,56 +2032,6 @@
       "place": "10 km S of Willow, Alaska",
       "time": 1783619113713,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nmlras"
-    },
-    {
-      "id": "ci41290055",
-      "lon": -114.949,
-      "lat": 33.0481666666667,
-      "depth": -0.2,
-      "mag": 1.58,
-      "place": "44 km NNW of Los Algodones, B.C., MX",
-      "time": 1783618946100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290055"
-    },
-    {
-      "id": "tx2026nkhklk",
-      "lon": -101.954,
-      "lat": 32.108,
-      "depth": 8.1299,
-      "mag": 1.4,
-      "place": "15 km W of Stanton, Texas",
-      "time": 1783618847706,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nkhklk"
-    },
-    {
-      "id": "ci41290047",
-      "lon": -117.1875,
-      "lat": 34.0195,
-      "depth": 3.4,
-      "mag": 1.24,
-      "place": "4 km S of Redlands, CA",
-      "time": 1783618511800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290047"
-    },
-    {
-      "id": "tx2026nkhefb",
-      "lon": -103.099,
-      "lat": 31.616,
-      "depth": 1.8958,
-      "mag": 1.8,
-      "place": "9 km NNE of Pyote, Texas",
-      "time": 1783618411216,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nkhefb"
-    },
-    {
-      "id": "uu80145061",
-      "lon": -112.881833333333,
-      "lat": 38.5041666666667,
-      "depth": 2.28,
-      "mag": 0.92,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1783618342990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145061"
     }
   ]
 }
