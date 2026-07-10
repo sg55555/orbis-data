@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T02:31:08Z",
+  "updated": "2026-07-10T02:45:48Z",
   "count": 210,
   "points": [
+    {
+      "id": "hv74999951",
+      "lon": -155.382659912109,
+      "lat": 19.019832611084,
+      "depth": 31.3999996185303,
+      "mag": 2.15,
+      "place": "21 km ESE of Naalehu, Hawaii",
+      "time": 1783650968640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74999951"
+    },
     {
       "id": "nc75392956",
       "lon": -122.836334228516,
@@ -22,6 +32,16 @@
       "place": "31 km ESE of Malaga, New Mexico",
       "time": 1783649737172,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nkymcd"
+    },
+    {
+      "id": "us7000szch",
+      "lon": -7.124,
+      "lat": 71.0666,
+      "depth": 10,
+      "mag": 4.2,
+      "place": "60 km ENE of Olonkinbyen, Svalbard and Jan Mayen",
+      "time": 1783649614479,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szch"
     },
     {
       "id": "ci41290231",
@@ -815,12 +835,12 @@
     },
     {
       "id": "nn00921399",
-      "lon": -115.4251,
-      "lat": 37.8392,
-      "depth": 14.4468,
-      "mag": 1.95,
-      "place": "32 km NNW of Hiko, Nevada",
-      "time": 1783613966614,
+      "lon": -115.424,
+      "lat": 37.8746,
+      "depth": 5.9782,
+      "mag": 2.48,
+      "place": "35 km NNW of Hiko, Nevada",
+      "time": 1783613965740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921399"
     },
     {
@@ -2082,26 +2102,6 @@
       "place": "35 km NW of Stanton, Texas",
       "time": 1783565619035,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026njdzxt"
-    },
-    {
-      "id": "ci41289591",
-      "lon": -117.589833333333,
-      "lat": 34.0256666666667,
-      "depth": 4.97,
-      "mag": 1.25,
-      "place": "5 km SE of Ontario, CA",
-      "time": 1783564736720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289591"
-    },
-    {
-      "id": "av93063714",
-      "lon": -177.197333333333,
-      "lat": 51.9108333333333,
-      "depth": 9.91,
-      "mag": -0.74,
-      "place": "38 km W of Adak, Alaska",
-      "time": 1783564568560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063714"
     }
   ]
 }
