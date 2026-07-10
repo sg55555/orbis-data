@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T09:31:17Z",
-  "count": 218,
+  "updated": "2026-07-10T09:45:48Z",
+  "count": 216,
   "points": [
+    {
+      "id": "aka2026nnrqdh",
+      "lon": -147.425,
+      "lat": 60.441,
+      "depth": 18.3,
+      "mag": 1.5,
+      "place": "52 km NE of Chenega, Alaska",
+      "time": 1783676625065,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nnrqdh"
+    },
     {
       "id": "nc75393146",
       "lon": -122.794998168945,
@@ -122,6 +132,16 @@
       "place": "19 km SE of Ackerly, Texas",
       "time": 1783668905898,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nljbhb"
+    },
+    {
+      "id": "us7000sze1",
+      "lon": 57.6304,
+      "lat": 27.8872,
+      "depth": 43.469,
+      "mag": 4.1,
+      "place": "99 km NNE of Mīnāb, Iran",
+      "time": 1783668595340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sze1"
     },
     {
       "id": "ci41290335",
@@ -392,6 +412,16 @@
       "place": "13 km N of Ocotillo Wells, CA",
       "time": 1783660005690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290287"
+    },
+    {
+      "id": "tx2026nleacm",
+      "lon": -103.999,
+      "lat": 31.524,
+      "depth": 6.7151,
+      "mag": 1.8,
+      "place": "30 km NW of Toyah, Texas",
+      "time": 1783659845641,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nleacm"
     },
     {
       "id": "tx2026nleasp",
@@ -2132,56 +2162,6 @@
       "place": "13 km ESE of Millville, Utah",
       "time": 1783590432450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145021"
-    },
-    {
-      "id": "aka2026nlvpgd",
-      "lon": -136.427,
-      "lat": 57.526,
-      "depth": 7.4,
-      "mag": 1.8,
-      "place": "49 km SSW of Pelican, Alaska",
-      "time": 1783590209149,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nlvpgd"
-    },
-    {
-      "id": "ci41289791",
-      "lon": -117.479666666667,
-      "lat": 35.673,
-      "depth": 7.42,
-      "mag": 1.15,
-      "place": "13 km SSW of Searles Valley, CA",
-      "time": 1783590108170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289791"
-    },
-    {
-      "id": "tx2026njrknt",
-      "lon": -101.485,
-      "lat": 32.127,
-      "depth": 8.6182,
-      "mag": 1.1,
-      "place": "11 km W of Forsan, Texas",
-      "time": 1783589890015,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026njrknt"
-    },
-    {
-      "id": "ci41289783",
-      "lon": -117.514,
-      "lat": 35.7085,
-      "depth": 4.73,
-      "mag": 0.93,
-      "place": "12 km WSW of Searles Valley, CA",
-      "time": 1783589839630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289783"
-    },
-    {
-      "id": "av94297938",
-      "lon": -169.965333333333,
-      "lat": 52.801,
-      "depth": 5.35,
-      "mag": 1.19,
-      "place": "75 km WSW of Nikolski, Alaska",
-      "time": 1783589607020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94297938"
     }
   ]
 }
