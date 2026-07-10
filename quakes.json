@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T09:15:48Z",
-  "count": 221,
+  "updated": "2026-07-10T09:31:17Z",
+  "count": 218,
   "points": [
+    {
+      "id": "nc75393146",
+      "lon": -122.794998168945,
+      "lat": 38.8181648254395,
+      "depth": 2.44000005722046,
+      "mag": 0.74,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1783675434540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393146"
+    },
     {
       "id": "ci41290359",
       "lon": -117.796,
@@ -2172,46 +2182,6 @@
       "place": "75 km WSW of Nikolski, Alaska",
       "time": 1783589607020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94297938"
-    },
-    {
-      "id": "ci41289775",
-      "lon": -117.662166666667,
-      "lat": 36.065,
-      "depth": 2.44,
-      "mag": 0.81,
-      "place": "26 km E of Coso Junction, CA",
-      "time": 1783589320500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289775"
-    },
-    {
-      "id": "av93063739",
-      "lon": -164.708166666667,
-      "lat": 54.5358333333333,
-      "depth": 1.83,
-      "mag": 2.08,
-      "place": "82 km ENE of Akutan, Alaska",
-      "time": 1783589120400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063739"
-    },
-    {
-      "id": "av94297908",
-      "lon": -164.709666666667,
-      "lat": 54.5386666666667,
-      "depth": 1.57,
-      "mag": 2.19,
-      "place": "82 km ENE of Akutan, Alaska",
-      "time": 1783589060420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94297908"
-    },
-    {
-      "id": "ci41289767",
-      "lon": -118.278666666667,
-      "lat": 36.1526666666667,
-      "depth": 7.92,
-      "mag": 1.68,
-      "place": "28 km WSW of Olancha, CA",
-      "time": 1783588822760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289767"
     }
   ]
 }
