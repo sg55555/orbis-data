@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T20:31:18Z",
-  "count": 212,
+  "updated": "2026-07-10T20:45:45Z",
+  "count": 215,
   "points": [
+    {
+      "id": "ci41290863",
+      "lon": -116.894833333333,
+      "lat": 33.9431666666667,
+      "depth": 4.71,
+      "mag": 0.79,
+      "place": "3 km NW of Banning, CA",
+      "time": 1783715885190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290863"
+    },
+    {
+      "id": "uw714046442",
+      "lon": -123.848833333333,
+      "lat": 44.9865,
+      "depth": 43.61,
+      "mag": 2.61,
+      "place": "3 km SE of Rose Lodge, Oregon",
+      "time": 1783715079180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714046442"
+    },
     {
       "id": "nc75393436",
       "lon": -122.761497497559,
@@ -184,6 +204,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290759"
     },
     {
+      "id": "uw714046382",
+      "lon": -120.5735,
+      "lat": 46.9126666666667,
+      "depth": -0.92,
+      "mag": 1.75,
+      "place": "9 km SSW of Ellensburg, Washington",
+      "time": 1783708498440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714046382"
+    },
+    {
       "id": "aka2026nojczc",
       "lon": -149.303,
       "lat": 61.148,
@@ -305,12 +335,12 @@
     },
     {
       "id": "ci41290687",
-      "lon": -115.636666666667,
-      "lat": 32.7701666666667,
-      "depth": 9.87,
+      "lon": -115.634333333333,
+      "lat": 32.7686666666667,
+      "depth": 10.45,
       "mag": 1.57,
-      "place": "8 km WSW of El Centro, CA",
-      "time": 1783704230590,
+      "place": "7 km WSW of El Centro, CA",
+      "time": 1783704230530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290687"
     },
     {
@@ -352,6 +382,16 @@
       "place": "48 km W of Happy Valley, Alaska",
       "time": 1783703290602,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026noglmn"
+    },
+    {
+      "id": "uw714046322",
+      "lon": -124.445333333333,
+      "lat": 41.8903333333333,
+      "depth": -0.68,
+      "mag": 0.74,
+      "place": "22 km SW of Brookings, Oregon",
+      "time": 1783702964950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714046322"
     },
     {
       "id": "ci41290655",
@@ -2112,16 +2152,6 @@
       "place": "8 km WNW of Ione, CA",
       "time": 1783630491350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392801"
-    },
-    {
-      "id": "tx2026nknjdy",
-      "lon": -103.149,
-      "lat": 31.562,
-      "depth": 5.5103,
-      "mag": 1.5,
-      "place": "3 km NW of Pyote, Texas",
-      "time": 1783629617983,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nknjdy"
     }
   ]
 }
