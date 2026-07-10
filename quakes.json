@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T20:06:29Z",
-  "count": 213,
+  "updated": "2026-07-10T20:15:49Z",
+  "count": 212,
   "points": [
+    {
+      "id": "nc75393416",
+      "lon": -121.530830383301,
+      "lat": 37.1629981994629,
+      "depth": 9.60000038146973,
+      "mag": 1.36,
+      "place": "11 km NE of San Martin, CA",
+      "time": 1783713983360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393416"
+    },
     {
       "id": "tx2026nmhrqu",
       "lon": -104.403,
@@ -55,12 +65,12 @@
     },
     {
       "id": "hv75000246",
-      "lon": -155.363327026367,
-      "lat": 19.2458324432373,
-      "depth": 28.8099994659424,
-      "mag": 2.08,
+      "lon": -155.352333333333,
+      "lat": 19.2331666666667,
+      "depth": 30.7,
+      "mag": 1.74,
       "place": "13 km ENE of Pāhala, Hawaii",
-      "time": 1783711219370,
+      "time": 1783711219120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000246"
     },
     {
@@ -2112,26 +2122,6 @@
       "place": "4 km WNW of The Geysers, CA",
       "time": 1783628817650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392781"
-    },
-    {
-      "id": "nc75392766",
-      "lon": -122.762168884277,
-      "lat": 38.7999992370605,
-      "depth": 3.88000011444092,
-      "mag": 1.12,
-      "place": "3 km N of The Geysers, CA",
-      "time": 1783627835400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392766"
-    },
-    {
-      "id": "av93063779",
-      "lon": -166.969833333333,
-      "lat": 53.8778333333333,
-      "depth": 7.96,
-      "mag": -0.22,
-      "place": "28 km W of Dutch Harbor, Alaska",
-      "time": 1783627781800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063779"
     }
   ]
 }
