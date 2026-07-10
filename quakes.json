@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T02:15:44Z",
-  "count": 211,
+  "updated": "2026-07-10T02:31:08Z",
+  "count": 210,
   "points": [
+    {
+      "id": "nc75392956",
+      "lon": -122.836334228516,
+      "lat": 38.836498260498,
+      "depth": 1.82000005245209,
+      "mag": 1,
+      "place": "10 km NW of The Geysers, CA",
+      "time": 1783650183800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392956"
+    },
+    {
+      "id": "tx2026nkymcd",
+      "lon": -103.745,
+      "lat": 32.166,
+      "depth": 1.9206,
+      "mag": 0.9,
+      "place": "31 km ESE of Malaga, New Mexico",
+      "time": 1783649737172,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nkymcd"
+    },
     {
       "id": "ci41290231",
       "lon": -117.022833333333,
@@ -2082,36 +2102,6 @@
       "place": "38 km W of Adak, Alaska",
       "time": 1783564568560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063714"
-    },
-    {
-      "id": "ci41289575",
-      "lon": -116.759,
-      "lat": 33.6821666666667,
-      "depth": 19.38,
-      "mag": 0.78,
-      "place": "7 km SSW of Idyllwild, CA",
-      "time": 1783563758120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289575"
-    },
-    {
-      "id": "hv74999376",
-      "lon": -155.9225,
-      "lat": 19.6158333333333,
-      "depth": 15.59,
-      "mag": 2.37,
-      "place": "2 km E of Hōlualoa, Hawaii",
-      "time": 1783563596510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74999376"
-    },
-    {
-      "id": "av93063709",
-      "lon": -174.150166666667,
-      "lat": 52.3323333333333,
-      "depth": 7.07,
-      "mag": -0.26,
-      "place": "15 km NNE of Atka, Alaska",
-      "time": 1783563586650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063709"
     }
   ]
 }
