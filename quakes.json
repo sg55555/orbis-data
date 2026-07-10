@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T09:01:31Z",
-  "count": 225,
+  "updated": "2026-07-10T09:15:48Z",
+  "count": 221,
   "points": [
+    {
+      "id": "ci41290359",
+      "lon": -117.796,
+      "lat": 35.3096666666667,
+      "depth": 7.28,
+      "mag": 1.05,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1783674401600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290359"
+    },
     {
       "id": "aka2026nnptwv",
       "lon": -159.861,
@@ -95,12 +105,12 @@
     },
     {
       "id": "tx2026nljbhb",
-      "lon": -101.555,
-      "lat": 32.413,
-      "depth": 3.6737,
+      "lon": -101.557,
+      "lat": 32.415,
+      "depth": 6.5918,
       "mag": 1.2,
-      "place": "19 km NNW of Big Spring, Texas",
-      "time": 1783668905566,
+      "place": "19 km SE of Ackerly, Texas",
+      "time": 1783668905898,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nljbhb"
     },
     {
@@ -185,12 +195,12 @@
     },
     {
       "id": "tx2026nlhouk",
-      "lon": -104.191,
-      "lat": 31.549,
-      "depth": 4.3708,
+      "lon": -104.182,
+      "lat": 31.568,
+      "depth": 6.0999,
       "mag": 1.5,
-      "place": "45 km NW of Toyah, Texas",
-      "time": 1783666231197,
+      "place": "46 km NW of Toyah, Texas",
+      "time": 1783666231335,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nlhouk"
     },
     {
@@ -454,16 +464,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393016"
     },
     {
-      "id": "tx2026nlcfyd",
-      "lon": -103.137,
-      "lat": 31.478,
-      "depth": 0.6247,
-      "mag": 1.3,
-      "place": "6 km S of Pyote, Texas",
-      "time": 1783656548987,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nlcfyd"
-    },
-    {
       "id": "tx2026nlbxrb",
       "lon": -103.625,
       "lat": 31.484,
@@ -572,16 +572,6 @@
       "place": "10 km NW of The Geysers, CA",
       "time": 1783650183800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392956"
-    },
-    {
-      "id": "tx2026nkymcd",
-      "lon": -103.658,
-      "lat": 31.058,
-      "depth": 0,
-      "mag": 1.4,
-      "place": "11 km NE of Balmorhea, Texas",
-      "time": 1783649735960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nkymcd"
     },
     {
       "id": "us7000szch",
@@ -2222,36 +2212,6 @@
       "place": "28 km WSW of Olancha, CA",
       "time": 1783588822760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289767"
-    },
-    {
-      "id": "ci41289759",
-      "lon": -116.990166666667,
-      "lat": 33.9803333333333,
-      "depth": 14.04,
-      "mag": 2.16,
-      "place": "6 km NNW of Beaumont, CA",
-      "time": 1783588140980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289759"
-    },
-    {
-      "id": "ci41289751",
-      "lon": -117.074333333333,
-      "lat": 34.2178333333333,
-      "depth": 3.74,
-      "mag": 0.69,
-      "place": "3 km ENE of Running Springs, CA",
-      "time": 1783587925200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289751"
-    },
-    {
-      "id": "ci41289743",
-      "lon": -117.6625,
-      "lat": 36.0625,
-      "depth": 2.22,
-      "mag": 0.92,
-      "place": "26 km E of Coso Junction, CA",
-      "time": 1783587683000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289743"
     }
   ]
 }
