@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T21:31:23Z",
+  "updated": "2026-07-10T21:45:49Z",
   "count": 219,
   "points": [
+    {
+      "id": "aka2026nopods",
+      "lon": -148.641,
+      "lat": 64.046,
+      "depth": 5,
+      "mag": 2,
+      "place": "23 km E of Ferry, Alaska",
+      "time": 1783719669057,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nopods"
+    },
+    {
+      "id": "hv75000366",
+      "lon": -155.313827514648,
+      "lat": 19.0923328399658,
+      "depth": 41.6699981689453,
+      "mag": 1.87,
+      "place": "21 km SE of Pāhala, Hawaii",
+      "time": 1783718899010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000366"
+    },
     {
       "id": "hv75000346",
       "lon": -155.397171020508,
@@ -195,12 +215,12 @@
     },
     {
       "id": "ci41290799",
-      "lon": -118.929,
-      "lat": 34.0533333333333,
-      "depth": 10.61,
+      "lon": -118.929333333333,
+      "lat": 34.0466666666667,
+      "depth": 10.64,
       "mag": 1.9,
       "place": "12 km WNW of Malibu, CA",
-      "time": 1783711029780,
+      "time": 1783711029710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290799"
     },
     {
@@ -465,12 +485,12 @@
     },
     {
       "id": "ci41290663",
-      "lon": -116.418666666667,
-      "lat": 33.2716666666667,
-      "depth": 4.83,
+      "lon": -116.421833333333,
+      "lat": 33.2721666666667,
+      "depth": 4.49,
       "mag": 0.76,
-      "place": "4 km WNW of Borrego Springs, CA",
-      "time": 1783703292120,
+      "place": "5 km WNW of Borrego Springs, CA",
+      "time": 1783703292130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290663"
     },
     {
@@ -2172,26 +2192,6 @@
       "place": "79 km SE of Kokhanok, Alaska",
       "time": 1783633608405,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nmtsmu"
-    },
-    {
-      "id": "aka2026nmtoia",
-      "lon": -147.405,
-      "lat": 61.962,
-      "depth": 0.1,
-      "mag": 2.9,
-      "place": "12 km WNW of Eureka Roadhouse, Alaska",
-      "time": 1783633319494,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nmtoia"
-    },
-    {
-      "id": "aka2026nmtmaz",
-      "lon": -147.721,
-      "lat": 64.939,
-      "depth": 5,
-      "mag": 1.1,
-      "place": "3 km NNW of Farmers Loop, Alaska",
-      "time": 1783633161921,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nmtmaz"
     }
   ]
 }
