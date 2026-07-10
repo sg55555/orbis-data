@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T05:01:30Z",
-  "count": 211,
+  "updated": "2026-07-10T05:15:51Z",
+  "count": 215,
   "points": [
+    {
+      "id": "ci41290287",
+      "lon": -116.125166666667,
+      "lat": 33.257,
+      "depth": 8.35,
+      "mag": 1.07,
+      "place": "13 km N of Ocotillo Wells, CA",
+      "time": 1783660005690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290287"
+    },
+    {
+      "id": "tx2026nleasp",
+      "lon": -104.003,
+      "lat": 31.515,
+      "depth": 4.2647,
+      "mag": 1.8,
+      "place": "29 km NW of Toyah, Texas",
+      "time": 1783659817859,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nleasp"
+    },
     {
       "id": "nc75393036",
       "lon": -124.80883026123,
@@ -315,12 +335,12 @@
     },
     {
       "id": "tx2026nkvqtw",
-      "lon": -104.168,
-      "lat": 31.518,
-      "depth": 3.4869,
+      "lon": -104.165,
+      "lat": 31.515,
+      "depth": 3.4929,
       "mag": 1.8,
-      "place": "42 km WNW of Toyah, Texas",
-      "time": 1783644638524,
+      "place": "41 km WNW of Toyah, Texas",
+      "time": 1783644638430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nkvqtw"
     },
     {
@@ -1074,6 +1094,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz89"
     },
     {
+      "id": "av94298548",
+      "lon": -166.626,
+      "lat": 53.8966666666667,
+      "depth": 8.02,
+      "mag": -0.06,
+      "place": "5 km W of Dutch Harbor, Alaska",
+      "time": 1783612575810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94298548"
+    },
+    {
+      "id": "av93063754",
+      "lon": -166.624166666667,
+      "lat": 53.8976666666667,
+      "depth": 7.46,
+      "mag": -0.5,
+      "place": "5 km W of Dutch Harbor, Alaska",
+      "time": 1783612538720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063754"
+    },
+    {
       "id": "tx2026nkdjfp",
       "lon": -103.153,
       "lat": 31.574,
@@ -1112,6 +1152,16 @@
       "place": "20 km NE of Little Lake, CA",
       "time": 1783610584050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289943"
+    },
+    {
+      "id": "av94298483",
+      "lon": -177.2345,
+      "lat": 51.9508333333333,
+      "depth": 12.58,
+      "mag": 0.17,
+      "place": "42 km WNW of Adak, Alaska",
+      "time": 1783610347630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94298483"
     },
     {
       "id": "pr71523173",
@@ -2102,16 +2152,6 @@
       "place": "20 km ENE of Little Lake, CA",
       "time": 1783574208000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289647"
-    },
-    {
-      "id": "nc75392456",
-      "lon": -122.791168212891,
-      "lat": 38.8056678771973,
-      "depth": 0.980000019073486,
-      "mag": 0.76,
-      "place": "4 km NW of The Geysers, CA",
-      "time": 1783573932920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392456"
     }
   ]
 }
