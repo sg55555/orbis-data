@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T18:31:22Z",
-  "count": 208,
+  "updated": "2026-07-10T18:45:43Z",
+  "count": 209,
   "points": [
+    {
+      "id": "ci41290759",
+      "lon": -119.1305,
+      "lat": 34.1313333333333,
+      "depth": 18.46,
+      "mag": 1.75,
+      "place": "6 km ESE of Port Hueneme, CA",
+      "time": 1783708521420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290759"
+    },
     {
       "id": "aka2026nojczc",
       "lon": -149.303,
@@ -12,6 +22,16 @@
       "place": "21 km SE of Elmendorf Air Force Base, Alaska",
       "time": 1783708100664,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nojczc"
+    },
+    {
+      "id": "us7000szim",
+      "lon": 140.4008,
+      "lat": -53.1656,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "west of Macquarie Island",
+      "time": 1783708004457,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szim"
     },
     {
       "id": "tx2026nmefzv",
@@ -1175,22 +1195,22 @@
     },
     {
       "id": "nm60624596",
-      "lon": -89.4368333333333,
-      "lat": 36.236,
-      "depth": 6.23,
-      "mag": 1.26,
-      "place": "5 km ESE of Ridgely, Tennessee",
-      "time": 1783664220780,
+      "lon": -89.4366666666667,
+      "lat": 36.235,
+      "depth": 5.53,
+      "mag": 1.24,
+      "place": "5 km SE of Ridgely, Tennessee",
+      "time": 1783664220880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60624596"
     },
     {
       "id": "ci41290319",
-      "lon": -117.7215,
-      "lat": 35.8943333333333,
-      "depth": 7.77,
-      "mag": 1.1,
-      "place": "17 km ESE of Little Lake, CA",
-      "time": 1783663992520,
+      "lon": -117.719,
+      "lat": 35.894,
+      "depth": 8.68,
+      "mag": 1.08,
+      "place": "18 km ESE of Little Lake, CA",
+      "time": 1783663992430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290319"
     },
     {
@@ -1235,12 +1255,12 @@
     },
     {
       "id": "ci41290303",
-      "lon": -117.556,
-      "lat": 35.6606666666667,
-      "depth": 2.78,
-      "mag": 0.73,
+      "lon": -117.554,
+      "lat": 35.6591666666667,
+      "depth": 6.85,
+      "mag": 0.72,
       "place": "12 km ENE of Ridgecrest, CA",
-      "time": 1783662481140,
+      "time": 1783662481160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290303"
     },
     {
@@ -1255,12 +1275,12 @@
     },
     {
       "id": "hv75000031",
-      "lon": -155.246673583984,
-      "lat": 19.3126659393311,
-      "depth": 5.34000015258789,
-      "mag": 1.71,
+      "lon": -155.254,
+      "lat": 19.3125,
+      "depth": 6.7,
+      "mag": 1.42,
       "place": "14 km S of Volcano, Hawaii",
-      "time": 1783661386960,
+      "time": 1783661386900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000031"
     },
     {
@@ -2072,16 +2092,6 @@
       "place": "30 km SSE of Chickaloon, Alaska",
       "time": 1783622817151,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nmnsoa"
-    },
-    {
-      "id": "nc75392731",
-      "lon": -122.799331665039,
-      "lat": 38.7986679077148,
-      "depth": -0.0599999986588955,
-      "mag": 1.79,
-      "place": "4 km WNW of The Geysers, CA",
-      "time": 1783622655180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392731"
     }
   ]
 }
