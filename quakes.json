@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T16:45:45Z",
+  "updated": "2026-07-10T17:01:27Z",
   "count": 206,
   "points": [
+    {
+      "id": "nn00921432",
+      "lon": -115.226,
+      "lat": 36.0416,
+      "depth": 8.103,
+      "mag": 1.88,
+      "place": "2 km NE of Enterprise, Nevada",
+      "time": 1783702241707,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921432"
+    },
     {
       "id": "ci41290623",
       "lon": -117.740666666667,
@@ -154,6 +164,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nlzelc"
     },
     {
+      "id": "us7000szhy",
+      "lon": -30.6181,
+      "lat": 1.8034,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "central Mid-Atlantic Ridge",
+      "time": 1783697815499,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szhy"
+    },
+    {
       "id": "aka2026nodhiw",
       "lon": -152.666,
       "lat": 58.28,
@@ -162,16 +182,6 @@
       "place": "28 km NNE of Aleneva, Alaska",
       "time": 1783697607798,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nodhiw"
-    },
-    {
-      "id": "tx2026nlyaft",
-      "lon": -103.326,
-      "lat": 31.117,
-      "depth": 0,
-      "mag": 1.8,
-      "place": "28 km WSW of Coyanosa, Texas",
-      "time": 1783695988293,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nlyaft"
     },
     {
       "id": "ci41290511",
@@ -975,12 +985,12 @@
     },
     {
       "id": "uw714046082",
-      "lon": -120.388999938965,
-      "lat": 47.6959991455078,
-      "depth": -0.589999973773956,
-      "mag": 1.78711462020874,
-      "place": "13 km W of Entiat, Washington",
-      "time": 1783663941470,
+      "lon": -120.375,
+      "lat": 47.6593333333333,
+      "depth": 3.74,
+      "mag": 1.59,
+      "place": "12 km W of Entiat, Washington",
+      "time": 1783663940900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714046082"
     },
     {
@@ -995,12 +1005,12 @@
     },
     {
       "id": "ci41290311",
-      "lon": -115.546333333333,
-      "lat": 32.9708333333333,
-      "depth": 11.17,
-      "mag": 1.93,
-      "place": "2 km WSW of Brawley, CA",
-      "time": 1783662728100,
+      "lon": -115.545666666667,
+      "lat": 32.9656666666667,
+      "depth": 10.85,
+      "mag": 2.01,
+      "place": "2 km SW of Brawley, CA",
+      "time": 1783662728060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290311"
     },
     {
@@ -1064,6 +1074,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000021"
     },
     {
+      "id": "uw714046042",
+      "lon": -122.779502868652,
+      "lat": 47.4793319702148,
+      "depth": 15.7200002670288,
+      "mag": 1.65149366855621,
+      "place": "4 km NE of Belfair, Washington",
+      "time": 1783660585120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714046042"
+    },
+    {
       "id": "us7000szdd",
       "lon": 138.9541,
       "lat": -2.764,
@@ -1125,12 +1145,12 @@
     },
     {
       "id": "ci41290279",
-      "lon": -116.512,
-      "lat": 33.1568333333333,
-      "depth": 5.76,
-      "mag": 0.34,
+      "lon": -116.5175,
+      "lat": 33.157,
+      "depth": 6.94,
+      "mag": 0.24,
       "place": "12 km NE of Julian, CA",
-      "time": 1783658367480,
+      "time": 1783658367460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290279"
     },
     {
@@ -1225,12 +1245,12 @@
     },
     {
       "id": "ci41290247",
-      "lon": -117.809,
-      "lat": 35.3146666666667,
-      "depth": 7.36,
+      "lon": -117.809666666667,
+      "lat": 35.3136666666667,
+      "depth": 7.68,
       "mag": 2.04,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1783651537050,
+      "time": 1783651537030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290247"
     },
     {
@@ -1415,13 +1435,23 @@
     },
     {
       "id": "ci41290223",
-      "lon": -117.720333333333,
-      "lat": 35.8941666666667,
-      "depth": 7.87,
-      "mag": 0.84,
+      "lon": -117.721,
+      "lat": 35.8963333333333,
+      "depth": 8.45,
+      "mag": 0.85,
       "place": "17 km ESE of Little Lake, CA",
-      "time": 1783642883530,
+      "time": 1783642883460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290223"
+    },
+    {
+      "id": "ci41290215",
+      "lon": -117.602666666667,
+      "lat": 34.0105,
+      "depth": 4.21,
+      "mag": 0.73,
+      "place": "5 km SSE of Ontario, CA",
+      "time": 1783642275210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290215"
     },
     {
       "id": "nc75392876",
@@ -1465,12 +1495,12 @@
     },
     {
       "id": "ci41290207",
-      "lon": -116.719,
-      "lat": 33.6505,
-      "depth": 15.65,
-      "mag": 0.92,
+      "lon": -116.7185,
+      "lat": 33.6488333333333,
+      "depth": 15.87,
+      "mag": 0.94,
       "place": "10 km S of Idyllwild, CA",
-      "time": 1783639647740,
+      "time": 1783639647680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290207"
     },
     {
@@ -1764,6 +1794,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nmpbnu"
     },
     {
+      "id": "tx2026nkkwgg",
+      "lon": -103.091,
+      "lat": 31.496,
+      "depth": 4.0747,
+      "mag": 1.3,
+      "place": "5 km SE of Pyote, Texas",
+      "time": 1783625106488,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nkkwgg"
+    },
+    {
       "id": "ci41290119",
       "lon": -116.1295,
       "lat": 33.2591666666667,
@@ -2022,46 +2062,6 @@
       "place": "9 km ESE of Midland, Texas",
       "time": 1783616610036,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nkgebx"
-    },
-    {
-      "id": "aka2026nmjxsh",
-      "lon": -152,
-      "lat": 60.94,
-      "depth": 86,
-      "mag": 1.3,
-      "place": "47 km NW of Nikiski, Alaska",
-      "time": 1783615977365,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nmjxsh"
-    },
-    {
-      "id": "nc75392701",
-      "lon": -122.78466796875,
-      "lat": 38.837833404541,
-      "depth": 1.25,
-      "mag": 0.89,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1783615732580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392701"
-    },
-    {
-      "id": "nc75392696",
-      "lon": -122.782997131348,
-      "lat": 38.8358345031738,
-      "depth": 1.22000002861023,
-      "mag": 2.19,
-      "place": "5 km WNW of Cobb, CA",
-      "time": 1783615715370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392696"
-    },
-    {
-      "id": "us7000sz8l",
-      "lon": 125.179,
-      "lat": 10.8094,
-      "depth": 103.893,
-      "mag": 5,
-      "place": "19 km ENE of Abuyog, Philippines",
-      "time": 1783615609469,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz8l"
     }
   ]
 }
