@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T00:01:32Z",
-  "count": 220,
+  "updated": "2026-07-10T00:15:38Z",
+  "count": 216,
   "points": [
     {
       "id": "nc75392876",
@@ -62,6 +62,16 @@
       "place": "86 km E of Chignik, Alaska",
       "time": 1783636108695,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nmvcpx"
+    },
+    {
+      "id": "us7000szb1",
+      "lon": 155.5289,
+      "lat": -6.9931,
+      "depth": 78.861,
+      "mag": 4.6,
+      "place": "74 km S of Panguna, Papua New Guinea",
+      "time": 1783635067021,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szb1"
     },
     {
       "id": "nc75392841",
@@ -795,12 +805,12 @@
     },
     {
       "id": "nc75392631",
-      "lon": -121.269500732422,
-      "lat": 36.6273345947266,
-      "depth": 12.039999961853,
+      "lon": -121.260666666667,
+      "lat": 36.6353333333333,
+      "depth": 10.01,
       "mag": 3.48,
-      "place": "15 km NW of Pinnacles, CA",
-      "time": 1783608557930,
+      "place": "16 km NW of Pinnacles, CA",
+      "time": 1783608557850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392631"
     },
     {
@@ -1292,6 +1302,16 @@
       "place": "26 km E of Coso Junction, CA",
       "time": 1783589320500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289775"
+    },
+    {
+      "id": "av93063739",
+      "lon": -164.708166666667,
+      "lat": 54.5358333333333,
+      "depth": 1.83,
+      "mag": 2.08,
+      "place": "82 km ENE of Akutan, Alaska",
+      "time": 1783589120400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063739"
     },
     {
       "id": "av94297908",
@@ -2142,66 +2162,6 @@
       "place": "16 km NE of Milford, Utah",
       "time": 1783557332170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144996"
-    },
-    {
-      "id": "aka2026nlcqsd",
-      "lon": -149.823,
-      "lat": 61.803,
-      "depth": 23.1,
-      "mag": 2.5,
-      "place": "12 km ENE of Willow, Alaska",
-      "time": 1783556119962,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nlcqsd"
-    },
-    {
-      "id": "hv74999321",
-      "lon": -155.503666666667,
-      "lat": 19.1861666666667,
-      "depth": 31.34,
-      "mag": 1.53,
-      "place": "3 km SW of Pāhala, Hawaii",
-      "time": 1783555855380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74999321"
-    },
-    {
-      "id": "av94297053",
-      "lon": -152.685,
-      "lat": 60.4745,
-      "depth": 3.08,
-      "mag": -0.44,
-      "place": "73 km NW of Ninilchik, Alaska",
-      "time": 1783555726170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94297053"
-    },
-    {
-      "id": "uu80144991",
-      "lon": -112.883333333333,
-      "lat": 38.5095,
-      "depth": 2.33,
-      "mag": 1.32,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1783555624180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80144991"
-    },
-    {
-      "id": "aka2026nlcirc",
-      "lon": -148.241,
-      "lat": 65.44,
-      "depth": 0.6,
-      "mag": 1.8,
-      "place": "16 km SE of Livengood, Alaska",
-      "time": 1783555562984,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nlcirc"
-    },
-    {
-      "id": "ci41289535",
-      "lon": -116.725166666667,
-      "lat": 33.5256666666667,
-      "depth": 3.85,
-      "mag": 0.14,
-      "place": "6 km SW of Anza, CA",
-      "time": 1783555454080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289535"
     }
   ]
 }
