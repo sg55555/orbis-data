@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-09T23:45:46Z",
+  "updated": "2026-07-10T00:01:32Z",
   "count": 220,
   "points": [
+    {
+      "id": "nc75392876",
+      "lon": -121.428337097168,
+      "lat": 36.7806663513184,
+      "depth": 11.0100002288818,
+      "mag": 1.39,
+      "place": "7 km WSW of Ridgemark, CA",
+      "time": 1783641452000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392876"
+    },
     {
       "id": "ci41290207",
       "lon": -116.719,
@@ -455,12 +465,12 @@
     },
     {
       "id": "hv74999666",
-      "lon": -155.56950378418,
-      "lat": 19.0911674499512,
-      "depth": 55.560001373291,
-      "mag": 2.2,
-      "place": "2 km NNE of Naalehu, Hawaii",
-      "time": 1783617882750,
+      "lon": -155.419666666667,
+      "lat": 19.1553333333333,
+      "depth": 31.56,
+      "mag": 1.7,
+      "place": "8 km SE of Pāhala, Hawaii",
+      "time": 1783617889170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74999666"
     },
     {
@@ -1282,6 +1292,16 @@
       "place": "26 km E of Coso Junction, CA",
       "time": 1783589320500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289775"
+    },
+    {
+      "id": "av94297908",
+      "lon": -164.709666666667,
+      "lat": 54.5386666666667,
+      "depth": 1.57,
+      "mag": 2.19,
+      "place": "82 km ENE of Akutan, Alaska",
+      "time": 1783589060420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94297908"
     },
     {
       "id": "ci41289767",
@@ -2182,26 +2202,6 @@
       "place": "6 km SW of Anza, CA",
       "time": 1783555454080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289535"
-    },
-    {
-      "id": "uw714045062",
-      "lon": -122.8865,
-      "lat": 47.7565,
-      "depth": 20.54,
-      "mag": 0.52,
-      "place": "7 km S of Quilcene, Washington",
-      "time": 1783554577090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714045062"
-    },
-    {
-      "id": "tx2026nixrbq",
-      "lon": -102.181,
-      "lat": 32.361,
-      "depth": 8.5693,
-      "mag": 1.2,
-      "place": "33 km E of McKinney Acres, Texas",
-      "time": 1783554333402,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nixrbq"
     }
   ]
 }
