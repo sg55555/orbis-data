@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-10T16:01:31Z",
-  "count": 208,
+  "updated": "2026-07-10T16:15:46Z",
+  "count": 206,
   "points": [
     {
+      "id": "ci41290591",
+      "lon": -119.233166666667,
+      "lat": 34.8543333333333,
+      "depth": 10.02,
+      "mag": 1.7,
+      "place": "8 km W of Pine Mountain Club, CA",
+      "time": 1783699473320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290591"
+    },
+    {
+      "id": "ci41290583",
+      "lon": -117.741,
+      "lat": 35.8981666666667,
+      "depth": 8.7,
+      "mag": 0.41,
+      "place": "16 km ESE of Little Lake, CA",
+      "time": 1783699171120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290583"
+    },
+    {
       "id": "tx2026nlzmpm",
-      "lon": -104.155,
-      "lat": 31.523,
-      "depth": 3.7643,
+      "lon": -104.139,
+      "lat": 31.543,
+      "depth": 9.4196,
       "mag": 1.7,
       "place": "41 km NW of Toyah, Texas",
-      "time": 1783698862654,
+      "time": 1783698862565,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nlzmpm"
     },
     {
@@ -1425,12 +1445,12 @@
     },
     {
       "id": "tx2026nkqadb",
-      "lon": -102.106,
-      "lat": 32.434,
-      "depth": 6.9263,
-      "mag": 1,
+      "lon": -102.111,
+      "lat": 32.433,
+      "depth": 7.1533,
+      "mag": 1.1,
       "place": "36 km SSW of Los Ybanez, Texas",
-      "time": 1783634578179,
+      "time": 1783634578961,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nkqadb"
     },
     {
@@ -1515,12 +1535,12 @@
     },
     {
       "id": "tx2026nknywp",
-      "lon": -103.162,
-      "lat": 31.568,
-      "depth": 2.5575,
-      "mag": 1.8,
-      "place": "5 km NW of Pyote, Texas",
-      "time": 1783630717414,
+      "lon": -103.15,
+      "lat": 31.576,
+      "depth": 6.6382,
+      "mag": 1.9,
+      "place": "5 km NNW of Pyote, Texas",
+      "time": 1783630716690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nknywp"
     },
     {
@@ -2042,46 +2062,6 @@
       "place": "35 km NNW of Hiko, Nevada",
       "time": 1783613965740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921399"
-    },
-    {
-      "id": "av94298563",
-      "lon": -166.625166666667,
-      "lat": 53.896,
-      "depth": 7.82,
-      "mag": -0.14,
-      "place": "5 km W of Dutch Harbor, Alaska",
-      "time": 1783613283970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94298563"
-    },
-    {
-      "id": "nc75392656",
-      "lon": -122.82266998291,
-      "lat": 38.8326683044434,
-      "depth": 12.7700004577637,
-      "mag": 0.98,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1783613277820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392656"
-    },
-    {
-      "id": "ci41289983",
-      "lon": -116.903333333333,
-      "lat": 34.9018333333333,
-      "depth": 3.41,
-      "mag": 1.67,
-      "place": "11 km E of Barstow, CA",
-      "time": 1783613019900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289983"
-    },
-    {
-      "id": "us7000sz8b",
-      "lon": 168.6269,
-      "lat": -20.5901,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "131 km NE of Tadine, New Caledonia",
-      "time": 1783612880156,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz8b"
     }
   ]
 }
