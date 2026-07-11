@@ -1,14 +1,44 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-11T01:31:15Z",
-  "count": 239,
+  "updated": "2026-07-11T01:45:46Z",
+  "count": 241,
   "points": [
+    {
+      "id": "nc75393586",
+      "lon": -122.751167297363,
+      "lat": 38.7976684570312,
+      "depth": 2.6800000667572,
+      "mag": 0.75,
+      "place": "2 km NNE of The Geysers, CA",
+      "time": 1783733847080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393586"
+    },
+    {
+      "id": "ci41291015",
+      "lon": -117.811666666667,
+      "lat": 35.3143333333333,
+      "depth": 7.42,
+      "mag": 1.67,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1783733460710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291015"
+    },
+    {
+      "id": "ci41291007",
+      "lon": -117.8105,
+      "lat": 35.3128333333333,
+      "depth": 7.6,
+      "mag": 1.45,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1783733414060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291007"
+    },
     {
       "id": "nc75393566",
       "lon": -123.230003356934,
       "lat": 39.8866653442383,
       "depth": 10.7200002670288,
-      "mag": 4.24,
+      "mag": 4.42,
       "place": "11 km N of Covelo, CA",
       "time": 1783732477140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393566"
@@ -874,6 +904,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393311"
     },
     {
+      "id": "av94300658",
+      "lon": -153.0435,
+      "lat": 60.0568333333333,
+      "depth": -0.02,
+      "mag": -0.59,
+      "place": "66 km ENE of Pedro Bay, Alaska",
+      "time": 1783700686060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94300658"
+    },
+    {
       "id": "nc75393301",
       "lon": -121.60717010498,
       "lat": 36.9688339233398,
@@ -912,6 +952,16 @@
       "place": "7 km W of Pine Mountain Club, CA",
       "time": 1783699473260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290591"
+    },
+    {
+      "id": "av94300613",
+      "lon": -153.103166666667,
+      "lat": 59.9843333333333,
+      "depth": 10.77,
+      "mag": -0.38,
+      "place": "60 km ENE of Pedro Bay, Alaska",
+      "time": 1783699425630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94300613"
     },
     {
       "id": "ci41290583",
@@ -2362,36 +2412,6 @@
       "place": "60 km ENE of Olonkinbyen, Svalbard and Jan Mayen",
       "time": 1783649614479,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szch"
-    },
-    {
-      "id": "ci41290231",
-      "lon": -117.019666666667,
-      "lat": 33.8061666666667,
-      "depth": 15.91,
-      "mag": 0.9,
-      "place": "6 km WNW of San Jacinto, CA",
-      "time": 1783647720600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290231"
-    },
-    {
-      "id": "nc75392936",
-      "lon": -122.719169616699,
-      "lat": 38.7584991455078,
-      "depth": 1.83000004291534,
-      "mag": 0.78,
-      "place": "3 km SW of Anderson Springs, CA",
-      "time": 1783647334600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392936"
-    },
-    {
-      "id": "aka2026nnbeow",
-      "lon": -153.427,
-      "lat": 59.366,
-      "depth": 5,
-      "mag": 1.3,
-      "place": "60 km SE of Pedro Bay, Alaska",
-      "time": 1783647038630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nnbeow"
     }
   ]
 }
