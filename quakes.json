@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-11T17:15:45Z",
-  "count": 230,
+  "updated": "2026-07-11T17:31:26Z",
+  "count": 227,
   "points": [
+    {
+      "id": "hv75000906",
+      "lon": -155.52033996582,
+      "lat": 19.9238338470459,
+      "depth": 35.5900001525879,
+      "mag": 1.88,
+      "place": "18 km SSW of Honoka‘a, Hawaii",
+      "time": 1783790841050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000906"
+    },
     {
       "id": "nc75393991",
       "lon": -122.751335144043,
@@ -2262,46 +2272,6 @@
       "place": "7 km S of Redlands, CA",
       "time": 1783704811400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290711"
-    },
-    {
-      "id": "ci41290695",
-      "lon": -115.001,
-      "lat": 33.0613333333333,
-      "depth": -0.2,
-      "mag": 1.2,
-      "place": "45 km NE of Holtville, CA",
-      "time": 1783704426110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290695"
-    },
-    {
-      "id": "ci41290687",
-      "lon": -115.634333333333,
-      "lat": 32.7686666666667,
-      "depth": 10.45,
-      "mag": 1.57,
-      "place": "7 km WSW of El Centro, CA",
-      "time": 1783704230530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290687"
-    },
-    {
-      "id": "av94300728",
-      "lon": -152.132333333333,
-      "lat": 61.3183333333333,
-      "depth": 5.72,
-      "mag": 0.06,
-      "place": "59 km WNW of Beluga, Alaska",
-      "time": 1783704100020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94300728"
-    },
-    {
-      "id": "ci41290679",
-      "lon": -119.608833333333,
-      "lat": 34.9083333333333,
-      "depth": 8.83,
-      "mag": 1.32,
-      "place": "25 km SW of Maricopa, CA",
-      "time": 1783703751470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290679"
     }
   ]
 }
