@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-11T02:15:46Z",
-  "count": 248,
+  "updated": "2026-07-11T02:31:12Z",
+  "count": 249,
   "points": [
+    {
+      "id": "tx2026nmucpv",
+      "lon": -104.156,
+      "lat": 31.527,
+      "depth": 4.2377,
+      "mag": 2,
+      "place": "41 km NW of Toyah, Texas",
+      "time": 1783736079405,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nmucpv"
+    },
     {
       "id": "ci41291023",
       "lon": -116.721833333333,
@@ -604,6 +614,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nokpjc"
     },
     {
+      "id": "av94300883",
+      "lon": -152.694333333333,
+      "lat": 60.4438333333333,
+      "depth": 10.3,
+      "mag": -0.85,
+      "place": "71 km NW of Ninilchik, Alaska",
+      "time": 1783710682150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94300883"
+    },
+    {
       "id": "tx2026nmgcbm",
       "lon": -103.248,
       "lat": 31.37,
@@ -792,6 +812,16 @@
       "place": "21 km SW of La Quinta, CA",
       "time": 1783706134360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290735"
+    },
+    {
+      "id": "av94300773",
+      "lon": -152.3445,
+      "lat": 61.287,
+      "depth": 2.72,
+      "mag": -0.61,
+      "place": "69 km WNW of Tyonek, Alaska",
+      "time": 1783706042280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94300773"
     },
     {
       "id": "nc75393336",
@@ -2462,26 +2492,6 @@
       "place": "241 km ESE of Tadine, New Caledonia",
       "time": 1783650894493,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szcl"
-    },
-    {
-      "id": "av94299563",
-      "lon": -152.795833333333,
-      "lat": 60.472,
-      "depth": 1.16,
-      "mag": -0.42,
-      "place": "78 km NW of Ninilchik, Alaska",
-      "time": 1783650602290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94299563"
-    },
-    {
-      "id": "nc75392956",
-      "lon": -122.836334228516,
-      "lat": 38.836498260498,
-      "depth": 1.82000005245209,
-      "mag": 1,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1783650183800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392956"
     }
   ]
 }
