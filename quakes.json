@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-11T06:01:30Z",
-  "count": 251,
+  "updated": "2026-07-11T06:15:44Z",
+  "count": 250,
   "points": [
+    {
+      "id": "ci41291151",
+      "lon": -118.0005,
+      "lat": 36.0081666666667,
+      "depth": 9.27,
+      "mag": 1.22,
+      "place": "6 km SW of Coso Junction, CA",
+      "time": 1783749754800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291151"
+    },
+    {
+      "id": "hv75000536",
+      "lon": -155.481826782227,
+      "lat": 19.1376667022705,
+      "depth": 27.6499996185303,
+      "mag": 1.96,
+      "place": "7 km S of Pāhala, Hawaii",
+      "time": 1783749650510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000536"
+    },
     {
       "id": "hv75000531",
       "lon": -155.355331420898,
@@ -2482,36 +2502,6 @@
       "place": "5 km SE of Ridgely, Tennessee",
       "time": 1783664220880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60624596"
-    },
-    {
-      "id": "ci10245766",
-      "lon": -117.724666666667,
-      "lat": 35.8996666666667,
-      "depth": 9.58,
-      "mag": 0.69,
-      "place": "17 km ESE of Little Lake, CA",
-      "time": 1783664003620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10245766"
-    },
-    {
-      "id": "ci41290319",
-      "lon": -117.719,
-      "lat": 35.894,
-      "depth": 8.68,
-      "mag": 1.08,
-      "place": "18 km ESE of Little Lake, CA",
-      "time": 1783663992430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290319"
-    },
-    {
-      "id": "uw714046082",
-      "lon": -120.375,
-      "lat": 47.6593333333333,
-      "depth": 3.74,
-      "mag": 1.59,
-      "place": "12 km W of Entiat, Washington",
-      "time": 1783663940900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714046082"
     }
   ]
 }
