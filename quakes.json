@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-11T09:15:47Z",
-  "count": 241,
+  "updated": "2026-07-11T09:31:23Z",
+  "count": 242,
   "points": [
+    {
+      "id": "nc75393806",
+      "lon": -122.818336486816,
+      "lat": 38.8291664123535,
+      "depth": 1.69000005722046,
+      "mag": 0.35,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1783761988700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393806"
+    },
+    {
+      "id": "ci41291231",
+      "lon": -116.299666666667,
+      "lat": 32.1423333333333,
+      "depth": 8.68,
+      "mag": 1.84,
+      "place": "43 km NE of Ensenada, B.C., MX",
+      "time": 1783761401920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291231"
+    },
     {
       "id": "nc75393796",
       "lon": -123.226333618164,
@@ -2402,16 +2422,6 @@
       "place": "3 km W of Electric City, Washington",
       "time": 1783675972380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714046132"
-    },
-    {
-      "id": "nc75393146",
-      "lon": -122.794998168945,
-      "lat": 38.8181648254395,
-      "depth": 2.44000005722046,
-      "mag": 0.74,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1783675434540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393146"
     }
   ]
 }
