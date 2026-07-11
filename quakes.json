@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-11T02:31:12Z",
-  "count": 249,
+  "updated": "2026-07-11T02:45:45Z",
+  "count": 247,
   "points": [
+    {
+      "id": "nc75393626",
+      "lon": -123.283332824707,
+      "lat": 39.3198318481445,
+      "depth": 6.01000022888184,
+      "mag": 2.02,
+      "place": "9 km NW of Redwood Valley, CA",
+      "time": 1783737485280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393626"
+    },
     {
       "id": "tx2026nmucpv",
       "lon": -104.156,
@@ -314,6 +324,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393516"
     },
     {
+      "id": "av94301088",
+      "lon": -152.369,
+      "lat": 61.293,
+      "depth": 3,
+      "mag": -0.35,
+      "place": "70 km WNW of Tyonek, Alaska",
+      "time": 1783722153890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94301088"
+    },
+    {
       "id": "nc75393511",
       "lon": -123.20866394043,
       "lat": 39.8995018005371,
@@ -392,6 +412,16 @@
       "place": "23 km E of Ferry, Alaska",
       "time": 1783719669057,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nopods"
+    },
+    {
+      "id": "av94301053",
+      "lon": -166.6255,
+      "lat": 53.897,
+      "depth": 7.49,
+      "mag": 0.34,
+      "place": "5 km W of Dutch Harbor, Alaska",
+      "time": 1783719391120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94301053"
     },
     {
       "id": "hv75000366",
@@ -2442,56 +2472,6 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1783651537030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290247"
-    },
-    {
-      "id": "ci41290239",
-      "lon": -117.8125,
-      "lat": 35.3126666666667,
-      "depth": 7.71,
-      "mag": 2.04,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1783651507450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290239"
-    },
-    {
-      "id": "us7000szcw",
-      "lon": 170.3195,
-      "lat": -21.9506,
-      "depth": 10,
-      "mag": 4.7,
-      "place": "256 km E of Tadine, New Caledonia",
-      "time": 1783651316494,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szcw"
-    },
-    {
-      "id": "av94299583",
-      "lon": -177.2185,
-      "lat": 51.9321666666667,
-      "depth": 10.55,
-      "mag": 0.33,
-      "place": "40 km W of Adak, Alaska",
-      "time": 1783651174220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94299583"
-    },
-    {
-      "id": "hv74999951",
-      "lon": -155.379833333333,
-      "lat": 19.0346666666667,
-      "depth": 32.89,
-      "mag": 2.05,
-      "place": "21 km SSE of Pāhala, Hawaii",
-      "time": 1783650968730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74999951"
-    },
-    {
-      "id": "us7000szcl",
-      "lon": 170.0576,
-      "lat": -22.3465,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "241 km ESE of Tadine, New Caledonia",
-      "time": 1783650894493,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szcl"
     }
   ]
 }
