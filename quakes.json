@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-11T20:45:43Z",
-  "count": 219,
+  "updated": "2026-07-11T21:01:28Z",
+  "count": 218,
   "points": [
+    {
+      "id": "hv75000976",
+      "lon": -155.925827026367,
+      "lat": 19.3171672821045,
+      "depth": 14.8100004196167,
+      "mag": 2.7,
+      "place": "16 km SSW of Honaunau-Napoopoo, Hawaii",
+      "time": 1783802702900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000976"
+    },
     {
       "id": "aka2026nqjjcu",
       "lon": -152.266,
@@ -37,7 +47,7 @@
       "id": "tx2026noedgd",
       "lon": -104.154,
       "lat": 31.527,
-      "depth": 4.0912,
+      "depth": 4.0935,
       "mag": 1.6,
       "place": "41 km NW of Toyah, Texas",
       "time": 1783801198710,
@@ -2172,26 +2182,6 @@
       "place": "4 km SW of Pyote, Texas",
       "time": 1783717386770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nmjvrm"
-    },
-    {
-      "id": "nc75393461",
-      "lon": -122.8056640625,
-      "lat": 38.8246650695801,
-      "depth": 2.40000009536743,
-      "mag": 1.32,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1783717177330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393461"
-    },
-    {
-      "id": "aka2026nontgz",
-      "lon": -146.345,
-      "lat": 61.607,
-      "depth": 8.5,
-      "mag": 3.1,
-      "place": "48 km SSE of Nelchina, Alaska",
-      "time": 1783716423618,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nontgz"
     }
   ]
 }
