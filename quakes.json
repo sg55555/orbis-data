@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-11T01:05:53Z",
+  "updated": "2026-07-11T01:15:46Z",
   "count": 240,
   "points": [
+    {
+      "id": "ew1783732480",
+      "lon": -123.3389,
+      "lat": 39.9476,
+      "depth": 9,
+      "mag": 4.3,
+      "place": "18 km NNW of Covelo, California",
+      "time": 1783732477000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ew1783732480"
+    },
+    {
+      "id": "ci41290999",
+      "lon": -119.05,
+      "lat": 35.0391666666667,
+      "depth": 12.94,
+      "mag": 1.46,
+      "place": "15 km NW of Grapevine, CA",
+      "time": 1783732162240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290999"
+    },
     {
       "id": "nc75393561",
       "lon": -122.853332519531,
@@ -265,12 +285,12 @@
     },
     {
       "id": "nc75393496",
-      "lon": -123.214836120605,
-      "lat": 39.8926658630371,
-      "depth": 11,
+      "lon": -123.211666666667,
+      "lat": 39.8991666666667,
+      "depth": 10.08,
       "mag": 3.77,
-      "place": "11 km NNE of Covelo, CA",
-      "time": 1783721108400,
+      "place": "12 km NNE of Covelo, CA",
+      "time": 1783721108330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393496"
     },
     {
@@ -1022,6 +1042,16 @@
       "place": "43 km NW of Tatitlek, Alaska",
       "time": 1783694248891,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nobkve"
+    },
+    {
+      "id": "av94300468",
+      "lon": -159.710333333333,
+      "lat": 55.963,
+      "depth": 23.17,
+      "mag": 0.66,
+      "place": "15 km WNW of Ivanof Bay, Alaska",
+      "time": 1783694106990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94300468"
     },
     {
       "id": "nm60624691",
@@ -2372,36 +2402,6 @@
       "place": "5 km ENE of La Parguera, Puerto Rico",
       "time": 1783646529290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523233"
-    },
-    {
-      "id": "pr71523218",
-      "lon": -66.993,
-      "lat": 17.9531666666667,
-      "depth": 8.81,
-      "mag": 3.3,
-      "place": "6 km ESE of La Parguera, Puerto Rico",
-      "time": 1783645824190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523218"
-    },
-    {
-      "id": "aka2026nnakyt",
-      "lon": -149.396,
-      "lat": 62.099,
-      "depth": 20.4,
-      "mag": 1.9,
-      "place": "24 km ESE of Susitna North, Alaska",
-      "time": 1783645681230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nnakyt"
-    },
-    {
-      "id": "uu80145081",
-      "lon": -112.882166666667,
-      "lat": 38.5085,
-      "depth": 2.42,
-      "mag": 1.21,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1783645544150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145081"
     }
   ]
 }
