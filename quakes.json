@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-11T02:01:28Z",
-  "count": 245,
+  "updated": "2026-07-11T02:15:46Z",
+  "count": 248,
   "points": [
+    {
+      "id": "ci41291023",
+      "lon": -116.721833333333,
+      "lat": 33.53,
+      "depth": 6.67,
+      "mag": 0.57,
+      "place": "5 km WSW of Anza, CA",
+      "time": 1783735461950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291023"
+    },
     {
       "id": "nc75393611",
       "lon": -122.760498046875,
@@ -824,6 +834,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290687"
     },
     {
+      "id": "av94300728",
+      "lon": -152.132333333333,
+      "lat": 61.3183333333333,
+      "depth": 5.72,
+      "mag": 0.06,
+      "place": "59 km WNW of Beluga, Alaska",
+      "time": 1783704100020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94300728"
+    },
+    {
       "id": "ci41290679",
       "lon": -119.608833333333,
       "lat": 34.9083333333333,
@@ -892,6 +912,26 @@
       "place": "2 km NE of Enterprise, Nevada",
       "time": 1783702241707,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921432"
+    },
+    {
+      "id": "av94300683",
+      "lon": -152.139333333333,
+      "lat": 61.3198333333333,
+      "depth": 5.24,
+      "mag": 0.02,
+      "place": "60 km WNW of Beluga, Alaska",
+      "time": 1783702212500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94300683"
+    },
+    {
+      "id": "av94300678",
+      "lon": -152.135833333333,
+      "lat": 61.3185,
+      "depth": 5.11,
+      "mag": 0.15,
+      "place": "59 km WNW of Beluga, Alaska",
+      "time": 1783701788250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94300678"
     },
     {
       "id": "ci41290623",
@@ -2442,16 +2482,6 @@
       "place": "10 km NW of The Geysers, CA",
       "time": 1783650183800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392956"
-    },
-    {
-      "id": "us7000szch",
-      "lon": -7.124,
-      "lat": 71.0666,
-      "depth": 10,
-      "mag": 4.2,
-      "place": "60 km ENE of Olonkinbyen, Svalbard and Jan Mayen",
-      "time": 1783649614479,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szch"
     }
   ]
 }
