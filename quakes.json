@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-11T07:01:27Z",
-  "count": 247,
+  "updated": "2026-07-11T07:15:44Z",
+  "count": 248,
   "points": [
+    {
+      "id": "nc75393751",
+      "lon": -123.293502807617,
+      "lat": 39.4845008850098,
+      "depth": 8.27999973297119,
+      "mag": 1.52,
+      "place": "9 km ENE of Brooktrails, CA",
+      "time": 1783753591470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393751"
+    },
     {
       "id": "ci41291167",
       "lon": -117.2705,
@@ -24,6 +34,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nndjwi"
     },
     {
+      "id": "us7000sznc",
+      "lon": -26.2943,
+      "lat": -59.6331,
+      "depth": 104.888,
+      "mag": 5.4,
+      "place": "South Sandwich Islands region",
+      "time": 1783752747197,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznc"
+    },
+    {
       "id": "aka2026nphvqv",
       "lon": -150.482,
       "lat": 61.305,
@@ -32,6 +52,16 @@
       "place": "26 km S of Susitna, Alaska",
       "time": 1783752572960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nphvqv"
+    },
+    {
+      "id": "us7000sznb",
+      "lon": -178.1353,
+      "lat": 51.4182,
+      "depth": 55.234,
+      "mag": 4.3,
+      "place": "115 km WSW of Adak, Alaska",
+      "time": 1783752115727,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznb"
     },
     {
       "id": "tx2026nncopl",
@@ -2452,26 +2482,6 @@
       "place": "3 km W of Cobb, CA",
       "time": 1783667726160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393101"
-    },
-    {
-      "id": "hv75000071",
-      "lon": -155.373666666667,
-      "lat": 19.0356666666667,
-      "depth": 32.48,
-      "mag": 2.61,
-      "place": "21 km SSE of Pāhala, Hawaii",
-      "time": 1783667239640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000071"
-    },
-    {
-      "id": "nc75393096",
-      "lon": -122.484664916992,
-      "lat": 38.4421653747559,
-      "depth": 3.83999991416931,
-      "mag": 1.14,
-      "place": "6 km ENE of Kenwood, CA",
-      "time": 1783667218180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393096"
     }
   ]
 }
