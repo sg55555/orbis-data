@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-11T13:15:43Z",
-  "count": 233,
+  "updated": "2026-07-11T13:31:20Z",
+  "count": 234,
   "points": [
+    {
+      "id": "aka2026nputgf",
+      "lon": -149.442,
+      "lat": 64.492,
+      "depth": 5.2,
+      "mag": 1.7,
+      "place": "18 km WSW of Nenana, Alaska",
+      "time": 1783775795145,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nputgf"
+    },
     {
       "id": "nc75393891",
       "lon": -122.818664550781,
@@ -72,6 +82,16 @@
       "place": "42 km NW of Toyah, Texas",
       "time": 1783774504808,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nnpjrx"
+    },
+    {
+      "id": "us7000szqj",
+      "lon": 166.7258,
+      "lat": -17.3108,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "152 km SSW of Lakatoro, Vanuatu",
+      "time": 1783774110711,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szqj"
     },
     {
       "id": "ci41291295",
@@ -2322,16 +2342,6 @@
       "place": "6 km NW of Redwood Valley, CA",
       "time": 1783690445710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393231"
-    },
-    {
-      "id": "ci41290471",
-      "lon": -115.630666666667,
-      "lat": 33.1568333333333,
-      "depth": 2.81,
-      "mag": 1.57,
-      "place": "11 km WNW of Calipatria, CA",
-      "time": 1783689566160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290471"
     }
   ]
 }
