@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-11T05:01:30Z",
-  "count": 260,
+  "updated": "2026-07-11T05:15:46Z",
+  "count": 256,
   "points": [
     {
       "id": "ci41291111",
@@ -244,16 +244,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szmb"
     },
     {
-      "id": "tx2026nmvyzb",
-      "lon": -104.118,
-      "lat": 31.614,
-      "depth": 4.2396,
-      "mag": 1.9,
-      "place": "45 km NW of Toyah, Texas",
-      "time": 1783739355081,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nmvyzb"
-    },
-    {
       "id": "tx2026nmvyqc",
       "lon": -104.12,
       "lat": 31.613,
@@ -262,6 +252,16 @@
       "place": "45 km NW of Toyah, Texas",
       "time": 1783739355024,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nmvyqc"
+    },
+    {
+      "id": "tx2026nmvyzb",
+      "lon": -104.108,
+      "lat": 31.614,
+      "depth": 5.6091,
+      "mag": 1.9,
+      "place": "44 km NW of Toyah, Texas",
+      "time": 1783739354831,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nmvyzb"
     },
     {
       "id": "nc75393626",
@@ -2562,46 +2562,6 @@
       "place": "187 km W of Abepura, Indonesia",
       "time": 1783660570675,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szdd"
-    },
-    {
-      "id": "hv75000016",
-      "lon": -155.498666666667,
-      "lat": 19.4853333333333,
-      "depth": 3.92,
-      "mag": 2.1,
-      "place": "28 km W of Volcano, Hawaii",
-      "time": 1783660328210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000016"
-    },
-    {
-      "id": "ci41290287",
-      "lon": -116.126166666667,
-      "lat": 33.255,
-      "depth": 8.03,
-      "mag": 1.06,
-      "place": "12 km N of Ocotillo Wells, CA",
-      "time": 1783660005620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290287"
-    },
-    {
-      "id": "tx2026nleacm",
-      "lon": -103.999,
-      "lat": 31.524,
-      "depth": 6.7151,
-      "mag": 1.8,
-      "place": "30 km NW of Toyah, Texas",
-      "time": 1783659845641,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nleacm"
-    },
-    {
-      "id": "tx2026nleasp",
-      "lon": -104,
-      "lat": 31.523,
-      "depth": 7.8687,
-      "mag": 1.7,
-      "place": "30 km NW of Toyah, Texas",
-      "time": 1783659817507,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nleasp"
     }
   ]
 }
