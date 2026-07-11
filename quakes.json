@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-11T00:01:27Z",
-  "count": 234,
+  "updated": "2026-07-11T00:15:48Z",
+  "count": 235,
   "points": [
+    {
+      "id": "ci41290967",
+      "lon": -116.442833333333,
+      "lat": 33.5065,
+      "depth": 6.57,
+      "mag": 0.45,
+      "place": "21 km SW of La Quinta, CA",
+      "time": 1783728204930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290967"
+    },
     {
       "id": "aka2026notqto",
       "lon": -152.454,
@@ -705,12 +715,12 @@
     },
     {
       "id": "aka2026noglmn",
-      "lon": -152.588,
+      "lon": -152.589,
       "lat": 60.006,
-      "depth": 104,
+      "depth": 104.1,
       "mag": 2.6,
       "place": "48 km W of Happy Valley, Alaska",
-      "time": 1783703290602,
+      "time": 1783703290599,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026noglmn"
     },
     {
@@ -1442,6 +1452,16 @@
       "place": "268 km SE of Chiniak, Alaska",
       "time": 1783674659819,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nnqnnu"
+    },
+    {
+      "id": "av93063844",
+      "lon": -159.483833333333,
+      "lat": 56.2433333333333,
+      "depth": 7.85,
+      "mag": -0.08,
+      "place": "38 km N of Ivanof Bay, Alaska",
+      "time": 1783674551350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063844"
     },
     {
       "id": "ci41290359",
@@ -2332,16 +2352,6 @@
       "place": "17 km ESE of Little Lake, CA",
       "time": 1783642883460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290223"
-    },
-    {
-      "id": "ci41290215",
-      "lon": -117.602666666667,
-      "lat": 34.0105,
-      "depth": 4.21,
-      "mag": 0.73,
-      "place": "5 km SSE of Ontario, CA",
-      "time": 1783642275210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290215"
     }
   ]
 }
