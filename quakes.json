@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-11T14:09:19Z",
+  "updated": "2026-07-11T14:15:42Z",
   "count": 234,
   "points": [
+    {
+      "id": "nc75393911",
+      "lon": -122.88200378418,
+      "lat": 38.8426666259766,
+      "depth": 2.67000007629395,
+      "mag": 0.24,
+      "place": "12 km ENE of Cloverdale, CA",
+      "time": 1783779041960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393911"
+    },
     {
       "id": "nc75393906",
       "lon": -121.960830688477,
@@ -512,6 +522,16 @@
       "place": "6 km WNW of The Geysers, CA",
       "time": 1783755826190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393766"
+    },
+    {
+      "id": "us7000sznp",
+      "lon": 95.109,
+      "lat": 4.3516,
+      "depth": 53.143,
+      "mag": 4.5,
+      "place": "115 km WNW of Meulaboh, Indonesia",
+      "time": 1783755678210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznp"
     },
     {
       "id": "ci41291183",
@@ -2322,26 +2342,6 @@
       "place": "7 km WSW of Chickaloon, Alaska",
       "time": 1783692925078,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026noarqf"
-    },
-    {
-      "id": "aka2026noaoyn",
-      "lon": -149.016,
-      "lat": 63.51,
-      "depth": 9,
-      "mag": 1.6,
-      "place": "13 km NNW of Cantwell, Alaska",
-      "time": 1783692733815,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026noaoyn"
-    },
-    {
-      "id": "nc75393246",
-      "lon": -121.236000061035,
-      "lat": 36.6074981689453,
-      "depth": 5.84999990463257,
-      "mag": 1.33,
-      "place": "12 km NW of Pinnacles, CA",
-      "time": 1783692616080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393246"
     }
   ]
 }
