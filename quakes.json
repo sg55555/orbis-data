@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-11T00:15:48Z",
-  "count": 235,
+  "updated": "2026-07-11T00:31:19Z",
+  "count": 236,
   "points": [
+    {
+      "id": "tx2026nmqnpu",
+      "lon": -104.154,
+      "lat": 31.533,
+      "depth": 5.2737,
+      "mag": 2.2,
+      "place": "41 km NW of Toyah, Texas",
+      "time": 1783729498479,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nmqnpu"
+    },
+    {
+      "id": "nc75393546",
+      "lon": -122.84349822998,
+      "lat": 38.824333190918,
+      "depth": 1.48000001907349,
+      "mag": 0.27,
+      "place": "9 km NW of The Geysers, CA",
+      "time": 1783728884570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393546"
+    },
     {
       "id": "ci41290967",
       "lon": -116.442833333333,
@@ -915,12 +935,12 @@
     },
     {
       "id": "aka2026nodhiw",
-      "lon": -152.666,
-      "lat": 58.28,
-      "depth": 49.4,
+      "lon": -152.676,
+      "lat": 58.282,
+      "depth": 52.6,
       "mag": 2.6,
       "place": "28 km NNE of Aleneva, Alaska",
-      "time": 1783697607798,
+      "time": 1783697607791,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nodhiw"
     },
     {
@@ -1292,6 +1312,16 @@
       "place": "92 km SSE of Kokhanok, Alaska",
       "time": 1783680517752,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nntujz"
+    },
+    {
+      "id": "av93063849",
+      "lon": -159.732833333333,
+      "lat": 55.9108333333333,
+      "depth": 1.27,
+      "mag": 0.52,
+      "place": "15 km W of Ivanof Bay, Alaska",
+      "time": 1783680328760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063849"
     },
     {
       "id": "us7000szfm",
@@ -2332,26 +2362,6 @@
       "place": "40 km NW of Toyah, Texas",
       "time": 1783644638993,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nkvqtw"
-    },
-    {
-      "id": "nc75392886",
-      "lon": -122.78800201416,
-      "lat": 38.8333320617676,
-      "depth": 4.19999980926514,
-      "mag": 0.4,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1783643288690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392886"
-    },
-    {
-      "id": "ci41290223",
-      "lon": -117.721,
-      "lat": 35.8963333333333,
-      "depth": 8.45,
-      "mag": 0.85,
-      "place": "17 km ESE of Little Lake, CA",
-      "time": 1783642883460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290223"
     }
   ]
 }
