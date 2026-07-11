@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-11T05:45:44Z",
-  "count": 256,
+  "updated": "2026-07-11T06:01:30Z",
+  "count": 251,
   "points": [
+    {
+      "id": "hv75000531",
+      "lon": -155.355331420898,
+      "lat": 19.1494998931885,
+      "depth": 26.4200000762939,
+      "mag": 2,
+      "place": "14 km ESE of Pāhala, Hawaii",
+      "time": 1783748736680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000531"
+    },
     {
       "id": "ci41291143",
       "lon": -117.805666666667,
@@ -2502,66 +2512,6 @@
       "place": "12 km W of Entiat, Washington",
       "time": 1783663940900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714046082"
-    },
-    {
-      "id": "nc75393071",
-      "lon": -122.811996459961,
-      "lat": 38.8368339538574,
-      "depth": 1.91999995708466,
-      "mag": 0.71,
-      "place": "8 km WNW of Cobb, CA",
-      "time": 1783663136790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393071"
-    },
-    {
-      "id": "ci41290311",
-      "lon": -115.545666666667,
-      "lat": 32.9656666666667,
-      "depth": 10.85,
-      "mag": 2.01,
-      "place": "2 km SW of Brawley, CA",
-      "time": 1783662728060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290311"
-    },
-    {
-      "id": "av94299878",
-      "lon": -159.747666666667,
-      "lat": 55.9545,
-      "depth": 7.72,
-      "mag": 2.46,
-      "place": "17 km WNW of Ivanof Bay, Alaska",
-      "time": 1783662724720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94299878"
-    },
-    {
-      "id": "aka2026nnjwpu",
-      "lon": -159.776,
-      "lat": 55.95,
-      "depth": 9.1,
-      "mag": 2.1,
-      "place": "19 km WNW of Ivanof Bay, Alaska",
-      "time": 1783662677782,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nnjwpu"
-    },
-    {
-      "id": "ci41290303",
-      "lon": -117.554,
-      "lat": 35.6591666666667,
-      "depth": 6.85,
-      "mag": 0.72,
-      "place": "12 km ENE of Ridgecrest, CA",
-      "time": 1783662481160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290303"
-    },
-    {
-      "id": "ci41290295",
-      "lon": -119.097833333333,
-      "lat": 35.0891666666667,
-      "depth": 14.33,
-      "mag": 1.31,
-      "place": "22 km NW of Grapevine, CA",
-      "time": 1783662412030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290295"
     }
   ]
 }
