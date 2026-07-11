@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-11T12:01:29Z",
-  "count": 236,
+  "updated": "2026-07-11T12:15:49Z",
+  "count": 234,
   "points": [
+    {
+      "id": "ci41291287",
+      "lon": -116.706166666667,
+      "lat": 33.9441666666667,
+      "depth": 13.21,
+      "mag": 0.5,
+      "place": "8 km ENE of Cabazon, CA",
+      "time": 1783771675770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291287"
+    },
     {
       "id": "nc75393861",
       "lon": -122.813835144043,
@@ -2332,36 +2342,6 @@
       "place": "0 km SE of Fuig, Puerto Rico",
       "time": 1783685976410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523293"
-    },
-    {
-      "id": "hv75000146",
-      "lon": -155.9575,
-      "lat": 19.328,
-      "depth": 17.24,
-      "mag": 2.71,
-      "place": "17 km SW of Honaunau-Napoopoo, Hawaii",
-      "time": 1783685536790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000146"
-    },
-    {
-      "id": "tx2026nlsfee",
-      "lon": -104.512,
-      "lat": 31.718,
-      "depth": 5.6897,
-      "mag": 2.5,
-      "place": "52 km SSW of Whites City, New Mexico",
-      "time": 1783685461330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nlsfee"
-    },
-    {
-      "id": "aka2026nnwhbn",
-      "lon": -141.29,
-      "lat": 61.255,
-      "depth": 5,
-      "mag": 1.4,
-      "place": "89 km ESE of McCarthy, Alaska",
-      "time": 1783684994293,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nnwhbn"
     }
   ]
 }
