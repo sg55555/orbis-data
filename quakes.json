@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-12T18:01:25Z",
-  "count": 226,
+  "updated": "2026-07-12T18:15:48Z",
+  "count": 224,
   "points": [
     {
       "id": "aka2026nsaadg",
@@ -24,6 +24,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292199"
     },
     {
+      "id": "us7000szwj",
+      "lon": -127.2915,
+      "lat": 43.4016,
+      "depth": 10,
+      "mag": 3.8,
+      "place": "236 km W of Bandon, Oregon",
+      "time": 1783878542867,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szwj"
+    },
+    {
       "id": "pr71523513",
       "lon": -66.9203333333333,
       "lat": 17.9543333333333,
@@ -35,12 +45,12 @@
     },
     {
       "id": "ci41292175",
-      "lon": -118.928666666667,
-      "lat": 34.8081666666667,
-      "depth": 12.64,
+      "lon": -118.929333333333,
+      "lat": 34.8056666666667,
+      "depth": 12.78,
       "mag": 1.42,
       "place": "2 km SE of Frazier Park, CA",
-      "time": 1783876857860,
+      "time": 1783876857800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292175"
     },
     {
@@ -2232,36 +2242,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1783795685010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394036"
-    },
-    {
-      "id": "aka2026nqengt",
-      "lon": -159.857,
-      "lat": 55.911,
-      "depth": 2.1,
-      "mag": 2.3,
-      "place": "23 km W of Ivanof Bay, Alaska",
-      "time": 1783793373905,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nqengt"
-    },
-    {
-      "id": "nc75394026",
-      "lon": -122.801498413086,
-      "lat": 38.8368339538574,
-      "depth": 1.96000003814697,
-      "mag": 0.46,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1783793120220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394026"
-    },
-    {
-      "id": "aka2026nqeghg",
-      "lon": -150.966,
-      "lat": 62.072,
-      "depth": 5,
-      "mag": 1.7,
-      "place": "24 km ENE of Skwentna, Alaska",
-      "time": 1783792901367,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nqeghg"
     }
   ]
 }
