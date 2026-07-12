@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-12T20:15:48Z",
-  "count": 231,
+  "updated": "2026-07-12T20:24:01Z",
+  "count": 229,
   "points": [
+    {
+      "id": "ci41292239",
+      "lon": -117.760833740234,
+      "lat": 36.0098342895508,
+      "depth": 6.19999980926514,
+      "mag": 1.57210088220452,
+      "place": "15 km ENE of Little Lake, CA",
+      "time": 1783887622170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292239"
+    },
+    {
+      "id": "aka2026nsetzn",
+      "lon": -150.138,
+      "lat": 62.209,
+      "depth": 0.4,
+      "mag": 2,
+      "place": "12 km S of Talkeetna, Alaska",
+      "time": 1783887395891,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nsetzn"
+    },
     {
       "id": "aka2026nsemvm",
       "lon": -153.406,
@@ -2272,46 +2292,6 @@
       "place": "7 km W of Cobb, CA",
       "time": 1783801440200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394091"
-    },
-    {
-      "id": "tx2026noedgd",
-      "lon": -104.154,
-      "lat": 31.527,
-      "depth": 4.0935,
-      "mag": 1.6,
-      "place": "41 km NW of Toyah, Texas",
-      "time": 1783801198710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026noedgd"
-    },
-    {
-      "id": "nc75394086",
-      "lon": -122.798667907715,
-      "lat": 38.8288345336914,
-      "depth": 1.64999997615814,
-      "mag": 1.31,
-      "place": "7 km W of Cobb, CA",
-      "time": 1783801193380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394086"
-    },
-    {
-      "id": "nc75394081",
-      "lon": -122.799331665039,
-      "lat": 38.8283348083496,
-      "depth": 1.72000002861023,
-      "mag": 1.03,
-      "place": "7 km W of Cobb, CA",
-      "time": 1783801177800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394081"
-    },
-    {
-      "id": "tx2026nodyvs",
-      "lon": -103.707,
-      "lat": 32.063,
-      "depth": 4.5658,
-      "mag": 1.5,
-      "place": "38 km ESE of Malaga, New Mexico",
-      "time": 1783801064079,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nodyvs"
     }
   ]
 }
