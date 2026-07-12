@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-12T12:05:54Z",
-  "count": 242,
+  "updated": "2026-07-12T12:15:50Z",
+  "count": 241,
   "points": [
+    {
+      "id": "nc75394426",
+      "lon": -120.396499633789,
+      "lat": 36.4123344421387,
+      "depth": 11.1700000762939,
+      "mag": 2.59,
+      "place": "13 km SW of Cantua Creek, CA",
+      "time": 1783857886850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394426"
+    },
     {
       "id": "ci41291999",
       "lon": -118.932833333333,
@@ -2402,26 +2412,6 @@
       "place": "80 km NE of Akutan, Alaska",
       "time": 1783773828980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063889"
-    },
-    {
-      "id": "av94302213",
-      "lon": -176.096333333333,
-      "lat": 52.0763333333333,
-      "depth": 18.52,
-      "mag": 0.26,
-      "place": "43 km ENE of Adak, Alaska",
-      "time": 1783771995000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94302213"
-    },
-    {
-      "id": "ci41291287",
-      "lon": -116.706166666667,
-      "lat": 33.9441666666667,
-      "depth": 13.21,
-      "mag": 0.5,
-      "place": "8 km ENE of Cabazon, CA",
-      "time": 1783771675770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291287"
     }
   ]
 }
