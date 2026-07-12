@@ -1,16 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-12T06:01:36Z",
-  "count": 202,
+  "updated": "2026-07-12T06:15:47Z",
+  "count": 204,
   "points": [
+    {
+      "id": "nc75394311",
+      "lon": -122.841331481934,
+      "lat": 38.8266677856445,
+      "depth": 1.5900000333786,
+      "mag": 1.05,
+      "place": "9 km NW of The Geysers, CA",
+      "time": 1783836501540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394311"
+    },
+    {
+      "id": "ci41291743",
+      "lon": -116.3755,
+      "lat": 33.3386666666667,
+      "depth": 8.47,
+      "mag": 1.21,
+      "place": "9 km N of Borrego Springs, CA",
+      "time": 1783836077700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291743"
+    },
+    {
+      "id": "aka2026nrcfxi",
+      "lon": -153.025,
+      "lat": 59.71,
+      "depth": 110.5,
+      "mag": 4.1,
+      "place": "61 km E of Pedro Bay, Alaska",
+      "time": 1783836043936,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nrcfxi"
+    },
     {
       "id": "tx2026noxhss",
       "lon": -104.153,
       "lat": 31.524,
-      "depth": 4.1839,
+      "depth": 4.184,
       "mag": 1.2,
       "place": "41 km NW of Toyah, Texas",
-      "time": 1783835919066,
+      "time": 1783835919067,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026noxhss"
     },
     {
@@ -1864,6 +1894,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznp"
     },
     {
+      "id": "av94301763",
+      "lon": -152.687166666667,
+      "lat": 60.2608333333333,
+      "depth": 11.53,
+      "mag": 0.14,
+      "place": "61 km WNW of Ninilchik, Alaska",
+      "time": 1783755635170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94301763"
+    },
+    {
       "id": "ci41291183",
       "lon": -115.8755,
       "lat": 32.9108333333333,
@@ -2002,26 +2042,6 @@
       "place": "5 km NW of The Geysers, CA",
       "time": 1783750616700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393736"
-    },
-    {
-      "id": "us7000szn3",
-      "lon": 16.1635,
-      "lat": 51.5376,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "6 km S of Grębocice, Poland",
-      "time": 1783750319654,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szn3"
-    },
-    {
-      "id": "ci41291151",
-      "lon": -118.0005,
-      "lat": 36.0081666666667,
-      "depth": 9.27,
-      "mag": 1.22,
-      "place": "6 km SW of Coso Junction, CA",
-      "time": 1783749754800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291151"
     }
   ]
 }
