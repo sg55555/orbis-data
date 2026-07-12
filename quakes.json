@@ -1,14 +1,44 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-12T07:31:16Z",
-  "count": 208,
+  "updated": "2026-07-12T07:45:45Z",
+  "count": 209,
   "points": [
+    {
+      "id": "nc75394361",
+      "lon": -122.846832275391,
+      "lat": 38.8473320007324,
+      "depth": 1.5900000333786,
+      "mag": 0.26,
+      "place": "11 km NW of The Geysers, CA",
+      "time": 1783842197410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394361"
+    },
+    {
+      "id": "nc75394356",
+      "lon": -122.763999938965,
+      "lat": 38.7826652526855,
+      "depth": 3.90000009536743,
+      "mag": 1.08,
+      "place": "1 km NW of The Geysers, CA",
+      "time": 1783841951380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394356"
+    },
+    {
+      "id": "ci41291759",
+      "lon": -116.3875,
+      "lat": 33.3421666666667,
+      "depth": 6.64,
+      "mag": 0.49,
+      "place": "10 km N of Borrego Springs, CA",
+      "time": 1783841691390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291759"
+    },
     {
       "id": "tx2026npagqm",
       "lon": -103.485,
       "lat": 31.205,
       "depth": 7.2309,
-      "mag": 2,
+      "mag": 1.6,
       "place": "18 km SSE of Lindsay, Texas",
       "time": 1783841292322,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026npagqm"
@@ -1654,6 +1684,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291295"
     },
     {
+      "id": "av93063889",
+      "lon": -164.7735,
+      "lat": 54.5546666666667,
+      "depth": 21.68,
+      "mag": 1.22,
+      "place": "80 km NE of Akutan, Alaska",
+      "time": 1783773828980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063889"
+    },
+    {
       "id": "av94302213",
       "lon": -176.096333333333,
       "lat": 52.0763333333333,
@@ -2052,36 +2092,6 @@
       "place": "42 km WNW of Adak, Alaska",
       "time": 1783756640590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94301798"
-    },
-    {
-      "id": "nc75393766",
-      "lon": -122.819831848145,
-      "lat": 38.8011665344238,
-      "depth": 3.74000000953674,
-      "mag": 0.27,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": 1783755826190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393766"
-    },
-    {
-      "id": "us7000sznp",
-      "lon": 95.109,
-      "lat": 4.3516,
-      "depth": 53.143,
-      "mag": 4.5,
-      "place": "115 km WNW of Meulaboh, Indonesia",
-      "time": 1783755678210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznp"
-    },
-    {
-      "id": "av94301763",
-      "lon": -152.687166666667,
-      "lat": 60.2608333333333,
-      "depth": 11.53,
-      "mag": 0.14,
-      "place": "61 km WNW of Ninilchik, Alaska",
-      "time": 1783755635170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94301763"
     }
   ]
 }
