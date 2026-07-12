@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-12T09:01:29Z",
-  "count": 214,
+  "updated": "2026-07-12T09:10:16Z",
+  "count": 212,
   "points": [
+    {
+      "id": "nc75394381",
+      "lon": -122.815002441406,
+      "lat": 38.8273315429688,
+      "depth": 2.02999997138977,
+      "mag": 0.5,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1783847265040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394381"
+    },
     {
       "id": "aka2026nricce",
       "lon": -152.79,
@@ -42,6 +52,16 @@
       "place": "7 km NE of Borrego Springs, CA",
       "time": 1783846022370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291783"
+    },
+    {
+      "id": "us7000szuj",
+      "lon": -178.4847,
+      "lat": -18.0983,
+      "depth": 605.235,
+      "mag": 4.1,
+      "place": "232 km E of Levuka, Fiji",
+      "time": 1783845912523,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szuj"
     },
     {
       "id": "tx2026npcfrh",
@@ -2102,46 +2122,6 @@
       "place": "43 km NE of Ensenada, B.C., MX",
       "time": 1783761401920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291231"
-    },
-    {
-      "id": "nc75393796",
-      "lon": -123.226333618164,
-      "lat": 39.8974990844727,
-      "depth": 5.46000003814697,
-      "mag": 2.07,
-      "place": "12 km N of Covelo, CA",
-      "time": 1783760680630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393796"
-    },
-    {
-      "id": "ci41291223",
-      "lon": -117.812833333333,
-      "lat": 35.3128333333333,
-      "depth": 8.02,
-      "mag": 0.87,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1783760619270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291223"
-    },
-    {
-      "id": "aka2026npmgso",
-      "lon": -154.599,
-      "lat": 57.595,
-      "depth": 51.4,
-      "mag": 1.7,
-      "place": "9 km WNW of Karluk, Alaska",
-      "time": 1783760536823,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026npmgso"
-    },
-    {
-      "id": "nc75393791",
-      "lon": -122.766998291016,
-      "lat": 38.7881660461426,
-      "depth": 1.85000002384186,
-      "mag": 1.05,
-      "place": "2 km NW of The Geysers, CA",
-      "time": 1783760496680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393791"
     }
   ]
 }
