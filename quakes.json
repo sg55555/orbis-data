@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-12T23:01:28Z",
-  "count": 224,
+  "updated": "2026-07-12T23:15:49Z",
+  "count": 227,
   "points": [
+    {
+      "id": "aka2026nskijl",
+      "lon": -148.208,
+      "lat": 65.436,
+      "depth": 5,
+      "mag": 1.2,
+      "place": "18 km ESE of Livengood, Alaska",
+      "time": 1783897388201,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nskijl"
+    },
     {
       "id": "hv75001446",
       "lon": -155.456161499023,
@@ -12,6 +22,16 @@
       "place": "6 km SSE of Pāhala, Hawaii",
       "time": 1783897023750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75001446"
+    },
+    {
+      "id": "pr71523543",
+      "lon": -66.8411666666667,
+      "lat": 17.96,
+      "depth": 15.27,
+      "mag": 2.92,
+      "place": "4 km SSW of Indios, Puerto Rico",
+      "time": 1783896735310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523543"
     },
     {
       "id": "ci41292303",
@@ -62,6 +82,16 @@
       "place": "37 km WSW of Anchor Point, Alaska",
       "time": 1783894266920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nsipgy"
+    },
+    {
+      "id": "us7000szxx",
+      "lon": 125.9229,
+      "lat": 3.9585,
+      "depth": 125.797,
+      "mag": 4.4,
+      "place": "167 km SSE of Sarangani, Philippines",
+      "time": 1783894251054,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szxx"
     },
     {
       "id": "nc75394596",
@@ -1032,6 +1062,16 @@
       "place": "3 km ESE of Frazier Park, CA",
       "time": 1783854689630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291935"
+    },
+    {
+      "id": "tx2026nphram",
+      "lon": -101.934,
+      "lat": 32.267,
+      "depth": 4.4315,
+      "mag": 1.1,
+      "place": "20 km NW of Stanton, Texas",
+      "time": 1783854647980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nphram"
     },
     {
       "id": "ci41291927",
@@ -2232,16 +2272,6 @@
       "place": "2 km ESE of Palomas, Puerto Rico",
       "time": 1783812137520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523438"
-    },
-    {
-      "id": "nc75394156",
-      "lon": -122.851829528809,
-      "lat": 38.8233337402344,
-      "depth": 2.14000010490417,
-      "mag": 0.75,
-      "place": "10 km WNW of The Geysers, CA",
-      "time": 1783811041150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394156"
     }
   ]
 }
