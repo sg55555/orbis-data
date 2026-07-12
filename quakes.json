@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-12T05:31:17Z",
-  "count": 200,
+  "updated": "2026-07-12T05:45:50Z",
+  "count": 201,
   "points": [
+    {
+      "id": "tx2026nowroz",
+      "lon": -104.155,
+      "lat": 31.53,
+      "depth": 4.5743,
+      "mag": 1.7,
+      "place": "41 km NW of Toyah, Texas",
+      "time": 1783834854072,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nowroz"
+    },
+    {
+      "id": "tx2026nowosh",
+      "lon": -104.156,
+      "lat": 31.529,
+      "depth": 4.5202,
+      "mag": 2.3,
+      "place": "41 km NW of Toyah, Texas",
+      "time": 1783834574117,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nowosh"
+    },
     {
       "id": "tx2026nowaxy",
       "lon": -98.952,
@@ -795,12 +815,12 @@
     },
     {
       "id": "nn00921486",
-      "lon": -118.1643,
-      "lat": 38.5362,
-      "depth": 11.9133,
-      "mag": 2.1,
+      "lon": -118.163,
+      "lat": 38.5361,
+      "depth": 9.487,
+      "mag": 2.15,
       "place": "16 km NNW of Mina, Nevada",
-      "time": 1783795991399,
+      "time": 1783795991479,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921486"
     },
     {
@@ -1992,16 +2012,6 @@
       "place": "14 km ESE of Pāhala, Hawaii",
       "time": 1783748736680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000531"
-    },
-    {
-      "id": "ci41291143",
-      "lon": -117.805666666667,
-      "lat": 35.2915,
-      "depth": 7.07,
-      "mag": 1.08,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1783748374990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291143"
     }
   ]
 }
