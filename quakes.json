@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-12T17:39:13Z",
-  "count": 224,
+  "updated": "2026-07-12T17:45:42Z",
+  "count": 223,
   "points": [
     {
       "id": "ci41292175",
@@ -32,6 +32,16 @@
       "place": "12 km S of Cowichan Bay, Canada",
       "time": 1783876394140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714047912"
+    },
+    {
+      "id": "us7000szwe",
+      "lon": 102.26,
+      "lat": 31.1137,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "126 km NNE of Kangding, China",
+      "time": 1783875808584,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szwe"
     },
     {
       "id": "aka2026nryexv",
@@ -2222,26 +2232,6 @@
       "place": "56 km SSW of Sarangani, Philippines",
       "time": 1783792171928,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szri"
-    },
-    {
-      "id": "aka2026nqdpzp",
-      "lon": -151.08,
-      "lat": 60.789,
-      "depth": 64.8,
-      "mag": 1.4,
-      "place": "15 km NE of Nikiski, Alaska",
-      "time": 1783791763402,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nqdpzp"
-    },
-    {
-      "id": "nn00921481",
-      "lon": -116.7,
-      "lat": 37.4669,
-      "depth": 14.537,
-      "mag": 3.03,
-      "place": "54 km ESE of Goldfield, Nevada",
-      "time": 1783791609869,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921481"
     }
   ]
 }
