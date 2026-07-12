@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-12T05:15:48Z",
-  "count": 202,
+  "updated": "2026-07-12T05:31:17Z",
+  "count": 200,
   "points": [
+    {
+      "id": "tx2026nowaxy",
+      "lon": -98.952,
+      "lat": 28.841,
+      "depth": 9.4077,
+      "mag": 1.9,
+      "place": "15 km ESE of Pearsall, Texas",
+      "time": 1783833612832,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nowaxy"
+    },
     {
       "id": "nc75394291",
       "lon": -122.788497924805,
@@ -785,12 +795,12 @@
     },
     {
       "id": "nn00921486",
-      "lon": -118.1649,
-      "lat": 38.5336,
-      "depth": 3.4593,
+      "lon": -118.1643,
+      "lat": 38.5362,
+      "depth": 11.9133,
       "mag": 2.1,
       "place": "16 km NNW of Mina, Nevada",
-      "time": 1783795990769,
+      "time": 1783795991399,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921486"
     },
     {
@@ -1992,36 +2002,6 @@
       "place": "18 km WSW of Johannesburg, CA",
       "time": 1783748374990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291143"
-    },
-    {
-      "id": "ci41291135",
-      "lon": -117.4425,
-      "lat": 34.2356666666667,
-      "depth": 12.73,
-      "mag": 2.1,
-      "place": "4 km WNW of Devore, CA",
-      "time": 1783747696830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291135"
-    },
-    {
-      "id": "ci41291119",
-      "lon": -116.657833333333,
-      "lat": 33.451,
-      "depth": 3.99,
-      "mag": 0.38,
-      "place": "12 km S of Anza, CA",
-      "time": 1783747040630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291119"
-    },
-    {
-      "id": "ci41291127",
-      "lon": -118.207333333333,
-      "lat": 36.2173333333333,
-      "depth": 8.15,
-      "mag": 0.96,
-      "place": "20 km WSW of Olancha, CA",
-      "time": 1783747037690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291127"
     }
   ]
 }
