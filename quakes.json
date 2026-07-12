@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-12T13:45:44Z",
-  "count": 237,
+  "updated": "2026-07-12T14:11:16Z",
+  "count": 232,
   "points": [
+    {
+      "id": "aka2026nrskgg",
+      "lon": -150.969,
+      "lat": 61.781,
+      "depth": 69.3,
+      "mag": 1.7,
+      "place": "32 km SE of Skwentna, Alaska",
+      "time": 1783865130974,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nrskgg"
+    },
+    {
+      "id": "us7000szvv",
+      "lon": 121.446,
+      "lat": 1.1684,
+      "depth": 35,
+      "mag": 5.3,
+      "place": "192 km WNW of Gorontalo, Indonesia",
+      "time": 1783863997185,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szvv"
+    },
+    {
+      "id": "ci41292071",
+      "lon": -116.907333333333,
+      "lat": 33.4251666666667,
+      "depth": 7.75,
+      "mag": 0.12,
+      "place": "4 km WSW of Aguanga, CA",
+      "time": 1783863857350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292071"
+    },
     {
       "id": "aka2026nrrntt",
       "lon": -148.379,
@@ -34,16 +64,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394436"
     },
     {
-      "id": "ci41292063",
-      "lon": -118.150166666667,
-      "lat": 34.4068333333333,
-      "depth": 14.22,
-      "mag": 1.38,
-      "place": "8 km SSE of Acton, CA",
-      "time": 1783861577540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292063"
-    },
-    {
       "id": "ci41292055",
       "lon": -118.918166666667,
       "lat": 34.815,
@@ -52,16 +72,6 @@
       "place": "3 km ESE of Frazier Park, CA",
       "time": 1783861293790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292055"
-    },
-    {
-      "id": "ci41292047",
-      "lon": -118.585833333333,
-      "lat": 34.6738333333333,
-      "depth": 12.86,
-      "mag": 1.33,
-      "place": "12 km S of Neenach, CA",
-      "time": 1783860661110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292047"
     },
     {
       "id": "ci41292039",
@@ -92,16 +102,6 @@
       "place": "4 km SSE of Frazier Park, CA",
       "time": 1783859226700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292023"
-    },
-    {
-      "id": "ci41292015",
-      "lon": -116.722666666667,
-      "lat": 33.5323333333333,
-      "depth": 6.75,
-      "mag": 2.21,
-      "place": "5 km WSW of Anza, CA",
-      "time": 1783858329960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292015"
     },
     {
       "id": "nc75394426",
@@ -354,16 +354,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291911"
     },
     {
-      "id": "ci41291903",
-      "lon": -118.90950012207,
-      "lat": 34.8366661071777,
-      "depth": 12.1499996185303,
-      "mag": 1.30998924428281,
-      "place": "4 km ENE of Frazier Park, CA",
-      "time": 1783854130880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291903"
-    },
-    {
       "id": "tx2026nphhpl",
       "lon": -103.421,
       "lat": 31.312,
@@ -412,16 +402,6 @@
       "place": "3 km SE of Frazier Park, CA",
       "time": 1783853279780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291887"
-    },
-    {
-      "id": "ci41291879",
-      "lon": -118.842498779297,
-      "lat": 34.585334777832,
-      "depth": 28.6800003051758,
-      "mag": 1.5389793039517,
-      "place": "19 km NNW of Piru, CA",
-      "time": 1783852963730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291879"
     },
     {
       "id": "ci41291871",
@@ -2342,36 +2322,6 @@
       "place": "24 km NNE of Alpine, Texas",
       "time": 1783779378470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nnsbzz"
-    },
-    {
-      "id": "nc75393911",
-      "lon": -122.88200378418,
-      "lat": 38.8426666259766,
-      "depth": 2.67000007629395,
-      "mag": 0.24,
-      "place": "12 km ENE of Cloverdale, CA",
-      "time": 1783779041960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393911"
-    },
-    {
-      "id": "nc75393906",
-      "lon": -121.960830688477,
-      "lat": 40.3175010681152,
-      "depth": 2.6800000667572,
-      "mag": 1.98,
-      "place": "14 km SW of Manton, CA",
-      "time": 1783778383180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393906"
-    },
-    {
-      "id": "tx2026nnreqy",
-      "lon": -103.568,
-      "lat": 31.257,
-      "depth": 15.7027,
-      "mag": 1.7,
-      "place": "12 km SSW of Lindsay, Texas",
-      "time": 1783777747235,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nnreqy"
     }
   ]
 }
