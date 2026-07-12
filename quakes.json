@@ -1,6 +1,6 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-12T00:01:28Z",
+  "updated": "2026-07-12T00:07:15Z",
   "count": 211,
   "points": [
     {
@@ -72,6 +72,16 @@
       "place": "4 km E of Sutton-Alpine, Alaska",
       "time": 1783808774444,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nqnbuu"
+    },
+    {
+      "id": "us7000szse",
+      "lon": -39.8835,
+      "lat": 32.655,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "northern Mid-Atlantic Ridge",
+      "time": 1783808022896,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szse"
     },
     {
       "id": "pr71523423",
@@ -2102,16 +2112,6 @@
       "place": "9 km NW of The Geysers, CA",
       "time": 1783728884570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393546"
-    },
-    {
-      "id": "ci41290967",
-      "lon": -116.442833333333,
-      "lat": 33.5065,
-      "depth": 6.57,
-      "mag": 0.45,
-      "place": "21 km SW of La Quinta, CA",
-      "time": 1783728204930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290967"
     }
   ]
 }
