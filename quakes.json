@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-12T15:31:21Z",
-  "count": 233,
+  "updated": "2026-07-12T15:45:58Z",
+  "count": 231,
   "points": [
+    {
+      "id": "aka2026nrvnfl",
+      "lon": -146.36,
+      "lat": 61.652,
+      "depth": 6.8,
+      "mag": 1.8,
+      "place": "43 km SSE of Nelchina, Alaska",
+      "time": 1783870733868,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nrvnfl"
+    },
+    {
+      "id": "hv75001401",
+      "lon": -155.490173339844,
+      "lat": 19.1315002441406,
+      "depth": 33.310001373291,
+      "mag": 1.73,
+      "place": "8 km S of Pāhala, Hawaii",
+      "time": 1783870433870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75001401"
+    },
     {
       "id": "nc75394461",
       "lon": -120.849334716797,
@@ -525,12 +545,12 @@
     },
     {
       "id": "ci41291863",
-      "lon": -118.929000854492,
-      "lat": 34.8178329467773,
-      "depth": 13.1199998855591,
+      "lon": -118.925833333333,
+      "lat": 34.8131666666667,
+      "depth": 13.09,
       "mag": 4.1816630290851,
       "place": "2 km ESE of Frazier Park, CA",
-      "time": 1783852684720,
+      "time": 1783852684730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291863"
     },
     {
@@ -2292,46 +2312,6 @@
       "place": "41 km NW of Toyah, Texas",
       "time": 1783784737136,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nnvatr"
-    },
-    {
-      "id": "ci41291455",
-      "lon": -116.4515,
-      "lat": 33.476,
-      "depth": 13.02,
-      "mag": 0.62,
-      "place": "22 km ESE of Anza, CA",
-      "time": 1783784631790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291455"
-    },
-    {
-      "id": "ci41291447",
-      "lon": -116.422833333333,
-      "lat": 33.3745,
-      "depth": 10.27,
-      "mag": 1.08,
-      "place": "14 km NNW of Borrego Springs, CA",
-      "time": 1783784205760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291447"
-    },
-    {
-      "id": "hv75000846",
-      "lon": -155.243499755859,
-      "lat": 19.2224998474121,
-      "depth": 44.2999992370605,
-      "mag": 1.78,
-      "place": "24 km S of Volcano, Hawaii",
-      "time": 1783784032940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000846"
-    },
-    {
-      "id": "us7000szr0",
-      "lon": -173.293,
-      "lat": -15.3141,
-      "depth": 10,
-      "mag": 5.1,
-      "place": "89 km NE of Hihifo, Tonga",
-      "time": 1783783997598,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szr0"
     }
   ]
 }
