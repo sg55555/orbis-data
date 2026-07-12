@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-12T21:01:32Z",
-  "count": 235,
+  "updated": "2026-07-12T21:15:48Z",
+  "count": 234,
   "points": [
+    {
+      "id": "tx2026nqbexu",
+      "lon": -104.159,
+      "lat": 31.53,
+      "depth": 4.4535,
+      "mag": 2.1,
+      "place": "42 km NW of Toyah, Texas",
+      "time": 1783890013107,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqbexu"
+    },
     {
       "id": "aka2026nsgbwr",
       "lon": -142.649,
@@ -24,14 +34,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394556"
     },
     {
-      "id": "us7000szxj",
-      "lon": -99.0743,
-      "lat": 28.5602,
-      "depth": 5,
-      "mag": 3.3,
-      "place": "14 km ENE of Gardendale, Texas",
-      "time": 1783889542462,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szxj"
+      "id": "tx2026nqayet",
+      "lon": -99.059,
+      "lat": 28.615,
+      "depth": 4.2055,
+      "mag": 3.5,
+      "place": "12 km ESE of Dilley, Texas",
+      "time": 1783889541313,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqayet"
     },
     {
       "id": "ci41292247",
@@ -2332,26 +2342,6 @@
       "place": "15 km S of Volcano, Hawaii",
       "time": 1783804765410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000981"
-    },
-    {
-      "id": "nc75394116",
-      "lon": -122.81600189209,
-      "lat": 38.7980003356934,
-      "depth": 3.38000011444092,
-      "mag": 0.75,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": 1783804510110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394116"
-    },
-    {
-      "id": "nc75394111",
-      "lon": -122.81566619873,
-      "lat": 38.7971649169922,
-      "depth": 3.86999988555908,
-      "mag": 0.29,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": 1783804258170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394111"
     }
   ]
 }
