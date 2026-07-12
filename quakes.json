@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-12T20:24:01Z",
-  "count": 229,
+  "updated": "2026-07-12T20:31:25Z",
+  "count": 231,
   "points": [
     {
+      "id": "ci41292247",
+      "lon": -118.930833333333,
+      "lat": 34.8011666666667,
+      "depth": 14.07,
+      "mag": 1.02,
+      "place": "3 km SSE of Frazier Park, CA",
+      "time": 1783887928990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292247"
+    },
+    {
+      "id": "nc75394551",
+      "lon": -122.760498046875,
+      "lat": 38.8223342895508,
+      "depth": 1.76999998092651,
+      "mag": 0.85,
+      "place": "3 km W of Cobb, CA",
+      "time": 1783887814340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394551"
+    },
+    {
       "id": "ci41292239",
-      "lon": -117.760833740234,
-      "lat": 36.0098342895508,
-      "depth": 6.19999980926514,
-      "mag": 1.57210088220452,
-      "place": "15 km ENE of Little Lake, CA",
-      "time": 1783887622170,
+      "lon": -117.8155,
+      "lat": 36.0171666666667,
+      "depth": 1.8,
+      "mag": 0.9,
+      "place": "12 km NE of Little Lake, CA",
+      "time": 1783887622760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292239"
     },
     {
@@ -32,6 +52,16 @@
       "place": "72 km ESE of Pope-Vannoy Landing, Alaska",
       "time": 1783886900549,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nsemvm"
+    },
+    {
+      "id": "nc75394546",
+      "lon": -122.80916595459,
+      "lat": 38.8388328552246,
+      "depth": 2.17000007629395,
+      "mag": 0.65,
+      "place": "8 km WNW of Cobb, CA",
+      "time": 1783886202100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394546"
     },
     {
       "id": "aka2026nsdgko",
@@ -2282,16 +2312,6 @@
       "place": "87 km NNW of Karluk, Alaska",
       "time": 1783801923160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94302993"
-    },
-    {
-      "id": "nc75394091",
-      "lon": -122.798164367676,
-      "lat": 38.829833984375,
-      "depth": 1.69000005722046,
-      "mag": 0.7,
-      "place": "7 km W of Cobb, CA",
-      "time": 1783801440200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394091"
     }
   ]
 }
