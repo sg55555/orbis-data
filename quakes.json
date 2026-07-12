@@ -1,8 +1,58 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-12T10:15:44Z",
-  "count": 211,
+  "updated": "2026-07-12T10:31:12Z",
+  "count": 213,
   "points": [
+    {
+      "id": "ci41291855",
+      "lon": -116.8065,
+      "lat": 33.925,
+      "depth": 15.94,
+      "mag": 1.39,
+      "place": "2 km WNW of Cabazon, CA",
+      "time": 1783852040740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291855"
+    },
+    {
+      "id": "ci41291847",
+      "lon": -116.701666666667,
+      "lat": 33.6618333333333,
+      "depth": 14.54,
+      "mag": 0.39,
+      "place": "9 km S of Idyllwild, CA",
+      "time": 1783851354340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291847"
+    },
+    {
+      "id": "ci41291839",
+      "lon": -116.698833333333,
+      "lat": 33.6718333333333,
+      "depth": 15.03,
+      "mag": 0.56,
+      "place": "8 km SSE of Idyllwild, CA",
+      "time": 1783851341750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291839"
+    },
+    {
+      "id": "ci41291831",
+      "lon": -117.679666666667,
+      "lat": 35.9453333333333,
+      "depth": 4.99,
+      "mag": 0.5,
+      "place": "20 km E of Little Lake, CA",
+      "time": 1783851307390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291831"
+    },
+    {
+      "id": "us7000szus",
+      "lon": 122.4111,
+      "lat": 0.2198,
+      "depth": 152.278,
+      "mag": 4.7,
+      "place": "80 km WSW of Gorontalo, Indonesia",
+      "time": 1783850737142,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szus"
+    },
     {
       "id": "ci41291823",
       "lon": -117.557166666667,
@@ -485,12 +535,12 @@
     },
     {
       "id": "tx2026nowaxy",
-      "lon": -98.952,
-      "lat": 28.841,
-      "depth": 9.4077,
+      "lon": -98.988,
+      "lat": 28.863,
+      "depth": 5.6718,
       "mag": 1.9,
-      "place": "15 km ESE of Pearsall, Texas",
-      "time": 1783833612832,
+      "place": "10 km ESE of Pearsall, Texas",
+      "time": 1783833612936,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nowaxy"
     },
     {
@@ -542,6 +592,16 @@
       "place": "45 km NW of Toyah, Texas",
       "time": 1783830573793,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nouiyi"
+    },
+    {
+      "id": "pr71523463",
+      "lon": -66.9543333333333,
+      "lat": 17.98,
+      "depth": 9.68,
+      "mag": 1.65,
+      "place": "4 km WSW of Fuig, Puerto Rico",
+      "time": 1783829956090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523463"
     },
     {
       "id": "tx2026notvpp",
@@ -2072,46 +2132,6 @@
       "place": "41 km S of Sarangani, Philippines",
       "time": 1783767072845,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szq0"
-    },
-    {
-      "id": "aka2026nppfqd",
-      "lon": -149.25,
-      "lat": 64.355,
-      "depth": 5,
-      "mag": 1.3,
-      "place": "3 km WNW of Anderson, Alaska",
-      "time": 1783765857073,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nppfqd"
-    },
-    {
-      "id": "aka2026nppeeg",
-      "lon": -156.564,
-      "lat": 56.298,
-      "depth": 53.7,
-      "mag": 3.1,
-      "place": "113 km E of Chignik, Alaska",
-      "time": 1783765759681,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nppeeg"
-    },
-    {
-      "id": "us7000szpb",
-      "lon": -28.8526,
-      "lat": -55.5424,
-      "depth": 26,
-      "mag": 6.4,
-      "place": "South Sandwich Islands region",
-      "time": 1783765602691,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szpb"
-    },
-    {
-      "id": "av94302033",
-      "lon": -152.239666666667,
-      "lat": 61.2756666666667,
-      "depth": 3.05,
-      "mag": -0.71,
-      "place": "63 km WNW of Tyonek, Alaska",
-      "time": 1783765496010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94302033"
     }
   ]
 }
