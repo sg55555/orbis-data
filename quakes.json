@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-12T20:01:27Z",
-  "count": 232,
+  "updated": "2026-07-12T20:15:48Z",
+  "count": 231,
   "points": [
+    {
+      "id": "aka2026nsemvm",
+      "lon": -153.406,
+      "lat": 59.208,
+      "depth": 90.8,
+      "mag": 1.1,
+      "place": "72 km ESE of Pope-Vannoy Landing, Alaska",
+      "time": 1783886900549,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nsemvm"
+    },
     {
       "id": "aka2026nsdgko",
       "lon": -151.43,
@@ -505,12 +515,12 @@
     },
     {
       "id": "ci41292055",
-      "lon": -118.918166666667,
-      "lat": 34.815,
-      "depth": 12.79,
-      "mag": 2.23,
+      "lon": -118.918,
+      "lat": 34.8126666666667,
+      "depth": 12.82,
+      "mag": 2.2,
       "place": "3 km ESE of Frazier Park, CA",
-      "time": 1783861293790,
+      "time": 1783861293770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292055"
     },
     {
@@ -1984,6 +1994,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145176"
     },
     {
+      "id": "av93063924",
+      "lon": -168.212666666667,
+      "lat": 53.3228333333333,
+      "depth": 3.74,
+      "mag": 0.87,
+      "place": "60 km NE of Nikolski, Alaska",
+      "time": 1783808797300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063924"
+    },
+    {
       "id": "aka2026nqnbuu",
       "lon": -148.671,
       "lat": 61.776,
@@ -2292,36 +2312,6 @@
       "place": "38 km ESE of Malaga, New Mexico",
       "time": 1783801064079,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nodyvs"
-    },
-    {
-      "id": "nc75394076",
-      "lon": -122.848663330078,
-      "lat": 38.8176651000977,
-      "depth": 2.88000011444092,
-      "mag": 0.72,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": 1783800847160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394076"
-    },
-    {
-      "id": "tx2026nodusr",
-      "lon": -104.286,
-      "lat": 31.641,
-      "depth": 4.8067,
-      "mag": 1.5,
-      "place": "59 km NW of Toyah, Texas",
-      "time": 1783800613030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nodusr"
-    },
-    {
-      "id": "aka2026nqilsh",
-      "lon": -148.614,
-      "lat": 61.787,
-      "depth": 0,
-      "mag": 2.5,
-      "place": "8 km E of Sutton-Alpine, Alaska",
-      "time": 1783800464120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nqilsh"
     }
   ]
 }
