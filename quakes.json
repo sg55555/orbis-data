@@ -1,16 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-13T14:15:51Z",
-  "count": 216,
+  "updated": "2026-07-13T14:31:50Z",
+  "count": 218,
   "points": [
+    {
+      "id": "ci41292583",
+      "lon": -116.962166666667,
+      "lat": 33.9218333333333,
+      "depth": 17.84,
+      "mag": 0.66,
+      "place": "2 km ESE of Beaumont, CA",
+      "time": 1783952820460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292583"
+    },
+    {
+      "id": "nc75394946",
+      "lon": -119.016166687012,
+      "lat": 37.3816680908203,
+      "depth": 6.82000017166138,
+      "mag": 1.53,
+      "place": "29 km S of Mammoth Lakes, CA",
+      "time": 1783952757860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394946"
+    },
+    {
+      "id": "ci41292575",
+      "lon": -119.159,
+      "lat": 34.5368333333333,
+      "depth": 2.58,
+      "mag": 0.54,
+      "place": "13 km NE of Ojai, CA",
+      "time": 1783952396010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292575"
+    },
     {
       "id": "tx2026nrjkrx",
       "lon": -101.957,
-      "lat": 32.103,
-      "depth": 3.777,
-      "mag": 1.2,
-      "place": "16 km W of Stanton, Texas",
-      "time": 1783951969915,
+      "lat": 32.097,
+      "depth": 2.2983,
+      "mag": 1.3,
+      "place": "15 km NE of Midland, Texas",
+      "time": 1783951970204,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nrjkrx"
     },
     {
@@ -52,6 +82,16 @@
       "place": "3 km NW of The Geysers, CA",
       "time": 1783949866430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394921"
+    },
+    {
+      "id": "pr71523713",
+      "lon": -66.9005,
+      "lat": 17.9725,
+      "depth": 13.73,
+      "mag": 2.51,
+      "place": "0 km E of Guánica, Puerto Rico",
+      "time": 1783949476010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523713"
     },
     {
       "id": "aka2026ntnbzr",
@@ -2142,26 +2182,6 @@
       "place": "40 km ESE of Nenana, Alaska",
       "time": 1783867547776,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nrttea"
-    },
-    {
-      "id": "ci41292111",
-      "lon": -117.588166666667,
-      "lat": 35.6943333333333,
-      "depth": 10.32,
-      "mag": 0.34,
-      "place": "11 km NE of Ridgecrest, CA",
-      "time": 1783866684340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292111"
-    },
-    {
-      "id": "hv75001386",
-      "lon": -155.496994018555,
-      "lat": 19.1431674957275,
-      "depth": 30.9200000762939,
-      "mag": 2.01,
-      "place": "6 km SSW of Pāhala, Hawaii",
-      "time": 1783866192880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75001386"
     }
   ]
 }
