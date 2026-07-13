@@ -1,8 +1,58 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-13T21:15:47Z",
-  "count": 274,
+  "updated": "2026-07-13T21:31:19Z",
+  "count": 278,
   "points": [
+    {
+      "id": "ci41293167",
+      "lon": -117.817169189453,
+      "lat": 35.3115005493164,
+      "depth": 7.28000020980835,
+      "mag": 1.31287776539787,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": 1783978082960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293167"
+    },
+    {
+      "id": "nc75395266",
+      "lon": -122.929496765137,
+      "lat": 38.7551651000977,
+      "depth": 5.3600001335144,
+      "mag": 1.5,
+      "place": "9 km SE of Cloverdale, CA",
+      "time": 1783977544340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395266"
+    },
+    {
+      "id": "nc75395261",
+      "lon": -122.967666625977,
+      "lat": 38.7386665344238,
+      "depth": 0.959999978542328,
+      "mag": 1.81,
+      "place": "9 km SSE of Cloverdale, CA",
+      "time": 1783977450600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395261"
+    },
+    {
+      "id": "us7000t06d",
+      "lon": 171.5098,
+      "lat": -22.9464,
+      "depth": 10,
+      "mag": 5,
+      "place": "southeast of the Loyalty Islands",
+      "time": 1783976617178,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t06d"
+    },
+    {
+      "id": "pr71523818",
+      "lon": -66.917,
+      "lat": 17.9576666666667,
+      "depth": 15.01,
+      "mag": 1.76,
+      "place": "1 km SSW of Guánica, Puerto Rico",
+      "time": 1783976530180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523818"
+    },
     {
       "id": "tx2026nrwsar",
       "lon": -104.367,
@@ -725,12 +775,12 @@
     },
     {
       "id": "ci41292711",
-      "lon": -117.821,
-      "lat": 35.3053333333333,
-      "depth": 9.04,
-      "mag": 1.09,
+      "lon": -117.818833333333,
+      "lat": 35.303,
+      "depth": 9.81,
+      "mag": 1.11,
       "place": "18 km WSW of Johannesburg, CA",
-      "time": 1783961597690,
+      "time": 1783961597580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292711"
     },
     {
@@ -2194,6 +2244,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523568"
     },
     {
+      "id": "av94305698",
+      "lon": -152.735833333333,
+      "lat": 60.4885,
+      "depth": 1.35,
+      "mag": -0.88,
+      "place": "76 km NW of Ninilchik, Alaska",
+      "time": 1783914649240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94305698"
+    },
+    {
       "id": "tx2026nqoksi",
       "lon": -101.994,
       "lat": 32.141,
@@ -2722,26 +2782,6 @@
       "place": "1 km ESE of The Geysers, CA",
       "time": 1783893369200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394576"
-    },
-    {
-      "id": "aka2026nshcin",
-      "lon": -148.658,
-      "lat": 61.778,
-      "depth": 5.5,
-      "mag": 1.4,
-      "place": "5 km E of Sutton-Alpine, Alaska",
-      "time": 1783891571745,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nshcin"
-    },
-    {
-      "id": "ok2026nokx",
-      "lon": -97.85566667,
-      "lat": 36.00783333,
-      "depth": 9.33,
-      "mag": 0.85,
-      "place": "5 km ENE of Dover, Oklahoma",
-      "time": 1783891349320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026nokx"
     }
   ]
 }
