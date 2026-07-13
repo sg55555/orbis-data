@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-13T15:45:59Z",
-  "count": 217,
+  "updated": "2026-07-13T16:01:32Z",
+  "count": 218,
   "points": [
     {
+      "id": "nc75395021",
+      "lon": -122.799163818359,
+      "lat": 38.836498260498,
+      "depth": 2.20000004768372,
+      "mag": 0.44,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1783958346250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395021"
+    },
+    {
+      "id": "nc75395016",
+      "lon": -121.109497070312,
+      "lat": 35.6875,
+      "depth": 7.01000022888184,
+      "mag": 1.21,
+      "place": "9 km NE of San Simeon, CA",
+      "time": 1783958314100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395016"
+    },
+    {
       "id": "tx2026nrmcsu",
-      "lon": -104.388,
-      "lat": 31.625,
-      "depth": 3.6855,
+      "lon": -104.377,
+      "lat": 31.64,
+      "depth": 6.0999,
       "mag": 1.5,
-      "place": "61 km S of Whites City, New Mexico",
-      "time": 1783956883406,
+      "place": "59 km S of Whites City, New Mexico",
+      "time": 1783956883282,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nrmcsu"
     },
     {
@@ -125,12 +145,12 @@
     },
     {
       "id": "tx2026nrjkrx",
-      "lon": -101.957,
-      "lat": 32.097,
-      "depth": 2.2983,
-      "mag": 1.3,
-      "place": "15 km NE of Midland, Texas",
-      "time": 1783951970204,
+      "lon": -101.958,
+      "lat": 32.105,
+      "depth": 8.9111,
+      "mag": 1.2,
+      "place": "16 km W of Stanton, Texas",
+      "time": 1783951970195,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nrjkrx"
     },
     {
@@ -1835,12 +1855,12 @@
     },
     {
       "id": "tx2026npzowr",
-      "lon": -99.146,
-      "lat": 28.564,
-      "depth": 9.635,
+      "lon": -99.091,
+      "lat": 28.581,
+      "depth": 7.3679,
       "mag": 2.4,
-      "place": "8 km NE of Gardendale, Texas",
-      "time": 1783887085123,
+      "place": "12 km SE of Dilley, Texas",
+      "time": 1783887084078,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026npzowr"
     },
     {
@@ -2162,16 +2182,6 @@
       "place": "59 km SE of Pedro Bay, Alaska",
       "time": 1783872046677,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nrwgej"
-    },
-    {
-      "id": "nc75394471",
-      "lon": -122.815002441406,
-      "lat": 38.7980003356934,
-      "depth": 3.29999995231628,
-      "mag": 0.75,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": 1783871962670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394471"
     }
   ]
 }
