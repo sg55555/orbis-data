@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-13T11:01:37Z",
-  "count": 222,
+  "updated": "2026-07-13T11:15:47Z",
+  "count": 213,
   "points": [
+    {
+      "id": "tx2026nrddlr",
+      "lon": -104.176,
+      "lat": 31.705,
+      "depth": 4.6057,
+      "mag": 1.4,
+      "place": "54 km W of Mentone, Texas",
+      "time": 1783940598256,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nrddlr"
+    },
     {
       "id": "nc75394876",
       "lon": -124.603332519531,
@@ -65,12 +75,12 @@
     },
     {
       "id": "tx2026nrbpyo",
-      "lon": -104.163,
-      "lat": 31.541,
-      "depth": 4.4132,
+      "lon": -104.151,
+      "lat": 31.482,
+      "depth": 0,
       "mag": 2.2,
-      "place": "43 km NW of Toyah, Texas",
-      "time": 1783937848908,
+      "place": "38 km WNW of Toyah, Texas",
+      "time": 1783937849185,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nrbpyo"
     },
     {
@@ -1062,16 +1072,6 @@
       "place": "5 km NNW of Boron, CA",
       "time": 1783898711100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292319"
-    },
-    {
-      "id": "tx2026nqfphq",
-      "lon": -101.4,
-      "lat": 32.006,
-      "depth": 2.856,
-      "mag": 2.2,
-      "place": "11 km SSW of Forsan, Texas",
-      "time": 1783897976110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqfphq"
     },
     {
       "id": "aka2026nskijl",
@@ -2132,96 +2132,6 @@
       "place": "2 km WSW of Indios, Puerto Rico",
       "time": 1783855268800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523478"
-    },
-    {
-      "id": "ci41291943",
-      "lon": -116.846666666667,
-      "lat": 33.7208333333333,
-      "depth": 15.83,
-      "mag": 0.66,
-      "place": "5 km SE of Valle Vista, CA",
-      "time": 1783854693520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291943"
-    },
-    {
-      "id": "ci41291935",
-      "lon": -118.916833333333,
-      "lat": 34.8078333333333,
-      "depth": 13.45,
-      "mag": 1.46,
-      "place": "3 km ESE of Frazier Park, CA",
-      "time": 1783854689630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291935"
-    },
-    {
-      "id": "tx2026nphram",
-      "lon": -101.934,
-      "lat": 32.267,
-      "depth": 4.4315,
-      "mag": 1.1,
-      "place": "20 km NW of Stanton, Texas",
-      "time": 1783854647980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nphram"
-    },
-    {
-      "id": "ci41291927",
-      "lon": -117.669833333333,
-      "lat": 35.8595,
-      "depth": 9.27,
-      "mag": 0.27,
-      "place": "23 km ESE of Little Lake, CA",
-      "time": 1783854628400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291927"
-    },
-    {
-      "id": "us7000szuz",
-      "lon": -174.917,
-      "lat": -22.6035,
-      "depth": 10,
-      "mag": 5,
-      "place": "139 km S of ‘Ohonua, Tonga",
-      "time": 1783854585067,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szuz"
-    },
-    {
-      "id": "ci41291919",
-      "lon": -118.9055,
-      "lat": 34.8348333333333,
-      "depth": 10.23,
-      "mag": 1.15,
-      "place": "4 km WSW of Lebec, CA",
-      "time": 1783854176860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291919"
-    },
-    {
-      "id": "aka2026nrmhru",
-      "lon": -151.06,
-      "lat": 62.244,
-      "depth": 76.4,
-      "mag": 2.3,
-      "place": "31 km SSW of Petersville, Alaska",
-      "time": 1783854161218,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nrmhru"
-    },
-    {
-      "id": "ci41291911",
-      "lon": -118.902333333333,
-      "lat": 34.8268333333333,
-      "depth": 10.39,
-      "mag": 1.46,
-      "place": "4 km WSW of Lebec, CA",
-      "time": 1783854133710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291911"
-    },
-    {
-      "id": "ci41291903",
-      "lon": -118.915,
-      "lat": 34.8395,
-      "depth": 11.2,
-      "mag": 0.88,
-      "place": "3 km NE of Frazier Park, CA",
-      "time": 1783854130880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291903"
     }
   ]
 }
