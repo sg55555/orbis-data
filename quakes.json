@@ -1,16 +1,16 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-13T20:02:40Z",
-  "count": 268,
+  "updated": "2026-07-13T20:15:46Z",
+  "count": 270,
   "points": [
     {
       "id": "ci41293039",
-      "lon": -117.807998657227,
-      "lat": 35.3160018920898,
-      "depth": 6.98000001907349,
-      "mag": 1.66565733548811,
+      "lon": -117.809833333333,
+      "lat": 35.3156666666667,
+      "depth": 7.36,
+      "mag": 1.55,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1783972790440,
+      "time": 1783972790420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293039"
     },
     {
@@ -32,6 +32,16 @@
       "place": "4 km N of Frazier Park, CA",
       "time": 1783972358730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293023"
+    },
+    {
+      "id": "us7000t05y",
+      "lon": 171.5441,
+      "lat": -23.0777,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "southeast of the Loyalty Islands",
+      "time": 1783972112876,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t05y"
     },
     {
       "id": "hv75001786",
@@ -245,12 +255,12 @@
     },
     {
       "id": "ci41292863",
-      "lon": -116.442166666667,
-      "lat": 33.4441666666667,
-      "depth": 11.31,
-      "mag": 0.98,
+      "lon": -116.442333333333,
+      "lat": 33.4413333333333,
+      "depth": 12.48,
+      "mag": 1.02,
       "place": "22 km NNW of Borrego Springs, CA",
-      "time": 1783967482380,
+      "time": 1783967482280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292863"
     },
     {
@@ -834,6 +844,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ntpkru"
     },
     {
+      "id": "tx2026nrkbjv",
+      "lon": -103.592,
+      "lat": 31.21,
+      "depth": 4.8181,
+      "mag": 1.1,
+      "place": "18 km SSW of Lindsay, Texas",
+      "time": 1783953125623,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nrkbjv"
+    },
+    {
       "id": "ci41292583",
       "lon": -116.962166666667,
       "lat": 33.9218333333333,
@@ -922,6 +942,16 @@
       "place": "10 km SSE of Big Bear Lake, CA",
       "time": 1783950896250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292551"
+    },
+    {
+      "id": "tx2026nriolq",
+      "lon": -101.478,
+      "lat": 32.123,
+      "depth": 6.5186,
+      "mag": 1,
+      "place": "10 km W of Forsan, Texas",
+      "time": 1783950421614,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nriolq"
     },
     {
       "id": "nc75394921",
@@ -1105,12 +1135,12 @@
     },
     {
       "id": "ci41292511",
-      "lon": -115.737335205078,
-      "lat": 32.6333351135254,
-      "depth": 4.6100001335144,
-      "mag": 1.10056953395815,
+      "lon": -115.744,
+      "lat": 32.6298333333333,
+      "depth": 4.11,
+      "mag": 0.52,
       "place": "16 km WNW of Progreso, B.C., MX",
-      "time": 1783944599700,
+      "time": 1783944599730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292511"
     },
     {
@@ -1222,6 +1252,16 @@
       "place": "56 km S of Whites City, New Mexico",
       "time": 1783938970676,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nrcgak"
+    },
+    {
+      "id": "ci10245822",
+      "lon": -116.811,
+      "lat": 33.704,
+      "depth": 16.28,
+      "mag": 0.01,
+      "place": "9 km ESE of Valle Vista, CA",
+      "time": 1783938741930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10245822"
     },
     {
       "id": "ci41292495",
@@ -2662,26 +2702,6 @@
       "place": "4 km S of Guánica, Puerto Rico",
       "time": 1783887349320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523528"
-    },
-    {
-      "id": "tx2026npzowr",
-      "lon": -99.091,
-      "lat": 28.581,
-      "depth": 7.3679,
-      "mag": 2.4,
-      "place": "12 km SE of Dilley, Texas",
-      "time": 1783887084078,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026npzowr"
-    },
-    {
-      "id": "aka2026nsemvm",
-      "lon": -153.406,
-      "lat": 59.208,
-      "depth": 90.8,
-      "mag": 1.1,
-      "place": "72 km ESE of Pope-Vannoy Landing, Alaska",
-      "time": 1783886900549,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nsemvm"
     }
   ]
 }
