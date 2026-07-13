@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-13T07:45:49Z",
+  "updated": "2026-07-13T08:01:34Z",
   "count": 223,
   "points": [
+    {
+      "id": "nc75394796",
+      "lon": -121.318664550781,
+      "lat": 36.8553352355957,
+      "depth": 5.15000009536743,
+      "mag": 0.88,
+      "place": "6 km NE of Ridgemark, CA",
+      "time": 1783928995910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394796"
+    },
+    {
+      "id": "tx2026nqwmjo",
+      "lon": -104.425,
+      "lat": 31.669,
+      "depth": 6.3942,
+      "mag": 2.1,
+      "place": "56 km S of Whites City, New Mexico",
+      "time": 1783928557912,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqwmjo"
+    },
     {
       "id": "tx2026nqvyfw",
       "lon": -104.425,
       "lat": 31.67,
-      "depth": 6.6322,
+      "depth": 6.6375,
       "mag": 2.1,
       "place": "56 km S of Whites City, New Mexico",
-      "time": 1783927608322,
+      "time": 1783927608318,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqvyfw"
     },
     {
@@ -215,12 +235,12 @@
     },
     {
       "id": "tx2026nqsjiw",
-      "lon": -104.223,
-      "lat": 31.768,
-      "depth": 4.379,
+      "lon": -104.219,
+      "lat": 31.767,
+      "depth": 6.3947,
       "mag": 2.4,
       "place": "47 km SSE of Whites City, New Mexico",
-      "time": 1783921104859,
+      "time": 1783921104674,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqsjiw"
     },
     {
@@ -2212,26 +2232,6 @@
       "place": "17 km WSW of Deep Springs, CA",
       "time": 1783843323670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394371"
-    },
-    {
-      "id": "nc75394366",
-      "lon": -122.799163818359,
-      "lat": 38.8236656188965,
-      "depth": 2.90000009536743,
-      "mag": 0.77,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1783843165270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394366"
-    },
-    {
-      "id": "uw714047742",
-      "lon": -122.127830505371,
-      "lat": 48.724666595459,
-      "depth": 8.23999977111816,
-      "mag": 1.57212072610855,
-      "place": "5 km E of Acme, Washington",
-      "time": 1783842349070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714047742"
     }
   ]
 }
