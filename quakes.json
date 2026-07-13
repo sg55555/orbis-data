@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-13T00:45:44Z",
-  "count": 227,
+  "updated": "2026-07-13T01:01:23Z",
+  "count": 228,
   "points": [
     {
+      "id": "tx2026nqiupm",
+      "lon": -104.383,
+      "lat": 31.652,
+      "depth": 8.2671,
+      "mag": 1.7,
+      "place": "58 km S of Whites City, New Mexico",
+      "time": 1783903790703,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqiupm"
+    },
+    {
       "id": "tx2026nqhubl",
-      "lon": -103.327,
-      "lat": 31.312,
-      "depth": 6.6971,
-      "mag": 1.5,
-      "place": "17 km SSE of Barstow, Texas",
-      "time": 1783901929067,
+      "lon": -103.442,
+      "lat": 31.3,
+      "depth": 15.5634,
+      "mag": 2.1,
+      "place": "11 km SE of Lindsay, Texas",
+      "time": 1783901925405,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqhubl"
     },
     {
@@ -72,6 +82,16 @@
       "place": "9 km N of Redwood Valley, CA",
       "time": 1783900027810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394651"
+    },
+    {
+      "id": "us7000szyg",
+      "lon": 26.9756,
+      "lat": 36.5703,
+      "depth": 149.786,
+      "mag": 4.1,
+      "place": "14 km WSW of Mandráki, Greece",
+      "time": 1783899960181,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyg"
     },
     {
       "id": "tx2026nqgnro",
@@ -2262,16 +2282,6 @@
       "place": "49 km NNE of Chickaloon, Alaska",
       "time": 1783818573589,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nqsnlg"
-    },
-    {
-      "id": "nc75394186",
-      "lon": -122.788497924805,
-      "lat": 38.8089981079102,
-      "depth": 3,
-      "mag": 1.14,
-      "place": "4 km NW of The Geysers, CA",
-      "time": 1783818019420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394186"
     }
   ]
 }
