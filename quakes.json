@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-13T06:01:31Z",
-  "count": 224,
+  "updated": "2026-07-13T06:15:44Z",
+  "count": 223,
   "points": [
+    {
+      "id": "tx2026nqtkih",
+      "lon": -98.979,
+      "lat": 28.844,
+      "depth": 7.2728,
+      "mag": 2.1,
+      "place": "12 km ESE of Pearsall, Texas",
+      "time": 1783922975213,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqtkih"
+    },
     {
       "id": "aka2026nsyeqk",
       "lon": -150.891,
@@ -15,12 +25,12 @@
     },
     {
       "id": "ci41292383",
-      "lon": -115.748664855957,
-      "lat": 32.6243324279785,
-      "depth": 7.8899998664856,
-      "mag": 1.90586008011507,
-      "place": "16 km WNW of Progreso, B.C., MX",
-      "time": 1783922277090,
+      "lon": -115.752666666667,
+      "lat": 32.6313333333333,
+      "depth": 5.1,
+      "mag": 1.82,
+      "place": "17 km WNW of Progreso, B.C., MX",
+      "time": 1783922277000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292383"
     },
     {
@@ -2222,26 +2232,6 @@
       "place": "3 km SE of The Geysers, CA",
       "time": 1783837624610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394321"
-    },
-    {
-      "id": "nc75394311",
-      "lon": -122.841331481934,
-      "lat": 38.8266677856445,
-      "depth": 1.5900000333786,
-      "mag": 1.05,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1783836501540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394311"
-    },
-    {
-      "id": "ci41291743",
-      "lon": -116.3755,
-      "lat": 33.3386666666667,
-      "depth": 8.47,
-      "mag": 1.21,
-      "place": "9 km N of Borrego Springs, CA",
-      "time": 1783836077700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291743"
     }
   ]
 }
