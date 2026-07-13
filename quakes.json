@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-13T05:05:01Z",
+  "updated": "2026-07-13T05:15:47Z",
   "count": 224,
   "points": [
+    {
+      "id": "nc75394731",
+      "lon": -122.052001953125,
+      "lat": 37.9748344421387,
+      "depth": 14.1899995803833,
+      "mag": 1.93,
+      "place": "2 km ESE of Pacheco, CA",
+      "time": 1783919256600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394731"
+    },
     {
       "id": "nc75394726",
       "lon": -122.834167480469,
@@ -42,6 +52,16 @@
       "place": "16 km NNW of Mina, Nevada",
       "time": 1783916939158,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921567"
+    },
+    {
+      "id": "aka2026nsvelo",
+      "lon": -175.174,
+      "lat": 51.464,
+      "depth": 7.2,
+      "mag": 3.7,
+      "place": "105 km SW of Atka, Alaska",
+      "time": 1783916911224,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nsvelo"
     },
     {
       "id": "nc75394716",
@@ -335,12 +355,12 @@
     },
     {
       "id": "tx2026nqgnro",
-      "lon": -104.002,
-      "lat": 31.614,
-      "depth": 5.8283,
+      "lon": -104.008,
+      "lat": 31.617,
+      "depth": 7.3108,
       "mag": 1.5,
-      "place": "38 km NNW of Toyah, Texas",
-      "time": 1783899671917,
+      "place": "39 km NNW of Toyah, Texas",
+      "time": 1783899671534,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqgnro"
     },
     {
@@ -2222,26 +2242,6 @@
       "place": "10 km ESE of Pearsall, Texas",
       "time": 1783833612936,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nowaxy"
-    },
-    {
-      "id": "nc75394291",
-      "lon": -122.788497924805,
-      "lat": 38.824333190918,
-      "depth": 1.54999995231628,
-      "mag": 1.09,
-      "place": "6 km W of Cobb, CA",
-      "time": 1783833226140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394291"
-    },
-    {
-      "id": "nc75394286",
-      "lon": -122.78816986084,
-      "lat": 38.8246650695801,
-      "depth": 1.53999996185303,
-      "mag": 1.05,
-      "place": "6 km W of Cobb, CA",
-      "time": 1783833178560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394286"
     }
   ]
 }
