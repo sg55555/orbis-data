@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-13T10:02:55Z",
+  "updated": "2026-07-13T10:15:53Z",
   "count": 220,
   "points": [
+    {
+      "id": "nc75394866",
+      "lon": -122.766334533691,
+      "lat": 38.820499420166,
+      "depth": 1.91999995708466,
+      "mag": 1.31,
+      "place": "4 km W of Cobb, CA",
+      "time": 1783937619330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394866"
+    },
+    {
+      "id": "nc75394861",
+      "lon": -122.765502929688,
+      "lat": 38.7941665649414,
+      "depth": 3.52999997138977,
+      "mag": 0.74,
+      "place": "2 km NNW of The Geysers, CA",
+      "time": 1783937089370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394861"
+    },
     {
       "id": "ci41292487",
       "lon": -117.884666666667,
@@ -542,6 +562,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1783915955460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394716"
+    },
+    {
+      "id": "pr71523568",
+      "lon": -66.8415,
+      "lat": 17.9353333333333,
+      "depth": 12.4,
+      "mag": 2.12,
+      "place": "6 km SSW of Indios, Puerto Rico",
+      "time": 1783915596130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523568"
     },
     {
       "id": "tx2026nqnyrt",
@@ -2172,36 +2202,6 @@
       "place": "8 km SSE of Idyllwild, CA",
       "time": 1783851341750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291839"
-    },
-    {
-      "id": "ci41291831",
-      "lon": -117.679666666667,
-      "lat": 35.9453333333333,
-      "depth": 4.99,
-      "mag": 0.5,
-      "place": "20 km E of Little Lake, CA",
-      "time": 1783851307390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291831"
-    },
-    {
-      "id": "us7000szut",
-      "lon": -178.3336,
-      "lat": -20.7542,
-      "depth": 571.881,
-      "mag": 4.2,
-      "place": "Fiji region",
-      "time": 1783851002902,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szut"
-    },
-    {
-      "id": "us7000szus",
-      "lon": 122.4111,
-      "lat": 0.2198,
-      "depth": 152.278,
-      "mag": 4.7,
-      "place": "80 km WSW of Gorontalo, Indonesia",
-      "time": 1783850737142,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szus"
     }
   ]
 }
