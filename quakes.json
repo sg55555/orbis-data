@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-13T23:32:16Z",
-  "count": 302,
+  "updated": "2026-07-13T23:45:45Z",
+  "count": 303,
   "points": [
+    {
+      "id": "nc75395346",
+      "lon": -122.800498962402,
+      "lat": 38.8381652832031,
+      "depth": 2.11999988555908,
+      "mag": 0.88,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1783985660310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395346"
+    },
+    {
+      "id": "nc75395341",
+      "lon": -122.8193359375,
+      "lat": 38.8144989013672,
+      "depth": 2.65000009536743,
+      "mag": 1.61,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1783985655150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395341"
+    },
     {
       "id": "nc75395331",
       "lon": -122.813835144043,
@@ -182,6 +202,16 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1783980071630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293191"
+    },
+    {
+      "id": "us7000t06z",
+      "lon": 7.8819,
+      "lat": 73.7141,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "Greenland Sea",
+      "time": 1783980050419,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t06z"
     },
     {
       "id": "aka2026nueaik",
@@ -3002,26 +3032,6 @@
       "place": "14 km WSW of Mandráki, Greece",
       "time": 1783899960181,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyg"
-    },
-    {
-      "id": "tx2026nqgnro",
-      "lon": -104.005,
-      "lat": 31.615,
-      "depth": 7.843,
-      "mag": 1.5,
-      "place": "38 km NNW of Toyah, Texas",
-      "time": 1783899672009,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqgnro"
-    },
-    {
-      "id": "pr71523558",
-      "lon": -66.8355,
-      "lat": 17.9321666666667,
-      "depth": 15.65,
-      "mag": 2.01,
-      "place": "7 km SSW of Indios, Puerto Rico",
-      "time": 1783899282470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523558"
     }
   ]
 }
