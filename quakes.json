@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-13T03:01:25Z",
-  "count": 228,
+  "updated": "2026-07-13T03:15:46Z",
+  "count": 227,
   "points": [
+    {
+      "id": "nc75394706",
+      "lon": -122.763664245605,
+      "lat": 38.818000793457,
+      "depth": 1.58000004291534,
+      "mag": 0.82,
+      "place": "4 km W of Cobb, CA",
+      "time": 1783912224250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394706"
+    },
     {
       "id": "nc75394696",
       "lon": -122.83683013916,
@@ -2262,26 +2272,6 @@
       "place": "12 km SW of Volcano, Hawaii",
       "time": 1783827087490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75001181"
-    },
-    {
-      "id": "nc75394261",
-      "lon": -124.56566619873,
-      "lat": 40.2410011291504,
-      "depth": 6.55000019073486,
-      "mag": 2.17,
-      "place": "26 km WSW of Petrolia, CA",
-      "time": 1783826007870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394261"
-    },
-    {
-      "id": "us7000szt5",
-      "lon": 167.3355,
-      "lat": -15.0887,
-      "depth": 126.089,
-      "mag": 4.6,
-      "place": "28 km E of Port-Olry, Vanuatu",
-      "time": 1783825447694,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szt5"
     }
   ]
 }
