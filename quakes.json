@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-13T20:22:39Z",
-  "count": 268,
+  "updated": "2026-07-13T20:31:31Z",
+  "count": 267,
   "points": [
+    {
+      "id": "nc75395241",
+      "lon": -122.728500366211,
+      "lat": 38.757999420166,
+      "depth": 2.27999997138977,
+      "mag": 1.19,
+      "place": "3 km SE of The Geysers, CA",
+      "time": 1783974569640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395241"
+    },
     {
       "id": "aka2026nuayne",
       "lon": -154.688,
@@ -434,11 +444,21 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t048"
     },
     {
+      "id": "ci10245838",
+      "lon": -116.166166666667,
+      "lat": 33.8915,
+      "depth": 6.17,
+      "mag": 0.48,
+      "place": "20 km NNE of Indio, CA",
+      "time": 1783964333650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10245838"
+    },
+    {
       "id": "ci41292807",
-      "lon": -116.164666666667,
-      "lat": 33.8853333333333,
-      "depth": 5.35,
-      "mag": 0.65,
+      "lon": -116.166666666667,
+      "lat": 33.8856666666667,
+      "depth": 5.18,
+      "mag": 0.62,
       "place": "19 km NNE of Indio, CA",
       "time": 1783964317080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292807"
@@ -2652,36 +2672,6 @@
       "place": "11 km SSE of Dilley, Texas",
       "time": 1783889540714,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqayet"
-    },
-    {
-      "id": "uw714048012",
-      "lon": -122.705166666667,
-      "lat": 48.123,
-      "depth": 24.57,
-      "mag": 1.86,
-      "place": "4 km E of Port Townsend, Washington",
-      "time": 1783888126400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714048012"
-    },
-    {
-      "id": "ci41292247",
-      "lon": -118.930833333333,
-      "lat": 34.8011666666667,
-      "depth": 14.07,
-      "mag": 1.02,
-      "place": "3 km SSE of Frazier Park, CA",
-      "time": 1783887928990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292247"
-    },
-    {
-      "id": "nc75394551",
-      "lon": -122.760498046875,
-      "lat": 38.8223342895508,
-      "depth": 1.76999998092651,
-      "mag": 0.85,
-      "place": "3 km W of Cobb, CA",
-      "time": 1783887814340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394551"
     }
   ]
 }
