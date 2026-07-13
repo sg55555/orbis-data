@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-13T16:31:22Z",
-  "count": 218,
+  "updated": "2026-07-13T16:45:47Z",
+  "count": 215,
   "points": [
+    {
+      "id": "ci41292687",
+      "lon": -117.817169189453,
+      "lat": 35.3118324279785,
+      "depth": 6.96999979019165,
+      "mag": 4.08162034225859,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": 1783960855190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292687"
+    },
     {
       "id": "ci41292671",
       "lon": -117.023833333333,
@@ -85,12 +95,12 @@
     },
     {
       "id": "tx2026nrlvwy",
-      "lon": -103.179,
-      "lat": 30.836,
-      "depth": 0.8114,
-      "mag": 1.6,
-      "place": "29 km WSW of Fort Stockton, Texas",
-      "time": 1783956382100,
+      "lon": -103.219,
+      "lat": 30.945,
+      "depth": 1.8958,
+      "mag": 1.4,
+      "place": "32 km W of Fort Stockton, Texas",
+      "time": 1783956383937,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nrlvwy"
     },
     {
@@ -325,12 +335,12 @@
     },
     {
       "id": "uw714048332",
-      "lon": -122.142997741699,
-      "lat": 46.2065010070801,
-      "depth": 8.5,
-      "mag": 1.33000004,
-      "place": "40 km SSE of Morton, Washington",
-      "time": 1783946962480,
+      "lon": -122.1505,
+      "lat": 46.2025,
+      "depth": 6.93,
+      "mag": 0.68,
+      "place": "39 km NE of Amboy, Washington",
+      "time": 1783946962640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714048332"
     },
     {
@@ -1664,16 +1674,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292303"
     },
     {
-      "id": "tx2026nqeeeg",
-      "lon": -103.527,
-      "lat": 31.163,
-      "depth": 0.4562,
-      "mag": 1.8,
-      "place": "22 km S of Lindsay, Texas",
-      "time": 1783895390126,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqeeeg"
-    },
-    {
       "id": "ci41292287",
       "lon": -117.217333333333,
       "lat": 33.9566666666667,
@@ -1852,6 +1852,16 @@
       "place": "11 km SSE of Dilley, Texas",
       "time": 1783889540714,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqayet"
+    },
+    {
+      "id": "uw714048012",
+      "lon": -122.711669921875,
+      "lat": 48.1188316345215,
+      "depth": 23.5100002288818,
+      "mag": 1.86216926574707,
+      "place": "3 km E of Port Townsend, Washington",
+      "time": 1783888126500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714048012"
     },
     {
       "id": "ci41292247",
@@ -2142,46 +2152,6 @@
       "place": "2 km NNE of The Geysers, CA",
       "time": 1783874879920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394496"
-    },
-    {
-      "id": "ci10245774",
-      "lon": -116.815333333333,
-      "lat": 33.699,
-      "depth": 15.53,
-      "mag": -0.07,
-      "place": "9 km SE of Valle Vista, CA",
-      "time": 1783874532300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10245774"
-    },
-    {
-      "id": "ci41292167",
-      "lon": -116.814833333333,
-      "lat": 33.7055,
-      "depth": 14.42,
-      "mag": 0.17,
-      "place": "9 km ESE of Valle Vista, CA",
-      "time": 1783874516060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292167"
-    },
-    {
-      "id": "nc75394491",
-      "lon": -122.814331054688,
-      "lat": 38.7985000610352,
-      "depth": 3.03999996185303,
-      "mag": 1.05,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": 1783874186200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394491"
-    },
-    {
-      "id": "us7000szwc",
-      "lon": 173.5183,
-      "lat": -42.5781,
-      "depth": 29.352,
-      "mag": 4.6,
-      "place": "58 km E of Hanmer Springs, New Zealand",
-      "time": 1783873868579,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szwc"
     }
   ]
 }
