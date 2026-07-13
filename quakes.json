@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-13T09:45:46Z",
-  "count": 223,
+  "updated": "2026-07-13T10:02:55Z",
+  "count": 220,
   "points": [
+    {
+      "id": "ci41292487",
+      "lon": -117.884666666667,
+      "lat": 36.1153333333333,
+      "depth": 5.11,
+      "mag": 0.69,
+      "place": "10 km NE of Coso Junction, CA",
+      "time": 1783936656460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292487"
+    },
+    {
+      "id": "nn00921593",
+      "lon": -119.0038,
+      "lat": 39.3524,
+      "depth": 10.4786,
+      "mag": 2.9,
+      "place": "20 km ESE of Silver Springs, Nevada",
+      "time": 1783935963079,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921593"
+    },
     {
       "id": "aka2026ntfodx",
       "lon": -147.667,
@@ -37,10 +57,10 @@
       "id": "tx2026nqzzsz",
       "lon": -104.476,
       "lat": 31.578,
-      "depth": 0.3717,
+      "depth": 0.3513,
       "mag": 0.9,
       "place": "66 km S of Whites City, New Mexico",
-      "time": 1783934908286,
+      "time": 1783934908282,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqzzsz"
     },
     {
@@ -2182,56 +2202,6 @@
       "place": "80 km WSW of Gorontalo, Indonesia",
       "time": 1783850737142,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szus"
-    },
-    {
-      "id": "ci41291823",
-      "lon": -117.557166666667,
-      "lat": 35.7271666666667,
-      "depth": 5.39,
-      "mag": 0.58,
-      "place": "15 km WSW of Searles Valley, CA",
-      "time": 1783850527680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291823"
-    },
-    {
-      "id": "nc75394391",
-      "lon": -122.811836242676,
-      "lat": 38.8358345031738,
-      "depth": 2.10999989509583,
-      "mag": 0.75,
-      "place": "8 km WNW of Cobb, CA",
-      "time": 1783850357450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394391"
-    },
-    {
-      "id": "aka2026nrjzgo",
-      "lon": -150.233,
-      "lat": 61.799,
-      "depth": 35.5,
-      "mag": 1.9,
-      "place": "11 km WNW of Willow, Alaska",
-      "time": 1783849978913,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nrjzgo"
-    },
-    {
-      "id": "aka2026nrjxxc",
-      "lon": -153.094,
-      "lat": 56.797,
-      "depth": 22.1,
-      "mag": 2.2,
-      "place": "46 km SSE of Old Harbor, Alaska",
-      "time": 1783849883917,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nrjxxc"
-    },
-    {
-      "id": "aka2026nrjtdu",
-      "lon": -150.015,
-      "lat": 61.567,
-      "depth": 28.6,
-      "mag": 1.4,
-      "place": "6 km NNW of Big Lake, Alaska",
-      "time": 1783849556793,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nrjtdu"
     }
   ]
 }
