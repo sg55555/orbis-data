@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T00:15:45Z",
-  "count": 299,
+  "updated": "2026-07-14T00:31:14Z",
+  "count": 301,
   "points": [
+    {
+      "id": "ci41293375",
+      "lon": -117.856333333333,
+      "lat": 33.8036666666667,
+      "depth": 4.75,
+      "mag": 1.45,
+      "place": "2 km W of Orange, CA",
+      "time": 1783988795840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293375"
+    },
+    {
+      "id": "nc75395356",
+      "lon": -122.880332946777,
+      "lat": 38.8424987792969,
+      "depth": 2.33999991416931,
+      "mag": 1.02,
+      "place": "13 km ENE of Cloverdale, CA",
+      "time": 1783988477510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395356"
+    },
     {
       "id": "ci41293359",
       "lon": -117.2565,
@@ -22,6 +42,16 @@
       "place": "28 km ENE of McKinney Acres, Texas",
       "time": 1783987365431,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nsczdp"
+    },
+    {
+      "id": "pr71523878",
+      "lon": -67.1533333333333,
+      "lat": 18.0065,
+      "depth": 13.82,
+      "mag": 2.15,
+      "place": "2 km SE of Boquerón, Puerto Rico",
+      "time": 1783986717990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523878"
     },
     {
       "id": "tx2026nscgby",
@@ -305,12 +335,12 @@
     },
     {
       "id": "hv75001851",
-      "lon": -155.507507324219,
-      "lat": 19.1576671600342,
-      "depth": 29.8099994659424,
-      "mag": 2.65,
-      "place": "5 km SSW of Pāhala, Hawaii",
-      "time": 1783978347220,
+      "lon": -155.505,
+      "lat": 19.1695,
+      "depth": 30.9,
+      "mag": 2.28,
+      "place": "4 km SW of Pāhala, Hawaii",
+      "time": 1783978347260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75001851"
     },
     {
@@ -1785,12 +1815,12 @@
     },
     {
       "id": "hv75001656",
-      "lon": -155.20182800293,
-      "lat": 19.3341674804688,
-      "depth": 0.829999983310699,
-      "mag": 1.93,
-      "place": "12 km SSE of Volcano, Hawaii",
-      "time": 1783941173740,
+      "lon": -155.197,
+      "lat": 19.3281666666667,
+      "depth": 1.75,
+      "mag": 1.7,
+      "place": "13 km SSE of Volcano, Hawaii",
+      "time": 1783941173830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75001656"
     },
     {
@@ -2982,16 +3012,6 @@
       "place": "11 km S of Princeton, Canada",
       "time": 1783903475120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714048122"
-    },
-    {
-      "id": "tx2026nqhubl",
-      "lon": -103.399,
-      "lat": 31.286,
-      "depth": 5.177,
-      "mag": 1.7,
-      "place": "16 km SE of Lindsay, Texas",
-      "time": 1783901928191,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqhubl"
     }
   ]
 }
