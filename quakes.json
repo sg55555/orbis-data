@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T04:45:46Z",
-  "count": 313,
+  "updated": "2026-07-14T05:01:23Z",
+  "count": 314,
   "points": [
+    {
+      "id": "ci41293495",
+      "lon": -116.450333333333,
+      "lat": 33.4813333333333,
+      "depth": 12.1,
+      "mag": 1.7,
+      "place": "22 km ESE of Anza, CA",
+      "time": 1784004997900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293495"
+    },
     {
       "id": "nc75395481",
       "lon": -122.773002624512,
@@ -1724,6 +1734,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75001721"
     },
     {
+      "id": "av94306803",
+      "lon": -155.334,
+      "lat": 58.1843333333333,
+      "depth": 0.54,
+      "mag": -0.31,
+      "place": "86 km NW of Karluk, Alaska",
+      "time": 1783956524330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94306803"
+    },
+    {
       "id": "tx2026nrlvwy",
       "lon": -103.219,
       "lat": 30.945,
@@ -1752,6 +1772,16 @@
       "place": "1 km NW of The Geysers, CA",
       "time": 1783954992880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394981"
+    },
+    {
+      "id": "av93063994",
+      "lon": -164.427833333333,
+      "lat": 54.551,
+      "depth": 6.38,
+      "mag": 0.52,
+      "place": "73 km WSW of False Pass, Alaska",
+      "time": 1783954937670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063994"
     },
     {
       "id": "aka2026ntqdge",
@@ -3112,26 +3142,6 @@
       "place": "10 km WNW of Cobb, CA",
       "time": 1783918846760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394726"
-    },
-    {
-      "id": "av94305818",
-      "lon": -153.152833333333,
-      "lat": 60.049,
-      "depth": 5.28,
-      "mag": -0.4,
-      "place": "60 km ENE of Pedro Bay, Alaska",
-      "time": 1783918656480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94305818"
-    },
-    {
-      "id": "ci41292367",
-      "lon": -116.717666666667,
-      "lat": 33.5306666666667,
-      "depth": 5.12,
-      "mag": 1.09,
-      "place": "5 km WSW of Anza, CA",
-      "time": 1783918468560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292367"
     }
   ]
 }
