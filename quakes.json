@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T15:31:23Z",
-  "count": 316,
+  "updated": "2026-07-14T15:45:47Z",
+  "count": 317,
   "points": [
+    {
+      "id": "nc75395726",
+      "lon": -122.804664611816,
+      "lat": 38.8183326721191,
+      "depth": 3.09999990463257,
+      "mag": 0.85,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1784043423400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395726"
+    },
     {
       "id": "ci41293951",
       "lon": -116.713333333333,
@@ -22,6 +32,16 @@
       "place": "17 km NNE of Las Terrenas, Dominican Republic",
       "time": 1784042413000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26195050"
+    },
+    {
+      "id": "tx2026nthiii",
+      "lon": -102.057,
+      "lat": 32.346,
+      "depth": 8.2764,
+      "mag": 0.8,
+      "place": "34 km NW of Stanton, Texas",
+      "time": 1784042319862,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nthiii"
     },
     {
       "id": "hv75002396",
@@ -275,12 +295,12 @@
     },
     {
       "id": "ci41293831",
-      "lon": -120.032166666667,
-      "lat": 35.4408333333333,
+      "lon": -120.0395,
+      "lat": 35.4395,
       "depth": 9.61,
-      "mag": 2.01,
+      "mag": 2.04,
       "place": "10 km NNW of Simmler, CA",
-      "time": 1784033600380,
+      "time": 1784033600390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293831"
     },
     {
@@ -1705,12 +1725,12 @@
     },
     {
       "id": "ci41293375",
-      "lon": -117.856333333333,
-      "lat": 33.8036666666667,
-      "depth": 4.75,
-      "mag": 1.45,
+      "lon": -117.856166666667,
+      "lat": 33.8048333333333,
+      "depth": 4.36,
+      "mag": 1.37,
       "place": "2 km W of Orange, CA",
-      "time": 1783988795840,
+      "time": 1783988795850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293375"
     },
     {
@@ -1932,6 +1952,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1783981596470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395296"
+    },
+    {
+      "id": "uw714048992",
+      "lon": -122.463836669922,
+      "lat": 45.8945007324219,
+      "depth": 0.00999999977648258,
+      "mag": 1.87389826774597,
+      "place": "2 km SW of Amboy, Washington",
+      "time": 1783981531560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714048992"
     },
     {
       "id": "ci41293207",
@@ -3142,26 +3172,6 @@
       "place": "9 km NE of San Simeon, CA",
       "time": 1783958314100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395016"
-    },
-    {
-      "id": "tx2026nrmcsu",
-      "lon": -104.377,
-      "lat": 31.64,
-      "depth": 6.0999,
-      "mag": 1.5,
-      "place": "59 km S of Whites City, New Mexico",
-      "time": 1783956883282,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nrmcsu"
-    },
-    {
-      "id": "hv75001721",
-      "lon": -155.372161865234,
-      "lat": 19.1246662139893,
-      "depth": 28.5599994659424,
-      "mag": 1.94,
-      "place": "14 km SE of Pāhala, Hawaii",
-      "time": 1783956778290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75001721"
     }
   ]
 }
