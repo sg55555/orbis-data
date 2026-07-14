@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T15:15:53Z",
-  "count": 315,
+  "updated": "2026-07-14T15:31:23Z",
+  "count": 316,
   "points": [
+    {
+      "id": "ci41293951",
+      "lon": -116.713333333333,
+      "lat": 33.5408333333333,
+      "depth": 6.02,
+      "mag": 0.57,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1784042453910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293951"
+    },
+    {
+      "id": "pt26195050",
+      "lon": -69.458,
+      "lat": 19.45,
+      "depth": 1,
+      "mag": 4.5,
+      "place": "17 km NNE of Las Terrenas, Dominican Republic",
+      "time": 1784042413000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26195050"
+    },
+    {
+      "id": "hv75002396",
+      "lon": -155.389007568359,
+      "lat": 19.2584991455078,
+      "depth": 33.5800018310547,
+      "mag": 1.98,
+      "place": "11 km ENE of Pāhala, Hawaii",
+      "time": 1784042101490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002396"
+    },
     {
       "id": "nc75395721",
       "lon": -122.816833496094,
@@ -92,6 +122,16 @@
       "place": "20 km E of Forsan, Texas",
       "time": 1784038595339,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ntfduz"
+    },
+    {
+      "id": "tx2026ntfahy",
+      "lon": -98.97,
+      "lat": 28.86,
+      "depth": 7.2627,
+      "mag": 2,
+      "place": "12 km ESE of Pearsall, Texas",
+      "time": 1784038134901,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ntfahy"
     },
     {
       "id": "ci41293879",
@@ -1005,12 +1045,12 @@
     },
     {
       "id": "ci41293591",
-      "lon": -116.383333333333,
-      "lat": 32.0966666666667,
-      "depth": 7.79,
-      "mag": 1.88,
-      "place": "34 km NE of Ensenada, B.C., MX",
-      "time": 1784011349690,
+      "lon": -116.383,
+      "lat": 32.0916666666667,
+      "depth": 11.03,
+      "mag": 1.86,
+      "place": "33 km NE of Ensenada, B.C., MX",
+      "time": 1784011349650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293591"
     },
     {
@@ -3122,36 +3162,6 @@
       "place": "14 km SE of Pāhala, Hawaii",
       "time": 1783956778290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75001721"
-    },
-    {
-      "id": "av94306803",
-      "lon": -155.334,
-      "lat": 58.1843333333333,
-      "depth": 0.54,
-      "mag": -0.31,
-      "place": "86 km NW of Karluk, Alaska",
-      "time": 1783956524330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94306803"
-    },
-    {
-      "id": "tx2026nrlvwy",
-      "lon": -103.219,
-      "lat": 30.945,
-      "depth": 1.8958,
-      "mag": 1.4,
-      "place": "32 km W of Fort Stockton, Texas",
-      "time": 1783956383937,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nrlvwy"
-    },
-    {
-      "id": "ok2026npuh",
-      "lon": -95.08766667,
-      "lat": 35.59966667,
-      "depth": 0,
-      "mag": 1.34,
-      "place": "2 km N of Notiechtown, Oklahoma",
-      "time": 1783955734829,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026npuh"
     }
   ]
 }
