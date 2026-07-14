@@ -1,14 +1,24 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T06:31:19Z",
-  "count": 314,
+  "updated": "2026-07-14T06:37:07Z",
+  "count": 313,
   "points": [
+    {
+      "id": "hv75002156",
+      "lon": -155.495666503906,
+      "lat": 19.1771659851074,
+      "depth": 29.2199993133545,
+      "mag": 2.75,
+      "place": "3 km SSW of Pāhala, Hawaii",
+      "time": 1784010728370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002156"
+    },
     {
       "id": "hv75002151",
       "lon": -155.348007202148,
       "lat": 20.0121669769287,
       "depth": 9.93000030517578,
-      "mag": 2.77999997,
+      "mag": 2.34,
       "place": "3 km SE of Pa‘auilo, Hawaii",
       "time": 1784010447350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002151"
@@ -52,6 +62,16 @@
       "place": "4 km SSW of Redlands, CA",
       "time": 1784009764520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293559"
+    },
+    {
+      "id": "us7000t097",
+      "lon": 66.9107,
+      "lat": -14.9372,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "Mid-Indian Ridge",
+      "time": 1784009706359,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t097"
     },
     {
       "id": "tx2026nsoutz",
@@ -3112,36 +3132,6 @@
       "place": "6 km SSE of San Clemente, CA",
       "time": 1783924693600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292415"
-    },
-    {
-      "id": "tx2026nqugmb",
-      "lon": -102.111,
-      "lat": 32.439,
-      "depth": 4.6134,
-      "mag": 1.7,
-      "place": "35 km SSW of Los Ybanez, Texas",
-      "time": 1783924515291,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqugmb"
-    },
-    {
-      "id": "uw714048262",
-      "lon": -122.607666666667,
-      "lat": 48.2873333333333,
-      "depth": 24.37,
-      "mag": 0.91,
-      "place": "2 km ESE of Oak Harbor, Washington",
-      "time": 1783924473860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714048262"
-    },
-    {
-      "id": "uw714048252",
-      "lon": -122.382,
-      "lat": 46.4996666666667,
-      "depth": 17.54,
-      "mag": 0.54,
-      "place": "8 km ESE of Mossyrock, Washington",
-      "time": 1783924242560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714048252"
     }
   ]
 }
