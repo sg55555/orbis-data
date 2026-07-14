@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T09:15:45Z",
+  "updated": "2026-07-14T09:31:35Z",
   "count": 313,
   "points": [
+    {
+      "id": "tx2026nsvrfn",
+      "lon": -104.018,
+      "lat": 31.522,
+      "depth": 4.9322,
+      "mag": 1.6,
+      "place": "31 km NW of Toyah, Texas",
+      "time": 1784021220506,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nsvrfn"
+    },
     {
       "id": "nc75395546",
       "lon": -123.219665527344,
@@ -322,6 +332,16 @@
       "place": "2 km W of Glen Ellen, CA",
       "time": 1784011903480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395516"
+    },
+    {
+      "id": "us7000t09h",
+      "lon": 108.227,
+      "lat": 14.7321,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "48 km NNE of Kon Tum, Vietnam",
+      "time": 1784011685687,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t09h"
     },
     {
       "id": "ci41293599",
@@ -3112,26 +3132,6 @@
       "place": "3 km SE of The Geysers, CA",
       "time": 1783935485220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394846"
-    },
-    {
-      "id": "tx2026nqzzsz",
-      "lon": -104.454,
-      "lat": 31.669,
-      "depth": 5.1341,
-      "mag": 0.3,
-      "place": "56 km S of Whites City, New Mexico",
-      "time": 1783934908687,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqzzsz"
-    },
-    {
-      "id": "nc75394841",
-      "lon": -122.847663879395,
-      "lat": 38.8498344421387,
-      "depth": 1.52999997138977,
-      "mag": 0.63,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1783934812100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394841"
     }
   ]
 }
