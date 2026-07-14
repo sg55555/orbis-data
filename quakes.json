@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T11:15:46Z",
-  "count": 313,
+  "updated": "2026-07-14T11:31:25Z",
+  "count": 315,
   "points": [
+    {
+      "id": "nc75395581",
+      "lon": -122.768836975098,
+      "lat": 38.8026657104492,
+      "depth": 3.77999997138977,
+      "mag": 0.48,
+      "place": "3 km NNW of The Geysers, CA",
+      "time": 1784028326370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395581"
+    },
+    {
+      "id": "ci41293751",
+      "lon": -117.7135,
+      "lat": 36.0213333333333,
+      "depth": 2.3,
+      "mag": 1.5,
+      "place": "20 km ENE of Little Lake, CA",
+      "time": 1784028321370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293751"
+    },
     {
       "id": "nc75395576",
       "lon": -121.451835632324,
@@ -62,6 +82,16 @@
       "place": "18 km WSW of Johannesburg, CA",
       "time": 1784024609100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293727"
+    },
+    {
+      "id": "pr71523998",
+      "lon": -66.9905,
+      "lat": 18.0446666666667,
+      "depth": 10.29,
+      "mag": 2,
+      "place": "4 km SW of Sabana Grande, Puerto Rico",
+      "time": 1784024424810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523998"
     },
     {
       "id": "aka2026nvcmky",
@@ -362,6 +392,16 @@
       "place": "11 km WNW of The Geysers, CA",
       "time": 1784013852040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395531"
+    },
+    {
+      "id": "pr71523943",
+      "lon": -66.7343333333333,
+      "lat": 18.0135,
+      "depth": 15.01,
+      "mag": 2.22,
+      "place": "2 km NW of Tallaboa, Puerto Rico",
+      "time": 1784013843580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523943"
     },
     {
       "id": "us7000t09r",
@@ -3112,26 +3152,6 @@
       "place": "4 km ESE of Sutton-Alpine, Alaska",
       "time": 1783942660685,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ntjmpw"
-    },
-    {
-      "id": "ci41292503",
-      "lon": -116.385833333333,
-      "lat": 33.44,
-      "depth": 8.17,
-      "mag": 0.3,
-      "place": "20 km N of Borrego Springs, CA",
-      "time": 1783941461680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292503"
-    },
-    {
-      "id": "aka2026ntitsv",
-      "lon": -159.744,
-      "lat": 55.96,
-      "depth": 13.4,
-      "mag": 2.1,
-      "place": "17 km WNW of Ivanof Bay, Alaska",
-      "time": 1783941350673,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ntitsv"
     }
   ]
 }
