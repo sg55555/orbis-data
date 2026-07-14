@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T02:01:22Z",
-  "count": 305,
+  "updated": "2026-07-14T02:15:47Z",
+  "count": 307,
   "points": [
+    {
+      "id": "ci41293415",
+      "lon": -116.745666503906,
+      "lat": 33.6213340759277,
+      "depth": 19.7000007629395,
+      "mag": 1.21214365967078,
+      "place": "10 km NW of Anza, CA",
+      "time": 1783994923760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293415"
+    },
+    {
+      "id": "ci41293407",
+      "lon": -116.2055,
+      "lat": 33.8736666666667,
+      "depth": 8.42,
+      "mag": 1.11,
+      "place": "17 km N of Indio, CA",
+      "time": 1783994747490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293407"
+    },
     {
       "id": "nc75395411",
       "lon": -122.81600189209,
@@ -42,6 +62,16 @@
       "place": "34 km SE of Sarangani, Philippines",
       "time": 1783993104646,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t085"
+    },
+    {
+      "id": "us7000t083",
+      "lon": 171.4439,
+      "lat": -22.7425,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "southeast of the Loyalty Islands",
+      "time": 1783992450487,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t083"
     },
     {
       "id": "ci41293391",
@@ -742,6 +772,16 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1783970709080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292975"
+    },
+    {
+      "id": "uw714048722",
+      "lon": -121.917333333333,
+      "lat": 48.088,
+      "depth": -0.39,
+      "mag": 1.57,
+      "place": "3 km E of Granite Falls, Washington",
+      "time": 1783970689530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714048722"
     },
     {
       "id": "pr71523808",
@@ -3032,26 +3072,6 @@
       "place": "13 km ESE of Pearsall, Texas",
       "time": 1783910245143,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqmjoa"
-    },
-    {
-      "id": "us7000szz0",
-      "lon": -113.1803,
-      "lat": 47.2759,
-      "depth": 10,
-      "mag": 2.6,
-      "place": "25 km ENE of Seeley Lake, Montana",
-      "time": 1783908635798,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szz0"
-    },
-    {
-      "id": "tx2026nqllvk",
-      "lon": -101.403,
-      "lat": 32.008,
-      "depth": 7.3975,
-      "mag": 0.9,
-      "place": "11 km SSW of Forsan, Texas",
-      "time": 1783908595861,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqllvk"
     }
   ]
 }
