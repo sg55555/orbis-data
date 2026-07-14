@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T22:01:32Z",
-  "count": 282,
+  "updated": "2026-07-14T22:28:12Z",
+  "count": 279,
   "points": [
+    {
+      "id": "tx2026ntvhdh",
+      "lon": -103.293,
+      "lat": 31.191,
+      "depth": 1.03,
+      "mag": 1.9,
+      "place": "22 km WSW of Coyanosa, Texas",
+      "time": 1784067583113,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ntvhdh"
+    },
     {
       "id": "nc75395996",
       "lon": -122.818496704102,
@@ -1904,6 +1914,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523938"
     },
     {
+      "id": "av93064149",
+      "lon": -177.431833333333,
+      "lat": 51.871,
+      "depth": -1.78,
+      "mag": 0.47,
+      "place": "54 km W of Adak, Alaska",
+      "time": 1784009190640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064149"
+    },
+    {
       "id": "tx2026nsoujh",
       "lon": -103.859,
       "lat": 31.996,
@@ -2772,56 +2792,6 @@
       "place": "9 km NNW of Big Spring, Texas",
       "time": 1783981752227,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nrzwim"
-    },
-    {
-      "id": "nc75395296",
-      "lon": -122.813667297363,
-      "lat": 38.8203315734863,
-      "depth": 2.80999994277954,
-      "mag": 0.77,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1783981596470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395296"
-    },
-    {
-      "id": "uw714048992",
-      "lon": -122.443333333333,
-      "lat": 45.8268333333333,
-      "depth": -0.75,
-      "mag": 1.56,
-      "place": "5 km SSW of Yacolt, Washington",
-      "time": 1783981530280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714048992"
-    },
-    {
-      "id": "ci41293207",
-      "lon": -116.974333333333,
-      "lat": 34.0006666666667,
-      "depth": 11.93,
-      "mag": 0.62,
-      "place": "7 km ESE of Yucaipa, CA",
-      "time": 1783980904640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293207"
-    },
-    {
-      "id": "ci41293199",
-      "lon": -116.976333333333,
-      "lat": 33.9971666666667,
-      "depth": 11.09,
-      "mag": 1.08,
-      "place": "7 km E of Calimesa, CA",
-      "time": 1783980413700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293199"
-    },
-    {
-      "id": "ci41293191",
-      "lon": -117.815333333333,
-      "lat": 35.3225,
-      "depth": 6.84,
-      "mag": 1.19,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1783980071630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293191"
     }
   ]
 }
