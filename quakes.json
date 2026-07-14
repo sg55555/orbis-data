@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T17:31:24Z",
-  "count": 313,
+  "updated": "2026-07-14T17:45:45Z",
+  "count": 311,
   "points": [
+    {
+      "id": "aka2026nvrhey",
+      "lon": -156.462,
+      "lat": 55.006,
+      "depth": 10.6,
+      "mag": 3,
+      "place": "188 km SE of Chignik, Alaska",
+      "time": 1784050231468,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nvrhey"
+    },
     {
       "id": "nc75395801",
       "lon": -122.876998901367,
@@ -52,6 +62,16 @@
       "place": "24 km ENE of Honey Lake, CA",
       "time": 1784046944580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395766"
+    },
+    {
+      "id": "us7000t0ej",
+      "lon": -162.582,
+      "lat": 54.1573,
+      "depth": 44.015,
+      "mag": 4.3,
+      "place": "94 km SE of False Pass, Alaska",
+      "time": 1784046520689,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ej"
     },
     {
       "id": "ci41294047",
@@ -2205,12 +2225,12 @@
     },
     {
       "id": "ci41293255",
-      "lon": -117.818,
-      "lat": 35.3145,
-      "depth": 8.72,
-      "mag": 1.06,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1783983222000,
+      "lon": -117.813166666667,
+      "lat": 35.3138333333333,
+      "depth": 8.52,
+      "mag": 1.08,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1783983221980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293255"
     },
     {
@@ -2532,6 +2552,16 @@
       "place": "6 km WNW of The Geysers, CA",
       "time": 1783975210330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395251"
+    },
+    {
+      "id": "ci41293103",
+      "lon": -117.184333333333,
+      "lat": 34.023,
+      "depth": 3.47,
+      "mag": 1,
+      "place": "4 km S of Redlands, CA",
+      "time": 1783975190010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293103"
     },
     {
       "id": "nc75395246",
@@ -3082,56 +3112,6 @@
       "place": "South Sandwich Islands region",
       "time": 1783964719903,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t04b"
-    },
-    {
-      "id": "us7000t048",
-      "lon": 125.4626,
-      "lat": 5.577,
-      "depth": 20.408,
-      "mag": 5,
-      "place": "5 km SE of Butulan, Philippines",
-      "time": 1783964669061,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t048"
-    },
-    {
-      "id": "ci10245838",
-      "lon": -116.166166666667,
-      "lat": 33.8915,
-      "depth": 6.17,
-      "mag": 0.48,
-      "place": "20 km NNE of Indio, CA",
-      "time": 1783964333650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10245838"
-    },
-    {
-      "id": "ci41292807",
-      "lon": -116.166666666667,
-      "lat": 33.8856666666667,
-      "depth": 5.18,
-      "mag": 0.62,
-      "place": "19 km NNE of Indio, CA",
-      "time": 1783964317080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292807"
-    },
-    {
-      "id": "aka2026ntvkyj",
-      "lon": -152.658,
-      "lat": 59.541,
-      "depth": 87.7,
-      "mag": 1.7,
-      "place": "46 km WNW of Nanwalek, Alaska",
-      "time": 1783964238045,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ntvkyj"
-    },
-    {
-      "id": "ci41292799",
-      "lon": -117.733666666667,
-      "lat": 35.2655,
-      "depth": 3.77,
-      "mag": 0.55,
-      "place": "15 km SW of Johannesburg, CA",
-      "time": 1783963957260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292799"
     }
   ]
 }
