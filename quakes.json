@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-13T23:45:45Z",
-  "count": 303,
+  "updated": "2026-07-14T00:01:29Z",
+  "count": 300,
   "points": [
+    {
+      "id": "tx2026nscgby",
+      "lon": -103.867,
+      "lat": 31.453,
+      "depth": 8.1547,
+      "mag": 1.8,
+      "place": "16 km NNW of Toyah, Texas",
+      "time": 1783986186317,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nscgby"
+    },
     {
       "id": "nc75395346",
       "lon": -122.800498962402,
@@ -92,16 +102,6 @@
       "place": "19 km W of Searles Valley, CA",
       "time": 1783983583840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293279"
-    },
-    {
-      "id": "ci41293271",
-      "lon": -116.49,
-      "lat": 33.0786666666667,
-      "depth": 13.19,
-      "mag": 0.56,
-      "place": "10 km E of Julian, CA",
-      "time": 1783983550220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293271"
     },
     {
       "id": "aka2026nugcox",
@@ -3002,36 +3002,6 @@
       "place": "9 km SE of Cloverdale, CA",
       "time": 1783901131360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394666"
-    },
-    {
-      "id": "ci41292327",
-      "lon": -119.231166666667,
-      "lat": 34.8471666666667,
-      "depth": 11.05,
-      "mag": 1.09,
-      "place": "7 km W of Pine Mountain Club, CA",
-      "time": 1783900460140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292327"
-    },
-    {
-      "id": "nc75394651",
-      "lon": -123.185997009277,
-      "lat": 39.3431663513184,
-      "depth": 8.97000026702881,
-      "mag": 1.45,
-      "place": "9 km N of Redwood Valley, CA",
-      "time": 1783900027810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394651"
-    },
-    {
-      "id": "us7000szyg",
-      "lon": 26.9756,
-      "lat": 36.5703,
-      "depth": 149.786,
-      "mag": 4.1,
-      "place": "14 km WSW of Mandráki, Greece",
-      "time": 1783899960181,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyg"
     }
   ]
 }
