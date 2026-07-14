@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T00:31:14Z",
-  "count": 301,
+  "updated": "2026-07-14T00:45:47Z",
+  "count": 303,
   "points": [
+    {
+      "id": "nc75395376",
+      "lon": -122.930000305176,
+      "lat": 38.7546653747559,
+      "depth": 2.60999989509583,
+      "mag": 1.13,
+      "place": "9 km SE of Cloverdale, CA",
+      "time": 1783989518140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395376"
+    },
     {
       "id": "ci41293375",
       "lon": -117.856333333333,
@@ -1734,6 +1744,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t014"
     },
     {
+      "id": "av94306498",
+      "lon": -176.66,
+      "lat": 51.9843333333333,
+      "depth": 23.08,
+      "mag": 1.09,
+      "place": "12 km N of Adak, Alaska",
+      "time": 1783945186330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94306498"
+    },
+    {
       "id": "aka2026ntksig",
       "lon": -149.672,
       "lat": 64.359,
@@ -1822,6 +1842,16 @@
       "place": "13 km SSE of Volcano, Hawaii",
       "time": 1783941173830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75001656"
+    },
+    {
+      "id": "av93063974",
+      "lon": -155.112333333333,
+      "lat": 58.2273333333333,
+      "depth": -1.46,
+      "mag": -0.68,
+      "place": "83 km NNW of Karluk, Alaska",
+      "time": 1783941105160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063974"
     },
     {
       "id": "tx2026nrddlr",
@@ -3002,16 +3032,6 @@
       "place": "58 km S of Whites City, New Mexico",
       "time": 1783903791306,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqiupm"
-    },
-    {
-      "id": "uw714048122",
-      "lon": -120.511166666667,
-      "lat": 49.3586666666667,
-      "depth": -0.36,
-      "mag": 1.7,
-      "place": "11 km S of Princeton, Canada",
-      "time": 1783903475120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714048122"
     }
   ]
 }
