@@ -1,17 +1,67 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T06:45:48Z",
-  "count": 311,
+  "updated": "2026-07-14T07:01:36Z",
+  "count": 314,
   "points": [
     {
+      "id": "nc75395526",
+      "lon": -122.804000854492,
+      "lat": 38.8241653442383,
+      "depth": 2.50999999046326,
+      "mag": 1.02,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1784012251890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395526"
+    },
+    {
+      "id": "nc75395521",
+      "lon": -122.765830993652,
+      "lat": 38.8253326416016,
+      "depth": 1.98000001907349,
+      "mag": 1.08,
+      "place": "4 km W of Cobb, CA",
+      "time": 1784011939720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395521"
+    },
+    {
+      "id": "nc75395516",
+      "lon": -122.554664611816,
+      "lat": 38.3665008544922,
+      "depth": 7.57000017166138,
+      "mag": 1.44,
+      "place": "2 km W of Glen Ellen, CA",
+      "time": 1784011903480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395516"
+    },
+    {
+      "id": "ci41293599",
+      "lon": -116.736333333333,
+      "lat": 33.525,
+      "depth": 2.79,
+      "mag": 0.54,
+      "place": "7 km WSW of Anza, CA",
+      "time": 1784011500980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293599"
+    },
+    {
       "id": "ci41293591",
-      "lon": -116.3818359375,
-      "lat": 32.0951652526855,
-      "depth": 7.86999988555908,
-      "mag": 1.81266699641326,
+      "lon": -116.383333333333,
+      "lat": 32.0966666666667,
+      "depth": 7.79,
+      "mag": 1.88,
       "place": "34 km NE of Ensenada, B.C., MX",
       "time": 1784011349690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293591"
+    },
+    {
+      "id": "us7000t09g",
+      "lon": 128.0077,
+      "lat": 3.4609,
+      "depth": 107.53,
+      "mag": 4.4,
+      "place": "191 km N of Tobelo, Indonesia",
+      "time": 1784011057880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t09g"
     },
     {
       "id": "hv75002156",
@@ -95,12 +145,12 @@
     },
     {
       "id": "tx2026nsoujh",
-      "lon": -103.855,
+      "lon": -103.856,
       "lat": 32.004,
-      "depth": 6.8144,
+      "depth": 6.7914,
       "mag": 1.6,
       "place": "31 km SE of Malaga, New Mexico",
-      "time": 1784008762666,
+      "time": 1784008762664,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nsoujh"
     },
     {
@@ -872,6 +922,16 @@
       "place": "3 km S of Guánica, Puerto Rico",
       "time": 1783979232170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523848"
+    },
+    {
+      "id": "av93064034",
+      "lon": -154.977,
+      "lat": 58.3001666666667,
+      "depth": 2.14,
+      "mag": -0.19,
+      "place": "87 km NNW of Karluk, Alaska",
+      "time": 1783978978050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064034"
     },
     {
       "id": "aka2026nudqtv",
@@ -3082,36 +3142,6 @@
       "place": "Rat Islands, Aleutian Islands, Alaska",
       "time": 1783927142030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94306118"
-    },
-    {
-      "id": "av93063944",
-      "lon": -169.804666666667,
-      "lat": 52.8608333333333,
-      "depth": 10.98,
-      "mag": 0.67,
-      "place": "64 km W of Nikolski, Alaska",
-      "time": 1783925943780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063944"
-    },
-    {
-      "id": "nc75394786",
-      "lon": -122.706665039062,
-      "lat": 38.6353340148926,
-      "depth": 6.69999980926514,
-      "mag": 1.35,
-      "place": "13 km WNW of Calistoga, CA",
-      "time": 1783925581410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394786"
-    },
-    {
-      "id": "pr71523593",
-      "lon": -65.206,
-      "lat": 18.9215,
-      "depth": 29.63,
-      "mag": 3.27,
-      "place": "69 km N of Culebra, Puerto Rico",
-      "time": 1783925299170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523593"
     }
   ]
 }
