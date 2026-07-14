@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T00:01:29Z",
-  "count": 300,
+  "updated": "2026-07-14T00:15:45Z",
+  "count": 299,
   "points": [
+    {
+      "id": "ci41293359",
+      "lon": -117.2565,
+      "lat": 34.0483333333333,
+      "depth": 14.74,
+      "mag": 1.18,
+      "place": "0 km E of Loma Linda, CA",
+      "time": 1783987623790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293359"
+    },
+    {
+      "id": "tx2026nsczdp",
+      "lon": -102.255,
+      "lat": 32.413,
+      "depth": 0,
+      "mag": 1,
+      "place": "28 km ENE of McKinney Acres, Texas",
+      "time": 1783987365431,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nsczdp"
+    },
     {
       "id": "tx2026nscgby",
       "lon": -103.867,
@@ -45,12 +65,12 @@
     },
     {
       "id": "ci41293327",
-      "lon": -117.670333333333,
-      "lat": 35.04,
-      "depth": -0.78,
-      "mag": 1.67,
+      "lon": -117.6695,
+      "lat": 35.0431666666667,
+      "depth": -0.79,
+      "mag": 1.7,
       "place": "5 km NNW of Boron, CA",
-      "time": 1783984791300,
+      "time": 1783984791200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293327"
     },
     {
@@ -62,6 +82,16 @@
       "place": "8 km WNW of Cobb, CA",
       "time": 1783984323110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395326"
+    },
+    {
+      "id": "ci41293303",
+      "lon": -117.075,
+      "lat": 34.2093333333333,
+      "depth": 4.01,
+      "mag": 0.62,
+      "place": "3 km E of Running Springs, CA",
+      "time": 1783984165480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293303"
     },
     {
       "id": "aka2026nugnky",
@@ -2962,46 +2992,6 @@
       "place": "16 km SE of Lindsay, Texas",
       "time": 1783901928191,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqhubl"
-    },
-    {
-      "id": "aka2026nsmnnb",
-      "lon": -151.905,
-      "lat": 60.474,
-      "depth": 90.1,
-      "mag": 2.6,
-      "place": "34 km W of Kalifornsky, Alaska",
-      "time": 1783901341393,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nsmnnb"
-    },
-    {
-      "id": "ci41292335",
-      "lon": -115.974,
-      "lat": 33.155,
-      "depth": 6.79,
-      "mag": 1.06,
-      "place": "15 km E of Ocotillo Wells, CA",
-      "time": 1783901269840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292335"
-    },
-    {
-      "id": "nc75394671",
-      "lon": -122.714164733887,
-      "lat": 38.7550010681152,
-      "depth": 1.60000002384186,
-      "mag": 0.8,
-      "place": "3 km SW of Anderson Springs, CA",
-      "time": 1783901188420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394671"
-    },
-    {
-      "id": "nc75394666",
-      "lon": -122.931999206543,
-      "lat": 38.7586669921875,
-      "depth": 5.90000009536743,
-      "mag": 1.37,
-      "place": "9 km SE of Cloverdale, CA",
-      "time": 1783901131360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394666"
     }
   ]
 }
