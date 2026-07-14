@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T20:31:24Z",
-  "count": 296,
+  "updated": "2026-07-14T20:45:51Z",
+  "count": 293,
   "points": [
+    {
+      "id": "ci40654730",
+      "lon": -116.494333333333,
+      "lat": 33.5145,
+      "depth": 12.92,
+      "mag": 0.42,
+      "place": "17 km ESE of Anza, CA",
+      "time": 1784061212120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40654730"
+    },
+    {
+      "id": "pr71524273",
+      "lon": -66.733,
+      "lat": 18.0243333333333,
+      "depth": 13.26,
+      "mag": 2.04,
+      "place": "3 km NNW of Tallaboa, Puerto Rico",
+      "time": 1784060755350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524273"
+    },
     {
       "id": "tx2026ntrmqr",
       "lon": -104.305,
@@ -45,13 +65,23 @@
     },
     {
       "id": "ci40654706",
-      "lon": -116.7115,
-      "lat": 33.5395,
-      "depth": 5.96,
-      "mag": 0.68,
+      "lon": -116.712833333333,
+      "lat": 33.539,
+      "depth": 6.26,
+      "mag": 0.61,
       "place": "4 km WSW of Anza, CA",
-      "time": 1784059750260,
+      "time": 1784059750250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40654706"
+    },
+    {
+      "id": "uu80145331",
+      "lon": -111.635166666667,
+      "lat": 41.6971666666667,
+      "depth": 9.39,
+      "mag": 1.56,
+      "place": "15 km E of Providence, Utah",
+      "time": 1784059637450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145331"
     },
     {
       "id": "ci40654698",
@@ -2902,66 +2932,6 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1783975564040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293111"
-    },
-    {
-      "id": "aka2026nubpcw",
-      "lon": -147.736,
-      "lat": 64.94,
-      "depth": 5,
-      "mag": 1.3,
-      "place": "3 km NNW of Farmers Loop, Alaska",
-      "time": 1783975218861,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nubpcw"
-    },
-    {
-      "id": "nc75395251",
-      "lon": -122.814163208008,
-      "lat": 38.7998352050781,
-      "depth": 3.16000008583069,
-      "mag": 0.43,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": 1783975210330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395251"
-    },
-    {
-      "id": "ci41293103",
-      "lon": -117.184333333333,
-      "lat": 34.023,
-      "depth": 3.47,
-      "mag": 1,
-      "place": "4 km S of Redlands, CA",
-      "time": 1783975190010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293103"
-    },
-    {
-      "id": "nc75395246",
-      "lon": -122.781669616699,
-      "lat": 38.7948341369629,
-      "depth": 3.42000007629395,
-      "mag": 0.32,
-      "place": "3 km NW of The Geysers, CA",
-      "time": 1783974992160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395246"
-    },
-    {
-      "id": "ci41293079",
-      "lon": -116.171,
-      "lat": 33.8845,
-      "depth": 5.38,
-      "mag": 0.7,
-      "place": "19 km NNE of Indio, CA",
-      "time": 1783974897280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293079"
-    },
-    {
-      "id": "ci41293071",
-      "lon": -117.811666666667,
-      "lat": 35.3161666666667,
-      "depth": 8.44,
-      "mag": 0.98,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1783974836300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293071"
     }
   ]
 }
