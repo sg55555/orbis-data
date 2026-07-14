@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T16:15:51Z",
-  "count": 322,
+  "updated": "2026-07-14T16:31:23Z",
+  "count": 324,
   "points": [
+    {
+      "id": "ci41294047",
+      "lon": -116.725,
+      "lat": 33.5326666666667,
+      "depth": 4.91,
+      "mag": 1.76,
+      "place": "5 km WSW of Anza, CA",
+      "time": 1784045962550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41294047"
+    },
+    {
+      "id": "ci41294039",
+      "lon": -118.932,
+      "lat": 34.8033333333333,
+      "depth": 13.32,
+      "mag": 1.05,
+      "place": "2 km SSE of Frazier Park, CA",
+      "time": 1784045812530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41294039"
+    },
     {
       "id": "hv75002446",
       "lon": -155.391006469727,
@@ -12,16 +32,6 @@
       "place": "11 km ENE of Pāhala, Hawaii",
       "time": 1784045158260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002446"
-    },
-    {
-      "id": "ci41294023",
-      "lon": -117.5405,
-      "lat": 35.8096666666667,
-      "depth": 0.56,
-      "mag": 0.99,
-      "place": "13 km WNW of Searles Valley, CA",
-      "time": 1784045018140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41294023"
     },
     {
       "id": "ci41294015",
@@ -45,13 +55,23 @@
     },
     {
       "id": "ci41294007",
-      "lon": -118.9255,
-      "lat": 34.8021666666667,
-      "depth": 13.27,
-      "mag": 1.6,
-      "place": "3 km SE of Frazier Park, CA",
-      "time": 1784044599960,
+      "lon": -118.9265,
+      "lat": 34.8073333333333,
+      "depth": 13.31,
+      "mag": 1.54,
+      "place": "2 km SE of Frazier Park, CA",
+      "time": 1784044599970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41294007"
+    },
+    {
+      "id": "uu80145301",
+      "lon": -112.396,
+      "lat": 41.9573333333333,
+      "depth": 4.12,
+      "mag": 0.87,
+      "place": "13 km W of Portage, Utah",
+      "time": 1784044494410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145301"
     },
     {
       "id": "tx2026ntiklz",
@@ -92,6 +112,16 @@
       "place": "23 km ENE of San Lucas, CA",
       "time": 1784043865190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395731"
+    },
+    {
+      "id": "pr71524173",
+      "lon": -66.1116666666667,
+      "lat": 18.0218333333333,
+      "depth": 7.35,
+      "mag": 2.02,
+      "place": "2 km N of Olimpo, Puerto Rico",
+      "time": 1784043729820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524173"
     },
     {
       "id": "tx2026nthzuw",
@@ -142,6 +172,16 @@
       "place": "34 km NW of Stanton, Texas",
       "time": 1784042319862,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nthiii"
+    },
+    {
+      "id": "pr71524128",
+      "lon": -66.9418333333333,
+      "lat": 17.9705,
+      "depth": 8.18,
+      "mag": 2.4,
+      "place": "3 km SW of Fuig, Puerto Rico",
+      "time": 1784042102290,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524128"
     },
     {
       "id": "hv75002396",
@@ -1085,12 +1125,12 @@
     },
     {
       "id": "nn00921644",
-      "lon": -115.8639,
-      "lat": 37.2096,
-      "depth": 0.0008,
-      "mag": 1.55,
-      "place": "49 km SSW of Rachel, Nevada",
-      "time": 1784012714473,
+      "lon": -115.8202,
+      "lat": 37.2444,
+      "depth": 9.6996,
+      "mag": 1.99,
+      "place": "44 km S of Rachel, Nevada",
+      "time": 1784012714732,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921644"
     },
     {
@@ -3202,26 +3242,6 @@
       "place": "southeast of the Loyalty Islands",
       "time": 1783960290321,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t02f"
-    },
-    {
-      "id": "av94306878",
-      "lon": -167.032166666667,
-      "lat": 53.9575,
-      "depth": 30.38,
-      "mag": 0.47,
-      "place": "33 km WNW of Dutch Harbor, Alaska",
-      "time": 1783960242140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94306878"
-    },
-    {
-      "id": "ci41292671",
-      "lon": -117.023833333333,
-      "lat": 34.2693333333333,
-      "depth": 5.01,
-      "mag": 1.12,
-      "place": "10 km NE of Running Springs, CA",
-      "time": 1783959611490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292671"
     }
   ]
 }
