@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T05:01:23Z",
+  "updated": "2026-07-14T05:15:48Z",
   "count": 314,
   "points": [
+    {
+      "id": "hv75002096",
+      "lon": -155.367340087891,
+      "lat": 19.1691665649414,
+      "depth": 29.9099998474121,
+      "mag": 1.71,
+      "place": "12 km ESE of Pāhala, Hawaii",
+      "time": 1784005206830,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002096"
+    },
     {
       "id": "ci41293495",
       "lon": -116.450333333333,
@@ -1654,6 +1664,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t02f"
     },
     {
+      "id": "av94306878",
+      "lon": -167.032166666667,
+      "lat": 53.9575,
+      "depth": 30.38,
+      "mag": 0.47,
+      "place": "33 km WNW of Dutch Harbor, Alaska",
+      "time": 1783960242140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94306878"
+    },
+    {
       "id": "ci41292671",
       "lon": -117.023833333333,
       "lat": 34.2693333333333,
@@ -3122,26 +3142,6 @@
       "place": "9 km S of Idyllwild, CA",
       "time": 1783919859610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292375"
-    },
-    {
-      "id": "nc75394731",
-      "lon": -122.052001953125,
-      "lat": 37.9748344421387,
-      "depth": 14.1899995803833,
-      "mag": 1.93,
-      "place": "2 km ESE of Pacheco, CA",
-      "time": 1783919256600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394731"
-    },
-    {
-      "id": "nc75394726",
-      "lon": -122.834167480469,
-      "lat": 38.8426666259766,
-      "depth": -0.75,
-      "mag": 1.18,
-      "place": "10 km WNW of Cobb, CA",
-      "time": 1783918846760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394726"
     }
   ]
 }
