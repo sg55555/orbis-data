@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T07:31:14Z",
-  "count": 317,
+  "updated": "2026-07-14T07:45:47Z",
+  "count": 316,
   "points": [
+    {
+      "id": "ci41293647",
+      "lon": -117.150333333333,
+      "lat": 34.0103333333333,
+      "depth": 4.53,
+      "mag": 0.52,
+      "place": "6 km SSE of Redlands, CA",
+      "time": 1784014437930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293647"
+    },
     {
       "id": "ci41293639",
       "lon": -117.154,
@@ -525,12 +535,12 @@
     },
     {
       "id": "tx2026nshnds",
-      "lon": -104.152,
-      "lat": 31.537,
-      "depth": 3.4198,
-      "mag": 2,
+      "lon": -104.137,
+      "lat": 31.562,
+      "depth": 7.074,
+      "mag": 1.8,
       "place": "42 km NW of Toyah, Texas",
-      "time": 1783995583885,
+      "time": 1783995583986,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nshnds"
     },
     {
@@ -3152,26 +3162,6 @@
       "place": "6 km SSW of Snyderville, Utah",
       "time": 1783928743270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007623"
-    },
-    {
-      "id": "tx2026nqwmjo",
-      "lon": -104.425,
-      "lat": 31.669,
-      "depth": 6.3942,
-      "mag": 2.1,
-      "place": "56 km S of Whites City, New Mexico",
-      "time": 1783928557912,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqwmjo"
-    },
-    {
-      "id": "pr71523623",
-      "lon": -65.2145,
-      "lat": 18.9313333333333,
-      "depth": 19.43,
-      "mag": 3.32,
-      "place": "70 km N of Culebra, Puerto Rico",
-      "time": 1783928400840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523623"
     }
   ]
 }
