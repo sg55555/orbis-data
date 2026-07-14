@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T05:15:48Z",
-  "count": 314,
+  "updated": "2026-07-14T05:31:16Z",
+  "count": 315,
   "points": [
+    {
+      "id": "ci41293503",
+      "lon": -117.818168640137,
+      "lat": 35.304500579834,
+      "depth": 8.93000030517578,
+      "mag": 1.20417154934528,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": 1784006381680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293503"
+    },
+    {
+      "id": "hv75002101",
+      "lon": -155.386169433594,
+      "lat": 19.0601673126221,
+      "depth": 35.6699981689453,
+      "mag": 2.47,
+      "place": "18 km SSE of Pāhala, Hawaii",
+      "time": 1784006351790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002101"
+    },
     {
       "id": "hv75002096",
       "lon": -155.367340087891,
@@ -1522,6 +1542,16 @@
       "place": "6 km E of Calimesa, CA",
       "time": 1783962013930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292735"
+    },
+    {
+      "id": "av94306918",
+      "lon": -159.812833333333,
+      "lat": 55.9888333333333,
+      "depth": 12.18,
+      "mag": 0.45,
+      "place": "22 km WNW of Ivanof Bay, Alaska",
+      "time": 1783962002720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94306918"
     },
     {
       "id": "nc75395061",
@@ -3122,26 +3152,6 @@
       "place": "71 km WSW of Nikolski, Alaska",
       "time": 1783920951070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94305898"
-    },
-    {
-      "id": "aka2026nswyin",
-      "lon": -157.632,
-      "lat": 56.694,
-      "depth": 83.8,
-      "mag": 1.4,
-      "place": "65 km NE of Chignik, Alaska",
-      "time": 1783920083058,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nswyin"
-    },
-    {
-      "id": "ci41292375",
-      "lon": -116.703166666667,
-      "lat": 33.6598333333333,
-      "depth": 16.73,
-      "mag": 0.52,
-      "place": "9 km S of Idyllwild, CA",
-      "time": 1783919859610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292375"
     }
   ]
 }
