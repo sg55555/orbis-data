@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T21:15:45Z",
-  "count": 291,
+  "updated": "2026-07-14T21:31:20Z",
+  "count": 286,
   "points": [
+    {
+      "id": "nc75395981",
+      "lon": -122.8056640625,
+      "lat": 38.7958335876465,
+      "depth": 3.10999989509583,
+      "mag": 1.09,
+      "place": "5 km WNW of The Geysers, CA",
+      "time": 1784063983590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395981"
+    },
     {
       "id": "nn00921689",
       "lon": -117.1001,
@@ -32,6 +42,16 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1784062687950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395966"
+    },
+    {
+      "id": "pr71524293",
+      "lon": -66.9245,
+      "lat": 17.9333333333333,
+      "depth": 12.1,
+      "mag": 1.76,
+      "place": "4 km SSW of Guánica, Puerto Rico",
+      "time": 1784062383050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524293"
     },
     {
       "id": "nc75395951",
@@ -2842,76 +2862,6 @@
       "place": "4 km SW of Pāhala, Hawaii",
       "time": 1783978347260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75001851"
-    },
-    {
-      "id": "us7000t06l",
-      "lon": 8.2919,
-      "lat": 73.6953,
-      "depth": 10,
-      "mag": 4.3,
-      "place": "Greenland Sea",
-      "time": 1783978218011,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t06l"
-    },
-    {
-      "id": "pr71523823",
-      "lon": -66.9155,
-      "lat": 17.9495,
-      "depth": 14.52,
-      "mag": 1.63,
-      "place": "2 km SSW of Guánica, Puerto Rico",
-      "time": 1783978177680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523823"
-    },
-    {
-      "id": "ci41293167",
-      "lon": -117.815166666667,
-      "lat": 35.315,
-      "depth": 8.91,
-      "mag": 1.07,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1783978082740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293167"
-    },
-    {
-      "id": "tx2026nrxttj",
-      "lon": -98.929,
-      "lat": 28.693,
-      "depth": 7.5079,
-      "mag": 2.1,
-      "place": "23 km E of Dilley, Texas",
-      "time": 1783977937464,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nrxttj"
-    },
-    {
-      "id": "ci41293159",
-      "lon": -117.801166666667,
-      "lat": 35.316,
-      "depth": 7.15,
-      "mag": 0.8,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": 1783977912920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293159"
-    },
-    {
-      "id": "nc75395266",
-      "lon": -122.929496765137,
-      "lat": 38.7551651000977,
-      "depth": 5.3600001335144,
-      "mag": 1.5,
-      "place": "9 km SE of Cloverdale, CA",
-      "time": 1783977544340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395266"
-    },
-    {
-      "id": "nc75395261",
-      "lon": -122.967666625977,
-      "lat": 38.7386665344238,
-      "depth": 0.959999978542328,
-      "mag": 1.81,
-      "place": "9 km SSE of Cloverdale, CA",
-      "time": 1783977450600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395261"
     }
   ]
 }
