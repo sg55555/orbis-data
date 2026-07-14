@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T01:31:20Z",
-  "count": 302,
+  "updated": "2026-07-14T01:45:43Z",
+  "count": 303,
   "points": [
+    {
+      "id": "nc75395391",
+      "lon": -122.817337036133,
+      "lat": 38.8129997253418,
+      "depth": 2.01999998092651,
+      "mag": 0.75,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1783993128640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395391"
+    },
     {
       "id": "ci41293391",
       "lon": -117.769,
@@ -12,6 +22,16 @@
       "place": "15 km NE of Little Lake, CA",
       "time": 1783992117380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293391"
+    },
+    {
+      "id": "us7000t07s",
+      "lon": -92.3316,
+      "lat": 14.7717,
+      "depth": 80.448,
+      "mag": 5,
+      "place": "2 km WSW of Congregación Reforma, Mexico",
+      "time": 1783991999535,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t07s"
     },
     {
       "id": "hv75002021",
@@ -32,6 +52,16 @@
       "place": "32 km NNE of Petersville, Alaska",
       "time": 1783991266361,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nuknam"
+    },
+    {
+      "id": "us7000t07r",
+      "lon": 122.9157,
+      "lat": 13.1309,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "6 km NW of San Rafael, Philippines",
+      "time": 1783990995881,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t07r"
     },
     {
       "id": "nc75395381",
@@ -3002,26 +3032,6 @@
       "place": "8 km S of Idyllwild, CA",
       "time": 1783907838630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292351"
-    },
-    {
-      "id": "tx2026nqkqfx",
-      "lon": -98.974,
-      "lat": 28.832,
-      "depth": 6.6359,
-      "mag": 2.8,
-      "place": "13 km ESE of Pearsall, Texas",
-      "time": 1783907091186,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqkqfx"
-    },
-    {
-      "id": "hv75001481",
-      "lon": -156.628326416016,
-      "lat": 19.8686676025391,
-      "depth": 4.32000017166138,
-      "mag": 2.04,
-      "place": "69 km WNW of Kalaoa, Hawaii",
-      "time": 1783906622010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75001481"
     }
   ]
 }
