@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T14:45:50Z",
-  "count": 318,
+  "updated": "2026-07-14T15:01:31Z",
+  "count": 316,
   "points": [
+    {
+      "id": "ci41293911",
+      "lon": -116.706,
+      "lat": 32.5676666666667,
+      "depth": 3.36,
+      "mag": 0.98,
+      "place": "7 km W of Tecate, B.C., MX",
+      "time": 1784041000030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293911"
+    },
     {
       "id": "aka2026nvlqrz",
       "lon": -149.992,
@@ -22,6 +32,16 @@
       "place": "9 km WNW of The Geysers, CA",
       "time": 1784040076240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395706"
+    },
+    {
+      "id": "pr71524103",
+      "lon": -66.9156666666667,
+      "lat": 17.962,
+      "depth": 15.06,
+      "mag": 2.32,
+      "place": "1 km SW of Guánica, Puerto Rico",
+      "time": 1784040058840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524103"
     },
     {
       "id": "nc75395701",
@@ -52,6 +72,16 @@
       "place": "1 km NW of Little America, Wyoming",
       "time": 1784039055570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145291"
+    },
+    {
+      "id": "tx2026ntfduz",
+      "lon": -101.15,
+      "lat": 32.129,
+      "depth": 9.1553,
+      "mag": 1.2,
+      "place": "20 km E of Forsan, Texas",
+      "time": 1784038595339,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ntfduz"
     },
     {
       "id": "ci41293879",
@@ -1645,12 +1675,12 @@
     },
     {
       "id": "tx2026nsczdp",
-      "lon": -102.109,
-      "lat": 32.383,
-      "depth": 4.7584,
-      "mag": 0.1,
-      "place": "40 km WSW of Ackerly, Texas",
-      "time": 1783987366466,
+      "lon": -102.115,
+      "lat": 32.392,
+      "depth": 7.1045,
+      "mag": 0.5,
+      "place": "40 km ENE of McKinney Acres, Texas",
+      "time": 1783987366683,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nsczdp"
     },
     {
@@ -3132,56 +3162,6 @@
       "place": "73 km WSW of False Pass, Alaska",
       "time": 1783954937670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063994"
-    },
-    {
-      "id": "aka2026ntqdge",
-      "lon": -155.319,
-      "lat": 58.159,
-      "depth": 5,
-      "mag": 0.4,
-      "place": "83 km NW of Karluk, Alaska",
-      "time": 1783954606193,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ntqdge"
-    },
-    {
-      "id": "uw714048462",
-      "lon": -120.567166666667,
-      "lat": 46.9103333333333,
-      "depth": -0.92,
-      "mag": 1.27,
-      "place": "9 km S of Ellensburg, Washington",
-      "time": 1783954416010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714048462"
-    },
-    {
-      "id": "av94306728",
-      "lon": -166.4375,
-      "lat": 53.8005,
-      "depth": 10.05,
-      "mag": -0.21,
-      "place": "10 km SE of Unalaska, Alaska",
-      "time": 1783954140310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94306728"
-    },
-    {
-      "id": "aka2026ntpwjv",
-      "lon": -148.363,
-      "lat": 62.035,
-      "depth": 44.2,
-      "mag": 1.3,
-      "place": "27 km N of Chickaloon, Alaska",
-      "time": 1783954133233,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ntpwjv"
-    },
-    {
-      "id": "us7000t01n",
-      "lon": 171.5199,
-      "lat": -22.7889,
-      "depth": 10,
-      "mag": 6.3,
-      "place": "southeast of the Loyalty Islands",
-      "time": 1783953949203,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t01n"
     }
   ]
 }
