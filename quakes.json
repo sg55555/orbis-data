@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T15:01:31Z",
-  "count": 316,
+  "updated": "2026-07-14T15:15:53Z",
+  "count": 315,
   "points": [
+    {
+      "id": "nc75395721",
+      "lon": -122.816833496094,
+      "lat": 38.8301658630371,
+      "depth": 2.11999988555908,
+      "mag": 0.75,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1784041753490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395721"
+    },
     {
       "id": "ci41293911",
       "lon": -116.706,
@@ -972,6 +982,16 @@
       "place": "48 km NNE of Kon Tum, Vietnam",
       "time": 1784011685687,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t09h"
+    },
+    {
+      "id": "ci41293607",
+      "lon": -116.739,
+      "lat": 33.5258333333333,
+      "depth": 3.87,
+      "mag": -0.05,
+      "place": "7 km WSW of Anza, CA",
+      "time": 1784011642910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293607"
     },
     {
       "id": "ci41293599",
@@ -3132,36 +3152,6 @@
       "place": "2 km N of Notiechtown, Oklahoma",
       "time": 1783955734829,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026npuh"
-    },
-    {
-      "id": "us7000t01w",
-      "lon": 171.5407,
-      "lat": -22.8636,
-      "depth": 10,
-      "mag": 4.7,
-      "place": "southeast of the Loyalty Islands",
-      "time": 1783955674815,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t01w"
-    },
-    {
-      "id": "nc75394981",
-      "lon": -122.764999389648,
-      "lat": 38.7851676940918,
-      "depth": 3.05999994277954,
-      "mag": 0.75,
-      "place": "1 km NW of The Geysers, CA",
-      "time": 1783954992880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394981"
-    },
-    {
-      "id": "av93063994",
-      "lon": -164.427833333333,
-      "lat": 54.551,
-      "depth": 6.38,
-      "mag": 0.52,
-      "place": "73 km WSW of False Pass, Alaska",
-      "time": 1783954937670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93063994"
     }
   ]
 }
