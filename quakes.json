@@ -1,16 +1,56 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T05:31:16Z",
-  "count": 315,
+  "updated": "2026-07-14T05:45:46Z",
+  "count": 318,
   "points": [
     {
+      "id": "ci41293527",
+      "lon": -117.4765,
+      "lat": 35.6176666666667,
+      "depth": 5.25,
+      "mag": 0.63,
+      "place": "18 km SSW of Searles Valley, CA",
+      "time": 1784007495420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293527"
+    },
+    {
+      "id": "uw714049242",
+      "lon": -122.721496582031,
+      "lat": 46.1918334960938,
+      "depth": 19.25,
+      "mag": 1.78353226184845,
+      "place": "15 km E of West Side Highway, Washington",
+      "time": 1784007375560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714049242"
+    },
+    {
+      "id": "ci41293519",
+      "lon": -118.0765,
+      "lat": 34.4911666666667,
+      "depth": 10.47,
+      "mag": 1.85,
+      "place": "4 km ESE of Vincent, CA",
+      "time": 1784007100200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293519"
+    },
+    {
+      "id": "ci41293511",
+      "lon": -116.824333333333,
+      "lat": 33.7133333333333,
+      "depth": 16.9,
+      "mag": 0.66,
+      "place": "7 km ESE of Valle Vista, CA",
+      "time": 1784006870780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293511"
+    },
+    {
       "id": "ci41293503",
-      "lon": -117.818168640137,
-      "lat": 35.304500579834,
-      "depth": 8.93000030517578,
-      "mag": 1.20417154934528,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1784006381680,
+      "lon": -117.820666666667,
+      "lat": 35.3025,
+      "depth": 9,
+      "mag": 0.86,
+      "place": "19 km WSW of Johannesburg, CA",
+      "time": 1784006381650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293503"
     },
     {
@@ -1362,6 +1402,16 @@
       "place": "89 km WSW of Nanwalek, Alaska",
       "time": 1783965146449,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ntvzoc"
+    },
+    {
+      "id": "av94306993",
+      "lon": -152.816333333333,
+      "lat": 60.4816666666667,
+      "depth": 4.11,
+      "mag": -0.84,
+      "place": "79 km NW of Ninilchik, Alaska",
+      "time": 1783964946600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94306993"
     },
     {
       "id": "us7000t04b",
@@ -3132,26 +3182,6 @@
       "place": "58 km SSW of Adak, Alaska",
       "time": 1783921554757,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nsxtpq"
-    },
-    {
-      "id": "tx2026nqsjiw",
-      "lon": -104.219,
-      "lat": 31.767,
-      "depth": 6.3947,
-      "mag": 2.4,
-      "place": "47 km SSE of Whites City, New Mexico",
-      "time": 1783921104674,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nqsjiw"
-    },
-    {
-      "id": "av94305898",
-      "lon": -169.9,
-      "lat": 52.7881666666667,
-      "depth": 2.93,
-      "mag": 0.78,
-      "place": "71 km WSW of Nikolski, Alaska",
-      "time": 1783920951070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94305898"
     }
   ]
 }
