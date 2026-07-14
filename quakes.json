@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T06:37:07Z",
-  "count": 313,
+  "updated": "2026-07-14T06:45:48Z",
+  "count": 311,
   "points": [
+    {
+      "id": "ci41293591",
+      "lon": -116.3818359375,
+      "lat": 32.0951652526855,
+      "depth": 7.86999988555908,
+      "mag": 1.81266699641326,
+      "place": "34 km NE of Ensenada, B.C., MX",
+      "time": 1784011349690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293591"
+    },
     {
       "id": "hv75002156",
       "lon": -155.495666503906,
@@ -984,6 +994,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t06d"
     },
     {
+      "id": "av93064029",
+      "lon": -164.449166666667,
+      "lat": 54.548,
+      "depth": 4.23,
+      "mag": 0.96,
+      "place": "75 km WSW of False Pass, Alaska",
+      "time": 1783976586120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064029"
+    },
+    {
       "id": "pr71523818",
       "lon": -66.917,
       "lat": 17.9576666666667,
@@ -1062,6 +1082,16 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1783974836300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293071"
+    },
+    {
+      "id": "av93064024",
+      "lon": 178.559166666667,
+      "lat": 51.9831666666667,
+      "depth": 7.52,
+      "mag": -0.53,
+      "place": "Rat Islands, Aleutian Islands, Alaska",
+      "time": 1783974686010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064024"
     },
     {
       "id": "nc75395241",
@@ -3082,56 +3112,6 @@
       "place": "69 km N of Culebra, Puerto Rico",
       "time": 1783925299170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523593"
-    },
-    {
-      "id": "us7000szzl",
-      "lon": 171.5471,
-      "lat": -22.8646,
-      "depth": 10,
-      "mag": 5,
-      "place": "southeast of the Loyalty Islands",
-      "time": 1783925131999,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzl"
-    },
-    {
-      "id": "nc75394781",
-      "lon": -122.790664672852,
-      "lat": 38.7991676330566,
-      "depth": 8.27999973297119,
-      "mag": 0.43,
-      "place": "4 km NW of The Geysers, CA",
-      "time": 1783925112120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394781"
-    },
-    {
-      "id": "pr71523583",
-      "lon": -65.1915,
-      "lat": 18.9341666666667,
-      "depth": 29.93,
-      "mag": 3.3,
-      "place": "70 km N of Culebra, Puerto Rico",
-      "time": 1783924918340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523583"
-    },
-    {
-      "id": "ci41292423",
-      "lon": -115.753333333333,
-      "lat": 32.6251666666667,
-      "depth": 3.41,
-      "mag": 1.08,
-      "place": "17 km WNW of Progreso, B.C., MX",
-      "time": 1783924886400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292423"
-    },
-    {
-      "id": "ci41292415",
-      "lon": -117.583333333333,
-      "lat": 33.3785,
-      "depth": 14.51,
-      "mag": 0.97,
-      "place": "6 km SSE of San Clemente, CA",
-      "time": 1783924693600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292415"
     }
   ]
 }
