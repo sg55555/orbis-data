@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T21:01:30Z",
-  "count": 293,
+  "updated": "2026-07-14T21:15:45Z",
+  "count": 291,
   "points": [
+    {
+      "id": "nn00921689",
+      "lon": -117.1001,
+      "lat": 38.6879,
+      "depth": 10.4614,
+      "mag": 1.63,
+      "place": "58 km S of Kingston, Nevada",
+      "time": 1784063001246,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921689"
+    },
+    {
+      "id": "hv75002571",
+      "lon": -155.593994140625,
+      "lat": 19.4069995880127,
+      "depth": 41.1500015258789,
+      "mag": 2.21,
+      "place": "25 km NNW of Pāhala, Hawaii",
+      "time": 1784062934490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002571"
+    },
     {
       "id": "nc75395966",
       "lon": -122.803833007812,
@@ -125,12 +145,12 @@
     },
     {
       "id": "ci40654666",
-      "lon": -117.809,
-      "lat": 35.3193333333333,
-      "depth": 7.33,
-      "mag": 2,
+      "lon": -117.8095,
+      "lat": 35.3188333333333,
+      "depth": 7.6,
+      "mag": 2.01,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1784059243140,
+      "time": 1784059243120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40654666"
     },
     {
@@ -332,6 +352,16 @@
       "place": "11 km ESE of Gilroy, CA",
       "time": 1784051712770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395831"
+    },
+    {
+      "id": "ci40654402",
+      "lon": -117.803,
+      "lat": 35.3261666666667,
+      "depth": 8.23,
+      "mag": 0.79,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1784050692230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40654402"
     },
     {
       "id": "aka2026nvrhey",
@@ -2882,56 +2912,6 @@
       "place": "9 km SSE of Cloverdale, CA",
       "time": 1783977450600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395261"
-    },
-    {
-      "id": "uw714048882",
-      "lon": -122.2695,
-      "lat": 46.4985,
-      "depth": 16.3,
-      "mag": 0.34,
-      "place": "6 km S of Morton, Washington",
-      "time": 1783977194600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714048882"
-    },
-    {
-      "id": "us7000t06f",
-      "lon": 131.6675,
-      "lat": 0.3702,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "145 km NNE of Sorong, Indonesia",
-      "time": 1783976767520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t06f"
-    },
-    {
-      "id": "us7000t06d",
-      "lon": 171.5098,
-      "lat": -22.9464,
-      "depth": 10,
-      "mag": 5,
-      "place": "southeast of the Loyalty Islands",
-      "time": 1783976617178,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t06d"
-    },
-    {
-      "id": "av93064029",
-      "lon": -164.449166666667,
-      "lat": 54.548,
-      "depth": 4.23,
-      "mag": 0.96,
-      "place": "75 km WSW of False Pass, Alaska",
-      "time": 1783976586120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064029"
-    },
-    {
-      "id": "pr71523818",
-      "lon": -66.917,
-      "lat": 17.9576666666667,
-      "depth": 15.01,
-      "mag": 1.76,
-      "place": "1 km SSW of Guánica, Puerto Rico",
-      "time": 1783976530180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523818"
     }
   ]
 }
