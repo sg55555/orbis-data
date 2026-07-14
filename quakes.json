@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T10:31:18Z",
-  "count": 309,
+  "updated": "2026-07-14T10:45:45Z",
+  "count": 310,
   "points": [
+    {
+      "id": "ci41293735",
+      "lon": -117.304333333333,
+      "lat": 34.33,
+      "depth": 28.47,
+      "mag": 1.17,
+      "place": "9 km SE of Oak Hills, CA",
+      "time": 1784025571290,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293735"
+    },
     {
       "id": "nc75395571",
       "lon": -123.263999938965,
@@ -82,6 +92,16 @@
       "place": "5 km NNW of Redwood Valley, CA",
       "time": 1784020320990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395546"
+    },
+    {
+      "id": "pr71523978",
+      "lon": -66.904,
+      "lat": 17.9731666666667,
+      "depth": 12.94,
+      "mag": 2.76,
+      "place": "0 km ENE of Guánica, Puerto Rico",
+      "time": 1784019554040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523978"
     },
     {
       "id": "aka2026nuzyqb",
@@ -604,6 +624,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nsnqkz"
     },
     {
+      "id": "pr71523913",
+      "lon": -66.9156666666667,
+      "lat": 17.9531666666667,
+      "depth": 14.53,
+      "mag": 2.18,
+      "place": "2 km SSW of Guánica, Puerto Rico",
+      "time": 1784006573780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523913"
+    },
+    {
       "id": "ci41293503",
       "lon": -117.820666666667,
       "lat": 35.3025,
@@ -702,6 +732,16 @@
       "place": "16 km E of Little Lake, CA",
       "time": 1784002532000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293471"
+    },
+    {
+      "id": "pr71523893",
+      "lon": -66.8838333333333,
+      "lat": 17.9471666666667,
+      "depth": 7.21,
+      "mag": 2.35,
+      "place": "3 km S of Maria Antonia, Puerto Rico",
+      "time": 1784002512500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523893"
     },
     {
       "id": "nc75395456",
@@ -3062,36 +3102,6 @@
       "place": "56 km S of Whites City, New Mexico",
       "time": 1783939529498,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nrcobq"
-    },
-    {
-      "id": "tx2026nrcgak",
-      "lon": -104.423,
-      "lat": 31.671,
-      "depth": 7.1753,
-      "mag": 1.8,
-      "place": "56 km S of Whites City, New Mexico",
-      "time": 1783938970676,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nrcgak"
-    },
-    {
-      "id": "ci10245822",
-      "lon": -116.811,
-      "lat": 33.704,
-      "depth": 16.28,
-      "mag": 0.01,
-      "place": "9 km ESE of Valle Vista, CA",
-      "time": 1783938741930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10245822"
-    },
-    {
-      "id": "ci41292495",
-      "lon": -116.815333333333,
-      "lat": 33.7086666666667,
-      "depth": 16.72,
-      "mag": 0.38,
-      "place": "8 km ESE of Valle Vista, CA",
-      "time": 1783938732000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292495"
     }
   ]
 }
