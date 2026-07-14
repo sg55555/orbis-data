@@ -1,16 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T20:45:51Z",
+  "updated": "2026-07-14T21:01:30Z",
   "count": 293,
   "points": [
     {
+      "id": "nc75395966",
+      "lon": -122.803833007812,
+      "lat": 38.8223342895508,
+      "depth": 2.74000000953674,
+      "mag": 0.84,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1784062687950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395966"
+    },
+    {
+      "id": "nc75395951",
+      "lon": -122.812835693359,
+      "lat": 38.8358345031738,
+      "depth": 1.76999998092651,
+      "mag": 0.21,
+      "place": "8 km W of Cobb, CA",
+      "time": 1784062342960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395951"
+    },
+    {
+      "id": "nc75395941",
+      "lon": -122.788330078125,
+      "lat": 38.8025016784668,
+      "depth": 0.0299999993294477,
+      "mag": 1.08,
+      "place": "4 km NW of The Geysers, CA",
+      "time": 1784061946900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395941"
+    },
+    {
       "id": "ci40654730",
-      "lon": -116.494333333333,
-      "lat": 33.5145,
-      "depth": 12.92,
-      "mag": 0.42,
-      "place": "17 km ESE of Anza, CA",
-      "time": 1784061212120,
+      "lon": -116.489833333333,
+      "lat": 33.515,
+      "depth": 13.35,
+      "mag": 0.25,
+      "place": "18 km ESE of Anza, CA",
+      "time": 1784061212080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40654730"
     },
     {
@@ -85,12 +115,12 @@
     },
     {
       "id": "ci40654698",
-      "lon": -117.807166666667,
-      "lat": 35.3173333333333,
-      "depth": 6.99,
-      "mag": 0.99,
+      "lon": -117.804833333333,
+      "lat": 35.3185,
+      "depth": 7.12,
+      "mag": 0.98,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1784059535190,
+      "time": 1784059535160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40654698"
     },
     {
@@ -542,6 +572,16 @@
       "place": "13 km SSW of Big Spring, Texas",
       "time": 1784043530238,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nthzuw"
+    },
+    {
+      "id": "ci41293983",
+      "lon": -117.871,
+      "lat": 36.0965,
+      "depth": 2.8,
+      "mag": 0.87,
+      "place": "9 km NE of Coso Junction, CA",
+      "time": 1784043475300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293983"
     },
     {
       "id": "nc75395726",
@@ -2892,46 +2932,6 @@
       "place": "1 km SSW of Guánica, Puerto Rico",
       "time": 1783976530180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523818"
-    },
-    {
-      "id": "tx2026nrwsar",
-      "lon": -104.366,
-      "lat": 31.652,
-      "depth": 7.6379,
-      "mag": 1.6,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": 1783976009115,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nrwsar"
-    },
-    {
-      "id": "av93064114",
-      "lon": -154.7015,
-      "lat": 58.3408333333333,
-      "depth": 5.66,
-      "mag": 0.11,
-      "place": "87 km N of Karluk, Alaska",
-      "time": 1783975883770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064114"
-    },
-    {
-      "id": "av94307203",
-      "lon": -154.696666666667,
-      "lat": 58.3388333333333,
-      "depth": 4.9,
-      "mag": 0.09,
-      "place": "86 km N of Karluk, Alaska",
-      "time": 1783975878160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94307203"
-    },
-    {
-      "id": "ci41293111",
-      "lon": -117.808,
-      "lat": 35.3165,
-      "depth": 8.28,
-      "mag": 1.03,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1783975564040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293111"
     }
   ]
 }
