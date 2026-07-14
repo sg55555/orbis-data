@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T21:45:46Z",
-  "count": 284,
+  "updated": "2026-07-14T22:01:32Z",
+  "count": 282,
   "points": [
     {
+      "id": "nc75395996",
+      "lon": -122.818496704102,
+      "lat": 38.8281669616699,
+      "depth": 1.50999999046326,
+      "mag": 0.76,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1784066350220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395996"
+    },
+    {
+      "id": "pr71524313",
+      "lon": -66.9066666666667,
+      "lat": 17.9533333333333,
+      "depth": 14.78,
+      "mag": 2.23,
+      "place": "2 km S of Guánica, Puerto Rico",
+      "time": 1784065021100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524313"
+    },
+    {
       "id": "tx2026nttsbc",
-      "lon": -104.195,
-      "lat": 31.553,
-      "depth": 4.3833,
+      "lon": -104.196,
+      "lat": 31.552,
+      "depth": 4.3676,
       "mag": 2.2,
       "place": "46 km NW of Toyah, Texas",
-      "time": 1784064718142,
+      "time": 1784064718129,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nttsbc"
     },
     {
@@ -112,16 +132,6 @@
       "place": "3 km NNW of Tallaboa, Puerto Rico",
       "time": 1784060755350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524273"
-    },
-    {
-      "id": "tx2026ntrmqr",
-      "lon": -104.305,
-      "lat": 31.696,
-      "depth": 2.8028,
-      "mag": -0.2,
-      "place": "53 km S of Whites City, New Mexico",
-      "time": 1784060724118,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ntrmqr"
     },
     {
       "id": "ci40654714",
@@ -2044,6 +2054,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002101"
     },
     {
+      "id": "av93064144",
+      "lon": -177.2285,
+      "lat": 51.8648333333333,
+      "depth": 8.81,
+      "mag": -0.19,
+      "place": "40 km W of Adak, Alaska",
+      "time": 1784006286500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064144"
+    },
+    {
       "id": "hv75002096",
       "lon": -155.367340087891,
       "lat": 19.1691665649414,
@@ -2242,6 +2262,16 @@
       "place": "9 km ESE of Jurm, Afghanistan",
       "time": 1783999345677,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t08m"
+    },
+    {
+      "id": "av93064139",
+      "lon": -154.4675,
+      "lat": 58.5028333333333,
+      "depth": 4.52,
+      "mag": 0.21,
+      "place": "103 km WNW of Aleneva, Alaska",
+      "time": 1783999304850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064139"
     },
     {
       "id": "nc75395446",
@@ -2792,56 +2822,6 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1783980071630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293191"
-    },
-    {
-      "id": "us7000t06z",
-      "lon": 7.8819,
-      "lat": 73.7141,
-      "depth": 10,
-      "mag": 4.4,
-      "place": "Greenland Sea",
-      "time": 1783980050419,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t06z"
-    },
-    {
-      "id": "aka2026nueaik",
-      "lon": -154.223,
-      "lat": 57.671,
-      "depth": 43.6,
-      "mag": 1.6,
-      "place": "17 km NE of Karluk, Alaska",
-      "time": 1783979593440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nueaik"
-    },
-    {
-      "id": "aka2026nudvkh",
-      "lon": -155.433,
-      "lat": 57.223,
-      "depth": 14.1,
-      "mag": 2.1,
-      "place": "70 km WSW of Karluk, Alaska",
-      "time": 1783979252151,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nudvkh"
-    },
-    {
-      "id": "pr71523848",
-      "lon": -66.9141666666667,
-      "lat": 17.9378333333333,
-      "depth": 14.34,
-      "mag": 2.29,
-      "place": "3 km S of Guánica, Puerto Rico",
-      "time": 1783979232170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523848"
-    },
-    {
-      "id": "av93064039",
-      "lon": -166.644,
-      "lat": 53.8956666666667,
-      "depth": 9.38,
-      "mag": 0.22,
-      "place": "6 km W of Dutch Harbor, Alaska",
-      "time": 1783979192120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064039"
     }
   ]
 }
