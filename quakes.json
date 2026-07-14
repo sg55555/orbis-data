@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T09:31:35Z",
+  "updated": "2026-07-14T09:45:45Z",
   "count": 313,
   "points": [
+    {
+      "id": "aka2026nvbnaz",
+      "lon": -140.512,
+      "lat": 60.308,
+      "depth": 19.8,
+      "mag": 1.5,
+      "place": "95 km NNW of Yakutat, Alaska",
+      "time": 1784021854356,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nvbnaz"
+    },
     {
       "id": "tx2026nsvrfn",
       "lon": -104.018,
@@ -494,6 +504,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293527"
     },
     {
+      "id": "tx2026nsoblz",
+      "lon": -104.23,
+      "lat": 31.932,
+      "depth": 1.9214,
+      "mag": 0.6,
+      "place": "30 km SSE of Whites City, New Mexico",
+      "time": 1784007442001,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nsoblz"
+    },
+    {
       "id": "uw714049242",
       "lon": -122.721496582031,
       "lat": 46.1918334960938,
@@ -522,6 +542,16 @@
       "place": "7 km ESE of Valle Vista, CA",
       "time": 1784006870780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293511"
+    },
+    {
+      "id": "tx2026nsnqkz",
+      "lon": -103.243,
+      "lat": 32.017,
+      "depth": 5.7922,
+      "mag": 1.1,
+      "place": "11 km SSW of Jal, New Mexico",
+      "time": 1784006697981,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nsnqkz"
     },
     {
       "id": "ci41293503",
@@ -3102,36 +3132,6 @@
       "place": "20 km ESE of Silver Springs, Nevada",
       "time": 1783935963725,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921593"
-    },
-    {
-      "id": "aka2026ntfodx",
-      "lon": -147.667,
-      "lat": 65.033,
-      "depth": 17.1,
-      "mag": 1.1,
-      "place": "8 km NNW of Fox, Alaska",
-      "time": 1783935570257,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ntfodx"
-    },
-    {
-      "id": "nc75394851",
-      "lon": -122.764335632324,
-      "lat": 38.8240013122559,
-      "depth": 2.14000010490417,
-      "mag": 1.01,
-      "place": "4 km W of Cobb, CA",
-      "time": 1783935544290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394851"
-    },
-    {
-      "id": "nc75394846",
-      "lon": -122.735832214355,
-      "lat": 38.7581672668457,
-      "depth": 2.4300000667572,
-      "mag": 1.06,
-      "place": "3 km SE of The Geysers, CA",
-      "time": 1783935485220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394846"
     }
   ]
 }
