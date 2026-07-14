@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-14T17:01:30Z",
-  "count": 317,
+  "updated": "2026-07-14T17:15:49Z",
+  "count": 316,
   "points": [
     {
       "id": "nc75395786",
@@ -22,6 +22,16 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1784047727260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395771"
+    },
+    {
+      "id": "pr71524178",
+      "lon": -65.1051666666667,
+      "lat": 18.914,
+      "depth": 47.83,
+      "mag": 3.12,
+      "place": "65 km NNW of Charlotte Amalie, U.S. Virgin Islands",
+      "time": 1784047530880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524178"
     },
     {
       "id": "nc75395766",
@@ -425,12 +435,12 @@
     },
     {
       "id": "tx2026ntecgh",
-      "lon": -104.108,
-      "lat": 31.55,
-      "depth": 9.3325,
-      "mag": 0.6,
-      "place": "39 km NW of Toyah, Texas",
-      "time": 1784036466655,
+      "lon": -104.5,
+      "lat": 31.688,
+      "depth": 6.0213,
+      "mag": -0.2,
+      "place": "55 km SSW of Whites City, New Mexico",
+      "time": 1784036449598,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ntecgh"
     },
     {
@@ -614,12 +624,22 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293791"
     },
     {
+      "id": "ci10245950",
+      "lon": -117.667166666667,
+      "lat": 35.8318333333333,
+      "depth": 6.63,
+      "mag": 0.31,
+      "place": "23 km N of Ridgecrest, CA",
+      "time": 1784030046190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10245950"
+    },
+    {
       "id": "ci41293783",
-      "lon": -117.6585,
-      "lat": 35.832,
-      "depth": 8.91,
-      "mag": 0.36,
-      "place": "24 km N of Ridgecrest, CA",
+      "lon": -117.660666666667,
+      "lat": 35.8298333333333,
+      "depth": 8.53,
+      "mag": 0.32,
+      "place": "23 km N of Ridgecrest, CA",
       "time": 1784030042410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293783"
     },
@@ -765,12 +785,12 @@
     },
     {
       "id": "ci41293743",
-      "lon": -117.8175,
-      "lat": 35.302,
-      "depth": 8.82,
-      "mag": 1.2,
+      "lon": -117.818,
+      "lat": 35.3043333333333,
+      "depth": 9.8,
+      "mag": 1.08,
       "place": "18 km WSW of Johannesburg, CA",
-      "time": 1784027064980,
+      "time": 1784027064910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293743"
     },
     {
@@ -1604,13 +1624,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523908"
     },
     {
-      "id": "ci41293471",
-      "lon": -117.732333333333,
+      "id": "ci10245934",
+      "lon": -117.731333333333,
       "lat": 35.916,
-      "depth": 7.78,
-      "mag": 0.43,
+      "depth": 7.7,
+      "mag": 0.25,
       "place": "16 km E of Little Lake, CA",
-      "time": 1784002532000,
+      "time": 1784002537580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10245934"
+    },
+    {
+      "id": "ci41293471",
+      "lon": -117.729333333333,
+      "lat": 35.918,
+      "depth": 8.35,
+      "mag": 0.29,
+      "place": "16 km E of Little Lake, CA",
+      "time": 1784002531900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293471"
     },
     {
@@ -1725,12 +1755,12 @@
     },
     {
       "id": "ci41293439",
-      "lon": -117.176666666667,
-      "lat": 34.0088333333333,
-      "depth": 4.9,
-      "mag": 0.76,
-      "place": "5 km S of Redlands, CA",
-      "time": 1783998014530,
+      "lon": -117.1825,
+      "lat": 34.0188333333333,
+      "depth": 3.09,
+      "mag": 0.8,
+      "place": "4 km S of Redlands, CA",
+      "time": 1783998014630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293439"
     },
     {
@@ -2195,12 +2225,12 @@
     },
     {
       "id": "ci41293207",
-      "lon": -116.973166666667,
-      "lat": 33.9973333333333,
-      "depth": 11.55,
-      "mag": 0.7,
-      "place": "7 km E of Calimesa, CA",
-      "time": 1783980904740,
+      "lon": -116.974333333333,
+      "lat": 34.0006666666667,
+      "depth": 11.93,
+      "mag": 0.62,
+      "place": "7 km ESE of Yucaipa, CA",
+      "time": 1783980904640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293207"
     },
     {
@@ -3132,46 +3162,6 @@
       "place": "southeast of the Loyalty Islands",
       "time": 1783962934252,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t046"
-    },
-    {
-      "id": "ci41292767",
-      "lon": -117.8065,
-      "lat": 35.314,
-      "depth": 6.74,
-      "mag": 1.05,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1783962474360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292767"
-    },
-    {
-      "id": "ci41292759",
-      "lon": -117.815166666667,
-      "lat": 35.3125,
-      "depth": 8.1,
-      "mag": 1.06,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1783962461310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292759"
-    },
-    {
-      "id": "ci41292751",
-      "lon": -117.806833333333,
-      "lat": 35.3036666666667,
-      "depth": 7.63,
-      "mag": 1.15,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1783962410250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292751"
-    },
-    {
-      "id": "ci41292743",
-      "lon": -117.806333333333,
-      "lat": 35.3041666666667,
-      "depth": 7.4,
-      "mag": 2.23,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1783962071460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292743"
     }
   ]
 }
