@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T14:59:47Z",
-  "count": 257,
+  "updated": "2026-07-15T15:01:28Z",
+  "count": 256,
   "points": [
     {
+      "id": "nc75396331",
+      "lon": -122.928665161133,
+      "lat": 38.7623329162598,
+      "depth": 5.84000015258789,
+      "mag": 2.73,
+      "place": "9 km ESE of Cloverdale, CA",
+      "time": 1784127512900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396331"
+    },
+    {
       "id": "ci40655442",
-      "lon": -116.670997619629,
-      "lat": 33.9889984130859,
-      "depth": 9.02999973297119,
-      "mag": 1.00703508226097,
+      "lon": -116.664166666667,
+      "lat": 33.9803333333333,
+      "depth": 7.2,
+      "mag": 0.74,
       "place": "11 km SW of Morongo Valley, CA",
-      "time": 1784127396410,
+      "time": 1784127396540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655442"
     },
     {
@@ -515,12 +525,12 @@
     },
     {
       "id": "ci40655194",
-      "lon": -116.056503295898,
-      "lat": 33.0951652526855,
-      "depth": 9.27999973297119,
-      "mag": 2.94478808783083,
+      "lon": -116.051333333333,
+      "lat": 33.0935,
+      "depth": 9.38,
+      "mag": 3.13,
       "place": "9 km SE of Ocotillo Wells, CA",
-      "time": 1784105335940,
+      "time": 1784105335880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655194"
     },
     {
@@ -1914,16 +1924,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714049732"
     },
     {
-      "id": "tx2026ntraht",
-      "lon": -103.055,
-      "lat": 31.571,
-      "depth": 0,
-      "mag": 1.5,
-      "place": "5 km W of Wickett, Texas",
-      "time": 1784059860083,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ntraht"
-    },
-    {
       "id": "ci40654706",
       "lon": -116.712833333333,
       "lat": 33.539,
@@ -2562,16 +2562,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1784041753490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395721"
-    },
-    {
-      "id": "us7000t0ce",
-      "lon": 87.6715,
-      "lat": 43.4115,
-      "depth": 10,
-      "mag": 4,
-      "place": "43 km S of Ürümqi, China",
-      "time": 1784041275502,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ce"
     }
   ]
 }
