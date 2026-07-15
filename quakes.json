@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T20:31:23Z",
-  "count": 276,
+  "updated": "2026-07-15T20:45:46Z",
+  "count": 279,
   "points": [
+    {
+      "id": "aka2026nxtnoe",
+      "lon": -147.773,
+      "lat": 64.914,
+      "depth": 13.6,
+      "mag": 1.2,
+      "place": "3 km W of Farmers Loop, Alaska",
+      "time": 1784147831638,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxtnoe"
+    },
     {
       "id": "aka2026nxtfnx",
       "lon": -141.505,
@@ -324,6 +334,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxmhqv"
     },
     {
+      "id": "aka2026nxmhqc",
+      "lon": 176.324,
+      "lat": 51.967,
+      "depth": 6.3,
+      "mag": 3.3,
+      "place": "234 km ESE of Attu Station, Alaska",
+      "time": 1784134809372,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxmhqc"
+    },
+    {
+      "id": "aka2026nxmcco",
+      "lon": -168.134,
+      "lat": 54.102,
+      "depth": 20.9,
+      "mag": 1.9,
+      "place": "107 km WNW of Dutch Harbor, Alaska",
+      "time": 1784134446102,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxmcco"
+    },
+    {
       "id": "ci40655602",
       "lon": -119.232,
       "lat": 34.8521666666667,
@@ -335,13 +365,23 @@
     },
     {
       "id": "aka2026nxlqqz",
-      "lon": -152.556,
-      "lat": 59.796,
-      "depth": 87.5,
-      "mag": 2.4,
-      "place": "40 km W of Anchor Point, Alaska",
-      "time": 1784133654023,
+      "lon": -152.574,
+      "lat": 59.798,
+      "depth": 87.7,
+      "mag": 2.5,
+      "place": "41 km W of Anchor Point, Alaska",
+      "time": 1784133653903,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxlqqz"
+    },
+    {
+      "id": "aka2026nxlkra",
+      "lon": 176.206,
+      "lat": 52.013,
+      "depth": 1.2,
+      "mag": 3.5,
+      "place": "225 km ESE of Attu Station, Alaska",
+      "time": 1784133216841,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxlkra"
     },
     {
       "id": "ci40655562",
@@ -355,12 +395,12 @@
     },
     {
       "id": "aka2026nxkzhh",
-      "lon": -146.587,
-      "lat": 61.652,
-      "depth": 1.1,
-      "mag": 1.7,
-      "place": "39 km SSE of Nelchina, Alaska",
-      "time": 1784132450800,
+      "lon": -146.571,
+      "lat": 61.659,
+      "depth": 3.4,
+      "mag": 2,
+      "place": "38 km SSE of Nelchina, Alaska",
+      "time": 1784132450706,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxkzhh"
     },
     {
@@ -2752,16 +2792,6 @@
       "place": "4 km NW of The Geysers, CA",
       "time": 1784061946900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395941"
-    },
-    {
-      "id": "ci40654730",
-      "lon": -116.489833333333,
-      "lat": 33.515,
-      "depth": 13.35,
-      "mag": 0.25,
-      "place": "18 km ESE of Anza, CA",
-      "time": 1784061212080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40654730"
     }
   ]
 }
