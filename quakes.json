@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T16:41:37Z",
+  "updated": "2026-07-15T17:01:14Z",
   "count": 253,
   "points": [
+    {
+      "id": "ci40655602",
+      "lon": -119.233,
+      "lat": 34.8508333333333,
+      "depth": 9.98,
+      "mag": 1.53,
+      "place": "8 km W of Pine Mountain Club, CA",
+      "time": 1784133792510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655602"
+    },
+    {
+      "id": "ci40655594",
+      "lon": -119.635166666667,
+      "lat": 34.876,
+      "depth": 6.61,
+      "mag": 1.58,
+      "place": "29 km SW of Maricopa, CA",
+      "time": 1784133787720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655594"
+    },
+    {
+      "id": "aka2026nxlqqz",
+      "lon": -152.556,
+      "lat": 59.796,
+      "depth": 87.5,
+      "mag": 2.4,
+      "place": "40 km W of Anchor Point, Alaska",
+      "time": 1784133654023,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxlqqz"
+    },
     {
       "id": "ci40655562",
       "lon": -117.811,
@@ -52,6 +82,16 @@
       "place": "4 km ENE of Cabazon, CA",
       "time": 1784131569700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655530"
+    },
+    {
+      "id": "uu80145351",
+      "lon": -110.835,
+      "lat": 40.8935,
+      "depth": 12.56,
+      "mag": 2.01,
+      "place": "42 km SSE of Evanston, Wyoming",
+      "time": 1784131256120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145351"
     },
     {
       "id": "ci40655522",
@@ -615,12 +655,12 @@
     },
     {
       "id": "tx2026nusird",
-      "lon": -104.282,
-      "lat": 31.618,
-      "depth": 6.0999,
-      "mag": 2.7,
+      "lon": -104.281,
+      "lat": 31.627,
+      "depth": 6.7151,
+      "mag": 2.9,
       "place": "57 km NW of Toyah, Texas",
-      "time": 1784109326859,
+      "time": 1784109326894,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nusird"
     },
     {
@@ -2492,46 +2532,6 @@
       "place": "13 km ESE of Pearsall, Texas",
       "time": 1784049317025,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ntlewm"
-    },
-    {
-      "id": "av94308748",
-      "lon": -155.294166666667,
-      "lat": 58.1861666666667,
-      "depth": 1.14,
-      "mag": -0.12,
-      "place": "84 km NW of Karluk, Alaska",
-      "time": 1784048190360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94308748"
-    },
-    {
-      "id": "nc75395786",
-      "lon": -122.765167236328,
-      "lat": 38.7881660461426,
-      "depth": 2.98000001907349,
-      "mag": 0.75,
-      "place": "1 km NNW of The Geysers, CA",
-      "time": 1784048125260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395786"
-    },
-    {
-      "id": "nc75395771",
-      "lon": -122.805168151855,
-      "lat": 38.8186683654785,
-      "depth": 3.4300000667572,
-      "mag": 0.71,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1784047727260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395771"
-    },
-    {
-      "id": "pr71524178",
-      "lon": -65.1051666666667,
-      "lat": 18.914,
-      "depth": 47.83,
-      "mag": 3.12,
-      "place": "65 km NNW of Charlotte Amalie, U.S. Virgin Islands",
-      "time": 1784047530880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524178"
     }
   ]
 }
