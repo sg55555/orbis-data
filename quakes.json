@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T17:15:45Z",
-  "count": 255,
+  "updated": "2026-07-15T17:31:19Z",
+  "count": 254,
   "points": [
+    {
+      "id": "ci40655658",
+      "lon": -117.672836303711,
+      "lat": 35.8278350830078,
+      "depth": 6.21999979019165,
+      "mag": 2.04722882602389,
+      "place": "23 km N of Ridgecrest, CA",
+      "time": 1784136507220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655658"
+    },
+    {
+      "id": "nn00921732",
+      "lon": -115.2401,
+      "lat": 37.1062,
+      "depth": 4.1434,
+      "mag": 1.51,
+      "place": "29 km SSW of Alamo, Nevada",
+      "time": 1784136128071,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921732"
+    },
+    {
+      "id": "aka2026nxmwde",
+      "lon": -141.488,
+      "lat": 59.935,
+      "depth": 0.2,
+      "mag": 3.3,
+      "place": "108 km WNW of Yakutat, Alaska",
+      "time": 1784135827979,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxmwde"
+    },
     {
       "id": "aka2026nxmhqv",
       "lon": -150.532,
@@ -22,16 +52,6 @@
       "place": "8 km W of Pine Mountain Club, CA",
       "time": 1784133792510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655602"
-    },
-    {
-      "id": "ci40655594",
-      "lon": -119.635166666667,
-      "lat": 34.876,
-      "depth": 6.61,
-      "mag": 1.58,
-      "place": "29 km SW of Maricopa, CA",
-      "time": 1784133787720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655594"
     },
     {
       "id": "aka2026nxlqqz",
@@ -2395,12 +2415,12 @@
     },
     {
       "id": "ci40654570",
-      "lon": -116.171666666667,
-      "lat": 33.8861666666667,
-      "depth": 4.44,
-      "mag": 1.03,
+      "lon": -116.1745,
+      "lat": 33.8865,
+      "depth": 5.27,
+      "mag": 1.2,
       "place": "19 km NNE of Indio, CA",
-      "time": 1784055835280,
+      "time": 1784055835270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40654570"
     },
     {
@@ -2522,36 +2542,6 @@
       "place": "16 km WSW of Johannesburg, CA",
       "time": 1784050692230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40654402"
-    },
-    {
-      "id": "aka2026nvrhey",
-      "lon": -156.462,
-      "lat": 55.006,
-      "depth": 10.6,
-      "mag": 3,
-      "place": "188 km SE of Chignik, Alaska",
-      "time": 1784050231468,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nvrhey"
-    },
-    {
-      "id": "av94308783",
-      "lon": -161.916,
-      "lat": 55.3903333333333,
-      "depth": -2.97,
-      "mag": -0.38,
-      "place": "44 km NE of King Cove, Alaska",
-      "time": 1784049870260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94308783"
-    },
-    {
-      "id": "nc75395801",
-      "lon": -122.876998901367,
-      "lat": 38.8383331298828,
-      "depth": 2.23000001907349,
-      "mag": 1.26,
-      "place": "12 km WNW of The Geysers, CA",
-      "time": 1784049774980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395801"
     }
   ]
 }
