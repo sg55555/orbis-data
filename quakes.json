@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T12:55:35Z",
-  "count": 260,
+  "updated": "2026-07-15T13:01:37Z",
+  "count": 261,
   "points": [
+    {
+      "id": "nc75396256",
+      "lon": -122.085502624512,
+      "lat": 37.3261680603027,
+      "depth": 5.98000001907349,
+      "mag": 1.57,
+      "place": "3 km SSE of Loyola, CA",
+      "time": 1784120054630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396256"
+    },
     {
       "id": "tx2026nuydnl",
       "lon": -104.452,
@@ -24,6 +34,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75003116"
     },
     {
+      "id": "us7000t0mr",
+      "lon": 164.2703,
+      "lat": 54.6535,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "208 km SSE of Ust’-Kamchatsk Staryy, Russia",
+      "time": 1784119131964,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0mr"
+    },
+    {
       "id": "nc75396246",
       "lon": -122.819664001465,
       "lat": 38.8310012817383,
@@ -32,6 +52,16 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1784118726780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396246"
+    },
+    {
+      "id": "us7000t0mp",
+      "lon": 142.3054,
+      "lat": 40.3221,
+      "depth": 63.294,
+      "mag": 4.6,
+      "place": "47 km ENE of Noda, Japan",
+      "time": 1784118580381,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0mp"
     },
     {
       "id": "aka2026nxcmzw",
@@ -2582,26 +2612,6 @@
       "place": "4 km WSW of Anza, CA",
       "time": 1784034520550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293847"
-    },
-    {
-      "id": "aka2026nviedy",
-      "lon": -150.396,
-      "lat": 63.89,
-      "depth": 0.3,
-      "mag": 1.6,
-      "place": "64 km WSW of Ferry, Alaska",
-      "time": 1784033829497,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nviedy"
-    },
-    {
-      "id": "ci41293839",
-      "lon": -116.341333333333,
-      "lat": 33.3475,
-      "depth": 11.53,
-      "mag": 0.64,
-      "place": "11 km NNE of Borrego Springs, CA",
-      "time": 1784033749460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293839"
     }
   ]
 }
