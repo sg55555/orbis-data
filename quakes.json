@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T09:01:30Z",
-  "count": 269,
+  "updated": "2026-07-15T09:15:49Z",
+  "count": 271,
   "points": [
+    {
+      "id": "ci40655202",
+      "lon": -116.332833333333,
+      "lat": 33.319,
+      "depth": 11.19,
+      "mag": 0.82,
+      "place": "8 km NNE of Borrego Springs, CA",
+      "time": 1784106682660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655202"
+    },
+    {
+      "id": "aka2026nwwjax",
+      "lon": -150.065,
+      "lat": 61.456,
+      "depth": 28.1,
+      "mag": 1.6,
+      "place": "9 km SW of Big Lake, Alaska",
+      "time": 1784106161168,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nwwjax"
+    },
     {
       "id": "nc75396201",
       "lon": -123.223663330078,
@@ -572,6 +592,16 @@
       "place": "146 km SSE of Vilyuchinsk, Russia",
       "time": 1784086578242,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ke"
+    },
+    {
+      "id": "tx2026nuftvl",
+      "lon": -103.274,
+      "lat": 32.03,
+      "depth": 1.9214,
+      "mag": 0.9,
+      "place": "11 km SW of Jal, New Mexico",
+      "time": 1784086564492,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nuftvl"
     },
     {
       "id": "ci40655090",
@@ -2682,16 +2712,6 @@
       "place": "31 km NW of Toyah, Texas",
       "time": 1784021220506,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nsvrfn"
-    },
-    {
-      "id": "nc75395546",
-      "lon": -123.219665527344,
-      "lat": 39.3089981079102,
-      "depth": 2.34999990463257,
-      "mag": 1.49,
-      "place": "5 km NNW of Redwood Valley, CA",
-      "time": 1784020320990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395546"
     }
   ]
 }
