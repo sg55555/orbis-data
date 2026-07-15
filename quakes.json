@@ -1,16 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T17:31:19Z",
-  "count": 254,
+  "updated": "2026-07-15T17:45:51Z",
+  "count": 255,
   "points": [
     {
+      "id": "aka2026nxnlwx",
+      "lon": -154.155,
+      "lat": 61.67,
+      "depth": 0.7,
+      "mag": 2.2,
+      "place": "76 km ENE of Lime Village, Alaska",
+      "time": 1784136921007,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxnlwx"
+    },
+    {
+      "id": "ok2026ntpu",
+      "lon": -97.23519135,
+      "lat": 34.47595215,
+      "depth": 4.270383358,
+      "mag": 2.08,
+      "place": "11 km WSW of Davis, Oklahoma",
+      "time": 1784136690950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ntpu"
+    },
+    {
+      "id": "nc75396431",
+      "lon": -118.82250213623,
+      "lat": 37.6015014648438,
+      "depth": 2.33999991416931,
+      "mag": 1.05,
+      "place": "13 km WNW of Toms Place, CA",
+      "time": 1784136671490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396431"
+    },
+    {
       "id": "ci40655658",
-      "lon": -117.672836303711,
-      "lat": 35.8278350830078,
-      "depth": 6.21999979019165,
-      "mag": 2.04722882602389,
+      "lon": -117.672333333333,
+      "lat": 35.8293333333333,
+      "depth": 8.03,
+      "mag": 2,
       "place": "23 km N of Ridgecrest, CA",
-      "time": 1784136507220,
+      "time": 1784136507160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655658"
     },
     {
@@ -45,10 +75,10 @@
     },
     {
       "id": "ci40655602",
-      "lon": -119.233,
-      "lat": 34.8508333333333,
-      "depth": 9.98,
-      "mag": 1.53,
+      "lon": -119.232,
+      "lat": 34.8521666666667,
+      "depth": 10.06,
+      "mag": 1.51,
       "place": "8 km W of Pine Mountain Club, CA",
       "time": 1784133792510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655602"
@@ -2522,26 +2552,6 @@
       "place": "11 km ESE of Gilroy, CA",
       "time": 1784051712770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395831"
-    },
-    {
-      "id": "ci40654426",
-      "lon": -117.180666666667,
-      "lat": 34.0318333333333,
-      "depth": 6.85,
-      "mag": 0.66,
-      "place": "3 km S of Redlands, CA",
-      "time": 1784050976220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40654426"
-    },
-    {
-      "id": "ci40654402",
-      "lon": -117.803,
-      "lat": 35.3261666666667,
-      "depth": 8.23,
-      "mag": 0.79,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": 1784050692230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40654402"
     }
   ]
 }
