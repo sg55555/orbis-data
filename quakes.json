@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T10:01:25Z",
+  "updated": "2026-07-15T10:15:45Z",
   "count": 275,
   "points": [
     {
+      "id": "nc75396216",
+      "lon": -122.842163085938,
+      "lat": 38.8228340148926,
+      "depth": 2.10999989509583,
+      "mag": 0.99,
+      "place": "9 km NW of The Geysers, CA",
+      "time": 1784110387780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396216"
+    },
+    {
       "id": "tx2026nusird",
-      "lon": -104.286,
-      "lat": 31.61,
-      "depth": 4.246,
-      "mag": 2.8,
+      "lon": -104.282,
+      "lat": 31.618,
+      "depth": 6.0999,
+      "mag": 2.7,
       "place": "57 km NW of Toyah, Texas",
-      "time": 1784109326901,
+      "time": 1784109326859,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nusird"
     },
     {
@@ -2742,16 +2752,6 @@
       "place": "4 km SW of Sabana Grande, Puerto Rico",
       "time": 1784024424810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523998"
-    },
-    {
-      "id": "aka2026nvcmky",
-      "lon": -151.606,
-      "lat": 60.389,
-      "depth": 70.8,
-      "mag": 2.2,
-      "place": "16 km W of Cohoe, Alaska",
-      "time": 1784023610098,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nvcmky"
     }
   ]
 }
