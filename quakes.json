@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T02:45:45Z",
-  "count": 295,
+  "updated": "2026-07-15T03:01:28Z",
+  "count": 293,
   "points": [
+    {
+      "id": "aka2026nwkdzw",
+      "lon": -149.298,
+      "lat": 61.872,
+      "depth": 5,
+      "mag": 2.2,
+      "place": "14 km NNW of Fishhook, Alaska",
+      "time": 1784084201325,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nwkdzw"
+    },
+    {
+      "id": "us7000t0k1",
+      "lon": 159.5815,
+      "lat": 51.3809,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "190 km SSE of Vilyuchinsk, Russia",
+      "time": 1784083338066,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k1"
+    },
     {
       "id": "tx2026nudxut",
       "lon": -104.287,
       "lat": 31.61,
-      "depth": 3.8518,
+      "depth": 3.8657,
       "mag": 2,
       "place": "57 km NW of Toyah, Texas",
-      "time": 1784083220563,
+      "time": 1784083220556,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nudxut"
     },
     {
@@ -2912,46 +2932,6 @@
       "place": "13 km WNW of Calistoga, CA",
       "time": 1783998096870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395441"
-    },
-    {
-      "id": "ci41293439",
-      "lon": -117.1825,
-      "lat": 34.0188333333333,
-      "depth": 3.09,
-      "mag": 0.8,
-      "place": "4 km S of Redlands, CA",
-      "time": 1783998014630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293439"
-    },
-    {
-      "id": "pr71523888",
-      "lon": -66.9495,
-      "lat": 17.9971666666667,
-      "depth": 12.39,
-      "mag": 2.66,
-      "place": "3 km WNW of Fuig, Puerto Rico",
-      "time": 1783997835920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523888"
-    },
-    {
-      "id": "tx2026nsirkh",
-      "lon": -104.169,
-      "lat": 31.702,
-      "depth": 7.3944,
-      "mag": 1.7,
-      "place": "54 km W of Mentone, Texas",
-      "time": 1783997688840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nsirkh"
-    },
-    {
-      "id": "tx2026nsiljz",
-      "lon": -104.27,
-      "lat": 31.627,
-      "depth": 7.3303,
-      "mag": 1.6,
-      "place": "57 km NW of Toyah, Texas",
-      "time": 1783997270964,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nsiljz"
     }
   ]
 }
