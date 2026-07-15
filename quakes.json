@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T14:31:21Z",
-  "count": 262,
+  "updated": "2026-07-15T14:45:50Z",
+  "count": 258,
   "points": [
+    {
+      "id": "ci40655426",
+      "lon": -117.849166666667,
+      "lat": 36.0251666666667,
+      "depth": 2.39,
+      "mag": 0.87,
+      "place": "9 km ESE of Coso Junction, CA",
+      "time": 1784126448980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655426"
+    },
+    {
+      "id": "aka2026nxhmjq",
+      "lon": -147.301,
+      "lat": 60.997,
+      "depth": 19.2,
+      "mag": 2.3,
+      "place": "36 km WNW of Tatitlek, Alaska",
+      "time": 1784126160941,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxhmjq"
+    },
     {
       "id": "ci40655402",
       "lon": -116.167666666667,
@@ -1664,16 +1684,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524333"
     },
     {
-      "id": "tx2026ntvhdh",
-      "lon": -103.293,
-      "lat": 31.191,
-      "depth": 1.03,
-      "mag": 1.9,
-      "place": "22 km WSW of Coyanosa, Texas",
-      "time": 1784067583113,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ntvhdh"
-    },
-    {
       "id": "nc75395996",
       "lon": -122.818496704102,
       "lat": 38.8281669616699,
@@ -1695,12 +1705,12 @@
     },
     {
       "id": "tx2026nttsbc",
-      "lon": -104.196,
-      "lat": 31.552,
-      "depth": 4.3676,
+      "lon": -104.176,
+      "lat": 31.568,
+      "depth": 6.9714,
       "mag": 2.2,
-      "place": "46 km NW of Toyah, Texas",
-      "time": 1784064718129,
+      "place": "45 km NW of Toyah, Texas",
+      "time": 1784064718408,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nttsbc"
     },
     {
@@ -2572,56 +2582,6 @@
       "place": "76 km NW of Ninilchik, Alaska",
       "time": 1784040696280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94308543"
-    },
-    {
-      "id": "aka2026nvlqrz",
-      "lon": -149.992,
-      "lat": 60.958,
-      "depth": 34.1,
-      "mag": 1.8,
-      "place": "19 km WNW of Hope, Alaska",
-      "time": 1784040100510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nvlqrz"
-    },
-    {
-      "id": "nc75395706",
-      "lon": -122.844497680664,
-      "lat": 38.8219985961914,
-      "depth": 2.28999996185303,
-      "mag": 0.76,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": 1784040076240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395706"
-    },
-    {
-      "id": "pr71524103",
-      "lon": -66.9156666666667,
-      "lat": 17.962,
-      "depth": 15.06,
-      "mag": 2.32,
-      "place": "1 km SW of Guánica, Puerto Rico",
-      "time": 1784040058840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524103"
-    },
-    {
-      "id": "nc75395701",
-      "lon": -122.842834472656,
-      "lat": 38.8223342895508,
-      "depth": 2.0699999332428,
-      "mag": 0.75,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1784040025630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395701"
-    },
-    {
-      "id": "ci41293895",
-      "lon": -116.228333333333,
-      "lat": 33.8823333333333,
-      "depth": 8.83,
-      "mag": 0.69,
-      "place": "16 km ENE of Thousand Palms, CA",
-      "time": 1784039531850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293895"
     }
   ]
 }
