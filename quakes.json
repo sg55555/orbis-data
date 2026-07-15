@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T15:15:44Z",
-  "count": 261,
+  "updated": "2026-07-15T15:31:23Z",
+  "count": 260,
   "points": [
+    {
+      "id": "nc75396361",
+      "lon": -121.518165588379,
+      "lat": 37.1459999084473,
+      "depth": 10.0299997329712,
+      "mag": 1.19,
+      "place": "11 km NE of San Martin, CA",
+      "time": 1784128656860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396361"
+    },
     {
       "id": "nc75396356",
       "lon": -122.928833007812,
@@ -385,12 +395,12 @@
     },
     {
       "id": "ci40655258",
-      "lon": -116.088666666667,
-      "lat": 32.4273333333333,
-      "depth": 10.88,
-      "mag": 2.38,
+      "lon": -116.087333333333,
+      "lat": 32.4266666666667,
+      "depth": 10.83,
+      "mag": 2.23,
       "place": "35 km SSW of Ocotillo, CA",
-      "time": 1784113938360,
+      "time": 1784113938320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655258"
     },
     {
@@ -1715,12 +1725,12 @@
     },
     {
       "id": "ci40654922",
-      "lon": -117.491666666667,
-      "lat": 35.6516666666667,
-      "depth": 8.77,
-      "mag": 2.14,
+      "lon": -117.490833333333,
+      "lat": 35.6511666666667,
+      "depth": 8.64,
+      "mag": 2.21,
       "place": "15 km SSW of Searles Valley, CA",
-      "time": 1784071026670,
+      "time": 1784071026650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40654922"
     },
     {
@@ -1802,6 +1812,16 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1784066350220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395996"
+    },
+    {
+      "id": "mb90202438",
+      "lon": -111.780833333333,
+      "lat": 45.0553333333333,
+      "depth": -2,
+      "mag": 1.05,
+      "place": "29 km SSE of Virginia City, Montana",
+      "time": 1784065058030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90202438"
     },
     {
       "id": "pr71524313",
@@ -2582,36 +2602,6 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1784043338960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293975"
-    },
-    {
-      "id": "ci41293951",
-      "lon": -116.713333333333,
-      "lat": 33.5408333333333,
-      "depth": 6.02,
-      "mag": 0.57,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1784042453910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293951"
-    },
-    {
-      "id": "us7000t0cl",
-      "lon": -69.361,
-      "lat": 19.6421,
-      "depth": 16.554,
-      "mag": 4,
-      "place": "41 km NNE of Las Terrenas, Dominican Republic",
-      "time": 1784042414297,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0cl"
-    },
-    {
-      "id": "tx2026nthiii",
-      "lon": -102.057,
-      "lat": 32.346,
-      "depth": 8.2764,
-      "mag": 0.8,
-      "place": "34 km NW of Stanton, Texas",
-      "time": 1784042319862,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nthiii"
     }
   ]
 }
