@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T05:15:52Z",
-  "count": 289,
+  "updated": "2026-07-15T05:31:23Z",
+  "count": 284,
   "points": [
+    {
+      "id": "ci40655114",
+      "lon": -117.8495,
+      "lat": 36.0266666666667,
+      "depth": 2.47,
+      "mag": 0.6,
+      "place": "9 km ESE of Coso Junction, CA",
+      "time": 1784092510800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655114"
+    },
     {
       "id": "uw714050002",
       "lon": -124.441665649414,
@@ -2832,66 +2842,6 @@
       "place": "4 km ESE of Vincent, CA",
       "time": 1784007100200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293519"
-    },
-    {
-      "id": "ci41293511",
-      "lon": -116.824333333333,
-      "lat": 33.7133333333333,
-      "depth": 16.9,
-      "mag": 0.66,
-      "place": "7 km ESE of Valle Vista, CA",
-      "time": 1784006870780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293511"
-    },
-    {
-      "id": "tx2026nsnqkz",
-      "lon": -103.243,
-      "lat": 32.017,
-      "depth": 5.7922,
-      "mag": 1.1,
-      "place": "11 km SSW of Jal, New Mexico",
-      "time": 1784006697981,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nsnqkz"
-    },
-    {
-      "id": "pr71523913",
-      "lon": -66.9156666666667,
-      "lat": 17.9531666666667,
-      "depth": 14.53,
-      "mag": 2.18,
-      "place": "2 km SSW of Guánica, Puerto Rico",
-      "time": 1784006573780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523913"
-    },
-    {
-      "id": "ci41293503",
-      "lon": -117.820666666667,
-      "lat": 35.3025,
-      "depth": 9,
-      "mag": 0.86,
-      "place": "19 km WSW of Johannesburg, CA",
-      "time": 1784006381650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293503"
-    },
-    {
-      "id": "hv75002101",
-      "lon": -155.375666666667,
-      "lat": 19.0471666666667,
-      "depth": 35.32,
-      "mag": 2.48,
-      "place": "20 km SSE of Pāhala, Hawaii",
-      "time": 1784006351700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002101"
-    },
-    {
-      "id": "av93064144",
-      "lon": -177.2285,
-      "lat": 51.8648333333333,
-      "depth": 8.81,
-      "mag": -0.19,
-      "place": "40 km W of Adak, Alaska",
-      "time": 1784006286500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064144"
     }
   ]
 }
