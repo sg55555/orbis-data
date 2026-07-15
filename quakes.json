@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T07:01:29Z",
-  "count": 268,
+  "updated": "2026-07-15T07:15:47Z",
+  "count": 263,
   "points": [
+    {
+      "id": "nc75396171",
+      "lon": -123.265167236328,
+      "lat": 39.3494987487793,
+      "depth": 1.82000005245209,
+      "mag": 1.62,
+      "place": "10 km SE of Willits, CA",
+      "time": 1784099141260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396171"
+    },
     {
       "id": "ok2026nsuj",
       "lon": -98.96596527,
@@ -785,12 +795,12 @@
     },
     {
       "id": "tx2026ntvvsq",
-      "lon": -103.243,
-      "lat": 32.009,
-      "depth": 9.158,
+      "lon": -103.233,
+      "lat": 32.012,
+      "depth": 6.7228,
       "mag": 1.6,
-      "place": "12 km SSW of Jal, New Mexico",
-      "time": 1784068593406,
+      "place": "11 km SSW of Jal, New Mexico",
+      "time": 1784068593900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ntvvsq"
     },
     {
@@ -2622,66 +2632,6 @@
       "place": "18 km WSW of Mabiton, Philippines",
       "time": 1784013527994,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t09r"
-    },
-    {
-      "id": "ci41293631",
-      "lon": -117.151833333333,
-      "lat": 34.0096666666667,
-      "depth": 3.99,
-      "mag": 1.18,
-      "place": "6 km SSE of Redlands, CA",
-      "time": 1784013270230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293631"
-    },
-    {
-      "id": "ci41293623",
-      "lon": -116.737833333333,
-      "lat": 33.5253333333333,
-      "depth": 2.89,
-      "mag": 0.39,
-      "place": "7 km WSW of Anza, CA",
-      "time": 1784013146170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293623"
-    },
-    {
-      "id": "aka2026nuwois",
-      "lon": -150.355,
-      "lat": 63.05,
-      "depth": 99.9,
-      "mag": 1.6,
-      "place": "65 km NNE of Petersville, Alaska",
-      "time": 1784012948242,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nuwois"
-    },
-    {
-      "id": "nn00921644",
-      "lon": -115.8202,
-      "lat": 37.2444,
-      "depth": 9.6996,
-      "mag": 1.99,
-      "place": "44 km S of Rachel, Nevada",
-      "time": 1784012714732,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921644"
-    },
-    {
-      "id": "us7000t09m",
-      "lon": 123.136,
-      "lat": 12.7967,
-      "depth": 10,
-      "mag": 5.2,
-      "place": "14 km WSW of Mabiton, Philippines",
-      "time": 1784012694275,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t09m"
-    },
-    {
-      "id": "av93064174",
-      "lon": -152.7575,
-      "lat": 60.4755,
-      "depth": -0.25,
-      "mag": -0.47,
-      "place": "76 km NW of Ninilchik, Alaska",
-      "time": 1784012663580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064174"
     }
   ]
 }
