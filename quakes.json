@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T04:01:29Z",
-  "count": 289,
+  "updated": "2026-07-15T04:14:19Z",
+  "count": 288,
   "points": [
+    {
+      "id": "nc75396126",
+      "lon": -124.109664916992,
+      "lat": 40.5821647644043,
+      "depth": 25.6900005340576,
+      "mag": 2.56,
+      "place": "4 km NNW of Hydesville, CA",
+      "time": 1784088160520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396126"
+    },
     {
       "id": "ci40655098",
       "lon": -117.046166666667,
@@ -2872,26 +2882,6 @@
       "place": "3 km S of Maria Antonia, Puerto Rico",
       "time": 1784002512500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523893"
-    },
-    {
-      "id": "aka2026nuqsbg",
-      "lon": -175.179,
-      "lat": 51.898,
-      "depth": 120.4,
-      "mag": 2.3,
-      "place": "74 km WSW of Atka, Alaska",
-      "time": 1784002407832,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nuqsbg"
-    },
-    {
-      "id": "aka2026nuqmcz",
-      "lon": -177.171,
-      "lat": 51.7,
-      "depth": 104.8,
-      "mag": 1.6,
-      "place": "41 km WSW of Adak, Alaska",
-      "time": 1784001994463,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nuqmcz"
     }
   ]
 }
