@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T03:01:28Z",
-  "count": 293,
+  "updated": "2026-07-15T03:15:48Z",
+  "count": 294,
   "points": [
+    {
+      "id": "ci40655074",
+      "lon": -115.776666666667,
+      "lat": 32.6443333333333,
+      "depth": 9.12,
+      "mag": 1.37,
+      "place": "19 km WNW of Progreso, B.C., MX",
+      "time": 1784084702570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655074"
+    },
     {
       "id": "aka2026nwkdzw",
       "lon": -149.298,
@@ -12,6 +22,16 @@
       "place": "14 km NNW of Fishhook, Alaska",
       "time": 1784084201325,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nwkdzw"
+    },
+    {
+      "id": "us7000t0k4",
+      "lon": 159.6733,
+      "lat": 51.4762,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "183 km SSE of Vilyuchinsk, Russia",
+      "time": 1784083725190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k4"
     },
     {
       "id": "us7000t0k1",
@@ -2922,16 +2942,6 @@
       "place": "11 km ESE of Willits, CA",
       "time": 1783999291050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395446"
-    },
-    {
-      "id": "nc75395441",
-      "lon": -122.705665588379,
-      "lat": 38.6353340148926,
-      "depth": 6.55999994277954,
-      "mag": 1.48,
-      "place": "13 km WNW of Calistoga, CA",
-      "time": 1783998096870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395441"
     }
   ]
 }
