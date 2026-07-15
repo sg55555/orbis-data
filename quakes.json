@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T23:37:44Z",
-  "count": 288,
+  "updated": "2026-07-15T23:45:44Z",
+  "count": 292,
   "points": [
+    {
+      "id": "nc75396731",
+      "lon": -122.80883026123,
+      "lat": 38.8385009765625,
+      "depth": 1.71000003814697,
+      "mag": 0.97,
+      "place": "8 km WNW of Cobb, CA",
+      "time": 1784158988440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396731"
+    },
     {
       "id": "nc75396726",
       "lon": -122.801666259766,
@@ -15,12 +25,12 @@
     },
     {
       "id": "uw714051651",
-      "lon": -123.056503295898,
-      "lat": 48.6243324279785,
-      "depth": 13,
-      "mag": 1.75620317459106,
+      "lon": -123.056666666667,
+      "lat": 48.6265,
+      "depth": 12.44,
+      "mag": 1.8,
       "place": "8 km WNW of Orcas, Washington",
-      "time": 1784157926800,
+      "time": 1784157926840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714051651"
     },
     {
@@ -82,6 +92,26 @@
       "place": "51 km N of Chickaloon, Alaska",
       "time": 1784155535223,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxxuwp"
+    },
+    {
+      "id": "aka2026nxxtsp",
+      "lon": -158.873,
+      "lat": 55.341,
+      "depth": 24.2,
+      "mag": 2.1,
+      "place": "65 km SSE of Perryville, Alaska",
+      "time": 1784155456123,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxxtsp"
+    },
+    {
+      "id": "aka2026nxxtdq",
+      "lon": -153.311,
+      "lat": 59.68,
+      "depth": 119.1,
+      "mag": 1.9,
+      "place": "46 km ESE of Pedro Bay, Alaska",
+      "time": 1784155415426,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxxtdq"
     },
     {
       "id": "tx2026nvrtdh",
@@ -1674,6 +1704,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396191"
     },
     {
+      "id": "av94310173",
+      "lon": -153.073,
+      "lat": 60.0105,
+      "depth": 3.12,
+      "mag": -0.67,
+      "place": "62 km ENE of Pedro Bay, Alaska",
+      "time": 1784104086220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94310173"
+    },
+    {
       "id": "uu80145346",
       "lon": -110.263,
       "lat": 44.6058333333333,
@@ -1722,6 +1762,16 @@
       "place": "Rat Islands, Aleutian Islands, Alaska",
       "time": 1784102734492,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nwullv"
+    },
+    {
+      "id": "av94310123",
+      "lon": -166.631166666667,
+      "lat": 53.8986666666667,
+      "depth": 7.73,
+      "mag": 0.17,
+      "place": "5 km W of Dutch Harbor, Alaska",
+      "time": 1784102447730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94310123"
     },
     {
       "id": "nc75396181",
@@ -2872,16 +2922,6 @@
       "place": "5 km NNW of Boron, CA",
       "time": 1784072748830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40654954"
-    },
-    {
-      "id": "us7000t0i4",
-      "lon": -92.9384,
-      "lat": 14.6098,
-      "depth": 45.368,
-      "mag": 4.1,
-      "place": "57 km WSW of Puerto Madero, Mexico",
-      "time": 1784072721315,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0i4"
     }
   ]
 }
