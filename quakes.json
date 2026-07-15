@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T04:31:15Z",
+  "updated": "2026-07-15T04:45:46Z",
   "count": 283,
   "points": [
+    {
+      "id": "us7000t0kl",
+      "lon": -71.9864,
+      "lat": -32.626,
+      "depth": 32.33,
+      "mag": 4.2,
+      "place": "56 km NW of Valparaíso, Chile",
+      "time": 1784089087584,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0kl"
+    },
     {
       "id": "nc75396131",
       "lon": -121.633003234863,
@@ -684,6 +694,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395966"
     },
     {
+      "id": "av94309073",
+      "lon": -154.910833333333,
+      "lat": 58.2705,
+      "depth": 5.66,
+      "mag": 0.66,
+      "place": "82 km NNW of Karluk, Alaska",
+      "time": 1784062495090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94309073"
+    },
+    {
       "id": "pr71524293",
       "lon": -66.9245,
       "lat": 17.9333333333333,
@@ -782,6 +802,16 @@
       "place": "15 km E of Providence, Utah",
       "time": 1784059637450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145331"
+    },
+    {
+      "id": "av94309008",
+      "lon": -155.186166666667,
+      "lat": 58.3515,
+      "depth": 25.49,
+      "mag": 0.33,
+      "place": "93 km ESE of King Salmon, Alaska",
+      "time": 1784059574990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94309008"
     },
     {
       "id": "ci40654698",
@@ -2802,36 +2832,6 @@
       "place": "22 km ESE of Anza, CA",
       "time": 1784004997900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293495"
-    },
-    {
-      "id": "tx2026nsmgxg",
-      "lon": -103.272,
-      "lat": 32.025,
-      "depth": 5.9973,
-      "mag": 1.1,
-      "place": "12 km SW of Jal, New Mexico",
-      "time": 1784004199643,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nsmgxg"
-    },
-    {
-      "id": "nc75395481",
-      "lon": -122.773002624512,
-      "lat": 38.7866668701172,
-      "depth": 1.03999996185303,
-      "mag": 0.75,
-      "place": "2 km NW of The Geysers, CA",
-      "time": 1784004084780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395481"
-    },
-    {
-      "id": "aka2026nurlli",
-      "lon": -166.916,
-      "lat": 53.053,
-      "depth": 27.6,
-      "mag": 3.2,
-      "place": "94 km SSW of Unalaska, Alaska",
-      "time": 1784003752118,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nurlli"
     }
   ]
 }
