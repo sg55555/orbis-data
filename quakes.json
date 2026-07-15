@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T11:31:18Z",
-  "count": 276,
+  "updated": "2026-07-15T11:45:49Z",
+  "count": 275,
   "points": [
+    {
+      "id": "nc75396236",
+      "lon": -122.921333312988,
+      "lat": 38.9290008544922,
+      "depth": 1.75999999046326,
+      "mag": 1.63,
+      "place": "9 km SW of Kelseyville, CA",
+      "time": 1784115056520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396236"
+    },
     {
       "id": "ci40655274",
       "lon": -117.2375,
@@ -2742,26 +2752,6 @@
       "place": "5 km ESE of Sutton-Alpine, Alaska",
       "time": 1784029548968,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nvfugb"
-    },
-    {
-      "id": "aka2026nvfjny",
-      "lon": -156.199,
-      "lat": 57.664,
-      "depth": 5,
-      "mag": 1.6,
-      "place": "73 km ENE of Ugashik, Alaska",
-      "time": 1784028808676,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nvfjny"
-    },
-    {
-      "id": "hv75002281",
-      "lon": -155.479166666667,
-      "lat": 19.2163333333333,
-      "depth": 32.8,
-      "mag": 2.38,
-      "place": "1 km N of Pāhala, Hawaii",
-      "time": 1784028699430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002281"
     }
   ]
 }
