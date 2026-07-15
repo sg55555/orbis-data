@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T21:31:24Z",
-  "count": 272,
+  "updated": "2026-07-15T21:45:49Z",
+  "count": 270,
   "points": [
     {
       "id": "nc75396646",
@@ -185,13 +185,23 @@
     },
     {
       "id": "aka2026nxqcmu",
-      "lon": -153.836,
-      "lat": 57.075,
-      "depth": 34.8,
-      "mag": 2.2,
-      "place": "24 km NE of Akhiok, Alaska",
-      "time": 1784141669514,
+      "lon": -153.813,
+      "lat": 57.059,
+      "depth": 36.7,
+      "mag": 2.1,
+      "place": "25 km ENE of Akhiok, Alaska",
+      "time": 1784141669383,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxqcmu"
+    },
+    {
+      "id": "aka2026nxpzig",
+      "lon": -161.608,
+      "lat": 54.37,
+      "depth": 3.8,
+      "mag": 2.7,
+      "place": "89 km SSE of King Cove, Alaska",
+      "time": 1784141455152,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxpzig"
     },
     {
       "id": "aka2026nxpslu",
@@ -2194,6 +2204,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396101"
     },
     {
+      "id": "av94309563",
+      "lon": -174.145,
+      "lat": 52.428,
+      "depth": 5.22,
+      "mag": 0.38,
+      "place": "26 km N of Atka, Alaska",
+      "time": 1784080872760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94309563"
+    },
+    {
       "id": "tx2026nuciet",
       "lon": -104.305,
       "lat": 31.691,
@@ -2682,46 +2702,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1784066350220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395996"
-    },
-    {
-      "id": "tx2026nttxpi",
-      "lon": -103.979,
-      "lat": 31.691,
-      "depth": 5.946,
-      "mag": 0.4,
-      "place": "36 km W of Mentone, Texas",
-      "time": 1784065099851,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nttxpi"
-    },
-    {
-      "id": "mb90202438",
-      "lon": -111.780833333333,
-      "lat": 45.0553333333333,
-      "depth": -2,
-      "mag": 1.05,
-      "place": "29 km SSE of Virginia City, Montana",
-      "time": 1784065058030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90202438"
-    },
-    {
-      "id": "pr71524313",
-      "lon": -66.9066666666667,
-      "lat": 17.9533333333333,
-      "depth": 14.78,
-      "mag": 2.23,
-      "place": "2 km S of Guánica, Puerto Rico",
-      "time": 1784065021100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524313"
-    },
-    {
-      "id": "tx2026nttsbc",
-      "lon": -104.176,
-      "lat": 31.568,
-      "depth": 6.9714,
-      "mag": 2.2,
-      "place": "45 km NW of Toyah, Texas",
-      "time": 1784064718408,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nttsbc"
     }
   ]
 }
