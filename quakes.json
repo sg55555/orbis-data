@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T00:01:30Z",
+  "updated": "2026-07-15T00:15:45Z",
   "count": 290,
   "points": [
+    {
+      "id": "ci40654978",
+      "lon": -116.199166666667,
+      "lat": 33.8411666666667,
+      "depth": 9.08,
+      "mag": 0.87,
+      "place": "13 km N of Indio, CA",
+      "time": 1784074267170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40654978"
+    },
+    {
+      "id": "ci40654970",
+      "lon": -117.817166666667,
+      "lat": 35.304,
+      "depth": 9.01,
+      "mag": 1.25,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": 1784074016800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40654970"
+    },
     {
       "id": "ci40654954",
       "lon": -117.673666666667,
@@ -175,12 +195,12 @@
     },
     {
       "id": "ci40654818",
-      "lon": -116.8965,
-      "lat": 32.7588333333333,
-      "depth": 4.98,
-      "mag": 1.36,
-      "place": "4 km ENE of Rancho San Diego, CA",
-      "time": 1784064609630,
+      "lon": -116.886166666667,
+      "lat": 32.7746666666667,
+      "depth": -0.43,
+      "mag": 1.11,
+      "place": "6 km ENE of Rancho San Diego, CA",
+      "time": 1784064609360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40654818"
     },
     {
@@ -1286,11 +1306,11 @@
     {
       "id": "ci41293775",
       "lon": -117.663,
-      "lat": 35.8316666666667,
-      "depth": 7.33,
-      "mag": 0.73,
-      "place": "23 km N of Ridgecrest, CA",
-      "time": 1784029977660,
+      "lat": 35.8321666666667,
+      "depth": 7.5,
+      "mag": 0.71,
+      "place": "24 km N of Ridgecrest, CA",
+      "time": 1784029977650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293775"
     },
     {
@@ -2882,26 +2902,6 @@
       "place": "49 km ESE of Adak, Alaska",
       "time": 1783988110398,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nuitkx"
-    },
-    {
-      "id": "ci41293359",
-      "lon": -117.259833333333,
-      "lat": 34.0476666666667,
-      "depth": 15.36,
-      "mag": 0.65,
-      "place": "0 km ESE of Loma Linda, CA",
-      "time": 1783987623760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293359"
-    },
-    {
-      "id": "tx2026nsczdp",
-      "lon": -102.115,
-      "lat": 32.392,
-      "depth": 7.1045,
-      "mag": 0.5,
-      "place": "40 km ENE of McKinney Acres, Texas",
-      "time": 1783987366683,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nsczdp"
     }
   ]
 }
