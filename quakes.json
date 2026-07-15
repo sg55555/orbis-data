@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T15:31:23Z",
-  "count": 260,
+  "updated": "2026-07-15T15:45:47Z",
+  "count": 257,
   "points": [
+    {
+      "id": "ci40655498",
+      "lon": -116.7345,
+      "lat": 33.64,
+      "depth": 14.33,
+      "mag": 1.77,
+      "place": "11 km NNW of Anza, CA",
+      "time": 1784129913570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655498"
+    },
+    {
+      "id": "ci40655490",
+      "lon": -116.167166666667,
+      "lat": 33.0381666666667,
+      "depth": 8.5,
+      "mag": 0.82,
+      "place": "12 km SSW of Ocotillo Wells, CA",
+      "time": 1784129319570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655490"
+    },
+    {
+      "id": "pr71524443",
+      "lon": -66.8306666666667,
+      "lat": 17.981,
+      "depth": 14.11,
+      "mag": 2.58,
+      "place": "1 km SW of Indios, Puerto Rico",
+      "time": 1784129010320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524443"
+    },
     {
       "id": "nc75396361",
       "lon": -121.518165588379,
@@ -1736,11 +1766,11 @@
     {
       "id": "ci40654906",
       "lon": -115.6415,
-      "lat": 32.5411666666667,
-      "depth": 10.72,
-      "mag": 1.95,
+      "lat": 32.5398333333333,
+      "depth": 10.8,
+      "mag": 1.83,
       "place": "7 km SW of Progreso, B.C., MX",
-      "time": 1784070649060,
+      "time": 1784070649010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40654906"
     },
     {
@@ -1902,6 +1932,16 @@
       "place": "25 km NNW of Pāhala, Hawaii",
       "time": 1784062934490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002571"
+    },
+    {
+      "id": "tx2026ntsqpa",
+      "lon": -101.925,
+      "lat": 32.276,
+      "depth": 8.4473,
+      "mag": 0.5,
+      "place": "20 km NW of Stanton, Texas",
+      "time": 1784062809739,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ntsqpa"
     },
     {
       "id": "nc75395966",
@@ -2532,76 +2572,6 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1784044117520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395736"
-    },
-    {
-      "id": "nc75395731",
-      "lon": -120.789833068848,
-      "lat": 36.2181663513184,
-      "depth": 4.73000001907349,
-      "mag": 1.29,
-      "place": "23 km ENE of San Lucas, CA",
-      "time": 1784043865190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395731"
-    },
-    {
-      "id": "pr71524173",
-      "lon": -66.1116666666667,
-      "lat": 18.0218333333333,
-      "depth": 7.35,
-      "mag": 2.02,
-      "place": "2 km N of Olimpo, Puerto Rico",
-      "time": 1784043729820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524173"
-    },
-    {
-      "id": "ok2026nrqq",
-      "lon": -94.80266667,
-      "lat": 36.73833333,
-      "depth": 0,
-      "mag": 1.39,
-      "place": "4 km ESE of Fairland, Oklahoma",
-      "time": 1784043687690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026nrqq"
-    },
-    {
-      "id": "tx2026nthzuw",
-      "lon": -101.539,
-      "lat": 32.137,
-      "depth": 7.1777,
-      "mag": 1.1,
-      "place": "13 km SSW of Big Spring, Texas",
-      "time": 1784043530238,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nthzuw"
-    },
-    {
-      "id": "ci41293983",
-      "lon": -117.871,
-      "lat": 36.0965,
-      "depth": 2.8,
-      "mag": 0.87,
-      "place": "9 km NE of Coso Junction, CA",
-      "time": 1784043475300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293983"
-    },
-    {
-      "id": "nc75395726",
-      "lon": -122.804664611816,
-      "lat": 38.8183326721191,
-      "depth": 3.09999990463257,
-      "mag": 0.85,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1784043423400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395726"
-    },
-    {
-      "id": "ci41293975",
-      "lon": -117.809666666667,
-      "lat": 35.3176666666667,
-      "depth": 8.4,
-      "mag": 1.02,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1784043338960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293975"
     }
   ]
 }
