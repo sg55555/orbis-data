@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-15T16:01:34Z",
+  "updated": "2026-07-15T16:15:51Z",
   "count": 255,
   "points": [
+    {
+      "id": "ci40655530",
+      "lon": -116.7485,
+      "lat": 33.9251666666667,
+      "depth": 13.83,
+      "mag": 1.24,
+      "place": "4 km ENE of Cabazon, CA",
+      "time": 1784131569700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655530"
+    },
     {
       "id": "ci40655522",
       "lon": -117.699,
@@ -22,6 +32,16 @@
       "place": "20 km ESE of Little Lake, CA",
       "time": 1784130831880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655506"
+    },
+    {
+      "id": "pr71524458",
+      "lon": -65.4028333333333,
+      "lat": 18.1098333333333,
+      "depth": 18.77,
+      "mag": 3.01,
+      "place": "6 km SE of Isabel Segunda, Puerto Rico",
+      "time": 1784130175020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524458"
     },
     {
       "id": "ci40655498",
@@ -195,12 +215,12 @@
     },
     {
       "id": "ci40655426",
-      "lon": -117.849166666667,
-      "lat": 36.0251666666667,
-      "depth": 2.39,
+      "lon": -117.849333333333,
+      "lat": 36.0248333333333,
+      "depth": 2.4,
       "mag": 0.87,
       "place": "9 km ESE of Coso Junction, CA",
-      "time": 1784126448980,
+      "time": 1784126448970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655426"
     },
     {
@@ -245,12 +265,12 @@
     },
     {
       "id": "ci40655386",
-      "lon": -117.308,
-      "lat": 33.8616666666667,
-      "depth": 28.35,
-      "mag": 1.06,
-      "place": "3 km NNW of Mead Valley, CA",
-      "time": 1784124558240,
+      "lon": -117.253166666667,
+      "lat": 34.039,
+      "depth": 15.37,
+      "mag": 0.79,
+      "place": "1 km SE of Loma Linda, CA",
+      "time": 1784124560770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655386"
     },
     {
@@ -1864,6 +1884,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395996"
     },
     {
+      "id": "tx2026nttxpi",
+      "lon": -103.979,
+      "lat": 31.691,
+      "depth": 5.946,
+      "mag": 0.4,
+      "place": "36 km W of Mentone, Texas",
+      "time": 1784065099851,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nttxpi"
+    },
+    {
       "id": "mb90202438",
       "lon": -111.780833333333,
       "lat": 45.0553333333333,
@@ -2522,36 +2552,6 @@
       "place": "2 km SSE of Frazier Park, CA",
       "time": 1784045812530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41294039"
-    },
-    {
-      "id": "hv75002446",
-      "lon": -155.391006469727,
-      "lat": 19.2573337554932,
-      "depth": 32.9300003051758,
-      "mag": 2.13,
-      "place": "11 km ENE of Pāhala, Hawaii",
-      "time": 1784045158260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002446"
-    },
-    {
-      "id": "ci41294031",
-      "lon": -117.824333333333,
-      "lat": 35.3068333333333,
-      "depth": 8.13,
-      "mag": 0.87,
-      "place": "19 km WSW of Johannesburg, CA",
-      "time": 1784045066220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41294031"
-    },
-    {
-      "id": "ci41294015",
-      "lon": -117.8105,
-      "lat": 35.3208333333333,
-      "depth": 8.4,
-      "mag": 0.91,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1784044907980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41294015"
     }
   ]
 }
