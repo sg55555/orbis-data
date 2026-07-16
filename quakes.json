@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-16T12:15:48Z",
-  "count": 297,
+  "updated": "2026-07-16T12:31:21Z",
+  "count": 296,
   "points": [
+    {
+      "id": "nc75397006",
+      "lon": -122.80549621582,
+      "lat": 38.8251647949219,
+      "depth": 2.88000011444092,
+      "mag": 0.83,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1784204613330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397006"
+    },
     {
       "id": "tx2026nwrshg",
       "lon": -98.948,
@@ -842,6 +852,16 @@
       "place": "20 km NW of Westbrook, Texas",
       "time": 1784175480314,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nwcwvq"
+    },
+    {
+      "id": "tx2026nwcuxh",
+      "lon": -102.154,
+      "lat": 32.361,
+      "depth": 8.0322,
+      "mag": 0.4,
+      "place": "35 km E of McKinney Acres, Texas",
+      "time": 1784175349859,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nwcuxh"
     },
     {
       "id": "aka2026nyiuee",
@@ -1852,6 +1872,16 @@
       "place": "4 km N of Curití, Colombia",
       "time": 1784146418516,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ss"
+    },
+    {
+      "id": "ok2026ntuy",
+      "lon": -97.73466667,
+      "lat": 36.48133333,
+      "depth": 7.62,
+      "mag": 1.42,
+      "place": "4 km N of Breckinridge, Oklahoma",
+      "time": 1784146106000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ntuy"
     },
     {
       "id": "av94311193",
@@ -2932,46 +2962,6 @@
       "place": "11 km SW of Westbrook, Texas",
       "time": 1784118679851,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nuxnbq"
-    },
-    {
-      "id": "us7000t0mp",
-      "lon": 142.3054,
-      "lat": 40.3221,
-      "depth": 63.294,
-      "mag": 4.6,
-      "place": "47 km ENE of Noda, Japan",
-      "time": 1784118580381,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0mp"
-    },
-    {
-      "id": "aka2026nxdfoy",
-      "lon": -162.497,
-      "lat": 54.133,
-      "depth": 10.8,
-      "mag": 2.6,
-      "place": "99 km SE of False Pass, Alaska",
-      "time": 1784118493129,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxdfoy"
-    },
-    {
-      "id": "aka2026nxdflr",
-      "lon": 176.088,
-      "lat": 51.945,
-      "depth": 20,
-      "mag": 3.2,
-      "place": "221 km ESE of Attu Station, Alaska",
-      "time": 1784118479219,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxdflr"
-    },
-    {
-      "id": "aka2026nxdclv",
-      "lon": -162.508,
-      "lat": 54.116,
-      "depth": 7.9,
-      "mag": 2.7,
-      "place": "100 km SE of False Pass, Alaska",
-      "time": 1784118283379,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxdclv"
     }
   ]
 }
