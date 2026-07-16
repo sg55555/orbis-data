@@ -1,16 +1,16 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-16T19:01:17Z",
-  "count": 283,
+  "updated": "2026-07-16T19:15:44Z",
+  "count": 285,
   "points": [
     {
       "id": "ci40656610",
-      "lon": -118.19083404541,
-      "lat": 34.9891662597656,
-      "depth": 0.310000002384186,
-      "mag": 1.43756361238476,
+      "lon": -118.188833333333,
+      "lat": 34.9935,
+      "depth": 0.48,
+      "mag": 1.51,
       "place": "7 km SSW of Mojave, CA",
-      "time": 1784228279330,
+      "time": 1784228279310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656610"
     },
     {
@@ -32,6 +32,16 @@
       "place": "1 km NNE of Pāhala, Hawaii",
       "time": 1784228100770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002907"
+    },
+    {
+      "id": "aka2026nzluwx",
+      "lon": -165.337,
+      "lat": 53.619,
+      "depth": 34.7,
+      "mag": 2.5,
+      "place": "64 km SSE of Akutan, Alaska",
+      "time": 1784227504385,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzluwx"
     },
     {
       "id": "nc75397216",
@@ -64,16 +74,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzlqxm"
     },
     {
-      "id": "aka2026nzlknf",
-      "lon": -149.682,
-      "lat": 64.322,
-      "depth": 4.4,
-      "mag": 1.2,
-      "place": "24 km W of Anderson, Alaska",
-      "time": 1784226786338,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzlknf"
-    },
-    {
       "id": "hv75002887",
       "lon": -155.47900390625,
       "lat": 19.1843338012695,
@@ -104,6 +104,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nxfezw"
     },
     {
+      "id": "aka2026nzkqqo",
+      "lon": 176.333,
+      "lat": 51.979,
+      "depth": 20,
+      "mag": 3.1,
+      "place": "234 km ESE of Attu Station, Alaska",
+      "time": 1784225391876,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzkqqo"
+    },
+    {
+      "id": "tx2026nxdszi",
+      "lon": -103.91,
+      "lat": 31.584,
+      "depth": 8.1891,
+      "mag": 1,
+      "place": "31 km NNW of Toyah, Texas",
+      "time": 1784224263874,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nxdszi"
+    },
+    {
       "id": "hv75002882",
       "lon": -155.316833496094,
       "lat": 19.9938335418701,
@@ -124,6 +144,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t12v"
     },
     {
+      "id": "aka2026nzjupj",
+      "lon": -178.965,
+      "lat": 51.835,
+      "depth": 5.7,
+      "mag": 2,
+      "place": "160 km W of Adak, Alaska",
+      "time": 1784223892475,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzjupj"
+    },
+    {
       "id": "nn00921794",
       "lon": -116.5212,
       "lat": 38.4627,
@@ -132,6 +162,16 @@
       "place": "76 km NE of Tonopah, Nevada",
       "time": 1784223185996,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921794"
+    },
+    {
+      "id": "aka2026nzjbik",
+      "lon": 176.078,
+      "lat": 51.969,
+      "depth": 26.9,
+      "mag": 2.9,
+      "place": "219 km ESE of Attu Station, Alaska",
+      "time": 1784222541248,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzjbik"
     },
     {
       "id": "ci40656530",
@@ -642,6 +682,16 @@
       "place": "20 km N of Atka, Alaska",
       "time": 1784202921600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064309"
+    },
+    {
+      "id": "av93064324",
+      "lon": -174.168333333333,
+      "lat": 52.3518333333333,
+      "depth": 1.13,
+      "mag": 2.75,
+      "place": "17 km N of Atka, Alaska",
+      "time": 1784202907290,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064324"
     },
     {
       "id": "av93064314",
@@ -2802,36 +2852,6 @@
       "place": "5 km W of Dutch Harbor, Alaska",
       "time": 1784142964040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94311113"
-    },
-    {
-      "id": "ci40655786",
-      "lon": -116.0505,
-      "lat": 33.089,
-      "depth": 9.51,
-      "mag": 1.5,
-      "place": "10 km SE of Ocotillo Wells, CA",
-      "time": 1784142714920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655786"
-    },
-    {
-      "id": "hv75003256",
-      "lon": -155.383666992188,
-      "lat": 19.2234992980957,
-      "depth": 29.3600006103516,
-      "mag": 1.94,
-      "place": "10 km ENE of Pāhala, Hawaii",
-      "time": 1784142404800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75003256"
-    },
-    {
-      "id": "av94311098",
-      "lon": -166.631,
-      "lat": 53.8975,
-      "depth": 7.72,
-      "mag": 0.27,
-      "place": "5 km W of Dutch Harbor, Alaska",
-      "time": 1784142103990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94311098"
     }
   ]
 }
