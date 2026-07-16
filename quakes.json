@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-16T20:08:52Z",
+  "updated": "2026-07-16T20:15:48Z",
   "count": 294,
   "points": [
+    {
+      "id": "nc75397266",
+      "lon": -122.875831604004,
+      "lat": 38.8400001525879,
+      "depth": 2.30999994277954,
+      "mag": 0.76,
+      "place": "12 km NW of The Geysers, CA",
+      "time": 1784232457050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397266"
+    },
     {
       "id": "aka2026nzomnr",
       "lon": -151.21,
@@ -12,6 +22,16 @@
       "place": "23 km W of Petersville, Alaska",
       "time": 1784232323257,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzomnr"
+    },
+    {
+      "id": "nn00921802",
+      "lon": -115.3634,
+      "lat": 36.0611,
+      "depth": 1.2249,
+      "mag": 1.83,
+      "place": "3 km ENE of Blue Diamond, Nevada",
+      "time": 1784232289331,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921802"
     },
     {
       "id": "ci40656690",
@@ -524,14 +544,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656466"
     },
     {
-      "id": "aka2026nzfnwe",
-      "lon": 176.077,
-      "lat": 52,
-      "depth": 20,
+      "id": "us7000t130",
+      "lon": 176.2236,
+      "lat": 51.9761,
+      "depth": 10,
       "mag": 2.9,
-      "place": "218 km ESE of Attu Station, Alaska",
-      "time": 1784216221128,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzfnwe"
+      "place": "228 km ESE of Attu Station, Alaska",
+      "time": 1784216221359,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t130"
     },
     {
       "id": "ci40656458",
@@ -2922,26 +2942,6 @@
       "place": "23 km WSW of Mammoth Lakes, CA",
       "time": 1784146615930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396586"
-    },
-    {
-      "id": "aka2026nxsuhd",
-      "lon": -151.447,
-      "lat": 61.514,
-      "depth": 79.8,
-      "mag": 2.3,
-      "place": "45 km NNW of Beluga, Alaska",
-      "time": 1784146498698,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxsuhd"
-    },
-    {
-      "id": "us7000t0ss",
-      "lon": -73.0664,
-      "lat": 6.6435,
-      "depth": 156.992,
-      "mag": 4.3,
-      "place": "4 km N of Curití, Colombia",
-      "time": 1784146418516,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ss"
     }
   ]
 }
