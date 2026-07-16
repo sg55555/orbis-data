@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-16T02:15:45Z",
-  "count": 302,
+  "updated": "2026-07-16T02:31:20Z",
+  "count": 300,
   "points": [
     {
+      "id": "tx2026nvytmt",
+      "lon": -98.983,
+      "lat": 28.868,
+      "depth": 12.2895,
+      "mag": 2.1,
+      "place": "11 km ESE of Pearsall, Texas",
+      "time": 1784168005641,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nvytmt"
+    },
+    {
+      "id": "aka2026nyeszt",
+      "lon": -159.553,
+      "lat": 60.07,
+      "depth": 0.8,
+      "mag": 2.8,
+      "place": "103 km NNW of Aleknagik, Alaska",
+      "time": 1784167999597,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyeszt"
+    },
+    {
       "id": "aka2026nyeobt",
-      "lon": -159.596,
-      "lat": 60.075,
-      "depth": 0.9,
-      "mag": 4.7,
-      "place": "104 km NNW of Aleknagik, Alaska",
-      "time": 1784167658334,
+      "lon": -159.627,
+      "lat": 60.083,
+      "depth": 3.2,
+      "mag": 4.9,
+      "place": "106 km NNW of Aleknagik, Alaska",
+      "time": 1784167658535,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyeobt"
     },
     {
@@ -2982,46 +3002,6 @@
       "place": "148 km SW of Adak, Alaska",
       "time": 1784082656871,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nwjhrc"
-    },
-    {
-      "id": "hv75002696",
-      "lon": -155.181503295898,
-      "lat": 19.3414993286133,
-      "depth": 3.42000007629395,
-      "mag": 2.13,
-      "place": "12 km SSE of Volcano, Hawaii",
-      "time": 1784082581270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002696"
-    },
-    {
-      "id": "av94309593",
-      "lon": -174.127333333333,
-      "lat": 52.4076666666667,
-      "depth": 5.01,
-      "mag": 0.27,
-      "place": "24 km NNE of Atka, Alaska",
-      "time": 1784082562160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94309593"
-    },
-    {
-      "id": "ci40655066",
-      "lon": -116.382166666667,
-      "lat": 33.3365,
-      "depth": 6.44,
-      "mag": 0.87,
-      "place": "9 km N of Borrego Springs, CA",
-      "time": 1784081988700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655066"
-    },
-    {
-      "id": "nc75396101",
-      "lon": -122.785835266113,
-      "lat": 38.8103332519531,
-      "depth": -0.0399999991059303,
-      "mag": 0.75,
-      "place": "4 km NW of The Geysers, CA",
-      "time": 1784081756920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396101"
     }
   ]
 }
