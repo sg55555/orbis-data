@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-16T04:15:49Z",
+  "updated": "2026-07-16T04:31:20Z",
   "count": 300,
   "points": [
+    {
+      "id": "ci40656130",
+      "lon": -116.031666666667,
+      "lat": 33.1773333333333,
+      "depth": 5.14,
+      "mag": 1.53,
+      "place": "10 km ENE of Ocotillo Wells, CA",
+      "time": 1784175637170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656130"
+    },
+    {
+      "id": "tx2026nwcwvq",
+      "lon": -101.174,
+      "lat": 32.471,
+      "depth": 2.1496,
+      "mag": 2.1,
+      "place": "19 km NW of Westbrook, Texas",
+      "time": 1784175480265,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nwcwvq"
+    },
     {
       "id": "aka2026nyigus",
       "lon": -150.867,
@@ -882,6 +902,16 @@
       "place": "13 km NNE of Meadow Lakes, Alaska",
       "time": 1784143410459,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxrbqj"
+    },
+    {
+      "id": "av94311113",
+      "lon": -166.630666666667,
+      "lat": 53.8978333333333,
+      "depth": 7.4,
+      "mag": 0.01,
+      "place": "5 km W of Dutch Harbor, Alaska",
+      "time": 1784142964040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94311113"
     },
     {
       "id": "ci40655786",
@@ -2972,36 +3002,6 @@
       "place": "6 km W of Dutch Harbor, Alaska",
       "time": 1784089912390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94309848"
-    },
-    {
-      "id": "av93064234",
-      "lon": -152.2275,
-      "lat": 61.3241666666667,
-      "depth": 4.73,
-      "mag": -0.21,
-      "place": "64 km WNW of Beluga, Alaska",
-      "time": 1784089602330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064234"
-    },
-    {
-      "id": "av94309828",
-      "lon": -152.838333333333,
-      "lat": 60.4958333333333,
-      "depth": 5.5,
-      "mag": -0.32,
-      "place": "81 km NW of Ninilchik, Alaska",
-      "time": 1784089144830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94309828"
-    },
-    {
-      "id": "us7000t0kl",
-      "lon": -71.9864,
-      "lat": -32.626,
-      "depth": 32.33,
-      "mag": 4.2,
-      "place": "56 km NW of Valparaíso, Chile",
-      "time": 1784089087584,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0kl"
     }
   ]
 }
