@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-16T08:15:47Z",
-  "count": 305,
+  "updated": "2026-07-16T08:29:29Z",
+  "count": 303,
   "points": [
+    {
+      "id": "hv75002592",
+      "lon": -155.424667358398,
+      "lat": 19.1609992980957,
+      "depth": 28.8500003814697,
+      "mag": 1.74,
+      "place": "7 km SE of Pāhala, Hawaii",
+      "time": 1784189596500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002592"
+    },
     {
       "id": "hv75002582",
       "lon": -155.404006958008,
@@ -3022,36 +3032,6 @@
       "place": "9 km ESE of Coso Junction, CA",
       "time": 1784104564020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655186"
-    },
-    {
-      "id": "nc75396191",
-      "lon": -122.878829956055,
-      "lat": 38.8419990539551,
-      "depth": 2.46000003814697,
-      "mag": 0.77,
-      "place": "13 km ENE of Cloverdale, CA",
-      "time": 1784104095080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396191"
-    },
-    {
-      "id": "av94310173",
-      "lon": -153.073,
-      "lat": 60.0105,
-      "depth": 3.12,
-      "mag": -0.67,
-      "place": "62 km ENE of Pedro Bay, Alaska",
-      "time": 1784104086220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94310173"
-    },
-    {
-      "id": "uu80145346",
-      "lon": -110.263,
-      "lat": 44.6058333333333,
-      "depth": 6.83,
-      "mag": 0.44,
-      "place": "49 km SSW of Silver Gate, Montana",
-      "time": 1784103689830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145346"
     }
   ]
 }
