@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-16T18:01:17Z",
-  "count": 289,
+  "updated": "2026-07-16T18:15:45Z",
+  "count": 287,
   "points": [
     {
       "id": "hv75002882",
@@ -12,6 +12,16 @@
       "place": "7 km SE of Pa‘auilo, Hawaii",
       "time": 1784224184590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002882"
+    },
+    {
+      "id": "us7000t12v",
+      "lon": 153.1761,
+      "lat": -4.7306,
+      "depth": 88.702,
+      "mag": 4.6,
+      "place": "109 km ESE of Kokopo, Papua New Guinea",
+      "time": 1784224004073,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t12v"
     },
     {
       "id": "nn00921794",
@@ -605,12 +615,12 @@
     },
     {
       "id": "uw714052151",
-      "lon": -121.755836486816,
-      "lat": 46.8531684875488,
-      "depth": 1.61000001430511,
-      "mag": 0.360000014,
+      "lon": -121.759,
+      "lat": 46.8506666666667,
+      "depth": 1.83,
+      "mag": 0.29,
       "place": "23 km ENE of Ashford, Washington",
-      "time": 1784199913510,
+      "time": 1784199913520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714052151"
     },
     {
@@ -722,6 +732,16 @@
       "place": "2 km NW of Little America, Wyoming",
       "time": 1784196794630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145401"
+    },
+    {
+      "id": "uw714052051",
+      "lon": -122.275,
+      "lat": 48.6108333333333,
+      "depth": 11.35,
+      "mag": 1.24,
+      "place": "4 km ESE of Alger, Washington",
+      "time": 1784195947620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714052051"
     },
     {
       "id": "uu80145396",
@@ -2852,46 +2872,6 @@
       "place": "29 km SSE of Nikolski, Alaska",
       "time": 1784139801888,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxpbne"
-    },
-    {
-      "id": "hv75003251",
-      "lon": -156.20133972168,
-      "lat": 19.7740001678467,
-      "depth": 13.8000001907349,
-      "mag": 1.89,
-      "place": "23 km WNW of Kalaoa, Hawaii",
-      "time": 1784139287760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75003251"
-    },
-    {
-      "id": "ci40655714",
-      "lon": -115.746833333333,
-      "lat": 32.6283333333333,
-      "depth": 4.63,
-      "mag": 1.69,
-      "place": "16 km WNW of Progreso, B.C., MX",
-      "time": 1784139281650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655714"
-    },
-    {
-      "id": "aka2026nxoltc",
-      "lon": -152.703,
-      "lat": 60.513,
-      "depth": 120.4,
-      "mag": 2.4,
-      "place": "76 km W of Salamatof, Alaska",
-      "time": 1784138708116,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxoltc"
-    },
-    {
-      "id": "ok2026ntqu",
-      "lon": -95.8565,
-      "lat": 36.214,
-      "depth": 0,
-      "mag": 1.41,
-      "place": "6 km S of Owasso, Oklahoma",
-      "time": 1784138492560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ntqu"
     }
   ]
 }
