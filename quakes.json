@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-16T01:01:25Z",
-  "count": 304,
+  "updated": "2026-07-16T01:15:52Z",
+  "count": 305,
   "points": [
+    {
+      "id": "nc75396761",
+      "lon": -122.8193359375,
+      "lat": 38.8074989318848,
+      "depth": 3.0699999332428,
+      "mag": 0.83,
+      "place": "6 km WNW of The Geysers, CA",
+      "time": 1784164173290,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396761"
+    },
+    {
+      "id": "tx2026nvwkdb",
+      "lon": -104.462,
+      "lat": 31.55,
+      "depth": 0,
+      "mag": 1.5,
+      "place": "66 km NNE of Van Horn, Texas",
+      "time": 1784163776035,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nvwkdb"
+    },
+    {
+      "id": "aka2026nychxd",
+      "lon": -176.324,
+      "lat": 51.486,
+      "depth": 38.9,
+      "mag": 1.8,
+      "place": "48 km SSE of Adak, Alaska",
+      "time": 1784163632426,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nychxd"
+    },
     {
       "id": "hv75003431",
       "lon": -155.268493652344,
@@ -24,24 +54,34 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656074"
     },
     {
+      "id": "aka2026nycafs",
+      "lon": -176.176,
+      "lat": 51.311,
+      "depth": 19.8,
+      "mag": 2.6,
+      "place": "70 km SSE of Adak, Alaska",
+      "time": 1784163102558,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nycafs"
+    },
+    {
       "id": "aka2026nybwwg",
-      "lon": -151.52,
-      "lat": 63.083,
-      "depth": 5,
-      "mag": 2.1,
-      "place": "52 km S of Denali National Park, Alaska",
-      "time": 1784162869576,
+      "lon": -151.5,
+      "lat": 63.085,
+      "depth": 0.9,
+      "mag": 2.2,
+      "place": "52 km SSE of Denali National Park, Alaska",
+      "time": 1784162869491,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nybwwg"
     },
     {
-      "id": "aka2026nybwpk",
-      "lon": 176.223,
-      "lat": 52.028,
-      "depth": 6.1,
-      "mag": 3.6,
-      "place": "225 km ESE of Attu Station, Alaska",
-      "time": 1784162844587,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nybwpk"
+      "id": "us7000t0uu",
+      "lon": 176.275,
+      "lat": 52.038,
+      "depth": 10,
+      "mag": 3.4,
+      "place": "228 km ESE of Attu Station, Alaska",
+      "time": 1784162845449,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uu"
     },
     {
       "id": "ci40656066",
@@ -892,6 +932,16 @@
       "place": "225 km ESE of Attu Station, Alaska",
       "time": 1784133216841,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxlkra"
+    },
+    {
+      "id": "av94310853",
+      "lon": -177.621833333333,
+      "lat": 51.9296666666667,
+      "depth": 7.54,
+      "mag": 0.58,
+      "place": "68 km W of Adak, Alaska",
+      "time": 1784133113250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94310853"
     },
     {
       "id": "ci40655562",
@@ -3002,46 +3052,6 @@
       "place": "67 km SSW of Adak, Alaska",
       "time": 1784078320199,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nwgwyh"
-    },
-    {
-      "id": "us7000t0it",
-      "lon": -71.8626,
-      "lat": -32.6034,
-      "depth": 26.032,
-      "mag": 5.1,
-      "place": "52 km NNW of Valparaíso, Chile",
-      "time": 1784077760402,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0it"
-    },
-    {
-      "id": "ci40655026",
-      "lon": -117.817,
-      "lat": 35.3038333333333,
-      "depth": 8.51,
-      "mag": 1.19,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1784077678150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655026"
-    },
-    {
-      "id": "us7000t0iv",
-      "lon": 155.9133,
-      "lat": 49.9548,
-      "depth": 66.6,
-      "mag": 4.5,
-      "place": "81 km S of Severo-Kuril’sk, Russia",
-      "time": 1784077537271,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0iv"
-    },
-    {
-      "id": "aka2026nwglke",
-      "lon": -150.463,
-      "lat": 65.155,
-      "depth": 13,
-      "mag": 1.5,
-      "place": "18 km NNE of Manley Hot Springs, Alaska",
-      "time": 1784077514677,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nwglke"
     }
   ]
 }
