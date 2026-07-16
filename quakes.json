@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-16T00:01:26Z",
-  "count": 296,
+  "updated": "2026-07-16T00:15:48Z",
+  "count": 299,
   "points": [
+    {
+      "id": "ci40656058",
+      "lon": -117.778,
+      "lat": 36.0298333333333,
+      "depth": 1.72,
+      "mag": 1.04,
+      "place": "15 km E of Coso Junction, CA",
+      "time": 1784160724810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656058"
+    },
     {
       "id": "tx2026nvubsz",
       "lon": -102.101,
@@ -55,13 +65,23 @@
     },
     {
       "id": "aka2026nxzden",
-      "lon": -157.889,
-      "lat": 56.416,
-      "depth": 76.2,
-      "mag": 2.5,
-      "place": "34 km ENE of Chignik, Alaska",
-      "time": 1784157908339,
+      "lon": -157.883,
+      "lat": 56.419,
+      "depth": 75.1,
+      "mag": 2.7,
+      "place": "35 km ENE of Chignik, Alaska",
+      "time": 1784157908341,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxzden"
+    },
+    {
+      "id": "aka2026nxzbld",
+      "lon": -163.462,
+      "lat": 53.535,
+      "depth": 12.3,
+      "mag": 2.8,
+      "place": "146 km S of False Pass, Alaska",
+      "time": 1784157789308,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxzbld"
     },
     {
       "id": "ci40656002",
@@ -105,12 +125,12 @@
     },
     {
       "id": "aka2026nxxuwp",
-      "lon": -148.551,
-      "lat": 62.26,
-      "depth": 27.9,
-      "mag": 1.5,
-      "place": "51 km N of Chickaloon, Alaska",
-      "time": 1784155535223,
+      "lon": -148.576,
+      "lat": 62.225,
+      "depth": 26.9,
+      "mag": 1.9,
+      "place": "48 km N of Chickaloon, Alaska",
+      "time": 1784155535641,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxxuwp"
     },
     {
@@ -234,6 +254,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0tp"
     },
     {
+      "id": "uw714050532",
+      "lon": -122.804333333333,
+      "lat": 45.349,
+      "depth": -0.42,
+      "mag": 1.22,
+      "place": "2 km ESE of Sherwood, Oregon",
+      "time": 1784151032670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714050532"
+    },
+    {
       "id": "nc75396646",
       "lon": -122.795501708984,
       "lat": 38.8156661987305,
@@ -244,13 +274,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396646"
     },
     {
+      "id": "ci10246094",
+      "lon": -117.558666666667,
+      "lat": 35.6433333333333,
+      "depth": 11.13,
+      "mag": 0.64,
+      "place": "11 km ENE of Ridgecrest, CA",
+      "time": 1784149740120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10246094"
+    },
+    {
       "id": "ci40655922",
       "lon": -117.565833333333,
-      "lat": 35.639,
-      "depth": 8.33,
-      "mag": 0.64,
-      "place": "10 km ENE of Ridgecrest, CA",
-      "time": 1784149737800,
+      "lat": 35.6383333333333,
+      "depth": 10.09,
+      "mag": 0.63,
+      "place": "10 km E of Ridgecrest, CA",
+      "time": 1784149737720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655922"
     },
     {
@@ -1394,6 +1434,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714050092"
     },
     {
+      "id": "av94310443",
+      "lon": -153.049833333333,
+      "lat": 60.0375,
+      "depth": 2.51,
+      "mag": -0.36,
+      "place": "65 km ENE of Pedro Bay, Alaska",
+      "time": 1784114058690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94310443"
+    },
+    {
       "id": "ci40655258",
       "lon": -116.087333333333,
       "lat": 32.4266666666667,
@@ -1522,6 +1572,16 @@
       "place": "9 km NW of The Geysers, CA",
       "time": 1784110387780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396216"
+    },
+    {
+      "id": "av94310328",
+      "lon": -152.729333333333,
+      "lat": 60.4976666666667,
+      "depth": 0.71,
+      "mag": -0.53,
+      "place": "77 km NW of Ninilchik, Alaska",
+      "time": 1784109513440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94310328"
     },
     {
       "id": "tx2026nusird",
@@ -2932,36 +2992,6 @@
       "place": "3 km S of Indios, Puerto Rico",
       "time": 1784075002390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524348"
-    },
-    {
-      "id": "ci40654978",
-      "lon": -116.1985,
-      "lat": 33.8403333333333,
-      "depth": 9.29,
-      "mag": 0.87,
-      "place": "13 km N of Indio, CA",
-      "time": 1784074267120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40654978"
-    },
-    {
-      "id": "aka2026nwemyk",
-      "lon": -162.455,
-      "lat": 54.131,
-      "depth": 7.3,
-      "mag": 2.8,
-      "place": "101 km SE of False Pass, Alaska",
-      "time": 1784074024408,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nwemyk"
-    },
-    {
-      "id": "ci40654970",
-      "lon": -117.817166666667,
-      "lat": 35.304,
-      "depth": 9.01,
-      "mag": 1.25,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1784074016800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40654970"
     }
   ]
 }
