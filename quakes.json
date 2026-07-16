@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-16T07:31:17Z",
-  "count": 314,
+  "updated": "2026-07-16T07:45:49Z",
+  "count": 312,
   "points": [
+    {
+      "id": "ci40656210",
+      "lon": -117.1505,
+      "lat": 34.0091666666667,
+      "depth": 3.95,
+      "mag": 1.28,
+      "place": "6 km SSE of Redlands, CA",
+      "time": 1784187275420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656210"
+    },
     {
       "id": "aka2026nypawv",
       "lon": -152.401,
@@ -585,12 +595,12 @@
     },
     {
       "id": "tx2026nvytmt",
-      "lon": -98.983,
-      "lat": 28.868,
-      "depth": 12.2895,
-      "mag": 2.1,
-      "place": "11 km ESE of Pearsall, Texas",
-      "time": 1784168005641,
+      "lon": -98.956,
+      "lat": 28.832,
+      "depth": 7.349,
+      "mag": 2,
+      "place": "15 km ESE of Pearsall, Texas",
+      "time": 1784168004027,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nvytmt"
     },
     {
@@ -3112,36 +3122,6 @@
       "place": "42 km NW of Toyah, Texas",
       "time": 1784101551990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nuobbt"
-    },
-    {
-      "id": "nc75396176",
-      "lon": -121.675833333333,
-      "lat": 37.2923333333333,
-      "depth": 1.91,
-      "mag": 0.67,
-      "place": "14 km E of Seven Trees, CA",
-      "time": 1784101332700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396176"
-    },
-    {
-      "id": "uu80007658",
-      "lon": -110.965333333333,
-      "lat": 44.7038333333333,
-      "depth": 2.29,
-      "mag": -0.68,
-      "place": "11 km ENE of West Yellowstone, Montana",
-      "time": 1784100830660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007658"
-    },
-    {
-      "id": "uu80145336",
-      "lon": -110.681166666667,
-      "lat": 44.5406666666667,
-      "depth": 7.49,
-      "mag": 0.2,
-      "place": "36 km ESE of West Yellowstone, Montana",
-      "time": 1784100816080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145336"
     }
   ]
 }
