@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-16T17:15:56Z",
-  "count": 296,
+  "updated": "2026-07-16T17:31:05Z",
+  "count": 295,
   "points": [
     {
+      "id": "ci40656530",
+      "lon": -117.518166666667,
+      "lat": 35.7085,
+      "depth": 2.86,
+      "mag": 0.67,
+      "place": "12 km WSW of Searles Valley, CA",
+      "time": 1784222298460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656530"
+    },
+    {
+      "id": "tx2026nxcpdb",
+      "lon": -104.229,
+      "lat": 31.757,
+      "depth": 4.2729,
+      "mag": 1.7,
+      "place": "48 km SSE of Whites City, New Mexico",
+      "time": 1784222233555,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nxcpdb"
+    },
+    {
       "id": "ok2026nvkl",
-      "lon": -96.88899994,
-      "lat": 34.46902466,
-      "depth": 4.252606392,
-      "mag": 1.93,
-      "place": "8 km ESE of Sulphur, Oklahoma",
-      "time": 1784221551349,
+      "lon": -96.82783333,
+      "lat": 34.461,
+      "depth": 0,
+      "mag": 1.35,
+      "place": "6 km N of Mill Creek, Oklahoma",
+      "time": 1784221550210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026nvkl"
     },
     {
@@ -2234,6 +2254,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396696"
     },
     {
+      "id": "tx2026nvrhqo",
+      "lon": -103.239,
+      "lat": 32.014,
+      "depth": 7.2534,
+      "mag": 1.2,
+      "place": "11 km SSW of Jal, New Mexico",
+      "time": 1784154494091,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nvrhqo"
+    },
+    {
       "id": "aka2026nxxdne",
       "lon": -154.715,
       "lat": 57.052,
@@ -2922,46 +2952,6 @@
       "place": "13 km WNW of Toms Place, CA",
       "time": 1784136671490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396431"
-    },
-    {
-      "id": "ci40655658",
-      "lon": -117.674,
-      "lat": 35.8306666666667,
-      "depth": 7.92,
-      "mag": 1.96,
-      "place": "23 km N of Ridgecrest, CA",
-      "time": 1784136507170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655658"
-    },
-    {
-      "id": "ci40655650",
-      "lon": -117.666,
-      "lat": 35.8306666666667,
-      "depth": 8.82,
-      "mag": 0.5,
-      "place": "23 km N of Ridgecrest, CA",
-      "time": 1784136495450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655650"
-    },
-    {
-      "id": "nn00921732",
-      "lon": -115.292,
-      "lat": 37.1345,
-      "depth": 0,
-      "mag": 1.71,
-      "place": "27 km SSW of Alamo, Nevada",
-      "time": 1784136128840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921732"
-    },
-    {
-      "id": "aka2026nxmwde",
-      "lon": -141.488,
-      "lat": 59.902,
-      "depth": 3.3,
-      "mag": 3.2,
-      "place": "106 km WNW of Yakutat, Alaska",
-      "time": 1784135828105,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxmwde"
     }
   ]
 }
