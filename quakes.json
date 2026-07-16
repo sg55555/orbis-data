@@ -1,8 +1,48 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-16T18:31:09Z",
-  "count": 282,
+  "updated": "2026-07-16T18:45:40Z",
+  "count": 285,
   "points": [
+    {
+      "id": "aka2026nzlqxm",
+      "lon": -147.189,
+      "lat": 60.037,
+      "depth": 1,
+      "mag": 2.7,
+      "place": "45 km E of Chenega, Alaska",
+      "time": 1784227227534,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzlqxm"
+    },
+    {
+      "id": "aka2026nzlknf",
+      "lon": -149.682,
+      "lat": 64.322,
+      "depth": 4.4,
+      "mag": 1.2,
+      "place": "24 km W of Anderson, Alaska",
+      "time": 1784226786338,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzlknf"
+    },
+    {
+      "id": "hv75002887",
+      "lon": -155.47900390625,
+      "lat": 19.1843338012695,
+      "depth": 28.0799999237061,
+      "mag": 1.73,
+      "place": "2 km S of Pāhala, Hawaii",
+      "time": 1784226780100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002887"
+    },
+    {
+      "id": "tx2026nxffoj",
+      "lon": -104.244,
+      "lat": 31.649,
+      "depth": 4.4461,
+      "mag": 1.9,
+      "place": "56 km NW of Toyah, Texas",
+      "time": 1784226776688,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nxffoj"
+    },
     {
       "id": "hv75002882",
       "lon": -155.316833496094,
@@ -42,6 +82,16 @@
       "place": "12 km WSW of Searles Valley, CA",
       "time": 1784222298460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656530"
+    },
+    {
+      "id": "aka2026nzixnp",
+      "lon": 176.152,
+      "lat": 51.951,
+      "depth": 21.1,
+      "mag": 4,
+      "place": "225 km ESE of Attu Station, Alaska",
+      "time": 1784222279634,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzixnp"
     },
     {
       "id": "tx2026nxcpdb",
@@ -95,12 +145,12 @@
     },
     {
       "id": "ci40656522",
-      "lon": -119.2335,
-      "lat": 34.8401666666667,
-      "depth": 10.15,
-      "mag": 1.97,
+      "lon": -119.234,
+      "lat": 34.8418333333333,
+      "depth": 11.66,
+      "mag": 1.07,
       "place": "8 km W of Pine Mountain Club, CA",
-      "time": 1784221249670,
+      "time": 1784221249500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656522"
     },
     {
@@ -135,13 +185,23 @@
     },
     {
       "id": "tx2026nxbnqx",
-      "lon": -101.673,
-      "lat": 31.724,
-      "depth": 3.0876,
+      "lon": -101.68,
+      "lat": 31.722,
+      "depth": 6.1768,
       "mag": 1.1,
-      "place": "23 km SW of Garden City, Texas",
-      "time": 1784220105819,
+      "place": "24 km SW of Garden City, Texas",
+      "time": 1784220106222,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nxbnqx"
+    },
+    {
+      "id": "ci40656490",
+      "lon": -117.740166666667,
+      "lat": 35.9208333333333,
+      "depth": 6.19,
+      "mag": -0.63,
+      "place": "15 km E of Little Lake, CA",
+      "time": 1784218807940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656490"
     },
     {
       "id": "aka2026nzgywj",
@@ -2792,36 +2852,6 @@
       "place": "90 km SSE of King Cove, Alaska",
       "time": 1784141454743,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0tu"
-    },
-    {
-      "id": "aka2026nxpslu",
-      "lon": -162.428,
-      "lat": 54.59,
-      "depth": 61.7,
-      "mag": 2.1,
-      "place": "52 km S of King Cove, Alaska",
-      "time": 1784140983423,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxpslu"
-    },
-    {
-      "id": "tx2026nvjqhe",
-      "lon": -102.124,
-      "lat": 32.434,
-      "depth": 7.8369,
-      "mag": 0.8,
-      "place": "37 km SSW of Los Ybanez, Texas",
-      "time": 1784140627840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nvjqhe"
-    },
-    {
-      "id": "nc75396516",
-      "lon": -122.799835205078,
-      "lat": 38.837833404541,
-      "depth": 2.13000011444092,
-      "mag": 0.74,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1784140337300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396516"
     }
   ]
 }
