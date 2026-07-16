@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-16T20:15:48Z",
-  "count": 294,
+  "updated": "2026-07-16T20:31:05Z",
+  "count": 296,
   "points": [
+    {
+      "id": "nc75397286",
+      "lon": -121.454170227051,
+      "lat": 36.9623336791992,
+      "depth": 4.42000007629395,
+      "mag": 1.27,
+      "place": "11 km ESE of Gilroy, CA",
+      "time": 1784233130310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397286"
+    },
+    {
+      "id": "aka2026nzouxd",
+      "lon": -152.234,
+      "lat": 59.764,
+      "depth": 71,
+      "mag": 2.3,
+      "place": "22 km W of Anchor Point, Alaska",
+      "time": 1784232902616,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzouxd"
+    },
+    {
+      "id": "nc75397271",
+      "lon": -122.804000854492,
+      "lat": 38.8235015869141,
+      "depth": 2.5699999332428,
+      "mag": 0.76,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1784232835730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397271"
+    },
     {
       "id": "nc75397266",
       "lon": -122.875831604004,
@@ -44,6 +74,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656690"
     },
     {
+      "id": "us7000t14m",
+      "lon": -14.3805,
+      "lat": -12.6918,
+      "depth": 11.86,
+      "mag": 5,
+      "place": "southern Mid-Atlantic Ridge",
+      "time": 1784231732193,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t14m"
+    },
+    {
       "id": "nc75397256",
       "lon": -121.450996398926,
       "lat": 36.9700012207031,
@@ -75,13 +115,23 @@
     },
     {
       "id": "ci40656658",
-      "lon": -115.754,
-      "lat": 32.6255,
-      "depth": 4.93,
-      "mag": 2.57,
+      "lon": -115.750166666667,
+      "lat": 32.6298333333333,
+      "depth": 5.02,
+      "mag": 2.62,
       "place": "17 km WNW of Progreso, B.C., MX",
-      "time": 1784231152380,
+      "time": 1784231152290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656658"
+    },
+    {
+      "id": "us7000t14l",
+      "lon": -14.3837,
+      "lat": -12.6935,
+      "depth": 10,
+      "mag": 5,
+      "place": "southern Mid-Atlantic Ridge",
+      "time": 1784231094568,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t14l"
     },
     {
       "id": "tx2026nxhoqr",
@@ -922,6 +972,16 @@
       "place": "0 km NNE of Fuig, Puerto Rico",
       "time": 1784202309330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524643"
+    },
+    {
+      "id": "av93064334",
+      "lon": 179.587666666667,
+      "lat": 51.8723333333333,
+      "depth": 13.31,
+      "mag": 1.39,
+      "place": "260 km W of Adak, Alaska",
+      "time": 1784201940720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064334"
     },
     {
       "id": "aka2026nyxoap",
@@ -2902,46 +2962,6 @@
       "place": "6 km W of Dutch Harbor, Alaska",
       "time": 1784148463460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94311268"
-    },
-    {
-      "id": "av94311233",
-      "lon": -155.305,
-      "lat": 58.1845,
-      "depth": 0.18,
-      "mag": -0.32,
-      "place": "85 km NW of Karluk, Alaska",
-      "time": 1784147448770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94311233"
-    },
-    {
-      "id": "aka2026nxtfnx",
-      "lon": -141.451,
-      "lat": 59.926,
-      "depth": 14.7,
-      "mag": 1.9,
-      "place": "105 km WNW of Yakutat, Alaska",
-      "time": 1784147279466,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxtfnx"
-    },
-    {
-      "id": "av94311223",
-      "lon": -166.637666666667,
-      "lat": 53.8906666666667,
-      "depth": 9.05,
-      "mag": -0.23,
-      "place": "6 km W of Dutch Harbor, Alaska",
-      "time": 1784147207610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94311223"
-    },
-    {
-      "id": "nc75396586",
-      "lon": -119.216331481934,
-      "lat": 37.5616683959961,
-      "depth": 16.8400001525879,
-      "mag": 1.81,
-      "place": "23 km WSW of Mammoth Lakes, CA",
-      "time": 1784146615930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396586"
     }
   ]
 }
