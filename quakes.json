@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-16T12:31:21Z",
-  "count": 296,
+  "updated": "2026-07-16T12:45:46Z",
+  "count": 293,
   "points": [
+    {
+      "id": "ci40656306",
+      "lon": -117.860166666667,
+      "lat": 36.0395,
+      "depth": 2.99,
+      "mag": 0.58,
+      "place": "8 km E of Coso Junction, CA",
+      "time": 1784205367850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656306"
+    },
     {
       "id": "nc75397006",
       "lon": -122.80549621582,
@@ -652,6 +662,16 @@
       "place": "6 km WNW of The Geysers, CA",
       "time": 1784180917890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396911"
+    },
+    {
+      "id": "tx2026nwftni",
+      "lon": -102.151,
+      "lat": 32.359,
+      "depth": 6.4697,
+      "mag": 0.2,
+      "place": "36 km E of McKinney Acres, Texas",
+      "time": 1784180680819,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nwftni"
     },
     {
       "id": "nc75396906",
@@ -1585,12 +1605,12 @@
     },
     {
       "id": "tx2026nvrtdh",
-      "lon": -104.369,
-      "lat": 31.657,
-      "depth": 4.658,
-      "mag": 1.8,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": 1784155309169,
+      "lon": -104.367,
+      "lat": 31.672,
+      "depth": 6.0999,
+      "mag": 1.6,
+      "place": "55 km S of Whites City, New Mexico",
+      "time": 1784155309261,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nvrtdh"
     },
     {
@@ -2912,56 +2932,6 @@
       "place": "1 km SSW of Pāhala, Hawaii",
       "time": 1784119598460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75003116"
-    },
-    {
-      "id": "aka2026nxdrjh",
-      "lon": -165.827,
-      "lat": 53.303,
-      "depth": 26.1,
-      "mag": 2.1,
-      "place": "78 km SE of Unalaska, Alaska",
-      "time": 1784119316391,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxdrjh"
-    },
-    {
-      "id": "us7000t0mr",
-      "lon": 164.2703,
-      "lat": 54.6535,
-      "depth": 10,
-      "mag": 4.4,
-      "place": "208 km SSE of Ust’-Kamchatsk Staryy, Russia",
-      "time": 1784119131964,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0mr"
-    },
-    {
-      "id": "aka2026nxdmfp",
-      "lon": 176.175,
-      "lat": 51.982,
-      "depth": 10,
-      "mag": 3.1,
-      "place": "224 km ESE of Attu Station, Alaska",
-      "time": 1784118949209,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxdmfp"
-    },
-    {
-      "id": "nc75396246",
-      "lon": -122.819664001465,
-      "lat": 38.8310012817383,
-      "depth": 1.48000001907349,
-      "mag": 0.7,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1784118726780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396246"
-    },
-    {
-      "id": "tx2026nuxnbq",
-      "lon": -101.112,
-      "lat": 32.295,
-      "depth": 6.7627,
-      "mag": 1.2,
-      "place": "11 km SW of Westbrook, Texas",
-      "time": 1784118679851,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nuxnbq"
     }
   ]
 }
