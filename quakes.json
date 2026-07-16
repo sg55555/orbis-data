@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-16T14:32:41Z",
-  "count": 298,
+  "updated": "2026-07-16T14:46:00Z",
+  "count": 297,
   "points": [
+    {
+      "id": "uu80145426",
+      "lon": -110.794166666667,
+      "lat": 44.7365,
+      "depth": 4.81,
+      "mag": 0.62,
+      "place": "25 km ENE of West Yellowstone, Montana",
+      "time": 1784212183260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145426"
+    },
     {
       "id": "nc75397031",
       "lon": -122.796836853027,
@@ -22,6 +32,16 @@
       "place": "39 km SSE of Mammoth, Wyoming",
       "time": 1784211069420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145421"
+    },
+    {
+      "id": "tx2026nwwffh",
+      "lon": -101.946,
+      "lat": 32.242,
+      "depth": 8.6182,
+      "mag": 0.5,
+      "place": "19 km NW of Stanton, Texas",
+      "time": 1784210467883,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nwwffh"
     },
     {
       "id": "pr71524663",
@@ -122,6 +142,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1784204613330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397006"
+    },
+    {
+      "id": "tx2026nwskam",
+      "lon": -101.822,
+      "lat": 32.133,
+      "depth": 7.2754,
+      "mag": 0.8,
+      "place": "3 km W of Stanton, Texas",
+      "time": 1784203551739,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nwskam"
     },
     {
       "id": "tx2026nwsapw",
@@ -565,12 +595,12 @@
     },
     {
       "id": "tx2026nwjyix",
-      "lon": -98.949,
-      "lat": 28.851,
-      "depth": 2.6486,
+      "lon": -98.964,
+      "lat": 28.837,
+      "depth": 7.0457,
       "mag": 1.8,
       "place": "14 km ESE of Pearsall, Texas",
-      "time": 1784188257898,
+      "time": 1784188255840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nwjyix"
     },
     {
@@ -1662,16 +1692,6 @@
       "place": "36 km SSW of Los Ybanez, Texas",
       "time": 1784159526912,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nvubsz"
-    },
-    {
-      "id": "tx2026nvtyha",
-      "lon": -103.203,
-      "lat": 31.247,
-      "depth": 4.639,
-      "mag": 1.9,
-      "place": "13 km W of Coyanosa, Texas",
-      "time": 1784159288282,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nvtyha"
     },
     {
       "id": "nc75396731",
@@ -2952,36 +2972,6 @@
       "place": "18 km SW of Pa‘auilo, Hawaii",
       "time": 1784127030430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75003186"
-    },
-    {
-      "id": "ci40655426",
-      "lon": -117.849333333333,
-      "lat": 36.0248333333333,
-      "depth": 2.4,
-      "mag": 0.87,
-      "place": "9 km ESE of Coso Junction, CA",
-      "time": 1784126448970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655426"
-    },
-    {
-      "id": "us7000t0nc",
-      "lon": -88.5791,
-      "lat": 12.9456,
-      "depth": 57.437,
-      "mag": 4.3,
-      "place": "37 km S of Puerto El Triunfo, El Salvador",
-      "time": 1784126258138,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0nc"
-    },
-    {
-      "id": "aka2026nxhmjq",
-      "lon": -147.331,
-      "lat": 60.973,
-      "depth": 22.1,
-      "mag": 2.3,
-      "place": "37 km WNW of Tatitlek, Alaska",
-      "time": 1784126160998,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxhmjq"
     }
   ]
 }
