@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-16T17:45:43Z",
-  "count": 291,
+  "updated": "2026-07-16T18:01:17Z",
+  "count": 289,
   "points": [
     {
+      "id": "hv75002882",
+      "lon": -155.316833496094,
+      "lat": 19.9938335418701,
+      "depth": 33.9799995422363,
+      "mag": 2.26,
+      "place": "7 km SE of Pa‘auilo, Hawaii",
+      "time": 1784224184590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002882"
+    },
+    {
       "id": "nn00921794",
-      "lon": -116.4806,
-      "lat": 38.41,
-      "depth": 4.4491,
-      "mag": 1.95,
-      "place": "75 km ENE of Tonopah, Nevada",
-      "time": 1784223186464,
+      "lon": -116.5212,
+      "lat": 38.4627,
+      "depth": 0,
+      "mag": 1.54,
+      "place": "76 km NE of Tonopah, Nevada",
+      "time": 1784223185996,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921794"
     },
     {
@@ -972,6 +982,16 @@
       "place": "Volcano Islands, Japan region",
       "time": 1784188149543,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0x0"
+    },
+    {
+      "id": "uw714051921",
+      "lon": -121.995833333333,
+      "lat": 47.0163333333333,
+      "depth": 14.92,
+      "mag": 1.29,
+      "place": "8 km SSE of Carbonado, Washington",
+      "time": 1784188130120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714051921"
     },
     {
       "id": "mb90202478",
@@ -2872,46 +2892,6 @@
       "place": "6 km S of Owasso, Oklahoma",
       "time": 1784138492560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ntqu"
-    },
-    {
-      "id": "pr71524518",
-      "lon": -65.183,
-      "lat": 18.978,
-      "depth": 36.45,
-      "mag": 3.05,
-      "place": "75 km NNW of Charlotte Amalie, U.S. Virgin Islands",
-      "time": 1784138142640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524518"
-    },
-    {
-      "id": "av94310998",
-      "lon": -153.063333333333,
-      "lat": 59.9938333333333,
-      "depth": 1.83,
-      "mag": -0.64,
-      "place": "62 km ENE of Pedro Bay, Alaska",
-      "time": 1784138132540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94310998"
-    },
-    {
-      "id": "nc75396471",
-      "lon": -122.435165405273,
-      "lat": 38.5421676635742,
-      "depth": -0.170000001788139,
-      "mag": 1.41,
-      "place": "4 km SSE of Angwin, CA",
-      "time": 1784137975620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396471"
-    },
-    {
-      "id": "us7000t0r4",
-      "lon": -153.2157,
-      "lat": 54.1865,
-      "depth": 25.526,
-      "mag": 4.3,
-      "place": "south of Alaska",
-      "time": 1784137578104,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0r4"
     }
   ]
 }
