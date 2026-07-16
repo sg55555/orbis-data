@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-16T16:31:09Z",
-  "count": 293,
+  "updated": "2026-07-16T16:58:13Z",
+  "count": 291,
   "points": [
+    {
+      "id": "nc75397161",
+      "lon": -122.809829711914,
+      "lat": 38.8388328552246,
+      "depth": 1.86000001430511,
+      "mag": 1.65,
+      "place": "8 km WNW of Cobb, CA",
+      "time": 1784220643080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397161"
+    },
+    {
+      "id": "nc75397156",
+      "lon": -122.801498413086,
+      "lat": 38.8036651611328,
+      "depth": 1.1599999666214,
+      "mag": 0.8,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1784220611310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397156"
+    },
+    {
+      "id": "tx2026nxbnqx",
+      "lon": -101.673,
+      "lat": 31.724,
+      "depth": 3.0876,
+      "mag": 1.1,
+      "place": "23 km SW of Garden City, Texas",
+      "time": 1784220105819,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nxbnqx"
+    },
     {
       "id": "tx2026nxalbq",
       "lon": -103.346,
@@ -274,16 +304,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145416"
     },
     {
-      "id": "tx2026nwvwaw",
-      "lon": -104.386,
-      "lat": 31.778,
-      "depth": 2.0096,
-      "mag": 0.9,
-      "place": "44 km S of Whites City, New Mexico",
-      "time": 1784209819610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nwvwaw"
-    },
-    {
       "id": "uu80145411",
       "lon": -110.4675,
       "lat": 44.6665,
@@ -312,6 +332,16 @@
       "place": "11 km SE of Sutton-Alpine, Alaska",
       "time": 1784207288188,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzaotn"
+    },
+    {
+      "id": "tx2026nwuevy",
+      "lon": -98.968,
+      "lat": 28.828,
+      "depth": 9.2498,
+      "mag": 1.9,
+      "place": "14 km ESE of Pearsall, Texas",
+      "time": 1784206812237,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nwuevy"
     },
     {
       "id": "ci40656306",
@@ -1205,12 +1235,12 @@
     },
     {
       "id": "uw714051871",
-      "lon": -122.195663452148,
-      "lat": 48.21533203125,
-      "depth": 2.07999992370605,
-      "mag": 1.86000001,
-      "place": "3 km SW of Bryant, Washington",
-      "time": 1784177537350,
+      "lon": -122.158166666667,
+      "lat": 48.2338333333333,
+      "depth": 19.53,
+      "mag": 1.16,
+      "place": "0 km S of Bryant, Washington",
+      "time": 1784177537190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714051871"
     },
     {
@@ -2564,6 +2594,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064274"
     },
     {
+      "id": "tx2026nvkijs",
+      "lon": -101.066,
+      "lat": 32.34,
+      "depth": 6.3477,
+      "mag": 1.4,
+      "place": "5 km WSW of Westbrook, Texas",
+      "time": 1784141888143,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nvkijs"
+    },
+    {
       "id": "av93064279",
       "lon": -168.254333333333,
       "lat": 53.3733333333333,
@@ -2604,14 +2644,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655770"
     },
     {
-      "id": "aka2026nxpzig",
-      "lon": -161.608,
-      "lat": 54.37,
-      "depth": 3.8,
-      "mag": 2.7,
-      "place": "89 km SSE of King Cove, Alaska",
-      "time": 1784141455152,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxpzig"
+      "id": "us7000t0tu",
+      "lon": -161.6042,
+      "lat": 54.3617,
+      "depth": 2.323,
+      "mag": 2.8,
+      "place": "90 km SSE of King Cove, Alaska",
+      "time": 1784141454743,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0tu"
     },
     {
       "id": "aka2026nxpslu",
@@ -2622,6 +2662,16 @@
       "place": "52 km S of King Cove, Alaska",
       "time": 1784140983423,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxpslu"
+    },
+    {
+      "id": "tx2026nvjqhe",
+      "lon": -102.124,
+      "lat": 32.434,
+      "depth": 7.8369,
+      "mag": 0.8,
+      "place": "37 km SSW of Los Ybanez, Texas",
+      "time": 1784140627840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nvjqhe"
     },
     {
       "id": "nc75396516",
@@ -2735,12 +2785,12 @@
     },
     {
       "id": "us7000t0r4",
-      "lon": -153.263,
-      "lat": 54.2565,
-      "depth": 16.311,
+      "lon": -153.2157,
+      "lat": 54.1865,
+      "depth": 25.526,
       "mag": 4.3,
       "place": "south of Alaska",
-      "time": 1784137576869,
+      "time": 1784137578104,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0r4"
     },
     {
@@ -2862,76 +2912,6 @@
       "place": "231 km ESE of Attu Station, Alaska",
       "time": 1784134808934,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0t2"
-    },
-    {
-      "id": "av93064264",
-      "lon": -168.0945,
-      "lat": 53.4623333333333,
-      "depth": 7.89,
-      "mag": -0.27,
-      "place": "77 km NE of Nikolski, Alaska",
-      "time": 1784134466100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064264"
-    },
-    {
-      "id": "aka2026nxmcco",
-      "lon": -168.134,
-      "lat": 54.102,
-      "depth": 20.9,
-      "mag": 1.9,
-      "place": "107 km WNW of Dutch Harbor, Alaska",
-      "time": 1784134446102,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxmcco"
-    },
-    {
-      "id": "ci40655602",
-      "lon": -119.232,
-      "lat": 34.8521666666667,
-      "depth": 10.06,
-      "mag": 1.51,
-      "place": "8 km W of Pine Mountain Club, CA",
-      "time": 1784133792510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655602"
-    },
-    {
-      "id": "aka2026nxlqqz",
-      "lon": -152.574,
-      "lat": 59.798,
-      "depth": 87.7,
-      "mag": 2.5,
-      "place": "41 km W of Anchor Point, Alaska",
-      "time": 1784133653903,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxlqqz"
-    },
-    {
-      "id": "aka2026nxlkra",
-      "lon": 176.206,
-      "lat": 52.013,
-      "depth": 1.2,
-      "mag": 3.5,
-      "place": "225 km ESE of Attu Station, Alaska",
-      "time": 1784133216841,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nxlkra"
-    },
-    {
-      "id": "ok2026ntnv",
-      "lon": -96.7895,
-      "lat": 34.38216667,
-      "depth": 0,
-      "mag": 0.88,
-      "place": "4 km SE of Mill Creek, Oklahoma",
-      "time": 1784133137070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ntnv"
-    },
-    {
-      "id": "av94310853",
-      "lon": -177.621833333333,
-      "lat": 51.9296666666667,
-      "depth": 7.54,
-      "mag": 0.58,
-      "place": "68 km W of Adak, Alaska",
-      "time": 1784133113250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94310853"
     }
   ]
 }
