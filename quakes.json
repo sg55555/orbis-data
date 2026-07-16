@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-16T05:31:16Z",
-  "count": 310,
+  "updated": "2026-07-16T05:45:50Z",
+  "count": 315,
   "points": [
+    {
+      "id": "nc75396906",
+      "lon": -122.841499328613,
+      "lat": 38.8214988708496,
+      "depth": 2.17000007629395,
+      "mag": 0.89,
+      "place": "9 km WNW of The Geysers, CA",
+      "time": 1784180413030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396906"
+    },
+    {
+      "id": "aka2026nyloki",
+      "lon": -159.585,
+      "lat": 60.076,
+      "depth": 0.2,
+      "mag": 3.1,
+      "place": "104 km NNW of Aleknagik, Alaska",
+      "time": 1784180276539,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyloki"
+    },
+    {
+      "id": "ci40656154",
+      "lon": -117.849833333333,
+      "lat": 36.0268333333333,
+      "depth": 2.28,
+      "mag": 0.81,
+      "place": "9 km ESE of Coso Junction, CA",
+      "time": 1784180100050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656154"
+    },
     {
       "id": "nc75396901",
       "lon": -122.816665649414,
@@ -54,6 +84,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396871"
     },
     {
+      "id": "aka2026nyjsuh",
+      "lon": -150.32,
+      "lat": 60.935,
+      "depth": 62.1,
+      "mag": 1.7,
+      "place": "20 km E of Point Possession, Alaska",
+      "time": 1784176980938,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyjsuh"
+    },
+    {
       "id": "nc75396866",
       "lon": -121.151496887207,
       "lat": 36.5268325805664,
@@ -65,13 +105,23 @@
     },
     {
       "id": "aka2026nyjsad",
-      "lon": -154.234,
-      "lat": 61.458,
-      "depth": 8.1,
+      "lon": -154.218,
+      "lat": 61.448,
+      "depth": 2.3,
       "mag": 1.8,
       "place": "65 km E of Lime Village, Alaska",
-      "time": 1784176927270,
+      "time": 1784176927426,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyjsad"
+    },
+    {
+      "id": "aka2026nyjqex",
+      "lon": -149.739,
+      "lat": 60.958,
+      "depth": 40,
+      "mag": 1.7,
+      "place": "7 km NW of Hope, Alaska",
+      "time": 1784176808424,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyjqex"
     },
     {
       "id": "nc75396856",
@@ -894,6 +944,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0tp"
     },
     {
+      "id": "av94311328",
+      "lon": -166.633,
+      "lat": 53.8956666666667,
+      "depth": 7.66,
+      "mag": 0.34,
+      "place": "6 km W of Dutch Harbor, Alaska",
+      "time": 1784151167620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94311328"
+    },
+    {
       "id": "uw714050532",
       "lon": -122.804333333333,
       "lat": 45.349,
@@ -922,6 +982,16 @@
       "place": "19 km WNW of Progreso, B.C., MX",
       "time": 1784150379410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655938"
+    },
+    {
+      "id": "av94311303",
+      "lon": -152.238,
+      "lat": 61.2768333333333,
+      "depth": 3.15,
+      "mag": -0.5,
+      "place": "63 km WNW of Tyonek, Alaska",
+      "time": 1784150306250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94311303"
     },
     {
       "id": "ci10246094",
@@ -3082,26 +3152,6 @@
       "place": "3 km SW of Pāhala, Hawaii",
       "time": 1784094350560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002801"
-    },
-    {
-      "id": "av94309933",
-      "lon": -166.635833333333,
-      "lat": 53.8961666666667,
-      "depth": 7.66,
-      "mag": -0.01,
-      "place": "6 km W of Dutch Harbor, Alaska",
-      "time": 1784093976760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94309933"
-    },
-    {
-      "id": "ci40655130",
-      "lon": -116.7165,
-      "lat": 33.5326666666667,
-      "depth": 5.55,
-      "mag": 1.25,
-      "place": "5 km WSW of Anza, CA",
-      "time": 1784093468300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655130"
     }
   ]
 }
