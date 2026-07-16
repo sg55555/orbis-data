@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-16T01:45:46Z",
+  "updated": "2026-07-16T02:01:29Z",
   "count": 300,
   "points": [
+    {
+      "id": "nc75396781",
+      "lon": -122.785003662109,
+      "lat": 38.8366661071777,
+      "depth": 1.67999994754791,
+      "mag": 1.11,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1784166573430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396781"
+    },
+    {
+      "id": "ci40656106",
+      "lon": -116.812666666667,
+      "lat": 33.7093333333333,
+      "depth": 15.79,
+      "mag": 1.05,
+      "place": "9 km ESE of Valle Vista, CA",
+      "time": 1784166399880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656106"
+    },
     {
       "id": "aka2026nydeyg",
       "lon": -148.752,
@@ -45,12 +65,12 @@
     },
     {
       "id": "tx2026nvwkdb",
-      "lon": -104.462,
-      "lat": 31.55,
-      "depth": 0,
-      "mag": 1.5,
-      "place": "66 km NNE of Van Horn, Texas",
-      "time": 1784163776035,
+      "lon": -104.251,
+      "lat": 31.631,
+      "depth": 4.6464,
+      "mag": 0,
+      "place": "55 km NW of Toyah, Texas",
+      "time": 1784163779124,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nvwkdb"
     },
     {
@@ -2982,26 +3002,6 @@
       "place": "26 km N of Atka, Alaska",
       "time": 1784080872760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94309563"
-    },
-    {
-      "id": "tx2026nuciet",
-      "lon": -104.305,
-      "lat": 31.691,
-      "depth": 7.4841,
-      "mag": 1.7,
-      "place": "54 km S of Whites City, New Mexico",
-      "time": 1784080323142,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nuciet"
-    },
-    {
-      "id": "ci40655042",
-      "lon": -117.807333333333,
-      "lat": 35.3093333333333,
-      "depth": 7.53,
-      "mag": 0.83,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1784080089780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40655042"
     }
   ]
 }
