@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-17T20:15:45Z",
-  "count": 261,
+  "updated": "2026-07-17T20:30:10Z",
+  "count": 260,
   "points": [
+    {
+      "id": "nc75397926",
+      "lon": -121.447166442871,
+      "lat": 36.964168548584,
+      "depth": 3.36999988555908,
+      "mag": 1.66,
+      "place": "12 km ESE of Gilroy, CA",
+      "time": 1784319347520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397926"
+    },
     {
       "id": "nc75397921",
       "lon": -122.842002868652,
@@ -232,6 +242,16 @@
       "place": "2 km NW of Tallaboa, Puerto Rico",
       "time": 1784308359360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524758"
+    },
+    {
+      "id": "uw714054471",
+      "lon": -120.48,
+      "lat": 49.3655,
+      "depth": -0.51,
+      "mag": 1.82,
+      "place": "10 km SSE of Princeton, Canada",
+      "time": 1784308335730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714054471"
     },
     {
       "id": "nc75397756",
@@ -2582,36 +2602,6 @@
       "place": "150 km W of Adak, Alaska",
       "time": 1784234004860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94313253"
-    },
-    {
-      "id": "us7000t14v",
-      "lon": -14.7175,
-      "lat": -12.6871,
-      "depth": 10,
-      "mag": 5.3,
-      "place": "southern Mid-Atlantic Ridge",
-      "time": 1784233312035,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t14v"
-    },
-    {
-      "id": "nc75397286",
-      "lon": -121.454170227051,
-      "lat": 36.9623336791992,
-      "depth": 4.42000007629395,
-      "mag": 1.27,
-      "place": "11 km ESE of Gilroy, CA",
-      "time": 1784233130310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397286"
-    },
-    {
-      "id": "tx2026nxipvv",
-      "lon": -103.494,
-      "lat": 31.153,
-      "depth": 7.2278,
-      "mag": 1.1,
-      "place": "24 km S of Lindsay, Texas",
-      "time": 1784232940788,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nxipvv"
     }
   ]
 }
