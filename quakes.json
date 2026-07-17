@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-17T19:23:32Z",
-  "count": 275,
+  "updated": "2026-07-17T19:49:10Z",
+  "count": 264,
   "points": [
+    {
+      "id": "nc75397891",
+      "lon": -122.768836975098,
+      "lat": 38.8228340148926,
+      "depth": 1.89999997615814,
+      "mag": 1.4,
+      "place": "4 km W of Cobb, CA",
+      "time": 1784317079310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397891"
+    },
     {
       "id": "aka2026obizjw",
       "lon": -151.18,
@@ -85,12 +95,12 @@
     },
     {
       "id": "ci40657202",
-      "lon": -116.437833333333,
-      "lat": 33.4143333333333,
-      "depth": 13.71,
+      "lon": -116.431166666667,
+      "lat": 33.4068333333333,
+      "depth": 15.47,
       "mag": 0.49,
-      "place": "19 km NNW of Borrego Springs, CA",
-      "time": 1784312234960,
+      "place": "18 km NNW of Borrego Springs, CA",
+      "time": 1784312234700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657202"
     },
     {
@@ -105,12 +115,12 @@
     },
     {
       "id": "tx2026nyzouz",
-      "lon": -98.993,
-      "lat": 28.888,
-      "depth": 6.4783,
-      "mag": 2.4,
-      "place": "9 km E of Pearsall, Texas",
-      "time": 1784310695727,
+      "lon": -98.967,
+      "lat": 28.829,
+      "depth": 8.5739,
+      "mag": 2.3,
+      "place": "14 km ESE of Pearsall, Texas",
+      "time": 1784310694548,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nyzouz"
     },
     {
@@ -682,6 +692,16 @@
       "place": "3 km SSW of Volcano, Hawaii",
       "time": 1784293938490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75003262"
+    },
+    {
+      "id": "us7000t1a9",
+      "lon": 119.3318,
+      "lat": -10.277,
+      "depth": 37.197,
+      "mag": 4.4,
+      "place": "94 km S of Tambolaka, Indonesia",
+      "time": 1784293661554,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1a9"
     },
     {
       "id": "aka2026oawnbe",
@@ -1275,12 +1295,12 @@
     },
     {
       "id": "ci40657002",
-      "lon": -118.337333333333,
-      "lat": 33.937,
-      "depth": 15.72,
-      "mag": 1.22,
-      "place": "1 km E of Lennox, CA",
-      "time": 1784273732000,
+      "lon": -118.342833333333,
+      "lat": 33.9346666666667,
+      "depth": 19.87,
+      "mag": 1.03,
+      "place": "1 km ESE of Lennox, CA",
+      "time": 1784273731680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657002"
     },
     {
@@ -1385,12 +1405,12 @@
     },
     {
       "id": "hv75003142",
-      "lon": -155.84033203125,
-      "lat": 19.4570007324219,
-      "depth": 6.86999988555908,
-      "mag": 1.99,
+      "lon": -155.839166666667,
+      "lat": 19.4598333333333,
+      "depth": 5.45,
+      "mag": 1.97,
       "place": "2 km E of Honaunau-Napoopoo, Hawaii",
-      "time": 1784270449250,
+      "time": 1784270449160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75003142"
     },
     {
@@ -1425,12 +1445,12 @@
     },
     {
       "id": "ci40656994",
-      "lon": -116.395666666667,
-      "lat": 33.3898333333333,
-      "depth": 8.73,
-      "mag": 0.59,
+      "lon": -116.395333333333,
+      "lat": 33.3903333333333,
+      "depth": 9.39,
+      "mag": 0.63,
       "place": "15 km N of Borrego Springs, CA",
-      "time": 1784269507320,
+      "time": 1784269507250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656994"
     },
     {
@@ -1845,12 +1865,12 @@
     },
     {
       "id": "ci40656898",
-      "lon": -116.711333333333,
-      "lat": 33.5393333333333,
-      "depth": 5.31,
-      "mag": 0.39,
+      "lon": -116.711833333333,
+      "lat": 33.5396666666667,
+      "depth": 5.44,
+      "mag": 0.38,
       "place": "4 km WSW of Anza, CA",
-      "time": 1784255695120,
+      "time": 1784255695090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656898"
     },
     {
@@ -2156,11 +2176,11 @@
     {
       "id": "ci40656810",
       "lon": -117.974833333333,
-      "lat": 35.9523333333333,
-      "depth": 3.75,
+      "lat": 35.953,
+      "depth": 3.78,
       "mag": 0.81,
       "place": "6 km WNW of Little Lake, CA",
-      "time": 1784244496220,
+      "time": 1784244496200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656810"
     },
     {
@@ -2622,136 +2642,6 @@
       "place": "11 km ESE of Gilroy, CA",
       "time": 1784231645410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397256"
-    },
-    {
-      "id": "nc75397251",
-      "lon": -122.821662902832,
-      "lat": 38.8153343200684,
-      "depth": 2.16000008583069,
-      "mag": 1.25,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1784231286080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397251"
-    },
-    {
-      "id": "tx2026nxhqxu",
-      "lon": -101.925,
-      "lat": 32.1,
-      "depth": 7.7637,
-      "mag": 1,
-      "place": "13 km WSW of Stanton, Texas",
-      "time": 1784231191940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nxhqxu"
-    },
-    {
-      "id": "ci40656658",
-      "lon": -115.750166666667,
-      "lat": 32.6298333333333,
-      "depth": 5.02,
-      "mag": 2.62,
-      "place": "17 km WNW of Progreso, B.C., MX",
-      "time": 1784231152290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656658"
-    },
-    {
-      "id": "us7000t14l",
-      "lon": -14.3837,
-      "lat": -12.6935,
-      "depth": 10,
-      "mag": 5,
-      "place": "southern Mid-Atlantic Ridge",
-      "time": 1784231094568,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t14l"
-    },
-    {
-      "id": "tx2026nxhoqr",
-      "lon": -101.741,
-      "lat": 32.009,
-      "depth": 8.0566,
-      "mag": 1.7,
-      "place": "14 km SSE of Stanton, Texas",
-      "time": 1784231032375,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nxhoqr"
-    },
-    {
-      "id": "aka2026nzntdt",
-      "lon": -153.789,
-      "lat": 58.307,
-      "depth": 69.2,
-      "mag": 3.3,
-      "place": "58 km WNW of Aleneva, Alaska",
-      "time": 1784230980699,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzntdt"
-    },
-    {
-      "id": "aka2026nznqjw",
-      "lon": -176.12,
-      "lat": 51.306,
-      "depth": 17.1,
-      "mag": 2.1,
-      "place": "72 km SSE of Adak, Alaska",
-      "time": 1784230790648,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nznqjw"
-    },
-    {
-      "id": "ok2026nvpn",
-      "lon": -97.27816667,
-      "lat": 34.49916667,
-      "depth": 0,
-      "mag": 1.39,
-      "place": "11 km SE of Katie, Oklahoma",
-      "time": 1784230757460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026nvpn"
-    },
-    {
-      "id": "uw714053731",
-      "lon": -124.119333333333,
-      "lat": 45.1576666666667,
-      "depth": -0.28,
-      "mag": 1.35,
-      "place": "12 km WNW of Neskowin, Oregon",
-      "time": 1784230543620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714053731"
-    },
-    {
-      "id": "aka2026nznmjk",
-      "lon": 176.257,
-      "lat": 51.971,
-      "depth": 2,
-      "mag": 3.1,
-      "place": "230 km ESE of Attu Station, Alaska",
-      "time": 1784230511767,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nznmjk"
-    },
-    {
-      "id": "ci40656642",
-      "lon": -117.831833333333,
-      "lat": 33.9246666666667,
-      "depth": 5.81,
-      "mag": 1.09,
-      "place": "4 km NNW of Yorba Linda, CA",
-      "time": 1784230272710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656642"
-    },
-    {
-      "id": "aka2026nzndmn",
-      "lon": -176.172,
-      "lat": 51.824,
-      "depth": 78.3,
-      "mag": 1.6,
-      "place": "32 km E of Adak, Alaska",
-      "time": 1784229898709,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzndmn"
-    },
-    {
-      "id": "us7000t141",
-      "lon": -14.7673,
-      "lat": -12.6148,
-      "depth": 10,
-      "mag": 4.8,
-      "place": "southern Mid-Atlantic Ridge",
-      "time": 1784229858908,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t141"
     }
   ]
 }
