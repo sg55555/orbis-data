@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-17T21:15:46Z",
-  "count": 260,
+  "updated": "2026-07-17T21:26:50Z",
+  "count": 259,
   "points": [
+    {
+      "id": "hv75003477",
+      "lon": -155.114334106445,
+      "lat": 19.1590003967285,
+      "depth": 48.6300010681152,
+      "mag": 1.96,
+      "place": "33 km SSE of Volcano, Hawaii",
+      "time": 1784323151360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75003477"
+    },
     {
       "id": "tx2026nzgavq",
       "lon": -104.025,
@@ -202,6 +212,16 @@
       "place": "75 km SSE of King Salmon, Alaska",
       "time": 1784311344925,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026obgkvu"
+    },
+    {
+      "id": "uw714054551",
+      "lon": -122.577667236328,
+      "lat": 45.0060005187988,
+      "depth": 18.3099994659424,
+      "mag": 1.80008506774902,
+      "place": "8 km ESE of Scotts Mills, Oregon",
+      "time": 1784311117580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714054551"
     },
     {
       "id": "tx2026nyzouz",
@@ -1935,12 +1955,12 @@
     },
     {
       "id": "hv75003082",
-      "lon": -155.486328125,
-      "lat": 19.1561660766602,
-      "depth": 28.8199996948242,
-      "mag": 2.66,
-      "place": "5 km S of Pāhala, Hawaii",
-      "time": 1784259474000,
+      "lon": -155.489,
+      "lat": 19.1535,
+      "depth": 30.07,
+      "mag": 2.74,
+      "place": "5 km SSW of Pāhala, Hawaii",
+      "time": 1784259473910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75003082"
     },
     {
@@ -2572,36 +2592,6 @@
       "place": "southern Mid-Atlantic Ridge",
       "time": 1784237380802,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15s"
-    },
-    {
-      "id": "uw714053891",
-      "lon": -123.210666666667,
-      "lat": 46.843,
-      "depth": -0.38,
-      "mag": 1.67,
-      "place": "1 km E of Oakville, Washington",
-      "time": 1784237161350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714053891"
-    },
-    {
-      "id": "ci40656714",
-      "lon": -118.574333333333,
-      "lat": 35.2816666666667,
-      "depth": 8.51,
-      "mag": 1.12,
-      "place": "20 km NW of Tehachapi, CA",
-      "time": 1784236991030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656714"
-    },
-    {
-      "id": "us7000t15b",
-      "lon": -14.8449,
-      "lat": -12.6241,
-      "depth": 10,
-      "mag": 5,
-      "place": "southern Mid-Atlantic Ridge",
-      "time": 1784236593262,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15b"
     }
   ]
 }
