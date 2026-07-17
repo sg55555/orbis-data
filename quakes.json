@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-17T04:15:46Z",
-  "count": 282,
+  "updated": "2026-07-17T04:31:06Z",
+  "count": 278,
   "points": [
+    {
+      "id": "ci40656930",
+      "lon": -117.816333333333,
+      "lat": 35.3078333333333,
+      "depth": 8.54,
+      "mag": 0.95,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": 1784262236200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656930"
+    },
     {
       "id": "ci40656922",
       "lon": -116.749666666667,
@@ -2772,56 +2782,6 @@
       "place": "60 km NNE of Petersville, Alaska",
       "time": 1784176274905,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyjihd"
-    },
-    {
-      "id": "ci40656138",
-      "lon": -116.3485,
-      "lat": 33.361,
-      "depth": 11.92,
-      "mag": 0.41,
-      "place": "12 km NNE of Borrego Springs, CA",
-      "time": 1784176119540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656138"
-    },
-    {
-      "id": "tx2026nwdfwj",
-      "lon": -101.17,
-      "lat": 32.475,
-      "depth": 6.8115,
-      "mag": 0.9,
-      "place": "19 km NW of Westbrook, Texas",
-      "time": 1784176110441,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nwdfwj"
-    },
-    {
-      "id": "ci40656130",
-      "lon": -116.031666666667,
-      "lat": 33.1773333333333,
-      "depth": 5.14,
-      "mag": 1.53,
-      "place": "10 km ENE of Ocotillo Wells, CA",
-      "time": 1784175637170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656130"
-    },
-    {
-      "id": "tx2026nwcwvq",
-      "lon": -101.178,
-      "lat": 32.477,
-      "depth": 8.3252,
-      "mag": 1.9,
-      "place": "20 km NW of Westbrook, Texas",
-      "time": 1784175480314,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nwcwvq"
-    },
-    {
-      "id": "tx2026nwcuxh",
-      "lon": -102.154,
-      "lat": 32.361,
-      "depth": 8.0322,
-      "mag": 0.4,
-      "place": "35 km E of McKinney Acres, Texas",
-      "time": 1784175349859,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nwcuxh"
     }
   ]
 }
