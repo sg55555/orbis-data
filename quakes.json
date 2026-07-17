@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-17T07:15:48Z",
-  "count": 259,
+  "updated": "2026-07-17T07:26:55Z",
+  "count": 256,
   "points": [
     {
       "id": "nc75397516",
@@ -704,6 +704,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15z"
     },
     {
+      "id": "aka2026nzsbgl",
+      "lon": -145.378,
+      "lat": 60.556,
+      "depth": 12.3,
+      "mag": 1.7,
+      "place": "20 km E of Cordova, Alaska",
+      "time": 1784238739349,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzsbgl"
+    },
+    {
       "id": "us7000t15t",
       "lon": 131.5099,
       "lat": 30.7625,
@@ -745,12 +755,12 @@
     },
     {
       "id": "aka2026nzrlvr",
-      "lon": -151.412,
+      "lon": -151.426,
       "lat": 60.776,
-      "depth": 75.1,
-      "mag": 2,
-      "place": "11 km NW of Nikiski, Alaska",
-      "time": 1784237673437,
+      "depth": 76.8,
+      "mag": 2.1,
+      "place": "12 km NW of Nikiski, Alaska",
+      "time": 1784237673326,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzrlvr"
     },
     {
@@ -2552,46 +2562,6 @@
       "place": "87 km SW of Altata, Mexico",
       "time": 1784186939217,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0x1"
-    },
-    {
-      "id": "aka2026nypawv",
-      "lon": -152.409,
-      "lat": 62.321,
-      "depth": 7.3,
-      "mag": 1.6,
-      "place": "64 km NW of Skwentna, Alaska",
-      "time": 1784186537087,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nypawv"
-    },
-    {
-      "id": "uw714051901",
-      "lon": -122.295,
-      "lat": 46.6803333333333,
-      "depth": 16.3,
-      "mag": 0.79,
-      "place": "9 km WSW of Mineral, Washington",
-      "time": 1784186486850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714051901"
-    },
-    {
-      "id": "ci40656202",
-      "lon": -116.125666666667,
-      "lat": 33.2615,
-      "depth": 7.5,
-      "mag": 0.61,
-      "place": "13 km N of Ocotillo Wells, CA",
-      "time": 1784186257000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656202"
-    },
-    {
-      "id": "nc75396931",
-      "lon": -122.78800201416,
-      "lat": 38.8201675415039,
-      "depth": 1.32000005245209,
-      "mag": 1.68,
-      "place": "5 km NNW of The Geysers, CA",
-      "time": 1784186255960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396931"
     }
   ]
 }
