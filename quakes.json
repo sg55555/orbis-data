@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-17T14:18:24Z",
-  "count": 261,
+  "updated": "2026-07-17T14:31:06Z",
+  "count": 260,
   "points": [
+    {
+      "id": "aka2026oazgqy",
+      "lon": -149.393,
+      "lat": 60.663,
+      "depth": 10.8,
+      "mag": 1.6,
+      "place": "19 km N of Moose Pass, Alaska",
+      "time": 1784298485848,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oazgqy"
+    },
     {
       "id": "hv75003287",
       "lon": -155.374496459961,
@@ -22,6 +32,16 @@
       "place": "25 km SW of Garden City, Texas",
       "time": 1784295978095,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nyrldy"
+    },
+    {
+      "id": "us7000t1b6",
+      "lon": 128.1524,
+      "lat": -7.4921,
+      "depth": 169.721,
+      "mag": 4,
+      "place": "170 km NE of Lospalos, Timor Leste",
+      "time": 1784295492783,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1b6"
     },
     {
       "id": "ci40657170",
@@ -1865,12 +1885,12 @@
     },
     {
       "id": "tx2026nxhoqr",
-      "lon": -101.738,
-      "lat": 32.006,
-      "depth": 3.8182,
+      "lon": -101.741,
+      "lat": 32.009,
+      "depth": 8.0566,
       "mag": 1.7,
       "place": "14 km SSE of Stanton, Texas",
-      "time": 1784231031924,
+      "time": 1784231032375,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nxhoqr"
     },
     {
@@ -2582,36 +2602,6 @@
       "place": "52 km ENE of Ugashik, Alaska",
       "time": 1784213290248,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzdxmt"
-    },
-    {
-      "id": "uu80145426",
-      "lon": -110.794166666667,
-      "lat": 44.7365,
-      "depth": 4.81,
-      "mag": 0.62,
-      "place": "25 km ENE of West Yellowstone, Montana",
-      "time": 1784212183260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145426"
-    },
-    {
-      "id": "nc75397031",
-      "lon": -122.796836853027,
-      "lat": 38.8278350830078,
-      "depth": 2.75,
-      "mag": 1.04,
-      "place": "6 km W of Cobb, CA",
-      "time": 1784211571350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397031"
-    },
-    {
-      "id": "aka2026nzcxox",
-      "lon": -179.174,
-      "lat": 51.515,
-      "depth": 72.7,
-      "mag": 2.4,
-      "place": "180 km WSW of Adak, Alaska",
-      "time": 1784211496932,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzcxox"
     }
   ]
 }
