@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-17T16:15:44Z",
-  "count": 264,
+  "updated": "2026-07-17T16:23:06Z",
+  "count": 263,
   "points": [
+    {
+      "id": "nc75397731",
+      "lon": -122.79133605957,
+      "lat": 38.8216667175293,
+      "depth": 1.02999997138977,
+      "mag": 1.15,
+      "place": "6 km NNW of The Geysers, CA",
+      "time": 1784305001410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397731"
+    },
     {
       "id": "hv75003372",
       "lon": -155.408493041992,
@@ -192,6 +202,16 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1784295422310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657170"
+    },
+    {
+      "id": "uu80145511",
+      "lon": -110.728333333333,
+      "lat": 44.5956666666667,
+      "depth": 9.52,
+      "mag": 0.56,
+      "place": "30 km ESE of West Yellowstone, Montana",
+      "time": 1784294977970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145511"
     },
     {
       "id": "us7000t1b3",
@@ -2612,36 +2632,6 @@
       "place": "24 km SW of Garden City, Texas",
       "time": 1784220106222,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nxbnqx"
-    },
-    {
-      "id": "ci40656490",
-      "lon": -117.740166666667,
-      "lat": 35.9208333333333,
-      "depth": 6.19,
-      "mag": -0.63,
-      "place": "15 km E of Little Lake, CA",
-      "time": 1784218807940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656490"
-    },
-    {
-      "id": "us7000t132",
-      "lon": 176.1827,
-      "lat": 51.83,
-      "depth": 10,
-      "mag": 2.8,
-      "place": "233 km ESE of Attu Station, Alaska",
-      "time": 1784218783534,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t132"
-    },
-    {
-      "id": "tx2026nxapzi",
-      "lon": -104.019,
-      "lat": 31.983,
-      "depth": 9.4324,
-      "mag": 0.7,
-      "place": "27 km S of Malaga, New Mexico",
-      "time": 1784218659103,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nxapzi"
     }
   ]
 }
