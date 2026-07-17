@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-17T02:15:46Z",
-  "count": 295,
+  "updated": "2026-07-17T02:31:06Z",
+  "count": 294,
   "points": [
+    {
+      "id": "ci40656890",
+      "lon": -116.738166666667,
+      "lat": 33.4788333333333,
+      "depth": 15.23,
+      "mag": 0.5,
+      "place": "10 km SW of Anza, CA",
+      "time": 1784255084770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656890"
+    },
+    {
+      "id": "us7000t17e",
+      "lon": 58.3408,
+      "lat": 13.7409,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "Owen Fracture Zone region",
+      "time": 1784253844364,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t17e"
+    },
     {
       "id": "ci40656874",
       "lon": -117.154833333333,
@@ -2922,36 +2942,6 @@
       "place": "4 km SSW of Pāhala, Hawaii",
       "time": 1784169117110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002297"
-    },
-    {
-      "id": "tx2026nvyxtg",
-      "lon": -98.968,
-      "lat": 28.833,
-      "depth": 7.1781,
-      "mag": 1.4,
-      "place": "14 km ESE of Pearsall, Texas",
-      "time": 1784168300654,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nvyxtg"
-    },
-    {
-      "id": "tx2026nvyvzw",
-      "lon": -98.968,
-      "lat": 28.841,
-      "depth": 8.8015,
-      "mag": 1.4,
-      "place": "13 km ESE of Pearsall, Texas",
-      "time": 1784168178925,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nvyvzw"
-    },
-    {
-      "id": "av94311723",
-      "lon": -166.625,
-      "lat": 53.898,
-      "depth": 7.31,
-      "mag": -0.01,
-      "place": "5 km W of Dutch Harbor, Alaska",
-      "time": 1784168150730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94311723"
     }
   ]
 }
