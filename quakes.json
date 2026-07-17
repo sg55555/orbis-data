@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-17T23:15:45Z",
-  "count": 263,
+  "updated": "2026-07-17T23:30:55Z",
+  "count": 265,
   "points": [
+    {
+      "id": "nc75398041",
+      "lon": -122.343002319336,
+      "lat": 41.3144989013672,
+      "depth": 5.61999988555908,
+      "mag": 2.18,
+      "place": "3 km W of Mount Shasta, CA",
+      "time": 1784330408770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398041"
+    },
+    {
+      "id": "ci40657298",
+      "lon": -116.9235,
+      "lat": 33.4193333333333,
+      "depth": 6.55,
+      "mag": 1.87,
+      "place": "6 km WSW of Aguanga, CA",
+      "time": 1784330407810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657298"
+    },
     {
       "id": "tx2026nzkfep",
       "lon": -104.413,
@@ -145,12 +165,12 @@
     },
     {
       "id": "tx2026nzhphf",
-      "lon": -101.93,
-      "lat": 32.1,
-      "depth": 3.8799,
+      "lon": -101.929,
+      "lat": 32.102,
+      "depth": 4.2095,
       "mag": 1.5,
       "place": "13 km WSW of Stanton, Texas",
-      "time": 1784325217002,
+      "time": 1784325216907,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nzhphf"
     },
     {
@@ -232,6 +252,16 @@
       "place": "79 km N of Cruz Bay, U.S. Virgin Islands",
       "time": 1784324277410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524788"
+    },
+    {
+      "id": "us7000t1h3",
+      "lon": -140.8563,
+      "lat": 66.5927,
+      "depth": 14.36,
+      "mag": 3.1,
+      "place": "127 km E of Chalkyitsik, Alaska",
+      "time": 1784323765442,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1h3"
     },
     {
       "id": "nc75397966",
@@ -2622,16 +2652,6 @@
       "place": "24 km NE of San Ardo, CA",
       "time": 1784244709490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397381"
-    },
-    {
-      "id": "ci40656810",
-      "lon": -117.974833333333,
-      "lat": 35.953,
-      "depth": 3.78,
-      "mag": 0.81,
-      "place": "6 km WNW of Little Lake, CA",
-      "time": 1784244496200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656810"
     }
   ]
 }
