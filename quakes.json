@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-17T10:15:48Z",
-  "count": 275,
+  "updated": "2026-07-17T10:31:04Z",
+  "count": 274,
   "points": [
+    {
+      "id": "ci40657090",
+      "lon": -116.029333333333,
+      "lat": 33.2511666666667,
+      "depth": 10.36,
+      "mag": 0.55,
+      "place": "9 km SW of Salton City, CA",
+      "time": 1784283519090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657090"
+    },
     {
       "id": "nc75397611",
       "lon": -121.548164367676,
@@ -2732,26 +2742,6 @@
       "place": "51 km SSW of Skwentna, Alaska",
       "time": 1784197894100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94312428"
-    },
-    {
-      "id": "ci40656250",
-      "lon": -116.619833333333,
-      "lat": 33.4183333333333,
-      "depth": 9.3,
-      "mag": 1.33116066651082,
-      "place": "15 km N of Warner Springs, CA",
-      "time": 1784197664830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656250"
-    },
-    {
-      "id": "tx2026nwowfs",
-      "lon": -104.369,
-      "lat": 31.627,
-      "depth": 2.9805,
-      "mag": 0.6,
-      "place": "60 km S of Whites City, New Mexico",
-      "time": 1784197163903,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nwowfs"
     }
   ]
 }
