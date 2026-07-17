@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-17T01:01:12Z",
-  "count": 304,
+  "updated": "2026-07-17T01:07:23Z",
+  "count": 305,
   "points": [
+    {
+      "id": "ci40656850",
+      "lon": -116.738166666667,
+      "lat": 33.955,
+      "depth": 18.23,
+      "mag": 2.54,
+      "place": "6 km NE of Cabazon, CA",
+      "time": 1784249931480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656850"
+    },
     {
       "id": "nc75397421",
       "lon": -122.612998962402,
@@ -2414,6 +2424,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656154"
     },
     {
+      "id": "hv75002417",
+      "lon": -155.209333333333,
+      "lat": 19.1128333333333,
+      "depth": 28.13,
+      "mag": 1.37,
+      "place": "30 km ESE of Pāhala, Hawaii",
+      "time": 1784179455730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002417"
+    },
+    {
       "id": "nc75396901",
       "lon": -122.816665649414,
       "lat": 38.8301658630371,
@@ -3032,16 +3052,6 @@
       "place": "6 km WNW of The Geysers, CA",
       "time": 1784164173290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396761"
-    },
-    {
-      "id": "aka2026nyclfc",
-      "lon": -173.715,
-      "lat": 50.711,
-      "depth": 20,
-      "mag": 2.8,
-      "place": "168 km SSE of Atka, Alaska",
-      "time": 1784163860444,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyclfc"
     }
   ]
 }
