@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-17T17:15:50Z",
-  "count": 275,
+  "updated": "2026-07-17T17:31:05Z",
+  "count": 276,
   "points": [
+    {
+      "id": "nc75397766",
+      "lon": -122.826164245605,
+      "lat": 38.8320007324219,
+      "depth": 4.07000017166138,
+      "mag": 0.7,
+      "place": "9 km NW of The Geysers, CA",
+      "time": 1784309221720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397766"
+    },
     {
       "id": "aka2026obetue",
       "lon": -150.987,
@@ -12,6 +22,16 @@
       "place": "9 km ESE of Tyonek, Alaska",
       "time": 1784308391611,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026obetue"
+    },
+    {
+      "id": "pr71524758",
+      "lon": -66.73,
+      "lat": 18.013,
+      "depth": 15.81,
+      "mag": 2.05,
+      "place": "2 km NW of Tallaboa, Puerto Rico",
+      "time": 1784308359360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524758"
     },
     {
       "id": "nc75397756",
@@ -42,6 +62,16 @@
       "place": "4 km SSW of Tyonek, Alaska",
       "time": 1784307899716,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026obemtt"
+    },
+    {
+      "id": "us7000t1ey",
+      "lon": -93.0323,
+      "lat": 14.3368,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "78 km WSW of Puerto Madero, Mexico",
+      "time": 1784307818011,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ey"
     },
     {
       "id": "ci40657178",
@@ -82,6 +112,16 @@
       "place": "1 km WSW of Pāhala, Hawaii",
       "time": 1784306094470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75003387"
+    },
+    {
+      "id": "uu80145566",
+      "lon": -110.726166666667,
+      "lat": 44.5868333333333,
+      "depth": 8.3,
+      "mag": 1.26,
+      "place": "31 km ESE of West Yellowstone, Montana",
+      "time": 1784305375430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145566"
     },
     {
       "id": "us7000t1ej",
@@ -154,13 +194,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145551"
     },
     {
+      "id": "us7000t1ep",
+      "lon": -92.5836,
+      "lat": 14.4643,
+      "depth": 64.924,
+      "mag": 5.1,
+      "place": "33 km SSW of Puerto Madero, Mexico",
+      "time": 1784304086495,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ep"
+    },
+    {
       "id": "us7000t1dz",
-      "lon": -93.015,
-      "lat": 14.3515,
-      "depth": 35,
+      "lon": -92.7007,
+      "lat": 14.4035,
+      "depth": 73.875,
       "mag": 4.9,
-      "place": "75 km WSW of Puerto Madero, Mexico",
-      "time": 1784304050835,
+      "place": "46 km SW of Puerto Madero, Mexico",
+      "time": 1784304054702,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1dz"
     },
     {
@@ -2712,46 +2762,6 @@
       "place": "76 km NE of Tonopah, Nevada",
       "time": 1784223185996,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921794"
-    },
-    {
-      "id": "aka2026nzjbik",
-      "lon": 176.078,
-      "lat": 51.969,
-      "depth": 26.9,
-      "mag": 2.9,
-      "place": "219 km ESE of Attu Station, Alaska",
-      "time": 1784222541248,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzjbik"
-    },
-    {
-      "id": "ci40656530",
-      "lon": -117.518166666667,
-      "lat": 35.7085,
-      "depth": 2.86,
-      "mag": 0.67,
-      "place": "12 km WSW of Searles Valley, CA",
-      "time": 1784222298460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656530"
-    },
-    {
-      "id": "us7000t12r",
-      "lon": 176.1843,
-      "lat": 51.8535,
-      "depth": 22.823,
-      "mag": 4.1,
-      "place": "232 km ESE of Attu Station, Alaska",
-      "time": 1784222280152,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t12r"
-    },
-    {
-      "id": "tx2026nxcpdb",
-      "lon": -104.224,
-      "lat": 31.769,
-      "depth": 6.8304,
-      "mag": 1.7,
-      "place": "47 km SSE of Whites City, New Mexico",
-      "time": 1784222233253,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nxcpdb"
     }
   ]
 }
