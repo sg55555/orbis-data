@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-17T21:31:06Z",
+  "updated": "2026-07-17T21:45:48Z",
   "count": 259,
   "points": [
+    {
+      "id": "nc75397971",
+      "lon": -122.796997070312,
+      "lat": 38.8133316040039,
+      "depth": 2.20000004768372,
+      "mag": 0.42,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1784324324350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397971"
+    },
     {
       "id": "nc75397966",
       "lon": -120.792503356934,
@@ -142,6 +152,16 @@
       "place": "63 km WNW of Anchor Point, Alaska",
       "time": 1784315634186,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026obiuly"
+    },
+    {
+      "id": "us7000t1g1",
+      "lon": -93.008,
+      "lat": 14.1918,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "86 km SW of Puerto Madero, Mexico",
+      "time": 1784315382028,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1g1"
     },
     {
       "id": "hv75003452",
@@ -2572,26 +2592,6 @@
       "place": "14 km SW of Searles Valley, CA",
       "time": 1784238493840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656754"
-    },
-    {
-      "id": "aka2026nzrlvr",
-      "lon": -151.426,
-      "lat": 60.776,
-      "depth": 76.8,
-      "mag": 2.1,
-      "place": "12 km NW of Nikiski, Alaska",
-      "time": 1784237673326,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzrlvr"
-    },
-    {
-      "id": "ci40656730",
-      "lon": -116.227333333333,
-      "lat": 33.882,
-      "depth": 8.39,
-      "mag": 1.14,
-      "place": "17 km ENE of Thousand Palms, CA",
-      "time": 1784237545720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656730"
     }
   ]
 }
