@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-17T19:01:11Z",
+  "updated": "2026-07-17T19:15:41Z",
   "count": 275,
   "points": [
     {
+      "id": "hv75003452",
+      "lon": -155.484161376953,
+      "lat": 19.1695003509521,
+      "depth": 27.0699996948242,
+      "mag": 2.14,
+      "place": "3 km S of Pāhala, Hawaii",
+      "time": 1784314682620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75003452"
+    },
+    {
       "id": "ci40657210",
-      "lon": -116.073997497559,
-      "lat": 33.2481651306152,
-      "depth": 3.14000010490417,
-      "mag": 1.35567947047348,
+      "lon": -116.069833333333,
+      "lat": 33.2431666666667,
+      "depth": 3.57,
+      "mag": 1.34,
       "place": "12 km WSW of Salton City, CA",
-      "time": 1784314659890,
+      "time": 1784314659970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657210"
     },
     {
@@ -895,12 +905,12 @@
     },
     {
       "id": "ci40657114",
-      "lon": -116.741333333333,
-      "lat": 33.4805,
-      "depth": 14.11,
-      "mag": 2.16,
-      "place": "10 km SW of Anza, CA",
-      "time": 1784284632360,
+      "lon": -116.7415,
+      "lat": 33.4783333333333,
+      "depth": 14.92,
+      "mag": 0.17,
+      "place": "11 km SW of Anza, CA",
+      "time": 1784284632230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657114"
     },
     {
@@ -1085,12 +1095,12 @@
     },
     {
       "id": "nn00921821",
-      "lon": -117.9099,
-      "lat": 38.1584,
-      "depth": 2.5294,
-      "mag": 1.65,
-      "place": "31 km SE of Mina, Nevada",
-      "time": 1784278150830,
+      "lon": -117.9002,
+      "lat": 38.1499,
+      "depth": 10.1371,
+      "mag": 1.53,
+      "place": "32 km SE of Mina, Nevada",
+      "time": 1784278151274,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921821"
     },
     {
@@ -1522,6 +1532,16 @@
       "place": "15 km NW of Susitna, Alaska",
       "time": 1784267922868,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oaigko"
+    },
+    {
+      "id": "ci40656970",
+      "lon": -118.559,
+      "lat": 35.318,
+      "depth": 5.18,
+      "mag": 0.27,
+      "place": "23 km NNW of Tehachapi, CA",
+      "time": 1784267911620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656970"
     },
     {
       "id": "aka2026oaievo",
@@ -2075,12 +2095,12 @@
     },
     {
       "id": "ci40656818",
-      "lon": -117.2805,
-      "lat": 34.0376666666667,
-      "depth": 14.01,
-      "mag": 1.14,
-      "place": "2 km WSW of Loma Linda, CA",
-      "time": 1784246661570,
+      "lon": -117.301,
+      "lat": 34.0683333333333,
+      "depth": 16.05,
+      "mag": 1.05,
+      "place": "1 km ESE of Colton, CA",
+      "time": 1784246660820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656818"
     },
     {
@@ -2685,12 +2705,12 @@
     },
     {
       "id": "ci40656642",
-      "lon": -117.838,
-      "lat": 33.9231666666667,
-      "depth": 4.84,
-      "mag": 1.1,
+      "lon": -117.831833333333,
+      "lat": 33.9246666666667,
+      "depth": 5.81,
+      "mag": 1.09,
       "place": "4 km NNW of Yorba Linda, CA",
-      "time": 1784230272680,
+      "time": 1784230272710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656642"
     },
     {
@@ -2732,26 +2752,6 @@
       "place": "11 km N of Redwood Valley, CA",
       "time": 1784229334550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397236"
-    },
-    {
-      "id": "us7000t13l",
-      "lon": -79.591,
-      "lat": 29.7051,
-      "depth": 0,
-      "mag": 3.9,
-      "place": "147 km ENE of Ponce Inlet, Florida",
-      "time": 1784228651608,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l"
-    },
-    {
-      "id": "aka2026nzmkxn",
-      "lon": 176.086,
-      "lat": 51.994,
-      "depth": 20,
-      "mag": 3.2,
-      "place": "218 km ESE of Attu Station, Alaska",
-      "time": 1784228601133,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzmkxn"
     }
   ]
 }
