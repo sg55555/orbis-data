@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-17T07:01:14Z",
-  "count": 262,
+  "updated": "2026-07-17T07:15:48Z",
+  "count": 259,
   "points": [
+    {
+      "id": "nc75397516",
+      "lon": -122.856002807617,
+      "lat": 38.8273315429688,
+      "depth": 2.33999991416931,
+      "mag": 1.18,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": 1784271905780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397516"
+    },
+    {
+      "id": "nc75397511",
+      "lon": -122.790496826172,
+      "lat": 38.8221664428711,
+      "depth": 1.32000005245209,
+      "mag": 1.08,
+      "place": "6 km NNW of The Geysers, CA",
+      "time": 1784271598050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397511"
+    },
     {
       "id": "aka2026oajwtd",
       "lon": -159.783,
@@ -12,6 +32,16 @@
       "place": "18 km W of Ivanof Bay, Alaska",
       "time": 1784270813466,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oajwtd"
+    },
+    {
+      "id": "us7000t18c",
+      "lon": -178.5414,
+      "lat": -21.0571,
+      "depth": 540.915,
+      "mag": 4.4,
+      "place": "Fiji region",
+      "time": 1784270650451,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t18c"
     },
     {
       "id": "nc75397506",
@@ -384,26 +414,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656874"
     },
     {
-      "id": "aka2026nzzwyv",
-      "lon": -154.572,
-      "lat": 58.39,
-      "depth": 5,
-      "mag": 0.6,
-      "place": "91 km N of Karluk, Alaska",
-      "time": 1784252834906,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzzwyv"
-    },
-    {
-      "id": "aka2026nzzocz",
-      "lon": -150.732,
-      "lat": 64.202,
-      "depth": 6.4,
-      "mag": 1.4,
-      "place": "75 km W of Clear, Alaska",
-      "time": 1784252221743,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzzocz"
-    },
-    {
       "id": "nc75397441",
       "lon": -122.811996459961,
       "lat": 38.8230018615723,
@@ -432,16 +442,6 @@
       "place": "29 km NW of Tatitlek, Alaska",
       "time": 1784251290642,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzzaqj"
-    },
-    {
-      "id": "aka2026nzysmt",
-      "lon": -141.284,
-      "lat": 60.339,
-      "depth": 22.9,
-      "mag": 1.1,
-      "place": "123 km NW of Yakutat, Alaska",
-      "time": 1784250727137,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzysmt"
     },
     {
       "id": "us7000t171",
@@ -512,16 +512,6 @@
       "place": "79 km ENE of McCarthy, Alaska",
       "time": 1784248567533,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzxnhk"
-    },
-    {
-      "id": "aka2026nzxkiq",
-      "lon": -154.964,
-      "lat": 58.262,
-      "depth": 5,
-      "mag": 0.9,
-      "place": "82 km NNW of Karluk, Alaska",
-      "time": 1784248363723,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzxkiq"
     },
     {
       "id": "nc75397411",
@@ -812,6 +802,16 @@
       "place": "southern Mid-Atlantic Ridge",
       "time": 1784236593262,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15b"
+    },
+    {
+      "id": "aka2026nzqchx",
+      "lon": -139.487,
+      "lat": 60.427,
+      "depth": 4.5,
+      "mag": 1.9,
+      "place": "98 km N of Yakutat, Alaska",
+      "time": 1784235209152,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzqchx"
     },
     {
       "id": "aka2026nzpkzt",
@@ -2592,36 +2592,6 @@
       "place": "5 km NNW of The Geysers, CA",
       "time": 1784186255960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75396931"
-    },
-    {
-      "id": "tx2026nwirbn",
-      "lon": -98.95,
-      "lat": 28.823,
-      "depth": 8.5166,
-      "mag": 1.7,
-      "place": "16 km ESE of Pearsall, Texas",
-      "time": 1784185939663,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nwirbn"
-    },
-    {
-      "id": "aka2026nyorgq",
-      "lon": -150.979,
-      "lat": 60.469,
-      "depth": 15,
-      "mag": 1.7,
-      "place": "4 km ESE of Soldotna, Alaska",
-      "time": 1784185870686,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyorgq"
-    },
-    {
-      "id": "ci40656194",
-      "lon": -116.2605,
-      "lat": 33.294,
-      "depth": 7.34,
-      "mag": 0.4,
-      "place": "11 km ENE of Borrego Springs, CA",
-      "time": 1784185458090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656194"
     }
   ]
 }
