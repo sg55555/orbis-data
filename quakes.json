@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-17T20:31:39Z",
-  "count": 261,
+  "updated": "2026-07-17T20:45:44Z",
+  "count": 260,
   "points": [
+    {
+      "id": "tx2026nzfdqy",
+      "lon": -102.358,
+      "lat": 32.465,
+      "depth": 0,
+      "mag": 1.2,
+      "place": "23 km NE of Andrews, Texas",
+      "time": 1784320801786,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nzfdqy"
+    },
+    {
+      "id": "tx2026nzetnu",
+      "lon": -101.682,
+      "lat": 31.725,
+      "depth": 2.7547,
+      "mag": 2.1,
+      "place": "24 km SW of Garden City, Texas",
+      "time": 1784320253025,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nzetnu"
+    },
     {
       "id": "nc75397926",
       "lon": -121.447166442871,
@@ -294,6 +314,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ey"
     },
     {
+      "id": "us7000t1f5",
+      "lon": -93.2126,
+      "lat": 14.2737,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "98 km WSW of Puerto Madero, Mexico",
+      "time": 1784307458198,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1f5"
+    },
+    {
       "id": "ci40657178",
       "lon": -117.693666666667,
       "lat": 35.91,
@@ -532,16 +562,6 @@
       "place": "30 km ESE of West Yellowstone, Montana",
       "time": 1784303367470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145536"
-    },
-    {
-      "id": "tx2026nyvmtl",
-      "lon": -104.177,
-      "lat": 31.27,
-      "depth": 0,
-      "mag": 1.8,
-      "place": "36 km W of Toyah, Texas",
-      "time": 1784303294925,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nyvmtl"
     },
     {
       "id": "aka2026obbrqe",
@@ -2582,36 +2602,6 @@
       "place": "98 km N of Yakutat, Alaska",
       "time": 1784235209152,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzqchx"
-    },
-    {
-      "id": "aka2026nzpkzt",
-      "lon": -148.443,
-      "lat": 61.031,
-      "depth": 0,
-      "mag": 1.8,
-      "place": "31 km NNE of Whittier, Alaska",
-      "time": 1784234015161,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzpkzt"
-    },
-    {
-      "id": "aka2026nzplat",
-      "lon": -163.386,
-      "lat": 54.537,
-      "depth": 5.5,
-      "mag": 2.3,
-      "place": "35 km S of False Pass, Alaska",
-      "time": 1784234010319,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzplat"
-    },
-    {
-      "id": "av94313253",
-      "lon": -178.8155,
-      "lat": 51.7903333333333,
-      "depth": 11.76,
-      "mag": 0.45,
-      "place": "150 km W of Adak, Alaska",
-      "time": 1784234004860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94313253"
     }
   ]
 }
