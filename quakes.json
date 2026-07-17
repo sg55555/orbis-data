@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-17T13:31:09Z",
-  "count": 266,
+  "updated": "2026-07-17T13:45:45Z",
+  "count": 267,
   "points": [
     {
+      "id": "ci40657170",
+      "lon": -117.808333333333,
+      "lat": 35.316,
+      "depth": 7.38,
+      "mag": 1.17,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1784295422310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657170"
+    },
+    {
       "id": "ci40657162",
-      "lon": -115.447998046875,
-      "lat": 32.4075012207031,
-      "depth": 10.3299999237061,
-      "mag": 2.23556982501601,
+      "lon": -115.442,
+      "lat": 32.4035,
+      "depth": 11.48,
+      "mag": 2.15,
       "place": "20 km SSW of Puebla, B.C., MX",
-      "time": 1784294845330,
+      "time": 1784294845210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657162"
     },
     {
@@ -42,6 +52,16 @@
       "place": "22 km ESE of Naalehu, Hawaii",
       "time": 1784294240150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75003272"
+    },
+    {
+      "id": "us7000t1b0",
+      "lon": -177.9086,
+      "lat": -32.9894,
+      "depth": 10,
+      "mag": 5,
+      "place": "south of the Kermadec Islands",
+      "time": 1784294219268,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1b0"
     },
     {
       "id": "ci40657154",
@@ -2652,16 +2672,6 @@
       "place": "38 km SSE of Mammoth, Wyoming",
       "time": 1784209851690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145416"
-    },
-    {
-      "id": "aka2026nzblmc",
-      "lon": -178.131,
-      "lat": 51.337,
-      "depth": 17.7,
-      "mag": 2.1,
-      "place": "119 km WSW of Adak, Alaska",
-      "time": 1784208859248,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nzblmc"
     }
   ]
 }
