@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-17T04:01:18Z",
+  "updated": "2026-07-17T04:15:46Z",
   "count": 282,
   "points": [
+    {
+      "id": "ci40656922",
+      "lon": -116.749666666667,
+      "lat": 33.4703333333333,
+      "depth": 14.6,
+      "mag": 1.47,
+      "place": "11 km ENE of Aguanga, CA",
+      "time": 1784261246260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656922"
+    },
     {
       "id": "nc75397471",
       "lon": -120.388336181641,
@@ -12,6 +22,16 @@
       "place": "12 km NE of Lake Davis, CA",
       "time": 1784260760680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397471"
+    },
+    {
+      "id": "hv75003087",
+      "lon": -155.449340820312,
+      "lat": 19.2118339538574,
+      "depth": 29.6800003051758,
+      "mag": 2.27,
+      "place": "3 km ENE of Pāhala, Hawaii",
+      "time": 1784260691470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75003087"
     },
     {
       "id": "hv75003082",
@@ -2802,26 +2822,6 @@
       "place": "35 km E of McKinney Acres, Texas",
       "time": 1784175349859,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nwcuxh"
-    },
-    {
-      "id": "aka2026nyiuee",
-      "lon": -169.837,
-      "lat": 52.372,
-      "depth": 14.2,
-      "mag": 2.8,
-      "place": "91 km SW of Nikolski, Alaska",
-      "time": 1784175271045,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyiuee"
-    },
-    {
-      "id": "aka2026nyirtw",
-      "lon": -154.856,
-      "lat": 57.144,
-      "depth": 57.9,
-      "mag": 1.7,
-      "place": "47 km WNW of Akhiok, Alaska",
-      "time": 1784175103150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyirtw"
     }
   ]
 }
