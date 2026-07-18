@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-18T07:45:46Z",
-  "count": 287,
+  "updated": "2026-07-18T08:01:08Z",
+  "count": 285,
   "points": [
     {
       "id": "aka2026ochtfp",
@@ -35,12 +35,12 @@
     },
     {
       "id": "nn00921891",
-      "lon": -116.3343,
-      "lat": 36.6769,
-      "depth": 12.9604,
-      "mag": 3.62,
+      "lon": -116.3333,
+      "lat": 36.6764,
+      "depth": 9.2472,
+      "mag": 3.64,
       "place": "45 km SE of Beatty, Nevada",
-      "time": 1784360042371,
+      "time": 1784360043252,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00921891"
     },
     {
@@ -62,6 +62,16 @@
       "place": "7 km SSE of Amber, Oklahoma",
       "time": 1784359742136,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026nyik"
+    },
+    {
+      "id": "us7000t1k4",
+      "lon": -92.9726,
+      "lat": 14.2437,
+      "depth": 35,
+      "mag": 4.4,
+      "place": "79 km SW of Puerto Madero, Mexico",
+      "time": 1784359247704,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1k4"
     },
     {
       "id": "aka2026ochauu",
@@ -2842,36 +2852,6 @@
       "place": "8 km E of Coso Junction, CA",
       "time": 1784275255790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657018"
-    },
-    {
-      "id": "ci40657010",
-      "lon": -117.861833333333,
-      "lat": 36.0405,
-      "depth": 2.56,
-      "mag": 2.02,
-      "place": "8 km E of Coso Junction, CA",
-      "time": 1784275090430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657010"
-    },
-    {
-      "id": "nc75397551",
-      "lon": -121.68766784668,
-      "lat": 36.9318351745605,
-      "depth": 11.6099996566772,
-      "mag": 2.96,
-      "place": "5 km ESE of Interlaken, CA",
-      "time": 1784274728130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397551"
-    },
-    {
-      "id": "nc75397546",
-      "lon": -122.932502746582,
-      "lat": 38.7583351135254,
-      "depth": 3.50999999046326,
-      "mag": 1,
-      "place": "9 km SE of Cloverdale, CA",
-      "time": 1784274596340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397546"
     }
   ]
 }
