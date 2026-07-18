@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-18T00:01:20Z",
-  "count": 267,
+  "updated": "2026-07-18T00:15:48Z",
+  "count": 265,
   "points": [
+    {
+      "id": "ci40657314",
+      "lon": -116.0405,
+      "lat": 33.7435,
+      "depth": 1.73,
+      "mag": 0.8,
+      "place": "14 km ENE of Coachella, CA",
+      "time": 1784333437800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657314"
+    },
     {
       "id": "aka2026obrzbv",
       "lon": -150.515,
@@ -67,10 +77,10 @@
       "id": "tx2026nzkfep",
       "lon": -104.413,
       "lat": 31.655,
-      "depth": 4.5455,
+      "depth": 4.5514,
       "mag": 1.5,
       "place": "57 km S of Whites City, New Mexico",
-      "time": 1784329939379,
+      "time": 1784329939378,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nzkfep"
     },
     {
@@ -2642,36 +2652,6 @@
       "place": "9 km ESE of Cloverdale, CA",
       "time": 1784247966120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397411"
-    },
-    {
-      "id": "uu80145466",
-      "lon": -110.811833333333,
-      "lat": 44.4266666666667,
-      "depth": 1.81,
-      "mag": 1.37,
-      "place": "34 km SE of West Yellowstone, Montana",
-      "time": 1784246836350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145466"
-    },
-    {
-      "id": "ci40656818",
-      "lon": -117.301,
-      "lat": 34.0683333333333,
-      "depth": 16.05,
-      "mag": 1.05,
-      "place": "1 km ESE of Colton, CA",
-      "time": 1784246660820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656818"
-    },
-    {
-      "id": "av94313548",
-      "lon": -178.884333333333,
-      "lat": 51.7893333333333,
-      "depth": 4.99,
-      "mag": 1.3,
-      "place": "155 km W of Adak, Alaska",
-      "time": 1784246507780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94313548"
     }
   ]
 }
