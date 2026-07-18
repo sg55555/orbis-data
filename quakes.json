@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-18T11:31:04Z",
-  "count": 287,
+  "updated": "2026-07-18T11:45:44Z",
+  "count": 286,
   "points": [
+    {
+      "id": "tx2026oaitfg",
+      "lon": -104.251,
+      "lat": 31.642,
+      "depth": 3.3001,
+      "mag": 1.9,
+      "place": "56 km NW of Toyah, Texas",
+      "time": 1784374376777,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oaitfg"
+    },
     {
       "id": "tx2026oaiioo",
       "lon": -104.236,
@@ -22,6 +32,16 @@
       "place": "16 km SSE of Westbrook, Texas",
       "time": 1784373435481,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oaifwm"
+    },
+    {
+      "id": "us7000t1ld",
+      "lon": -116.1102,
+      "lat": -24.3838,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "southern East Pacific Rise",
+      "time": 1784373177724,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ld"
     },
     {
       "id": "ci40657498",
@@ -2842,36 +2862,6 @@
       "place": "206 km N of Hadibu, Yemen",
       "time": 1784288919385,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t19p"
-    },
-    {
-      "id": "nc75397626",
-      "lon": -121.448501586914,
-      "lat": 36.9678344726562,
-      "depth": 4.92000007629395,
-      "mag": 1.58,
-      "place": "11 km ESE of Gilroy, CA",
-      "time": 1784288730420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397626"
-    },
-    {
-      "id": "aka2026oatrqe",
-      "lon": -148.658,
-      "lat": 63.236,
-      "depth": 78.7,
-      "mag": 1.4,
-      "place": "22 km SE of Cantwell, Alaska",
-      "time": 1784288449984,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oatrqe"
-    },
-    {
-      "id": "tx2026nyndgi",
-      "lon": -101.501,
-      "lat": 32.338,
-      "depth": 7.5684,
-      "mag": 1.4,
-      "place": "9 km NNW of Big Spring, Texas",
-      "time": 1784288178573,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nyndgi"
     }
   ]
 }
