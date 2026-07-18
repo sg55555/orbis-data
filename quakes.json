@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-18T07:01:06Z",
-  "count": 283,
+  "updated": "2026-07-18T07:15:45Z",
+  "count": 284,
   "points": [
+    {
+      "id": "ci40657458",
+      "lon": -116.779333333333,
+      "lat": 33.7933333333333,
+      "depth": 12.39,
+      "mag": 1.1,
+      "place": "8 km NW of Idyllwild, CA",
+      "time": 1784358518820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657458"
+    },
+    {
+      "id": "hv75003682",
+      "lon": -155.362503051758,
+      "lat": 19.0718326568604,
+      "depth": 34.6599998474121,
+      "mag": 2.11,
+      "place": "18 km SE of Pāhala, Hawaii",
+      "time": 1784357933030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75003682"
+    },
     {
       "id": "hv75003677",
       "lon": -155.376663208008,
@@ -12,6 +32,16 @@
       "place": "18 km SE of Pāhala, Hawaii",
       "time": 1784357760550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75003677"
+    },
+    {
+      "id": "us7000t1jy",
+      "lon": -93.1511,
+      "lat": 14.3804,
+      "depth": 35,
+      "mag": 5.3,
+      "place": "87 km WSW of Puerto Madero, Mexico",
+      "time": 1784357510543,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jy"
     },
     {
       "id": "ci40657450",
@@ -2812,26 +2842,6 @@
       "place": "5 km S of Ponce, Puerto Rico",
       "time": 1784273086960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524708"
-    },
-    {
-      "id": "nc75397516",
-      "lon": -122.856002807617,
-      "lat": 38.8273315429688,
-      "depth": 2.33999991416931,
-      "mag": 1.18,
-      "place": "10 km WNW of The Geysers, CA",
-      "time": 1784271905780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397516"
-    },
-    {
-      "id": "tx2026nyedad",
-      "lon": -101.536,
-      "lat": 32.326,
-      "depth": 5.3955,
-      "mag": 1.1,
-      "place": "9 km NNW of Big Spring, Texas",
-      "time": 1784271856888,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nyedad"
     }
   ]
 }
