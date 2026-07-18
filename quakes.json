@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-18T08:30:59Z",
-  "count": 283,
+  "updated": "2026-07-18T08:45:46Z",
+  "count": 281,
   "points": [
+    {
+      "id": "aka2026ocjqde",
+      "lon": -141.24,
+      "lat": 60.272,
+      "depth": 3,
+      "mag": 3.1,
+      "place": "116 km NW of Yakutat, Alaska",
+      "time": 1784363912180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ocjqde"
+    },
     {
       "id": "ci40657490",
       "lon": -117.739,
@@ -12,6 +22,16 @@
       "place": "9 km WSW of Pinon Hills, CA",
       "time": 1784362980020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657490"
+    },
+    {
+      "id": "us7000t1kf",
+      "lon": 103.7876,
+      "lat": -6.6034,
+      "depth": 23.732,
+      "mag": 4.9,
+      "place": "208 km SW of Bandar Lampung, Indonesia",
+      "time": 1784362902737,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1kf"
     },
     {
       "id": "nc75398266",
@@ -2792,46 +2812,6 @@
       "place": "78 km NNW of Karluk, Alaska",
       "time": 1784278130250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94314343"
-    },
-    {
-      "id": "ci40657050",
-      "lon": -117.8615,
-      "lat": 36.0393333333333,
-      "depth": 2.91,
-      "mag": 0.82,
-      "place": "8 km E of Coso Junction, CA",
-      "time": 1784277589500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657050"
-    },
-    {
-      "id": "nc75397586",
-      "lon": -122.786666870117,
-      "lat": 38.8141670227051,
-      "depth": 1.27999997138977,
-      "mag": 0.7,
-      "place": "5 km NNW of The Geysers, CA",
-      "time": 1784277290790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397586"
-    },
-    {
-      "id": "ci40657042",
-      "lon": -117.862166666667,
-      "lat": 36.0383333333333,
-      "depth": 3.09,
-      "mag": 0.58,
-      "place": "8 km E of Coso Junction, CA",
-      "time": 1784277221450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657042"
-    },
-    {
-      "id": "ci40657034",
-      "lon": -116.228666666667,
-      "lat": 33.8825,
-      "depth": 8.21,
-      "mag": 2.12,
-      "place": "16 km ENE of Thousand Palms, CA",
-      "time": 1784277048370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657034"
     }
   ]
 }
