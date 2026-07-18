@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-18T20:30:58Z",
-  "count": 262,
+  "updated": "2026-07-18T20:45:45Z",
+  "count": 260,
   "points": [
+    {
+      "id": "ci40657666",
+      "lon": -116.734333333333,
+      "lat": 34.002,
+      "depth": 13.42,
+      "mag": 0.72,
+      "place": "11 km NNE of Cabazon, CA",
+      "time": 1784406980860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657666"
+    },
     {
       "id": "nc75398536",
       "lon": -122.782333374023,
@@ -245,12 +255,12 @@
     },
     {
       "id": "uw714054462",
-      "lon": -122.150665283203,
-      "lat": 46.2036666870117,
-      "depth": 8.43000030517578,
-      "mag": 1.42999995,
+      "lon": -122.153833333333,
+      "lat": 46.2046666666667,
+      "depth": 6.78,
+      "mag": 0.41,
       "place": "39 km NE of Amboy, Washington",
-      "time": 1784396947720,
+      "time": 1784396947830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714054462"
     },
     {
@@ -2592,36 +2602,6 @@
       "place": "32 km NW of Toyah, Texas",
       "time": 1784322394815,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nzgavq"
-    },
-    {
-      "id": "aka2026oblvfj",
-      "lon": -141.055,
-      "lat": 61.333,
-      "depth": 9.9,
-      "mag": 1.4,
-      "place": "100 km E of McCarthy, Alaska",
-      "time": 1784321083346,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oblvfj"
-    },
-    {
-      "id": "tx2026nzfdqy",
-      "lon": -102.358,
-      "lat": 32.465,
-      "depth": 0,
-      "mag": 1.2,
-      "place": "23 km NE of Andrews, Texas",
-      "time": 1784320801786,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nzfdqy"
-    },
-    {
-      "id": "tx2026nzetnu",
-      "lon": -101.689,
-      "lat": 31.719,
-      "depth": 7.4707,
-      "mag": 2.3,
-      "place": "25 km SW of Garden City, Texas",
-      "time": 1784320253160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nzetnu"
     }
   ]
 }
