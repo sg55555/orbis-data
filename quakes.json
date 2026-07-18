@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-18T22:01:08Z",
-  "count": 257,
+  "updated": "2026-07-18T22:22:55Z",
+  "count": 254,
   "points": [
+    {
+      "id": "ci40657706",
+      "lon": -117.649,
+      "lat": 35.8105,
+      "depth": 7.79,
+      "mag": 1.32,
+      "place": "21 km N of Ridgecrest, CA",
+      "time": 1784412169980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657706"
+    },
     {
       "id": "us7000t1nr",
       "lon": -92.7343,
@@ -55,12 +65,12 @@
     },
     {
       "id": "tx2026obbkyt",
-      "lon": -101.898,
-      "lat": 32.42,
-      "depth": 4.0983,
-      "mag": 1.1,
-      "place": "20 km SW of Ackerly, Texas",
-      "time": 1784408231015,
+      "lon": -104.309,
+      "lat": 31.829,
+      "depth": 0,
+      "mag": 1.5,
+      "place": "38 km S of Whites City, New Mexico",
+      "time": 1784408206095,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026obbkyt"
     },
     {
@@ -2364,6 +2374,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657298"
     },
     {
+      "id": "aka2026obqxdo",
+      "lon": -150.041,
+      "lat": 61.7,
+      "depth": 48.2,
+      "mag": 1.8,
+      "place": "5 km S of Willow, Alaska",
+      "time": 1784330213858,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026obqxdo"
+    },
+    {
       "id": "tx2026nzkfep",
       "lon": -104.413,
       "lat": 31.655,
@@ -2522,56 +2542,6 @@
       "place": "6 km NNW of The Geysers, CA",
       "time": 1784327024240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398011"
-    },
-    {
-      "id": "ci40657274",
-      "lon": -117.038666666667,
-      "lat": 34.9241666666667,
-      "depth": 9.99,
-      "mag": 1.81,
-      "place": "3 km NNW of Barstow, CA",
-      "time": 1784326722200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657274"
-    },
-    {
-      "id": "us7000t1hd",
-      "lon": -92.9584,
-      "lat": 14.2237,
-      "depth": 35,
-      "mag": 5,
-      "place": "79 km SW of Puerto Madero, Mexico",
-      "time": 1784326386825,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1hd"
-    },
-    {
-      "id": "aka2026oboqaw",
-      "lon": 176.055,
-      "lat": 51.974,
-      "depth": 20,
-      "mag": 3.5,
-      "place": "218 km ESE of Attu Station, Alaska",
-      "time": 1784326122228,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oboqaw"
-    },
-    {
-      "id": "nc75398001",
-      "lon": -122.791000366211,
-      "lat": 38.811164855957,
-      "depth": 1.37000000476837,
-      "mag": 0.77,
-      "place": "5 km NW of The Geysers, CA",
-      "time": 1784326021340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398001"
-    },
-    {
-      "id": "ci40657266",
-      "lon": -117.687,
-      "lat": 35.872,
-      "depth": 5.32,
-      "mag": 1.19,
-      "place": "21 km ESE of Little Lake, CA",
-      "time": 1784325975000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657266"
     }
   ]
 }
