@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-18T17:15:45Z",
-  "count": 260,
+  "updated": "2026-07-18T17:30:59Z",
+  "count": 255,
   "points": [
+    {
+      "id": "hv75003857",
+      "lon": -155.426162719727,
+      "lat": 19.2181663513184,
+      "depth": 1.92999994754791,
+      "mag": 1.72,
+      "place": "5 km ENE of Pāhala, Hawaii",
+      "time": 1784395058710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75003857"
+    },
     {
       "id": "ci40657610",
       "lon": -117.8995,
@@ -2542,66 +2552,6 @@
       "place": "14 km ESE of Pearsall, Texas",
       "time": 1784310694548,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nyzouz"
-    },
-    {
-      "id": "nc75397771",
-      "lon": -122.699501037598,
-      "lat": 38.765998840332,
-      "depth": 1.49000000953674,
-      "mag": 1.06,
-      "place": "1 km SSW of Anderson Springs, CA",
-      "time": 1784309394840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397771"
-    },
-    {
-      "id": "ci40657194",
-      "lon": -116.449166666667,
-      "lat": 33.4825,
-      "depth": 10.68,
-      "mag": 0.7,
-      "place": "22 km ESE of Anza, CA",
-      "time": 1784309361150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657194"
-    },
-    {
-      "id": "nc75397766",
-      "lon": -122.826164245605,
-      "lat": 38.8320007324219,
-      "depth": 4.07000017166138,
-      "mag": 0.7,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1784309221720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397766"
-    },
-    {
-      "id": "uw714054501",
-      "lon": -122.715833333333,
-      "lat": 47.8728333333333,
-      "depth": -0.22,
-      "mag": 1.26,
-      "place": "6 km SSW of Port Ludlow, Washington",
-      "time": 1784309078750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714054501"
-    },
-    {
-      "id": "us7000t1f6",
-      "lon": -92.713,
-      "lat": 14.2633,
-      "depth": 35.128,
-      "mag": 5,
-      "place": "59 km SSW of Puerto Madero, Mexico",
-      "time": 1784309010902,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1f6"
-    },
-    {
-      "id": "us7000t1f0",
-      "lon": -92.9705,
-      "lat": 14.3448,
-      "depth": 10,
-      "mag": 5.1,
-      "place": "72 km SW of Puerto Madero, Mexico",
-      "time": 1784308519287,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1f0"
     }
   ]
 }
