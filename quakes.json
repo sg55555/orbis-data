@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-18T19:45:44Z",
-  "count": 260,
+  "updated": "2026-07-18T20:01:10Z",
+  "count": 258,
   "points": [
+    {
+      "id": "nc75398511",
+      "lon": -122.786834716797,
+      "lat": 38.8248329162598,
+      "depth": 1.08000004291534,
+      "mag": 0.2,
+      "place": "6 km W of Cobb, CA",
+      "time": 1784403866170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398511"
+    },
+    {
+      "id": "nc75398506",
+      "lon": -122.767501831055,
+      "lat": 38.7908325195312,
+      "depth": 1.82000005245209,
+      "mag": 1.28,
+      "place": "2 km NNW of The Geysers, CA",
+      "time": 1784403848190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398506"
+    },
     {
       "id": "ci40657658",
       "lon": -116.446833333333,
@@ -82,6 +102,16 @@
       "place": "52 km WNW of Happy Valley, Alaska",
       "time": 1784401194134,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026odeiyx"
+    },
+    {
+      "id": "tx2026oaxnrl",
+      "lon": -104.041,
+      "lat": 31.278,
+      "depth": 0,
+      "mag": 1.2,
+      "place": "23 km W of Toyah, Texas",
+      "time": 1784401126754,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oaxnrl"
     },
     {
       "id": "tx2026oaxgte",
@@ -2552,56 +2582,6 @@
       "place": "64 km SW of Puerto Madero, Mexico",
       "time": 1784318550453,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1gi"
-    },
-    {
-      "id": "nc75397921",
-      "lon": -122.842002868652,
-      "lat": 38.8224983215332,
-      "depth": 1.46000003814697,
-      "mag": 0.94,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1784318173050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397921"
-    },
-    {
-      "id": "nc75397916",
-      "lon": -122.842163085938,
-      "lat": 38.8208351135254,
-      "depth": 1.60000002384186,
-      "mag": 1.16,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": 1784318127360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397916"
-    },
-    {
-      "id": "ci40657234",
-      "lon": -116.688666666667,
-      "lat": 33.632,
-      "depth": 12.73,
-      "mag": 0.69,
-      "place": "9 km N of Anza, CA",
-      "time": 1784318069600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657234"
-    },
-    {
-      "id": "nc75397906",
-      "lon": -122.796333312988,
-      "lat": 38.8001670837402,
-      "depth": 3.08999991416931,
-      "mag": 0.81,
-      "place": "4 km NW of The Geysers, CA",
-      "time": 1784317952300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397906"
-    },
-    {
-      "id": "us7000t1gh",
-      "lon": 141.1352,
-      "lat": 35.7796,
-      "depth": 47.336,
-      "mag": 4.4,
-      "place": "27 km E of Hasaki, Japan",
-      "time": 1784317516806,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1gh"
     }
   ]
 }
