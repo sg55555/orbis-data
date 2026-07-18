@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-18T12:45:42Z",
-  "count": 280,
+  "updated": "2026-07-18T13:01:07Z",
+  "count": 279,
   "points": [
     {
       "id": "tx2026oakwei",
@@ -22,6 +22,16 @@
       "place": "55 km NW of Toyah, Texas",
       "time": 1784377741273,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oakpnp"
+    },
+    {
+      "id": "tx2026oakmys",
+      "lon": -103.675,
+      "lat": 31.117,
+      "depth": 0,
+      "mag": 1.9,
+      "place": "16 km NNE of Balmorhea, Texas",
+      "time": 1784377604391,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oakmys"
     },
     {
       "id": "aka2026ocqjtb",
@@ -2782,26 +2792,6 @@
       "place": "74 km SSE of Kokhanok, Alaska",
       "time": 1784293531175,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oawnbe"
-    },
-    {
-      "id": "uw714054361",
-      "lon": -121.889833333333,
-      "lat": 46.709,
-      "depth": 2.17,
-      "mag": 0.71,
-      "place": "12 km ESE of Ashford, Washington",
-      "time": 1784293047720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714054361"
-    },
-    {
-      "id": "nc75397646",
-      "lon": -121.623001098633,
-      "lat": 36.8771667480469,
-      "depth": 6.09000015258789,
-      "mag": 2.06,
-      "place": "2 km SE of Aromas, CA",
-      "time": 1784292522960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397646"
     }
   ]
 }
