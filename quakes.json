@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-18T06:15:42Z",
-  "count": 289,
+  "updated": "2026-07-18T06:31:02Z",
+  "count": 286,
   "points": [
+    {
+      "id": "ci40657426",
+      "lon": -117.136666666667,
+      "lat": 33.9901666666667,
+      "depth": 14.26,
+      "mag": 0.7,
+      "place": "8 km W of Calimesa, CA",
+      "time": 1784355519220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657426"
+    },
+    {
+      "id": "us7000t1jt",
+      "lon": -92.9244,
+      "lat": 14.2694,
+      "depth": 35,
+      "mag": 4.6,
+      "place": "73 km SW of Puerto Madero, Mexico",
+      "time": 1784355019000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jt"
+    },
     {
       "id": "tx2026nzyadh",
       "lon": -104.156,
@@ -1034,6 +1054,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397966"
     },
     {
+      "id": "av94315298",
+      "lon": -161.87,
+      "lat": 55.4478333333333,
+      "depth": 28.69,
+      "mag": 0.51,
+      "place": "51 km NNE of King Cove, Alaska",
+      "time": 1784323404270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94315298"
+    },
+    {
+      "id": "av93064534",
+      "lon": -161.832666666667,
+      "lat": 55.4691666666667,
+      "depth": 23.07,
+      "mag": 0.47,
+      "place": "54 km NE of King Cove, Alaska",
+      "time": 1784323244740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064534"
+    },
+    {
       "id": "hv75003477",
       "lon": -155.114334106445,
       "lat": 19.1590003967285,
@@ -1265,12 +1305,12 @@
     },
     {
       "id": "av94315153",
-      "lon": -152.194,
+      "lon": -152.193666666667,
       "lat": 61.2653333333333,
-      "depth": 20.7,
-      "mag": 0.23,
+      "depth": 20.75,
+      "mag": 0.24,
       "place": "60 km WNW of Tyonek, Alaska",
-      "time": 1784313286960,
+      "time": 1784313286940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94315153"
     },
     {
@@ -2822,76 +2862,6 @@
       "place": "62 km WNW of Beluga, Alaska",
       "time": 1784270045080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94314168"
-    },
-    {
-      "id": "tx2026nycyog",
-      "lon": -101.926,
-      "lat": 32.105,
-      "depth": 9.1064,
-      "mag": 0.8,
-      "place": "13 km WSW of Stanton, Texas",
-      "time": 1784269735999,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nycyog"
-    },
-    {
-      "id": "ci40656994",
-      "lon": -116.395333333333,
-      "lat": 33.3903333333333,
-      "depth": 9.39,
-      "mag": 0.63,
-      "place": "15 km N of Borrego Springs, CA",
-      "time": 1784269507250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656994"
-    },
-    {
-      "id": "nc75397496",
-      "lon": -122.816497802734,
-      "lat": 38.8306655883789,
-      "depth": 1.75,
-      "mag": 0.97,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1784269468910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397496"
-    },
-    {
-      "id": "aka2026oajbca",
-      "lon": -176.485,
-      "lat": 51.277,
-      "depth": 20.1,
-      "mag": 2.3,
-      "place": "67 km S of Adak, Alaska",
-      "time": 1784269315807,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oajbca"
-    },
-    {
-      "id": "tx2026nycqtw",
-      "lon": -104.173,
-      "lat": 31.563,
-      "depth": 7.0227,
-      "mag": 1.9,
-      "place": "45 km NW of Toyah, Texas",
-      "time": 1784269210597,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nycqtw"
-    },
-    {
-      "id": "tx2026nycqgs",
-      "lon": -104.181,
-      "lat": 31.567,
-      "depth": 6.4587,
-      "mag": 1.5,
-      "place": "46 km NW of Toyah, Texas",
-      "time": 1784269195307,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nycqgs"
-    },
-    {
-      "id": "ci40656986",
-      "lon": -116.8405,
-      "lat": 33.7173333333333,
-      "depth": 14.22,
-      "mag": 0.72,
-      "place": "6 km SE of Valle Vista, CA",
-      "time": 1784269074760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656986"
     }
   ]
 }
