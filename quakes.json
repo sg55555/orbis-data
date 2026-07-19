@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-19T00:01:13Z",
-  "count": 242,
+  "updated": "2026-07-19T00:15:51Z",
+  "count": 244,
   "points": [
+    {
+      "id": "nc75398656",
+      "lon": -121.177001953125,
+      "lat": 36.5973320007324,
+      "depth": 5.55999994277954,
+      "mag": 1.66,
+      "place": "8 km NNW of Pinnacles, CA",
+      "time": 1784419527570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398656"
+    },
+    {
+      "id": "ci40657770",
+      "lon": -117.818,
+      "lat": 36.109,
+      "depth": 4.35,
+      "mag": 0.89,
+      "place": "14 km ENE of Coso Junction, CA",
+      "time": 1784419317250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657770"
+    },
+    {
+      "id": "ci40657762",
+      "lon": -117.335666666667,
+      "lat": 34.1556666666667,
+      "depth": 9.97,
+      "mag": 1.38,
+      "place": "1 km ENE of Muscoy, CA",
+      "time": 1784419301970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657762"
+    },
     {
       "id": "ci40657754",
       "lon": -116.722333333333,
@@ -142,6 +172,16 @@
       "place": "21 km N of Ridgecrest, CA",
       "time": 1784412169980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657706"
+    },
+    {
+      "id": "us7000t1nw",
+      "lon": 132.5101,
+      "lat": 43.4944,
+      "depth": 502.747,
+      "mag": 4,
+      "place": "4 km NE of Mnogoudobnoye, Russia",
+      "time": 1784411697555,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1nw"
     },
     {
       "id": "pr71524908",
@@ -2402,26 +2442,6 @@
       "place": "24 km SW of Garden City, Texas",
       "time": 1784334053130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nzmkyk"
-    },
-    {
-      "id": "ci40657314",
-      "lon": -116.0415,
-      "lat": 33.7416666666667,
-      "depth": 1.62,
-      "mag": 0.8,
-      "place": "14 km ENE of Coachella, CA",
-      "time": 1784333437790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657314"
-    },
-    {
-      "id": "se60505968",
-      "lon": -84.2638333333333,
-      "lat": 35.5723333333333,
-      "depth": 16.66,
-      "mag": 1.98,
-      "place": "2 km SW of Vonore, Tennessee",
-      "time": 1784333230790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60505968"
     }
   ]
 }
