@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-19T13:48:17Z",
-  "count": 216,
+  "updated": "2026-07-19T14:05:43Z",
+  "count": 212,
   "points": [
+    {
+      "id": "aka2026oeqdnu",
+      "lon": -155.972,
+      "lat": 56.772,
+      "depth": 62.2,
+      "mag": 2.6,
+      "place": "111 km W of Akhiok, Alaska",
+      "time": 1784469195843,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oeqdnu"
+    },
     {
       "id": "hv75004297",
       "lon": -155.434661865234,
@@ -1534,16 +1544,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398556"
     },
     {
-      "id": "ci40657674",
-      "lon": -117.217,
-      "lat": 33.9886666666667,
-      "depth": -0.48,
-      "mag": 0.7,
-      "place": "7 km N of Moreno Valley, CA",
-      "time": 1784407355860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657674"
-    },
-    {
       "id": "ci40657666",
       "lon": -116.734333333333,
       "lat": 34.002,
@@ -2122,46 +2122,6 @@
       "place": "4 km SW of Pāhala, Hawaii",
       "time": 1784383596300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75003802"
-    },
-    {
-      "id": "tx2026oanrtv",
-      "lon": -104.39,
-      "lat": 31.61,
-      "depth": 3.5462,
-      "mag": 1.7,
-      "place": "62 km S of Whites City, New Mexico",
-      "time": 1784383341095,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oanrtv"
-    },
-    {
-      "id": "aka2026ocukce",
-      "lon": -151.562,
-      "lat": 59.854,
-      "depth": 56,
-      "mag": 1.9,
-      "place": "5 km NNE of Nikolaevsk, Alaska",
-      "time": 1784383286324,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ocukce"
-    },
-    {
-      "id": "ci40657538",
-      "lon": -117.811333333333,
-      "lat": 35.3121666666667,
-      "depth": 8,
-      "mag": 1.3,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1784383119540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657538"
-    },
-    {
-      "id": "uw714054312",
-      "lon": -123.041168212891,
-      "lat": 48.6581649780273,
-      "depth": 0.629999995231628,
-      "mag": 1.08000004,
-      "place": "9 km NW of Orcas, Washington",
-      "time": 1784382527820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714054312"
     }
   ]
 }
