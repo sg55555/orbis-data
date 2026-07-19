@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-19T08:51:42Z",
-  "count": 225,
+  "updated": "2026-07-19T09:01:06Z",
+  "count": 226,
   "points": [
+    {
+      "id": "hv75004197",
+      "lon": -155.213836669922,
+      "lat": 18.7240009307861,
+      "depth": 35.1100006103516,
+      "mag": 2,
+      "place": "54 km SE of Naalehu, Hawaii",
+      "time": 1784450957470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75004197"
+    },
     {
       "id": "nc75398876",
       "lon": -118.880500793457,
@@ -52,6 +62,16 @@
       "place": "4 km NE of Ocotillo Wells, CA",
       "time": 1784450515900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657906"
+    },
+    {
+      "id": "tx2026obyrku",
+      "lon": -98.97,
+      "lat": 28.9,
+      "depth": 5.1268,
+      "mag": 1.7,
+      "place": "12 km E of Pearsall, Texas",
+      "time": 1784450272819,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026obyrku"
     },
     {
       "id": "ci40657898",
@@ -2242,16 +2262,6 @@
       "place": "25 km N of Gázi, Greece",
       "time": 1784365449589,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1kn"
-    },
-    {
-      "id": "us7000t1km",
-      "lon": -93.3043,
-      "lat": 13.8966,
-      "depth": 40.932,
-      "mag": 4.2,
-      "place": "131 km SW of Puerto Madero, Mexico",
-      "time": 1784364840203,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1km"
     }
   ]
 }
