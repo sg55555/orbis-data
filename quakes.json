@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-19T12:30:56Z",
-  "count": 219,
+  "updated": "2026-07-19T12:45:45Z",
+  "count": 220,
   "points": [
+    {
+      "id": "aka2026oenowv",
+      "lon": -146.203,
+      "lat": 61.579,
+      "depth": 16.5,
+      "mag": 2,
+      "place": "50 km N of Valdez, Alaska",
+      "time": 1784464580690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oenowv"
+    },
+    {
+      "id": "nc75398941",
+      "lon": -124.495002746582,
+      "lat": 40.280834197998,
+      "depth": 10.1099996566772,
+      "mag": 2.19,
+      "place": "18 km WSW of Petrolia, CA",
+      "time": 1784464327710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398941"
+    },
     {
       "id": "aka2026oenbso",
       "lon": -154.602,
@@ -2182,16 +2202,6 @@
       "place": "11 km ESE of Balmorhea, Texas",
       "time": 1784380044411,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oalwvx"
-    },
-    {
-      "id": "tx2026oakwei",
-      "lon": -102.959,
-      "lat": 31.466,
-      "depth": 0,
-      "mag": 1.9,
-      "place": "12 km SSE of Wickett, Texas",
-      "time": 1784378190897,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oakwei"
     }
   ]
 }
