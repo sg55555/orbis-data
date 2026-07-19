@@ -1,16 +1,56 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-19T16:45:43Z",
-  "count": 213,
+  "updated": "2026-07-19T17:01:03Z",
+  "count": 216,
   "points": [
     {
+      "id": "nc75399051",
+      "lon": -122.875831604004,
+      "lat": 38.8396682739258,
+      "depth": 2.42000007629395,
+      "mag": 0.92,
+      "place": "12 km NW of The Geysers, CA",
+      "time": 1784480158390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399051"
+    },
+    {
+      "id": "aka2026oewelg",
+      "lon": -154.64,
+      "lat": 58.38,
+      "depth": 5,
+      "mag": 0.9,
+      "place": "90 km N of Karluk, Alaska",
+      "time": 1784480049699,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oewelg"
+    },
+    {
+      "id": "nc75399046",
+      "lon": -122.806663513184,
+      "lat": 38.8356666564941,
+      "depth": 1.94000005722046,
+      "mag": 0.7,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1784479685460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399046"
+    },
+    {
+      "id": "hv75004377",
+      "lon": -155.36083984375,
+      "lat": 19.2133331298828,
+      "depth": 29.25,
+      "mag": 2.02,
+      "place": "12 km E of Pāhala, Hawaii",
+      "time": 1784479321570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75004377"
+    },
+    {
       "id": "ci40657986",
-      "lon": -116.722166666667,
-      "lat": 33.5293333333333,
-      "depth": 5.19,
-      "mag": 2.25,
+      "lon": -116.7215,
+      "lat": 33.5298333333333,
+      "depth": 5.98,
+      "mag": 2.19,
       "place": "5 km WSW of Anza, CA",
-      "time": 1784477236030,
+      "time": 1784477236010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657986"
     },
     {
@@ -172,6 +212,16 @@
       "place": "239 km E of Levuka, Fiji",
       "time": 1784471335601,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1sy"
+    },
+    {
+      "id": "us7000t1sv",
+      "lon": -73.3832,
+      "lat": -33.9224,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "168 km WSW of San Antonio, Chile",
+      "time": 1784471106695,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1sv"
     },
     {
       "id": "us7000t1su",
@@ -2112,26 +2162,6 @@
       "place": "7 km NE of Coso Junction, CA",
       "time": 1784394078330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657610"
-    },
-    {
-      "id": "us7000t1n0",
-      "lon": -26.2427,
-      "lat": -59.4387,
-      "depth": 122.006,
-      "mag": 4.8,
-      "place": "South Sandwich Islands region",
-      "time": 1784393854133,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1n0"
-    },
-    {
-      "id": "us7000t1mz",
-      "lon": -92.9189,
-      "lat": 14.2321,
-      "depth": 10,
-      "mag": 4.3,
-      "place": "76 km SW of Puerto Madero, Mexico",
-      "time": 1784393757788,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1mz"
     }
   ]
 }
