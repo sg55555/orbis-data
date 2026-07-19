@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-19T21:15:40Z",
+  "updated": "2026-07-19T21:29:27Z",
   "count": 231,
   "points": [
+    {
+      "id": "ci40658058",
+      "lon": -119.561833333333,
+      "lat": 34.411,
+      "depth": 13.63,
+      "mag": 1.84,
+      "place": "4 km WNW of Carpinteria, CA",
+      "time": 1784496144070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658058"
+    },
+    {
+      "id": "ci40658050",
+      "lon": -116.713833333333,
+      "lat": 33.5345,
+      "depth": 5.5,
+      "mag": 0.79,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1784495584490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658050"
+    },
     {
       "id": "ci40658042",
       "lon": -116.713833333333,
@@ -685,13 +705,23 @@
     },
     {
       "id": "aka2026oenowv",
-      "lon": -146.203,
+      "lon": -146.222,
       "lat": 61.579,
-      "depth": 16.5,
-      "mag": 2,
+      "depth": 16.3,
+      "mag": 1.9,
       "place": "50 km N of Valdez, Alaska",
       "time": 1784464580690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oenowv"
+    },
+    {
+      "id": "aka2026oenlsh",
+      "lon": 178.175,
+      "lat": 51.633,
+      "depth": 65.4,
+      "mag": 3.8,
+      "place": "Rat Islands, Aleutian Islands, Alaska",
+      "time": 1784464384108,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oenlsh"
     },
     {
       "id": "nc75398941",
@@ -2282,36 +2312,6 @@
       "place": "47 km SW of Puerto Madero, Mexico",
       "time": 1784410529338,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1nr"
-    },
-    {
-      "id": "ci40657698",
-      "lon": -117.127333333333,
-      "lat": 34.0231666666667,
-      "depth": 9.5,
-      "mag": 0.81,
-      "place": "5 km S of Mentone, CA",
-      "time": 1784409806300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657698"
-    },
-    {
-      "id": "aka2026odjbtn",
-      "lon": -152.344,
-      "lat": 61.027,
-      "depth": 115.6,
-      "mag": 2,
-      "place": "65 km W of Tyonek, Alaska",
-      "time": 1784409695095,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026odjbtn"
-    },
-    {
-      "id": "ci40657690",
-      "lon": -117.547833333333,
-      "lat": 34.185,
-      "depth": 10.5,
-      "mag": 0.67,
-      "place": "7 km NNE of Rancho Cucamonga, CA",
-      "time": 1784409329100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657690"
     }
   ]
 }
