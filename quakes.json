@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-19T16:01:09Z",
-  "count": 211,
+  "updated": "2026-07-19T16:25:34Z",
+  "count": 215,
   "points": [
+    {
+      "id": "ci40657986",
+      "lon": -116.722166666667,
+      "lat": 33.5293333333333,
+      "depth": 5.19,
+      "mag": 2.25,
+      "place": "5 km WSW of Anza, CA",
+      "time": 1784477236030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657986"
+    },
+    {
+      "id": "nc75399026",
+      "lon": -123.264167785645,
+      "lat": 39.890998840332,
+      "depth": 5.34000015258789,
+      "mag": 1.61,
+      "place": "11 km N of Covelo, CA",
+      "time": 1784476773310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399026"
+    },
     {
       "id": "tx2026ocmzba",
       "lon": -104.264,
       "lat": 31.649,
-      "depth": 4.7822,
+      "depth": 4.8064,
       "mag": 1.6,
       "place": "58 km NW of Toyah, Texas",
-      "time": 1784476288503,
+      "time": 1784476288495,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ocmzba"
     },
     {
@@ -52,6 +72,16 @@
       "place": "2 km NNE of The Geysers, CA",
       "time": 1784474666080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398986"
+    },
+    {
+      "id": "us7000t1t5",
+      "lon": -92.7186,
+      "lat": 14.1947,
+      "depth": 34.155,
+      "mag": 4.2,
+      "place": "65 km SW of Brisas Barra de Suchiate, Mexico",
+      "time": 1784474439514,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1t5"
     },
     {
       "id": "nc75398976",
@@ -122,6 +152,26 @@
       "place": "72 km NNE of Vieques, Puerto Rico",
       "time": 1784471386620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525028"
+    },
+    {
+      "id": "us7000t1sy",
+      "lon": -178.4373,
+      "lat": -17.8558,
+      "depth": 636.626,
+      "mag": 4.2,
+      "place": "239 km E of Levuka, Fiji",
+      "time": 1784471335601,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1sy"
+    },
+    {
+      "id": "us7000t1su",
+      "lon": -93.0015,
+      "lat": 14.6771,
+      "depth": 35,
+      "mag": 4.4,
+      "place": "59 km WSW of Aquiles Serdán, Mexico",
+      "time": 1784470911009,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1su"
     },
     {
       "id": "aka2026oeqyfq",
@@ -484,13 +534,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398891"
     },
     {
+      "id": "ci10246134",
+      "lon": -116.105166666667,
+      "lat": 33.1731666666667,
+      "depth": 10.7,
+      "mag": 1.6,
+      "place": "4 km NE of Ocotillo Wells, CA",
+      "time": 1784452302080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10246134"
+    },
+    {
       "id": "ci40657930",
-      "lon": -116.106666666667,
-      "lat": 33.1656666666667,
-      "depth": 9.29,
-      "mag": 1.97,
-      "place": "3 km NE of Ocotillo Wells, CA",
-      "time": 1784452283890,
+      "lon": -116.104666666667,
+      "lat": 33.1658333333333,
+      "depth": 9.8,
+      "mag": 2.06,
+      "place": "4 km NE of Ocotillo Wells, CA",
+      "time": 1784452283860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657930"
     },
     {
@@ -2092,26 +2152,6 @@
       "place": "61 km ENE of Pedro Bay, Alaska",
       "time": 1784392456431,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oczmgl"
-    },
-    {
-      "id": "ok2026nyzx",
-      "lon": -97.91669464,
-      "lat": 36.02233124,
-      "depth": 4.629066944,
-      "mag": 1.64,
-      "place": "4 km N of Dover, Oklahoma",
-      "time": 1784391560237,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026nyzx"
-    },
-    {
-      "id": "us7000t1mu",
-      "lon": -81.5431,
-      "lat": 17.9439,
-      "depth": 10,
-      "mag": 5.1,
-      "place": "149 km S of George Town, Cayman Islands",
-      "time": 1784390924116,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1mu"
     }
   ]
 }
