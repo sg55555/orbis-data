@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-19T04:45:44Z",
+  "updated": "2026-07-19T05:01:09Z",
   "count": 230,
   "points": [
+    {
+      "id": "nc75398746",
+      "lon": -122.84400177002,
+      "lat": 38.852165222168,
+      "depth": 1.89999997615814,
+      "mag": 1.07,
+      "place": "11 km WNW of Cobb, CA",
+      "time": 1784436448670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398746"
+    },
     {
       "id": "ci40657826",
       "lon": -117.517,
@@ -12,6 +22,26 @@
       "place": "12 km SW of Searles Valley, CA",
       "time": 1784436091290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657826"
+    },
+    {
+      "id": "us7000t1qq",
+      "lon": -126.5141,
+      "lat": 42.3622,
+      "depth": 10,
+      "mag": 2.8,
+      "place": "171 km WSW of Port Orford, Oregon",
+      "time": 1784436036416,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1qq"
+    },
+    {
+      "id": "us7000t1qp",
+      "lon": -92.7545,
+      "lat": 14.2815,
+      "depth": 30.682,
+      "mag": 4.2,
+      "place": "60 km SW of Puerto Madero, Mexico",
+      "time": 1784435727161,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1qp"
     },
     {
       "id": "us7000t1qk",
@@ -2272,36 +2302,6 @@
       "place": "110 km ESE of Chiniak, Alaska",
       "time": 1784350924641,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026occkjx"
-    },
-    {
-      "id": "aka2026occhwe",
-      "lon": -156.367,
-      "lat": 55.01,
-      "depth": 21.6,
-      "mag": 3.5,
-      "place": "192 km SE of Chignik, Alaska",
-      "time": 1784350740667,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026occhwe"
-    },
-    {
-      "id": "nc75398206",
-      "lon": -122.768501281738,
-      "lat": 38.810001373291,
-      "depth": 1.23000001907349,
-      "mag": 0.9,
-      "place": "4 km NNW of The Geysers, CA",
-      "time": 1784350625880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398206"
-    },
-    {
-      "id": "ci40657402",
-      "lon": -116.594166666667,
-      "lat": 33.4111666666667,
-      "depth": 8.04,
-      "mag": -0.19,
-      "place": "15 km NNE of Warner Springs, CA",
-      "time": 1784350462670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657402"
     }
   ]
 }
