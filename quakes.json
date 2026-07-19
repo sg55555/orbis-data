@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-19T02:15:47Z",
+  "updated": "2026-07-19T02:31:02Z",
   "count": 245,
   "points": [
+    {
+      "id": "ci40657810",
+      "lon": -116.768,
+      "lat": 33.9301666666667,
+      "depth": 15.78,
+      "mag": 1.23,
+      "place": "2 km NE of Cabazon, CA",
+      "time": 1784427404650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657810"
+    },
     {
       "id": "nc75398716",
       "lon": -122.796501159668,
@@ -12,6 +22,16 @@
       "place": "5 km NW of The Geysers, CA",
       "time": 1784426800230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398716"
+    },
+    {
+      "id": "us7000t1q4",
+      "lon": 128.5538,
+      "lat": 2.7477,
+      "depth": 223.042,
+      "mag": 4.8,
+      "place": "127 km NNE of Tobelo, Indonesia",
+      "time": 1784426276503,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q4"
     },
     {
       "id": "nc75398706",
@@ -2432,26 +2452,6 @@
       "place": "1 km W of Lake Henshaw, CA",
       "time": 1784342154130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657346"
-    },
-    {
-      "id": "us7000t1iu",
-      "lon": -92.8715,
-      "lat": 14.209,
-      "depth": 41.217,
-      "mag": 4.5,
-      "place": "74 km SW of Puerto Madero, Mexico",
-      "time": 1784341776544,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1iu"
-    },
-    {
-      "id": "us7000t1it",
-      "lon": 124.8574,
-      "lat": 4.5057,
-      "depth": 10,
-      "mag": 5.3,
-      "place": "119 km SW of Sarangani, Philippines",
-      "time": 1784341420127,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1it"
     }
   ]
 }
