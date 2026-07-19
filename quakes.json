@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-19T03:30:59Z",
-  "count": 248,
+  "updated": "2026-07-19T03:45:42Z",
+  "count": 247,
   "points": [
+    {
+      "id": "nc75398741",
+      "lon": -122.820335388184,
+      "lat": 38.8313331604004,
+      "depth": 2.07999992370605,
+      "mag": 0.74,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1784432098870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398741"
+    },
     {
       "id": "hv75004042",
       "lon": -155.449340820312,
@@ -342,6 +352,16 @@
       "place": "39 km WSW of Brisas Barra de Suchiate, Mexico",
       "time": 1784417881171,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1pk"
+    },
+    {
+      "id": "us7000t1ph",
+      "lon": -87.1133,
+      "lat": 11.3596,
+      "depth": 25.777,
+      "mag": 4.7,
+      "place": "80 km SW of Masachapa, Nicaragua",
+      "time": 1784417480036,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ph"
     },
     {
       "id": "ci40657746",
@@ -2452,36 +2472,6 @@
       "place": "30 km W of Balmorhea, Texas",
       "time": 1784346578579,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nztkdx"
-    },
-    {
-      "id": "hv75003597",
-      "lon": -155.386993408203,
-      "lat": 19.4160003662109,
-      "depth": 0.709999978542328,
-      "mag": 2.18,
-      "place": "16 km W of Volcano, Hawaii",
-      "time": 1784345966750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75003597"
-    },
-    {
-      "id": "nc75398146",
-      "lon": -123.117164611816,
-      "lat": 38.9104995727539,
-      "depth": -0.300000011920929,
-      "mag": 1.5,
-      "place": "15 km NW of Cloverdale, CA",
-      "time": 1784345779970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398146"
-    },
-    {
-      "id": "aka2026obzobp",
-      "lon": -150.957,
-      "lat": 62.867,
-      "depth": 108.6,
-      "mag": 2,
-      "place": "42 km NNW of Petersville, Alaska",
-      "time": 1784345776084,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026obzobp"
     }
   ]
 }
