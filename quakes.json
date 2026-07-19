@@ -1,27 +1,47 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-19T00:45:46Z",
-  "count": 249,
+  "updated": "2026-07-19T01:01:04Z",
+  "count": 247,
   "points": [
     {
+      "id": "nc75398676",
+      "lon": -124.370666503906,
+      "lat": 40.3040008544922,
+      "depth": 6.75,
+      "mag": 1.58,
+      "place": "8 km WSW of Petrolia, CA",
+      "time": 1784422121970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398676"
+    },
+    {
       "id": "ci40657802",
-      "lon": -116.456336975098,
-      "lat": 34.353832244873,
-      "depth": 9.15999984741211,
-      "mag": 1.60988292362367,
+      "lon": -116.454166666667,
+      "lat": 34.3538333333333,
+      "depth": 9.08,
+      "mag": 1.28,
       "place": "27 km N of Yucca Valley, CA",
-      "time": 1784421764050,
+      "time": 1784421764040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657802"
     },
     {
       "id": "ci40657794",
-      "lon": -116.887336730957,
-      "lat": 33.7646675109863,
-      "depth": 13.2399997711182,
-      "mag": 1.29462045332276,
-      "place": "2 km NNE of Valle Vista, CA",
-      "time": 1784421737690,
+      "lon": -116.891833333333,
+      "lat": 33.7645,
+      "depth": 13.56,
+      "mag": 1.24,
+      "place": "2 km N of Valle Vista, CA",
+      "time": 1784421737660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657794"
+    },
+    {
+      "id": "us7000t1py",
+      "lon": 159.6116,
+      "lat": 51.3859,
+      "depth": 10,
+      "mag": 5.3,
+      "place": "190 km SSE of Vilyuchinsk, Russia",
+      "time": 1784421579917,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1py"
     },
     {
       "id": "ci40657786",
@@ -1104,16 +1124,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oalwvx"
     },
     {
-      "id": "aka2026ocsoui",
-      "lon": -146.934,
-      "lat": 61.232,
-      "depth": 16.1,
-      "mag": 1,
-      "place": "33 km WNW of Valdez, Alaska",
-      "time": 1784380011705,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ocsoui"
-    },
-    {
       "id": "tx2026oakwei",
       "lon": -102.959,
       "lat": 31.466,
@@ -1482,16 +1492,6 @@
       "place": "25 km N of Gázi, Greece",
       "time": 1784365449589,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1kn"
-    },
-    {
-      "id": "aka2026ockfts",
-      "lon": -148.704,
-      "lat": 61.766,
-      "depth": 5.9,
-      "mag": 0.9,
-      "place": "3 km ESE of Sutton-Alpine, Alaska",
-      "time": 1784364993605,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ockfts"
     },
     {
       "id": "us7000t1km",
@@ -2464,16 +2464,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657330"
     },
     {
-      "id": "aka2026obuugw",
-      "lon": -154.815,
-      "lat": 58.408,
-      "depth": 2.9,
-      "mag": 0.6,
-      "place": "95 km NNW of Karluk, Alaska",
-      "time": 1784337210695,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026obuugw"
-    },
-    {
       "id": "us7000t1ii",
       "lon": -93.0381,
       "lat": 14.323,
@@ -2482,16 +2472,6 @@
       "place": "79 km WSW of Puerto Madero, Mexico",
       "time": 1784337067477,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ii"
-    },
-    {
-      "id": "us7000t1ig",
-      "lon": 98.8487,
-      "lat": -0.4136,
-      "depth": 46.816,
-      "mag": 4.5,
-      "place": "143 km W of Pariaman, Indonesia",
-      "time": 1784335805308,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ig"
     }
   ]
 }
