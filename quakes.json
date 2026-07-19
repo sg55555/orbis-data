@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-19T18:45:40Z",
+  "updated": "2026-07-19T19:01:06Z",
   "count": 215,
   "points": [
+    {
+      "id": "nc75399106",
+      "lon": -123.124496459961,
+      "lat": 40.3395004272461,
+      "depth": 19.25,
+      "mag": 1.65,
+      "place": "24 km SSE of Hayfork, CA",
+      "time": 1784487161280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399106"
+    },
+    {
+      "id": "aka2026ofabuf",
+      "lon": -154.602,
+      "lat": 58.316,
+      "depth": 1.2,
+      "mag": 1.4,
+      "place": "83 km N of Karluk, Alaska",
+      "time": 1784487062422,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ofabuf"
+    },
     {
       "id": "tx2026ocsbac",
       "lon": -104.266,
@@ -22,6 +42,16 @@
       "place": "82 km N of Karluk, Alaska",
       "time": 1784485164600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oezajc"
+    },
+    {
+      "id": "pr71525048",
+      "lon": -66.9041666666667,
+      "lat": 17.9391666666667,
+      "depth": 13.06,
+      "mag": 1.8,
+      "place": "3 km S of Guánica, Puerto Rico",
+      "time": 1784484428060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525048"
     },
     {
       "id": "ci40658010",
@@ -2122,36 +2152,6 @@
       "place": "5 km ENE of Palomar Observatory, CA",
       "time": 1784401326730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657626"
-    },
-    {
-      "id": "aka2026odeiyx",
-      "lon": -152.629,
-      "lat": 60.099,
-      "depth": 107.7,
-      "mag": 2,
-      "place": "52 km WNW of Happy Valley, Alaska",
-      "time": 1784401194134,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026odeiyx"
-    },
-    {
-      "id": "tx2026oaxnrl",
-      "lon": -104.041,
-      "lat": 31.278,
-      "depth": 0,
-      "mag": 1.2,
-      "place": "23 km W of Toyah, Texas",
-      "time": 1784401126754,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oaxnrl"
-    },
-    {
-      "id": "tx2026oaxgte",
-      "lon": -104.232,
-      "lat": 31.653,
-      "depth": 4.3935,
-      "mag": 1.5,
-      "place": "56 km NW of Toyah, Texas",
-      "time": 1784400698027,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oaxgte"
     }
   ]
 }
