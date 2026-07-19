@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-19T04:15:44Z",
-  "count": 242,
+  "updated": "2026-07-19T04:30:59Z",
+  "count": 237,
   "points": [
+    {
+      "id": "ci40657818",
+      "lon": -117.469333333333,
+      "lat": 34.1535,
+      "depth": 6.81,
+      "mag": 1.37,
+      "place": "6 km N of Fontana, CA",
+      "time": 1784434490000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657818"
+    },
     {
       "id": "aka2026odwoan",
       "lon": -154.626,
@@ -134,6 +144,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398716"
     },
     {
+      "id": "us7000t1q5",
+      "lon": -92.7735,
+      "lat": 14.3608,
+      "depth": 35,
+      "mag": 4.6,
+      "place": "55 km SW of Puerto Madero, Mexico",
+      "time": 1784426493461,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q5"
+    },
+    {
       "id": "us7000t1q4",
       "lon": 128.5538,
       "lat": 2.7477,
@@ -252,6 +272,16 @@
       "place": "7 km ENE of Ensenada, B.C., MX",
       "time": 1784421444090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657786"
+    },
+    {
+      "id": "us7000t1pu",
+      "lon": -92.9917,
+      "lat": 14.5808,
+      "depth": 35,
+      "mag": 4.4,
+      "place": "63 km WSW of Puerto Madero, Mexico",
+      "time": 1784421230972,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1pu"
     },
     {
       "id": "tx2026obinbs",
@@ -2342,86 +2372,6 @@
       "place": "67 km N of Petersville, Alaska",
       "time": 1784349102126,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ocbkcs"
-    },
-    {
-      "id": "aka2026ocbilm",
-      "lon": -156.387,
-      "lat": 54.992,
-      "depth": 14.5,
-      "mag": 2.6,
-      "place": "192 km SE of Chignik, Alaska",
-      "time": 1784348981309,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ocbilm"
-    },
-    {
-      "id": "nc75398186",
-      "lon": -121.326835632324,
-      "lat": 36.6661682128906,
-      "depth": 0.629999995231628,
-      "mag": 1.67,
-      "place": "14 km S of Tres Pinos, CA",
-      "time": 1784348945440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398186"
-    },
-    {
-      "id": "nc75398181",
-      "lon": -122.792663574219,
-      "lat": 38.8331680297852,
-      "depth": 1.96000003814697,
-      "mag": 1.09,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1784348942470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398181"
-    },
-    {
-      "id": "us7000t1jb",
-      "lon": -93.0737,
-      "lat": 14.5811,
-      "depth": 35,
-      "mag": 4.9,
-      "place": "71 km WSW of Puerto Madero, Mexico",
-      "time": 1784348932579,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jb"
-    },
-    {
-      "id": "aka2026ocbhmt",
-      "lon": -145.157,
-      "lat": 60.857,
-      "depth": 21.8,
-      "mag": 1.8,
-      "place": "47 km NE of Cordova, Alaska",
-      "time": 1784348921075,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ocbhmt"
-    },
-    {
-      "id": "ci40657386",
-      "lon": -117.816,
-      "lat": 34.1065,
-      "depth": 14.32,
-      "mag": 1.03,
-      "place": "1 km W of San Dimas, CA",
-      "time": 1784348437050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657386"
-    },
-    {
-      "id": "ci40657378",
-      "lon": -117.85,
-      "lat": 36.0256666666667,
-      "depth": 2.1,
-      "mag": 2.05,
-      "place": "9 km ESE of Coso Junction, CA",
-      "time": 1784348417350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657378"
-    },
-    {
-      "id": "nc75398166",
-      "lon": -122.745162963867,
-      "lat": 38.775333404541,
-      "depth": 2.19000005722046,
-      "mag": 1.01,
-      "place": "1 km ESE of The Geysers, CA",
-      "time": 1784348365400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398166"
     }
   ]
 }
