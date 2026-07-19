@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-19T11:45:43Z",
-  "count": 221,
+  "updated": "2026-07-19T12:01:08Z",
+  "count": 220,
   "points": [
+    {
+      "id": "nc75398936",
+      "lon": -122.879837036133,
+      "lat": 38.8448333740234,
+      "depth": 2.15000009536743,
+      "mag": 0.77,
+      "place": "13 km ENE of Cloverdale, CA",
+      "time": 1784461564460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398936"
+    },
     {
       "id": "aka2026oelbzw",
       "lon": -151.405,
@@ -392,6 +402,16 @@
       "place": "0 km SSE of Guánica, Puerto Rico",
       "time": 1784444640750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524968"
+    },
+    {
+      "id": "pr2026200000",
+      "lon": -68.411,
+      "lat": 18.2663,
+      "depth": 131,
+      "mag": 3.78,
+      "place": "24 km ESE of Boca de Yuma, Dominican Republic",
+      "time": 1784443978620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026200000"
     },
     {
       "id": "nc75398831",
@@ -2182,36 +2202,6 @@
       "place": "42 km SSE of Nelchina, Alaska",
       "time": 1784376064635,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ocqjtb"
-    },
-    {
-      "id": "tx2026oajkpf",
-      "lon": -103.48,
-      "lat": 31.996,
-      "depth": 0,
-      "mag": 1.5,
-      "place": "30 km WSW of Jal, New Mexico",
-      "time": 1784375585680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oajkpf"
-    },
-    {
-      "id": "tx2026oajkbs",
-      "lon": -101.676,
-      "lat": 31.726,
-      "depth": 2.5478,
-      "mag": 2,
-      "place": "23 km SW of Garden City, Texas",
-      "time": 1784375538178,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oajkbs"
-    },
-    {
-      "id": "ci40657506",
-      "lon": -116.337166666667,
-      "lat": 33.2573333333333,
-      "depth": 3.09,
-      "mag": 0.77,
-      "place": "4 km E of Borrego Springs, CA",
-      "time": 1784375240050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657506"
     }
   ]
 }
