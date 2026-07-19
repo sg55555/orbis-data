@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-19T02:31:02Z",
-  "count": 245,
+  "updated": "2026-07-19T02:45:51Z",
+  "count": 246,
   "points": [
+    {
+      "id": "us7000t1q7",
+      "lon": -75.3013,
+      "lat": -12.0429,
+      "depth": 10,
+      "mag": 5.5,
+      "place": "2 km WSW of Sicaya, Peru",
+      "time": 1784427876324,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q7"
+    },
+    {
+      "id": "us7000t1q6",
+      "lon": -92.7591,
+      "lat": 14.292,
+      "depth": 19.593,
+      "mag": 5.3,
+      "place": "59 km SW of Puerto Madero, Mexico",
+      "time": 1784427534767,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q6"
+    },
     {
       "id": "ci40657810",
       "lon": -116.768,
@@ -252,6 +272,16 @@
       "place": "9 km WNW of Cobb, CA",
       "time": 1784418176010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398631"
+    },
+    {
+      "id": "us7000t1pk",
+      "lon": -92.5399,
+      "lat": 14.3539,
+      "depth": 35,
+      "mag": 4.5,
+      "place": "39 km WSW of Brisas Barra de Suchiate, Mexico",
+      "time": 1784417881171,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1pk"
     },
     {
       "id": "ci40657746",
@@ -2432,26 +2462,6 @@
       "place": "22 km NE of Ojai, CA",
       "time": 1784343129240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657362"
-    },
-    {
-      "id": "ci40657354",
-      "lon": -118.341166666667,
-      "lat": 35.4676666666667,
-      "depth": 8.12,
-      "mag": 1.33,
-      "place": "19 km SE of Bodfish, CA",
-      "time": 1784342399420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657354"
-    },
-    {
-      "id": "ci40657346",
-      "lon": -116.7765,
-      "lat": 33.243,
-      "depth": 15.26,
-      "mag": 0.71,
-      "place": "1 km W of Lake Henshaw, CA",
-      "time": 1784342154130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657346"
     }
   ]
 }
