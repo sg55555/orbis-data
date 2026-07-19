@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-19T08:15:43Z",
-  "count": 223,
+  "updated": "2026-07-19T08:31:05Z",
+  "count": 221,
   "points": [
+    {
+      "id": "nc75398856",
+      "lon": -122.855499267578,
+      "lat": 38.8271675109863,
+      "depth": 2.60999989509583,
+      "mag": 0.94,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": 1784449228450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398856"
+    },
     {
       "id": "nc75398851",
       "lon": -122.81266784668,
@@ -12,6 +22,16 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1784448783670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398851"
+    },
+    {
+      "id": "ci40657890",
+      "lon": -117.815333333333,
+      "lat": 35.3106666666667,
+      "depth": 8.85,
+      "mag": 1.34,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": 1784448773330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657890"
     },
     {
       "id": "aka2026oeesrx",
@@ -2192,46 +2212,6 @@
       "place": "7 km WSW of Marked Tree, Arkansas",
       "time": 1784363895090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60625351"
-    },
-    {
-      "id": "us7000t1kh",
-      "lon": -179.7416,
-      "lat": -23.5937,
-      "depth": 529.091,
-      "mag": 4.7,
-      "place": "south of the Fiji Islands",
-      "time": 1784363323339,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1kh"
-    },
-    {
-      "id": "ci40657490",
-      "lon": -117.739,
-      "lat": 34.406,
-      "depth": 6.66,
-      "mag": 0.98,
-      "place": "9 km WSW of Pinon Hills, CA",
-      "time": 1784362980020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657490"
-    },
-    {
-      "id": "us7000t1kf",
-      "lon": 103.7876,
-      "lat": -6.6034,
-      "depth": 23.732,
-      "mag": 4.9,
-      "place": "208 km SW of Bandar Lampung, Indonesia",
-      "time": 1784362902737,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1kf"
-    },
-    {
-      "id": "nc75398266",
-      "lon": -122.732330322266,
-      "lat": 38.7569999694824,
-      "depth": 1.54999995231628,
-      "mag": 1.19,
-      "place": "3 km SE of The Geysers, CA",
-      "time": 1784362689190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398266"
     }
   ]
 }
