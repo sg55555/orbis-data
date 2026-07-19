@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-19T21:01:02Z",
-  "count": 230,
+  "updated": "2026-07-19T21:15:40Z",
+  "count": 231,
   "points": [
+    {
+      "id": "ci40658042",
+      "lon": -116.713833333333,
+      "lat": 33.5356666666667,
+      "depth": 4.85,
+      "mag": 0.75,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1784495328230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658042"
+    },
     {
       "id": "aka2026ofebvc",
       "lon": -149.805,
@@ -695,12 +705,12 @@
     },
     {
       "id": "aka2026oenbso",
-      "lon": -154.602,
-      "lat": 58.326,
+      "lon": -154.609,
+      "lat": 58.32,
       "depth": 5,
-      "mag": 2.2,
+      "mag": 2.1,
       "place": "84 km N of Karluk, Alaska",
-      "time": 1784463668476,
+      "time": 1784463668592,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oenbso"
     },
     {
@@ -734,14 +744,34 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398936"
     },
     {
+      "id": "aka2026oelgbm",
+      "lon": -169.648,
+      "lat": 53.001,
+      "depth": 131,
+      "mag": 3.1,
+      "place": "53 km W of Nikolski, Alaska",
+      "time": 1784460369763,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oelgbm"
+    },
+    {
       "id": "aka2026oelbzw",
-      "lon": -151.405,
-      "lat": 61.228,
-      "depth": 69.9,
-      "mag": 1.9,
-      "place": "19 km WNW of Beluga, Alaska",
-      "time": 1784460090807,
+      "lon": -151.422,
+      "lat": 61.242,
+      "depth": 71.9,
+      "mag": 1.8,
+      "place": "21 km WNW of Beluga, Alaska",
+      "time": 1784460090581,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oelbzw"
+    },
+    {
+      "id": "aka2026oelbsn",
+      "lon": -178.01,
+      "lat": 51.216,
+      "depth": 20.1,
+      "mag": 2.2,
+      "place": "120 km SW of Adak, Alaska",
+      "time": 1784460070447,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oelbsn"
     },
     {
       "id": "nc75398931",
@@ -795,12 +825,12 @@
     },
     {
       "id": "aka2026oejjya",
-      "lon": -154.627,
-      "lat": 58.308,
+      "lon": -154.671,
+      "lat": 58.318,
       "depth": 5,
-      "mag": 3.2,
-      "place": "82 km N of Karluk, Alaska",
-      "time": 1784457040120,
+      "mag": 3,
+      "place": "84 km N of Karluk, Alaska",
+      "time": 1784457040813,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oejjya"
     },
     {
@@ -2282,26 +2312,6 @@
       "place": "7 km NNE of Rancho Cucamonga, CA",
       "time": 1784409329100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657690"
-    },
-    {
-      "id": "nc75398571",
-      "lon": -122.788833618164,
-      "lat": 38.8230018615723,
-      "depth": 1.51999998092651,
-      "mag": 0.88,
-      "place": "6 km W of Cobb, CA",
-      "time": 1784408887350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398571"
-    },
-    {
-      "id": "nc75398566",
-      "lon": -122.766670227051,
-      "lat": 38.8224983215332,
-      "depth": 2.03999996185303,
-      "mag": 0.69,
-      "place": "4 km W of Cobb, CA",
-      "time": 1784408553360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398566"
     }
   ]
 }
