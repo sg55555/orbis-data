@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-19T02:01:05Z",
-  "count": 244,
+  "updated": "2026-07-19T02:15:47Z",
+  "count": 245,
   "points": [
+    {
+      "id": "nc75398716",
+      "lon": -122.796501159668,
+      "lat": 38.8128318786621,
+      "depth": 3.10999989509583,
+      "mag": 1.03,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1784426800230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398716"
+    },
     {
       "id": "nc75398706",
       "lon": -122.736000061035,
@@ -12,6 +22,16 @@
       "place": "2 km ESE of The Geysers, CA",
       "time": 1784425881200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398706"
+    },
+    {
+      "id": "us7000t1q3",
+      "lon": -92.9167,
+      "lat": 14.1155,
+      "depth": 10,
+      "mag": 5.3,
+      "place": "85 km SW of Puerto Madero, Mexico",
+      "time": 1784425644332,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q3"
     },
     {
       "id": "aka2026odryfh",
@@ -40,7 +60,7 @@
       "depth": 0,
       "mag": 1.5,
       "place": "58 km NW of Toyah, Texas",
-      "time": 1784424638088,
+      "time": 1784424638089,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026obkkfj"
     },
     {
@@ -2432,16 +2452,6 @@
       "place": "119 km SW of Sarangani, Philippines",
       "time": 1784341420127,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1it"
-    },
-    {
-      "id": "pr71524818",
-      "lon": -65.3945,
-      "lat": 18.8948333333333,
-      "depth": 32.12,
-      "mag": 3.21,
-      "place": "66 km N of Culebra, Puerto Rico",
-      "time": 1784340886100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524818"
     }
   ]
 }
