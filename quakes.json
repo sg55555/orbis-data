@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-19T06:01:10Z",
+  "updated": "2026-07-19T06:15:44Z",
   "count": 237,
   "points": [
     {
+      "id": "nc75398806",
+      "lon": -122.799667358398,
+      "lat": 38.8289985656738,
+      "depth": 2.57999992370605,
+      "mag": 0.69,
+      "place": "7 km W of Cobb, CA",
+      "time": 1784441035140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398806"
+    },
+    {
+      "id": "ci40657866",
+      "lon": -118.436333333333,
+      "lat": 35.6798333333333,
+      "depth": 4.07,
+      "mag": 0.88,
+      "place": "4 km SSE of Wofford Heights, CA",
+      "time": 1784440935360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657866"
+    },
+    {
       "id": "ci40657858",
-      "lon": -117.201332092285,
-      "lat": 33.8973350524902,
-      "depth": 9.57999992370605,
-      "mag": 1.18752686228228,
-      "place": "4 km SE of Moreno Valley, CA",
-      "time": 1784440640800,
+      "lon": -117.233833333333,
+      "lat": 34.028,
+      "depth": 17.79,
+      "mag": 1.07,
+      "place": "3 km SE of Loma Linda, CA",
+      "time": 1784440638550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657858"
     },
     {
@@ -2352,26 +2372,6 @@
       "place": "8 km W of Calimesa, CA",
       "time": 1784355519220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657426"
-    },
-    {
-      "id": "us7000t1jt",
-      "lon": -92.9244,
-      "lat": 14.2694,
-      "depth": 35,
-      "mag": 4.6,
-      "place": "73 km SW of Puerto Madero, Mexico",
-      "time": 1784355019000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jt"
-    },
-    {
-      "id": "tx2026nzyadh",
-      "lon": -104.156,
-      "lat": 31.526,
-      "depth": 4.6653,
-      "mag": 2.1,
-      "place": "41 km NW of Toyah, Texas",
-      "time": 1784354943318,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nzyadh"
     }
   ]
 }
