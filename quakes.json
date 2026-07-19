@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-19T22:01:07Z",
-  "count": 228,
+  "updated": "2026-07-19T22:26:03Z",
+  "count": 226,
   "points": [
+    {
+      "id": "us7000t1ur",
+      "lon": 176.3277,
+      "lat": 51.9557,
+      "depth": 34.513,
+      "mag": 4.1,
+      "place": "235 km ESE of Attu Station, Alaska",
+      "time": 1784497011845,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ur"
+    },
     {
       "id": "ci40658058",
       "lon": -119.561833333333,
@@ -2252,36 +2262,6 @@
       "place": "12 km NE of Pāhala, Hawaii",
       "time": 1784414899280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75003937"
-    },
-    {
-      "id": "ci40657714",
-      "lon": -117.651666666667,
-      "lat": 35.813,
-      "depth": 7.15,
-      "mag": 0.7,
-      "place": "21 km N of Ridgecrest, CA",
-      "time": 1784413304010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657714"
-    },
-    {
-      "id": "tx2026obefgi",
-      "lon": -104.459,
-      "lat": 31.616,
-      "depth": 3.4817,
-      "mag": 1.9,
-      "place": "62 km S of Whites City, New Mexico",
-      "time": 1784413290717,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026obefgi"
-    },
-    {
-      "id": "ci40657706",
-      "lon": -117.649,
-      "lat": 35.8105,
-      "depth": 7.79,
-      "mag": 1.32,
-      "place": "21 km N of Ridgecrest, CA",
-      "time": 1784412169980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657706"
     }
   ]
 }
