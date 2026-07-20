@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-20T07:15:42Z",
-  "count": 183,
+  "updated": "2026-07-20T07:30:54Z",
+  "count": 181,
   "points": [
+    {
+      "id": "nc75399386",
+      "lon": -122.811500549316,
+      "lat": 38.8241653442383,
+      "depth": 2.75,
+      "mag": 0.65,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1784531729160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399386"
+    },
     {
       "id": "ci40658178",
       "lon": -116.377833333333,
@@ -62,16 +72,6 @@
       "place": "10 km SSE of Pāhala, Hawaii",
       "time": 1784527464420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75004652"
-    },
-    {
-      "id": "tx2026odowuf",
-      "lon": -104.331,
-      "lat": 31.485,
-      "depth": 1.2156,
-      "mag": 1.7,
-      "place": "54 km WNW of Toyah, Texas",
-      "time": 1784526867565,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odowuf"
     },
     {
       "id": "aka2026ofwdul",
@@ -1794,14 +1794,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398846"
     },
     {
-      "id": "aka2026oeedeg",
-      "lon": -168.606,
-      "lat": 52.658,
-      "depth": 72.5,
-      "mag": 2.8,
-      "place": "35 km SSE of Nikolski, Alaska",
-      "time": 1784447576639,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oeedeg"
+      "id": "us7000t1uf",
+      "lon": -168.6286,
+      "lat": 52.6825,
+      "depth": 65.396,
+      "mag": 2.6,
+      "place": "32 km SSE of Nikolski, Alaska",
+      "time": 1784447577372,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1uf"
     },
     {
       "id": "ci40657882",
@@ -1812,26 +1812,6 @@
       "place": "4 km NE of Ocotillo Wells, CA",
       "time": 1784447118430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657882"
-    },
-    {
-      "id": "aka2026oedcyf",
-      "lon": -156.181,
-      "lat": 57.835,
-      "depth": 15.6,
-      "mag": 1.9,
-      "place": "80 km ENE of Ugashik, Alaska",
-      "time": 1784445761272,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oedcyf"
-    },
-    {
-      "id": "aka2026oecypm",
-      "lon": -148.514,
-      "lat": 60.229,
-      "depth": 5,
-      "mag": 1.8,
-      "place": "33 km WNW of Chenega, Alaska",
-      "time": 1784445461729,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oecypm"
     }
   ]
 }
