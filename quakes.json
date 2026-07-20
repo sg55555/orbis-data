@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-20T20:30:51Z",
-  "count": 217,
+  "updated": "2026-07-20T20:38:42Z",
+  "count": 218,
   "points": [
     {
+      "id": "nc75402592",
+      "lon": -122.763336181641,
+      "lat": 38.7856674194336,
+      "depth": 3.58999991416931,
+      "mag": 0.25,
+      "place": "1 km NNW of The Geysers, CA",
+      "time": 1784579747030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75402592"
+    },
+    {
       "id": "ci40658498",
-      "lon": -116.542,
-      "lat": 33.4588333333333,
-      "depth": 10.81,
-      "mag": 0.5,
+      "lon": -116.541333333333,
+      "lat": 33.4568333333333,
+      "depth": 10.86,
+      "mag": 0.51,
       "place": "16 km SE of Anza, CA",
-      "time": 1784578897750,
+      "time": 1784578897710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658498"
     },
     {
@@ -22,6 +32,16 @@
       "place": "6 km ENE of Pāhala, Hawaii",
       "time": 1784578655840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75005122"
+    },
+    {
+      "id": "pr71525223",
+      "lon": -64.5003333333333,
+      "lat": 19.6866666666667,
+      "depth": 9,
+      "mag": 3.43,
+      "place": "153 km NNE of Cruz Bay, U.S. Virgin Islands",
+      "time": 1784578212780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525223"
     },
     {
       "id": "nc75402577",
@@ -2162,16 +2182,6 @@
       "place": "4 km W of Cobb, CA",
       "time": 1784493618150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399161"
-    },
-    {
-      "id": "ci40658034",
-      "lon": -117.0545,
-      "lat": 34.2068333333333,
-      "depth": 2.07,
-      "mag": 0.76,
-      "place": "5 km E of Running Springs, CA",
-      "time": 1784493278170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658034"
     }
   ]
 }
