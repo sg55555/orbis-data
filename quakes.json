@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-20T14:01:06Z",
-  "count": 197,
+  "updated": "2026-07-20T14:15:39Z",
+  "count": 192,
   "points": [
+    {
+      "id": "hv75004902",
+      "lon": -155.495330810547,
+      "lat": 19.1761665344238,
+      "depth": 28.5799999237061,
+      "mag": 1.76,
+      "place": "3 km SSW of Pāhala, Hawaii",
+      "time": 1784556241810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75004902"
+    },
     {
       "id": "tx2026oeeydp",
       "lon": -104.237,
@@ -405,12 +415,12 @@
     },
     {
       "id": "ci40658258",
-      "lon": -117.842330932617,
-      "lat": 36.0696678161621,
-      "depth": 2.1800000667572,
-      "mag": 3.06375300283763,
+      "lon": -117.842166666667,
+      "lat": 36.0685,
+      "depth": 2.58,
+      "mag": 2.93,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": 1784541017570,
+      "time": 1784541017580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658258"
     },
     {
@@ -1225,12 +1235,12 @@
     },
     {
       "id": "ci40658074",
-      "lon": -116.178333333333,
+      "lon": -116.182666666667,
       "lat": 32.3671666666667,
-      "depth": 10.77,
-      "mag": 1.52,
+      "depth": 8.14,
+      "mag": 1.2,
       "place": "38 km SE of Campo, CA",
-      "time": 1784503774260,
+      "time": 1784503774200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658074"
     },
     {
@@ -1912,66 +1922,6 @@
       "place": "69 km S of Cantwell, Alaska",
       "time": 1784470620687,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oeqyfq"
-    },
-    {
-      "id": "nc75398956",
-      "lon": -122.763664245605,
-      "lat": 38.7848320007324,
-      "depth": 3.72000002861023,
-      "mag": 0.79,
-      "place": "1 km NW of The Geysers, CA",
-      "time": 1784470470080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398956"
-    },
-    {
-      "id": "nc75398951",
-      "lon": -122.847831726074,
-      "lat": 38.8479995727539,
-      "depth": 1.19000005722046,
-      "mag": 0.63,
-      "place": "11 km NW of The Geysers, CA",
-      "time": 1784470406490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398951"
-    },
-    {
-      "id": "nc75398946",
-      "lon": -120.415000915527,
-      "lat": 39.9216651916504,
-      "depth": -1.37999999523163,
-      "mag": 2.21,
-      "place": "8 km NE of Lake Davis, CA",
-      "time": 1784470338670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398946"
-    },
-    {
-      "id": "us7000t1sr",
-      "lon": 167.5145,
-      "lat": -45.0593,
-      "depth": 65.634,
-      "mag": 4.4,
-      "place": "42 km NNW of Te Anau, New Zealand",
-      "time": 1784470096800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1sr"
-    },
-    {
-      "id": "ci40657954",
-      "lon": -116.645666666667,
-      "lat": 34.6151666666667,
-      "depth": 7.85,
-      "mag": 1.35,
-      "place": "35 km ENE of Lucerne Valley, CA",
-      "time": 1784470014110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657954"
-    },
-    {
-      "id": "us7000t1sp",
-      "lon": -93.2168,
-      "lat": 14.2698,
-      "depth": 10,
-      "mag": 4.3,
-      "place": "99 km WSW of Puerto Madero, Mexico",
-      "time": 1784469671615,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1sp"
     }
   ]
 }
