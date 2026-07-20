@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-20T20:45:44Z",
-  "count": 216,
+  "updated": "2026-07-20T21:01:11Z",
+  "count": 219,
   "points": [
+    {
+      "id": "nc75402612",
+      "lon": -122.759330749512,
+      "lat": 38.8208351135254,
+      "depth": 0.870000004768372,
+      "mag": 0.61,
+      "place": "3 km W of Cobb, CA",
+      "time": 1784580802510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75402612"
+    },
     {
       "id": "nc75402597",
       "lon": -123.229164123535,
@@ -92,6 +102,16 @@
       "place": "44 km NNW of Los Algodones, B.C., MX",
       "time": 1784577642100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658490"
+    },
+    {
+      "id": "tx2026oeracl",
+      "lon": -103.22,
+      "lat": 31.24,
+      "depth": 0,
+      "mag": 2.6,
+      "place": "14 km W of Coyanosa, Texas",
+      "time": 1784577601474,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oeracl"
     },
     {
       "id": "nc75402567",
@@ -1564,6 +1584,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75004632"
     },
     {
+      "id": "us7000t213",
+      "lon": -141.7631,
+      "lat": -57.2663,
+      "depth": 10,
+      "mag": 5.5,
+      "place": "Pacific-Antarctic Ridge",
+      "time": 1784525936465,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t213"
+    },
+    {
       "id": "nc75399356",
       "lon": -122.748336791992,
       "lat": 38.8316650390625,
@@ -2004,6 +2034,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399236"
     },
     {
+      "id": "uw714055052",
+      "lon": -123.791333333333,
+      "lat": 47.5773333333333,
+      "depth": 1.71,
+      "mag": 1.06,
+      "place": "15 km NNE of Amanda Park, Washington",
+      "time": 1784505250330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714055052"
+    },
+    {
       "id": "uw714055042",
       "lon": -123.1345,
       "lat": 48.65,
@@ -2152,16 +2192,6 @@
       "place": "4 km WSW of Anza, CA",
       "time": 1784495328230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658042"
-    },
-    {
-      "id": "aka2026ofebvc",
-      "lon": -149.805,
-      "lat": 61.307,
-      "depth": 29.6,
-      "mag": 1.5,
-      "place": "10 km WNW of Elmendorf Air Force Base, Alaska",
-      "time": 1784494261727,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ofebvc"
     }
   ]
 }
