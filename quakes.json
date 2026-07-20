@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-20T17:45:42Z",
-  "count": 206,
+  "updated": "2026-07-20T18:01:05Z",
+  "count": 208,
   "points": [
+    {
+      "id": "nc75399621",
+      "lon": -122.78800201416,
+      "lat": 38.8168334960938,
+      "depth": 1.97000002861023,
+      "mag": 1.26,
+      "place": "5 km NNW of The Geysers, CA",
+      "time": 1784570205450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399621"
+    },
+    {
+      "id": "aka2026ogugta",
+      "lon": -154.471,
+      "lat": 58.398,
+      "depth": 6.4,
+      "mag": 1.1,
+      "place": "92 km N of Karluk, Alaska",
+      "time": 1784570167502,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogugta"
+    },
+    {
+      "id": "nc75399616",
+      "lon": -122.816329956055,
+      "lat": 38.8320007324219,
+      "depth": 1.78999996185303,
+      "mag": 0.67,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1784569475700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399616"
+    },
     {
       "id": "aka2026ogtibh",
       "lon": -155.97,
@@ -95,12 +125,12 @@
     },
     {
       "id": "tx2026oekkeq",
-      "lon": -104.228,
-      "lat": 31.64,
-      "depth": 4.0404,
-      "mag": 1.5,
+      "lon": -104.225,
+      "lat": 31.644,
+      "depth": 6.1127,
+      "mag": 1.6,
       "place": "54 km NW of Toyah, Texas",
-      "time": 1784565700140,
+      "time": 1784565699937,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oekkeq"
     },
     {
@@ -115,12 +145,12 @@
     },
     {
       "id": "ci40658378",
-      "lon": -117.8055,
-      "lat": 35.318,
-      "depth": 6.83,
-      "mag": 1,
+      "lon": -117.8045,
+      "lat": 35.3183333333333,
+      "depth": 6.96,
+      "mag": 1.08,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1784565448440,
+      "time": 1784565448430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658378"
     },
     {
@@ -195,12 +225,12 @@
     },
     {
       "id": "uw714055312",
-      "lon": -122.643836975098,
-      "lat": 48.3368339538574,
-      "depth": 4.55999994277954,
-      "mag": 1.52999997,
-      "place": "2 km E of Ault Field, Washington",
-      "time": 1784561911800,
+      "lon": -122.608333333333,
+      "lat": 48.2846666666667,
+      "depth": 24.29,
+      "mag": 1.38,
+      "place": "2 km ESE of Oak Harbor, Washington",
+      "time": 1784561910120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714055312"
     },
     {
@@ -284,13 +314,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogobki"
     },
     {
+      "id": "us7000t1y3",
+      "lon": -93.0308,
+      "lat": 14.5421,
+      "depth": 37.056,
+      "mag": 4.2,
+      "place": "68 km WSW of Puerto Madero, Mexico",
+      "time": 1784558968120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1y3"
+    },
+    {
       "id": "tx2026oeglyt",
-      "lon": -104.416,
-      "lat": 31.678,
-      "depth": 7.1732,
+      "lon": -104.411,
+      "lat": 31.683,
+      "depth": 6.0999,
       "mag": 2.3,
-      "place": "55 km S of Whites City, New Mexico",
-      "time": 1784558527533,
+      "place": "54 km S of Whites City, New Mexico",
+      "time": 1784558527912,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oeglyt"
     },
     {
@@ -982,6 +1022,16 @@
       "place": "6 km N of Cabazon, CA",
       "time": 1784534056300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658210"
+    },
+    {
+      "id": "uw714055192",
+      "lon": -122.4245,
+      "lat": 47.2361666666667,
+      "depth": 26.07,
+      "mag": 1.16,
+      "place": "2 km SE of Tacoma, Washington",
+      "time": 1784533946890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714055192"
     },
     {
       "id": "ci40658202",
@@ -2004,6 +2054,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ocryya"
     },
     {
+      "id": "av94319413",
+      "lon": -154.688333333333,
+      "lat": 58.3301666666667,
+      "depth": 5.03,
+      "mag": 0.55,
+      "place": "85 km N of Karluk, Alaska",
+      "time": 1784484439790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94319413"
+    },
+    {
       "id": "pr71525048",
       "lon": -66.9041666666667,
       "lat": 17.9391666666667,
@@ -2022,46 +2082,6 @@
       "place": "3 km SE of Yucca Valley, CA",
       "time": 1784484150290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658010"
-    },
-    {
-      "id": "aka2026oeydhx",
-      "lon": -154.598,
-      "lat": 58.308,
-      "depth": 2.9,
-      "mag": 1.8,
-      "place": "82 km N of Karluk, Alaska",
-      "time": 1784483569820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oeydhx"
-    },
-    {
-      "id": "ci40658002",
-      "lon": -117.254166666667,
-      "lat": 34.0275,
-      "depth": 15.75,
-      "mag": 0.92,
-      "place": "2 km SSE of Loma Linda, CA",
-      "time": 1784483215360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658002"
-    },
-    {
-      "id": "aka2026oexxpo",
-      "lon": -150.679,
-      "lat": 60.659,
-      "depth": 42.3,
-      "mag": 1.8,
-      "place": "14 km NNE of Sterling, Alaska",
-      "time": 1784483176116,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oexxpo"
-    },
-    {
-      "id": "us7000t1tp",
-      "lon": -92.9052,
-      "lat": 14.1592,
-      "depth": 35,
-      "mag": 5.5,
-      "place": "81 km SW of Puerto Madero, Mexico",
-      "time": 1784483116923,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1tp"
     }
   ]
 }
