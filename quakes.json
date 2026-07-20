@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-20T17:30:59Z",
-  "count": 208,
+  "updated": "2026-07-20T17:45:42Z",
+  "count": 206,
   "points": [
     {
       "id": "aka2026ogtibh",
@@ -74,6 +74,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oekozw"
     },
     {
+      "id": "tx2026oekmlz",
+      "lon": -104.221,
+      "lat": 31.652,
+      "depth": 6.3049,
+      "mag": 1.9,
+      "place": "55 km NW of Toyah, Texas",
+      "time": 1784565788485,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oekmlz"
+    },
+    {
       "id": "tx2026oekmbp",
       "lon": -104.224,
       "lat": 31.641,
@@ -82,16 +92,6 @@
       "place": "54 km NW of Toyah, Texas",
       "time": 1784565788380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oekmbp"
-    },
-    {
-      "id": "tx2026oekmlz",
-      "lon": -104.232,
-      "lat": 31.644,
-      "depth": 4.7594,
-      "mag": 2,
-      "place": "55 km NW of Toyah, Texas",
-      "time": 1784565788350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oekmlz"
     },
     {
       "id": "tx2026oekkeq",
@@ -145,12 +145,12 @@
     },
     {
       "id": "ci40658354",
-      "lon": -115.727166666667,
-      "lat": 32.6275,
-      "depth": 5.02,
-      "mag": 1.47,
-      "place": "14 km WNW of Progreso, B.C., MX",
-      "time": 1784564581690,
+      "lon": -115.732666666667,
+      "lat": 32.63,
+      "depth": 5.14,
+      "mag": 1.38,
+      "place": "15 km WNW of Progreso, B.C., MX",
+      "time": 1784564581700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658354"
     },
     {
@@ -1042,6 +1042,16 @@
       "place": "7 km ESE of Valle Vista, CA",
       "time": 1784532637420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658186"
+    },
+    {
+      "id": "uw714055182",
+      "lon": -122.154666666667,
+      "lat": 46.2015,
+      "depth": 6.41,
+      "mag": 0.11,
+      "place": "39 km NE of Amboy, Washington",
+      "time": 1784532495840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714055182"
     },
     {
       "id": "pr71525078",
@@ -2052,36 +2062,6 @@
       "place": "81 km SW of Puerto Madero, Mexico",
       "time": 1784483116923,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1tp"
-    },
-    {
-      "id": "aka2026oexrhb",
-      "lon": -153.395,
-      "lat": 57.667,
-      "depth": 53.2,
-      "mag": 1.9,
-      "place": "37 km ENE of Larsen Bay, Alaska",
-      "time": 1784482737474,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oexrhb"
-    },
-    {
-      "id": "nc75399076",
-      "lon": -122.85050201416,
-      "lat": 38.8286666870117,
-      "depth": 1.16999995708466,
-      "mag": 0.7,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1784482401730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399076"
-    },
-    {
-      "id": "hv75004427",
-      "lon": -155.272659301758,
-      "lat": 19.3691673278809,
-      "depth": 28.9599990844727,
-      "mag": 2.2,
-      "place": "9 km SSW of Volcano, Hawaii",
-      "time": 1784482260040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75004427"
     }
   ]
 }
