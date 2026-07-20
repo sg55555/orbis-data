@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-20T20:15:46Z",
-  "count": 214,
+  "updated": "2026-07-20T20:30:51Z",
+  "count": 217,
   "points": [
+    {
+      "id": "ci40658498",
+      "lon": -116.542,
+      "lat": 33.4588333333333,
+      "depth": 10.81,
+      "mag": 0.5,
+      "place": "16 km SE of Anza, CA",
+      "time": 1784578897750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658498"
+    },
+    {
+      "id": "hv75005122",
+      "lon": -155.421173095703,
+      "lat": 19.2323341369629,
+      "depth": -0.330000013113022,
+      "mag": 2.18,
+      "place": "6 km ENE of Pāhala, Hawaii",
+      "time": 1784578655840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75005122"
+    },
     {
       "id": "nc75402577",
       "lon": -122.81600189209,
@@ -14,14 +34,34 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75402577"
     },
     {
+      "id": "pr71525208",
+      "lon": -67.217,
+      "lat": 18.8401666666667,
+      "depth": 17.48,
+      "mag": 3.24,
+      "place": "40 km NNW of San Antonio, Puerto Rico",
+      "time": 1784578018100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525208"
+    },
+    {
       "id": "aka2026ogyoza",
-      "lon": -149.206,
-      "lat": 61.909,
-      "depth": 5,
+      "lon": -149.209,
+      "lat": 61.903,
+      "depth": 5.5,
       "mag": 2,
-      "place": "18 km N of Fishhook, Alaska",
-      "time": 1784577943076,
+      "place": "17 km N of Fishhook, Alaska",
+      "time": 1784577943187,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogyoza"
+    },
+    {
+      "id": "ci40658490",
+      "lon": -114.946833333333,
+      "lat": 33.052,
+      "depth": -0.21,
+      "mag": 1.19,
+      "place": "44 km NNW of Los Algodones, B.C., MX",
+      "time": 1784577642100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658490"
     },
     {
       "id": "nc75402567",
@@ -2132,16 +2172,6 @@
       "place": "5 km E of Running Springs, CA",
       "time": 1784493278170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658034"
-    },
-    {
-      "id": "us7000t1ue",
-      "lon": -178.6181,
-      "lat": -32.8884,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "south of the Kermadec Islands",
-      "time": 1784492622595,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ue"
     }
   ]
 }
