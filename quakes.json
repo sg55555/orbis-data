@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-20T06:45:42Z",
-  "count": 183,
+  "updated": "2026-07-20T07:01:08Z",
+  "count": 184,
   "points": [
+    {
+      "id": "ci40658170",
+      "lon": -116.592666666667,
+      "lat": 33.447,
+      "depth": 10.26,
+      "mag": 2.03,
+      "place": "14 km SSE of Anza, CA",
+      "time": 1784530252970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658170"
+    },
+    {
+      "id": "us7000t1w2",
+      "lon": -129.342,
+      "lat": 49.4076,
+      "depth": 10,
+      "mag": 5.6,
+      "place": "208 km SW of Port McNeill, Canada",
+      "time": 1784529690614,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1w2"
+    },
     {
       "id": "tx2026odpryd",
       "lon": -104.341,
@@ -1822,16 +1842,6 @@
       "place": "0 km SSE of Guánica, Puerto Rico",
       "time": 1784444640750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524968"
-    },
-    {
-      "id": "pr2026200000",
-      "lon": -68.411,
-      "lat": 18.2663,
-      "depth": 131,
-      "mag": 3.78,
-      "place": "24 km ESE of Boca de Yuma, Dominican Republic",
-      "time": 1784443978620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026200000"
     }
   ]
 }
