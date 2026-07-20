@@ -1,16 +1,56 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-20T02:01:07Z",
-  "count": 205,
+  "updated": "2026-07-20T02:15:45Z",
+  "count": 207,
   "points": [
     {
+      "id": "hv75004577",
+      "lon": -155.570831298828,
+      "lat": 19.5195007324219,
+      "depth": 3.22000002861023,
+      "mag": 1.96,
+      "place": "31 km ENE of Honaunau-Napoopoo, Hawaii",
+      "time": 1784513273800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75004577"
+    },
+    {
+      "id": "hv75004582",
+      "lon": -155.557662963867,
+      "lat": 19.5116672515869,
+      "depth": 14.789999961853,
+      "mag": 2.07,
+      "place": "32 km E of Honaunau-Napoopoo, Hawaii",
+      "time": 1784513269890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75004582"
+    },
+    {
+      "id": "nc75399291",
+      "lon": -122.782165527344,
+      "lat": 38.8363342285156,
+      "depth": 1.76999998092651,
+      "mag": 1.49,
+      "place": "5 km WNW of Cobb, CA",
+      "time": 1784512895090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399291"
+    },
+    {
+      "id": "us7000t1vc",
+      "lon": -73.0723,
+      "lat": 6.7581,
+      "depth": 152.012,
+      "mag": 4.6,
+      "place": "3 km NE of Jordán, Colombia",
+      "time": 1784511854908,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1vc"
+    },
+    {
       "id": "tx2026odgine",
-      "lon": -103.434,
-      "lat": 31.278,
-      "depth": 8.2868,
-      "mag": 2,
+      "lon": -103.418,
+      "lat": 31.289,
+      "depth": 7.4005,
+      "mag": 2.1,
       "place": "14 km SE of Lindsay, Texas",
-      "time": 1784511202328,
+      "time": 1784511202749,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odgine"
     },
     {
@@ -2032,26 +2072,6 @@
       "place": "2 km NE of Cabazon, CA",
       "time": 1784427404620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657810"
-    },
-    {
-      "id": "nc75398716",
-      "lon": -122.796501159668,
-      "lat": 38.8128318786621,
-      "depth": 3.10999989509583,
-      "mag": 1.03,
-      "place": "5 km NW of The Geysers, CA",
-      "time": 1784426800230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398716"
-    },
-    {
-      "id": "us7000t1q5",
-      "lon": -92.7735,
-      "lat": 14.3608,
-      "depth": 35,
-      "mag": 4.6,
-      "place": "55 km SW of Puerto Madero, Mexico",
-      "time": 1784426493461,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q5"
     }
   ]
 }
