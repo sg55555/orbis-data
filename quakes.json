@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-20T06:01:04Z",
+  "updated": "2026-07-20T06:15:40Z",
   "count": 187,
   "points": [
+    {
+      "id": "ci40658162",
+      "lon": -116.716666666667,
+      "lat": 33.5311666666667,
+      "depth": 5.32,
+      "mag": 1.1,
+      "place": "5 km WSW of Anza, CA",
+      "time": 1784527676870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658162"
+    },
+    {
+      "id": "hv75004652",
+      "lon": -155.449172973633,
+      "lat": 19.1146659851074,
+      "depth": 29,
+      "mag": 1.79,
+      "place": "10 km SSE of Pāhala, Hawaii",
+      "time": 1784527464420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75004652"
+    },
     {
       "id": "tx2026odowuf",
       "lon": -104.331,
       "lat": 31.485,
-      "depth": 1.2359,
+      "depth": 1.2156,
       "mag": 1.7,
       "place": "54 km WNW of Toyah, Texas",
-      "time": 1784526867564,
+      "time": 1784526867565,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odowuf"
     },
     {
@@ -1852,26 +1872,6 @@
       "place": "232 km ESE of Attu Station, Alaska",
       "time": 1784441965696,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oebabz"
-    },
-    {
-      "id": "nc75398806",
-      "lon": -122.799667358398,
-      "lat": 38.8289985656738,
-      "depth": 2.57999992370605,
-      "mag": 0.69,
-      "place": "7 km W of Cobb, CA",
-      "time": 1784441035140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398806"
-    },
-    {
-      "id": "ci40657866",
-      "lon": -118.436333333333,
-      "lat": 35.6798333333333,
-      "depth": 4.07,
-      "mag": 0.88,
-      "place": "4 km SSE of Wofford Heights, CA",
-      "time": 1784440935360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657866"
     }
   ]
 }
