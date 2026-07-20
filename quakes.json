@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-20T07:01:08Z",
-  "count": 184,
+  "updated": "2026-07-20T07:15:42Z",
+  "count": 183,
   "points": [
+    {
+      "id": "ci40658178",
+      "lon": -116.377833333333,
+      "lat": 33.3566666666667,
+      "depth": 11.58,
+      "mag": 1.47,
+      "place": "11 km N of Borrego Springs, CA",
+      "time": 1784531101890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658178"
+    },
     {
       "id": "ci40658170",
       "lon": -116.592666666667,
@@ -515,12 +525,12 @@
     },
     {
       "id": "tx2026odchwm",
-      "lon": -103.697,
-      "lat": 32.056,
-      "depth": 7.6506,
-      "mag": 1.5,
+      "lon": -103.699,
+      "lat": 32.054,
+      "depth": 6.8323,
+      "mag": 1.6,
       "place": "39 km NNW of Mentone, Texas",
-      "time": 1784503923600,
+      "time": 1784503923797,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odchwm"
     },
     {
@@ -1822,26 +1832,6 @@
       "place": "33 km WNW of Chenega, Alaska",
       "time": 1784445461729,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oecypm"
-    },
-    {
-      "id": "hv75004167",
-      "lon": -155.498840332031,
-      "lat": 19.1853332519531,
-      "depth": 30.3600006103516,
-      "mag": 2.11,
-      "place": "2 km SW of Pāhala, Hawaii",
-      "time": 1784445102270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75004167"
-    },
-    {
-      "id": "pr71524968",
-      "lon": -66.905,
-      "lat": 17.9661666666667,
-      "depth": 14.76,
-      "mag": 2.26,
-      "place": "0 km SSE of Guánica, Puerto Rico",
-      "time": 1784444640750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524968"
     }
   ]
 }
