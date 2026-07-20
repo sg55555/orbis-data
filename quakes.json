@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-20T23:35:06Z",
-  "count": 232,
+  "updated": "2026-07-20T23:45:41Z",
+  "count": 231,
   "points": [
     {
+      "id": "hv75005192",
+      "lon": -155.358840942383,
+      "lat": 19.1248340606689,
+      "depth": 28.1399993896484,
+      "mag": 2,
+      "place": "15 km SE of Pāhala, Hawaii",
+      "time": 1784590428090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75005192"
+    },
+    {
       "id": "ci40658594",
-      "lon": -116.101669311523,
-      "lat": 32.9023323059082,
-      "depth": 5.96999979019165,
-      "mag": 1.43511338415659,
-      "place": "21 km NNW of Ocotillo, CA",
-      "time": 1784590315370,
+      "lon": -116.103,
+      "lat": 32.908,
+      "depth": 13.79,
+      "mag": 1.19,
+      "place": "22 km NNW of Ocotillo, CA",
+      "time": 1784590315440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658594"
     },
     {
@@ -2302,26 +2312,6 @@
       "place": "15 km NNE of Amanda Park, Washington",
       "time": 1784505250330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714055052"
-    },
-    {
-      "id": "aka2026ofjsva",
-      "lon": -149.439,
-      "lat": 61.669,
-      "depth": 27.7,
-      "mag": 1.6,
-      "place": "4 km N of Tanaina, Alaska",
-      "time": 1784504434894,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ofjsva"
-    },
-    {
-      "id": "uw714055042",
-      "lon": -123.133333333333,
-      "lat": 48.6503333333333,
-      "depth": 14.15,
-      "mag": 0.98,
-      "place": "15 km WNW of Orcas, Washington",
-      "time": 1784504171780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714055042"
     }
   ]
 }
