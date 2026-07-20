@@ -1,16 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-20T15:15:45Z",
-  "count": 195,
+  "updated": "2026-07-20T15:30:54Z",
+  "count": 193,
   "points": [
     {
+      "id": "aka2026ogpgvy",
+      "lon": -150.204,
+      "lat": 61.152,
+      "depth": 48.7,
+      "mag": 2.1,
+      "place": "17 km WSW of Anchorage, Alaska",
+      "time": 1784561180890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogpgvy"
+    },
+    {
+      "id": "aka2026ogpfwz",
+      "lon": -155.395,
+      "lat": 57.629,
+      "depth": 19.1,
+      "mag": 1.2,
+      "place": "56 km W of Karluk, Alaska",
+      "time": 1784561113254,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogpfwz"
+    },
+    {
+      "id": "ci40658330",
+      "lon": -118.138166666667,
+      "lat": 35.6706666666667,
+      "depth": 8.19,
+      "mag": 0.88,
+      "place": "28 km ESE of Kernville, CA",
+      "time": 1784560423080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658330"
+    },
+    {
       "id": "ci40658322",
-      "lon": -117.802833557129,
-      "lat": 35.3203315734863,
-      "depth": 7.44000005722046,
-      "mag": 1.18220795334931,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": 1784560390540,
+      "lon": -117.807666666667,
+      "lat": 35.3166666666667,
+      "depth": 7.79,
+      "mag": 1.04,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1784560390530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658322"
     },
     {
@@ -1535,12 +1565,12 @@
     },
     {
       "id": "tx2026ocvhtp",
-      "lon": -102.18,
-      "lat": 32.114,
-      "depth": 4.2502,
+      "lon": -102.194,
+      "lat": 32.13,
+      "depth": 6.8115,
       "mag": 1.6,
-      "place": "16 km NW of Midland, Texas",
-      "time": 1784491246539,
+      "place": "18 km NW of Midland, Texas",
+      "time": 1784491246860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ocvhtp"
     },
     {
@@ -1902,56 +1932,6 @@
       "place": "6 km NNW of The Geysers, CA",
       "time": 1784475609440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398996"
-    },
-    {
-      "id": "aka2026oetgnr",
-      "lon": -147.973,
-      "lat": 61.69,
-      "depth": 19.8,
-      "mag": 2.1,
-      "place": "21 km SW of Glacier View, Alaska",
-      "time": 1784474798634,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oetgnr"
-    },
-    {
-      "id": "uu80145691",
-      "lon": -111.222166666667,
-      "lat": 39.3056666666667,
-      "depth": -1.62,
-      "mag": 1.19,
-      "place": "16 km WNW of Orangeville, Utah",
-      "time": 1784474677820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145691"
-    },
-    {
-      "id": "nc75398986",
-      "lon": -122.751831054688,
-      "lat": 38.7949981689453,
-      "depth": 1.03999996185303,
-      "mag": 0.72,
-      "place": "2 km NNE of The Geysers, CA",
-      "time": 1784474666080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398986"
-    },
-    {
-      "id": "us7000t1t5",
-      "lon": -92.7186,
-      "lat": 14.1947,
-      "depth": 34.155,
-      "mag": 4.2,
-      "place": "65 km SW of Brisas Barra de Suchiate, Mexico",
-      "time": 1784474439514,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1t5"
-    },
-    {
-      "id": "nc75398976",
-      "lon": -122.78116607666,
-      "lat": 38.8363342285156,
-      "depth": 1.99000000953674,
-      "mag": 1.26,
-      "place": "5 km WNW of Cobb, CA",
-      "time": 1784474253740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398976"
     }
   ]
 }
