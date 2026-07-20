@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-20T18:01:05Z",
+  "updated": "2026-07-20T18:15:40Z",
   "count": 208,
   "points": [
+    {
+      "id": "hv75005042",
+      "lon": -155.13166809082,
+      "lat": 19.5521659851074,
+      "depth": 1.1599999666214,
+      "mag": 1.88,
+      "place": "2 km W of Mountain View, Hawaii",
+      "time": 1784571034210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75005042"
+    },
     {
       "id": "nc75399621",
       "lon": -122.78800201416,
@@ -232,16 +242,6 @@
       "place": "2 km ESE of Oak Harbor, Washington",
       "time": 1784561910120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714055312"
-    },
-    {
-      "id": "tx2026oeifpt",
-      "lon": -104.216,
-      "lat": 31.646,
-      "depth": 6.8789,
-      "mag": 1.5,
-      "place": "54 km NW of Toyah, Texas",
-      "time": 1784561706097,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oeifpt"
     },
     {
       "id": "aka2026ogpgvy",
@@ -954,6 +954,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogchvc"
     },
     {
+      "id": "uw714055202",
+      "lon": -122.155666666667,
+      "lat": 46.2023333333333,
+      "depth": 7.02,
+      "mag": 0.02,
+      "place": "39 km NE of Amboy, Washington",
+      "time": 1784537442980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714055202"
+    },
+    {
       "id": "ci40658226",
       "lon": -116.504666666667,
       "lat": 33.514,
@@ -1245,12 +1255,12 @@
     },
     {
       "id": "hv75004632",
-      "lon": -155.408828735352,
-      "lat": 19.3986663818359,
-      "depth": 6.1399998664856,
-      "mag": 1.94,
+      "lon": -155.410833333333,
+      "lat": 19.3955,
+      "depth": 7.98,
+      "mag": 1.71,
       "place": "19 km WSW of Volcano, Hawaii",
-      "time": 1784526222820,
+      "time": 1784526222700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75004632"
     },
     {
@@ -2054,34 +2064,24 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ocryya"
     },
     {
-      "id": "av94319413",
-      "lon": -154.688333333333,
-      "lat": 58.3301666666667,
-      "depth": 5.03,
-      "mag": 0.55,
+      "id": "av94319438",
+      "lon": -154.688833333333,
+      "lat": 58.3298333333333,
+      "depth": 5.05,
+      "mag": 0.59,
       "place": "85 km N of Karluk, Alaska",
-      "time": 1784484439790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94319413"
+      "time": 1784485164250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94319438"
     },
     {
-      "id": "pr71525048",
-      "lon": -66.9041666666667,
-      "lat": 17.9391666666667,
-      "depth": 13.06,
-      "mag": 1.8,
-      "place": "3 km S of Guánica, Puerto Rico",
-      "time": 1784484428060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525048"
-    },
-    {
-      "id": "ci40658010",
-      "lon": -116.409333333333,
-      "lat": 34.0951666666667,
-      "depth": 6.34,
-      "mag": 1.13,
-      "place": "3 km SE of Yucca Valley, CA",
-      "time": 1784484150290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658010"
+      "id": "av93064544",
+      "lon": -154.680833333333,
+      "lat": 58.3188333333333,
+      "depth": 3.63,
+      "mag": 0.17,
+      "place": "84 km N of Karluk, Alaska",
+      "time": 1784485136440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064544"
     }
   ]
 }
