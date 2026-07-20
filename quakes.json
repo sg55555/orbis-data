@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-20T21:01:11Z",
-  "count": 219,
+  "updated": "2026-07-20T21:15:42Z",
+  "count": 220,
   "points": [
+    {
+      "id": "nc75402642",
+      "lon": -122.785003662109,
+      "lat": 38.8366661071777,
+      "depth": 1.97000002861023,
+      "mag": 0.77,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1784581682370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75402642"
+    },
     {
       "id": "nc75402612",
       "lon": -122.759330749512,
@@ -12,6 +22,16 @@
       "place": "3 km W of Cobb, CA",
       "time": 1784580802510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75402612"
+    },
+    {
+      "id": "us7000t21e",
+      "lon": -178.0878,
+      "lat": -32.759,
+      "depth": 10,
+      "mag": 5,
+      "place": "south of the Kermadec Islands",
+      "time": 1784580259902,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t21e"
     },
     {
       "id": "nc75402597",
@@ -2034,6 +2054,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399236"
     },
     {
+      "id": "uw714055062",
+      "lon": -123.052166666667,
+      "lat": 48.6286666666667,
+      "depth": 12.61,
+      "mag": 0.87,
+      "place": "8 km WNW of Orcas, Washington",
+      "time": 1784505483580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714055062"
+    },
+    {
       "id": "uw714055052",
       "lon": -123.791333333333,
       "lat": 47.5773333333333,
@@ -2172,26 +2202,6 @@
       "place": "4 km WNW of Carpinteria, CA",
       "time": 1784496144030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658058"
-    },
-    {
-      "id": "ci40658050",
-      "lon": -116.711166666667,
-      "lat": 33.5363333333333,
-      "depth": 5.37,
-      "mag": 0.79,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1784495584480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658050"
-    },
-    {
-      "id": "ci40658042",
-      "lon": -116.713833333333,
-      "lat": 33.5356666666667,
-      "depth": 4.85,
-      "mag": 0.75,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1784495328230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658042"
     }
   ]
 }
