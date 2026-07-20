@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-20T19:30:52Z",
-  "count": 209,
+  "updated": "2026-07-20T19:45:38Z",
+  "count": 210,
   "points": [
+    {
+      "id": "ci40658474",
+      "lon": -117.491,
+      "lat": 33.8463333333333,
+      "depth": 2.28,
+      "mag": 1.56,
+      "place": "4 km SE of Home Gardens, CA",
+      "time": 1784576055160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658474"
+    },
+    {
+      "id": "aka2026ogxlxp",
+      "lon": -151.303,
+      "lat": 63.482,
+      "depth": 5,
+      "mag": 2,
+      "place": "21 km ESE of Denali National Park, Alaska",
+      "time": 1784575923039,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogxlxp"
+    },
     {
       "id": "hv75005097",
       "lon": -155.498001098633,
@@ -52,6 +72,16 @@
       "place": "3 km S of Guánica, Puerto Rico",
       "time": 1784574853230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525198"
+    },
+    {
+      "id": "us7000t20d",
+      "lon": 147.4393,
+      "lat": 15.8467,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "193 km ENE of Saipan, Northern Mariana Islands",
+      "time": 1784574844693,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t20d"
     },
     {
       "id": "aka2026ogvzxk",
@@ -1445,12 +1475,12 @@
     },
     {
       "id": "hv75004612",
-      "lon": -155.50700378418,
-      "lat": 19.4793338775635,
-      "depth": 2.40000009536743,
-      "mag": 1.97,
+      "lon": -155.504166666667,
+      "lat": 19.4876666666667,
+      "depth": 3.39,
+      "mag": 1.6,
       "place": "28 km W of Volcano, Hawaii",
-      "time": 1784522775130,
+      "time": 1784522775020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75004612"
     },
     {
@@ -2072,26 +2102,6 @@
       "place": "17 km NW of Midland, Texas",
       "time": 1784490749045,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ocvajg"
-    },
-    {
-      "id": "ci40658026",
-      "lon": -115.944666666667,
-      "lat": 33.769,
-      "depth": 2.03,
-      "mag": 1.15,
-      "place": "23 km NE of Thermal, CA",
-      "time": 1784489742340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658026"
-    },
-    {
-      "id": "aka2026ofblfo",
-      "lon": -146.896,
-      "lat": 60.784,
-      "depth": 17,
-      "mag": 1.5,
-      "place": "14 km SW of Tatitlek, Alaska",
-      "time": 1784489514851,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ofblfo"
     }
   ]
 }
