@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-20T12:45:37Z",
-  "count": 185,
+  "updated": "2026-07-20T13:01:08Z",
+  "count": 187,
   "points": [
+    {
+      "id": "aka2026ogjwyy",
+      "lon": -155.321,
+      "lat": 58.177,
+      "depth": 5,
+      "mag": 0.4,
+      "place": "85 km NW of Karluk, Alaska",
+      "time": 1784551499780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogjwyy"
+    },
+    {
+      "id": "tx2026oecmhi",
+      "lon": -104.224,
+      "lat": 31.635,
+      "depth": 4.5254,
+      "mag": 2.2,
+      "place": "54 km NW of Toyah, Texas",
+      "time": 1784551473481,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oecmhi"
+    },
     {
       "id": "aka2026ogjslt",
       "lon": -151.395,
@@ -25,12 +45,12 @@
     },
     {
       "id": "tx2026oebstu",
-      "lon": -103.236,
-      "lat": 31.989,
-      "depth": 6.9813,
+      "lon": -103.235,
+      "lat": 31.99,
+      "depth": 6.985,
       "mag": 1.9,
       "place": "14 km SSW of Jal, New Mexico",
-      "time": 1784549945794,
+      "time": 1784549945790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oebstu"
     },
     {
@@ -42,6 +62,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1784548543370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399446"
+    },
+    {
+      "id": "tx2026oeaysj",
+      "lon": -103.565,
+      "lat": 30.83,
+      "depth": 1.1696,
+      "mag": 1.9,
+      "place": "24 km SE of Balmorhea, Texas",
+      "time": 1784548542876,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oeaysj"
     },
     {
       "id": "tx2026oeayqf",
@@ -1842,16 +1872,6 @@
       "place": "10 km NE of Pāhala, Hawaii",
       "time": 1784467788410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75004292"
-    },
-    {
-      "id": "aka2026oeobsb",
-      "lon": -154.62,
-      "lat": 58.325,
-      "depth": 9.8,
-      "mag": 1.5,
-      "place": "84 km N of Karluk, Alaska",
-      "time": 1784465466392,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oeobsb"
     }
   ]
 }
