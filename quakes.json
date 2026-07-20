@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-20T05:30:51Z",
-  "count": 190,
+  "updated": "2026-07-20T05:45:46Z",
+  "count": 189,
   "points": [
+    {
+      "id": "nc75399356",
+      "lon": -122.748336791992,
+      "lat": 38.8316650390625,
+      "depth": 0.5,
+      "mag": 0.72,
+      "place": "2 km WNW of Cobb, CA",
+      "time": 1784525594850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399356"
+    },
     {
       "id": "aka2026ofvecd",
       "lon": -155.145,
@@ -105,12 +115,12 @@
     },
     {
       "id": "tx2026odltnu",
-      "lon": -102.697,
-      "lat": 32.136,
-      "depth": 3.2897,
-      "mag": 1.8,
-      "place": "18 km NNW of Goldsmith, Texas",
-      "time": 1784521023251,
+      "lon": -102.693,
+      "lat": 32.148,
+      "depth": 7.666,
+      "mag": 1.9,
+      "place": "19 km NNW of Goldsmith, Texas",
+      "time": 1784521023353,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odltnu"
     },
     {
@@ -1882,26 +1892,6 @@
       "place": "25 km NW of Nikiski, Alaska",
       "time": 1784440038315,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026odzxrq"
-    },
-    {
-      "id": "pr71524953",
-      "lon": -66.9735,
-      "lat": 17.9768333333333,
-      "depth": 7.97,
-      "mag": 2.04,
-      "place": "6 km W of Fuig, Puerto Rico",
-      "time": 1784439781230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524953"
-    },
-    {
-      "id": "nc75398786",
-      "lon": -122.014335632324,
-      "lat": 39.5373344421387,
-      "depth": 30.5599994659424,
-      "mag": 2.32,
-      "place": "15 km E of Willows, CA",
-      "time": 1784439337170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398786"
     }
   ]
 }
