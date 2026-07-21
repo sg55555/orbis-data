@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-21T01:30:51Z",
-  "count": 236,
+  "updated": "2026-07-21T01:45:47Z",
+  "count": 238,
   "points": [
     {
+      "id": "nc75402807",
+      "lon": -122.793502807617,
+      "lat": 38.798999786377,
+      "depth": 4.38000011444092,
+      "mag": 0.35,
+      "place": "4 km NW of The Geysers, CA",
+      "time": 1784597353930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75402807"
+    },
+    {
       "id": "ci40658618",
-      "lon": -116.641998291016,
-      "lat": 34.9583320617676,
-      "depth": 11.4099998474121,
-      "mag": 1.62903035759043,
+      "lon": -116.647666666667,
+      "lat": 34.9553333333333,
+      "depth": 9.43,
+      "mag": 1.46,
       "place": "34 km S of Fort Irwin, CA",
-      "time": 1784597271630,
+      "time": 1784597271720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658618"
     },
     {
@@ -72,6 +82,16 @@
       "place": "northern Mid-Atlantic Ridge",
       "time": 1784595814930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t23e"
+    },
+    {
+      "id": "pr2026202000",
+      "lon": -64.8385,
+      "lat": 19.3176,
+      "depth": 19,
+      "mag": 3.56,
+      "place": "108 km N of Charlotte Amalie, U.S. Virgin Islands",
+      "time": 1784595651950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026202000"
     },
     {
       "id": "nc75402777",
@@ -192,6 +212,16 @@
       "place": "5 km NE of Santa Rosa, CA",
       "time": 1784590033560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75402747"
+    },
+    {
+      "id": "us7000t22v",
+      "lon": 143.7832,
+      "lat": 45.5752,
+      "depth": 302.727,
+      "mag": 4,
+      "place": "117 km NE of Esashi, Japan",
+      "time": 1784589502474,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t22v"
     },
     {
       "id": "tx2026oexnyw",
@@ -2352,16 +2382,6 @@
       "place": "13 km SW of Thatcher, Utah",
       "time": 1784512063340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145736"
-    },
-    {
-      "id": "us7000t1vc",
-      "lon": -73.0723,
-      "lat": 6.7581,
-      "depth": 152.012,
-      "mag": 4.6,
-      "place": "3 km NE of Jordán, Colombia",
-      "time": 1784511854908,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1vc"
     }
   ]
 }
