@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-21T15:00:58Z",
-  "count": 225,
+  "updated": "2026-07-21T15:15:37Z",
+  "count": 223,
   "points": [
+    {
+      "id": "nc75403022",
+      "lon": -122.80899810791,
+      "lat": 38.8208351135254,
+      "depth": 2.89000010490417,
+      "mag": 0.75,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1784646518850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403022"
+    },
+    {
+      "id": "ci40658794",
+      "lon": -116.704,
+      "lat": 33.6826666666667,
+      "depth": 15.51,
+      "mag": 1.33,
+      "place": "7 km SSE of Idyllwild, CA",
+      "time": 1784646225740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658794"
+    },
     {
       "id": "tx2026ogbxbb",
       "lon": -101.938,
@@ -45,13 +65,23 @@
     },
     {
       "id": "tx2026ogbijt",
-      "lon": -103.881,
-      "lat": 31.971,
-      "depth": 7.3115,
+      "lon": -103.882,
+      "lat": 31.965,
+      "depth": 7.3944,
       "mag": 1.6,
       "place": "33 km SSE of Malaga, New Mexico",
-      "time": 1784643348257,
+      "time": 1784643348722,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ogbijt"
+    },
+    {
+      "id": "tx2026ogarhz",
+      "lon": -101.926,
+      "lat": 32.099,
+      "depth": 8.374,
+      "mag": 1.1,
+      "place": "13 km WSW of Stanton, Texas",
+      "time": 1784642160788,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ogarhz"
     },
     {
       "id": "aka2026oiidix",
@@ -285,12 +315,12 @@
     },
     {
       "id": "ci40658738",
-      "lon": -115.216666666667,
-      "lat": 32.179,
-      "depth": 19.35,
-      "mag": 1.97,
-      "place": "7 km SW of Alberto Oviedo Mota, B.C., MX",
-      "time": 1784634552820,
+      "lon": -115.227666666667,
+      "lat": 32.1761666666667,
+      "depth": 10.72,
+      "mag": 2.09,
+      "place": "8 km SW of Alberto Oviedo Mota, B.C., MX",
+      "time": 1784634552830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658738"
     },
     {
@@ -1585,32 +1615,22 @@
     },
     {
       "id": "tx2026oetosy",
-      "lon": -103.956,
-      "lat": 31.606,
-      "depth": 6.4473,
+      "lon": -103.953,
+      "lat": 31.604,
+      "depth": 8.7274,
       "mag": 2.1,
       "place": "35 km WSW of Mentone, Texas",
-      "time": 1784582239564,
+      "time": 1784582239717,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oetosy"
     },
     {
-      "id": "tx2026oetlcu",
-      "lon": -103.242,
-      "lat": 32.004,
-      "depth": 4.4508,
-      "mag": 2,
-      "place": "12 km SSW of Jal, New Mexico",
-      "time": 1784582066786,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oetlcu"
-    },
-    {
       "id": "tx2026oetmkt",
-      "lon": -103.243,
-      "lat": 31.998,
-      "depth": 5.5039,
-      "mag": 2,
-      "place": "13 km SSW of Jal, New Mexico",
-      "time": 1784582066443,
+      "lon": -103.261,
+      "lat": 31.992,
+      "depth": 4.895,
+      "mag": 1.9,
+      "place": "14 km SSW of Jal, New Mexico",
+      "time": 1784582066967,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oetmkt"
     },
     {
@@ -2212,46 +2232,6 @@
       "place": "17 km WSW of Anchorage, Alaska",
       "time": 1784561180890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogpgvy"
-    },
-    {
-      "id": "ci40658330",
-      "lon": -118.135833333333,
-      "lat": 35.6708333333333,
-      "depth": 7.16,
-      "mag": 0.89,
-      "place": "28 km ESE of Kernville, CA",
-      "time": 1784560423110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658330"
-    },
-    {
-      "id": "ci40658322",
-      "lon": -117.807333333333,
-      "lat": 35.3165,
-      "depth": 7.31,
-      "mag": 1.11,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1784560390530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658322"
-    },
-    {
-      "id": "ci10246150",
-      "lon": -117.671833333333,
-      "lat": 35.8705,
-      "depth": 11.49,
-      "mag": -0.04,
-      "place": "22 km ESE of Little Lake, CA",
-      "time": 1784560388930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10246150"
-    },
-    {
-      "id": "ci40658314",
-      "lon": -117.580333333333,
-      "lat": 34.0258333333333,
-      "depth": 4.83,
-      "mag": 0.99,
-      "place": "5 km SE of Ontario, CA",
-      "time": 1784560048180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658314"
     }
   ]
 }
