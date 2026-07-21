@@ -1,6 +1,6 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-21T14:45:34Z",
+  "updated": "2026-07-21T15:00:58Z",
   "count": 225,
   "points": [
     {
@@ -47,10 +47,10 @@
       "id": "tx2026ogbijt",
       "lon": -103.881,
       "lat": 31.971,
-      "depth": 7.4484,
+      "depth": 7.3115,
       "mag": 1.6,
       "place": "33 km SSE of Malaga, New Mexico",
-      "time": 1784643348229,
+      "time": 1784643348257,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ogbijt"
     },
     {
@@ -65,13 +65,23 @@
     },
     {
       "id": "tx2026ogaldt",
-      "lon": -101.927,
-      "lat": 32.1,
-      "depth": 3.9416,
+      "lon": -101.928,
+      "lat": 32.101,
+      "depth": 8.3252,
       "mag": 1.2,
       "place": "13 km WSW of Stanton, Texas",
-      "time": 1784641741799,
+      "time": 1784641742201,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ogaldt"
+    },
+    {
+      "id": "us7000t26k",
+      "lon": 122.6735,
+      "lat": 13.0193,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "18 km SSE of Talisay, Philippines",
+      "time": 1784641686868,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t26k"
     },
     {
       "id": "us7000t26j",
@@ -135,12 +145,12 @@
     },
     {
       "id": "tx2026ofyzzs",
-      "lon": -104.233,
-      "lat": 31.641,
-      "depth": 4.2612,
+      "lon": -104.224,
+      "lat": 31.651,
+      "depth": 6.0999,
       "mag": 2.3,
       "place": "55 km NW of Toyah, Texas",
-      "time": 1784639341449,
+      "time": 1784639341397,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ofyzzs"
     },
     {
@@ -575,12 +585,12 @@
     },
     {
       "id": "ci40658706",
-      "lon": -120.202666666667,
-      "lat": 34.763,
-      "depth": 1.47,
-      "mag": 2.26,
+      "lon": -120.205833333333,
+      "lat": 34.7635,
+      "depth": 2.23,
+      "mag": 2.27,
       "place": "7 km ENE of Los Alamos, CA",
-      "time": 1784623944660,
+      "time": 1784623944680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658706"
     },
     {
@@ -792,6 +802,16 @@
       "place": "116 km SE of McCarthy, Alaska",
       "time": 1784612790764,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ohryro"
+    },
+    {
+      "id": "uu80145811",
+      "lon": -112.274,
+      "lat": 38.1645,
+      "depth": 2.75,
+      "mag": 1.12,
+      "place": "0 km SSW of Circleville, Utah",
+      "time": 1784612590120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145811"
     },
     {
       "id": "ci40658650",
@@ -1274,6 +1294,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75402762"
     },
     {
+      "id": "uu80145806",
+      "lon": -112.282666666667,
+      "lat": 38.1645,
+      "depth": 1.73,
+      "mag": 1.08,
+      "place": "1 km SW of Circleville, Utah",
+      "time": 1784592498870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145806"
+    },
+    {
       "id": "us7000t232",
       "lon": -172.8619,
       "lat": -14.9677,
@@ -1722,16 +1752,6 @@
       "place": "44 km NNW of Los Algodones, B.C., MX",
       "time": 1784577642100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658490"
-    },
-    {
-      "id": "tx2026oeracl",
-      "lon": -103.22,
-      "lat": 31.24,
-      "depth": 0,
-      "mag": 2.6,
-      "place": "14 km W of Coyanosa, Texas",
-      "time": 1784577601474,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oeracl"
     },
     {
       "id": "nc75402567",
@@ -2232,26 +2252,6 @@
       "place": "5 km SE of Ontario, CA",
       "time": 1784560048180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658314"
-    },
-    {
-      "id": "aka2026ogobki",
-      "lon": -150.468,
-      "lat": 61.606,
-      "depth": 28.1,
-      "mag": 2,
-      "place": "7 km NNE of Susitna, Alaska",
-      "time": 1784559004549,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogobki"
-    },
-    {
-      "id": "us7000t1y3",
-      "lon": -93.0308,
-      "lat": 14.5421,
-      "depth": 37.056,
-      "mag": 4.2,
-      "place": "68 km WSW of Puerto Madero, Mexico",
-      "time": 1784558968120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1y3"
     }
   ]
 }
