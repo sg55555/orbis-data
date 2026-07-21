@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-21T22:00:59Z",
-  "count": 236,
+  "updated": "2026-07-21T22:30:13Z",
+  "count": 237,
   "points": [
+    {
+      "id": "uu80145936",
+      "lon": -112.277666666667,
+      "lat": 38.1636666666667,
+      "depth": 1.55,
+      "mag": 1.48,
+      "place": "1 km SW of Circleville, Utah",
+      "time": 1784671662910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145936"
+    },
     {
       "id": "aka2026oiyepg",
       "lon": -154.964,
@@ -15,12 +25,12 @@
     },
     {
       "id": "nn00922119",
-      "lon": -116.6184,
-      "lat": 38.2837,
-      "depth": 3.9034,
-      "mag": 2.44,
-      "place": "58 km ENE of Tonopah, Nevada",
-      "time": 1784670492125,
+      "lon": -116.4972,
+      "lat": 38.4538,
+      "depth": 9.8099,
+      "mag": 2.16,
+      "place": "77 km ENE of Tonopah, Nevada",
+      "time": 1784670489116,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922119"
     },
     {
@@ -35,12 +45,12 @@
     },
     {
       "id": "nn00922117",
-      "lon": -116.4535,
-      "lat": 37.6413,
-      "depth": 5.4998,
-      "mag": 1.58,
-      "place": "62 km W of Rachel, Nevada",
-      "time": 1784670411127,
+      "lon": -116.4909,
+      "lat": 38.4443,
+      "depth": 10.9173,
+      "mag": 1.65,
+      "place": "77 km ENE of Tonopah, Nevada",
+      "time": 1784670396433,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922117"
     },
     {
@@ -52,6 +62,26 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1784668800750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403317"
+    },
+    {
+      "id": "uu80145921",
+      "lon": -112.310333333333,
+      "lat": 38.17,
+      "depth": 0.56,
+      "mag": 2.14,
+      "place": "3 km W of Circleville, Utah",
+      "time": 1784668647920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145921"
+    },
+    {
+      "id": "uu80145916",
+      "lon": -112.288166666667,
+      "lat": 38.1693333333333,
+      "depth": 2.07,
+      "mag": 1.54,
+      "place": "1 km W of Circleville, Utah",
+      "time": 1784668237640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145916"
     },
     {
       "id": "tx2026ogoizr",
@@ -105,12 +135,12 @@
     },
     {
       "id": "tx2026ogmxst",
-      "lon": -104.231,
-      "lat": 31.647,
-      "depth": 4.3435,
+      "lon": -104.224,
+      "lat": 31.653,
+      "depth": 7.3303,
       "mag": 2.2,
       "place": "55 km NW of Toyah, Texas",
-      "time": 1784664349617,
+      "time": 1784664349520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ogmxst"
     },
     {
@@ -622,6 +652,16 @@
       "place": "5 km SSE of Amber, Oklahoma",
       "time": 1784648529230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026oelf"
+    },
+    {
+      "id": "us7000t26u",
+      "lon": 169.3407,
+      "lat": -18.8977,
+      "depth": 257.573,
+      "mag": 4.4,
+      "place": "71 km N of Isangel, Vanuatu",
+      "time": 1784647752995,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t26u"
     },
     {
       "id": "uu80145876",
@@ -2332,36 +2372,6 @@
       "place": "2 km W of Garrochales, Puerto Rico",
       "time": 1784587114030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525238"
-    },
-    {
-      "id": "nn00922051",
-      "lon": -119.0642,
-      "lat": 39.3165,
-      "depth": 6.6916,
-      "mag": 1.75,
-      "place": "17 km SE of Silver Springs, Nevada",
-      "time": 1784585873831,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922051"
-    },
-    {
-      "id": "nc75402722",
-      "lon": -122.8193359375,
-      "lat": 38.8301658630371,
-      "depth": 1.73000001907349,
-      "mag": 1.19,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1784585130730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75402722"
-    },
-    {
-      "id": "nc75402717",
-      "lon": -122.80933380127,
-      "lat": 38.8223342895508,
-      "depth": 2.79999995231628,
-      "mag": 0.78,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1784585025900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75402717"
     }
   ]
 }
