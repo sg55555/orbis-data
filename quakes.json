@@ -1,13 +1,23 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-21T20:30:53Z",
-  "count": 239,
+  "updated": "2026-07-21T20:45:34Z",
+  "count": 236,
   "points": [
+    {
+      "id": "nn00922112",
+      "lon": -116.4714,
+      "lat": 38.4981,
+      "depth": 2.5234,
+      "mag": 2,
+      "place": "81 km NE of Tonopah, Nevada",
+      "time": 1784666155062,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922112"
+    },
     {
       "id": "tx2026ognpji",
       "lon": -104.234,
       "lat": 31.642,
-      "depth": 4.3979,
+      "depth": 4.398,
       "mag": 2.4,
       "place": "55 km NW of Toyah, Texas",
       "time": 1784665558229,
@@ -25,12 +35,12 @@
     },
     {
       "id": "hv75005892",
-      "lon": -155.484161376953,
-      "lat": 19.1783332824707,
-      "depth": 30.7399997711182,
-      "mag": 2.47,
+      "lon": -155.486333333333,
+      "lat": 19.1808333333333,
+      "depth": 31.8,
+      "mag": 2.44,
       "place": "2 km SSW of Pāhala, Hawaii",
-      "time": 1784664462840,
+      "time": 1784664462780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75005892"
     },
     {
@@ -984,6 +994,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145851"
     },
     {
+      "id": "av93064629",
+      "lon": -159.689166666667,
+      "lat": 55.998,
+      "depth": 31.86,
+      "mag": 0.55,
+      "place": "16 km NW of Ivanof Bay, Alaska",
+      "time": 1784633759190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064629"
+    },
+    {
       "id": "av93064624",
       "lon": -159.654,
       "lat": 56.028,
@@ -1456,11 +1476,11 @@
     {
       "id": "tx2026oflgow",
       "lon": -104.007,
-      "lat": 31.497,
-      "depth": 5.8711,
+      "lat": 31.505,
+      "depth": 8.2404,
       "mag": 1.9,
-      "place": "28 km NW of Toyah, Texas",
-      "time": 1784614263255,
+      "place": "29 km NW of Toyah, Texas",
+      "time": 1784614263328,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oflgow"
     },
     {
@@ -1535,12 +1555,12 @@
     },
     {
       "id": "hv75005367",
-      "lon": -155.481994628906,
-      "lat": 19.1744995117188,
-      "depth": 31.1800003051758,
-      "mag": 2.46,
-      "place": "3 km S of Pāhala, Hawaii",
-      "time": 1784612232860,
+      "lon": -155.485833333333,
+      "lat": 19.1845,
+      "depth": 31.48,
+      "mag": 1.99,
+      "place": "2 km SSW of Pāhala, Hawaii",
+      "time": 1784612232880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75005367"
     },
     {
@@ -2342,56 +2362,6 @@
       "place": "3 km W of Cobb, CA",
       "time": 1784580802510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75402612"
-    },
-    {
-      "id": "us7000t21e",
-      "lon": -178.0878,
-      "lat": -32.759,
-      "depth": 10,
-      "mag": 5,
-      "place": "south of the Kermadec Islands",
-      "time": 1784580259902,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t21e"
-    },
-    {
-      "id": "tx2026oesmds",
-      "lon": -102.173,
-      "lat": 32.112,
-      "depth": 6.5674,
-      "mag": 0.4,
-      "place": "15 km NW of Midland, Texas",
-      "time": 1784580250243,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oesmds"
-    },
-    {
-      "id": "nc75402597",
-      "lon": -123.229164123535,
-      "lat": 39.3671684265137,
-      "depth": 6.51000022888184,
-      "mag": 1.74,
-      "place": "12 km N of Redwood Valley, CA",
-      "time": 1784580216390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75402597"
-    },
-    {
-      "id": "ok2026oczl",
-      "lon": -95.17766667,
-      "lat": 35.90633333,
-      "depth": 0,
-      "mag": 1.44,
-      "place": "4 km SW of Hulbert, Oklahoma",
-      "time": 1784579832779,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026oczl"
-    },
-    {
-      "id": "nc75402592",
-      "lon": -122.763336181641,
-      "lat": 38.7856674194336,
-      "depth": 3.58999991416931,
-      "mag": 0.25,
-      "place": "1 km NNW of The Geysers, CA",
-      "time": 1784579747030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75402592"
     }
   ]
 }
