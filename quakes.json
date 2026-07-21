@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-21T20:15:45Z",
-  "count": 238,
+  "updated": "2026-07-21T20:30:53Z",
+  "count": 239,
   "points": [
+    {
+      "id": "tx2026ognpji",
+      "lon": -104.234,
+      "lat": 31.642,
+      "depth": 4.3979,
+      "mag": 2.4,
+      "place": "55 km NW of Toyah, Texas",
+      "time": 1784665558229,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ognpji"
+    },
+    {
+      "id": "nc75403267",
+      "lon": -122.749336242676,
+      "lat": 38.7874984741211,
+      "depth": 0.980000019073486,
+      "mag": 1.3,
+      "place": "1 km NNE of The Geysers, CA",
+      "time": 1784665511420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403267"
+    },
     {
       "id": "hv75005892",
       "lon": -155.484161376953,
@@ -42,6 +62,16 @@
       "place": "3 km SSE of Home Gardens, CA",
       "time": 1784662798560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658938"
+    },
+    {
+      "id": "us7000t2az",
+      "lon": 168.5976,
+      "lat": -20.2649,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "107 km SW of Isangel, Vanuatu",
+      "time": 1784662158670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2az"
     },
     {
       "id": "ci40658922",
@@ -125,12 +155,12 @@
     },
     {
       "id": "nn00922104",
-      "lon": -119.0692,
-      "lat": 39.3173,
-      "depth": 3.6002,
-      "mag": 1.74,
+      "lon": -119.0653,
+      "lat": 39.3182,
+      "depth": 6.3369,
+      "mag": 1.78,
       "place": "17 km SE of Silver Springs, Nevada",
-      "time": 1784660038865,
+      "time": 1784660039412,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922104"
     },
     {
@@ -935,12 +965,12 @@
     },
     {
       "id": "tx2026ofwcft",
-      "lon": -104.217,
-      "lat": 31.632,
-      "depth": 4.321,
+      "lon": -104.21,
+      "lat": 31.641,
+      "depth": 6.0999,
       "mag": 1.8,
       "place": "53 km NW of Toyah, Texas",
-      "time": 1784634026003,
+      "time": 1784634025960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ofwcft"
     },
     {
@@ -952,6 +982,16 @@
       "place": "0 km NNW of Circleville, Utah",
       "time": 1784633775740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145851"
+    },
+    {
+      "id": "av93064624",
+      "lon": -159.654,
+      "lat": 56.028,
+      "depth": 32.79,
+      "mag": 1.44,
+      "place": "17 km NW of Ivanof Bay, Alaska",
+      "time": 1784633412400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064624"
     },
     {
       "id": "av93064614",
@@ -1155,12 +1195,12 @@
     },
     {
       "id": "hv75005552",
-      "lon": -155.488662719727,
-      "lat": 19.173999786377,
-      "depth": 30.2800006866455,
-      "mag": 2.49,
-      "place": "3 km SSW of Pāhala, Hawaii",
-      "time": 1784627320980,
+      "lon": -155.4845,
+      "lat": 19.1801666666667,
+      "depth": 31.65,
+      "mag": 2.48,
+      "place": "2 km SSW of Pāhala, Hawaii",
+      "time": 1784627320950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75005552"
     },
     {
@@ -2352,36 +2392,6 @@
       "place": "1 km NNW of The Geysers, CA",
       "time": 1784579747030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75402592"
-    },
-    {
-      "id": "ci40658498",
-      "lon": -116.541333333333,
-      "lat": 33.4568333333333,
-      "depth": 10.86,
-      "mag": 0.51,
-      "place": "16 km SE of Anza, CA",
-      "time": 1784578897710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658498"
-    },
-    {
-      "id": "hv75005122",
-      "lon": -155.423,
-      "lat": 19.2305,
-      "depth": 0.16,
-      "mag": 1.92,
-      "place": "6 km ENE of Pāhala, Hawaii",
-      "time": 1784578655950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75005122"
-    },
-    {
-      "id": "uw714055502",
-      "lon": -123.029666666667,
-      "lat": 46.4885,
-      "depth": 18.12,
-      "mag": 1.78,
-      "place": "7 km W of Winlock, Washington",
-      "time": 1784578570730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714055502"
     }
   ]
 }
