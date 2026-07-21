@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-21T16:15:36Z",
-  "count": 228,
+  "updated": "2026-07-21T16:30:45Z",
+  "count": 226,
   "points": [
+    {
+      "id": "hv75005777",
+      "lon": -155.197174072266,
+      "lat": 19.3334999084473,
+      "depth": 4.69999980926514,
+      "mag": 1.92,
+      "place": "12 km SSE of Volcano, Hawaii",
+      "time": 1784651057020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75005777"
+    },
     {
       "id": "nc75403062",
       "lon": -122.796997070312,
@@ -2252,36 +2262,6 @@
       "place": "2 km WSW of Lake Henshaw, CA",
       "time": 1784565166360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658370"
-    },
-    {
-      "id": "nc75399551",
-      "lon": -122.8056640625,
-      "lat": 38.7933349609375,
-      "depth": 4.07999992370605,
-      "mag": 0.28,
-      "place": "5 km WNW of The Geysers, CA",
-      "time": 1784564746080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399551"
-    },
-    {
-      "id": "ci40658354",
-      "lon": -115.732666666667,
-      "lat": 32.63,
-      "depth": 5.14,
-      "mag": 1.38,
-      "place": "15 km WNW of Progreso, B.C., MX",
-      "time": 1784564581700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658354"
-    },
-    {
-      "id": "pr71525173",
-      "lon": -66.9028333333333,
-      "lat": 17.944,
-      "depth": 14.04,
-      "mag": 2.65,
-      "place": "3 km S of Guánica, Puerto Rico",
-      "time": 1784564392550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525173"
     }
   ]
 }
