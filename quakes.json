@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-21T19:46:11Z",
-  "count": 236,
+  "updated": "2026-07-21T20:03:23Z",
+  "count": 235,
   "points": [
     {
       "id": "ci40658938",
@@ -75,12 +75,12 @@
     },
     {
       "id": "tx2026oglavn",
-      "lon": -103.811,
-      "lat": 31.197,
+      "lon": -104.244,
+      "lat": 31.559,
       "depth": 0,
-      "mag": 1.5,
-      "place": "13 km S of Toyah, Texas",
-      "time": 1784660926640,
+      "mag": 0.3,
+      "place": "50 km WNW of Toyah, Texas",
+      "time": 1784660907984,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oglavn"
     },
     {
@@ -155,12 +155,12 @@
     },
     {
       "id": "ci40658898",
-      "lon": -116.314833333333,
-      "lat": 33.3161666666667,
-      "depth": 12.05,
+      "lon": -116.3145,
+      "lat": 33.3156666666667,
+      "depth": 12.49,
       "mag": 1.07,
       "place": "9 km NE of Borrego Springs, CA",
-      "time": 1784658728740,
+      "time": 1784658728720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658898"
     },
     {
@@ -934,6 +934,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658730"
     },
     {
+      "id": "av93064599",
+      "lon": -159.676166666667,
+      "lat": 55.9843333333333,
+      "depth": 24.7,
+      "mag": 0.75,
+      "place": "15 km NW of Ivanof Bay, Alaska",
+      "time": 1784632366530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064599"
+    },
+    {
       "id": "us7000t25j",
       "lon": 144.3814,
       "lat": 12.8216,
@@ -1295,12 +1305,12 @@
     },
     {
       "id": "tx2026ofminc",
-      "lon": -101.877,
-      "lat": 32.271,
-      "depth": 4.6392,
+      "lon": -101.878,
+      "lat": 32.272,
+      "depth": 8.4473,
       "mag": 1.6,
       "place": "17 km NNW of Stanton, Texas",
-      "time": 1784616202747,
+      "time": 1784616203249,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ofminc"
     },
     {
@@ -1312,6 +1322,16 @@
       "place": "84 km SW of Puerto Madero, Mexico",
       "time": 1784616195703,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t24u"
+    },
+    {
+      "id": "tx2026ofmgms",
+      "lon": -101.879,
+      "lat": 32.273,
+      "depth": 7.8369,
+      "mag": 1.1,
+      "place": "18 km NNW of Stanton, Texas",
+      "time": 1784616063582,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ofmgms"
     },
     {
       "id": "se60505983",
@@ -2332,36 +2352,6 @@
       "place": "17 km N of Fishhook, Alaska",
       "time": 1784577943187,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogyoza"
-    },
-    {
-      "id": "ci40658490",
-      "lon": -114.946833333333,
-      "lat": 33.052,
-      "depth": -0.21,
-      "mag": 1.19,
-      "place": "44 km NNW of Los Algodones, B.C., MX",
-      "time": 1784577642100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658490"
-    },
-    {
-      "id": "nc75402567",
-      "lon": -122.797164916992,
-      "lat": 38.8344993591309,
-      "depth": 1.96000003814697,
-      "mag": 0.72,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1784577325830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75402567"
-    },
-    {
-      "id": "ci40658482",
-      "lon": -117.418666666667,
-      "lat": 34.1316666666667,
-      "depth": 3.85,
-      "mag": 0.97,
-      "place": "5 km NE of Fontana, CA",
-      "time": 1784576865310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658482"
     }
   ]
 }
