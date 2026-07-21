@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-21T16:04:44Z",
-  "count": 227,
+  "updated": "2026-07-21T16:15:36Z",
+  "count": 228,
   "points": [
+    {
+      "id": "nc75403062",
+      "lon": -122.796997070312,
+      "lat": 38.8354988098145,
+      "depth": 2.07999992370605,
+      "mag": 0.7,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1784649787970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403062"
+    },
     {
       "id": "aka2026oimlqq",
       "lon": -151.843,
@@ -15,12 +25,12 @@
     },
     {
       "id": "tx2026ogemtj",
-      "lon": -104.219,
-      "lat": 31.636,
-      "depth": 4.2684,
+      "lon": -104.213,
+      "lat": 31.643,
+      "depth": 6.1127,
       "mag": 2,
       "place": "53 km NW of Toyah, Texas",
-      "time": 1784649261550,
+      "time": 1784649261450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ogemtj"
     },
     {
@@ -904,6 +914,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658658"
     },
     {
+      "id": "ci10246190",
+      "lon": -117.538333333333,
+      "lat": 35.6886666666667,
+      "depth": 6.88,
+      "mag": 0.21,
+      "place": "15 km ENE of Ridgecrest, CA",
+      "time": 1784614215730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10246190"
+    },
+    {
       "id": "hv75005372",
       "lon": -155.490173339844,
       "lat": 19.1651668548584,
@@ -1455,12 +1475,12 @@
     },
     {
       "id": "ci40658594",
-      "lon": -116.103,
-      "lat": 32.908,
-      "depth": 13.79,
-      "mag": 1.19,
-      "place": "22 km NNW of Ocotillo, CA",
-      "time": 1784590315440,
+      "lon": -116.360833333333,
+      "lat": 33.005,
+      "depth": 8.54,
+      "mag": 0.96,
+      "place": "24 km ESE of Julian, CA",
+      "time": 1784590319130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658594"
     },
     {
@@ -2262,16 +2282,6 @@
       "place": "3 km S of Guánica, Puerto Rico",
       "time": 1784564392550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525173"
-    },
-    {
-      "id": "ci40658346",
-      "lon": -117.073166666667,
-      "lat": 33.74,
-      "depth": 8.2,
-      "mag": 0.83,
-      "place": "0 km NE of Green Acres, CA",
-      "time": 1784563735250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658346"
     }
   ]
 }
