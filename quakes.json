@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-21T15:30:47Z",
+  "updated": "2026-07-21T15:45:34Z",
   "count": 225,
   "points": [
+    {
+      "id": "ok2026oelf",
+      "lon": -97.85168457,
+      "lat": 35.11455536,
+      "depth": 8.130408287,
+      "mag": 1.92,
+      "place": "5 km SSE of Amber, Oklahoma",
+      "time": 1784648528981,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026oelf"
+    },
     {
       "id": "aka2026oilcve",
       "lon": -147.39,
@@ -42,6 +52,16 @@
       "place": "7 km SSE of Idyllwild, CA",
       "time": 1784646225740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658794"
+    },
+    {
+      "id": "ci40658778",
+      "lon": -118.9685,
+      "lat": 33.9928333333333,
+      "depth": 16.24,
+      "mag": 1.22,
+      "place": "15 km W of Malibu, CA",
+      "time": 1784644781420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658778"
     },
     {
       "id": "tx2026ogbxbb",
@@ -175,12 +195,12 @@
     },
     {
       "id": "ci40658762",
-      "lon": -117.440166666667,
-      "lat": 35.6608333333333,
-      "depth": 5.42,
+      "lon": -117.4395,
+      "lat": 35.6611666666667,
+      "depth": 5.45,
       "mag": 0.85,
       "place": "12 km SSW of Searles Valley, CA",
-      "time": 1784640971050,
+      "time": 1784640971030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658762"
     },
     {
@@ -242,6 +262,16 @@
       "place": "58 km S of Whites City, New Mexico",
       "time": 1784636868885,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ofxthv"
+    },
+    {
+      "id": "tx2026ofxslj",
+      "lon": -104.353,
+      "lat": 31.664,
+      "depth": 7.3303,
+      "mag": 1.5,
+      "place": "56 km S of Whites City, New Mexico",
+      "time": 1784636807464,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ofxslj"
     },
     {
       "id": "tx2026ofxhzw",
@@ -1414,16 +1444,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t22v"
     },
     {
-      "id": "tx2026oexnyw",
-      "lon": -98.318,
-      "lat": 28.679,
-      "depth": 5.0323,
-      "mag": 1.5,
-      "place": "21 km SE of Christine, Texas",
-      "time": 1784589427565,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oexnyw"
-    },
-    {
       "id": "nc75402737",
       "lon": -122.785835266113,
       "lat": 38.8146667480469,
@@ -2232,26 +2252,6 @@
       "place": "199 km WSW of Adak, Alaska",
       "time": 1784562431596,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogpyyr"
-    },
-    {
-      "id": "pr2026201000",
-      "lon": -66.9083,
-      "lat": 17.9515,
-      "depth": 13,
-      "mag": 3.02,
-      "place": "2 km S of Guánica, Puerto Rico",
-      "time": 1784562197560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026201000"
-    },
-    {
-      "id": "uw714055312",
-      "lon": -122.608333333333,
-      "lat": 48.2846666666667,
-      "depth": 24.29,
-      "mag": 1.38,
-      "place": "2 km ESE of Oak Harbor, Washington",
-      "time": 1784561910120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714055312"
     }
   ]
 }
