@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-21T17:00:58Z",
-  "count": 226,
+  "updated": "2026-07-21T17:15:38Z",
+  "count": 221,
   "points": [
+    {
+      "id": "nc75403112",
+      "lon": -122.816329956055,
+      "lat": 38.8288345336914,
+      "depth": 1.88999998569489,
+      "mag": 1.04,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1784653841840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403112"
+    },
+    {
+      "id": "ci40658866",
+      "lon": -116.712833333333,
+      "lat": 33.5376666666667,
+      "depth": 5.45,
+      "mag": 0.65,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1784653452990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658866"
+    },
     {
       "id": "nc75403097",
       "lon": -122.798164367676,
@@ -122,6 +142,16 @@
       "place": "5 km SSE of Amber, Oklahoma",
       "time": 1784648529230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026oelf"
+    },
+    {
+      "id": "uu80145876",
+      "lon": -112.324,
+      "lat": 38.164,
+      "depth": 1.84,
+      "mag": 2.11,
+      "place": "4 km W of Circleville, Utah",
+      "time": 1784647424610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145876"
     },
     {
       "id": "aka2026oilcve",
@@ -1245,12 +1275,12 @@
     },
     {
       "id": "nn00922069",
-      "lon": -119.0596,
-      "lat": 39.3122,
-      "depth": 3.2312,
-      "mag": 2.1,
+      "lon": -119.0576,
+      "lat": 39.3132,
+      "depth": 6.9195,
+      "mag": 2.14,
       "place": "18 km SE of Silver Springs, Nevada",
-      "time": 1784605695837,
+      "time": 1784605696363,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922069"
     },
     {
@@ -2182,86 +2212,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1784569475700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399616"
-    },
-    {
-      "id": "aka2026ogstsa",
-      "lon": -174.987,
-      "lat": 51.808,
-      "depth": 2,
-      "mag": 3.4,
-      "place": "69 km SW of Atka, Alaska",
-      "time": 1784567465869,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogstsa"
-    },
-    {
-      "id": "ok2026ocsp",
-      "lon": -96.7655,
-      "lat": 34.3485,
-      "depth": 0,
-      "mag": 1.03,
-      "place": "8 km SE of Mill Creek, Oklahoma",
-      "time": 1784567444369,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ocsp"
-    },
-    {
-      "id": "nc75399591",
-      "lon": -122.796501159668,
-      "lat": 38.8333320617676,
-      "depth": 1.96000003814697,
-      "mag": 1.14,
-      "place": "6 km W of Cobb, CA",
-      "time": 1784567139740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399591"
-    },
-    {
-      "id": "nc75399586",
-      "lon": -122.795997619629,
-      "lat": 38.8341674804688,
-      "depth": 1.94000005722046,
-      "mag": 1.03,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1784567103900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399586"
-    },
-    {
-      "id": "ok2026ocsk",
-      "lon": -97.87,
-      "lat": 35.094,
-      "depth": 6.9,
-      "mag": 0.65,
-      "place": "7 km S of Amber, Oklahoma",
-      "time": 1784567037289,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ocsk"
-    },
-    {
-      "id": "nc75399576",
-      "lon": -122.81616973877,
-      "lat": 38.8288345336914,
-      "depth": 1.61000001430511,
-      "mag": 1.03,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1784566998080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399576"
-    },
-    {
-      "id": "pr71525188",
-      "lon": -66.9098333333333,
-      "lat": 17.975,
-      "depth": 13.11,
-      "mag": 2.15,
-      "place": "0 km NNW of Guánica, Puerto Rico",
-      "time": 1784566918060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525188"
-    },
-    {
-      "id": "nc75399571",
-      "lon": -123.009002685547,
-      "lat": 38.9561653137207,
-      "depth": 7.76999998092651,
-      "mag": 1.21,
-      "place": "13 km SW of Lakeport, CA",
-      "time": 1784566864200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399571"
     }
   ]
 }
