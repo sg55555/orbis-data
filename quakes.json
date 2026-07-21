@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-21T14:35:44Z",
-  "count": 227,
+  "updated": "2026-07-21T14:45:34Z",
+  "count": 225,
   "points": [
+    {
+      "id": "tx2026ogbxbb",
+      "lon": -101.938,
+      "lat": 32.099,
+      "depth": 4.7425,
+      "mag": 1,
+      "place": "14 km WSW of Stanton, Texas",
+      "time": 1784644371434,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ogbxbb"
+    },
     {
       "id": "nc75403007",
       "lon": -122.74983215332,
@@ -462,6 +472,16 @@
       "place": "3 km SSE of Mount Pleasant, Utah",
       "time": 1784628547600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145836"
+    },
+    {
+      "id": "uu80145831",
+      "lon": -111.428333333333,
+      "lat": 38.6696666666667,
+      "depth": 2.16,
+      "mag": 1.27,
+      "place": "28 km NE of Fremont, Utah",
+      "time": 1784628097690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145831"
     },
     {
       "id": "hv75005567",
@@ -2232,46 +2252,6 @@
       "place": "68 km WSW of Puerto Madero, Mexico",
       "time": 1784558968120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1y3"
-    },
-    {
-      "id": "tx2026oeglyt",
-      "lon": -104.411,
-      "lat": 31.683,
-      "depth": 6.0999,
-      "mag": 2.3,
-      "place": "54 km S of Whites City, New Mexico",
-      "time": 1784558527912,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oeglyt"
-    },
-    {
-      "id": "us7000t1y6",
-      "lon": 107.7304,
-      "lat": 22.4719,
-      "depth": 10,
-      "mag": 4.2,
-      "place": "38 km ENE of Chongzuo, China",
-      "time": 1784558449806,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1y6"
-    },
-    {
-      "id": "aka2026ognqvj",
-      "lon": -174.625,
-      "lat": 51.602,
-      "depth": 19.8,
-      "mag": 4,
-      "place": "72 km SSW of Atka, Alaska",
-      "time": 1784558270629,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ognqvj"
-    },
-    {
-      "id": "ci40658306",
-      "lon": -116.2545,
-      "lat": 32.8833333333333,
-      "depth": 11.74,
-      "mag": 2.35,
-      "place": "27 km ENE of Pine Valley, CA",
-      "time": 1784558138490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658306"
     }
   ]
 }
