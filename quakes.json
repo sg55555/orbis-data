@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-21T09:30:56Z",
+  "updated": "2026-07-21T09:45:32Z",
   "count": 220,
   "points": [
+    {
+      "id": "nc75402952",
+      "lon": -122.855331420898,
+      "lat": 38.8245010375977,
+      "depth": 2.66000008583069,
+      "mag": 0.68,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": 1784626865240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75402952"
+    },
+    {
+      "id": "hv75005537",
+      "lon": -155.487335205078,
+      "lat": 19.1646671295166,
+      "depth": 30.3500003814697,
+      "mag": 1.93,
+      "place": "4 km SSW of Pāhala, Hawaii",
+      "time": 1784626843270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75005537"
+    },
     {
       "id": "us7000t256",
       "lon": -92.5609,
@@ -355,12 +375,12 @@
     },
     {
       "id": "tx2026ofhovo",
-      "lon": -103.246,
-      "lat": 32.002,
-      "depth": 6.6474,
-      "mag": 1.6,
-      "place": "13 km SSW of Jal, New Mexico",
-      "time": 1784607587870,
+      "lon": -103.241,
+      "lat": 32.009,
+      "depth": 6.0999,
+      "mag": 1.5,
+      "place": "12 km SSW of Jal, New Mexico",
+      "time": 1784607588118,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ofhovo"
     },
     {
@@ -2182,26 +2202,6 @@
       "place": "22 km NNW of Scarborough, Trinidad and Tobago",
       "time": 1784540710282,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1wn"
-    },
-    {
-      "id": "us7000t1wm",
-      "lon": 127.2659,
-      "lat": 1.6021,
-      "depth": 69.965,
-      "mag": 5.1,
-      "place": "83 km W of Tobelo, Indonesia",
-      "time": 1784540443255,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1wm"
-    },
-    {
-      "id": "tx2026odwext",
-      "lon": -104.115,
-      "lat": 31.616,
-      "depth": 6.0999,
-      "mag": 2.8,
-      "place": "45 km NW of Toyah, Texas",
-      "time": 1784539944045,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odwext"
     }
   ]
 }
