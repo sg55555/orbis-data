@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-21T18:30:53Z",
+  "updated": "2026-07-21T18:45:37Z",
   "count": 229,
   "points": [
+    {
+      "id": "aka2026oirmza",
+      "lon": -152.617,
+      "lat": 59.984,
+      "depth": 105.5,
+      "mag": 3,
+      "place": "49 km W of Happy Valley, Alaska",
+      "time": 1784658761568,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oirmza"
+    },
+    {
+      "id": "tx2026ogjvjf",
+      "lon": -103.779,
+      "lat": 31.401,
+      "depth": 0,
+      "mag": 1.6,
+      "place": "9 km N of Toyah, Texas",
+      "time": 1784658731924,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ogjvjf"
+    },
+    {
+      "id": "ci40658898",
+      "lon": -116.314833333333,
+      "lat": 33.3161666666667,
+      "depth": 12.05,
+      "mag": 1.07,
+      "place": "9 km NE of Borrego Springs, CA",
+      "time": 1784658728740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658898"
+    },
     {
       "id": "nc75403187",
       "lon": -121.383331298828,
@@ -105,12 +135,12 @@
     },
     {
       "id": "ci40658866",
-      "lon": -116.712833333333,
-      "lat": 33.5376666666667,
-      "depth": 5.45,
-      "mag": 0.65,
+      "lon": -116.7125,
+      "lat": 33.5366666666667,
+      "depth": 5.6,
+      "mag": 0.62,
       "place": "4 km WSW of Anza, CA",
-      "time": 1784653452990,
+      "time": 1784653452960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658866"
     },
     {
@@ -2262,36 +2292,6 @@
       "place": "8 km WNW of Orcas, Washington",
       "time": 1784573646500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714055362"
-    },
-    {
-      "id": "us7000t20b",
-      "lon": 142.4492,
-      "lat": 28.656,
-      "depth": 10,
-      "mag": 4.4,
-      "place": "Bonin Islands, Japan region",
-      "time": 1784573072057,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t20b"
-    },
-    {
-      "id": "ok2026ocvn",
-      "lon": -96.38316667,
-      "lat": 36.64683333,
-      "depth": 0,
-      "mag": 0.91,
-      "place": "4 km WSW of Pawhuska, Oklahoma",
-      "time": 1784572760260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ocvn"
-    },
-    {
-      "id": "uw714055332",
-      "lon": -120.725666666667,
-      "lat": 47.1671666666667,
-      "depth": -0.89,
-      "mag": 1.47,
-      "place": "11 km NNW of Thorp, Washington",
-      "time": 1784572430420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714055332"
     }
   ]
 }
