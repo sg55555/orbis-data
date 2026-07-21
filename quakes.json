@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-21T11:15:35Z",
-  "count": 214,
+  "updated": "2026-07-21T11:33:30Z",
+  "count": 212,
   "points": [
+    {
+      "id": "ci40658730",
+      "lon": -117.849166666667,
+      "lat": 36.026,
+      "depth": 2.36,
+      "mag": 0.64,
+      "place": "9 km ESE of Coso Junction, CA",
+      "time": 1784632725320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658730"
+    },
+    {
+      "id": "us7000t25j",
+      "lon": 144.3814,
+      "lat": 12.8216,
+      "depth": 12.164,
+      "mag": 5,
+      "place": "58 km SSW of Merizo Village, Guam",
+      "time": 1784632185478,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t25j"
+    },
     {
       "id": "ci40658722",
       "lon": -116.3935,
@@ -305,12 +325,12 @@
     },
     {
       "id": "tx2026ofminc",
-      "lon": -101.879,
-      "lat": 32.274,
-      "depth": 3.9124,
-      "mag": 1.5,
-      "place": "18 km NNW of Stanton, Texas",
-      "time": 1784616202980,
+      "lon": -101.877,
+      "lat": 32.271,
+      "depth": 4.6392,
+      "mag": 1.6,
+      "place": "17 km NNW of Stanton, Texas",
+      "time": 1784616202747,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ofminc"
     },
     {
@@ -2102,46 +2122,6 @@
       "place": "36 km NNW of Valdez, Alaska",
       "time": 1784547821176,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oghvvc"
-    },
-    {
-      "id": "tx2026oeaeza",
-      "lon": -103.26,
-      "lat": 32.015,
-      "depth": 4.696,
-      "mag": 1.5,
-      "place": "12 km SSW of Jal, New Mexico",
-      "time": 1784547166997,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oeaeza"
-    },
-    {
-      "id": "aka2026oghefc",
-      "lon": -144.962,
-      "lat": 63.282,
-      "depth": 4.6,
-      "mag": 1.4,
-      "place": "39 km ENE of Paxson, Alaska",
-      "time": 1784546603357,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oghefc"
-    },
-    {
-      "id": "hv75004812",
-      "lon": -155.41633605957,
-      "lat": 19.4678325653076,
-      "depth": -0.140000000596046,
-      "mag": 1.7,
-      "place": "19 km W of Volcano, Hawaii",
-      "time": 1784546491780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75004812"
-    },
-    {
-      "id": "aka2026oghaab",
-      "lon": -151.94,
-      "lat": 60.773,
-      "depth": 83.3,
-      "mag": 2,
-      "place": "36 km WNW of Nikiski, Alaska",
-      "time": 1784546312377,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oghaab"
     }
   ]
 }
