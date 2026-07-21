@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-21T09:01:16Z",
-  "count": 223,
+  "updated": "2026-07-21T09:15:36Z",
+  "count": 222,
   "points": [
+    {
+      "id": "nc75402942",
+      "lon": -121.272163391113,
+      "lat": 36.6268348693848,
+      "depth": 4.90999984741211,
+      "mag": 2.01,
+      "place": "16 km NW of Pinnacles, CA",
+      "time": 1784624864780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75402942"
+    },
     {
       "id": "hv75005522",
       "lon": -155.490173339844,
@@ -184,16 +194,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75005372"
     },
     {
-      "id": "tx2026ofkoyh",
-      "lon": -102.794,
-      "lat": 31.049,
-      "depth": 0.3832,
-      "mag": 1.8,
-      "place": "19 km NNE of Fort Stockton, Texas",
-      "time": 1784613029968,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ofkoyh"
-    },
-    {
       "id": "tx2026ofkojs",
       "lon": -101.923,
       "lat": 32.106,
@@ -315,12 +315,12 @@
     },
     {
       "id": "tx2026ofiyvk",
-      "lon": -103.248,
-      "lat": 32.01,
-      "depth": 7.248,
-      "mag": 1.9,
+      "lon": -103.242,
+      "lat": 32.013,
+      "depth": 6.3306,
+      "mag": 1.7,
       "place": "12 km SSW of Jal, New Mexico",
-      "time": 1784610096290,
+      "time": 1784610096572,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ofiyvk"
     },
     {
@@ -515,12 +515,12 @@
     },
     {
       "id": "tx2026ofbuln",
-      "lon": -103.246,
-      "lat": 32.003,
-      "depth": 4.1921,
-      "mag": 1.8,
-      "place": "13 km SSW of Jal, New Mexico",
-      "time": 1784597165901,
+      "lon": -103.239,
+      "lat": 32.005,
+      "depth": 6.0999,
+      "mag": 1.6,
+      "place": "12 km SSW of Jal, New Mexico",
+      "time": 1784597165287,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ofbuln"
     },
     {
@@ -2222,16 +2222,6 @@
       "place": "4 km WSW of Anza, CA",
       "time": 1784539072000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658234"
-    },
-    {
-      "id": "tx2026odvkzf",
-      "lon": -103.244,
-      "lat": 31.992,
-      "depth": 0.9585,
-      "mag": 2.4,
-      "place": "14 km SSW of Jal, New Mexico",
-      "time": 1784538531168,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odvkzf"
     }
   ]
 }
