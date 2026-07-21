@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-21T09:15:36Z",
-  "count": 222,
+  "updated": "2026-07-21T09:30:56Z",
+  "count": 220,
   "points": [
+    {
+      "id": "us7000t256",
+      "lon": -92.5609,
+      "lat": 14.1651,
+      "depth": 35,
+      "mag": 4.1,
+      "place": "54 km SW of Brisas Barra de Suchiate, Mexico",
+      "time": 1784625000606,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t256"
+    },
     {
       "id": "nc75402942",
       "lon": -121.272163391113,
@@ -665,12 +675,12 @@
     },
     {
       "id": "tx2026oezsgi",
-      "lon": -104.223,
-      "lat": 31.636,
-      "depth": 4.8577,
-      "mag": 1.6,
+      "lon": -104.215,
+      "lat": 31.651,
+      "depth": 6.0999,
+      "mag": 1.5,
       "place": "54 km NW of Toyah, Texas",
-      "time": 1784593348592,
+      "time": 1784593348731,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oezsgi"
     },
     {
@@ -2192,36 +2202,6 @@
       "place": "45 km NW of Toyah, Texas",
       "time": 1784539944045,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odwext"
-    },
-    {
-      "id": "ci40658250",
-      "lon": -117.8155,
-      "lat": 35.3173333333333,
-      "depth": 8.07,
-      "mag": 1.58,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1784539697720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658250"
-    },
-    {
-      "id": "aka2026ogdblh",
-      "lon": -151.406,
-      "lat": 61.401,
-      "depth": 77.3,
-      "mag": 1.9,
-      "place": "33 km NNW of Beluga, Alaska",
-      "time": 1784539215856,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogdblh"
-    },
-    {
-      "id": "ci40658234",
-      "lon": -116.709166666667,
-      "lat": 33.5385,
-      "depth": 5.94,
-      "mag": 0.23,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1784539072000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658234"
     }
   ]
 }
