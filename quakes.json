@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-21T11:00:58Z",
-  "count": 215,
+  "updated": "2026-07-21T11:15:35Z",
+  "count": 214,
   "points": [
+    {
+      "id": "ci40658722",
+      "lon": -116.3935,
+      "lat": 34.0915,
+      "depth": 9.5,
+      "mag": 0.74,
+      "place": "4 km SE of Yucca Valley, CA",
+      "time": 1784631522190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658722"
+    },
     {
       "id": "tx2026ofujnj",
       "lon": -102.164,
@@ -32,6 +42,16 @@
       "place": "2 km W of Pāhala, Hawaii",
       "time": 1784630194400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75005602"
+    },
+    {
+      "id": "us7000t25g",
+      "lon": 70.9186,
+      "lat": 36.7521,
+      "depth": 209.032,
+      "mag": 4,
+      "place": "14 km SSE of Jurm, Afghanistan",
+      "time": 1784629091170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t25g"
     },
     {
       "id": "us7000t25f",
@@ -2122,36 +2142,6 @@
       "place": "36 km WNW of Nikiski, Alaska",
       "time": 1784546312377,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oghaab"
-    },
-    {
-      "id": "us7000t1x8",
-      "lon": -92.8306,
-      "lat": 14.2217,
-      "depth": 35,
-      "mag": 4.5,
-      "place": "70 km SW of Puerto Madero, Mexico",
-      "time": 1784545848518,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1x8"
-    },
-    {
-      "id": "uu80145771",
-      "lon": -110.786833333333,
-      "lat": 44.7678333333333,
-      "depth": 4.85,
-      "mag": 0.92,
-      "place": "24 km SSW of Mammoth, Wyoming",
-      "time": 1784545581920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145771"
-    },
-    {
-      "id": "pr71525113",
-      "lon": -66.8411666666667,
-      "lat": 18.019,
-      "depth": 10.44,
-      "mag": 2.09,
-      "place": "1 km SSE of Yauco, Puerto Rico",
-      "time": 1784545530540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525113"
     }
   ]
 }
