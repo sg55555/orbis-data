@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-21T19:00:58Z",
-  "count": 232,
+  "updated": "2026-07-21T19:15:35Z",
+  "count": 231,
   "points": [
+    {
+      "id": "tx2026oglavn",
+      "lon": -103.811,
+      "lat": 31.197,
+      "depth": 0,
+      "mag": 1.5,
+      "place": "13 km S of Toyah, Texas",
+      "time": 1784660926640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oglavn"
+    },
+    {
+      "id": "ci40658914",
+      "lon": -117.5085,
+      "lat": 33.8703333333333,
+      "depth": 0.06,
+      "mag": 0.98,
+      "place": "1 km SE of Home Gardens, CA",
+      "time": 1784660650370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658914"
+    },
     {
       "id": "nn00922104",
       "lon": -119.0692,
@@ -15,12 +35,12 @@
     },
     {
       "id": "nn00922100",
-      "lon": -116.3594,
-      "lat": 38.6464,
-      "depth": 11.8484,
-      "mag": 2.5,
-      "place": "87 km SE of Kingston, Nevada",
-      "time": 1784659838393,
+      "lon": -116.5044,
+      "lat": 38.4349,
+      "depth": 6.7163,
+      "mag": 2.22,
+      "place": "75 km ENE of Tonopah, Nevada",
+      "time": 1784659838865,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922100"
     },
     {
@@ -55,12 +75,12 @@
     },
     {
       "id": "tx2026ogjvjf",
-      "lon": -103.779,
-      "lat": 31.401,
-      "depth": 0,
-      "mag": 1.6,
-      "place": "9 km N of Toyah, Texas",
-      "time": 1784658731924,
+      "lon": -103.971,
+      "lat": 31.607,
+      "depth": 5.3338,
+      "mag": 0.9,
+      "place": "36 km NNW of Toyah, Texas",
+      "time": 1784658735412,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ogjvjf"
     },
     {
@@ -172,6 +192,16 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1784653841840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403112"
+    },
+    {
+      "id": "us7000t28f",
+      "lon": -69.0034,
+      "lat": -21.329,
+      "depth": 114.381,
+      "mag": 4.2,
+      "place": "78 km W of Ollagüe, Chile",
+      "time": 1784653794073,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t28f"
     },
     {
       "id": "ci40658866",
@@ -2125,12 +2155,12 @@
     },
     {
       "id": "hv75005122",
-      "lon": -155.421173095703,
-      "lat": 19.2323341369629,
-      "depth": -0.330000013113022,
-      "mag": 2.18,
+      "lon": -155.423,
+      "lat": 19.2305,
+      "depth": 0.16,
+      "mag": 1.92,
       "place": "6 km ENE of Pāhala, Hawaii",
-      "time": 1784578655840,
+      "time": 1784578655950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75005122"
     },
     {
@@ -2282,46 +2312,6 @@
       "place": "4 km SW of Pāhala, Hawaii",
       "time": 1784575013040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75005077"
-    },
-    {
-      "id": "us7000t20g",
-      "lon": 157.7557,
-      "lat": 49.9683,
-      "depth": 10,
-      "mag": 4.2,
-      "place": "140 km SE of Severo-Kuril’sk, Russia",
-      "time": 1784574871686,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t20g"
-    },
-    {
-      "id": "pr71525198",
-      "lon": -66.9111666666667,
-      "lat": 17.9378333333333,
-      "depth": 15.36,
-      "mag": 1.99,
-      "place": "3 km S of Guánica, Puerto Rico",
-      "time": 1784574853230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525198"
-    },
-    {
-      "id": "us7000t20d",
-      "lon": 147.4393,
-      "lat": 15.8467,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "193 km ENE of Saipan, Northern Mariana Islands",
-      "time": 1784574844693,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t20d"
-    },
-    {
-      "id": "us7000t20c",
-      "lon": 138.9388,
-      "lat": -2.5277,
-      "depth": 28.446,
-      "mag": 4.6,
-      "place": "188 km W of Abepura, Indonesia",
-      "time": 1784574437579,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t20c"
     }
   ]
 }
