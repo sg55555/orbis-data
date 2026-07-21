@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-21T15:15:37Z",
-  "count": 223,
+  "updated": "2026-07-21T15:30:47Z",
+  "count": 225,
   "points": [
+    {
+      "id": "aka2026oilcve",
+      "lon": -147.39,
+      "lat": 60.723,
+      "depth": 19.2,
+      "mag": 1.7,
+      "place": "41 km WSW of Tatitlek, Alaska",
+      "time": 1784647261463,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oilcve"
+    },
+    {
+      "id": "ci40658802",
+      "lon": -117.859,
+      "lat": 36.0628333333333,
+      "depth": 2.65,
+      "mag": 0.69,
+      "place": "8 km ENE of Coso Junction, CA",
+      "time": 1784647217320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658802"
+    },
     {
       "id": "nc75403022",
       "lon": -122.80899810791,
@@ -25,12 +45,12 @@
     },
     {
       "id": "tx2026ogbxbb",
-      "lon": -101.938,
-      "lat": 32.099,
-      "depth": 4.7425,
+      "lon": -101.933,
+      "lat": 32.101,
+      "depth": 8.5693,
       "mag": 1,
-      "place": "14 km WSW of Stanton, Texas",
-      "time": 1784644371434,
+      "place": "13 km WSW of Stanton, Texas",
+      "time": 1784644371961,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ogbxbb"
     },
     {
@@ -62,6 +82,16 @@
       "place": "5 km WSW of Westbrook, Texas",
       "time": 1784643641250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ogbmpi"
+    },
+    {
+      "id": "tx2026ogblnh",
+      "lon": -103.884,
+      "lat": 31.956,
+      "depth": 8.5608,
+      "mag": 1,
+      "place": "34 km SSE of Malaga, New Mexico",
+      "time": 1784643568873,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ogblnh"
     },
     {
       "id": "tx2026ogbijt",
@@ -1435,12 +1465,12 @@
     },
     {
       "id": "tx2026oewuzc",
-      "lon": -103.247,
-      "lat": 32.003,
-      "depth": 5.0833,
+      "lon": -103.231,
+      "lat": 32.007,
+      "depth": 5.6128,
       "mag": 1.6,
-      "place": "13 km SSW of Jal, New Mexico",
-      "time": 1784588105049,
+      "place": "12 km SSW of Jal, New Mexico",
+      "time": 1784588104921,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oewuzc"
     },
     {
@@ -2222,16 +2252,6 @@
       "place": "2 km ESE of Oak Harbor, Washington",
       "time": 1784561910120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714055312"
-    },
-    {
-      "id": "aka2026ogpgvy",
-      "lon": -150.204,
-      "lat": 61.152,
-      "depth": 48.7,
-      "mag": 2.1,
-      "place": "17 km WSW of Anchorage, Alaska",
-      "time": 1784561180890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogpgvy"
     }
   ]
 }
