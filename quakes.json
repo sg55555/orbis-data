@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-22T02:15:36Z",
-  "count": 237,
+  "updated": "2026-07-22T02:30:47Z",
+  "count": 236,
   "points": [
+    {
+      "id": "nn00922144",
+      "lon": -119.0541,
+      "lat": 39.3056,
+      "depth": 7.8167,
+      "mag": 1.53,
+      "place": "19 km SE of Silver Springs, Nevada",
+      "time": 1784687089670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922144"
+    },
     {
       "id": "nn00922141",
       "lon": -115.7396,
@@ -12,6 +22,16 @@
       "place": "18 km NNW of Indian Springs, Nevada",
       "time": 1784686045339,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922141"
+    },
+    {
+      "id": "us7000t2dg",
+      "lon": -70.1036,
+      "lat": -19.2494,
+      "depth": 60.814,
+      "mag": 4.7,
+      "place": "12 km SE of Cuya, Chile",
+      "time": 1784685830385,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dg"
     },
     {
       "id": "hv75006072",
@@ -2342,36 +2362,6 @@
       "place": "12 km NNE of Ocotillo Wells, CA",
       "time": 1784602274660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658634"
-    },
-    {
-      "id": "ci40658626",
-      "lon": -116.580666666667,
-      "lat": 33.4566666666667,
-      "depth": 10.82,
-      "mag": 0.98,
-      "place": "14 km SE of Anza, CA",
-      "time": 1784600526410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658626"
-    },
-    {
-      "id": "nc75402827",
-      "lon": -126.143166666667,
-      "lat": 40.4485,
-      "depth": 10,
-      "mag": 2.84,
-      "place": "158 km W of Petrolia, CA",
-      "time": 1784600333300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75402827"
-    },
-    {
-      "id": "aka2026ohkyna",
-      "lon": -159.848,
-      "lat": 55.855,
-      "depth": 5,
-      "mag": 1.6,
-      "place": "23 km WSW of Ivanof Bay, Alaska",
-      "time": 1784600184125,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ohkyna"
     }
   ]
 }
