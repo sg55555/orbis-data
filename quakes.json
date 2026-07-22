@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-22T22:45:30Z",
-  "count": 220,
+  "updated": "2026-07-22T23:00:59Z",
+  "count": 221,
   "points": [
+    {
+      "id": "aka2026okwcnx",
+      "lon": -155.091,
+      "lat": 58.222,
+      "depth": 5,
+      "mag": 1.7,
+      "place": "81 km NNW of Karluk, Alaska",
+      "time": 1784760590577,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026okwcnx"
+    },
     {
       "id": "nc75403972",
       "lon": -121.484169006348,
@@ -752,6 +762,26 @@
       "place": "200 km W of Abepura, Indonesia",
       "time": 1784731842472,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2gh"
+    },
+    {
+      "id": "av94325448",
+      "lon": -153.075166666667,
+      "lat": 60.0423333333333,
+      "depth": 0.84,
+      "mag": -0.34,
+      "place": "64 km ENE of Pedro Bay, Alaska",
+      "time": 1784731549120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94325448"
+    },
+    {
+      "id": "av94325443",
+      "lon": -166.636166666667,
+      "lat": 53.893,
+      "depth": 9.93,
+      "mag": 0.47,
+      "place": "6 km W of Dutch Harbor, Alaska",
+      "time": 1784731485090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94325443"
     },
     {
       "id": "av94325433",
@@ -2182,26 +2212,6 @@
       "place": "11 km SSW of Ardmore, Oklahoma",
       "time": 1784674881820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026oezr"
-    },
-    {
-      "id": "nc75403342",
-      "lon": -122.737663269043,
-      "lat": 38.8030014038086,
-      "depth": 0.779999971389771,
-      "mag": 0.59,
-      "place": "2 km SSW of Cobb, CA",
-      "time": 1784674698060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403342"
-    },
-    {
-      "id": "tx2026ogshof",
-      "lon": -104.444,
-      "lat": 31.656,
-      "depth": 6.0999,
-      "mag": 1.8,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": 1784674066030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ogshof"
     }
   ]
 }
