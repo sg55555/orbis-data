@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-22T05:45:33Z",
-  "count": 244,
+  "updated": "2026-07-22T06:00:58Z",
+  "count": 242,
   "points": [
+    {
+      "id": "ci40659162",
+      "lon": -116.880333333333,
+      "lat": 33.7978333333333,
+      "depth": 13.54,
+      "mag": 0.94,
+      "place": "6 km NNE of Valle Vista, CA",
+      "time": 1784699057600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659162"
+    },
     {
       "id": "nc75403562",
       "lon": -121.148170471191,
@@ -2412,36 +2422,6 @@
       "place": "15 km ENE of Ridgecrest, CA",
       "time": 1784614215730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10246190"
-    },
-    {
-      "id": "hv75005372",
-      "lon": -155.486666666667,
-      "lat": 19.173,
-      "depth": 31.39,
-      "mag": 1.56,
-      "place": "3 km SSW of Pāhala, Hawaii",
-      "time": 1784613125410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75005372"
-    },
-    {
-      "id": "tx2026ofkojs",
-      "lon": -101.923,
-      "lat": 32.106,
-      "depth": 8.6914,
-      "mag": 2,
-      "place": "12 km WSW of Stanton, Texas",
-      "time": 1784613015973,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ofkojs"
-    },
-    {
-      "id": "aka2026ohryro",
-      "lon": -141.595,
-      "lat": 60.609,
-      "depth": 8.3,
-      "mag": 1.9,
-      "place": "116 km SE of McCarthy, Alaska",
-      "time": 1784612790764,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ohryro"
     }
   ]
 }
