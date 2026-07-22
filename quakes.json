@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-22T15:30:46Z",
-  "count": 199,
+  "updated": "2026-07-22T15:45:40Z",
+  "count": 201,
   "points": [
+    {
+      "id": "ci40659330",
+      "lon": -117.712333679199,
+      "lat": 33.5168342590332,
+      "depth": 11.6000003814697,
+      "mag": 1.11577885801907,
+      "place": "1 km SW of Laguna Niguel, CA",
+      "time": 1784734965800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659330"
+    },
     {
       "id": "aka2026okgdvx",
       "lon": -151.406,
@@ -124,6 +134,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145986"
     },
     {
+      "id": "uu80145981",
+      "lon": -112.314833333333,
+      "lat": 38.1508333333333,
+      "depth": 1.83,
+      "mag": 0.94,
+      "place": "4 km WSW of Circleville, Utah",
+      "time": 1784722633770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145981"
+    },
+    {
       "id": "nm60625551",
       "lon": -89.6543333333333,
       "lat": 36.5436666666667,
@@ -152,6 +172,16 @@
       "place": "103 km S of San Pedro de Atacama, Chile",
       "time": 1784720237816,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2g0"
+    },
+    {
+      "id": "uu80007688",
+      "lon": -112.417,
+      "lat": 41.5935,
+      "depth": 2.71,
+      "mag": 0.41,
+      "place": "15 km SW of Thatcher, Utah",
+      "time": 1784719517780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007688"
     },
     {
       "id": "ci40659234",
@@ -242,6 +272,16 @@
       "place": "40 km S of Pole Ojea, Puerto Rico",
       "time": 1784717522410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525293"
+    },
+    {
+      "id": "uu80007698",
+      "lon": -112.623166666667,
+      "lat": 38.2596666666667,
+      "depth": 5.89,
+      "mag": 0.56,
+      "place": "2 km SE of Beaver, Utah",
+      "time": 1784717314170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007698"
     },
     {
       "id": "aka2026ojxwkb",
@@ -1972,26 +2012,6 @@
       "place": "2 km NNW of Universal City, CA",
       "time": 1784649100510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658818"
-    },
-    {
-      "id": "nc75403042",
-      "lon": -122.834335327148,
-      "lat": 38.8413314819336,
-      "depth": 1.45000004768372,
-      "mag": 0.72,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1784648647570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403042"
-    },
-    {
-      "id": "ok2026oelf",
-      "lon": -97.85683333,
-      "lat": 35.11266667,
-      "depth": 7.58,
-      "mag": 1.57,
-      "place": "5 km SSE of Amber, Oklahoma",
-      "time": 1784648529230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026oelf"
     }
   ]
 }
