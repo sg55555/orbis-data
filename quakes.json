@@ -1,16 +1,66 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-22T18:45:36Z",
-  "count": 208,
+  "updated": "2026-07-22T19:00:57Z",
+  "count": 210,
   "points": [
     {
+      "id": "tx2026oigjui",
+      "lon": -104.259,
+      "lat": 31.646,
+      "depth": 4.4744,
+      "mag": 1.6,
+      "place": "57 km NW of Toyah, Texas",
+      "time": 1784746636339,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oigjui"
+    },
+    {
+      "id": "nc75403857",
+      "lon": -121.212333679199,
+      "lat": 36.6043319702148,
+      "depth": 3.8199999332428,
+      "mag": 1.98,
+      "place": "10 km NW of Pinnacles, CA",
+      "time": 1784746432330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403857"
+    },
+    {
+      "id": "aka2026okoeco",
+      "lon": -153.322,
+      "lat": 56.127,
+      "depth": 6.1,
+      "mag": 3.2,
+      "place": "105 km SSE of Akhiok, Alaska",
+      "time": 1784746291884,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026okoeco"
+    },
+    {
+      "id": "aka2026okobqy",
+      "lon": -153.48,
+      "lat": 57.403,
+      "depth": 11.8,
+      "mag": 2,
+      "place": "24 km NNW of Old Harbor, Alaska",
+      "time": 1784746135997,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026okobqy"
+    },
+    {
+      "id": "us7000t2hm",
+      "lon": 179.9243,
+      "lat": -31.5416,
+      "depth": 346.444,
+      "mag": 4.8,
+      "place": "Kermadec Islands region",
+      "time": 1784744979600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2hm"
+    },
+    {
       "id": "tx2026oieytt",
-      "lon": -104.266,
-      "lat": 31.642,
-      "depth": 4.2196,
+      "lon": -104.251,
+      "lat": 31.654,
+      "depth": 6.5613,
       "mag": 1.7,
       "place": "57 km NW of Toyah, Texas",
-      "time": 1784744081704,
+      "time": 1784744081530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oieytt"
     },
     {
@@ -122,6 +172,16 @@
       "place": "16 km NE of Yerington, Nevada",
       "time": 1784740852315,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922179"
+    },
+    {
+      "id": "us7000t2h5",
+      "lon": -149.6493,
+      "lat": 56.1244,
+      "depth": 10,
+      "mag": 3.3,
+      "place": "230 km SE of Chiniak, Alaska",
+      "time": 1784740529796,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2h5"
     },
     {
       "id": "tx2026oicvez",
@@ -705,12 +765,12 @@
     },
     {
       "id": "uw714056992",
-      "lon": -122.595001220703,
-      "lat": 48.2876663208008,
-      "depth": 24.9899997711182,
-      "mag": 2.07220339775085,
+      "lon": -122.5995,
+      "lat": 48.2921666666667,
+      "depth": 25.58,
+      "mag": 2.1,
       "place": "3 km E of Oak Harbor, Washington",
-      "time": 1784711632670,
+      "time": 1784711632650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714056992"
     },
     {
@@ -2042,46 +2102,6 @@
       "place": "1 km ESE of Home Gardens, CA",
       "time": 1784660650090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658914"
-    },
-    {
-      "id": "us7000t2ak",
-      "lon": 92.5658,
-      "lat": 28.1265,
-      "depth": 10,
-      "mag": 4.2,
-      "place": "87 km NE of Tawang, India",
-      "time": 1784660157603,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ak"
-    },
-    {
-      "id": "nn00922104",
-      "lon": -119.0653,
-      "lat": 39.3182,
-      "depth": 6.3369,
-      "mag": 1.78,
-      "place": "17 km SE of Silver Springs, Nevada",
-      "time": 1784660039412,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922104"
-    },
-    {
-      "id": "nn00922123",
-      "lon": -116.4898,
-      "lat": 38.4346,
-      "depth": 10.4005,
-      "mag": 1.89,
-      "place": "76 km ENE of Tonopah, Nevada",
-      "time": 1784659894496,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922123"
-    },
-    {
-      "id": "nn00922100",
-      "lon": -116.5044,
-      "lat": 38.4349,
-      "depth": 6.7163,
-      "mag": 2.22,
-      "place": "75 km ENE of Tonopah, Nevada",
-      "time": 1784659838865,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922100"
     }
   ]
 }
