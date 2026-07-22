@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-22T16:30:49Z",
-  "count": 200,
+  "updated": "2026-07-22T17:01:05Z",
+  "count": 204,
   "points": [
+    {
+      "id": "aka2026okjmjg",
+      "lon": -153.57,
+      "lat": 60.6,
+      "depth": 14.6,
+      "mag": 1.3,
+      "place": "60 km NE of Port Alsworth, Alaska",
+      "time": 1784737880822,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026okjmjg"
+    },
     {
       "id": "ci40659354",
       "lon": -116.029,
@@ -44,6 +54,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75006422"
     },
     {
+      "id": "us7000t2gx",
+      "lon": -176.9767,
+      "lat": -29.6426,
+      "depth": 35,
+      "mag": 4.8,
+      "place": "Kermadec Islands region",
+      "time": 1784735147284,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2gx"
+    },
+    {
       "id": "nn00922176",
       "lon": -119.0623,
       "lat": 39.3131,
@@ -62,6 +82,16 @@
       "place": "1 km SSW of Laguna Niguel, CA",
       "time": 1784734965720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659330"
+    },
+    {
+      "id": "us7000t2gq",
+      "lon": -177.3364,
+      "lat": -29.7099,
+      "depth": 35,
+      "mag": 4.9,
+      "place": "Kermadec Islands, New Zealand",
+      "time": 1784734762525,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2gq"
     },
     {
       "id": "tx2026ohyhik",
@@ -434,6 +464,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fk"
     },
     {
+      "id": "tx2026ohoilm",
+      "lon": -98.963,
+      "lat": 28.846,
+      "depth": 7.5582,
+      "mag": 2.1,
+      "place": "13 km ESE of Pearsall, Texas",
+      "time": 1784713953823,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ohoilm"
+    },
+    {
       "id": "hv75006322",
       "lon": -155.493499755859,
       "lat": 19.1875,
@@ -574,6 +614,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659186"
     },
     {
+      "id": "uu80007703",
+      "lon": -111.519166666667,
+      "lat": 38.8375,
+      "depth": 17.63,
+      "mag": 1.03,
+      "place": "25 km WSW of Emery, Utah",
+      "time": 1784709023780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007703"
+    },
+    {
       "id": "ci40659178",
       "lon": -117.7925,
       "lat": 35.3586666666667,
@@ -632,6 +682,16 @@
       "place": "11 km SE of Willits, CA",
       "time": 1784702591210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403592"
+    },
+    {
+      "id": "uu80007708",
+      "lon": -112.327166666667,
+      "lat": 38.146,
+      "depth": 3.58,
+      "mag": 0.58,
+      "place": "5 km WSW of Circleville, Utah",
+      "time": 1784701652360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007708"
     },
     {
       "id": "tx2026ohhfix",
@@ -1514,6 +1574,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658986"
     },
     {
+      "id": "tx2026ogndvt",
+      "lon": -98.952,
+      "lat": 28.861,
+      "depth": 7.9314,
+      "mag": 1.6,
+      "place": "14 km ESE of Pearsall, Texas",
+      "time": 1784664755866,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ogndvt"
+    },
+    {
       "id": "hv75005892",
       "lon": -155.486333333333,
       "lat": 19.1808333333333,
@@ -1542,6 +1612,26 @@
       "place": "11 km ENE of Pāhala, Hawaii",
       "time": 1784664326450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75005887"
+    },
+    {
+      "id": "tx2026ogmvqd",
+      "lon": -102.032,
+      "lat": 32.426,
+      "depth": 8.7402,
+      "mag": 0.5,
+      "place": "31 km WSW of Ackerly, Texas",
+      "time": 1784664185203,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ogmvqd"
+    },
+    {
+      "id": "av94324288",
+      "lon": -152.242666666667,
+      "lat": 61.2768333333333,
+      "depth": 3.39,
+      "mag": -0.65,
+      "place": "63 km WNW of Tyonek, Alaska",
+      "time": 1784663685890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94324288"
     },
     {
       "id": "uw714056342",
@@ -1952,56 +2042,6 @@
       "place": "4 km WSW of Anza, CA",
       "time": 1784653452960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658866"
-    },
-    {
-      "id": "nc75403097",
-      "lon": -122.798164367676,
-      "lat": 38.8208351135254,
-      "depth": 1.72000002861023,
-      "mag": 0.31,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1784652670420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403097"
-    },
-    {
-      "id": "hv75005787",
-      "lon": -155.4855,
-      "lat": 19.1811666666667,
-      "depth": 31.14,
-      "mag": 1.52,
-      "place": "2 km SSW of Pāhala, Hawaii",
-      "time": 1784652249110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75005787"
-    },
-    {
-      "id": "av94324018",
-      "lon": -179.059833333333,
-      "lat": 51.3995,
-      "depth": 9.43,
-      "mag": 2.15,
-      "place": "176 km WSW of Adak, Alaska",
-      "time": 1784651944380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94324018"
-    },
-    {
-      "id": "tx2026ogfwxe",
-      "lon": -104.213,
-      "lat": 31.642,
-      "depth": 6.0999,
-      "mag": 1.7,
-      "place": "53 km NW of Toyah, Texas",
-      "time": 1784651600355,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ogfwxe"
-    },
-    {
-      "id": "ci40658834",
-      "lon": -116.828333333333,
-      "lat": 33.362,
-      "depth": 10.3,
-      "mag": 0.7,
-      "place": "3 km ENE of Palomar Observatory, CA",
-      "time": 1784651407100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658834"
     }
   ]
 }
