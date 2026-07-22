@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-22T21:15:32Z",
-  "count": 209,
+  "updated": "2026-07-22T21:23:39Z",
+  "count": 207,
   "points": [
+    {
+      "id": "nc75403927",
+      "lon": -122.731834411621,
+      "lat": 38.7610015869141,
+      "depth": 6.84000015258789,
+      "mag": 1.05,
+      "place": "3 km SE of The Geysers, CA",
+      "time": 1784755236630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403927"
+    },
     {
       "id": "tx2026oiktrk",
       "lon": -104.228,
       "lat": 31.641,
-      "depth": 4.4506,
+      "depth": 4.4437,
       "mag": 2.2,
       "place": "54 km NW of Toyah, Texas",
-      "time": 1784754564894,
+      "time": 1784754564895,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiktrk"
     },
     {
@@ -2062,36 +2072,6 @@
       "place": "77 km ENE of Tonopah, Nevada",
       "time": 1784670396433,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922117"
-    },
-    {
-      "id": "uw714056482",
-      "lon": -120.560333333333,
-      "lat": 46.2261666666667,
-      "depth": 8.35,
-      "mag": 0.73,
-      "place": "19 km S of Harrah, Washington",
-      "time": 1784668930550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714056482"
-    },
-    {
-      "id": "nc75403317",
-      "lon": -122.782669067383,
-      "lat": 38.8409996032715,
-      "depth": 7.82999992370605,
-      "mag": 0.28,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1784668800750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403317"
-    },
-    {
-      "id": "uu80145921",
-      "lon": -112.310333333333,
-      "lat": 38.17,
-      "depth": 0.56,
-      "mag": 2.14,
-      "place": "3 km W of Circleville, Utah",
-      "time": 1784668647920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145921"
     }
   ]
 }
