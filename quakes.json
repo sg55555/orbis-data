@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-22T20:15:33Z",
-  "count": 203,
+  "updated": "2026-07-22T20:30:46Z",
+  "count": 202,
   "points": [
+    {
+      "id": "nc75403892",
+      "lon": -122.55249786377,
+      "lat": 37.7651672363281,
+      "depth": 11.7399997711182,
+      "mag": 1.46,
+      "place": "6 km NW of San Francisco Zoo, CA",
+      "time": 1784751976870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403892"
+    },
     {
       "id": "aka2026okqwer",
       "lon": -151.564,
@@ -25,12 +35,12 @@
     },
     {
       "id": "ci40659474",
-      "lon": -117.95,
-      "lat": 35.956,
-      "depth": 2.98,
+      "lon": -117.9515,
+      "lat": 35.9568333333333,
+      "depth": 3.75,
       "mag": 0.53,
-      "place": "4 km WNW of Little Lake, CA",
-      "time": 1784749958810,
+      "place": "5 km WNW of Little Lake, CA",
+      "time": 1784749958770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659474"
     },
     {
@@ -1444,6 +1454,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922153"
     },
     {
+      "id": "nn00922149",
+      "lon": -119.0651,
+      "lat": 39.3144,
+      "depth": 6.2471,
+      "mag": 1.52,
+      "place": "17 km SE of Silver Springs, Nevada",
+      "time": 1784687482399,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922149"
+    },
+    {
       "id": "aka2026ojhjrl",
       "lon": -141.201,
       "lat": 61.441,
@@ -2002,36 +2022,6 @@
       "place": "81 km NE of Tonopah, Nevada",
       "time": 1784666155062,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922112"
-    },
-    {
-      "id": "tx2026ognpji",
-      "lon": -104.223,
-      "lat": 31.653,
-      "depth": 6.9843,
-      "mag": 2.4,
-      "place": "55 km NW of Toyah, Texas",
-      "time": 1784665558255,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ognpji"
-    },
-    {
-      "id": "nc75403267",
-      "lon": -122.749336242676,
-      "lat": 38.7874984741211,
-      "depth": 0.980000019073486,
-      "mag": 1.3,
-      "place": "1 km NNE of The Geysers, CA",
-      "time": 1784665511420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403267"
-    },
-    {
-      "id": "ci40658986",
-      "lon": -118.2125,
-      "lat": 34.9333333333333,
-      "depth": -0.86,
-      "mag": 1.4,
-      "place": "9 km NNW of Rosamond, CA",
-      "time": 1784665402010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658986"
     }
   ]
 }
