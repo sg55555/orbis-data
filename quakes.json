@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-22T23:30:43Z",
-  "count": 217,
+  "updated": "2026-07-22T23:45:31Z",
+  "count": 214,
   "points": [
     {
       "id": "aka2026okxiia",
@@ -144,13 +144,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525343"
     },
     {
+      "id": "ci10246270",
+      "lon": -117.843166666667,
+      "lat": 36.0665,
+      "depth": 5.62,
+      "mag": -0.19,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": 1784756632010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10246270"
+    },
+    {
       "id": "ci40659538",
-      "lon": -117.457,
-      "lat": 35.647,
-      "depth": 9.3,
+      "lon": -117.456,
+      "lat": 35.6496666666667,
+      "depth": 9.02,
       "mag": 1.06,
       "place": "14 km SSW of Searles Valley, CA",
-      "time": 1784756608510,
+      "time": 1784756608520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659538"
     },
     {
@@ -2132,46 +2142,6 @@
       "place": "4 km WSW of Anza, CA",
       "time": 1784677572680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659082"
-    },
-    {
-      "id": "us7000t2cl",
-      "lon": 69.3313,
-      "lat": 35.6983,
-      "depth": 121.887,
-      "mag": 4.4,
-      "place": "44 km SSE of Nahrīn, Afghanistan",
-      "time": 1784677485433,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2cl"
-    },
-    {
-      "id": "aka2026ojbxgj",
-      "lon": -155.422,
-      "lat": 57.37,
-      "depth": 10.1,
-      "mag": 1.7,
-      "place": "62 km WSW of Karluk, Alaska",
-      "time": 1784677464096,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ojbxgj"
-    },
-    {
-      "id": "uw714056742",
-      "lon": -122.212,
-      "lat": 48.4386666666667,
-      "depth": -0.68,
-      "mag": 0.63,
-      "place": "3 km SSE of Clear Lake, Washington",
-      "time": 1784677084130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714056742"
-    },
-    {
-      "id": "ci40659074",
-      "lon": -116.539833333333,
-      "lat": 33.4651666666667,
-      "depth": 11.06,
-      "mag": 0.62,
-      "place": "16 km SE of Anza, CA",
-      "time": 1784676681870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659074"
     }
   ]
 }
