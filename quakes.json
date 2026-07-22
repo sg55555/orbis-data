@@ -1,16 +1,56 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-22T15:45:40Z",
-  "count": 201,
+  "updated": "2026-07-22T16:00:59Z",
+  "count": 204,
   "points": [
     {
+      "id": "ci40659346",
+      "lon": -116.3865,
+      "lat": 33.3441666666667,
+      "depth": 11.7,
+      "mag": 0.8,
+      "place": "10 km N of Borrego Springs, CA",
+      "time": 1784735779750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659346"
+    },
+    {
+      "id": "hv75006427",
+      "lon": -155.158493041992,
+      "lat": 19.337833404541,
+      "depth": 3.46000003814697,
+      "mag": 1.77,
+      "place": "14 km SE of Volcano, Hawaii",
+      "time": 1784735591240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75006427"
+    },
+    {
+      "id": "hv75006422",
+      "lon": -155.153839111328,
+      "lat": 19.3414993286133,
+      "depth": 6.82999992370605,
+      "mag": 2,
+      "place": "13 km S of Fern Forest, Hawaii",
+      "time": 1784735316790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75006422"
+    },
+    {
+      "id": "nn00922176",
+      "lon": -119.0623,
+      "lat": 39.3131,
+      "depth": 1.2373,
+      "mag": 1.76,
+      "place": "18 km SE of Silver Springs, Nevada",
+      "time": 1784735107228,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922176"
+    },
+    {
       "id": "ci40659330",
-      "lon": -117.712333679199,
-      "lat": 33.5168342590332,
-      "depth": 11.6000003814697,
-      "mag": 1.11577885801907,
-      "place": "1 km SW of Laguna Niguel, CA",
-      "time": 1784734965800,
+      "lon": -117.709833333333,
+      "lat": 33.5146666666667,
+      "depth": 13.68,
+      "mag": 1.56,
+      "place": "1 km SSW of Laguna Niguel, CA",
+      "time": 1784734965720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659330"
     },
     {
@@ -22,6 +62,16 @@
       "place": "21 km NW of Beluga, Alaska",
       "time": 1784731894053,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026okgdvx"
+    },
+    {
+      "id": "us7000t2gh",
+      "lon": 138.8297,
+      "lat": -2.5597,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "200 km W of Abepura, Indonesia",
+      "time": 1784731842472,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2gh"
     },
     {
       "id": "pr71525308",
@@ -1992,26 +2042,6 @@
       "place": "31 km WNW of Kalifornsky, Alaska",
       "time": 1784649669956,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oimlqq"
-    },
-    {
-      "id": "tx2026ogemtj",
-      "lon": -104.213,
-      "lat": 31.643,
-      "depth": 6.1127,
-      "mag": 2,
-      "place": "53 km NW of Toyah, Texas",
-      "time": 1784649261450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ogemtj"
-    },
-    {
-      "id": "ci40658818",
-      "lon": -118.360166666667,
-      "lat": 34.1551666666667,
-      "depth": 17.07,
-      "mag": 0.74,
-      "place": "2 km NNW of Universal City, CA",
-      "time": 1784649100510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658818"
     }
   ]
 }
