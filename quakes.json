@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-22T13:15:57Z",
-  "count": 211,
+  "updated": "2026-07-22T13:30:53Z",
+  "count": 209,
   "points": [
     {
+      "id": "nc75403717",
+      "lon": -122.809669494629,
+      "lat": 38.8191680908203,
+      "depth": 2.42000007629395,
+      "mag": 1.89,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1784726589960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403717"
+    },
+    {
       "id": "ci40659266",
-      "lon": -116.979,
-      "lat": 33.9935,
-      "depth": 9.86,
+      "lon": -116.979833333333,
+      "lat": 33.997,
+      "depth": 11.35,
       "mag": 0.81,
       "place": "7 km E of Calimesa, CA",
-      "time": 1784725740060,
+      "time": 1784725739990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659266"
     },
     {
@@ -22,16 +32,6 @@
       "place": "12 km E of Aguanga, CA",
       "time": 1784724297810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659258"
-    },
-    {
-      "id": "ci40659250",
-      "lon": -116.662833333333,
-      "lat": 32.9668333333333,
-      "depth": 27.37,
-      "mag": 1.2,
-      "place": "12 km ESE of San Diego Country Estates, CA",
-      "time": 1784724290270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659250"
     },
     {
       "id": "ci40659242",
@@ -425,12 +425,12 @@
     },
     {
       "id": "uu80145961",
-      "lon": -111.392669677734,
-      "lat": 42.3844985961914,
-      "depth": -3.25999999046326,
-      "mag": 3.02,
-      "place": "5 km W of Bennington, Idaho",
-      "time": 1784700552870,
+      "lon": -111.3965,
+      "lat": 42.3766666666667,
+      "depth": -1.92,
+      "mag": 2.99,
+      "place": "6 km WSW of Bennington, Idaho",
+      "time": 1784700552780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145961"
     },
     {
@@ -2092,26 +2092,6 @@
       "place": "12 km SSW of Searles Valley, CA",
       "time": 1784640971030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658762"
-    },
-    {
-      "id": "aka2026oihenf",
-      "lon": -152.536,
-      "lat": 59.995,
-      "depth": 85.9,
-      "mag": 1.3,
-      "place": "45 km W of Happy Valley, Alaska",
-      "time": 1784640187762,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oihenf"
-    },
-    {
-      "id": "aka2026oihaor",
-      "lon": -152.932,
-      "lat": 60.624,
-      "depth": 1.5,
-      "mag": 2.3,
-      "place": "88 km W of Salamatof, Alaska",
-      "time": 1784639909336,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oihaor"
     }
   ]
 }
