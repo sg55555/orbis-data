@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-22T09:30:48Z",
-  "count": 234,
+  "updated": "2026-07-22T09:45:35Z",
+  "count": 232,
   "points": [
+    {
+      "id": "ci40659210",
+      "lon": -116.511833333333,
+      "lat": 33.5056666666667,
+      "depth": 13.11,
+      "mag": 2.23,
+      "place": "16 km ESE of Anza, CA",
+      "time": 1784712856620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659210"
+    },
     {
       "id": "ci40659202",
       "lon": -117.529333333333,
@@ -2312,36 +2322,6 @@
       "place": "2 km SSW of Pāhala, Hawaii",
       "time": 1784627320950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75005552"
-    },
-    {
-      "id": "hv75005547",
-      "lon": -155.470672607422,
-      "lat": 19.1593341827393,
-      "depth": 31.5300006866455,
-      "mag": 1.79,
-      "place": "4 km S of Pāhala, Hawaii",
-      "time": 1784627087240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75005547"
-    },
-    {
-      "id": "nc75402952",
-      "lon": -122.855331420898,
-      "lat": 38.8245010375977,
-      "depth": 2.66000008583069,
-      "mag": 0.68,
-      "place": "10 km WNW of The Geysers, CA",
-      "time": 1784626865240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75402952"
-    },
-    {
-      "id": "hv75005537",
-      "lon": -155.487335205078,
-      "lat": 19.1646671295166,
-      "depth": 30.3500003814697,
-      "mag": 1.93,
-      "place": "4 km SSW of Pāhala, Hawaii",
-      "time": 1784626843270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75005537"
     }
   ]
 }
