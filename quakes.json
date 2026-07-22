@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-22T17:15:38Z",
-  "count": 204,
+  "updated": "2026-07-22T17:30:47Z",
+  "count": 201,
   "points": [
+    {
+      "id": "nn00922179",
+      "lon": -119.0364,
+      "lat": 39.0998,
+      "depth": 14.4844,
+      "mag": 3.6,
+      "place": "16 km NE of Yerington, Nevada",
+      "time": 1784740851623,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922179"
+    },
     {
       "id": "tx2026oicvez",
       "lon": -101.113,
@@ -1264,6 +1274,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ojcptu"
     },
     {
+      "id": "uw714056752",
+      "lon": -122.5365,
+      "lat": 47.5733333333333,
+      "depth": 19.9,
+      "mag": 0.6,
+      "place": "2 km NNE of Manchester, Washington",
+      "time": 1784678186070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714056752"
+    },
+    {
       "id": "aka2026ojccrj",
       "lon": -152.915,
       "lat": 59.953,
@@ -1992,56 +2012,6 @@
       "place": "139 km W of Puerto Santa, Peru",
       "time": 1784655781447,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t29t"
-    },
-    {
-      "id": "ok2026oeot",
-      "lon": -96.7965,
-      "lat": 36.46716667,
-      "depth": 0,
-      "mag": 1.16,
-      "place": "7 km SW of Ralston, Oklahoma",
-      "time": 1784655003669,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026oeot"
-    },
-    {
-      "id": "uu80145881",
-      "lon": -112.899833333333,
-      "lat": 36.9985,
-      "depth": 23.14,
-      "mag": 1.27,
-      "place": "5 km N of Cane Beds, Arizona",
-      "time": 1784654962820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145881"
-    },
-    {
-      "id": "tx2026oghpyc",
-      "lon": -104.229,
-      "lat": 31.65,
-      "depth": 7.8687,
-      "mag": 1.7,
-      "place": "55 km NW of Toyah, Texas",
-      "time": 1784654742293,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oghpyc"
-    },
-    {
-      "id": "us7000t29r",
-      "lon": -66.6861,
-      "lat": -57.1718,
-      "depth": 10,
-      "mag": 4.8,
-      "place": "281 km SSE of Ushuaia, Argentina",
-      "time": 1784654466859,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t29r"
-    },
-    {
-      "id": "nc75403117",
-      "lon": -122.866500854492,
-      "lat": 38.7831649780273,
-      "depth": 3.42000007629395,
-      "mag": 0.69,
-      "place": "10 km W of The Geysers, CA",
-      "time": 1784654438200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403117"
     }
   ]
 }
