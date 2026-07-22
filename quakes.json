@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-22T06:30:44Z",
-  "count": 242,
+  "updated": "2026-07-22T06:45:33Z",
+  "count": 239,
   "points": [
+    {
+      "id": "nc75403592",
+      "lon": -123.259002685547,
+      "lat": 39.3508338928223,
+      "depth": 4.5,
+      "mag": 2.33,
+      "place": "11 km SE of Willits, CA",
+      "time": 1784702591210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403592"
+    },
     {
       "id": "tx2026ohhfix",
       "lon": -103.486,
@@ -2382,46 +2392,6 @@
       "place": "16 km ESE of Anza, CA",
       "time": 1784617291870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658666"
-    },
-    {
-      "id": "tx2026ofminc",
-      "lon": -101.878,
-      "lat": 32.272,
-      "depth": 8.4473,
-      "mag": 1.6,
-      "place": "17 km NNW of Stanton, Texas",
-      "time": 1784616203249,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ofminc"
-    },
-    {
-      "id": "us7000t24u",
-      "lon": -93.0019,
-      "lat": 14.2069,
-      "depth": 35,
-      "mag": 4.6,
-      "place": "84 km SW of Puerto Madero, Mexico",
-      "time": 1784616195703,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t24u"
-    },
-    {
-      "id": "tx2026ofmgms",
-      "lon": -101.879,
-      "lat": 32.273,
-      "depth": 7.8369,
-      "mag": 1.1,
-      "place": "18 km NNW of Stanton, Texas",
-      "time": 1784616063582,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ofmgms"
-    },
-    {
-      "id": "uw714055902",
-      "lon": -122.757,
-      "lat": 47.9003333333333,
-      "depth": 16.4,
-      "mag": 0.71,
-      "place": "6 km WSW of Port Ludlow, Washington",
-      "time": 1784615427250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714055902"
     }
   ]
 }
