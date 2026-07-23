@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-23T06:00:58Z",
-  "count": 221,
+  "updated": "2026-07-23T06:15:36Z",
+  "count": 220,
   "points": [
+    {
+      "id": "ci40659666",
+      "lon": -116.704666666667,
+      "lat": 33.6923333333333,
+      "depth": 16.98,
+      "mag": 0.52,
+      "place": "5 km SSE of Idyllwild, CA",
+      "time": 1784786628680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659666"
+    },
     {
       "id": "tx2026ojbydz",
       "lon": -104.221,
@@ -12,6 +22,16 @@
       "place": "53 km NW of Toyah, Texas",
       "time": 1784785786473,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojbydz"
+    },
+    {
+      "id": "tx2026ojbzvf",
+      "lon": -104.224,
+      "lat": 31.632,
+      "depth": 4.0734,
+      "mag": 2.1,
+      "place": "53 km NW of Toyah, Texas",
+      "time": 1784785768929,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojbzvf"
     },
     {
       "id": "hv75006857",
@@ -2182,36 +2202,6 @@
       "place": "7 km WSW of Gilroy, CA",
       "time": 1784701013070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403582"
-    },
-    {
-      "id": "aka2026ojoxkq",
-      "lon": -151.844,
-      "lat": 61.753,
-      "depth": 110.4,
-      "mag": 2.3,
-      "place": "35 km SW of Skwentna, Alaska",
-      "time": 1784700862508,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ojoxkq"
-    },
-    {
-      "id": "ci40659170",
-      "lon": -116.355,
-      "lat": 33.3466666666667,
-      "depth": 11.93,
-      "mag": 2.4,
-      "place": "10 km N of Borrego Springs, CA",
-      "time": 1784700840600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659170"
-    },
-    {
-      "id": "uu80145961",
-      "lon": -111.3965,
-      "lat": 42.3766666666667,
-      "depth": -1.92,
-      "mag": 2.99,
-      "place": "6 km WSW of Bennington, Idaho",
-      "time": 1784700552780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145961"
     }
   ]
 }
