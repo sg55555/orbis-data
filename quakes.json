@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-23T11:36:06Z",
-  "count": 260,
+  "updated": "2026-07-23T11:45:35Z",
+  "count": 256,
   "points": [
+    {
+      "id": "nc75404162",
+      "lon": -122.78783416748,
+      "lat": 38.795166015625,
+      "depth": 0.689999997615814,
+      "mag": 1.04,
+      "place": "3 km NW of The Geysers, CA",
+      "time": 1784806904240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404162"
+    },
     {
       "id": "aka2026olvkrv",
       "lon": -152.762,
@@ -452,6 +462,16 @@
       "place": "5 km SSE of Brawley, CA",
       "time": 1784793695750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659858"
+    },
+    {
+      "id": "pr71525408",
+      "lon": -66.9176666666667,
+      "lat": 17.9713333333333,
+      "depth": 13.94,
+      "mag": 2.1,
+      "place": "1 km W of Guánica, Puerto Rico",
+      "time": 1784793365540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525408"
     },
     {
       "id": "tx2026ojgbev",
@@ -2542,66 +2562,6 @@
       "place": "4 km NW of Marston, Missouri",
       "time": 1784721449810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60625551"
-    },
-    {
-      "id": "uw714057042",
-      "lon": -122.214833333333,
-      "lat": 46.3035,
-      "depth": 4.79,
-      "mag": -0.05,
-      "place": "28 km S of Morton, Washington",
-      "time": 1784720624260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714057042"
-    },
-    {
-      "id": "av93064664",
-      "lon": -152.091666666667,
-      "lat": 61.2946666666667,
-      "depth": 2.41,
-      "mag": 0.09,
-      "place": "56 km WNW of Beluga, Alaska",
-      "time": 1784720481440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064664"
-    },
-    {
-      "id": "av94325253",
-      "lon": -152.152333333333,
-      "lat": 61.2915,
-      "depth": -2.46,
-      "mag": 0.89,
-      "place": "59 km WNW of Beluga, Alaska",
-      "time": 1784720442000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94325253"
-    },
-    {
-      "id": "nn00922174",
-      "lon": -116.3588,
-      "lat": 38.554,
-      "depth": 9.7285,
-      "mag": 1.64,
-      "place": "93 km NE of Tonopah, Nevada",
-      "time": 1784720424034,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922174"
-    },
-    {
-      "id": "uw714057022",
-      "lon": -121.782,
-      "lat": 46.8425,
-      "depth": -2.61,
-      "mag": 0.68,
-      "place": "21 km ENE of Ashford, Washington",
-      "time": 1784720272050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714057022"
-    },
-    {
-      "id": "us7000t2g0",
-      "lon": -68.3218,
-      "lat": -23.8369,
-      "depth": 126.094,
-      "mag": 4.6,
-      "place": "103 km S of San Pedro de Atacama, Chile",
-      "time": 1784720237816,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2g0"
     }
   ]
 }
