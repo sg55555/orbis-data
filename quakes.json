@@ -1,8 +1,48 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-23T10:30:48Z",
-  "count": 259,
+  "updated": "2026-07-23T10:45:33Z",
+  "count": 262,
   "points": [
+    {
+      "id": "hv75006932",
+      "lon": -155.456329345703,
+      "lat": 19.0925006866455,
+      "depth": 36.9300003051758,
+      "mag": 1.75,
+      "place": "12 km S of Pāhala, Hawaii",
+      "time": 1784803198360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75006932"
+    },
+    {
+      "id": "ci40660058",
+      "lon": -117.275166666667,
+      "lat": 34.0391666666667,
+      "depth": 17.09,
+      "mag": 0.88,
+      "place": "2 km SW of Loma Linda, CA",
+      "time": 1784802939060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660058"
+    },
+    {
+      "id": "nc75404147",
+      "lon": -122.808166503906,
+      "lat": 38.8186683654785,
+      "depth": 3.41000008583069,
+      "mag": 0.67,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1784802756840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404147"
+    },
+    {
+      "id": "nc75404142",
+      "lon": -122.806831359863,
+      "lat": 38.8176651000977,
+      "depth": 2.99000000953674,
+      "mag": 1.31,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1784802724480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404142"
+    },
     {
       "id": "nc75404137",
       "lon": -122.807167053223,
@@ -12,6 +52,16 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1784802406910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404137"
+    },
+    {
+      "id": "tx2026ojlaky",
+      "lon": -100.972,
+      "lat": 35.899,
+      "depth": 5.542,
+      "mag": 5.1,
+      "place": "37 km NW of Miami, Texas",
+      "time": 1784802103801,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojlaky"
     },
     {
       "id": "nc75404132",
@@ -805,12 +855,12 @@
     },
     {
       "id": "tx2026oizqmu",
-      "lon": -104.238,
-      "lat": 31.648,
-      "depth": 4.3441,
+      "lon": -104.236,
+      "lat": 31.65,
+      "depth": 6.0999,
       "mag": 1.5,
       "place": "56 km NW of Toyah, Texas",
-      "time": 1784781498526,
+      "time": 1784781498438,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oizqmu"
     },
     {
@@ -2572,26 +2622,6 @@
       "place": "2 km SE of Beaver, Utah",
       "time": 1784717314170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007698"
-    },
-    {
-      "id": "nc75403662",
-      "lon": -123.421997070312,
-      "lat": 39.6158332824707,
-      "depth": 6.80000019073486,
-      "mag": 2.07,
-      "place": "10 km SSE of Laytonville, CA",
-      "time": 1784716645010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403662"
-    },
-    {
-      "id": "tx2026ohprvu",
-      "lon": -101.056,
-      "lat": 32.576,
-      "depth": 3.0734,
-      "mag": 1.1,
-      "place": "20 km SW of Snyder, Texas",
-      "time": 1784716421143,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ohprvu"
     }
   ]
 }
