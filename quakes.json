@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-23T09:31:45Z",
-  "count": 260,
+  "updated": "2026-07-23T09:45:34Z",
+  "count": 262,
   "points": [
+    {
+      "id": "aka2026olrsam",
+      "lon": -148.124,
+      "lat": 62.249,
+      "depth": 0.1,
+      "mag": 2,
+      "place": "53 km NNE of Chickaloon, Alaska",
+      "time": 1784799444141,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026olrsam"
+    },
+    {
+      "id": "aka2026olrlxi",
+      "lon": -173.23,
+      "lat": 51.444,
+      "depth": 5,
+      "mag": 5.1,
+      "place": "107 km SE of Atka, Alaska",
+      "time": 1784799016307,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026olrlxi"
+    },
     {
       "id": "ci40660026",
       "lon": -115.523833333333,
@@ -32,6 +52,16 @@
       "place": "8 km S of Brawley, CA",
       "time": 1784798674380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660010"
+    },
+    {
+      "id": "us7000t2n3",
+      "lon": 130.1887,
+      "lat": 27.8812,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "85 km SE of Tatsugō, Japan",
+      "time": 1784798542460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2n3"
     },
     {
       "id": "nc75404117",
@@ -262,6 +292,16 @@
       "place": "16 km ESE of Pearsall, Texas",
       "time": 1784793105244,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojgbev"
+    },
+    {
+      "id": "us7000t2mq",
+      "lon": -71.6697,
+      "lat": -32.623,
+      "depth": 40.468,
+      "mag": 4.2,
+      "place": "45 km WSW of La Ligua, Chile",
+      "time": 1784792933356,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2mq"
     },
     {
       "id": "ok2026ohmn",
@@ -705,12 +745,12 @@
     },
     {
       "id": "tx2026oiznwt",
-      "lon": -104.226,
-      "lat": 31.645,
-      "depth": 4.29,
+      "lon": -104.211,
+      "lat": 31.655,
+      "depth": 6.0999,
       "mag": 1.7,
-      "place": "55 km NW of Toyah, Texas",
-      "time": 1784781316965,
+      "place": "54 km NW of Toyah, Texas",
+      "time": 1784781317005,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiznwt"
     },
     {
@@ -2582,26 +2622,6 @@
       "place": "11 km NW of Sugal, Philippines",
       "time": 1784713640059,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fj"
-    },
-    {
-      "id": "us7000t2fd",
-      "lon": -71.7009,
-      "lat": -27.8666,
-      "depth": 10,
-      "mag": 5.1,
-      "place": "121 km NW of Vallenar, Chile",
-      "time": 1784712862317,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fd"
-    },
-    {
-      "id": "ci40659210",
-      "lon": -116.511833333333,
-      "lat": 33.5055,
-      "depth": 13.87,
-      "mag": 2.2,
-      "place": "16 km ESE of Anza, CA",
-      "time": 1784712856540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659210"
     }
   ]
 }
