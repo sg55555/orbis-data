@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-23T01:00:54Z",
-  "count": 217,
+  "updated": "2026-07-23T01:15:37Z",
+  "count": 218,
   "points": [
+    {
+      "id": "nc75404017",
+      "lon": -122.855499267578,
+      "lat": 38.8170013427734,
+      "depth": 2.40000009536743,
+      "mag": 0.94,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": 1784768483380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404017"
+    },
     {
       "id": "nc75404012",
       "lon": -122.781669616699,
@@ -12,6 +22,16 @@
       "place": "5 km WNW of Cobb, CA",
       "time": 1784768263700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404012"
+    },
+    {
+      "id": "pr71525363",
+      "lon": -66.5638333333333,
+      "lat": 18.0991666666667,
+      "depth": 19.34,
+      "mag": 2.06,
+      "place": "5 km NNW of Coto Laurel, Puerto Rico",
+      "time": 1784767956530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525363"
     },
     {
       "id": "nc75404007",
@@ -2162,16 +2182,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1784682999400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403427"
-    },
-    {
-      "id": "nn00922136",
-      "lon": -116.4878,
-      "lat": 38.4398,
-      "depth": 9.998,
-      "mag": 2.3,
-      "place": "77 km ENE of Tonopah, Nevada",
-      "time": 1784682204349,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922136"
     }
   ]
 }
