@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-22T23:45:31Z",
-  "count": 214,
+  "updated": "2026-07-23T00:00:58Z",
+  "count": 213,
   "points": [
+    {
+      "id": "tx2026oipzxt",
+      "lon": -103.891,
+      "lat": 31.958,
+      "depth": 4.7732,
+      "mag": 2,
+      "place": "34 km SSE of Malaga, New Mexico",
+      "time": 1784764254055,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oipzxt"
+    },
     {
       "id": "aka2026okxiia",
       "lon": -153.279,
@@ -32,6 +42,16 @@
       "place": "15 km NE of Henderson, Nevada",
       "time": 1784761868987,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922203"
+    },
+    {
+      "id": "tx2026oiookj",
+      "lon": -103.258,
+      "lat": 32.021,
+      "depth": 4.3732,
+      "mag": 1.4,
+      "place": "11 km SSW of Jal, New Mexico",
+      "time": 1784761610568,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiookj"
     },
     {
       "id": "tx2026oiojqs",
@@ -605,12 +625,12 @@
     },
     {
       "id": "nm60625571",
-      "lon": -89.5393295288086,
-      "lat": 36.3993339538574,
-      "depth": 8.5600004196167,
-      "mag": 1.62,
+      "lon": -89.5416666666667,
+      "lat": 36.396,
+      "depth": 9.6,
+      "mag": 1.9,
       "place": "6 km WNW of Tiptonville, Tennessee",
-      "time": 1784741315590,
+      "time": 1784741315530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60625571"
     },
     {
@@ -2112,36 +2132,6 @@
       "place": "55 km W of Anchor Point, Alaska",
       "time": 1784678743874,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ojcptu"
-    },
-    {
-      "id": "uw714056752",
-      "lon": -122.5365,
-      "lat": 47.5733333333333,
-      "depth": 19.9,
-      "mag": 0.6,
-      "place": "2 km NNE of Manchester, Washington",
-      "time": 1784678186070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714056752"
-    },
-    {
-      "id": "aka2026ojccrj",
-      "lon": -152.915,
-      "lat": 59.953,
-      "depth": 118,
-      "mag": 2.3,
-      "place": "63 km WNW of Anchor Point, Alaska",
-      "time": 1784677838836,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ojccrj"
-    },
-    {
-      "id": "ci40659082",
-      "lon": -116.711833333333,
-      "lat": 33.5401666666667,
-      "depth": 5.49,
-      "mag": 0.17,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1784677572680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659082"
     }
   ]
 }
