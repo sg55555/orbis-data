@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-23T23:15:35Z",
-  "count": 333,
+  "updated": "2026-07-23T23:30:43Z",
+  "count": 334,
   "points": [
+    {
+      "id": "ci40660442",
+      "lon": -115.5245,
+      "lat": 32.9115,
+      "depth": 7.96,
+      "mag": 1.47,
+      "place": "7 km S of Brawley, CA",
+      "time": 1784848572360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660442"
+    },
+    {
+      "id": "nc75404657",
+      "lon": -122.872001647949,
+      "lat": 38.8276672363281,
+      "depth": 0.689999997615814,
+      "mag": 1.46,
+      "place": "11 km WNW of The Geysers, CA",
+      "time": 1784848473900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404657"
+    },
     {
       "id": "nc75404652",
       "lon": -121.168334960938,
@@ -42,6 +62,16 @@
       "place": "5 km WNW of The Geysers, CA",
       "time": 1784847784150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404642"
+    },
+    {
+      "id": "us7000t2w3",
+      "lon": 126.2244,
+      "lat": 0.592,
+      "depth": 49.188,
+      "mag": 5.8,
+      "place": "130 km W of Ternate, Indonesia",
+      "time": 1784847516362,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2w3"
     },
     {
       "id": "nc75404637",
@@ -745,12 +775,12 @@
     },
     {
       "id": "ci40660210",
-      "lon": -116.818666666667,
-      "lat": 33.5873333333333,
-      "depth": 12.88,
-      "mag": 0.83,
+      "lon": -116.817833333333,
+      "lat": 33.5876666666667,
+      "depth": 12.49,
+      "mag": 0.76,
       "place": "14 km WNW of Anza, CA",
-      "time": 1784823780550,
+      "time": 1784823780580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660210"
     },
     {
@@ -2175,12 +2205,12 @@
     },
     {
       "id": "ci40659786",
-      "lon": -115.526,
-      "lat": 32.9325,
-      "depth": 5.89,
+      "lon": -115.522166666667,
+      "lat": 32.9306666666667,
+      "depth": 7.77,
       "mag": 1.25,
       "place": "5 km S of Brawley, CA",
-      "time": 1784791847140,
+      "time": 1784791847020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659786"
     },
     {
@@ -3312,26 +3342,6 @@
       "place": "81 km NW of Ninilchik, Alaska",
       "time": 1784764048220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94325933"
-    },
-    {
-      "id": "aka2026okxiia",
-      "lon": -153.279,
-      "lat": 56.035,
-      "depth": 20.1,
-      "mag": 2.8,
-      "place": "115 km SSE of Akhiok, Alaska",
-      "time": 1784762787832,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026okxiia"
-    },
-    {
-      "id": "ok2026ogvz",
-      "lon": -97.75533333,
-      "lat": 34.74616667,
-      "depth": 19.37,
-      "mag": 1.79,
-      "place": "13 km NNE of Bray, Oklahoma",
-      "time": 1784762755719,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ogvz"
     }
   ]
 }
