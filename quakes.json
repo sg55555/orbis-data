@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-23T17:02:54Z",
-  "count": 310,
+  "updated": "2026-07-23T17:15:32Z",
+  "count": 309,
   "points": [
+    {
+      "id": "nc75404357",
+      "lon": -122.782333374023,
+      "lat": 38.8376655578613,
+      "depth": 1.62000000476837,
+      "mag": 0.66,
+      "place": "5 km WNW of Cobb, CA",
+      "time": 1784826792280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404357"
+    },
     {
       "id": "hv75007087",
       "lon": -155.35383605957,
@@ -145,22 +155,22 @@
     },
     {
       "id": "tx2026ojvaen",
-      "lon": -104.239,
-      "lat": 31.626,
-      "depth": 3.1822,
-      "mag": 1.9,
+      "lon": -104.207,
+      "lat": 31.652,
+      "depth": 6.0999,
+      "mag": 1.8,
       "place": "54 km NW of Toyah, Texas",
-      "time": 1784820344515,
+      "time": 1784820344768,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojvaen"
     },
     {
       "id": "tx2026ojvbtn",
-      "lon": -104.212,
-      "lat": 31.638,
-      "depth": 4.1137,
-      "mag": 1.7,
-      "place": "53 km NW of Toyah, Texas",
-      "time": 1784820327700,
+      "lon": -104.243,
+      "lat": 31.63,
+      "depth": 2.6788,
+      "mag": 1.8,
+      "place": "55 km NW of Toyah, Texas",
+      "time": 1784820344631,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojvbtn"
     },
     {
@@ -925,12 +935,12 @@
     },
     {
       "id": "ci40660002",
-      "lon": -115.517166666667,
-      "lat": 32.9176666666667,
-      "depth": 7.88,
-      "mag": 1.62,
-      "place": "7 km S of Brawley, CA",
-      "time": 1784798047270,
+      "lon": -115.516,
+      "lat": 32.9055,
+      "depth": 10.04,
+      "mag": 1.74,
+      "place": "8 km NE of Imperial, CA",
+      "time": 1784798047150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660002"
     },
     {
@@ -1622,6 +1632,16 @@
       "place": "30 km N of Yucca Valley, CA",
       "time": 1784783925800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659658"
+    },
+    {
+      "id": "uw714058642",
+      "lon": -122.141998291016,
+      "lat": 46.2053337097168,
+      "depth": 8.4399995803833,
+      "mag": 1.52999997,
+      "place": "40 km NE of Amboy, Washington",
+      "time": 1784783815370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714058642"
     },
     {
       "id": "hv75006852",
@@ -2325,12 +2345,12 @@
     },
     {
       "id": "tx2026oiookj",
-      "lon": -103.258,
-      "lat": 32.021,
-      "depth": 4.3732,
-      "mag": 1.4,
-      "place": "11 km SSW of Jal, New Mexico",
-      "time": 1784761610568,
+      "lon": -103.239,
+      "lat": 32.006,
+      "depth": 6.0999,
+      "mag": 1.5,
+      "place": "12 km SSW of Jal, New Mexico",
+      "time": 1784761609997,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiookj"
     },
     {
@@ -2425,12 +2445,12 @@
     },
     {
       "id": "uw714057992",
-      "lon": -118.012168884277,
-      "lat": 46.2903327941895,
-      "depth": 5.40000009536743,
+      "lon": -118.054833333333,
+      "lat": 46.3061666666667,
+      "depth": -0.5,
       "mag": 1.90560555458069,
-      "place": "4 km SW of Dayton, Washington",
-      "time": 1784758654060,
+      "place": "6 km WSW of Dayton, Washington",
+      "time": 1784758653690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714057992"
     },
     {
@@ -3072,36 +3092,6 @@
       "place": "230 km SE of Chiniak, Alaska",
       "time": 1784740529796,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2h5"
-    },
-    {
-      "id": "uw714057292",
-      "lon": -122.678833333333,
-      "lat": 47.9915,
-      "depth": 26.58,
-      "mag": 0.98,
-      "place": "6 km S of Marrowstone, Washington",
-      "time": 1784740442640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714057292"
-    },
-    {
-      "id": "ok2026ogjn",
-      "lon": -97.75416667,
-      "lat": 34.7405,
-      "depth": 5.95,
-      "mag": 1.52,
-      "place": "12 km NNE of Bray, Oklahoma",
-      "time": 1784740074549,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ogjn"
-    },
-    {
-      "id": "us7000t2h4",
-      "lon": -92.7555,
-      "lat": 14.2118,
-      "depth": 35,
-      "mag": 4.3,
-      "place": "66 km SSW of Puerto Madero, Mexico",
-      "time": 1784739810001,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2h4"
     }
   ]
 }
