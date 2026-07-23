@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-23T19:15:34Z",
-  "count": 321,
+  "updated": "2026-07-23T19:30:49Z",
+  "count": 318,
   "points": [
+    {
+      "id": "ci40660290",
+      "lon": -116.8155,
+      "lat": 33.5946666666667,
+      "depth": 12.04,
+      "mag": 0.7,
+      "place": "14 km WNW of Anza, CA",
+      "time": 1784834338160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660290"
+    },
     {
       "id": "tx2026okcjhc",
       "lon": -103.886,
@@ -2344,6 +2354,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oitxmy"
     },
     {
+      "id": "av94326083",
+      "lon": -152.258333333333,
+      "lat": 61.3286666666667,
+      "depth": -1.58,
+      "mag": -0.08,
+      "place": "66 km WNW of Beluga, Alaska",
+      "time": 1784770718120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94326083"
+    },
+    {
       "id": "ci40659586",
       "lon": -116.315166666667,
       "lat": 33.3148333333333,
@@ -3162,56 +3182,6 @@
       "place": "3 km ESE of Home Gardens, CA",
       "time": 1784748632750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659458"
-    },
-    {
-      "id": "ok2026ogof",
-      "lon": -97.84166667,
-      "lat": 35.114,
-      "depth": 7.35,
-      "mag": 1.09,
-      "place": "6 km SSE of Amber, Oklahoma",
-      "time": 1784748575299,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ogof"
-    },
-    {
-      "id": "av94325698",
-      "lon": -155.134666666667,
-      "lat": 58.2496666666667,
-      "depth": 3.7,
-      "mag": -0.43,
-      "place": "85 km NNW of Karluk, Alaska",
-      "time": 1784748265240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94325698"
-    },
-    {
-      "id": "hv75006507",
-      "lon": -155.369659423828,
-      "lat": 19.1229991912842,
-      "depth": 27.8400001525879,
-      "mag": 1.83,
-      "place": "14 km SE of Pāhala, Hawaii",
-      "time": 1784748189750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75006507"
-    },
-    {
-      "id": "ok2026ogny",
-      "lon": -97.748,
-      "lat": 34.74483333,
-      "depth": 16.93,
-      "mag": 1.2,
-      "place": "13 km NNE of Bray, Oklahoma",
-      "time": 1784748122520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ogny"
-    },
-    {
-      "id": "tx2026oihbmw",
-      "lon": -103.881,
-      "lat": 31.961,
-      "depth": 7.6764,
-      "mag": 1.7,
-      "place": "34 km SSE of Malaga, New Mexico",
-      "time": 1784747876815,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oihbmw"
     }
   ]
 }
