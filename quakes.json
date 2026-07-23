@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-23T20:01:03Z",
-  "count": 316,
+  "updated": "2026-07-23T20:15:33Z",
+  "count": 317,
   "points": [
+    {
+      "id": "ci40660338",
+      "lon": -118.3355,
+      "lat": 35.4625,
+      "depth": 3.18,
+      "mag": 1.18,
+      "place": "20 km SE of Bodfish, CA",
+      "time": 1784837349270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660338"
+    },
+    {
+      "id": "ci40660330",
+      "lon": -118.323333333333,
+      "lat": 35.0521666666667,
+      "depth": -1.01,
+      "mag": 1.15,
+      "place": "14 km W of Mojave, CA",
+      "time": 1784837219860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660330"
+    },
     {
       "id": "hv75007132",
       "lon": -155.35383605957,
@@ -54,13 +74,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660290"
     },
     {
+      "id": "us7000t2ug",
+      "lon": -126.3009,
+      "lat": 43.0375,
+      "depth": 10,
+      "mag": 4.2,
+      "place": "150 km WNW of Port Orford, Oregon",
+      "time": 1784834187700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ug"
+    },
+    {
       "id": "tx2026okcjhc",
       "lon": -103.886,
       "lat": 31.962,
-      "depth": 7.1506,
+      "depth": 6.9702,
       "mag": 1.6,
       "place": "33 km SSE of Malaga, New Mexico",
-      "time": 1784833501982,
+      "time": 1784833502023,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026okcjhc"
     },
     {
@@ -322,6 +352,16 @@
       "place": "13 km WNW of Coyanosa, Texas",
       "time": 1784821170190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojvogo"
+    },
+    {
+      "id": "tx2026ojvmht",
+      "lon": -103.241,
+      "lat": 32.005,
+      "depth": 8.2019,
+      "mag": 1.5,
+      "place": "12 km SSW of Jal, New Mexico",
+      "time": 1784821018562,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojvmht"
     },
     {
       "id": "ci40660178",
@@ -1114,6 +1154,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2n5"
     },
     {
+      "id": "av94326563",
+      "lon": -176.849166666667,
+      "lat": 51.5868333333333,
+      "depth": 10.74,
+      "mag": 1.4,
+      "place": "35 km SSW of Adak, Alaska",
+      "time": 1784798856340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94326563"
+    },
+    {
       "id": "ci40660026",
       "lon": -115.523833333333,
       "lat": 32.9841666666667,
@@ -1225,12 +1275,12 @@
     },
     {
       "id": "ci40659970",
-      "lon": -115.523666666667,
-      "lat": 32.9125,
-      "depth": 7.85,
-      "mag": 1.74,
-      "place": "7 km S of Brawley, CA",
-      "time": 1784797601420,
+      "lon": -115.517666666667,
+      "lat": 32.9008333333333,
+      "depth": 11.08,
+      "mag": 1.72,
+      "place": "8 km NE of Imperial, CA",
+      "time": 1784797601190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659970"
     },
     {
@@ -1642,6 +1692,16 @@
       "place": "8 km S of Brawley, CA",
       "time": 1784791260530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659754"
+    },
+    {
+      "id": "ci10246326",
+      "lon": -115.534666666667,
+      "lat": 32.9145,
+      "depth": 6.69,
+      "mag": 1.6,
+      "place": "7 km S of Brawley, CA",
+      "time": 1784791062690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10246326"
     },
     {
       "id": "ci40659746",
@@ -3112,56 +3172,6 @@
       "place": "13 km W of Valley, Washington",
       "time": 1784751359640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714057692"
-    },
-    {
-      "id": "aka2026okqwer",
-      "lon": -151.564,
-      "lat": 60.139,
-      "depth": 57.9,
-      "mag": 2.6,
-      "place": "11 km NNE of Ninilchik, Alaska",
-      "time": 1784751155636,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026okqwer"
-    },
-    {
-      "id": "uw714057672",
-      "lon": -117.451333333333,
-      "lat": 44.5368333333333,
-      "depth": -1.58,
-      "mag": 1.76,
-      "place": "25 km NW of Huntington, Oregon",
-      "time": 1784750906210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714057672"
-    },
-    {
-      "id": "us7000t2ig",
-      "lon": -177.1006,
-      "lat": -29.433,
-      "depth": 35,
-      "mag": 4.9,
-      "place": "Kermadec Islands, New Zealand",
-      "time": 1784750847595,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ig"
-    },
-    {
-      "id": "ok2026ogpl",
-      "lon": -96.5195,
-      "lat": 34.64116667,
-      "depth": 0.76,
-      "mag": 1.2,
-      "place": "1 km SSE of Stonewall, Oklahoma",
-      "time": 1784750816299,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ogpl"
-    },
-    {
-      "id": "hv75006522",
-      "lon": -155.445831298828,
-      "lat": 19.117166519165,
-      "depth": 24.5400009155273,
-      "mag": 1.72,
-      "place": "10 km SSE of Pāhala, Hawaii",
-      "time": 1784750617520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75006522"
     }
   ]
 }
