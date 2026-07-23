@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-23T04:00:58Z",
-  "count": 226,
+  "updated": "2026-07-23T04:15:35Z",
+  "count": 223,
   "points": [
+    {
+      "id": "ci40659650",
+      "lon": -116.767,
+      "lat": 33.508,
+      "depth": 4.61,
+      "mag": 0.6,
+      "place": "10 km WSW of Anza, CA",
+      "time": 1784779288610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659650"
+    },
     {
       "id": "ci40659642",
       "lon": -117.865,
@@ -87,10 +97,10 @@
       "id": "tx2026oiwoat",
       "lon": -104.223,
       "lat": 31.638,
-      "depth": 4.3478,
+      "depth": 4.3541,
       "mag": 1.6,
       "place": "54 km NW of Toyah, Texas",
-      "time": 1784775917786,
+      "time": 1784775917784,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiwoat"
     },
     {
@@ -2222,46 +2232,6 @@
       "place": "17 km SW of Nile, Washington",
       "time": 1784693828560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714056922"
-    },
-    {
-      "id": "nn00922155",
-      "lon": -116.7028,
-      "lat": 38.3647,
-      "depth": 2.6007,
-      "mag": 1.82,
-      "place": "56 km NE of Tonopah, Nevada",
-      "time": 1784693443565,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922155"
-    },
-    {
-      "id": "hv75006132",
-      "lon": -155.380340576172,
-      "lat": 18.9545001983643,
-      "depth": 16.5900001525879,
-      "mag": 1.8,
-      "place": "24 km ESE of Naalehu, Hawaii",
-      "time": 1784693296320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75006132"
-    },
-    {
-      "id": "ci40659146",
-      "lon": -116.028,
-      "lat": 33.1796666666667,
-      "depth": 5.34,
-      "mag": 1.38,
-      "place": "10 km ENE of Ocotillo Wells, CA",
-      "time": 1784693132810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659146"
-    },
-    {
-      "id": "nc75403532",
-      "lon": -122.780670166016,
-      "lat": 38.8084983825684,
-      "depth": 2.95000004768372,
-      "mag": 1.11,
-      "place": "4 km NNW of The Geysers, CA",
-      "time": 1784692895790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403532"
     }
   ]
 }
