@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-23T01:45:42Z",
+  "updated": "2026-07-23T02:00:52Z",
   "count": 222,
   "points": [
+    {
+      "id": "tx2026oitxmy",
+      "lon": -103.867,
+      "lat": 31.118,
+      "depth": 0,
+      "mag": 1.6,
+      "place": "18 km NW of Balmorhea, Texas",
+      "time": 1784771123922,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oitxmy"
+    },
     {
       "id": "ci40659586",
       "lon": -116.315166666667,
@@ -614,6 +624,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026okqcho"
     },
     {
+      "id": "av94325718",
+      "lon": -152.242166666667,
+      "lat": 61.1795,
+      "depth": 5.89,
+      "mag": 0.16,
+      "place": "60 km WNW of Tyonek, Alaska",
+      "time": 1784749624990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94325718"
+    },
+    {
       "id": "nc75403877",
       "lon": -122.795333862305,
       "lat": 38.8211669921875,
@@ -632,6 +652,16 @@
       "place": "3 km ESE of Home Gardens, CA",
       "time": 1784748632750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659458"
+    },
+    {
+      "id": "av94325698",
+      "lon": -155.134666666667,
+      "lat": 58.2496666666667,
+      "depth": 3.7,
+      "mag": -0.43,
+      "place": "85 km NNW of Karluk, Alaska",
+      "time": 1784748265240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94325698"
     },
     {
       "id": "hv75006507",
@@ -2192,36 +2222,6 @@
       "place": "2 km WSW of Pāhala, Hawaii",
       "time": 1784685731180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75006072"
-    },
-    {
-      "id": "uw714056872",
-      "lon": -122.559166666667,
-      "lat": 47.7675,
-      "depth": 26.5,
-      "mag": 1.14,
-      "place": "3 km NW of Indianola, Washington",
-      "time": 1784685595570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714056872"
-    },
-    {
-      "id": "us7000t2dd",
-      "lon": -70.7197,
-      "lat": -23.5367,
-      "depth": 35,
-      "mag": 4.1,
-      "place": "35 km WNW of Antofagasta, Chile",
-      "time": 1784684925228,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dd"
-    },
-    {
-      "id": "nc75403452",
-      "lon": -122.806831359863,
-      "lat": 38.8358345031738,
-      "depth": 2.20000004768372,
-      "mag": 1.26,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1784684795060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403452"
     }
   ]
 }
