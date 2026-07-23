@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-23T17:45:39Z",
-  "count": 315,
+  "updated": "2026-07-23T18:00:57Z",
+  "count": 317,
   "points": [
+    {
+      "id": "aka2026omielr",
+      "lon": -146.21,
+      "lat": 61.593,
+      "depth": 31.4,
+      "mag": 1.7,
+      "place": "52 km N of Valdez, Alaska",
+      "time": 1784829091162,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026omielr"
+    },
     {
       "id": "ci40660258",
       "lon": -117.112666666667,
@@ -1125,12 +1135,12 @@
     },
     {
       "id": "ci40659922",
-      "lon": -115.523833333333,
-      "lat": 32.9151666666667,
-      "depth": 9.26,
-      "mag": 1.97,
+      "lon": -115.5225,
+      "lat": 32.9156666666667,
+      "depth": 9.45,
+      "mag": 1.95,
       "place": "7 km S of Brawley, CA",
-      "time": 1784796755340,
+      "time": 1784796755220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659922"
     },
     {
@@ -1484,13 +1494,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659746"
     },
     {
+      "id": "ci10246310",
+      "lon": -115.533666666667,
+      "lat": 32.9018333333333,
+      "depth": 6.75,
+      "mag": 2.12,
+      "place": "7 km NNE of Imperial, CA",
+      "time": 1784790988930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10246310"
+    },
+    {
       "id": "ci40659738",
-      "lon": -115.524,
-      "lat": 32.9231666666667,
-      "depth": 8.04,
-      "mag": 1.73,
-      "place": "6 km S of Brawley, CA",
-      "time": 1784790987740,
+      "lon": -115.5225,
+      "lat": 32.9008333333333,
+      "depth": 9.69,
+      "mag": 1.67,
+      "place": "7 km NE of Imperial, CA",
+      "time": 1784790987750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659738"
     },
     {
@@ -2314,6 +2334,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403997"
     },
     {
+      "id": "uw714058192",
+      "lon": -123.055666666667,
+      "lat": 48.6266666666667,
+      "depth": 12.62,
+      "mag": 1.13,
+      "place": "8 km WNW of Orcas, Washington",
+      "time": 1784766597790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714058192"
+    },
+    {
       "id": "aka2026okzgmo",
       "lon": -152.238,
       "lat": 60.342,
@@ -2672,6 +2702,16 @@
       "place": "3 km SE of The Geysers, CA",
       "time": 1784756028490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403937"
+    },
+    {
+      "id": "tx2026oilkrr",
+      "lon": -102.104,
+      "lat": 32.354,
+      "depth": 8.1299,
+      "mag": 0.7,
+      "place": "38 km NW of Stanton, Texas",
+      "time": 1784755771833,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oilkrr"
     },
     {
       "id": "pr71525333",
@@ -3132,26 +3172,6 @@
       "place": "9 km NE of Coso Junction, CA",
       "time": 1784743332140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659410"
-    },
-    {
-      "id": "nn00922187",
-      "lon": -116.4583,
-      "lat": 38.5158,
-      "depth": 5.0238,
-      "mag": 1.8,
-      "place": "83 km NE of Tonopah, Nevada",
-      "time": 1784743130591,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922187"
-    },
-    {
-      "id": "nc75403797",
-      "lon": -122.79467010498,
-      "lat": 38.8233337402344,
-      "depth": 3.09999990463257,
-      "mag": 0.75,
-      "place": "6 km NNW of The Geysers, CA",
-      "time": 1784742804330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403797"
     }
   ]
 }
