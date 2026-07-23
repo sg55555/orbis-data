@@ -1,16 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-23T10:15:32Z",
-  "count": 260,
+  "updated": "2026-07-23T10:30:48Z",
+  "count": 259,
   "points": [
     {
+      "id": "nc75404137",
+      "lon": -122.807167053223,
+      "lat": 38.8178329467773,
+      "depth": 2.86999988555908,
+      "mag": 1.4,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1784802406910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404137"
+    },
+    {
+      "id": "nc75404132",
+      "lon": -122.782333374023,
+      "lat": 38.7931671142578,
+      "depth": 3.35999989509583,
+      "mag": 0.74,
+      "place": "3 km NW of The Geysers, CA",
+      "time": 1784801765690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404132"
+    },
+    {
+      "id": "ci40660050",
+      "lon": -115.5195,
+      "lat": 32.92,
+      "depth": 8.46,
+      "mag": 1.99,
+      "place": "7 km S of Brawley, CA",
+      "time": 1784801657730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660050"
+    },
+    {
       "id": "tx2026ojkskd",
-      "lon": -102.028,
-      "lat": 32.124,
-      "depth": 3.9053,
+      "lon": -102.018,
+      "lat": 32.126,
+      "depth": 3.6735,
       "mag": 1,
-      "place": "14 km NNE of Midland, Texas",
-      "time": 1784801543996,
+      "place": "15 km NNE of Midland, Texas",
+      "time": 1784801544101,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojkskd"
     },
     {
@@ -325,12 +355,12 @@
     },
     {
       "id": "tx2026ojgbev",
-      "lon": -98.95,
-      "lat": 28.824,
-      "depth": 11.1095,
+      "lon": -98.99,
+      "lat": 28.867,
+      "depth": 5.7492,
       "mag": 2.1,
-      "place": "16 km ESE of Pearsall, Texas",
-      "time": 1784793105244,
+      "place": "10 km ESE of Pearsall, Texas",
+      "time": 1784793105869,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojgbev"
     },
     {
@@ -885,12 +915,12 @@
     },
     {
       "id": "tx2026oiwoat",
-      "lon": -104.223,
-      "lat": 31.638,
-      "depth": 4.3541,
-      "mag": 1.6,
+      "lon": -104.211,
+      "lat": 31.649,
+      "depth": 6.0999,
+      "mag": 1.5,
       "place": "54 km NW of Toyah, Texas",
-      "time": 1784775917784,
+      "time": 1784775917673,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiwoat"
     },
     {
@@ -1062,16 +1092,6 @@
       "place": "54 km NW of Toyah, Texas",
       "time": 1784772166574,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiummd"
-    },
-    {
-      "id": "tx2026oiulzf",
-      "lon": -104.223,
-      "lat": 31.64,
-      "depth": 3.925,
-      "mag": 1.5,
-      "place": "54 km NW of Toyah, Texas",
-      "time": 1784772139801,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiulzf"
     },
     {
       "id": "us7000t2ki",
@@ -2572,36 +2592,6 @@
       "place": "20 km SW of Snyder, Texas",
       "time": 1784716421143,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ohprvu"
-    },
-    {
-      "id": "us7000t2fq",
-      "lon": -92.9016,
-      "lat": 14.3451,
-      "depth": 35,
-      "mag": 4.5,
-      "place": "66 km SW of Puerto Madero, Mexico",
-      "time": 1784715893831,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fq"
-    },
-    {
-      "id": "nc75403652",
-      "lon": -121.619499206543,
-      "lat": 36.875,
-      "depth": 6.1100001335144,
-      "mag": 1.99,
-      "place": "3 km SE of Aromas, CA",
-      "time": 1784715837950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403652"
-    },
-    {
-      "id": "uu80145971",
-      "lon": -112.312166666667,
-      "lat": 38.1491666666667,
-      "depth": 5.9,
-      "mag": 0.88,
-      "place": "4 km SW of Circleville, Utah",
-      "time": 1784715469670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145971"
     }
   ]
 }
