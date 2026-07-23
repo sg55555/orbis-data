@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-23T15:45:33Z",
-  "count": 309,
+  "updated": "2026-07-23T16:01:00Z",
+  "count": 305,
   "points": [
+    {
+      "id": "ci40660194",
+      "lon": -120.2065,
+      "lat": 34.765,
+      "depth": 2.66,
+      "mag": 2.12,
+      "place": "7 km ENE of Los Alamos, CA",
+      "time": 1784821894800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660194"
+    },
+    {
+      "id": "hv75007062",
+      "lon": -155.480163574219,
+      "lat": 19.1523342132568,
+      "depth": 28.4400005340576,
+      "mag": 1.73,
+      "place": "5 km S of Pāhala, Hawaii",
+      "time": 1784821296190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75007062"
+    },
     {
       "id": "tx2026ojvogo",
       "lon": -103.2,
@@ -52,6 +72,16 @@
       "place": "43 km NW of Toyah, Texas",
       "time": 1784820403343,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojvbxt"
+    },
+    {
+      "id": "tx2026ojvaen",
+      "lon": -104.239,
+      "lat": 31.626,
+      "depth": 3.1822,
+      "mag": 1.9,
+      "place": "54 km NW of Toyah, Texas",
+      "time": 1784820344515,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojvaen"
     },
     {
       "id": "tx2026ojvbtn",
@@ -245,12 +275,12 @@
     },
     {
       "id": "tx2026ojshuv",
-      "lon": -103.252,
-      "lat": 32,
-      "depth": 3.3411,
-      "mag": 2.6,
-      "place": "13 km SSW of Jal, New Mexico",
-      "time": 1784815290261,
+      "lon": -103.239,
+      "lat": 32.016,
+      "depth": 5.2795,
+      "mag": 2.7,
+      "place": "11 km SSW of Jal, New Mexico",
+      "time": 1784815290072,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojshuv"
     },
     {
@@ -905,12 +935,12 @@
     },
     {
       "id": "ci40659938",
-      "lon": -115.525166666667,
-      "lat": 32.914,
-      "depth": 14.28,
-      "mag": 2.81,
-      "place": "7 km S of Brawley, CA",
-      "time": 1784796907250,
+      "lon": -115.522666666667,
+      "lat": 32.9091666666667,
+      "depth": 15.51,
+      "mag": 2.77,
+      "place": "8 km S of Brawley, CA",
+      "time": 1784796907130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659938"
     },
     {
@@ -3022,76 +3052,6 @@
       "place": "13 km SSW of Jal, New Mexico",
       "time": 1784737313128,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oibfvf"
-    },
-    {
-      "id": "ci40659354",
-      "lon": -116.028,
-      "lat": 33.1818333333333,
-      "depth": 5.41,
-      "mag": 0.6,
-      "place": "11 km ENE of Ocotillo Wells, CA",
-      "time": 1784736053510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659354"
-    },
-    {
-      "id": "ci10246238",
-      "lon": -116.374333333333,
-      "lat": 33.3495,
-      "depth": 12.26,
-      "mag": 0.8,
-      "place": "10 km N of Borrego Springs, CA",
-      "time": 1784735781650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10246238"
-    },
-    {
-      "id": "ci40659346",
-      "lon": -116.390333333333,
-      "lat": 33.3443333333333,
-      "depth": 12.52,
-      "mag": 0.86,
-      "place": "10 km N of Borrego Springs, CA",
-      "time": 1784735779700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659346"
-    },
-    {
-      "id": "hv75006427",
-      "lon": -155.158493041992,
-      "lat": 19.337833404541,
-      "depth": 3.46000003814697,
-      "mag": 1.77,
-      "place": "14 km SE of Volcano, Hawaii",
-      "time": 1784735591240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75006427"
-    },
-    {
-      "id": "hv75006422",
-      "lon": -155.151,
-      "lat": 19.3328333333333,
-      "depth": 7,
-      "mag": 1.36,
-      "place": "14 km S of Fern Forest, Hawaii",
-      "time": 1784735316660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75006422"
-    },
-    {
-      "id": "us7000t2gx",
-      "lon": -176.9767,
-      "lat": -29.6426,
-      "depth": 35,
-      "mag": 4.8,
-      "place": "Kermadec Islands region",
-      "time": 1784735147284,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2gx"
-    },
-    {
-      "id": "nn00922176",
-      "lon": -119.0682,
-      "lat": 39.3109,
-      "depth": 6.5491,
-      "mag": 1.83,
-      "place": "17 km SE of Silver Springs, Nevada",
-      "time": 1784735108094,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922176"
     }
   ]
 }
