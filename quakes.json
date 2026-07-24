@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T06:15:34Z",
-  "count": 313,
+  "updated": "2026-07-24T06:30:48Z",
+  "count": 314,
   "points": [
+    {
+      "id": "nc75404827",
+      "lon": -122.788833618164,
+      "lat": 38.8373336791992,
+      "depth": 1.67999994754791,
+      "mag": 0.69,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1784874080150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404827"
+    },
+    {
+      "id": "ci40660530",
+      "lon": -117.187,
+      "lat": 34.0166666666667,
+      "depth": 5.04,
+      "mag": 0.99,
+      "place": "4 km S of Redlands, CA",
+      "time": 1784873652490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660530"
+    },
     {
       "id": "nc75404822",
       "lon": -122.781829833984,
@@ -3122,16 +3142,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1784788447490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404097"
-    },
-    {
-      "id": "us7000t2mi",
-      "lon": -39.3528,
-      "lat": 8.5099,
-      "depth": 10,
-      "mag": 5.1,
-      "place": "central Mid-Atlantic Ridge",
-      "time": 1784788197530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2mi"
     }
   ]
 }
