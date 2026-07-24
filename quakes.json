@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T21:45:37Z",
-  "count": 240,
+  "updated": "2026-07-24T22:00:59Z",
+  "count": 242,
   "points": [
+    {
+      "id": "tx2026omdlky",
+      "lon": -104.446,
+      "lat": 31.891,
+      "depth": 0,
+      "mag": 1.6,
+      "place": "32 km SSW of Whites City, New Mexico",
+      "time": 1784929605517,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026omdlky"
+    },
+    {
+      "id": "us7000t37a",
+      "lon": 166.8006,
+      "lat": -14.0205,
+      "depth": 44.637,
+      "mag": 6,
+      "place": "82 km W of Sola, Vanuatu",
+      "time": 1784929076459,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t37a"
+    },
     {
       "id": "ci40660898",
       "lon": -117.790833333333,
@@ -205,12 +225,12 @@
     },
     {
       "id": "ci40660842",
-      "lon": -118.653166666667,
-      "lat": 35.3678333333333,
-      "depth": 4.37,
-      "mag": 1.2,
+      "lon": -118.653333333333,
+      "lat": 35.37,
+      "depth": 4.33,
+      "mag": 1.07,
       "place": "24 km NE of Arvin, CA",
-      "time": 1784922619820,
+      "time": 1784922619800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660842"
     },
     {
@@ -1385,12 +1405,12 @@
     },
     {
       "id": "ci40660578",
-      "lon": -118.336666666667,
-      "lat": 33.9435,
-      "depth": 8.82,
-      "mag": 1.31,
-      "place": "2 km ENE of Lennox, CA",
-      "time": 1784884540650,
+      "lon": -118.323666666667,
+      "lat": 33.9373333333333,
+      "depth": 10.44,
+      "mag": 1.25,
+      "place": "3 km E of Lennox, CA",
+      "time": 1784884540530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660578"
     },
     {
@@ -1682,6 +1702,16 @@
       "place": "16 km NNE of Banning, CA",
       "time": 1784871060550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660522"
+    },
+    {
+      "id": "av94329078",
+      "lon": -176.1925,
+      "lat": 52.0851666666667,
+      "depth": 5.16,
+      "mag": 0.32,
+      "place": "38 km NE of Adak, Alaska",
+      "time": 1784870785240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94329078"
     },
     {
       "id": "nc75404797",
@@ -2392,16 +2422,6 @@
       "place": "9 km WNW of The Geysers, CA",
       "time": 1784844052100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404622"
-    },
-    {
-      "id": "uu80146166",
-      "lon": -112.879,
-      "lat": 38.5105,
-      "depth": 2.94,
-      "mag": 0.88,
-      "place": "17 km NE of Milford, Utah",
-      "time": 1784843688200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146166"
     }
   ]
 }
