@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T23:30:45Z",
-  "count": 239,
+  "updated": "2026-07-24T23:45:32Z",
+  "count": 237,
   "points": [
     {
       "id": "nc75405277",
@@ -425,22 +425,22 @@
     },
     {
       "id": "ci40660802",
-      "lon": -118.342,
-      "lat": 35.0598333333333,
-      "depth": -0.6,
-      "mag": 1.32,
+      "lon": -118.341166666667,
+      "lat": 35.0581666666667,
+      "depth": -1.01,
+      "mag": 1.3,
       "place": "13 km SE of Tehachapi, CA",
-      "time": 1784919118940,
+      "time": 1784919118890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660802"
     },
     {
       "id": "ci40660794",
-      "lon": -116.877333333333,
-      "lat": 33.933,
-      "depth": 3.37,
-      "mag": 0.85,
+      "lon": -116.875666666667,
+      "lat": 33.9341666666667,
+      "depth": 4.83,
+      "mag": 0.84,
       "place": "1 km N of Banning, CA",
-      "time": 1784918588950,
+      "time": 1784918588980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660794"
     },
     {
@@ -962,6 +962,16 @@
       "place": "5 km ENE of Beaumont, CA",
       "time": 1784900711190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660650"
+    },
+    {
+      "id": "av94329973",
+      "lon": -152.248166666667,
+      "lat": 61.2901666666667,
+      "depth": -3.17,
+      "mag": -0.67,
+      "place": "64 km WNW of Tyonek, Alaska",
+      "time": 1784900061370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94329973"
     },
     {
       "id": "ci40660642",
@@ -2362,36 +2372,6 @@
       "place": "7 km WNW of Cobb, CA",
       "time": 1784850454520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404677"
-    },
-    {
-      "id": "ci40660450",
-      "lon": -116.825166666667,
-      "lat": 33.7023333333333,
-      "depth": 16.3,
-      "mag": 1.94,
-      "place": "8 km SE of Valle Vista, CA",
-      "time": 1784850037840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660450"
-    },
-    {
-      "id": "tx2026oklmdr",
-      "lon": -103.885,
-      "lat": 31.959,
-      "depth": 7.6636,
-      "mag": 0.9,
-      "place": "34 km SSE of Malaga, New Mexico",
-      "time": 1784849993289,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oklmdr"
-    },
-    {
-      "id": "tx2026oklgef",
-      "lon": -104.114,
-      "lat": 31.619,
-      "depth": 6.0999,
-      "mag": 2.1,
-      "place": "45 km NW of Toyah, Texas",
-      "time": 1784849573996,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oklgef"
     }
   ]
 }
