@@ -1,17 +1,27 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T21:30:44Z",
-  "count": 242,
+  "updated": "2026-07-24T21:45:37Z",
+  "count": 240,
   "points": [
     {
       "id": "ci40660898",
-      "lon": -117.795501708984,
-      "lat": 35.3608322143555,
-      "depth": 5.76000022888184,
-      "mag": 1.55011214221032,
-      "place": "15 km W of Johannesburg, CA",
-      "time": 1784928395460,
+      "lon": -117.790833333333,
+      "lat": 35.3605,
+      "depth": 4.65,
+      "mag": 1.02,
+      "place": "14 km W of Johannesburg, CA",
+      "time": 1784928395390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660898"
+    },
+    {
+      "id": "us7000t376",
+      "lon": 166.8778,
+      "lat": -14.0586,
+      "depth": 16.7,
+      "mag": 5.1,
+      "place": "75 km WSW of Sola, Vanuatu",
+      "time": 1784927984549,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t376"
     },
     {
       "id": "nc75405227",
@@ -225,12 +235,12 @@
     },
     {
       "id": "nn00922289",
-      "lon": -118.7462,
-      "lat": 38.3204,
-      "depth": 6.8017,
+      "lon": -118.7482,
+      "lat": 38.3196,
+      "depth": 6.7383,
       "mag": 2.65,
       "place": "25 km SSW of Hawthorne, Nevada",
-      "time": 1784922356351,
+      "time": 1784922356333,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922289"
     },
     {
@@ -1764,6 +1774,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404777"
     },
     {
+      "id": "av94328928",
+      "lon": -166.638666666667,
+      "lat": 53.9008333333333,
+      "depth": 9.07,
+      "mag": 0.4,
+      "place": "6 km W of Dutch Harbor, Alaska",
+      "time": 1784865617820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94328928"
+    },
+    {
       "id": "nn00922246",
       "lon": -117.412,
       "lat": 37.2082,
@@ -2382,46 +2402,6 @@
       "place": "17 km NE of Milford, Utah",
       "time": 1784843688200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146166"
-    },
-    {
-      "id": "ok2026oiob",
-      "lon": -97.7695,
-      "lat": 34.74483333,
-      "depth": 18.45,
-      "mag": 1.85,
-      "place": "12 km NNE of Bray, Oklahoma",
-      "time": 1784842920050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026oiob"
-    },
-    {
-      "id": "av94327883",
-      "lon": -169.783,
-      "lat": 52.7826666666667,
-      "depth": 6.96,
-      "mag": 1.64,
-      "place": "64 km WSW of Nikolski, Alaska",
-      "time": 1784842862260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94327883"
-    },
-    {
-      "id": "nc75404602",
-      "lon": -123.111167907715,
-      "lat": 39.3504981994629,
-      "depth": 8.23999977111816,
-      "mag": 1.48,
-      "place": "12 km NE of Redwood Valley, CA",
-      "time": 1784842626410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404602"
-    },
-    {
-      "id": "tx2026okhiem",
-      "lon": -101.738,
-      "lat": 31.92,
-      "depth": 7.7881,
-      "mag": 0.5,
-      "place": "23 km SSE of Stanton, Texas",
-      "time": 1784842471778,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026okhiem"
     }
   ]
 }
