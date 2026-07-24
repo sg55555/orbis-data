@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T00:30:54Z",
-  "count": 345,
+  "updated": "2026-07-24T00:45:39Z",
+  "count": 343,
   "points": [
+    {
+      "id": "nc75404697",
+      "lon": -122.786331176758,
+      "lat": 38.8115005493164,
+      "depth": 2.90000009536743,
+      "mag": 1.61,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1784852950180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404697"
+    },
     {
       "id": "ci40660474",
       "lon": -117.6705,
@@ -272,6 +282,16 @@
       "place": "29 km WSW of Anchor Point, Alaska",
       "time": 1784846380228,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026omrugy"
+    },
+    {
+      "id": "us7000t2vx",
+      "lon": -93.4188,
+      "lat": 13.9895,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "134 km SW of Puerto Madero, Mexico",
+      "time": 1784846343397,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2vx"
     },
     {
       "id": "tx2026okiyct",
@@ -3412,46 +3432,6 @@
       "place": "2 km NNE of San Leandro, CA",
       "time": 1784767931350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404007"
-    },
-    {
-      "id": "aka2026okztgx",
-      "lon": -144.052,
-      "lat": 61.988,
-      "depth": 11.6,
-      "mag": 1.4,
-      "place": "55 km ENE of Kenny Lake, Alaska",
-      "time": 1784767145539,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026okztgx"
-    },
-    {
-      "id": "nc75404002",
-      "lon": -122.824501037598,
-      "lat": 38.8411674499512,
-      "depth": 1.75999999046326,
-      "mag": 0.7,
-      "place": "9 km WNW of Cobb, CA",
-      "time": 1784766943780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404002"
-    },
-    {
-      "id": "hv75006667",
-      "lon": -155.563833333333,
-      "lat": 19.4486666666667,
-      "depth": 41.76,
-      "mag": 1.59,
-      "place": "28 km NNW of Pāhala, Hawaii",
-      "time": 1784766656330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75006667"
-    },
-    {
-      "id": "nc75403997",
-      "lon": -123.234497070312,
-      "lat": 39.3761672973633,
-      "depth": 6.80000019073486,
-      "mag": 2.54,
-      "place": "11 km ESE of Willits, CA",
-      "time": 1784766637490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403997"
     }
   ]
 }
