@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T01:02:54Z",
-  "count": 341,
+  "updated": "2026-07-24T01:15:31Z",
+  "count": 343,
   "points": [
+    {
+      "id": "us7000t2wx",
+      "lon": -176.0652,
+      "lat": 51.1015,
+      "depth": 10,
+      "mag": 5,
+      "place": "94 km SSE of Adak, Alaska",
+      "time": 1784854996097,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2wx"
+    },
+    {
+      "id": "nc75404707",
+      "lon": -125.920997619629,
+      "lat": 40.4133338928223,
+      "depth": 4.65999984741211,
+      "mag": 2.31,
+      "place": "139 km W of Petrolia, CA",
+      "time": 1784854962320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404707"
+    },
     {
       "id": "nc75404702",
       "lon": -122.784332275391,
@@ -282,6 +302,16 @@
       "place": "8 km WNW of Cobb, CA",
       "time": 1784847092460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404637"
+    },
+    {
+      "id": "us7000t2w1",
+      "lon": 100.6411,
+      "lat": -6.1688,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "southwest of Sumatra, Indonesia",
+      "time": 1784847023617,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2w1"
     },
     {
       "id": "nc75404632",
@@ -3402,16 +3432,6 @@
       "place": "85 km NNW of Karluk, Alaska",
       "time": 1784769340846,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026olayzq"
-    },
-    {
-      "id": "av94326038",
-      "lon": -176.176,
-      "lat": 52.111,
-      "depth": 7.27,
-      "mag": 1.06,
-      "place": "41 km NE of Adak, Alaska",
-      "time": 1784768665640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94326038"
     }
   ]
 }
