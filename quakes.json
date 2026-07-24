@@ -1,16 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T22:00:59Z",
-  "count": 242,
+  "updated": "2026-07-24T22:32:53Z",
+  "count": 241,
   "points": [
     {
-      "id": "tx2026omdlky",
-      "lon": -104.446,
-      "lat": 31.891,
+      "id": "ci40660914",
+      "lon": -117.798,
+      "lat": 35.3128333333333,
+      "depth": 6.67,
+      "mag": 1.63,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1784931700870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660914"
+    },
+    {
+      "id": "tx2026omelgs",
+      "lon": -103.177,
+      "lat": 31.454,
       "depth": 0,
-      "mag": 1.6,
-      "place": "32 km SSW of Whites City, New Mexico",
-      "time": 1784929605517,
+      "mag": 1.7,
+      "place": "10 km SSW of Pyote, Texas",
+      "time": 1784931391062,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026omelgs"
+    },
+    {
+      "id": "aka2026oomuvk",
+      "lon": -153.018,
+      "lat": 59.638,
+      "depth": 106.8,
+      "mag": 1.7,
+      "place": "63 km ESE of Pedro Bay, Alaska",
+      "time": 1784931019603,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oomuvk"
+    },
+    {
+      "id": "tx2026omdlky",
+      "lon": -104.26,
+      "lat": 31.638,
+      "depth": 8.1839,
+      "mag": 1.7,
+      "place": "57 km NW of Toyah, Texas",
+      "time": 1784929604516,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026omdlky"
     },
     {
@@ -195,12 +225,12 @@
     },
     {
       "id": "nn00922297",
-      "lon": -118.7374,
-      "lat": 38.3202,
-      "depth": 9.208,
-      "mag": 1.75,
-      "place": "24 km SSW of Hawthorne, Nevada",
-      "time": 1784923161397,
+      "lon": -118.7405,
+      "lat": 38.3169,
+      "depth": 9.3027,
+      "mag": 1.66,
+      "place": "25 km SSW of Hawthorne, Nevada",
+      "time": 1784923161667,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922297"
     },
     {
@@ -695,12 +725,12 @@
     },
     {
       "id": "nn00922276",
-      "lon": -119.6714,
-      "lat": 39.0722,
-      "depth": 5.0572,
-      "mag": 1.64,
+      "lon": -119.663,
+      "lat": 39.0733,
+      "depth": 7.5021,
+      "mag": 1.58,
       "place": "5 km ENE of Johnson Lane, Nevada",
-      "time": 1784904926700,
+      "time": 1784904927291,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922276"
     },
     {
@@ -1644,6 +1674,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404822"
     },
     {
+      "id": "av94329143",
+      "lon": -176.168666666667,
+      "lat": 52.0633333333333,
+      "depth": 2.8,
+      "mag": 0.33,
+      "place": "38 km ENE of Adak, Alaska",
+      "time": 1784872797320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94329143"
+    },
+    {
       "id": "uw714060651",
       "lon": -122.142666666667,
       "lat": 46.2005,
@@ -2372,56 +2412,6 @@
       "place": "134 km SW of Puerto Madero, Mexico",
       "time": 1784846343397,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2vx"
-    },
-    {
-      "id": "ci40660426",
-      "lon": -115.607333333333,
-      "lat": 33.184,
-      "depth": 4.37,
-      "mag": 1.06,
-      "place": "10 km SW of Niland, CA",
-      "time": 1784844912180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660426"
-    },
-    {
-      "id": "nc75404627",
-      "lon": -122.804832458496,
-      "lat": 38.7923316955566,
-      "depth": 3.23000001907349,
-      "mag": 0.93,
-      "place": "5 km WNW of The Geysers, CA",
-      "time": 1784844859680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404627"
-    },
-    {
-      "id": "ci40660418",
-      "lon": -116.820333333333,
-      "lat": 33.5871666666667,
-      "depth": 13.09,
-      "mag": 0.95,
-      "place": "14 km WNW of Anza, CA",
-      "time": 1784844537200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660418"
-    },
-    {
-      "id": "uw714060221",
-      "lon": -124.423667907715,
-      "lat": 47.6716651916504,
-      "depth": 4.09000015258789,
-      "mag": 1.62561416625977,
-      "place": "16 km NNW of Queets, Washington",
-      "time": 1784844325360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714060221"
-    },
-    {
-      "id": "nc75404622",
-      "lon": -122.847999572754,
-      "lat": 38.8240013122559,
-      "depth": 2.10999989509583,
-      "mag": 0.76,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": 1784844052100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404622"
     }
   ]
 }
