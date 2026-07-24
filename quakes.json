@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T20:03:04Z",
-  "count": 236,
+  "updated": "2026-07-24T20:15:36Z",
+  "count": 232,
   "points": [
+    {
+      "id": "nc75405167",
+      "lon": -122.797332763672,
+      "lat": 38.8359985351562,
+      "depth": 1.86000001430511,
+      "mag": 0.83,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1784923439080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405167"
+    },
     {
       "id": "nn00922297",
       "lon": -118.7374,
@@ -294,6 +304,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660730"
     },
     {
+      "id": "av94330333",
+      "lon": -178.8135,
+      "lat": 51.8041666666667,
+      "depth": 8.59,
+      "mag": 0.92,
+      "place": "150 km W of Adak, Alaska",
+      "time": 1784911960140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94330333"
+    },
+    {
       "id": "us7000t34g",
       "lon": 175.2332,
       "lat": -38.9621,
@@ -402,6 +422,16 @@
       "place": "24 km SSW of Hawthorne, Nevada",
       "time": 1784908028358,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922278"
+    },
+    {
+      "id": "av94330243",
+      "lon": -178.821,
+      "lat": 51.7961666666667,
+      "depth": 9.26,
+      "mag": 0.91,
+      "place": "150 km W of Adak, Alaska",
+      "time": 1784908010970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94330243"
     },
     {
       "id": "aka2026onzxpp",
@@ -806,11 +836,11 @@
     {
       "id": "ci40660594",
       "lon": -117.795666666667,
-      "lat": 35.3303333333333,
-      "depth": 8.32,
+      "lat": 35.3288333333333,
+      "depth": 8.52,
       "mag": 0.96,
       "place": "15 km WSW of Johannesburg, CA",
-      "time": 1784895119300,
+      "time": 1784895119120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660594"
     },
     {
@@ -1245,12 +1275,12 @@
     },
     {
       "id": "ci40660554",
-      "lon": -117.897833333333,
-      "lat": 36.0765,
-      "depth": 2.52,
+      "lon": -117.894166666667,
+      "lat": 36.0743333333333,
+      "depth": 3.95,
       "mag": 0.82,
       "place": "6 km NE of Coso Junction, CA",
-      "time": 1784882626240,
+      "time": 1784882626230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660554"
     },
     {
@@ -2292,76 +2322,6 @@
       "place": "17 km SE of Silver Springs, Nevada",
       "time": 1784837753654,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922236"
-    },
-    {
-      "id": "us7000t2uz",
-      "lon": 138.7352,
-      "lat": -2.6381,
-      "depth": 10,
-      "mag": 4.8,
-      "place": "211 km W of Abepura, Indonesia",
-      "time": 1784837713431,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2uz"
-    },
-    {
-      "id": "hv75007142",
-      "lon": -155.4705,
-      "lat": 19.3821666666667,
-      "depth": 6.65,
-      "mag": 1.63,
-      "place": "19 km N of Pāhala, Hawaii",
-      "time": 1784837490580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75007142"
-    },
-    {
-      "id": "ci40660338",
-      "lon": -118.3385,
-      "lat": 35.4598333333333,
-      "depth": 3.12,
-      "mag": 1.15,
-      "place": "20 km SE of Bodfish, CA",
-      "time": 1784837349180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660338"
-    },
-    {
-      "id": "uu80146161",
-      "lon": -112.270333333333,
-      "lat": 38.169,
-      "depth": 1.84,
-      "mag": 1.15,
-      "place": "0 km S of Circleville, Utah",
-      "time": 1784837325650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146161"
-    },
-    {
-      "id": "ci40660330",
-      "lon": -118.323333333333,
-      "lat": 35.0521666666667,
-      "depth": -1.01,
-      "mag": 1.15,
-      "place": "14 km W of Mojave, CA",
-      "time": 1784837219860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660330"
-    },
-    {
-      "id": "uu80146156",
-      "lon": -111.583166666667,
-      "lat": 40.7573333333333,
-      "depth": 11.32,
-      "mag": 1.59,
-      "place": "2 km ENE of Summit Park, Utah",
-      "time": 1784837084530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146156"
-    },
-    {
-      "id": "ok2026oikv",
-      "lon": -95.21716667,
-      "lat": 36.266,
-      "depth": 0,
-      "mag": 1.37,
-      "place": "3 km NE of Sportsmen Acres, Oklahoma",
-      "time": 1784837045070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026oikv"
     }
   ]
 }
