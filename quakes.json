@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T22:38:47Z",
+  "updated": "2026-07-24T22:45:38Z",
   "count": 241,
   "points": [
+    {
+      "id": "nc75405252",
+      "lon": -121.448669433594,
+      "lat": 36.9669990539551,
+      "depth": 5.25,
+      "mag": 2.46,
+      "place": "11 km ESE of Gilroy, CA",
+      "time": 1784932701680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405252"
+    },
     {
       "id": "ci40660914",
       "lon": -117.798,
@@ -1654,6 +1664,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60625661"
     },
     {
+      "id": "av93064754",
+      "lon": -177.097333333333,
+      "lat": 51.7318333333333,
+      "depth": 4.92,
+      "mag": 0.43,
+      "place": "35 km WSW of Adak, Alaska",
+      "time": 1784873905690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064754"
+    },
+    {
       "id": "ci40660530",
       "lon": -117.186666666667,
       "lat": 34.016,
@@ -2392,26 +2412,6 @@
       "place": "4 km NW of Langford, Canada",
       "time": 1784846812430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714060361"
-    },
-    {
-      "id": "aka2026omrugy",
-      "lon": -152.345,
-      "lat": 59.722,
-      "depth": 76.7,
-      "mag": 2.3,
-      "place": "29 km WSW of Anchor Point, Alaska",
-      "time": 1784846380228,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026omrugy"
-    },
-    {
-      "id": "us7000t2vx",
-      "lon": -93.4188,
-      "lat": 13.9895,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "134 km SW of Puerto Madero, Mexico",
-      "time": 1784846343397,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2vx"
     }
   ]
 }
