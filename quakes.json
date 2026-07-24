@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T19:15:31Z",
-  "count": 236,
+  "updated": "2026-07-24T19:30:49Z",
+  "count": 233,
   "points": [
     {
       "id": "ci40660802",
@@ -245,12 +245,12 @@
     },
     {
       "id": "ci40660722",
-      "lon": -117.491333333333,
-      "lat": 33.847,
-      "depth": 1.58,
-      "mag": 1.83,
+      "lon": -117.488166666667,
+      "lat": 33.8483333333333,
+      "depth": -0.4,
+      "mag": 1.77,
       "place": "4 km SE of Home Gardens, CA",
-      "time": 1784910977770,
+      "time": 1784910977580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660722"
     },
     {
@@ -272,6 +272,16 @@
       "place": "24 km SSW of Hawthorne, Nevada",
       "time": 1784910486250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922282"
+    },
+    {
+      "id": "tx2026olsqdt",
+      "lon": -100.906,
+      "lat": 32.887,
+      "depth": 6.0303,
+      "mag": 1.4,
+      "place": "18 km N of Snyder, Texas",
+      "time": 1784910008363,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026olsqdt"
     },
     {
       "id": "uw714060771",
@@ -2322,46 +2332,6 @@
       "place": "275 km E of Levuka, Fiji",
       "time": 1784835736044,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2up"
-    },
-    {
-      "id": "nc75404477",
-      "lon": -122.763999938965,
-      "lat": 38.8201675415039,
-      "depth": 1.94000005722046,
-      "mag": 1.38,
-      "place": "4 km W of Cobb, CA",
-      "time": 1784834974790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404477"
-    },
-    {
-      "id": "uu80146151",
-      "lon": -110.809333333333,
-      "lat": 44.738,
-      "depth": 7.07,
-      "mag": 1.91,
-      "place": "24 km ENE of West Yellowstone, Montana",
-      "time": 1784834650860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146151"
-    },
-    {
-      "id": "ci40660290",
-      "lon": -116.817333333333,
-      "lat": 33.5918333333333,
-      "depth": 11.8,
-      "mag": 0.6,
-      "place": "14 km WNW of Anza, CA",
-      "time": 1784834338170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660290"
-    },
-    {
-      "id": "us7000t2ug",
-      "lon": -126.3009,
-      "lat": 43.0375,
-      "depth": 10,
-      "mag": 4.2,
-      "place": "150 km WNW of Port Orford, Oregon",
-      "time": 1784834187700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ug"
     }
   ]
 }
