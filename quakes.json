@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T18:30:46Z",
-  "count": 238,
+  "updated": "2026-07-24T18:45:32Z",
+  "count": 237,
   "points": [
+    {
+      "id": "uw714060851",
+      "lon": -123.453666666667,
+      "lat": 43.5035,
+      "depth": 18.65,
+      "mag": 1.45,
+      "place": "15 km NW of Oakland, Oregon",
+      "time": 1784917070880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714060851"
+    },
+    {
+      "id": "uw714060841",
+      "lon": -121.6735,
+      "lat": 46.5778333333333,
+      "depth": 10.9,
+      "mag": 1.64,
+      "place": "3 km S of Packwood, Washington",
+      "time": 1784916956530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714060841"
+    },
     {
       "id": "uw714060831",
       "lon": -123.043333333333,
@@ -125,12 +145,12 @@
     },
     {
       "id": "ci40660746",
-      "lon": -119.236333333333,
-      "lat": 35.5951666666667,
-      "depth": 25.1,
-      "mag": 1.73,
-      "place": "9 km S of McFarland, CA",
-      "time": 1784913138530,
+      "lon": -119.237666666667,
+      "lat": 35.592,
+      "depth": 25,
+      "mag": 1.68,
+      "place": "9 km E of Wasco, CA",
+      "time": 1784913138450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660746"
     },
     {
@@ -655,12 +675,12 @@
     },
     {
       "id": "nn00922264",
-      "lon": -118.7353,
-      "lat": 38.3301,
-      "depth": 6.4377,
-      "mag": 2.06,
-      "place": "23 km SSW of Hawthorne, Nevada",
-      "time": 1784895253858,
+      "lon": -118.7451,
+      "lat": 38.3161,
+      "depth": 6.6877,
+      "mag": 2.09,
+      "place": "25 km SSW of Hawthorne, Nevada",
+      "time": 1784895254192,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922264"
     },
     {
@@ -2352,36 +2372,6 @@
       "place": "59 km WNW of Tyonek, Alaska",
       "time": 1784833314860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94327603"
-    },
-    {
-      "id": "us7000t2ue",
-      "lon": 155.8624,
-      "lat": 49.8889,
-      "depth": 70.706,
-      "mag": 4.3,
-      "place": "89 km SSW of Severo-Kuril’sk, Russia",
-      "time": 1784832128069,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ue"
-    },
-    {
-      "id": "pr71525468",
-      "lon": -66.4715,
-      "lat": 19.0991666666667,
-      "depth": 7.32,
-      "mag": 2.96,
-      "place": "70 km N of Tierras Nuevas Poniente, Puerto Rico",
-      "time": 1784831743880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525468"
-    },
-    {
-      "id": "ok2026oihx",
-      "lon": -98.62333333,
-      "lat": 36.48716667,
-      "depth": 5.9,
-      "mag": 1.73,
-      "place": "15 km W of Aline, Oklahoma",
-      "time": 1784831732090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026oihx"
     }
   ]
 }
