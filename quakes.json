@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T05:00:53Z",
-  "count": 313,
+  "updated": "2026-07-24T05:15:45Z",
+  "count": 311,
   "points": [
+    {
+      "id": "nc75404792",
+      "lon": -122.814498901367,
+      "lat": 38.8263320922852,
+      "depth": 1.9099999666214,
+      "mag": 0.26,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1784869864470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404792"
+    },
     {
       "id": "ci40660514",
       "lon": -116.239166666667,
@@ -715,12 +725,12 @@
     },
     {
       "id": "tx2026okftly",
-      "lon": -104.381,
-      "lat": 31.62,
-      "depth": 4.5839,
+      "lon": -104.387,
+      "lat": 31.628,
+      "depth": 3.7163,
       "mag": 1.5,
-      "place": "61 km S of Whites City, New Mexico",
-      "time": 1784839791683,
+      "place": "60 km S of Whites City, New Mexico",
+      "time": 1784839792022,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026okftly"
     },
     {
@@ -3102,36 +3112,6 @@
       "place": "39 km NE of Amboy, Washington",
       "time": 1784783815520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714058642"
-    },
-    {
-      "id": "hv75006852",
-      "lon": -155.453506469727,
-      "lat": 19.1394996643066,
-      "depth": 30.6499996185303,
-      "mag": 1.8,
-      "place": "7 km SSE of Pāhala, Hawaii",
-      "time": 1784783694440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75006852"
-    },
-    {
-      "id": "nc75404082",
-      "lon": -123.227333068848,
-      "lat": 39.3330001831055,
-      "depth": 1.25,
-      "mag": 1.6,
-      "place": "8 km NNW of Redwood Valley, CA",
-      "time": 1784783572090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404082"
-    },
-    {
-      "id": "us7000t2m1",
-      "lon": -81.0181,
-      "lat": 41.7455,
-      "depth": 9.484,
-      "mag": 2,
-      "place": "3 km SE of Madison, Ohio",
-      "time": 1784783522632,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2m1"
     }
   ]
 }
