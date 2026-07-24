@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T15:30:43Z",
-  "count": 231,
+  "updated": "2026-07-24T15:42:31Z",
+  "count": 227,
   "points": [
+    {
+      "id": "ci40660682",
+      "lon": -116.462166666667,
+      "lat": 33.4778333333333,
+      "depth": 10.82,
+      "mag": 1.51,
+      "place": "21 km ESE of Anza, CA",
+      "time": 1784907190410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660682"
+    },
     {
       "id": "nc75405012",
       "lon": -121.63166809082,
@@ -125,23 +135,13 @@
     },
     {
       "id": "tx2026olnpeg",
-      "lon": -101.503,
-      "lat": 32.159,
-      "depth": 2.7452,
+      "lon": -101.506,
+      "lat": 32.163,
+      "depth": 9.5459,
       "mag": 1.4,
       "place": "10 km SSW of Big Spring, Texas",
-      "time": 1784900889735,
+      "time": 1784900889788,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026olnpeg"
-    },
-    {
-      "id": "tx2026olnnar",
-      "lon": -104.288,
-      "lat": 31.565,
-      "depth": 0,
-      "mag": 1.5,
-      "place": "54 km WNW of Toyah, Texas",
-      "time": 1784900740028,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026olnnar"
     },
     {
       "id": "ci40660650",
@@ -2114,6 +2114,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660250"
     },
     {
+      "id": "ok2026oifs",
+      "lon": -97.96466667,
+      "lat": 35.1395,
+      "depth": 10.09,
+      "mag": 0.71,
+      "place": "6 km S of Pocasset, Oklahoma",
+      "time": 1784827731030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026oifs"
+    },
+    {
       "id": "tx2026ojysxv",
       "lon": -101.191,
       "lat": 32.504,
@@ -2262,56 +2272,6 @@
       "place": "7 km ENE of Los Alamos, CA",
       "time": 1784821894790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660194"
-    },
-    {
-      "id": "hv75007062",
-      "lon": -155.480163574219,
-      "lat": 19.1523342132568,
-      "depth": 28.4400005340576,
-      "mag": 1.73,
-      "place": "5 km S of Pāhala, Hawaii",
-      "time": 1784821296190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75007062"
-    },
-    {
-      "id": "tx2026ojvmht",
-      "lon": -103.241,
-      "lat": 32.005,
-      "depth": 8.2019,
-      "mag": 1.5,
-      "place": "12 km SSW of Jal, New Mexico",
-      "time": 1784821018562,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojvmht"
-    },
-    {
-      "id": "ci40660178",
-      "lon": -117.8005,
-      "lat": 35.3175,
-      "depth": 6.71,
-      "mag": 1.05,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": 1784820928170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660178"
-    },
-    {
-      "id": "aka2026omdnuu",
-      "lon": -149.1,
-      "lat": 64.78,
-      "depth": 17.1,
-      "mag": 1.1,
-      "place": "19 km N of Four Mile Road, Alaska",
-      "time": 1784820743326,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026omdnuu"
-    },
-    {
-      "id": "us7000t2tf",
-      "lon": -93.4626,
-      "lat": 14.562,
-      "depth": 30.291,
-      "mag": 4.5,
-      "place": "103 km SSW of La Esperanza (El Zapotal), Mexico",
-      "time": 1784820598775,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2tf"
     }
   ]
 }
