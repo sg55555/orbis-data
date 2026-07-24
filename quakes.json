@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T08:15:34Z",
-  "count": 262,
+  "updated": "2026-07-24T08:30:45Z",
+  "count": 257,
   "points": [
     {
       "id": "ci40660546",
@@ -12,6 +12,16 @@
       "place": "18 km WSW of Johannesburg, CA",
       "time": 1784880418080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660546"
+    },
+    {
+      "id": "us7000t2ye",
+      "lon": 68.9337,
+      "lat": -23.0953,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "Mid-Indian Ridge",
+      "time": 1784880078375,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ye"
     },
     {
       "id": "nc75404852",
@@ -422,16 +432,6 @@
       "place": "54 km NW of Toyah, Texas",
       "time": 1784852314972,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026okmroi"
-    },
-    {
-      "id": "tx2026okmkpo",
-      "lon": -104.375,
-      "lat": 31.643,
-      "depth": 4.9372,
-      "mag": 1.5,
-      "place": "59 km S of Whites City, New Mexico",
-      "time": 1784851690979,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026okmkpo"
     },
     {
       "id": "ci40660458",
@@ -2572,56 +2572,6 @@
       "place": "12 km SSW of Jal, New Mexico",
       "time": 1784795587303,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojhkwl"
-    },
-    {
-      "id": "ci40659882",
-      "lon": -115.523,
-      "lat": 32.9066666666667,
-      "depth": 11.92,
-      "mag": 2.11,
-      "place": "8 km NNE of Imperial, CA",
-      "time": 1784795257380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659882"
-    },
-    {
-      "id": "uw714058692",
-      "lon": -124.044,
-      "lat": 47.6453333333333,
-      "depth": 22.7,
-      "mag": 0.79,
-      "place": "23 km NNW of Amanda Park, Washington",
-      "time": 1784795120260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714058692"
-    },
-    {
-      "id": "uu80146091",
-      "lon": -112.314166666667,
-      "lat": 38.1781666666667,
-      "depth": 4.88,
-      "mag": 2.6,
-      "place": "3 km W of Circleville, Utah",
-      "time": 1784795003340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146091"
-    },
-    {
-      "id": "ci40659866",
-      "lon": -117.18,
-      "lat": 32.0965,
-      "depth": 13.89,
-      "mag": 2.14,
-      "place": "28 km WSW of Primo Tapia, B.C., MX",
-      "time": 1784794665700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659866"
-    },
-    {
-      "id": "aka2026olpaab",
-      "lon": -145.504,
-      "lat": 65.272,
-      "depth": 4.7,
-      "mag": 1.4,
-      "place": "46 km SW of Central, Alaska",
-      "time": 1784794600139,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026olpaab"
     }
   ]
 }
