@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T17:46:45Z",
-  "count": 236,
+  "updated": "2026-07-24T18:01:09Z",
+  "count": 238,
   "points": [
+    {
+      "id": "aka2026ooehln",
+      "lon": -155.27,
+      "lat": 58.186,
+      "depth": 5,
+      "mag": 1,
+      "place": "84 km NW of Karluk, Alaska",
+      "time": 1784915659679,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ooehln"
+    },
+    {
+      "id": "aka2026ooedlj",
+      "lon": -159.77,
+      "lat": 55.972,
+      "depth": 14.7,
+      "mag": 1.5,
+      "place": "19 km WNW of Ivanof Bay, Alaska",
+      "time": 1784915382004,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ooedlj"
+    },
     {
       "id": "ci40660770",
       "lon": -116.845833333333,
@@ -145,13 +165,23 @@
     },
     {
       "id": "nn00922282",
-      "lon": -118.7316,
-      "lat": 38.323,
-      "depth": 7.7381,
-      "mag": 2.17,
+      "lon": -118.7432,
+      "lat": 38.3205,
+      "depth": 7.4649,
+      "mag": 2.11,
       "place": "24 km SSW of Hawthorne, Nevada",
-      "time": 1784910485805,
+      "time": 1784910486250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922282"
+    },
+    {
+      "id": "uw714060771",
+      "lon": -123.227166666667,
+      "lat": 46.227,
+      "depth": 0.5,
+      "mag": 1.5,
+      "place": "11 km ENE of East Cathlamet, Washington",
+      "time": 1784909881960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714060771"
     },
     {
       "id": "ci40660698",
@@ -852,6 +882,16 @@
       "place": "270 km E of Levuka, Fiji",
       "time": 1784887777157,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t307"
+    },
+    {
+      "id": "aka2026onojnv",
+      "lon": 176.342,
+      "lat": 52.15,
+      "depth": 10,
+      "mag": 4.2,
+      "place": "227 km ESE of Attu Station, Alaska",
+      "time": 1784887018989,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026onojnv"
     },
     {
       "id": "tx2026olftci",
@@ -1774,6 +1814,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404632"
     },
     {
+      "id": "uw714060361",
+      "lon": -123.554666666667,
+      "lat": 48.4741666666667,
+      "depth": -0.22,
+      "mag": 0.18,
+      "place": "4 km NW of Langford, Canada",
+      "time": 1784846812430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714060361"
+    },
+    {
       "id": "aka2026omrugy",
       "lon": -152.345,
       "lat": 59.722,
@@ -2332,36 +2382,6 @@
       "place": "152 km NNE of Cruz Bay, U.S. Virgin Islands",
       "time": 1784830515710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026204000"
-    },
-    {
-      "id": "aka2026omilpz",
-      "lon": -146.252,
-      "lat": 61.544,
-      "depth": 22.7,
-      "mag": 2.3,
-      "place": "46 km N of Valdez, Alaska",
-      "time": 1784829588847,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026omilpz"
-    },
-    {
-      "id": "aka2026omielr",
-      "lon": -146.21,
-      "lat": 61.593,
-      "depth": 31.4,
-      "mag": 1.7,
-      "place": "52 km N of Valdez, Alaska",
-      "time": 1784829091162,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026omielr"
-    },
-    {
-      "id": "us7000t2u4",
-      "lon": -73.1257,
-      "lat": 6.8042,
-      "depth": 147.537,
-      "mag": 4.6,
-      "place": "8 km NNW of Jordán, Colombia",
-      "time": 1784829029177,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2u4"
     }
   ]
 }
