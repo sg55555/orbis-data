@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T01:45:33Z",
-  "count": 340,
+  "updated": "2026-07-24T02:01:03Z",
+  "count": 338,
   "points": [
+    {
+      "id": "nc75404732",
+      "lon": -122.800003051758,
+      "lat": 38.8371658325195,
+      "depth": 2.11999988555908,
+      "mag": 1.06,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1784857500140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404732"
+    },
     {
       "id": "nc75404727",
       "lon": -122.803337097168,
@@ -34,14 +44,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2wx"
     },
     {
-      "id": "nc75404707",
-      "lon": -125.920997619629,
-      "lat": 40.4133338928223,
-      "depth": 4.65999984741211,
-      "mag": 2.31,
-      "place": "139 km W of Petrolia, CA",
-      "time": 1784854962320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404707"
+      "id": "us7000t2ww",
+      "lon": -126.7231,
+      "lat": 40.4198,
+      "depth": 10,
+      "mag": 3.1,
+      "place": "209 km W of Ferndale, California",
+      "time": 1784854952412,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ww"
     },
     {
       "id": "nc75404702",
@@ -3372,36 +3382,6 @@
       "place": "107 km WNW of La Libertad, Mexico",
       "time": 1784772065847,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ki"
-    },
-    {
-      "id": "tx2026oiujfd",
-      "lon": -104.431,
-      "lat": 31.655,
-      "depth": 6.0999,
-      "mag": 1.6,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": 1784771940511,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiujfd"
-    },
-    {
-      "id": "us7000t2kg",
-      "lon": -68.9868,
-      "lat": -23.1101,
-      "depth": 95.961,
-      "mag": 4.7,
-      "place": "72 km S of Calama, Chile",
-      "time": 1784771760935,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2kg"
-    },
-    {
-      "id": "tx2026oitxmy",
-      "lon": -103.867,
-      "lat": 31.118,
-      "depth": 0,
-      "mag": 1.6,
-      "place": "18 km NW of Balmorhea, Texas",
-      "time": 1784771123922,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oitxmy"
     }
   ]
 }
