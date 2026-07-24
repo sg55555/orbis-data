@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T02:45:36Z",
-  "count": 329,
+  "updated": "2026-07-24T03:00:57Z",
+  "count": 324,
   "points": [
+    {
+      "id": "pt26205050",
+      "lon": -67.356,
+      "lat": 18.869,
+      "depth": 10,
+      "mag": 5,
+      "place": "49 km NNW of San Antonio, Puerto Rico",
+      "time": 1784860955000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26205050"
+    },
     {
       "id": "tx2026okqqda",
       "lon": -102.001,
@@ -92,6 +102,16 @@
       "place": "53 km N of San Antonio, Puerto Rico",
       "time": 1784854518400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525508"
+    },
+    {
+      "id": "us7000t2wu",
+      "lon": 128.7388,
+      "lat": -7.395,
+      "depth": 146.671,
+      "mag": 4.4,
+      "place": "228 km ENE of Lospalos, Timor Leste",
+      "time": 1784854108453,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2wu"
     },
     {
       "id": "us7000t2ws",
@@ -3222,76 +3242,6 @@
       "place": "45 km W of Salamatof, Alaska",
       "time": 1784775853825,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026olepbv"
-    },
-    {
-      "id": "ci40659618",
-      "lon": -117.4875,
-      "lat": 35.6051666666667,
-      "depth": 6.93,
-      "mag": 0.96,
-      "place": "17 km E of Ridgecrest, CA",
-      "time": 1784775508400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659618"
-    },
-    {
-      "id": "nc75404037",
-      "lon": -118.861167907715,
-      "lat": 37.5008316040039,
-      "depth": 4.76999998092651,
-      "mag": 1.55,
-      "place": "17 km WSW of Toms Place, CA",
-      "time": 1784775364210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404037"
-    },
-    {
-      "id": "us7000t2l3",
-      "lon": -79.0735,
-      "lat": -9.6602,
-      "depth": 62.203,
-      "mag": 4.6,
-      "place": "78 km WSW of Puerto Casma, Peru",
-      "time": 1784775340344,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2l3"
-    },
-    {
-      "id": "ok2026ohcu",
-      "lon": -97.8725,
-      "lat": 35.087,
-      "depth": 10.11,
-      "mag": 0.43,
-      "place": "6 km ENE of Chickasha, Oklahoma",
-      "time": 1784775275560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ohcu"
-    },
-    {
-      "id": "tx2026oivzki",
-      "lon": -104.377,
-      "lat": 31.644,
-      "depth": 6.0999,
-      "mag": 1.8,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": 1784774905096,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oivzki"
-    },
-    {
-      "id": "tx2026oivvug",
-      "lon": -104.43,
-      "lat": 31.66,
-      "depth": 6.0999,
-      "mag": 1.7,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": 1784774814531,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oivvug"
-    },
-    {
-      "id": "ci40659610",
-      "lon": -116.808333333333,
-      "lat": 33.9993333333333,
-      "depth": 16.61,
-      "mag": 1.1,
-      "place": "9 km NNW of Cabazon, CA",
-      "time": 1784774769380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659610"
     }
   ]
 }
