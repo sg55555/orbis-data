@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T13:30:48Z",
-  "count": 242,
+  "updated": "2026-07-24T13:45:33Z",
+  "count": 243,
   "points": [
+    {
+      "id": "ci40660642",
+      "lon": -117.218833333333,
+      "lat": 33.9623333333333,
+      "depth": 12.53,
+      "mag": 1.08,
+      "place": "4 km NNE of Moreno Valley, CA",
+      "time": 1784899778040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660642"
+    },
+    {
+      "id": "tx2026olmxil",
+      "lon": -101.498,
+      "lat": 32.166,
+      "depth": 1.6024,
+      "mag": 2.1,
+      "place": "9 km S of Big Spring, Texas",
+      "time": 1784899646953,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026olmxil"
+    },
     {
       "id": "nc75404972",
       "lon": -121.596832275391,
@@ -85,12 +105,12 @@
     },
     {
       "id": "tx2026ollnux",
-      "lon": -104.192,
-      "lat": 31.555,
-      "depth": 4.4104,
+      "lon": -104.181,
+      "lat": 31.568,
+      "depth": 7.7405,
       "mag": 1.7,
       "place": "46 km NW of Toyah, Texas",
-      "time": 1784897200413,
+      "time": 1784897200420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ollnux"
     },
     {
@@ -102,6 +122,16 @@
       "place": "20 km SSW of Hawthorne, Nevada",
       "time": 1784897016338,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922270"
+    },
+    {
+      "id": "pr71525588",
+      "lon": -66.7795,
+      "lat": 17.996,
+      "depth": 5.88,
+      "mag": 2.16,
+      "place": "2 km SSW of Magas Arriba, Puerto Rico",
+      "time": 1784896651600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525588"
     },
     {
       "id": "us7000t30v",
@@ -325,12 +355,12 @@
     },
     {
       "id": "tx2026olgyet",
-      "lon": -104.232,
-      "lat": 31.648,
-      "depth": 4.4648,
+      "lon": -104.231,
+      "lat": 31.652,
+      "depth": 8.0737,
       "mag": 2.3,
       "place": "55 km NW of Toyah, Texas",
-      "time": 1784888844220,
+      "time": 1784888844148,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026olgyet"
     },
     {
@@ -2402,26 +2432,6 @@
       "place": "45 km WNW of Nanwalek, Alaska",
       "time": 1784814512875,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026omabtx"
-    },
-    {
-      "id": "ci40660106",
-      "lon": -116.125666666667,
-      "lat": 33.2535,
-      "depth": 7.65,
-      "mag": 1.59,
-      "place": "12 km N of Ocotillo Wells, CA",
-      "time": 1784814078770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660106"
-    },
-    {
-      "id": "aka2026olzmfd",
-      "lon": -149.969,
-      "lat": 62.225,
-      "depth": 5,
-      "mag": 2.7,
-      "place": "9 km NW of Susitna North, Alaska",
-      "time": 1784813435072,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026olzmfd"
     }
   ]
 }
