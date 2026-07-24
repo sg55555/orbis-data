@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T18:15:34Z",
-  "count": 242,
+  "updated": "2026-07-24T18:30:46Z",
+  "count": 238,
   "points": [
+    {
+      "id": "uw714060831",
+      "lon": -123.043333333333,
+      "lat": 44.7083333333333,
+      "depth": -0.4,
+      "mag": 1.35,
+      "place": "2 km WSW of Jefferson, Oregon",
+      "time": 1784916731190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714060831"
+    },
     {
       "id": "tx2026olwgjt",
       "lon": -101.115,
@@ -495,12 +505,12 @@
     },
     {
       "id": "ci40660618",
-      "lon": -117.9235,
-      "lat": 34.4506666666667,
-      "depth": 9.11,
-      "mag": 1.21,
+      "lon": -117.925,
+      "lat": 34.4501666666667,
+      "depth": 9.02,
+      "mag": 1.17,
       "place": "6 km SSW of Pearblossom, CA",
-      "time": 1784898971080,
+      "time": 1784898971100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660618"
     },
     {
@@ -2372,56 +2382,6 @@
       "place": "15 km W of Aline, Oklahoma",
       "time": 1784831732090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026oihx"
-    },
-    {
-      "id": "ci40660274",
-      "lon": -116.9955,
-      "lat": 33.821,
-      "depth": 12.2,
-      "mag": 1.56,
-      "place": "5 km NW of San Jacinto, CA",
-      "time": 1784831248790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660274"
-    },
-    {
-      "id": "ci10246390",
-      "lon": -117.687,
-      "lat": 35.8841666666667,
-      "depth": 4.44,
-      "mag": 1.12,
-      "place": "21 km ESE of Little Lake, CA",
-      "time": 1784830881560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10246390"
-    },
-    {
-      "id": "ci40660266",
-      "lon": -117.681333333333,
-      "lat": 35.883,
-      "depth": 5.14,
-      "mag": 0.95,
-      "place": "21 km ESE of Little Lake, CA",
-      "time": 1784830875500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660266"
-    },
-    {
-      "id": "ok2026oihk",
-      "lon": -97.76583333,
-      "lat": 34.73383333,
-      "depth": 18.72,
-      "mag": 1.58,
-      "place": "11 km NNE of Bray, Oklahoma",
-      "time": 1784830777899,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026oihk"
-    },
-    {
-      "id": "aka2026omjauo",
-      "lon": -147.746,
-      "lat": 64.935,
-      "depth": 6.3,
-      "mag": 1,
-      "place": "3 km NW of Farmers Loop, Alaska",
-      "time": 1784830637939,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026omjauo"
     }
   ]
 }
