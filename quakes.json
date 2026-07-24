@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T19:01:00Z",
-  "count": 239,
+  "updated": "2026-07-24T19:15:31Z",
+  "count": 236,
   "points": [
     {
       "id": "ci40660802",
@@ -22,6 +22,16 @@
       "place": "1 km N of Banning, CA",
       "time": 1784918588950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660794"
+    },
+    {
+      "id": "us7000t36e",
+      "lon": 141.3858,
+      "lat": 31.4494,
+      "depth": 35,
+      "mag": 4.5,
+      "place": "Izu Islands, Japan region",
+      "time": 1784918584208,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t36e"
     },
     {
       "id": "uw714060851",
@@ -185,12 +195,12 @@
     },
     {
       "id": "ci40660738",
-      "lon": -118.530333333333,
-      "lat": 35.3068333333333,
-      "depth": 4.72,
-      "mag": 1.16,
+      "lon": -118.5305,
+      "lat": 35.308,
+      "depth": 5.33,
+      "mag": 1.06,
       "place": "21 km NNW of Tehachapi, CA",
-      "time": 1784912790000,
+      "time": 1784912789960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660738"
     },
     {
@@ -275,12 +285,12 @@
     },
     {
       "id": "ci40660698",
-      "lon": -116.897333333333,
-      "lat": 33.4128333333333,
-      "depth": 5.81,
-      "mag": 0.8,
-      "place": "4 km SW of Aguanga, CA",
-      "time": 1784909289880,
+      "lon": -116.8955,
+      "lat": 33.4093333333333,
+      "depth": 8,
+      "mag": 0.84,
+      "place": "5 km SW of Aguanga, CA",
+      "time": 1784909289790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660698"
     },
     {
@@ -2352,46 +2362,6 @@
       "place": "150 km WNW of Port Orford, Oregon",
       "time": 1784834187700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ug"
-    },
-    {
-      "id": "av94327623",
-      "lon": -155.455833333333,
-      "lat": 58.1038333333333,
-      "depth": 1.66,
-      "mag": 0.19,
-      "place": "84 km NW of Karluk, Alaska",
-      "time": 1784833878180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94327623"
-    },
-    {
-      "id": "av94327618",
-      "lon": -177.066833333333,
-      "lat": 51.7185,
-      "depth": 4.33,
-      "mag": 1.32,
-      "place": "34 km WSW of Adak, Alaska",
-      "time": 1784833787270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94327618"
-    },
-    {
-      "id": "tx2026okcjhc",
-      "lon": -103.88,
-      "lat": 31.967,
-      "depth": 7.1765,
-      "mag": 1.5,
-      "place": "33 km SSE of Malaga, New Mexico",
-      "time": 1784833502495,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026okcjhc"
-    },
-    {
-      "id": "av94327603",
-      "lon": -152.207833333333,
-      "lat": 61.1848333333333,
-      "depth": 4.62,
-      "mag": 0.05,
-      "place": "59 km WNW of Tyonek, Alaska",
-      "time": 1784833314860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94327603"
     }
   ]
 }
