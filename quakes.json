@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T14:00:59Z",
+  "updated": "2026-07-24T14:06:08Z",
   "count": 246,
   "points": [
+    {
+      "id": "tx2026olntad",
+      "lon": -104.023,
+      "lat": 31.516,
+      "depth": 4.2677,
+      "mag": 0.5,
+      "place": "31 km NW of Toyah, Texas",
+      "time": 1784901231961,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026olntad"
+    },
     {
       "id": "ci40660658",
       "lon": -117.152666666667,
@@ -30,7 +40,7 @@
       "depth": 0,
       "mag": 1.5,
       "place": "54 km WNW of Toyah, Texas",
-      "time": 1784900740029,
+      "time": 1784900740028,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026olnnar"
     },
     {
@@ -762,6 +772,16 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1784874080150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404827"
+    },
+    {
+      "id": "nm60625661",
+      "lon": -89.5096666666667,
+      "lat": 36.462,
+      "depth": 8.53,
+      "mag": 2.03,
+      "place": "9 km NNW of Tiptonville, Tennessee",
+      "time": 1784873910040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60625661"
     },
     {
       "id": "ci40660530",
@@ -2442,26 +2462,6 @@
       "place": "55 km NW of Toyah, Texas",
       "time": 1784815778065,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojsoue"
-    },
-    {
-      "id": "pr71525448",
-      "lon": -66.9126666666667,
-      "lat": 17.9636666666667,
-      "depth": 12.47,
-      "mag": 2.26,
-      "place": "1 km SSW of Guánica, Puerto Rico",
-      "time": 1784815434460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525448"
-    },
-    {
-      "id": "tx2026ojshuv",
-      "lon": -103.239,
-      "lat": 32.016,
-      "depth": 5.2795,
-      "mag": 2.7,
-      "place": "11 km SSW of Jal, New Mexico",
-      "time": 1784815290072,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojshuv"
     }
   ]
 }
