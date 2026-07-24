@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T03:30:47Z",
-  "count": 323,
+  "updated": "2026-07-24T04:01:00Z",
+  "count": 318,
   "points": [
+    {
+      "id": "nn00922246",
+      "lon": -117.412,
+      "lat": 37.2082,
+      "depth": 9.6849,
+      "mag": 1.61,
+      "place": "57 km SSW of Goldfield, Nevada",
+      "time": 1784865007972,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922246"
+    },
     {
       "id": "nc75404772",
       "lon": -122.817169189453,
@@ -1095,12 +1105,12 @@
     },
     {
       "id": "hv75007087",
-      "lon": -155.35383605957,
-      "lat": 19.0428333282471,
-      "depth": 32.1599998474121,
-      "mag": 2.29,
-      "place": "22 km SE of Pāhala, Hawaii",
-      "time": 1784825362870,
+      "lon": -155.359666666667,
+      "lat": 19.0676666666667,
+      "depth": 33.7,
+      "mag": 1.9,
+      "place": "19 km SE of Pāhala, Hawaii",
+      "time": 1784825363000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75007087"
     },
     {
@@ -3172,66 +3182,6 @@
       "place": "10 km WSW of Anza, CA",
       "time": 1784779288610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659650"
-    },
-    {
-      "id": "ci40659642",
-      "lon": -117.865,
-      "lat": 33.8773333333333,
-      "depth": 8.54,
-      "mag": 1.26,
-      "place": "1 km NE of Placentia, CA",
-      "time": 1784778813250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659642"
-    },
-    {
-      "id": "ci40659634",
-      "lon": -117.456333333333,
-      "lat": 35.6221666666667,
-      "depth": 6.93,
-      "mag": 0.77,
-      "place": "17 km SSW of Searles Valley, CA",
-      "time": 1784778269730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40659634"
-    },
-    {
-      "id": "nc75404052",
-      "lon": -121.612831115723,
-      "lat": 36.9724998474121,
-      "depth": -0.209999993443489,
-      "mag": 1.4,
-      "place": "5 km SW of Gilroy, CA",
-      "time": 1784778009160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404052"
-    },
-    {
-      "id": "uu80146071",
-      "lon": -110.748166666667,
-      "lat": 44.5683333333333,
-      "depth": 5.66,
-      "mag": 0.41,
-      "place": "30 km ESE of West Yellowstone, Montana",
-      "time": 1784778002500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146071"
-    },
-    {
-      "id": "tx2026oixmdt",
-      "lon": -104.207,
-      "lat": 31.66,
-      "depth": 6.6638,
-      "mag": 1.5,
-      "place": "54 km NW of Toyah, Texas",
-      "time": 1784777585816,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oixmdt"
-    },
-    {
-      "id": "tx2026oixlca",
-      "lon": -103.474,
-      "lat": 31.116,
-      "depth": 7.2534,
-      "mag": 1,
-      "place": "28 km SSE of Lindsay, Texas",
-      "time": 1784777502863,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oixlca"
     }
   ]
 }
