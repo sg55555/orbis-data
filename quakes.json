@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-25T06:45:37Z",
-  "count": 244,
+  "updated": "2026-07-25T07:00:59Z",
+  "count": 247,
   "points": [
+    {
+      "id": "ci40661122",
+      "lon": -115.954498291016,
+      "lat": 33.7691650390625,
+      "depth": 0.310000002384186,
+      "mag": 1.06338983904983,
+      "place": "22 km NE of Thermal, CA",
+      "time": 1784962723760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661122"
+    },
     {
       "id": "ci40661114",
       "lon": -115.617,
@@ -874,6 +884,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660850"
     },
     {
+      "id": "av94330718",
+      "lon": -166.673833333333,
+      "lat": 53.901,
+      "depth": 7.79,
+      "mag": -0.18,
+      "place": "8 km W of Dutch Harbor, Alaska",
+      "time": 1784923896450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94330718"
+    },
+    {
+      "id": "av94330713",
+      "lon": -155.250333333333,
+      "lat": 58.1976666666667,
+      "depth": 2.39,
+      "mag": -0.07,
+      "place": "84 km NW of Karluk, Alaska",
+      "time": 1784923749950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94330713"
+    },
+    {
       "id": "av94330708",
       "lon": -153.062833333333,
       "lat": 60.027,
@@ -982,6 +1012,16 @@
       "place": "25 km SSW of Hawthorne, Nevada",
       "time": 1784922356333,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922289"
+    },
+    {
+      "id": "av94330653",
+      "lon": -178.839333333333,
+      "lat": 51.7856666666667,
+      "depth": 7.3,
+      "mag": 0.72,
+      "place": "152 km W of Adak, Alaska",
+      "time": 1784922173250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94330653"
     },
     {
       "id": "us7000t36n",
@@ -2432,16 +2472,6 @@
       "place": "48 km SSW of Whites City, New Mexico",
       "time": 1784878743065,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026olbjdk"
-    },
-    {
-      "id": "tx2026olabtm",
-      "lon": -101.949,
-      "lat": 32.098,
-      "depth": 9.2773,
-      "mag": 0.8,
-      "place": "15 km WSW of Stanton, Texas",
-      "time": 1784876419618,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026olabtm"
     }
   ]
 }
