@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-25T05:00:55Z",
-  "count": 248,
+  "updated": "2026-07-25T05:15:30Z",
+  "count": 249,
   "points": [
+    {
+      "id": "hv75007677",
+      "lon": -155.376327514648,
+      "lat": 19.1084995269775,
+      "depth": 40.5999984741211,
+      "mag": 1.73,
+      "place": "15 km SE of Pāhala, Hawaii",
+      "time": 1784955916740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75007677"
+    },
     {
       "id": "nn00922314",
       "lon": -118.7205,
@@ -1314,6 +1324,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660682"
     },
     {
+      "id": "av93064799",
+      "lon": -152.185333333333,
+      "lat": 61.2586666666667,
+      "depth": 29.33,
+      "mag": -0.17,
+      "place": "60 km WNW of Tyonek, Alaska",
+      "time": 1784907171910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064799"
+    },
+    {
       "id": "uw714060721",
       "lon": -121.658333333333,
       "lat": 45.3086666666667,
@@ -2472,16 +2492,6 @@
       "place": "13 km WNW of The Geysers, CA",
       "time": 1784870632740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404797"
-    },
-    {
-      "id": "nc75404792",
-      "lon": -122.814498901367,
-      "lat": 38.8263320922852,
-      "depth": 1.9099999666214,
-      "mag": 0.26,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1784869864470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404792"
     }
   ]
 }
