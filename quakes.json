@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-25T03:52:42Z",
-  "count": 248,
+  "updated": "2026-07-25T04:01:03Z",
+  "count": 249,
   "points": [
+    {
+      "id": "ci40661082",
+      "lon": -116.428666666667,
+      "lat": 33.0475,
+      "depth": 15.17,
+      "mag": 0.76,
+      "place": "17 km ESE of Julian, CA",
+      "time": 1784951416760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661082"
+    },
+    {
+      "id": "tx2026ompmsz",
+      "lon": -101.957,
+      "lat": 32.243,
+      "depth": 3.7658,
+      "mag": 2.1,
+      "place": "20 km NW of Stanton, Texas",
+      "time": 1784951416357,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ompmsz"
+    },
     {
       "id": "tx2026ompfwd",
       "lon": -103.649,
@@ -2472,16 +2492,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1784865792860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404777"
-    },
-    {
-      "id": "av94328928",
-      "lon": -166.638666666667,
-      "lat": 53.9008333333333,
-      "depth": 9.07,
-      "mag": 0.4,
-      "place": "6 km W of Dutch Harbor, Alaska",
-      "time": 1784865617820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94328928"
     }
   ]
 }
