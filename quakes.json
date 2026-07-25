@@ -1,8 +1,48 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-25T18:45:38Z",
-  "count": 207,
+  "updated": "2026-07-25T19:00:56Z",
+  "count": 210,
   "points": [
+    {
+      "id": "nc75405632",
+      "lon": -122.815002441406,
+      "lat": 38.8318328857422,
+      "depth": 2.25,
+      "mag": 0.72,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1785005920870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405632"
+    },
+    {
+      "id": "hv75007842",
+      "lon": -155.396835327148,
+      "lat": 19.2514991760254,
+      "depth": 28.7700004577637,
+      "mag": 1.71,
+      "place": "10 km ENE of Pāhala, Hawaii",
+      "time": 1785005812100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75007842"
+    },
+    {
+      "id": "tx2026onthkb",
+      "lon": -104.238,
+      "lat": 31.647,
+      "depth": 4.6354,
+      "mag": 1.5,
+      "place": "56 km NW of Toyah, Texas",
+      "time": 1785005346095,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026onthkb"
+    },
+    {
+      "id": "pr71525788",
+      "lon": -66.9935,
+      "lat": 17.9566666666667,
+      "depth": 10.24,
+      "mag": 2.22,
+      "place": "5 km ESE of La Parguera, Puerto Rico",
+      "time": 1785004993850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525788"
+    },
     {
       "id": "nc75405617",
       "lon": -122.808670043945,
@@ -262,6 +302,16 @@
       "place": "8 km WSW of Happy Valley, Alaska",
       "time": 1784991936772,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026opursv"
+    },
+    {
+      "id": "us7000t3bu",
+      "lon": 153.1701,
+      "lat": 47.1353,
+      "depth": 89.719,
+      "mag": 4.4,
+      "place": "Kuril Islands",
+      "time": 1784991867300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3bu"
     },
     {
       "id": "aka2026opunob",
@@ -2052,26 +2102,6 @@
       "place": "54 km S of Sarangani, Philippines",
       "time": 1784919987517,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t36g"
-    },
-    {
-      "id": "ci40660810",
-      "lon": -118.182666666667,
-      "lat": 34.9966666666667,
-      "depth": -0.83,
-      "mag": 1.5,
-      "place": "6 km S of Mojave, CA",
-      "time": 1784919343860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660810"
-    },
-    {
-      "id": "ci40660802",
-      "lon": -118.341166666667,
-      "lat": 35.0581666666667,
-      "depth": -1.01,
-      "mag": 1.3,
-      "place": "13 km SE of Tehachapi, CA",
-      "time": 1784919118890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660802"
     }
   ]
 }
