@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-25T01:01:00Z",
+  "updated": "2026-07-25T01:15:33Z",
   "count": 235,
   "points": [
+    {
+      "id": "hv75007602",
+      "lon": -155.492004394531,
+      "lat": 19.1758327484131,
+      "depth": 27.5699996948242,
+      "mag": 2.03,
+      "place": "3 km SSW of Pāhala, Hawaii",
+      "time": 1784941486040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75007602"
+    },
     {
       "id": "nc75405322",
       "lon": -121.172332763672,
@@ -12,6 +22,16 @@
       "place": "3 km W of Pinnacles, CA",
       "time": 1784941040400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405322"
+    },
+    {
+      "id": "pr71525708",
+      "lon": -66.9098333333333,
+      "lat": 17.9258333333333,
+      "depth": 15.62,
+      "mag": 2.34,
+      "place": "5 km S of Guánica, Puerto Rico",
+      "time": 1784940297030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525708"
     },
     {
       "id": "nc75405302",
@@ -2332,26 +2352,6 @@
       "place": "7 km WNW of Cobb, CA",
       "time": 1784855820880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404722"
-    },
-    {
-      "id": "us7000t2wx",
-      "lon": -176.0652,
-      "lat": 51.1015,
-      "depth": 10,
-      "mag": 5,
-      "place": "94 km SSE of Adak, Alaska",
-      "time": 1784854996097,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2wx"
-    },
-    {
-      "id": "us7000t2ww",
-      "lon": -126.7231,
-      "lat": 40.4198,
-      "depth": 10,
-      "mag": 3.1,
-      "place": "209 km W of Ferndale, California",
-      "time": 1784854952412,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ww"
     }
   ]
 }
