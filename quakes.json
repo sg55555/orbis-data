@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-25T00:45:37Z",
-  "count": 239,
+  "updated": "2026-07-25T01:01:00Z",
+  "count": 235,
   "points": [
+    {
+      "id": "nc75405322",
+      "lon": -121.172332763672,
+      "lat": 36.5323333740234,
+      "depth": 5,
+      "mag": 0.55,
+      "place": "3 km W of Pinnacles, CA",
+      "time": 1784941040400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405322"
+    },
     {
       "id": "nc75405302",
       "lon": -122.743667602539,
@@ -2342,56 +2352,6 @@
       "place": "209 km W of Ferndale, California",
       "time": 1784854952412,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ww"
-    },
-    {
-      "id": "nc75404702",
-      "lon": -122.784332275391,
-      "lat": 38.8370018005371,
-      "depth": 1.92999994754791,
-      "mag": 0.79,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1784854800280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404702"
-    },
-    {
-      "id": "pr71525508",
-      "lon": -67.1616666666667,
-      "lat": 18.9735,
-      "depth": 7.85,
-      "mag": 3.06,
-      "place": "53 km N of San Antonio, Puerto Rico",
-      "time": 1784854518400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525508"
-    },
-    {
-      "id": "tx2026oknudl",
-      "lon": -101.931,
-      "lat": 32.27,
-      "depth": 8.2764,
-      "mag": 0.3,
-      "place": "20 km NW of Stanton, Texas",
-      "time": 1784854167994,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oknudl"
-    },
-    {
-      "id": "us7000t2wu",
-      "lon": 128.7388,
-      "lat": -7.395,
-      "depth": 146.671,
-      "mag": 4.4,
-      "place": "228 km ENE of Lospalos, Timor Leste",
-      "time": 1784854108453,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2wu"
-    },
-    {
-      "id": "tx2026oknrpq",
-      "lon": -101.931,
-      "lat": 32.273,
-      "depth": 8.8623,
-      "mag": 0.7,
-      "place": "20 km NW of Stanton, Texas",
-      "time": 1784853996215,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oknrpq"
     }
   ]
 }
