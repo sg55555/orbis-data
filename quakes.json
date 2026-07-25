@@ -1,16 +1,56 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-25T02:15:33Z",
-  "count": 243,
+  "updated": "2026-07-25T02:30:42Z",
+  "count": 245,
   "points": [
     {
+      "id": "ci40661026",
+      "lon": -117.787,
+      "lat": 35.3603333333333,
+      "depth": 6.53,
+      "mag": 1.31,
+      "place": "14 km W of Johannesburg, CA",
+      "time": 1784946212070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661026"
+    },
+    {
+      "id": "hv75007637",
+      "lon": -155.526840209961,
+      "lat": 19.1229991912842,
+      "depth": 30.9300003051758,
+      "mag": 1.73,
+      "place": "8 km NE of Naalehu, Hawaii",
+      "time": 1784946037840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75007637"
+    },
+    {
+      "id": "nc75405357",
+      "lon": -122.800331115723,
+      "lat": 38.8363342285156,
+      "depth": 1.8400000333786,
+      "mag": 1.82,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1784945720310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405357"
+    },
+    {
+      "id": "hv75007632",
+      "lon": -155.420166015625,
+      "lat": 19.1261672973633,
+      "depth": 30.1900005340576,
+      "mag": 1.82,
+      "place": "10 km SE of Pāhala, Hawaii",
+      "time": 1784945651790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75007632"
+    },
+    {
       "id": "ci40661018",
-      "lon": -115.723663330078,
-      "lat": 33.166332244873,
-      "depth": 2.25,
-      "mag": 1.49585671895523,
-      "place": "17 km NNW of Westmorland, CA",
-      "time": 1784945539760,
+      "lon": -115.5975,
+      "lat": 33.1878333333333,
+      "depth": 3.42,
+      "mag": 1.2,
+      "place": "9 km SW of Niland, CA",
+      "time": 1784945541070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661018"
     },
     {
@@ -2412,26 +2452,6 @@
       "place": "2 km W of Echo Lake, Washington",
       "time": 1784860429360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714060591"
-    },
-    {
-      "id": "av93064729",
-      "lon": -166.172,
-      "lat": 54.0336666666667,
-      "depth": 11.26,
-      "mag": 0.07,
-      "place": "28 km WSW of Akutan, Alaska",
-      "time": 1784859784050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064729"
-    },
-    {
-      "id": "tx2026okqqda",
-      "lon": -101.978,
-      "lat": 31.68,
-      "depth": 2.7588,
-      "mag": 0.7,
-      "place": "36 km SSE of Midland, Texas",
-      "time": 1784859346146,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026okqqda"
     }
   ]
 }
