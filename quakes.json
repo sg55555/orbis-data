@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-25T03:00:57Z",
-  "count": 249,
+  "updated": "2026-07-25T03:15:35Z",
+  "count": 248,
   "points": [
     {
+      "id": "nc75405367",
+      "lon": -122.799163818359,
+      "lat": 38.8346672058105,
+      "depth": 1.58000004291534,
+      "mag": 1.1,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1784948530780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405367"
+    },
+    {
+      "id": "ci40661066",
+      "lon": -116.683666666667,
+      "lat": 33.6751666666667,
+      "depth": 16.98,
+      "mag": 0.85,
+      "place": "8 km SSE of Idyllwild, CA",
+      "time": 1784948293260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661066"
+    },
+    {
       "id": "ci40661058",
-      "lon": -117.8193359375,
-      "lat": 35.3208351135254,
-      "depth": 9.11999988555908,
-      "mag": 1.42231220832012,
+      "lon": -117.818666666667,
+      "lat": 35.3208333333333,
+      "depth": 7.81,
+      "mag": 1.28,
       "place": "18 km WSW of Johannesburg, CA",
-      "time": 1784948250850,
+      "time": 1784948250890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661058"
     },
     {
@@ -1534,6 +1554,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ontjer"
     },
     {
+      "id": "av93064794",
+      "lon": -168.171666666667,
+      "lat": 53.4481666666667,
+      "depth": 1,
+      "mag": -0.66,
+      "place": "73 km NE of Nikolski, Alaska",
+      "time": 1784895635980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064794"
+    },
+    {
       "id": "aka2026ontbsx",
       "lon": -150.907,
       "lat": 61.836,
@@ -2452,46 +2482,6 @@
       "place": "11 km NNW of Warner Springs, CA",
       "time": 1784862932400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660498"
-    },
-    {
-      "id": "av94328798",
-      "lon": -152.2225,
-      "lat": 61.3523333333333,
-      "depth": -2.32,
-      "mag": -0.13,
-      "place": "65 km WNW of Beluga, Alaska",
-      "time": 1784862347500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94328798"
-    },
-    {
-      "id": "ci40660490",
-      "lon": -119.383666666667,
-      "lat": 34.5851666666667,
-      "depth": 4.23,
-      "mag": 1.64,
-      "place": "20 km NW of Ojai, CA",
-      "time": 1784862226430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660490"
-    },
-    {
-      "id": "nc75404762",
-      "lon": -122.765663146973,
-      "lat": 38.7786674499512,
-      "depth": 0.889999985694885,
-      "mag": 0.72,
-      "place": "1 km W of The Geysers, CA",
-      "time": 1784862099570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404762"
-    },
-    {
-      "id": "ok2026oiyp",
-      "lon": -97.75566667,
-      "lat": 34.74733333,
-      "depth": 19.33,
-      "mag": 1.39,
-      "place": "13 km NNE of Bray, Oklahoma",
-      "time": 1784862029910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026oiyp"
     }
   ]
 }
