@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-24T23:45:32Z",
-  "count": 237,
+  "updated": "2026-07-25T00:00:57Z",
+  "count": 236,
   "points": [
+    {
+      "id": "tx2026omhpcw",
+      "lon": -103.615,
+      "lat": 30.901,
+      "depth": 0,
+      "mag": 1.5,
+      "place": "15 km SE of Balmorhea, Texas",
+      "time": 1784937125484,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026omhpcw"
+    },
     {
       "id": "nc75405277",
       "lon": -120.412002563477,
@@ -424,6 +434,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t36g"
     },
     {
+      "id": "ci40660810",
+      "lon": -118.182666666667,
+      "lat": 34.9966666666667,
+      "depth": -0.83,
+      "mag": 1.5,
+      "place": "6 km S of Mojave, CA",
+      "time": 1784919343860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660810"
+    },
+    {
       "id": "ci40660802",
       "lon": -118.341166666667,
       "lat": 35.0581666666667,
@@ -795,12 +815,12 @@
     },
     {
       "id": "ci40660682",
-      "lon": -116.462166666667,
-      "lat": 33.4778333333333,
-      "depth": 10.82,
-      "mag": 1.51,
-      "place": "21 km ESE of Anza, CA",
-      "time": 1784907190410,
+      "lon": -116.459166666667,
+      "lat": 33.4771666666667,
+      "depth": 11.46,
+      "mag": 1.5,
+      "place": "22 km ESE of Anza, CA",
+      "time": 1784907190370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660682"
     },
     {
@@ -2342,36 +2362,6 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1784851320570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404682"
-    },
-    {
-      "id": "us7000t2wp",
-      "lon": 15.8867,
-      "lat": 47.6571,
-      "depth": 10,
-      "mag": 4.2,
-      "place": "1 km E of Schottwien, Austria",
-      "time": 1784851147935,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2wp"
-    },
-    {
-      "id": "tx2026oklwfo",
-      "lon": -104.376,
-      "lat": 31.668,
-      "depth": 6.9714,
-      "mag": 1.7,
-      "place": "56 km S of Whites City, New Mexico",
-      "time": 1784850689468,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oklwfo"
-    },
-    {
-      "id": "nc75404677",
-      "lon": -122.803497314453,
-      "lat": 38.8373336791992,
-      "depth": 2.30999994277954,
-      "mag": 1.06,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1784850454520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404677"
     }
   ]
 }
