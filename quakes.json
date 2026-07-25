@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-25T21:45:31Z",
-  "count": 200,
+  "updated": "2026-07-25T22:00:55Z",
+  "count": 202,
   "points": [
+    {
+      "id": "nc75405732",
+      "lon": -122.794502258301,
+      "lat": 38.8144989013672,
+      "depth": 12.3000001907349,
+      "mag": 0.93,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1785016395500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405732"
+    },
+    {
+      "id": "nc75405727",
+      "lon": -121.263336181641,
+      "lat": 36.6035003662109,
+      "depth": 5.57000017166138,
+      "mag": 1.47,
+      "place": "13 km NW of Pinnacles, CA",
+      "time": 1785016107750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405727"
+    },
+    {
+      "id": "ci40661370",
+      "lon": -117.4905,
+      "lat": 35.6656666666667,
+      "depth": 5.58,
+      "mag": 0.99,
+      "place": "14 km SW of Searles Valley, CA",
+      "time": 1785015934750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661370"
+    },
     {
       "id": "tx2026onzape",
       "lon": -103.312,
@@ -1992,16 +2022,6 @@
       "place": "273 km SE of Attu Station, Alaska",
       "time": 1784930800379,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oomsny"
-    },
-    {
-      "id": "tx2026omdlky",
-      "lon": -104.26,
-      "lat": 31.638,
-      "depth": 8.1839,
-      "mag": 1.7,
-      "place": "57 km NW of Toyah, Texas",
-      "time": 1784929604516,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026omdlky"
     }
   ]
 }
