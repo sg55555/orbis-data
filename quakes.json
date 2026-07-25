@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-25T10:47:11Z",
-  "count": 231,
+  "updated": "2026-07-25T11:00:57Z",
+  "count": 230,
   "points": [
+    {
+      "id": "tx2026ondiwp",
+      "lon": -103.31,
+      "lat": 31.983,
+      "depth": 6.1753,
+      "mag": 1.6,
+      "place": "18 km SW of Jal, New Mexico",
+      "time": 1784976481358,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ondiwp"
+    },
+    {
+      "id": "tx2026ondfra",
+      "lon": -104.422,
+      "lat": 31.671,
+      "depth": 7.6996,
+      "mag": 1.6,
+      "place": "56 km S of Whites City, New Mexico",
+      "time": 1784976278012,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ondfra"
+    },
     {
       "id": "nc75405467",
       "lon": -122.787002563477,
@@ -15,12 +35,12 @@
     },
     {
       "id": "ci40661202",
-      "lon": -116.334335327148,
-      "lat": 33.3558349609375,
-      "depth": 12.0100002288818,
-      "mag": 1.33066780570189,
-      "place": "12 km NNE of Borrego Springs, CA",
-      "time": 1784976236660,
+      "lon": -116.3405,
+      "lat": 33.3536666666667,
+      "depth": 12.04,
+      "mag": 0.42,
+      "place": "11 km NNE of Borrego Springs, CA",
+      "time": 1784976236690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661202"
     },
     {
@@ -2282,36 +2302,6 @@
       "place": "7 km WNW of Cobb, CA",
       "time": 1784890899710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404922"
-    },
-    {
-      "id": "uw714060681",
-      "lon": -122.413333333333,
-      "lat": 46.2253333333333,
-      "depth": 15.37,
-      "mag": 1.25,
-      "place": "34 km S of Mossyrock, Washington",
-      "time": 1784890692550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714060681"
-    },
-    {
-      "id": "nc75404917",
-      "lon": -122.928833007812,
-      "lat": 38.7533340454102,
-      "depth": 4.98999977111816,
-      "mag": 1.32,
-      "place": "10 km SE of Cloverdale, CA",
-      "time": 1784890288650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404917"
-    },
-    {
-      "id": "nc75404912",
-      "lon": -122.8193359375,
-      "lat": 38.8139991760254,
-      "depth": 2.75999999046326,
-      "mag": 1.09,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1784890154320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404912"
     }
   ]
 }
