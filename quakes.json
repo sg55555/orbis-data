@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-25T00:00:57Z",
+  "updated": "2026-07-25T00:12:51Z",
   "count": 236,
   "points": [
+    {
+      "id": "nc75405297",
+      "lon": -121.448829650879,
+      "lat": 36.9669990539551,
+      "depth": 5.40999984741211,
+      "mag": 2.16,
+      "place": "11 km ESE of Gilroy, CA",
+      "time": 1784937793650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405297"
+    },
     {
       "id": "tx2026omhpcw",
       "lon": -103.615,
@@ -372,6 +382,16 @@
       "place": "4 km SE of The Geysers, CA",
       "time": 1784922819100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405162"
+    },
+    {
+      "id": "ci10246430",
+      "lon": -117.791833333333,
+      "lat": 35.3223333333333,
+      "depth": 6.49,
+      "mag": 0.61,
+      "place": "15 km WSW of Johannesburg, CA",
+      "time": 1784922665180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10246430"
     },
     {
       "id": "ci40660842",
@@ -2342,26 +2362,6 @@
       "place": "54 km NW of Toyah, Texas",
       "time": 1784852314972,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026okmroi"
-    },
-    {
-      "id": "ci40660458",
-      "lon": -115.988166666667,
-      "lat": 33.1431666666667,
-      "depth": 6.74,
-      "mag": 0.81,
-      "place": "13 km E of Ocotillo Wells, CA",
-      "time": 1784851565180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660458"
-    },
-    {
-      "id": "nc75404682",
-      "lon": -122.795166015625,
-      "lat": 38.8351669311523,
-      "depth": 1.67999994754791,
-      "mag": 0.68,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1784851320570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404682"
     }
   ]
 }
