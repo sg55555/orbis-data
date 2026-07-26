@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-26T06:15:32Z",
+  "updated": "2026-07-26T06:30:42Z",
   "count": 205,
   "points": [
     {
+      "id": "nc75405902",
+      "lon": -122.738502502441,
+      "lat": 38.772834777832,
+      "depth": 0.980000019073486,
+      "mag": 0.76,
+      "place": "2 km ESE of The Geysers, CA",
+      "time": 1785046992810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405902"
+    },
+    {
       "id": "aka2026oqywuc",
-      "lon": -146.85,
-      "lat": 64.36,
-      "depth": 11.8,
-      "mag": 1.5,
-      "place": "12 km W of Harding-Birch Lakes, Alaska",
-      "time": 1785046261690,
+      "lon": -146.858,
+      "lat": 64.344,
+      "depth": 6.3,
+      "mag": 1.6,
+      "place": "12 km WSW of Harding-Birch Lakes, Alaska",
+      "time": 1785046261719,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oqywuc"
     },
     {
@@ -2042,16 +2052,6 @@
       "place": "57 km S of Sarangani, Philippines",
       "time": 1784961966097,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a4"
-    },
-    {
-      "id": "us7000t3a3",
-      "lon": -78.6561,
-      "lat": 3.9136,
-      "depth": 10,
-      "mag": 4.4,
-      "place": "148 km WSW of Santa Genoveva de Docordó, Colombia",
-      "time": 1784960957899,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a3"
     }
   ]
 }
