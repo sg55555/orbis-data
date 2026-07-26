@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-26T15:45:34Z",
-  "count": 209,
+  "updated": "2026-07-26T16:00:59Z",
+  "count": 210,
   "points": [
+    {
+      "id": "aka2026orsiru",
+      "lon": -150.386,
+      "lat": 62.905,
+      "depth": 95.2,
+      "mag": 1.8,
+      "place": "49 km NNE of Petersville, Alaska",
+      "time": 1785081270790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026orsiru"
+    },
     {
       "id": "ci40661602",
       "lon": -117.710166666667,
@@ -62,6 +72,16 @@
       "place": "14 km ESE of Pearsall, Texas",
       "time": 1785078250831,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026opholp"
+    },
+    {
+      "id": "us7000t3hq",
+      "lon": -140.8743,
+      "lat": 66.6451,
+      "depth": 10,
+      "mag": 3,
+      "place": "126 km E of Chalkyitsik, Alaska",
+      "time": 1785078159020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3hq"
     },
     {
       "id": "pr71525918",
@@ -2082,16 +2102,6 @@
       "place": "55 km NW of Toyah, Texas",
       "time": 1784995351346,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026onnrqi"
-    },
-    {
-      "id": "hv75007817",
-      "lon": -155.499160766602,
-      "lat": 19.1806659698486,
-      "depth": 34.1399993896484,
-      "mag": 2.05,
-      "place": "3 km SW of Pāhala, Hawaii",
-      "time": 1784994996490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75007817"
     }
   ]
 }
