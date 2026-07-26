@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-26T13:30:43Z",
-  "count": 197,
+  "updated": "2026-07-26T13:45:33Z",
+  "count": 198,
   "points": [
     {
+      "id": "ci40661570",
+      "lon": -116.177333333333,
+      "lat": 33.8736666666667,
+      "depth": 4.8,
+      "mag": 1.09,
+      "place": "17 km NNE of Indio, CA",
+      "time": 1785073114560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661570"
+    },
+    {
+      "id": "nc75405987",
+      "lon": -122.75666809082,
+      "lat": 38.7931671142578,
+      "depth": 0.930000007152557,
+      "mag": 1.04,
+      "place": "2 km N of The Geysers, CA",
+      "time": 1785072601710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405987"
+    },
+    {
       "id": "ci40661562",
-      "lon": -117.151832580566,
-      "lat": 33.9896659851074,
-      "depth": 9.6899995803833,
-      "mag": 1.08944502842594,
+      "lon": -117.153,
+      "lat": 33.9878333333333,
+      "depth": 10.91,
+      "mag": 0.64,
       "place": "8 km SSE of Redlands, CA",
-      "time": 1785072490590,
+      "time": 1785072490530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661562"
     },
     {
@@ -54,6 +74,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026onjy"
     },
     {
+      "id": "pr71525878",
+      "lon": -67.1976666666667,
+      "lat": 18.0091666666667,
+      "depth": 13.06,
+      "mag": 2.89,
+      "place": "3 km WSW of Boquerón, Puerto Rico",
+      "time": 1785071630370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525878"
+    },
+    {
       "id": "ci40661530",
       "lon": -116.990833333333,
       "lat": 33.9361666666667,
@@ -76,11 +106,11 @@
     {
       "id": "ci40661522",
       "lon": -117.153666666667,
-      "lat": 33.9853333333333,
-      "depth": 10.94,
+      "lat": 33.986,
+      "depth": 11.04,
       "mag": 1.01,
       "place": "8 km SSE of Redlands, CA",
-      "time": 1785071043760,
+      "time": 1785071043720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661522"
     },
     {
@@ -1765,12 +1795,12 @@
     },
     {
       "id": "ci40661274",
-      "lon": -117.706333333333,
-      "lat": 35.8666666666667,
-      "depth": 9.03,
+      "lon": -117.704333333333,
+      "lat": 35.8658333333333,
+      "depth": 9.46,
       "mag": 1.27,
       "place": "20 km ESE of Little Lake, CA",
-      "time": 1784997085110,
+      "time": 1784997085070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661274"
     },
     {
@@ -1875,12 +1905,12 @@
     },
     {
       "id": "ci40661258",
-      "lon": -117.181333333333,
+      "lon": -117.181833333333,
       "lat": 33.9923333333333,
-      "depth": 13.12,
+      "depth": 13.07,
       "mag": 0.94,
       "place": "7 km S of Redlands, CA",
-      "time": 1784991245700,
+      "time": 1784991245660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661258"
     },
     {
@@ -1952,26 +1982,6 @@
       "place": "32 km ENE of Skwentna, Alaska",
       "time": 1784987503069,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026opsfra"
-    },
-    {
-      "id": "tx2026onizhh",
-      "lon": -103.321,
-      "lat": 31.979,
-      "depth": 8.3502,
-      "mag": 1.9,
-      "place": "19 km SW of Jal, New Mexico",
-      "time": 1784986669697,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026onizhh"
-    },
-    {
-      "id": "aka2026oprsyh",
-      "lon": -150.017,
-      "lat": 62.646,
-      "depth": 27.6,
-      "mag": 1.2,
-      "place": "22 km NNE of Chase, Alaska",
-      "time": 1784986620292,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oprsyh"
     }
   ]
 }
