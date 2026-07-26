@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-26T17:15:35Z",
-  "count": 204,
+  "updated": "2026-07-26T17:30:48Z",
+  "count": 207,
   "points": [
+    {
+      "id": "nc75406092",
+      "lon": -122.815498352051,
+      "lat": 38.8286666870117,
+      "depth": 1.6599999666214,
+      "mag": 0.95,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1785086212320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406092"
+    },
+    {
+      "id": "ci40661618",
+      "lon": -116.554,
+      "lat": 33.4518333333333,
+      "depth": 9.98,
+      "mag": 1.42,
+      "place": "16 km SE of Anza, CA",
+      "time": 1785086033480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661618"
+    },
     {
       "id": "nc75406087",
       "lon": -122.810501098633,
@@ -172,6 +192,16 @@
       "place": "126 km E of Chalkyitsik, Alaska",
       "time": 1785078159020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3hq"
+    },
+    {
+      "id": "aka2026orqlhg",
+      "lon": 176.3,
+      "lat": 51.991,
+      "depth": 0,
+      "mag": 3.3,
+      "place": "232 km ESE of Attu Station, Alaska",
+      "time": 1785077828957,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026orqlhg"
     },
     {
       "id": "pr71525928",
@@ -372,6 +402,16 @@
       "place": "8 km SSE of Redlands, CA",
       "time": 1785072490530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661562"
+    },
+    {
+      "id": "aka2026ornlfd",
+      "lon": -173.256,
+      "lat": 50.966,
+      "depth": 10,
+      "mag": 3.2,
+      "place": "151 km SSE of Atka, Alaska",
+      "time": 1785072421563,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ornlfd"
     },
     {
       "id": "pr71525888",
@@ -2032,16 +2072,6 @@
       "place": "18 km WSW of Johannesburg, CA",
       "time": 1785000906510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661322"
-    },
-    {
-      "id": "ci40661314",
-      "lon": -117.2125,
-      "lat": 34.1125,
-      "depth": 5.23,
-      "mag": 0.95,
-      "place": "2 km SSW of Highland, CA",
-      "time": 1785000546500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661314"
     }
   ]
 }
