@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-26T20:00:52Z",
-  "count": 217,
+  "updated": "2026-07-26T20:15:37Z",
+  "count": 216,
   "points": [
+    {
+      "id": "ci40661698",
+      "lon": -117.807666666667,
+      "lat": 35.3148333333333,
+      "depth": 7.96,
+      "mag": 1.12,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1785096408840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661698"
+    },
     {
       "id": "aka2026orztkg",
       "lon": -150.987,
@@ -25,12 +35,12 @@
     },
     {
       "id": "ci40661690",
-      "lon": -118.448833333333,
-      "lat": 35.7593333333333,
-      "depth": 8.39,
+      "lon": -118.4435,
+      "lat": 35.7605,
+      "depth": 8.02,
       "mag": 0.88,
       "place": "2 km WNW of Kernville, CA",
-      "time": 1785093813620,
+      "time": 1785093813650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661690"
     },
     {
@@ -2152,26 +2162,6 @@
       "place": "12 km SE of Petrolia, CA",
       "time": 1785011411690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405672"
-    },
-    {
-      "id": "aka2026oqeysl",
-      "lon": -150.031,
-      "lat": 60.7,
-      "depth": 33.7,
-      "mag": 1.6,
-      "place": "25 km NNW of Cooper Landing, Alaska",
-      "time": 1785010459632,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oqeysl"
-    },
-    {
-      "id": "pr71525798",
-      "lon": -66.9133333333333,
-      "lat": 17.962,
-      "depth": 15.1,
-      "mag": 1.93,
-      "place": "1 km SSW of Guánica, Puerto Rico",
-      "time": 1785010403680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525798"
     }
   ]
 }
