@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-26T17:30:48Z",
-  "count": 207,
+  "updated": "2026-07-26T17:38:55Z",
+  "count": 208,
   "points": [
+    {
+      "id": "ci40661626",
+      "lon": -117.847166666667,
+      "lat": 36.1586666666667,
+      "depth": 3.13,
+      "mag": 1.12,
+      "place": "16 km NE of Coso Junction, CA",
+      "time": 1785087153610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661626"
+    },
     {
       "id": "nc75406092",
       "lon": -122.815498352051,
@@ -102,6 +112,16 @@
       "place": "37 km NNE of Chenega, Alaska",
       "time": 1785082336703,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026orsycj"
+    },
+    {
+      "id": "aka2026orstns",
+      "lon": -173.387,
+      "lat": 51.549,
+      "depth": 11.9,
+      "mag": 3.7,
+      "place": "91 km SE of Atka, Alaska",
+      "time": 1785082019871,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026orstns"
     },
     {
       "id": "aka2026orsiru",
@@ -2062,16 +2082,6 @@
       "place": "241 km ENE of Lospalos, Timor Leste",
       "time": 1785001379303,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3c6"
-    },
-    {
-      "id": "ci40661322",
-      "lon": -117.817333333333,
-      "lat": 35.3125,
-      "depth": 8.24,
-      "mag": 1.02,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1785000906510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661322"
     }
   ]
 }
