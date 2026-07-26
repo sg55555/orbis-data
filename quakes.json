@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-26T17:38:55Z",
-  "count": 208,
+  "updated": "2026-07-26T17:45:31Z",
+  "count": 209,
   "points": [
     {
       "id": "ci40661626",
@@ -14,6 +14,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661626"
     },
     {
+      "id": "pr71525948",
+      "lon": -66.9135,
+      "lat": 17.9663333333333,
+      "depth": 13.87,
+      "mag": 2.29,
+      "place": "0 km SW of Guánica, Puerto Rico",
+      "time": 1785086999610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525948"
+    },
+    {
       "id": "nc75406092",
       "lon": -122.815498352051,
       "lat": 38.8286666870117,
@@ -22,6 +32,16 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1785086212320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406092"
+    },
+    {
+      "id": "us7000t3i7",
+      "lon": -175.1461,
+      "lat": 51.3761,
+      "depth": 35,
+      "mag": 3.9,
+      "place": "112 km SW of Atka, Alaska",
+      "time": 1785086172986,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3i7"
     },
     {
       "id": "ci40661618",
@@ -2072,16 +2092,6 @@
       "place": "11 km SE of Midland, Texas",
       "time": 1785001721861,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026onrhic"
-    },
-    {
-      "id": "us7000t3c6",
-      "lon": 128.8506,
-      "lat": -7.3555,
-      "depth": 135.403,
-      "mag": 4.2,
-      "place": "241 km ENE of Lospalos, Timor Leste",
-      "time": 1785001379303,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3c6"
     }
   ]
 }
