@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-26T06:45:33Z",
-  "count": 206,
+  "updated": "2026-07-26T07:00:53Z",
+  "count": 205,
   "points": [
+    {
+      "id": "nc75405912",
+      "lon": -121.137168884277,
+      "lat": 36.5356674194336,
+      "depth": 7.46000003814697,
+      "mag": 1.89,
+      "place": "1 km NE of Pinnacles, CA",
+      "time": 1785048457270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405912"
+    },
+    {
+      "id": "ci40661450",
+      "lon": -117.470333333333,
+      "lat": 35.6661666666667,
+      "depth": 8.95,
+      "mag": 0.94,
+      "place": "13 km SSW of Searles Valley, CA",
+      "time": 1785048377270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661450"
+    },
     {
       "id": "ci40661442",
       "lon": -116.872666666667,
@@ -1196,11 +1216,11 @@
     {
       "id": "tx2026onpsve",
       "lon": -103.313,
-      "lat": 31.981,
-      "depth": 8.3565,
-      "mag": 2.4,
+      "lat": 31.979,
+      "depth": 6.8689,
+      "mag": 2.5,
       "place": "18 km SW of Jal, New Mexico",
-      "time": 1784998899885,
+      "time": 1784998900426,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026onpsve"
     },
     {
@@ -1635,12 +1655,12 @@
     },
     {
       "id": "tx2026onfbfb",
-      "lon": -104.154,
-      "lat": 31.529,
-      "depth": 4.6311,
+      "lon": -104.15,
+      "lat": 31.519,
+      "depth": 8.1763,
       "mag": 2.6,
-      "place": "41 km NW of Toyah, Texas",
-      "time": 1784979574866,
+      "place": "40 km WNW of Toyah, Texas",
+      "time": 1784979574811,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026onfbfb"
     },
     {
@@ -2032,36 +2052,6 @@
       "place": "11 km W of Ocotillo Wells, CA",
       "time": 1784962927190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661138"
-    },
-    {
-      "id": "ci40661130",
-      "lon": -116.249,
-      "lat": 33.122,
-      "depth": 10.37,
-      "mag": 0.77,
-      "place": "11 km WSW of Ocotillo Wells, CA",
-      "time": 1784962802920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661130"
-    },
-    {
-      "id": "ci40661122",
-      "lon": -115.944666666667,
-      "lat": 33.7676666666667,
-      "depth": 1.3,
-      "mag": 0.86,
-      "place": "23 km NE of Thermal, CA",
-      "time": 1784962723740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661122"
-    },
-    {
-      "id": "us7000t3a4",
-      "lon": 125.4791,
-      "lat": 4.8793,
-      "depth": 52.163,
-      "mag": 5,
-      "place": "57 km S of Sarangani, Philippines",
-      "time": 1784961966097,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a4"
     }
   ]
 }
