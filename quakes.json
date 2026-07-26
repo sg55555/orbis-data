@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-26T03:15:34Z",
-  "count": 196,
+  "updated": "2026-07-26T03:30:56Z",
+  "count": 197,
   "points": [
+    {
+      "id": "ci40661418",
+      "lon": -117.729333333333,
+      "lat": 35.9161666666667,
+      "depth": 4.17,
+      "mag": 0.9,
+      "place": "16 km E of Little Lake, CA",
+      "time": 1785036197610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661418"
+    },
+    {
+      "id": "tx2026ookght",
+      "lon": -101.835,
+      "lat": 32.117,
+      "depth": 3.7149,
+      "mag": 2.9,
+      "place": "4 km WSW of Stanton, Texas",
+      "time": 1785036065468,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ookght"
+    },
+    {
+      "id": "tx2026ookczw",
+      "lon": -103.685,
+      "lat": 30.895,
+      "depth": 0,
+      "mag": 1.9,
+      "place": "11 km SSE of Balmorhea, Texas",
+      "time": 1785035842856,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ookczw"
+    },
     {
       "id": "tx2026oojkzb",
       "lon": -104.598,
@@ -272,6 +302,16 @@
       "place": "33 km WSW of Tyonek, Alaska",
       "time": 1785026893913,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oqocxg"
+    },
+    {
+      "id": "us7000t3dx",
+      "lon": 7.0107,
+      "lat": 73.4913,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "Greenland Sea",
+      "time": 1785025698582,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3dx"
     },
     {
       "id": "us7000t3dw",
@@ -1932,36 +1972,6 @@
       "place": "19 km SE of Toyah, Texas",
       "time": 1784950928888,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ompfwd"
-    },
-    {
-      "id": "aka2026ooxjmt",
-      "lon": -146.524,
-      "lat": 61.567,
-      "depth": 18.6,
-      "mag": 2.3,
-      "place": "49 km SSE of Nelchina, Alaska",
-      "time": 1784949986182,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ooxjmt"
-    },
-    {
-      "id": "aka2026ooxcty",
-      "lon": -147.636,
-      "lat": 64.632,
-      "depth": 5,
-      "mag": 1.1,
-      "place": "19 km SW of North Pole, Alaska",
-      "time": 1784949520693,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ooxcty"
-    },
-    {
-      "id": "nc75405372",
-      "lon": -122.725830078125,
-      "lat": 38.7918319702148,
-      "depth": 2.66000008583069,
-      "mag": 0.73,
-      "place": "3 km ENE of The Geysers, CA",
-      "time": 1784949355860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405372"
     }
   ]
 }
