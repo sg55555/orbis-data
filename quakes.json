@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-26T09:45:33Z",
-  "count": 202,
+  "updated": "2026-07-26T10:00:54Z",
+  "count": 204,
   "points": [
+    {
+      "id": "nc75405952",
+      "lon": -122.796333312988,
+      "lat": 38.8156661987305,
+      "depth": 4.17999982833862,
+      "mag": 0.75,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1785059539040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405952"
+    },
+    {
+      "id": "aka2026orgfxr",
+      "lon": -151.615,
+      "lat": 60.557,
+      "depth": 71.7,
+      "mag": 1.5,
+      "place": "17 km WSW of Salamatof, Alaska",
+      "time": 1785059487440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026orgfxr"
+    },
     {
       "id": "aka2026orfpxs",
       "lon": -153.551,
@@ -12,6 +32,16 @@
       "place": "84 km NNW of Aleneva, Alaska",
       "time": 1785058634312,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026orfpxs"
+    },
+    {
+      "id": "us7000t3fs",
+      "lon": -86.8076,
+      "lat": 11.2364,
+      "depth": 35,
+      "mag": 4.6,
+      "place": "68 km SSW of Masachapa, Nicaragua",
+      "time": 1785058015020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fs"
     },
     {
       "id": "aka2026ordzel",
@@ -2012,16 +2042,6 @@
       "place": "2 km SW of Wauna, Washington",
       "time": 1784973851240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714061301"
-    },
-    {
-      "id": "tx2026onbnwl",
-      "lon": -104.213,
-      "lat": 31.659,
-      "depth": 7.2791,
-      "mag": 2.8,
-      "place": "55 km NW of Toyah, Texas",
-      "time": 1784973211310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026onbnwl"
     }
   ]
 }
