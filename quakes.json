@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-26T16:31:39Z",
-  "count": 210,
+  "updated": "2026-07-26T16:45:37Z",
+  "count": 211,
   "points": [
+    {
+      "id": "nc75406082",
+      "lon": -123.215667724609,
+      "lat": 39.2993316650391,
+      "depth": 5.90999984741211,
+      "mag": 2.09,
+      "place": "4 km NNW of Redwood Valley, CA",
+      "time": 1785084028480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406082"
+    },
+    {
+      "id": "aka2026ortrnk",
+      "lon": -151.094,
+      "lat": 61.888,
+      "depth": 75.2,
+      "mag": 2.2,
+      "place": "19 km SE of Skwentna, Alaska",
+      "time": 1785083681140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ortrnk"
+    },
     {
       "id": "nc75406077",
       "lon": -122.825332641602,
@@ -2092,16 +2112,6 @@
       "place": "3 km NW of The Geysers, CA",
       "time": 1784998366200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405587"
-    },
-    {
-      "id": "aka2026opxtkp",
-      "lon": -155.908,
-      "lat": 57.714,
-      "depth": 94.6,
-      "mag": 1.5,
-      "place": "88 km W of Karluk, Alaska",
-      "time": 1784997451006,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026opxtkp"
     }
   ]
 }
