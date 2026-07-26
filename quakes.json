@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-26T05:15:33Z",
-  "count": 206,
+  "updated": "2026-07-26T05:30:45Z",
+  "count": 203,
   "points": [
+    {
+      "id": "nc75405897",
+      "lon": -122.803497314453,
+      "lat": 38.8279991149902,
+      "depth": 1.87999999523163,
+      "mag": 1.04,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1785043199760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405897"
+    },
     {
       "id": "aka2026oqwygy",
       "lon": -152.323,
@@ -2022,46 +2032,6 @@
       "place": "11 km WNW of Calipatria, CA",
       "time": 1784957985730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661114"
-    },
-    {
-      "id": "ci40661106",
-      "lon": -115.607833333333,
-      "lat": 33.1863333333333,
-      "depth": 3.6,
-      "mag": 1.46,
-      "place": "10 km SW of Niland, CA",
-      "time": 1784957373430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661106"
-    },
-    {
-      "id": "us7000t3a0",
-      "lon": -92.7508,
-      "lat": 14.4952,
-      "depth": 35,
-      "mag": 5.1,
-      "place": "43 km SW of Puerto Madero, Mexico",
-      "time": 1784957193842,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a0"
-    },
-    {
-      "id": "pr71525728",
-      "lon": -66.9123333333333,
-      "lat": 17.943,
-      "depth": 14.38,
-      "mag": 2.1,
-      "place": "3 km S of Guánica, Puerto Rico",
-      "time": 1784957178770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525728"
-    },
-    {
-      "id": "ci40661098",
-      "lon": -115.617166666667,
-      "lat": 33.183,
-      "depth": 3.9,
-      "mag": 1.71,
-      "place": "11 km SW of Niland, CA",
-      "time": 1784956902910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661098"
     }
   ]
 }
