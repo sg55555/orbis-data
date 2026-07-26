@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-26T11:15:36Z",
-  "count": 198,
+  "updated": "2026-07-26T11:30:45Z",
+  "count": 199,
   "points": [
+    {
+      "id": "nc75405967",
+      "lon": -122.770835876465,
+      "lat": 38.8004989624023,
+      "depth": 4.42000007629395,
+      "mag": 0.76,
+      "place": "3 km NNW of The Geysers, CA",
+      "time": 1785065129650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405967"
+    },
+    {
+      "id": "us7000t3g4",
+      "lon": 123.4402,
+      "lat": -10.007,
+      "depth": 10,
+      "mag": 5.3,
+      "place": "25 km NW of Kupang, Indonesia",
+      "time": 1785063457061,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3g4"
+    },
     {
       "id": "aka2026origrb",
       "lon": -153.383,
@@ -862,6 +882,16 @@
       "place": "Greenland Sea",
       "time": 1785025698582,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3dx"
+    },
+    {
+      "id": "tx2026ooemsh",
+      "lon": -102.112,
+      "lat": 31.578,
+      "depth": 1.9546,
+      "mag": 1,
+      "place": "30 km NE of Crane, Texas",
+      "time": 1785025629502,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ooemsh"
     },
     {
       "id": "us7000t3dw",
@@ -1962,26 +1992,6 @@
       "place": "25 km WSW of Stella, Puerto Rico",
       "time": 1784979089350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525758"
-    },
-    {
-      "id": "aka2026opnjyy",
-      "lon": -137.587,
-      "lat": 58.074,
-      "depth": 11,
-      "mag": 2.2,
-      "place": "74 km W of Elfin Cove, Alaska",
-      "time": 1784978806729,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026opnjyy"
-    },
-    {
-      "id": "tx2026onekwh",
-      "lon": -104.157,
-      "lat": 31.529,
-      "depth": 4.7014,
-      "mag": 1.5,
-      "place": "41 km NW of Toyah, Texas",
-      "time": 1784978433393,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026onekwh"
     }
   ]
 }
