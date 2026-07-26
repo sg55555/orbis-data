@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-26T12:45:35Z",
-  "count": 196,
+  "updated": "2026-07-26T13:00:55Z",
+  "count": 195,
   "points": [
+    {
+      "id": "ci40661506",
+      "lon": -116.644,
+      "lat": 33.9503333333333,
+      "depth": 13.19,
+      "mag": 0.74,
+      "place": "11 km WNW of Garnet, CA",
+      "time": 1785070146040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661506"
+    },
     {
       "id": "aka2026orlwyf",
       "lon": -141.046,
@@ -12,6 +22,16 @@
       "place": "100 km E of McCarthy, Alaska",
       "time": 1785069661691,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026orlwyf"
+    },
+    {
+      "id": "us7000t3gt",
+      "lon": 121.8508,
+      "lat": 24.8852,
+      "depth": 93.836,
+      "mag": 4.7,
+      "place": "15 km ESE of Pinglin, Taiwan",
+      "time": 1785069377467,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3gt"
     },
     {
       "id": "ci40661498",
@@ -35,12 +55,12 @@
     },
     {
       "id": "tx2026opbwtk",
-      "lon": -104.362,
-      "lat": 31.805,
+      "lon": -103.753,
+      "lat": 31.78,
       "depth": 0,
-      "mag": 1.7,
-      "place": "41 km S of Whites City, New Mexico",
-      "time": 1785067971817,
+      "mag": 1.3,
+      "place": "16 km WNW of Mentone, Texas",
+      "time": 1785067975032,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026opbwtk"
     },
     {
@@ -692,6 +712,16 @@
       "place": "11 km SSE of Balmorhea, Texas",
       "time": 1785035842856,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ookczw"
+    },
+    {
+      "id": "se60625696",
+      "lon": -84.5723333333333,
+      "lat": 35.3211666666667,
+      "depth": 12.88,
+      "mag": 1.95,
+      "place": "4 km W of Etowah, Tennessee",
+      "time": 1785034582390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60625696"
     },
     {
       "id": "tx2026oojkzb",
@@ -1922,46 +1952,6 @@
       "place": "2 km SSE of Fort Greely, Alaska",
       "time": 1784984964901,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026opquzi"
-    },
-    {
-      "id": "tx2026onhlmo",
-      "lon": -103.304,
-      "lat": 31.969,
-      "depth": 7.1969,
-      "mag": 1.8,
-      "place": "19 km SSW of Jal, New Mexico",
-      "time": 1784983928208,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026onhlmo"
-    },
-    {
-      "id": "ci40661234",
-      "lon": -117.5195,
-      "lat": 34.2008333333333,
-      "depth": 15.38,
-      "mag": 0.98,
-      "place": "7 km SSW of Lytle Creek, CA",
-      "time": 1784983783490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661234"
-    },
-    {
-      "id": "aka2026opqchx",
-      "lon": -149.416,
-      "lat": 62.862,
-      "depth": 66.6,
-      "mag": 2,
-      "place": "57 km NE of Chase, Alaska",
-      "time": 1784983675785,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026opqchx"
-    },
-    {
-      "id": "tx2026onhfod",
-      "lon": -103.307,
-      "lat": 31.97,
-      "depth": 3.7555,
-      "mag": 1.9,
-      "place": "19 km SW of Jal, New Mexico",
-      "time": 1784983515848,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026onhfod"
     }
   ]
 }
