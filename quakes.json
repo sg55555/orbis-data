@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T02:00:57Z",
-  "count": 220,
+  "updated": "2026-07-27T02:15:34Z",
+  "count": 219,
   "points": [
+    {
+      "id": "ci40661874",
+      "lon": -118.840333333333,
+      "lat": 34.5313333333333,
+      "depth": 9.51,
+      "mag": 1.17,
+      "place": "14 km NNW of Piru, CA",
+      "time": 1785118062070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661874"
+    },
     {
       "id": "tx2026oqdeco",
       "lon": -103.306,
@@ -2182,26 +2192,6 @@
       "place": "7 km SW of Pyote, Texas",
       "time": 1785033230921,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ooipuf"
-    },
-    {
-      "id": "nc75405832",
-      "lon": -122.851333618164,
-      "lat": 38.8281669616699,
-      "depth": 1.76999998092651,
-      "mag": 0.73,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1785032056300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405832"
-    },
-    {
-      "id": "us7000t3eb",
-      "lon": -72.7547,
-      "lat": 4.7907,
-      "depth": 12.362,
-      "mag": 4.7,
-      "place": "18 km ESE of Monterrey, Colombia",
-      "time": 1785032026744,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3eb"
     }
   ]
 }
