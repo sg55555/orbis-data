@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T17:30:45Z",
-  "count": 253,
+  "updated": "2026-07-27T17:45:40Z",
+  "count": 252,
   "points": [
     {
       "id": "aka2026otrmfm",
@@ -455,12 +455,12 @@
     },
     {
       "id": "ci40662050",
-      "lon": -116.985333333333,
-      "lat": 33.6798333333333,
-      "depth": 10.77,
-      "mag": 2.28,
-      "place": "8 km S of Hemet, CA",
-      "time": 1785156621130,
+      "lon": -116.989,
+      "lat": 33.6785,
+      "depth": 11.25,
+      "mag": 0.58,
+      "place": "8 km SSW of Hemet, CA",
+      "time": 1785156621070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662050"
     },
     {
@@ -2354,6 +2354,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406132"
     },
     {
+      "id": "uw714062501",
+      "lon": -122.563666666667,
+      "lat": 45.9456666666667,
+      "depth": -0.96,
+      "mag": 1.15,
+      "place": "9 km WNW of Amboy, Washington",
+      "time": 1785092983970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714062501"
+    },
+    {
       "id": "tx2026oppowv",
       "lon": -104.201,
       "lat": 31.643,
@@ -2512,26 +2522,6 @@
       "place": "16 km SE of Julian, CA",
       "time": 1785087921480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661634"
-    },
-    {
-      "id": "tx2026opmvsy",
-      "lon": -99.092,
-      "lat": 28.864,
-      "depth": 0.8112,
-      "mag": 2.2,
-      "place": "3 km S of Pearsall, Texas",
-      "time": 1785087807996,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026opmvsy"
-    },
-    {
-      "id": "ci40661626",
-      "lon": -117.847166666667,
-      "lat": 36.1586666666667,
-      "depth": 3.13,
-      "mag": 1.12,
-      "place": "16 km NE of Coso Junction, CA",
-      "time": 1785087153610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661626"
     }
   ]
 }
