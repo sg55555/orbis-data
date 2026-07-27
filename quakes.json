@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T06:45:42Z",
-  "count": 235,
+  "updated": "2026-07-27T07:00:58Z",
+  "count": 234,
   "points": [
+    {
+      "id": "nc75406472",
+      "lon": -122.807502746582,
+      "lat": 38.8178329467773,
+      "depth": 3.44000005722046,
+      "mag": 1,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1785134635540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406472"
+    },
     {
       "id": "aka2026osvzkj",
       "lon": -151.207,
@@ -12,6 +22,16 @@
       "place": "28 km NW of Petersville, Alaska",
       "time": 1785134603460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026osvzkj"
+    },
+    {
+      "id": "us7000t3lr",
+      "lon": -104.8157,
+      "lat": 36.8455,
+      "depth": 5,
+      "mag": 3.8,
+      "place": "31 km S of Segundo, Colorado",
+      "time": 1785134415693,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3lr"
     },
     {
       "id": "nc75406467",
@@ -2322,36 +2342,6 @@
       "place": "10 km NW of The Geysers, CA",
       "time": 1785049446360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405917"
-    },
-    {
-      "id": "us7000t3f9",
-      "lon": 71.9239,
-      "lat": 37.2873,
-      "depth": 183.758,
-      "mag": 4.4,
-      "place": "39 km SE of Khorugh, Tajikistan",
-      "time": 1785048514701,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3f9"
-    },
-    {
-      "id": "nc75405912",
-      "lon": -121.137168884277,
-      "lat": 36.5356674194336,
-      "depth": 7.46000003814697,
-      "mag": 1.89,
-      "place": "1 km NE of Pinnacles, CA",
-      "time": 1785048457270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405912"
-    },
-    {
-      "id": "ci40661450",
-      "lon": -117.470333333333,
-      "lat": 35.6661666666667,
-      "depth": 8.95,
-      "mag": 0.94,
-      "place": "13 km SSW of Searles Valley, CA",
-      "time": 1785048377270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661450"
     }
   ]
 }
