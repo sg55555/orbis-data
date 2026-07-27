@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T06:15:36Z",
+  "updated": "2026-07-27T06:30:46Z",
   "count": 233,
   "points": [
     {
+      "id": "aka2026osvkmg",
+      "lon": -141.154,
+      "lat": 60.011,
+      "depth": 3.9,
+      "mag": 1.9,
+      "place": "95 km WNW of Yakutat, Alaska",
+      "time": 1785133569762,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026osvkmg"
+    },
+    {
+      "id": "hv75008527",
+      "lon": -155.464828491211,
+      "lat": 19.0826663970947,
+      "depth": 41.0400009155273,
+      "mag": 1.74,
+      "place": "12 km E of Naalehu, Hawaii",
+      "time": 1785133343420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008527"
+    },
+    {
       "id": "ci40661946",
-      "lon": -116.578163146973,
-      "lat": 33.477165222168,
-      "depth": 6.69999980926514,
-      "mag": 0.991062157056019,
+      "lon": -116.582833333333,
+      "lat": 33.4736666666667,
+      "depth": 6.27,
+      "mag": 0.7,
       "place": "12 km SE of Anza, CA",
-      "time": 1785132758760,
+      "time": 1785132758780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661946"
     },
     {
@@ -72,6 +92,16 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1785131877310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406452"
+    },
+    {
+      "id": "us7000t3ll",
+      "lon": -175.1045,
+      "lat": -24.5457,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "south of Tonga",
+      "time": 1785131711467,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3ll"
     },
     {
       "id": "aka2026ostuyy",
@@ -2302,36 +2332,6 @@
       "place": "11 km N of Aguanga, CA",
       "time": 1785047782780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661442"
-    },
-    {
-      "id": "pr71525863",
-      "lon": -66.8443333333333,
-      "lat": 17.972,
-      "depth": 13.05,
-      "mag": 2.32,
-      "place": "3 km SW of Indios, Puerto Rico",
-      "time": 1785047207710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525863"
-    },
-    {
-      "id": "pr71525858",
-      "lon": -66.8388333333333,
-      "lat": 17.9663333333333,
-      "depth": 12.9,
-      "mag": 2.16,
-      "place": "3 km SW of Indios, Puerto Rico",
-      "time": 1785047135470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525858"
-    },
-    {
-      "id": "nc75405902",
-      "lon": -122.738502502441,
-      "lat": 38.772834777832,
-      "depth": 0.980000019073486,
-      "mag": 0.76,
-      "place": "2 km ESE of The Geysers, CA",
-      "time": 1785046992810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405902"
     }
   ]
 }
