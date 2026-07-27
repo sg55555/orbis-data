@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T11:15:34Z",
-  "count": 250,
+  "updated": "2026-07-27T11:30:44Z",
+  "count": 251,
   "points": [
+    {
+      "id": "aka2026otfixs",
+      "lon": -153.024,
+      "lat": 59.208,
+      "depth": 94.3,
+      "mag": 1.4,
+      "place": "65 km WSW of Nanwalek, Alaska",
+      "time": 1785151454184,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026otfixs"
+    },
+    {
+      "id": "nc75406557",
+      "lon": -122.821662902832,
+      "lat": 38.8154983520508,
+      "depth": 2.45000004768372,
+      "mag": 0.93,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1785151045040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406557"
+    },
     {
       "id": "tx2026oqvjid",
       "lon": -103.304,
@@ -185,12 +205,12 @@
     },
     {
       "id": "tx2026oqsrzx",
-      "lon": -101.995,
-      "lat": 32.142,
-      "depth": 3.965,
-      "mag": 1.4,
+      "lon": -101.999,
+      "lat": 32.138,
+      "depth": 3.6831,
+      "mag": 1.5,
       "place": "17 km NNE of Midland, Texas",
-      "time": 1785145479700,
+      "time": 1785145479747,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oqsrzx"
     },
     {
@@ -2492,16 +2512,6 @@
       "place": "18 km SE of Fox River, Alaska",
       "time": 1785065958518,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026orjvkv"
-    },
-    {
-      "id": "nc75405967",
-      "lon": -122.770835876465,
-      "lat": 38.8004989624023,
-      "depth": 4.42000007629395,
-      "mag": 0.76,
-      "place": "3 km NNW of The Geysers, CA",
-      "time": 1785065129650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405967"
     }
   ]
 }
