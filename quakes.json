@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T18:30:48Z",
-  "count": 252,
+  "updated": "2026-07-27T18:45:33Z",
+  "count": 250,
   "points": [
+    {
+      "id": "ci40662186",
+      "lon": -117.031166666667,
+      "lat": 33.4246666666667,
+      "depth": 8.45,
+      "mag": 1.17,
+      "place": "8 km NNE of Pala, CA",
+      "time": 1785177040310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662186"
+    },
     {
       "id": "aka2026ottcxn",
       "lon": -155.553,
@@ -2034,16 +2044,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714062621"
     },
     {
-      "id": "tx2026opxeir",
-      "lon": -97.653,
-      "lat": 29.466,
-      "depth": 0,
-      "mag": 1.6,
-      "place": "19 km WSW of Gonzales, Texas",
-      "time": 1785106511416,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026opxeir"
-    },
-    {
       "id": "hv75008412",
       "lon": -155.404327392578,
       "lat": 19.2600002288818,
@@ -2195,12 +2195,12 @@
     },
     {
       "id": "tx2026opvxpt",
-      "lon": -98.988,
-      "lat": 28.855,
-      "depth": 5.3572,
-      "mag": 1.7,
-      "place": "11 km ESE of Pearsall, Texas",
-      "time": 1785104232587,
+      "lon": -98.966,
+      "lat": 28.804,
+      "depth": 7.7386,
+      "mag": 1.8,
+      "place": "15 km SE of Pearsall, Texas",
+      "time": 1785104230792,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026opvxpt"
     },
     {
@@ -2502,26 +2502,6 @@
       "place": "61 km NNW of Skwentna, Alaska",
       "time": 1785091591918,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026orybvx"
-    },
-    {
-      "id": "nc75406122",
-      "lon": -122.814498901367,
-      "lat": 38.8154983520508,
-      "depth": 2.77999997138977,
-      "mag": 0.77,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1785091206070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406122"
-    },
-    {
-      "id": "ci40661674",
-      "lon": -116.508,
-      "lat": 33.5063333333333,
-      "depth": 13.22,
-      "mag": 1.12,
-      "place": "16 km ESE of Anza, CA",
-      "time": 1785091109530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661674"
     }
   ]
 }
