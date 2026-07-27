@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T16:31:32Z",
-  "count": 253,
+  "updated": "2026-07-27T16:45:41Z",
+  "count": 254,
   "points": [
+    {
+      "id": "ci40662122",
+      "lon": -117.841,
+      "lat": 36.0645,
+      "depth": 2.62,
+      "mag": 0.74,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": 1785170396460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662122"
+    },
+    {
+      "id": "hv75008777",
+      "lon": -155.400665283203,
+      "lat": 19.121166229248,
+      "depth": 40.3400001525879,
+      "mag": 1.7,
+      "place": "12 km SE of Pāhala, Hawaii",
+      "time": 1785169767300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008777"
+    },
     {
       "id": "hv75008772",
       "lon": -155.508331298828,
@@ -52,6 +72,16 @@
       "place": "14 km E of Naalehu, Hawaii",
       "time": 1785169297470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008762"
+    },
+    {
+      "id": "nn00922405",
+      "lon": -119.0742,
+      "lat": 39.3147,
+      "depth": 4.5477,
+      "mag": 2.96,
+      "place": "17 km SE of Silver Springs, Nevada",
+      "time": 1785168838610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922405"
     },
     {
       "id": "ci40662114",
@@ -2512,26 +2542,6 @@
       "place": "55 km NW of Toyah, Texas",
       "time": 1785085273511,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026opllie"
-    },
-    {
-      "id": "nc75406082",
-      "lon": -123.215667724609,
-      "lat": 39.2993316650391,
-      "depth": 5.90999984741211,
-      "mag": 2.09,
-      "place": "4 km NNW of Redwood Valley, CA",
-      "time": 1785084028480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406082"
-    },
-    {
-      "id": "aka2026ortrnk",
-      "lon": -151.094,
-      "lat": 61.888,
-      "depth": 75.2,
-      "mag": 2.2,
-      "place": "19 km SE of Skwentna, Alaska",
-      "time": 1785083681140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ortrnk"
     }
   ]
 }
