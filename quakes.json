@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T19:45:33Z",
-  "count": 264,
+  "updated": "2026-07-27T20:15:34Z",
+  "count": 266,
   "points": [
+    {
+      "id": "aka2026otwkhl",
+      "lon": -153.114,
+      "lat": 60.165,
+      "depth": 149.7,
+      "mag": 1.5,
+      "place": "66 km E of Port Alsworth, Alaska",
+      "time": 1785182135124,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026otwkhl"
+    },
     {
       "id": "nc75406932",
       "lon": -122.727996826172,
@@ -44,10 +54,20 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406922"
     },
     {
+      "id": "ci40662218",
+      "lon": -117.795666666667,
+      "lat": 35.3126666666667,
+      "depth": 9.14,
+      "mag": 0.53,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1785179810630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662218"
+    },
+    {
       "id": "tx2026orlnta",
       "lon": -104.118,
       "lat": 31.668,
-      "depth": 4.3532,
+      "depth": 4.3543,
       "mag": 1.6,
       "place": "49 km W of Mentone, Texas",
       "time": 1785179688871,
@@ -514,6 +534,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008727"
     },
     {
+      "id": "hv75008717",
+      "lon": -155.352833333333,
+      "lat": 19.9756666666667,
+      "depth": 3.43,
+      "mag": 2.36,
+      "place": "7 km SSE of Pa‘auilo, Hawaii",
+      "time": 1785164221420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008717"
+    },
+    {
       "id": "uu80146496",
       "lon": -111.433833333333,
       "lat": 38.6656666666667,
@@ -632,6 +662,16 @@
       "place": "25 km SSW of Silver Peak, Nevada",
       "time": 1785160249768,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922392"
+    },
+    {
+      "id": "ci40662066",
+      "lon": -118.437833333333,
+      "lat": 35.6743333333333,
+      "depth": 4.32,
+      "mag": 1.16,
+      "place": "4 km SSE of Wofford Heights, CA",
+      "time": 1785160180470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662066"
     },
     {
       "id": "hv75008652",
@@ -2622,26 +2662,6 @@
       "place": "8 km NW of Avenal, CA",
       "time": 1785097678340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406167"
-    },
-    {
-      "id": "ci40661698",
-      "lon": -117.807666666667,
-      "lat": 35.3148333333333,
-      "depth": 7.96,
-      "mag": 1.12,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1785096408840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661698"
-    },
-    {
-      "id": "uw714062571",
-      "lon": -121.992333333333,
-      "lat": 47.1481666666667,
-      "depth": 14.7,
-      "mag": 1.6,
-      "place": "3 km ESE of Buckley, Washington",
-      "time": 1785096173150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714062571"
     }
   ]
 }
