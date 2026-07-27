@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T10:01:07Z",
-  "count": 238,
+  "updated": "2026-07-27T10:23:56Z",
+  "count": 239,
   "points": [
+    {
+      "id": "nc75406527",
+      "lon": -122.809669494629,
+      "lat": 38.8373336791992,
+      "depth": 2.17000007629395,
+      "mag": 0.61,
+      "place": "8 km WNW of Cobb, CA",
+      "time": 1785147154250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406527"
+    },
+    {
+      "id": "nc75406517",
+      "lon": -122.823501586914,
+      "lat": 38.8706665039062,
+      "depth": 1.73000001907349,
+      "mag": 0.7,
+      "place": "10 km WNW of Cobb, CA",
+      "time": 1785146787460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406517"
+    },
+    {
+      "id": "ok2026ooyz",
+      "lon": -97.76441956,
+      "lat": 34.74563599,
+      "depth": 4.653111935,
+      "mag": 1.96,
+      "place": "12 km NNE of Bray, Oklahoma",
+      "time": 1785146502984,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ooyz"
+    },
     {
       "id": "nc75406512",
       "lon": -122.801002502441,
@@ -175,12 +205,12 @@
     },
     {
       "id": "tx2026oqozei",
-      "lon": -98.983,
-      "lat": 28.856,
-      "depth": 5.3929,
-      "mag": 2.3,
+      "lon": -98.989,
+      "lat": 28.857,
+      "depth": 5.3787,
+      "mag": 2.4,
       "place": "11 km ESE of Pearsall, Texas",
-      "time": 1785138734076,
+      "time": 1785138734107,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oqozei"
     },
     {
@@ -652,6 +682,16 @@
       "place": "south of Tonga",
       "time": 1785123403273,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3l3"
+    },
+    {
+      "id": "pr71525998",
+      "lon": -66.9093333333333,
+      "lat": 17.9586666666667,
+      "depth": 15.27,
+      "mag": 2.08,
+      "place": "1 km S of Guánica, Puerto Rico",
+      "time": 1785122754370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525998"
     },
     {
       "id": "ci40661914",
@@ -1215,12 +1255,12 @@
     },
     {
       "id": "tx2026opvxpt",
-      "lon": -98.995,
-      "lat": 28.866,
-      "depth": 0,
+      "lon": -98.988,
+      "lat": 28.855,
+      "depth": 5.3572,
       "mag": 1.7,
-      "place": "10 km ESE of Pearsall, Texas",
-      "time": 1785104232612,
+      "place": "11 km ESE of Pearsall, Texas",
+      "time": 1785104232587,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026opvxpt"
     },
     {
@@ -2352,36 +2392,6 @@
       "place": "6 km SSW of Pāhala, Hawaii",
       "time": 1785062202460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008152"
-    },
-    {
-      "id": "aka2026orgwge",
-      "lon": -150.986,
-      "lat": 59.84,
-      "depth": 12.3,
-      "mag": 2,
-      "place": "2 km SW of Fox River, Alaska",
-      "time": 1785060616806,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026orgwge"
-    },
-    {
-      "id": "ci40661482",
-      "lon": -117.724,
-      "lat": 36.0383333333333,
-      "depth": 1.97,
-      "mag": 1.27,
-      "place": "20 km NE of Little Lake, CA",
-      "time": 1785060383640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661482"
-    },
-    {
-      "id": "us7000t3fw",
-      "lon": -92.2547,
-      "lat": 14.3522,
-      "depth": 35,
-      "mag": 4.2,
-      "place": "18 km SSW of Ocós, Guatemala",
-      "time": 1785060295964,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fw"
     }
   ]
 }
