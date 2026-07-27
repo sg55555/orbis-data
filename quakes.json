@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T09:15:32Z",
-  "count": 237,
+  "updated": "2026-07-27T09:30:44Z",
+  "count": 239,
   "points": [
+    {
+      "id": "ci40661986",
+      "lon": -116.019,
+      "lat": 33.1931666666667,
+      "depth": 6.48,
+      "mag": 0.75,
+      "place": "12 km ENE of Ocotillo Wells, CA",
+      "time": 1785143629470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661986"
+    },
     {
       "id": "ci40661978",
       "lon": -116.812833333333,
@@ -34,6 +44,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3m7"
     },
     {
+      "id": "us7000t3m6",
+      "lon": -175.3545,
+      "lat": -24.7345,
+      "depth": 10,
+      "mag": 5.2,
+      "place": "south of Tonga",
+      "time": 1785142038681,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3m6"
+    },
+    {
       "id": "us7000t3m5",
       "lon": -175.244,
       "lat": -24.6958,
@@ -62,6 +82,16 @@
       "place": "10 km NW of The Geysers, CA",
       "time": 1785141281100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406492"
+    },
+    {
+      "id": "us7000t3m3",
+      "lon": -64.4921,
+      "lat": 19.423,
+      "depth": 24.54,
+      "mag": 3,
+      "place": "124 km NNE of Cruz Bay, U.S. Virgin Islands",
+      "time": 1785140912549,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3m3"
     },
     {
       "id": "nn00922374",
@@ -385,12 +415,12 @@
     },
     {
       "id": "tx2026oqjqfp",
-      "lon": -101.478,
-      "lat": 32.103,
-      "depth": 3.6372,
-      "mag": 1.9,
+      "lon": -101.474,
+      "lat": 32.11,
+      "depth": 8.8623,
+      "mag": 2.1,
       "place": "10 km W of Forsan, Texas",
-      "time": 1785129061903,
+      "time": 1785129062301,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oqjqfp"
     },
     {
@@ -2362,16 +2392,6 @@
       "place": "84 km NNW of Aleneva, Alaska",
       "time": 1785058634312,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026orfpxs"
-    },
-    {
-      "id": "us7000t3fs",
-      "lon": -86.8076,
-      "lat": 11.2364,
-      "depth": 35,
-      "mag": 4.6,
-      "place": "68 km SSW of Masachapa, Nicaragua",
-      "time": 1785058015020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fs"
     }
   ]
 }
