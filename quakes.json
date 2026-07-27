@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T19:01:06Z",
+  "updated": "2026-07-27T19:15:42Z",
   "count": 252,
   "points": [
+    {
+      "id": "nc75406917",
+      "lon": -122.163330078125,
+      "lat": 40.9451675415039,
+      "depth": 3,
+      "mag": 1.95,
+      "place": "23 km WSW of Big Bend, CA",
+      "time": 1785179631440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406917"
+    },
     {
       "id": "ci40662194",
       "lon": -118.193,
@@ -775,12 +785,12 @@
     },
     {
       "id": "tx2026oqvlii",
-      "lon": -103.301,
+      "lon": -103.294,
       "lat": 31.975,
-      "depth": 4.2631,
+      "depth": 3.2209,
       "mag": 1.8,
       "place": "18 km SSW of Jal, New Mexico",
-      "time": 1785150464917,
+      "time": 1785150465257,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oqvlii"
     },
     {
@@ -1482,6 +1492,16 @@
       "place": "10 km WNW of Cobb, CA",
       "time": 1785128232790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406397"
+    },
+    {
+      "id": "av94336843",
+      "lon": -178.776,
+      "lat": 51.8156666666667,
+      "depth": 11.62,
+      "mag": 1.29,
+      "place": "147 km W of Adak, Alaska",
+      "time": 1785127696770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94336843"
     },
     {
       "id": "us7000t3lb",
@@ -2485,12 +2505,12 @@
     },
     {
       "id": "tx2026oppyrl",
-      "lon": -104.221,
-      "lat": 31.628,
-      "depth": 4.317,
+      "lon": -104.218,
+      "lat": 31.63,
+      "depth": 6.087,
       "mag": 1.6,
       "place": "53 km NW of Toyah, Texas",
-      "time": 1785093450442,
+      "time": 1785093450041,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oppyrl"
     },
     {
@@ -2502,26 +2522,6 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1785093406750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406132"
-    },
-    {
-      "id": "uw714062501",
-      "lon": -122.563666666667,
-      "lat": 45.9456666666667,
-      "depth": -0.96,
-      "mag": 1.15,
-      "place": "9 km WNW of Amboy, Washington",
-      "time": 1785092983970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714062501"
-    },
-    {
-      "id": "tx2026oppowv",
-      "lon": -104.201,
-      "lat": 31.643,
-      "depth": 4.4725,
-      "mag": 1.6,
-      "place": "53 km NW of Toyah, Texas",
-      "time": 1785092777517,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oppowv"
     }
   ]
 }
