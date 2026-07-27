@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T20:30:50Z",
+  "updated": "2026-07-27T20:45:40Z",
   "count": 268,
   "points": [
+    {
+      "id": "ci40662250",
+      "lon": -116.407333333333,
+      "lat": 33.4836666666667,
+      "depth": 10.57,
+      "mag": 0.45,
+      "place": "22 km SSW of La Quinta, CA",
+      "time": 1785184778540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662250"
+    },
+    {
+      "id": "ci40662242",
+      "lon": -116.411333333333,
+      "lat": 33.4813333333333,
+      "depth": 9.45,
+      "mag": 0.81,
+      "place": "22 km SSW of La Quinta, CA",
+      "time": 1785184648430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662242"
+    },
     {
       "id": "nc75406967",
       "lon": -121.448333740234,
@@ -2662,26 +2682,6 @@
       "place": "75 km WSW of Akhiok, Alaska",
       "time": 1785098763678,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oscbmd"
-    },
-    {
-      "id": "aka2026osboxz",
-      "lon": -151.942,
-      "lat": 60.527,
-      "depth": 80,
-      "mag": 1.4,
-      "place": "35 km WSW of Salamatof, Alaska",
-      "time": 1785097894079,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026osboxz"
-    },
-    {
-      "id": "hv75008357",
-      "lon": -155.621,
-      "lat": 19.8238333333333,
-      "depth": 23.55,
-      "mag": 3.03,
-      "place": "21 km SE of Waikoloa, Hawaii",
-      "time": 1785097859080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008357"
     }
   ]
 }
