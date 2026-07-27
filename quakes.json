@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T12:45:34Z",
-  "count": 263,
+  "updated": "2026-07-27T13:01:04Z",
+  "count": 264,
   "points": [
+    {
+      "id": "ci40662042",
+      "lon": -117.134166666667,
+      "lat": 33.8861666666667,
+      "depth": 25.2,
+      "mag": 0.98,
+      "place": "9 km N of Nuevo, CA",
+      "time": 1785156617330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662042"
+    },
     {
       "id": "aka2026othxcj",
       "lon": -146.837,
@@ -2214,6 +2224,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026orsiru"
     },
     {
+      "id": "nm60506023",
+      "lon": -91.785,
+      "lat": 35.9821666666667,
+      "depth": 4.48,
+      "mag": 1.7,
+      "place": "3 km NW of Mount Pleasant, Arkansas",
+      "time": 1785080195230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60506023"
+    },
+    {
       "id": "ci40661602",
       "lon": -117.714333333333,
       "lat": 33.5395,
@@ -2622,16 +2642,6 @@
       "place": "8 km SSE of Redlands, CA",
       "time": 1785070876110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661514"
-    },
-    {
-      "id": "ci40661506",
-      "lon": -116.644,
-      "lat": 33.9503333333333,
-      "depth": 13.19,
-      "mag": 0.74,
-      "place": "11 km WNW of Garnet, CA",
-      "time": 1785070146040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661506"
     }
   ]
 }
