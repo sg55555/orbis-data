@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T18:45:33Z",
-  "count": 250,
+  "updated": "2026-07-27T19:01:06Z",
+  "count": 252,
   "points": [
+    {
+      "id": "ci40662194",
+      "lon": -118.193,
+      "lat": 34.9871666666667,
+      "depth": 0.1,
+      "mag": 1.22,
+      "place": "7 km SSW of Mojave, CA",
+      "time": 1785178477390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662194"
+    },
+    {
+      "id": "nc75406897",
+      "lon": -122.81266784668,
+      "lat": 38.8371658325195,
+      "depth": 2.24000000953674,
+      "mag": 0.29,
+      "place": "8 km WNW of Cobb, CA",
+      "time": 1785178352270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406897"
+    },
+    {
+      "id": "nc75406892",
+      "lon": -122.801666259766,
+      "lat": 38.8240013122559,
+      "depth": 2.21000003814697,
+      "mag": 1.02,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1785177881200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406892"
+    },
     {
       "id": "ci40662186",
       "lon": -117.031166666667,
@@ -695,12 +725,12 @@
     },
     {
       "id": "ci40662010",
-      "lon": -119.232166666667,
-      "lat": 34.8415,
-      "depth": 9.61,
-      "mag": 1.31,
+      "lon": -119.231833333333,
+      "lat": 34.8516666666667,
+      "depth": 10.17,
+      "mag": 1.14,
       "place": "8 km W of Pine Mountain Club, CA",
-      "time": 1785152151680,
+      "time": 1785152151590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662010"
     },
     {
@@ -712,6 +742,16 @@
       "place": "68 km SSW of Nanwalek, Alaska",
       "time": 1785151848415,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026otfopk"
+    },
+    {
+      "id": "uw714062861",
+      "lon": -122.188,
+      "lat": 46.2035,
+      "depth": 1.39,
+      "mag": 0.55,
+      "place": "38 km NNE of Amboy, Washington",
+      "time": 1785151568670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714062861"
     },
     {
       "id": "aka2026otfixs",
@@ -1202,6 +1242,16 @@
       "place": "12 km SE of Anza, CA",
       "time": 1785132758780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661946"
+    },
+    {
+      "id": "av94337023",
+      "lon": -153.419333333333,
+      "lat": 59.3598333333333,
+      "depth": -0.94,
+      "mag": -0.32,
+      "place": "61 km SE of Pedro Bay, Alaska",
+      "time": 1785132685110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94337023"
     },
     {
       "id": "aka2026osuwwo",
@@ -2294,16 +2344,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714062581"
     },
     {
-      "id": "tx2026optisy",
-      "lon": -103.728,
-      "lat": 31.498,
-      "depth": 0,
-      "mag": 1.6,
-      "place": "21 km NNE of Toyah, Texas",
-      "time": 1785099574939,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026optisy"
-    },
-    {
       "id": "aka2026oscmkm",
       "lon": -147.401,
       "lat": 64.965,
@@ -2482,26 +2522,6 @@
       "place": "53 km NW of Toyah, Texas",
       "time": 1785092777517,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oppowv"
-    },
-    {
-      "id": "ci40661682",
-      "lon": -117.469666666667,
-      "lat": 35.6606666666667,
-      "depth": 9.11,
-      "mag": 0.83,
-      "place": "13 km SSW of Searles Valley, CA",
-      "time": 1785092303560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661682"
-    },
-    {
-      "id": "aka2026orybvx",
-      "lon": -151.988,
-      "lat": 62.471,
-      "depth": 107.3,
-      "mag": 1.8,
-      "place": "61 km NNW of Skwentna, Alaska",
-      "time": 1785091591918,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026orybvx"
     }
   ]
 }
