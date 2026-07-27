@@ -1,8 +1,48 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T14:15:38Z",
-  "count": 246,
+  "updated": "2026-07-27T14:30:51Z",
+  "count": 248,
   "points": [
+    {
+      "id": "hv75008687",
+      "lon": -155.496002197266,
+      "lat": 19.1318340301514,
+      "depth": 31.8799991607666,
+      "mag": 1.82,
+      "place": "8 km SSW of Pāhala, Hawaii",
+      "time": 1785162204260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008687"
+    },
+    {
+      "id": "nc75406617",
+      "lon": -122.799003601074,
+      "lat": 38.8258323669434,
+      "depth": 2.52999997138977,
+      "mag": 1.09,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1785161718680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406617"
+    },
+    {
+      "id": "nc75406612",
+      "lon": -122.84049987793,
+      "lat": 38.8264999389648,
+      "depth": 1.5900000333786,
+      "mag": 0.59,
+      "place": "9 km NW of The Geysers, CA",
+      "time": 1785161622460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406612"
+    },
+    {
+      "id": "pr71526028",
+      "lon": -64.3406666666667,
+      "lat": 18.638,
+      "depth": 43.04,
+      "mag": 2.95,
+      "place": "58 km NE of Cruz Bay, U.S. Virgin Islands",
+      "time": 1785161322610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526028"
+    },
     {
       "id": "nc75406592",
       "lon": -122.817337036133,
@@ -1165,12 +1205,12 @@
     },
     {
       "id": "ci40661906",
-      "lon": -115.708833333333,
-      "lat": 32.8211666666667,
-      "depth": 9.66,
-      "mag": 1.6,
+      "lon": -115.7105,
+      "lat": 32.822,
+      "depth": 9.23,
+      "mag": 1.63,
       "place": "13 km WSW of Imperial, CA",
-      "time": 1785120152120,
+      "time": 1785120152090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661906"
     },
     {
@@ -2442,26 +2482,6 @@
       "place": "46 km SW of Cooper Landing, Alaska",
       "time": 1785076222841,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026orpntc"
-    },
-    {
-      "id": "tx2026opgbmf",
-      "lon": -102.208,
-      "lat": 32.104,
-      "depth": 4.6269,
-      "mag": 1.6,
-      "place": "17 km NW of Midland, Texas",
-      "time": 1785075744506,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026opgbmf"
-    },
-    {
-      "id": "ci40661594",
-      "lon": -117.254166666667,
-      "lat": 34.0435,
-      "depth": 8.8,
-      "mag": 0.85,
-      "place": "1 km SE of Loma Linda, CA",
-      "time": 1785075618450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661594"
     }
   ]
 }
