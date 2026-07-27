@@ -1,17 +1,27 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T14:45:35Z",
-  "count": 246,
+  "updated": "2026-07-27T15:00:58Z",
+  "count": 244,
   "points": [
     {
       "id": "aka2026otlziz",
-      "lon": -152.264,
-      "lat": 61.088,
-      "depth": 120.3,
-      "mag": 1.4,
+      "lon": -152.257,
+      "lat": 61.077,
+      "depth": 115.7,
+      "mag": 1.9,
       "place": "60 km W of Tyonek, Alaska",
-      "time": 1785163387297,
+      "time": 1785163387757,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026otlziz"
+    },
+    {
+      "id": "us7000t3p2",
+      "lon": 151.462,
+      "lat": -5.4518,
+      "depth": 91.011,
+      "mag": 5.1,
+      "place": "147 km E of Kimbe, Papua New Guinea",
+      "time": 1785162816219,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3p2"
     },
     {
       "id": "nc75406622",
@@ -862,6 +872,16 @@
       "place": "118 km ENE of Petropavlovsk-Kamchatsky, Russia",
       "time": 1785131674340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3lm"
+    },
+    {
+      "id": "tx2026oqkoro",
+      "lon": -98.947,
+      "lat": 28.791,
+      "depth": 3.8321,
+      "mag": 1.6,
+      "place": "18 km SE of Pearsall, Texas",
+      "time": 1785130763813,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oqkoro"
     },
     {
       "id": "aka2026ostuyy",
@@ -1835,12 +1855,12 @@
     },
     {
       "id": "ci40661730",
-      "lon": -115.596166666667,
-      "lat": 32.481,
-      "depth": 4.71,
-      "mag": 1.53,
+      "lon": -115.588333333333,
+      "lat": 32.4836666666667,
+      "depth": 10.03,
+      "mag": 1.46,
       "place": "11 km S of Progreso, B.C., MX",
-      "time": 1785101280150,
+      "time": 1785101280180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661730"
     },
     {
@@ -2422,46 +2442,6 @@
       "place": "126 km E of Chalkyitsik, Alaska",
       "time": 1785078159020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3hq"
-    },
-    {
-      "id": "aka2026orqlhg",
-      "lon": 176.3,
-      "lat": 51.991,
-      "depth": 0,
-      "mag": 3.3,
-      "place": "232 km ESE of Attu Station, Alaska",
-      "time": 1785077828957,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026orqlhg"
-    },
-    {
-      "id": "pr71525928",
-      "lon": -66.8401666666667,
-      "lat": 17.9566666666667,
-      "depth": 12.72,
-      "mag": 2.57,
-      "place": "4 km SSW of Indios, Puerto Rico",
-      "time": 1785077579720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525928"
-    },
-    {
-      "id": "pr71525918",
-      "lon": -66.8356666666667,
-      "lat": 17.9721666666667,
-      "depth": 11.93,
-      "mag": 2.27,
-      "place": "2 km SW of Indios, Puerto Rico",
-      "time": 1785077532570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525918"
-    },
-    {
-      "id": "nc75406022",
-      "lon": -122.874664306641,
-      "lat": 39.2958335876465,
-      "depth": 8.84000015258789,
-      "mag": 1.5,
-      "place": "14 km SSE of Lake Pillsbury, CA",
-      "time": 1785077189940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406022"
     }
   ]
 }
