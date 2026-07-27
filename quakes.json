@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T03:15:32Z",
-  "count": 221,
+  "updated": "2026-07-27T03:30:44Z",
+  "count": 219,
   "points": [
+    {
+      "id": "ci40661914",
+      "lon": -116.812333333333,
+      "lat": 33.625,
+      "depth": 12.8,
+      "mag": 0.65,
+      "place": "15 km WNW of Anza, CA",
+      "time": 1785121970000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661914"
+    },
     {
       "id": "hv75008457",
       "lon": -155.179504394531,
@@ -54,6 +64,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406347"
     },
     {
+      "id": "us7000t3ku",
+      "lon": -175.1244,
+      "lat": -24.5786,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "south of Tonga",
+      "time": 1785119572596,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3ku"
+    },
+    {
       "id": "aka2026osnqbe",
       "lon": -145.078,
       "lat": 63.351,
@@ -82,6 +102,16 @@
       "place": "11 km ESE of Anza, CA",
       "time": 1785119188770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661882"
+    },
+    {
+      "id": "us7000t3kq",
+      "lon": -82.4545,
+      "lat": 6.2427,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "203 km SSE of Burica, Panama",
+      "time": 1785118841150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kq"
     },
     {
       "id": "us7000t3kn",
@@ -2162,56 +2192,6 @@
       "place": "46 km NW of Toyah, Texas",
       "time": 1785037096082,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ookvjo"
-    },
-    {
-      "id": "ci40661418",
-      "lon": -117.729333333333,
-      "lat": 35.9161666666667,
-      "depth": 4.17,
-      "mag": 0.9,
-      "place": "16 km E of Little Lake, CA",
-      "time": 1785036197610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661418"
-    },
-    {
-      "id": "tx2026ookieq",
-      "lon": -101.71,
-      "lat": 32.48,
-      "depth": 13.6695,
-      "mag": 1.1,
-      "place": "5 km S of Ackerly, Texas",
-      "time": 1785036174179,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ookieq"
-    },
-    {
-      "id": "tx2026ookgrw",
-      "lon": -103.451,
-      "lat": 31.179,
-      "depth": 0,
-      "mag": 1.8,
-      "place": "22 km SSE of Lindsay, Texas",
-      "time": 1785036072449,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ookgrw"
-    },
-    {
-      "id": "tx2026ookght",
-      "lon": -101.84,
-      "lat": 32.111,
-      "depth": 6.4941,
-      "mag": 2.8,
-      "place": "5 km WSW of Stanton, Texas",
-      "time": 1785036065723,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ookght"
-    },
-    {
-      "id": "tx2026ookczw",
-      "lon": -103.685,
-      "lat": 30.895,
-      "depth": 0,
-      "mag": 1.9,
-      "place": "11 km SSE of Balmorhea, Texas",
-      "time": 1785035842856,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ookczw"
     }
   ]
 }
