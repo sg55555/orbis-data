@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T05:45:36Z",
+  "updated": "2026-07-27T06:01:00Z",
   "count": 228,
   "points": [
+    {
+      "id": "nc75406452",
+      "lon": -122.81616973877,
+      "lat": 38.8310012817383,
+      "depth": 1.75,
+      "mag": 0.72,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1785131877310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406452"
+    },
     {
       "id": "aka2026ostuyy",
       "lon": -154.944,
@@ -32,6 +42,16 @@
       "place": "10 km WNW of Cobb, CA",
       "time": 1785130565990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406437"
+    },
+    {
+      "id": "tx2026oqkisw",
+      "lon": -99.009,
+      "lat": 28.883,
+      "depth": 6.0151,
+      "mag": 2.3,
+      "place": "8 km E of Pearsall, Texas",
+      "time": 1785130351184,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oqkisw"
     },
     {
       "id": "aka2026ostiwh",
@@ -2262,26 +2282,6 @@
       "place": "12 km WSW of Harding-Birch Lakes, Alaska",
       "time": 1785046261719,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oqywuc"
-    },
-    {
-      "id": "us7000t3f0",
-      "lon": 133.4886,
-      "lat": 38.4173,
-      "depth": 446.051,
-      "mag": 4.4,
-      "place": "260 km N of Ama, Japan",
-      "time": 1785045532200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3f0"
-    },
-    {
-      "id": "aka2026oqyjaw",
-      "lon": -150.929,
-      "lat": 62.239,
-      "depth": 78.8,
-      "mag": 2.2,
-      "place": "29 km SSW of Petersville, Alaska",
-      "time": 1785045310599,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oqyjaw"
     }
   ]
 }
