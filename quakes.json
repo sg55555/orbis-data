@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T02:45:34Z",
-  "count": 220,
+  "updated": "2026-07-27T03:00:55Z",
+  "count": 218,
   "points": [
     {
+      "id": "aka2026osokqa",
+      "lon": -148.806,
+      "lat": 61.832,
+      "depth": 4.2,
+      "mag": 1.5,
+      "place": "6 km NNW of Sutton-Alpine, Alaska",
+      "time": 1785120984813,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026osokqa"
+    },
+    {
       "id": "ci40661906",
-      "lon": -115.709503173828,
-      "lat": 32.8208351135254,
-      "depth": 9.63000011444092,
-      "mag": 1.40024339375462,
+      "lon": -115.708833333333,
+      "lat": 32.8211666666667,
+      "depth": 9.66,
+      "mag": 1.6,
       "place": "13 km WSW of Imperial, CA",
-      "time": 1785120152140,
+      "time": 1785120152120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661906"
     },
     {
@@ -84,6 +94,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oqdeco"
     },
     {
+      "id": "us7000t3km",
+      "lon": -175.1465,
+      "lat": -24.5442,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "south of Tonga",
+      "time": 1785117254139,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3km"
+    },
+    {
       "id": "ci40661866",
       "lon": -116.550166666667,
       "lat": 33.4591666666667,
@@ -142,6 +162,16 @@
       "place": "11 km SE of Balmorhea, Texas",
       "time": 1785116109430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oqcmec"
+    },
+    {
+      "id": "us7000t3kj",
+      "lon": -175.2032,
+      "lat": -24.5389,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "south of Tonga",
+      "time": 1785116069120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kj"
     },
     {
       "id": "us7000t3kd",
@@ -2152,56 +2182,6 @@
       "place": "11 km SSE of Balmorhea, Texas",
       "time": 1785035842856,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ookczw"
-    },
-    {
-      "id": "se60625696",
-      "lon": -84.5723333333333,
-      "lat": 35.3211666666667,
-      "depth": 12.88,
-      "mag": 1.95,
-      "place": "4 km W of Etowah, Tennessee",
-      "time": 1785034582390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60625696"
-    },
-    {
-      "id": "tx2026oojkzb",
-      "lon": -104.512,
-      "lat": 31.764,
-      "depth": 4.613,
-      "mag": 2.4,
-      "place": "47 km SSW of Whites City, New Mexico",
-      "time": 1785034571315,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oojkzb"
-    },
-    {
-      "id": "nc75405862",
-      "lon": -122.81600189209,
-      "lat": 38.8655014038086,
-      "depth": 2.44000005722046,
-      "mag": 0.95,
-      "place": "9 km WNW of Cobb, CA",
-      "time": 1785034500570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405862"
-    },
-    {
-      "id": "aka2026oqsfyy",
-      "lon": -152.384,
-      "lat": 58.82,
-      "depth": 66,
-      "mag": 1.6,
-      "place": "65 km SSW of Nanwalek, Alaska",
-      "time": 1785034302525,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oqsfyy"
-    },
-    {
-      "id": "nc75405852",
-      "lon": -122.756500244141,
-      "lat": 38.7888336181641,
-      "depth": 1.98000001907349,
-      "mag": 1.23,
-      "place": "1 km N of The Geysers, CA",
-      "time": 1785034133740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405852"
     }
   ]
 }
