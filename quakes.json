@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T18:15:36Z",
+  "updated": "2026-07-27T18:30:48Z",
   "count": 252,
   "points": [
+    {
+      "id": "aka2026ottcxn",
+      "lon": -155.553,
+      "lat": 58.265,
+      "depth": 5,
+      "mag": 0.7,
+      "place": "80 km SE of King Salmon, Alaska",
+      "time": 1785176227107,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ottcxn"
+    },
     {
       "id": "nc75406857",
       "lon": -122.80549621582,
@@ -32,6 +42,16 @@
       "place": "2 km NW of Indios, Puerto Rico",
       "time": 1785174616210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526078"
+    },
+    {
+      "id": "us6000tg5f",
+      "lon": 71.5913,
+      "lat": 36.6101,
+      "depth": 116.626,
+      "mag": 4.5,
+      "place": "9 km SSE of Ashkāsham, Afghanistan",
+      "time": 1785174421325,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg5f"
     },
     {
       "id": "ci40662162",
@@ -2502,26 +2522,6 @@
       "place": "16 km ESE of Anza, CA",
       "time": 1785091109530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661674"
-    },
-    {
-      "id": "us7000t3in",
-      "lon": -42.8052,
-      "lat": 29.9365,
-      "depth": 10,
-      "mag": 5.4,
-      "place": "northern Mid-Atlantic Ridge",
-      "time": 1785089980684,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3in"
-    },
-    {
-      "id": "us7000t3il",
-      "lon": 179.8773,
-      "lat": -23.4795,
-      "depth": 535.429,
-      "mag": 4.6,
-      "place": "south of the Fiji Islands",
-      "time": 1785089731398,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3il"
     }
   ]
 }
