@@ -1,8 +1,68 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T06:01:00Z",
-  "count": 228,
+  "updated": "2026-07-27T06:15:36Z",
+  "count": 233,
   "points": [
+    {
+      "id": "ci40661946",
+      "lon": -116.578163146973,
+      "lat": 33.477165222168,
+      "depth": 6.69999980926514,
+      "mag": 0.991062157056019,
+      "place": "12 km SE of Anza, CA",
+      "time": 1785132758760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661946"
+    },
+    {
+      "id": "aka2026osuwwo",
+      "lon": -147.529,
+      "lat": 63.675,
+      "depth": 8.4,
+      "mag": 1.4,
+      "place": "68 km E of Denali Park, Alaska",
+      "time": 1785132629022,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026osuwwo"
+    },
+    {
+      "id": "hv75008512",
+      "lon": -155.407165527344,
+      "lat": 19.1183338165283,
+      "depth": 39.9000015258789,
+      "mag": 1.78,
+      "place": "12 km SE of Pāhala, Hawaii",
+      "time": 1785132562170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008512"
+    },
+    {
+      "id": "hv75008507",
+      "lon": -155.420333862305,
+      "lat": 19.1193332672119,
+      "depth": 40.0800018310547,
+      "mag": 1.94,
+      "place": "11 km SSE of Pāhala, Hawaii",
+      "time": 1785132505000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008507"
+    },
+    {
+      "id": "hv75008502",
+      "lon": -155.425506591797,
+      "lat": 19.1143341064453,
+      "depth": 39.1500015258789,
+      "mag": 1.88,
+      "place": "11 km SSE of Pāhala, Hawaii",
+      "time": 1785132457910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008502"
+    },
+    {
+      "id": "aka2026osutsm",
+      "lon": -149.43,
+      "lat": 62.077,
+      "depth": 35,
+      "mag": 3.1,
+      "place": "23 km ESE of Susitna North, Alaska",
+      "time": 1785132411260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026osutsm"
+    },
     {
       "id": "nc75406452",
       "lon": -122.81616973877,
@@ -2272,16 +2332,6 @@
       "place": "2 km ESE of The Geysers, CA",
       "time": 1785046992810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405902"
-    },
-    {
-      "id": "aka2026oqywuc",
-      "lon": -146.858,
-      "lat": 64.344,
-      "depth": 6.3,
-      "mag": 1.6,
-      "place": "12 km WSW of Harding-Birch Lakes, Alaska",
-      "time": 1785046261719,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oqywuc"
     }
   ]
 }
