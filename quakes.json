@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-27T16:01:02Z",
-  "count": 249,
+  "updated": "2026-07-27T16:15:34Z",
+  "count": 247,
   "points": [
+    {
+      "id": "hv75008752",
+      "lon": -155.45100402832,
+      "lat": 19.0625,
+      "depth": 39.5299987792969,
+      "mag": 1.74,
+      "place": "13 km E of Naalehu, Hawaii",
+      "time": 1785168504950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008752"
+    },
     {
       "id": "nc75406737",
       "lon": -122.724830627441,
@@ -1655,12 +1665,12 @@
     },
     {
       "id": "nn00922361",
-      "lon": -117.788,
-      "lat": 38.2003,
-      "depth": 1.762,
-      "mag": 1.96,
+      "lon": -117.7946,
+      "lat": 38.1847,
+      "depth": 8.2308,
+      "mag": 1.97,
       "place": "35 km SE of Mina, Nevada",
-      "time": 1785110760962,
+      "time": 1785110761450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922361"
     },
     {
@@ -2094,16 +2104,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406167"
     },
     {
-      "id": "tx2026oprpje",
-      "lon": -104.122,
-      "lat": 31.624,
-      "depth": 4.4528,
-      "mag": 1.2,
-      "place": "46 km NW of Toyah, Texas",
-      "time": 1785096416552,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oprpje"
-    },
-    {
       "id": "ci40661698",
       "lon": -117.807666666667,
       "lat": 35.3148333333333,
@@ -2472,26 +2472,6 @@
       "place": "87 km ESE of Egegik, Alaska",
       "time": 1785082898655,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ortgft"
-    },
-    {
-      "id": "aka2026orsycj",
-      "lon": -147.741,
-      "lat": 60.374,
-      "depth": 18,
-      "mag": 1.7,
-      "place": "37 km NNE of Chenega, Alaska",
-      "time": 1785082336703,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026orsycj"
-    },
-    {
-      "id": "aka2026orstns",
-      "lon": -173.387,
-      "lat": 51.549,
-      "depth": 11.9,
-      "mag": 3.7,
-      "place": "91 km SE of Atka, Alaska",
-      "time": 1785082019871,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026orstns"
     }
   ]
 }
