@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-28T17:30:48Z",
-  "count": 207,
+  "updated": "2026-07-28T17:45:47Z",
+  "count": 206,
   "points": [
     {
+      "id": "us6000tgf0",
+      "lon": -79.4734,
+      "lat": 30.0308,
+      "depth": 0,
+      "mag": 3.9,
+      "place": "171 km ENE of Flagler Beach, Florida",
+      "time": 1785258774479,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgf0"
+    },
+    {
       "id": "tx2026otcwxi",
-      "lon": -103.325,
-      "lat": 31.975,
-      "depth": 5.8922,
-      "mag": 1.8,
+      "lon": -103.319,
+      "lat": 31.971,
+      "depth": 6.0999,
+      "mag": 1.7,
       "place": "19 km SW of Jal, New Mexico",
-      "time": 1785258279431,
+      "time": 1785258279461,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026otcwxi"
     },
     {
@@ -435,12 +445,12 @@
     },
     {
       "id": "uw714063691",
-      "lon": -121.764335632324,
-      "lat": 46.8431663513184,
-      "depth": 0,
-      "mag": 0.360000014,
+      "lon": -121.765833333333,
+      "lat": 46.8443333333333,
+      "depth": 0.51,
+      "mag": 0.65,
       "place": "22 km ENE of Ashford, Washington",
-      "time": 1785236115540,
+      "time": 1785236115510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714063691"
     },
     {
@@ -1705,12 +1715,12 @@
     },
     {
       "id": "ci40662266",
-      "lon": -116.552333333333,
-      "lat": 33.4533333333333,
-      "depth": 9.84,
+      "lon": -116.55,
+      "lat": 33.4538333333333,
+      "depth": 10.68,
       "mag": 1.14,
       "place": "16 km SE of Anza, CA",
-      "time": 1785185804190,
+      "time": 1785185804080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662266"
     },
     {
@@ -2052,26 +2062,6 @@
       "place": "9 km SSE of Ashkāsham, Afghanistan",
       "time": 1785174421325,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg5f"
-    },
-    {
-      "id": "ci40662162",
-      "lon": -117.792666666667,
-      "lat": 35.3655,
-      "depth": 6.44,
-      "mag": 1.27,
-      "place": "14 km W of Johannesburg, CA",
-      "time": 1785174221530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662162"
-    },
-    {
-      "id": "hv75008822",
-      "lon": -155.382,
-      "lat": 20.0243333333333,
-      "depth": 9.89,
-      "mag": 2.08,
-      "place": "2 km SW of Pa‘auilo, Hawaii",
-      "time": 1785173565770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008822"
     }
   ]
 }
