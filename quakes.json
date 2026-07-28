@@ -1,6 +1,6 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-28T17:15:46Z",
+  "updated": "2026-07-28T17:30:48Z",
   "count": 207,
   "points": [
     {
@@ -34,16 +34,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407357"
     },
     {
-      "id": "tx2026otcdpk",
-      "lon": -104.189,
-      "lat": 31.646,
-      "depth": 4.2425,
-      "mag": 1.4,
-      "place": "52 km NW of Toyah, Texas",
-      "time": 1785256724363,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026otcdpk"
-    },
-    {
       "id": "nc75407352",
       "lon": -122.821334838867,
       "lat": 38.8660011291504,
@@ -72,6 +62,16 @@
       "place": "31 km WSW of La Jolla, CA",
       "time": 1785256403050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662602"
+    },
+    {
+      "id": "tx2026otbuyh",
+      "lon": -102.68,
+      "lat": 31.848,
+      "depth": 9.3262,
+      "mag": 1.5,
+      "place": "15 km SSW of Goldsmith, Texas",
+      "time": 1785256111038,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026otbuyh"
     },
     {
       "id": "tx2026otbpds",
@@ -195,12 +195,12 @@
     },
     {
       "id": "nc75407277",
-      "lon": -123.071166992188,
-      "lat": 39.0471649169922,
-      "depth": 4.09000015258789,
-      "mag": 2.12,
-      "place": "13 km SE of Talmage, CA",
-      "time": 1785249875030,
+      "lon": -122.814833333333,
+      "lat": 38.8355,
+      "depth": 2.15,
+      "mag": -0.35,
+      "place": "8 km W of Cobb, CA",
+      "time": 1785249880630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407277"
     },
     {
@@ -504,6 +504,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouzbfw"
     },
     {
+      "id": "uw714063671",
+      "lon": -122.450333333333,
+      "lat": 47.3081666666667,
+      "depth": 18.08,
+      "mag": 0.78,
+      "place": "1 km NW of Browns Point, Washington",
+      "time": 1785233595650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714063671"
+    },
+    {
       "id": "aka2026ouyzlj",
       "lon": -159.776,
       "lat": 55.949,
@@ -789,18 +799,18 @@
       "lat": 32.6817,
       "depth": 10,
       "mag": 6.8,
-      "place": "5 km E of Uto, Japan",
+      "place": "2026 Uto, Japan Earthquake ",
       "time": 1785223635512,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9"
     },
     {
       "id": "uw714063651",
-      "lon": -122.417999267578,
-      "lat": 46.2751655578613,
-      "depth": 16.6000003814697,
-      "mag": 1.38,
-      "place": "28 km S of Mossyrock, Washington",
-      "time": 1785223424760,
+      "lon": -122.414,
+      "lat": 46.2828333333333,
+      "depth": 18.05,
+      "mag": 0.87,
+      "place": "27 km SSE of Mossyrock, Washington",
+      "time": 1785223424630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714063651"
     },
     {
@@ -825,12 +835,12 @@
     },
     {
       "id": "ci40662442",
-      "lon": -115.614666666667,
-      "lat": 33.185,
-      "depth": 3.97,
-      "mag": 1.07,
-      "place": "11 km SW of Niland, CA",
-      "time": 1785222187850,
+      "lon": -115.611333333333,
+      "lat": 33.1858333333333,
+      "depth": 3.86,
+      "mag": 1.1,
+      "place": "10 km SW of Niland, CA",
+      "time": 1785222187830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662442"
     },
     {
@@ -1504,6 +1514,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouconu"
     },
     {
+      "id": "uw714063561",
+      "lon": -116.925333333333,
+      "lat": 47.5323333333333,
+      "depth": -0.81,
+      "mag": 2.1,
+      "place": "4 km NW of Rockford Bay, Idaho",
+      "time": 1785193141240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714063561"
+    },
+    {
       "id": "us6000tg8x",
       "lon": -74.7218,
       "lat": -8.6588,
@@ -1572,6 +1592,16 @@
       "place": "9 km NW of The Geysers, CA",
       "time": 1785189231250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407017"
+    },
+    {
+      "id": "uw714063451",
+      "lon": -120.475666666667,
+      "lat": 49.34,
+      "depth": -0.51,
+      "mag": 1.95,
+      "place": "13 km S of Princeton, Canada",
+      "time": 1785188280820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714063451"
     },
     {
       "id": "nc75407007",
@@ -2042,36 +2072,6 @@
       "place": "2 km SW of Pa‘auilo, Hawaii",
       "time": 1785173565770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008822"
-    },
-    {
-      "id": "aka2026otrmfm",
-      "lon": -151.559,
-      "lat": 60.494,
-      "depth": 72.4,
-      "mag": 1.7,
-      "place": "17 km WNW of Kalifornsky, Alaska",
-      "time": 1785173271827,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026otrmfm"
-    },
-    {
-      "id": "us6000tg56",
-      "lon": -71.4228,
-      "lat": -32.9701,
-      "depth": 59.158,
-      "mag": 4.1,
-      "place": "8 km NNE of Quilpué, Chile",
-      "time": 1785172776579,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg56"
-    },
-    {
-      "id": "ci40662146",
-      "lon": -116.083333333333,
-      "lat": 32.8503333333333,
-      "depth": 7.41,
-      "mag": 1.35,
-      "place": "15 km NNW of Ocotillo, CA",
-      "time": 1785172694500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662146"
     }
   ]
 }
