@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-28T05:15:38Z",
-  "count": 251,
+  "updated": "2026-07-28T05:30:49Z",
+  "count": 249,
   "points": [
+    {
+      "id": "nc75407137",
+      "lon": -123.293167114258,
+      "lat": 39.4160003662109,
+      "depth": 0.540000021457672,
+      "mag": 1.81,
+      "place": "5 km E of Willits, CA",
+      "time": 1785216426490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407137"
+    },
     {
       "id": "nc75407132",
       "lon": -122.80916595459,
@@ -2482,36 +2492,6 @@
       "place": "17 km ESE of Pearsall, Texas",
       "time": 1785130350344,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oqkisw"
-    },
-    {
-      "id": "aka2026ostknq",
-      "lon": -152.866,
-      "lat": 60.145,
-      "depth": 110.8,
-      "mag": 1.1,
-      "place": "66 km WNW of Happy Valley, Alaska",
-      "time": 1785129975342,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ostknq"
-    },
-    {
-      "id": "aka2026ostiwh",
-      "lon": -152.261,
-      "lat": 58.994,
-      "depth": 55.9,
-      "mag": 1.9,
-      "place": "44 km SSW of Nanwalek, Alaska",
-      "time": 1785129860114,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ostiwh"
-    },
-    {
-      "id": "aka2026ostduk",
-      "lon": -151.745,
-      "lat": 61.078,
-      "depth": 83.2,
-      "mag": 1.4,
-      "place": "32 km W of Tyonek, Alaska",
-      "time": 1785129507978,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ostduk"
     }
   ]
 }
