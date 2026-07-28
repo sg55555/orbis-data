@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-28T06:15:44Z",
-  "count": 241,
+  "updated": "2026-07-28T06:30:47Z",
+  "count": 240,
   "points": [
+    {
+      "id": "aka2026ourkzi",
+      "lon": -157.606,
+      "lat": 56.764,
+      "depth": 84.9,
+      "mag": 1.9,
+      "place": "71 km NE of Chignik, Alaska",
+      "time": 1785219965344,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ourkzi"
+    },
     {
       "id": "nc75407157",
       "lon": -122.767997741699,
@@ -392,6 +402,16 @@
       "place": "7 km NNE of Ocotillo Wells, CA",
       "time": 1785200571070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662378"
+    },
+    {
+      "id": "av94339138",
+      "lon": -154.34,
+      "lat": 58.4396666666667,
+      "depth": 2.26,
+      "mag": -0.05,
+      "place": "94 km WNW of Aleneva, Alaska",
+      "time": 1785200017720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94339138"
     },
     {
       "id": "hv75008992",
@@ -2382,36 +2402,6 @@
       "place": "4 km NNW of The Geysers, CA",
       "time": 1785133998740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406467"
-    },
-    {
-      "id": "nc75406462",
-      "lon": -122.780830383301,
-      "lat": 38.7983322143555,
-      "depth": 3.47000002861023,
-      "mag": 2.53,
-      "place": "3 km NW of The Geysers, CA",
-      "time": 1785133765750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406462"
-    },
-    {
-      "id": "aka2026osvkmg",
-      "lon": -141.224,
-      "lat": 59.981,
-      "depth": 5,
-      "mag": 1.9,
-      "place": "97 km WNW of Yakutat, Alaska",
-      "time": 1785133569489,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026osvkmg"
-    },
-    {
-      "id": "hv75008527",
-      "lon": -155.464828491211,
-      "lat": 19.0826663970947,
-      "depth": 41.0400009155273,
-      "mag": 1.74,
-      "place": "12 km E of Naalehu, Hawaii",
-      "time": 1785133343420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008527"
     }
   ]
 }
