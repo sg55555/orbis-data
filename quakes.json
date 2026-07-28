@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-28T10:45:34Z",
-  "count": 236,
+  "updated": "2026-07-28T11:01:04Z",
+  "count": 232,
   "points": [
+    {
+      "id": "uw714063691",
+      "lon": -121.764335632324,
+      "lat": 46.8431663513184,
+      "depth": 0,
+      "mag": 0.360000014,
+      "place": "22 km ENE of Ashford, Washington",
+      "time": 1785236115540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714063691"
+    },
     {
       "id": "aka2026ouzwhm",
       "lon": -155.957,
@@ -72,6 +82,16 @@
       "place": "5 km N of Progreso, B.C., MX",
       "time": 1785233553330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662490"
+    },
+    {
+      "id": "us6000tgc8",
+      "lon": 130.675,
+      "lat": 32.43,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "10 km SE of Honmachi, Japan",
+      "time": 1785233378222,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgc8"
     },
     {
       "id": "nc75407202",
@@ -2302,66 +2322,6 @@
       "place": "3 km SSW of Pāhala, Hawaii",
       "time": 1785150091270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008577"
-    },
-    {
-      "id": "tx2026oqvbyv",
-      "lon": -104.12,
-      "lat": 31.626,
-      "depth": 3.6789,
-      "mag": 0.8,
-      "place": "46 km NW of Toyah, Texas",
-      "time": 1785149792794,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oqvbyv"
-    },
-    {
-      "id": "nc75406547",
-      "lon": -122.801498413086,
-      "lat": 38.8325004577637,
-      "depth": 2.21000003814697,
-      "mag": 1.07,
-      "place": "7 km W of Cobb, CA",
-      "time": 1785149725780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406547"
-    },
-    {
-      "id": "hv75008567",
-      "lon": -155.49983215332,
-      "lat": 19.140832901001,
-      "depth": 32.4500007629395,
-      "mag": 2.29,
-      "place": "7 km SSW of Pāhala, Hawaii",
-      "time": 1785149399760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008567"
-    },
-    {
-      "id": "hv75008562",
-      "lon": -155.503005981445,
-      "lat": 19.136999130249,
-      "depth": 32.7900009155273,
-      "mag": 2.36,
-      "place": "7 km SSW of Pāhala, Hawaii",
-      "time": 1785149374620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008562"
-    },
-    {
-      "id": "tx2026oquupj",
-      "lon": -104.221,
-      "lat": 31.64,
-      "depth": 4.6056,
-      "mag": 1.7,
-      "place": "54 km NW of Toyah, Texas",
-      "time": 1785149301938,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oquupj"
-    },
-    {
-      "id": "us7000t3mw",
-      "lon": 171.3405,
-      "lat": -22.1762,
-      "depth": 116.876,
-      "mag": 4.9,
-      "place": "southeast of the Loyalty Islands",
-      "time": 1785149214790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3mw"
     }
   ]
 }
