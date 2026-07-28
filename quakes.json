@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-28T09:30:56Z",
-  "count": 234,
+  "updated": "2026-07-28T09:45:35Z",
+  "count": 232,
   "points": [
+    {
+      "id": "ci40662474",
+      "lon": -116.416333333333,
+      "lat": 34.1633333333333,
+      "depth": 9.08,
+      "mag": 1,
+      "place": "6 km NNE of Yucca Valley, CA",
+      "time": 1785231380030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662474"
+    },
+    {
+      "id": "nc75407192",
+      "lon": -124.621170043945,
+      "lat": 40.4575004577637,
+      "depth": 18.0100002288818,
+      "mag": 2.5,
+      "place": "32 km WNW of Petrolia, CA",
+      "time": 1785231308320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407192"
+    },
     {
       "id": "nc75407182",
       "lon": -122.311836242676,
@@ -2302,46 +2322,6 @@
       "place": "141 km SW of Nikolski, Alaska",
       "time": 1785145778549,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg90"
-    },
-    {
-      "id": "tx2026oqsrzx",
-      "lon": -101.999,
-      "lat": 32.138,
-      "depth": 3.6831,
-      "mag": 1.5,
-      "place": "17 km NNE of Midland, Texas",
-      "time": 1785145479747,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oqsrzx"
-    },
-    {
-      "id": "ci40661994",
-      "lon": -116.528333333333,
-      "lat": 33.5178333333333,
-      "depth": 11.25,
-      "mag": 0.56,
-      "place": "14 km ESE of Anza, CA",
-      "time": 1785145419940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661994"
-    },
-    {
-      "id": "aka2026otbuir",
-      "lon": -153.105,
-      "lat": 59.983,
-      "depth": 130.3,
-      "mag": 2.5,
-      "place": "60 km ENE of Pedro Bay, Alaska",
-      "time": 1785145049136,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026otbuir"
-    },
-    {
-      "id": "av94337403",
-      "lon": -176.177,
-      "lat": 52.0585,
-      "depth": 3.13,
-      "mag": 0.6,
-      "place": "37 km ENE of Adak, Alaska",
-      "time": 1785144789950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94337403"
     }
   ]
 }
