@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-28T10:01:04Z",
+  "updated": "2026-07-28T10:12:43Z",
   "count": 232,
   "points": [
+    {
+      "id": "nc75407202",
+      "lon": -122.492332458496,
+      "lat": 38.8173332214355,
+      "depth": 5.76000022888184,
+      "mag": 1.33,
+      "place": "6 km E of Hidden Valley Lake, CA",
+      "time": 1785233225160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407202"
+    },
     {
       "id": "aka2026ouyjsy",
       "lon": -152.534,
@@ -72,6 +82,16 @@
       "place": "20 km NNW of Four Mile Road, Alaska",
       "time": 1785230599896,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouxiqo"
+    },
+    {
+      "id": "us6000tgbx",
+      "lon": 108.2848,
+      "lat": -7.4435,
+      "depth": 158.966,
+      "mag": 4.9,
+      "place": "10 km SE of Kawalu, Indonesia",
+      "time": 1785230484953,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgbx"
     },
     {
       "id": "aka2026ouxcjx",
@@ -2302,26 +2322,6 @@
       "place": "128 km SSE of Atka, Alaska",
       "time": 1785147127250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3mg"
-    },
-    {
-      "id": "nc75406517",
-      "lon": -122.823501586914,
-      "lat": 38.8706665039062,
-      "depth": 1.73000001907349,
-      "mag": 0.7,
-      "place": "10 km WNW of Cobb, CA",
-      "time": 1785146787460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406517"
-    },
-    {
-      "id": "ok2026ooyz",
-      "lon": -97.76433333,
-      "lat": 34.74116667,
-      "depth": 20.42,
-      "mag": 1.83,
-      "place": "12 km NNE of Bray, Oklahoma",
-      "time": 1785146502679,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ooyz"
     }
   ]
 }
