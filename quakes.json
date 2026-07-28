@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-28T01:30:45Z",
-  "count": 285,
+  "updated": "2026-07-28T01:45:32Z",
+  "count": 282,
   "points": [
+    {
+      "id": "us6000tg9n",
+      "lon": -14.5098,
+      "lat": -12.7784,
+      "depth": 10,
+      "mag": 5.3,
+      "place": "southern Mid-Atlantic Ridge",
+      "time": 1785202071735,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9n"
+    },
     {
       "id": "aka2026ouhihp",
       "lon": -141.229,
@@ -1724,6 +1734,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3m7"
     },
     {
+      "id": "av94337318",
+      "lon": -155.1795,
+      "lat": 58.2323333333333,
+      "depth": 4.03,
+      "mag": -0.4,
+      "place": "85 km NNW of Karluk, Alaska",
+      "time": 1785142373350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94337318"
+    },
+    {
       "id": "us7000t3m6",
       "lon": -175.3545,
       "lat": -24.7345,
@@ -1762,6 +1782,16 @@
       "place": "76 km W of Karluk, Alaska",
       "time": 1785141544483,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oszvsk"
+    },
+    {
+      "id": "av93064934",
+      "lon": -159.435666666667,
+      "lat": 56.195,
+      "depth": 4.65,
+      "mag": -0.16,
+      "place": "32 km N of Ivanof Bay, Alaska",
+      "time": 1785141525410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064934"
     },
     {
       "id": "nc75406492",
@@ -2792,66 +2822,6 @@
       "place": "230 km ESE of Attu Station, Alaska",
       "time": 1785117241074,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg6n"
-    },
-    {
-      "id": "ci40661866",
-      "lon": -116.547666666667,
-      "lat": 33.4598333333333,
-      "depth": 10.1,
-      "mag": 1.01,
-      "place": "16 km SE of Anza, CA",
-      "time": 1785116561610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661866"
-    },
-    {
-      "id": "ci40661858",
-      "lon": -116.775166666667,
-      "lat": 34.0436666666667,
-      "depth": 14.12,
-      "mag": 1.11,
-      "place": "14 km N of Cabazon, CA",
-      "time": 1785116421330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661858"
-    },
-    {
-      "id": "us7000t3kk",
-      "lon": -175.1661,
-      "lat": -24.5027,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "south of Tonga",
-      "time": 1785116323182,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kk"
-    },
-    {
-      "id": "ci40661850",
-      "lon": -116.771666666667,
-      "lat": 34.0401666666667,
-      "depth": 13.61,
-      "mag": 2.08,
-      "place": "14 km N of Cabazon, CA",
-      "time": 1785116201300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661850"
-    },
-    {
-      "id": "ci40661842",
-      "lon": -116.7735,
-      "lat": 34.0413333333333,
-      "depth": 13.81,
-      "mag": 1.67,
-      "place": "14 km N of Cabazon, CA",
-      "time": 1785116190150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661842"
-    },
-    {
-      "id": "us7000t3kj",
-      "lon": -175.2032,
-      "lat": -24.5389,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "south of Tonga",
-      "time": 1785116069120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kj"
     }
   ]
 }
