@@ -1,8 +1,48 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-28T10:15:42Z",
-  "count": 232,
+  "updated": "2026-07-28T10:30:51Z",
+  "count": 236,
   "points": [
+    {
+      "id": "nc75407212",
+      "lon": -122.84033203125,
+      "lat": 38.8381652832031,
+      "depth": 2.04999995231628,
+      "mag": 0.94,
+      "place": "10 km NW of The Geysers, CA",
+      "time": 1785234288290,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407212"
+    },
+    {
+      "id": "tx2026osprzq",
+      "lon": -104.234,
+      "lat": 31.653,
+      "depth": 5.3131,
+      "mag": 2.1,
+      "place": "56 km NW of Toyah, Texas",
+      "time": 1785234195166,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026osprzq"
+    },
+    {
+      "id": "ci40662498",
+      "lon": -116.5495,
+      "lat": 33.453,
+      "depth": 10.85,
+      "mag": 0.99,
+      "place": "16 km SE of Anza, CA",
+      "time": 1785234065990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662498"
+    },
+    {
+      "id": "aka2026ouzbfw",
+      "lon": -157.61,
+      "lat": 58.684,
+      "depth": 9.8,
+      "mag": 1.6,
+      "place": "25 km SSE of Portage Creek, Alaska",
+      "time": 1785233684523,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouzbfw"
+    },
     {
       "id": "aka2026ouyzlj",
       "lon": -159.776,
@@ -15,12 +55,12 @@
     },
     {
       "id": "ci40662490",
-      "lon": -115.577163696289,
-      "lat": 32.6291656494141,
-      "depth": 2.8199999332428,
-      "mag": 1.60963957587897,
-      "place": "6 km N of Progreso, B.C., MX",
-      "time": 1785233553360,
+      "lon": -115.573166666667,
+      "lat": 32.628,
+      "depth": 3.27,
+      "mag": 1.63,
+      "place": "5 km N of Progreso, B.C., MX",
+      "time": 1785233553330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662490"
     },
     {
@@ -32,6 +72,16 @@
       "place": "6 km E of Hidden Valley Lake, CA",
       "time": 1785233225160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407202"
+    },
+    {
+      "id": "us6000tgc6",
+      "lon": 130.753,
+      "lat": 32.5747,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "10 km ESE of Uki, Japan",
+      "time": 1785232993200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgc6"
     },
     {
       "id": "aka2026ouyjsy",
@@ -132,6 +182,16 @@
       "place": "19 km SSW of Johannesburg, CA",
       "time": 1785230161960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662466"
+    },
+    {
+      "id": "pr71526163",
+      "lon": -66.8546666666667,
+      "lat": 18.0058333333333,
+      "depth": 12.75,
+      "mag": 2.05,
+      "place": "2 km ESE of Palomas, Puerto Rico",
+      "time": 1785228838900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526163"
     },
     {
       "id": "us6000tgbn",
@@ -542,6 +602,16 @@
       "place": "56 km S of Whites City, New Mexico",
       "time": 1785207819129,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026osbdim"
+    },
+    {
+      "id": "pr71526143",
+      "lon": -67.9863333333333,
+      "lat": 18.3536666666667,
+      "depth": 77.62,
+      "mag": 3.3,
+      "place": "50 km ESE of Punta Cana, Dominican Republic",
+      "time": 1785207756640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526143"
     },
     {
       "id": "tx2026osawci",
@@ -2292,36 +2362,6 @@
       "place": "6 km W of Cobb, CA",
       "time": 1785148655970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406537"
-    },
-    {
-      "id": "ci40662002",
-      "lon": -116.166833333333,
-      "lat": 33.8673333333333,
-      "depth": 5.17,
-      "mag": 0.99,
-      "place": "17 km NNE of Indio, CA",
-      "time": 1785148047790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662002"
-    },
-    {
-      "id": "tx2026oqucir",
-      "lon": -104.137,
-      "lat": 31.544,
-      "depth": 7.2021,
-      "mag": 1.9,
-      "place": "41 km NW of Toyah, Texas",
-      "time": 1785148021397,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oqucir"
-    },
-    {
-      "id": "us7000t3mh",
-      "lon": -69.0772,
-      "lat": -20.2441,
-      "depth": 105.235,
-      "mag": 4.6,
-      "place": "61 km E of La Tirana, Chile",
-      "time": 1785147893249,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3mh"
     }
   ]
 }
