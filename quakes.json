@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-28T08:15:33Z",
-  "count": 246,
+  "updated": "2026-07-28T08:30:57Z",
+  "count": 243,
   "points": [
+    {
+      "id": "us6000tgbm",
+      "lon": 130.5868,
+      "lat": 32.3529,
+      "depth": 10,
+      "mag": 5.6,
+      "place": "16 km NE of Tsunagi, Japan",
+      "time": 1785226115421,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgbm"
+    },
     {
       "id": "tx2026osldzp",
       "lon": -103.914,
@@ -262,16 +272,6 @@
       "place": "17 km NW of Midland, Texas",
       "time": 1785216779162,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026osfzoc"
-    },
-    {
-      "id": "tx2026osgbzw",
-      "lon": -102.21,
-      "lat": 32.105,
-      "depth": 4.6958,
-      "mag": 2,
-      "place": "17 km NW of Midland, Texas",
-      "time": 1785216778674,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026osgbzw"
     },
     {
       "id": "nc75407137",
@@ -2175,12 +2175,12 @@
     },
     {
       "id": "tx2026oqucir",
-      "lon": -104.157,
-      "lat": 31.522,
-      "depth": 4.1916,
-      "mag": 2,
-      "place": "41 km WNW of Toyah, Texas",
-      "time": 1785148021234,
+      "lon": -104.137,
+      "lat": 31.544,
+      "depth": 7.2021,
+      "mag": 1.9,
+      "place": "41 km NW of Toyah, Texas",
+      "time": 1785148021397,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oqucir"
     },
     {
@@ -2432,36 +2432,6 @@
       "place": "10 km NW of The Geysers, CA",
       "time": 1785141281100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406492"
-    },
-    {
-      "id": "pr2026208000",
-      "lon": -64.4798,
-      "lat": 19.5711,
-      "depth": 43,
-      "mag": 3.84,
-      "place": "141 km NNE of Cruz Bay, U.S. Virgin Islands",
-      "time": 1785140913260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026208000"
-    },
-    {
-      "id": "nn00922374",
-      "lon": -117.4296,
-      "lat": 37.3232,
-      "depth": 2.2979,
-      "mag": 1.58,
-      "place": "46 km SSW of Goldfield, Nevada",
-      "time": 1785140738786,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922374"
-    },
-    {
-      "id": "us6000tg6q",
-      "lon": 176.2598,
-      "lat": 51.833,
-      "depth": 10,
-      "mag": 3.1,
-      "place": "237 km ESE of Attu Station, Alaska",
-      "time": 1785140534980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg6q"
     }
   ]
 }
