@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-28T15:15:49Z",
-  "count": 216,
+  "updated": "2026-07-28T15:30:53Z",
+  "count": 215,
   "points": [
     {
+      "id": "hv75009282",
+      "lon": -155.487670898438,
+      "lat": 19.1560001373291,
+      "depth": 29.75,
+      "mag": 2.66,
+      "place": "5 km S of Pāhala, Hawaii",
+      "time": 1785251636900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75009282"
+    },
+    {
+      "id": "pr71526213",
+      "lon": -66.8416666666667,
+      "lat": 17.9583333333333,
+      "depth": 14.49,
+      "mag": 2.15,
+      "place": "4 km SSW of Indios, Puerto Rico",
+      "time": 1785251527160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526213"
+    },
+    {
       "id": "tx2026oszbud",
-      "lon": -104.443,
-      "lat": 31.632,
-      "depth": 3.2208,
+      "lon": -104.433,
+      "lat": 31.645,
+      "depth": 7.6251,
       "mag": 1.5,
-      "place": "60 km S of Whites City, New Mexico",
-      "time": 1785251192580,
+      "place": "59 km S of Whites City, New Mexico",
+      "time": 1785251191827,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oszbud"
     },
     {
@@ -145,12 +165,12 @@
     },
     {
       "id": "tx2026osvfbi",
-      "lon": -104.238,
-      "lat": 31.647,
-      "depth": 4.4545,
-      "mag": 2.2,
-      "place": "56 km NW of Toyah, Texas",
-      "time": 1785244223506,
+      "lon": -104.226,
+      "lat": 31.654,
+      "depth": 6.9843,
+      "mag": 2.1,
+      "place": "55 km NW of Toyah, Texas",
+      "time": 1785244223351,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026osvfbi"
     },
     {
@@ -1235,12 +1255,12 @@
     },
     {
       "id": "ci40662338",
-      "lon": -117.681666666667,
-      "lat": 35.036,
-      "depth": -0.56,
-      "mag": 1.36,
-      "place": "5 km NW of Boron, CA",
-      "time": 1785194764060,
+      "lon": -117.679833333333,
+      "lat": 35.0388333333333,
+      "depth": -0.82,
+      "mag": 1.29,
+      "place": "5 km NNW of Boron, CA",
+      "time": 1785194763960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662338"
     },
     {
@@ -1435,22 +1455,22 @@
     },
     {
       "id": "tx2026orppps",
-      "lon": -104.191,
-      "lat": 31.552,
-      "depth": 4.3322,
+      "lon": -104.174,
+      "lat": 31.563,
+      "depth": 7.0227,
       "mag": 1.5,
-      "place": "46 km NW of Toyah, Texas",
-      "time": 1785186976621,
+      "place": "45 km NW of Toyah, Texas",
+      "time": 1785186976767,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026orppps"
     },
     {
       "id": "ci40662298",
-      "lon": -117.805666666667,
-      "lat": 35.3203333333333,
-      "depth": 7.25,
-      "mag": 1.37,
+      "lon": -117.806833333333,
+      "lat": 35.3195,
+      "depth": 7.39,
+      "mag": 1.56,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1785186934540,
+      "time": 1785186934500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662298"
     },
     {
@@ -1465,12 +1485,12 @@
     },
     {
       "id": "tx2026orpjjo",
-      "lon": -104.191,
-      "lat": 31.552,
-      "depth": 4.3436,
+      "lon": -104.182,
+      "lat": 31.567,
+      "depth": 6.7151,
       "mag": 2,
       "place": "46 km NW of Toyah, Texas",
-      "time": 1785186522591,
+      "time": 1785186522653,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026orpjjo"
     },
     {
@@ -2132,36 +2152,6 @@
       "place": "3 km ENE of The Geysers, CA",
       "time": 1785166304390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406692"
-    },
-    {
-      "id": "nc75406687",
-      "lon": -122.724334716797,
-      "lat": 38.7883338928223,
-      "depth": 1.21000003814697,
-      "mag": 2.74,
-      "place": "3 km ENE of The Geysers, CA",
-      "time": 1785166196900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406687"
-    },
-    {
-      "id": "nc75406682",
-      "lon": -122.72566986084,
-      "lat": 38.7841682434082,
-      "depth": 1.33000004291534,
-      "mag": 2.81,
-      "place": "3 km ENE of The Geysers, CA",
-      "time": 1785166141740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406682"
-    },
-    {
-      "id": "nc75406672",
-      "lon": -122.842666625977,
-      "lat": 38.7879981994629,
-      "depth": 12.0100002288818,
-      "mag": 0.3,
-      "place": "8 km W of The Geysers, CA",
-      "time": 1785165944830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406672"
     }
   ]
 }
