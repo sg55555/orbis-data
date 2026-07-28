@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-28T01:45:32Z",
+  "updated": "2026-07-28T02:01:04Z",
   "count": 282,
   "points": [
+    {
+      "id": "us6000tg9q",
+      "lon": -68.8772,
+      "lat": -33.2379,
+      "depth": 36.491,
+      "mag": 4.6,
+      "place": "38 km S of Mendoza, Argentina",
+      "time": 1785202662798,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9q"
+    },
     {
       "id": "us6000tg9n",
       "lon": -14.5098,
@@ -1414,6 +1424,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406557"
     },
     {
+      "id": "av94337578",
+      "lon": -153.054333333333,
+      "lat": 60.0491666666667,
+      "depth": 2.32,
+      "mag": -0.39,
+      "place": "65 km ENE of Pedro Bay, Alaska",
+      "time": 1785150640100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94337578"
+    },
+    {
       "id": "tx2026oqvlii",
       "lon": -103.294,
       "lat": 31.975,
@@ -2802,26 +2822,6 @@
       "place": "13 km NNW of Piru, CA",
       "time": 1785118062020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661874"
-    },
-    {
-      "id": "us7000t3km",
-      "lon": -175.1465,
-      "lat": -24.5442,
-      "depth": 10,
-      "mag": 5.1,
-      "place": "south of Tonga",
-      "time": 1785117254139,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3km"
-    },
-    {
-      "id": "us6000tg6n",
-      "lon": 176.1496,
-      "lat": 51.8514,
-      "depth": 10,
-      "mag": 3.1,
-      "place": "230 km ESE of Attu Station, Alaska",
-      "time": 1785117241074,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg6n"
     }
   ]
 }
