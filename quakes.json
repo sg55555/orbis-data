@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-28T00:15:45Z",
-  "count": 287,
+  "updated": "2026-07-28T00:30:43Z",
+  "count": 283,
   "points": [
+    {
+      "id": "hv75008992",
+      "lon": -155.463500976562,
+      "lat": 19.1009998321533,
+      "depth": 30.2999992370605,
+      "mag": 1.73,
+      "place": "11 km S of Pāhala, Hawaii",
+      "time": 1785197744530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008992"
+    },
     {
       "id": "ci40662354",
       "lon": -116.973666666667,
@@ -45,12 +55,12 @@
     },
     {
       "id": "tx2026ortuwy",
-      "lon": -102.677,
-      "lat": 31.854,
-      "depth": 12.8662,
-      "mag": 3.4,
-      "place": "15 km SSW of Goldsmith, Texas",
-      "time": 1785194582181,
+      "lon": -102.684,
+      "lat": 31.84,
+      "depth": 9.9121,
+      "mag": 3.5,
+      "place": "16 km SSW of Goldsmith, Texas",
+      "time": 1785194582096,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ortuwy"
     },
     {
@@ -1764,6 +1774,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oqohrn"
     },
     {
+      "id": "av94337158",
+      "lon": -176.118,
+      "lat": 52.0775,
+      "depth": -1.78,
+      "mag": -0.12,
+      "place": "42 km ENE of Adak, Alaska",
+      "time": 1785136773210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94337158"
+    },
+    {
       "id": "nc75406477",
       "lon": -121.186996459961,
       "lat": 36.5706672668457,
@@ -2812,66 +2832,6 @@
       "place": "156 km S of Adak, Alaska",
       "time": 1785112272167,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026osjory"
-    },
-    {
-      "id": "aka2026osjmuh",
-      "lon": -148.699,
-      "lat": 62.312,
-      "depth": 18.2,
-      "mag": 2.5,
-      "place": "58 km NNW of Chickaloon, Alaska",
-      "time": 1785112139585,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026osjmuh"
-    },
-    {
-      "id": "aka2026osjkzr",
-      "lon": -173.248,
-      "lat": 51.388,
-      "depth": 27.5,
-      "mag": 2.6,
-      "place": "111 km SE of Atka, Alaska",
-      "time": 1785112006306,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026osjkzr"
-    },
-    {
-      "id": "nc75406317",
-      "lon": -122.810333251953,
-      "lat": 38.8366661071777,
-      "depth": 1.82000005245209,
-      "mag": 1.04,
-      "place": "8 km WNW of Cobb, CA",
-      "time": 1785111765470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406317"
-    },
-    {
-      "id": "nc75406312",
-      "lon": -122.813835144043,
-      "lat": 38.8426666259766,
-      "depth": 8.01000022888184,
-      "mag": 0.2,
-      "place": "8 km WNW of Cobb, CA",
-      "time": 1785111711670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406312"
-    },
-    {
-      "id": "ci40661826",
-      "lon": -117.704666666667,
-      "lat": 35.8665,
-      "depth": 10.07,
-      "mag": 0.36,
-      "place": "20 km ESE of Little Lake, CA",
-      "time": 1785111533460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661826"
-    },
-    {
-      "id": "aka2026osjcbv",
-      "lon": -166.706,
-      "lat": 53.241,
-      "depth": 59,
-      "mag": 2.5,
-      "place": "71 km S of Unalaska, Alaska",
-      "time": 1785111396905,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026osjcbv"
     }
   ]
 }
