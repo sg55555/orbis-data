@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-28T06:01:07Z",
-  "count": 247,
+  "updated": "2026-07-28T06:15:44Z",
+  "count": 241,
   "points": [
+    {
+      "id": "nc75407157",
+      "lon": -122.767997741699,
+      "lat": 38.7898330688477,
+      "depth": 1.54999995231628,
+      "mag": 0.89,
+      "place": "2 km NW of The Geysers, CA",
+      "time": 1785218870260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407157"
+    },
     {
       "id": "aka2026ouqjmn",
       "lon": -144.072,
@@ -45,12 +55,12 @@
     },
     {
       "id": "us6000tgau",
-      "lon": -92.7606,
-      "lat": 14.2843,
+      "lon": -92.6223,
+      "lat": 14.296,
       "depth": 35,
-      "mag": 5.8,
-      "place": "60 km SW of Puerto Madero, Mexico",
-      "time": 1785216917957,
+      "mag": 5.9,
+      "place": "50 km WSW of Brisas Barra de Suchiate, Mexico",
+      "time": 1785216918079,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgau"
     },
     {
@@ -802,6 +812,16 @@
       "place": "66 km E of Port Alsworth, Alaska",
       "time": 1785182135124,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026otwkhl"
+    },
+    {
+      "id": "av94338558",
+      "lon": -152.157666666667,
+      "lat": 61.3,
+      "depth": -3.18,
+      "mag": -0.62,
+      "place": "60 km WNW of Beluga, Alaska",
+      "time": 1785181832650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94338558"
     },
     {
       "id": "uw714063251",
@@ -2392,86 +2412,6 @@
       "place": "12 km E of Naalehu, Hawaii",
       "time": 1785133343420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008527"
-    },
-    {
-      "id": "ci40661946",
-      "lon": -116.582833333333,
-      "lat": 33.4736666666667,
-      "depth": 6.27,
-      "mag": 0.7,
-      "place": "12 km SE of Anza, CA",
-      "time": 1785132758780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661946"
-    },
-    {
-      "id": "av94337023",
-      "lon": -153.419333333333,
-      "lat": 59.3598333333333,
-      "depth": -0.94,
-      "mag": -0.32,
-      "place": "61 km SE of Pedro Bay, Alaska",
-      "time": 1785132685110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94337023"
-    },
-    {
-      "id": "aka2026osuwwo",
-      "lon": -147.554,
-      "lat": 63.66,
-      "depth": 3.4,
-      "mag": 1.6,
-      "place": "67 km E of Denali Park, Alaska",
-      "time": 1785132628553,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026osuwwo"
-    },
-    {
-      "id": "hv75008512",
-      "lon": -155.407165527344,
-      "lat": 19.1183338165283,
-      "depth": 39.9000015258789,
-      "mag": 1.78,
-      "place": "12 km SE of Pāhala, Hawaii",
-      "time": 1785132562170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008512"
-    },
-    {
-      "id": "hv75008507",
-      "lon": -155.420333862305,
-      "lat": 19.1193332672119,
-      "depth": 40.0800018310547,
-      "mag": 1.94,
-      "place": "11 km SSE of Pāhala, Hawaii",
-      "time": 1785132505000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008507"
-    },
-    {
-      "id": "hv75008502",
-      "lon": -155.425506591797,
-      "lat": 19.1143341064453,
-      "depth": 39.1500015258789,
-      "mag": 1.88,
-      "place": "11 km SSE of Pāhala, Hawaii",
-      "time": 1785132457910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008502"
-    },
-    {
-      "id": "aka2026osutsm",
-      "lon": -149.436,
-      "lat": 62.09,
-      "depth": 15.4,
-      "mag": 3,
-      "place": "23 km ESE of Susitna North, Alaska",
-      "time": 1785132410017,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026osutsm"
-    },
-    {
-      "id": "av94336998",
-      "lon": -155.091666666667,
-      "lat": 58.3476666666667,
-      "depth": 3.99,
-      "mag": -0.1,
-      "place": "94 km NNW of Karluk, Alaska",
-      "time": 1785132187010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94336998"
     }
   ]
 }
