@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-28T05:45:30Z",
-  "count": 246,
+  "updated": "2026-07-28T06:01:07Z",
+  "count": 247,
   "points": [
+    {
+      "id": "aka2026ouqjmn",
+      "lon": -144.072,
+      "lat": 62.003,
+      "depth": 5,
+      "mag": 2,
+      "place": "55 km NE of Kenny Lake, Alaska",
+      "time": 1785218063619,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouqjmn"
+    },
+    {
+      "id": "nc75407152",
+      "lon": -124.131164550781,
+      "lat": 40.2371673583984,
+      "depth": 14.3000001907349,
+      "mag": 1.63,
+      "place": "16 km SE of Petrolia, CA",
+      "time": 1785217648120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407152"
+    },
     {
       "id": "ci40662418",
       "lon": -116.859833333333,
@@ -12,6 +32,26 @@
       "place": "5 km S of Palomar Observatory, CA",
       "time": 1785217008290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662418"
+    },
+    {
+      "id": "us6000tgaw",
+      "lon": -17.4485,
+      "lat": 64.7252,
+      "depth": 10,
+      "mag": 5.4,
+      "place": "110 km SSE of Akureyri, Iceland",
+      "time": 1785217000595,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgaw"
+    },
+    {
+      "id": "us6000tgau",
+      "lon": -92.7606,
+      "lat": 14.2843,
+      "depth": 35,
+      "mag": 5.8,
+      "place": "60 km SW of Puerto Madero, Mexico",
+      "time": 1785216917957,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgau"
     },
     {
       "id": "tx2026osgbzw",
@@ -2432,36 +2472,6 @@
       "place": "94 km NNW of Karluk, Alaska",
       "time": 1785132187010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94336998"
-    },
-    {
-      "id": "nc75406452",
-      "lon": -122.81616973877,
-      "lat": 38.8310012817383,
-      "depth": 1.75,
-      "mag": 0.72,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1785131877310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406452"
-    },
-    {
-      "id": "us7000t3ll",
-      "lon": -175.1045,
-      "lat": -24.5457,
-      "depth": 10,
-      "mag": 4.8,
-      "place": "south of Tonga",
-      "time": 1785131711467,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3ll"
-    },
-    {
-      "id": "us7000t3lm",
-      "lon": 160.2106,
-      "lat": 53.5528,
-      "depth": 51.719,
-      "mag": 4.2,
-      "place": "118 km ENE of Petropavlovsk-Kamchatsky, Russia",
-      "time": 1785131674340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3lm"
     }
   ]
 }
