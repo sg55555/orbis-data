@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-28T11:45:34Z",
+  "updated": "2026-07-28T12:01:01Z",
   "count": 222,
   "points": [
+    {
+      "id": "aka2026ovcczq",
+      "lon": -156.768,
+      "lat": 57.1,
+      "depth": 5,
+      "mag": 2.3,
+      "place": "59 km SE of Ugashik, Alaska",
+      "time": 1785239201247,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovcczq"
+    },
     {
       "id": "tx2026osrscr",
       "lon": -104.194,
@@ -612,6 +622,16 @@
       "place": "96 km ESE of McCarthy, Alaska",
       "time": 1785213198900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ounret"
+    },
+    {
+      "id": "tx2026osdemt",
+      "lon": -102.156,
+      "lat": 32.112,
+      "depth": 6.3721,
+      "mag": 0.8,
+      "place": "14 km NNW of Midland, Texas",
+      "time": 1785211520817,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026osdemt"
     },
     {
       "id": "ci40662410",
@@ -2202,26 +2222,6 @@
       "place": "10 km S of Idyllwild, CA",
       "time": 1785153780860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662018"
-    },
-    {
-      "id": "us7000t3ng",
-      "lon": 153.3412,
-      "lat": -4.4854,
-      "depth": 114.648,
-      "mag": 4.6,
-      "place": "120 km E of Kokopo, Papua New Guinea",
-      "time": 1785153587014,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3ng"
-    },
-    {
-      "id": "hv75008587",
-      "lon": -155.496170043945,
-      "lat": 19.1416664123535,
-      "depth": 32.3699989318848,
-      "mag": 2.25,
-      "place": "7 km SSW of Pāhala, Hawaii",
-      "time": 1785152692190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008587"
     }
   ]
 }
