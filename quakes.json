@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-28T22:32:03Z",
+  "updated": "2026-07-28T22:38:41Z",
   "count": 227,
   "points": [
+    {
+      "id": "ci40662754",
+      "lon": -117.457333333333,
+      "lat": 35.5886666666667,
+      "depth": 2.17,
+      "mag": 1.41,
+      "place": "20 km E of Ridgecrest, CA",
+      "time": 1785278033030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662754"
+    },
     {
       "id": "aka2026ovxmiy",
       "lon": -147.375,
@@ -34,6 +44,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662738"
     },
     {
+      "id": "aka2026ovxewx",
+      "lon": -179.216,
+      "lat": 50.115,
+      "depth": 10.5,
+      "mag": 3.8,
+      "place": "266 km SW of Adak, Alaska",
+      "time": 1785277119414,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovxewx"
+    },
+    {
       "id": "ci40662730",
       "lon": -117.7835,
       "lat": 33.0103333333333,
@@ -45,12 +65,12 @@
     },
     {
       "id": "aka2026ovwwgr",
-      "lon": -149.826,
-      "lat": 61.644,
-      "depth": 29.9,
-      "mag": 1.8,
-      "place": "1 km NNW of Houston, Alaska",
-      "time": 1785276522464,
+      "lon": -149.84,
+      "lat": 61.648,
+      "depth": 36.6,
+      "mag": 1.9,
+      "place": "2 km NNW of Houston, Alaska",
+      "time": 1785276522968,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovwwgr"
     },
     {
@@ -62,16 +82,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1785275985910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407462"
-    },
-    {
-      "id": "aka2026ovwnfp",
-      "lon": -159.794,
-      "lat": 55.862,
-      "depth": 13,
-      "mag": 1.2,
-      "place": "19 km WSW of Ivanof Bay, Alaska",
-      "time": 1785275897130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovwnfp"
     },
     {
       "id": "nc75407452",
@@ -142,6 +152,16 @@
       "place": "5 km SSW of Indios, Puerto Rico",
       "time": 1785274219750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526408"
+    },
+    {
+      "id": "uw714064321",
+      "lon": -122.183666666667,
+      "lat": 46.1951666666667,
+      "depth": 5.11,
+      "mag": -0.47,
+      "place": "37 km NNE of Amboy, Washington",
+      "time": 1785274108810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714064321"
     },
     {
       "id": "ci40662722",
@@ -2252,26 +2272,6 @@
       "place": "4 km NW of Rockford Bay, Idaho",
       "time": 1785193141240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714063561"
-    },
-    {
-      "id": "us6000tg8x",
-      "lon": -74.7218,
-      "lat": -8.6588,
-      "depth": 125.569,
-      "mag": 4.4,
-      "place": "12 km N of Honoria, Peru",
-      "time": 1785191800575,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg8x"
-    },
-    {
-      "id": "us6000tg8z",
-      "lon": -13.4844,
-      "lat": -7.5058,
-      "depth": 10,
-      "mag": 5,
-      "place": "112 km ENE of Georgetown, Saint Helena",
-      "time": 1785191522648,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg8z"
     }
   ]
 }
