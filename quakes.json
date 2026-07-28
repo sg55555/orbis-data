@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-28T21:18:36Z",
-  "count": 225,
+  "updated": "2026-07-28T21:30:54Z",
+  "count": 226,
   "points": [
+    {
+      "id": "ci40662722",
+      "lon": -115.599666666667,
+      "lat": 33.0325,
+      "depth": 9.81,
+      "mag": 1.25,
+      "place": "2 km ESE of Westmorland, CA",
+      "time": 1785273818250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662722"
+    },
     {
       "id": "ci40662714",
       "lon": -117.025166666667,
@@ -297,7 +307,7 @@
       "id": "tx2026otgbhp",
       "lon": -103.897,
       "lat": 31.205,
-      "depth": 0.155,
+      "depth": 0.1549,
       "mag": 1.7,
       "place": "15 km SW of Toyah, Texas",
       "time": 1785263792836,
@@ -1985,12 +1995,12 @@
     },
     {
       "id": "aka2026oudxsr",
-      "lon": -148.438,
-      "lat": 65.197,
-      "depth": 11.4,
-      "mag": 1.1,
-      "place": "36 km S of Livengood, Alaska",
-      "time": 1785195659048,
+      "lon": -148.467,
+      "lat": 65.191,
+      "depth": 11.8,
+      "mag": 1.4,
+      "place": "37 km S of Livengood, Alaska",
+      "time": 1785195658856,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oudxsr"
     },
     {
@@ -2005,12 +2015,12 @@
     },
     {
       "id": "aka2026oudnkv",
-      "lon": -149.157,
-      "lat": 64.854,
-      "depth": 29,
-      "mag": 2.9,
-      "place": "28 km N of Four Mile Road, Alaska",
-      "time": 1785194946554,
+      "lon": -149.129,
+      "lat": 64.828,
+      "depth": 27.1,
+      "mag": 2.7,
+      "place": "25 km N of Four Mile Road, Alaska",
+      "time": 1785194946649,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oudnkv"
     },
     {
@@ -2032,6 +2042,16 @@
       "place": "16 km SSW of Goldsmith, Texas",
       "time": 1785194582096,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ortuwy"
+    },
+    {
+      "id": "aka2026oudghk",
+      "lon": -154.492,
+      "lat": 58.955,
+      "depth": 127.7,
+      "mag": 1.7,
+      "place": "56 km SSE of Kokhanok, Alaska",
+      "time": 1785194453440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oudghk"
     },
     {
       "id": "us6000tg99",
@@ -2078,7 +2098,7 @@
       "lon": -153.029,
       "lat": 59.405,
       "depth": 81,
-      "mag": 1.5,
+      "mag": 1.8,
       "place": "63 km W of Nanwalek, Alaska",
       "time": 1785193224169,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouconu"
@@ -2112,6 +2132,16 @@
       "place": "112 km ENE of Georgetown, Saint Helena",
       "time": 1785191522648,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg8z"
+    },
+    {
+      "id": "aka2026oublic",
+      "lon": -176.291,
+      "lat": 51.301,
+      "depth": 17.3,
+      "mag": 2.9,
+      "place": "68 km SSE of Adak, Alaska",
+      "time": 1785191201985,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oublic"
     },
     {
       "id": "tx2026orrsjd",
@@ -2154,6 +2184,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407027"
     },
     {
+      "id": "aka2026ouatrd",
+      "lon": -144.892,
+      "lat": 63.333,
+      "depth": 8.8,
+      "mag": 1.5,
+      "place": "37 km SSW of Dry Creek, Alaska",
+      "time": 1785189980189,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouatrd"
+    },
+    {
       "id": "uw714063511",
       "lon": -122.600833333333,
       "lat": 48.2861666666667,
@@ -2162,16 +2202,6 @@
       "place": "3 km ESE of Oak Harbor, Washington",
       "time": 1785189688250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714063511"
-    },
-    {
-      "id": "aka2026oualms",
-      "lon": -173.761,
-      "lat": 51.307,
-      "depth": 5,
-      "mag": 2.5,
-      "place": "103 km SSE of Atka, Alaska",
-      "time": 1785189404784,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oualms"
     },
     {
       "id": "tx2026orqxhi",
@@ -2232,26 +2262,6 @@
       "place": "221 km ESE of Attu Station, Alaska",
       "time": 1785187940747,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026otzqgd"
-    },
-    {
-      "id": "nc75407002",
-      "lon": -122.842666625977,
-      "lat": 38.8248329162598,
-      "depth": 2.20000004768372,
-      "mag": 1.95,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1785187813430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407002"
-    },
-    {
-      "id": "us6000tg7w",
-      "lon": 177.1774,
-      "lat": -39.3453,
-      "depth": 19.152,
-      "mag": 4.2,
-      "place": "27 km ENE of Bay View, New Zealand",
-      "time": 1785187467852,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg7w"
     }
   ]
 }
