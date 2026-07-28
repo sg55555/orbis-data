@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-28T18:45:36Z",
+  "updated": "2026-07-28T19:01:06Z",
   "count": 211,
   "points": [
+    {
+      "id": "tx2026otgpsc",
+      "lon": -102.059,
+      "lat": 31.691,
+      "depth": 0,
+      "mag": 1.1,
+      "place": "33 km ESE of Odessa, Texas",
+      "time": 1785264800539,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026otgpsc"
+    },
     {
       "id": "tx2026otgbhp",
       "lon": -103.897,
@@ -82,6 +92,16 @@
       "place": "13 km N of Toyah, Texas",
       "time": 1785260513027,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026otefzn"
+    },
+    {
+      "id": "pr71526243",
+      "lon": -66.8416666666667,
+      "lat": 17.9596666666667,
+      "depth": 8.29,
+      "mag": 2.29,
+      "place": "4 km SSW of Indios, Puerto Rico",
+      "time": 1785260119030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526243"
     },
     {
       "id": "us6000tgf0",
@@ -2092,26 +2112,6 @@
       "place": "Bonin Islands, Japan region",
       "time": 1785179018391,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg6e"
-    },
-    {
-      "id": "ci40662194",
-      "lon": -118.191166666667,
-      "lat": 34.9886666666667,
-      "depth": -0.8,
-      "mag": 1.18,
-      "place": "7 km SSW of Mojave, CA",
-      "time": 1785178477200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662194"
-    },
-    {
-      "id": "nc75406897",
-      "lon": -122.81266784668,
-      "lat": 38.8371658325195,
-      "depth": 2.24000000953674,
-      "mag": 0.29,
-      "place": "8 km WNW of Cobb, CA",
-      "time": 1785178352270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406897"
     }
   ]
 }
