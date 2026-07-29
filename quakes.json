@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T13:01:01Z",
-  "count": 302,
+  "updated": "2026-07-29T13:15:50Z",
+  "count": 301,
   "points": [
+    {
+      "id": "aka2026oxardp",
+      "lon": -150.625,
+      "lat": 60.286,
+      "depth": 10.8,
+      "mag": 2.5,
+      "place": "25 km SSE of Funny River, Alaska",
+      "time": 1785330142183,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxardp"
+    },
     {
       "id": "aka2026oxamfo",
       "lon": -150.321,
@@ -152,6 +162,16 @@
       "place": "3 km NNW of The Geysers, CA",
       "time": 1785326028180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407902"
+    },
+    {
+      "id": "us6000tgmj",
+      "lon": 130.5047,
+      "lat": 32.7155,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "14 km ESE of Shimabara, Japan",
+      "time": 1785325673799,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgmj"
     },
     {
       "id": "ci40663042",
@@ -2874,6 +2894,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407267"
     },
     {
+      "id": "ok2026ordl",
+      "lon": -95.82016667,
+      "lat": 36.2405,
+      "depth": 0,
+      "mag": 1.53,
+      "place": "4 km SE of Owasso, Oklahoma",
+      "time": 1785249219429,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ordl"
+    },
+    {
       "id": "us6000tgez",
       "lon": 176.2515,
       "lat": 51.8697,
@@ -2982,46 +3012,6 @@
       "place": "27 km SSW of Karluk, Alaska",
       "time": 1785244782409,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovffps"
-    },
-    {
-      "id": "tx2026osvfbi",
-      "lon": -104.226,
-      "lat": 31.654,
-      "depth": 6.9843,
-      "mag": 2.1,
-      "place": "55 km NW of Toyah, Texas",
-      "time": 1785244223351,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026osvfbi"
-    },
-    {
-      "id": "uw714063741",
-      "lon": -122.141166666667,
-      "lat": 46.2363333333333,
-      "depth": 6.87,
-      "mag": 0.16,
-      "place": "37 km SSE of Morton, Washington",
-      "time": 1785243917080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714063741"
-    },
-    {
-      "id": "ci40662514",
-      "lon": -116.248666666667,
-      "lat": 32.8808333333333,
-      "depth": 8.67,
-      "mag": 0.66,
-      "place": "27 km ENE of Pine Valley, CA",
-      "time": 1785243876630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662514"
-    },
-    {
-      "id": "ci40662506",
-      "lon": -116.988166666667,
-      "lat": 33.9946666666667,
-      "depth": 14.28,
-      "mag": 1.32,
-      "place": "6 km E of Calimesa, CA",
-      "time": 1785243712200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662506"
     }
   ]
 }
