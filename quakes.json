@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T00:30:45Z",
-  "count": 248,
+  "updated": "2026-07-29T00:45:43Z",
+  "count": 247,
   "points": [
+    {
+      "id": "nc75407532",
+      "lon": -122.823669433594,
+      "lat": 38.8414993286133,
+      "depth": 1.66999995708466,
+      "mag": 0.72,
+      "place": "9 km WNW of Cobb, CA",
+      "time": 1785285461980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407532"
+    },
     {
       "id": "nc75407527",
       "lon": -122.762168884277,
@@ -15,12 +25,12 @@
     },
     {
       "id": "hv75009477",
-      "lon": -156.306838989258,
-      "lat": 20.3011665344238,
-      "depth": 7.76999998092651,
-      "mag": 3.48,
-      "place": "41 km SSE of Mākena, Hawaii",
-      "time": 1785284182490,
+      "lon": -156.3065,
+      "lat": 20.3175,
+      "depth": 31.11,
+      "mag": 3.6,
+      "place": "39 km SSE of Mākena, Hawaii",
+      "time": 1785284182900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75009477"
     },
     {
@@ -235,12 +245,12 @@
     },
     {
       "id": "ci40662730",
-      "lon": -117.7835,
-      "lat": 33.0103333333333,
-      "depth": 9.01,
-      "mag": 2.49,
+      "lon": -117.784666666667,
+      "lat": 32.999,
+      "depth": 9.78,
+      "mag": 2.46,
       "place": "44 km WSW of Carlsbad, CA",
-      "time": 1785276903120,
+      "time": 1785276902900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662730"
     },
     {
@@ -1905,13 +1915,23 @@
     },
     {
       "id": "aka2026ouqjmn",
-      "lon": -144.072,
-      "lat": 62.003,
-      "depth": 5,
+      "lon": -144.062,
+      "lat": 61.998,
+      "depth": 0.5,
       "mag": 2,
-      "place": "55 km NE of Kenny Lake, Alaska",
-      "time": 1785218063619,
+      "place": "56 km ENE of Kenny Lake, Alaska",
+      "time": 1785218063521,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouqjmn"
+    },
+    {
+      "id": "aka2026ouqggl",
+      "lon": -178.016,
+      "lat": 51.074,
+      "depth": 19.2,
+      "mag": 2.6,
+      "place": "130 km SW of Adak, Alaska",
+      "time": 1785217846544,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouqggl"
     },
     {
       "id": "nc75407152",
@@ -2014,6 +2034,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60625821"
     },
     {
+      "id": "aka2026ouowvq",
+      "lon": -160.434,
+      "lat": 54.463,
+      "depth": 6,
+      "mag": 2.5,
+      "place": "97 km S of Sand Point, Alaska",
+      "time": 1785215385383,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouowvq"
+    },
+    {
       "id": "nc75407132",
       "lon": -122.80916595459,
       "lat": 38.8238334655762,
@@ -2025,12 +2055,12 @@
     },
     {
       "id": "aka2026ouobhv",
-      "lon": -152.762,
-      "lat": 58.565,
-      "depth": 60.3,
-      "mag": 1.8,
-      "place": "56 km N of Aleneva, Alaska",
-      "time": 1785213897588,
+      "lon": -152.743,
+      "lat": 58.569,
+      "depth": 59.5,
+      "mag": 2.1,
+      "place": "57 km N of Aleneva, Alaska",
+      "time": 1785213897623,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouobhv"
     },
     {
@@ -2055,12 +2085,12 @@
     },
     {
       "id": "aka2026ounret",
-      "lon": -141.241,
-      "lat": 61.12,
-      "depth": 5,
-      "mag": 2,
-      "place": "96 km ESE of McCarthy, Alaska",
-      "time": 1785213198900,
+      "lon": -141.235,
+      "lat": 61.117,
+      "depth": 7.5,
+      "mag": 1.9,
+      "place": "97 km ESE of McCarthy, Alaska",
+      "time": 1785213198909,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ounret"
     },
     {
@@ -2442,46 +2472,6 @@
       "place": "94 km WNW of Aleneva, Alaska",
       "time": 1785200017820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94339138"
-    },
-    {
-      "id": "aka2026oufvrd",
-      "lon": -176.411,
-      "lat": 51.491,
-      "depth": 50.9,
-      "mag": 2.6,
-      "place": "45 km SSE of Adak, Alaska",
-      "time": 1785199148628,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oufvrd"
-    },
-    {
-      "id": "aka2026oufvqk",
-      "lon": -173.747,
-      "lat": 51.528,
-      "depth": 3.5,
-      "mag": 2.7,
-      "place": "80 km SSE of Atka, Alaska",
-      "time": 1785199112865,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oufvqk"
-    },
-    {
-      "id": "av94339103",
-      "lon": -155.381666666667,
-      "lat": 58.1598333333333,
-      "depth": 7.5,
-      "mag": -0.61,
-      "place": "85 km NW of Karluk, Alaska",
-      "time": 1785199020550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94339103"
-    },
-    {
-      "id": "av94339088",
-      "lon": -159.792333333333,
-      "lat": 55.9098333333333,
-      "depth": 5.53,
-      "mag": 1.84,
-      "place": "19 km W of Ivanof Bay, Alaska",
-      "time": 1785198653800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94339088"
     }
   ]
 }
