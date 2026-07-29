@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T07:45:32Z",
-  "count": 284,
+  "updated": "2026-07-29T08:00:56Z",
+  "count": 283,
   "points": [
+    {
+      "id": "uw714064761",
+      "lon": -121.768997192383,
+      "lat": 46.8593330383301,
+      "depth": -2.70000004768372,
+      "mag": 0.930000007,
+      "place": "22 km ENE of Ashford, Washington",
+      "time": 1785311728800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714064761"
+    },
     {
       "id": "ci40662946",
       "lon": -116.414,
@@ -1484,6 +1494,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgg2"
     },
     {
+      "id": "av93065049",
+      "lon": -159.702166666667,
+      "lat": 56.056,
+      "depth": 9.98,
+      "mag": -0.04,
+      "place": "21 km NW of Ivanof Bay, Alaska",
+      "time": 1785266770480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065049"
+    },
+    {
       "id": "us6000tgg0",
       "lon": -173.6421,
       "lat": -16.7774,
@@ -2812,36 +2832,6 @@
       "place": "5 km WSW of Anza, CA",
       "time": 1785225688310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662458"
-    },
-    {
-      "id": "uu80146571",
-      "lon": -112.047,
-      "lat": 40.7345,
-      "depth": 6.1,
-      "mag": 0.7,
-      "place": "5 km ENE of Magna, Utah",
-      "time": 1785225311090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146571"
-    },
-    {
-      "id": "aka2026ouujhv",
-      "lon": -153.58,
-      "lat": 58.748,
-      "depth": 9.9,
-      "mag": 2,
-      "place": "86 km NNW of Aleneva, Alaska",
-      "time": 1785225253923,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouujhv"
-    },
-    {
-      "id": "hv75009147",
-      "lon": -155.608337402344,
-      "lat": 19.4206657409668,
-      "depth": 39.9599990844727,
-      "mag": 2.05,
-      "place": "27 km E of Honaunau-Napoopoo, Hawaii",
-      "time": 1785225199240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75009147"
     }
   ]
 }
