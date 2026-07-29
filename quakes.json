@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T20:15:36Z",
-  "count": 321,
+  "updated": "2026-07-29T20:30:52Z",
+  "count": 315,
   "points": [
     {
+      "id": "aka2026oxpfzt",
+      "lon": -155.761,
+      "lat": 57.678,
+      "depth": 98.4,
+      "mag": 1.7,
+      "place": "78 km W of Karluk, Alaska",
+      "time": 1785356358764,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxpfzt"
+    },
+    {
       "id": "ci40663306",
-      "lon": -117.486831665039,
-      "lat": 33.5626678466797,
-      "depth": -0.529999971389771,
-      "mag": 1.3981639455813,
+      "lon": -117.491166666667,
+      "lat": 33.5623333333333,
+      "depth": -0.4,
+      "mag": 1.52,
       "place": "10 km ESE of Coto De Caza, CA",
-      "time": 1785355928170,
+      "time": 1785355928130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663306"
     },
     {
@@ -3142,76 +3152,6 @@
       "place": "23 km SE of Midland, Texas",
       "time": 1785270841647,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026otjyks"
-    },
-    {
-      "id": "us6000tggm",
-      "lon": 153.5437,
-      "lat": -5.7602,
-      "depth": 10,
-      "mag": 5.4,
-      "place": "211 km SE of Kokopo, Papua New Guinea",
-      "time": 1785270477268,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tggm"
-    },
-    {
-      "id": "av94341433",
-      "lon": -154.736166666667,
-      "lat": 58.313,
-      "depth": 3.42,
-      "mag": 0,
-      "place": "84 km NNW of Karluk, Alaska",
-      "time": 1785270317870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94341433"
-    },
-    {
-      "id": "us6000tggi",
-      "lon": 179.5638,
-      "lat": -22.1845,
-      "depth": 575.128,
-      "mag": 5.1,
-      "place": "south of the Fiji Islands",
-      "time": 1785270222798,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tggi"
-    },
-    {
-      "id": "tx2026otjnvx",
-      "lon": -101.941,
-      "lat": 31.83,
-      "depth": 6.4209,
-      "mag": 0.4,
-      "place": "22 km SE of Midland, Texas",
-      "time": 1785270125928,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026otjnvx"
-    },
-    {
-      "id": "av94341428",
-      "lon": -152.261166666667,
-      "lat": 61.2086666666667,
-      "depth": 3.95,
-      "mag": 0.34,
-      "place": "62 km WNW of Tyonek, Alaska",
-      "time": 1785269957510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94341428"
-    },
-    {
-      "id": "hv75009407",
-      "lon": -155.380004882812,
-      "lat": 19.2075004577637,
-      "depth": 29.8400001525879,
-      "mag": 2.02,
-      "place": "10 km E of Pāhala, Hawaii",
-      "time": 1785269837640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75009407"
-    },
-    {
-      "id": "hv75009402",
-      "lon": -155.481506347656,
-      "lat": 19.1883335113525,
-      "depth": 30.5,
-      "mag": 2.27,
-      "place": "1 km S of Pāhala, Hawaii",
-      "time": 1785269746880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75009402"
     }
   ]
 }
