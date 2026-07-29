@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T09:09:17Z",
-  "count": 288,
+  "updated": "2026-07-29T09:15:41Z",
+  "count": 291,
   "points": [
+    {
+      "id": "nc75407817",
+      "lon": -122.936836242676,
+      "lat": 38.7721672058105,
+      "depth": -0.00999999977648258,
+      "mag": 0.95,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": 1785316246530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407817"
+    },
+    {
+      "id": "nc75407812",
+      "lon": -123.596336364746,
+      "lat": 40.3838348388672,
+      "depth": 24.8799991607666,
+      "mag": 2.06,
+      "place": "35 km NNE of Redway, CA",
+      "time": 1785316127170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407812"
+    },
     {
       "id": "nc75407802",
       "lon": -122.941497802734,
@@ -62,6 +82,16 @@
       "place": "6 km SSE of Redlands, CA",
       "time": 1785313860990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662970"
+    },
+    {
+      "id": "us6000tglq",
+      "lon": -67.6387,
+      "lat": -22.358,
+      "depth": 193.528,
+      "mag": 4.1,
+      "place": "84 km NE of San Pedro de Atacama, Chile",
+      "time": 1785313272792,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tglq"
     },
     {
       "id": "ci40662962",
@@ -1322,6 +1352,16 @@
       "place": "2 km E of Westmorland, CA",
       "time": 1785273818120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662722"
+    },
+    {
+      "id": "av94341588",
+      "lon": -177.190166666667,
+      "lat": 51.933,
+      "depth": 10.8,
+      "mag": 0.5,
+      "place": "38 km W of Adak, Alaska",
+      "time": 1785273687870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94341588"
     },
     {
       "id": "pr2026209002",
@@ -2872,16 +2912,6 @@
       "place": "118 km SW of Puerto Madero, Mexico",
       "time": 1785230156691,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgc0"
-    },
-    {
-      "id": "av93064999",
-      "lon": -161.879666666667,
-      "lat": 55.4528333333333,
-      "depth": 28.12,
-      "mag": 0.24,
-      "place": "51 km NNE of King Cove, Alaska",
-      "time": 1785230003850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064999"
     }
   ]
 }
