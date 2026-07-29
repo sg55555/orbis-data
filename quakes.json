@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T20:00:54Z",
-  "count": 322,
+  "updated": "2026-07-29T20:15:36Z",
+  "count": 321,
   "points": [
+    {
+      "id": "ci40663306",
+      "lon": -117.486831665039,
+      "lat": 33.5626678466797,
+      "depth": -0.529999971389771,
+      "mag": 1.3981639455813,
+      "place": "10 km ESE of Coto De Caza, CA",
+      "time": 1785355928170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663306"
+    },
+    {
+      "id": "nc75408247",
+      "lon": -122.938499450684,
+      "lat": 38.7738342285156,
+      "depth": 5.15000009536743,
+      "mag": 2.34,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": 1785355904260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408247"
+    },
     {
       "id": "nc75408232",
       "lon": -122.752502441406,
@@ -3094,6 +3114,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407427"
     },
     {
+      "id": "aka2026ovubcu",
+      "lon": 176.376,
+      "lat": 52.086,
+      "depth": 12.5,
+      "mag": 2.8,
+      "place": "232 km ESE of Attu Station, Alaska",
+      "time": 1785271455150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovubcu"
+    },
+    {
       "id": "pr71526368",
       "lon": -66.8428333333333,
       "lat": 17.9511666666667,
@@ -3182,46 +3212,6 @@
       "place": "1 km S of Pāhala, Hawaii",
       "time": 1785269746880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75009402"
-    },
-    {
-      "id": "ok2026oror",
-      "lon": -97.85566667,
-      "lat": 35.06783333,
-      "depth": 7.68,
-      "mag": 0.64,
-      "place": "7 km ENE of Chickasha, Oklahoma",
-      "time": 1785269635679,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026oror"
-    },
-    {
-      "id": "pr71526348",
-      "lon": -66.8473333333333,
-      "lat": 17.958,
-      "depth": 13.27,
-      "mag": 2.39,
-      "place": "4 km SW of Indios, Puerto Rico",
-      "time": 1785269473330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526348"
-    },
-    {
-      "id": "aka2026ovstfj",
-      "lon": 176.261,
-      "lat": 51.909,
-      "depth": 2.4,
-      "mag": 2.8,
-      "place": "233 km ESE of Attu Station, Alaska",
-      "time": 1785269107232,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovstfj"
-    },
-    {
-      "id": "pr71526473",
-      "lon": -66.8451666666667,
-      "lat": 17.9505,
-      "depth": 13.22,
-      "mag": 1.76,
-      "place": "5 km SSW of Indios, Puerto Rico",
-      "time": 1785268941530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526473"
     }
   ]
 }
