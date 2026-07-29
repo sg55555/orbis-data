@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T21:01:03Z",
-  "count": 314,
+  "updated": "2026-07-29T21:09:07Z",
+  "count": 317,
   "points": [
+    {
+      "id": "hv75010117",
+      "lon": -155.730331420898,
+      "lat": 19.863166809082,
+      "depth": 5.90999984741211,
+      "mag": 2.7,
+      "place": "10 km SE of Waikoloa, Hawaii",
+      "time": 1785358910350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75010117"
+    },
+    {
+      "id": "ci40663346",
+      "lon": -116.979666666667,
+      "lat": 33.9855,
+      "depth": 16.66,
+      "mag": 1.62,
+      "place": "6 km N of Beaumont, CA",
+      "time": 1785358859140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663346"
+    },
+    {
+      "id": "ci40663338",
+      "lon": -116.819666666667,
+      "lat": 34.3215,
+      "depth": 7.43,
+      "mag": 1.02,
+      "place": "7 km NNE of Big Bear City, CA",
+      "time": 1785358853550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663338"
+    },
     {
       "id": "tx2026ovfwcx",
       "lon": -102.206,
@@ -45,12 +75,12 @@
     },
     {
       "id": "ci40663306",
-      "lon": -117.491166666667,
-      "lat": 33.5623333333333,
-      "depth": -0.4,
-      "mag": 1.52,
+      "lon": -117.492166666667,
+      "lat": 33.565,
+      "depth": -0.53,
+      "mag": 1.19,
       "place": "10 km ESE of Coto De Caza, CA",
-      "time": 1785355928130,
+      "time": 1785355928010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663306"
     },
     {
@@ -1615,12 +1645,12 @@
     },
     {
       "id": "uw714064761",
-      "lon": -121.768997192383,
-      "lat": 46.8593330383301,
-      "depth": -2.70000004768372,
-      "mag": 0.930000007,
+      "lon": -121.763333333333,
+      "lat": 46.8498333333333,
+      "depth": 0.52,
+      "mag": 0.7,
       "place": "22 km ENE of Ashford, Washington",
-      "time": 1785311728800,
+      "time": 1785311729080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714064761"
     },
     {
@@ -1725,12 +1755,12 @@
     },
     {
       "id": "aka2026owotcn",
-      "lon": -155.641,
-      "lat": 57.728,
-      "depth": 5.2,
-      "mag": 1.7,
-      "place": "72 km WNW of Karluk, Alaska",
-      "time": 1785308687781,
+      "lon": -155.661,
+      "lat": 57.731,
+      "depth": 6.3,
+      "mag": 1.6,
+      "place": "74 km WNW of Karluk, Alaska",
+      "time": 1785308687848,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owotcn"
     },
     {
@@ -1752,6 +1782,16 @@
       "place": "8 km ESE of Cloverdale, CA",
       "time": 1785308178220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407747"
+    },
+    {
+      "id": "aka2026owoizx",
+      "lon": -157.887,
+      "lat": 55.056,
+      "depth": 11.5,
+      "mag": 2.3,
+      "place": "124 km SE of Perryville, Alaska",
+      "time": 1785307985752,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owoizx"
     },
     {
       "id": "nc75407742",
@@ -2132,6 +2172,16 @@
       "place": "24 km SSE of Malaga, New Mexico",
       "time": 1785297275377,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026otyoes"
+    },
+    {
+      "id": "uw714064731",
+      "lon": -121.971833333333,
+      "lat": 46.8765,
+      "depth": 5.5,
+      "mag": 0.5,
+      "place": "13 km NNE of Ashford, Washington",
+      "time": 1785297177690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714064731"
     },
     {
       "id": "us6000tgkd",
@@ -3122,26 +3172,6 @@
       "place": "6 km ESE of Winchester, CA",
       "time": 1785273040740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662714"
-    },
-    {
-      "id": "uw714064291",
-      "lon": -122.998333333333,
-      "lat": 48.63,
-      "depth": 14.39,
-      "mag": 0.05,
-      "place": "5 km NW of Orcas, Washington",
-      "time": 1785272877330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714064291"
-    },
-    {
-      "id": "aka2026ovuvad",
-      "lon": -143.288,
-      "lat": 60.25,
-      "depth": 0,
-      "mag": 1.5,
-      "place": "133 km S of McCarthy, Alaska",
-      "time": 1785272835901,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovuvad"
     }
   ]
 }
