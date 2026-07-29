@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T19:30:51Z",
-  "count": 325,
+  "updated": "2026-07-29T19:58:40Z",
+  "count": 323,
   "points": [
+    {
+      "id": "nc75408232",
+      "lon": -122.752502441406,
+      "lat": 38.792667388916,
+      "depth": 0.270000010728836,
+      "mag": 1.76,
+      "place": "2 km N of The Geysers, CA",
+      "time": 1785353698800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408232"
+    },
     {
       "id": "nc75408212",
       "lon": -122.934669494629,
@@ -355,12 +365,12 @@
     },
     {
       "id": "tx2026ouyttx",
-      "lon": -101.764,
+      "lon": -101.748,
       "lat": 31.867,
-      "depth": 3.2237,
-      "mag": 1.1,
-      "place": "26 km W of Garden City, Texas",
-      "time": 1785344742834,
+      "depth": 8.7158,
+      "mag": 1.2,
+      "place": "25 km W of Garden City, Texas",
+      "time": 1785344742713,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ouyttx"
     },
     {
@@ -375,11 +385,11 @@
     },
     {
       "id": "hv75009922",
-      "lon": -155.397506713867,
-      "lat": 19.0244998931885,
-      "depth": 31.4899997711182,
-      "mag": 3.39,
-      "place": "19 km ESE of Naalehu, Hawaii",
+      "lon": -155.397833333333,
+      "lat": 19.0368333333333,
+      "depth": 34.02,
+      "mag": 2.98,
+      "place": "19 km E of Naalehu, Hawaii",
       "time": 1785344195430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75009922"
     },
@@ -1834,6 +1844,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407692"
     },
     {
+      "id": "av94342328",
+      "lon": -178.865833333333,
+      "lat": 51.7945,
+      "depth": 5.78,
+      "mag": 0.41,
+      "place": "154 km W of Adak, Alaska",
+      "time": 1785301253040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94342328"
+    },
+    {
       "id": "nc75407682",
       "lon": -122.94066619873,
       "lat": 38.7751655578613,
@@ -3184,6 +3204,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526348"
     },
     {
+      "id": "aka2026ovstfj",
+      "lon": 176.261,
+      "lat": 51.909,
+      "depth": 2.4,
+      "mag": 2.8,
+      "place": "233 km ESE of Attu Station, Alaska",
+      "time": 1785269107232,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovstfj"
+    },
+    {
       "id": "pr71526473",
       "lon": -66.8451666666667,
       "lat": 17.9505,
@@ -3202,56 +3232,6 @@
       "place": "3 km SE of Maria Antonia, Puerto Rico",
       "time": 1785268741630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526488"
-    },
-    {
-      "id": "tx2026otilpb",
-      "lon": -104.357,
-      "lat": 31.665,
-      "depth": 6.2537,
-      "mag": 2.5,
-      "place": "56 km S of Whites City, New Mexico",
-      "time": 1785268134826,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026otilpb"
-    },
-    {
-      "id": "av94341363",
-      "lon": -177.139666666667,
-      "lat": 51.9311666666667,
-      "depth": 10.54,
-      "mag": 0.56,
-      "place": "35 km W of Adak, Alaska",
-      "time": 1785267739330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94341363"
-    },
-    {
-      "id": "aka2026ovrxzu",
-      "lon": -156.285,
-      "lat": 57.782,
-      "depth": 131.2,
-      "mag": 2,
-      "place": "72 km ENE of Ugashik, Alaska",
-      "time": 1785267645304,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovrxzu"
-    },
-    {
-      "id": "aka2026ovrvpz",
-      "lon": -149.282,
-      "lat": 62.046,
-      "depth": 14.5,
-      "mag": 2.4,
-      "place": "32 km ESE of Susitna North, Alaska",
-      "time": 1785267479798,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovrvpz"
-    },
-    {
-      "id": "ci40662690",
-      "lon": -114.992833333333,
-      "lat": 33.0521666666667,
-      "depth": -0.2,
-      "mag": 1.28,
-      "place": "45 km NE of Holtville, CA",
-      "time": 1785267047380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662690"
     }
   ]
 }
