@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T14:01:03Z",
-  "count": 310,
+  "updated": "2026-07-29T14:15:40Z",
+  "count": 312,
   "points": [
+    {
+      "id": "hv75009757",
+      "lon": -155.382995605469,
+      "lat": 19.017333984375,
+      "depth": 33,
+      "mag": 1.7,
+      "place": "21 km ESE of Naalehu, Hawaii",
+      "time": 1785334271900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75009757"
+    },
+    {
+      "id": "hv75009747",
+      "lon": -155.274993896484,
+      "lat": 19.4006671905518,
+      "depth": -0.119999997317791,
+      "mag": 1.82,
+      "place": "6 km SW of Volcano, Hawaii",
+      "time": 1785334117660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75009747"
+    },
+    {
+      "id": "ci40663146",
+      "lon": -115.5725,
+      "lat": 32.6208333333333,
+      "depth": 5.16,
+      "mag": 2.3,
+      "place": "5 km NNE of Progreso, B.C., MX",
+      "time": 1785334112850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663146"
+    },
     {
       "id": "nc75407937",
       "lon": -122.788665771484,
@@ -142,6 +172,16 @@
       "place": "86 km NW of Karluk, Alaska",
       "time": 1785328813251,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owzxyg"
+    },
+    {
+      "id": "pr2026210000",
+      "lon": -64.6318,
+      "lat": 19.3923,
+      "depth": 12,
+      "mag": 3.75,
+      "place": "118 km N of Cruz Bay, U.S. Virgin Islands",
+      "time": 1785328557740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026210000"
     },
     {
       "id": "ci40663090",
@@ -3082,26 +3122,6 @@
       "place": "235 km ESE of Attu Station, Alaska",
       "time": 1785248615731,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgez"
-    },
-    {
-      "id": "aka2026ovhbmp",
-      "lon": -154.469,
-      "lat": 58.006,
-      "depth": 86,
-      "mag": 1.4,
-      "place": "48 km N of Karluk, Alaska",
-      "time": 1785248096635,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovhbmp"
-    },
-    {
-      "id": "us6000tgd4",
-      "lon": 130.494,
-      "lat": 32.5384,
-      "depth": 9.343,
-      "mag": 4.8,
-      "place": "10 km WNW of Honmachi, Japan",
-      "time": 1785247316881,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgd4"
     }
   ]
 }
