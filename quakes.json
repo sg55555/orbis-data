@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T18:30:46Z",
+  "updated": "2026-07-29T18:36:47Z",
   "count": 323,
   "points": [
+    {
+      "id": "nc75408147",
+      "lon": -122.942665100098,
+      "lat": 38.7716674804688,
+      "depth": 5.46000003814697,
+      "mag": 1.58,
+      "place": "7 km ESE of Cloverdale, CA",
+      "time": 1785349949960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408147"
+    },
     {
       "id": "ci40663274",
       "lon": -117.645,
@@ -14,6 +24,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663274"
     },
     {
+      "id": "us6000tgs2",
+      "lon": -45.9007,
+      "lat": 15.2857,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "northern Mid-Atlantic Ridge",
+      "time": 1785348586411,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgs2"
+    },
+    {
       "id": "hv75009987",
       "lon": -155.488006591797,
       "lat": 19.2838325500488,
@@ -22,6 +42,16 @@
       "place": "9 km N of Pāhala, Hawaii",
       "time": 1785348223020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75009987"
+    },
+    {
+      "id": "ok2026otfx",
+      "lon": -96.39866667,
+      "lat": 34.303,
+      "depth": 0,
+      "mag": 1.23,
+      "place": "8 km SSE of Wapanucka, Oklahoma",
+      "time": 1785348214149,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026otfx"
     },
     {
       "id": "ok2026otfr",
@@ -3202,36 +3232,6 @@
       "place": "7 km SE of Dougherty, Oklahoma",
       "time": 1785264036950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026orlp"
-    },
-    {
-      "id": "pr71526328",
-      "lon": -66.8488333333333,
-      "lat": 17.962,
-      "depth": 13.19,
-      "mag": 2.21,
-      "place": "4 km ESE of Maria Antonia, Puerto Rico",
-      "time": 1785263751110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526328"
-    },
-    {
-      "id": "pr71526343",
-      "lon": -66.8433333333333,
-      "lat": 17.931,
-      "depth": 13.85,
-      "mag": 1.79,
-      "place": "7 km SE of Maria Antonia, Puerto Rico",
-      "time": 1785263703940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526343"
-    },
-    {
-      "id": "pr71526288",
-      "lon": -66.839,
-      "lat": 17.9486666666667,
-      "depth": 13.7,
-      "mag": 2.3,
-      "place": "5 km SSW of Indios, Puerto Rico",
-      "time": 1785263491120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526288"
     }
   ]
 }
