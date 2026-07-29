@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T22:30:47Z",
-  "count": 321,
+  "updated": "2026-07-29T22:34:49Z",
+  "count": 322,
   "points": [
+    {
+      "id": "ci40663394",
+      "lon": -117.308,
+      "lat": 34.6363333333333,
+      "depth": -0.43,
+      "mag": 1.36,
+      "place": "11 km ENE of Adelanto, CA",
+      "time": 1785364131790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663394"
+    },
     {
       "id": "nc75408312",
       "lon": -122.927833557129,
@@ -42,6 +52,16 @@
       "place": "17 km ESE of Anza, CA",
       "time": 1785363281090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663370"
+    },
+    {
+      "id": "us6000tgud",
+      "lon": -179.2711,
+      "lat": -65.1654,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "Pacific-Antarctic Ridge",
+      "time": 1785362887823,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgud"
     },
     {
       "id": "aka2026oxsnna",
@@ -3202,16 +3222,6 @@
       "place": "8 km NE of Alum Rock, CA",
       "time": 1785278350550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407482"
-    },
-    {
-      "id": "ci40662754",
-      "lon": -117.457833333333,
-      "lat": 35.5898333333333,
-      "depth": 2.25,
-      "mag": 1.47,
-      "place": "20 km E of Ridgecrest, CA",
-      "time": 1785278033020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662754"
     }
   ]
 }
