@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T01:15:39Z",
-  "count": 246,
+  "updated": "2026-07-29T01:30:50Z",
+  "count": 244,
   "points": [
+    {
+      "id": "aka2026owdlzr",
+      "lon": -159.732,
+      "lat": 55.945,
+      "depth": 12.6,
+      "mag": 1.7,
+      "place": "16 km WNW of Ivanof Bay, Alaska",
+      "time": 1785288401834,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owdlzr"
+    },
     {
       "id": "tx2026otspkh",
       "lon": -104.426,
@@ -32,6 +42,16 @@
       "place": "71 km SW of Puerto Madero, Mexico",
       "time": 1785285613011,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgjb"
+    },
+    {
+      "id": "us6000tgjc",
+      "lon": 126.0529,
+      "lat": 10.2364,
+      "depth": 53.557,
+      "mag": 4.8,
+      "place": "23 km N of Santa Monica, Philippines",
+      "time": 1785285576388,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgjc"
     },
     {
       "id": "nc75407532",
@@ -932,6 +952,16 @@
       "place": "4 km SSW of Indios, Puerto Rico",
       "time": 1785261552960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026209001"
+    },
+    {
+      "id": "pr71526528",
+      "lon": -66.8496666666667,
+      "lat": 17.982,
+      "depth": 13.41,
+      "mag": 1.68,
+      "place": "3 km WSW of Indios, Puerto Rico",
+      "time": 1785260966000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526528"
     },
     {
       "id": "nc75407382",
@@ -2412,56 +2442,6 @@
       "place": "38 km S of Mendoza, Argentina",
       "time": 1785202662798,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9q"
-    },
-    {
-      "id": "us6000tg9n",
-      "lon": -14.5098,
-      "lat": -12.7784,
-      "depth": 10,
-      "mag": 5.3,
-      "place": "southern Mid-Atlantic Ridge",
-      "time": 1785202071735,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9n"
-    },
-    {
-      "id": "aka2026ouhkaq",
-      "lon": -152.552,
-      "lat": 59.285,
-      "depth": 78.5,
-      "mag": 1.7,
-      "place": "36 km WSW of Nanwalek, Alaska",
-      "time": 1785201908539,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouhkaq"
-    },
-    {
-      "id": "aka2026ouhihp",
-      "lon": -141.237,
-      "lat": 59.963,
-      "depth": 1.5,
-      "mag": 1.9,
-      "place": "96 km WNW of Yakutat, Alaska",
-      "time": 1785201789935,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouhihp"
-    },
-    {
-      "id": "aka2026ouhgio",
-      "lon": 178.244,
-      "lat": 51.19,
-      "depth": 5,
-      "mag": 3.7,
-      "place": "Rat Islands, Aleutian Islands, Alaska",
-      "time": 1785201652047,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouhgio"
-    },
-    {
-      "id": "nc75407097",
-      "lon": -120.240837097168,
-      "lat": 35.4601669311523,
-      "depth": 11.5200004577637,
-      "mag": 2.28,
-      "place": "25 km SSE of Shandon, CA",
-      "time": 1785201621960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407097"
     }
   ]
 }
