@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T18:15:33Z",
-  "count": 326,
+  "updated": "2026-07-29T18:30:46Z",
+  "count": 323,
   "points": [
+    {
+      "id": "ci40663274",
+      "lon": -117.645,
+      "lat": 35.8076666666667,
+      "depth": 8.1,
+      "mag": 0.63,
+      "place": "21 km N of Ridgecrest, CA",
+      "time": 1785348921310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663274"
+    },
     {
       "id": "hv75009987",
       "lon": -155.488006591797,
@@ -12,6 +22,16 @@
       "place": "9 km N of Pāhala, Hawaii",
       "time": 1785348223020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75009987"
+    },
+    {
+      "id": "ok2026otfr",
+      "lon": -96.80783333,
+      "lat": 36.81683333,
+      "depth": 0,
+      "mag": 0.91,
+      "place": "6 km NNE of Kaw City, Oklahoma",
+      "time": 1785347833580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026otfr"
     },
     {
       "id": "aka2026oxkkfg",
@@ -42,16 +62,6 @@
       "place": "10 km E of Yorba Linda, CA",
       "time": 1785347348330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663258"
-    },
-    {
-      "id": "ci40663250",
-      "lon": -117.951833333333,
-      "lat": 34.0781666666667,
-      "depth": 24.68,
-      "mag": 1.92,
-      "place": "1 km SE of Baldwin Park, CA",
-      "time": 1785347343650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663250"
     },
     {
       "id": "nc75408122",
@@ -2515,12 +2525,12 @@
     },
     {
       "id": "ci40662746",
-      "lon": -116.9055,
-      "lat": 33.9248333333333,
-      "depth": 16.53,
-      "mag": 1.76,
+      "lon": -116.904833333333,
+      "lat": 33.9253333333333,
+      "depth": 17.52,
+      "mag": 1.81,
       "place": "3 km W of Banning, CA",
-      "time": 1785277451840,
+      "time": 1785277451730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662746"
     },
     {
@@ -2622,6 +2632,16 @@
       "place": "38 km NNE of Amboy, Washington",
       "time": 1785275580080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714064371"
+    },
+    {
+      "id": "av94341628",
+      "lon": -155.203166666667,
+      "lat": 58.1251666666667,
+      "depth": 4.54,
+      "mag": -0.07,
+      "place": "76 km NW of Karluk, Alaska",
+      "time": 1785275277510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94341628"
     },
     {
       "id": "aka2026ovvvjq",
@@ -3212,56 +3232,6 @@
       "place": "5 km SSW of Indios, Puerto Rico",
       "time": 1785263491120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526288"
-    },
-    {
-      "id": "pr71526493",
-      "lon": -66.8483333333333,
-      "lat": 17.9771666666667,
-      "depth": 12.53,
-      "mag": 1.78,
-      "place": "3 km WSW of Indios, Puerto Rico",
-      "time": 1785263354530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526493"
-    },
-    {
-      "id": "hv75009342",
-      "lon": -155.27082824707,
-      "lat": 19.4026660919189,
-      "depth": 8.15999984741211,
-      "mag": 1.82,
-      "place": "5 km SW of Volcano, Hawaii",
-      "time": 1785263272860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75009342"
-    },
-    {
-      "id": "nc75407392",
-      "lon": -122.80883026123,
-      "lat": 38.7948341369629,
-      "depth": 3.33999991416931,
-      "mag": 0.77,
-      "place": "5 km WNW of The Geysers, CA",
-      "time": 1785263140710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407392"
-    },
-    {
-      "id": "pr71526468",
-      "lon": -66.8408333333333,
-      "lat": 17.9465,
-      "depth": 12.98,
-      "mag": 1.79,
-      "place": "5 km SSW of Indios, Puerto Rico",
-      "time": 1785262653040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526468"
-    },
-    {
-      "id": "pr71526273",
-      "lon": -66.8465,
-      "lat": 17.9493333333333,
-      "depth": 12.84,
-      "mag": 2.05,
-      "place": "5 km SE of Maria Antonia, Puerto Rico",
-      "time": 1785262501180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526273"
     }
   ]
 }
