@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T08:30:52Z",
-  "count": 283,
+  "updated": "2026-07-29T08:45:43Z",
+  "count": 284,
   "points": [
+    {
+      "id": "ci40662970",
+      "lon": -117.152833333333,
+      "lat": 34.0125,
+      "depth": 4.58,
+      "mag": 0.77,
+      "place": "6 km SSE of Redlands, CA",
+      "time": 1785313860990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662970"
+    },
     {
       "id": "ci40662962",
       "lon": -117.553666666667,
@@ -1414,6 +1424,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tggm"
     },
     {
+      "id": "av94341433",
+      "lon": -154.736166666667,
+      "lat": 58.313,
+      "depth": 3.42,
+      "mag": 0,
+      "place": "84 km NNW of Karluk, Alaska",
+      "time": 1785270317870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94341433"
+    },
+    {
       "id": "us6000tggi",
       "lon": 179.5638,
       "lat": -22.1845,
@@ -1422,6 +1442,16 @@
       "place": "south of the Fiji Islands",
       "time": 1785270222798,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tggi"
+    },
+    {
+      "id": "av94341428",
+      "lon": -152.261166666667,
+      "lat": 61.2086666666667,
+      "depth": 3.95,
+      "mag": 0.34,
+      "place": "62 km WNW of Tyonek, Alaska",
+      "time": 1785269957510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94341428"
     },
     {
       "id": "hv75009407",
@@ -2812,26 +2842,6 @@
       "place": "2 km ESE of Palomas, Puerto Rico",
       "time": 1785228838900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526163"
-    },
-    {
-      "id": "uu80007768",
-      "lon": -111.403333333333,
-      "lat": 42.377,
-      "depth": 10.19,
-      "mag": 1.5,
-      "place": "6 km WSW of Bennington, Idaho",
-      "time": 1785228021130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007768"
-    },
-    {
-      "id": "aka2026ouvqeb",
-      "lon": -152.795,
-      "lat": 59.131,
-      "depth": 74.7,
-      "mag": 1.8,
-      "place": "55 km WSW of Nanwalek, Alaska",
-      "time": 1785227523991,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouvqeb"
     }
   ]
 }
