@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T02:15:35Z",
-  "count": 245,
+  "updated": "2026-07-29T02:30:41Z",
+  "count": 244,
   "points": [
+    {
+      "id": "ci40662818",
+      "lon": -117.151666666667,
+      "lat": 34.0068333333333,
+      "depth": 3.92,
+      "mag": 0.83,
+      "place": "6 km SSE of Redlands, CA",
+      "time": 1785291483190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662818"
+    },
     {
       "id": "aka2026oweskw",
       "lon": -150.657,
@@ -2432,26 +2442,6 @@
       "place": "11 km NW of Parkfield, CA",
       "time": 1785206280930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407112"
-    },
-    {
-      "id": "aka2026oujlvs",
-      "lon": -147.51,
-      "lat": 60.982,
-      "depth": 22.4,
-      "mag": 1.4,
-      "place": "46 km WNW of Tatitlek, Alaska",
-      "time": 1785205632449,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oujlvs"
-    },
-    {
-      "id": "nc75407107",
-      "lon": -122.806335449219,
-      "lat": 38.8358345031738,
-      "depth": 1.91999995708466,
-      "mag": 1.04,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1785205243870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407107"
     }
   ]
 }
