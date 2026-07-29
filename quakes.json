@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T00:06:36Z",
-  "count": 245,
+  "updated": "2026-07-29T00:15:40Z",
+  "count": 246,
   "points": [
+    {
+      "id": "nc75407522",
+      "lon": -122.761001586914,
+      "lat": 38.8035011291504,
+      "depth": 4.40999984741211,
+      "mag": 0.65,
+      "place": "3 km N of The Geysers, CA",
+      "time": 1785283833080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407522"
+    },
     {
       "id": "nc75407517",
       "lon": -122.853164672852,
@@ -12,6 +22,16 @@
       "place": "10 km WNW of The Geysers, CA",
       "time": 1785283360950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407517"
+    },
+    {
+      "id": "us6000tgiz",
+      "lon": 152.9542,
+      "lat": -4.3933,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "76 km E of Kokopo, Papua New Guinea",
+      "time": 1785282704632,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgiz"
     },
     {
       "id": "us6000tgiy",
@@ -2442,16 +2462,6 @@
       "place": "11 km S of Pāhala, Hawaii",
       "time": 1785197744530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75008992"
-    },
-    {
-      "id": "av94339038",
-      "lon": -152.281,
-      "lat": 61.337,
-      "depth": -1.02,
-      "mag": -0.33,
-      "place": "67 km WNW of Beluga, Alaska",
-      "time": 1785197591360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94339038"
     }
   ]
 }
