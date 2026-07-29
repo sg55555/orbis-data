@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T01:30:50Z",
-  "count": 244,
+  "updated": "2026-07-29T01:45:36Z",
+  "count": 245,
   "points": [
+    {
+      "id": "ci40662810",
+      "lon": -119.105163574219,
+      "lat": 35.0641670227051,
+      "depth": 14.1599998474121,
+      "mag": 1.48971154222525,
+      "place": "21 km NW of Grapevine, CA",
+      "time": 1785289155390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662810"
+    },
+    {
+      "id": "aka2026owdmzn",
+      "lon": -152.321,
+      "lat": 60.305,
+      "depth": 87.1,
+      "mag": 1.8,
+      "place": "46 km NW of Ninilchik, Alaska",
+      "time": 1785288510853,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owdmzn"
+    },
     {
       "id": "aka2026owdlzr",
       "lon": -159.732,
@@ -2432,16 +2452,6 @@
       "place": "13 km SE of Pearsall, Texas",
       "time": 1785204393472,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026orzgdz"
-    },
-    {
-      "id": "us6000tg9q",
-      "lon": -68.8772,
-      "lat": -33.2379,
-      "depth": 36.491,
-      "mag": 4.6,
-      "place": "38 km S of Mendoza, Argentina",
-      "time": 1785202662798,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9q"
     }
   ]
 }
