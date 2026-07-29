@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T21:09:07Z",
-  "count": 317,
+  "updated": "2026-07-29T21:15:31Z",
+  "count": 314,
   "points": [
     {
       "id": "hv75010117",
@@ -1484,6 +1484,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407837"
     },
     {
+      "id": "uw714064781",
+      "lon": -122.342166666667,
+      "lat": 46.2001666666667,
+      "depth": 9.92,
+      "mag": 0.64,
+      "place": "33 km NNE of Amboy, Washington",
+      "time": 1785317459480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714064781"
+    },
+    {
       "id": "nc75407832",
       "lon": -121.333999633789,
       "lat": 36.6741676330566,
@@ -1734,23 +1744,13 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owpddg"
     },
     {
-      "id": "aka2026owpchv",
-      "lon": -148.359,
-      "lat": 65.455,
-      "depth": 16.4,
-      "mag": 0.6,
-      "place": "11 km SE of Livengood, Alaska",
-      "time": 1785309324392,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owpchv"
-    },
-    {
       "id": "aka2026owovjy",
-      "lon": -149.212,
-      "lat": 60.22,
-      "depth": 64.4,
-      "mag": 1.4,
-      "place": "11 km ENE of Bear Creek, Alaska",
-      "time": 1785308846004,
+      "lon": -149.767,
+      "lat": 60.279,
+      "depth": 41.7,
+      "mag": 1.5,
+      "place": "23 km S of Cooper Landing, Alaska",
+      "time": 1785308849687,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owovjy"
     },
     {
@@ -3142,36 +3142,6 @@
       "place": "62 km W of Akhiok, Alaska",
       "time": 1785273456424,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovvdye"
-    },
-    {
-      "id": "aka2026ovvbza",
-      "lon": -150.628,
-      "lat": 63.553,
-      "depth": 3.9,
-      "mag": 1.6,
-      "place": "54 km E of Denali National Park, Alaska",
-      "time": 1785273317443,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovvbza"
-    },
-    {
-      "id": "aka2026ovvbeu",
-      "lon": -159.774,
-      "lat": 55.935,
-      "depth": 7.9,
-      "mag": 2.4,
-      "place": "18 km WNW of Ivanof Bay, Alaska",
-      "time": 1785273260739,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovvbeu"
-    },
-    {
-      "id": "ci40662714",
-      "lon": -117.0255,
-      "lat": 33.6936666666667,
-      "depth": 12.47,
-      "mag": 0.92,
-      "place": "6 km ESE of Winchester, CA",
-      "time": 1785273040740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662714"
     }
   ]
 }
