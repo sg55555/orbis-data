@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T03:30:48Z",
-  "count": 245,
+  "updated": "2026-07-29T03:50:12Z",
+  "count": 244,
   "points": [
+    {
+      "id": "ci40662826",
+      "lon": -116.33716583252,
+      "lat": 33.1813316345215,
+      "depth": 11.5,
+      "mag": 1.06451363646159,
+      "place": "9 km SSE of Borrego Springs, CA",
+      "time": 1785296868630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662826"
+    },
+    {
+      "id": "nc75407642",
+      "lon": -122.942337036133,
+      "lat": 38.7690010070801,
+      "depth": 2.3199999332428,
+      "mag": 1.13,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": 1785296183850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407642"
+    },
+    {
+      "id": "nc75407637",
+      "lon": -122.945831298828,
+      "lat": 38.7746658325195,
+      "depth": 4.84999990463257,
+      "mag": 1.06,
+      "place": "7 km ESE of Cloverdale, CA",
+      "time": 1785296159950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407637"
+    },
     {
       "id": "aka2026owhkbx",
       "lon": -147.445,
@@ -112,6 +142,16 @@
       "place": "8 km ESE of Cloverdale, CA",
       "time": 1785292844670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407567"
+    },
+    {
+      "id": "us6000tgjx",
+      "lon": 138.8737,
+      "lat": -2.5506,
+      "depth": 35,
+      "mag": 4.8,
+      "place": "195 km W of Abepura, Indonesia",
+      "time": 1785292815082,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgjx"
     },
     {
       "id": "nc75407577",
@@ -385,12 +425,12 @@
     },
     {
       "id": "aka2026ovyijj",
-      "lon": -147.301,
-      "lat": 61.621,
-      "depth": 20.3,
-      "mag": 1.6,
+      "lon": -147.306,
+      "lat": 61.622,
+      "depth": 17.7,
+      "mag": 1.7,
       "place": "27 km SE of Glacier View, Alaska",
-      "time": 1785279337064,
+      "time": 1785279337057,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovyijj"
     },
     {
@@ -2402,56 +2442,6 @@
       "place": "14 km NE of Milford, Utah",
       "time": 1785211113460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146546"
-    },
-    {
-      "id": "ci40662410",
-      "lon": -116.434,
-      "lat": 33.0406666666667,
-      "depth": 7.83,
-      "mag": 0.57,
-      "place": "16 km ESE of Julian, CA",
-      "time": 1785210209510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662410"
-    },
-    {
-      "id": "av94339523",
-      "lon": -166.666333333333,
-      "lat": 53.8885,
-      "depth": 3.57,
-      "mag": -0.12,
-      "place": "8 km W of Dutch Harbor, Alaska",
-      "time": 1785209995740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94339523"
-    },
-    {
-      "id": "av94339508",
-      "lon": -153.0575,
-      "lat": 60.036,
-      "depth": 6.3,
-      "mag": -0.94,
-      "place": "64 km ENE of Pedro Bay, Alaska",
-      "time": 1785209851210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94339508"
-    },
-    {
-      "id": "aka2026oulukr",
-      "lon": -153.224,
-      "lat": 60.124,
-      "depth": 151.7,
-      "mag": 1.7,
-      "place": "61 km E of Port Alsworth, Alaska",
-      "time": 1785209832777,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oulukr"
-    },
-    {
-      "id": "us6000tga9",
-      "lon": 99.5513,
-      "lat": 35.3866,
-      "depth": 10,
-      "mag": 5.8,
-      "place": "191 km NW of Oula Xiuma, China",
-      "time": 1785209645779,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9"
     }
   ]
 }
