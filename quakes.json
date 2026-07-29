@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T18:36:47Z",
-  "count": 323,
+  "updated": "2026-07-29T18:45:44Z",
+  "count": 324,
   "points": [
     {
       "id": "nc75408147",
@@ -32,6 +32,16 @@
       "place": "northern Mid-Atlantic Ridge",
       "time": 1785348586411,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgs2"
+    },
+    {
+      "id": "ci40663266",
+      "lon": -117.562,
+      "lat": 34.2011666666667,
+      "depth": 10.12,
+      "mag": 0.71,
+      "place": "9 km SW of Lytle Creek, CA",
+      "time": 1785348565750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663266"
     },
     {
       "id": "hv75009987",
@@ -85,12 +95,12 @@
     },
     {
       "id": "ci40663258",
-      "lon": -117.702333333333,
-      "lat": 33.8925,
-      "depth": 10.25,
-      "mag": 1.45,
+      "lon": -117.707166666667,
+      "lat": 33.8895,
+      "depth": 10.78,
+      "mag": 1.2,
       "place": "10 km E of Yorba Linda, CA",
-      "time": 1785347348330,
+      "time": 1785347348200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663258"
     },
     {
@@ -2624,6 +2634,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovwwgr"
     },
     {
+      "id": "av94341653",
+      "lon": -154.986166666667,
+      "lat": 58.3038333333333,
+      "depth": 2.93,
+      "mag": -0.31,
+      "place": "87 km NNW of Karluk, Alaska",
+      "time": 1785276439460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94341653"
+    },
+    {
       "id": "nc75407462",
       "lon": -122.810668945312,
       "lat": 38.8248329162598,
@@ -3222,16 +3242,6 @@
       "place": "27 km W of Sitka, Alaska",
       "time": 1785264396190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94341223"
-    },
-    {
-      "id": "ok2026orlp",
-      "lon": -96.98816667,
-      "lat": 34.36,
-      "depth": 0,
-      "mag": 1.21,
-      "place": "7 km SE of Dougherty, Oklahoma",
-      "time": 1785264036950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026orlp"
     }
   ]
 }
