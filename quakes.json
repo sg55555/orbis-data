@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T03:15:33Z",
-  "count": 249,
+  "updated": "2026-07-29T03:30:48Z",
+  "count": 245,
   "points": [
+    {
+      "id": "aka2026owhkbx",
+      "lon": -147.445,
+      "lat": 64.76,
+      "depth": 16.7,
+      "mag": 1,
+      "place": "4 km WNW of North Pole, Alaska",
+      "time": 1785295468905,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owhkbx"
+    },
     {
       "id": "nc75407627",
       "lon": -122.988334655762,
@@ -432,16 +442,6 @@
       "place": "20 km E of Ridgecrest, CA",
       "time": 1785278033030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662754"
-    },
-    {
-      "id": "aka2026ovxmiy",
-      "lon": -147.375,
-      "lat": 64.979,
-      "depth": 5,
-      "mag": 1.1,
-      "place": "11 km ENE of Fox, Alaska",
-      "time": 1785277634195,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovxmiy"
     },
     {
       "id": "ci40662746",
@@ -2452,46 +2452,6 @@
       "place": "191 km NW of Oula Xiuma, China",
       "time": 1785209645779,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9"
-    },
-    {
-      "id": "uw714063611",
-      "lon": -122.623166666667,
-      "lat": 48.561,
-      "depth": 16.73,
-      "mag": 1.15,
-      "place": "5 km N of Anacortes, Washington",
-      "time": 1785209390150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714063611"
-    },
-    {
-      "id": "av93064964",
-      "lon": -154.719166666667,
-      "lat": 58.3423333333333,
-      "depth": 4.72,
-      "mag": -0.35,
-      "place": "87 km N of Karluk, Alaska",
-      "time": 1785208947000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93064964"
-    },
-    {
-      "id": "aka2026oulegb",
-      "lon": 176.357,
-      "lat": 52.044,
-      "depth": 5,
-      "mag": 3.2,
-      "place": "233 km ESE of Attu Station, Alaska",
-      "time": 1785208704930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oulegb"
-    },
-    {
-      "id": "us6000tga6",
-      "lon": 99.5198,
-      "lat": 35.3685,
-      "depth": 10,
-      "mag": 5.7,
-      "place": "192 km NW of Oula Xiuma, China",
-      "time": 1785208568857,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga6"
     }
   ]
 }
