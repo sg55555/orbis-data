@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T06:17:14Z",
-  "count": 274,
+  "updated": "2026-07-29T06:30:43Z",
+  "count": 278,
   "points": [
+    {
+      "id": "nc75407727",
+      "lon": -122.936996459961,
+      "lat": 38.7763328552246,
+      "depth": 3.75,
+      "mag": 1.13,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": 1785306170090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407727"
+    },
+    {
+      "id": "us6000tgla",
+      "lon": 78.9587,
+      "lat": 41.1814,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "102 km WNW of Aykol, China",
+      "time": 1785305397133,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgla"
+    },
     {
       "id": "nc75407722",
       "lon": -121.276664733887,
@@ -1664,6 +1684,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407357"
     },
     {
+      "id": "av94340953",
+      "lon": -176.589666666667,
+      "lat": 51.8626666666667,
+      "depth": 5.03,
+      "mag": -0.45,
+      "place": "3 km ESE of Adak, Alaska",
+      "time": 1785256756410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94340953"
+    },
+    {
       "id": "nc75407352",
       "lon": -122.821334838867,
       "lat": 38.8660011291504,
@@ -2205,13 +2235,23 @@
     },
     {
       "id": "aka2026ouzwhm",
-      "lon": -155.957,
-      "lat": 57.98,
-      "depth": 8.4,
-      "mag": 1.6,
+      "lon": -155.966,
+      "lat": 57.975,
+      "depth": 8,
+      "mag": 1.8,
       "place": "87 km ESE of Egegik, Alaska",
-      "time": 1785235142270,
+      "time": 1785235142143,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouzwhm"
+    },
+    {
+      "id": "aka2026ouzuxt",
+      "lon": -176.152,
+      "lat": 51.103,
+      "depth": 14.1,
+      "mag": 2.2,
+      "place": "92 km SSE of Adak, Alaska",
+      "time": 1785235048644,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouzuxt"
     },
     {
       "id": "nc75407212",
@@ -2245,12 +2285,12 @@
     },
     {
       "id": "aka2026ouzbfw",
-      "lon": -157.61,
-      "lat": 58.684,
-      "depth": 9.8,
-      "mag": 1.6,
-      "place": "25 km SSE of Portage Creek, Alaska",
-      "time": 1785233684523,
+      "lon": -157.593,
+      "lat": 58.669,
+      "depth": 5.9,
+      "mag": 1.9,
+      "place": "27 km SSE of Portage Creek, Alaska",
+      "time": 1785233684452,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouzbfw"
     },
     {
@@ -2265,12 +2305,12 @@
     },
     {
       "id": "aka2026ouyzlj",
-      "lon": -159.776,
-      "lat": 55.949,
-      "depth": 12.6,
-      "mag": 2.2,
+      "lon": -159.779,
+      "lat": 55.96,
+      "depth": 10.5,
+      "mag": 2.4,
       "place": "19 km WNW of Ivanof Bay, Alaska",
-      "time": 1785233558476,
+      "time": 1785233558547,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouyzlj"
     },
     {
@@ -2292,6 +2332,16 @@
       "place": "10 km SE of Honmachi, Japan",
       "time": 1785233378222,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgc8"
+    },
+    {
+      "id": "aka2026ouyvpz",
+      "lon": -171.405,
+      "lat": 52.342,
+      "depth": 0.3,
+      "mag": 3,
+      "place": "184 km WSW of Nikolski, Alaska",
+      "time": 1785233272956,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouyvpz"
     },
     {
       "id": "nc75407202",
@@ -2732,16 +2782,6 @@
       "place": "3 km SSW of Cobb, CA",
       "time": 1785220744240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407162"
-    },
-    {
-      "id": "aka2026ourkzi",
-      "lon": -157.597,
-      "lat": 56.759,
-      "depth": 88.8,
-      "mag": 2.2,
-      "place": "71 km NE of Chignik, Alaska",
-      "time": 1785219964988,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ourkzi"
     }
   ]
 }
