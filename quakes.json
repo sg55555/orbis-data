@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T06:30:43Z",
-  "count": 278,
+  "updated": "2026-07-29T06:45:39Z",
+  "count": 279,
   "points": [
+    {
+      "id": "ci40662914",
+      "lon": -116.8835,
+      "lat": 33.768,
+      "depth": 10.03,
+      "mag": 0.45,
+      "place": "2 km NNE of Valle Vista, CA",
+      "time": 1785306671130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662914"
+    },
     {
       "id": "nc75407727",
       "lon": -122.936996459961,
@@ -1644,6 +1654,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026otcwxi"
     },
     {
+      "id": "av94341008",
+      "lon": -152.504166666667,
+      "lat": 60.5438333333333,
+      "depth": 11.92,
+      "mag": -0.21,
+      "place": "65 km W of Salamatof, Alaska",
+      "time": 1785257744500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94341008"
+    },
+    {
       "id": "av93065044",
       "lon": -170.071833333333,
       "lat": 52.5746666666667,
@@ -2184,14 +2204,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovbbsw"
     },
     {
-      "id": "av94340373",
-      "lon": -178.174166666667,
-      "lat": 51.5321666666667,
-      "depth": 11.42,
-      "mag": 2.42,
+      "id": "aka2026ovalzp",
+      "lon": -178.15,
+      "lat": 51.476,
+      "depth": 10.8,
+      "mag": 2.8,
       "place": "113 km WSW of Adak, Alaska",
-      "time": 1785236229130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94340373"
+      "time": 1785236228141,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovalzp"
     },
     {
       "id": "uw714063691",
@@ -2202,6 +2222,16 @@
       "place": "22 km ENE of Ashford, Washington",
       "time": 1785236115510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714063691"
+    },
+    {
+      "id": "aka2026ovakby",
+      "lon": -173.834,
+      "lat": 51.538,
+      "depth": 5,
+      "mag": 2.8,
+      "place": "77 km SSE of Atka, Alaska",
+      "time": 1785236107591,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovakby"
     },
     {
       "id": "av94340358",
@@ -2762,26 +2792,6 @@
       "place": "22 km SSE of La Romana, Dominican Republic",
       "time": 1785221198470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026209000"
-    },
-    {
-      "id": "nc75407167",
-      "lon": -122.870330810547,
-      "lat": 38.8491668701172,
-      "depth": 8.52000045776367,
-      "mag": 0.36,
-      "place": "13 km NW of The Geysers, CA",
-      "time": 1785221060060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407167"
-    },
-    {
-      "id": "nc75407162",
-      "lon": -122.731163024902,
-      "lat": 38.7985000610352,
-      "depth": 0.620000004768372,
-      "mag": 1.09,
-      "place": "3 km SSW of Cobb, CA",
-      "time": 1785220744240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407162"
     }
   ]
 }
