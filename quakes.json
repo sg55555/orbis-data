@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T04:00:59Z",
-  "count": 247,
+  "updated": "2026-07-29T04:15:35Z",
+  "count": 244,
   "points": [
     {
       "id": "ci40662834",
@@ -12,6 +12,16 @@
       "place": "14 km ENE of Indio, CA",
       "time": 1785297336980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662834"
+    },
+    {
+      "id": "us6000tgkd",
+      "lon": -174.924,
+      "lat": -24.6364,
+      "depth": 10,
+      "mag": 5,
+      "place": "south of Tonga",
+      "time": 1785297142131,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgkd"
     },
     {
       "id": "nc75407657",
@@ -2432,46 +2442,6 @@
       "place": "229 km ESE of Attu Station, Alaska",
       "time": 1785212249863,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oundto"
-    },
-    {
-      "id": "aka2026oumzyu",
-      "lon": -173.525,
-      "lat": 51.418,
-      "depth": 5,
-      "mag": 2.8,
-      "place": "98 km SSE of Atka, Alaska",
-      "time": 1785212003754,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oumzyu"
-    },
-    {
-      "id": "tx2026osdhvc",
-      "lon": -102.113,
-      "lat": 32.368,
-      "depth": 6.958,
-      "mag": 0.5,
-      "place": "39 km E of McKinney Acres, Texas",
-      "time": 1785211828773,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026osdhvc"
-    },
-    {
-      "id": "tx2026osdemt",
-      "lon": -102.156,
-      "lat": 32.112,
-      "depth": 6.3721,
-      "mag": 0.8,
-      "place": "14 km NNW of Midland, Texas",
-      "time": 1785211520817,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026osdemt"
-    },
-    {
-      "id": "aka2026oumqvi",
-      "lon": -175.763,
-      "lat": 51.503,
-      "depth": 38.8,
-      "mag": 2.2,
-      "place": "73 km SE of Adak, Alaska",
-      "time": 1785211374987,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oumqvi"
     }
   ]
 }
