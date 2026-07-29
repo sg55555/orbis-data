@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T22:34:49Z",
-  "count": 322,
+  "updated": "2026-07-29T22:45:34Z",
+  "count": 323,
   "points": [
+    {
+      "id": "tx2026ovjuyw",
+      "lon": -104.059,
+      "lat": 31.521,
+      "depth": 4.1166,
+      "mag": 1.8,
+      "place": "34 km NW of Toyah, Texas",
+      "time": 1785364866685,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ovjuyw"
+    },
     {
       "id": "ci40663394",
       "lon": -117.308,
@@ -12,6 +22,16 @@
       "place": "11 km ENE of Adelanto, CA",
       "time": 1785364131790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663394"
+    },
+    {
+      "id": "us6000tguf",
+      "lon": -176.5171,
+      "lat": -28.4982,
+      "depth": 10,
+      "mag": 5.9,
+      "place": "Kermadec Islands region",
+      "time": 1785364077690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tguf"
     },
     {
       "id": "nc75408312",
@@ -142,6 +162,16 @@
       "place": "12 km ESE of Gilroy, CA",
       "time": 1785359963750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408262"
+    },
+    {
+      "id": "uw714065421",
+      "lon": -120.472333333333,
+      "lat": 49.3283333333333,
+      "depth": -0.62,
+      "mag": 2.09,
+      "place": "14 km S of Princeton, Canada",
+      "time": 1785359696000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714065421"
     },
     {
       "id": "hv75010117",
@@ -3202,26 +3232,6 @@
       "place": "5 km SSE of Redlands, CA",
       "time": 1785278790670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662770"
-    },
-    {
-      "id": "hv75009452",
-      "lon": -155.370162963867,
-      "lat": 19.0456657409668,
-      "depth": 25.8999996185303,
-      "mag": 2.18,
-      "place": "20 km SSE of Pāhala, Hawaii",
-      "time": 1785278445880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75009452"
-    },
-    {
-      "id": "nc75407482",
-      "lon": -121.75316619873,
-      "lat": 37.4099998474121,
-      "depth": 8.34000015258789,
-      "mag": 2.28,
-      "place": "8 km NE of Alum Rock, CA",
-      "time": 1785278350550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407482"
     }
   ]
 }
