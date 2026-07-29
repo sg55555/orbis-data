@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T14:27:45Z",
-  "count": 313,
+  "updated": "2026-07-29T14:47:56Z",
+  "count": 309,
   "points": [
+    {
+      "id": "nc75407947",
+      "lon": -122.935333251953,
+      "lat": 38.7768325805664,
+      "depth": 5.32999992370605,
+      "mag": 1.69,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": 1785335286690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407947"
+    },
     {
       "id": "aka2026oxdihh",
       "lon": -156.788,
@@ -32,6 +42,16 @@
       "place": "21 km ESE of Naalehu, Hawaii",
       "time": 1785334271900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75009757"
+    },
+    {
+      "id": "us6000tgnu",
+      "lon": 122.8525,
+      "lat": 15.2694,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "79 km NE of Casuguran, Philippines",
+      "time": 1785334263513,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgnu"
     },
     {
       "id": "hv75009747",
@@ -82,6 +102,16 @@
       "place": "48 km SW of Balangonan, Philippines",
       "time": 1785331436014,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgn0"
+    },
+    {
+      "id": "tx2026ourhgr",
+      "lon": -104.016,
+      "lat": 31.559,
+      "depth": 8.7146,
+      "mag": 1.5,
+      "place": "34 km NW of Toyah, Texas",
+      "time": 1785331346102,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ourhgr"
     },
     {
       "id": "us6000tgmx",
@@ -1884,16 +1914,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovyijj"
     },
     {
-      "id": "tx2026otoqey",
-      "lon": -104.021,
-      "lat": 31.561,
-      "depth": 12.432,
-      "mag": 0.7,
-      "place": "34 km NW of Toyah, Texas",
-      "time": 1785279318531,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026otoqey"
-    },
-    {
       "id": "ci40662770",
       "lon": -117.157833333333,
       "lat": 34.012,
@@ -2012,16 +2032,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1785275985910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407462"
-    },
-    {
-      "id": "tx2026otmthd",
-      "lon": -103.652,
-      "lat": 31.104,
-      "depth": 2.7565,
-      "mag": 2.1,
-      "place": "15 km NNE of Balmorhea, Texas",
-      "time": 1785275912175,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026otmthd"
     },
     {
       "id": "nc75407452",
@@ -2482,16 +2492,6 @@
       "place": "4 km ESE of Maria Antonia, Puerto Rico",
       "time": 1785265956530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526518"
-    },
-    {
-      "id": "tx2026othbrn",
-      "lon": -104.303,
-      "lat": 31.601,
-      "depth": 0,
-      "mag": 0.2,
-      "place": "57 km WNW of Toyah, Texas",
-      "time": 1785265634872,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026othbrn"
     },
     {
       "id": "av94341278",
@@ -3092,46 +3092,6 @@
       "place": "25 km E of Akhiok, Alaska",
       "time": 1785251035386,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovirzc"
-    },
-    {
-      "id": "nc75407277",
-      "lon": -122.814833333333,
-      "lat": 38.8355,
-      "depth": 2.15,
-      "mag": -0.35,
-      "place": "8 km W of Cobb, CA",
-      "time": 1785249880630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407277"
-    },
-    {
-      "id": "aka2026ovhyhb",
-      "lon": -146.112,
-      "lat": 61.187,
-      "depth": 17.3,
-      "mag": 0.7,
-      "place": "14 km ENE of Valdez, Alaska",
-      "time": 1785249672679,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovhyhb"
-    },
-    {
-      "id": "nc75407267",
-      "lon": -122.754501342773,
-      "lat": 38.7944984436035,
-      "depth": 0.649999976158142,
-      "mag": 0.7,
-      "place": "2 km N of The Geysers, CA",
-      "time": 1785249307300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407267"
-    },
-    {
-      "id": "ok2026ordl",
-      "lon": -95.82016667,
-      "lat": 36.2405,
-      "depth": 0,
-      "mag": 1.53,
-      "place": "4 km SE of Owasso, Oklahoma",
-      "time": 1785249219429,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ordl"
     }
   ]
 }
