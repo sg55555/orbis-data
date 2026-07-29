@@ -1,8 +1,58 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T04:30:53Z",
-  "count": 248,
+  "updated": "2026-07-29T04:45:40Z",
+  "count": 252,
   "points": [
+    {
+      "id": "ci40662858",
+      "lon": -116.4125,
+      "lat": 33.4745,
+      "depth": 5.52,
+      "mag": 0.88,
+      "place": "23 km SSW of La Quinta, CA",
+      "time": 1785300093680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662858"
+    },
+    {
+      "id": "ci40662850",
+      "lon": -116.397333333333,
+      "lat": 33.4776666666667,
+      "depth": 10.64,
+      "mag": 0.62,
+      "place": "22 km SSW of La Quinta, CA",
+      "time": 1785300067290,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662850"
+    },
+    {
+      "id": "nc75407677",
+      "lon": -122.941497802734,
+      "lat": 38.7755012512207,
+      "depth": 5.46000003814697,
+      "mag": 1.31,
+      "place": "7 km ESE of Cloverdale, CA",
+      "time": 1785299965420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407677"
+    },
+    {
+      "id": "nc75407672",
+      "lon": -122.938499450684,
+      "lat": 38.7750015258789,
+      "depth": 0.550000011920929,
+      "mag": 1.13,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": 1785299568340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407672"
+    },
+    {
+      "id": "ci40662842",
+      "lon": -117.701166666667,
+      "lat": 33.8635,
+      "depth": 9.07,
+      "mag": 1.01,
+      "place": "11 km ESE of Yorba Linda, CA",
+      "time": 1785299414200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662842"
+    },
     {
       "id": "nn00922510",
       "lon": -116.7166,
@@ -228,7 +278,7 @@
       "lon": -122.935836791992,
       "lat": 38.7743339538574,
       "depth": 5.53000020980835,
-      "mag": 4.28,
+      "mag": 4.26,
       "place": "8 km ESE of Cloverdale, CA",
       "time": 1785292806730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407577"
@@ -264,6 +314,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oweskw"
     },
     {
+      "id": "aka2026owedst",
+      "lon": -140.573,
+      "lat": 61.171,
+      "depth": 2.4,
+      "mag": 1.8,
+      "place": "129 km ESE of McCarthy, Alaska",
+      "time": 1785289631400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owedst"
+    },
+    {
       "id": "ci40662810",
       "lon": -119.105163574219,
       "lat": 35.0641670227051,
@@ -275,23 +335,33 @@
     },
     {
       "id": "aka2026owdmzn",
-      "lon": -152.321,
-      "lat": 60.305,
-      "depth": 87.1,
-      "mag": 1.8,
-      "place": "46 km NW of Ninilchik, Alaska",
-      "time": 1785288510853,
+      "lon": -152.3,
+      "lat": 60.296,
+      "depth": 85.5,
+      "mag": 2.3,
+      "place": "44 km NW of Ninilchik, Alaska",
+      "time": 1785288511028,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owdmzn"
     },
     {
       "id": "aka2026owdlzr",
-      "lon": -159.732,
-      "lat": 55.945,
-      "depth": 12.6,
-      "mag": 1.7,
-      "place": "16 km WNW of Ivanof Bay, Alaska",
-      "time": 1785288401834,
+      "lon": -159.774,
+      "lat": 55.986,
+      "depth": 8.5,
+      "mag": 2,
+      "place": "20 km WNW of Ivanof Bay, Alaska",
+      "time": 1785288401837,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owdlzr"
+    },
+    {
+      "id": "aka2026owddug",
+      "lon": -171.241,
+      "lat": 51.71,
+      "depth": 11.6,
+      "mag": 3.1,
+      "place": "210 km ESE of Atka, Alaska",
+      "time": 1785287815911,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owddug"
     },
     {
       "id": "tx2026otspkh",
@@ -362,6 +432,16 @@
       "place": "39 km SSE of Mākena, Hawaii",
       "time": 1785284182900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75009477"
+    },
+    {
+      "id": "aka2026owazar",
+      "lon": 176.189,
+      "lat": 51.832,
+      "depth": 5,
+      "mag": 3.1,
+      "place": "233 km ESE of Attu Station, Alaska",
+      "time": 1785284105720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owazar"
     },
     {
       "id": "nc75407522",
@@ -2442,46 +2522,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1785215078530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407132"
-    },
-    {
-      "id": "aka2026ouobhv",
-      "lon": -152.743,
-      "lat": 58.569,
-      "depth": 59.5,
-      "mag": 2.1,
-      "place": "57 km N of Aleneva, Alaska",
-      "time": 1785213897623,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouobhv"
-    },
-    {
-      "id": "us6000tgae",
-      "lon": 165.0432,
-      "lat": 56.064,
-      "depth": 10,
-      "mag": 5.8,
-      "place": "160 km E of Ust’-Kamchatsk Staryy, Russia",
-      "time": 1785213738739,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgae"
-    },
-    {
-      "id": "tx2026oseigy",
-      "lon": -98.968,
-      "lat": 28.826,
-      "depth": 8.1754,
-      "mag": 1.6,
-      "place": "14 km ESE of Pearsall, Texas",
-      "time": 1785213595956,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oseigy"
-    },
-    {
-      "id": "aka2026ounret",
-      "lon": -141.235,
-      "lat": 61.117,
-      "depth": 7.5,
-      "mag": 1.9,
-      "place": "97 km ESE of McCarthy, Alaska",
-      "time": 1785213198909,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ounret"
     }
   ]
 }
