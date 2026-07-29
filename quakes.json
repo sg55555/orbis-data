@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-29T09:24:32Z",
+  "updated": "2026-07-29T09:30:51Z",
   "count": 288,
   "points": [
     {
+      "id": "nc75407832",
+      "lon": -121.333999633789,
+      "lat": 36.6741676330566,
+      "depth": 4.15000009536743,
+      "mag": 1.15,
+      "place": "13 km S of Tres Pinos, CA",
+      "time": 1785317313350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407832"
+    },
+    {
       "id": "ci40662994",
-      "lon": -117.555000305176,
-      "lat": 35.7066650390625,
-      "depth": 8.13000011444092,
-      "mag": 1.77864286398105,
+      "lon": -117.5595,
+      "lat": 35.7078333333333,
+      "depth": 8.1,
+      "mag": 1.57,
       "place": "14 km NE of Ridgecrest, CA",
-      "time": 1785316834620,
+      "time": 1785316834630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662994"
     },
     {
@@ -2864,24 +2874,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407192"
     },
     {
-      "id": "aka2026ouxsve",
-      "lon": 176.228,
-      "lat": 51.938,
-      "depth": 5,
-      "mag": 3.7,
-      "place": "230 km ESE of Attu Station, Alaska",
-      "time": 1785231302035,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ouxsve"
-    },
-    {
-      "id": "nc75407182",
-      "lon": -122.311836242676,
-      "lat": 37.9474983215332,
-      "depth": 5.6399998664856,
-      "mag": 0.96,
-      "place": "0 km NNE of East Richmond Heights, CA",
-      "time": 1785230810400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407182"
+      "id": "us6000tgl6",
+      "lon": 176.2465,
+      "lat": 51.9786,
+      "depth": 6.274,
+      "mag": 3.9,
+      "place": "229 km ESE of Attu Station, Alaska",
+      "time": 1785231301892,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgl6"
     }
   ]
 }
