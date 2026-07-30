@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-30T17:45:37Z",
-  "count": 227,
+  "updated": "2026-07-30T18:01:03Z",
+  "count": 226,
   "points": [
+    {
+      "id": "ci40663786",
+      "lon": -116.3135,
+      "lat": 33.3155,
+      "depth": 12.02,
+      "mag": 1.23,
+      "place": "9 km NE of Borrego Springs, CA",
+      "time": 1785433844260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663786"
+    },
+    {
+      "id": "ci40663778",
+      "lon": -118.139666666667,
+      "lat": 33.8243333333333,
+      "depth": 13.49,
+      "mag": 2.4,
+      "place": "3 km NE of Long Beach, CA",
+      "time": 1785433473050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663778"
+    },
     {
       "id": "hv75010562",
       "lon": -155.50016784668,
@@ -22,6 +42,16 @@
       "place": "91 km WNW of Aleneva, Alaska",
       "time": 1785432487630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ozfodr"
+    },
+    {
+      "id": "uu80146562",
+      "lon": -112.283666666667,
+      "lat": 38.1646666666667,
+      "depth": -1.73,
+      "mag": 1.19,
+      "place": "1 km SW of Circleville, Utah",
+      "time": 1785431494280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146562"
     },
     {
       "id": "tx2026owunay",
@@ -2134,14 +2164,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526723"
     },
     {
-      "id": "aka2026oxmcas",
-      "lon": -153.089,
-      "lat": 60.058,
-      "depth": 5,
-      "mag": 0.2,
-      "place": "64 km ENE of Pedro Bay, Alaska",
-      "time": 1785350686691,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxmcas"
+      "id": "aka2026oxmbrc",
+      "lon": -159.604,
+      "lat": 55.354,
+      "depth": 0.7,
+      "mag": 2.4,
+      "place": "56 km E of Sand Point, Alaska",
+      "time": 1785350667008,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxmbrc"
     },
     {
       "id": "nc75408147",
@@ -2204,6 +2234,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663266"
     },
     {
+      "id": "aka2026oxktst",
+      "lon": -161.292,
+      "lat": 52.605,
+      "depth": 18.8,
+      "mag": 3,
+      "place": "281 km SSE of King Cove, Alaska",
+      "time": 1785348309722,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxktst"
+    },
+    {
       "id": "hv75009987",
       "lon": -155.488006591797,
       "lat": 19.2838325500488,
@@ -2222,56 +2262,6 @@
       "place": "8 km SSE of Wapanucka, Oklahoma",
       "time": 1785348214149,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026otfx"
-    },
-    {
-      "id": "ok2026otfr",
-      "lon": -96.80783333,
-      "lat": 36.81683333,
-      "depth": 0,
-      "mag": 0.91,
-      "place": "6 km NNE of Kaw City, Oklahoma",
-      "time": 1785347833580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026otfr"
-    },
-    {
-      "id": "aka2026oxkkfg",
-      "lon": -155.031,
-      "lat": 58.255,
-      "depth": 1.4,
-      "mag": 0.5,
-      "place": "83 km NNW of Karluk, Alaska",
-      "time": 1785347654092,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxkkfg"
-    },
-    {
-      "id": "nc75408127",
-      "lon": -122.818496704102,
-      "lat": 38.8393325805664,
-      "depth": 0.670000016689301,
-      "mag": 0.25,
-      "place": "8 km WNW of Cobb, CA",
-      "time": 1785347351440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408127"
-    },
-    {
-      "id": "ci40663258",
-      "lon": -117.707166666667,
-      "lat": 33.8895,
-      "depth": 10.78,
-      "mag": 1.2,
-      "place": "10 km E of Yorba Linda, CA",
-      "time": 1785347348200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663258"
-    },
-    {
-      "id": "nc75408122",
-      "lon": -122.942337036133,
-      "lat": 38.7718315124512,
-      "depth": 4.36999988555908,
-      "mag": 1.37,
-      "place": "7 km ESE of Cloverdale, CA",
-      "time": 1785347262430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408122"
     }
   ]
 }
