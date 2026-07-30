@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-30T13:45:34Z",
-  "count": 253,
+  "updated": "2026-07-30T14:01:01Z",
+  "count": 254,
   "points": [
+    {
+      "id": "nc75408502",
+      "lon": -123.229164123535,
+      "lat": 39.3349990844727,
+      "depth": 4.71000003814697,
+      "mag": 1.5,
+      "place": "8 km NNW of Redwood Valley, CA",
+      "time": 1785419688580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408502"
+    },
     {
       "id": "ci40663642",
       "lon": -116.803666666667,
@@ -485,12 +495,12 @@
     },
     {
       "id": "tx2026owagnt",
-      "lon": -101.787,
-      "lat": 32.16,
-      "depth": 4.4492,
+      "lon": -101.785,
+      "lat": 32.165,
+      "depth": 8.5693,
       "mag": 1.4,
       "place": "3 km N of Stanton, Texas",
-      "time": 1785394617696,
+      "time": 1785394618203,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026owagnt"
     },
     {
@@ -832,6 +842,16 @@
       "place": "53 km E of Denali National Park, Alaska",
       "time": 1785383271410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oyeeyl"
+    },
+    {
+      "id": "uu80146706",
+      "lon": -112.905,
+      "lat": 38.4805,
+      "depth": 2.66,
+      "mag": 0.51,
+      "place": "13 km NE of Milford, Utah",
+      "time": 1785382888390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146706"
     },
     {
       "id": "nc75408367",
@@ -2164,6 +2184,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146661"
     },
     {
+      "id": "ok2026otcb",
+      "lon": -97.87016667,
+      "lat": 35.07733333,
+      "depth": 6,
+      "mag": 0.08,
+      "place": "6 km ENE of Chickasha, Oklahoma",
+      "time": 1785341283569,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026otcb"
+    },
+    {
       "id": "nc75408002",
       "lon": -122.942337036133,
       "lat": 38.7761650085449,
@@ -2172,6 +2202,16 @@
       "place": "7 km ESE of Cloverdale, CA",
       "time": 1785340648190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408002"
+    },
+    {
+      "id": "ok2026otbm",
+      "lon": -95.0955,
+      "lat": 35.59883333,
+      "depth": 0,
+      "mag": 1.19,
+      "place": "2 km N of Notiechtown, Oklahoma",
+      "time": 1785340219920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026otbm"
     },
     {
       "id": "av94343378",
@@ -2502,36 +2542,6 @@
       "place": "10 km W of Honmachi, Japan",
       "time": 1785333754716,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgn1"
-    },
-    {
-      "id": "aka2026oxcmah",
-      "lon": -177.11,
-      "lat": 51.603,
-      "depth": 101.9,
-      "mag": 2.1,
-      "place": "44 km SW of Adak, Alaska",
-      "time": 1785333385906,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxcmah"
-    },
-    {
-      "id": "nc75407937",
-      "lon": -122.788665771484,
-      "lat": 38.8183326721191,
-      "depth": 2.1800000667572,
-      "mag": 1.65,
-      "place": "5 km NNW of The Geysers, CA",
-      "time": 1785333073340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407937"
-    },
-    {
-      "id": "nc75407932",
-      "lon": -122.839164733887,
-      "lat": 38.8569984436035,
-      "depth": 1.05999994277954,
-      "mag": 0.89,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1785332774200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407932"
     }
   ]
 }
