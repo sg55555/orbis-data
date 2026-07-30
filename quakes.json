@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-30T18:01:03Z",
+  "updated": "2026-07-30T18:15:35Z",
   "count": 226,
   "points": [
+    {
+      "id": "us6000th1h",
+      "lon": 138.9989,
+      "lat": 11.5807,
+      "depth": 34.505,
+      "mag": 5.9,
+      "place": "247 km NNE of Colonia, Micronesia",
+      "time": 1785434159690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th1h"
+    },
     {
       "id": "ci40663786",
       "lon": -116.3135,
@@ -1994,6 +2004,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ovexvb"
     },
     {
+      "id": "aka2026oxoxpb",
+      "lon": -178.842,
+      "lat": 51.874,
+      "depth": 151.6,
+      "mag": 1.9,
+      "place": "152 km W of Adak, Alaska",
+      "time": 1785355850817,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxoxpb"
+    },
+    {
+      "id": "aka2026oxotzm",
+      "lon": 176.973,
+      "lat": 50.374,
+      "depth": 5,
+      "mag": 3,
+      "place": "Rat Islands, Aleutian Islands, Alaska",
+      "time": 1785355494918,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxotzm"
+    },
+    {
       "id": "av94343768",
       "lon": -176.186166666667,
       "lat": 52.0191666666667,
@@ -2004,6 +2034,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94343768"
     },
     {
+      "id": "aka2026oxnwoe",
+      "lon": -168.284,
+      "lat": 52.667,
+      "depth": 19.6,
+      "mag": 2.6,
+      "place": "49 km SE of Nikolski, Alaska",
+      "time": 1785353908150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxnwoe"
+    },
+    {
       "id": "nc75408232",
       "lon": -122.752502441406,
       "lat": 38.792667388916,
@@ -2012,6 +2052,16 @@
       "place": "2 km N of The Geysers, CA",
       "time": 1785353698800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408232"
+    },
+    {
+      "id": "aka2026oxnsgs",
+      "lon": -175.803,
+      "lat": 50.968,
+      "depth": 15.2,
+      "mag": 2.4,
+      "place": "116 km SSE of Adak, Alaska",
+      "time": 1785353614073,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxnsgs"
     },
     {
       "id": "nc75408212",
@@ -2095,12 +2145,12 @@
     },
     {
       "id": "aka2026oxmvsv",
-      "lon": -152.93,
-      "lat": 59.6,
-      "depth": 111,
+      "lon": -152.925,
+      "lat": 59.594,
+      "depth": 110.1,
       "mag": 1.4,
-      "place": "63 km WNW of Nanwalek, Alaska",
-      "time": 1785352049453,
+      "place": "62 km WNW of Nanwalek, Alaska",
+      "time": 1785352049441,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxmvsv"
     },
     {
@@ -2212,56 +2262,6 @@
       "place": "21 km N of Ridgecrest, CA",
       "time": 1785348921190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663274"
-    },
-    {
-      "id": "us6000tgs2",
-      "lon": -45.9007,
-      "lat": 15.2857,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "northern Mid-Atlantic Ridge",
-      "time": 1785348586411,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgs2"
-    },
-    {
-      "id": "ci40663266",
-      "lon": -117.562,
-      "lat": 34.2011666666667,
-      "depth": 10.12,
-      "mag": 0.71,
-      "place": "9 km SW of Lytle Creek, CA",
-      "time": 1785348565750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663266"
-    },
-    {
-      "id": "aka2026oxktst",
-      "lon": -161.292,
-      "lat": 52.605,
-      "depth": 18.8,
-      "mag": 3,
-      "place": "281 km SSE of King Cove, Alaska",
-      "time": 1785348309722,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxktst"
-    },
-    {
-      "id": "hv75009987",
-      "lon": -155.488006591797,
-      "lat": 19.2838325500488,
-      "depth": 2.04999995231628,
-      "mag": 1.83,
-      "place": "9 km N of Pāhala, Hawaii",
-      "time": 1785348223020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75009987"
-    },
-    {
-      "id": "ok2026otfx",
-      "lon": -96.39866667,
-      "lat": 34.303,
-      "depth": 0,
-      "mag": 1.23,
-      "place": "8 km SSE of Wapanucka, Oklahoma",
-      "time": 1785348214149,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026otfx"
     }
   ]
 }
