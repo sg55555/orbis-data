@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-30T19:30:50Z",
-  "count": 235,
+  "updated": "2026-07-30T19:45:38Z",
+  "count": 234,
   "points": [
+    {
+      "id": "ci40663866",
+      "lon": -116.722,
+      "lat": 33.6676666666667,
+      "depth": 14.15,
+      "mag": 0.71,
+      "place": "8 km S of Idyllwild, CA",
+      "time": 1785439652940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663866"
+    },
     {
       "id": "ci40663858",
       "lon": -117.870666666667,
@@ -55,23 +65,13 @@
     },
     {
       "id": "nn00922594",
-      "lon": -115.7532,
-      "lat": 36.7263,
-      "depth": 3.1281,
-      "mag": 1.54,
-      "place": "18 km NNW of Indian Springs, Nevada",
-      "time": 1785437590872,
+      "lon": -115.7621,
+      "lat": 36.71,
+      "depth": 6.2183,
+      "mag": 1.51,
+      "place": "17 km NNW of Indian Springs, Nevada",
+      "time": 1785437591514,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922594"
-    },
-    {
-      "id": "tx2026owxvct",
-      "lon": -103.782,
-      "lat": 31.049,
-      "depth": 4.2931,
-      "mag": 2,
-      "place": "8 km NNW of Balmorhea, Texas",
-      "time": 1785437246190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026owxvct"
     },
     {
       "id": "tx2026owxvtm",
@@ -422,6 +422,16 @@
       "place": "7 km ESE of Cloverdale, CA",
       "time": 1785421700430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408532"
+    },
+    {
+      "id": "us6000th2i",
+      "lon": 130.7365,
+      "lat": -3.1747,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "175 km W of Fakfak, Indonesia",
+      "time": 1785421415883,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th2i"
     },
     {
       "id": "tx2026owoohi",
@@ -1884,6 +1894,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tguj"
     },
     {
+      "id": "aka2026oxtzga",
+      "lon": 176.313,
+      "lat": 52.007,
+      "depth": 10.1,
+      "mag": 3.1,
+      "place": "232 km ESE of Attu Station, Alaska",
+      "time": 1785364873439,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxtzga"
+    },
+    {
       "id": "tx2026ovjuyw",
       "lon": -104.049,
       "lat": 31.527,
@@ -1892,6 +1912,16 @@
       "place": "33 km NW of Toyah, Texas",
       "time": 1785364866548,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ovjuyw"
+    },
+    {
+      "id": "aka2026oxtsmq",
+      "lon": -151.541,
+      "lat": 60.376,
+      "depth": 65.1,
+      "mag": 1.3,
+      "place": "12 km W of Cohoe, Alaska",
+      "time": 1785364420646,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxtsmq"
     },
     {
       "id": "ci40663394",
@@ -1945,12 +1975,12 @@
     },
     {
       "id": "aka2026oxtctm",
-      "lon": -149.61,
-      "lat": 61.789,
-      "depth": 13.9,
-      "mag": 2.1,
-      "place": "18 km N of Meadow Lakes, Alaska",
-      "time": 1785363330214,
+      "lon": -149.583,
+      "lat": 61.81,
+      "depth": 22.8,
+      "mag": 2.2,
+      "place": "19 km WNW of Fishhook, Alaska",
+      "time": 1785363330982,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxtctm"
     },
     {
@@ -2312,46 +2342,6 @@
       "place": "38 km NNE of Amboy, Washington",
       "time": 1785355033030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714065341"
-    },
-    {
-      "id": "av94343768",
-      "lon": -176.186166666667,
-      "lat": 52.0191666666667,
-      "depth": 10.4,
-      "mag": -0.14,
-      "place": "34 km ENE of Adak, Alaska",
-      "time": 1785354235780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94343768"
-    },
-    {
-      "id": "aka2026oxnwoe",
-      "lon": -168.284,
-      "lat": 52.667,
-      "depth": 19.6,
-      "mag": 2.6,
-      "place": "49 km SE of Nikolski, Alaska",
-      "time": 1785353908150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxnwoe"
-    },
-    {
-      "id": "nc75408232",
-      "lon": -122.752502441406,
-      "lat": 38.792667388916,
-      "depth": 0.270000010728836,
-      "mag": 1.76,
-      "place": "2 km N of The Geysers, CA",
-      "time": 1785353698800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408232"
-    },
-    {
-      "id": "aka2026oxnsgs",
-      "lon": -175.803,
-      "lat": 50.968,
-      "depth": 15.2,
-      "mag": 2.4,
-      "place": "116 km SSE of Adak, Alaska",
-      "time": 1785353614073,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxnsgs"
     }
   ]
 }
