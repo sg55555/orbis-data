@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-30T14:01:01Z",
-  "count": 254,
+  "updated": "2026-07-30T14:15:36Z",
+  "count": 249,
   "points": [
+    {
+      "id": "nc75408517",
+      "lon": -121.458168029785,
+      "lat": 36.973331451416,
+      "depth": 1.3400000333786,
+      "mag": 2.8,
+      "place": "10 km ESE of Gilroy, CA",
+      "time": 1785420289330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408517"
+    },
     {
       "id": "nc75408502",
       "lon": -123.229164123535,
@@ -12,6 +22,16 @@
       "place": "8 km NNW of Redwood Valley, CA",
       "time": 1785419688580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408502"
+    },
+    {
+      "id": "us6000tgy8",
+      "lon": 130.642,
+      "lat": 32.6877,
+      "depth": 10,
+      "mag": 5,
+      "place": "2 km WNW of Uto, Japan",
+      "time": 1785419258996,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgy8"
     },
     {
       "id": "ci40663642",
@@ -2472,76 +2492,6 @@
       "place": "49 km SE of Ugashik, Alaska",
       "time": 1785334931607,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxdihh"
-    },
-    {
-      "id": "aka2026oxdatb",
-      "lon": -149.41,
-      "lat": 62.106,
-      "depth": 33.4,
-      "mag": 1.8,
-      "place": "23 km ESE of Susitna North, Alaska",
-      "time": 1785334481084,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxdatb"
-    },
-    {
-      "id": "hv75009757",
-      "lon": -155.382995605469,
-      "lat": 19.017333984375,
-      "depth": 33,
-      "mag": 1.7,
-      "place": "21 km ESE of Naalehu, Hawaii",
-      "time": 1785334271900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75009757"
-    },
-    {
-      "id": "us6000tgnu",
-      "lon": 122.8525,
-      "lat": 15.2694,
-      "depth": 10,
-      "mag": 5.1,
-      "place": "79 km NE of Casuguran, Philippines",
-      "time": 1785334263513,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgnu"
-    },
-    {
-      "id": "hv75009747",
-      "lon": -155.274993896484,
-      "lat": 19.4006671905518,
-      "depth": -0.119999997317791,
-      "mag": 1.82,
-      "place": "6 km SW of Volcano, Hawaii",
-      "time": 1785334117660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75009747"
-    },
-    {
-      "id": "ci40663146",
-      "lon": -115.570166666667,
-      "lat": 32.6245,
-      "depth": 7.44,
-      "mag": 2.39,
-      "place": "5 km NNE of Progreso, B.C., MX",
-      "time": 1785334112780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663146"
-    },
-    {
-      "id": "us6000tgnj",
-      "lon": 96.0618,
-      "lat": 22.0543,
-      "depth": 10,
-      "mag": 4.2,
-      "place": "9 km NNW of Mandalay, Burma (Myanmar)",
-      "time": 1785333763662,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgnj"
-    },
-    {
-      "id": "us6000tgn1",
-      "lon": 130.4901,
-      "lat": 32.5115,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "10 km W of Honmachi, Japan",
-      "time": 1785333754716,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgn1"
     }
   ]
 }
