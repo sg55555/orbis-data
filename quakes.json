@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-30T03:45:32Z",
-  "count": 313,
+  "updated": "2026-07-30T04:00:53Z",
+  "count": 305,
   "points": [
+    {
+      "id": "aka2026oyeeyl",
+      "lon": -150.641,
+      "lat": 63.571,
+      "depth": 1.2,
+      "mag": 2,
+      "place": "53 km E of Denali National Park, Alaska",
+      "time": 1785383271410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oyeeyl"
+    },
     {
       "id": "nc75408367",
       "lon": -121.451332092285,
@@ -155,12 +165,12 @@
     },
     {
       "id": "uw714065611",
-      "lon": -122.363166809082,
-      "lat": 46.3431663513184,
-      "depth": 14.039999961853,
-      "mag": 1.33000004,
+      "lon": -122.369666666667,
+      "lat": 46.3431666666667,
+      "depth": 17.3,
+      "mag": 0.97,
       "place": "22 km SSE of Mossyrock, Washington",
-      "time": 1785375862180,
+      "time": 1785375861760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714065611"
     },
     {
@@ -1362,6 +1372,16 @@
       "place": "20 km NNW of Borrego Springs, CA",
       "time": 1785338245640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663170"
+    },
+    {
+      "id": "av94343313",
+      "lon": -159.659333333333,
+      "lat": 55.969,
+      "depth": 24.36,
+      "mag": 0.82,
+      "place": "13 km NW of Ivanof Bay, Alaska",
+      "time": 1785337957480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94343313"
     },
     {
       "id": "us6000tgpr",
@@ -3032,106 +3052,6 @@
       "place": "209 km ENE of Levuka, Fiji",
       "time": 1785298042786,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgkg"
-    },
-    {
-      "id": "ci40662834",
-      "lon": -116.0865,
-      "lat": 33.7863333333333,
-      "depth": 2.37,
-      "mag": 1.06,
-      "place": "14 km ENE of Indio, CA",
-      "time": 1785297336980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662834"
-    },
-    {
-      "id": "tx2026otyoes",
-      "lon": -103.943,
-      "lat": 32.031,
-      "depth": 7.6892,
-      "mag": 0.9,
-      "place": "24 km SSE of Malaga, New Mexico",
-      "time": 1785297275377,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026otyoes"
-    },
-    {
-      "id": "us6000tgke",
-      "lon": -92.8934,
-      "lat": 14.3498,
-      "depth": 35,
-      "mag": 4,
-      "place": "65 km SW of Puerto Madero, Mexico",
-      "time": 1785297196361,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgke"
-    },
-    {
-      "id": "uw714064731",
-      "lon": -121.971833333333,
-      "lat": 46.8765,
-      "depth": 5.5,
-      "mag": 0.5,
-      "place": "13 km NNE of Ashford, Washington",
-      "time": 1785297177690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714064731"
-    },
-    {
-      "id": "us6000tgkd",
-      "lon": -174.924,
-      "lat": -24.6364,
-      "depth": 10,
-      "mag": 5,
-      "place": "south of Tonga",
-      "time": 1785297142131,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgkd"
-    },
-    {
-      "id": "nc75407657",
-      "lon": -122.84349822998,
-      "lat": 38.8230018615723,
-      "depth": 2.22000002861023,
-      "mag": 1.19,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1785296999620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407657"
-    },
-    {
-      "id": "nc75407652",
-      "lon": -122.93399810791,
-      "lat": 38.7779998779297,
-      "depth": 5.32999992370605,
-      "mag": 2.25,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1785296918170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407652"
-    },
-    {
-      "id": "tx2026otyizf",
-      "lon": -103.231,
-      "lat": 32.003,
-      "depth": 6.2024,
-      "mag": 1.1,
-      "place": "12 km SSW of Jal, New Mexico",
-      "time": 1785296915520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026otyizf"
-    },
-    {
-      "id": "aka2026owiemt",
-      "lon": -175.92,
-      "lat": 51.37,
-      "depth": 18.2,
-      "mag": 2.1,
-      "place": "74 km SE of Adak, Alaska",
-      "time": 1785296881123,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owiemt"
-    },
-    {
-      "id": "ci40662826",
-      "lon": -116.341333333333,
-      "lat": 33.1795,
-      "depth": 11.66,
-      "mag": 0.46,
-      "place": "9 km SSE of Borrego Springs, CA",
-      "time": 1785296868670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662826"
     }
   ]
 }
