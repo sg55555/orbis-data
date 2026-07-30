@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-30T22:15:44Z",
-  "count": 228,
+  "updated": "2026-07-30T22:33:10Z",
+  "count": 224,
   "points": [
+    {
+      "id": "aka2026ozpent",
+      "lon": -149.598,
+      "lat": 61.704,
+      "depth": 59.9,
+      "mag": 2.3,
+      "place": "8 km N of Meadow Lakes, Alaska",
+      "time": 1785449814758,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ozpent"
+    },
     {
       "id": "nc75408807",
       "lon": -122.936668395996,
@@ -292,6 +302,16 @@
       "place": "60 km S of Whites City, New Mexico",
       "time": 1785437222365,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026owxvtm"
+    },
+    {
+      "id": "av94346333",
+      "lon": -178.794,
+      "lat": 51.7145,
+      "depth": 8.99,
+      "mag": 1.19,
+      "place": "150 km W of Adak, Alaska",
+      "time": 1785437148460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94346333"
     },
     {
       "id": "ci40663810",
@@ -2222,66 +2242,6 @@
       "place": "12 km W of Cohoe, Alaska",
       "time": 1785364420646,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxtsmq"
-    },
-    {
-      "id": "ci40663394",
-      "lon": -117.3055,
-      "lat": 34.6388333333333,
-      "depth": -0.81,
-      "mag": 1.36,
-      "place": "11 km ENE of Adelanto, CA",
-      "time": 1785364131600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663394"
-    },
-    {
-      "id": "av94344023",
-      "lon": -166.669333333333,
-      "lat": 53.8996666666667,
-      "depth": 7.8,
-      "mag": -0.19,
-      "place": "8 km W of Dutch Harbor, Alaska",
-      "time": 1785364127860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94344023"
-    },
-    {
-      "id": "us6000tguf",
-      "lon": -176.5171,
-      "lat": -28.4982,
-      "depth": 10,
-      "mag": 5.9,
-      "place": "Kermadec Islands region",
-      "time": 1785364077690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tguf"
-    },
-    {
-      "id": "nc75408312",
-      "lon": -122.927833557129,
-      "lat": 38.7611656188965,
-      "depth": 6.23999977111816,
-      "mag": 0.94,
-      "place": "9 km ESE of Cloverdale, CA",
-      "time": 1785363974830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408312"
-    },
-    {
-      "id": "uw714065511",
-      "lon": -122.457166666667,
-      "lat": 45.8075,
-      "depth": -0.82,
-      "mag": 1.47,
-      "place": "4 km NW of Venersborg, Washington",
-      "time": 1785363943620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714065511"
-    },
-    {
-      "id": "ci40663378",
-      "lon": -116.689333333333,
-      "lat": 33.3735,
-      "depth": 12.29,
-      "mag": 0.38,
-      "place": "11 km NNW of Warner Springs, CA",
-      "time": 1785363447370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663378"
     }
   ]
 }
