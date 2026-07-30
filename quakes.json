@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-30T19:15:37Z",
-  "count": 237,
+  "updated": "2026-07-30T19:30:50Z",
+  "count": 235,
   "points": [
+    {
+      "id": "ci40663858",
+      "lon": -117.870666666667,
+      "lat": 36.1036666666667,
+      "depth": 2.94,
+      "mag": 1.09,
+      "place": "10 km NE of Coso Junction, CA",
+      "time": 1785438833450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663858"
+    },
     {
       "id": "ci40663850",
       "lon": -117.5745,
@@ -94,23 +104,33 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408687"
     },
     {
-      "id": "tx2026owxgxf",
-      "lon": -101.107,
-      "lat": 32.317,
-      "depth": 4.5174,
-      "mag": 1.5,
-      "place": "9 km WSW of Westbrook, Texas",
-      "time": 1785436168710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026owxgxf"
+      "id": "uu80007783",
+      "lon": -112.365833333333,
+      "lat": 38.1213333333333,
+      "depth": 2.69,
+      "mag": 1.62,
+      "place": "10 km SW of Circleville, Utah",
+      "time": 1785436571120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007783"
+    },
+    {
+      "id": "uu80146577",
+      "lon": -112.339,
+      "lat": 38.1355,
+      "depth": 6.36,
+      "mag": 1.44,
+      "place": "7 km SW of Circleville, Utah",
+      "time": 1785436529990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146577"
     },
     {
       "id": "hv75010587",
-      "lon": -155.434494018555,
-      "lat": 19.3813323974609,
-      "depth": 5.65000009536743,
-      "mag": 2.03,
-      "place": "20 km NNE of Pāhala, Hawaii",
-      "time": 1785435731400,
+      "lon": -155.437,
+      "lat": 19.3703333333333,
+      "depth": 7.47,
+      "mag": 1.68,
+      "place": "19 km NNE of Pāhala, Hawaii",
+      "time": 1785435731230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75010587"
     },
     {
@@ -122,6 +142,16 @@
       "place": "54 km SW of Puerto Madero, Mexico",
       "time": 1785435636265,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th1t"
+    },
+    {
+      "id": "us6000th1p",
+      "lon": 129.0625,
+      "lat": -5.3977,
+      "depth": 256.241,
+      "mag": 4.5,
+      "place": "211 km SSE of Ambon, Indonesia",
+      "time": 1785435063520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th1p"
     },
     {
       "id": "ci40663802",
@@ -285,12 +315,12 @@
     },
     {
       "id": "nc75408617",
-      "lon": -118.838668823242,
-      "lat": 37.5031661987305,
-      "depth": 7.21999979019165,
-      "mag": 3.63,
-      "place": "15 km WSW of Toms Place, CA",
-      "time": 1785425697120,
+      "lon": -118.8415,
+      "lat": 37.5006666666667,
+      "depth": 7.26,
+      "mag": 3.42,
+      "place": "16 km WSW of Toms Place, CA",
+      "time": 1785425697070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408617"
     },
     {
@@ -342,6 +372,16 @@
       "place": "34 km NNE of Ivanof Bay, Alaska",
       "time": 1785422602118,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ozabhg"
+    },
+    {
+      "id": "us6000tgyg",
+      "lon": 138.888,
+      "lat": -2.7043,
+      "depth": 35,
+      "mag": 4.4,
+      "place": "194 km W of Abepura, Indonesia",
+      "time": 1785422255385,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgyg"
     },
     {
       "id": "ci40663666",
@@ -1345,12 +1385,12 @@
     },
     {
       "id": "hv75010292",
-      "lon": -155.05583190918,
-      "lat": 19.2216663360596,
-      "depth": 42.0099983215332,
-      "mag": 2.46,
-      "place": "28 km SSE of Fern Forest, Hawaii",
-      "time": 1785384601870,
+      "lon": -155.038333333333,
+      "lat": 19.2133333333333,
+      "depth": 41.65,
+      "mag": 2.1,
+      "place": "29 km SSE of Fern Forest, Hawaii",
+      "time": 1785384601750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75010292"
     },
     {
@@ -2312,66 +2352,6 @@
       "place": "116 km SSE of Adak, Alaska",
       "time": 1785353614073,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxnsgs"
-    },
-    {
-      "id": "nc75408212",
-      "lon": -122.934669494629,
-      "lat": 38.7771682739258,
-      "depth": 4.6399998664856,
-      "mag": 1.13,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1785353288400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408212"
-    },
-    {
-      "id": "nc75408207",
-      "lon": -122.950164794922,
-      "lat": 38.772834777832,
-      "depth": 6.90000009536743,
-      "mag": 1.18,
-      "place": "7 km ESE of Cloverdale, CA",
-      "time": 1785353094820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408207"
-    },
-    {
-      "id": "nc75408202",
-      "lon": -122.758163452148,
-      "lat": 38.7955017089844,
-      "depth": 0.629999995231628,
-      "mag": 1.09,
-      "place": "2 km N of The Geysers, CA",
-      "time": 1785353000990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408202"
-    },
-    {
-      "id": "nc75408197",
-      "lon": -122.75366973877,
-      "lat": 38.7921676635742,
-      "depth": -0.0599999986588955,
-      "mag": 2.06,
-      "place": "2 km N of The Geysers, CA",
-      "time": 1785352915460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408197"
-    },
-    {
-      "id": "ci40663290",
-      "lon": -116.911666666667,
-      "lat": 33.3531666666667,
-      "depth": 9.86,
-      "mag": 0.57,
-      "place": "4 km W of Palomar Observatory, CA",
-      "time": 1785352738350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663290"
-    },
-    {
-      "id": "nc75408192",
-      "lon": -122.500663757324,
-      "lat": 38.3766670227051,
-      "depth": -0.509999990463257,
-      "mag": 1.8,
-      "place": "3 km ENE of Glen Ellen, CA",
-      "time": 1785352588590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408192"
     }
   ]
 }
