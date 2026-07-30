@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-30T21:15:34Z",
-  "count": 230,
+  "updated": "2026-07-30T21:30:48Z",
+  "count": 226,
   "points": [
     {
       "id": "aka2026ozmylz",
@@ -95,12 +95,12 @@
     },
     {
       "id": "uw714066341",
-      "lon": -122.272666931152,
-      "lat": 46.8833351135254,
-      "depth": 1.61000001430511,
-      "mag": 0.360000014,
-      "place": "1 km NNW of Eatonville, Washington",
-      "time": 1785441933910,
+      "lon": -122.272166666667,
+      "lat": 46.8745,
+      "depth": -0.38,
+      "mag": 1.53,
+      "place": "0 km NNW of Eatonville, Washington",
+      "time": 1785441933810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714066341"
     },
     {
@@ -232,6 +232,16 @@
       "place": "7 km SW of Circleville, Utah",
       "time": 1785436529990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146577"
+    },
+    {
+      "id": "tx2026owxgxf",
+      "lon": -101.101,
+      "lat": 32.315,
+      "depth": 8.6182,
+      "mag": 1.5,
+      "place": "9 km WSW of Westbrook, Texas",
+      "time": 1785436169226,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026owxgxf"
     },
     {
       "id": "hv75010587",
@@ -512,6 +522,16 @@
       "place": "13 km NW of Midland, Texas",
       "time": 1785424490397,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026owquqd"
+    },
+    {
+      "id": "tx2026owqidy",
+      "lon": -102.098,
+      "lat": 32.379,
+      "depth": 7.5439,
+      "mag": 0.2,
+      "place": "39 km WSW of Ackerly, Texas",
+      "time": 1785423593330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026owqidy"
     },
     {
       "id": "us6000tgzc",
@@ -2242,66 +2262,6 @@
       "place": "83 km NNW of Karluk, Alaska",
       "time": 1785360736195,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxrrgh"
-    },
-    {
-      "id": "nc75408277",
-      "lon": -122.939834594727,
-      "lat": 38.7746658325195,
-      "depth": 4.6100001335144,
-      "mag": 1.32,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1785360408600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408277"
-    },
-    {
-      "id": "nc75408272",
-      "lon": -120.557998657227,
-      "lat": 35.9966659545898,
-      "depth": 0.689999997615814,
-      "mag": 0.64,
-      "place": "16 km NW of Parkfield, CA",
-      "time": 1785360259120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408272"
-    },
-    {
-      "id": "uw714065431",
-      "lon": -119.7905,
-      "lat": 45.5133333333333,
-      "depth": -0.81,
-      "mag": 1.46,
-      "place": "2 km ENE of Ione, Oregon",
-      "time": 1785360010240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714065431"
-    },
-    {
-      "id": "nc75408262",
-      "lon": -121.444664001465,
-      "lat": 36.9581680297852,
-      "depth": 5.92999982833862,
-      "mag": 1.65,
-      "place": "12 km ESE of Gilroy, CA",
-      "time": 1785359963750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408262"
-    },
-    {
-      "id": "av94343918",
-      "lon": -166.623,
-      "lat": 53.8955,
-      "depth": 8.39,
-      "mag": 0.72,
-      "place": "5 km W of Dutch Harbor, Alaska",
-      "time": 1785359886690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94343918"
-    },
-    {
-      "id": "aka2026oxrcsv",
-      "lon": -173.629,
-      "lat": 51.493,
-      "depth": 5,
-      "mag": 2.4,
-      "place": "87 km SSE of Atka, Alaska",
-      "time": 1785359729961,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxrcsv"
     }
   ]
 }
