@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-30T06:15:35Z",
-  "count": 294,
+  "updated": "2026-07-30T06:30:46Z",
+  "count": 296,
   "points": [
+    {
+      "id": "ci40663514",
+      "lon": -117.8075,
+      "lat": 35.3205,
+      "depth": 6.48,
+      "mag": 1.76,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1785392683970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663514"
+    },
+    {
+      "id": "us6000tgw3",
+      "lon": -69.1849,
+      "lat": -20.0489,
+      "depth": 97.83,
+      "mag": 4.6,
+      "place": "58 km ENE of La Tirana, Chile",
+      "time": 1785391461241,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgw3"
+    },
     {
       "id": "ci40663506",
       "lon": -117.491833333333,
@@ -32,6 +52,16 @@
       "place": "63 km ENE of Pedro Bay, Alaska",
       "time": 1785390529868,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oyifuw"
+    },
+    {
+      "id": "us6000tgw1",
+      "lon": 52.0375,
+      "lat": -36.4669,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "Southwest Indian Ridge",
+      "time": 1785390412042,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgw1"
     },
     {
       "id": "ci40663490",
@@ -862,6 +892,16 @@
       "place": "12 km W of Midland, Texas",
       "time": 1785357717592,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ovfwcx"
+    },
+    {
+      "id": "av94343848",
+      "lon": -155.355333333333,
+      "lat": 58.1746666666667,
+      "depth": 5,
+      "mag": -0.45,
+      "place": "86 km NW of Karluk, Alaska",
+      "time": 1785357682680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94343848"
     },
     {
       "id": "ci40663322",
@@ -2922,26 +2962,6 @@
       "place": "2 km NNE of Valle Vista, CA",
       "time": 1785306671130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662914"
-    },
-    {
-      "id": "uu80007773",
-      "lon": -112.8605,
-      "lat": 37.1086666666667,
-      "depth": 18.84,
-      "mag": 1.25,
-      "place": "15 km NE of Hildale, Utah",
-      "time": 1785306352780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007773"
-    },
-    {
-      "id": "nc75407727",
-      "lon": -122.936996459961,
-      "lat": 38.7763328552246,
-      "depth": 3.75,
-      "mag": 1.13,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1785306170090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407727"
     }
   ]
 }
