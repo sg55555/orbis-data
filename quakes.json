@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-30T11:00:58Z",
-  "count": 266,
+  "updated": "2026-07-30T11:15:34Z",
+  "count": 268,
   "points": [
+    {
+      "id": "ci40663610",
+      "lon": -116.080333333333,
+      "lat": 33.15,
+      "depth": 10.43,
+      "mag": 0.97,
+      "place": "5 km E of Ocotillo Wells, CA",
+      "time": 1785409554240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663610"
+    },
     {
       "id": "hv75010432",
       "lon": -155.516998291016,
@@ -132,6 +142,26 @@
       "place": "34 km SSE of Denali National Park, Alaska",
       "time": 1785402566166,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oyoxtd"
+    },
+    {
+      "id": "pr71526773",
+      "lon": -66.7553333333333,
+      "lat": 18.0155,
+      "depth": 14.65,
+      "mag": 2.07,
+      "place": "1 km E of Magas Arriba, Puerto Rico",
+      "time": 1785402102220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526773"
+    },
+    {
+      "id": "pr71526763",
+      "lon": -66.7688333333333,
+      "lat": 18.0276666666667,
+      "depth": 13.13,
+      "mag": 1.9,
+      "place": "1 km N of Magas Arriba, Puerto Rico",
+      "time": 1785401281340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526763"
     },
     {
       "id": "hv75010392",
@@ -752,6 +782,16 @@
       "place": "7 km WSW of Anza, CA",
       "time": 1785379446680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663426"
+    },
+    {
+      "id": "tx2026ovrxeq",
+      "lon": -103.314,
+      "lat": 31.976,
+      "depth": 6.5356,
+      "mag": 0.9,
+      "place": "18 km SW of Jal, New Mexico",
+      "time": 1785379361123,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ovrxeq"
     },
     {
       "id": "nc75408347",
@@ -2642,26 +2682,6 @@
       "place": "54 km E of Denali National Park, Alaska",
       "time": 1785323881967,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owxern"
-    },
-    {
-      "id": "ci40663034",
-      "lon": -116.8285,
-      "lat": 34.0326666666667,
-      "depth": 16.15,
-      "mag": 1.21,
-      "place": "13 km NNE of Banning, CA",
-      "time": 1785323622820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663034"
-    },
-    {
-      "id": "ci40663026",
-      "lon": -118.339166666667,
-      "lat": 34.1765,
-      "depth": 12.69,
-      "mag": 0.92,
-      "place": "3 km W of Burbank, CA",
-      "time": 1785323347240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663026"
     }
   ]
 }
