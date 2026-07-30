@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-30T06:01:01Z",
-  "count": 293,
+  "updated": "2026-07-30T06:10:02Z",
+  "count": 294,
   "points": [
+    {
+      "id": "ci40663506",
+      "lon": -117.491833333333,
+      "lat": 35.67,
+      "depth": 4.35,
+      "mag": 0.36,
+      "place": "13 km SW of Searles Valley, CA",
+      "time": 1785391415380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663506"
+    },
     {
       "id": "ci40663498",
       "lon": -116.344,
@@ -52,6 +62,16 @@
       "place": "14 km W of Johannesburg, CA",
       "time": 1785388925670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663482"
+    },
+    {
+      "id": "tx2026ovxdhe",
+      "lon": -104.495,
+      "lat": 31.624,
+      "depth": 3.184,
+      "mag": 1.8,
+      "place": "62 km S of Whites City, New Mexico",
+      "time": 1785388850844,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ovxdhe"
     },
     {
       "id": "us6000tgvz",
@@ -902,6 +922,16 @@
       "place": "8 km ESE of Cloverdale, CA",
       "time": 1785355904260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408247"
+    },
+    {
+      "id": "av94343768",
+      "lon": -176.186166666667,
+      "lat": 52.0191666666667,
+      "depth": 10.4,
+      "mag": -0.14,
+      "place": "34 km ENE of Adak, Alaska",
+      "time": 1785354235780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94343768"
     },
     {
       "id": "nc75408232",
@@ -2912,26 +2942,6 @@
       "place": "8 km ESE of Cloverdale, CA",
       "time": 1785306170090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407727"
-    },
-    {
-      "id": "us6000tgla",
-      "lon": 78.9587,
-      "lat": 41.1814,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "102 km WNW of Aykol, China",
-      "time": 1785305397133,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgla"
-    },
-    {
-      "id": "aka2026owmpvu",
-      "lon": -175.559,
-      "lat": 51.97,
-      "depth": 230.9,
-      "mag": 2.1,
-      "place": "74 km E of Adak, Alaska",
-      "time": 1785304872437,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owmpvu"
     }
   ]
 }
