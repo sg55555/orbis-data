@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-30T09:45:44Z",
+  "updated": "2026-07-30T10:00:59Z",
   "count": 275,
   "points": [
+    {
+      "id": "nc75408432",
+      "lon": -119.243499755859,
+      "lat": 38.1118316650391,
+      "depth": 2.48000001907349,
+      "mag": 1.99,
+      "place": "16 km S of Bridgeport, CA",
+      "time": 1785405324360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408432"
+    },
+    {
+      "id": "nc75408427",
+      "lon": -122.76016998291,
+      "lat": 38.8266677856445,
+      "depth": 0.189999997615814,
+      "mag": 1.23,
+      "place": "3 km W of Cobb, CA",
+      "time": 1785405207700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408427"
+    },
     {
       "id": "ci40663586",
       "lon": -118.4655,
@@ -705,12 +725,12 @@
     },
     {
       "id": "tx2026ovomqs",
-      "lon": -101.76,
+      "lon": -101.759,
       "lat": 32.361,
-      "depth": 3.8397,
-      "mag": 1.2,
+      "depth": 6.8115,
+      "mag": 1.1,
       "place": "18 km SSW of Ackerly, Texas",
-      "time": 1785373219576,
+      "time": 1785373219972,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ovomqs"
     },
     {
@@ -2732,26 +2752,6 @@
       "place": "5 km W of Dutch Harbor, Alaska",
       "time": 1785319562120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94342783"
-    },
-    {
-      "id": "ci40663010",
-      "lon": -117.446666666667,
-      "lat": 35.6381666666667,
-      "depth": 5.07,
-      "mag": 0.94,
-      "place": "15 km SSW of Searles Valley, CA",
-      "time": 1785319109890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663010"
-    },
-    {
-      "id": "tx2026oukgld",
-      "lon": -104.438,
-      "lat": 31.676,
-      "depth": 7.5659,
-      "mag": 1.8,
-      "place": "55 km S of Whites City, New Mexico",
-      "time": 1785318464838,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oukgld"
     }
   ]
 }
