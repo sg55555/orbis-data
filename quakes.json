@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-30T08:30:48Z",
-  "count": 294,
+  "updated": "2026-07-30T09:03:05Z",
+  "count": 288,
   "points": [
+    {
+      "id": "hv75010392",
+      "lon": -155.481674194336,
+      "lat": 19.2103328704834,
+      "depth": 30.1599998474121,
+      "mag": 2.06,
+      "place": "0 km NNW of Pāhala, Hawaii",
+      "time": 1785400144870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75010392"
+    },
     {
       "id": "uw714065701",
       "lon": -122.637664794922,
@@ -22,6 +32,16 @@
       "place": "68 km SW of Mago, Russia",
       "time": 1785398937512,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgwu"
+    },
+    {
+      "id": "us6000tgwt",
+      "lon": 54.8451,
+      "lat": 36.735,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "24 km ESE of Qarnābād, Iran",
+      "time": 1785398834482,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgwt"
     },
     {
       "id": "ci40663570",
@@ -314,23 +334,13 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663474"
     },
     {
-      "id": "tx2026ovwgex",
-      "lon": -103.252,
-      "lat": 32.019,
-      "depth": 4.7333,
-      "mag": 1.7,
-      "place": "11 km SSW of Jal, New Mexico",
-      "time": 1785387260214,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ovwgex"
-    },
-    {
       "id": "tx2026ovwgkz",
-      "lon": -103.251,
-      "lat": 32.012,
-      "depth": 6.1627,
-      "mag": 1.7,
+      "lon": -103.24,
+      "lat": 32.006,
+      "depth": 6.6638,
+      "mag": 1.4,
       "place": "12 km SSW of Jal, New Mexico",
-      "time": 1785387259836,
+      "time": 1785387259898,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ovwgkz"
     },
     {
@@ -2872,76 +2882,6 @@
       "place": "29 km E of West Yellowstone, Montana",
       "time": 1785315743100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146651"
-    },
-    {
-      "id": "uu80146646",
-      "lon": -110.727333333333,
-      "lat": 44.6221666666667,
-      "depth": 8.64,
-      "mag": 0.19,
-      "place": "30 km E of West Yellowstone, Montana",
-      "time": 1785315171500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146646"
-    },
-    {
-      "id": "nn00922515",
-      "lon": -114.6231,
-      "lat": 38.1937,
-      "depth": 0.0035,
-      "mag": 1.94,
-      "place": "32 km NNW of Pioche, Nevada",
-      "time": 1785314885288,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922515"
-    },
-    {
-      "id": "nc75407797",
-      "lon": -122.801002502441,
-      "lat": 38.8226661682129,
-      "depth": 3.02999997138977,
-      "mag": 1.04,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1785314819930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407797"
-    },
-    {
-      "id": "ci40662978",
-      "lon": -116.4365,
-      "lat": 33.1581666666667,
-      "depth": 11.13,
-      "mag": 1.44,
-      "place": "12 km SSW of Borrego Springs, CA",
-      "time": 1785314807900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662978"
-    },
-    {
-      "id": "av94342653",
-      "lon": -176.159666666667,
-      "lat": 52.0853333333333,
-      "depth": 8.02,
-      "mag": 0.33,
-      "place": "40 km NE of Adak, Alaska",
-      "time": 1785314494730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94342653"
-    },
-    {
-      "id": "aka2026owryui",
-      "lon": -159.808,
-      "lat": 54.607,
-      "depth": 2.1,
-      "mag": 2.2,
-      "place": "92 km SSE of Sand Point, Alaska",
-      "time": 1785314478761,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owryui"
-    },
-    {
-      "id": "ci40662970",
-      "lon": -117.152833333333,
-      "lat": 34.0125,
-      "depth": 4.58,
-      "mag": 0.77,
-      "place": "6 km SSE of Redlands, CA",
-      "time": 1785313860990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40662970"
     }
   ]
 }
