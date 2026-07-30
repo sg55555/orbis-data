@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-30T16:15:40Z",
-  "count": 237,
+  "updated": "2026-07-30T16:30:46Z",
+  "count": 236,
   "points": [
+    {
+      "id": "ci40663722",
+      "lon": -118.082333333333,
+      "lat": 36.1475,
+      "depth": 3.43,
+      "mag": 0.9,
+      "place": "16 km SSW of Olancha, CA",
+      "time": 1785428697240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663722"
+    },
     {
       "id": "aka2026ozcybg",
       "lon": -146.815,
@@ -605,12 +615,12 @@
     },
     {
       "id": "aka2026oymslq",
-      "lon": -148.73,
-      "lat": 61.165,
-      "depth": 17.8,
-      "mag": 3.4,
-      "place": "34 km NE of Girdwood, Alaska",
-      "time": 1785398602704,
+      "lon": -148.737,
+      "lat": 61.168,
+      "depth": 17,
+      "mag": 3.2,
+      "place": "33 km SSE of Knik River, Alaska",
+      "time": 1785398602770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oymslq"
     },
     {
@@ -625,12 +635,12 @@
     },
     {
       "id": "nn00922562",
-      "lon": -117.8305,
-      "lat": 38.1707,
-      "depth": 0.7264,
+      "lon": -117.8415,
+      "lat": 38.1616,
+      "depth": 9.2208,
       "mag": 1.58,
       "place": "34 km SE of Mina, Nevada",
-      "time": 1785398099700,
+      "time": 1785398100645,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922562"
     },
     {
@@ -2352,26 +2362,6 @@
       "place": "11 km ESE of Hidden Valley Lake, CA",
       "time": 1785342651360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408077"
-    },
-    {
-      "id": "tx2026ouxhfs",
-      "lon": -103.425,
-      "lat": 31.383,
-      "depth": 2.511,
-      "mag": 1.6,
-      "place": "7 km SE of Pecos, Texas",
-      "time": 1785342053933,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ouxhfs"
-    },
-    {
-      "id": "nc75408062",
-      "lon": -122.805168151855,
-      "lat": 38.820499420166,
-      "depth": 3.15000009536743,
-      "mag": 0.81,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1785342050790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408062"
     }
   ]
 }
