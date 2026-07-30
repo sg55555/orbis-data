@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-30T18:15:35Z",
-  "count": 226,
+  "updated": "2026-07-30T18:30:47Z",
+  "count": 228,
   "points": [
+    {
+      "id": "hv75010587",
+      "lon": -155.434494018555,
+      "lat": 19.3813323974609,
+      "depth": 5.65000009536743,
+      "mag": 2.03,
+      "place": "20 km NNE of Pāhala, Hawaii",
+      "time": 1785435731400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75010587"
+    },
+    {
+      "id": "ci40663802",
+      "lon": -114.9945,
+      "lat": 33.0548333333333,
+      "depth": -0.18,
+      "mag": 1.2,
+      "place": "45 km NE of Holtville, CA",
+      "time": 1785434897980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663802"
+    },
     {
       "id": "us6000th1h",
       "lon": 138.9989,
@@ -25,12 +45,12 @@
     },
     {
       "id": "ci40663778",
-      "lon": -118.139666666667,
-      "lat": 33.8243333333333,
-      "depth": 13.49,
-      "mag": 2.4,
-      "place": "3 km NE of Long Beach, CA",
-      "time": 1785433473050,
+      "lon": -118.1385,
+      "lat": 33.8285,
+      "depth": 12.91,
+      "mag": 2.29,
+      "place": "3 km S of Lakewood, CA",
+      "time": 1785433473030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663778"
     },
     {
@@ -1124,6 +1144,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ovvjfa"
     },
     {
+      "id": "uw714065661",
+      "lon": -122.546666666667,
+      "lat": 45.6565,
+      "depth": 9.48,
+      "mag": 0.73,
+      "place": "1 km SE of Orchards, Washington",
+      "time": 1785385569570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714065661"
+    },
+    {
       "id": "uu80146711",
       "lon": -112.903333333333,
       "lat": 38.4811666666667,
@@ -1615,12 +1645,12 @@
     },
     {
       "id": "hv75010172",
-      "lon": -155.430999755859,
-      "lat": 19.4680004119873,
-      "depth": 2.25999999046326,
-      "mag": 1.95,
-      "place": "20 km W of Volcano, Hawaii",
-      "time": 1785365781250,
+      "lon": -155.431333333333,
+      "lat": 19.4751666666667,
+      "depth": 4.56,
+      "mag": 1.78,
+      "place": "21 km W of Volcano, Hawaii",
+      "time": 1785365781140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75010172"
     },
     {
@@ -1884,6 +1914,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526728"
     },
     {
+      "id": "aka2026oxqqsd",
+      "lon": -177.661,
+      "lat": 51.339,
+      "depth": 20.5,
+      "mag": 1.9,
+      "place": "92 km SW of Adak, Alaska",
+      "time": 1785358898122,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxqqsd"
+    },
+    {
       "id": "ci40663346",
       "lon": -116.978666666667,
       "lat": 33.9856666666667,
@@ -1954,13 +1994,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663322"
     },
     {
+      "id": "aka2026oxprsc",
+      "lon": -173.599,
+      "lat": 51.918,
+      "depth": 74.7,
+      "mag": 3.3,
+      "place": "51 km SE of Atka, Alaska",
+      "time": 1785357155732,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxprsc"
+    },
+    {
       "id": "aka2026oxpfzt",
-      "lon": -155.761,
-      "lat": 57.678,
-      "depth": 98.4,
-      "mag": 1.7,
+      "lon": -155.748,
+      "lat": 57.682,
+      "depth": 99.2,
+      "mag": 1.9,
       "place": "78 km W of Karluk, Alaska",
-      "time": 1785356358764,
+      "time": 1785356358669,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxpfzt"
     },
     {
@@ -2232,36 +2282,6 @@
       "place": "7 km ESE of Cloverdale, CA",
       "time": 1785349949960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408147"
-    },
-    {
-      "id": "mb90203678",
-      "lon": -111.998666666667,
-      "lat": 46.559,
-      "depth": 5.75,
-      "mag": 1.69,
-      "place": "0 km NNW of South Hills, Montana",
-      "time": 1785349674510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90203678"
-    },
-    {
-      "id": "av94343613",
-      "lon": -168.194166666667,
-      "lat": 53.3363333333333,
-      "depth": 7.5,
-      "mag": 0.03,
-      "place": "62 km NE of Nikolski, Alaska",
-      "time": 1785348930330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94343613"
-    },
-    {
-      "id": "ci40663274",
-      "lon": -117.6425,
-      "lat": 35.811,
-      "depth": 9.47,
-      "mag": 0.58,
-      "place": "21 km N of Ridgecrest, CA",
-      "time": 1785348921190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663274"
     }
   ]
 }
