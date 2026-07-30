@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-30T05:00:52Z",
-  "count": 298,
+  "updated": "2026-07-30T05:15:40Z",
+  "count": 297,
   "points": [
+    {
+      "id": "aka2026oygrgc",
+      "lon": -146.432,
+      "lat": 64.624,
+      "depth": 8.1,
+      "mag": 1.3,
+      "place": "25 km ENE of Salcha, Alaska",
+      "time": 1785387722719,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oygrgc"
+    },
+    {
+      "id": "ci40663474",
+      "lon": -117.454666666667,
+      "lat": 35.6396666666667,
+      "depth": 8.54,
+      "mag": 1.39,
+      "place": "15 km SSW of Searles Valley, CA",
+      "time": 1785387594850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663474"
+    },
     {
       "id": "tx2026ovwgex",
       "lon": -103.252,
@@ -875,12 +895,12 @@
     },
     {
       "id": "tx2026ovdhaq",
-      "lon": -104.116,
-      "lat": 31.564,
-      "depth": 5.295,
-      "mag": 1.5,
+      "lon": -104.127,
+      "lat": 31.554,
+      "depth": 3.7124,
+      "mag": 1.4,
       "place": "41 km NW of Toyah, Texas",
-      "time": 1785352904045,
+      "time": 1785352904186,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ovdhaq"
     },
     {
@@ -1412,6 +1432,16 @@
       "place": "11 km E of Pāhala, Hawaii",
       "time": 1785339116650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75009832"
+    },
+    {
+      "id": "av93065094",
+      "lon": -159.724166666667,
+      "lat": 55.9486666666667,
+      "depth": 23.32,
+      "mag": 0.28,
+      "place": "15 km WNW of Ivanof Bay, Alaska",
+      "time": 1785339063080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065094"
     },
     {
       "id": "hv75009827",
@@ -2942,46 +2972,6 @@
       "place": "10 km NW of Redwood Valley, CA",
       "time": 1785302209430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407697"
-    },
-    {
-      "id": "av94342338",
-      "lon": -154.929833333333,
-      "lat": 58.4195,
-      "depth": 0.34,
-      "mag": -0.29,
-      "place": "98 km NNW of Karluk, Alaska",
-      "time": 1785301756040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94342338"
-    },
-    {
-      "id": "nc75407692",
-      "lon": -122.944000244141,
-      "lat": 38.7741661071777,
-      "depth": 4.28999996185303,
-      "mag": 1.38,
-      "place": "7 km ESE of Cloverdale, CA",
-      "time": 1785301681760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407692"
-    },
-    {
-      "id": "av94342333",
-      "lon": -155.353333333333,
-      "lat": 58.1693333333333,
-      "depth": 2.9,
-      "mag": 0.98,
-      "place": "85 km NW of Karluk, Alaska",
-      "time": 1785301584250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94342333"
-    },
-    {
-      "id": "av94342328",
-      "lon": -178.865833333333,
-      "lat": 51.7945,
-      "depth": 5.78,
-      "mag": 0.41,
-      "place": "154 km W of Adak, Alaska",
-      "time": 1785301253040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94342328"
     }
   ]
 }
