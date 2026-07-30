@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-30T20:15:33Z",
-  "count": 232,
+  "updated": "2026-07-30T20:22:46Z",
+  "count": 231,
   "points": [
     {
       "id": "uw714066341",
@@ -65,12 +65,12 @@
     },
     {
       "id": "ci40663826",
-      "lon": -117.507833333333,
-      "lat": 33.8593333333333,
-      "depth": 1.98,
+      "lon": -117.504333333333,
+      "lat": 33.8686666666667,
+      "depth": -0.51,
       "mag": 0.8,
-      "place": "2 km SSE of Home Gardens, CA",
-      "time": 1785438073230,
+      "place": "2 km SE of Home Gardens, CA",
+      "time": 1785438072930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663826"
     },
     {
@@ -282,6 +282,16 @@
       "place": "16 km SSW of Olancha, CA",
       "time": 1785428697240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663722"
+    },
+    {
+      "id": "us6000th0s",
+      "lon": 142.3617,
+      "lat": 40.2239,
+      "depth": 51.287,
+      "mag": 4.3,
+      "place": "48 km ENE of Noda, Japan",
+      "time": 1785428448690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th0s"
     },
     {
       "id": "aka2026ozcybg",
@@ -2302,26 +2312,6 @@
       "place": "51 km SE of Atka, Alaska",
       "time": 1785357155732,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxprsc"
-    },
-    {
-      "id": "aka2026oxpfzt",
-      "lon": -155.748,
-      "lat": 57.682,
-      "depth": 99.2,
-      "mag": 1.9,
-      "place": "78 km W of Karluk, Alaska",
-      "time": 1785356358669,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxpfzt"
-    },
-    {
-      "id": "us6000tgt4",
-      "lon": 130.5159,
-      "lat": 32.4953,
-      "depth": 11.68,
-      "mag": 4.8,
-      "place": "7 km W of Honmachi, Japan",
-      "time": 1785356195520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgt4"
     }
   ]
 }
