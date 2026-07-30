@@ -1,8 +1,48 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-30T07:00:58Z",
+  "updated": "2026-07-30T07:15:40Z",
   "count": 300,
   "points": [
+    {
+      "id": "ci40663554",
+      "lon": -116.413,
+      "lat": 33.458,
+      "depth": 11.59,
+      "mag": 0.64,
+      "place": "23 km N of Borrego Springs, CA",
+      "time": 1785395167630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663554"
+    },
+    {
+      "id": "nc75408402",
+      "lon": -122.806167602539,
+      "lat": 38.8030014038086,
+      "depth": 1.33000004291534,
+      "mag": 1.08,
+      "place": "5 km WNW of The Geysers, CA",
+      "time": 1785394842740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408402"
+    },
+    {
+      "id": "ci40663546",
+      "lon": -116.782833333333,
+      "lat": 34.0391666666667,
+      "depth": 13.36,
+      "mag": 0.8,
+      "place": "14 km N of Cabazon, CA",
+      "time": 1785394750170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663546"
+    },
+    {
+      "id": "us6000tgwd",
+      "lon": -91.0265,
+      "lat": 14.2453,
+      "depth": 97.012,
+      "mag": 5,
+      "place": "8 km WNW of La Democracia, Guatemala",
+      "time": 1785394736166,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgwd"
+    },
     {
       "id": "tx2026owagnt",
       "lon": -101.787,
@@ -205,12 +245,12 @@
     },
     {
       "id": "tx2026ovwgkz",
-      "lon": -103.257,
-      "lat": 32.021,
-      "depth": 5.483,
+      "lon": -103.251,
+      "lat": 32.012,
+      "depth": 6.1627,
       "mag": 1.7,
-      "place": "11 km SSW of Jal, New Mexico",
-      "time": 1785387260058,
+      "place": "12 km SSW of Jal, New Mexico",
+      "time": 1785387259836,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ovwgkz"
     },
     {
@@ -335,12 +375,12 @@
     },
     {
       "id": "tx2026ovtgfq",
-      "lon": -103.244,
-      "lat": 32.005,
-      "depth": 3.7774,
-      "mag": 1.9,
+      "lon": -103.245,
+      "lat": 32.01,
+      "depth": 7.2123,
+      "mag": 2,
       "place": "12 km SSW of Jal, New Mexico",
-      "time": 1785381821621,
+      "time": 1785381821023,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ovtgfq"
     },
     {
@@ -985,12 +1025,12 @@
     },
     {
       "id": "av94343848",
-      "lon": -155.355333333333,
-      "lat": 58.1746666666667,
-      "depth": 5,
+      "lon": -155.357,
+      "lat": 58.1716666666667,
+      "depth": 2.2,
       "mag": -0.45,
-      "place": "86 km NW of Karluk, Alaska",
-      "time": 1785357682680,
+      "place": "85 km NW of Karluk, Alaska",
+      "time": 1785357682790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94343848"
     },
     {
@@ -1832,16 +1872,6 @@
       "place": "100 km SE of False Pass, Alaska",
       "time": 1785336375907,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxedge"
-    },
-    {
-      "id": "av94343273",
-      "lon": -159.3965,
-      "lat": 56.1861666666667,
-      "depth": -1.32,
-      "mag": -0.04,
-      "place": "32 km N of Ivanof Bay, Alaska",
-      "time": 1785336314000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94343273"
     },
     {
       "id": "aka2026oxearu",
@@ -2972,36 +3002,6 @@
       "place": "62 km W of Stevens Village, Alaska",
       "time": 1785309377085,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owpddg"
-    },
-    {
-      "id": "aka2026owovjy",
-      "lon": -149.767,
-      "lat": 60.279,
-      "depth": 41.7,
-      "mag": 1.5,
-      "place": "23 km S of Cooper Landing, Alaska",
-      "time": 1785308849687,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owovjy"
-    },
-    {
-      "id": "aka2026owotcn",
-      "lon": -155.661,
-      "lat": 57.731,
-      "depth": 6.3,
-      "mag": 1.6,
-      "place": "74 km WNW of Karluk, Alaska",
-      "time": 1785308687848,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owotcn"
-    },
-    {
-      "id": "av94342508",
-      "lon": -176.127666666667,
-      "lat": 52.0885,
-      "depth": 4.36,
-      "mag": -0.14,
-      "place": "42 km NE of Adak, Alaska",
-      "time": 1785308587980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94342508"
     }
   ]
 }
