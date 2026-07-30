@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-30T10:45:34Z",
-  "count": 268,
+  "updated": "2026-07-30T11:00:58Z",
+  "count": 266,
   "points": [
+    {
+      "id": "hv75010432",
+      "lon": -155.516998291016,
+      "lat": 19.1831665039062,
+      "depth": 31.7700004577637,
+      "mag": 2.34,
+      "place": "4 km WSW of Pāhala, Hawaii",
+      "time": 1785408180440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75010432"
+    },
     {
       "id": "nc75408462",
       "lon": -122.942665100098,
@@ -222,6 +232,16 @@
       "place": "50 km W of Anchor Point, Alaska",
       "time": 1785396065322,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oylhtu"
+    },
+    {
+      "id": "pr71526758",
+      "lon": -66.1831666666667,
+      "lat": 18.0706666666667,
+      "depth": 14.21,
+      "mag": 2.11,
+      "place": "3 km NE of La Plena, Puerto Rico",
+      "time": 1785395287960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526758"
     },
     {
       "id": "ci40663554",
@@ -2642,46 +2662,6 @@
       "place": "3 km W of Burbank, CA",
       "time": 1785323347240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663026"
-    },
-    {
-      "id": "uw714064801",
-      "lon": -122.3385,
-      "lat": 46.1993333333333,
-      "depth": 10,
-      "mag": -0.08,
-      "place": "33 km NNE of Amboy, Washington",
-      "time": 1785322438460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714064801"
-    },
-    {
-      "id": "nc75407877",
-      "lon": -122.943000793457,
-      "lat": 38.7733345031738,
-      "depth": 6.17999982833862,
-      "mag": 1.9,
-      "place": "7 km ESE of Cloverdale, CA",
-      "time": 1785322134200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407877"
-    },
-    {
-      "id": "aka2026owwdvg",
-      "lon": -156.75,
-      "lat": 57.096,
-      "depth": 5,
-      "mag": 1.8,
-      "place": "60 km SE of Ugashik, Alaska",
-      "time": 1785322024349,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026owwdvg"
-    },
-    {
-      "id": "tx2026oumfhi",
-      "lon": -103.37,
-      "lat": 31.312,
-      "depth": 6.6479,
-      "mag": 1.7,
-      "place": "16 km S of Barstow, Texas",
-      "time": 1785322005183,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oumfhi"
     }
   ]
 }
