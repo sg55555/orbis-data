@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-31T12:01:04Z",
+  "updated": "2026-07-31T12:15:32Z",
   "count": 208,
   "points": [
+    {
+      "id": "aka2026paqtbx",
+      "lon": -151.901,
+      "lat": 59.37,
+      "depth": 55.4,
+      "mag": 1.9,
+      "place": "1 km NE of Nanwalek, Alaska",
+      "time": 1785499400238,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026paqtbx"
+    },
     {
       "id": "ci40664122",
       "lon": -116.165833333333,
@@ -602,6 +612,16 @@
       "place": "35 km NNE of Amboy, Washington",
       "time": 1785472631190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714066781"
+    },
+    {
+      "id": "ok2026ovwg",
+      "lon": -97.23,
+      "lat": 35.858,
+      "depth": 6.86,
+      "mag": 1.08,
+      "place": "2 km NE of Meridian, Oklahoma",
+      "time": 1785472569550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ovwg"
     },
     {
       "id": "ci40664018",
@@ -2062,26 +2082,6 @@
       "place": "86 km NNW of Karluk, Alaska",
       "time": 1785414208890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065119"
-    },
-    {
-      "id": "aka2026oyuvdd",
-      "lon": -151.163,
-      "lat": 58.498,
-      "depth": 11.9,
-      "mag": 2,
-      "place": "101 km NE of Ouzinkie, Alaska",
-      "time": 1785413176294,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oyuvdd"
-    },
-    {
-      "id": "nc75408487",
-      "lon": -122.76000213623,
-      "lat": 38.8236656188965,
-      "depth": 2.10999989509583,
-      "mag": 0.95,
-      "place": "3 km W of Cobb, CA",
-      "time": 1785413130710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408487"
     }
   ]
 }
