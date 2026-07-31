@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-31T17:48:55Z",
+  "updated": "2026-07-31T18:01:02Z",
   "count": 217,
   "points": [
     {
+      "id": "hv75011087",
+      "lon": -155.492172241211,
+      "lat": 19.1975002288818,
+      "depth": 28.0100002288818,
+      "mag": 1.91,
+      "place": "1 km WSW of Pāhala, Hawaii",
+      "time": 1785520504410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75011087"
+    },
+    {
+      "id": "aka2026pbcjtm",
+      "lon": -144.897,
+      "lat": 63.377,
+      "depth": 3.7,
+      "mag": 1.4,
+      "place": "32 km SSW of Dry Creek, Alaska",
+      "time": 1785520344769,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pbcjtm"
+    },
+    {
       "id": "tx2026oyrnkr",
-      "lon": -101.848,
-      "lat": 32.253,
-      "depth": 5.0266,
-      "mag": 1.7,
-      "place": "14 km NNW of Stanton, Texas",
-      "time": 1785519935651,
+      "lon": -101.852,
+      "lat": 32.257,
+      "depth": 6.6698,
+      "mag": 1.8,
+      "place": "15 km NNW of Stanton, Texas",
+      "time": 1785519935264,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oyrnkr"
     },
     {
@@ -1475,12 +1495,12 @@
     },
     {
       "id": "uw714066721",
-      "lon": -121.128829956055,
-      "lat": 46.7391662597656,
-      "depth": 0.0700000002980232,
-      "mag": 1.52798461914062,
-      "place": "17 km WSW of Nile, Washington",
-      "time": 1785463377580,
+      "lon": -121.1265,
+      "lat": 46.7381666666667,
+      "depth": 6.24,
+      "mag": 1.39,
+      "place": "16 km WSW of Nile, Washington",
+      "time": 1785463377490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714066721"
     },
     {
@@ -2152,26 +2172,6 @@
       "place": "45 km NE of Holtville, CA",
       "time": 1785434897980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663802"
-    },
-    {
-      "id": "us6000th1h",
-      "lon": 138.9989,
-      "lat": 11.5807,
-      "depth": 34.505,
-      "mag": 5.9,
-      "place": "247 km NNE of Colonia, Micronesia",
-      "time": 1785434159690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th1h"
-    },
-    {
-      "id": "ci40663786",
-      "lon": -116.3135,
-      "lat": 33.3155,
-      "depth": 12.02,
-      "mag": 1.23,
-      "place": "9 km NE of Borrego Springs, CA",
-      "time": 1785433844260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663786"
     }
   ]
 }
