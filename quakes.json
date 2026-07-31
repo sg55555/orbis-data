@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-31T18:15:50Z",
-  "count": 221,
+  "updated": "2026-07-31T18:36:00Z",
+  "count": 222,
   "points": [
+    {
+      "id": "ci40664306",
+      "lon": -116.372666666667,
+      "lat": 33.1806666666667,
+      "depth": 11.51,
+      "mag": 0.72,
+      "place": "8 km S of Borrego Springs, CA",
+      "time": 1785522521840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664306"
+    },
+    {
+      "id": "nc75409212",
+      "lon": -122.789329528809,
+      "lat": 38.8288345336914,
+      "depth": 1.62999999523163,
+      "mag": 1.02,
+      "place": "6 km W of Cobb, CA",
+      "time": 1785522357040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409212"
+    },
+    {
+      "id": "aka2026pbdmve",
+      "lon": -156.201,
+      "lat": 56.175,
+      "depth": 2.9,
+      "mag": 2.2,
+      "place": "137 km E of Chignik, Alaska",
+      "time": 1785522355449,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pbdmve"
+    },
     {
       "id": "hv75011102",
       "lon": -155.360504150391,
@@ -54,6 +84,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th96"
     },
     {
+      "id": "us6000th99",
+      "lon": 14.1149,
+      "lat": 40.9385,
+      "depth": 9.198,
+      "mag": 4.5,
+      "place": "3 km NNW of Torretta-Scalzapecora, Italy",
+      "time": 1785520004623,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th99"
+    },
+    {
       "id": "tx2026oyrnkr",
       "lon": -101.852,
       "lat": 32.257,
@@ -62,6 +102,16 @@
       "place": "15 km NNW of Stanton, Texas",
       "time": 1785519935264,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oyrnkr"
+    },
+    {
+      "id": "uu80146811",
+      "lon": -112.909833333333,
+      "lat": 38.47,
+      "depth": 3.42,
+      "mag": 1.18,
+      "place": "11 km NE of Milford, Utah",
+      "time": 1785519785710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146811"
     },
     {
       "id": "nc75409182",
@@ -1426,11 +1476,11 @@
     {
       "id": "uw714066741",
       "lon": -120.272833333333,
-      "lat": 47.7093333333333,
-      "depth": -1.31,
-      "mag": 1.01,
-      "place": "6 km NW of Entiat, Washington",
-      "time": 1785466482410,
+      "lat": 47.7045,
+      "depth": 1.22,
+      "mag": 1.03,
+      "place": "5 km WNW of Entiat, Washington",
+      "time": 1785466482450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714066741"
     },
     {
@@ -1755,7 +1805,7 @@
     },
     {
       "id": "uw714066571",
-      "lon": -122.718,
+      "lon": -122.717833333333,
       "lat": 45.0155,
       "depth": -0.44,
       "mag": 1.06,
@@ -2172,46 +2222,6 @@
       "place": "10 km SW of Circleville, Utah",
       "time": 1785436571120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007783"
-    },
-    {
-      "id": "uu80146577",
-      "lon": -112.339,
-      "lat": 38.1355,
-      "depth": 6.36,
-      "mag": 1.44,
-      "place": "7 km SW of Circleville, Utah",
-      "time": 1785436529990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146577"
-    },
-    {
-      "id": "tx2026owxgxf",
-      "lon": -101.101,
-      "lat": 32.315,
-      "depth": 8.6182,
-      "mag": 1.5,
-      "place": "9 km WSW of Westbrook, Texas",
-      "time": 1785436169226,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026owxgxf"
-    },
-    {
-      "id": "hv75010587",
-      "lon": -155.437,
-      "lat": 19.3703333333333,
-      "depth": 7.47,
-      "mag": 1.68,
-      "place": "19 km NNE of Pāhala, Hawaii",
-      "time": 1785435731230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75010587"
-    },
-    {
-      "id": "us6000th1t",
-      "lon": -92.8291,
-      "lat": 14.4337,
-      "depth": 31.03,
-      "mag": 4.9,
-      "place": "54 km SW of Puerto Madero, Mexico",
-      "time": 1785435636265,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th1t"
     }
   ]
 }
