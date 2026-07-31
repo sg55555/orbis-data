@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-31T20:45:41Z",
-  "count": 231,
+  "updated": "2026-07-31T21:01:04Z",
+  "count": 234,
   "points": [
+    {
+      "id": "ci40664410",
+      "lon": -116.476666666667,
+      "lat": 33.4666666666667,
+      "depth": 13.32,
+      "mag": 0.59,
+      "place": "21 km ESE of Anza, CA",
+      "time": 1785531029390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664410"
+    },
+    {
+      "id": "ci40664402",
+      "lon": -116.992166666667,
+      "lat": 33.9931666666667,
+      "depth": 13.52,
+      "mag": 1.22,
+      "place": "6 km E of Calimesa, CA",
+      "time": 1785530975580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664402"
+    },
+    {
+      "id": "aka2026pbicuu",
+      "lon": -147.763,
+      "lat": 64.956,
+      "depth": 5,
+      "mag": 1.1,
+      "place": "6 km NNW of Farmers Loop, Alaska",
+      "time": 1785530658626,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pbicuu"
+    },
     {
       "id": "us6000thbq",
       "lon": 130.1548,
@@ -35,12 +65,12 @@
     },
     {
       "id": "ci40664370",
-      "lon": -116.954498291016,
-      "lat": 33.3526649475098,
-      "depth": 13.6999998092651,
-      "mag": 3.24271773895667,
-      "place": "8 km W of Palomar Observatory, CA",
-      "time": 1785528615380,
+      "lon": -116.9555,
+      "lat": 33.3535,
+      "depth": 14.39,
+      "mag": 2.98,
+      "place": "9 km W of Palomar Observatory, CA",
+      "time": 1785528615310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664370"
     },
     {
@@ -322,6 +352,16 @@
       "place": "7 km W of Cobb, CA",
       "time": 1785518335220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409182"
+    },
+    {
+      "id": "us6000th92",
+      "lon": -161.559,
+      "lat": 54.4289,
+      "depth": 35,
+      "mag": 3.2,
+      "place": "85 km SE of King Cove, Alaska",
+      "time": 1785518140134,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th92"
     },
     {
       "id": "nc75409172",
@@ -1894,6 +1934,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k"
     },
     {
+      "id": "av94346963",
+      "lon": -155.3125,
+      "lat": 58.1603333333333,
+      "depth": 1.13,
+      "mag": -0.54,
+      "place": "83 km NW of Karluk, Alaska",
+      "time": 1785458934330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94346963"
+    },
+    {
       "id": "nc75408857",
       "lon": -122.811500549316,
       "lat": 38.8221664428711,
@@ -2292,26 +2342,6 @@
       "place": "12 km ESE of Pearsall, Texas",
       "time": 1785445254726,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oxchkz"
-    },
-    {
-      "id": "ci40663930",
-      "lon": -116.707833333333,
-      "lat": 32.3443333333333,
-      "depth": 11.05,
-      "mag": 1.69,
-      "place": "24 km NE of Primo Tapia, B.C., MX",
-      "time": 1785444811700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663930"
-    },
-    {
-      "id": "aka2026ozmgin",
-      "lon": -149.84,
-      "lat": 61.999,
-      "depth": 26.4,
-      "mag": 2,
-      "place": "18 km S of Susitna North, Alaska",
-      "time": 1785444542199,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ozmgin"
     }
   ]
 }
