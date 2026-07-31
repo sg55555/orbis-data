@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-31T01:15:38Z",
-  "count": 217,
+  "updated": "2026-07-31T01:30:55Z",
+  "count": 216,
   "points": [
+    {
+      "id": "us6000th4p",
+      "lon": -80.9479,
+      "lat": -0.6197,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "46 km NW of Manta, Ecuador",
+      "time": 1785460200736,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4p"
+    },
     {
       "id": "nc75408877",
       "lon": -122.813163757324,
@@ -22,6 +32,16 @@
       "place": "5 km WNW of The Geysers, CA",
       "time": 1785460078160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408872"
+    },
+    {
+      "id": "us6000th4k",
+      "lon": -74.4353,
+      "lat": -8.3349,
+      "depth": 154.355,
+      "mag": 5.6,
+      "place": "13 km ENE of San Fernando, Peru",
+      "time": 1785459524364,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k"
     },
     {
       "id": "nc75408857",
@@ -2142,36 +2162,6 @@
       "place": "22 km SSE of Mossyrock, Washington",
       "time": 1785375861760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714065611"
-    },
-    {
-      "id": "ci40663418",
-      "lon": -116.4215,
-      "lat": 33.455,
-      "depth": 11.11,
-      "mag": 0.98,
-      "place": "23 km N of Borrego Springs, CA",
-      "time": 1785375012820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663418"
-    },
-    {
-      "id": "aka2026oxzkme",
-      "lon": -147.715,
-      "lat": 62.037,
-      "depth": 32,
-      "mag": 2.2,
-      "place": "25 km N of Glacier View, Alaska",
-      "time": 1785374661053,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxzkme"
-    },
-    {
-      "id": "aka2026oxzdiz",
-      "lon": -155.319,
-      "lat": 58.149,
-      "depth": 5,
-      "mag": 1.2,
-      "place": "82 km NW of Karluk, Alaska",
-      "time": 1785374167039,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oxzdiz"
     }
   ]
 }
