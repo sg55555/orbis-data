@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-31T13:16:24Z",
-  "count": 213,
+  "updated": "2026-07-31T13:30:58Z",
+  "count": 215,
   "points": [
+    {
+      "id": "aka2026patlzv",
+      "lon": -156.813,
+      "lat": 57.111,
+      "depth": 1.9,
+      "mag": 1.4,
+      "place": "56 km SE of Ugashik, Alaska",
+      "time": 1785504306642,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026patlzv"
+    },
+    {
+      "id": "aka2026patdxo",
+      "lon": -151.224,
+      "lat": 60.55,
+      "depth": 69.6,
+      "mag": 1.8,
+      "place": "1 km ESE of Kenai, Alaska",
+      "time": 1785503748082,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026patdxo"
+    },
     {
       "id": "nc75409097",
       "lon": -122.802169799805,
@@ -12,6 +32,16 @@
       "place": "7 km WNW of Cobb, CA",
       "time": 1785503633270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409097"
+    },
+    {
+      "id": "us6000th7y",
+      "lon": 128.0296,
+      "lat": 28.2012,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "95 km WNW of Amagi, Japan",
+      "time": 1785502720829,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th7y"
     },
     {
       "id": "nc75409082",
@@ -135,12 +165,12 @@
     },
     {
       "id": "tx2026oyesch",
-      "lon": -104.274,
-      "lat": 31.641,
-      "depth": 4.5767,
+      "lon": -104.27,
+      "lat": 31.649,
+      "depth": 6.0999,
       "mag": 1.7,
       "place": "58 km NW of Toyah, Texas",
-      "time": 1785496691599,
+      "time": 1785496691662,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oyesch"
     },
     {
@@ -2122,16 +2152,6 @@
       "place": "73 km NNE of Chignik, Alaska",
       "time": 1785418248560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94345663"
-    },
-    {
-      "id": "ci40663634",
-      "lon": -116.0175,
-      "lat": 33.1391666666667,
-      "depth": 4.98,
-      "mag": 1.03,
-      "place": "11 km E of Ocotillo Wells, CA",
-      "time": 1785418086110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663634"
     }
   ]
 }
