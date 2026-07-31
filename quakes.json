@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-31T17:15:37Z",
-  "count": 215,
+  "updated": "2026-07-31T17:30:59Z",
+  "count": 214,
   "points": [
+    {
+      "id": "nc75409182",
+      "lon": -122.799667358398,
+      "lat": 38.8305015563965,
+      "depth": 2.1800000667572,
+      "mag": 0.21,
+      "place": "7 km W of Cobb, CA",
+      "time": 1785518335220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409182"
+    },
     {
       "id": "nc75409172",
       "lon": -122.936668395996,
@@ -25,12 +35,12 @@
     },
     {
       "id": "ci40664226",
-      "lon": -116.380833333333,
-      "lat": 33.1766666666667,
-      "depth": 11.5,
+      "lon": -116.381,
+      "lat": 33.1753333333333,
+      "depth": 11.62,
       "mag": 1.63,
       "place": "9 km S of Borrego Springs, CA",
-      "time": 1785516427770,
+      "time": 1785516427760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664226"
     },
     {
@@ -85,12 +95,12 @@
     },
     {
       "id": "ci40664202",
-      "lon": -116.376333333333,
-      "lat": 33.1825,
-      "depth": 10.46,
+      "lon": -116.374666666667,
+      "lat": 33.1821666666667,
+      "depth": 11.5,
       "mag": 0.61,
       "place": "8 km S of Borrego Springs, CA",
-      "time": 1785514709590,
+      "time": 1785514709460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664202"
     },
     {
@@ -562,6 +572,16 @@
       "place": "3 km SE of The Geysers, CA",
       "time": 1785493454320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409032"
+    },
+    {
+      "id": "uu80146791",
+      "lon": -110.839833333333,
+      "lat": 44.7953333333333,
+      "depth": 4.69,
+      "mag": 0.18,
+      "place": "22 km SSW of Mammoth, Wyoming",
+      "time": 1785493327340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146791"
     },
     {
       "id": "ci40664098",
@@ -2122,36 +2142,6 @@
       "place": "3 km S of Lakewood, CA",
       "time": 1785433473030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663778"
-    },
-    {
-      "id": "hv75010562",
-      "lon": -155.50016784668,
-      "lat": 19.1241664886475,
-      "depth": 33.2000007629395,
-      "mag": 1.72,
-      "place": "9 km SSW of Pāhala, Hawaii",
-      "time": 1785432550760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75010562"
-    },
-    {
-      "id": "aka2026ozfodr",
-      "lon": -154.324,
-      "lat": 58.396,
-      "depth": 8.7,
-      "mag": 0.5,
-      "place": "91 km WNW of Aleneva, Alaska",
-      "time": 1785432487630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ozfodr"
-    },
-    {
-      "id": "ok2026ouzw",
-      "lon": -95.36966667,
-      "lat": 35.269,
-      "depth": 0,
-      "mag": 1.71,
-      "place": "10 km SE of Texanna, Oklahoma",
-      "time": 1785431809850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ouzw"
     }
   ]
 }
