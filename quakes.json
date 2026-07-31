@@ -1,17 +1,37 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-31T03:30:44Z",
-  "count": 215,
+  "updated": "2026-07-31T03:45:37Z",
+  "count": 216,
   "points": [
     {
+      "id": "ci40664010",
+      "lon": -116.361333333333,
+      "lat": 33.0076666666667,
+      "depth": 8.64,
+      "mag": 1.49,
+      "place": "24 km ESE of Julian, CA",
+      "time": 1785468858650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664010"
+    },
+    {
       "id": "ci40664002",
-      "lon": -117.586334228516,
-      "lat": 35.7481651306152,
-      "depth": 2.88000011444092,
-      "mag": 1.34941526499668,
+      "lon": -117.584166666667,
+      "lat": 35.7463333333333,
+      "depth": 2.9,
+      "mag": 1.26,
       "place": "16 km NNE of Ridgecrest, CA",
-      "time": 1785468429220,
+      "time": 1785468429170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664002"
+    },
+    {
+      "id": "tx2026oxpbxl",
+      "lon": -104.182,
+      "lat": 31.636,
+      "depth": 4.2341,
+      "mag": 1.8,
+      "place": "51 km NW of Toyah, Texas",
+      "time": 1785468409295,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oxpbxl"
     },
     {
       "id": "aka2026ozzmxg",
@@ -2142,16 +2162,6 @@
       "place": "53 km E of Denali National Park, Alaska",
       "time": 1785383271410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oyeeyl"
-    },
-    {
-      "id": "uu80146706",
-      "lon": -112.905,
-      "lat": 38.4805,
-      "depth": 2.66,
-      "mag": 0.51,
-      "place": "13 km NE of Milford, Utah",
-      "time": 1785382888390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146706"
     }
   ]
 }
