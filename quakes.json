@@ -1,16 +1,16 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-31T13:45:40Z",
-  "count": 215,
+  "updated": "2026-07-31T14:01:01Z",
+  "count": 214,
   "points": [
     {
       "id": "ci40664154",
-      "lon": -117.624496459961,
-      "lat": 33.8300018310547,
-      "depth": 9.73999977111816,
-      "mag": 1.16134366240121,
+      "lon": -117.620333333333,
+      "lat": 33.8291666666667,
+      "depth": 8.54,
+      "mag": 1.17,
       "place": "7 km SW of Corona, CA",
-      "time": 1785505351360,
+      "time": 1785505351430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664154"
     },
     {
@@ -615,12 +615,12 @@
     },
     {
       "id": "tx2026oxvajc",
-      "lon": -101.416,
-      "lat": 32.219,
-      "depth": 3.4631,
+      "lon": -101.414,
+      "lat": 32.224,
+      "depth": 8.2275,
       "mag": 1.2,
       "place": "6 km ESE of Big Spring, Texas",
-      "time": 1785479165334,
+      "time": 1785479165519,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oxvajc"
     },
     {
@@ -1384,6 +1384,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ozmxbu"
     },
     {
+      "id": "tx2026oxchkz",
+      "lon": -98.973,
+      "lat": 28.856,
+      "depth": 8.4815,
+      "mag": 1.8,
+      "place": "12 km ESE of Pearsall, Texas",
+      "time": 1785445254726,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oxchkz"
+    },
+    {
       "id": "ci40663930",
       "lon": -116.707833333333,
       "lat": 32.3443333333333,
@@ -1592,6 +1602,16 @@
       "place": "3 km S of Anderson Springs, CA",
       "time": 1785437035810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408687"
+    },
+    {
+      "id": "ok2026ovcs",
+      "lon": -95.188,
+      "lat": 35.88116667,
+      "depth": 0,
+      "mag": 1.31,
+      "place": "7 km SW of Hulbert, Oklahoma",
+      "time": 1785437002699,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ovcs"
     },
     {
       "id": "uu80007783",
@@ -2122,36 +2142,6 @@
       "place": "10 km ESE of Gilroy, CA",
       "time": 1785420289330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408517"
-    },
-    {
-      "id": "nc75408502",
-      "lon": -123.229164123535,
-      "lat": 39.3349990844727,
-      "depth": 4.71000003814697,
-      "mag": 1.5,
-      "place": "8 km NNW of Redwood Valley, CA",
-      "time": 1785419688580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408502"
-    },
-    {
-      "id": "av94345698",
-      "lon": -178.856,
-      "lat": 51.7026666666667,
-      "depth": 12,
-      "mag": 1.94,
-      "place": "154 km W of Adak, Alaska",
-      "time": 1785419676430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94345698"
-    },
-    {
-      "id": "us6000tgy8",
-      "lon": 130.642,
-      "lat": 32.6877,
-      "depth": 10,
-      "mag": 5,
-      "place": "2 km WNW of Uto, Japan",
-      "time": 1785419258996,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgy8"
     }
   ]
 }
