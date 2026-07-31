@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-31T22:01:10Z",
+  "updated": "2026-07-31T22:30:34Z",
   "count": 231,
   "points": [
+    {
+      "id": "ci40664434",
+      "lon": -116.778166666667,
+      "lat": 34.7396666666667,
+      "depth": 20.02,
+      "mag": 1.2,
+      "place": "28 km SE of Barstow, CA",
+      "time": 1785536318810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664434"
+    },
     {
       "id": "ci40664426",
       "lon": -117.843666666667,
@@ -22,6 +32,16 @@
       "place": "6 km SSE of Humboldt, Nevada",
       "time": 1785533119860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922645"
+    },
+    {
+      "id": "us6000thca",
+      "lon": 126.2704,
+      "lat": 4.8905,
+      "depth": 68.804,
+      "mag": 4.4,
+      "place": "105 km ESE of Sarangani, Philippines",
+      "time": 1785533038079,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thca"
     },
     {
       "id": "us6000thc6",
@@ -1914,6 +1934,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408912"
     },
     {
+      "id": "av94347133",
+      "lon": -173.913666666667,
+      "lat": 52.2998333333333,
+      "depth": 14.62,
+      "mag": 1.06,
+      "place": "22 km ENE of Atka, Alaska",
+      "time": 1785464755460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94347133"
+    },
+    {
       "id": "nc75408907",
       "lon": -122.75,
       "lat": 38.7898330688477,
@@ -2282,36 +2312,6 @@
       "place": "4 km S of Amber, Oklahoma",
       "time": 1785450613900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ovke"
-    },
-    {
-      "id": "us6000th43",
-      "lon": 159.7845,
-      "lat": 53.0865,
-      "depth": 64.149,
-      "mag": 4.7,
-      "place": "77 km E of Petropavlovsk-Kamchatsky, Russia",
-      "time": 1785450287988,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th43"
-    },
-    {
-      "id": "aka2026ozpent",
-      "lon": -149.598,
-      "lat": 61.704,
-      "depth": 59.9,
-      "mag": 2.3,
-      "place": "8 km N of Meadow Lakes, Alaska",
-      "time": 1785449814758,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ozpent"
-    },
-    {
-      "id": "uw714066551",
-      "lon": -121.846833333333,
-      "lat": 46.6445,
-      "depth": 6.24,
-      "mag": 0.38,
-      "place": "14 km WNW of Packwood, Washington",
-      "time": 1785449266530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714066551"
     }
   ]
 }
