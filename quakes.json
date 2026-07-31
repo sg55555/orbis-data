@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-31T05:05:05Z",
+  "updated": "2026-07-31T05:15:38Z",
   "count": 208,
   "points": [
+    {
+      "id": "aka2026pacxcn",
+      "lon": -154.729,
+      "lat": 57.498,
+      "depth": 12.7,
+      "mag": 1.5,
+      "place": "18 km WSW of Karluk, Alaska",
+      "time": 1785474494540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pacxcn"
+    },
     {
       "id": "aka2026pacneh",
       "lon": -150.439,
@@ -14,16 +24,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pacneh"
     },
     {
-      "id": "tx2026oxrurm",
-      "lon": -103.937,
-      "lat": 30.95,
-      "depth": 0,
-      "mag": 2,
-      "place": "18 km WSW of Balmorhea, Texas",
-      "time": 1785473446647,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oxrurm"
-    },
-    {
       "id": "tx2026oxrvta",
       "lon": -104.439,
       "lat": 31.636,
@@ -32,6 +32,16 @@
       "place": "60 km S of Whites City, New Mexico",
       "time": 1785473431825,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oxrvta"
+    },
+    {
+      "id": "tx2026oxrurm",
+      "lon": -104.432,
+      "lat": 31.641,
+      "depth": 5.1984,
+      "mag": 2,
+      "place": "59 km S of Whites City, New Mexico",
+      "time": 1785473431464,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oxrurm"
     },
     {
       "id": "aka2026pacerp",
@@ -2072,16 +2082,6 @@
       "place": "58 km S of Whites City, New Mexico",
       "time": 1785388851200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ovxdhe"
-    },
-    {
-      "id": "us6000tgvz",
-      "lon": -176.5759,
-      "lat": -28.6242,
-      "depth": 10,
-      "mag": 5.8,
-      "place": "Kermadec Islands region",
-      "time": 1785388111888,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvz"
     }
   ]
 }
