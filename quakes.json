@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-31T19:00:57Z",
-  "count": 223,
+  "updated": "2026-07-31T19:15:35Z",
+  "count": 222,
   "points": [
+    {
+      "id": "ci40664330",
+      "lon": -116.441,
+      "lat": 33.4145,
+      "depth": 14.45,
+      "mag": 0.38,
+      "place": "19 km NNW of Borrego Springs, CA",
+      "time": 1785525054700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664330"
+    },
+    {
+      "id": "us6000thaw",
+      "lon": -65.3542,
+      "lat": 46.9187,
+      "depth": 10,
+      "mag": 3.1,
+      "place": "16 km SE of Miramichi, Canada",
+      "time": 1785524152032,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thaw"
+    },
     {
       "id": "tx2026oytgss",
       "lon": -104.451,
@@ -25,12 +45,12 @@
     },
     {
       "id": "tx2026oyteng",
-      "lon": -103.186,
-      "lat": 31.302,
-      "depth": 0.3793,
-      "mag": 2,
-      "place": "13 km WNW of Coyanosa, Texas",
-      "time": 1785522895689,
+      "lon": -103.889,
+      "lat": 31.524,
+      "depth": 4.7767,
+      "mag": 1.4,
+      "place": "24 km NNW of Toyah, Texas",
+      "time": 1785522907231,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oyteng"
     },
     {
@@ -2174,6 +2194,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ovfe"
     },
     {
+      "id": "av93065164",
+      "lon": -174.151833333333,
+      "lat": 52.306,
+      "depth": 4.64,
+      "mag": 0.96,
+      "place": "12 km NNE of Atka, Alaska",
+      "time": 1785441495840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065164"
+    },
+    {
+      "id": "av94346463",
+      "lon": -174.1455,
+      "lat": 52.3021666666667,
+      "depth": 5.56,
+      "mag": 0.54,
+      "place": "12 km NNE of Atka, Alaska",
+      "time": 1785441485800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94346463"
+    },
+    {
       "id": "ci40663866",
       "lon": -116.722,
       "lat": 33.6676666666667,
@@ -2182,56 +2222,6 @@
       "place": "8 km S of Idyllwild, CA",
       "time": 1785439652940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663866"
-    },
-    {
-      "id": "ci40663858",
-      "lon": -117.870666666667,
-      "lat": 36.1036666666667,
-      "depth": 2.94,
-      "mag": 1.09,
-      "place": "10 km NE of Coso Junction, CA",
-      "time": 1785438833450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663858"
-    },
-    {
-      "id": "ci40663850",
-      "lon": -117.5745,
-      "lat": 35.753,
-      "depth": 7.07,
-      "mag": 1.38,
-      "place": "15 km W of Searles Valley, CA",
-      "time": 1785438541640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663850"
-    },
-    {
-      "id": "ci40663842",
-      "lon": -118.319833333333,
-      "lat": 35.0476666666667,
-      "depth": -0.82,
-      "mag": 1.16,
-      "place": "13 km W of Mojave, CA",
-      "time": 1785438108780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663842"
-    },
-    {
-      "id": "ci40663834",
-      "lon": -117.4825,
-      "lat": 33.819,
-      "depth": -0.53,
-      "mag": 1.54,
-      "place": "7 km SSE of Home Gardens, CA",
-      "time": 1785438101480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663834"
-    },
-    {
-      "id": "ci40663826",
-      "lon": -117.504333333333,
-      "lat": 33.8686666666667,
-      "depth": -0.51,
-      "mag": 0.8,
-      "place": "2 km SE of Home Gardens, CA",
-      "time": 1785438072930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663826"
     }
   ]
 }
