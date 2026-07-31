@@ -1,26 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-31T21:01:04Z",
-  "count": 234,
+  "updated": "2026-07-31T21:15:34Z",
+  "count": 233,
   "points": [
     {
+      "id": "aka2026pbivti",
+      "lon": -154.975,
+      "lat": 58.26,
+      "depth": 5,
+      "mag": 1.5,
+      "place": "82 km NNW of Karluk, Alaska",
+      "time": 1785531969040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pbivti"
+    },
+    {
+      "id": "ci10247462",
+      "lon": -116.410333333333,
+      "lat": 33.5035,
+      "depth": 11.11,
+      "mag": 0.34,
+      "place": "20 km SSW of La Quinta, CA",
+      "time": 1785531049180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10247462"
+    },
+    {
       "id": "ci40664410",
-      "lon": -116.476666666667,
-      "lat": 33.4666666666667,
-      "depth": 13.32,
-      "mag": 0.59,
+      "lon": -116.477166666667,
+      "lat": 33.464,
+      "depth": 13.88,
+      "mag": 0.57,
       "place": "21 km ESE of Anza, CA",
-      "time": 1785531029390,
+      "time": 1785531029320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664410"
     },
     {
       "id": "ci40664402",
-      "lon": -116.992166666667,
-      "lat": 33.9931666666667,
-      "depth": 13.52,
+      "lon": -116.993,
+      "lat": 33.9971666666667,
+      "depth": 15.85,
       "mag": 1.22,
       "place": "6 km E of Calimesa, CA",
-      "time": 1785530975580,
+      "time": 1785530975380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664402"
     },
     {
@@ -45,22 +65,22 @@
     },
     {
       "id": "tx2026oywmul",
-      "lon": -104.337,
+      "lon": -104.339,
       "lat": 31.659,
-      "depth": 4.5802,
-      "mag": 1.4,
+      "depth": 4.3952,
+      "mag": 1.5,
       "place": "57 km S of Whites City, New Mexico",
-      "time": 1785528905879,
+      "time": 1785528905920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oywmul"
     },
     {
       "id": "ci40664378",
-      "lon": -117.089666666667,
-      "lat": 32.809,
-      "depth": 5.21,
-      "mag": 1,
-      "place": "6 km ENE of San Diego, CA",
-      "time": 1785528818590,
+      "lon": -117.063333333333,
+      "lat": 32.8203333333333,
+      "depth": -0.27,
+      "mag": 1.01,
+      "place": "7 km NNW of La Mesa, CA",
+      "time": 1785528818210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664378"
     },
     {
@@ -325,12 +345,12 @@
     },
     {
       "id": "us6000th99",
-      "lon": 14.1149,
-      "lat": 40.9385,
-      "depth": 9.198,
+      "lon": 14.1435,
+      "lat": 40.8911,
+      "depth": 5,
       "mag": 4.5,
-      "place": "3 km NNW of Torretta-Scalzapecora, Italy",
-      "time": 1785520004623,
+      "place": "1 km N of Quarto, Italy",
+      "time": 1785520003779,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th99"
     },
     {
@@ -2312,36 +2332,6 @@
       "place": "149 km W of Adak, Alaska",
       "time": 1785446134540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94346598"
-    },
-    {
-      "id": "aka2026ozmylz",
-      "lon": -159.262,
-      "lat": 55.917,
-      "depth": 109.2,
-      "mag": 1.5,
-      "place": "7 km W of Perryville, Alaska",
-      "time": 1785445795956,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ozmylz"
-    },
-    {
-      "id": "aka2026ozmxbu",
-      "lon": -156.789,
-      "lat": 57.112,
-      "depth": 5,
-      "mag": 1.6,
-      "place": "57 km SE of Ugashik, Alaska",
-      "time": 1785445701690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ozmxbu"
-    },
-    {
-      "id": "tx2026oxchkz",
-      "lon": -98.973,
-      "lat": 28.856,
-      "depth": 8.4815,
-      "mag": 1.8,
-      "place": "12 km ESE of Pearsall, Texas",
-      "time": 1785445254726,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oxchkz"
     }
   ]
 }
