@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-31T11:30:46Z",
-  "count": 207,
+  "updated": "2026-07-31T11:45:31Z",
+  "count": 208,
   "points": [
+    {
+      "id": "hv75010962",
+      "lon": -155.374664306641,
+      "lat": 19.2046661376953,
+      "depth": 30.7099990844727,
+      "mag": 2.35,
+      "place": "10 km E of Pāhala, Hawaii",
+      "time": 1785497801960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75010962"
+    },
     {
       "id": "nn00922633",
       "lon": -118.684,
@@ -95,12 +105,12 @@
     },
     {
       "id": "tx2026oyczto",
-      "lon": -102.32,
-      "lat": 31.976,
-      "depth": 4.3634,
-      "mag": 1.3,
-      "place": "7 km SE of Gardendale, Texas",
-      "time": 1785493603569,
+      "lon": -102.314,
+      "lat": 31.971,
+      "depth": 7.8857,
+      "mag": 1.1,
+      "place": "8 km SE of Gardendale, Texas",
+      "time": 1785493604062,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oyczto"
     },
     {
@@ -126,11 +136,11 @@
     {
       "id": "tx2026oycgma",
       "lon": -101.964,
-      "lat": 32.101,
-      "depth": 3.6712,
-      "mag": 1,
-      "place": "15 km NE of Midland, Texas",
-      "time": 1785492309927,
+      "lat": 32.108,
+      "depth": 8.4473,
+      "mag": 0.9,
+      "place": "16 km NE of Midland, Texas",
+      "time": 1785492310304,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oycgma"
     },
     {
@@ -142,6 +152,16 @@
       "place": "5 km WNW of The Geysers, CA",
       "time": 1785491182790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409022"
+    },
+    {
+      "id": "us6000th7g",
+      "lon": -93.2612,
+      "lat": 14.0049,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "120 km SW of Puerto Madero, Mexico",
+      "time": 1785490808012,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th7g"
     },
     {
       "id": "aka2026palmti",
@@ -2062,16 +2082,6 @@
       "place": "34 km W of Four Mile Road, Alaska",
       "time": 1785412545488,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oyulyq"
-    },
-    {
-      "id": "nc75408477",
-      "lon": -122.80899810791,
-      "lat": 38.8303337097168,
-      "depth": 2.08999991416931,
-      "mag": 1.1,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1785411715620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408477"
     }
   ]
 }
