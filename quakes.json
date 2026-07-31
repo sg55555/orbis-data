@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-31T19:15:35Z",
+  "updated": "2026-07-31T19:31:35Z",
   "count": 222,
   "points": [
+    {
+      "id": "ci40664338",
+      "lon": -116.784164428711,
+      "lat": 33.2371673583984,
+      "depth": 14.8199996948242,
+      "mag": 1.37507885064821,
+      "place": "2 km WSW of Lake Henshaw, CA",
+      "time": 1785526052660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664338"
+    },
     {
       "id": "ci40664330",
       "lon": -116.441,
@@ -142,16 +152,6 @@
       "place": "3 km NNW of Torretta-Scalzapecora, Italy",
       "time": 1785520004623,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th99"
-    },
-    {
-      "id": "tx2026oyrnkr",
-      "lon": -101.852,
-      "lat": 32.257,
-      "depth": 6.6698,
-      "mag": 1.8,
-      "place": "15 km NNW of Stanton, Texas",
-      "time": 1785519935264,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oyrnkr"
     },
     {
       "id": "uu80146811",
@@ -2184,6 +2184,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714066331"
     },
     {
+      "id": "av94346468",
+      "lon": -174.1385,
+      "lat": 52.3085,
+      "depth": 7.15,
+      "mag": 0.21,
+      "place": "13 km NNE of Atka, Alaska",
+      "time": 1785441572310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94346468"
+    },
+    {
       "id": "ok2026ovfe",
       "lon": -96.83966667,
       "lat": 34.3845,
@@ -2212,16 +2222,6 @@
       "place": "12 km NNE of Atka, Alaska",
       "time": 1785441485800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94346463"
-    },
-    {
-      "id": "ci40663866",
-      "lon": -116.722,
-      "lat": 33.6676666666667,
-      "depth": 14.15,
-      "mag": 0.71,
-      "place": "8 km S of Idyllwild, CA",
-      "time": 1785439652940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663866"
     }
   ]
 }
