@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-31T07:15:41Z",
-  "count": 207,
+  "updated": "2026-07-31T07:30:49Z",
+  "count": 204,
   "points": [
+    {
+      "id": "nc75408982",
+      "lon": -122.80933380127,
+      "lat": 38.8211669921875,
+      "depth": 2.88000011444092,
+      "mag": 0.74,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1785482527550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408982"
+    },
     {
       "id": "aka2026pagsrw",
       "lon": -147.289,
@@ -994,16 +1004,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922594"
     },
     {
-      "id": "tx2026owxvtm",
-      "lon": -104.45,
-      "lat": 31.63,
-      "depth": 3.9831,
-      "mag": 2.4,
-      "place": "60 km S of Whites City, New Mexico",
-      "time": 1785437222365,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026owxvtm"
-    },
-    {
       "id": "av94346333",
       "lon": -178.794,
       "lat": 51.7145,
@@ -1462,6 +1462,16 @@
       "place": "8 km NNW of Redwood Valley, CA",
       "time": 1785419688580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408502"
+    },
+    {
+      "id": "av94345698",
+      "lon": -178.856,
+      "lat": 51.7026666666667,
+      "depth": 12,
+      "mag": 1.94,
+      "place": "154 km W of Adak, Alaska",
+      "time": 1785419676430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94345698"
     },
     {
       "id": "us6000tgy8",
@@ -2032,46 +2042,6 @@
       "place": "34 km SE of Mina, Nevada",
       "time": 1785398100645,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922562"
-    },
-    {
-      "id": "uw714065691",
-      "lon": -122.159,
-      "lat": 46.2,
-      "depth": 6.88,
-      "mag": -0.08,
-      "place": "39 km NE of Amboy, Washington",
-      "time": 1785396432520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714065691"
-    },
-    {
-      "id": "aka2026oylisv",
-      "lon": -151.406,
-      "lat": 63.051,
-      "depth": 0.5,
-      "mag": 2.7,
-      "place": "56 km SSE of Denali National Park, Alaska",
-      "time": 1785396129937,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oylisv"
-    },
-    {
-      "id": "ci40663562",
-      "lon": -117.805833333333,
-      "lat": 35.3158333333333,
-      "depth": 6.79,
-      "mag": 0.93,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1785396068900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663562"
-    },
-    {
-      "id": "aka2026oylhtu",
-      "lon": -152.728,
-      "lat": 59.709,
-      "depth": 98.5,
-      "mag": 1.7,
-      "place": "50 km W of Anchor Point, Alaska",
-      "time": 1785396065322,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oylhtu"
     }
   ]
 }
