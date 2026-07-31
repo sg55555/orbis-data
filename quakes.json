@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-31T22:45:39Z",
-  "count": 229,
+  "updated": "2026-07-31T23:01:21Z",
+  "count": 227,
   "points": [
+    {
+      "id": "nc75409302",
+      "lon": -121.321166992188,
+      "lat": 36.7351684570312,
+      "depth": 6.86999988555908,
+      "mag": 1.47,
+      "place": "6 km S of Tres Pinos, CA",
+      "time": 1785538488040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409302"
+    },
+    {
+      "id": "tx2026ozbmsv",
+      "lon": -103.486,
+      "lat": 31.159,
+      "depth": 5.8408,
+      "mag": 1.4,
+      "place": "23 km SSE of Lindsay, Texas",
+      "time": 1785537953057,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ozbmsv"
+    },
     {
       "id": "nc75409297",
       "lon": -122.917831420898,
@@ -1435,12 +1455,12 @@
     },
     {
       "id": "hv75010897",
-      "lon": -155.491668701172,
-      "lat": 19.2110004425049,
-      "depth": 31.1599998474121,
-      "mag": 2.17,
-      "place": "1 km WNW of Pāhala, Hawaii",
-      "time": 1785479658470,
+      "lon": -155.486166666667,
+      "lat": 19.2191666666667,
+      "depth": 31.63,
+      "mag": 1.79,
+      "place": "1 km NNW of Pāhala, Hawaii",
+      "time": 1785479658530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75010897"
     },
     {
@@ -2252,46 +2272,6 @@
       "place": "6 km ENE of Fox, Alaska",
       "time": 1785452445136,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ozqqnw"
-    },
-    {
-      "id": "nc75408832",
-      "lon": -122.810501098633,
-      "lat": 38.8208351135254,
-      "depth": 4.07000017166138,
-      "mag": 0.57,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1785452349930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408832"
-    },
-    {
-      "id": "nc75408827",
-      "lon": -123.585502624512,
-      "lat": 40.3185005187988,
-      "depth": 20.9799995422363,
-      "mag": 1.88,
-      "place": "30 km NE of Redway, CA",
-      "time": 1785452182190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408827"
-    },
-    {
-      "id": "uw714066601",
-      "lon": -122.125,
-      "lat": 49.1336666666667,
-      "depth": -0.66,
-      "mag": 1.47,
-      "place": "12 km NE of Abbotsford, Canada",
-      "time": 1785452051180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714066601"
-    },
-    {
-      "id": "uw714066591",
-      "lon": -121.9245,
-      "lat": 46.8853333333333,
-      "depth": 8.2,
-      "mag": 0.32,
-      "place": "16 km NNE of Ashford, Washington",
-      "time": 1785451641840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714066591"
     }
   ]
 }
