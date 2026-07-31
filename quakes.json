@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-31T11:45:31Z",
+  "updated": "2026-07-31T12:01:04Z",
   "count": 208,
   "points": [
+    {
+      "id": "ci40664122",
+      "lon": -116.165833333333,
+      "lat": 33.8908333333333,
+      "depth": 5.49,
+      "mag": 0.62,
+      "place": "19 km NNE of Indio, CA",
+      "time": 1785498983860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664122"
+    },
     {
       "id": "hv75010962",
       "lon": -155.374664306641,
@@ -212,6 +222,26 @@
       "place": "37 km WNW of Dāmghān, Iran",
       "time": 1785488935647,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th6a"
+    },
+    {
+      "id": "tx2026oyadii",
+      "lon": -102.053,
+      "lat": 32.37,
+      "depth": 8.4229,
+      "mag": 0.4,
+      "place": "36 km WSW of Ackerly, Texas",
+      "time": 1785488420650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oyadii"
+    },
+    {
+      "id": "tx2026oyaaoo",
+      "lon": -101.875,
+      "lat": 32.27,
+      "depth": 6.7139,
+      "mag": 0.6,
+      "place": "17 km NNW of Stanton, Texas",
+      "time": 1785488229310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oyaaoo"
     },
     {
       "id": "nc75409012",
@@ -2052,36 +2082,6 @@
       "place": "3 km W of Cobb, CA",
       "time": 1785413130710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408487"
-    },
-    {
-      "id": "pr71526788",
-      "lon": -67.2321666666667,
-      "lat": 18.7088333333333,
-      "depth": 27.24,
-      "mag": 2.88,
-      "place": "27 km NNW of San Antonio, Puerto Rico",
-      "time": 1785412810190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526788"
-    },
-    {
-      "id": "tx2026owkjgd",
-      "lon": -102.089,
-      "lat": 32.359,
-      "depth": 6.1279,
-      "mag": 0,
-      "place": "38 km NW of Stanton, Texas",
-      "time": 1785412798747,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026owkjgd"
-    },
-    {
-      "id": "aka2026oyulyq",
-      "lon": -149.827,
-      "lat": 64.571,
-      "depth": 7.7,
-      "mag": 1.5,
-      "place": "34 km W of Four Mile Road, Alaska",
-      "time": 1785412545488,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oyulyq"
     }
   ]
 }
