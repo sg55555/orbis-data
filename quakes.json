@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-31T08:15:34Z",
-  "count": 205,
+  "updated": "2026-07-31T08:30:46Z",
+  "count": 207,
   "points": [
+    {
+      "id": "nc75409002",
+      "lon": -122.943832397461,
+      "lat": 38.7734985351562,
+      "depth": 6.3600001335144,
+      "mag": 1.81,
+      "place": "7 km ESE of Cloverdale, CA",
+      "time": 1785486533080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409002"
+    },
+    {
+      "id": "ci40664082",
+      "lon": -115.470166666667,
+      "lat": 32.8235,
+      "depth": 7.97,
+      "mag": 1.07,
+      "place": "9 km W of Holtville, CA",
+      "time": 1785486394930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664082"
+    },
+    {
+      "id": "nc75408997",
+      "lon": -125.179664611816,
+      "lat": 40.3321647644043,
+      "depth": 2.76999998092651,
+      "mag": 2.53,
+      "place": "76 km W of Petrolia, CA",
+      "time": 1785486335300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408997"
+    },
     {
       "id": "ci40664074",
       "lon": -116.993333333333,
@@ -295,12 +325,12 @@
     },
     {
       "id": "tx2026oxqhlu",
-      "lon": -103.948,
-      "lat": 31.425,
-      "depth": 7.9244,
-      "mag": 1.7,
+      "lon": -103.943,
+      "lat": 31.431,
+      "depth": 6.0999,
+      "mag": 1.5,
       "place": "19 km NW of Toyah, Texas",
-      "time": 1785470606931,
+      "time": 1785470607409,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oxqhlu"
     },
     {
@@ -1404,6 +1434,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026owquqd"
     },
     {
+      "id": "av93065129",
+      "lon": -159.434333333333,
+      "lat": 56.3038333333333,
+      "depth": 7.58,
+      "mag": 0.18,
+      "place": "41 km W of Chignik Lake, Alaska",
+      "time": 1785424114090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065129"
+    },
+    {
       "id": "tx2026owqidy",
       "lon": -102.098,
       "lat": 32.379,
@@ -2032,26 +2072,6 @@
       "place": "1 km N of Magas Arriba, Puerto Rico",
       "time": 1785401281340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526763"
-    },
-    {
-      "id": "hv75010392",
-      "lon": -155.481674194336,
-      "lat": 19.2103328704834,
-      "depth": 30.1599998474121,
-      "mag": 2.06,
-      "place": "0 km NNW of Pāhala, Hawaii",
-      "time": 1785400144870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75010392"
-    },
-    {
-      "id": "uw714065701",
-      "lon": -122.634166666667,
-      "lat": 47.3016666666667,
-      "depth": 29.22,
-      "mag": 1.41,
-      "place": "1 km WNW of Artondale, Washington",
-      "time": 1785399939010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714065701"
     }
   ]
 }
