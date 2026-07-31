@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-31T10:01:07Z",
-  "count": 205,
+  "updated": "2026-07-31T10:15:47Z",
+  "count": 206,
   "points": [
+    {
+      "id": "tx2026oycgma",
+      "lon": -101.968,
+      "lat": 32.103,
+      "depth": 3.6375,
+      "mag": 1.1,
+      "place": "15 km NE of Midland, Texas",
+      "time": 1785492310043,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oycgma"
+    },
     {
       "id": "nc75409022",
       "lon": -122.806999206543,
@@ -102,6 +112,16 @@
       "place": "76 km W of Petrolia, CA",
       "time": 1785486335300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408997"
+    },
+    {
+      "id": "pr71526848",
+      "lon": -66.9141666666667,
+      "lat": 17.938,
+      "depth": 14.83,
+      "mag": 2.17,
+      "place": "3 km S of Guánica, Puerto Rico",
+      "time": 1785485341160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526848"
     },
     {
       "id": "aka2026pairvt",
@@ -2042,16 +2062,6 @@
       "place": "34 km NNE of Amboy, Washington",
       "time": 1785406660920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714065721"
-    },
-    {
-      "id": "nc75408452",
-      "lon": -122.81600189209,
-      "lat": 38.8264999389648,
-      "depth": 2.22000002861023,
-      "mag": 0.73,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1785406253370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408452"
     }
   ]
 }
