@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-07-31T04:15:38Z",
-  "count": 212,
+  "updated": "2026-07-31T04:30:47Z",
+  "count": 211,
   "points": [
+    {
+      "id": "ci40664018",
+      "lon": -117.773170471191,
+      "lat": 36.0251655578613,
+      "depth": 1.58000004291534,
+      "mag": 1.03628078387956,
+      "place": "16 km NE of Little Lake, CA",
+      "time": 1785472001790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664018"
+    },
+    {
+      "id": "nc75408952",
+      "lon": -122.717834472656,
+      "lat": 38.783332824707,
+      "depth": 1.99000000953674,
+      "mag": 1.08,
+      "place": "2 km WNW of Anderson Springs, CA",
+      "time": 1785471501350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408952"
+    },
     {
       "id": "tx2026oxqhlu",
       "lon": -103.947,
@@ -12,6 +32,16 @@
       "place": "18 km NW of Toyah, Texas",
       "time": 1785470606965,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oxqhlu"
+    },
+    {
+      "id": "us6000th5f",
+      "lon": -176.7278,
+      "lat": -28.3933,
+      "depth": 35,
+      "mag": 5,
+      "place": "Kermadec Islands region",
+      "time": 1785470573372,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th5f"
     },
     {
       "id": "nc75408947",
@@ -2082,46 +2112,6 @@
       "place": "7 km WNW of Cobb, CA",
       "time": 1785386110970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408382"
-    },
-    {
-      "id": "tx2026ovvjfa",
-      "lon": -103.242,
-      "lat": 32.015,
-      "depth": 1.9214,
-      "mag": 1.2,
-      "place": "11 km SSW of Jal, New Mexico",
-      "time": 1785385640253,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ovvjfa"
-    },
-    {
-      "id": "uw714065661",
-      "lon": -122.546666666667,
-      "lat": 45.6565,
-      "depth": 9.48,
-      "mag": 0.73,
-      "place": "1 km SE of Orchards, Washington",
-      "time": 1785385569570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714065661"
-    },
-    {
-      "id": "uu80146711",
-      "lon": -112.903333333333,
-      "lat": 38.4811666666667,
-      "depth": 3.04,
-      "mag": 0.36,
-      "place": "13 km NE of Milford, Utah",
-      "time": 1785385310090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146711"
-    },
-    {
-      "id": "nc75408372",
-      "lon": -122.9443359375,
-      "lat": 38.7726669311523,
-      "depth": 7.57000017166138,
-      "mag": 1.02,
-      "place": "7 km ESE of Cloverdale, CA",
-      "time": 1785385216030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408372"
     }
   ]
 }
