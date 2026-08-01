@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T04:30:49Z",
-  "count": 241,
+  "updated": "2026-08-01T04:45:33Z",
+  "count": 240,
   "points": [
+    {
+      "id": "nc75409392",
+      "lon": -121.629333496094,
+      "lat": 36.9830017089844,
+      "depth": 1.44000005722046,
+      "mag": 1.28,
+      "place": "6 km WSW of Gilroy, CA",
+      "time": 1785558812530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409392"
+    },
     {
       "id": "nc75409387",
       "lon": -123.203834533691,
@@ -2392,26 +2402,6 @@
       "place": "11 km SW of Trapper Creek, Alaska",
       "time": 1785473214694,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pacerp"
-    },
-    {
-      "id": "uw714066781",
-      "lon": -122.302333333333,
-      "lat": 46.2095,
-      "depth": 14.87,
-      "mag": -0.07,
-      "place": "35 km NNE of Amboy, Washington",
-      "time": 1785472631190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714066781"
-    },
-    {
-      "id": "ok2026ovwg",
-      "lon": -97.23,
-      "lat": 35.858,
-      "depth": 6.86,
-      "mag": 1.08,
-      "place": "2 km NE of Meridian, Oklahoma",
-      "time": 1785472569550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ovwg"
     }
   ]
 }
