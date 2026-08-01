@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T22:00:57Z",
-  "count": 220,
+  "updated": "2026-08-01T22:24:54Z",
+  "count": 221,
   "points": [
+    {
+      "id": "ci40664898",
+      "lon": -115.748333333333,
+      "lat": 32.6426666666667,
+      "depth": 6.33,
+      "mag": 1.74,
+      "place": "17 km WNW of Progreso, B.C., MX",
+      "time": 1785622236670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664898"
+    },
+    {
+      "id": "ci40664890",
+      "lon": -118.215,
+      "lat": 33.4693333333333,
+      "depth": 9.11,
+      "mag": 1.96,
+      "place": "18 km NE of Avalon, CA",
+      "time": 1785622220060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664890"
+    },
+    {
+      "id": "ci40664882",
+      "lon": -116.755,
+      "lat": 33.6028333333333,
+      "depth": 10.46,
+      "mag": 0.8,
+      "place": "9 km NW of Anza, CA",
+      "time": 1785621619370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664882"
+    },
     {
       "id": "ci40664874",
       "lon": -115.751333333333,
@@ -15,12 +45,12 @@
     },
     {
       "id": "tx2026pavkyj",
-      "lon": -103.984,
-      "lat": 31.603,
-      "depth": 5.0285,
+      "lon": -103.98,
+      "lat": 31.602,
+      "depth": 5.2053,
       "mag": 1.8,
       "place": "36 km NNW of Toyah, Texas",
-      "time": 1785621142248,
+      "time": 1785621142280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pavkyj"
     },
     {
@@ -35,12 +65,12 @@
     },
     {
       "id": "tx2026patzkt",
-      "lon": -101.413,
-      "lat": 31.968,
-      "depth": 9.2094,
+      "lon": -101.409,
+      "lat": 31.98,
+      "depth": 10.6789,
       "mag": 1.1,
-      "place": "13 km NNE of Garden City, Texas",
-      "time": 1785618491681,
+      "place": "14 km NNE of Garden City, Texas",
+      "time": 1785618491451,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026patzkt"
     },
     {
@@ -1065,12 +1095,12 @@
     },
     {
       "id": "tx2026ozyqsx",
-      "lon": -99.002,
-      "lat": 28.871,
-      "depth": 5.5247,
+      "lon": -99.012,
+      "lat": 28.862,
+      "depth": 5.3419,
       "mag": 1.6,
-      "place": "9 km ESE of Pearsall, Texas",
-      "time": 1785579869556,
+      "place": "8 km ESE of Pearsall, Texas",
+      "time": 1785579869468,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ozyqsx"
     },
     {
@@ -1408,7 +1438,7 @@
       "lon": -122.939666666667,
       "lat": 38.7766666666667,
       "depth": 6.69,
-      "mag": 3.79,
+      "mag": 3.67,
       "place": "7 km ESE of Cloverdale, CA",
       "time": 1785571065720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409452"
@@ -2182,26 +2212,6 @@
       "place": "4 km ESE of Lake Pillsbury, CA",
       "time": 1785537598630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409297"
-    },
-    {
-      "id": "us6000thck",
-      "lon": 130.3496,
-      "lat": -2.9385,
-      "depth": 10,
-      "mag": 4.1,
-      "place": "158 km ENE of Masohi, Indonesia",
-      "time": 1785536310124,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thck"
-    },
-    {
-      "id": "us6000thci",
-      "lon": 143.2752,
-      "lat": 39.2159,
-      "depth": 28.09,
-      "mag": 4.1,
-      "place": "117 km ESE of Yamada, Japan",
-      "time": 1785535314262,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thci"
     }
   ]
 }
