@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T21:15:36Z",
-  "count": 221,
+  "updated": "2026-08-01T21:30:56Z",
+  "count": 218,
   "points": [
+    {
+      "id": "aka2026pdfpei",
+      "lon": -156.769,
+      "lat": 57.098,
+      "depth": 5,
+      "mag": 1.9,
+      "place": "59 km SE of Ugashik, Alaska",
+      "time": 1785619676544,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pdfpei"
+    },
     {
       "id": "tx2026patzkt",
       "lon": -101.413,
@@ -102,6 +112,16 @@
       "place": "58 km SE of Pedro Bay, Alaska",
       "time": 1785615375848,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pddfaz"
+    },
+    {
+      "id": "pr71526988",
+      "lon": -64.9308333333333,
+      "lat": 18.747,
+      "depth": 17.25,
+      "mag": 3.01,
+      "place": "44 km N of Charlotte Amalie, U.S. Virgin Islands",
+      "time": 1785614908050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526988"
     },
     {
       "id": "ci40664834",
@@ -2162,56 +2182,6 @@
       "place": "64 km WNW of Karluk, Alaska",
       "time": 1785534070380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94348783"
-    },
-    {
-      "id": "ci40664426",
-      "lon": -117.843666666667,
-      "lat": 36.0675,
-      "depth": 2.42,
-      "mag": 1.12,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": 1785533403130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664426"
-    },
-    {
-      "id": "us6000thf0",
-      "lon": -173.4501,
-      "lat": 51.8071,
-      "depth": 23.896,
-      "mag": 3.6,
-      "place": "67 km SE of Atka, Alaska",
-      "time": 1785533270462,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thf0"
-    },
-    {
-      "id": "nn00922645",
-      "lon": -118.2209,
-      "lat": 40.5456,
-      "depth": 14.2141,
-      "mag": 1.5,
-      "place": "6 km SSE of Humboldt, Nevada",
-      "time": 1785533119860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922645"
-    },
-    {
-      "id": "us6000thc9",
-      "lon": 101.2878,
-      "lat": 23.1907,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "54 km NE of Simao, China",
-      "time": 1785533050934,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thc9"
-    },
-    {
-      "id": "us6000thca",
-      "lon": 126.2704,
-      "lat": 4.8905,
-      "depth": 68.804,
-      "mag": 4.4,
-      "place": "105 km ESE of Sarangani, Philippines",
-      "time": 1785533038079,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thca"
     }
   ]
 }
