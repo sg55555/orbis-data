@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T06:00:57Z",
+  "updated": "2026-08-01T06:15:40Z",
   "count": 234,
   "points": [
+    {
+      "id": "nn00922676",
+      "lon": -116.4954,
+      "lat": 38.4418,
+      "depth": 3.2888,
+      "mag": 1.62,
+      "place": "76 km ENE of Tonopah, Nevada",
+      "time": 1785564318281,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922676"
+    },
     {
       "id": "nc75409417",
       "lon": -122.943000793457,
@@ -22,6 +32,16 @@
       "place": "29 km W of Four Mile Road, Alaska",
       "time": 1785563845319,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pcaoke"
+    },
+    {
+      "id": "tx2026ozpojg",
+      "lon": -103.345,
+      "lat": 31.288,
+      "depth": 0,
+      "mag": 2,
+      "place": "19 km SSE of Barstow, Texas",
+      "time": 1785563411919,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ozpojg"
     },
     {
       "id": "nc75409407",
@@ -2322,26 +2342,6 @@
       "place": "29 km ESE of West Yellowstone, Montana",
       "time": 1785478738100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146766"
-    },
-    {
-      "id": "tx2026oxukzu",
-      "lon": -104.42,
-      "lat": 31.656,
-      "depth": 5.7922,
-      "mag": 1.5,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": 1785478300653,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oxukzu"
-    },
-    {
-      "id": "aka2026paetxx",
-      "lon": -160.628,
-      "lat": 55.972,
-      "depth": 148.5,
-      "mag": 1.7,
-      "place": "36 km E of Nelson Lagoon, Alaska",
-      "time": 1785477859647,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026paetxx"
     }
   ]
 }
