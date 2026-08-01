@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T05:45:40Z",
-  "count": 235,
+  "updated": "2026-08-01T06:00:57Z",
+  "count": 234,
   "points": [
+    {
+      "id": "nc75409417",
+      "lon": -122.943000793457,
+      "lat": 38.7745018005371,
+      "depth": 4.40000009536743,
+      "mag": 1.13,
+      "place": "7 km ESE of Cloverdale, CA",
+      "time": 1785563880240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409417"
+    },
+    {
+      "id": "aka2026pcaoke",
+      "lon": -149.739,
+      "lat": 64.64,
+      "depth": 2.6,
+      "mag": 1.9,
+      "place": "29 km W of Four Mile Road, Alaska",
+      "time": 1785563845319,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pcaoke"
+    },
     {
       "id": "nc75409407",
       "lon": -122.939666748047,
@@ -2322,36 +2342,6 @@
       "place": "36 km E of Nelson Lagoon, Alaska",
       "time": 1785477859647,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026paetxx"
-    },
-    {
-      "id": "tx2026oxtxvl",
-      "lon": -101.073,
-      "lat": 32.147,
-      "depth": 3.9795,
-      "mag": 1.8,
-      "place": "23 km SSW of Westbrook, Texas",
-      "time": 1785477175952,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oxtxvl"
-    },
-    {
-      "id": "ci40664042",
-      "lon": -116.378166666667,
-      "lat": 33.2431666666667,
-      "depth": 5.01,
-      "mag": 0.64,
-      "place": "1 km SSW of Borrego Springs, CA",
-      "time": 1785476785460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664042"
-    },
-    {
-      "id": "us6000th5m",
-      "lon": -125.5443,
-      "lat": 50.9988,
-      "depth": 10,
-      "mag": 4.1,
-      "place": "111 km N of Campbell River, Canada",
-      "time": 1785476757740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th5m"
     }
   ]
 }
