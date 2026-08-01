@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T01:45:37Z",
-  "count": 239,
+  "updated": "2026-08-01T02:01:02Z",
+  "count": 242,
   "points": [
+    {
+      "id": "aka2026pbsofs",
+      "lon": -148.478,
+      "lat": 64.276,
+      "depth": 5,
+      "mag": 0.9,
+      "place": "34 km E of Clear, Alaska",
+      "time": 1785549439951,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pbsofs"
+    },
     {
       "id": "nc75409342",
       "lon": -122.806335449219,
@@ -22,6 +32,16 @@
       "place": "65 km ENE of Pedro Bay, Alaska",
       "time": 1785547909990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pbrsct"
+    },
+    {
+      "id": "us6000thdc",
+      "lon": 99.4261,
+      "lat": 35.4802,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "206 km NW of Oula Xiuma, China",
+      "time": 1785547776859,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdc"
     },
     {
       "id": "us6000thdb",
@@ -1074,6 +1094,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146806"
     },
     {
+      "id": "av94348153",
+      "lon": -153.077,
+      "lat": 60.0246666666667,
+      "depth": -2.28,
+      "mag": -0.86,
+      "place": "63 km ENE of Pedro Bay, Alaska",
+      "time": 1785507754310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94348153"
+    },
+    {
       "id": "hv75011002",
       "lon": -155.48616027832,
       "lat": 19.19700050354,
@@ -1082,6 +1112,16 @@
       "place": "1 km SW of Pāhala, Hawaii",
       "time": 1785506916120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75011002"
+    },
+    {
+      "id": "av94348133",
+      "lon": -176.1385,
+      "lat": 52.0883333333333,
+      "depth": 5.1,
+      "mag": 0.36,
+      "place": "41 km NE of Adak, Alaska",
+      "time": 1785506720970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94348133"
     },
     {
       "id": "ci40664154",
@@ -2382,16 +2422,6 @@
       "place": "8 km ENE of Moreno Valley, CA",
       "time": 1785463288900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663986"
-    },
-    {
-      "id": "aka2026ozwhek",
-      "lon": -151.163,
-      "lat": 63.134,
-      "depth": 5,
-      "mag": 1.6,
-      "place": "53 km SSE of Denali National Park, Alaska",
-      "time": 1785462591157,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ozwhek"
     }
   ]
 }
