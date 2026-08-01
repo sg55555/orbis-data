@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T15:45:33Z",
-  "count": 235,
+  "updated": "2026-08-01T16:00:57Z",
+  "count": 233,
   "points": [
+    {
+      "id": "ci40664690",
+      "lon": -116.356833333333,
+      "lat": 33.3321666666667,
+      "depth": 10.53,
+      "mag": 0.77,
+      "place": "9 km NNE of Borrego Springs, CA",
+      "time": 1785599347030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664690"
+    },
     {
       "id": "tx2026paiwsi",
       "lon": -104.44,
@@ -2322,36 +2332,6 @@
       "place": "260 km NNW of Puerto Ayora, Ecuador",
       "time": 1785513851680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th8m"
-    },
-    {
-      "id": "av94348293",
-      "lon": -152.764333333333,
-      "lat": 60.5163333333333,
-      "depth": 2.93,
-      "mag": -0.97,
-      "place": "79 km NW of Ninilchik, Alaska",
-      "time": 1785513206170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94348293"
-    },
-    {
-      "id": "nc75409137",
-      "lon": -122.795669555664,
-      "lat": 38.8139991760254,
-      "depth": 3.51999998092651,
-      "mag": 0.75,
-      "place": "5 km NW of The Geysers, CA",
-      "time": 1785512980590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409137"
-    },
-    {
-      "id": "hv75011057",
-      "lon": -155.491668701172,
-      "lat": 19.1511669158936,
-      "depth": 29.8500003814697,
-      "mag": 1.8,
-      "place": "5 km SSW of Pāhala, Hawaii",
-      "time": 1785512795790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75011057"
     }
   ]
 }
