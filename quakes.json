@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T13:45:31Z",
-  "count": 242,
+  "updated": "2026-08-01T14:08:05Z",
+  "count": 243,
   "points": [
+    {
+      "id": "ci40664650",
+      "lon": -115.627333333333,
+      "lat": 33.1616666666667,
+      "depth": 2.93,
+      "mag": 1.21,
+      "place": "11 km WNW of Calipatria, CA",
+      "time": 1785592554640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664650"
+    },
+    {
+      "id": "tx2026pafhvr",
+      "lon": -101.371,
+      "lat": 32.078,
+      "depth": 2.6386,
+      "mag": 1.6,
+      "place": "3 km S of Forsan, Texas",
+      "time": 1785591923155,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pafhvr"
+    },
     {
       "id": "aka2026pcpxhs",
       "lon": -141.217,
@@ -75,12 +95,12 @@
     },
     {
       "id": "tx2026paduzb",
-      "lon": -101.059,
-      "lat": 32.492,
-      "depth": 1.1139,
-      "mag": 1.5,
+      "lon": -101.061,
+      "lat": 32.493,
+      "depth": 1.4941,
+      "mag": 1.6,
       "place": "15 km NNW of Westbrook, Texas",
-      "time": 1785589216322,
+      "time": 1785589216250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026paduzb"
     },
     {
@@ -1845,12 +1865,12 @@
     },
     {
       "id": "us6000thaw",
-      "lon": -65.3542,
-      "lat": 46.9187,
+      "lon": -65.403,
+      "lat": 46.8912,
       "depth": 10,
       "mag": 3.1,
-      "place": "16 km SE of Miramichi, Canada",
-      "time": 1785524152032,
+      "place": "17 km SSE of Miramichi, Canada",
+      "time": 1785524152471,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thaw"
     },
     {
@@ -2005,22 +2025,22 @@
     },
     {
       "id": "us6000th96",
-      "lon": -72.0611,
-      "lat": -29.8946,
-      "depth": 21.344,
-      "mag": 5.1,
-      "place": "69 km W of Coquimbo, Chile",
-      "time": 1785520027000,
+      "lon": -72.1202,
+      "lat": -29.867,
+      "depth": 11.851,
+      "mag": 5,
+      "place": "76 km W of Coquimbo, Chile",
+      "time": 1785520025666,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th96"
     },
     {
       "id": "us6000th99",
-      "lon": 14.1435,
-      "lat": 40.8911,
+      "lon": 14.1713,
+      "lat": 40.8789,
       "depth": 5,
       "mag": 4.5,
-      "place": "1 km N of Quarto, Italy",
-      "time": 1785520003779,
+      "place": "0 km WNW of Torre Caracciolo, Italy",
+      "time": 1785520003732,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th99"
     },
     {
@@ -2412,16 +2432,6 @@
       "place": "1 km SW of Pāhala, Hawaii",
       "time": 1785506916120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75011002"
-    },
-    {
-      "id": "av94348133",
-      "lon": -176.1385,
-      "lat": 52.0883333333333,
-      "depth": 5.1,
-      "mag": 0.36,
-      "place": "41 km NE of Adak, Alaska",
-      "time": 1785506720970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94348133"
     }
   ]
 }
