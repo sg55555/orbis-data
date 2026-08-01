@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T07:30:44Z",
-  "count": 226,
+  "updated": "2026-08-01T07:45:39Z",
+  "count": 224,
   "points": [
+    {
+      "id": "ci40664562",
+      "lon": -115.752166666667,
+      "lat": 32.6486666666667,
+      "depth": 5.74,
+      "mag": 1.44,
+      "place": "18 km WNW of Progreso, B.C., MX",
+      "time": 1785569717210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664562"
+    },
     {
       "id": "ci40664554",
       "lon": -118.956,
@@ -32,6 +42,16 @@
       "place": "77 km NW of Yakutat, Alaska",
       "time": 1785567713253,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pccshk"
+    },
+    {
+      "id": "us6000thex",
+      "lon": 154.7658,
+      "lat": 48.3782,
+      "depth": 35,
+      "mag": 4.4,
+      "place": "273 km SSW of Severo-Kuril’sk, Russia",
+      "time": 1785566892038,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thex"
     },
     {
       "id": "aka2026pcbxyo",
@@ -732,6 +752,16 @@
       "place": "10 km ENE of Coso Junction, CA",
       "time": 1785533403130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664426"
+    },
+    {
+      "id": "aka2026pbjouu",
+      "lon": -173.438,
+      "lat": 51.745,
+      "depth": 18.9,
+      "mag": 3.6,
+      "place": "72 km SE of Atka, Alaska",
+      "time": 1785533270394,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pbjouu"
     },
     {
       "id": "nn00922645",
@@ -2212,56 +2242,6 @@
       "place": "19 km W of Sitka, Alaska",
       "time": 1785484614010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065189"
-    },
-    {
-      "id": "ci40664074",
-      "lon": -116.993333333333,
-      "lat": 33.6693333333333,
-      "depth": 11.34,
-      "mag": 1.18,
-      "place": "9 km SSW of Hemet, CA",
-      "time": 1785483508440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664074"
-    },
-    {
-      "id": "uw714066821",
-      "lon": -121.701333333333,
-      "lat": 47.958,
-      "depth": -0.27,
-      "mag": 2.19,
-      "place": "10 km NNE of Startup, Washington",
-      "time": 1785483474740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714066821"
-    },
-    {
-      "id": "aka2026pahugj",
-      "lon": -154.89,
-      "lat": 58.271,
-      "depth": 3.3,
-      "mag": 1.1,
-      "place": "82 km NNW of Karluk, Alaska",
-      "time": 1785483288817,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pahugj"
-    },
-    {
-      "id": "us6000th63",
-      "lon": -177.4653,
-      "lat": -19.2671,
-      "depth": 581.048,
-      "mag": 4.5,
-      "place": "Fiji region",
-      "time": 1785483174950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th63"
-    },
-    {
-      "id": "aka2026pahrfu",
-      "lon": -150.41,
-      "lat": 63.037,
-      "depth": 106,
-      "mag": 1.9,
-      "place": "62 km NNE of Petersville, Alaska",
-      "time": 1785483078244,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pahrfu"
     }
   ]
 }
