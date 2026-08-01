@@ -1,25 +1,35 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T00:30:49Z",
+  "updated": "2026-08-01T00:45:36Z",
   "count": 234,
   "points": [
     {
+      "id": "aka2026pbpvou",
+      "lon": -150.175,
+      "lat": 61.918,
+      "depth": 60,
+      "mag": 2.1,
+      "place": "20 km NNW of Willow, Alaska",
+      "time": 1785544551454,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pbpvou"
+    },
+    {
       "id": "aka2026pbpprw",
-      "lon": -149.186,
-      "lat": 61.29,
-      "depth": 26.9,
-      "mag": 1.9,
-      "place": "20 km E of Eagle River, Alaska",
-      "time": 1785544144311,
+      "lon": -149.205,
+      "lat": 61.282,
+      "depth": 21,
+      "mag": 1.7,
+      "place": "19 km ESE of Eagle River, Alaska",
+      "time": 1785544144279,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pbpprw"
     },
     {
       "id": "ci40664482",
-      "lon": -116.026000976562,
-      "lat": 33.1808319091797,
-      "depth": 4.46000003814697,
-      "mag": 1.28497075953295,
-      "place": "11 km ENE of Ocotillo Wells, CA",
+      "lon": -116.0355,
+      "lat": 33.178,
+      "depth": 4.22,
+      "mag": 1.22,
+      "place": "10 km ENE of Ocotillo Wells, CA",
       "time": 1785544044140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664482"
     },
@@ -2332,16 +2342,6 @@
       "place": "83 km NW of Karluk, Alaska",
       "time": 1785458934330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94346963"
-    },
-    {
-      "id": "nc75408857",
-      "lon": -122.811500549316,
-      "lat": 38.8221664428711,
-      "depth": 2.91000008583069,
-      "mag": 1.14,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1785457861980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408857"
     }
   ]
 }
