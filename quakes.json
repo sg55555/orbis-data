@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T00:09:20Z",
-  "count": 232,
+  "updated": "2026-08-01T00:15:36Z",
+  "count": 231,
   "points": [
+    {
+      "id": "ci40664466",
+      "lon": -117.946666666667,
+      "lat": 33.8448333333333,
+      "depth": 15.46,
+      "mag": 1.44,
+      "place": "4 km SSW of Fullerton, CA",
+      "time": 1785543000070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664466"
+    },
     {
       "id": "ci40664458",
       "lon": -118.391333333333,
@@ -2302,26 +2312,6 @@
       "place": "15 km SSE of Carbonado, Washington",
       "time": 1785457528090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714066691"
-    },
-    {
-      "id": "uw714066671",
-      "lon": -122.0065,
-      "lat": 46.9411666666667,
-      "depth": 8.43,
-      "mag": 0.29,
-      "place": "15 km SSE of Carbonado, Washington",
-      "time": 1785456669430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714066671"
-    },
-    {
-      "id": "nn00922618",
-      "lon": -117.2863,
-      "lat": 37.7502,
-      "depth": 15.958,
-      "mag": 1.66,
-      "place": "6 km NW of Goldfield, Nevada",
-      "time": 1785456548035,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922618"
     }
   ]
 }
