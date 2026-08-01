@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T12:45:39Z",
-  "count": 245,
+  "updated": "2026-08-01T13:00:52Z",
+  "count": 240,
   "points": [
+    {
+      "id": "nc75409632",
+      "lon": -122.822998046875,
+      "lat": 38.8246650695801,
+      "depth": 7.48999977111816,
+      "mag": 0.25,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1785589119860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409632"
+    },
     {
       "id": "tx2026pacumy",
       "lon": -103.628,
@@ -702,6 +712,16 @@
       "place": "273 km SSW of Severo-Kuril’sk, Russia",
       "time": 1785566892038,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thex"
+    },
+    {
+      "id": "pr71526913",
+      "lon": -65.7055,
+      "lat": 19.4135,
+      "depth": 25.84,
+      "mag": 3.3,
+      "place": "109 km N of Suárez, Puerto Rico",
+      "time": 1785566344460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526913"
     },
     {
       "id": "aka2026pcbxyo",
@@ -2382,76 +2402,6 @@
       "place": "3 km NE of Castle Dale, Utah",
       "time": 1785503116690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146801"
-    },
-    {
-      "id": "us6000th7y",
-      "lon": 128.0296,
-      "lat": 28.2012,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "95 km WNW of Amagi, Japan",
-      "time": 1785502720829,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th7y"
-    },
-    {
-      "id": "nc75409082",
-      "lon": -122.764999389648,
-      "lat": 38.8016662597656,
-      "depth": 4.01999998092651,
-      "mag": 0.96,
-      "place": "3 km NNW of The Geysers, CA",
-      "time": 1785502444540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409082"
-    },
-    {
-      "id": "uu80146796",
-      "lon": -112.2845,
-      "lat": 38.1628333333333,
-      "depth": 1.85,
-      "mag": 1.53,
-      "place": "1 km SW of Circleville, Utah",
-      "time": 1785502309730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146796"
-    },
-    {
-      "id": "ok2026owmo",
-      "lon": -97.83633333,
-      "lat": 35.0805,
-      "depth": 7.65,
-      "mag": 1.45,
-      "place": "9 km ENE of Chickasha, Oklahoma",
-      "time": 1785502199320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026owmo"
-    },
-    {
-      "id": "tx2026oyhrkh",
-      "lon": -103.745,
-      "lat": 32.063,
-      "depth": 7.843,
-      "mag": 1.2,
-      "place": "35 km ESE of Malaga, New Mexico",
-      "time": 1785502075838,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oyhrkh"
-    },
-    {
-      "id": "nc75409077",
-      "lon": -122.735168457031,
-      "lat": 38.7716674804688,
-      "depth": 1.08000004291534,
-      "mag": 1.87,
-      "place": "2 km ESE of The Geysers, CA",
-      "time": 1785501966870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409077"
-    },
-    {
-      "id": "ci40664138",
-      "lon": -117.594333333333,
-      "lat": 35.7801666666667,
-      "depth": 11.21,
-      "mag": 0.29,
-      "place": "17 km W of Searles Valley, CA",
-      "time": 1785501936200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664138"
     }
   ]
 }
