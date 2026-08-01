@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T19:00:56Z",
-  "count": 230,
+  "updated": "2026-08-01T19:15:36Z",
+  "count": 231,
   "points": [
+    {
+      "id": "nc75409767",
+      "lon": -122.947830200195,
+      "lat": 38.7686653137207,
+      "depth": 3.57999992370605,
+      "mag": 1.06,
+      "place": "7 km SE of Cloverdale, CA",
+      "time": 1785611262720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409767"
+    },
+    {
+      "id": "nc75409762",
+      "lon": -122.938003540039,
+      "lat": 38.7714996337891,
+      "depth": 4.26999998092651,
+      "mag": 1.13,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": 1785610942550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409762"
+    },
     {
       "id": "ci40664810",
       "lon": -116.506333333333,
@@ -2292,16 +2312,6 @@
       "place": "151 km W of Adak, Alaska",
       "time": 1785525979700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94348598"
-    },
-    {
-      "id": "ci40664330",
-      "lon": -116.443833333333,
-      "lat": 33.4128333333333,
-      "depth": 14.52,
-      "mag": 0.33,
-      "place": "19 km NNW of Borrego Springs, CA",
-      "time": 1785525054650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664330"
     }
   ]
 }
