@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T17:45:40Z",
-  "count": 239,
+  "updated": "2026-08-01T18:00:54Z",
+  "count": 235,
   "points": [
+    {
+      "id": "aka2026pcyokn",
+      "lon": -149.938,
+      "lat": 61.476,
+      "depth": 67.3,
+      "mag": 1.1,
+      "place": "5 km S of Big Lake, Alaska",
+      "time": 1785607027087,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pcyokn"
+    },
     {
       "id": "ci40664770",
       "lon": -120.187166666667,
@@ -50,7 +60,7 @@
       "depth": 0,
       "mag": 1.6,
       "place": "46 km WNW of Toyah, Texas",
-      "time": 1785605046487,
+      "time": 1785605046485,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pamoih"
     },
     {
@@ -162,6 +172,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1785600470880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409682"
+    },
+    {
+      "id": "us6000thgz",
+      "lon": 130.4599,
+      "lat": 32.4488,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "14 km WSW of Honmachi, Japan",
+      "time": 1785600441753,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thgz"
     },
     {
       "id": "aka2026pcuvpj",
@@ -2332,66 +2352,6 @@
       "place": "23 km NNE of Atka, Alaska",
       "time": 1785521269830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94348538"
-    },
-    {
-      "id": "nc75409197",
-      "lon": -122.798164367676,
-      "lat": 38.7724990844727,
-      "depth": 3.36999988555908,
-      "mag": 0.74,
-      "place": "4 km W of The Geysers, CA",
-      "time": 1785520776490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409197"
-    },
-    {
-      "id": "hv75011087",
-      "lon": -155.492172241211,
-      "lat": 19.1975002288818,
-      "depth": 28.0100002288818,
-      "mag": 1.91,
-      "place": "1 km WSW of Pāhala, Hawaii",
-      "time": 1785520504410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75011087"
-    },
-    {
-      "id": "aka2026pbcjtm",
-      "lon": -144.897,
-      "lat": 63.377,
-      "depth": 3.7,
-      "mag": 1.4,
-      "place": "32 km SSW of Dry Creek, Alaska",
-      "time": 1785520344769,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pbcjtm"
-    },
-    {
-      "id": "av94348503",
-      "lon": -159.755166666667,
-      "lat": 55.9975,
-      "depth": 3.6,
-      "mag": 0.47,
-      "place": "20 km WNW of Ivanof Bay, Alaska",
-      "time": 1785520198990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94348503"
-    },
-    {
-      "id": "us6000th96",
-      "lon": -72.1202,
-      "lat": -29.867,
-      "depth": 11.851,
-      "mag": 5,
-      "place": "76 km W of Coquimbo, Chile",
-      "time": 1785520025666,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th96"
-    },
-    {
-      "id": "us6000th99",
-      "lon": 14.1713,
-      "lat": 40.8789,
-      "depth": 5,
-      "mag": 4.5,
-      "place": "0 km WNW of Torre Caracciolo, Italy",
-      "time": 1785520003732,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th99"
     }
   ]
 }
