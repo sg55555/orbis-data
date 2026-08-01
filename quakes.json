@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T04:45:33Z",
-  "count": 240,
+  "updated": "2026-08-01T05:00:55Z",
+  "count": 236,
   "points": [
+    {
+      "id": "ci40664522",
+      "lon": -116.620833333333,
+      "lat": 33.5615,
+      "depth": 12.01,
+      "mag": 0.66,
+      "place": "5 km E of Anza, CA",
+      "time": 1785559553770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664522"
+    },
     {
       "id": "nc75409392",
       "lon": -121.629333496094,
@@ -2352,56 +2362,6 @@
       "place": "18 km WSW of Karluk, Alaska",
       "time": 1785474494540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pacxcn"
-    },
-    {
-      "id": "aka2026pacneh",
-      "lon": -150.439,
-      "lat": 60.108,
-      "depth": 35.9,
-      "mag": 1.6,
-      "place": "40 km NE of Fox River, Alaska",
-      "time": 1785473801699,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pacneh"
-    },
-    {
-      "id": "tx2026oxrurm",
-      "lon": -104.426,
-      "lat": 31.667,
-      "depth": 4.4849,
-      "mag": 1.8,
-      "place": "56 km S of Whites City, New Mexico",
-      "time": 1785473431885,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oxrurm"
-    },
-    {
-      "id": "av94347333",
-      "lon": -178.708666666667,
-      "lat": 51.6978333333333,
-      "depth": 12.44,
-      "mag": 1.23,
-      "place": "144 km W of Adak, Alaska",
-      "time": 1785473378350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94347333"
-    },
-    {
-      "id": "us6000th5i",
-      "lon": 44.5639,
-      "lat": 35.4057,
-      "depth": 10,
-      "mag": 4.1,
-      "place": "17 km ESE of Kirkuk, Iraq",
-      "time": 1785473377379,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th5i"
-    },
-    {
-      "id": "aka2026pacerp",
-      "lon": -150.407,
-      "lat": 62.247,
-      "depth": 61.4,
-      "mag": 1.1,
-      "place": "11 km SW of Trapper Creek, Alaska",
-      "time": 1785473214694,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pacerp"
     }
   ]
 }
