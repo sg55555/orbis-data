@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T20:15:33Z",
+  "updated": "2026-08-01T20:30:47Z",
   "count": 224,
   "points": [
+    {
+      "id": "aka2026pddher",
+      "lon": -155.279,
+      "lat": 58.164,
+      "depth": 5,
+      "mag": 0.5,
+      "place": "82 km NW of Karluk, Alaska",
+      "time": 1785615522837,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pddher"
+    },
+    {
+      "id": "aka2026pddfaz",
+      "lon": -153.327,
+      "lat": 59.447,
+      "depth": 125.7,
+      "mag": 1.2,
+      "place": "58 km SE of Pedro Bay, Alaska",
+      "time": 1785615375848,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pddfaz"
+    },
     {
       "id": "ci40664834",
       "lon": -117.564666666667,
@@ -12,6 +32,16 @@
       "place": "13 km NE of Ridgecrest, CA",
       "time": 1785614718560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664834"
+    },
+    {
+      "id": "us6000thhr",
+      "lon": 155.327,
+      "lat": 49.3239,
+      "depth": 49.724,
+      "mag": 5.2,
+      "place": "160 km SSW of Severo-Kuril’sk, Russia",
+      "time": 1785614566638,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thhr"
     },
     {
       "id": "us6000thhq",
@@ -2212,36 +2242,6 @@
       "place": "43 km ENE of Adak, Alaska",
       "time": 1785529834710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94348683"
-    },
-    {
-      "id": "us6000thbu",
-      "lon": 130.0959,
-      "lat": -2.9125,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "132 km ENE of Masohi, Indonesia",
-      "time": 1785529750879,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thbu"
-    },
-    {
-      "id": "us6000thbs",
-      "lon": 69.7889,
-      "lat": 37.8214,
-      "depth": 45.838,
-      "mag": 4.4,
-      "place": "10 km S of Kŭlob, Tajikistan",
-      "time": 1785529609821,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thbs"
-    },
-    {
-      "id": "us6000thbq",
-      "lon": 130.1637,
-      "lat": -2.8782,
-      "depth": 10,
-      "mag": 5.3,
-      "place": "140 km ENE of Masohi, Indonesia",
-      "time": 1785529166522,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thbq"
     }
   ]
 }
