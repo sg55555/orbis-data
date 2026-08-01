@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T15:15:35Z",
-  "count": 236,
+  "updated": "2026-08-01T15:30:45Z",
+  "count": 235,
   "points": [
     {
+      "id": "ci40664674",
+      "lon": -117.508666666667,
+      "lat": 36.4265,
+      "depth": 0.38,
+      "mag": 2.1,
+      "place": "38 km WSW of Stovepipe Wells, CA",
+      "time": 1785597449820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664674"
+    },
+    {
       "id": "uw714067771",
-      "lon": -121.122001647949,
-      "lat": 46.7350006103516,
-      "depth": -1.11000001430511,
-      "mag": 2.49309659004211,
-      "place": "16 km SW of Nile, Washington",
-      "time": 1785596755500,
+      "lon": -121.128166666667,
+      "lat": 46.7211666666667,
+      "depth": 8.97,
+      "mag": 2.33,
+      "place": "18 km SW of Nile, Washington",
+      "time": 1785596755650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714067771"
     },
     {
@@ -2342,26 +2352,6 @@
       "place": "86 km NNW of Karluk, Alaska",
       "time": 1785511861150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94348248"
-    },
-    {
-      "id": "nc75409127",
-      "lon": -122.778663635254,
-      "lat": 38.8025016784668,
-      "depth": 3.60999989509583,
-      "mag": 1.74,
-      "place": "3 km NW of The Geysers, CA",
-      "time": 1785511465410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409127"
-    },
-    {
-      "id": "uw714066901",
-      "lon": -122.185166666667,
-      "lat": 46.2028333333333,
-      "depth": -1.81,
-      "mag": -0.32,
-      "place": "38 km NNE of Amboy, Washington",
-      "time": 1785511374350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714066901"
     }
   ]
 }
