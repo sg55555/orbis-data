@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T02:01:02Z",
+  "updated": "2026-08-01T02:15:37Z",
   "count": 242,
   "points": [
+    {
+      "id": "nc75409357",
+      "lon": -121.557830810547,
+      "lat": 41.2393341064453,
+      "depth": 7.19999980926514,
+      "mag": 1.64,
+      "place": "25 km NNW of McArthur, CA",
+      "time": 1785549676390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409357"
+    },
     {
       "id": "aka2026pbsofs",
       "lon": -148.478,
@@ -954,6 +964,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th8m"
     },
     {
+      "id": "av94348293",
+      "lon": -152.764333333333,
+      "lat": 60.5163333333333,
+      "depth": 2.93,
+      "mag": -0.97,
+      "place": "79 km NW of Ninilchik, Alaska",
+      "time": 1785513206170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94348293"
+    },
+    {
       "id": "nc75409137",
       "lon": -122.795669555664,
       "lat": 38.8139991760254,
@@ -1082,6 +1102,16 @@
       "place": "5 km W of Cobb, CA",
       "time": 1785509114650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409107"
+    },
+    {
+      "id": "av93065209",
+      "lon": -168.081833333333,
+      "lat": 53.5133333333333,
+      "depth": 5.6,
+      "mag": -0.35,
+      "place": "82 km NE of Nikolski, Alaska",
+      "time": 1785508985130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065209"
     },
     {
       "id": "uu80146806",
@@ -2392,36 +2422,6 @@
       "place": "8 km ESE of Cloverdale, CA",
       "time": 1785464219400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408897"
-    },
-    {
-      "id": "us6000th54",
-      "lon": -176.9647,
-      "lat": -28.5632,
-      "depth": 44.986,
-      "mag": 4.6,
-      "place": "Kermadec Islands region",
-      "time": 1785463676445,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th54"
-    },
-    {
-      "id": "uw714066721",
-      "lon": -121.1265,
-      "lat": 46.7381666666667,
-      "depth": 6.24,
-      "mag": 1.39,
-      "place": "16 km WSW of Nile, Washington",
-      "time": 1785463377490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714066721"
-    },
-    {
-      "id": "ci40663986",
-      "lon": -117.151166666667,
-      "lat": 33.9641666666667,
-      "depth": 15.53,
-      "mag": 0.66,
-      "place": "8 km ENE of Moreno Valley, CA",
-      "time": 1785463288900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40663986"
     }
   ]
 }
