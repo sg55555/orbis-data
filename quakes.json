@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T08:51:12Z",
+  "updated": "2026-08-01T09:00:55Z",
   "count": 232,
   "points": [
+    {
+      "id": "aka2026pcgomb",
+      "lon": -148.411,
+      "lat": 62.276,
+      "depth": 43.1,
+      "mag": 1.3,
+      "place": "53 km N of Chickaloon, Alaska",
+      "time": 1785574645156,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pcgomb"
+    },
+    {
+      "id": "aka2026pcgmvg",
+      "lon": -148.481,
+      "lat": 64.295,
+      "depth": 4.2,
+      "mag": 0.8,
+      "place": "34 km E of Clear, Alaska",
+      "time": 1785574531764,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pcgmvg"
+    },
     {
       "id": "nc75409502",
       "lon": -122.937164306641,
@@ -162,6 +182,16 @@
       "place": "8 km ESE of Cloverdale, CA",
       "time": 1785570887230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409447"
+    },
+    {
+      "id": "us6000thf5",
+      "lon": -68.451,
+      "lat": -21.4068,
+      "depth": 142.886,
+      "mag": 4.4,
+      "place": "28 km SW of Ollagüe, Chile",
+      "time": 1785570645439,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thf5"
     },
     {
       "id": "ci40664570",
@@ -2292,36 +2322,6 @@
       "place": "37 km WNW of Dāmghān, Iran",
       "time": 1785488935647,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th6a"
-    },
-    {
-      "id": "tx2026oyadii",
-      "lon": -102.053,
-      "lat": 32.37,
-      "depth": 8.4229,
-      "mag": 0.4,
-      "place": "36 km WSW of Ackerly, Texas",
-      "time": 1785488420650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oyadii"
-    },
-    {
-      "id": "tx2026oyaaoo",
-      "lon": -101.875,
-      "lat": 32.27,
-      "depth": 6.7139,
-      "mag": 0.6,
-      "place": "17 km NNW of Stanton, Texas",
-      "time": 1785488229310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oyaaoo"
-    },
-    {
-      "id": "nc75409012",
-      "lon": -122.937835693359,
-      "lat": 38.7755012512207,
-      "depth": 3.29999995231628,
-      "mag": 1.14,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1785488096570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409012"
     }
   ]
 }
