@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T09:00:55Z",
-  "count": 232,
+  "updated": "2026-08-01T09:15:37Z",
+  "count": 230,
   "points": [
+    {
+      "id": "nc75409507",
+      "lon": -122.941833496094,
+      "lat": 38.7745018005371,
+      "depth": 5.34999990463257,
+      "mag": 1.01,
+      "place": "7 km ESE of Cloverdale, CA",
+      "time": 1785574867540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409507"
+    },
     {
       "id": "aka2026pcgomb",
       "lon": -148.411,
@@ -2292,36 +2302,6 @@
       "place": "14 km W of Johannesburg, CA",
       "time": 1785489925740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664090"
-    },
-    {
-      "id": "tx2026oyanki",
-      "lon": -103.698,
-      "lat": 31.419,
-      "depth": 0,
-      "mag": 1.8,
-      "place": "14 km NE of Toyah, Texas",
-      "time": 1785489121636,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oyanki"
-    },
-    {
-      "id": "hv75010932",
-      "lon": -155.340667724609,
-      "lat": 19.0531673431396,
-      "depth": 31.2099990844727,
-      "mag": 1.81,
-      "place": "22 km SE of Pāhala, Hawaii",
-      "time": 1785489120690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75010932"
-    },
-    {
-      "id": "us6000th6a",
-      "lon": 53.9299,
-      "lat": 36.2353,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "37 km WNW of Dāmghān, Iran",
-      "time": 1785488935647,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th6a"
     }
   ]
 }
