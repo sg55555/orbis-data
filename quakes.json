@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T06:30:41Z",
-  "count": 229,
+  "updated": "2026-08-01T06:38:31Z",
+  "count": 227,
   "points": [
+    {
+      "id": "ci40664538",
+      "lon": -117.659,
+      "lat": 35.8268333333333,
+      "depth": 8.83,
+      "mag": 0.34,
+      "place": "23 km N of Ridgecrest, CA",
+      "time": 1785565900770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664538"
+    },
     {
       "id": "nn00922676",
       "lon": -116.4954,
@@ -2262,36 +2272,6 @@
       "place": "18 km NNE of Upper Lake, CA",
       "time": 1785480717910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408977"
-    },
-    {
-      "id": "uu80146776",
-      "lon": -110.751833333333,
-      "lat": 44.5733333333333,
-      "depth": 5.7,
-      "mag": 0.34,
-      "place": "29 km ESE of West Yellowstone, Montana",
-      "time": 1785479662200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146776"
-    },
-    {
-      "id": "hv75010897",
-      "lon": -155.486166666667,
-      "lat": 19.2191666666667,
-      "depth": 31.63,
-      "mag": 1.79,
-      "place": "1 km NNW of Pāhala, Hawaii",
-      "time": 1785479658530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75010897"
-    },
-    {
-      "id": "us6000th5s",
-      "lon": -176.5524,
-      "lat": -29.4109,
-      "depth": 37.846,
-      "mag": 5,
-      "place": "Kermadec Islands region",
-      "time": 1785479426157,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th5s"
     }
   ]
 }
