@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T10:00:58Z",
-  "count": 231,
+  "updated": "2026-08-01T10:15:31Z",
+  "count": 233,
   "points": [
+    {
+      "id": "nc75409537",
+      "lon": -122.942169189453,
+      "lat": 38.775333404541,
+      "depth": 6.36999988555908,
+      "mag": 1.02,
+      "place": "7 km ESE of Cloverdale, CA",
+      "time": 1785579103660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409537"
+    },
+    {
+      "id": "ci40664586",
+      "lon": -117.314,
+      "lat": 34.101,
+      "depth": 13.97,
+      "mag": 0.79,
+      "place": "3 km N of Colton, CA",
+      "time": 1785578254240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664586"
+    },
     {
       "id": "aka2026pcionj",
       "lon": -150.082,
@@ -22,6 +42,16 @@
       "place": "7 km ESE of Cloverdale, CA",
       "time": 1785577912880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409532"
+    },
+    {
+      "id": "us6000thfp",
+      "lon": -15.9764,
+      "lat": -39.6903,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "Tristan da Cunha region",
+      "time": 1785577833985,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thfp"
     },
     {
       "id": "aka2026pcicaz",
@@ -2302,16 +2332,6 @@
       "place": "2 km SE of Yucaipa, CA",
       "time": 1785493189270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664098"
-    },
-    {
-      "id": "tx2026oycgma",
-      "lon": -101.964,
-      "lat": 32.108,
-      "depth": 8.4473,
-      "mag": 0.9,
-      "place": "16 km NE of Midland, Texas",
-      "time": 1785492310304,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oycgma"
     }
   ]
 }
