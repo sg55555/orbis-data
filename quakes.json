@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T15:00:56Z",
-  "count": 238,
+  "updated": "2026-08-01T15:15:35Z",
+  "count": 236,
   "points": [
+    {
+      "id": "uw714067771",
+      "lon": -121.122001647949,
+      "lat": 46.7350006103516,
+      "depth": -1.11000001430511,
+      "mag": 2.49309659004211,
+      "place": "16 km SW of Nile, Washington",
+      "time": 1785596755500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714067771"
+    },
+    {
+      "id": "nc75409662",
+      "lon": -122.76782989502,
+      "lat": 38.798999786377,
+      "depth": 3.63000011444092,
+      "mag": 0.25,
+      "place": "3 km NNW of The Geysers, CA",
+      "time": 1785596466200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409662"
+    },
     {
       "id": "ci40664666",
       "lon": -116.840833333333,
@@ -35,12 +55,12 @@
     },
     {
       "id": "tx2026pagplk",
-      "lon": -103.976,
-      "lat": 31.285,
-      "depth": 0,
-      "mag": 1.6,
-      "place": "17 km W of Toyah, Texas",
-      "time": 1785594259083,
+      "lon": -103.986,
+      "lat": 31.602,
+      "depth": 4.8588,
+      "mag": 0.8,
+      "place": "36 km NNW of Toyah, Texas",
+      "time": 1785594262573,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pagplk"
     },
     {
@@ -1395,23 +1415,13 @@
     },
     {
       "id": "ci40664474",
-      "lon": -117.233333333333,
-      "lat": 32.8141666666667,
-      "depth": 12.75,
+      "lon": -117.235666666667,
+      "lat": 32.8111666666667,
+      "depth": 13.05,
       "mag": 1.87,
       "place": "5 km SE of La Jolla, CA",
-      "time": 1785543311340,
+      "time": 1785543311280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664474"
-    },
-    {
-      "id": "ci40664466",
-      "lon": -117.946666666667,
-      "lat": 33.8448333333333,
-      "depth": 15.46,
-      "mag": 1.44,
-      "place": "4 km SSW of Fullerton, CA",
-      "time": 1785543000070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664466"
     },
     {
       "id": "ci40664458",
@@ -2352,36 +2362,6 @@
       "place": "38 km NNE of Amboy, Washington",
       "time": 1785511374350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714066901"
-    },
-    {
-      "id": "hv75011032",
-      "lon": -155.363830566406,
-      "lat": 19.2353324890137,
-      "depth": 32.3400001525879,
-      "mag": 1.85,
-      "place": "12 km ENE of Pāhala, Hawaii",
-      "time": 1785510622790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75011032"
-    },
-    {
-      "id": "aka2026pawxlw",
-      "lon": -151.101,
-      "lat": 62.941,
-      "depth": 116.3,
-      "mag": 1.7,
-      "place": "52 km NNW of Petersville, Alaska",
-      "time": 1785510496795,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pawxlw"
-    },
-    {
-      "id": "aka2026pawubw",
-      "lon": -148.144,
-      "lat": 61.65,
-      "depth": 16.7,
-      "mag": 1,
-      "place": "23 km SE of Chickaloon, Alaska",
-      "time": 1785510263481,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pawubw"
     }
   ]
 }
