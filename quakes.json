@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T07:45:37Z",
-  "count": 233,
+  "updated": "2026-08-02T08:00:56Z",
+  "count": 229,
   "points": [
+    {
+      "id": "ci40665122",
+      "lon": -116.784833333333,
+      "lat": 33.5003333333333,
+      "depth": 6.65,
+      "mag": 0.35,
+      "place": "10 km NE of Aguanga, CA",
+      "time": 1785656819090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665122"
+    },
     {
       "id": "ci40665114",
       "lon": -116.375666666667,
@@ -2282,56 +2292,6 @@
       "place": "7 km ESE of Cloverdale, CA",
       "time": 1785571247230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409457"
-    },
-    {
-      "id": "nc75409452",
-      "lon": -122.939666666667,
-      "lat": 38.7766666666667,
-      "depth": 6.69,
-      "mag": 3.67,
-      "place": "7 km ESE of Cloverdale, CA",
-      "time": 1785571065720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409452"
-    },
-    {
-      "id": "nc75409447",
-      "lon": -122.933502197266,
-      "lat": 38.7761650085449,
-      "depth": 3.70000004768372,
-      "mag": 1.09,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1785570887230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409447"
-    },
-    {
-      "id": "us6000thf5",
-      "lon": -68.451,
-      "lat": -21.4068,
-      "depth": 142.886,
-      "mag": 4.4,
-      "place": "28 km SW of Ollagüe, Chile",
-      "time": 1785570645439,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thf5"
-    },
-    {
-      "id": "ci40664570",
-      "lon": -117.818,
-      "lat": 35.3131666666667,
-      "depth": 8.5,
-      "mag": 1.2,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1785570461580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664570"
-    },
-    {
-      "id": "us6000thf3",
-      "lon": -179.1255,
-      "lat": -22.3815,
-      "depth": 544.366,
-      "mag": 5.1,
-      "place": "south of the Fiji Islands",
-      "time": 1785570363634,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thf3"
     }
   ]
 }
