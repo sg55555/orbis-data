@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T02:15:32Z",
-  "count": 231,
+  "updated": "2026-08-02T02:30:41Z",
+  "count": 233,
   "points": [
+    {
+      "id": "ci40664994",
+      "lon": -115.7505,
+      "lat": 32.6418333333333,
+      "depth": 5.72,
+      "mag": 2.03,
+      "place": "17 km WNW of Progreso, B.C., MX",
+      "time": 1785637387140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664994"
+    },
+    {
+      "id": "ci40664986",
+      "lon": -115.577333333333,
+      "lat": 32.6178333333333,
+      "depth": 3.11,
+      "mag": 1.29,
+      "place": "4 km N of Progreso, B.C., MX",
+      "time": 1785637351460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664986"
+    },
     {
       "id": "nc75409947",
       "lon": -123.218002319336,
@@ -232,6 +252,16 @@
       "place": "11 km E of Pearsall, Texas",
       "time": 1785628370086,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pazlhq"
+    },
+    {
+      "id": "us6000thj0",
+      "lon": -92.6988,
+      "lat": 15.1043,
+      "depth": 79.674,
+      "mag": 4.2,
+      "place": "7 km S of El Arenal, Mexico",
+      "time": 1785627597183,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thj0"
     },
     {
       "id": "aka2026pdjwdt",
@@ -2302,16 +2332,6 @@
       "place": "13 km NNW of Angwin, CA",
       "time": 1785551544960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409362"
-    },
-    {
-      "id": "us6000thdg",
-      "lon": -83.8046,
-      "lat": 9.7477,
-      "depth": 10,
-      "mag": 4.3,
-      "place": "7 km SE of Orosi, Costa Rica",
-      "time": 1785550587638,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdg"
     }
   ]
 }
