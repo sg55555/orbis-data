@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T16:45:37Z",
-  "count": 214,
+  "updated": "2026-08-02T17:00:50Z",
+  "count": 213,
   "points": [
+    {
+      "id": "aka2026pesluw",
+      "lon": -152.675,
+      "lat": 59.45,
+      "depth": 76.7,
+      "mag": 1.2,
+      "place": "44 km WNW of Nanwalek, Alaska",
+      "time": 1785689610927,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pesluw"
+    },
     {
       "id": "ci40665274",
       "lon": -116.712166666667,
@@ -12,6 +22,16 @@
       "place": "4 km WSW of Anza, CA",
       "time": 1785688183270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665274"
+    },
+    {
+      "id": "us6000thmn",
+      "lon": 126.3895,
+      "lat": 4.1753,
+      "depth": 29.553,
+      "mag": 4.7,
+      "place": "170 km SE of Sarangani, Philippines",
+      "time": 1785688022032,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmn"
     },
     {
       "id": "aka2026perhsp",
@@ -1625,12 +1645,12 @@
     },
     {
       "id": "ci40664914",
-      "lon": -115.567333333333,
-      "lat": 32.6308333333333,
-      "depth": 5.39,
-      "mag": 2.15,
+      "lon": -115.569,
+      "lat": 32.6306666666667,
+      "depth": 5.84,
+      "mag": 2.27,
       "place": "6 km NNE of Progreso, B.C., MX",
-      "time": 1785623602000,
+      "time": 1785623601970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664914"
     },
     {
@@ -2112,36 +2132,6 @@
       "place": "7 km W of Cobb, CA",
       "time": 1785604363130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409722"
-    },
-    {
-      "id": "nc75409717",
-      "lon": -122.811668395996,
-      "lat": 38.8208351135254,
-      "depth": 3.11999988555908,
-      "mag": 0.69,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1785603347940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409717"
-    },
-    {
-      "id": "ci40664738",
-      "lon": -116.322,
-      "lat": 33.9781666666667,
-      "depth": 8.18,
-      "mag": 3.22,
-      "place": "17 km E of Desert Hot Springs, CA",
-      "time": 1785603066380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664738"
-    },
-    {
-      "id": "nn00922691",
-      "lon": -119.0086,
-      "lat": 39.3386,
-      "depth": 6.0928,
-      "mag": 1.74,
-      "place": "20 km ESE of Silver Springs, Nevada",
-      "time": 1785602750192,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922691"
     }
   ]
 }
