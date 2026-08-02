@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T19:00:55Z",
-  "count": 214,
+  "updated": "2026-08-02T19:15:40Z",
+  "count": 215,
   "points": [
+    {
+      "id": "ci40665314",
+      "lon": -118.634666666667,
+      "lat": 34.4623333333333,
+      "depth": 6.89,
+      "mag": 1.91,
+      "place": "3 km SSW of Castaic, CA",
+      "time": 1785697785390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665314"
+    },
+    {
+      "id": "nc75410247",
+      "lon": -122.781829833984,
+      "lat": 38.8359985351562,
+      "depth": 1.72000002861023,
+      "mag": 0.77,
+      "place": "5 km WNW of Cobb, CA",
+      "time": 1785697494540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410247"
+    },
     {
       "id": "aka2026pewhxm",
       "lon": -150.861,
@@ -724,6 +744,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ozyf"
     },
     {
+      "id": "tx2026pbtrfy",
+      "lon": -103.24,
+      "lat": 31.998,
+      "depth": 4.7284,
+      "mag": 1.7,
+      "place": "13 km SSW of Jal, New Mexico",
+      "time": 1785664991874,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pbtrfy"
+    },
+    {
       "id": "us6000thlf",
       "lon": 130.6919,
       "lat": 32.3966,
@@ -972,6 +1002,16 @@
       "place": "13 km SW of Laupāhoehoe, Hawaii",
       "time": 1785658503400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75011772"
+    },
+    {
+      "id": "tx2026pbpqto",
+      "lon": -103.249,
+      "lat": 32.003,
+      "depth": 4.4639,
+      "mag": 1.5,
+      "place": "13 km SSW of Jal, New Mexico",
+      "time": 1785657719724,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pbpqto"
     },
     {
       "id": "ci40665122",
@@ -1885,12 +1925,12 @@
     },
     {
       "id": "ci40664874",
-      "lon": -115.751333333333,
-      "lat": 32.6436666666667,
-      "depth": 5.74,
+      "lon": -115.741333333333,
+      "lat": 32.6343333333333,
+      "depth": 7.14,
       "mag": 1.62,
-      "place": "17 km WNW of Progreso, B.C., MX",
-      "time": 1785621399970,
+      "place": "16 km WNW of Progreso, B.C., MX",
+      "time": 1785621399810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664874"
     },
     {
@@ -2112,36 +2152,6 @@
       "place": "4 km NNW of The Geysers, CA",
       "time": 1785611810790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409777"
-    },
-    {
-      "id": "us6000thhk",
-      "lon": 131.9999,
-      "lat": 32.0078,
-      "depth": 26.229,
-      "mag": 5.2,
-      "place": "48 km ESE of Tsunō, Japan",
-      "time": 1785611452622,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thhk"
-    },
-    {
-      "id": "nc75409767",
-      "lon": -122.947830200195,
-      "lat": 38.7686653137207,
-      "depth": 3.57999992370605,
-      "mag": 1.06,
-      "place": "7 km SE of Cloverdale, CA",
-      "time": 1785611262720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409767"
-    },
-    {
-      "id": "nc75409762",
-      "lon": -122.938003540039,
-      "lat": 38.7714996337891,
-      "depth": 4.26999998092651,
-      "mag": 1.13,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1785610942550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409762"
     }
   ]
 }
