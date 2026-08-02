@@ -1,8 +1,48 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T18:30:44Z",
-  "count": 212,
+  "updated": "2026-08-02T18:45:37Z",
+  "count": 214,
   "points": [
+    {
+      "id": "nc75410237",
+      "lon": -121.174499511719,
+      "lat": 36.5801658630371,
+      "depth": 2.77999997138977,
+      "mag": 1.9,
+      "place": "6 km NNW of Pinnacles, CA",
+      "time": 1785696139420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410237"
+    },
+    {
+      "id": "nc75410232",
+      "lon": -121.178169250488,
+      "lat": 36.5748329162598,
+      "depth": 2.88000011444092,
+      "mag": 1.9,
+      "place": "6 km NNW of Pinnacles, CA",
+      "time": 1785695999840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410232"
+    },
+    {
+      "id": "nc75410222",
+      "lon": -121.173164367676,
+      "lat": 36.5675010681152,
+      "depth": 2.66000008583069,
+      "mag": 2.18,
+      "place": "5 km NW of Pinnacles, CA",
+      "time": 1785695852780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410222"
+    },
+    {
+      "id": "nc75410217",
+      "lon": -122.855834960938,
+      "lat": 38.8269996643066,
+      "depth": 2.41000008583069,
+      "mag": 1.09,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": 1785695760630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410217"
+    },
     {
       "id": "nc75410207",
       "lon": -122.807662963867,
@@ -12,6 +52,16 @@
       "place": "7 km WNW of Cobb, CA",
       "time": 1785694922230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410207"
+    },
+    {
+      "id": "us6000thn0",
+      "lon": 104.7825,
+      "lat": 28.6701,
+      "depth": 10,
+      "mag": 5,
+      "place": "16 km NW of Changning, China",
+      "time": 1785694906259,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thn0"
     },
     {
       "id": "ci40665298",
@@ -1575,12 +1625,12 @@
     },
     {
       "id": "ci40664954",
-      "lon": -115.750833333333,
-      "lat": 32.646,
-      "depth": 5.28,
-      "mag": 1.91,
+      "lon": -115.746,
+      "lat": 32.643,
+      "depth": 6.66,
+      "mag": 1.86,
       "place": "17 km WNW of Progreso, B.C., MX",
-      "time": 1785629385750,
+      "time": 1785629385610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664954"
     },
     {
@@ -2092,36 +2142,6 @@
       "place": "16 km SE of Anza, CA",
       "time": 1785610085110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664802"
-    },
-    {
-      "id": "hv75011557",
-      "lon": -155.324829101562,
-      "lat": 19.1473331451416,
-      "depth": 39.439998626709,
-      "mag": 2.08,
-      "place": "17 km ESE of Pāhala, Hawaii",
-      "time": 1785609846070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75011557"
-    },
-    {
-      "id": "ci40664794",
-      "lon": -116.2715,
-      "lat": 32.9078333333333,
-      "depth": 12.77,
-      "mag": 0.8,
-      "place": "26 km ENE of Pine Valley, CA",
-      "time": 1785609744570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664794"
-    },
-    {
-      "id": "aka2026pczsck",
-      "lon": -150.916,
-      "lat": 60.781,
-      "depth": 58.6,
-      "mag": 2.7,
-      "place": "20 km SW of Point Possession, Alaska",
-      "time": 1785609081678,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pczsck"
     }
   ]
 }
