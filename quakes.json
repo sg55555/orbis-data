@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T12:15:37Z",
-  "count": 211,
+  "updated": "2026-08-02T12:30:46Z",
+  "count": 212,
   "points": [
+    {
+      "id": "aka2026pejnwj",
+      "lon": -148.022,
+      "lat": 64.17,
+      "depth": 112.2,
+      "mag": 1.7,
+      "place": "56 km ENE of Ferry, Alaska",
+      "time": 1785673558405,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pejnwj"
+    },
+    {
+      "id": "ci40665194",
+      "lon": -116.3685,
+      "lat": 33.353,
+      "depth": 14.33,
+      "mag": 0.24,
+      "place": "11 km N of Borrego Springs, CA",
+      "time": 1785672842230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665194"
+    },
     {
       "id": "aka2026peimza",
       "lon": -146.42,
@@ -22,6 +42,16 @@
       "place": "15 km NE of Little Lake, CA",
       "time": 1785671684800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665186"
+    },
+    {
+      "id": "us6000thly",
+      "lon": -12.1759,
+      "lat": -3.2144,
+      "depth": 10,
+      "mag": 5.3,
+      "place": "north of Ascension Island",
+      "time": 1785671553048,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thly"
     },
     {
       "id": "nc75410052",
@@ -332,6 +362,16 @@
       "place": "149 km S of Severo-Kuril’sk, Russia",
       "time": 1785658926027,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl2"
+    },
+    {
+      "id": "us6000thl7",
+      "lon": 176.3361,
+      "lat": 52.1032,
+      "depth": 10,
+      "mag": 3.9,
+      "place": "229 km ESE of Attu Station, Alaska",
+      "time": 1785658750862,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl7"
     },
     {
       "id": "tx2026pbqdwa",
@@ -2082,36 +2122,6 @@
       "place": "3 km W of Matsubase, Japan",
       "time": 1785588443253,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thgg"
-    },
-    {
-      "id": "tx2026pacumy",
-      "lon": -103.628,
-      "lat": 31.267,
-      "depth": 14.9238,
-      "mag": 1.8,
-      "place": "14 km SW of Lindsay, Texas",
-      "time": 1785587373812,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pacumy"
-    },
-    {
-      "id": "nc75409627",
-      "lon": -122.951332092285,
-      "lat": 38.771167755127,
-      "depth": 5.55999994277954,
-      "mag": 0.9,
-      "place": "7 km SE of Cloverdale, CA",
-      "time": 1785586771440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409627"
-    },
-    {
-      "id": "nc75409622",
-      "lon": -122.949501037598,
-      "lat": 38.7721672058105,
-      "depth": 4.78000020980835,
-      "mag": 1.22,
-      "place": "7 km ESE of Cloverdale, CA",
-      "time": 1785586551750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409622"
     }
   ]
 }
