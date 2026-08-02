@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T04:15:40Z",
-  "count": 228,
+  "updated": "2026-08-02T04:30:46Z",
+  "count": 227,
   "points": [
+    {
+      "id": "nc75409972",
+      "lon": -122.809829711914,
+      "lat": 38.795166015625,
+      "depth": 3.1800000667572,
+      "mag": 0.75,
+      "place": "5 km WNW of The Geysers, CA",
+      "time": 1785644483590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409972"
+    },
     {
       "id": "ci40665018",
       "lon": -117.3885,
@@ -2262,26 +2272,6 @@
       "place": "6 km WSW of Gilroy, CA",
       "time": 1785558812530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409392"
-    },
-    {
-      "id": "nc75409387",
-      "lon": -123.203834533691,
-      "lat": 39.2903327941895,
-      "depth": 6.19999980926514,
-      "mag": 1.41,
-      "place": "3 km N of Redwood Valley, CA",
-      "time": 1785558315210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409387"
-    },
-    {
-      "id": "ci40664514",
-      "lon": -116.025833333333,
-      "lat": 33.1786666666667,
-      "depth": 7.09,
-      "mag": 0.66,
-      "place": "11 km ENE of Ocotillo Wells, CA",
-      "time": 1785558003290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664514"
     }
   ]
 }
