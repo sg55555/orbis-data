@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T20:15:32Z",
-  "count": 215,
+  "updated": "2026-08-02T20:30:41Z",
+  "count": 214,
   "points": [
+    {
+      "id": "us6000thna",
+      "lon": 147.0554,
+      "lat": 43.0682,
+      "depth": 35,
+      "mag": 4.5,
+      "place": "85 km SSE of Shikotan, Russia",
+      "time": 1785700930395,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thna"
+    },
     {
       "id": "ci40665338",
       "lon": -116.708666666667,
@@ -2132,26 +2142,6 @@
       "place": "48 km N of Charlotte Amalie, U.S. Virgin Islands",
       "time": 1785616667680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71526963"
-    },
-    {
-      "id": "aka2026pddher",
-      "lon": -155.279,
-      "lat": 58.164,
-      "depth": 5,
-      "mag": 0.5,
-      "place": "82 km NW of Karluk, Alaska",
-      "time": 1785615522837,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pddher"
-    },
-    {
-      "id": "aka2026pddfaz",
-      "lon": -153.327,
-      "lat": 59.447,
-      "depth": 125.7,
-      "mag": 1.2,
-      "place": "58 km SE of Pedro Bay, Alaska",
-      "time": 1785615375848,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pddfaz"
     }
   ]
 }
