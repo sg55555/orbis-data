@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T00:01:00Z",
-  "count": 224,
+  "updated": "2026-08-02T00:15:33Z",
+  "count": 227,
   "points": [
+    {
+      "id": "ci40664954",
+      "lon": -115.750833333333,
+      "lat": 32.646,
+      "depth": 5.28,
+      "mag": 1.91,
+      "place": "17 km WNW of Progreso, B.C., MX",
+      "time": 1785629385750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664954"
+    },
+    {
+      "id": "ci40664946",
+      "lon": -119.059666666667,
+      "lat": 35.167,
+      "depth": 11.44,
+      "mag": 1.21,
+      "place": "17 km SW of Lamont, CA",
+      "time": 1785628845350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664946"
+    },
     {
       "id": "tx2026pazlhq",
       "lon": -98.979,
@@ -44,6 +64,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664938"
     },
     {
+      "id": "tx2026paypra",
+      "lon": -102.019,
+      "lat": 32.126,
+      "depth": 3.329,
+      "mag": 1.4,
+      "place": "15 km NNE of Midland, Texas",
+      "time": 1785626942946,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026paypra"
+    },
+    {
       "id": "tx2026paynyf",
       "lon": -103.303,
       "lat": 31.966,
@@ -52,6 +82,16 @@
       "place": "19 km SSW of Jal, New Mexico",
       "time": 1785626745536,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026paynyf"
+    },
+    {
+      "id": "us6000thin",
+      "lon": -93.0308,
+      "lat": 14.4155,
+      "depth": 35,
+      "mag": 4.3,
+      "place": "73 km WSW of Puerto Madero, Mexico",
+      "time": 1785626561312,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thin"
     },
     {
       "id": "ci40664930",
@@ -2232,16 +2272,6 @@
       "place": "7 km SE of Cloverdale, CA",
       "time": 1785543685400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409322"
-    },
-    {
-      "id": "ci40664474",
-      "lon": -117.235666666667,
-      "lat": 32.8111666666667,
-      "depth": 13.05,
-      "mag": 1.87,
-      "place": "5 km SE of La Jolla, CA",
-      "time": 1785543311280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664474"
     }
   ]
 }
