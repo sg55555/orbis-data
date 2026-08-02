@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-01T23:45:31Z",
+  "updated": "2026-08-02T00:01:00Z",
   "count": 224,
   "points": [
+    {
+      "id": "tx2026pazlhq",
+      "lon": -98.979,
+      "lat": 28.883,
+      "depth": 5.1967,
+      "mag": 1.8,
+      "place": "11 km E of Pearsall, Texas",
+      "time": 1785628370086,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pazlhq"
+    },
     {
       "id": "aka2026pdjwdt",
       "lon": -148.356,
@@ -35,12 +45,12 @@
     },
     {
       "id": "tx2026paynyf",
-      "lon": -103.306,
-      "lat": 31.968,
-      "depth": 2.8345,
+      "lon": -103.303,
+      "lat": 31.966,
+      "depth": 2.8978,
       "mag": 1.5,
       "place": "19 km SSW of Jal, New Mexico",
-      "time": 1785626745580,
+      "time": 1785626745536,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026paynyf"
     },
     {
@@ -202,6 +212,16 @@
       "place": "59 km SE of Ugashik, Alaska",
       "time": 1785619676544,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pdfpei"
+    },
+    {
+      "id": "us6000thi4",
+      "lon": 138.9386,
+      "lat": -2.6121,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "188 km W of Abepura, Indonesia",
+      "time": 1785619567221,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thi4"
     },
     {
       "id": "tx2026patzkt",
@@ -2222,26 +2242,6 @@
       "place": "5 km SE of La Jolla, CA",
       "time": 1785543311280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664474"
-    },
-    {
-      "id": "ci40664458",
-      "lon": -118.391333333333,
-      "lat": 34.0468333333333,
-      "depth": 11.8,
-      "mag": 1.67,
-      "place": "3 km ESE of Century City, CA",
-      "time": 1785542221740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664458"
-    },
-    {
-      "id": "nc75409317",
-      "lon": -122.942665100098,
-      "lat": 38.7718315124512,
-      "depth": 2.25,
-      "mag": 0.99,
-      "place": "7 km ESE of Cloverdale, CA",
-      "time": 1785541607100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409317"
     }
   ]
 }
