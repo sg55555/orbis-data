@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T23:15:30Z",
-  "count": 209,
+  "updated": "2026-08-02T23:30:40Z",
+  "count": 205,
   "points": [
+    {
+      "id": "ci40665370",
+      "lon": -117.688,
+      "lat": 35.0406666666667,
+      "depth": -0.81,
+      "mag": 1.5,
+      "place": "6 km NW of Boron, CA",
+      "time": 1785712566110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665370"
+    },
     {
       "id": "nc75410357",
       "lon": -122.792663574219,
@@ -475,12 +485,12 @@
     },
     {
       "id": "tx2026pchgjf",
-      "lon": -102.193,
-      "lat": 32.294,
-      "depth": 4.6937,
+      "lon": -102.199,
+      "lat": 32.293,
+      "depth": 4.3126,
       "mag": 1.8,
       "place": "31 km E of McKinney Acres, Texas",
-      "time": 1785689577539,
+      "time": 1785689577631,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pchgjf"
     },
     {
@@ -2042,56 +2052,6 @@
       "place": "54 km SE of Ugashik, Alaska",
       "time": 1785627277281,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pdjvar"
-    },
-    {
-      "id": "ci40664938",
-      "lon": -118.401166666667,
-      "lat": 35.5005,
-      "depth": 3.71,
-      "mag": 1.13,
-      "place": "13 km SE of Bodfish, CA",
-      "time": 1785626942960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664938"
-    },
-    {
-      "id": "tx2026paypra",
-      "lon": -102.018,
-      "lat": 32.125,
-      "depth": 3.6146,
-      "mag": 1.4,
-      "place": "15 km NNE of Midland, Texas",
-      "time": 1785626942771,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026paypra"
-    },
-    {
-      "id": "tx2026paynyf",
-      "lon": -103.292,
-      "lat": 31.971,
-      "depth": 3.7969,
-      "mag": 1.5,
-      "place": "18 km SSW of Jal, New Mexico",
-      "time": 1785626745433,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026paynyf"
-    },
-    {
-      "id": "us6000thin",
-      "lon": -93.0308,
-      "lat": 14.4155,
-      "depth": 35,
-      "mag": 4.3,
-      "place": "73 km WSW of Puerto Madero, Mexico",
-      "time": 1785626561312,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thin"
-    },
-    {
-      "id": "ci40664930",
-      "lon": -117.701833333333,
-      "lat": 33.8911666666667,
-      "depth": 10.32,
-      "mag": 1.31,
-      "place": "10 km E of Yorba Linda, CA",
-      "time": 1785626182510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664930"
     }
   ]
 }
