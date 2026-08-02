@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T01:30:48Z",
-  "count": 227,
+  "updated": "2026-08-02T01:45:36Z",
+  "count": 228,
   "points": [
+    {
+      "id": "nc75409937",
+      "lon": -122.796333312988,
+      "lat": 38.8223342895508,
+      "depth": 2.5699999332428,
+      "mag": 1.08,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1785634676700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409937"
+    },
+    {
+      "id": "ci40664978",
+      "lon": -117.150666666667,
+      "lat": 33.993,
+      "depth": 15.34,
+      "mag": 0.92,
+      "place": "8 km SSE of Redlands, CA",
+      "time": 1785634171550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664978"
+    },
     {
       "id": "ci40664970",
       "lon": -115.75,
@@ -22,6 +42,16 @@
       "place": "3 km NW of The Geysers, CA",
       "time": 1785633763970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409932"
+    },
+    {
+      "id": "us6000thjs",
+      "lon": -72.0649,
+      "lat": -33.5262,
+      "depth": 25.745,
+      "mag": 4.4,
+      "place": "42 km W of Cartagena, Chile",
+      "time": 1785633698211,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjs"
     },
     {
       "id": "nc75409927",
@@ -2252,26 +2282,6 @@
       "place": "34 km E of Clear, Alaska",
       "time": 1785549439951,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pbsofs"
-    },
-    {
-      "id": "nc75409342",
-      "lon": -122.806335449219,
-      "lat": 38.8228340148926,
-      "depth": 2.34999990463257,
-      "mag": 1.05,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1785548134060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409342"
-    },
-    {
-      "id": "aka2026pbrsct",
-      "lon": -153.049,
-      "lat": 60.034,
-      "depth": 5,
-      "mag": 0.5,
-      "place": "65 km ENE of Pedro Bay, Alaska",
-      "time": 1785547909990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pbrsct"
     }
   ]
 }
