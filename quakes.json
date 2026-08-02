@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T13:45:31Z",
-  "count": 214,
+  "updated": "2026-08-02T14:08:55Z",
+  "count": 215,
   "points": [
+    {
+      "id": "nc75410122",
+      "lon": -122.78800201416,
+      "lat": 38.8348350524902,
+      "depth": 1.58000004291534,
+      "mag": 1.09,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1785679442690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410122"
+    },
+    {
+      "id": "aka2026pemlao",
+      "lon": -155.08,
+      "lat": 58.35,
+      "depth": 127,
+      "mag": 1.4,
+      "place": "94 km NNW of Karluk, Alaska",
+      "time": 1785678760762,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pemlao"
+    },
+    {
+      "id": "ci40665234",
+      "lon": -118.618666666667,
+      "lat": 35.6593333333333,
+      "depth": 8.38,
+      "mag": 1.5,
+      "place": "14 km NW of Bodfish, CA",
+      "time": 1785678367620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665234"
+    },
     {
       "id": "ci40665226",
       "lon": -118.611666666667,
@@ -155,12 +185,12 @@
     },
     {
       "id": "ci40665194",
-      "lon": -116.3685,
-      "lat": 33.353,
-      "depth": 14.33,
+      "lon": -116.3655,
+      "lat": 33.3526666666667,
+      "depth": 14.49,
       "mag": 0.24,
       "place": "11 km N of Borrego Springs, CA",
-      "time": 1785672842230,
+      "time": 1785672842190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665194"
     },
     {
@@ -2122,26 +2152,6 @@
       "place": "7 km S of Leilani Estates, Hawaii",
       "time": 1785593363760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75011497"
-    },
-    {
-      "id": "ci40664650",
-      "lon": -115.627333333333,
-      "lat": 33.1616666666667,
-      "depth": 2.93,
-      "mag": 1.21,
-      "place": "11 km WNW of Calipatria, CA",
-      "time": 1785592554640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664650"
-    },
-    {
-      "id": "tx2026pafhvr",
-      "lon": -101.383,
-      "lat": 32.07,
-      "depth": 3.6296,
-      "mag": 1.4,
-      "place": "4 km SSW of Forsan, Texas",
-      "time": 1785591922924,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pafhvr"
     }
   ]
 }
