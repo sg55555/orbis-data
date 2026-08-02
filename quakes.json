@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T15:00:54Z",
-  "count": 216,
+  "updated": "2026-08-02T15:15:36Z",
+  "count": 217,
   "points": [
+    {
+      "id": "nc75410147",
+      "lon": -122.80233001709,
+      "lat": 38.8240013122559,
+      "depth": 3.19000005722046,
+      "mag": 1.08,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1785682973520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410147"
+    },
+    {
+      "id": "us6000thm9",
+      "lon": 142.9193,
+      "lat": 42.2943,
+      "depth": 62.562,
+      "mag": 4.8,
+      "place": "18 km N of Honchō, Japan",
+      "time": 1785682187350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm9"
+    },
     {
       "id": "nc75410142",
       "lon": -122.800834655762,
@@ -72,6 +92,16 @@
       "place": "6 km NW of Pinnacles, CA",
       "time": 1785680059190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410132"
+    },
+    {
+      "id": "tx2026pcbrbl",
+      "lon": -104.402,
+      "lat": 31.633,
+      "depth": 4.1769,
+      "mag": 1.6,
+      "place": "60 km S of Whites City, New Mexico",
+      "time": 1785679464996,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pcbrbl"
     },
     {
       "id": "nc75410122",
@@ -1655,12 +1685,12 @@
     },
     {
       "id": "ci40664850",
-      "lon": -115.5625,
-      "lat": 32.6271666666667,
-      "depth": 7.93,
-      "mag": 2.33,
+      "lon": -115.560833333333,
+      "lat": 32.6295,
+      "depth": 7.66,
+      "mag": 2.43,
       "place": "6 km NNE of Progreso, B.C., MX",
-      "time": 1785616915330,
+      "time": 1785616915260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664850"
     },
     {
@@ -2142,26 +2172,6 @@
       "place": "38 km WSW of Stovepipe Wells, CA",
       "time": 1785597449820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664674"
-    },
-    {
-      "id": "uw714067771",
-      "lon": -121.128166666667,
-      "lat": 46.7211666666667,
-      "depth": 8.97,
-      "mag": 2.33,
-      "place": "18 km SW of Nile, Washington",
-      "time": 1785596755650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714067771"
-    },
-    {
-      "id": "nc75409662",
-      "lon": -122.76782989502,
-      "lat": 38.798999786377,
-      "depth": 3.63000011444092,
-      "mag": 0.25,
-      "place": "3 km NNW of The Geysers, CA",
-      "time": 1785596466200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409662"
     }
   ]
 }
