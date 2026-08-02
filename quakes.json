@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T11:32:33Z",
-  "count": 218,
+  "updated": "2026-08-02T11:45:35Z",
+  "count": 214,
   "points": [
+    {
+      "id": "ci40665178",
+      "lon": -116.902166666667,
+      "lat": 33.4186666666667,
+      "depth": 8.09,
+      "mag": 0.35,
+      "place": "4 km SW of Aguanga, CA",
+      "time": 1785670487350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665178"
+    },
     {
       "id": "ci40665170",
       "lon": -117.803166666667,
@@ -2132,56 +2142,6 @@
       "place": "8 km S of Yucca Valley, CA",
       "time": 1785584724470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664602"
-    },
-    {
-      "id": "tx2026pabdxu",
-      "lon": -101.898,
-      "lat": 32.417,
-      "depth": 3.8761,
-      "mag": 1.2,
-      "place": "20 km SW of Ackerly, Texas",
-      "time": 1785584408181,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pabdxu"
-    },
-    {
-      "id": "aka2026pclxzr",
-      "lon": -151.728,
-      "lat": 61.693,
-      "depth": 95.6,
-      "mag": 2.5,
-      "place": "37 km SSW of Skwentna, Alaska",
-      "time": 1785584302004,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pclxzr"
-    },
-    {
-      "id": "aka2026pclwxk",
-      "lon": -148.294,
-      "lat": 62.493,
-      "depth": 13.6,
-      "mag": 2.5,
-      "place": "78 km N of Chickaloon, Alaska",
-      "time": 1785584224755,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pclwxk"
-    },
-    {
-      "id": "nc75409587",
-      "lon": -122.947830200195,
-      "lat": 38.7716674804688,
-      "depth": 6.30000019073486,
-      "mag": 2.76,
-      "place": "7 km ESE of Cloverdale, CA",
-      "time": 1785584126220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409587"
-    },
-    {
-      "id": "nc75409582",
-      "lon": -122.936836242676,
-      "lat": 38.7760009765625,
-      "depth": 6.1100001335144,
-      "mag": 1.66,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1785584045380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409582"
     }
   ]
 }
