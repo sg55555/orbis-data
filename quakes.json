@@ -1,17 +1,47 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T05:45:38Z",
-  "count": 230,
+  "updated": "2026-08-02T06:00:55Z",
+  "count": 231,
   "points": [
     {
+      "id": "ci40665066",
+      "lon": -115.56566619873,
+      "lat": 32.605167388916,
+      "depth": 11.0299997329712,
+      "mag": 1.45623622230862,
+      "place": "3 km NNE of Progreso, B.C., MX",
+      "time": 1785650252460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665066"
+    },
+    {
+      "id": "aka2026pdwjwz",
+      "lon": -152.708,
+      "lat": 60.32,
+      "depth": 122.6,
+      "mag": 1.4,
+      "place": "65 km WNW of Ninilchik, Alaska",
+      "time": 1785649893373,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pdwjwz"
+    },
+    {
       "id": "ci40665058",
-      "lon": -115.926170349121,
-      "lat": 32.6691665649414,
-      "depth": 2.25,
-      "mag": 1.19775198782268,
+      "lon": -115.929666666667,
+      "lat": 32.6603333333333,
+      "depth": 2.45,
+      "mag": 1.57,
       "place": "10 km SE of Ocotillo, CA",
-      "time": 1785649292900,
+      "time": 1785649292870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665058"
+    },
+    {
+      "id": "us6000thki",
+      "lon": 143.5878,
+      "lat": -6.4713,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "36 km SSW of Mendi, Papua New Guinea",
+      "time": 1785649138496,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thki"
     },
     {
       "id": "nc75409997",
@@ -1884,6 +1914,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pcicaz"
     },
     {
+      "id": "av94349853",
+      "lon": -152.196666666667,
+      "lat": 61.2533333333333,
+      "depth": 27.02,
+      "mag": -0.25,
+      "place": "60 km WNW of Tyonek, Alaska",
+      "time": 1785577234060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94349853"
+    },
+    {
       "id": "nc75409527",
       "lon": -122.949165344238,
       "lat": 38.7734985351562,
@@ -2272,36 +2312,6 @@
       "place": "Volcano Islands, Japan region",
       "time": 1785564117638,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thev"
-    },
-    {
-      "id": "nc75409417",
-      "lon": -122.943000793457,
-      "lat": 38.7745018005371,
-      "depth": 4.40000009536743,
-      "mag": 1.13,
-      "place": "7 km ESE of Cloverdale, CA",
-      "time": 1785563880240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409417"
-    },
-    {
-      "id": "aka2026pcaoke",
-      "lon": -149.739,
-      "lat": 64.64,
-      "depth": 2.6,
-      "mag": 1.9,
-      "place": "29 km W of Four Mile Road, Alaska",
-      "time": 1785563845319,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pcaoke"
-    },
-    {
-      "id": "tx2026ozpojg",
-      "lon": -103.345,
-      "lat": 31.288,
-      "depth": 0,
-      "mag": 2,
-      "place": "19 km SSE of Barstow, Texas",
-      "time": 1785563411919,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ozpojg"
     }
   ]
 }
