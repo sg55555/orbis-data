@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T08:30:50Z",
-  "count": 221,
+  "updated": "2026-08-02T08:53:51Z",
+  "count": 220,
   "points": [
+    {
+      "id": "nc75410012",
+      "lon": -122.813835144043,
+      "lat": 38.7968330383301,
+      "depth": 2.91000008583069,
+      "mag": 1.57,
+      "place": "5 km WNW of The Geysers, CA",
+      "time": 1785660129350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410012"
+    },
     {
       "id": "aka2026pebqfi",
       "lon": -154.985,
@@ -12,6 +22,16 @@
       "place": "86 km NNW of Karluk, Alaska",
       "time": 1785659327767,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pebqfi"
+    },
+    {
+      "id": "us6000thl2",
+      "lon": 156.2005,
+      "lat": 49.3293,
+      "depth": 33.834,
+      "mag": 4.9,
+      "place": "149 km S of Severo-Kuril’sk, Russia",
+      "time": 1785658926027,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl2"
     },
     {
       "id": "tx2026pbqdwa",
@@ -2182,36 +2202,6 @@
       "place": "34 km E of Clear, Alaska",
       "time": 1785574531764,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pcgmvg"
-    },
-    {
-      "id": "nc75409502",
-      "lon": -122.937164306641,
-      "lat": 38.7770004272461,
-      "depth": 4.80999994277954,
-      "mag": 1.13,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1785574034390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409502"
-    },
-    {
-      "id": "nc75409497",
-      "lon": -122.9306640625,
-      "lat": 38.7761650085449,
-      "depth": 3.3199999332428,
-      "mag": 1.07,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1785573798980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409497"
-    },
-    {
-      "id": "nc75409492",
-      "lon": -122.943168640137,
-      "lat": 38.771167755127,
-      "depth": 3.29999995231628,
-      "mag": 1.11,
-      "place": "7 km ESE of Cloverdale, CA",
-      "time": 1785573433690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409492"
     }
   ]
 }
