@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T16:30:47Z",
-  "count": 217,
+  "updated": "2026-08-02T16:45:37Z",
+  "count": 214,
   "points": [
+    {
+      "id": "ci40665274",
+      "lon": -116.712166666667,
+      "lat": 33.5391666666667,
+      "depth": 5.34,
+      "mag": 0.21,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1785688183270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665274"
+    },
     {
       "id": "aka2026perhsp",
       "lon": -150.625,
@@ -2132,46 +2142,6 @@
       "place": "20 km ESE of Silver Springs, Nevada",
       "time": 1785602750192,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922691"
-    },
-    {
-      "id": "aka2026pcwcaa",
-      "lon": -149.958,
-      "lat": 63.259,
-      "depth": 99.7,
-      "mag": 1.4,
-      "place": "52 km WSW of Cantwell, Alaska",
-      "time": 1785602569512,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pcwcaa"
-    },
-    {
-      "id": "ci40664730",
-      "lon": -117.533,
-      "lat": 35.689,
-      "depth": 7.11,
-      "mag": 1.2,
-      "place": "15 km SW of Searles Valley, CA",
-      "time": 1785602422200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664730"
-    },
-    {
-      "id": "nc75409702",
-      "lon": -120.838668823242,
-      "lat": 36.2676658630371,
-      "depth": 7.8600001335144,
-      "mag": 1.67,
-      "place": "22 km SW of New Idria, CA",
-      "time": 1785602249980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409702"
-    },
-    {
-      "id": "nn00922689",
-      "lon": -117.8276,
-      "lat": 38.2,
-      "depth": 11.5397,
-      "mag": 2.62,
-      "place": "32 km SE of Mina, Nevada",
-      "time": 1785601861446,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922689"
     }
   ]
 }
