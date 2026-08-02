@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T22:32:58Z",
-  "count": 209,
+  "updated": "2026-08-02T22:45:39Z",
+  "count": 210,
   "points": [
+    {
+      "id": "ci40665354",
+      "lon": -115.565666666667,
+      "lat": 32.6236666666667,
+      "depth": 5.14,
+      "mag": 1.36,
+      "place": "5 km NNE of Progreso, B.C., MX",
+      "time": 1785710467780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665354"
+    },
+    {
+      "id": "aka2026pfduvu",
+      "lon": -154.959,
+      "lat": 58.293,
+      "depth": 5,
+      "mag": 0.6,
+      "place": "85 km NNW of Karluk, Alaska",
+      "time": 1785710025252,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfduvu"
+    },
     {
       "id": "aka2026pfdjdg",
       "lon": -155.025,
@@ -442,6 +462,16 @@
       "place": "4 km WSW of Anza, CA",
       "time": 1785688183270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665274"
+    },
+    {
+      "id": "aka2026perpqc",
+      "lon": 176.222,
+      "lat": 51.934,
+      "depth": 5,
+      "mag": 4.1,
+      "place": "230 km ESE of Attu Station, Alaska",
+      "time": 1785688068352,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026perpqc"
     },
     {
       "id": "us6000thmn",
@@ -2072,26 +2102,6 @@
       "place": "7 km E of Wilkerson, CA",
       "time": 1785625109620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409887"
-    },
-    {
-      "id": "aka2026pdhygm",
-      "lon": -153.067,
-      "lat": 60.012,
-      "depth": 128.2,
-      "mag": 1.6,
-      "place": "63 km ENE of Pedro Bay, Alaska",
-      "time": 1785623900375,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pdhygm"
-    },
-    {
-      "id": "ci40664914",
-      "lon": -115.569,
-      "lat": 32.6306666666667,
-      "depth": 5.84,
-      "mag": 2.27,
-      "place": "6 km NNE of Progreso, B.C., MX",
-      "time": 1785623601970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664914"
     }
   ]
 }
