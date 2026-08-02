@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T03:45:38Z",
-  "count": 231,
+  "updated": "2026-08-02T04:15:40Z",
+  "count": 228,
   "points": [
+    {
+      "id": "ci40665018",
+      "lon": -117.3885,
+      "lat": 35.8646666666667,
+      "depth": 3.3,
+      "mag": 0.78,
+      "place": "11 km N of Searles Valley, CA",
+      "time": 1785642834790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665018"
+    },
     {
       "id": "aka2026pdsahb",
       "lon": -150.885,
@@ -52,6 +62,16 @@
       "place": "33 km SE of Mina, Nevada",
       "time": 1785639842769,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922699"
+    },
+    {
+      "id": "tx2026pbfolj",
+      "lon": -98.997,
+      "lat": 28.841,
+      "depth": 7.0106,
+      "mag": 2,
+      "place": "11 km ESE of Pearsall, Texas",
+      "time": 1785639451565,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pbfolj"
     },
     {
       "id": "ci40665010",
@@ -2262,56 +2282,6 @@
       "place": "11 km ENE of Ocotillo Wells, CA",
       "time": 1785558003290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664514"
-    },
-    {
-      "id": "aka2026pbwvfb",
-      "lon": -149.704,
-      "lat": 64.607,
-      "depth": 19.6,
-      "mag": 1,
-      "place": "27 km W of Four Mile Road, Alaska",
-      "time": 1785557119782,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pbwvfb"
-    },
-    {
-      "id": "aka2026pbwrsy",
-      "lon": -149.7,
-      "lat": 64.581,
-      "depth": 21.7,
-      "mag": 1,
-      "place": "27 km W of Four Mile Road, Alaska",
-      "time": 1785556879828,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pbwrsy"
-    },
-    {
-      "id": "aka2026pbwmny",
-      "lon": -149.737,
-      "lat": 64.64,
-      "depth": 2.4,
-      "mag": 1.9,
-      "place": "29 km W of Four Mile Road, Alaska",
-      "time": 1785556515908,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pbwmny"
-    },
-    {
-      "id": "aka2026pbwjhu",
-      "lon": -149.712,
-      "lat": 64.598,
-      "depth": 20,
-      "mag": 1.4,
-      "place": "28 km W of Four Mile Road, Alaska",
-      "time": 1785556296534,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pbwjhu"
-    },
-    {
-      "id": "aka2026pbwgoo",
-      "lon": -149.802,
-      "lat": 64.648,
-      "depth": 5,
-      "mag": 2.5,
-      "place": "33 km W of Four Mile Road, Alaska",
-      "time": 1785556115188,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pbwgoo"
     }
   ]
 }
