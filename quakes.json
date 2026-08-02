@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T00:15:33Z",
+  "updated": "2026-08-02T00:30:45Z",
   "count": 227,
   "points": [
+    {
+      "id": "nc75409917",
+      "lon": -122.943832397461,
+      "lat": 38.7696647644043,
+      "depth": 1.82000005245209,
+      "mag": 1.04,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": 1785630080580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409917"
+    },
+    {
+      "id": "us6000thj5",
+      "lon": 155.1713,
+      "lat": 49.8672,
+      "depth": 80.691,
+      "mag": 5.2,
+      "place": "112 km SW of Severo-Kuril’sk, Russia",
+      "time": 1785629618325,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thj5"
+    },
     {
       "id": "ci40664954",
       "lon": -115.750833333333,
@@ -42,6 +62,16 @@
       "place": "26 km NE of Whittier, Alaska",
       "time": 1785627353383,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pdjwdt"
+    },
+    {
+      "id": "us6000thit",
+      "lon": -93.4141,
+      "lat": 14.4998,
+      "depth": 35,
+      "mag": 4.4,
+      "place": "107 km SW of El Arenal, Mexico",
+      "time": 1785627326571,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thit"
     },
     {
       "id": "aka2026pdjvar",
@@ -2242,36 +2272,6 @@
       "place": "20 km NNW of Willow, Alaska",
       "time": 1785544551454,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pbpvou"
-    },
-    {
-      "id": "aka2026pbpprw",
-      "lon": -149.205,
-      "lat": 61.282,
-      "depth": 21,
-      "mag": 1.7,
-      "place": "19 km ESE of Eagle River, Alaska",
-      "time": 1785544144279,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pbpprw"
-    },
-    {
-      "id": "ci40664482",
-      "lon": -116.0355,
-      "lat": 33.178,
-      "depth": 4.22,
-      "mag": 1.22,
-      "place": "10 km ENE of Ocotillo Wells, CA",
-      "time": 1785544044140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664482"
-    },
-    {
-      "id": "nc75409322",
-      "lon": -122.958335876465,
-      "lat": 38.7646675109863,
-      "depth": 4.07999992370605,
-      "mag": 1,
-      "place": "7 km SE of Cloverdale, CA",
-      "time": 1785543685400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409322"
     }
   ]
 }
