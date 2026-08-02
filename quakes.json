@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T04:45:31Z",
-  "count": 230,
+  "updated": "2026-08-02T04:58:58Z",
+  "count": 228,
   "points": [
     {
+      "id": "nc75409992",
+      "lon": -122.813499450684,
+      "lat": 38.8154983520508,
+      "depth": 2.69000005722046,
+      "mag": 1.04,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1785646328420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409992"
+    },
+    {
+      "id": "nc75409987",
+      "lon": -122.941329956055,
+      "lat": 38.7763328552246,
+      "depth": 5.15999984741211,
+      "mag": 0.81,
+      "place": "7 km ESE of Cloverdale, CA",
+      "time": 1785645805470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409987"
+    },
+    {
       "id": "ci40665034",
-      "lon": -115.578666687012,
-      "lat": 32.6323318481445,
-      "depth": 2.28999996185303,
-      "mag": 1.47709075971419,
+      "lon": -115.575333333333,
+      "lat": 32.6305,
+      "depth": 3.88,
+      "mag": 1.44,
       "place": "6 km N of Progreso, B.C., MX",
-      "time": 1785645709010,
+      "time": 1785645708980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665034"
     },
     {
@@ -2262,46 +2282,6 @@
       "place": "17 km N of Borrego Springs, CA",
       "time": 1785560517320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664530"
-    },
-    {
-      "id": "av94349388",
-      "lon": -178.815333333333,
-      "lat": 51.776,
-      "depth": 11.71,
-      "mag": 0.31,
-      "place": "150 km W of Adak, Alaska",
-      "time": 1785560291610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94349388"
-    },
-    {
-      "id": "us6000thel",
-      "lon": -179.5569,
-      "lat": -23.7435,
-      "depth": 493.554,
-      "mag": 4.5,
-      "place": "south of the Fiji Islands",
-      "time": 1785559812163,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thel"
-    },
-    {
-      "id": "us6000thej",
-      "lon": -129.4251,
-      "lat": 49.6033,
-      "depth": 10,
-      "mag": 5.6,
-      "place": "200 km SW of Port McNeill, Canada",
-      "time": 1785559741269,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thej"
-    },
-    {
-      "id": "ci40664522",
-      "lon": -116.620833333333,
-      "lat": 33.5615,
-      "depth": 12.01,
-      "mag": 0.66,
-      "place": "5 km E of Anza, CA",
-      "time": 1785559553770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664522"
     }
   ]
 }
