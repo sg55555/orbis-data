@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T23:35:46Z",
-  "count": 203,
+  "updated": "2026-08-02T23:45:30Z",
+  "count": 202,
   "points": [
+    {
+      "id": "ci40665386",
+      "lon": -117.783,
+      "lat": 34.187,
+      "depth": 13.17,
+      "mag": 1.19,
+      "place": "9 km NNE of San Dimas, CA",
+      "time": 1785714005150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665386"
+    },
     {
       "id": "ci40665370",
       "lon": -117.688,
@@ -2012,26 +2022,6 @@
       "place": "11 km ESE of Pearsall, Texas",
       "time": 1785628369797,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pazlhq"
-    },
-    {
-      "id": "us6000thj0",
-      "lon": -92.6988,
-      "lat": 15.1043,
-      "depth": 79.674,
-      "mag": 4.2,
-      "place": "7 km S of El Arenal, Mexico",
-      "time": 1785627597183,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thj0"
-    },
-    {
-      "id": "aka2026pdjwdt",
-      "lon": -148.356,
-      "lat": 60.955,
-      "depth": 24.5,
-      "mag": 0.7,
-      "place": "26 km NE of Whittier, Alaska",
-      "time": 1785627353383,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pdjwdt"
     }
   ]
 }
