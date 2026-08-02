@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T14:30:46Z",
-  "count": 214,
+  "updated": "2026-08-02T14:41:49Z",
+  "count": 213,
   "points": [
+    {
+      "id": "ci40665250",
+      "lon": -116.473333333333,
+      "lat": 33.0711666666667,
+      "depth": 3.06,
+      "mag": 0.78,
+      "place": "12 km E of Julian, CA",
+      "time": 1785681257630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665250"
+    },
+    {
+      "id": "us6000thm6",
+      "lon": 121.2141,
+      "lat": -8.453,
+      "depth": 51.437,
+      "mag": 4.6,
+      "place": "65 km NW of Ende, Indonesia",
+      "time": 1785680261663,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm6"
+    },
     {
       "id": "aka2026peneem",
       "lon": -154.838,
@@ -1945,12 +1965,12 @@
     },
     {
       "id": "ci40664738",
-      "lon": -116.320999145508,
-      "lat": 33.9786682128906,
-      "depth": 7.28999996185303,
-      "mag": 3.32960193254778,
+      "lon": -116.322,
+      "lat": 33.9781666666667,
+      "depth": 8.18,
+      "mag": 3.22,
       "place": "17 km E of Desert Hot Springs, CA",
-      "time": 1785603066460,
+      "time": 1785603066380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664738"
     },
     {
@@ -2112,36 +2132,6 @@
       "place": "3 km NNW of The Geysers, CA",
       "time": 1785596466200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409662"
-    },
-    {
-      "id": "ci40664666",
-      "lon": -116.840833333333,
-      "lat": 33.7083333333333,
-      "depth": 14.69,
-      "mag": 0.34,
-      "place": "7 km SE of Valle Vista, CA",
-      "time": 1785595023010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664666"
-    },
-    {
-      "id": "us6000thgp",
-      "lon": 129.7032,
-      "lat": -6.7517,
-      "depth": 139.529,
-      "mag": 4.2,
-      "place": "Banda Sea",
-      "time": 1785594911146,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thgp"
-    },
-    {
-      "id": "ci40664658",
-      "lon": -117.585666666667,
-      "lat": 35.7631666666667,
-      "depth": 5.48,
-      "mag": 0.45,
-      "place": "16 km W of Searles Valley, CA",
-      "time": 1785594695270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664658"
     }
   ]
 }
