@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T12:34:15Z",
-  "count": 203,
+  "updated": "2026-08-03T12:45:35Z",
+  "count": 202,
   "points": [
+    {
+      "id": "nc75410617",
+      "lon": -122.852836608887,
+      "lat": 38.8288345336914,
+      "depth": 2,
+      "mag": 1.37,
+      "place": "10 km NW of The Geysers, CA",
+      "time": 1785760838840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410617"
+    },
     {
       "id": "nc75410607",
       "lon": -122.070663452148,
@@ -2012,26 +2022,6 @@
       "place": "11 km ESE of Gilroy, CA",
       "time": 1785675063370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410067"
-    },
-    {
-      "id": "aka2026pekdbs",
-      "lon": -155.528,
-      "lat": 57.407,
-      "depth": 89.2,
-      "mag": 1.2,
-      "place": "66 km WSW of Karluk, Alaska",
-      "time": 1785674610085,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pekdbs"
-    },
-    {
-      "id": "nc75410062",
-      "lon": -121.191833496094,
-      "lat": 36.5629997253418,
-      "depth": 2.19000005722046,
-      "mag": 3.55,
-      "place": "6 km NW of Pinnacles, CA",
-      "time": 1785674217380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410062"
     }
   ]
 }
