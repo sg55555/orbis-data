@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T02:30:49Z",
-  "count": 198,
+  "updated": "2026-08-03T02:45:32Z",
+  "count": 200,
   "points": [
+    {
+      "id": "nc75410387",
+      "lon": -122.398498535156,
+      "lat": 38.6738319396973,
+      "depth": 4.42999982833862,
+      "mag": 1.19,
+      "place": "12 km NNE of Angwin, CA",
+      "time": 1785724968360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410387"
+    },
+    {
+      "id": "nc75410382",
+      "lon": -121.15283203125,
+      "lat": 36.47216796875,
+      "depth": 3.4300000667572,
+      "mag": 0.96,
+      "place": "7 km S of Pinnacles, CA",
+      "time": 1785724674730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410382"
+    },
     {
       "id": "nn00922718",
       "lon": -117.8329,
@@ -332,6 +352,16 @@
       "place": "1 km SSW of Pāhala, Hawaii",
       "time": 1785708909570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012012"
+    },
+    {
+      "id": "us6000thnx",
+      "lon": -161.2392,
+      "lat": 67.9257,
+      "depth": 10,
+      "mag": 2.8,
+      "place": "70 km ESE of Red Dog Mine, Alaska",
+      "time": 1785708462177,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thnx"
     },
     {
       "id": "us6000thnw",
@@ -1972,16 +2002,6 @@
       "place": "11 km ESE of Pearsall, Texas",
       "time": 1785639451565,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pbfolj"
-    },
-    {
-      "id": "ci40665010",
-      "lon": -119.0565,
-      "lat": 34.8461666666667,
-      "depth": 8.19,
-      "mag": 1.27,
-      "place": "8 km E of Pine Mountain Club, CA",
-      "time": 1785638257180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665010"
     }
   ]
 }
