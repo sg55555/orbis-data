@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T02:15:42Z",
+  "updated": "2026-08-03T02:30:49Z",
   "count": 198,
   "points": [
+    {
+      "id": "nn00922718",
+      "lon": -117.8329,
+      "lat": 38.1939,
+      "depth": 1.2468,
+      "mag": 1.52,
+      "place": "32 km SE of Mina, Nevada",
+      "time": 1785724027159,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922718"
+    },
+    {
+      "id": "aka2026pflnda",
+      "lon": -137.194,
+      "lat": 58.499,
+      "depth": 3.3,
+      "mag": 1.9,
+      "place": "60 km NW of Elfin Cove, Alaska",
+      "time": 1785723886526,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pflnda"
+    },
     {
       "id": "us6000thpt",
       "lon": -75.7603,
@@ -12,6 +32,16 @@
       "place": "66 km WNW of San Alejandro, Peru",
       "time": 1785721344662,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpt"
+    },
+    {
+      "id": "us6000thps",
+      "lon": -177.4503,
+      "lat": -19.2296,
+      "depth": 574.371,
+      "mag": 4.3,
+      "place": "Fiji region",
+      "time": 1785720936296,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thps"
     },
     {
       "id": "aka2026pfjovr",
@@ -1952,36 +1982,6 @@
       "place": "8 km E of Pine Mountain Club, CA",
       "time": 1785638257180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665010"
-    },
-    {
-      "id": "ci40665002",
-      "lon": -115.744333333333,
-      "lat": 32.6403333333333,
-      "depth": 6.6,
-      "mag": 1.43,
-      "place": "16 km WNW of Progreso, B.C., MX",
-      "time": 1785637736690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665002"
-    },
-    {
-      "id": "ci40664994",
-      "lon": -115.750666666667,
-      "lat": 32.6401666666667,
-      "depth": 6.01,
-      "mag": 1.94,
-      "place": "17 km WNW of Progreso, B.C., MX",
-      "time": 1785637387080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664994"
-    },
-    {
-      "id": "ci40664986",
-      "lon": -115.577333333333,
-      "lat": 32.6178333333333,
-      "depth": 3.11,
-      "mag": 1.29,
-      "place": "4 km N of Progreso, B.C., MX",
-      "time": 1785637351460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664986"
     }
   ]
 }
