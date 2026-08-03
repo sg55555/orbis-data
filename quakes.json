@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T15:30:45Z",
-  "count": 206,
+  "updated": "2026-08-03T15:45:38Z",
+  "count": 205,
   "points": [
+    {
+      "id": "ci40665626",
+      "lon": -117.097166666667,
+      "lat": 33.9443333333333,
+      "depth": 14.92,
+      "mag": 1.46,
+      "place": "6 km SW of Calimesa, CA",
+      "time": 1785771104510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665626"
+    },
     {
       "id": "aka2026pglaid",
       "lon": -151.355,
@@ -75,12 +85,12 @@
     },
     {
       "id": "tx2026pdxmed",
-      "lon": -104.356,
-      "lat": 31.697,
-      "depth": 7.4398,
-      "mag": 1.5,
-      "place": "53 km S of Whites City, New Mexico",
-      "time": 1785766017111,
+      "lon": -104.364,
+      "lat": 31.685,
+      "depth": 8.4711,
+      "mag": 1.6,
+      "place": "54 km S of Whites City, New Mexico",
+      "time": 1785766017630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pdxmed"
     },
     {
@@ -102,16 +112,6 @@
       "place": "14 km N of Four Mile Road, Alaska",
       "time": 1785765267187,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgindv"
-    },
-    {
-      "id": "tx2026pdwjoy",
-      "lon": -104.403,
-      "lat": 31.483,
-      "depth": 0,
-      "mag": 1.5,
-      "place": "60 km WNW of Toyah, Texas",
-      "time": 1785764058155,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pdwjoy"
     },
     {
       "id": "nn00922723",
@@ -174,13 +174,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pdvkyl"
     },
     {
+      "id": "uw714070181",
+      "lon": -121.904333333333,
+      "lat": 46.8333333333333,
+      "depth": 8.17,
+      "mag": 0.31,
+      "place": "12 km NE of Ashford, Washington",
+      "time": 1785762251770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714070181"
+    },
+    {
       "id": "tx2026pdvdud",
-      "lon": -103.416,
-      "lat": 31.295,
-      "depth": 8.9771,
+      "lon": -103.399,
+      "lat": 31.307,
+      "depth": 2.511,
       "mag": 1.5,
-      "place": "14 km SE of Lindsay, Texas",
-      "time": 1785761908890,
+      "place": "14 km ESE of Lindsay, Texas",
+      "time": 1785761909957,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pdvdud"
     },
     {
@@ -2042,26 +2052,6 @@
       "place": "14 km WNW of Lake Isabella, CA",
       "time": 1785685716900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665258"
-    },
-    {
-      "id": "aka2026peqdzy",
-      "lon": -152.063,
-      "lat": 61.557,
-      "depth": 10.7,
-      "mag": 0.8,
-      "place": "59 km SW of Skwentna, Alaska",
-      "time": 1785685470807,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026peqdzy"
-    },
-    {
-      "id": "us6000thmd",
-      "lon": -175.1322,
-      "lat": -25.0444,
-      "depth": 10,
-      "mag": 5,
-      "place": "south of Tonga",
-      "time": 1785684930843,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmd"
     }
   ]
 }
