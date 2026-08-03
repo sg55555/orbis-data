@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T01:15:30Z",
-  "count": 205,
+  "updated": "2026-08-03T01:30:42Z",
+  "count": 202,
   "points": [
+    {
+      "id": "aka2026pfjovr",
+      "lon": -148.75,
+      "lat": 64.68,
+      "depth": 5,
+      "mag": 1.1,
+      "place": "19 km ENE of Four Mile Road, Alaska",
+      "time": 1785720404909,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfjovr"
+    },
     {
       "id": "ci40665418",
       "lon": -115.9905,
@@ -2012,46 +2022,6 @@
       "place": "41 km N of Charlotte Amalie, U.S. Virgin Islands",
       "time": 1785634459500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527023"
-    },
-    {
-      "id": "ci40664978",
-      "lon": -117.150666666667,
-      "lat": 33.993,
-      "depth": 15.34,
-      "mag": 0.92,
-      "place": "8 km SSE of Redlands, CA",
-      "time": 1785634171550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664978"
-    },
-    {
-      "id": "ci40664970",
-      "lon": -115.746666666667,
-      "lat": 32.641,
-      "depth": 6.05,
-      "mag": 2.22,
-      "place": "17 km WNW of Progreso, B.C., MX",
-      "time": 1785633965860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664970"
-    },
-    {
-      "id": "nc75409932",
-      "lon": -122.777000427246,
-      "lat": 38.796501159668,
-      "depth": 3.46000003814697,
-      "mag": 0.72,
-      "place": "3 km NW of The Geysers, CA",
-      "time": 1785633763970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409932"
-    },
-    {
-      "id": "us6000thjs",
-      "lon": -72.0649,
-      "lat": -33.5262,
-      "depth": 25.745,
-      "mag": 4.4,
-      "place": "42 km W of Cartagena, Chile",
-      "time": 1785633698211,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjs"
     }
   ]
 }
