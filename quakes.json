@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T11:30:45Z",
-  "count": 200,
+  "updated": "2026-08-03T11:45:49Z",
+  "count": 199,
   "points": [
+    {
+      "id": "nc75410587",
+      "lon": -122.793663024902,
+      "lat": 38.8344993591309,
+      "depth": 2,
+      "mag": 1.59,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1785756904510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410587"
+    },
     {
       "id": "pr71527253",
       "lon": -67.0101666666667,
@@ -1982,26 +1992,6 @@
       "place": "north of Ascension Island",
       "time": 1785671553048,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thly"
-    },
-    {
-      "id": "nc75410052",
-      "lon": -122.075332641602,
-      "lat": 37.8073348999023,
-      "depth": 4.71999979019165,
-      "mag": 1.15,
-      "place": "6 km ESE of Moraga, CA",
-      "time": 1785671096390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410052"
-    },
-    {
-      "id": "ci40665178",
-      "lon": -116.902166666667,
-      "lat": 33.4186666666667,
-      "depth": 8.09,
-      "mag": 0.35,
-      "place": "4 km SW of Aguanga, CA",
-      "time": 1785670487350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665178"
     }
   ]
 }
