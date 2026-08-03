@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T12:01:02Z",
-  "count": 200,
+  "updated": "2026-08-03T12:15:33Z",
+  "count": 203,
   "points": [
+    {
+      "id": "aka2026pgeytv",
+      "lon": -145.299,
+      "lat": 69.358,
+      "depth": 5,
+      "mag": 2.2,
+      "place": "107 km SW of Kaktovik, Alaska",
+      "time": 1785758874257,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgeytv"
+    },
     {
       "id": "nc75410592",
       "lon": -122.753829956055,
@@ -52,6 +62,16 @@
       "place": "3 km ENE of La Parguera, Puerto Rico",
       "time": 1785754952040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527253"
+    },
+    {
+      "id": "us6000thrb",
+      "lon": -67.1352,
+      "lat": -24.4954,
+      "depth": 182.541,
+      "mag": 4.6,
+      "place": "88 km WSW of San Antonio de los Cobres, Argentina",
+      "time": 1785754535633,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thrb"
     },
     {
       "id": "aka2026pgcjwd",
@@ -454,6 +474,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pdhhvo"
     },
     {
+      "id": "tx2026pdhflj",
+      "lon": -98.986,
+      "lat": 28.825,
+      "depth": 8.2698,
+      "mag": 1.5,
+      "place": "12 km SE of Pearsall, Texas",
+      "time": 1785736580214,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pdhflj"
+    },
+    {
       "id": "ci40665482",
       "lon": -118.937333333333,
       "lat": 35.8711666666667,
@@ -682,6 +712,16 @@
       "place": "10 km NNW of Anza, CA",
       "time": 1785729896550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665442"
+    },
+    {
+      "id": "tx2026pddclj",
+      "lon": -98.977,
+      "lat": 28.823,
+      "depth": 5.9273,
+      "mag": 1.3,
+      "place": "13 km ESE of Pearsall, Texas",
+      "time": 1785729130056,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pddclj"
     },
     {
       "id": "ci40665434",
@@ -1235,12 +1275,12 @@
     },
     {
       "id": "ok2026paul",
-      "lon": -97.69219208,
-      "lat": 36.13803482,
-      "depth": 9.391946793,
-      "mag": 1.76,
+      "lon": -97.69666667,
+      "lat": 36.13866667,
+      "depth": 14.56,
+      "mag": 1.55,
       "place": "6 km WSW of Marshall, Oklahoma",
-      "time": 1785705726536,
+      "time": 1785705727099,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026paul"
     },
     {
@@ -1992,16 +2032,6 @@
       "place": "56 km ENE of Ferry, Alaska",
       "time": 1785673558405,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pejnwj"
-    },
-    {
-      "id": "ci40665194",
-      "lon": -116.3655,
-      "lat": 33.3526666666667,
-      "depth": 14.49,
-      "mag": 0.24,
-      "place": "11 km N of Borrego Springs, CA",
-      "time": 1785672842190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665194"
     }
   ]
 }
