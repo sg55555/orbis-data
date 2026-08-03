@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T06:15:32Z",
-  "count": 203,
+  "updated": "2026-08-03T06:30:50Z",
+  "count": 202,
   "points": [
+    {
+      "id": "ci40665490",
+      "lon": -117.259162902832,
+      "lat": 34.0688323974609,
+      "depth": 16.6499996185303,
+      "mag": 1.13888060289578,
+      "place": "2 km N of Loma Linda, CA",
+      "time": 1785738455400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665490"
+    },
     {
       "id": "tx2026pdhhvo",
       "lon": -101.942,
@@ -2012,26 +2022,6 @@
       "place": "10 km WNW of Cobb, CA",
       "time": 1785653386130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410007"
-    },
-    {
-      "id": "hv75011712",
-      "lon": -155.235504150391,
-      "lat": 18.8398342132568,
-      "depth": 9.9399995803833,
-      "mag": 2.53,
-      "place": "44 km SE of Naalehu, Hawaii",
-      "time": 1785652216150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75011712"
-    },
-    {
-      "id": "tx2026pbmgxg",
-      "lon": -102.171,
-      "lat": 32.363,
-      "depth": 3.9417,
-      "mag": 1.3,
-      "place": "34 km ENE of McKinney Acres, Texas",
-      "time": 1785651606133,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pbmgxg"
     }
   ]
 }
