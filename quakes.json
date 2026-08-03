@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T04:15:38Z",
-  "count": 204,
+  "updated": "2026-08-03T04:30:42Z",
+  "count": 205,
   "points": [
+    {
+      "id": "aka2026pfpjlo",
+      "lon": -151.015,
+      "lat": 63.062,
+      "depth": 130.5,
+      "mag": 2.1,
+      "place": "64 km SSE of Denali National Park, Alaska",
+      "time": 1785730826834,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfpjlo"
+    },
+    {
+      "id": "ci40665450",
+      "lon": -116.685833333333,
+      "lat": 33.9686666666667,
+      "depth": 9.92,
+      "mag": 0.88,
+      "place": "11 km ENE of Cabazon, CA",
+      "time": 1785730692760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665450"
+    },
     {
       "id": "hv75012112",
       "lon": -155.394332885742,
@@ -242,6 +262,16 @@
       "place": "82 km NNW of Karluk, Alaska",
       "time": 1785718004993,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfigeb"
+    },
+    {
+      "id": "us6000thpi",
+      "lon": -71.3733,
+      "lat": 46.7622,
+      "depth": 10.483,
+      "mag": 2.7,
+      "place": "3 km SSW of L'Ancienne-Lorette, Canada",
+      "time": 1785717197167,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpi"
     },
     {
       "id": "ci40665402",
@@ -2022,26 +2052,6 @@
       "place": "9 km NW of The Geysers, CA",
       "time": 1785645028070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409977"
-    },
-    {
-      "id": "nc75409972",
-      "lon": -122.809829711914,
-      "lat": 38.795166015625,
-      "depth": 3.1800000667572,
-      "mag": 0.75,
-      "place": "5 km WNW of The Geysers, CA",
-      "time": 1785644483590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409972"
-    },
-    {
-      "id": "pr71527073",
-      "lon": -64.9296666666667,
-      "lat": 18.7281666666667,
-      "depth": 34.22,
-      "mag": 3.15,
-      "place": "42 km N of Charlotte Amalie, U.S. Virgin Islands",
-      "time": 1785644321270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527073"
     }
   ]
 }
