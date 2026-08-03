@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T15:01:05Z",
-  "count": 205,
+  "updated": "2026-08-03T15:29:43Z",
+  "count": 206,
   "points": [
+    {
+      "id": "aka2026pglaid",
+      "lon": -151.355,
+      "lat": 63.252,
+      "depth": 5,
+      "mag": 2.2,
+      "place": "37 km SSE of Denali National Park, Alaska",
+      "time": 1785769777374,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pglaid"
+    },
+    {
+      "id": "nc75410672",
+      "lon": -122.800834655762,
+      "lat": 38.8366661071777,
+      "depth": 2.02999997138977,
+      "mag": 0.71,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1785769534960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410672"
+    },
     {
       "id": "aka2026pgkqya",
       "lon": -154.917,
@@ -24,6 +44,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410657"
     },
     {
+      "id": "us6000ths2",
+      "lon": 146.8482,
+      "lat": 43.2547,
+      "depth": 35,
+      "mag": 4.7,
+      "place": "61 km S of Shikotan, Russia",
+      "time": 1785767985353,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ths2"
+    },
+    {
       "id": "aka2026pgjqhh",
       "lon": -139.424,
       "lat": 58.896,
@@ -40,7 +70,7 @@
       "depth": 0,
       "mag": 1.5,
       "place": "51 km WNW of Toyah, Texas",
-      "time": 1785766671313,
+      "time": 1785766671312,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pdxszr"
     },
     {
@@ -1365,12 +1395,12 @@
     },
     {
       "id": "tx2026pcukoq",
-      "lon": -99.006,
-      "lat": 28.842,
-      "depth": 6.1527,
+      "lon": -98.988,
+      "lat": 28.804,
+      "depth": 7.2437,
       "mag": 1.9,
-      "place": "10 km ESE of Pearsall, Texas",
-      "time": 1785713404898,
+      "place": "14 km SE of Pearsall, Texas",
+      "time": 1785713403433,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pcukoq"
     },
     {
@@ -2032,26 +2062,6 @@
       "place": "south of Tonga",
       "time": 1785684930843,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmd"
-    },
-    {
-      "id": "aka2026pepdxf",
-      "lon": -155.947,
-      "lat": 57.967,
-      "depth": 10.2,
-      "mag": 1.4,
-      "place": "88 km ESE of Egegik, Alaska",
-      "time": 1785683665308,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pepdxf"
-    },
-    {
-      "id": "nc75410147",
-      "lon": -122.80233001709,
-      "lat": 38.8240013122559,
-      "depth": 3.19000005722046,
-      "mag": 1.08,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1785682973520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410147"
     }
   ]
 }
