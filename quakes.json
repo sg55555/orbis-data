@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T05:08:21Z",
-  "count": 208,
+  "updated": "2026-08-03T05:15:33Z",
+  "count": 210,
   "points": [
+    {
+      "id": "ci40665466",
+      "lon": -116.642501831055,
+      "lat": 33.4658317565918,
+      "depth": 8.97000026702881,
+      "mag": 1.27080097382137,
+      "place": "10 km SSE of Anza, CA",
+      "time": 1785733867890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665466"
+    },
+    {
+      "id": "aka2026pfraqk",
+      "lon": -152.487,
+      "lat": 62.104,
+      "depth": 1.7,
+      "mag": 1.3,
+      "place": "58 km WNW of Skwentna, Alaska",
+      "time": 1785733814875,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfraqk"
+    },
+    {
+      "id": "aka2026pfqwtr",
+      "lon": -149.63,
+      "lat": 62.397,
+      "depth": 54.1,
+      "mag": 1.6,
+      "place": "25 km ESE of Chase, Alaska",
+      "time": 1785733548997,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfqwtr"
+    },
     {
       "id": "nc75410437",
       "lon": -122.803833007812,
@@ -2072,16 +2102,6 @@
       "place": "77 km SE of Atka, Alaska",
       "time": 1785647920389,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thkg"
-    },
-    {
-      "id": "aka2026pduzxw",
-      "lon": -151.15,
-      "lat": 62.283,
-      "depth": 71.9,
-      "mag": 1.7,
-      "place": "31 km SW of Petersville, Alaska",
-      "time": 1785647406013,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pduzxw"
     }
   ]
 }
