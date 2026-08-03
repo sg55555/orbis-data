@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T06:30:50Z",
-  "count": 202,
+  "updated": "2026-08-03T06:45:41Z",
+  "count": 204,
   "points": [
     {
+      "id": "ci40665498",
+      "lon": -116.821666666667,
+      "lat": 33.7158333333333,
+      "depth": 14.55,
+      "mag": 0.31,
+      "place": "8 km ESE of Valle Vista, CA",
+      "time": 1785738492390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665498"
+    },
+    {
       "id": "ci40665490",
-      "lon": -117.259162902832,
-      "lat": 34.0688323974609,
-      "depth": 16.6499996185303,
-      "mag": 1.13888060289578,
-      "place": "2 km N of Loma Linda, CA",
-      "time": 1785738455400,
+      "lon": -117.2605,
+      "lat": 34.0573333333333,
+      "depth": 16.27,
+      "mag": 0.83,
+      "place": "1 km N of Loma Linda, CA",
+      "time": 1785738455570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665490"
     },
     {
@@ -132,6 +142,16 @@
       "place": "5 km NNW of Sánchez, Dominican Republic",
       "time": 1785733280034,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thqe"
+    },
+    {
+      "id": "us6000thqf",
+      "lon": 104.7633,
+      "lat": 28.6876,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "14 km ESE of Yibin, China",
+      "time": 1785733248666,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thqf"
     },
     {
       "id": "nc75410427",
