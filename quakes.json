@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T11:45:49Z",
-  "count": 199,
+  "updated": "2026-08-03T12:01:02Z",
+  "count": 200,
   "points": [
+    {
+      "id": "nc75410592",
+      "lon": -122.753829956055,
+      "lat": 38.7953338623047,
+      "depth": 2.28999996185303,
+      "mag": 0.65,
+      "place": "2 km N of The Geysers, CA",
+      "time": 1785758150030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410592"
+    },
+    {
+      "id": "tx2026pdsvji",
+      "lon": -99.014,
+      "lat": 28.839,
+      "depth": 5.8705,
+      "mag": 2.1,
+      "place": "9 km SE of Pearsall, Texas",
+      "time": 1785757610795,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pdsvji"
+    },
     {
       "id": "nc75410587",
       "lon": -122.793663024902,
@@ -12,6 +32,16 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1785756904510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410587"
+    },
+    {
+      "id": "us6000thre",
+      "lon": 155.9445,
+      "lat": 49.9188,
+      "depth": 57.695,
+      "mag": 4.9,
+      "place": "85 km S of Severo-Kuril’sk, Russia",
+      "time": 1785756402305,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thre"
     },
     {
       "id": "pr71527253",
@@ -822,6 +852,16 @@
       "place": "46 km N of Charlotte Amalie, U.S. Virgin Islands",
       "time": 1785719954340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527188"
+    },
+    {
+      "id": "tx2026pcxqua",
+      "lon": -103.302,
+      "lat": 31.976,
+      "depth": 6.4587,
+      "mag": 1.2,
+      "place": "18 km SW of Jal, New Mexico",
+      "time": 1785719280074,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pcxqua"
     },
     {
       "id": "ci40665418",
@@ -1962,36 +2002,6 @@
       "place": "11 km N of Borrego Springs, CA",
       "time": 1785672842190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665194"
-    },
-    {
-      "id": "aka2026peimza",
-      "lon": -146.42,
-      "lat": 66.835,
-      "depth": 0,
-      "mag": 1.4,
-      "place": "19 km S of Venetie, Alaska",
-      "time": 1785671697103,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026peimza"
-    },
-    {
-      "id": "ci40665186",
-      "lon": -117.776833333333,
-      "lat": 36.0256666666667,
-      "depth": 1.65,
-      "mag": 0.69,
-      "place": "15 km NE of Little Lake, CA",
-      "time": 1785671684800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665186"
-    },
-    {
-      "id": "us6000thly",
-      "lon": -12.1759,
-      "lat": -3.2144,
-      "depth": 10,
-      "mag": 5.3,
-      "place": "north of Ascension Island",
-      "time": 1785671553048,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thly"
     }
   ]
 }
