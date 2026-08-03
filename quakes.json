@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T00:30:46Z",
-  "count": 203,
+  "updated": "2026-08-03T00:45:36Z",
+  "count": 201,
   "points": [
+    {
+      "id": "ci40665402",
+      "lon": -116.5485,
+      "lat": 33.5323333333333,
+      "depth": 14.41,
+      "mag": 0.62,
+      "place": "12 km ESE of Anza, CA",
+      "time": 1785717080560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665402"
+    },
+    {
+      "id": "pr71527168",
+      "lon": -67.1458333333333,
+      "lat": 17.9355,
+      "depth": 12.05,
+      "mag": 2.32,
+      "place": "6 km SE of Pole Ojea, Puerto Rico",
+      "time": 1785716836300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527168"
+    },
     {
       "id": "nc75410367",
       "lon": -122.793334960938,
@@ -22,6 +42,16 @@
       "place": "54 km E of Denali National Park, Alaska",
       "time": 1785715749682,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfgzos"
+    },
+    {
+      "id": "pr71527163",
+      "lon": -64.8813333333333,
+      "lat": 18.4491666666667,
+      "depth": 54.94,
+      "mag": 3.11,
+      "place": "12 km NNE of Charlotte Amalie, U.S. Virgin Islands",
+      "time": 1785715309780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527163"
     },
     {
       "id": "us6000thpb",
@@ -1982,56 +2012,6 @@
       "place": "64 km ENE of Noda, Japan",
       "time": 1785631540187,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjm"
-    },
-    {
-      "id": "hv75011622",
-      "lon": -155.541000366211,
-      "lat": 18.779167175293,
-      "depth": 16.3700008392334,
-      "mag": 2.67,
-      "place": "32 km S of Naalehu, Hawaii",
-      "time": 1785631439650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75011622"
-    },
-    {
-      "id": "uw714069021",
-      "lon": -121.767666666667,
-      "lat": 46.8555,
-      "depth": 2.26,
-      "mag": 2.43,
-      "place": "22 km ENE of Ashford, Washington",
-      "time": 1785631335450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714069021"
-    },
-    {
-      "id": "pr71527013",
-      "lon": -64.9281666666667,
-      "lat": 18.7818333333333,
-      "depth": 17.54,
-      "mag": 3.02,
-      "place": "48 km N of Charlotte Amalie, U.S. Virgin Islands",
-      "time": 1785631318800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527013"
-    },
-    {
-      "id": "pr71527003",
-      "lon": -66.9411666666667,
-      "lat": 18.166,
-      "depth": 17.27,
-      "mag": 2.68,
-      "place": "4 km ESE of Maricao, Puerto Rico",
-      "time": 1785631076400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527003"
-    },
-    {
-      "id": "aka2026pdlvxq",
-      "lon": -149.299,
-      "lat": 61.852,
-      "depth": 5,
-      "mag": 1.8,
-      "place": "12 km NNW of Fishhook, Alaska",
-      "time": 1785630936968,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pdlvxq"
     }
   ]
 }
