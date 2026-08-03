@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T10:00:55Z",
+  "updated": "2026-08-03T10:21:03Z",
   "count": 195,
   "points": [
+    {
+      "id": "ci40665538",
+      "lon": -116.382666666667,
+      "lat": 32.7883333333333,
+      "depth": 12.62,
+      "mag": 1.6,
+      "place": "14 km ESE of Pine Valley, CA",
+      "time": 1785751713190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665538"
+    },
+    {
+      "id": "aka2026pgayry",
+      "lon": -148.126,
+      "lat": 65.389,
+      "depth": 5.8,
+      "mag": 1.5,
+      "place": "24 km SE of Livengood, Alaska",
+      "time": 1785751673298,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgayry"
+    },
+    {
+      "id": "nc75410572",
+      "lon": -122.834335327148,
+      "lat": 38.8168334960938,
+      "depth": 1.76999998092651,
+      "mag": 0.34,
+      "place": "8 km WNW of The Geysers, CA",
+      "time": 1785751405810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410572"
+    },
     {
       "id": "nc75410562",
       "lon": -122.703002929688,
@@ -25,13 +55,23 @@
     },
     {
       "id": "tx2026pdobic",
-      "lon": -104.375,
-      "lat": 31.663,
-      "depth": 7.3522,
-      "mag": 1.5,
-      "place": "56 km S of Whites City, New Mexico",
-      "time": 1785748970991,
+      "lon": -104.385,
+      "lat": 31.655,
+      "depth": 4.0072,
+      "mag": 1.6,
+      "place": "57 km S of Whites City, New Mexico",
+      "time": 1785748971846,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pdobic"
+    },
+    {
+      "id": "tx2026pdnwzy",
+      "lon": -103.864,
+      "lat": 31.192,
+      "depth": 11.048,
+      "mag": 1.5,
+      "place": "15 km SSW of Toyah, Texas",
+      "time": 1785748889484,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pdnwzy"
     },
     {
       "id": "aka2026pfzjrj",
@@ -57,7 +97,7 @@
       "id": "tx2026pdnxpg",
       "lon": -104.381,
       "lat": 31.658,
-      "depth": 4.3111,
+      "depth": 4.3116,
       "mag": 1.5,
       "place": "57 km S of Whites City, New Mexico",
       "time": 1785748719503,
@@ -865,12 +905,12 @@
     },
     {
       "id": "tx2026pcukoq",
-      "lon": -99.01,
-      "lat": 28.862,
-      "depth": 4.8854,
-      "mag": 1.7,
-      "place": "8 km ESE of Pearsall, Texas",
-      "time": 1785713405150,
+      "lon": -99.006,
+      "lat": 28.842,
+      "depth": 6.1527,
+      "mag": 1.9,
+      "place": "10 km ESE of Pearsall, Texas",
+      "time": 1785713404898,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pcukoq"
     },
     {
@@ -1912,46 +1952,6 @@
       "place": "265 km S of ‘Ohonua, Tonga",
       "time": 1785666854181,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thlj"
-    },
-    {
-      "id": "aka2026peffuy",
-      "lon": -152.6,
-      "lat": 59.583,
-      "depth": 76.9,
-      "mag": 1.6,
-      "place": "46 km WNW of Nanwalek, Alaska",
-      "time": 1785665805326,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026peffuy"
-    },
-    {
-      "id": "ok2026ozyf",
-      "lon": -97.92121887,
-      "lat": 35.02193832,
-      "depth": 3.079788685,
-      "mag": 1.89,
-      "place": "3 km SSE of Chickasha, Oklahoma",
-      "time": 1785665295637,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ozyf"
-    },
-    {
-      "id": "tx2026pbtrfy",
-      "lon": -103.24,
-      "lat": 31.998,
-      "depth": 4.7284,
-      "mag": 1.7,
-      "place": "13 km SSW of Jal, New Mexico",
-      "time": 1785664991874,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pbtrfy"
-    },
-    {
-      "id": "us6000thlf",
-      "lon": 130.6919,
-      "lat": 32.3966,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "14 km SE of Honmachi, Japan",
-      "time": 1785664808813,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thlf"
     }
   ]
 }
