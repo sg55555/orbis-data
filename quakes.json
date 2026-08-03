@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T16:45:35Z",
-  "count": 204,
+  "updated": "2026-08-03T17:01:07Z",
+  "count": 203,
   "points": [
+    {
+      "id": "ci40665650",
+      "lon": -115.8505,
+      "lat": 32.9576666666667,
+      "depth": 9.97,
+      "mag": 1.6,
+      "place": "23 km WSW of Westmorland, CA",
+      "time": 1785775501460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665650"
+    },
     {
       "id": "aka2026pgochz",
       "lon": -149.926,
@@ -735,12 +745,12 @@
     },
     {
       "id": "ci40665514",
-      "lon": -118.635166666667,
-      "lat": 34.2933333333333,
-      "depth": 3,
-      "mag": 1.73,
-      "place": "5 km NW of Chatsworth, CA",
-      "time": 1785743061450,
+      "lon": -118.633,
+      "lat": 34.2935,
+      "depth": 2.95,
+      "mag": 1.65,
+      "place": "5 km NNW of Chatsworth, CA",
+      "time": 1785743061390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665514"
     },
     {
@@ -2022,26 +2032,6 @@
       "place": "84 km ENE of Alianza Cristiana, Peru",
       "time": 1785690584131,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmt"
-    },
-    {
-      "id": "aka2026pesluw",
-      "lon": -152.675,
-      "lat": 59.45,
-      "depth": 76.7,
-      "mag": 1.2,
-      "place": "44 km WNW of Nanwalek, Alaska",
-      "time": 1785689610927,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pesluw"
-    },
-    {
-      "id": "tx2026pchgjf",
-      "lon": -102.196,
-      "lat": 32.297,
-      "depth": 8.4717,
-      "mag": 1.8,
-      "place": "31 km E of McKinney Acres, Texas",
-      "time": 1785689578004,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pchgjf"
     }
   ]
 }
