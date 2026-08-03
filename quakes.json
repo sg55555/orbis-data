@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T18:15:36Z",
-  "count": 213,
+  "updated": "2026-08-03T18:30:47Z",
+  "count": 214,
   "points": [
+    {
+      "id": "ci40665690",
+      "lon": -116.4205,
+      "lat": 33.2675,
+      "depth": 4.76,
+      "mag": 0.78,
+      "place": "4 km WNW of Borrego Springs, CA",
+      "time": 1785781510590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665690"
+    },
+    {
+      "id": "ci40665682",
+      "lon": -116.9465,
+      "lat": 33.6583333333333,
+      "depth": 11.26,
+      "mag": 0.5,
+      "place": "10 km SSE of Hemet, CA",
+      "time": 1785781089890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665682"
+    },
     {
       "id": "nc75410747",
       "lon": -122.941833496094,
@@ -12,16 +32,6 @@
       "place": "7 km ESE of Cloverdale, CA",
       "time": 1785780387250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410747"
-    },
-    {
-      "id": "tx2026pefgwg",
-      "lon": -103.571,
-      "lat": 31.07,
-      "depth": 3.9287,
-      "mag": 1.7,
-      "place": "19 km ENE of Balmorhea, Texas",
-      "time": 1785780111486,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pefgwg"
     },
     {
       "id": "nc75410742",
@@ -35,13 +45,23 @@
     },
     {
       "id": "ci40665666",
-      "lon": -116.711166666667,
-      "lat": 33.6411666666667,
-      "depth": 16.02,
-      "mag": 0.52,
+      "lon": -116.709666666667,
+      "lat": 33.6426666666667,
+      "depth": 16.96,
+      "mag": 0.53,
       "place": "10 km NNW of Anza, CA",
-      "time": 1785778580930,
+      "time": 1785778580820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665666"
+    },
+    {
+      "id": "uu80146991",
+      "lon": -110.816666666667,
+      "lat": 44.3991666666667,
+      "depth": 5.23,
+      "mag": 0.93,
+      "place": "37 km SE of West Yellowstone, Montana",
+      "time": 1785778512130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146991"
     },
     {
       "id": "tx2026peeglk",
@@ -1194,6 +1214,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfprzu"
     },
     {
+      "id": "aka2026pfptyn",
+      "lon": -174.397,
+      "lat": 52.269,
+      "depth": 174.5,
+      "mag": 3.5,
+      "place": "15 km WNW of Atka, Alaska",
+      "time": 1785731551287,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfptyn"
+    },
+    {
       "id": "hv75012132",
       "lon": -155.38200378418,
       "lat": 19.1998329162598,
@@ -1452,6 +1482,16 @@
       "place": "66 km WNW of San Alejandro, Peru",
       "time": 1785721344662,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpt"
+    },
+    {
+      "id": "aka2026pfkcae",
+      "lon": 179.712,
+      "lat": 51.056,
+      "depth": 0.8,
+      "mag": 3.9,
+      "place": "269 km WSW of Adak, Alaska",
+      "time": 1785721314423,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfkcae"
     },
     {
       "id": "us6000thps",
@@ -2102,36 +2142,6 @@
       "place": "229 km ESE of Attu Station, Alaska",
       "time": 1785695492439,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thn1"
-    },
-    {
-      "id": "nc75410207",
-      "lon": -122.807662963867,
-      "lat": 38.8359985351562,
-      "depth": 2.0699999332428,
-      "mag": 1.03,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1785694922230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410207"
-    },
-    {
-      "id": "us6000thn0",
-      "lon": 104.7825,
-      "lat": 28.6701,
-      "depth": 10,
-      "mag": 5,
-      "place": "16 km NW of Changning, China",
-      "time": 1785694906259,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thn0"
-    },
-    {
-      "id": "ci40665298",
-      "lon": -117.3845,
-      "lat": 35.9696666666667,
-      "depth": 1.78,
-      "mag": 1.05,
-      "place": "23 km N of Searles Valley, CA",
-      "time": 1785694578530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665298"
     }
   ]
 }
