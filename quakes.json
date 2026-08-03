@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T18:45:35Z",
+  "updated": "2026-08-03T19:01:05Z",
   "count": 212,
   "points": [
     {
+      "id": "aka2026pgshlb",
+      "lon": -152.122,
+      "lat": 59.944,
+      "depth": 77.6,
+      "mag": 1.9,
+      "place": "21 km W of Happy Valley, Alaska",
+      "time": 1785782919134,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgshlb"
+    },
+    {
       "id": "ci40665714",
-      "lon": -117.721664428711,
-      "lat": 35.8943328857422,
-      "depth": 8.05000019073486,
-      "mag": 1.36078081429254,
+      "lon": -117.721833333333,
+      "lat": 35.8928333333333,
+      "depth": 7.79,
+      "mag": 1.01,
       "place": "17 km ESE of Little Lake, CA",
-      "time": 1785782524660,
+      "time": 1785782524670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665714"
     },
     {
@@ -235,12 +245,12 @@
     },
     {
       "id": "ci40665634",
-      "lon": -116.974666666667,
+      "lon": -116.9755,
       "lat": 33.992,
-      "depth": 9.31,
-      "mag": 2.05,
+      "depth": 9.5,
+      "mag": 2.11,
       "place": "7 km N of Beaumont, CA",
-      "time": 1785772225950,
+      "time": 1785772225920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665634"
     },
     {
@@ -512,6 +522,16 @@
       "place": "107 km SW of Kaktovik, Alaska",
       "time": 1785758874257,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgeytv"
+    },
+    {
+      "id": "ci40665546",
+      "lon": -117.774333333333,
+      "lat": 36.0225,
+      "depth": 2.01,
+      "mag": 0.2,
+      "place": "15 km NE of Little Lake, CA",
+      "time": 1785758218050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665546"
     },
     {
       "id": "nc75410592",
@@ -2102,26 +2122,6 @@
       "place": "5 km WNW of Cobb, CA",
       "time": 1785697494540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410247"
-    },
-    {
-      "id": "aka2026pewhxm",
-      "lon": -150.861,
-      "lat": 60.649,
-      "depth": 52.4,
-      "mag": 1.8,
-      "place": "13 km NNW of Sterling, Alaska",
-      "time": 1785696536579,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pewhxm"
-    },
-    {
-      "id": "tx2026pclayk",
-      "lon": -102.323,
-      "lat": 31.902,
-      "depth": 3.0518,
-      "mag": 0.9,
-      "place": "7 km NE of Odessa, Texas",
-      "time": 1785696442616,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pclayk"
     }
   ]
 }
