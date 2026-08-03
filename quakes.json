@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T17:15:37Z",
-  "count": 201,
+  "updated": "2026-08-03T17:26:44Z",
+  "count": 202,
   "points": [
     {
+      "id": "aka2026pgpemh",
+      "lon": -149.886,
+      "lat": 62.243,
+      "depth": 13.9,
+      "mag": 1.5,
+      "place": "9 km NNW of Susitna North, Alaska",
+      "time": 1785777261691,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgpemh"
+    },
+    {
+      "id": "pr71527338",
+      "lon": -66.8093333333333,
+      "lat": 18.0418333333333,
+      "depth": 14.68,
+      "mag": 2.17,
+      "place": "3 km NW of Guayanilla, Puerto Rico",
+      "time": 1785776943450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527338"
+    },
+    {
       "id": "ci40665650",
-      "lon": -115.8505,
-      "lat": 32.9576666666667,
-      "depth": 9.97,
-      "mag": 1.6,
+      "lon": -115.849666666667,
+      "lat": 32.9581666666667,
+      "depth": 9.86,
+      "mag": 1.41,
       "place": "23 km WSW of Westmorland, CA",
-      "time": 1785775501460,
+      "time": 1785775501430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665650"
     },
     {
@@ -2002,16 +2022,6 @@
       "place": "53 km ESE of Denali Park, Alaska",
       "time": 1785692132483,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026petwgx"
-    },
-    {
-      "id": "aka2026petkfa",
-      "lon": -147.495,
-      "lat": 64.933,
-      "depth": 1.6,
-      "mag": 1.2,
-      "place": "6 km ESE of Fox, Alaska",
-      "time": 1785691297706,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026petkfa"
     }
   ]
 }
