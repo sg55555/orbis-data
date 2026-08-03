@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T18:00:57Z",
-  "count": 212,
+  "updated": "2026-08-03T18:15:36Z",
+  "count": 213,
   "points": [
+    {
+      "id": "nc75410747",
+      "lon": -122.941833496094,
+      "lat": 38.7746658325195,
+      "depth": 2.36999988555908,
+      "mag": 1.02,
+      "place": "7 km ESE of Cloverdale, CA",
+      "time": 1785780387250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410747"
+    },
+    {
+      "id": "tx2026pefgwg",
+      "lon": -103.571,
+      "lat": 31.07,
+      "depth": 3.9287,
+      "mag": 1.7,
+      "place": "19 km ENE of Balmorhea, Texas",
+      "time": 1785780111486,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pefgwg"
+    },
     {
       "id": "nc75410742",
       "lon": -121.238502502441,
@@ -764,16 +784,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfxhre"
     },
     {
-      "id": "hv75012187",
-      "lon": -155.171997070312,
-      "lat": 19.3191661834717,
-      "depth": 0.730000019073486,
-      "mag": 1.85,
-      "place": "15 km SSE of Volcano, Hawaii",
-      "time": 1785745028770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012187"
-    },
-    {
       "id": "hv75012197",
       "lon": -155.130340576172,
       "lat": 19.341833114624,
@@ -782,6 +792,16 @@
       "place": "13 km S of Fern Forest, Hawaii",
       "time": 1785745026100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012197"
+    },
+    {
+      "id": "hv75012187",
+      "lon": -155.124,
+      "lat": 19.3396666666667,
+      "depth": 7.37,
+      "mag": 1.72,
+      "place": "13 km S of Fern Forest, Hawaii",
+      "time": 1785745025860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012187"
     },
     {
       "id": "uw714070101",
@@ -922,6 +942,16 @@
       "place": "17 km SSE of Ackerly, Texas",
       "time": 1785738097904,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pdibfm"
+    },
+    {
+      "id": "aka2026pftbmc",
+      "lon": 176.238,
+      "lat": 51.863,
+      "depth": 5,
+      "mag": 3.8,
+      "place": "234 km ESE of Attu Station, Alaska",
+      "time": 1785737471708,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pftbmc"
     },
     {
       "id": "tx2026pdhhvo",
@@ -1945,12 +1975,12 @@
     },
     {
       "id": "tx2026pcmtwa",
-      "lon": -104.222,
-      "lat": 31.636,
-      "depth": 3.5277,
+      "lon": -104.207,
+      "lat": 31.649,
+      "depth": 6.7151,
       "mag": 1.5,
       "place": "54 km NW of Toyah, Texas",
-      "time": 1785699569214,
+      "time": 1785699568943,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pcmtwa"
     },
     {
@@ -2102,26 +2132,6 @@
       "place": "23 km N of Searles Valley, CA",
       "time": 1785694578530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665298"
-    },
-    {
-      "id": "hv75011957",
-      "lon": -155.554168701172,
-      "lat": 19.4055004119873,
-      "depth": 45.0299987792969,
-      "mag": 1.98,
-      "place": "23 km NNW of Pāhala, Hawaii",
-      "time": 1785694515390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75011957"
-    },
-    {
-      "id": "ci40665290",
-      "lon": -119.059166666667,
-      "lat": 35.1688333333333,
-      "depth": 9.76,
-      "mag": 1.13,
-      "place": "17 km SW of Lamont, CA",
-      "time": 1785694423300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665290"
     }
   ]
 }
