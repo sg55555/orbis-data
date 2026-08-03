@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T01:45:37Z",
-  "count": 200,
+  "updated": "2026-08-03T02:01:07Z",
+  "count": 199,
   "points": [
+    {
+      "id": "us6000thpt",
+      "lon": -75.7603,
+      "lat": -8.5724,
+      "depth": 125.256,
+      "mag": 5.2,
+      "place": "66 km WNW of San Alejandro, Peru",
+      "time": 1785721344662,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpt"
+    },
     {
       "id": "aka2026pfjovr",
       "lon": -148.75,
@@ -1982,26 +1992,6 @@
       "place": "47 km N of Charlotte Amalie, U.S. Virgin Islands",
       "time": 1785636464130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527053"
-    },
-    {
-      "id": "nc75409947",
-      "lon": -123.218002319336,
-      "lat": 39.2421684265137,
-      "depth": 3.8199999332428,
-      "mag": 1.17,
-      "place": "3 km SSW of Redwood Valley, CA",
-      "time": 1785635705810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409947"
-    },
-    {
-      "id": "aka2026pdombb",
-      "lon": -155.324,
-      "lat": 58.162,
-      "depth": 5,
-      "mag": 0.7,
-      "place": "83 km NW of Karluk, Alaska",
-      "time": 1785635667476,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pdombb"
     }
   ]
 }
