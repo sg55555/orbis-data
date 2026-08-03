@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T15:45:38Z",
-  "count": 205,
+  "updated": "2026-08-03T16:01:08Z",
+  "count": 206,
   "points": [
+    {
+      "id": "ci40665634",
+      "lon": -116.974666666667,
+      "lat": 33.992,
+      "depth": 9.31,
+      "mag": 2.05,
+      "place": "7 km N of Beaumont, CA",
+      "time": 1785772225950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665634"
+    },
     {
       "id": "ci40665626",
       "lon": -117.097166666667,
@@ -72,16 +82,6 @@
       "place": "74 km SSE of Yakutat, Alaska",
       "time": 1785767263176,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgjqhh"
-    },
-    {
-      "id": "tx2026pdxszr",
-      "lon": -104.294,
-      "lat": 31.482,
-      "depth": 0,
-      "mag": 1.5,
-      "place": "51 km WNW of Toyah, Texas",
-      "time": 1785766671312,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pdxszr"
     },
     {
       "id": "tx2026pdxmed",
@@ -244,6 +244,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410607"
     },
     {
+      "id": "tx2026pdtnun",
+      "lon": -101.941,
+      "lat": 32.099,
+      "depth": 7.5928,
+      "mag": 0.6,
+      "place": "14 km WSW of Stanton, Texas",
+      "time": 1785758886252,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pdtnun"
+    },
+    {
       "id": "aka2026pgeytv",
       "lon": -145.299,
       "lat": 69.358,
@@ -282,6 +292,16 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1785756904510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410587"
+    },
+    {
+      "id": "uw714070161",
+      "lon": -122.573833333333,
+      "lat": 47.7593333333333,
+      "depth": 23.93,
+      "mag": 0.97,
+      "place": "3 km NNW of Suquamish, Washington",
+      "time": 1785756696380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714070161"
     },
     {
       "id": "us6000thre",
@@ -1375,12 +1395,12 @@
     },
     {
       "id": "ci40665394",
-      "lon": -115.846496582031,
-      "lat": 32.9609985351562,
-      "depth": 11.8000001907349,
-      "mag": 3.13485304660317,
-      "place": "23 km WSW of Westmorland, CA",
-      "time": 1785714271920,
+      "lon": -115.860166666667,
+      "lat": 32.9625,
+      "depth": 11.09,
+      "mag": 2.95,
+      "place": "24 km WSW of Westmorland, CA",
+      "time": 1785714271970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665394"
     },
     {
@@ -2042,16 +2062,6 @@
       "place": "1 km S of Chickasha, Oklahoma",
       "time": 1785686765389,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026paka"
-    },
-    {
-      "id": "ci40665258",
-      "lon": -118.618,
-      "lat": 35.6616666666667,
-      "depth": 8.34,
-      "mag": 1.49,
-      "place": "14 km WNW of Lake Isabella, CA",
-      "time": 1785685716900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665258"
     }
   ]
 }
