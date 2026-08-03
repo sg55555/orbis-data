@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T00:45:36Z",
-  "count": 201,
+  "updated": "2026-08-03T01:00:50Z",
+  "count": 202,
   "points": [
+    {
+      "id": "ci40665410",
+      "lon": -115.997333333333,
+      "lat": 33.7673333333333,
+      "depth": 1.53,
+      "mag": 1.61,
+      "place": "19 km ENE of Coachella, CA",
+      "time": 1785718571150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665410"
+    },
+    {
+      "id": "aka2026pfigeb",
+      "lon": -154.948,
+      "lat": 58.262,
+      "depth": 9,
+      "mag": 1.1,
+      "place": "82 km NNW of Karluk, Alaska",
+      "time": 1785718004993,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfigeb"
+    },
     {
       "id": "ci40665402",
       "lon": -116.5485,
@@ -12,6 +32,16 @@
       "place": "12 km ESE of Anza, CA",
       "time": 1785717080560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665402"
+    },
+    {
+      "id": "pr71527173",
+      "lon": -67.5578333333333,
+      "lat": 18.8513333333333,
+      "depth": 8.36,
+      "mag": 3.23,
+      "place": "62 km NW of San Antonio, Puerto Rico",
+      "time": 1785716957320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527173"
     },
     {
       "id": "pr71527168",
@@ -1992,26 +2022,6 @@
       "place": "42 km W of Cartagena, Chile",
       "time": 1785633698211,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjs"
-    },
-    {
-      "id": "nc75409927",
-      "lon": -122.825996398926,
-      "lat": 38.8279991149902,
-      "depth": 0.550000011920929,
-      "mag": 0.77,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1785631706630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409927"
-    },
-    {
-      "id": "us6000thjm",
-      "lon": 142.5317,
-      "lat": 40.302,
-      "depth": 56.352,
-      "mag": 4.8,
-      "place": "64 km ENE of Noda, Japan",
-      "time": 1785631540187,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjm"
     }
   ]
 }
