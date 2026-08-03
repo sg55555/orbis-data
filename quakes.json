@@ -1,26 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T21:00:56Z",
-  "count": 225,
+  "updated": "2026-08-03T21:15:34Z",
+  "count": 226,
   "points": [
     {
+      "id": "ci40665778",
+      "lon": -118.028666666667,
+      "lat": 36.1675,
+      "depth": 2.54,
+      "mag": 1.06,
+      "place": "13 km S of Olancha, CA",
+      "time": 1785790904180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665778"
+    },
+    {
+      "id": "us6000thva",
+      "lon": -70.4691,
+      "lat": -28.746,
+      "depth": 95.742,
+      "mag": 4.4,
+      "place": "34 km ESE of Vallenar, Chile",
+      "time": 1785790028226,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thva"
+    },
+    {
       "id": "ci40665770",
-      "lon": -117.6095,
-      "lat": 35.8016666666667,
-      "depth": 11.56,
-      "mag": 0.64,
+      "lon": -117.608666666667,
+      "lat": 35.802,
+      "depth": 12.4,
+      "mag": 0.72,
       "place": "19 km WNW of Searles Valley, CA",
-      "time": 1785789378600,
+      "time": 1785789378560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665770"
     },
     {
       "id": "tx2026pekjer",
-      "lon": -97.871,
-      "lat": 29.007,
-      "depth": 6.1239,
-      "mag": 1.7,
-      "place": "13 km NNE of Karnes City, Texas",
-      "time": 1785789351543,
+      "lon": -97.903,
+      "lat": 29.017,
+      "depth": 8.5592,
+      "mag": 1.6,
+      "place": "11 km ENE of Falls City, Texas",
+      "time": 1785789350234,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pekjer"
     },
     {
@@ -165,12 +185,12 @@
     },
     {
       "id": "tx2026pehnjn",
-      "lon": -104.008,
-      "lat": 31.616,
-      "depth": 5.9604,
-      "mag": 1.7,
-      "place": "39 km NNW of Toyah, Texas",
-      "time": 1785784264830,
+      "lon": -104,
+      "lat": 31.614,
+      "depth": 8.0353,
+      "mag": 1.8,
+      "place": "38 km NNW of Toyah, Texas",
+      "time": 1785784265031,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pehnjn"
     },
     {
@@ -2242,16 +2262,6 @@
       "place": "6 km WSW of Marshall, Oklahoma",
       "time": 1785705727099,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026paul"
-    },
-    {
-      "id": "aka2026pfbaxt",
-      "lon": -150.666,
-      "lat": 64.66,
-      "depth": 10.3,
-      "mag": 1,
-      "place": "38 km S of Manley Hot Springs, Alaska",
-      "time": 1785705048117,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfbaxt"
     }
   ]
 }
