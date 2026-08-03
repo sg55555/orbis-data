@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-02T23:45:30Z",
+  "updated": "2026-08-03T00:00:58Z",
   "count": 202,
   "points": [
+    {
+      "id": "ci40665394",
+      "lon": -115.846496582031,
+      "lat": 32.9609985351562,
+      "depth": 11.8000001907349,
+      "mag": 3.13485304660317,
+      "place": "23 km WSW of Westmorland, CA",
+      "time": 1785714271920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665394"
+    },
     {
       "id": "ci40665386",
       "lon": -117.783,
@@ -12,6 +22,16 @@
       "place": "9 km NNE of San Dimas, CA",
       "time": 1785714005150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665386"
+    },
+    {
+      "id": "tx2026pcukoq",
+      "lon": -99.01,
+      "lat": 28.862,
+      "depth": 4.8854,
+      "mag": 1.7,
+      "place": "8 km ESE of Pearsall, Texas",
+      "time": 1785713405150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pcukoq"
     },
     {
       "id": "ci40665370",
@@ -2002,26 +2022,6 @@
       "place": "17 km WNW of Progreso, B.C., MX",
       "time": 1785629385610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664954"
-    },
-    {
-      "id": "ci40664946",
-      "lon": -119.059666666667,
-      "lat": 35.167,
-      "depth": 11.44,
-      "mag": 1.21,
-      "place": "17 km SW of Lamont, CA",
-      "time": 1785628845350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664946"
-    },
-    {
-      "id": "tx2026pazlhq",
-      "lon": -98.988,
-      "lat": 28.858,
-      "depth": 6.5073,
-      "mag": 1.8,
-      "place": "11 km ESE of Pearsall, Texas",
-      "time": 1785628369797,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pazlhq"
     }
   ]
 }
