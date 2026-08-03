@@ -1,8 +1,48 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T19:45:41Z",
-  "count": 219,
+  "updated": "2026-08-03T20:12:25Z",
+  "count": 223,
   "points": [
+    {
+      "id": "ci40665762",
+      "lon": -117.029833333333,
+      "lat": 33.9528333333333,
+      "depth": 13.7,
+      "mag": 0.98,
+      "place": "4 km SSE of Calimesa, CA",
+      "time": 1785787512880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665762"
+    },
+    {
+      "id": "nc75410832",
+      "lon": -123.274002075195,
+      "lat": 39.4095001220703,
+      "depth": 5.8899998664856,
+      "mag": 1.51,
+      "place": "7 km E of Willits, CA",
+      "time": 1785787127760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410832"
+    },
+    {
+      "id": "ci40665754",
+      "lon": -117.473,
+      "lat": 35.6136666666667,
+      "depth": 7.21,
+      "mag": 1.18,
+      "place": "18 km SSW of Searles Valley, CA",
+      "time": 1785787127260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665754"
+    },
+    {
+      "id": "tx2026peiqkv",
+      "lon": -104.225,
+      "lat": 31.647,
+      "depth": 3.7503,
+      "mag": 1.7,
+      "place": "55 km NW of Toyah, Texas",
+      "time": 1785786237833,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026peiqkv"
+    },
     {
       "id": "nc75410827",
       "lon": -121.644996643066,
@@ -65,22 +105,22 @@
     },
     {
       "id": "tx2026pehrsv",
-      "lon": -103.471,
+      "lon": -103.469,
       "lat": 31.174,
-      "depth": 6.161,
-      "mag": 2.6,
+      "depth": 5.9532,
+      "mag": 2.5,
       "place": "22 km SSE of Lindsay, Texas",
-      "time": 1785784516810,
+      "time": 1785784516851,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pehrsv"
     },
     {
       "id": "tx2026pehnjn",
-      "lon": -104.009,
-      "lat": 31.614,
-      "depth": 4.6382,
+      "lon": -104.008,
+      "lat": 31.616,
+      "depth": 5.9604,
       "mag": 1.7,
-      "place": "38 km NNW of Toyah, Texas",
-      "time": 1785784265086,
+      "place": "39 km NNW of Toyah, Texas",
+      "time": 1785784264830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pehnjn"
     },
     {
@@ -1964,6 +2004,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665362"
     },
     {
+      "id": "uw714069721",
+      "lon": -122.151166666667,
+      "lat": 46.2026666666667,
+      "depth": 7.27,
+      "mag": -0.04,
+      "place": "39 km NE of Amboy, Washington",
+      "time": 1785711492230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714069721"
+    },
+    {
       "id": "us6000thp0",
       "lon": 125.4077,
       "lat": 5.4131,
@@ -2084,6 +2134,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012002"
     },
     {
+      "id": "uw714069691",
+      "lon": -120.467166666667,
+      "lat": 49.3026666666667,
+      "depth": -0.62,
+      "mag": 1.36,
+      "place": "17 km S of Princeton, Canada",
+      "time": 1785707463890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714069691"
+    },
+    {
       "id": "nc75410297",
       "lon": -122.784164428711,
       "lat": 38.837833404541,
@@ -2172,26 +2232,6 @@
       "place": "4 km SSW of Pāhala, Hawaii",
       "time": 1785703281470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75011992"
-    },
-    {
-      "id": "us6000thna",
-      "lon": 147.0554,
-      "lat": 43.0682,
-      "depth": 35,
-      "mag": 4.5,
-      "place": "85 km SSE of Shikotan, Russia",
-      "time": 1785700930395,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thna"
-    },
-    {
-      "id": "ci40665338",
-      "lon": -116.708666666667,
-      "lat": 33.6821666666667,
-      "depth": 15.65,
-      "mag": 0.44,
-      "place": "7 km S of Idyllwild, CA",
-      "time": 1785700434610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665338"
     }
   ]
 }
