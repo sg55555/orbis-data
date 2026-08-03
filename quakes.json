@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-03T13:15:34Z",
-  "count": 204,
+  "updated": "2026-08-03T13:30:50Z",
+  "count": 202,
   "points": [
+    {
+      "id": "nn00922723",
+      "lon": -115.7771,
+      "lat": 36.7138,
+      "depth": 1.961,
+      "mag": 1.71,
+      "place": "18 km NNW of Indian Springs, Nevada",
+      "time": 1785762989810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922723"
+    },
+    {
+      "id": "ci40665562",
+      "lon": -116.666333333333,
+      "lat": 33.2433333333333,
+      "depth": 11.05,
+      "mag": 0.57,
+      "place": "5 km SW of Warner Springs, CA",
+      "time": 1785762959560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665562"
+    },
+    {
+      "id": "aka2026pghflm",
+      "lon": -148.689,
+      "lat": 65.056,
+      "depth": 11.3,
+      "mag": 1.9,
+      "place": "32 km ESE of Minto, Alaska",
+      "time": 1785762934809,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pghflm"
+    },
     {
       "id": "nc75410622",
       "lon": -124.791664123535,
@@ -232,6 +262,16 @@
       "place": "3 km SSW of Anderson Springs, CA",
       "time": 1785750299640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410557"
+    },
+    {
+      "id": "uu80146971",
+      "lon": -112.905666666667,
+      "lat": 38.4921666666667,
+      "depth": 3.59,
+      "mag": 0.73,
+      "place": "14 km NE of Milford, Utah",
+      "time": 1785749792960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146971"
     },
     {
       "id": "tx2026pdobic",
@@ -735,12 +775,12 @@
     },
     {
       "id": "uu80146951",
-      "lon": -109.892166137695,
-      "lat": 41.5685005187988,
-      "depth": -3.35999989509583,
-      "mag": 3.09,
-      "place": "3 km NW of Little America, Wyoming",
-      "time": 1785731390020,
+      "lon": -109.866666666667,
+      "lat": 41.5633333333333,
+      "depth": 0.47,
+      "mag": 3.12,
+      "place": "2 km NNW of Little America, Wyoming",
+      "time": 1785731390120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146951"
     },
     {
@@ -1705,12 +1745,12 @@
     },
     {
       "id": "tx2026pchgjf",
-      "lon": -102.199,
-      "lat": 32.293,
-      "depth": 4.3126,
+      "lon": -102.196,
+      "lat": 32.297,
+      "depth": 8.4717,
       "mag": 1.8,
       "place": "31 km E of McKinney Acres, Texas",
-      "time": 1785689577631,
+      "time": 1785689578004,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pchgjf"
     },
     {
@@ -1982,66 +2022,6 @@
       "place": "13 km WNW of Lake Isabella, CA",
       "time": 1785677869530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665226"
-    },
-    {
-      "id": "nc75410112",
-      "lon": -121.172500610352,
-      "lat": 36.5693321228027,
-      "depth": 3.09999990463257,
-      "mag": 1.43,
-      "place": "5 km NNW of Pinnacles, CA",
-      "time": 1785677306180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410112"
-    },
-    {
-      "id": "nc75410107",
-      "lon": -122.813835144043,
-      "lat": 38.8310012817383,
-      "depth": 1.57000005245209,
-      "mag": 0.8,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1785677300980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410107"
-    },
-    {
-      "id": "us6000thm3",
-      "lon": -148.7296,
-      "lat": 56.4169,
-      "depth": 10,
-      "mag": 3.1,
-      "place": "253 km ESE of Chiniak, Alaska",
-      "time": 1785677295829,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm3"
-    },
-    {
-      "id": "nc75410102",
-      "lon": -122.814834594727,
-      "lat": 38.8320007324219,
-      "depth": 1.91999995708466,
-      "mag": 0.67,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1785677272820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410102"
-    },
-    {
-      "id": "nc75410097",
-      "lon": -121.166000366211,
-      "lat": 36.5856666564941,
-      "depth": 3.33999991416931,
-      "mag": 1.83,
-      "place": "6 km NNW of Pinnacles, CA",
-      "time": 1785676888610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410097"
-    },
-    {
-      "id": "nc75410092",
-      "lon": -122.731330871582,
-      "lat": 38.7588348388672,
-      "depth": 1.76999998092651,
-      "mag": 1.1,
-      "place": "3 km SE of The Geysers, CA",
-      "time": 1785676737110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410092"
     }
   ]
 }
