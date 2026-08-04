@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T03:51:35Z",
-  "count": 221,
+  "updated": "2026-08-04T04:00:53Z",
+  "count": 220,
   "points": [
     {
       "id": "ci40665874",
@@ -215,11 +215,11 @@
     },
     {
       "id": "ci40665842",
-      "lon": -117.8645,
-      "lat": 36.0918333333333,
-      "depth": 5.78,
-      "mag": 1.02,
-      "place": "9 km NE of Coso Junction, CA",
+      "lon": -117.863166666667,
+      "lat": 36.0901666666667,
+      "depth": 5.77,
+      "mag": 1.07,
+      "place": "9 km ENE of Coso Junction, CA",
       "time": 1785806420920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665842"
     },
@@ -1305,12 +1305,12 @@
     },
     {
       "id": "aka2026pgeytv",
-      "lon": -145.299,
-      "lat": 69.358,
+      "lon": -145.366,
+      "lat": 69.36,
       "depth": 5,
-      "mag": 2.2,
-      "place": "107 km SW of Kaktovik, Alaska",
-      "time": 1785758874257,
+      "mag": 2.5,
+      "place": "109 km SW of Kaktovik, Alaska",
+      "time": 1785758874836,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgeytv"
     },
     {
@@ -1395,12 +1395,12 @@
     },
     {
       "id": "aka2026pgcjwd",
-      "lon": -151.458,
-      "lat": 61.282,
+      "lon": -151.489,
+      "lat": 61.293,
       "depth": 77,
-      "mag": 1.8,
-      "place": "25 km NW of Beluga, Alaska",
-      "time": 1785754244931,
+      "mag": 2.2,
+      "place": "27 km NW of Beluga, Alaska",
+      "time": 1785754245238,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgcjwd"
     },
     {
@@ -1444,6 +1444,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012217"
     },
     {
+      "id": "aka2026pgbixe",
+      "lon": -160.465,
+      "lat": 55.411,
+      "depth": 81.1,
+      "mag": 2.4,
+      "place": "8 km NNE of Sand Point, Alaska",
+      "time": 1785752390574,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgbixe"
+    },
+    {
       "id": "ci40665538",
       "lon": -116.382666666667,
       "lat": 32.7883333333333,
@@ -1455,13 +1465,23 @@
     },
     {
       "id": "aka2026pgayry",
-      "lon": -148.126,
-      "lat": 65.389,
-      "depth": 5.8,
-      "mag": 1.5,
+      "lon": -148.128,
+      "lat": 65.387,
+      "depth": 9.8,
+      "mag": 1.8,
       "place": "24 km SE of Livengood, Alaska",
-      "time": 1785751673298,
+      "time": 1785751673318,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgayry"
+    },
+    {
+      "id": "aka2026pgayjs",
+      "lon": -151.623,
+      "lat": 59.988,
+      "depth": 61.5,
+      "mag": 1.7,
+      "place": "7 km SSE of Ninilchik, Alaska",
+      "time": 1785751651233,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgayjs"
     },
     {
       "id": "nc75410572",
@@ -1525,12 +1545,12 @@
     },
     {
       "id": "aka2026pfzjrj",
-      "lon": -150.637,
-      "lat": 63.595,
-      "depth": 5,
-      "mag": 1.9,
+      "lon": -150.627,
+      "lat": 63.594,
+      "depth": 0.1,
+      "mag": 2,
       "place": "54 km E of Denali National Park, Alaska",
-      "time": 1785748834313,
+      "time": 1785748834270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfzjrj"
     },
     {
@@ -2182,36 +2202,6 @@
       "place": "10 km NNW of Anza, CA",
       "time": 1785729896550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665442"
-    },
-    {
-      "id": "uu80146946",
-      "lon": -110.676,
-      "lat": 44.6283333333333,
-      "depth": 6.45,
-      "mag": 0.88,
-      "place": "34 km E of West Yellowstone, Montana",
-      "time": 1785729319990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80146946"
-    },
-    {
-      "id": "tx2026pddclj",
-      "lon": -98.977,
-      "lat": 28.823,
-      "depth": 5.9273,
-      "mag": 1.3,
-      "place": "13 km ESE of Pearsall, Texas",
-      "time": 1785729130056,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pddclj"
-    },
-    {
-      "id": "ci40665434",
-      "lon": -118.314,
-      "lat": 33.918,
-      "depth": 11.15,
-      "mag": 2.52,
-      "place": "3 km N of Gardena, CA",
-      "time": 1785729058910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665434"
     }
   ]
 }
