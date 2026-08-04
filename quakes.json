@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T21:45:37Z",
-  "count": 220,
+  "updated": "2026-08-04T21:51:30Z",
+  "count": 219,
   "points": [
+    {
+      "id": "nc75411407",
+      "lon": -122.045501708984,
+      "lat": 37.9705009460449,
+      "depth": 15.039999961853,
+      "mag": 1.47,
+      "place": "3 km W of Concord, CA",
+      "time": 1785880004150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411407"
+    },
     {
       "id": "nc75411397",
       "lon": -122.938667297363,
@@ -2182,26 +2192,6 @@
       "place": "4 km SSE of Quilcene, Washington",
       "time": 1785794199280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714070711"
-    },
-    {
-      "id": "ci40665802",
-      "lon": -115.594333333333,
-      "lat": 33.0735,
-      "depth": 11.74,
-      "mag": 1.07,
-      "place": "5 km NNE of Westmorland, CA",
-      "time": 1785793815050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665802"
-    },
-    {
-      "id": "aka2026pgyhbv",
-      "lon": -179.866,
-      "lat": 51.511,
-      "depth": 78.7,
-      "mag": 2.6,
-      "place": "227 km WSW of Adak, Alaska",
-      "time": 1785793663985,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgyhbv"
     }
   ]
 }
