@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T20:30:44Z",
-  "count": 225,
+  "updated": "2026-08-04T20:45:36Z",
+  "count": 223,
   "points": [
+    {
+      "id": "us6000ti49",
+      "lon": 126.4856,
+      "lat": 1.5066,
+      "depth": 35,
+      "mag": 5.7,
+      "place": "127 km NW of Ternate, Indonesia",
+      "time": 1785874597181,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti49"
+    },
     {
       "id": "nc75411337",
       "lon": -122.457832336426,
@@ -85,12 +95,12 @@
     },
     {
       "id": "ci40666226",
-      "lon": -116.980333333333,
+      "lon": -116.978666666667,
       "lat": 33.9811666666667,
-      "depth": 14.21,
+      "depth": 14.34,
       "mag": 1.2,
       "place": "6 km N of Beaumont, CA",
-      "time": 1785870237480,
+      "time": 1785870237490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666226"
     },
     {
@@ -2222,36 +2232,6 @@
       "place": "34 km ESE of Vallenar, Chile",
       "time": 1785790028226,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thva"
-    },
-    {
-      "id": "ci40665770",
-      "lon": -117.608666666667,
-      "lat": 35.802,
-      "depth": 12.4,
-      "mag": 0.72,
-      "place": "19 km WNW of Searles Valley, CA",
-      "time": 1785789378560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665770"
-    },
-    {
-      "id": "tx2026pekjer",
-      "lon": -97.903,
-      "lat": 29.017,
-      "depth": 8.5592,
-      "mag": 1.6,
-      "place": "11 km ENE of Falls City, Texas",
-      "time": 1785789350234,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pekjer"
-    },
-    {
-      "id": "aka2026pgvuot",
-      "lon": -159.627,
-      "lat": 54.469,
-      "depth": 33.8,
-      "mag": 3.3,
-      "place": "111 km SSE of Sand Point, Alaska",
-      "time": 1785789167518,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgvuot"
     }
   ]
 }
