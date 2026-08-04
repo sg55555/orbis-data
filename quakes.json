@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T11:00:59Z",
-  "count": 219,
+  "updated": "2026-08-04T11:15:34Z",
+  "count": 221,
   "points": [
     {
       "id": "tx2026pfmqje",
@@ -47,11 +47,21 @@
       "id": "tx2026pfltvj",
       "lon": -104.57,
       "lat": 31.607,
-      "depth": 3.8769,
+      "depth": 3.8787,
       "mag": 1.7,
       "place": "65 km SSW of Whites City, New Mexico",
-      "time": 1785838962052,
+      "time": 1785838962051,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pfltvj"
+    },
+    {
+      "id": "pr71527448",
+      "lon": -65.5076666666667,
+      "lat": 19.1236666666667,
+      "depth": 19.09,
+      "mag": 3.07,
+      "place": "84 km NNE of Vieques, Puerto Rico",
+      "time": 1785838766850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527448"
     },
     {
       "id": "aka2026phwtod",
@@ -254,6 +264,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665922"
     },
     {
+      "id": "pr71527433",
+      "lon": -64.9313333333333,
+      "lat": 18.7468333333333,
+      "depth": 19.96,
+      "mag": 2.92,
+      "place": "44 km N of Charlotte Amalie, U.S. Virgin Islands",
+      "time": 1785830529250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527433"
+    },
+    {
       "id": "nc75411057",
       "lon": -122.744003295898,
       "lat": 38.7796669006348,
@@ -272,6 +292,16 @@
       "place": "60 km S of Whites City, New Mexico",
       "time": 1785829877276,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pfgpxh"
+    },
+    {
+      "id": "pr71527418",
+      "lon": -64.9256666666667,
+      "lat": 18.724,
+      "depth": 30.89,
+      "mag": 3.1,
+      "place": "42 km N of Charlotte Amalie, U.S. Virgin Islands",
+      "time": 1785829803750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527418"
     },
     {
       "id": "nc75411047",
@@ -2182,16 +2212,6 @@
       "place": "85 km S of Severo-Kuril’sk, Russia",
       "time": 1785756402305,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thre"
-    },
-    {
-      "id": "pr71527253",
-      "lon": -67.0101666666667,
-      "lat": 17.9838333333333,
-      "depth": 8.16,
-      "mag": 2.4,
-      "place": "3 km ENE of La Parguera, Puerto Rico",
-      "time": 1785754952040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527253"
     }
   ]
 }
