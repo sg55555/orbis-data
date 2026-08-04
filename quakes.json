@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T04:00:53Z",
-  "count": 220,
+  "updated": "2026-08-04T04:15:39Z",
+  "count": 221,
   "points": [
+    {
+      "id": "nc75410982",
+      "lon": -122.500663757324,
+      "lat": 38.6839981079102,
+      "depth": 5.44999980926514,
+      "mag": 2.65,
+      "place": "12 km SE of Middletown, CA",
+      "time": 1785816758020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410982"
+    },
     {
       "id": "ci40665874",
       "lon": -117.800666666667,
@@ -75,12 +85,12 @@
     },
     {
       "id": "ci40665866",
-      "lon": -116.898666666667,
-      "lat": 33.6581666666667,
-      "depth": 12.23,
-      "mag": 0.56,
-      "place": "10 km S of Valle Vista, CA",
-      "time": 1785810941860,
+      "lon": -116.897333333333,
+      "lat": 33.6666666666667,
+      "depth": 13.05,
+      "mag": 0.6,
+      "place": "9 km S of Valle Vista, CA",
+      "time": 1785810941770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665866"
     },
     {
@@ -1254,6 +1264,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410617"
     },
     {
+      "id": "aka2026pgfxdj",
+      "lon": -165.579,
+      "lat": 53.347,
+      "depth": 20.2,
+      "mag": 2.5,
+      "place": "86 km SE of Unalaska, Alaska",
+      "time": 1785760555259,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgfxdj"
+    },
+    {
+      "id": "aka2026pgfvkz",
+      "lon": -151.275,
+      "lat": 63.286,
+      "depth": 4.4,
+      "mag": 1.9,
+      "place": "36 km SE of Denali National Park, Alaska",
+      "time": 1785760456625,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgfvkz"
+    },
+    {
       "id": "pr71527288",
       "lon": -64.7966666666667,
       "lat": 18.1465,
@@ -1272,6 +1302,16 @@
       "place": "44 km N of Charlotte Amalie, U.S. Virgin Islands",
       "time": 1785759518320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527273"
+    },
+    {
+      "id": "aka2026pgfgwt",
+      "lon": -151.706,
+      "lat": 60.177,
+      "depth": 74,
+      "mag": 1.7,
+      "place": "14 km N of Ninilchik, Alaska",
+      "time": 1785759438870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgfgwt"
     },
     {
       "id": "pr71527283",
@@ -2172,36 +2212,6 @@
       "place": "11 km ENE of Cabazon, CA",
       "time": 1785730692760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665450"
-    },
-    {
-      "id": "hv75012112",
-      "lon": -155.399666666667,
-      "lat": 19.2738333333333,
-      "depth": 28.89,
-      "mag": 1.76,
-      "place": "11 km NE of Pāhala, Hawaii",
-      "time": 1785730275330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012112"
-    },
-    {
-      "id": "aka2026pfpazh",
-      "lon": -165.094,
-      "lat": 53.643,
-      "depth": 33,
-      "mag": 2.6,
-      "place": "70 km SE of Akutan, Alaska",
-      "time": 1785730240161,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfpazh"
-    },
-    {
-      "id": "ci40665442",
-      "lon": -116.717833333333,
-      "lat": 33.6361666666667,
-      "depth": 17.55,
-      "mag": 0.85,
-      "place": "10 km NNW of Anza, CA",
-      "time": 1785729896550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665442"
     }
   ]
 }
