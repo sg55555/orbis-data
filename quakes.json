@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T18:30:55Z",
-  "count": 236,
+  "updated": "2026-08-04T18:45:35Z",
+  "count": 234,
   "points": [
+    {
+      "id": "ci40666202",
+      "lon": -117.729833333333,
+      "lat": 35.9175,
+      "depth": 2.91,
+      "mag": 0.58,
+      "place": "16 km E of Little Lake, CA",
+      "time": 1785868441200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666202"
+    },
+    {
+      "id": "ci40666194",
+      "lon": -116.757,
+      "lat": 33.6768333333333,
+      "depth": 14.18,
+      "mag": 0.79,
+      "place": "8 km SSW of Idyllwild, CA",
+      "time": 1785868129410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666194"
+    },
     {
       "id": "nc75411262",
       "lon": -121.620330810547,
@@ -12,6 +32,16 @@
       "place": "2 km ENE of Aromas, CA",
       "time": 1785866655230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411262"
+    },
+    {
+      "id": "uw714071341",
+      "lon": -121.833666666667,
+      "lat": 47.1643333333333,
+      "depth": -1.01,
+      "mag": 0.63,
+      "place": "12 km ESE of Enumclaw, Washington",
+      "time": 1785866147380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714071341"
     },
     {
       "id": "ci40666178",
@@ -2312,56 +2342,6 @@
       "place": "5 km NE of Bradbury, CA",
       "time": 1785782736690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665722"
-    },
-    {
-      "id": "ci40665714",
-      "lon": -117.721833333333,
-      "lat": 35.8928333333333,
-      "depth": 7.79,
-      "mag": 1.01,
-      "place": "17 km ESE of Little Lake, CA",
-      "time": 1785782524670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665714"
-    },
-    {
-      "id": "nc75410767",
-      "lon": -122.79467010498,
-      "lat": 38.8076667785645,
-      "depth": 3.13000011444092,
-      "mag": 1.25,
-      "place": "5 km NW of The Geysers, CA",
-      "time": 1785782514200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410767"
-    },
-    {
-      "id": "uw714070471",
-      "lon": -118.932833333333,
-      "lat": 46.043,
-      "depth": -0.31,
-      "mag": 1.78,
-      "place": "5 km SSW of Wallula, Washington",
-      "time": 1785782403940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714070471"
-    },
-    {
-      "id": "nc75410762",
-      "lon": -122.814163208008,
-      "lat": 38.7828330993652,
-      "depth": 5.69000005722046,
-      "mag": 0.73,
-      "place": "5 km W of The Geysers, CA",
-      "time": 1785782113050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410762"
-    },
-    {
-      "id": "ci40665698",
-      "lon": -116.090166666667,
-      "lat": 33.1601666666667,
-      "depth": 10.35,
-      "mag": 1.49,
-      "place": "4 km ENE of Ocotillo Wells, CA",
-      "time": 1785781868770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665698"
     }
   ]
 }
