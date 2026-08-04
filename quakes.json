@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T01:15:34Z",
-  "count": 217,
+  "updated": "2026-08-04T01:30:44Z",
+  "count": 219,
   "points": [
     {
+      "id": "nc75410927",
+      "lon": -121.075332641602,
+      "lat": 36.5984992980957,
+      "depth": 9.38000011444092,
+      "mag": 1.86,
+      "place": "10 km NE of Pinnacles, CA",
+      "time": 1785806670800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410927"
+    },
+    {
+      "id": "ci40665842",
+      "lon": -117.8645,
+      "lat": 36.0918333333333,
+      "depth": 5.78,
+      "mag": 1.02,
+      "place": "9 km NE of Coso Junction, CA",
+      "time": 1785806420920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665842"
+    },
+    {
       "id": "tx2026petncr",
-      "lon": -104.416,
-      "lat": 31.675,
-      "depth": 6.4794,
+      "lon": -104.415,
+      "lat": 31.676,
+      "depth": 4.9163,
       "mag": 1.8,
       "place": "55 km S of Whites City, New Mexico",
-      "time": 1785805911076,
+      "time": 1785805911393,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026petncr"
     },
     {
@@ -214,6 +234,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527363"
     },
     {
+      "id": "us6000thvq",
+      "lon": 56.1847,
+      "lat": 28.0606,
+      "depth": 10,
+      "mag": 4.1,
+      "place": "39 km SE of Ḩājjīābād, Iran",
+      "time": 1785795325156,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thvq"
+    },
+    {
       "id": "nc75410877",
       "lon": -122.938003540039,
       "lat": 38.7748336791992,
@@ -265,12 +295,12 @@
     },
     {
       "id": "us6000thvj",
-      "lon": 157.899,
-      "lat": 49.3075,
+      "lon": 157.8994,
+      "lat": 49.2319,
       "depth": 10,
-      "mag": 4.8,
-      "place": "198 km SE of Severo-Kuril’sk, Russia",
-      "time": 1785793333648,
+      "mag": 4.9,
+      "place": "204 km SE of Severo-Kuril’sk, Russia",
+      "time": 1785793333017,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thvj"
     },
     {
@@ -2162,16 +2192,6 @@
       "place": "Fiji region",
       "time": 1785720936296,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thps"
-    },
-    {
-      "id": "pr71527188",
-      "lon": -64.9345,
-      "lat": 18.76,
-      "depth": 18.42,
-      "mag": 3.23,
-      "place": "46 km N of Charlotte Amalie, U.S. Virgin Islands",
-      "time": 1785719954340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527188"
     }
   ]
 }
