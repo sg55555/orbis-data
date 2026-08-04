@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T20:45:36Z",
-  "count": 223,
+  "updated": "2026-08-04T21:01:05Z",
+  "count": 222,
   "points": [
+    {
+      "id": "nc75411387",
+      "lon": -122.025001525879,
+      "lat": 39.5921669006348,
+      "depth": 22.2999992370605,
+      "mag": 2.59,
+      "place": "16 km ENE of Willows, CA",
+      "time": 1785876851060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411387"
+    },
     {
       "id": "us6000ti49",
       "lon": 126.4856,
@@ -2212,26 +2222,6 @@
       "place": "13 km S of Olancha, CA",
       "time": 1785790904180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665778"
-    },
-    {
-      "id": "ok2026pcov",
-      "lon": -96.84783333,
-      "lat": 34.3755,
-      "depth": 0,
-      "mag": 1.28,
-      "place": "3 km SSW of Mill Creek, Oklahoma",
-      "time": 1785790064030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pcov"
-    },
-    {
-      "id": "us6000thva",
-      "lon": -70.4691,
-      "lat": -28.746,
-      "depth": 95.742,
-      "mag": 4.4,
-      "place": "34 km ESE of Vallenar, Chile",
-      "time": 1785790028226,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thva"
     }
   ]
 }
