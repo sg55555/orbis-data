@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T21:01:05Z",
+  "updated": "2026-08-04T21:15:43Z",
   "count": 222,
   "points": [
+    {
+      "id": "nc75411392",
+      "lon": -121.13500213623,
+      "lat": 36.5288314819336,
+      "depth": 1.30999994277954,
+      "mag": 1.67,
+      "place": "1 km ESE of Pinnacles, CA",
+      "time": 1785877644520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411392"
+    },
     {
       "id": "nc75411387",
       "lon": -122.025001525879,
@@ -35,12 +45,12 @@
     },
     {
       "id": "ci40666274",
-      "lon": -118.391833333333,
-      "lat": 36.0063333333333,
-      "depth": 3.3,
-      "mag": 1.25,
+      "lon": -118.388166666667,
+      "lat": 36.0075,
+      "depth": 3.18,
+      "mag": 1.24,
       "place": "28 km N of Kernville, CA",
-      "time": 1785874346650,
+      "time": 1785874346620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666274"
     },
     {
@@ -65,12 +75,12 @@
     },
     {
       "id": "ci40666258",
-      "lon": -116.264,
-      "lat": 33.2553333333333,
-      "depth": 10.45,
-      "mag": 0.89,
+      "lon": -116.265833333333,
+      "lat": 33.2555,
+      "depth": 11.3,
+      "mag": 0.92,
       "place": "10 km E of Borrego Springs, CA",
-      "time": 1785873257680,
+      "time": 1785873257630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666258"
     },
     {
@@ -232,6 +242,16 @@
       "place": "23 km WSW of Petersville, Alaska",
       "time": 1785864847211,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pilwel"
+    },
+    {
+      "id": "us6000ti1d",
+      "lon": 128.3355,
+      "lat": -7.6019,
+      "depth": 189.24,
+      "mag": 4.1,
+      "place": "179 km NE of Lospalos, Timor Leste",
+      "time": 1785864651782,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti1d"
     },
     {
       "id": "aka2026pilmnx",
@@ -2125,12 +2145,12 @@
     },
     {
       "id": "uw714070711",
-      "lon": -122.880836486816,
-      "lat": 47.7879981994629,
-      "depth": 17.1000003814697,
-      "mag": 1.69717741012573,
-      "place": "3 km S of Quilcene, Washington",
-      "time": 1785794199500,
+      "lon": -122.843666666667,
+      "lat": 47.7838333333333,
+      "depth": 19.03,
+      "mag": 1.59,
+      "place": "4 km SSE of Quilcene, Washington",
+      "time": 1785794199280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714070711"
     },
     {
@@ -2202,26 +2222,6 @@
       "place": "7 km S of Hickory, Oklahoma",
       "time": 1785791744280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pcpt"
-    },
-    {
-      "id": "uw714070591",
-      "lon": -123.064666666667,
-      "lat": 45.2671666666667,
-      "depth": -0.12,
-      "mag": 2.16,
-      "place": "4 km WSW of Dundee, Oregon",
-      "time": 1785790986160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714070591"
-    },
-    {
-      "id": "ci40665778",
-      "lon": -118.028666666667,
-      "lat": 36.1675,
-      "depth": 2.54,
-      "mag": 1.06,
-      "place": "13 km S of Olancha, CA",
-      "time": 1785790904180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665778"
     }
   ]
 }
