@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T18:45:35Z",
-  "count": 234,
+  "updated": "2026-08-04T19:01:02Z",
+  "count": 231,
   "points": [
+    {
+      "id": "ci40666210",
+      "lon": -116.546,
+      "lat": 33.5351666666667,
+      "depth": 14.85,
+      "mag": 0.29,
+      "place": "12 km E of Anza, CA",
+      "time": 1785868637800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666210"
+    },
     {
       "id": "ci40666202",
       "lon": -117.729833333333,
@@ -55,12 +65,12 @@
     },
     {
       "id": "ci40666170",
-      "lon": -117.778333333333,
-      "lat": 36.037,
-      "depth": 1.65,
-      "mag": 0.98,
+      "lon": -117.777166666667,
+      "lat": 36.0345,
+      "depth": 2.04,
+      "mag": 1.05,
       "place": "15 km E of Coso Junction, CA",
-      "time": 1785865758090,
+      "time": 1785865758070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666170"
     },
     {
@@ -2302,46 +2312,6 @@
       "place": "239 km ESE of Attu Station, Alaska",
       "time": 1785784168654,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgtalf"
-    },
-    {
-      "id": "nc75410777",
-      "lon": -122.794998168945,
-      "lat": 38.8073348999023,
-      "depth": 3.13000011444092,
-      "mag": 1.44,
-      "place": "5 km NW of The Geysers, CA",
-      "time": 1785783604840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410777"
-    },
-    {
-      "id": "aka2026pgsncz",
-      "lon": -150.108,
-      "lat": 61.374,
-      "depth": 39.6,
-      "mag": 1.7,
-      "place": "7 km WNW of Point MacKenzie, Alaska",
-      "time": 1785783258176,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgsncz"
-    },
-    {
-      "id": "aka2026pgshlb",
-      "lon": -152.055,
-      "lat": 59.932,
-      "depth": 76.9,
-      "mag": 2.2,
-      "place": "18 km W of Happy Valley, Alaska",
-      "time": 1785782919150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgshlb"
-    },
-    {
-      "id": "ci40665722",
-      "lon": -117.934333333333,
-      "lat": 34.1786666666667,
-      "depth": -0.88,
-      "mag": 1.24,
-      "place": "5 km NE of Bradbury, CA",
-      "time": 1785782736690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665722"
     }
   ]
 }
