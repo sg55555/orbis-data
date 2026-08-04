@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T11:15:34Z",
-  "count": 221,
+  "updated": "2026-08-04T11:30:44Z",
+  "count": 223,
   "points": [
+    {
+      "id": "pr71527468",
+      "lon": -66.837,
+      "lat": 17.9826666666667,
+      "depth": 9.24,
+      "mag": 2.39,
+      "place": "2 km SW of Indios, Puerto Rico",
+      "time": 1785841909840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527468"
+    },
     {
       "id": "tx2026pfmqje",
       "lon": -103.469,
@@ -225,12 +235,12 @@
     },
     {
       "id": "tx2026pfjcdh",
-      "lon": -102.208,
-      "lat": 32.084,
-      "depth": 6.3621,
-      "mag": 1,
-      "place": "15 km NW of Midland, Texas",
-      "time": 1785834127171,
+      "lon": -102.193,
+      "lat": 32.075,
+      "depth": 4.1901,
+      "mag": 0.9,
+      "place": "13 km NW of Midland, Texas",
+      "time": 1785834127738,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pfjcdh"
     },
     {
@@ -412,6 +422,16 @@
       "place": "92 km WSW of Puerto Madero, Mexico",
       "time": 1785823129103,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thyc"
+    },
+    {
+      "id": "pr71527413",
+      "lon": -66.7955,
+      "lat": 18.0485,
+      "depth": 16.28,
+      "mag": 2.1,
+      "place": "3 km N of Guayanilla, Puerto Rico",
+      "time": 1785822899050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527413"
     },
     {
       "id": "ci40665906",
@@ -905,12 +925,12 @@
     },
     {
       "id": "tx2026peqssz",
-      "lon": -101.082,
-      "lat": 32.14,
-      "depth": 2.3297,
+      "lon": -101.078,
+      "lat": 32.137,
+      "depth": 2.9011,
       "mag": 1.7,
       "place": "24 km SSW of Westbrook, Texas",
-      "time": 1785800881832,
+      "time": 1785800881682,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026peqssz"
     },
     {
@@ -932,6 +952,16 @@
       "place": "25 km SSW of Westbrook, Texas",
       "time": 1785799299827,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pepwex"
+    },
+    {
+      "id": "tx2026pepvjj",
+      "lon": -101.077,
+      "lat": 32.14,
+      "depth": 2.7375,
+      "mag": 1.6,
+      "place": "24 km SSW of Westbrook, Texas",
+      "time": 1785799299752,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pepvjj"
     },
     {
       "id": "tx2026pepvel",
@@ -2202,16 +2232,6 @@
       "place": "3 km NNW of Suquamish, Washington",
       "time": 1785756696380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714070161"
-    },
-    {
-      "id": "us6000thre",
-      "lon": 155.9445,
-      "lat": 49.9188,
-      "depth": 57.695,
-      "mag": 4.9,
-      "place": "85 km S of Severo-Kuril’sk, Russia",
-      "time": 1785756402305,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thre"
     }
   ]
 }
