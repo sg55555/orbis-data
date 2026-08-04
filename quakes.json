@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T22:38:34Z",
-  "count": 222,
+  "updated": "2026-08-04T22:45:33Z",
+  "count": 223,
   "points": [
+    {
+      "id": "nc75411442",
+      "lon": -122.935165405273,
+      "lat": 38.7756652832031,
+      "depth": 5.01999998092651,
+      "mag": 1.8,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": 1785883263580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411442"
+    },
+    {
+      "id": "pr71527553",
+      "lon": -66.9173333333333,
+      "lat": 17.9591666666667,
+      "depth": 15.03,
+      "mag": 1.93,
+      "place": "1 km SW of Guánica, Puerto Rico",
+      "time": 1785882474390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527553"
+    },
     {
       "id": "aka2026pivkin",
       "lon": -144.251,
@@ -2212,16 +2232,6 @@
       "place": "56 km S of Whites City, New Mexico",
       "time": 1785797495789,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026peotng"
-    },
-    {
-      "id": "aka2026phadnu",
-      "lon": 176.233,
-      "lat": 51.909,
-      "depth": 5,
-      "mag": 3.5,
-      "place": "232 km ESE of Attu Station, Alaska",
-      "time": 1785796975370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026phadnu"
     }
   ]
 }
