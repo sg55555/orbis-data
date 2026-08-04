@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T03:31:40Z",
-  "count": 222,
+  "updated": "2026-08-04T03:51:35Z",
+  "count": 221,
   "points": [
+    {
+      "id": "ci40665874",
+      "lon": -117.800666666667,
+      "lat": 35.3288333333333,
+      "depth": 6.78,
+      "mag": 1.05,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1785815063180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665874"
+    },
+    {
+      "id": "nc75410972",
+      "lon": -122.797836303711,
+      "lat": 38.7736663818359,
+      "depth": 3.35999989509583,
+      "mag": 1.07,
+      "place": "4 km W of The Geysers, CA",
+      "time": 1785814741570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410972"
+    },
+    {
+      "id": "nc75410967",
+      "lon": -122.795829772949,
+      "lat": 38.8264999389648,
+      "depth": 2.1800000667572,
+      "mag": 0.68,
+      "place": "6 km W of Cobb, CA",
+      "time": 1785814285410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410967"
+    },
     {
       "id": "aka2026phjnhg",
       "lon": -150.107,
@@ -12,6 +42,16 @@
       "place": "60 km WNW of Cantwell, Alaska",
       "time": 1785813854582,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026phjnhg"
+    },
+    {
+      "id": "us6000thx7",
+      "lon": 179.9404,
+      "lat": -24.2497,
+      "depth": 514.087,
+      "mag": 4.4,
+      "place": "south of the Fiji Islands",
+      "time": 1785813632801,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thx7"
     },
     {
       "id": "nc75410962",
@@ -205,12 +245,12 @@
     },
     {
       "id": "ci40665834",
-      "lon": -117.779166666667,
-      "lat": 36.0328333333333,
-      "depth": 1.92,
-      "mag": 0.76,
+      "lon": -117.777166666667,
+      "lat": 36.0355,
+      "depth": 2.09,
+      "mag": 0.83,
       "place": "15 km E of Coso Junction, CA",
-      "time": 1785804789650,
+      "time": 1785804789620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665834"
     },
     {
@@ -1525,12 +1565,12 @@
     },
     {
       "id": "aka2026pfzgcf",
-      "lon": -148.449,
-      "lat": 61.055,
-      "depth": 14.1,
-      "mag": 1,
-      "place": "33 km NNE of Whittier, Alaska",
-      "time": 1785748586661,
+      "lon": -148.455,
+      "lat": 61.045,
+      "depth": 0,
+      "mag": 1.5,
+      "place": "32 km NNE of Whittier, Alaska",
+      "time": 1785748586866,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfzgcf"
     },
     {
@@ -2172,56 +2212,6 @@
       "place": "3 km N of Gardena, CA",
       "time": 1785729058910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665434"
-    },
-    {
-      "id": "aka2026pfohcu",
-      "lon": -151.693,
-      "lat": 60.191,
-      "depth": 68.3,
-      "mag": 1.7,
-      "place": "15 km N of Ninilchik, Alaska",
-      "time": 1785728866857,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfohcu"
-    },
-    {
-      "id": "nc75410412",
-      "lon": -122.825164794922,
-      "lat": 38.8413314819336,
-      "depth": 1.74000000953674,
-      "mag": 1.47,
-      "place": "9 km WNW of Cobb, CA",
-      "time": 1785728619820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410412"
-    },
-    {
-      "id": "aka2026pfoabo",
-      "lon": -169.333,
-      "lat": 52.331,
-      "depth": 15.8,
-      "mag": 2.6,
-      "place": "74 km SSW of Nikolski, Alaska",
-      "time": 1785728375621,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfoabo"
-    },
-    {
-      "id": "aka2026pfnykl",
-      "lon": -137.173,
-      "lat": 63.144,
-      "depth": 5,
-      "mag": 2.7,
-      "place": "151 km SE of Dawson City, Canada",
-      "time": 1785728234407,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfnykl"
-    },
-    {
-      "id": "nc75410407",
-      "lon": -122.726829528809,
-      "lat": 38.7929992675781,
-      "depth": 1.49000000953674,
-      "mag": 2,
-      "place": "3 km NE of The Geysers, CA",
-      "time": 1785728001720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410407"
     }
   ]
 }
