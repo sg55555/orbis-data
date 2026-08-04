@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T03:00:54Z",
+  "updated": "2026-08-04T03:15:37Z",
   "count": 223,
   "points": [
+    {
+      "id": "nc75410962",
+      "lon": -122.808334350586,
+      "lat": 38.8028335571289,
+      "depth": 5.53999996185303,
+      "mag": 0.3,
+      "place": "5 km WNW of The Geysers, CA",
+      "time": 1785812513870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410962"
+    },
     {
       "id": "us6000thx2",
       "lon": -128.2774,
@@ -22,6 +32,16 @@
       "place": "10 km S of Valle Vista, CA",
       "time": 1785810941860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665866"
+    },
+    {
+      "id": "us6000thwz",
+      "lon": -27.2864,
+      "lat": -57.6805,
+      "depth": 214.063,
+      "mag": 4.4,
+      "place": "South Sandwich Islands region",
+      "time": 1785810549907,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thwz"
     },
     {
       "id": "nn00922748",
@@ -102,6 +122,16 @@
       "place": "20 km SSW of Laupāhoehoe, Hawaii",
       "time": 1785808121860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012507"
+    },
+    {
+      "id": "us6000thwl",
+      "lon": -157.2478,
+      "lat": 66.3057,
+      "depth": 5.291,
+      "mag": 2.8,
+      "place": "65 km S of Shungnak, Alaska",
+      "time": 1785807155893,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thwl"
     },
     {
       "id": "ci40665850",
@@ -2075,12 +2105,12 @@
     },
     {
       "id": "hv75012112",
-      "lon": -155.394332885742,
-      "lat": 19.2691669464111,
-      "depth": 30.0499992370605,
-      "mag": 2.36,
+      "lon": -155.399666666667,
+      "lat": 19.2738333333333,
+      "depth": 28.89,
+      "mag": 1.76,
       "place": "11 km NE of Pāhala, Hawaii",
-      "time": 1785730275190,
+      "time": 1785730275330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012112"
     },
     {
@@ -2202,36 +2232,6 @@
       "place": "7 km WSW of Petrolia, CA",
       "time": 1785727358020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410402"
-    },
-    {
-      "id": "nc75410397",
-      "lon": -120.864334106445,
-      "lat": 35.5778350830078,
-      "depth": 4.69000005722046,
-      "mag": 2.7,
-      "place": "15 km WNW of Templeton, CA",
-      "time": 1785726838430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410397"
-    },
-    {
-      "id": "aka2026pfmwbu",
-      "lon": 176.235,
-      "lat": 51.962,
-      "depth": 89.6,
-      "mag": 3.9,
-      "place": "229 km ESE of Attu Station, Alaska",
-      "time": 1785726288196,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfmwbu"
-    },
-    {
-      "id": "aka2026pfmthh",
-      "lon": -149.672,
-      "lat": 61.363,
-      "depth": 30.9,
-      "mag": 1.5,
-      "place": "7 km NW of Eagle River, Alaska",
-      "time": 1785726110760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfmthh"
     }
   ]
 }
