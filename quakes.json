@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T11:30:44Z",
-  "count": 223,
+  "updated": "2026-08-04T12:00:57Z",
+  "count": 221,
   "points": [
+    {
+      "id": "nn00922787",
+      "lon": -119.0145,
+      "lat": 39.3382,
+      "depth": 3.0005,
+      "mag": 1.5,
+      "place": "20 km ESE of Silver Springs, Nevada",
+      "time": 1785843343882,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922787"
+    },
+    {
+      "id": "hv75012757",
+      "lon": -154.848495483398,
+      "lat": 19.3791675567627,
+      "depth": 41.2200012207031,
+      "mag": 2.02,
+      "place": "12 km SE of Leilani Estates, Hawaii",
+      "time": 1785842833210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012757"
+    },
     {
       "id": "pr71527468",
       "lon": -66.837,
@@ -272,6 +292,16 @@
       "place": "18 km WSW of Johannesburg, CA",
       "time": 1785833380810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665922"
+    },
+    {
+      "id": "pr2026216000",
+      "lon": -68.2045,
+      "lat": 19.5315,
+      "depth": 77,
+      "mag": 3.65,
+      "place": "107 km NNE of Punta Cana, Dominican Republic",
+      "time": 1785832872920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026216000"
     },
     {
       "id": "pr71527433",
@@ -2182,56 +2212,6 @@
       "place": "109 km SW of Kaktovik, Alaska",
       "time": 1785758874836,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgeytv"
-    },
-    {
-      "id": "ci40665546",
-      "lon": -117.774333333333,
-      "lat": 36.0225,
-      "depth": 2.01,
-      "mag": 0.2,
-      "place": "15 km NE of Little Lake, CA",
-      "time": 1785758218050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665546"
-    },
-    {
-      "id": "nc75410592",
-      "lon": -122.753829956055,
-      "lat": 38.7953338623047,
-      "depth": 2.28999996185303,
-      "mag": 0.65,
-      "place": "2 km N of The Geysers, CA",
-      "time": 1785758150030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410592"
-    },
-    {
-      "id": "tx2026pdsvji",
-      "lon": -98.99,
-      "lat": 28.818,
-      "depth": 7.9417,
-      "mag": 1.9,
-      "place": "13 km SE of Pearsall, Texas",
-      "time": 1785757609293,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pdsvji"
-    },
-    {
-      "id": "nc75410587",
-      "lon": -122.793663024902,
-      "lat": 38.8344993591309,
-      "depth": 2,
-      "mag": 1.59,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1785756904510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410587"
-    },
-    {
-      "id": "uw714070161",
-      "lon": -122.573833333333,
-      "lat": 47.7593333333333,
-      "depth": 23.93,
-      "mag": 0.97,
-      "place": "3 km NNW of Suquamish, Washington",
-      "time": 1785756696380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714070161"
     }
   ]
 }
