@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T07:30:45Z",
-  "count": 233,
+  "updated": "2026-08-04T07:45:39Z",
+  "count": 232,
   "points": [
     {
       "id": "nc75411042",
@@ -22,6 +22,16 @@
       "place": "62 km SSW of McCarthy, Alaska",
       "time": 1785827881659,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026phrhzm"
+    },
+    {
+      "id": "us6000thym",
+      "lon": -93.3796,
+      "lat": 14.3215,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "112 km WSW of Puerto Madero, Mexico",
+      "time": 1785827228745,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thym"
     },
     {
       "id": "aka2026phqxpm",
@@ -496,11 +506,11 @@
     {
       "id": "tx2026pesjsw",
       "lon": -104.408,
-      "lat": 31.67,
-      "depth": 7.0839,
-      "mag": 1.7,
+      "lat": 31.664,
+      "depth": 6.5356,
+      "mag": 1.6,
       "place": "56 km S of Whites City, New Mexico",
-      "time": 1785803865671,
+      "time": 1785803865939,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pesjsw"
     },
     {
@@ -2312,26 +2322,6 @@
       "place": "7 km ESE of Cloverdale, CA",
       "time": 1785743195470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410497"
-    },
-    {
-      "id": "ci40665514",
-      "lon": -118.633,
-      "lat": 34.2935,
-      "depth": 2.95,
-      "mag": 1.65,
-      "place": "5 km NNW of Chatsworth, CA",
-      "time": 1785743061390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665514"
-    },
-    {
-      "id": "aka2026pfvuqh",
-      "lon": -150.831,
-      "lat": 58.36,
-      "depth": 3.2,
-      "mag": 2.2,
-      "place": "109 km ENE of Ouzinkie, Alaska",
-      "time": 1785742395577,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfvuqh"
     }
   ]
 }
