@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T14:15:35Z",
-  "count": 230,
+  "updated": "2026-08-04T14:30:56Z",
+  "count": 231,
   "points": [
+    {
+      "id": "hv75012817",
+      "lon": -156.414672851562,
+      "lat": 19.6021671295166,
+      "depth": 11.4099998474121,
+      "mag": 2.02,
+      "place": "43 km W of Kailua-Kona, Hawaii",
+      "time": 1785853299960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012817"
+    },
+    {
+      "id": "aka2026pifjga",
+      "lon": -152.356,
+      "lat": 59.833,
+      "depth": 93.6,
+      "mag": 1.9,
+      "place": "30 km WNW of Anchor Point, Alaska",
+      "time": 1785853157364,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pifjga"
+    },
+    {
+      "id": "nc75411172",
+      "lon": -122.824165344238,
+      "lat": 38.8436660766602,
+      "depth": 1.94000005722046,
+      "mag": 1.02,
+      "place": "9 km WNW of Cobb, CA",
+      "time": 1785853074540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411172"
+    },
     {
       "id": "nc75411157",
       "lon": -122.766998291016,
@@ -395,12 +425,12 @@
     },
     {
       "id": "ci40665946",
-      "lon": -117.1765,
-      "lat": 33.97,
-      "depth": 14.14,
-      "mag": 1.54,
+      "lon": -117.177333333333,
+      "lat": 33.9713333333333,
+      "depth": 13.88,
+      "mag": 1.4,
       "place": "7 km NE of Moreno Valley, CA",
-      "time": 1785835172260,
+      "time": 1785835172220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665946"
     },
     {
@@ -912,6 +942,16 @@
       "place": "13 km NE of Milford, Utah",
       "time": 1785811280910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147046"
+    },
+    {
+      "id": "uu80007798",
+      "lon": -112.354333333333,
+      "lat": 38.4656666666667,
+      "depth": 3.44,
+      "mag": 0.38,
+      "place": "10 km W of Marysvale, Utah",
+      "time": 1785811278800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007798"
     },
     {
       "id": "pr71527383",
@@ -2272,36 +2312,6 @@
       "place": "61 km S of Shikotan, Russia",
       "time": 1785767985353,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ths2"
-    },
-    {
-      "id": "aka2026pgjqhh",
-      "lon": -139.425,
-      "lat": 58.897,
-      "depth": 8.1,
-      "mag": 3.2,
-      "place": "74 km SSE of Yakutat, Alaska",
-      "time": 1785767263214,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgjqhh"
-    },
-    {
-      "id": "ci40665578",
-      "lon": -115.739833333333,
-      "lat": 32.6463333333333,
-      "depth": 7.24,
-      "mag": 1.57,
-      "place": "16 km WNW of Progreso, B.C., MX",
-      "time": 1785766991100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665578"
-    },
-    {
-      "id": "aka2026pgjiiv",
-      "lon": -164.987,
-      "lat": 53.418,
-      "depth": 24.5,
-      "mag": 2.5,
-      "place": "95 km SSE of Akutan, Alaska",
-      "time": 1785766739842,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgjiiv"
     }
   ]
 }
