@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T03:15:37Z",
-  "count": 223,
+  "updated": "2026-08-04T03:30:49Z",
+  "count": 222,
   "points": [
+    {
+      "id": "aka2026phjnhg",
+      "lon": -150.107,
+      "lat": 63.554,
+      "depth": 5,
+      "mag": 1.4,
+      "place": "60 km WNW of Cantwell, Alaska",
+      "time": 1785813854582,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026phjnhg"
+    },
     {
       "id": "nc75410962",
       "lon": -122.808334350586,
@@ -2212,26 +2222,6 @@
       "place": "3 km NE of The Geysers, CA",
       "time": 1785728001720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410407"
-    },
-    {
-      "id": "uw714070011",
-      "lon": -122.155833333333,
-      "lat": 46.2,
-      "depth": 7.04,
-      "mag": 0.7,
-      "place": "39 km NE of Amboy, Washington",
-      "time": 1785727463490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714070011"
-    },
-    {
-      "id": "nc75410402",
-      "lon": -124.36499786377,
-      "lat": 40.3041648864746,
-      "depth": 16.6599998474121,
-      "mag": 2.69,
-      "place": "7 km WSW of Petrolia, CA",
-      "time": 1785727358020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410402"
     }
   ]
 }
