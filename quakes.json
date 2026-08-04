@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T20:11:42Z",
-  "count": 225,
+  "updated": "2026-08-04T20:15:38Z",
+  "count": 224,
   "points": [
+    {
+      "id": "ci40666274",
+      "lon": -118.393501281738,
+      "lat": 36.0084991455078,
+      "depth": 5.38000011444092,
+      "mag": 1.20437524278585,
+      "place": "28 km N of Kernville, CA",
+      "time": 1785874346670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666274"
+    },
     {
       "id": "nc75411312",
       "lon": -122.734001159668,
@@ -2232,26 +2242,6 @@
       "place": "235 km ESE of Attu Station, Alaska",
       "time": 1785788389657,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgvjnr"
-    },
-    {
-      "id": "aka2026pgvfcb",
-      "lon": -145.143,
-      "lat": 69.349,
-      "depth": 5,
-      "mag": 1.6,
-      "place": "105 km SSW of Kaktovik, Alaska",
-      "time": 1785788098781,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgvfcb"
-    },
-    {
-      "id": "us6000thv7",
-      "lon": -5.1249,
-      "lat": 32.2009,
-      "depth": 10,
-      "mag": 4.7,
-      "place": "64 km SSW of Midelt, Morocco",
-      "time": 1785788085600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thv7"
     }
   ]
 }
