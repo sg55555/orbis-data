@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T21:15:43Z",
+  "updated": "2026-08-04T21:30:45Z",
   "count": 222,
   "points": [
+    {
+      "id": "nc75411397",
+      "lon": -122.938667297363,
+      "lat": 38.791332244873,
+      "depth": 4.32999992370605,
+      "mag": 2.59,
+      "place": "7 km ESE of Cloverdale, CA",
+      "time": 1785878253520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411397"
+    },
     {
       "id": "nc75411392",
       "lon": -121.13500213623,
@@ -62,6 +72,16 @@
       "place": "2 km ENE of The Geysers, CA",
       "time": 1785873604910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411312"
+    },
+    {
+      "id": "us6000ti40",
+      "lon": 131.0474,
+      "lat": 30.2082,
+      "depth": 44.967,
+      "mag": 4.8,
+      "place": "43 km ESE of Koseda, Japan",
+      "time": 1785873418739,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti40"
     },
     {
       "id": "nc75411307",
@@ -414,14 +434,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411187"
     },
     {
-      "id": "aka2026pigtty",
-      "lon": 176.245,
-      "lat": 51.955,
-      "depth": 5,
-      "mag": 3.7,
-      "place": "230 km ESE of Attu Station, Alaska",
-      "time": 1785855672356,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pigtty"
+      "id": "us6000ti1a",
+      "lon": 176.2388,
+      "lat": 51.8734,
+      "depth": 15.123,
+      "mag": 3.5,
+      "place": "234 km ESE of Attu Station, Alaska",
+      "time": 1785855673018,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti1a"
     },
     {
       "id": "tx2026pfuyqr",
@@ -2202,26 +2222,6 @@
       "place": "19 km E of Forsan, Texas",
       "time": 1785792838847,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pemhkd"
-    },
-    {
-      "id": "ci40665786",
-      "lon": -117.479666666667,
-      "lat": 35.6668333333333,
-      "depth": 7.25,
-      "mag": 1.45,
-      "place": "13 km SSW of Searles Valley, CA",
-      "time": 1785792049860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665786"
-    },
-    {
-      "id": "ok2026pcpt",
-      "lon": -96.858,
-      "lat": 34.49166667,
-      "depth": 0,
-      "mag": 1.34,
-      "place": "7 km S of Hickory, Oklahoma",
-      "time": 1785791744280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pcpt"
     }
   ]
 }
