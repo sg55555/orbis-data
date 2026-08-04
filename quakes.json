@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T13:01:02Z",
-  "count": 220,
+  "updated": "2026-08-04T13:15:50Z",
+  "count": 218,
   "points": [
+    {
+      "id": "hv75012797",
+      "lon": -155.59733581543,
+      "lat": 19.4396667480469,
+      "depth": 40.0299987792969,
+      "mag": 1.74,
+      "place": "28 km E of Honaunau-Napoopoo, Hawaii",
+      "time": 1785848913420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012797"
+    },
     {
       "id": "tx2026pfqiyh",
       "lon": -103.747,
@@ -35,12 +45,12 @@
     },
     {
       "id": "tx2026pfpmuh",
-      "lon": -103.377,
-      "lat": 31.23,
-      "depth": 4.8157,
+      "lon": -103.368,
+      "lat": 31.238,
+      "depth": 6.9416,
       "mag": 1.7,
       "place": "21 km SE of Lindsay, Texas",
-      "time": 1785845713990,
+      "time": 1785845713967,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pfpmuh"
     },
     {
@@ -102,6 +112,16 @@
       "place": "2 km SW of Indios, Puerto Rico",
       "time": 1785841909840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527468"
+    },
+    {
+      "id": "us6000thzg",
+      "lon": -93.281,
+      "lat": 14.517,
+      "depth": 34.165,
+      "mag": 4.3,
+      "place": "94 km WSW of Aquiles Serdán, Mexico",
+      "time": 1785841672877,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thzg"
     },
     {
       "id": "tx2026pfmqje",
@@ -2162,46 +2182,6 @@
       "place": "33 km ESE of Minto, Alaska",
       "time": 1785762934827,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pghflm"
-    },
-    {
-      "id": "us6000thrs",
-      "lon": 156.087,
-      "lat": -7.4962,
-      "depth": 35,
-      "mag": 4.8,
-      "place": "106 km NW of Gizo, Solomon Islands",
-      "time": 1785762841939,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thrs"
-    },
-    {
-      "id": "nc75410622",
-      "lon": -124.791664123535,
-      "lat": 40.3250007629395,
-      "depth": 14.9300003051758,
-      "mag": 2.6,
-      "place": "43 km W of Petrolia, CA",
-      "time": 1785762440930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410622"
-    },
-    {
-      "id": "tx2026pdvkyl",
-      "lon": -98.99,
-      "lat": 28.822,
-      "depth": 7.4748,
-      "mag": 2,
-      "place": "12 km SE of Pearsall, Texas",
-      "time": 1785762310880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pdvkyl"
-    },
-    {
-      "id": "uw714070181",
-      "lon": -121.904333333333,
-      "lat": 46.8333333333333,
-      "depth": 8.17,
-      "mag": 0.31,
-      "place": "12 km NE of Ashford, Washington",
-      "time": 1785762251770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714070181"
     }
   ]
 }
