@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T06:15:42Z",
-  "count": 231,
+  "updated": "2026-08-04T06:30:48Z",
+  "count": 229,
   "points": [
+    {
+      "id": "ci40665914",
+      "lon": -117.364666666667,
+      "lat": 36.0451666666667,
+      "depth": 1.78,
+      "mag": 1.93,
+      "place": "31 km N of Searles Valley, CA",
+      "time": 1785824101810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665914"
+    },
     {
       "id": "tx2026pfdecg",
       "lon": -104.373,
@@ -2282,36 +2292,6 @@
       "place": "56 km E of La Tirana, Chile",
       "time": 1785740196145,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thqm"
-    },
-    {
-      "id": "ci40665498",
-      "lon": -116.821666666667,
-      "lat": 33.7158333333333,
-      "depth": 14.55,
-      "mag": 0.31,
-      "place": "8 km ESE of Valle Vista, CA",
-      "time": 1785738492390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665498"
-    },
-    {
-      "id": "ci40665490",
-      "lon": -117.2605,
-      "lat": 34.0573333333333,
-      "depth": 16.27,
-      "mag": 0.83,
-      "place": "1 km N of Loma Linda, CA",
-      "time": 1785738455570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665490"
-    },
-    {
-      "id": "tx2026pdibfm",
-      "lon": -101.65,
-      "lat": 32.381,
-      "depth": 3.5221,
-      "mag": 1,
-      "place": "17 km SSE of Ackerly, Texas",
-      "time": 1785738097904,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pdibfm"
     }
   ]
 }
