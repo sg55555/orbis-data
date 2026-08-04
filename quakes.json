@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T09:09:12Z",
+  "updated": "2026-08-04T09:15:43Z",
   "count": 221,
   "points": [
     {
+      "id": "nc75411077",
+      "lon": -121.457832336426,
+      "lat": 36.980167388916,
+      "depth": 4.28999996185303,
+      "mag": 1.75,
+      "place": "10 km ESE of Gilroy, CA",
+      "time": 1785834798670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411077"
+    },
+    {
       "id": "ci40665938",
-      "lon": -118.334167480469,
-      "lat": 33.9860000610352,
-      "depth": 6.46000003814697,
-      "mag": 1.23447511749897,
-      "place": "2 km SE of View Park-Windsor Hills, CA",
-      "time": 1785834344410,
+      "lon": -118.352166666667,
+      "lat": 33.988,
+      "depth": 7.01,
+      "mag": 0.87,
+      "place": "1 km SSW of View Park-Windsor Hills, CA",
+      "time": 1785834344430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665938"
     },
     {
@@ -2202,16 +2212,6 @@
       "place": "32 km NNE of Whittier, Alaska",
       "time": 1785748586866,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfzgcf"
-    },
-    {
-      "id": "aka2026pfzbrd",
-      "lon": -174.966,
-      "lat": 51.593,
-      "depth": 20.9,
-      "mag": 2.6,
-      "place": "85 km SW of Atka, Alaska",
-      "time": 1785748271928,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfzbrd"
     }
   ]
 }
