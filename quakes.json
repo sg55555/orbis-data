@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-04T20:15:38Z",
-  "count": 224,
+  "updated": "2026-08-04T20:30:44Z",
+  "count": 225,
   "points": [
     {
+      "id": "nc75411337",
+      "lon": -122.457832336426,
+      "lat": 37.6028327941895,
+      "depth": 6.90000009536743,
+      "mag": 1.2,
+      "place": "3 km ESE of Pacifica, CA",
+      "time": 1785874495770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411337"
+    },
+    {
       "id": "ci40666274",
-      "lon": -118.393501281738,
-      "lat": 36.0084991455078,
-      "depth": 5.38000011444092,
-      "mag": 1.20437524278585,
+      "lon": -118.391833333333,
+      "lat": 36.0063333333333,
+      "depth": 3.3,
+      "mag": 1.25,
       "place": "28 km N of Kernville, CA",
-      "time": 1785874346670,
+      "time": 1785874346650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666274"
     },
     {
@@ -124,6 +134,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666194"
     },
     {
+      "id": "aka2026pimwvp",
+      "lon": -147.882,
+      "lat": 64.732,
+      "depth": 12.7,
+      "mag": 1.6,
+      "place": "9 km SSW of South Van Horn, Alaska",
+      "time": 1785866691873,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pimwvp"
+    },
+    {
       "id": "nc75411262",
       "lon": -121.620330810547,
       "lat": 36.8974990844727,
@@ -132,6 +152,16 @@
       "place": "2 km ENE of Aromas, CA",
       "time": 1785866655230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411262"
+    },
+    {
+      "id": "aka2026pimwcq",
+      "lon": -151.903,
+      "lat": 60.664,
+      "depth": 87.6,
+      "mag": 1.7,
+      "place": "32 km W of Salamatof, Alaska",
+      "time": 1785866641198,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pimwcq"
     },
     {
       "id": "uw714071341",
@@ -2222,26 +2252,6 @@
       "place": "111 km SSE of Sand Point, Alaska",
       "time": 1785789167518,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgvuot"
-    },
-    {
-      "id": "nc75410837",
-      "lon": -122.812164306641,
-      "lat": 38.8213348388672,
-      "depth": 2.83999991416931,
-      "mag": 1.08,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1785788518160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410837"
-    },
-    {
-      "id": "aka2026pgvjnr",
-      "lon": 176.268,
-      "lat": 51.889,
-      "depth": 3.6,
-      "mag": 3.2,
-      "place": "235 km ESE of Attu Station, Alaska",
-      "time": 1785788389657,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgvjnr"
     }
   ]
 }
