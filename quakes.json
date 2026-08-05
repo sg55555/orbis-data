@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T04:15:39Z",
-  "count": 224,
+  "updated": "2026-08-05T04:22:36Z",
+  "count": 222,
   "points": [
     {
+      "id": "tx2026pgvjqb",
+      "lon": -104.393,
+      "lat": 31.623,
+      "depth": 4.3882,
+      "mag": 2.5,
+      "place": "61 km S of Whites City, New Mexico",
+      "time": 1785903424012,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pgvjqb"
+    },
+    {
       "id": "ci40666370",
-      "lon": -116.017333984375,
-      "lat": 33.7771682739258,
-      "depth": -0.769999980926514,
-      "mag": 1.40331560503638,
-      "place": "18 km NE of Coachella, CA",
-      "time": 1785903143570,
+      "lon": -116.002666666667,
+      "lat": 33.7698333333333,
+      "depth": 1.17,
+      "mag": 1.19,
+      "place": "19 km ENE of Coachella, CA",
+      "time": 1785903143380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666370"
     },
     {
@@ -2212,36 +2222,6 @@
       "place": "81 km WNW of Yakutat, Alaska",
       "time": 1785817368562,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026phlmdg"
-    },
-    {
-      "id": "pr71527393",
-      "lon": -66.8418333333333,
-      "lat": 17.9665,
-      "depth": 14.91,
-      "mag": 2.13,
-      "place": "3 km SW of Indios, Puerto Rico",
-      "time": 1785817330130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527393"
-    },
-    {
-      "id": "nc75410987",
-      "lon": -122.237663269043,
-      "lat": 37.8516654968262,
-      "depth": 8.64000034332275,
-      "mag": 0.75,
-      "place": "3 km N of Piedmont, CA",
-      "time": 1785817071240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410987"
-    },
-    {
-      "id": "nn00922753",
-      "lon": -115.7517,
-      "lat": 36.7144,
-      "depth": 5.4278,
-      "mag": 2.03,
-      "place": "17 km NNW of Indian Springs, Nevada",
-      "time": 1785816984902,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922753"
     }
   ]
 }
