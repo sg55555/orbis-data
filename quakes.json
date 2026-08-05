@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T12:00:56Z",
+  "updated": "2026-08-05T12:15:37Z",
   "count": 212,
   "points": [
+    {
+      "id": "nc75411707",
+      "lon": -122.809829711914,
+      "lat": 38.8211669921875,
+      "depth": 3.03999996185303,
+      "mag": 0.73,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1785931749400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411707"
+    },
     {
       "id": "nc75411702",
       "lon": -122.759498596191,
@@ -402,6 +412,16 @@
       "place": "56 km NW of Toyah, Texas",
       "time": 1785915441875,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026phcaga"
+    },
+    {
+      "id": "tx2026phbzdr",
+      "lon": -98.991,
+      "lat": 28.845,
+      "depth": 9.5464,
+      "mag": 1.6,
+      "place": "11 km ESE of Pearsall, Texas",
+      "time": 1785915365131,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026phbzdr"
     },
     {
       "id": "aka2026pjnxqt",
@@ -2102,26 +2122,6 @@
       "place": "20 km SE of Lindsay, Texas",
       "time": 1785845713070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pfpmuh"
-    },
-    {
-      "id": "aka2026pibahn",
-      "lon": -146.166,
-      "lat": 63.609,
-      "depth": 5,
-      "mag": 1.4,
-      "place": "47 km SW of Fort Greely, Alaska",
-      "time": 1785845341023,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pibahn"
-    },
-    {
-      "id": "nm60626196",
-      "lon": -89.7568333333333,
-      "lat": 36.1006666666667,
-      "depth": 9.79,
-      "mag": 2.63,
-      "place": "6 km ENE of Steele, Missouri",
-      "time": 1785845080710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60626196"
     }
   ]
 }
