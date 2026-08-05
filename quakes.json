@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T02:01:00Z",
-  "count": 228,
+  "updated": "2026-08-05T02:15:35Z",
+  "count": 230,
   "points": [
+    {
+      "id": "nc75411537",
+      "lon": -123.425498962402,
+      "lat": 40.9988327026367,
+      "depth": 24.9599990844727,
+      "mag": 2.2,
+      "place": "18 km ENE of Willow Creek, CA",
+      "time": 1785895685450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411537"
+    },
+    {
+      "id": "nc75411532",
+      "lon": -122.983833312988,
+      "lat": 38.8754997253418,
+      "depth": 3.82999992370605,
+      "mag": 1.35,
+      "place": "8 km NNE of Cloverdale, CA",
+      "time": 1785895517270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411532"
+    },
+    {
+      "id": "tx2026pgqytb",
+      "lon": -101.321,
+      "lat": 31.903,
+      "depth": 2.6829,
+      "mag": 1.5,
+      "place": "15 km ENE of Garden City, Texas",
+      "time": 1785895424381,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pgqytb"
+    },
     {
       "id": "nc75411522",
       "lon": -122.297332763672,
@@ -92,6 +122,16 @@
       "place": "55 km WSW of Monywa, Burma (Myanmar)",
       "time": 1785888717902,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti5u"
+    },
+    {
+      "id": "us6000ti5t",
+      "lon": -168.1225,
+      "lat": 63.6147,
+      "depth": 10,
+      "mag": 2.7,
+      "place": "117 km E of Savoonga, Alaska",
+      "time": 1785888360561,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti5t"
     },
     {
       "id": "tx2026pgmnlq",
@@ -1355,12 +1395,12 @@
     },
     {
       "id": "hv75012717",
-      "lon": -155.377838134766,
-      "lat": 19.2001667022705,
-      "depth": 29.6599998474121,
-      "mag": 2.22,
+      "lon": -155.375666666667,
+      "lat": 19.1968333333333,
+      "depth": 29.42,
+      "mag": 1.7,
       "place": "10 km E of Pāhala, Hawaii",
-      "time": 1785837486000,
+      "time": 1785837486030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012717"
     },
     {
@@ -1765,10 +1805,10 @@
     },
     {
       "id": "hv75012642",
-      "lon": -155.496826171875,
-      "lat": 19.1340007781982,
-      "depth": 34.8199996948242,
-      "mag": 2.28,
+      "lon": -155.499833333333,
+      "lat": 19.14,
+      "depth": 35.54,
+      "mag": 1.79,
       "place": "7 km SSW of Pāhala, Hawaii",
       "time": 1785826624640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012642"
@@ -2262,26 +2302,6 @@
       "place": "5 km ENE of Ocotillo Wells, CA",
       "time": 1785809920310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665858"
-    },
-    {
-      "id": "nc75410947",
-      "lon": -122.848335266113,
-      "lat": 38.853832244873,
-      "depth": 1.29999995231628,
-      "mag": 0.26,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1785809070690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410947"
-    },
-    {
-      "id": "aka2026phgsbi",
-      "lon": -151.747,
-      "lat": 60.625,
-      "depth": 79.3,
-      "mag": 2,
-      "place": "23 km W of Salamatof, Alaska",
-      "time": 1785808834894,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026phgsbi"
     }
   ]
 }
