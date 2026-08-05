@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T16:15:41Z",
-  "count": 210,
+  "updated": "2026-08-05T16:30:48Z",
+  "count": 212,
   "points": [
+    {
+      "id": "aka2026pkffzu",
+      "lon": -147.451,
+      "lat": 66.495,
+      "depth": 5,
+      "mag": 1.5,
+      "place": "15 km N of Beaver, Alaska",
+      "time": 1785946487726,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pkffzu"
+    },
     {
       "id": "nc75411812",
       "lon": -124.919998168945,
@@ -12,6 +22,16 @@
       "place": "54 km W of Petrolia, CA",
       "time": 1785945939100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411812"
+    },
+    {
+      "id": "aka2026pkenvy",
+      "lon": 178.945,
+      "lat": 51.755,
+      "depth": 101.4,
+      "mag": 2.3,
+      "place": "Rat Islands, Aleutian Islands, Alaska",
+      "time": 1785945239065,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pkenvy"
     },
     {
       "id": "hv75013392",
@@ -52,6 +72,16 @@
       "place": "13 km NE of Milford, Utah",
       "time": 1785943786850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147126"
+    },
+    {
+      "id": "aka2026pkdsoe",
+      "lon": -176.281,
+      "lat": 51.23,
+      "depth": 18.3,
+      "mag": 2.1,
+      "place": "75 km SSE of Adak, Alaska",
+      "time": 1785943754644,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pkdsoe"
     },
     {
       "id": "aka2026pkdgpj",
@@ -2092,16 +2122,6 @@
       "place": "33 km SSE of Malaga, New Mexico",
       "time": 1785861308654,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pfycty"
-    },
-    {
-      "id": "ok2026pebq",
-      "lon": -95.81083333,
-      "lat": 36.238,
-      "depth": 0,
-      "mag": 1.28,
-      "place": "5 km SE of Owasso, Oklahoma",
-      "time": 1785860671039,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pebq"
     }
   ]
 }
