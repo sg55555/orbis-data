@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T19:15:42Z",
-  "count": 221,
+  "updated": "2026-08-05T19:30:48Z",
+  "count": 222,
   "points": [
+    {
+      "id": "ci40666762",
+      "lon": -117.342666666667,
+      "lat": 33.7095,
+      "depth": 1.35,
+      "mag": 1.59,
+      "place": "5 km NNW of Lake Elsinore, CA",
+      "time": 1785957760030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666762"
+    },
+    {
+      "id": "tx2026phzico",
+      "lon": -101.115,
+      "lat": 32.123,
+      "depth": 2.7306,
+      "mag": 1.7,
+      "place": "23 km E of Forsan, Texas",
+      "time": 1785957627557,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026phzico"
+    },
     {
       "id": "ok2026pgck",
       "lon": -97.91716667,
@@ -1534,6 +1554,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922828"
     },
     {
+      "id": "av94359223",
+      "lon": -178.8075,
+      "lat": 51.8218333333333,
+      "depth": 9.84,
+      "mag": 0.95,
+      "place": "149 km W of Adak, Alaska",
+      "time": 1785897442480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94359223"
+    },
+    {
       "id": "nc75411547",
       "lon": -122.94083404541,
       "lat": 38.7733345031738,
@@ -2192,26 +2222,6 @@
       "place": "8 km ESE of Cloverdale, CA",
       "time": 1785872975830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411302"
-    },
-    {
-      "id": "uw714071421",
-      "lon": -117.696166666667,
-      "lat": 47.7228333333333,
-      "depth": -0.71,
-      "mag": 1.4,
-      "place": "11 km NW of Airway Heights, Washington",
-      "time": 1785871648290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714071421"
-    },
-    {
-      "id": "hv75012922",
-      "lon": -155.489669799805,
-      "lat": 19.1760005950928,
-      "depth": 29.6100006103516,
-      "mag": 1.75,
-      "place": "3 km SSW of Pāhala, Hawaii",
-      "time": 1785871624960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012922"
     }
   ]
 }
