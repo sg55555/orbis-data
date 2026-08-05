@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T10:01:00Z",
-  "count": 207,
+  "updated": "2026-08-05T10:13:24Z",
+  "count": 210,
   "points": [
+    {
+      "id": "ci40666450",
+      "lon": -118.60066986084,
+      "lat": 35.1138343811035,
+      "depth": 6.51000022888184,
+      "mag": 1.56802246639912,
+      "place": "14 km W of Tehachapi, CA",
+      "time": 1785924540870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666450"
+    },
+    {
+      "id": "nc75411687",
+      "lon": -121.453330993652,
+      "lat": 36.9739990234375,
+      "depth": 6.57999992370605,
+      "mag": 1.45,
+      "place": "11 km ESE of Gilroy, CA",
+      "time": 1785924329490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411687"
+    },
     {
       "id": "aka2026pjslws",
       "lon": -151.906,
@@ -22,6 +42,16 @@
       "place": "20 km ESE of Little Lake, CA",
       "time": 1785923133950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666442"
+    },
+    {
+      "id": "us6000ti9q",
+      "lon": 125.2545,
+      "lat": 5.0358,
+      "depth": 27.957,
+      "mag": 4.4,
+      "place": "46 km SSW of Sarangani, Philippines",
+      "time": 1785922700843,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti9q"
     },
     {
       "id": "aka2026pjrvqu",
@@ -182,6 +212,16 @@
       "place": "south of the Kermadec Islands",
       "time": 1785915807317,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti8i"
+    },
+    {
+      "id": "pr71527598",
+      "lon": -67.013,
+      "lat": 17.9781666666667,
+      "depth": 14,
+      "mag": 1.97,
+      "place": "3 km E of La Parguera, Puerto Rico",
+      "time": 1785915732370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527598"
     },
     {
       "id": "tx2026phcaga",
@@ -2062,16 +2102,6 @@
       "place": "25 km SW of Ackerly, Texas",
       "time": 1785838379070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pfllbf"
-    },
-    {
-      "id": "aka2026phwtod",
-      "lon": -151.019,
-      "lat": 62.967,
-      "depth": 126.8,
-      "mag": 2.6,
-      "place": "54 km NNW of Petersville, Alaska",
-      "time": 1785837671909,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026phwtod"
     }
   ]
 }
