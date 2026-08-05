@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T21:45:35Z",
-  "count": 228,
+  "updated": "2026-08-05T22:00:57Z",
+  "count": 230,
   "points": [
+    {
+      "id": "ci40666842",
+      "lon": -117.815833333333,
+      "lat": 35.3221666666667,
+      "depth": 7.07,
+      "mag": 0.91,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1785966777320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666842"
+    },
+    {
+      "id": "ci40666834",
+      "lon": -117.841333333333,
+      "lat": 36.0656666666667,
+      "depth": 2.61,
+      "mag": 0.98,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": 1785966444810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666834"
+    },
+    {
+      "id": "aka2026pkpolt",
+      "lon": -156.714,
+      "lat": 57.915,
+      "depth": 174.6,
+      "mag": 1.9,
+      "place": "51 km SE of Egegik, Alaska",
+      "time": 1785965067207,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pkpolt"
+    },
     {
       "id": "aka2026pkphio",
       "lon": -148.08,
@@ -32,6 +62,16 @@
       "place": "12 km ENE of Pāhala, Hawaii",
       "time": 1785963017580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75013512"
+    },
+    {
+      "id": "aka2026pkokil",
+      "lon": -156.804,
+      "lat": 54.714,
+      "depth": 20,
+      "mag": 2.8,
+      "place": "199 km SE of Perryville, Alaska",
+      "time": 1785962977444,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pkokil"
     },
     {
       "id": "ok2026pgfm",
@@ -2262,26 +2302,6 @@
       "place": "12 km ESE of Willits, CA",
       "time": 1785880869070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411417"
-    },
-    {
-      "id": "av94358798",
-      "lon": -155.892,
-      "lat": 57.6875,
-      "depth": 4.78,
-      "mag": 0.26,
-      "place": "86 km W of Karluk, Alaska",
-      "time": 1785880261340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94358798"
-    },
-    {
-      "id": "nc75411407",
-      "lon": -122.045501708984,
-      "lat": 37.9705009460449,
-      "depth": 15.039999961853,
-      "mag": 1.47,
-      "place": "3 km W of Concord, CA",
-      "time": 1785880004150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411407"
     }
   ]
 }
