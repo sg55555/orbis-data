@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T16:00:58Z",
-  "count": 208,
+  "updated": "2026-08-05T16:15:41Z",
+  "count": 210,
   "points": [
+    {
+      "id": "nc75411812",
+      "lon": -124.919998168945,
+      "lat": 40.3964996337891,
+      "depth": 1.70000004768372,
+      "mag": 2.8,
+      "place": "54 km W of Petrolia, CA",
+      "time": 1785945939100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411812"
+    },
     {
       "id": "hv75013392",
       "lon": -155.494003295898,
@@ -52,6 +62,16 @@
       "place": "42 km SSE of Nelchina, Alaska",
       "time": 1785942932940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pkdgpj"
+    },
+    {
+      "id": "aka2026pkdasc",
+      "lon": -149.839,
+      "lat": 56.145,
+      "depth": 5,
+      "mag": 2.7,
+      "place": "220 km SE of Chiniak, Alaska",
+      "time": 1785942720112,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pkdasc"
     },
     {
       "id": "tx2026phqsnb",
@@ -132,6 +152,16 @@
       "place": "9 km ENE of Coso Junction, CA",
       "time": 1785936579460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666522"
+    },
+    {
+      "id": "aka2026pjzhqy",
+      "lon": -151.606,
+      "lat": 61.311,
+      "depth": 83,
+      "mag": 1.5,
+      "place": "33 km WNW of Beluga, Alaska",
+      "time": 1785935876260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pjzhqy"
     },
     {
       "id": "aka2026pjzaug",
@@ -2072,16 +2102,6 @@
       "place": "5 km SE of Owasso, Oklahoma",
       "time": 1785860671039,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pebq"
-    },
-    {
-      "id": "us6000ti11",
-      "lon": -179.8831,
-      "lat": -23.8907,
-      "depth": 453.508,
-      "mag": 4.1,
-      "place": "south of the Fiji Islands",
-      "time": 1785859891956,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti11"
     }
   ]
 }
