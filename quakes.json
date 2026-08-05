@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T05:15:32Z",
-  "count": 221,
+  "updated": "2026-08-05T05:30:52Z",
+  "count": 217,
   "points": [
+    {
+      "id": "hv75013167",
+      "lon": -155.078994750977,
+      "lat": 19.3090000152588,
+      "depth": 37.7999992370605,
+      "mag": 2.37,
+      "place": "18 km SSE of Fern Forest, Hawaii",
+      "time": 1785907585890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75013167"
+    },
     {
       "id": "nc75411607",
       "lon": -124.357330322266,
@@ -315,12 +325,12 @@
     },
     {
       "id": "nc75411492",
-      "lon": -123.443168640137,
-      "lat": 40.0284996032715,
-      "depth": 7.51999998092651,
+      "lon": -123.4445,
+      "lat": 40.0265,
+      "depth": 7.87,
       "mag": 3.99,
       "place": "31 km NNW of Covelo, CA",
-      "time": 1785889525760,
+      "time": 1785889525780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411492"
     },
     {
@@ -2162,56 +2172,6 @@
       "place": "231 km ESE of Attu Station, Alaska",
       "time": 1785822258046,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026phoesr"
-    },
-    {
-      "id": "ci40665898",
-      "lon": -117.268333333333,
-      "lat": 34.0521666666667,
-      "depth": 15.04,
-      "mag": 0.78,
-      "place": "1 km WNW of Loma Linda, CA",
-      "time": 1785821174490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665898"
-    },
-    {
-      "id": "aka2026phnlug",
-      "lon": -144.806,
-      "lat": 65.333,
-      "depth": 5,
-      "mag": 1.2,
-      "place": "26 km S of Central, Alaska",
-      "time": 1785820947526,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026phnlug"
-    },
-    {
-      "id": "av94356983",
-      "lon": -178.834666666667,
-      "lat": 51.7881666666667,
-      "depth": 9.62,
-      "mag": 1.09,
-      "place": "151 km W of Adak, Alaska",
-      "time": 1785820829270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94356983"
-    },
-    {
-      "id": "ci40665890",
-      "lon": -116.1735,
-      "lat": 33.879,
-      "depth": 3.22,
-      "mag": 0.88,
-      "place": "18 km NNE of Indio, CA",
-      "time": 1785820752630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665890"
-    },
-    {
-      "id": "nc75411002",
-      "lon": -122.760330200195,
-      "lat": 38.7910003662109,
-      "depth": 1.35000002384186,
-      "mag": 1.28,
-      "place": "2 km NNW of The Geysers, CA",
-      "time": 1785820573830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411002"
     }
   ]
 }
