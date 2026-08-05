@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T08:30:48Z",
-  "count": 224,
+  "updated": "2026-08-05T08:45:42Z",
+  "count": 226,
   "points": [
+    {
+      "id": "nc75411677",
+      "lon": -122.813667297363,
+      "lat": 38.8296661376953,
+      "depth": 1.60000002384186,
+      "mag": 0.71,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1785919367890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411677"
+    },
+    {
+      "id": "nc75411672",
+      "lon": -123.100166320801,
+      "lat": 39.2413330078125,
+      "depth": 5.28999996185303,
+      "mag": 1.79,
+      "place": "9 km ESE of Redwood Valley, CA",
+      "time": 1785919269360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411672"
+    },
+    {
+      "id": "ci40666426",
+      "lon": -116.369666666667,
+      "lat": 33.3811666666667,
+      "depth": 2.33,
+      "mag": 0.89,
+      "place": "14 km N of Borrego Springs, CA",
+      "time": 1785919175040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666426"
+    },
     {
       "id": "tx2026phdrhp",
       "lon": -104.126,
@@ -522,6 +552,16 @@
       "place": "8 km ESE of Cloverdale, CA",
       "time": 1785896991750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411547"
+    },
+    {
+      "id": "tx2026pgrnwl",
+      "lon": -102.058,
+      "lat": 32.419,
+      "depth": 8.1543,
+      "mag": 0.3,
+      "place": "34 km WSW of Ackerly, Texas",
+      "time": 1785896483071,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pgrnwl"
     },
     {
       "id": "nc75411537",
@@ -2222,26 +2262,6 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1785833380730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665922"
-    },
-    {
-      "id": "pr2026216000",
-      "lon": -68.2045,
-      "lat": 19.5315,
-      "depth": 77,
-      "mag": 3.65,
-      "place": "107 km NNE of Punta Cana, Dominican Republic",
-      "time": 1785832872920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026216000"
-    },
-    {
-      "id": "se60626191",
-      "lon": -84.4911666666667,
-      "lat": 35.2518333333333,
-      "depth": 16.22,
-      "mag": 1.99,
-      "place": "8 km SSE of Etowah, Tennessee",
-      "time": 1785832703500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60626191"
     }
   ]
 }
