@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T20:45:36Z",
+  "updated": "2026-08-05T21:01:10Z",
   "count": 227,
   "points": [
     {
+      "id": "hv75013512",
+      "lon": -155.367492675781,
+      "lat": 19.2446670532227,
+      "depth": 31.6399993896484,
+      "mag": 1.86,
+      "place": "12 km ENE of Pāhala, Hawaii",
+      "time": 1785963017580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75013512"
+    },
+    {
       "id": "ok2026pgfm",
-      "lon": -97.21018219,
-      "lat": 34.49238586,
-      "depth": 4.543208122,
-      "mag": 2.11,
+      "lon": -97.20966667,
+      "lat": 34.50716667,
+      "depth": 0,
+      "mag": 1.53,
       "place": "8 km W of Davis, Oklahoma",
-      "time": 1785962270231,
+      "time": 1785962269789,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pgfm"
     },
     {
@@ -2262,16 +2272,6 @@
       "place": "1 km ESE of Pinnacles, CA",
       "time": 1785877644520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411392"
-    },
-    {
-      "id": "nc75411387",
-      "lon": -122.025001525879,
-      "lat": 39.5921669006348,
-      "depth": 22.2999992370605,
-      "mag": 2.59,
-      "place": "16 km ENE of Willows, CA",
-      "time": 1785876851060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411387"
     }
   ]
 }
