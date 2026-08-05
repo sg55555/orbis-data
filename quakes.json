@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T19:00:55Z",
+  "updated": "2026-08-05T19:15:42Z",
   "count": 221,
   "points": [
+    {
+      "id": "ok2026pgck",
+      "lon": -97.91716667,
+      "lat": 35.09116667,
+      "depth": 9.4,
+      "mag": 0.54,
+      "place": "4 km NNE of Chickasha, Oklahoma",
+      "time": 1785956652169,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pgck"
+    },
     {
       "id": "ci40666738",
       "lon": -118.184,
@@ -1624,6 +1634,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147091"
     },
     {
+      "id": "av94359078",
+      "lon": -178.828666666667,
+      "lat": 51.7861666666667,
+      "depth": 12.09,
+      "mag": 0.6,
+      "place": "151 km W of Adak, Alaska",
+      "time": 1785892280970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94359078"
+    },
+    {
       "id": "nc75411507",
       "lon": -123.447166442871,
       "lat": 40.0221672058105,
@@ -2192,26 +2212,6 @@
       "place": "3 km SSW of Pāhala, Hawaii",
       "time": 1785871624960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012922"
-    },
-    {
-      "id": "tx2026pgdizf",
-      "lon": -103.898,
-      "lat": 31.964,
-      "depth": 7.6379,
-      "mag": 1,
-      "place": "33 km SSE of Malaga, New Mexico",
-      "time": 1785870792106,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pgdizf"
-    },
-    {
-      "id": "ci40666226",
-      "lon": -116.978666666667,
-      "lat": 33.9811666666667,
-      "depth": 14.34,
-      "mag": 1.2,
-      "place": "6 km N of Beaumont, CA",
-      "time": 1785870237490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666226"
     }
   ]
 }
