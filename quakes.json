@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T17:30:51Z",
-  "count": 214,
+  "updated": "2026-08-05T17:45:34Z",
+  "count": 212,
   "points": [
     {
       "id": "nc75411847",
@@ -54,13 +54,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tics"
     },
     {
+      "id": "ci40666642",
+      "lon": -117.785333333333,
+      "lat": 35.3191666666667,
+      "depth": 3.66,
+      "mag": 2.67,
+      "place": "15 km WSW of Johannesburg, CA",
+      "time": 1785948403560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666642"
+    },
+    {
       "id": "ci40666618",
-      "lon": -117.8015,
-      "lat": 34.1091666666667,
-      "depth": 2.75,
+      "lon": -117.797666666667,
+      "lat": 34.112,
+      "depth": 2.54,
       "mag": 1.17,
-      "place": "1 km ENE of San Dimas, CA",
-      "time": 1785947800910,
+      "place": "1 km NE of San Dimas, CA",
+      "time": 1785947800890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666618"
     },
     {
@@ -85,12 +95,12 @@
     },
     {
       "id": "tx2026phtgpu",
-      "lon": -103.534,
-      "lat": 31.199,
-      "depth": 4.9611,
+      "lon": -103.535,
+      "lat": 31.255,
+      "depth": 5.6256,
       "mag": 1.6,
-      "place": "18 km S of Lindsay, Texas",
-      "time": 1785946679333,
+      "place": "12 km S of Lindsay, Texas",
+      "time": 1785946679003,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026phtgpu"
     },
     {
@@ -1254,6 +1264,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti6f"
     },
     {
+      "id": "uw714071771",
+      "lon": -122.274333333333,
+      "lat": 46.3985,
+      "depth": 17.45,
+      "mag": 0.89,
+      "place": "17 km S of Morton, Washington",
+      "time": 1785899660530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714071771"
+    },
+    {
       "id": "uu80147106",
       "lon": -113.324166666667,
       "lat": 37.5676666666667,
@@ -2102,46 +2122,6 @@
       "place": "15 km E of Coso Junction, CA",
       "time": 1785865758070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666170"
-    },
-    {
-      "id": "nc75411247",
-      "lon": -123.230667114258,
-      "lat": 39.3455009460449,
-      "depth": 5.32000017166138,
-      "mag": 2.02,
-      "place": "9 km NNW of Redwood Valley, CA",
-      "time": 1785865420900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411247"
-    },
-    {
-      "id": "tx2026pgafjt",
-      "lon": -101.538,
-      "lat": 32.337,
-      "depth": 3.9795,
-      "mag": 0.7,
-      "place": "11 km NNW of Big Spring, Texas",
-      "time": 1785865111800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pgafjt"
-    },
-    {
-      "id": "aka2026pilwel",
-      "lon": -151.198,
-      "lat": 62.43,
-      "depth": 83.8,
-      "mag": 1.9,
-      "place": "23 km WSW of Petersville, Alaska",
-      "time": 1785864847211,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pilwel"
-    },
-    {
-      "id": "us6000ti1d",
-      "lon": 128.3355,
-      "lat": -7.6019,
-      "depth": 189.24,
-      "mag": 4.1,
-      "place": "179 km NE of Lospalos, Timor Leste",
-      "time": 1785864651782,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti1d"
     }
   ]
 }
