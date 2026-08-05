@@ -1,16 +1,56 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T04:30:41Z",
-  "count": 219,
+  "updated": "2026-08-05T04:45:41Z",
+  "count": 221,
   "points": [
     {
+      "id": "nc75411592",
+      "lon": -122.794830322266,
+      "lat": 38.8276672363281,
+      "depth": 2.20000004768372,
+      "mag": 0.92,
+      "place": "6 km W of Cobb, CA",
+      "time": 1785904538210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411592"
+    },
+    {
+      "id": "nc75411587",
+      "lon": -122.814666748047,
+      "lat": 38.8346672058105,
+      "depth": 1.83000004291534,
+      "mag": 1.77,
+      "place": "8 km W of Cobb, CA",
+      "time": 1785904518510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411587"
+    },
+    {
+      "id": "us6000ti71",
+      "lon": 125.412,
+      "lat": 5.1275,
+      "depth": 35,
+      "mag": 5.2,
+      "place": "31 km S of Sarangani, Philippines",
+      "time": 1785903904586,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti71"
+    },
+    {
+      "id": "us6000ti6z",
+      "lon": -82.4726,
+      "lat": 5.8882,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "238 km SSW of Río Grande, Panama",
+      "time": 1785903561769,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti6z"
+    },
+    {
       "id": "tx2026pgvjqb",
-      "lon": -104.393,
-      "lat": 31.623,
-      "depth": 4.3882,
+      "lon": -104.379,
+      "lat": 31.644,
+      "depth": 6.0999,
       "mag": 2.5,
-      "place": "61 km S of Whites City, New Mexico",
-      "time": 1785903424012,
+      "place": "58 km S of Whites City, New Mexico",
+      "time": 1785903424073,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pgvjqb"
     },
     {
@@ -2172,26 +2212,6 @@
       "place": "227 km SSE of Shimoda, Japan",
       "time": 1785818790063,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thxt"
-    },
-    {
-      "id": "aka2026phlvgg",
-      "lon": 176.203,
-      "lat": 51.893,
-      "depth": 5,
-      "mag": 3.8,
-      "place": "231 km ESE of Attu Station, Alaska",
-      "time": 1785818003491,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026phlvgg"
-    },
-    {
-      "id": "aka2026phlttt",
-      "lon": -148.209,
-      "lat": 65.997,
-      "depth": 11.5,
-      "mag": 1.4,
-      "place": "40 km E of Stevens Village, Alaska",
-      "time": 1785817901780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026phlttt"
     }
   ]
 }
