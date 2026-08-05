@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T03:01:00Z",
-  "count": 222,
+  "updated": "2026-08-05T03:15:38Z",
+  "count": 223,
   "points": [
+    {
+      "id": "ci40666354",
+      "lon": -117.468,
+      "lat": 34.1591666666667,
+      "depth": 6.99,
+      "mag": 1.14,
+      "place": "7 km N of Fontana, CA",
+      "time": 1785899334460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666354"
+    },
     {
       "id": "ci40666346",
       "lon": -117.526,
@@ -22,6 +32,16 @@
       "place": "7 km WNW of The Geysers, CA",
       "time": 1785898479260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411557"
+    },
+    {
+      "id": "us6000ti6d",
+      "lon": 156.568,
+      "lat": 50.4973,
+      "depth": 73.257,
+      "mag": 4.6,
+      "place": "36 km ESE of Severo-Kuril’sk, Russia",
+      "time": 1785898015420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti6d"
     },
     {
       "id": "nn00922828",
@@ -2212,16 +2232,6 @@
       "place": "south of the Fiji Islands",
       "time": 1785813632801,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thx7"
-    },
-    {
-      "id": "nc75410962",
-      "lon": -122.808334350586,
-      "lat": 38.8028335571289,
-      "depth": 5.53999996185303,
-      "mag": 0.3,
-      "place": "5 km WNW of The Geysers, CA",
-      "time": 1785812513870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410962"
     }
   ]
 }
