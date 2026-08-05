@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T20:30:52Z",
+  "updated": "2026-08-05T20:37:44Z",
   "count": 226,
   "points": [
+    {
+      "id": "nc75412022",
+      "lon": -122.759002685547,
+      "lat": 38.7851676940918,
+      "depth": 2.16000008583069,
+      "mag": 1.05,
+      "place": "1 km NNW of The Geysers, CA",
+      "time": 1785961787890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412022"
+    },
     {
       "id": "nc75412012",
       "lon": -122.757835388184,
@@ -1072,6 +1082,16 @@
       "place": "42 km NW of Toyah, Texas",
       "time": 1785918440535,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026phdrhp"
+    },
+    {
+      "id": "nn00922869",
+      "lon": -117.7498,
+      "lat": 38.186,
+      "depth": 9.5483,
+      "mag": 1.58,
+      "place": "38 km SE of Mina, Nevada",
+      "time": 1785918178116,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922869"
     },
     {
       "id": "hv75013237",
@@ -2242,26 +2262,6 @@
       "place": "16 km ENE of Willows, CA",
       "time": 1785876851060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411387"
-    },
-    {
-      "id": "av94358653",
-      "lon": -178.8985,
-      "lat": 51.7736666666667,
-      "depth": 4.62,
-      "mag": 0.98,
-      "place": "156 km W of Adak, Alaska",
-      "time": 1785875658390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94358653"
-    },
-    {
-      "id": "aka2026pirwfg",
-      "lon": -176.141,
-      "lat": 51.387,
-      "depth": 32.1,
-      "mag": 1.9,
-      "place": "64 km SSE of Adak, Alaska",
-      "time": 1785875647022,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pirwfg"
     }
   ]
 }
