@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T07:20:37Z",
-  "count": 217,
+  "updated": "2026-08-05T07:30:48Z",
+  "count": 219,
   "points": [
+    {
+      "id": "hv75013202",
+      "lon": -155.405502319336,
+      "lat": 18.9734992980957,
+      "depth": 47.4000015258789,
+      "mag": 1.92,
+      "place": "21 km ESE of Naalehu, Hawaii",
+      "time": 1785914748400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75013202"
+    },
     {
       "id": "nc75411652",
       "lon": -122.759498596191,
@@ -102,6 +112,16 @@
       "place": "46 km SSW of Sarangani, Philippines",
       "time": 1785909561637,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti80"
+    },
+    {
+      "id": "us6000ti7y",
+      "lon": 126.1378,
+      "lat": 5.0554,
+      "depth": 35,
+      "mag": 4.6,
+      "place": "84 km ESE of Sarangani, Philippines",
+      "time": 1785909234201,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti7y"
     },
     {
       "id": "nn00922853",
@@ -1704,6 +1724,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94357663"
     },
     {
+      "id": "tx2026pfmqje",
+      "lon": -103.473,
+      "lat": 31.09,
+      "depth": 2.6648,
+      "mag": 2,
+      "place": "28 km ENE of Balmorhea, Texas",
+      "time": 1785840727804,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pfmqje"
+    },
+    {
       "id": "tx2026pfmcno",
       "lon": -103.817,
       "lat": 32.007,
@@ -2162,16 +2192,6 @@
       "place": "67 km WNW of Beluga, Alaska",
       "time": 1785829297260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94357258"
-    },
-    {
-      "id": "nc75411042",
-      "lon": -122.949165344238,
-      "lat": 38.7731666564941,
-      "depth": 5.3600001335144,
-      "mag": 1.31,
-      "place": "7 km ESE of Cloverdale, CA",
-      "time": 1785828340640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411042"
     }
   ]
 }
