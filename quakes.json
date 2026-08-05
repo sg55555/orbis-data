@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T21:01:10Z",
-  "count": 227,
+  "updated": "2026-08-05T21:15:42Z",
+  "count": 226,
   "points": [
+    {
+      "id": "ci40666826",
+      "lon": -117.777333333333,
+      "lat": 36.0196666666667,
+      "depth": 1.56,
+      "mag": 1.03,
+      "place": "15 km NE of Little Lake, CA",
+      "time": 1785963727300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666826"
+    },
     {
       "id": "hv75013512",
       "lon": -155.367492675781,
@@ -65,12 +75,12 @@
     },
     {
       "id": "ci40666802",
-      "lon": -117.804833333333,
-      "lat": 35.317,
+      "lon": -117.806,
+      "lat": 35.3156666666667,
       "depth": 7.2,
       "mag": 1.4,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1785960450110,
+      "time": 1785960450130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666802"
     },
     {
@@ -2252,26 +2262,6 @@
       "place": "7 km ESE of Cloverdale, CA",
       "time": 1785878253520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411397"
-    },
-    {
-      "id": "us6000ti4p",
-      "lon": 142.3011,
-      "lat": 40.57,
-      "depth": 43.47,
-      "mag": 4.4,
-      "place": "62 km NE of Kuji, Japan",
-      "time": 1785877734570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti4p"
-    },
-    {
-      "id": "nc75411392",
-      "lon": -121.13500213623,
-      "lat": 36.5288314819336,
-      "depth": 1.30999994277954,
-      "mag": 1.67,
-      "place": "1 km ESE of Pinnacles, CA",
-      "time": 1785877644520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411392"
     }
   ]
 }
