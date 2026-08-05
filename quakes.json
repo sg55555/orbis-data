@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T22:00:57Z",
+  "updated": "2026-08-05T22:15:50Z",
   "count": 230,
   "points": [
+    {
+      "id": "nc75412137",
+      "lon": -122.764335632324,
+      "lat": 38.8025016784668,
+      "depth": 4.07000017166138,
+      "mag": 0.72,
+      "place": "3 km NNW of The Geysers, CA",
+      "time": 1785967348940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412137"
+    },
     {
       "id": "ci40666842",
       "lon": -117.815833333333,
@@ -22,6 +32,16 @@
       "place": "10 km ENE of Coso Junction, CA",
       "time": 1785966444810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666834"
+    },
+    {
+      "id": "us6000tif5",
+      "lon": 125.2809,
+      "lat": 5.1757,
+      "depth": 10,
+      "mag": 5.9,
+      "place": "32 km SW of Sarangani, Philippines",
+      "time": 1785966088262,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tif5"
     },
     {
       "id": "aka2026pkpolt",
@@ -52,6 +72,16 @@
       "place": "15 km NE of Little Lake, CA",
       "time": 1785963727300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666826"
+    },
+    {
+      "id": "us6000tiex",
+      "lon": -176.1885,
+      "lat": -21.5171,
+      "depth": 137.247,
+      "mag": 4.6,
+      "place": "99 km WSW of Houma, Tonga",
+      "time": 1785963578899,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiex"
     },
     {
       "id": "hv75013512",
@@ -2272,36 +2302,6 @@
       "place": "40 km NW of Mentasta Lake, Alaska",
       "time": 1785882019446,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pivkin"
-    },
-    {
-      "id": "nc75411427",
-      "lon": -120.766830444336,
-      "lat": 36.1853332519531,
-      "depth": 6.40999984741211,
-      "mag": 1.99,
-      "place": "22 km NE of San Ardo, CA",
-      "time": 1785881055090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411427"
-    },
-    {
-      "id": "hv75012977",
-      "lon": -155.010330200195,
-      "lat": 19.2156658172607,
-      "depth": 34.8699989318848,
-      "mag": 1.83,
-      "place": "29 km SSW of Leilani Estates, Hawaii",
-      "time": 1785880883130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012977"
-    },
-    {
-      "id": "nc75411417",
-      "lon": -123.228996276855,
-      "lat": 39.3699989318848,
-      "depth": 6.92999982833862,
-      "mag": 1.77,
-      "place": "12 km ESE of Willits, CA",
-      "time": 1785880869070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411417"
     }
   ]
 }
