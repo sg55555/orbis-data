@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T07:01:07Z",
-  "count": 219,
+  "updated": "2026-08-05T07:15:36Z",
+  "count": 218,
   "points": [
+    {
+      "id": "nc75411652",
+      "lon": -122.759498596191,
+      "lat": 38.7944984436035,
+      "depth": 0.759999990463257,
+      "mag": 1.07,
+      "place": "2 km N of The Geysers, CA",
+      "time": 1785913803500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411652"
+    },
     {
       "id": "nc75411647",
       "lon": -122.942337036133,
@@ -42,6 +52,16 @@
       "place": "3 km SSW of Anderson Springs, CA",
       "time": 1785912304900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411637"
+    },
+    {
+      "id": "us6000ti85",
+      "lon": 164.0845,
+      "lat": -49.5336,
+      "depth": 21.906,
+      "mag": 5.2,
+      "place": "Auckland Islands, New Zealand region",
+      "time": 1785912264701,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti85"
     },
     {
       "id": "nc75411632",
@@ -2162,36 +2182,6 @@
       "place": "62 km SSW of McCarthy, Alaska",
       "time": 1785827881659,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026phrhzm"
-    },
-    {
-      "id": "us6000thym",
-      "lon": -93.3796,
-      "lat": 14.3215,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "112 km WSW of Puerto Madero, Mexico",
-      "time": 1785827228745,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thym"
-    },
-    {
-      "id": "aka2026phqxpm",
-      "lon": -146.49,
-      "lat": 61.677,
-      "depth": 32.3,
-      "mag": 1.4,
-      "place": "38 km SSE of Nelchina, Alaska",
-      "time": 1785827162864,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026phqxpm"
-    },
-    {
-      "id": "nc75411037",
-      "lon": -122.946830749512,
-      "lat": 38.771167755127,
-      "depth": 3.29999995231628,
-      "mag": 1.04,
-      "place": "7 km ESE of Cloverdale, CA",
-      "time": 1785827122260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411037"
     }
   ]
 }
