@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T13:01:10Z",
-  "count": 218,
+  "updated": "2026-08-05T13:15:39Z",
+  "count": 220,
   "points": [
     {
       "id": "ci40666514",
@@ -865,12 +865,12 @@
     },
     {
       "id": "uu80147111",
-      "lon": -113.325164794922,
-      "lat": 37.5703315734863,
-      "depth": -3,
+      "lon": -113.324666666667,
+      "lat": 37.5683333333333,
+      "depth": 11.04,
       "mag": 2.78,
-      "place": "10 km N of New Harmony, Utah",
-      "time": 1785900076100,
+      "place": "9 km N of New Harmony, Utah",
+      "time": 1785900076570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147111"
     },
     {
@@ -1014,6 +1014,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pjbxfh"
     },
     {
+      "id": "uu80147091",
+      "lon": -111.2075,
+      "lat": 39.2938333333333,
+      "depth": -2.31,
+      "mag": 1.21,
+      "place": "15 km WNW of Orangeville, Utah",
+      "time": 1785892674000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147091"
+    },
+    {
       "id": "nc75411507",
       "lon": -123.447166442871,
       "lat": 40.0221672058105,
@@ -1042,6 +1052,16 @@
       "place": "7 km SE of Cloverdale, CA",
       "time": 1785890929040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411497"
+    },
+    {
+      "id": "uu80147086",
+      "lon": -112.581333333333,
+      "lat": 41.9171666666667,
+      "depth": 5.74,
+      "mag": 0.52,
+      "place": "11 km ESE of Snowville, Utah",
+      "time": 1785890850620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147086"
     },
     {
       "id": "aka2026pizsvc",
@@ -1282,6 +1302,16 @@
       "place": "8 km ESE of Cloverdale, CA",
       "time": 1785883263580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411442"
+    },
+    {
+      "id": "ok2026penz",
+      "lon": -96.654,
+      "lat": 35.79866667,
+      "depth": 7.59,
+      "mag": 1.11,
+      "place": "5 km N of Stroud, Oklahoma",
+      "time": 1785883133590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026penz"
     },
     {
       "id": "av94358888",
@@ -2172,16 +2202,6 @@
       "place": "10 km ESE of Gilroy, CA",
       "time": 1785849345920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411112"
-    },
-    {
-      "id": "hv75012797",
-      "lon": -155.59733581543,
-      "lat": 19.4396667480469,
-      "depth": 40.0299987792969,
-      "mag": 1.74,
-      "place": "28 km E of Honaunau-Napoopoo, Hawaii",
-      "time": 1785848913420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012797"
     }
   ]
 }
