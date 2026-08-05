@@ -1,16 +1,16 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T10:13:24Z",
+  "updated": "2026-08-05T10:15:31Z",
   "count": 210,
   "points": [
     {
       "id": "ci40666450",
-      "lon": -118.60066986084,
-      "lat": 35.1138343811035,
-      "depth": 6.51000022888184,
-      "mag": 1.56802246639912,
+      "lon": -118.6005,
+      "lat": 35.1155,
+      "depth": 6.1,
+      "mag": 1.24,
       "place": "14 km W of Tehachapi, CA",
-      "time": 1785924540870,
+      "time": 1785924540830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666450"
     },
     {
@@ -62,6 +62,16 @@
       "place": "60 km ENE of Port Alsworth, Alaska",
       "time": 1785922383827,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pjrvqu"
+    },
+    {
+      "id": "pr71527613",
+      "lon": -65.1036666666667,
+      "lat": 18.8836666666667,
+      "depth": 48.24,
+      "mag": 3.34,
+      "place": "62 km NNW of Charlotte Amalie, U.S. Virgin Islands",
+      "time": 1785921505540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527613"
     },
     {
       "id": "us6000ti9k",
@@ -2092,16 +2102,6 @@
       "place": "30 km N of Amboy, Washington",
       "time": 1785838524920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714071001"
-    },
-    {
-      "id": "tx2026pfllbf",
-      "lon": -101.905,
-      "lat": 32.356,
-      "depth": 7.2021,
-      "mag": 0.5,
-      "place": "25 km SW of Ackerly, Texas",
-      "time": 1785838379070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pfllbf"
     }
   ]
 }
