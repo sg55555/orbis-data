@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T14:46:28Z",
-  "count": 211,
+  "updated": "2026-08-05T14:59:24Z",
+  "count": 206,
   "points": [
     {
+      "id": "ci40666562",
+      "lon": -117.575666666667,
+      "lat": 34.2035,
+      "depth": 7.8,
+      "mag": 0.9,
+      "place": "9 km N of Rancho Cucamonga, CA",
+      "time": 1785941284570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666562"
+    },
+    {
       "id": "ok2026pftn",
-      "lon": -97.69895172,
-      "lat": 36.01860809,
-      "depth": 11.82020569,
-      "mag": 1.51,
-      "place": "11 km NW of Crescent, Oklahoma",
-      "time": 1785940499748,
+      "lon": -97.77733333,
+      "lat": 35.95083333,
+      "depth": 6.83,
+      "mag": 1.5,
+      "place": "12 km ESE of Dover, Oklahoma",
+      "time": 1785940499179,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pftn"
     },
     {
@@ -2052,66 +2062,6 @@
       "place": "14 km ESE of Pearsall, Texas",
       "time": 1785855589077,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pfuyqr"
-    },
-    {
-      "id": "hv75012857",
-      "lon": -155.416833333333,
-      "lat": 19.0781666666667,
-      "depth": 40.58,
-      "mag": 1.89,
-      "place": "15 km SSE of Pāhala, Hawaii",
-      "time": 1785855509090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012857"
-    },
-    {
-      "id": "us6000ti0n",
-      "lon": -173.5526,
-      "lat": 51.5653,
-      "depth": 31.514,
-      "mag": 4.3,
-      "place": "83 km SSE of Atka, Alaska",
-      "time": 1785855445233,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti0n"
-    },
-    {
-      "id": "us6000ti0r",
-      "lon": -175.2303,
-      "lat": -24.6061,
-      "depth": 10,
-      "mag": 5.1,
-      "place": "south of Tonga",
-      "time": 1785855374381,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti0r"
-    },
-    {
-      "id": "pr2026216003",
-      "lon": -64.1143,
-      "lat": 18.8206,
-      "depth": 108,
-      "mag": 3.82,
-      "place": "89 km NE of Cruz Bay, U.S. Virgin Islands",
-      "time": 1785855107350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026216003"
-    },
-    {
-      "id": "tx2026pfurqq",
-      "lon": -104.489,
-      "lat": 31.69,
-      "depth": 4.8743,
-      "mag": -0.8,
-      "place": "54 km S of Whites City, New Mexico",
-      "time": 1785855105314,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pfurqq"
-    },
-    {
-      "id": "hv75012837",
-      "lon": -155.393,
-      "lat": 19.0346666666667,
-      "depth": 44.04,
-      "mag": 1.96,
-      "place": "20 km E of Naalehu, Hawaii",
-      "time": 1785854996000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012837"
     }
   ]
 }
