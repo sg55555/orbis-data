@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T02:45:31Z",
-  "count": 221,
+  "updated": "2026-08-05T03:01:00Z",
+  "count": 222,
   "points": [
+    {
+      "id": "ci40666346",
+      "lon": -117.526,
+      "lat": 35.6753333333333,
+      "depth": 4.89,
+      "mag": 0.66,
+      "place": "15 km ENE of Ridgecrest, CA",
+      "time": 1785898571570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666346"
+    },
+    {
+      "id": "nc75411557",
+      "lon": -122.822334289551,
+      "lat": 38.8064994812012,
+      "depth": 3.25999999046326,
+      "mag": 0.75,
+      "place": "7 km WNW of The Geysers, CA",
+      "time": 1785898479260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411557"
+    },
     {
       "id": "nn00922828",
       "lon": -115.6442,
@@ -2202,16 +2222,6 @@
       "place": "5 km WNW of The Geysers, CA",
       "time": 1785812513870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410962"
-    },
-    {
-      "id": "us6000thx2",
-      "lon": -128.2774,
-      "lat": 43.9665,
-      "depth": 10,
-      "mag": 4,
-      "place": "off the coast of Oregon",
-      "time": 1785811577005,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thx2"
     }
   ]
 }
