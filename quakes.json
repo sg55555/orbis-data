@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T01:45:39Z",
-  "count": 226,
+  "updated": "2026-08-05T02:01:00Z",
+  "count": 228,
   "points": [
     {
+      "id": "nc75411522",
+      "lon": -122.297332763672,
+      "lat": 38.5078315734863,
+      "depth": 5.09000015258789,
+      "mag": 1.03,
+      "place": "13 km NNE of Yountville, CA",
+      "time": 1785894650870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411522"
+    },
+    {
       "id": "nn00922819",
-      "lon": -119.0295,
-      "lat": 39.1684,
-      "depth": 9.0866,
-      "mag": 3.13,
-      "place": "23 km NNE of Yerington, Nevada",
-      "time": 1785893760257,
+      "lon": -119.0366,
+      "lat": 39.1661,
+      "depth": 8.4172,
+      "mag": 3.24,
+      "place": "22 km NNE of Yerington, Nevada",
+      "time": 1785893760877,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922819"
     },
     {
@@ -22,6 +32,16 @@
       "place": "31 km NNW of Covelo, CA",
       "time": 1785892182930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411507"
+    },
+    {
+      "id": "pr2026217000",
+      "lon": -64.7715,
+      "lat": 19.5603,
+      "depth": 30,
+      "mag": 3.67,
+      "place": "135 km N of Charlotte Amalie, U.S. Virgin Islands",
+      "time": 1785891835990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026217000"
     },
     {
       "id": "nc75411497",
@@ -144,6 +164,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666314"
     },
     {
+      "id": "us6000ti5m",
+      "lon": -26.7928,
+      "lat": -55.7454,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "South Sandwich Islands region",
+      "time": 1785884880747,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti5m"
+    },
+    {
       "id": "pr71527578",
       "lon": -66.9133333333333,
       "lat": 17.9563333333333,
@@ -262,6 +292,16 @@
       "place": "12 km ESE of Willits, CA",
       "time": 1785880869070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411417"
+    },
+    {
+      "id": "av94358798",
+      "lon": -155.892,
+      "lat": 57.6875,
+      "depth": 4.78,
+      "mag": 0.26,
+      "place": "86 km W of Karluk, Alaska",
+      "time": 1785880261340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94358798"
     },
     {
       "id": "nc75411407",
@@ -2242,26 +2282,6 @@
       "place": "23 km W of Salamatof, Alaska",
       "time": 1785808834894,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026phgsbi"
-    },
-    {
-      "id": "nc75410937",
-      "lon": -122.842666625977,
-      "lat": 38.8211669921875,
-      "depth": 2.46000003814697,
-      "mag": 1.07,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": 1785808550700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410937"
-    },
-    {
-      "id": "hv75012507",
-      "lon": -155.345001220703,
-      "lat": 19.8325004577637,
-      "depth": 27.4799995422363,
-      "mag": 2,
-      "place": "20 km SSW of Laupāhoehoe, Hawaii",
-      "time": 1785808121860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012507"
     }
   ]
 }
