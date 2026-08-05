@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T05:30:52Z",
-  "count": 217,
+  "updated": "2026-08-05T05:45:35Z",
+  "count": 219,
   "points": [
+    {
+      "id": "nc75411617",
+      "lon": -122.756164550781,
+      "lat": 38.779167175293,
+      "depth": 0.910000026226044,
+      "mag": 0.82,
+      "place": "0 km N of The Geysers, CA",
+      "time": 1785908289010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411617"
+    },
+    {
+      "id": "nc75411612",
+      "lon": -122.720832824707,
+      "lat": 38.7986679077148,
+      "depth": 2.80999994277954,
+      "mag": 1.04,
+      "place": "3 km S of Cobb, CA",
+      "time": 1785908067690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411612"
+    },
     {
       "id": "hv75013167",
       "lon": -155.078994750977,
@@ -12,6 +32,16 @@
       "place": "18 km SSE of Fern Forest, Hawaii",
       "time": 1785907585890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75013167"
+    },
+    {
+      "id": "us6000ti7t",
+      "lon": 125.1979,
+      "lat": 5.0859,
+      "depth": 29.668,
+      "mag": 4.9,
+      "place": "45 km SW of Sarangani, Philippines",
+      "time": 1785906784282,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti7t"
     },
     {
       "id": "nc75411607",
@@ -2162,16 +2192,6 @@
       "place": "85 km N of Cruz Bay, U.S. Virgin Islands",
       "time": 1785822516030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026216001"
-    },
-    {
-      "id": "aka2026phoesr",
-      "lon": 176.395,
-      "lat": 52.153,
-      "depth": 5,
-      "mag": 3.6,
-      "place": "231 km ESE of Attu Station, Alaska",
-      "time": 1785822258046,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026phoesr"
     }
   ]
 }
