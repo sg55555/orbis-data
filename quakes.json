@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T00:00:59Z",
+  "updated": "2026-08-05T00:15:41Z",
   "count": 227,
   "points": [
+    {
+      "id": "nc75411482",
+      "lon": -122.835334777832,
+      "lat": 38.837833404541,
+      "depth": 1.6599999666214,
+      "mag": 0.71,
+      "place": "10 km NW of The Geysers, CA",
+      "time": 1785888740050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411482"
+    },
     {
       "id": "tx2026pgmnlq",
       "lon": -104.291,
       "lat": 31.633,
-      "depth": 4.7145,
+      "depth": 4.7199,
       "mag": 1.8,
       "place": "59 km NW of Toyah, Texas",
-      "time": 1785887528943,
+      "time": 1785887528941,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pgmnlq"
     },
     {
@@ -925,12 +935,12 @@
     },
     {
       "id": "hv75012802",
-      "lon": -155.68766784668,
-      "lat": 19.5396671295166,
-      "depth": -3.36999988555908,
-      "mag": 1.98,
-      "place": "20 km ENE of Honaunau-Napoopoo, Hawaii",
-      "time": 1785849488330,
+      "lon": -155.675166666667,
+      "lat": 19.543,
+      "depth": -3.37,
+      "mag": 1.81,
+      "place": "22 km ENE of Honaunau-Napoopoo, Hawaii",
+      "time": 1785849488390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012802"
     },
     {
@@ -1364,6 +1374,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411077"
     },
     {
+      "id": "av94357483",
+      "lon": -177.9095,
+      "lat": 51.8608333333333,
+      "depth": 4.91,
+      "mag": 1.14,
+      "place": "87 km W of Adak, Alaska",
+      "time": 1785834433400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94357483"
+    },
+    {
       "id": "ci40665938",
       "lon": -118.361,
       "lat": 33.9795,
@@ -1442,6 +1462,16 @@
       "place": "8 km SSE of Etowah, Tennessee",
       "time": 1785832703500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60626191"
+    },
+    {
+      "id": "av93065339",
+      "lon": -168.175166666667,
+      "lat": 53.3911666666667,
+      "depth": 0.45,
+      "mag": 0.32,
+      "place": "68 km NE of Nikolski, Alaska",
+      "time": 1785830819500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065339"
     },
     {
       "id": "aka2026phsyki",
@@ -2242,36 +2272,6 @@
       "place": "0 km SSW of Guánica, Puerto Rico",
       "time": 1785802675050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527373"
-    },
-    {
-      "id": "ok2026pcvr",
-      "lon": -97.908,
-      "lat": 35.0425,
-      "depth": 8.66,
-      "mag": 1.44,
-      "place": "2 km ESE of Chickasha, Oklahoma",
-      "time": 1785802528030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pcvr"
-    },
-    {
-      "id": "nc75410907",
-      "lon": -122.935836791992,
-      "lat": 38.7755012512207,
-      "depth": 3.08999991416931,
-      "mag": 1.14,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1785802432440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410907"
-    },
-    {
-      "id": "tx2026perdvs",
-      "lon": -101.05,
-      "lat": 32.162,
-      "depth": 5.0049,
-      "mag": 1.1,
-      "place": "21 km S of Westbrook, Texas",
-      "time": 1785801642456,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026perdvs"
     }
   ]
 }
