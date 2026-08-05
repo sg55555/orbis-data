@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-05T00:15:41Z",
-  "count": 227,
+  "updated": "2026-08-05T00:30:46Z",
+  "count": 229,
   "points": [
+    {
+      "id": "tx2026pgntqo",
+      "lon": -101.926,
+      "lat": 32.114,
+      "depth": 3.9234,
+      "mag": 1.4,
+      "place": "13 km W of Stanton, Texas",
+      "time": 1785889646575,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pgntqo"
+    },
+    {
+      "id": "nc75411492",
+      "lon": -123.443168640137,
+      "lat": 40.0284996032715,
+      "depth": 7.51999998092651,
+      "mag": 4.08,
+      "place": "31 km NNW of Covelo, CA",
+      "time": 1785889525760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411492"
+    },
     {
       "id": "nc75411482",
       "lon": -122.835334777832,
@@ -12,6 +32,16 @@
       "place": "10 km NW of The Geysers, CA",
       "time": 1785888740050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411482"
+    },
+    {
+      "id": "us6000ti5u",
+      "lon": 94.6636,
+      "lat": 21.8772,
+      "depth": 102.279,
+      "mag": 4.8,
+      "place": "55 km WSW of Monywa, Burma (Myanmar)",
+      "time": 1785888717902,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti5u"
     },
     {
       "id": "tx2026pgmnlq",
@@ -982,6 +1012,16 @@
       "place": "3 km SE of Frazier Park, CA",
       "time": 1785846780760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665986"
+    },
+    {
+      "id": "av94357878",
+      "lon": -135.649666666667,
+      "lat": 57.0255,
+      "depth": 6.46,
+      "mag": -0.3,
+      "place": "19 km W of Sitka, Alaska",
+      "time": 1785846199980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94357878"
     },
     {
       "id": "nc75411107",
@@ -2252,26 +2292,6 @@
       "place": "56 km S of Whites City, New Mexico",
       "time": 1785803865939,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pesjsw"
-    },
-    {
-      "id": "nc75410912",
-      "lon": -122.047500610352,
-      "lat": 37.8511657714844,
-      "depth": 7.48999977111816,
-      "mag": 1.04,
-      "place": "1 km W of Alamo, CA",
-      "time": 1785803304030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410912"
-    },
-    {
-      "id": "pr71527373",
-      "lon": -66.9105,
-      "lat": 17.966,
-      "depth": 12.5,
-      "mag": 2.9,
-      "place": "0 km SSW of Guánica, Puerto Rico",
-      "time": 1785802675050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527373"
     }
   ]
 }
