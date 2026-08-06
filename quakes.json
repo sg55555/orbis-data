@@ -1,16 +1,16 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-06T19:30:49Z",
-  "count": 202,
+  "updated": "2026-08-06T19:45:35Z",
+  "count": 199,
   "points": [
     {
       "id": "ci40667378",
-      "lon": -116.317333333333,
-      "lat": 34.0315,
-      "depth": 7.66,
-      "mag": 0.86,
+      "lon": -116.3175,
+      "lat": 34.0318333333333,
+      "depth": 7.29,
+      "mag": 0.83,
       "place": "11 km S of Joshua Tree, CA",
-      "time": 1786044179920,
+      "time": 1786044179940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667378"
     },
     {
@@ -152,6 +152,16 @@
       "place": "22 km NE of Pine Valley, CA",
       "time": 1786038979130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667298"
+    },
+    {
+      "id": "us6000timi",
+      "lon": 143.67,
+      "lat": 39.6385,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "148 km E of Miyako, Japan",
+      "time": 1786038640068,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000timi"
     },
     {
       "id": "uu80147281",
@@ -1982,46 +1992,6 @@
       "place": "1 km WSW of Pāhala, Hawaii",
       "time": 1785959175940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75013487"
-    },
-    {
-      "id": "hv75013482",
-      "lon": -155.487503051758,
-      "lat": 19.1264991760254,
-      "depth": 32.7799987792969,
-      "mag": 1.79,
-      "place": "8 km S of Pāhala, Hawaii",
-      "time": 1785959002310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75013482"
-    },
-    {
-      "id": "ci40666786",
-      "lon": -116.030166666667,
-      "lat": 33.1823333333333,
-      "depth": 4.83,
-      "mag": 0.79,
-      "place": "10 km ENE of Ocotillo Wells, CA",
-      "time": 1785958381110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666786"
-    },
-    {
-      "id": "ci40666778",
-      "lon": -116.443,
-      "lat": 33.4855,
-      "depth": 2.6,
-      "mag": 0.5,
-      "place": "23 km ESE of Anza, CA",
-      "time": 1785958336900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666778"
-    },
-    {
-      "id": "nc75411977",
-      "lon": -122.950996398926,
-      "lat": 38.7675018310547,
-      "depth": 2.19000005722046,
-      "mag": 1.27,
-      "place": "7 km SE of Cloverdale, CA",
-      "time": 1785958308340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411977"
     }
   ]
 }
