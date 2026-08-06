@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-06T09:15:34Z",
-  "count": 200,
+  "updated": "2026-08-06T09:30:44Z",
+  "count": 199,
   "points": [
+    {
+      "id": "nc75412462",
+      "lon": -120.00666809082,
+      "lat": 39.6980018615723,
+      "depth": 8.22000026702881,
+      "mag": 2.21,
+      "place": "3 km NW of Cold Springs, NV",
+      "time": 1786008437780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412462"
+    },
     {
       "id": "tx2026pjahud",
       "lon": -104.067,
@@ -1982,26 +1992,6 @@
       "place": "60 km ENE of Port Alsworth, Alaska",
       "time": 1785922383827,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pjrvqu"
-    },
-    {
-      "id": "pr71527613",
-      "lon": -65.1036666666667,
-      "lat": 18.8836666666667,
-      "depth": 48.24,
-      "mag": 3.34,
-      "place": "62 km NNW of Charlotte Amalie, U.S. Virgin Islands",
-      "time": 1785921505540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527613"
-    },
-    {
-      "id": "us6000ti9k",
-      "lon": 125.2544,
-      "lat": 5.0507,
-      "depth": 35,
-      "mag": 4.8,
-      "place": "45 km SSW of Sarangani, Philippines",
-      "time": 1785921427881,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti9k"
     }
   ]
 }
