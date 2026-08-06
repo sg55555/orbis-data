@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-06T09:45:32Z",
-  "count": 200,
+  "updated": "2026-08-06T10:00:55Z",
+  "count": 199,
   "points": [
+    {
+      "id": "ew1786010160",
+      "lon": -125.4131,
+      "lat": 42.424,
+      "depth": 8,
+      "mag": 4.1,
+      "place": "81 km W of Gold Beach, Oregon",
+      "time": 1786010148000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ew1786010160"
+    },
     {
       "id": "aka2026plodlo",
       "lon": -152.069,
@@ -162,6 +172,16 @@
       "place": "15 km SW of Midland, Texas",
       "time": 1785999228618,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026piwhox"
+    },
+    {
+      "id": "us6000tiif",
+      "lon": -75.0424,
+      "lat": 8.7415,
+      "depth": 53.418,
+      "mag": 4.3,
+      "place": "9 km ESE of Caimito, Colombia",
+      "time": 1785999180480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiif"
     },
     {
       "id": "us6000tiie",
@@ -1972,36 +1992,6 @@
       "place": "11 km ESE of Gilroy, CA",
       "time": 1785924329490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411687"
-    },
-    {
-      "id": "av93065389",
-      "lon": -176.188666666667,
-      "lat": 52.0941666666667,
-      "depth": 6.99,
-      "mag": 0.32,
-      "place": "39 km NE of Adak, Alaska",
-      "time": 1785923776670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065389"
-    },
-    {
-      "id": "aka2026pjslws",
-      "lon": -151.906,
-      "lat": 62.31,
-      "depth": 5,
-      "mag": 1.7,
-      "place": "44 km NW of Skwentna, Alaska",
-      "time": 1785923514648,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pjslws"
-    },
-    {
-      "id": "ci40666442",
-      "lon": -117.698166666667,
-      "lat": 35.8638333333333,
-      "depth": 9.95,
-      "mag": 0.59,
-      "place": "20 km ESE of Little Lake, CA",
-      "time": 1785923133950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666442"
     }
   ]
 }
