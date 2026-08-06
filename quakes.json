@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-06T00:01:02Z",
-  "count": 223,
+  "updated": "2026-08-06T00:15:33Z",
+  "count": 221,
   "points": [
+    {
+      "id": "nn00922934",
+      "lon": -115.7407,
+      "lat": 36.7261,
+      "depth": 2.4235,
+      "mag": 1.64,
+      "place": "18 km NNW of Indian Springs, Nevada",
+      "time": 1785974267994,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922934"
+    },
     {
       "id": "nc75412222",
       "lon": -118.350997924805,
@@ -12,6 +22,16 @@
       "place": "5 km SE of Bishop, CA",
       "time": 1785973984720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412222"
+    },
+    {
+      "id": "pr71527658",
+      "lon": -67.6348333333333,
+      "lat": 18.9086666666667,
+      "depth": 17.07,
+      "mag": 3.14,
+      "place": "72 km NW of San Antonio, Puerto Rico",
+      "time": 1785973595950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527658"
     },
     {
       "id": "ci40666914",
@@ -32,6 +52,16 @@
       "place": "20 km SE of Naalehu, Hawaii",
       "time": 1785973523690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75013642"
+    },
+    {
+      "id": "aka2026pktypi",
+      "lon": -141.775,
+      "lat": 59.829,
+      "depth": 8.1,
+      "mag": 1.5,
+      "place": "119 km WNW of Yakutat, Alaska",
+      "time": 1785972962394,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pktypi"
     },
     {
       "id": "ci40666906",
@@ -2182,56 +2212,6 @@
       "place": "15 km SE of Mammoth Lakes, CA",
       "time": 1785889152570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411487"
-    },
-    {
-      "id": "nc75411482",
-      "lon": -122.835334777832,
-      "lat": 38.837833404541,
-      "depth": 1.6599999666214,
-      "mag": 0.71,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1785888740050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411482"
-    },
-    {
-      "id": "us6000ti5u",
-      "lon": 94.6478,
-      "lat": 21.9032,
-      "depth": 103.392,
-      "mag": 4.8,
-      "place": "55 km WSW of Monywa, Burma (Myanmar)",
-      "time": 1785888717782,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti5u"
-    },
-    {
-      "id": "aka2026piyzhh",
-      "lon": -169.571,
-      "lat": 63.745,
-      "depth": 10,
-      "mag": 3.3,
-      "place": "45 km E of Savoonga, Alaska",
-      "time": 1785888351112,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026piyzhh"
-    },
-    {
-      "id": "uw714071681",
-      "lon": -121.892166666667,
-      "lat": 47.1578333333333,
-      "depth": -0.62,
-      "mag": 1.65588641166687,
-      "place": "9 km SE of Enumclaw, Washington",
-      "time": 1785888241310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714071681"
-    },
-    {
-      "id": "uw714071691",
-      "lon": -122.2505,
-      "lat": 47.4788333333333,
-      "depth": 15.73,
-      "mag": 1.12,
-      "place": "0 km NE of Tukwila, Washington",
-      "time": 1785888150040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714071691"
     }
   ]
 }
