@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-06T19:15:59Z",
-  "count": 199,
+  "updated": "2026-08-06T19:30:49Z",
+  "count": 202,
   "points": [
+    {
+      "id": "ci40667378",
+      "lon": -116.317333333333,
+      "lat": 34.0315,
+      "depth": 7.66,
+      "mag": 0.86,
+      "place": "11 km S of Joshua Tree, CA",
+      "time": 1786044179920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667378"
+    },
+    {
+      "id": "nc75412757",
+      "lon": -122.765335083008,
+      "lat": 38.8266677856445,
+      "depth": 2.14000010490417,
+      "mag": 1.04,
+      "place": "4 km W of Cobb, CA",
+      "time": 1786044035000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412757"
+    },
+    {
+      "id": "aka2026pmhhot",
+      "lon": -147.717,
+      "lat": 63.164,
+      "depth": 0,
+      "mag": 1.8,
+      "place": "66 km ESE of Cantwell, Alaska",
+      "time": 1786043751448,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pmhhot"
+    },
     {
       "id": "ci40667362",
       "lon": -114.981333333333,
@@ -12,6 +42,16 @@
       "place": "45 km NNW of Los Algodones, B.C., MX",
       "time": 1786043503100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667362"
+    },
+    {
+      "id": "us6000tip9",
+      "lon": -75.2574,
+      "lat": -12.1948,
+      "depth": 10,
+      "mag": 5.3,
+      "place": "7 km SSW of Huayucachi, Peru",
+      "time": 1786042641831,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tip9"
     },
     {
       "id": "nc75412737",
@@ -54,11 +94,21 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667338"
     },
     {
+      "id": "ci40667330",
+      "lon": -115.219666666667,
+      "lat": 32.4,
+      "depth": 9.49,
+      "mag": 2.17,
+      "place": "6 km NNW of Delta, B.C., MX",
+      "time": 1786041444570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667330"
+    },
+    {
       "id": "ci40667322",
-      "lon": -115.222,
-      "lat": 32.3933333333333,
-      "depth": 11.05,
-      "mag": 2.25,
+      "lon": -115.2195,
+      "lat": 32.3965,
+      "depth": 10.78,
+      "mag": 2.36,
       "place": "5 km NNW of Delta, B.C., MX",
       "time": 1786041327410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667322"
@@ -95,12 +145,12 @@
     },
     {
       "id": "ci40667298",
-      "lon": -116.333333333333,
-      "lat": 32.9336666666667,
-      "depth": 7.19,
-      "mag": 0.79,
+      "lon": -116.332333333333,
+      "lat": 32.9378333333333,
+      "depth": 7.5,
+      "mag": 0.47,
       "place": "22 km NE of Pine Valley, CA",
-      "time": 1786038979170,
+      "time": 1786038979130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667298"
     },
     {
@@ -1972,26 +2022,6 @@
       "place": "7 km SE of Cloverdale, CA",
       "time": 1785958308340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411977"
-    },
-    {
-      "id": "ci40666762",
-      "lon": -117.337666666667,
-      "lat": 33.7125,
-      "depth": -0.48,
-      "mag": 1.34,
-      "place": "5 km N of Lake Elsinore, CA",
-      "time": 1785957759860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666762"
-    },
-    {
-      "id": "tx2026phzico",
-      "lon": -101.101,
-      "lat": 32.132,
-      "depth": 2.1729,
-      "mag": 1.7,
-      "place": "25 km E of Forsan, Texas",
-      "time": 1785957627912,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026phzico"
     }
   ]
 }
