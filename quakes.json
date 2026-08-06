@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-06T00:30:43Z",
+  "updated": "2026-08-06T00:45:55Z",
   "count": 217,
   "points": [
     {
+      "id": "us6000tigl",
+      "lon": 94.6765,
+      "lat": 29.0283,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "62 km NNE of Shi Yomi, India",
+      "time": 1785975317634,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tigl"
+    },
+    {
       "id": "nn00922934",
-      "lon": -115.7407,
-      "lat": 36.7261,
-      "depth": 2.4235,
-      "mag": 1.64,
+      "lon": -115.7573,
+      "lat": 36.7237,
+      "depth": 4.6637,
+      "mag": 1.68,
       "place": "18 km NNW of Indian Springs, Nevada",
-      "time": 1785974267994,
+      "time": 1785974268859,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922934"
     },
     {
@@ -2162,16 +2172,6 @@
       "place": "11 km ESE of Snowville, Utah",
       "time": 1785890850620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147086"
-    },
-    {
-      "id": "aka2026pizsvc",
-      "lon": -175.386,
-      "lat": 51.942,
-      "depth": 11.5,
-      "mag": 2,
-      "place": "86 km WSW of Atka, Alaska",
-      "time": 1785889803441,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pizsvc"
     }
   ]
 }
