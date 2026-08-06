@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-06T23:00:58Z",
+  "updated": "2026-08-06T23:15:32Z",
   "count": 199,
   "points": [
+    {
+      "id": "hv75014157",
+      "lon": -155.498840332031,
+      "lat": 19.1860008239746,
+      "depth": 28.7399997711182,
+      "mag": 1.72,
+      "place": "2 km SW of Pāhala, Hawaii",
+      "time": 1786057268130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75014157"
+    },
     {
       "id": "aka2026pmoqcb",
       "lon": -150.523,
@@ -42,6 +52,16 @@
       "place": "53 km ENE of Ensenada, B.C., MX",
       "time": 1786055928830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667530"
+    },
+    {
+      "id": "uw714072402",
+      "lon": -123.799,
+      "lat": 46.8868333333333,
+      "depth": -0.12,
+      "mag": 1.36,
+      "place": "7 km SSW of Cosmopolis, Washington",
+      "time": 1786055635030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714072402"
     },
     {
       "id": "ci40667522",
@@ -1972,26 +1992,6 @@
       "place": "14 km NNE of Midland, Texas",
       "time": 1785971790567,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pihaxm"
-    },
-    {
-      "id": "ci40666898",
-      "lon": -117.178,
-      "lat": 34.0116666666667,
-      "depth": 12.95,
-      "mag": 1.01,
-      "place": "5 km S of Redlands, CA",
-      "time": 1785971537560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666898"
-    },
-    {
-      "id": "aka2026pktbyv",
-      "lon": -140.3,
-      "lat": 60.6,
-      "depth": 0,
-      "mag": 2.2,
-      "place": "121 km NNW of Yakutat, Alaska",
-      "time": 1785971392595,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pktbyv"
     }
   ]
 }
