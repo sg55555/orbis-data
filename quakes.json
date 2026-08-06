@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-06T07:01:03Z",
-  "count": 211,
+  "updated": "2026-08-06T07:15:40Z",
+  "count": 213,
   "points": [
+    {
+      "id": "hv75013817",
+      "lon": -155.40266418457,
+      "lat": 19.3116664886475,
+      "depth": 28.4699993133545,
+      "mag": 2.26,
+      "place": "14 km NNE of Pāhala, Hawaii",
+      "time": 1786000160300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75013817"
+    },
     {
       "id": "tx2026piwhox",
       "lon": -102.182,
@@ -12,6 +22,16 @@
       "place": "15 km SW of Midland, Texas",
       "time": 1785999228618,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026piwhox"
+    },
+    {
+      "id": "us6000tiie",
+      "lon": -175.6733,
+      "lat": -21.0594,
+      "depth": 126.513,
+      "mag": 4.6,
+      "place": "40 km WNW of Houma, Tonga",
+      "time": 1785998645143,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiie"
     },
     {
       "id": "ci40667034",
@@ -804,6 +824,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666810"
     },
     {
+      "id": "av94360788",
+      "lon": -176.1335,
+      "lat": 52.0738333333333,
+      "depth": -1.77,
+      "mag": 0.1,
+      "place": "40 km ENE of Adak, Alaska",
+      "time": 1785960986190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94360788"
+    },
+    {
       "id": "tx2026pibcrh",
       "lon": -104.132,
       "lat": 31.626,
@@ -822,6 +852,16 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1785960450130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666802"
+    },
+    {
+      "id": "av94360758",
+      "lon": -168.178166666667,
+      "lat": 53.3898333333333,
+      "depth": 2.13,
+      "mag": 0.52,
+      "place": "67 km NE of Nikolski, Alaska",
+      "time": 1785959941630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94360758"
     },
     {
       "id": "us6000tie5",
@@ -2092,26 +2132,6 @@
       "place": "21 km ESE of Naalehu, Hawaii",
       "time": 1785914748400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75013202"
-    },
-    {
-      "id": "tx2026phbcoz",
-      "lon": -101.937,
-      "lat": 32.03,
-      "depth": 8.1299,
-      "mag": 0.5,
-      "place": "13 km ENE of Midland, Texas",
-      "time": 1785913808786,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026phbcoz"
-    },
-    {
-      "id": "nc75411652",
-      "lon": -122.759498596191,
-      "lat": 38.7944984436035,
-      "depth": 0.759999990463257,
-      "mag": 1.07,
-      "place": "2 km N of The Geysers, CA",
-      "time": 1785913803500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411652"
     }
   ]
 }
