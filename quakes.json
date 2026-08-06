@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-06T12:15:33Z",
-  "count": 196,
+  "updated": "2026-08-06T12:28:27Z",
+  "count": 195,
   "points": [
+    {
+      "id": "ci40667090",
+      "lon": -116.524,
+      "lat": 33.1555,
+      "depth": 5.16,
+      "mag": 1.04,
+      "place": "11 km NE of Julian, CA",
+      "time": 1786018542700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667090"
+    },
     {
       "id": "aka2026pltctp",
       "lon": -153.012,
@@ -155,12 +165,12 @@
     },
     {
       "id": "tx2026pjdbnl",
-      "lon": -101.62,
-      "lat": 32.078,
-      "depth": 3.5261,
+      "lon": -101.614,
+      "lat": 32.084,
+      "depth": 8.8867,
       "mag": 1,
-      "place": "16 km ESE of Stanton, Texas",
-      "time": 1786011581752,
+      "place": "17 km ESE of Stanton, Texas",
+      "time": 1786011581966,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pjdbnl"
     },
     {
@@ -1264,6 +1274,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pibcrh"
     },
     {
+      "id": "tx2026piaztc",
+      "lon": -101.948,
+      "lat": 32.257,
+      "depth": 7.5928,
+      "mag": 0.9,
+      "place": "20 km NW of Stanton, Texas",
+      "time": 1785960674070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026piaztc"
+    },
+    {
       "id": "ci40666802",
       "lon": -117.806,
       "lat": 35.3156666666667,
@@ -1932,36 +1952,6 @@
       "place": "6 km NNW of The Geysers, CA",
       "time": 1785933875280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411717"
-    },
-    {
-      "id": "nc75411712",
-      "lon": -122.761169433594,
-      "lat": 38.7936668395996,
-      "depth": 0.579999983310699,
-      "mag": 0.74,
-      "place": "2 km NNW of The Geysers, CA",
-      "time": 1785932776550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411712"
-    },
-    {
-      "id": "ci40666506",
-      "lon": -117.491666666667,
-      "lat": 35.9741666666667,
-      "depth": 4.18,
-      "mag": 0.75,
-      "place": "24 km NNW of Searles Valley, CA",
-      "time": 1785932455770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666506"
-    },
-    {
-      "id": "aka2026pjxhin",
-      "lon": -152.114,
-      "lat": 60.401,
-      "depth": 86.4,
-      "mag": 1.8,
-      "place": "44 km WNW of Clam Gulch, Alaska",
-      "time": 1785932188759,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pjxhin"
     }
   ]
 }
