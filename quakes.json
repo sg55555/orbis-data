@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-06T11:15:39Z",
-  "count": 200,
+  "updated": "2026-08-06T11:30:53Z",
+  "count": 199,
   "points": [
+    {
+      "id": "ci40667082",
+      "lon": -117.270166666667,
+      "lat": 34.0341666666667,
+      "depth": 17.34,
+      "mag": 1.35,
+      "place": "2 km SSW of Loma Linda, CA",
+      "time": 1786015352580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667082"
+    },
     {
       "id": "nc75412492",
       "lon": -121.459831237793,
@@ -75,12 +85,12 @@
     },
     {
       "id": "tx2026pjdbnl",
-      "lon": -101.616,
-      "lat": 32.082,
-      "depth": 6.8708,
-      "mag": 1.1,
-      "place": "17 km ESE of Stanton, Texas",
-      "time": 1786011581072,
+      "lon": -101.62,
+      "lat": 32.078,
+      "depth": 3.5261,
+      "mag": 1,
+      "place": "16 km ESE of Stanton, Texas",
+      "time": 1786011581752,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pjdbnl"
     },
     {
@@ -684,6 +694,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pladxz"
     },
     {
+      "id": "pr71527663",
+      "lon": -66.7825,
+      "lat": 18.6166666666667,
+      "depth": 17.63,
+      "mag": 2.73,
+      "place": "14 km N of Carrizales, Puerto Rico",
+      "time": 1785983209820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527663"
+    },
+    {
       "id": "nc75412297",
       "lon": -122.283332824707,
       "lat": 40.4194984436035,
@@ -1232,26 +1252,6 @@
       "place": "8 km S of Pāhala, Hawaii",
       "time": 1785959002310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75013482"
-    },
-    {
-      "id": "tx2026phzxvz",
-      "lon": -103.794,
-      "lat": 30.896,
-      "depth": 0,
-      "mag": 1.9,
-      "place": "10 km SSW of Balmorhea, Texas",
-      "time": 1785958724974,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026phzxvz"
-    },
-    {
-      "id": "tx2026phztox",
-      "lon": -104.232,
-      "lat": 31.484,
-      "depth": 0.3119,
-      "mag": 1.6,
-      "place": "45 km WNW of Toyah, Texas",
-      "time": 1785958429424,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026phztox"
     },
     {
       "id": "ci40666786",
@@ -1992,16 +1992,6 @@
       "place": "11 km WNW of Big Bear Lake, CA",
       "time": 1785929811200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666474"
-    },
-    {
-      "id": "aka2026pjvjth",
-      "lon": -147.539,
-      "lat": 64.864,
-      "depth": 2.1,
-      "mag": 0.4,
-      "place": "7 km N of Badger, Alaska",
-      "time": 1785928760426,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pjvjth"
     }
   ]
 }
