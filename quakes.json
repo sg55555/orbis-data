@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-06T02:15:43Z",
-  "count": 211,
+  "updated": "2026-08-06T02:30:44Z",
+  "count": 212,
   "points": [
+    {
+      "id": "nc75412297",
+      "lon": -122.283332824707,
+      "lat": 40.4194984436035,
+      "depth": 17.5300006866455,
+      "mag": 2.72,
+      "place": "3 km SSE of Anderson, CA",
+      "time": 1785983051260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412297"
+    },
+    {
+      "id": "ci40666946",
+      "lon": -117.714833333333,
+      "lat": 35.8705,
+      "depth": 9.06,
+      "mag": 1.89,
+      "place": "19 km ESE of Little Lake, CA",
+      "time": 1785982893210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666946"
+    },
+    {
+      "id": "aka2026pkzibf",
+      "lon": -150.861,
+      "lat": 61.756,
+      "depth": 69,
+      "mag": 2.8,
+      "place": "30 km NW of Susitna, Alaska",
+      "time": 1785982615423,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pkzibf"
+    },
     {
       "id": "nc75412262",
       "lon": -122.796165466309,
@@ -175,12 +205,12 @@
     },
     {
       "id": "nc75412157",
-      "lon": -123.451835632324,
-      "lat": 40.0191650390625,
-      "depth": 4.53999996185303,
+      "lon": -123.446166666667,
+      "lat": 40.0223333333333,
+      "depth": 7.28,
       "mag": 4.4,
-      "place": "31 km NW of Covelo, CA",
-      "time": 1785968517380,
+      "place": "31 km NNW of Covelo, CA",
+      "time": 1785968517390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412157"
     },
     {
@@ -2092,26 +2122,6 @@
       "place": "149 km W of Adak, Alaska",
       "time": 1785897442480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94359223"
-    },
-    {
-      "id": "nc75411547",
-      "lon": -122.94083404541,
-      "lat": 38.7733345031738,
-      "depth": 6.71000003814697,
-      "mag": 1.37,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1785896991750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411547"
-    },
-    {
-      "id": "tx2026pgrnwl",
-      "lon": -102.058,
-      "lat": 32.419,
-      "depth": 8.1543,
-      "mag": 0.3,
-      "place": "34 km WSW of Ackerly, Texas",
-      "time": 1785896483071,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pgrnwl"
     }
   ]
 }
