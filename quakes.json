@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-06T14:30:47Z",
-  "count": 193,
+  "updated": "2026-08-06T14:49:03Z",
+  "count": 191,
   "points": [
+    {
+      "id": "hv75013957",
+      "lon": -155.586502075195,
+      "lat": 19.4238338470459,
+      "depth": 37.9500007629395,
+      "mag": 1.87,
+      "place": "26 km NNW of Pāhala, Hawaii",
+      "time": 1786027168240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75013957"
+    },
     {
       "id": "ci40667130",
       "lon": -117.791,
@@ -574,6 +584,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667018"
     },
     {
+      "id": "tx2026piuhiz",
+      "lon": -102.151,
+      "lat": 32.365,
+      "depth": 9.1064,
+      "mag": 0.1,
+      "place": "36 km E of McKinney Acres, Texas",
+      "time": 1785995592075,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026piuhiz"
+    },
+    {
       "id": "aka2026plgdnb",
       "lon": -150.834,
       "lat": 60.371,
@@ -582,16 +602,6 @@
       "place": "15 km SSW of Funny River, Alaska",
       "time": 1785994896962,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026plgdnb"
-    },
-    {
-      "id": "ci40667010",
-      "lon": -120.131833333333,
-      "lat": 34.731,
-      "depth": 2.23,
-      "mag": 1.34,
-      "place": "7 km NNW of Los Olivos, CA",
-      "time": 1785994727820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667010"
     },
     {
       "id": "nc75412402",
@@ -625,12 +635,12 @@
     },
     {
       "id": "ci40667002",
-      "lon": -118.930166666667,
-      "lat": 35.8711666666667,
-      "depth": 10.91,
-      "mag": 2.13,
+      "lon": -118.937666666667,
+      "lat": 35.8705,
+      "depth": 10.4,
+      "mag": 2.01,
       "place": "23 km SSE of Porterville, CA",
-      "time": 1785992824320,
+      "time": 1785992824200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667002"
     },
     {
@@ -1902,36 +1912,6 @@
       "place": "2 km SW of Pāhala, Hawaii",
       "time": 1785942030190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75013382"
-    },
-    {
-      "id": "ci40666562",
-      "lon": -117.578666666667,
-      "lat": 34.2018333333333,
-      "depth": 7,
-      "mag": 0.76,
-      "place": "9 km N of Rancho Cucamonga, CA",
-      "time": 1785941284690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666562"
-    },
-    {
-      "id": "ok2026pftn",
-      "lon": -97.77733333,
-      "lat": 35.95083333,
-      "depth": 6.83,
-      "mag": 1.5,
-      "place": "12 km ESE of Dover, Oklahoma",
-      "time": 1785940499179,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pftn"
-    },
-    {
-      "id": "ci40666546",
-      "lon": -117.800666666667,
-      "lat": 35.325,
-      "depth": 6.18,
-      "mag": 1.31,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": 1785940372780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666546"
     }
   ]
 }
