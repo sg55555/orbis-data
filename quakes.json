@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-06T11:00:54Z",
-  "count": 201,
+  "updated": "2026-08-06T11:15:39Z",
+  "count": 200,
   "points": [
+    {
+      "id": "nc75412492",
+      "lon": -121.459831237793,
+      "lat": 36.9813346862793,
+      "depth": 5.28000020980835,
+      "mag": 1.4,
+      "place": "10 km ESE of Gilroy, CA",
+      "time": 1786013959840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412492"
+    },
+    {
+      "id": "ci40667074",
+      "lon": -117.750333333333,
+      "lat": 34.413,
+      "depth": 7.35,
+      "mag": 0.96,
+      "place": "10 km SSE of Llano, CA",
+      "time": 1786013911680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667074"
+    },
     {
       "id": "ci40667066",
       "lon": -116.9015,
@@ -12,6 +32,16 @@
       "place": "8 km NNW of Banning, CA",
       "time": 1786013447190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667066"
+    },
+    {
+      "id": "us6000tijg",
+      "lon": 130.7231,
+      "lat": 32.6611,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "5 km ENE of Matsubase, Japan",
+      "time": 1786013364271,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tijg"
     },
     {
       "id": "nc75412487",
@@ -1145,12 +1175,12 @@
     },
     {
       "id": "tx2026pibcrh",
-      "lon": -104.132,
-      "lat": 31.626,
-      "depth": 4.2009,
-      "mag": 1.6,
+      "lon": -104.124,
+      "lat": 31.631,
+      "depth": 5.8307,
+      "mag": 1.5,
       "place": "47 km NW of Toyah, Texas",
-      "time": 1785960869952,
+      "time": 1785960869853,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pibcrh"
     },
     {
@@ -1972,46 +2002,6 @@
       "place": "7 km N of Badger, Alaska",
       "time": 1785928760426,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pjvjth"
-    },
-    {
-      "id": "ci40666466",
-      "lon": -117.808666666667,
-      "lat": 35.3163333333333,
-      "depth": 7.22,
-      "mag": 1.24,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1785928448060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666466"
-    },
-    {
-      "id": "aka2026pjvdid",
-      "lon": -152.766,
-      "lat": 60.423,
-      "depth": 136,
-      "mag": 2.1,
-      "place": "73 km NW of Ninilchik, Alaska",
-      "time": 1785928311664,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pjvdid"
-    },
-    {
-      "id": "av93065414",
-      "lon": -163.607333333333,
-      "lat": 54.6475,
-      "depth": 5.03,
-      "mag": 1.63,
-      "place": "26 km SSW of False Pass, Alaska",
-      "time": 1785928240450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065414"
-    },
-    {
-      "id": "nc75411697",
-      "lon": -122.842498779297,
-      "lat": 38.821834564209,
-      "depth": 1.95000004768372,
-      "mag": 0.95,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": 1785928186450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411697"
     }
   ]
 }
