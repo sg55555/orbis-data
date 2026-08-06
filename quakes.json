@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-06T08:15:42Z",
-  "count": 207,
+  "updated": "2026-08-06T08:30:45Z",
+  "count": 206,
   "points": [
+    {
+      "id": "nc75412447",
+      "lon": -122.763664245605,
+      "lat": 38.8211669921875,
+      "depth": 2.45000004768372,
+      "mag": 0.28,
+      "place": "4 km W of Cobb, CA",
+      "time": 1786004858360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412447"
+    },
+    {
+      "id": "tx2026pizbxl",
+      "lon": -104.463,
+      "lat": 31.631,
+      "depth": 2.9769,
+      "mag": 2.2,
+      "place": "60 km S of Whites City, New Mexico",
+      "time": 1786004264545,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pizbxl"
+    },
     {
       "id": "ci40667050",
       "lon": -117.768166666667,
@@ -415,12 +435,12 @@
     },
     {
       "id": "tx2026pinzyd",
-      "lon": -102.03,
-      "lat": 31.769,
-      "depth": 2.8625,
-      "mag": 0.9,
+      "lon": -102.045,
+      "lat": 31.771,
+      "depth": 2.6855,
+      "mag": 0.7,
       "place": "25 km S of Midland, Texas",
-      "time": 1785984216794,
+      "time": 1785984216904,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pinzyd"
     },
     {
@@ -2042,36 +2062,6 @@
       "place": "14 km N of Borrego Springs, CA",
       "time": 1785919174980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666426"
-    },
-    {
-      "id": "tx2026phdrhp",
-      "lon": -104.116,
-      "lat": 31.577,
-      "depth": 8.1506,
-      "mag": 1.6,
-      "place": "42 km NW of Toyah, Texas",
-      "time": 1785918440535,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026phdrhp"
-    },
-    {
-      "id": "nn00922869",
-      "lon": -117.7498,
-      "lat": 38.186,
-      "depth": 9.5483,
-      "mag": 1.58,
-      "place": "38 km SE of Mina, Nevada",
-      "time": 1785918178116,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922869"
-    },
-    {
-      "id": "hv75013237",
-      "lon": -155.113833333333,
-      "lat": 19.3323333333333,
-      "depth": 6.34,
-      "mag": 1.7,
-      "place": "14 km S of Fern Forest, Hawaii",
-      "time": 1785918166320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75013237"
     }
   ]
 }
