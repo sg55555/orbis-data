@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-06T15:15:52Z",
-  "count": 191,
+  "updated": "2026-08-06T15:30:49Z",
+  "count": 189,
   "points": [
     {
       "id": "ci40667178",
@@ -35,12 +35,12 @@
     },
     {
       "id": "ci40667130",
-      "lon": -117.791,
-      "lat": 35.3593333333333,
-      "depth": 5.75,
-      "mag": 1.31,
+      "lon": -117.789833333333,
+      "lat": 35.3586666666667,
+      "depth": 6.4,
+      "mag": 1.28,
       "place": "14 km W of Johannesburg, CA",
-      "time": 1786024150080,
+      "time": 1786024150060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667130"
     },
     {
@@ -172,6 +172,16 @@
       "place": "27 km NNW of Pāhala, Hawaii",
       "time": 1786015676400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75013872"
+    },
+    {
+      "id": "uw714072721",
+      "lon": -124.298166666667,
+      "lat": 42.2701666666667,
+      "depth": 1.92,
+      "mag": 1.41,
+      "place": "8 km E of Pistol River, Oregon",
+      "time": 1786015571950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714072721"
     },
     {
       "id": "ci40667082",
@@ -695,12 +705,12 @@
     },
     {
       "id": "ci40666994",
-      "lon": -115.855333333333,
-      "lat": 32.7723333333333,
-      "depth": 7.15,
-      "mag": 1.11,
+      "lon": -115.8545,
+      "lat": 32.771,
+      "depth": 8.15,
+      "mag": 0.79,
       "place": "14 km ENE of Ocotillo, CA",
-      "time": 1785991160010,
+      "time": 1785991160000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666994"
     },
     {
@@ -1025,12 +1035,12 @@
     },
     {
       "id": "ci40666914",
-      "lon": -117.395666666667,
-      "lat": 34.1781666666667,
-      "depth": 8.29,
-      "mag": 1.21,
-      "place": "5 km S of Devore, CA",
-      "time": 1785973592760,
+      "lon": -117.391333333333,
+      "lat": 34.18,
+      "depth": -0.82,
+      "mag": 1.15,
+      "place": "5 km SSE of Devore, CA",
+      "time": 1785973591910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666914"
     },
     {
@@ -1882,36 +1892,6 @@
       "place": "8 km SE of Ashford, Washington",
       "time": 1785944002240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714071971"
-    },
-    {
-      "id": "uu80147126",
-      "lon": -112.904833333333,
-      "lat": 38.4846666666667,
-      "depth": 3.02,
-      "mag": 1.14,
-      "place": "13 km NE of Milford, Utah",
-      "time": 1785943786850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147126"
-    },
-    {
-      "id": "aka2026pkdsoe",
-      "lon": -176.281,
-      "lat": 51.23,
-      "depth": 18.3,
-      "mag": 2.1,
-      "place": "75 km SSE of Adak, Alaska",
-      "time": 1785943754644,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pkdsoe"
-    },
-    {
-      "id": "aka2026pkdgpj",
-      "lon": -146.426,
-      "lat": 61.651,
-      "depth": 39.9,
-      "mag": 1.5,
-      "place": "42 km SSE of Nelchina, Alaska",
-      "time": 1785942932940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pkdgpj"
     }
   ]
 }
