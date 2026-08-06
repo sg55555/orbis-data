@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-06T13:15:40Z",
+  "updated": "2026-08-06T13:30:50Z",
   "count": 192,
   "points": [
+    {
+      "id": "ci40667114",
+      "lon": -117.804,
+      "lat": 35.312,
+      "depth": 6.78,
+      "mag": 0.89,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1786022558730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667114"
+    },
     {
       "id": "aka2026pltyyx",
       "lon": -147.043,
@@ -212,6 +222,16 @@
       "place": "76 km N of Yakutat, Alaska",
       "time": 1786011110605,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026plpdvm"
+    },
+    {
+      "id": "tx2026pjcwdg",
+      "lon": -103.955,
+      "lat": 31.431,
+      "depth": 6.2793,
+      "mag": 1,
+      "place": "20 km NW of Toyah, Texas",
+      "time": 1786011104438,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pjcwdg"
     },
     {
       "id": "us6000tij5",
@@ -1902,26 +1922,6 @@
       "place": "58 km S of Whites City, New Mexico",
       "time": 1785937407750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026phodny"
-    },
-    {
-      "id": "ci40666522",
-      "lon": -117.854833333333,
-      "lat": 36.0693333333333,
-      "depth": 2.92,
-      "mag": 0.66,
-      "place": "9 km ENE of Coso Junction, CA",
-      "time": 1785936579460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666522"
-    },
-    {
-      "id": "aka2026pjzhqy",
-      "lon": -151.606,
-      "lat": 61.311,
-      "depth": 83,
-      "mag": 1.5,
-      "place": "33 km WNW of Beluga, Alaska",
-      "time": 1785935876260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pjzhqy"
     }
   ]
 }
