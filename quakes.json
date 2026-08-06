@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-06T10:30:47Z",
-  "count": 200,
+  "updated": "2026-08-06T10:45:42Z",
+  "count": 201,
   "points": [
+    {
+      "id": "aka2026plpvqy",
+      "lon": -150.048,
+      "lat": 61.679,
+      "depth": 20.4,
+      "mag": 2,
+      "place": "7 km S of Willow, Alaska",
+      "time": 1786012344340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026plpvqy"
+    },
     {
       "id": "nc75412482",
       "lon": -122.729331970215,
@@ -22,6 +32,16 @@
       "place": "17 km ESE of Stanton, Texas",
       "time": 1786011581072,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pjdbnl"
+    },
+    {
+      "id": "uw714072701",
+      "lon": -121.695833333333,
+      "lat": 46.9945,
+      "depth": 8.43,
+      "mag": 0.83,
+      "place": "18 km S of Greenwater, Washington",
+      "time": 1786011445900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714072701"
     },
     {
       "id": "ci40667058",
@@ -424,6 +444,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666994"
     },
     {
+      "id": "uw714072661",
+      "lon": -122.189166666667,
+      "lat": 46.1978333333333,
+      "depth": 6.51,
+      "mag": 0.09,
+      "place": "37 km NNE of Amboy, Washington",
+      "time": 1785990833900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714072661"
+    },
+    {
       "id": "aka2026pldnws",
       "lon": -156.842,
       "lat": 54.769,
@@ -472,6 +502,16 @@
       "place": "3 km SW of Anderson Springs, CA",
       "time": 1785988906130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412347"
+    },
+    {
+      "id": "uw714072651",
+      "lon": -121.686166666667,
+      "lat": 48.1675,
+      "depth": 6.65,
+      "mag": 0.87,
+      "place": "10 km NE of Verlot, Washington",
+      "time": 1785988592120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714072651"
     },
     {
       "id": "ci40666978",
@@ -1972,36 +2012,6 @@
       "place": "28 km SSW of False Pass, Alaska",
       "time": 1785926870330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065404"
-    },
-    {
-      "id": "tx2026phhzoh",
-      "lon": -101.922,
-      "lat": 32.103,
-      "depth": 9.2529,
-      "mag": 0.8,
-      "place": "12 km WSW of Stanton, Texas",
-      "time": 1785926511582,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026phhzoh"
-    },
-    {
-      "id": "tx2026phhyvo",
-      "lon": -101.356,
-      "lat": 32.008,
-      "depth": 8.7158,
-      "mag": 2.3,
-      "place": "11 km S of Forsan, Texas",
-      "time": 1785926266962,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026phhyvo"
-    },
-    {
-      "id": "aka2026pjtzyz",
-      "lon": 176.138,
-      "lat": 51.817,
-      "depth": 20,
-      "mag": 3.3,
-      "place": "231 km ESE of Attu Station, Alaska",
-      "time": 1785926261513,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pjtzyz"
     }
   ]
 }
