@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-06T12:00:59Z",
-  "count": 195,
+  "updated": "2026-08-06T12:15:33Z",
+  "count": 196,
   "points": [
+    {
+      "id": "aka2026pltctp",
+      "lon": -153.012,
+      "lat": 59.564,
+      "depth": 102.2,
+      "mag": 1.4,
+      "place": "66 km WNW of Nanwalek, Alaska",
+      "time": 1786018245393,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pltctp"
+    },
+    {
+      "id": "nc75412517",
+      "lon": -118.349334716797,
+      "lat": 37.3371658325195,
+      "depth": 9.02999973297119,
+      "mag": 2.04,
+      "place": "5 km SE of Bishop, CA",
+      "time": 1786017836360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412517"
+    },
+    {
+      "id": "nc75412512",
+      "lon": -121.051498413086,
+      "lat": 36.023998260498,
+      "depth": 11.1800003051758,
+      "mag": 0.95,
+      "place": "12 km SSW of San Lucas, CA",
+      "time": 1786017692510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412512"
+    },
     {
       "id": "tx2026pjghqf",
       "lon": -103.508,
@@ -42,6 +72,16 @@
       "place": "2 km SSW of Loma Linda, CA",
       "time": 1786015352580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667082"
+    },
+    {
+      "id": "ok2026phia",
+      "lon": -96.972,
+      "lat": 35.63783333,
+      "depth": 7.04,
+      "mag": 1.23,
+      "place": "6 km SSE of Warwick, Oklahoma",
+      "time": 1786014137320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026phia"
     },
     {
       "id": "nc75412492",
@@ -1922,36 +1962,6 @@
       "place": "44 km WNW of Clam Gulch, Alaska",
       "time": 1785932188759,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pjxhin"
-    },
-    {
-      "id": "ci40666498",
-      "lon": -116.715,
-      "lat": 33.6771666666667,
-      "depth": 15.86,
-      "mag": 0.3,
-      "place": "7 km S of Idyllwild, CA",
-      "time": 1785932058820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666498"
-    },
-    {
-      "id": "ci40666490",
-      "lon": -116.714833333333,
-      "lat": 33.6673333333333,
-      "depth": 15.02,
-      "mag": 0.44,
-      "place": "8 km S of Idyllwild, CA",
-      "time": 1785932021970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666490"
-    },
-    {
-      "id": "nc75411707",
-      "lon": -122.809829711914,
-      "lat": 38.8211669921875,
-      "depth": 3.03999996185303,
-      "mag": 0.73,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1785931749400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411707"
     }
   ]
 }
