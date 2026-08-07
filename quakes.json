@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-07T18:30:50Z",
-  "count": 271,
+  "updated": "2026-08-07T18:45:41Z",
+  "count": 270,
   "points": [
+    {
+      "id": "ci40668194",
+      "lon": -117.108833333333,
+      "lat": 33.747,
+      "depth": 1.61,
+      "mag": 1.24,
+      "place": "3 km WNW of Green Acres, CA",
+      "time": 1786127832230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668194"
+    },
+    {
+      "id": "nc75413567",
+      "lon": -121.187835693359,
+      "lat": 36.5740013122559,
+      "depth": 3.73000001907349,
+      "mag": 1.92,
+      "place": "6 km NW of Pinnacles, CA",
+      "time": 1786127684410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413567"
+    },
     {
       "id": "tx2026ploedc",
       "lon": -103.538,
@@ -1185,12 +1205,12 @@
     },
     {
       "id": "ci40667738",
-      "lon": -118.8085,
-      "lat": 34.5075,
-      "depth": 9.26,
-      "mag": 1.08,
-      "place": "10 km N of Piru, CA",
-      "time": 1786091841380,
+      "lon": -118.807833333333,
+      "lat": 34.51,
+      "depth": 8.89,
+      "mag": 0.99,
+      "place": "11 km N of Piru, CA",
+      "time": 1786091841280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667738"
     },
     {
@@ -2682,36 +2702,6 @@
       "place": "13 km W of Mojave, CA",
       "time": 1786042092690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667338"
-    },
-    {
-      "id": "ci40667330",
-      "lon": -115.219666666667,
-      "lat": 32.4,
-      "depth": 9.49,
-      "mag": 2.17,
-      "place": "6 km NNW of Delta, B.C., MX",
-      "time": 1786041444570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667330"
-    },
-    {
-      "id": "ci40667322",
-      "lon": -115.2195,
-      "lat": 32.3965,
-      "depth": 10.78,
-      "mag": 2.36,
-      "place": "5 km NNW of Delta, B.C., MX",
-      "time": 1786041327410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667322"
-    },
-    {
-      "id": "pr71527718",
-      "lon": -67.3231666666667,
-      "lat": 18.0915,
-      "depth": 16.96,
-      "mag": 2.45,
-      "place": "14 km W of Puerto Real, Puerto Rico",
-      "time": 1786041066800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527718"
     }
   ]
 }
