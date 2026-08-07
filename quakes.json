@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-07T07:37:44Z",
-  "count": 203,
+  "updated": "2026-08-07T08:00:56Z",
+  "count": 204,
   "points": [
+    {
+      "id": "ci40667722",
+      "lon": -116.609333333333,
+      "lat": 33.0906666666667,
+      "depth": 11.53,
+      "mag": 0.64,
+      "place": "1 km NNW of Julian, CA",
+      "time": 1786089140570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667722"
+    },
+    {
+      "id": "nc75413177",
+      "lon": -122.815498352051,
+      "lat": 38.8283348083496,
+      "depth": 2.23000001907349,
+      "mag": 0.74,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1786088929100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413177"
+    },
+    {
+      "id": "tx2026pktmse",
+      "lon": -103.785,
+      "lat": 31.247,
+      "depth": 3.3053,
+      "mag": 1.3,
+      "place": "7 km S of Toyah, Texas",
+      "time": 1786088291238,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pktmse"
+    },
     {
       "id": "nc75413167",
       "lon": -121.175003051758,
@@ -265,12 +295,12 @@
     },
     {
       "id": "tx2026pkmfkq",
-      "lon": -102.054,
-      "lat": 31.79,
-      "depth": 0.0731,
-      "mag": 1.2,
-      "place": "23 km S of Midland, Texas",
-      "time": 1786075112273,
+      "lon": -102.021,
+      "lat": 31.775,
+      "depth": 5.8838,
+      "mag": 0.5,
+      "place": "25 km SSE of Midland, Texas",
+      "time": 1786075111946,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pkmfkq"
     },
     {
@@ -335,12 +365,12 @@
     },
     {
       "id": "tx2026pkkkiz",
-      "lon": -103.941,
-      "lat": 31.43,
-      "depth": 7.3155,
-      "mag": 1.5,
-      "place": "18 km NW of Toyah, Texas",
-      "time": 1786071841102,
+      "lon": -103.945,
+      "lat": 31.431,
+      "depth": 4.408,
+      "mag": 1.4,
+      "place": "19 km NW of Toyah, Texas",
+      "time": 1786071841501,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pkkkiz"
     },
     {
@@ -2012,26 +2042,6 @@
       "place": "10 km N of Volcano, Hawaii",
       "time": 1786003253860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75013822"
-    },
-    {
-      "id": "tx2026pixzwi",
-      "lon": -100.673,
-      "lat": 32.756,
-      "depth": 7.373,
-      "mag": 0.9,
-      "place": "15 km NNE of Hermleigh, Texas",
-      "time": 1786002312315,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pixzwi"
-    },
-    {
-      "id": "aka2026plkdkx",
-      "lon": -149.728,
-      "lat": 64.603,
-      "depth": 14.1,
-      "mag": 2.2,
-      "place": "29 km W of Four Mile Road, Alaska",
-      "time": 1786002086479,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026plkdkx"
     }
   ]
 }
