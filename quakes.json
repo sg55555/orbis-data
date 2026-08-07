@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-07T17:05:02Z",
-  "count": 271,
+  "updated": "2026-08-07T17:15:43Z",
+  "count": 274,
   "points": [
+    {
+      "id": "ci40668130",
+      "lon": -119.373333333333,
+      "lat": 34.488,
+      "depth": 4.97,
+      "mag": 1.92,
+      "place": "13 km WNW of Ojai, CA",
+      "time": 1786122582110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668130"
+    },
+    {
+      "id": "nc75413487",
+      "lon": -122.769836425781,
+      "lat": 38.7890014648438,
+      "depth": 4.23999977111816,
+      "mag": 0.71,
+      "place": "2 km NW of The Geysers, CA",
+      "time": 1786122194680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413487"
+    },
     {
       "id": "ci40668114",
       "lon": -116.739833333333,
@@ -34,6 +54,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668098"
     },
     {
+      "id": "aka2026pnycuv",
+      "lon": -152.43,
+      "lat": 60.343,
+      "depth": 99.3,
+      "mag": 1.4,
+      "place": "53 km NW of Ninilchik, Alaska",
+      "time": 1786120788788,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pnycuv"
+    },
+    {
       "id": "aka2026pnxudy",
       "lon": -148.376,
       "lat": 60.363,
@@ -52,6 +82,26 @@
       "place": "41 km W of Nanwalek, Alaska",
       "time": 1786120041783,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pnxrzl"
+    },
+    {
+      "id": "aka2026pnxoqg",
+      "lon": -154.238,
+      "lat": 58.189,
+      "depth": 64.3,
+      "mag": 1.3,
+      "place": "70 km N of Karluk, Alaska",
+      "time": 1786119809543,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pnxoqg"
+    },
+    {
+      "id": "aka2026pnxjky",
+      "lon": -152.095,
+      "lat": 55.994,
+      "depth": 5,
+      "mag": 2.4,
+      "place": "153 km SSE of Old Harbor, Alaska",
+      "time": 1786119522076,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pnxjky"
     },
     {
       "id": "nc75413457",
@@ -1655,12 +1705,12 @@
     },
     {
       "id": "ci40667602",
-      "lon": -116.961333333333,
-      "lat": 33.9823333333333,
-      "depth": 15.83,
-      "mag": 0.74,
+      "lon": -116.960666666667,
+      "lat": 33.9813333333333,
+      "depth": 16,
+      "mag": 0.79,
       "place": "6 km NNE of Beaumont, CA",
-      "time": 1786073356930,
+      "time": 1786073356880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667602"
     },
     {
@@ -1825,12 +1875,12 @@
     },
     {
       "id": "ci40667594",
-      "lon": -116.289333333333,
-      "lat": 33.2188333333333,
-      "depth": 8.01,
-      "mag": 0.51,
+      "lon": -116.288166666667,
+      "lat": 33.2165,
+      "depth": 9.44,
+      "mag": 0.59,
       "place": "9 km ESE of Borrego Springs, CA",
-      "time": 1786066932300,
+      "time": 1786066932190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667594"
     },
     {
@@ -1892,6 +1942,16 @@
       "place": "38 km WSW of Ackerly, Texas",
       "time": 1786063578414,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pkftjc"
+    },
+    {
+      "id": "ci10248110",
+      "lon": -117.752,
+      "lat": 34.4136666666667,
+      "depth": 7.76,
+      "mag": 1.36,
+      "place": "9 km SSE of Llano, CA",
+      "time": 1786063568560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10248110"
     },
     {
       "id": "ci40667586",
@@ -2682,36 +2742,6 @@
       "place": "7 km ENE of Yucaipa, CA",
       "time": 1786036756940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667258"
-    },
-    {
-      "id": "nc75412647",
-      "lon": -122.824165344238,
-      "lat": 38.8396682739258,
-      "depth": -0.540000021457672,
-      "mag": 0.72,
-      "place": "9 km WNW of Cobb, CA",
-      "time": 1786036517500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412647"
-    },
-    {
-      "id": "uu80147256",
-      "lon": -112.902666666667,
-      "lat": 38.4798333333333,
-      "depth": 3.47,
-      "mag": 1.24,
-      "place": "13 km NE of Milford, Utah",
-      "time": 1786036294550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147256"
-    },
-    {
-      "id": "ok2026phue",
-      "lon": -98.88083333,
-      "lat": 36.38566667,
-      "depth": 0,
-      "mag": 1.43,
-      "place": "16 km ESE of Quinlan, Oklahoma",
-      "time": 1786036242859,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026phue"
     }
   ]
 }
