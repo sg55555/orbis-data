@@ -1,16 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-07T19:10:28Z",
-  "count": 266,
+  "updated": "2026-08-07T19:29:19Z",
+  "count": 269,
   "points": [
     {
+      "id": "ci40668226",
+      "lon": -116.698666666667,
+      "lat": 33.495,
+      "depth": 11.61,
+      "mag": 0.68,
+      "place": "7 km SSW of Anza, CA",
+      "time": 1786130017950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668226"
+    },
+    {
+      "id": "ci40668218",
+      "lon": -118.195666666667,
+      "lat": 34.9848333333333,
+      "depth": 1.94,
+      "mag": 0.96,
+      "place": "8 km SSW of Mojave, CA",
+      "time": 1786129808550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668218"
+    },
+    {
+      "id": "nc75413572",
+      "lon": -122.72200012207,
+      "lat": 38.7821655273438,
+      "depth": 2.20000004768372,
+      "mag": 0.76,
+      "place": "3 km WNW of Anderson Springs, CA",
+      "time": 1786129754180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413572"
+    },
+    {
       "id": "tx2026plqaut",
-      "lon": -103.823,
-      "lat": 32.006,
-      "depth": 8.3926,
+      "lon": -103.827,
+      "lat": 32.004,
+      "depth": 8.4853,
       "mag": 1.9,
       "place": "33 km SE of Malaga, New Mexico",
-      "time": 1786129100851,
+      "time": 1786129100759,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026plqaut"
     },
     {
@@ -94,6 +124,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668162"
     },
     {
+      "id": "uu80147436",
+      "lon": -112.886333333333,
+      "lat": 38.5141666666667,
+      "depth": 2.03,
+      "mag": 1.46,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1786124521550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147436"
+    },
+    {
       "id": "aka2026poaecg",
       "lon": -150.729,
       "lat": 63.188,
@@ -102,6 +142,16 @@
       "place": "63 km SE of Denali National Park, Alaska",
       "time": 1786124476836,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026poaecg"
+    },
+    {
+      "id": "uu80147431",
+      "lon": -112.879833333333,
+      "lat": 38.5086666666667,
+      "depth": 2.69,
+      "mag": 0.94,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1786124286300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147431"
     },
     {
       "id": "us6000tj19",
@@ -322,6 +372,16 @@
       "place": "5 km NW of Pinnacles, CA",
       "time": 1786117604990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413432"
+    },
+    {
+      "id": "us6000tizf",
+      "lon": -69.6381,
+      "lat": -18.7433,
+      "depth": 95.512,
+      "mag": 4.4,
+      "place": "66 km NNW of Camiña, Chile",
+      "time": 1786117344743,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tizf"
     },
     {
       "id": "nc75413427",
@@ -945,10 +1005,10 @@
     },
     {
       "id": "ci40667786",
-      "lon": -116.704,
-      "lat": 33.6448333333333,
-      "depth": 13.05,
-      "mag": 0.78,
+      "lon": -116.703666666667,
+      "lat": 33.644,
+      "depth": 13.06,
+      "mag": 0.77,
       "place": "10 km NNW of Anza, CA",
       "time": 1786099638130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667786"
@@ -964,13 +1024,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527803"
     },
     {
+      "id": "ci10248126",
+      "lon": -116.698333333333,
+      "lat": 33.6455,
+      "depth": 13.7,
+      "mag": 0.95,
+      "place": "10 km NNW of Anza, CA",
+      "time": 1786099286460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10248126"
+    },
+    {
       "id": "ci40667778",
-      "lon": -116.712833333333,
-      "lat": 33.6373333333333,
-      "depth": 13.51,
+      "lon": -116.711833333333,
+      "lat": 33.6386666666667,
+      "depth": 13.57,
       "mag": 1.08,
       "place": "10 km NNW of Anza, CA",
-      "time": 1786099273250,
+      "time": 1786099273230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667778"
     },
     {
@@ -1585,10 +1655,10 @@
     },
     {
       "id": "ci40667666",
-      "lon": -116.518,
-      "lat": 34.57,
-      "depth": 3.32,
-      "mag": 2.11,
+      "lon": -116.517666666667,
+      "lat": 34.5708333333333,
+      "depth": 3.82,
+      "mag": 2.13,
       "place": "37 km WSW of Ludlow, CA",
       "time": 1786082877190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667666"
@@ -2622,46 +2692,6 @@
       "place": "7 km E of Pistol River, Oregon",
       "time": 1786044710910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714073241"
-    },
-    {
-      "id": "ci40667378",
-      "lon": -116.3175,
-      "lat": 34.0318333333333,
-      "depth": 7.29,
-      "mag": 0.83,
-      "place": "11 km S of Joshua Tree, CA",
-      "time": 1786044179940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667378"
-    },
-    {
-      "id": "nc75412757",
-      "lon": -122.765335083008,
-      "lat": 38.8266677856445,
-      "depth": 2.14000010490417,
-      "mag": 1.04,
-      "place": "4 km W of Cobb, CA",
-      "time": 1786044035000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412757"
-    },
-    {
-      "id": "aka2026pmhhot",
-      "lon": -147.717,
-      "lat": 63.164,
-      "depth": 0,
-      "mag": 1.8,
-      "place": "66 km ESE of Cantwell, Alaska",
-      "time": 1786043751448,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pmhhot"
-    },
-    {
-      "id": "ci40667362",
-      "lon": -114.985666666667,
-      "lat": 33.0488333333333,
-      "depth": 4.7,
-      "mag": 1.05,
-      "place": "45 km NE of Holtville, CA",
-      "time": 1786043503000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667362"
     }
   ]
 }
