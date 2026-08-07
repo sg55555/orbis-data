@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-07T05:30:43Z",
-  "count": 208,
+  "updated": "2026-08-07T05:45:31Z",
+  "count": 206,
   "points": [
+    {
+      "id": "ci40667642",
+      "lon": -115.872833251953,
+      "lat": 32.8061676025391,
+      "depth": 5.17000007629395,
+      "mag": 1.02618060591988,
+      "place": "14 km NE of Ocotillo, CA",
+      "time": 1786081341460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667642"
+    },
     {
       "id": "ci40667634",
       "lon": -117.8115,
@@ -1624,6 +1634,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pjcwdg"
     },
     {
+      "id": "av93065499",
+      "lon": -169.701166666667,
+      "lat": 52.8636666666667,
+      "depth": 9.09,
+      "mag": 0.29,
+      "place": "57 km W of Nikolski, Alaska",
+      "time": 1786010209060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065499"
+    },
+    {
       "id": "nm60626291",
       "lon": -89.853,
       "lat": 36.5018333333333,
@@ -2042,46 +2062,6 @@
       "place": "36 km E of McKinney Acres, Texas",
       "time": 1785995592075,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026piuhiz"
-    },
-    {
-      "id": "aka2026plgdnb",
-      "lon": -150.834,
-      "lat": 60.371,
-      "depth": 36.2,
-      "mag": 3.1,
-      "place": "15 km SSW of Funny River, Alaska",
-      "time": 1785994896962,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026plgdnb"
-    },
-    {
-      "id": "nc75412402",
-      "lon": -122.780334472656,
-      "lat": 38.8376655578613,
-      "depth": 1.74000000953674,
-      "mag": 0.71,
-      "place": "5 km WNW of Cobb, CA",
-      "time": 1785994502780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412402"
-    },
-    {
-      "id": "hv75013797",
-      "lon": -155.02033996582,
-      "lat": 18.304500579834,
-      "depth": 6.5,
-      "mag": 1.98,
-      "place": "103 km SE of Naalehu, Hawaii",
-      "time": 1785994365850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75013797"
-    },
-    {
-      "id": "nc75412397",
-      "lon": -122.789001464844,
-      "lat": 38.8371658325195,
-      "depth": 1.89999997615814,
-      "mag": 0.81,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1785994309610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412397"
     }
   ]
 }
