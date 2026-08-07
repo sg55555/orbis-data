@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-07T16:30:45Z",
+  "updated": "2026-08-07T16:45:37Z",
   "count": 266,
   "points": [
+    {
+      "id": "aka2026pnxudy",
+      "lon": -148.376,
+      "lat": 60.363,
+      "depth": 5,
+      "mag": 1.5,
+      "place": "38 km NNW of Chenega, Alaska",
+      "time": 1786120191198,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pnxudy"
+    },
     {
       "id": "aka2026pnxrzl",
       "lon": -152.644,
@@ -42,16 +52,6 @@
       "place": "51 km NNE of Cruz Bay, U.S. Virgin Islands",
       "time": 1786118473500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527818"
-    },
-    {
-      "id": "tx2026plkdpa",
-      "lon": -103.49,
-      "lat": 31.1,
-      "depth": 0,
-      "mag": 1.6,
-      "place": "27 km ENE of Balmorhea, Texas",
-      "time": 1786118430034,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026plkdpa"
     },
     {
       "id": "nc75413432",
@@ -154,16 +154,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668010"
     },
     {
-      "id": "tx2026plhgat",
-      "lon": -103.194,
-      "lat": 31.395,
-      "depth": 3.0367,
-      "mag": 1.5,
-      "place": "16 km SSW of Pyote, Texas",
-      "time": 1786113171800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026plhgat"
-    },
-    {
       "id": "nc75413352",
       "lon": -121.184501647949,
       "lat": 36.563835144043,
@@ -192,6 +182,16 @@
       "place": "49 km SE of Severo-Kuril’sk, Russia",
       "time": 1786112490314,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tixr"
+    },
+    {
+      "id": "uw714072662",
+      "lon": -122.313,
+      "lat": 46.2101666666667,
+      "depth": 12.65,
+      "mag": 0.46,
+      "place": "34 km NNE of Amboy, Washington",
+      "time": 1786112300490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714072662"
     },
     {
       "id": "aka2026pntgon",
@@ -284,6 +284,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pnrgpj"
     },
     {
+      "id": "uu80147411",
+      "lon": -112.8785,
+      "lat": 38.5068333333333,
+      "depth": 2.35,
+      "mag": 1.12,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1786108255760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147411"
+    },
+    {
+      "id": "uu80147406",
+      "lon": -112.881833333333,
+      "lat": 38.5115,
+      "depth": 2.8,
+      "mag": 0.87,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1786108204620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147406"
+    },
+    {
       "id": "us6000tixe",
       "lon": -174.0031,
       "lat": -15.815,
@@ -342,6 +362,16 @@
       "place": "9 km WNW of Cobb, CA",
       "time": 1786106045820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413307"
+    },
+    {
+      "id": "aka2026pnpuoe",
+      "lon": -176.982,
+      "lat": 51.179,
+      "depth": 26.1,
+      "mag": 1.8,
+      "place": "81 km SSW of Adak, Alaska",
+      "time": 1786105843772,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pnpuoe"
     },
     {
       "id": "aka2026pnppbj",
@@ -2055,12 +2085,12 @@
     },
     {
       "id": "ci40667498",
-      "lon": -117.968,
-      "lat": 36.4813333333333,
-      "depth": 11.1,
+      "lon": -117.968833333333,
+      "lat": 36.4831666666667,
+      "depth": 11.19,
       "mag": 1.65,
       "place": "15 km SE of Lone Pine, CA",
-      "time": 1786054141020,
+      "time": 1786054140960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667498"
     },
     {
@@ -2115,22 +2145,22 @@
     },
     {
       "id": "ci40667458",
-      "lon": -117.813666666667,
-      "lat": 35.3143333333333,
-      "depth": 8.17,
-      "mag": 0.91,
+      "lon": -117.8075,
+      "lat": 35.3141666666667,
+      "depth": 8.89,
+      "mag": 0.89,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1786050225980,
+      "time": 1786050225830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667458"
     },
     {
       "id": "ci40667442",
-      "lon": -116.593333333333,
-      "lat": 32.8911666666667,
-      "depth": 8.16,
-      "mag": 0.88,
+      "lon": -116.595333333333,
+      "lat": 32.8935,
+      "depth": 9.25,
+      "mag": 0.89,
       "place": "10 km NW of Pine Valley, CA",
-      "time": 1786049500110,
+      "time": 1786049500010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667442"
     },
     {
@@ -2632,36 +2662,6 @@
       "place": "28 km ESE of Denali National Park, Alaska",
       "time": 1786034861520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pmcjbi"
-    },
-    {
-      "id": "aka2026pmcbxd",
-      "lon": -141.218,
-      "lat": 61.405,
-      "depth": 5,
-      "mag": 1.3,
-      "place": "91 km E of McCarthy, Alaska",
-      "time": 1786034367507,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pmcbxd"
-    },
-    {
-      "id": "nc75412632",
-      "lon": -122.93383026123,
-      "lat": 38.7783317565918,
-      "depth": 5.01000022888184,
-      "mag": 1.13,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1786034321620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412632"
-    },
-    {
-      "id": "aka2026pmbvhb",
-      "lon": -150.457,
-      "lat": 63.126,
-      "depth": 106.3,
-      "mag": 2.2,
-      "place": "71 km NNE of Petersville, Alaska",
-      "time": 1786033915955,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pmbvhb"
     }
   ]
 }
