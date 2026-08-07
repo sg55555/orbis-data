@@ -1,6 +1,6 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-07T21:00:58Z",
+  "updated": "2026-08-07T21:15:36Z",
   "count": 294,
   "points": [
     {
@@ -425,12 +425,12 @@
     },
     {
       "id": "ci40668138",
-      "lon": -117.5995,
+      "lon": -117.598333333333,
       "lat": 35.6206666666667,
-      "depth": 10.64,
-      "mag": 0.64,
+      "depth": 10.11,
+      "mag": 0.52,
       "place": "7 km E of Ridgecrest, CA",
-      "time": 1786122755270,
+      "time": 1786122755200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668138"
     },
     {
@@ -465,12 +465,12 @@
     },
     {
       "id": "ci40668114",
-      "lon": -116.739833333333,
-      "lat": 33.516,
-      "depth": 3.76,
-      "mag": 0.71,
-      "place": "8 km SW of Anza, CA",
-      "time": 1786121885000,
+      "lon": -116.7395,
+      "lat": 33.5161666666667,
+      "depth": 3.9,
+      "mag": 0.65,
+      "place": "7 km SW of Anza, CA",
+      "time": 1786121884980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668114"
     },
     {
@@ -485,12 +485,12 @@
     },
     {
       "id": "ci40668098",
-      "lon": -117.299333333333,
-      "lat": 34.6331666666667,
-      "depth": -0.68,
-      "mag": 1.01,
+      "lon": -117.2975,
+      "lat": 34.6328333333333,
+      "depth": -0.96,
+      "mag": 1.02,
       "place": "11 km N of Victorville, CA",
-      "time": 1786121199310,
+      "time": 1786121199010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668098"
     },
     {
@@ -582,6 +582,16 @@
       "place": "27 km N of Four Mile Road, Alaska",
       "time": 1786119358495,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pnxidd"
+    },
+    {
+      "id": "av94365763",
+      "lon": -153.1285,
+      "lat": 60.0081666666667,
+      "depth": 0.03,
+      "mag": -0.67,
+      "place": "60 km ENE of Pedro Bay, Alaska",
+      "time": 1786119300000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94365763"
     },
     {
       "id": "aka2026pnwyjk",
@@ -2932,16 +2942,6 @@
       "place": "64 km NE of Mangapapa, New Zealand",
       "time": 1786051048824,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiqe"
-    },
-    {
-      "id": "ci40667458",
-      "lon": -117.8075,
-      "lat": 35.3141666666667,
-      "depth": 8.89,
-      "mag": 0.89,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1786050225830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667458"
     }
   ]
 }
