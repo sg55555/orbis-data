@@ -1,6 +1,6 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-07T21:19:15Z",
+  "updated": "2026-08-07T21:30:48Z",
   "count": 293,
   "points": [
     {
@@ -235,13 +235,23 @@
     },
     {
       "id": "tx2026plqaut",
-      "lon": -103.827,
-      "lat": 32.004,
-      "depth": 8.4853,
-      "mag": 1.9,
+      "lon": -103.836,
+      "lat": 32.002,
+      "depth": 7.702,
+      "mag": 1.8,
       "place": "33 km SE of Malaga, New Mexico",
-      "time": 1786129100759,
+      "time": 1786129101312,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026plqaut"
+    },
+    {
+      "id": "ci40668210",
+      "lon": -118.3385,
+      "lat": 35.0553333333333,
+      "depth": -1.01,
+      "mag": 1.17,
+      "place": "13 km SE of Tehachapi, CA",
+      "time": 1786128825060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668210"
     },
     {
       "id": "us6000tj22",
@@ -255,12 +265,12 @@
     },
     {
       "id": "ci40668194",
-      "lon": -117.108833333333,
-      "lat": 33.747,
-      "depth": 1.61,
-      "mag": 1.24,
-      "place": "3 km WNW of Green Acres, CA",
-      "time": 1786127832230,
+      "lon": -117.105833333333,
+      "lat": 33.7568333333333,
+      "depth": -0.52,
+      "mag": 1.17,
+      "place": "3 km NW of Green Acres, CA",
+      "time": 1786127831920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668194"
     },
     {
@@ -2922,16 +2932,6 @@
       "place": "109 km SSW of False Pass, Alaska",
       "time": 1786052776493,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiqn"
-    },
-    {
-      "id": "uw714072332",
-      "lon": -120.752,
-      "lat": 47.481,
-      "depth": 6.15,
-      "mag": 0.68,
-      "place": "14 km SSW of Leavenworth, Washington",
-      "time": 1786051772120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714072332"
     }
   ]
 }
