@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-07T08:00:56Z",
-  "count": 204,
+  "updated": "2026-08-07T08:15:33Z",
+  "count": 201,
   "points": [
+    {
+      "id": "aka2026pngzvi",
+      "lon": -151.062,
+      "lat": 58.145,
+      "depth": 26.7,
+      "mag": 2.2,
+      "place": "88 km ENE of Ouzinkie, Alaska",
+      "time": 1786089999527,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pngzvi"
+    },
     {
       "id": "ci40667722",
       "lon": -116.609333333333,
@@ -32,6 +42,16 @@
       "place": "7 km S of Toyah, Texas",
       "time": 1786088291238,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pktmse"
+    },
+    {
+      "id": "us6000tiwc",
+      "lon": 27.9816,
+      "lat": 36.0581,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "5 km SW of Lárdos, Greece",
+      "time": 1786086656672,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiwc"
     },
     {
       "id": "nc75413167",
@@ -1992,56 +2012,6 @@
       "place": "58 km S of Whites City, New Mexico",
       "time": 1786004264481,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pizbxl"
-    },
-    {
-      "id": "uu80147196",
-      "lon": -111.2305,
-      "lat": 41.6,
-      "depth": 0.86,
-      "mag": 2.14,
-      "place": "8 km SSW of Randolph, Utah",
-      "time": 1786003961540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147196"
-    },
-    {
-      "id": "ci40667050",
-      "lon": -117.768166666667,
-      "lat": 36.02,
-      "depth": 0.92,
-      "mag": 1.61,
-      "place": "16 km NE of Little Lake, CA",
-      "time": 1786003815110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667050"
-    },
-    {
-      "id": "uu80147191",
-      "lon": -111.455333333333,
-      "lat": 42.5635,
-      "depth": 5.24,
-      "mag": 1.85,
-      "place": "11 km NW of Georgetown, Idaho",
-      "time": 1786003676700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147191"
-    },
-    {
-      "id": "nc75412432",
-      "lon": -122.759330749512,
-      "lat": 38.7921676635742,
-      "depth": 1.89999997615814,
-      "mag": 1.43,
-      "place": "2 km N of The Geysers, CA",
-      "time": 1786003318810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412432"
-    },
-    {
-      "id": "hv75013822",
-      "lon": -155.251327514648,
-      "lat": 19.5361671447754,
-      "depth": 42.7299995422363,
-      "mag": 1.74,
-      "place": "10 km N of Volcano, Hawaii",
-      "time": 1786003253860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75013822"
     }
   ]
 }
