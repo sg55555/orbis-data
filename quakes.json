@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-07T12:30:44Z",
-  "count": 214,
+  "updated": "2026-08-07T12:45:34Z",
+  "count": 215,
   "points": [
+    {
+      "id": "nc75413312",
+      "lon": -121.166496276855,
+      "lat": 36.5621681213379,
+      "depth": 2,
+      "mag": 1.86,
+      "place": "4 km NNW of Pinnacles, CA",
+      "time": 1786106438060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413312"
+    },
+    {
+      "id": "nc75413307",
+      "lon": -122.823333740234,
+      "lat": 38.8404998779297,
+      "depth": 1.83000004291534,
+      "mag": 0.97,
+      "place": "9 km WNW of Cobb, CA",
+      "time": 1786106045820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413307"
+    },
     {
       "id": "aka2026pnppbj",
       "lon": -153.173,
@@ -52,6 +72,16 @@
       "place": "4 km WSW of Anza, CA",
       "time": 1786103344980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667874"
+    },
+    {
+      "id": "us6000tix7",
+      "lon": -133.5667,
+      "lat": 53.3564,
+      "depth": 10,
+      "mag": 4.1,
+      "place": "211 km SSW of Hydaburg, Alaska",
+      "time": 1786103283598,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tix7"
     },
     {
       "id": "nc75413302",
@@ -465,11 +495,11 @@
     },
     {
       "id": "tx2026pkvjyx",
-      "lon": -104.447,
-      "lat": 31.631,
-      "depth": 2.9061,
+      "lon": -104.422,
+      "lat": 31.656,
+      "depth": 6.0999,
       "mag": 1.6,
-      "place": "60 km S of Whites City, New Mexico",
+      "place": "57 km S of Whites City, New Mexico",
       "time": 1786091748470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pkvjyx"
     },
@@ -532,16 +562,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1786088929100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413177"
-    },
-    {
-      "id": "tx2026pktmse",
-      "lon": -103.785,
-      "lat": 31.247,
-      "depth": 3.3053,
-      "mag": 1.3,
-      "place": "7 km S of Toyah, Texas",
-      "time": 1786088291238,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pktmse"
     },
     {
       "id": "us6000tiwd",
@@ -982,6 +1002,16 @@
       "place": "22 km ESE of Naalehu, Hawaii",
       "time": 1786070113710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75014222"
+    },
+    {
+      "id": "tx2026pkizlj",
+      "lon": -98.966,
+      "lat": 28.812,
+      "depth": 8.8957,
+      "mag": 1.4,
+      "place": "15 km SE of Pearsall, Texas",
+      "time": 1786069262867,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pkizlj"
     },
     {
       "id": "aka2026pmvdnm",
@@ -1704,6 +1734,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527713"
     },
     {
+      "id": "ok2026phvz",
+      "lon": -97.27483333,
+      "lat": 34.512,
+      "depth": 0,
+      "mag": 1.19,
+      "place": "10 km SE of Katie, Oklahoma",
+      "time": 1786039547250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026phvz"
+    },
+    {
       "id": "ci40667298",
       "lon": -116.332333333333,
       "lat": 32.9378333333333,
@@ -2112,36 +2152,6 @@
       "place": "51 km WNW of Skwentna, Alaska",
       "time": 1786020698018,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026plumjr"
-    },
-    {
-      "id": "tx2026pjhxhn",
-      "lon": -104.057,
-      "lat": 31.958,
-      "depth": 7.9327,
-      "mag": 1.2,
-      "place": "29 km S of Malaga, New Mexico",
-      "time": 1786020243605,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pjhxhn"
-    },
-    {
-      "id": "aka2026pltyyx",
-      "lon": -147.043,
-      "lat": 60.244,
-      "depth": 14,
-      "mag": 1,
-      "place": "57 km ENE of Chenega, Alaska",
-      "time": 1786019769859,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pltyyx"
-    },
-    {
-      "id": "av94362608",
-      "lon": -151.962,
-      "lat": 61.4845,
-      "depth": 3.19,
-      "mag": 0.08,
-      "place": "60 km NW of Beluga, Alaska",
-      "time": 1786019522650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94362608"
     }
   ]
 }
