@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-07T12:00:56Z",
+  "updated": "2026-08-07T12:15:36Z",
   "count": 215,
   "points": [
+    {
+      "id": "ci40667898",
+      "lon": -116.506,
+      "lat": 33.1491666666667,
+      "depth": 8.57,
+      "mag": 0.31,
+      "place": "12 km NE of Julian, CA",
+      "time": 1786104374760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667898"
+    },
+    {
+      "id": "ci40667890",
+      "lon": -116.596833333333,
+      "lat": 33.1571666666667,
+      "depth": 17.38,
+      "mag": 0.8,
+      "place": "9 km N of Julian, CA",
+      "time": 1786104163580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667890"
+    },
     {
       "id": "ci40667882",
       "lon": -117.868666666667,
@@ -522,6 +542,16 @@
       "place": "37 km N of Calama, Chile",
       "time": 1786087347375,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiwd"
+    },
+    {
+      "id": "tx2026pksuqp",
+      "lon": -99,
+      "lat": 28.821,
+      "depth": 7.426,
+      "mag": 1.6,
+      "place": "12 km SE of Pearsall, Texas",
+      "time": 1786087033423,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pksuqp"
     },
     {
       "id": "us6000tiwc",
@@ -2122,36 +2152,6 @@
       "place": "11 km NE of Julian, CA",
       "time": 1786018542700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667090"
-    },
-    {
-      "id": "aka2026pltctp",
-      "lon": -153.012,
-      "lat": 59.564,
-      "depth": 102.2,
-      "mag": 1.4,
-      "place": "66 km WNW of Nanwalek, Alaska",
-      "time": 1786018245393,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pltctp"
-    },
-    {
-      "id": "nc75412517",
-      "lon": -118.349334716797,
-      "lat": 37.3371658325195,
-      "depth": 9.02999973297119,
-      "mag": 2.04,
-      "place": "5 km SE of Bishop, CA",
-      "time": 1786017836360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412517"
-    },
-    {
-      "id": "nc75412512",
-      "lon": -121.051498413086,
-      "lat": 36.023998260498,
-      "depth": 11.1800003051758,
-      "mag": 0.95,
-      "place": "12 km SSW of San Lucas, CA",
-      "time": 1786017692510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412512"
     }
   ]
 }
