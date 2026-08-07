@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-07T03:45:32Z",
+  "updated": "2026-08-07T04:00:58Z",
   "count": 209,
   "points": [
+    {
+      "id": "nc75413082",
+      "lon": -122.81616973877,
+      "lat": 38.8619995117188,
+      "depth": 2.04999995231628,
+      "mag": 1.04,
+      "place": "9 km WNW of Cobb, CA",
+      "time": 1786074414990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413082"
+    },
     {
       "id": "nc75413072",
       "lon": -121.780166625977,
@@ -62,6 +72,16 @@
       "place": "16 km ENE of Willow, Alaska",
       "time": 1786072630122,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pmxivz"
+    },
+    {
+      "id": "tx2026pkkkiz",
+      "lon": -103.941,
+      "lat": 31.43,
+      "depth": 7.3155,
+      "mag": 1.5,
+      "place": "18 km NW of Toyah, Texas",
+      "time": 1786071841102,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pkkkiz"
     },
     {
       "id": "nc75413057",
@@ -2072,26 +2092,6 @@
       "place": "3 km SW of Anderson Springs, CA",
       "time": 1785988906130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412347"
-    },
-    {
-      "id": "uw714072651",
-      "lon": -121.686166666667,
-      "lat": 48.1675,
-      "depth": 6.65,
-      "mag": 0.87,
-      "place": "10 km NE of Verlot, Washington",
-      "time": 1785988592120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714072651"
-    },
-    {
-      "id": "ci40666978",
-      "lon": -117.563,
-      "lat": 35.7016666666667,
-      "depth": 2.34,
-      "mag": 0.61,
-      "place": "14 km NE of Ridgecrest, CA",
-      "time": 1785987950830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666978"
     }
   ]
 }
