@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-07T03:30:52Z",
-  "count": 211,
+  "updated": "2026-08-07T03:45:32Z",
+  "count": 209,
   "points": [
     {
+      "id": "nc75413072",
+      "lon": -121.780166625977,
+      "lat": 37.4830017089844,
+      "depth": 9.47000026702881,
+      "mag": 1.25,
+      "place": "13 km ENE of Milpitas, CA",
+      "time": 1786073720110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413072"
+    },
+    {
+      "id": "ci40667602",
+      "lon": -116.961333333333,
+      "lat": 33.9823333333333,
+      "depth": 15.83,
+      "mag": 0.74,
+      "place": "6 km NNE of Beaumont, CA",
+      "time": 1786073356930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667602"
+    },
+    {
       "id": "tx2026pkkzio",
-      "lon": -103.828,
-      "lat": 32.009,
-      "depth": 7.0543,
+      "lon": -103.818,
+      "lat": 32.005,
+      "depth": 7.6251,
       "mag": 2.9,
-      "place": "33 km SE of Malaga, New Mexico",
-      "time": 1786072932143,
+      "place": "34 km SE of Malaga, New Mexico",
+      "time": 1786072932535,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pkkzio"
     },
     {
@@ -2072,46 +2092,6 @@
       "place": "14 km NE of Ridgecrest, CA",
       "time": 1785987950830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666978"
-    },
-    {
-      "id": "av93065459",
-      "lon": -158.101833333333,
-      "lat": 56.8656666666667,
-      "depth": 16.09,
-      "mag": -0.49,
-      "place": "66 km NNE of Chignik, Alaska",
-      "time": 1785987573070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065459"
-    },
-    {
-      "id": "ci40666970",
-      "lon": -116.715833333333,
-      "lat": 33.6515,
-      "depth": 14.12,
-      "mag": 0.42,
-      "place": "10 km S of Idyllwild, CA",
-      "time": 1785987377880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666970"
-    },
-    {
-      "id": "nc75412332",
-      "lon": -121.101669311523,
-      "lat": 40.1656684875488,
-      "depth": 8.51000022888184,
-      "mag": 2.11,
-      "place": "2 km WSW of Canyondam, CA",
-      "time": 1785987079660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412332"
-    },
-    {
-      "id": "ci40666962",
-      "lon": -117.598,
-      "lat": 35.7021666666667,
-      "depth": 7.81,
-      "mag": 1.34,
-      "place": "11 km NE of Ridgecrest, CA",
-      "time": 1785987033720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666962"
     }
   ]
 }
