@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-07T17:00:56Z",
-  "count": 272,
+  "updated": "2026-08-07T17:05:02Z",
+  "count": 271,
   "points": [
+    {
+      "id": "ci40668114",
+      "lon": -116.739833333333,
+      "lat": 33.516,
+      "depth": 3.76,
+      "mag": 0.71,
+      "place": "8 km SW of Anza, CA",
+      "time": 1786121885000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668114"
+    },
     {
       "id": "nc75413477",
       "lon": -121.176170349121,
@@ -1885,12 +1895,12 @@
     },
     {
       "id": "ci40667586",
-      "lon": -116.963666666667,
-      "lat": 33.9838333333333,
-      "depth": 16.21,
-      "mag": 0.99,
+      "lon": -116.961666666667,
+      "lat": 33.9818333333333,
+      "depth": 16.33,
+      "mag": 0.96,
       "place": "6 km NNE of Beaumont, CA",
-      "time": 1786063558340,
+      "time": 1786063558320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667586"
     },
     {
@@ -2702,26 +2712,6 @@
       "place": "16 km ESE of Quinlan, Oklahoma",
       "time": 1786036242859,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026phue"
-    },
-    {
-      "id": "uw714073051",
-      "lon": -124.279666666667,
-      "lat": 42.2698333333333,
-      "depth": -0.61,
-      "mag": 1.22,
-      "place": "9 km E of Pistol River, Oregon",
-      "time": 1786035741500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714073051"
-    },
-    {
-      "id": "uu80147251",
-      "lon": -112.903666666667,
-      "lat": 38.4808333333333,
-      "depth": 2.94,
-      "mag": 0.96,
-      "place": "13 km NE of Milford, Utah",
-      "time": 1786035626060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147251"
     }
   ]
 }
