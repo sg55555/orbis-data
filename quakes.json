@@ -1,16 +1,86 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-07T09:30:50Z",
-  "count": 203,
+  "updated": "2026-08-07T09:45:34Z",
+  "count": 206,
   "points": [
     {
+      "id": "nc75413222",
+      "lon": -122.820663452148,
+      "lat": 38.8718338012695,
+      "depth": 0.689999997615814,
+      "mag": 0.51,
+      "place": "10 km WNW of Cobb, CA",
+      "time": 1786095820790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413222"
+    },
+    {
+      "id": "aka2026pnkdsl",
+      "lon": -152.339,
+      "lat": 59.532,
+      "depth": 23.9,
+      "mag": 1.4,
+      "place": "30 km NW of Nanwalek, Alaska",
+      "time": 1786095663861,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pnkdsl"
+    },
+    {
+      "id": "nc75413212",
+      "lon": -121.182334899902,
+      "lat": 36.5601654052734,
+      "depth": 2.15000009536743,
+      "mag": 2.66,
+      "place": "5 km NW of Pinnacles, CA",
+      "time": 1786095634370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413212"
+    },
+    {
+      "id": "hv75014357",
+      "lon": -155.363830566406,
+      "lat": 19.1183338165283,
+      "depth": 40.2200012207031,
+      "mag": 1.72,
+      "place": "15 km SE of Pāhala, Hawaii",
+      "time": 1786095515920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75014357"
+    },
+    {
+      "id": "nc75413207",
+      "lon": -122.807662963867,
+      "lat": 38.8361663818359,
+      "depth": 2.09999990463257,
+      "mag": 1.01,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1786095339980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413207"
+    },
+    {
+      "id": "nc75413202",
+      "lon": -121.178337097168,
+      "lat": 36.5639991760254,
+      "depth": 4.19000005722046,
+      "mag": 2.24,
+      "place": "5 km NW of Pinnacles, CA",
+      "time": 1786095330670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413202"
+    },
+    {
+      "id": "ci40667746",
+      "lon": -117.589833333333,
+      "lat": 34.0183333333333,
+      "depth": 4.97,
+      "mag": 1.48,
+      "place": "5 km SE of Ontario, CA",
+      "time": 1786095099820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667746"
+    },
+    {
       "id": "nn00923041",
-      "lon": -115.9864,
-      "lat": 38.8322,
-      "depth": 3.2383,
-      "mag": 2.59,
-      "place": "75 km S of Eureka, Nevada",
-      "time": 1786094114975,
+      "lon": -116.03,
+      "lat": 38.8032,
+      "depth": 0,
+      "mag": 2.32,
+      "place": "78 km S of Eureka, Nevada",
+      "time": 1786094116560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923041"
     },
     {
@@ -342,16 +412,6 @@
       "place": "13 km W of Bayview, CA",
       "time": 1786079946810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413117"
-    },
-    {
-      "id": "tx2026pkojru",
-      "lon": -104.135,
-      "lat": 31.63,
-      "depth": 7.9124,
-      "mag": 0.6,
-      "place": "47 km NW of Toyah, Texas",
-      "time": 1786079033979,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pkojru"
     },
     {
       "id": "ci40667626",
@@ -2002,36 +2062,6 @@
       "place": "71 km ESE of Sand Point, Alaska",
       "time": 1786009742573,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026plokby"
-    },
-    {
-      "id": "aka2026plodlo",
-      "lon": -152.069,
-      "lat": 61.901,
-      "depth": 122.7,
-      "mag": 2.9,
-      "place": "36 km WSW of Skwentna, Alaska",
-      "time": 1786009285685,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026plodlo"
-    },
-    {
-      "id": "aka2026plobir",
-      "lon": -153.009,
-      "lat": 59.634,
-      "depth": 102.7,
-      "mag": 3.9,
-      "place": "64 km ESE of Pedro Bay, Alaska",
-      "time": 1786009137935,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026plobir"
-    },
-    {
-      "id": "nc75412467",
-      "lon": -122.842330932617,
-      "lat": 38.8199996948242,
-      "depth": 2.26999998092651,
-      "mag": 0.86,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": 1786008977200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412467"
     }
   ]
 }
