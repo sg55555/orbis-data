@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-07T04:01:49Z",
-  "count": 209,
+  "updated": "2026-08-07T04:15:33Z",
+  "count": 208,
   "points": [
+    {
+      "id": "ci40667618",
+      "lon": -116.904333333333,
+      "lat": 36.3703333333333,
+      "depth": 1.98,
+      "mag": 1.42,
+      "place": "10 km SSW of Furnace Creek, CA",
+      "time": 1786075152520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667618"
+    },
+    {
+      "id": "tx2026pkmfkq",
+      "lon": -102.054,
+      "lat": 31.79,
+      "depth": 0.0731,
+      "mag": 1.2,
+      "place": "23 km S of Midland, Texas",
+      "time": 1786075112273,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pkmfkq"
+    },
     {
       "id": "nc75413082",
       "lon": -122.81616973877,
@@ -2034,6 +2054,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714072661"
     },
     {
+      "id": "av93065479",
+      "lon": -159.374833333333,
+      "lat": 56.2135,
+      "depth": 4.35,
+      "mag": -0.01,
+      "place": "35 km N of Ivanof Bay, Alaska",
+      "time": 1785990457480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065479"
+    },
+    {
       "id": "aka2026pldnws",
       "lon": -156.842,
       "lat": 54.769,
@@ -2052,46 +2082,6 @@
       "place": "44 km NE of Chase, Alaska",
       "time": 1785989908423,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pldips"
-    },
-    {
-      "id": "us6000tihn",
-      "lon": -87.6264,
-      "lat": 11.8219,
-      "depth": 38.188,
-      "mag": 4.1,
-      "place": "88 km SW of Corinto, Nicaragua",
-      "time": 1785989627605,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tihn"
-    },
-    {
-      "id": "aka2026pldfit",
-      "lon": -156.828,
-      "lat": 54.775,
-      "depth": 20,
-      "mag": 3.6,
-      "place": "193 km SE of Perryville, Alaska",
-      "time": 1785989594196,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pldfit"
-    },
-    {
-      "id": "aka2026plddkq",
-      "lon": -156.815,
-      "lat": 54.738,
-      "depth": 36.2,
-      "mag": 3.9,
-      "place": "197 km SE of Perryville, Alaska",
-      "time": 1785989508903,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026plddkq"
-    },
-    {
-      "id": "nc75412347",
-      "lon": -122.717163085938,
-      "lat": 38.7578315734863,
-      "depth": 1.79999995231628,
-      "mag": 1.19,
-      "place": "3 km SW of Anderson Springs, CA",
-      "time": 1785988906130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412347"
     }
   ]
 }
