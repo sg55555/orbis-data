@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-07T14:30:57Z",
-  "count": 231,
+  "updated": "2026-08-07T14:45:35Z",
+  "count": 232,
   "points": [
+    {
+      "id": "tx2026plhgat",
+      "lon": -103.194,
+      "lat": 31.395,
+      "depth": 3.0367,
+      "mag": 1.5,
+      "place": "16 km SSW of Pyote, Texas",
+      "time": 1786113171800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026plhgat"
+    },
     {
       "id": "nc75413352",
       "lon": -121.184501647949,
@@ -22,6 +32,16 @@
       "place": "2 km NNE of The Geysers, CA",
       "time": 1786112870310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413347"
+    },
+    {
+      "id": "us6000tixr",
+      "lon": 156.7027,
+      "lat": 50.4235,
+      "depth": 83.854,
+      "mag": 5,
+      "place": "49 km SE of Severo-Kuril’sk, Russia",
+      "time": 1786112490314,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tixr"
     },
     {
       "id": "aka2026pntgon",
@@ -62,16 +82,6 @@
       "place": "40 km N of Searles Valley, CA",
       "time": 1786110554040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667970"
-    },
-    {
-      "id": "tx2026plfugp",
-      "lon": -103.271,
-      "lat": 31.26,
-      "depth": 0,
-      "mag": 2.1,
-      "place": "19 km W of Coyanosa, Texas",
-      "time": 1786110531482,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026plfugp"
     },
     {
       "id": "nc75413332",
@@ -1224,6 +1234,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75014222"
     },
     {
+      "id": "uu80147331",
+      "lon": -112.883666666667,
+      "lat": 38.5115,
+      "depth": 2.36,
+      "mag": 1.91,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1786069291300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147331"
+    },
+    {
       "id": "tx2026pkizlj",
       "lon": -98.966,
       "lat": 28.812,
@@ -2302,16 +2322,6 @@
       "place": "34 km WNW of Akhiok, Alaska",
       "time": 1786028026576,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026plyofm"
-    },
-    {
-      "id": "hv75013957",
-      "lon": -155.586502075195,
-      "lat": 19.4238338470459,
-      "depth": 37.9500007629395,
-      "mag": 1.87,
-      "place": "26 km NNW of Pāhala, Hawaii",
-      "time": 1786027168240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75013957"
     }
   ]
 }
