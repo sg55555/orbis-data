@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-07T02:30:47Z",
+  "updated": "2026-08-07T02:45:40Z",
   "count": 209,
   "points": [
+    {
+      "id": "nc75413047",
+      "lon": -123.261497497559,
+      "lat": 39.4054985046387,
+      "depth": 6.76999998092651,
+      "mag": 1.49,
+      "place": "8 km E of Willits, CA",
+      "time": 1786070534130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413047"
+    },
+    {
+      "id": "hv75014222",
+      "lon": -155.371994018555,
+      "lat": 19.025333404541,
+      "depth": 33.25,
+      "mag": 2.34,
+      "place": "22 km ESE of Naalehu, Hawaii",
+      "time": 1786070113710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75014222"
+    },
     {
       "id": "aka2026pmvdnm",
       "lon": -154.287,
@@ -212,6 +232,16 @@
       "place": "2 km N of Lake Henshaw, CA",
       "time": 1786060872450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667578"
+    },
+    {
+      "id": "us6000tits",
+      "lon": -68.8413,
+      "lat": -33.1527,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "29 km S of Mendoza, Argentina",
+      "time": 1786060838677,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tits"
     },
     {
       "id": "nc75412957",
@@ -2062,36 +2092,6 @@
       "place": "9 km NNW of Big Spring, Texas",
       "time": 1785985807002,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026piowvf"
-    },
-    {
-      "id": "nc75412312",
-      "lon": -123.450668334961,
-      "lat": 40.0131683349609,
-      "depth": 10.4700002670288,
-      "mag": 1.83,
-      "place": "30 km NW of Covelo, CA",
-      "time": 1785984235080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412312"
-    },
-    {
-      "id": "tx2026pinzyd",
-      "lon": -102.045,
-      "lat": 31.771,
-      "depth": 2.6855,
-      "mag": 0.7,
-      "place": "25 km S of Midland, Texas",
-      "time": 1785984216904,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pinzyd"
-    },
-    {
-      "id": "aka2026pladxz",
-      "lon": -152.886,
-      "lat": 59.897,
-      "depth": 99.8,
-      "mag": 2,
-      "place": "60 km WNW of Anchor Point, Alaska",
-      "time": 1785984129365,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pladxz"
     }
   ]
 }
