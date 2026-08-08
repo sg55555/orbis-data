@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T15:15:33Z",
-  "count": 243,
+  "updated": "2026-08-08T15:30:43Z",
+  "count": 242,
   "points": [
+    {
+      "id": "hv75015062",
+      "lon": -155.503173828125,
+      "lat": 19.150333404541,
+      "depth": 32.7000007629395,
+      "mag": 1.96,
+      "place": "6 km SSW of Pāhala, Hawaii",
+      "time": 1786202168700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015062"
+    },
     {
       "id": "ci40668706",
       "lon": -116.731166666667,
@@ -952,6 +962,16 @@
       "place": "51 km WNW of Skwentna, Alaska",
       "time": 1786164995171,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powrpu"
+    },
+    {
+      "id": "uw714073322",
+      "lon": -122.157501220703,
+      "lat": 47.2668342590332,
+      "depth": 3.95000004768372,
+      "mag": 1.8748242855072,
+      "place": "6 km SSE of Lea Hill, Washington",
+      "time": 1786164933270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714073322"
     },
     {
       "id": "aka2026powmkf",
@@ -2402,36 +2422,6 @@
       "place": "4 km SSW of Volcano, Hawaii",
       "time": 1786116784280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75014502"
-    },
-    {
-      "id": "tx2026pliywy",
-      "lon": -103.837,
-      "lat": 31.951,
-      "depth": 9.5862,
-      "mag": 0.8,
-      "place": "35 km NW of Mentone, Texas",
-      "time": 1786116296428,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pliywy"
-    },
-    {
-      "id": "tx2026plixjf",
-      "lon": -99.01,
-      "lat": 28.813,
-      "depth": 8.6951,
-      "mag": 1.6,
-      "place": "12 km SE of Pearsall, Texas",
-      "time": 1786116186547,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026plixjf"
-    },
-    {
-      "id": "nc75413392",
-      "lon": -121.196334838867,
-      "lat": 36.5613327026367,
-      "depth": 2.00999999046326,
-      "mag": 2.89,
-      "place": "6 km NW of Pinnacles, CA",
-      "time": 1786115812040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413392"
     }
   ]
 }
