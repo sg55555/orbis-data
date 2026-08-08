@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T05:45:36Z",
-  "count": 292,
+  "updated": "2026-08-08T05:55:15Z",
+  "count": 290,
   "points": [
+    {
+      "id": "nc75413897",
+      "lon": -120.980331420898,
+      "lat": 36.0321655273438,
+      "depth": 11.6899995803833,
+      "mag": 1.65,
+      "place": "7 km W of San Ardo, CA",
+      "time": 1786168265750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413897"
+    },
+    {
+      "id": "aka2026poyilk",
+      "lon": -152.338,
+      "lat": 62.26,
+      "depth": 5,
+      "mag": 2.1,
+      "place": "57 km WNW of Skwentna, Alaska",
+      "time": 1786167958028,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026poyilk"
+    },
     {
       "id": "aka2026poycws",
       "lon": -152.322,
@@ -2882,46 +2902,6 @@
       "place": "15 km E of Stanton, Texas",
       "time": 1786082142535,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pkqcjz"
-    },
-    {
-      "id": "tx2026pkptxm",
-      "lon": -103.185,
-      "lat": 31.347,
-      "depth": 5.2201,
-      "mag": 1.6,
-      "place": "16 km NW of Coyanosa, Texas",
-      "time": 1786081552859,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pkptxm"
-    },
-    {
-      "id": "aka2026pnchrx",
-      "lon": -154.886,
-      "lat": 57.289,
-      "depth": 56.3,
-      "mag": 1.4,
-      "place": "40 km SW of Karluk, Alaska",
-      "time": 1786081546299,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pnchrx"
-    },
-    {
-      "id": "av94364563",
-      "lon": -178.837166666667,
-      "lat": 51.7861666666667,
-      "depth": 12.39,
-      "mag": 0.92,
-      "place": "152 km W of Adak, Alaska",
-      "time": 1786081539820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94364563"
-    },
-    {
-      "id": "tx2026pkptoi",
-      "lon": -101.635,
-      "lat": 32.129,
-      "depth": 8.1787,
-      "mag": 2.2,
-      "place": "14 km E of Stanton, Texas",
-      "time": 1786081527752,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pkptoi"
     }
   ]
 }
