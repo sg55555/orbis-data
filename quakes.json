@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T21:40:39Z",
-  "count": 230,
+  "updated": "2026-08-08T22:01:29Z",
+  "count": 226,
   "points": [
     {
-      "id": "ci40668938",
-      "lon": -116.735336303711,
-      "lat": 33.2903327941895,
-      "depth": 13.1300001144409,
-      "mag": 1.0973052361017,
+      "id": "ci40668954",
+      "lon": -116.7325,
+      "lat": 33.2923333333333,
+      "depth": 12.27,
+      "mag": 0.51,
       "place": "6 km NNE of Lake Henshaw, CA",
-      "time": 1786225088080,
+      "time": 1786225899320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668954"
+    },
+    {
+      "id": "ci40668938",
+      "lon": -116.742,
+      "lat": 33.2903333333333,
+      "depth": 12.53,
+      "mag": 0.87,
+      "place": "6 km NNE of Lake Henshaw, CA",
+      "time": 1786225088110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668938"
     },
     {
@@ -2252,56 +2262,6 @@
       "place": "7 km W of Cobb, CA",
       "time": 1786140737230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413692"
-    },
-    {
-      "id": "aka2026poiuvv",
-      "lon": -150.129,
-      "lat": 61.655,
-      "depth": 2.8,
-      "mag": 2.4,
-      "place": "11 km SSW of Willow, Alaska",
-      "time": 1786140029826,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026poiuvv"
-    },
-    {
-      "id": "av94366443",
-      "lon": -153.079666666667,
-      "lat": 60.0363333333333,
-      "depth": 3.42,
-      "mag": -0.81,
-      "place": "63 km ENE of Pedro Bay, Alaska",
-      "time": 1786139824620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94366443"
-    },
-    {
-      "id": "hv75014672",
-      "lon": -155.311660766602,
-      "lat": 19.3303337097168,
-      "depth": 31.2199993133545,
-      "mag": 1.88,
-      "place": "14 km SSW of Volcano, Hawaii",
-      "time": 1786139420630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75014672"
-    },
-    {
-      "id": "hv75014662",
-      "lon": -155.48583984375,
-      "lat": 19.2614994049072,
-      "depth": 1.95000004768372,
-      "mag": 1.77,
-      "place": "6 km N of Pāhala, Hawaii",
-      "time": 1786138974670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75014662"
-    },
-    {
-      "id": "ci40668314",
-      "lon": -117.788,
-      "lat": 35.3603333333333,
-      "depth": 6.42,
-      "mag": 0.8,
-      "place": "14 km W of Johannesburg, CA",
-      "time": 1786138918710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668314"
     }
   ]
 }
