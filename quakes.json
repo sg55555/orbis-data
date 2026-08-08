@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T23:15:30Z",
+  "updated": "2026-08-08T23:30:41Z",
   "count": 223,
   "points": [
+    {
+      "id": "hv75015197",
+      "lon": -155.570999145508,
+      "lat": 19.4238338470459,
+      "depth": 39.189998626709,
+      "mag": 1.89,
+      "place": "26 km NNW of Pāhala, Hawaii",
+      "time": 1786231456700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015197"
+    },
     {
       "id": "ci40669026",
       "lon": -116.966333333333,
@@ -285,12 +295,12 @@
     },
     {
       "id": "tx2026pnoatd",
-      "lon": -101.606,
-      "lat": 32.392,
-      "depth": 3.0405,
+      "lon": -101.614,
+      "lat": 32.396,
+      "depth": 4.1202,
       "mag": 2.3,
-      "place": "18 km SE of Ackerly, Texas",
-      "time": 1786219612658,
+      "place": "17 km SSE of Ackerly, Texas",
+      "time": 1786219612480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pnoatd"
     },
     {
@@ -362,6 +372,16 @@
       "place": "17 km SE of Ackerly, Texas",
       "time": 1786218953586,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pnnrbk"
+    },
+    {
+      "id": "tx2026pnnrbt",
+      "lon": -101.614,
+      "lat": 32.395,
+      "depth": 4.0624,
+      "mag": 2.3,
+      "place": "17 km SSE of Ackerly, Texas",
+      "time": 1786218953365,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pnnrbt"
     },
     {
       "id": "aka2026pqadcz",
@@ -2212,26 +2232,6 @@
       "place": "122 km WSW of Gorontalo, Indonesia",
       "time": 1786145448420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj4x"
-    },
-    {
-      "id": "hv75014722",
-      "lon": -155.488494873047,
-      "lat": 19.3871669769287,
-      "depth": 5.42000007629395,
-      "mag": 1.73,
-      "place": "20 km N of Pāhala, Hawaii",
-      "time": 1786145191970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75014722"
-    },
-    {
-      "id": "tx2026plyvxz",
-      "lon": -101.255,
-      "lat": 32.29,
-      "depth": 3.2873,
-      "mag": 2,
-      "place": "4 km E of Coahoma, Texas",
-      "time": 1786145053613,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026plyvxz"
     }
   ]
 }
