@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T18:30:48Z",
-  "count": 230,
+  "updated": "2026-08-08T18:45:35Z",
+  "count": 229,
   "points": [
+    {
+      "id": "ci40668778",
+      "lon": -116.656166666667,
+      "lat": 33.5645,
+      "depth": 7.78,
+      "mag": 0.57,
+      "place": "2 km ENE of Anza, CA",
+      "time": 1786214253770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668778"
+    },
+    {
+      "id": "ci40668770",
+      "lon": -117.013166666667,
+      "lat": 34.2881666666667,
+      "depth": 5.3,
+      "mag": 1.06,
+      "place": "11 km WNW of Big Bear Lake, CA",
+      "time": 1786214044810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668770"
+    },
     {
       "id": "aka2026ppwwng",
       "lon": -153.319,
@@ -15,12 +35,12 @@
     },
     {
       "id": "us6000tjaj",
-      "lon": 142.3528,
-      "lat": 40.1753,
-      "depth": 52.87,
+      "lon": 142.3107,
+      "lat": 40.1723,
+      "depth": 34,
       "mag": 5.6,
-      "place": "46 km E of Noda, Japan",
-      "time": 1786211880765,
+      "place": "42 km E of Noda, Japan",
+      "time": 1786211878745,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjaj"
     },
     {
@@ -2272,36 +2292,6 @@
       "place": "62 km ENE of Pedro Bay, Alaska",
       "time": 1786128349730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94366093"
-    },
-    {
-      "id": "us6000tj22",
-      "lon": 140.68,
-      "lat": 36.7231,
-      "depth": 10,
-      "mag": 4.2,
-      "place": "3 km WNW of Takahagi, Japan",
-      "time": 1786128091903,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj22"
-    },
-    {
-      "id": "ci40668194",
-      "lon": -117.105833333333,
-      "lat": 33.7568333333333,
-      "depth": -0.52,
-      "mag": 1.17,
-      "place": "3 km NW of Green Acres, CA",
-      "time": 1786127831920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668194"
-    },
-    {
-      "id": "nc75413567",
-      "lon": -121.187835693359,
-      "lat": 36.5740013122559,
-      "depth": 3.73000001907349,
-      "mag": 1.92,
-      "place": "6 km NW of Pinnacles, CA",
-      "time": 1786127684410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413567"
     }
   ]
 }
