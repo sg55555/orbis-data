@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T00:45:34Z",
-  "count": 294,
+  "updated": "2026-08-08T01:00:52Z",
+  "count": 291,
   "points": [
+    {
+      "id": "ci40668434",
+      "lon": -117.807166666667,
+      "lat": 35.3185,
+      "depth": 7.32,
+      "mag": 1.73,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1786150046770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668434"
+    },
     {
       "id": "ci40668418",
       "lon": -117.592,
@@ -42,6 +52,16 @@
       "place": "93 km NW of Skwentna, Alaska",
       "time": 1786147871589,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026poneef"
+    },
+    {
+      "id": "tx2026pmaiuy",
+      "lon": -103.485,
+      "lat": 31.18,
+      "depth": 4.6925,
+      "mag": 1.5,
+      "place": "21 km SSE of Lindsay, Texas",
+      "time": 1786147776940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pmaiuy"
     },
     {
       "id": "aka2026pomwpi",
@@ -2892,56 +2912,6 @@
       "place": "9 km NW of Four Mile Road, Alaska",
       "time": 1786065122724,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pmtejg"
-    },
-    {
-      "id": "av94364003",
-      "lon": -176.135,
-      "lat": 52.0743333333333,
-      "depth": -1.77,
-      "mag": -0.67,
-      "place": "40 km ENE of Adak, Alaska",
-      "time": 1786064253490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94364003"
-    },
-    {
-      "id": "aka2026pmsqsd",
-      "lon": -149.85,
-      "lat": 64.781,
-      "depth": 0.7,
-      "mag": 2.5,
-      "place": "40 km WNW of Four Mile Road, Alaska",
-      "time": 1786064177484,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pmsqsd"
-    },
-    {
-      "id": "tx2026pkftjc",
-      "lon": -102.087,
-      "lat": 32.379,
-      "depth": 6.9092,
-      "mag": 1,
-      "place": "38 km WSW of Ackerly, Texas",
-      "time": 1786063578414,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pkftjc"
-    },
-    {
-      "id": "ci10248110",
-      "lon": -117.752,
-      "lat": 34.4136666666667,
-      "depth": 7.76,
-      "mag": 1.36,
-      "place": "9 km SSE of Llano, CA",
-      "time": 1786063568560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10248110"
-    },
-    {
-      "id": "ci40667586",
-      "lon": -116.961666666667,
-      "lat": 33.9818333333333,
-      "depth": 16.33,
-      "mag": 0.96,
-      "place": "6 km NNE of Beaumont, CA",
-      "time": 1786063558320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667586"
     }
   ]
 }
