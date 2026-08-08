@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T02:45:31Z",
-  "count": 287,
+  "updated": "2026-08-08T03:00:54Z",
+  "count": 286,
   "points": [
+    {
+      "id": "ci40668490",
+      "lon": -117.413333333333,
+      "lat": 34.1233333333333,
+      "depth": 4.16,
+      "mag": 0.63,
+      "place": "4 km WNW of Rialto, CA",
+      "time": 1786156993070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668490"
+    },
     {
       "id": "aka2026poraym",
       "lon": -152.252,
@@ -184,14 +194,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pombox"
     },
     {
-      "id": "aka2026pomall",
-      "lon": 176.155,
-      "lat": 51.794,
-      "depth": 20,
-      "mag": 3,
-      "place": "233 km ESE of Attu Station, Alaska",
-      "time": 1786145816916,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pomall"
+      "id": "us6000tj60",
+      "lon": 176.2863,
+      "lat": 51.7896,
+      "depth": 10,
+      "mag": 2.8,
+      "place": "241 km ESE of Attu Station, Alaska",
+      "time": 1786145816605,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj60"
     },
     {
       "id": "nc75413742",
@@ -2594,6 +2604,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667626"
     },
     {
+      "id": "av94364438",
+      "lon": -174.119166666667,
+      "lat": 52.4791666666667,
+      "depth": 4.31,
+      "mag": 0.45,
+      "place": "31 km N of Atka, Alaska",
+      "time": 1786078206820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94364438"
+    },
+    {
       "id": "nc75413102",
       "lon": -122.721000671387,
       "lat": 38.7973327636719,
@@ -2842,36 +2862,6 @@
       "place": "15 km E of Stanton, Texas",
       "time": 1786071641954,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pkkhoy"
-    },
-    {
-      "id": "uu80007838",
-      "lon": -112.735166666667,
-      "lat": 37.2638333333333,
-      "depth": 3.43,
-      "mag": 0.96,
-      "place": "8 km W of Orderville, Utah",
-      "time": 1786071438340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007838"
-    },
-    {
-      "id": "av94364183",
-      "lon": -178.816333333333,
-      "lat": 51.791,
-      "depth": 10.33,
-      "mag": 1.02,
-      "place": "150 km W of Adak, Alaska",
-      "time": 1786071265140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94364183"
-    },
-    {
-      "id": "nc75413057",
-      "lon": -122.806831359863,
-      "lat": 38.8235015869141,
-      "depth": 1.39999997615814,
-      "mag": 1.14,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1786071241410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413057"
     }
   ]
 }
