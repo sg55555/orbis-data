@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T03:54:34Z",
+  "updated": "2026-08-08T04:00:56Z",
   "count": 290,
   "points": [
+    {
+      "id": "us6000tj68",
+      "lon": 82.875,
+      "lat": 39.6351,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "158 km NNE of Darya Boyi, China",
+      "time": 1786160726267,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj68"
+    },
     {
       "id": "ci40668522",
       "lon": -116.834166666667,
@@ -152,6 +162,16 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1786153293140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668458"
+    },
+    {
+      "id": "us6000tj5u",
+      "lon": 144.5582,
+      "lat": 42.3596,
+      "depth": 35,
+      "mag": 4.2,
+      "place": "69 km SSE of Kushiro, Japan",
+      "time": 1786152753870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj5u"
     },
     {
       "id": "ci40668434",
@@ -2882,26 +2902,6 @@
       "place": "69 km WSW of Nikolski, Alaska",
       "time": 1786075468320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94364348"
-    },
-    {
-      "id": "ci40667618",
-      "lon": -116.890333333333,
-      "lat": 36.3796666666667,
-      "depth": 6.09,
-      "mag": 1.22,
-      "place": "9 km SSW of Furnace Creek, CA",
-      "time": 1786075152350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667618"
-    },
-    {
-      "id": "tx2026pkmfkq",
-      "lon": -102.021,
-      "lat": 31.775,
-      "depth": 5.8838,
-      "mag": 0.5,
-      "place": "25 km SSE of Midland, Texas",
-      "time": 1786075111946,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pkmfkq"
     }
   ]
 }
