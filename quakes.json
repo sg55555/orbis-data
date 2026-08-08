@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T13:30:42Z",
-  "count": 253,
+  "updated": "2026-08-08T13:45:31Z",
+  "count": 252,
   "points": [
+    {
+      "id": "ci40668666",
+      "lon": -117.389833333333,
+      "lat": 34.0711666666667,
+      "depth": 22.3,
+      "mag": 0.86,
+      "place": "1 km E of Bloomington, CA",
+      "time": 1786196305570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668666"
+    },
     {
       "id": "ci40668650",
       "lon": -116.3345,
@@ -2512,26 +2522,6 @@
       "place": "104 km ESE of Adak, Alaska",
       "time": 1786110328941,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pnshpi"
-    },
-    {
-      "id": "nc75413332",
-      "lon": -122.716003417969,
-      "lat": 38.7836685180664,
-      "depth": 1.77999997138977,
-      "mag": 0.96,
-      "place": "2 km WNW of Anderson Springs, CA",
-      "time": 1786110098940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413332"
-    },
-    {
-      "id": "nc75413322",
-      "lon": -122.742835998535,
-      "lat": 38.8240013122559,
-      "depth": 1.62000000476837,
-      "mag": 0.7,
-      "place": "2 km W of Cobb, CA",
-      "time": 1786109751690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413322"
     }
   ]
 }
