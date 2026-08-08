@@ -1,6 +1,6 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T03:45:34Z",
+  "updated": "2026-08-08T03:54:34Z",
   "count": 290,
   "points": [
     {
@@ -32,6 +32,16 @@
       "place": "8 km WNW of Cobb, CA",
       "time": 1786160182280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413847"
+    },
+    {
+      "id": "us6000tj67",
+      "lon": 73.853,
+      "lat": 32.7786,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "2 km ESE of Mehmand Chak, Pakistan",
+      "time": 1786159804685,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj67"
     },
     {
       "id": "ci40668506",
@@ -2304,6 +2314,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065529"
     },
     {
+      "id": "av94364783",
+      "lon": -153.066833333333,
+      "lat": 60.0306666666667,
+      "depth": 3.18,
+      "mag": -0.64,
+      "place": "64 km ENE of Pedro Bay, Alaska",
+      "time": 1786087945750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94364783"
+    },
+    {
       "id": "us6000tiwd",
       "lon": -68.962,
       "lat": -22.1164,
@@ -2882,26 +2902,6 @@
       "place": "25 km SSE of Midland, Texas",
       "time": 1786075111946,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pkmfkq"
-    },
-    {
-      "id": "tx2026pklxfs",
-      "lon": -98.987,
-      "lat": 28.811,
-      "depth": 7.7931,
-      "mag": 1.8,
-      "place": "13 km SE of Pearsall, Texas",
-      "time": 1786074545186,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pklxfs"
-    },
-    {
-      "id": "nc75413082",
-      "lon": -122.81616973877,
-      "lat": 38.8619995117188,
-      "depth": 2.04999995231628,
-      "mag": 1.04,
-      "place": "9 km WNW of Cobb, CA",
-      "time": 1786074414990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413082"
     }
   ]
 }
