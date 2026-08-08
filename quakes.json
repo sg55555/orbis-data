@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T15:39:57Z",
-  "count": 239,
+  "updated": "2026-08-08T16:01:10Z",
+  "count": 241,
   "points": [
+    {
+      "id": "aka2026ppssfl",
+      "lon": -153.146,
+      "lat": 60,
+      "depth": 5,
+      "mag": 2.4,
+      "place": "58 km ENE of Pedro Bay, Alaska",
+      "time": 1786204618146,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppssfl"
+    },
+    {
+      "id": "aka2026ppsghz",
+      "lon": -153.513,
+      "lat": 60.167,
+      "depth": 5,
+      "mag": 1.4,
+      "place": "44 km E of Port Alsworth, Alaska",
+      "time": 1786203794453,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppsghz"
+    },
     {
       "id": "nc75414027",
       "lon": -123.442665100098,
@@ -12,6 +32,16 @@
       "place": "31 km NNW of Covelo, CA",
       "time": 1786203202210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414027"
+    },
+    {
+      "id": "pr71527893",
+      "lon": -67.4288333333333,
+      "lat": 18.0918333333333,
+      "depth": 16.72,
+      "mag": 2.62,
+      "place": "25 km W of Puerto Real, Puerto Rico",
+      "time": 1786202775410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527893"
     },
     {
       "id": "hv75015062",
@@ -874,14 +904,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026poxsgc"
     },
     {
-      "id": "aka2026poxjfo",
-      "lon": -173.473,
-      "lat": 51.413,
-      "depth": 7.1,
-      "mag": 3.6,
-      "place": "100 km SSE of Atka, Alaska",
-      "time": 1786166201929,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026poxjfo"
+      "id": "us6000tj6x",
+      "lon": -173.4796,
+      "lat": 51.4851,
+      "depth": 35,
+      "mag": 3.4,
+      "place": "93 km SSE of Atka, Alaska",
+      "time": 1786166204594,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj6x"
     },
     {
       "id": "ci40668546",
@@ -1082,6 +1112,16 @@
       "place": "8 km WNW of Cobb, CA",
       "time": 1786160182280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413847"
+    },
+    {
+      "id": "ci40668530",
+      "lon": -116.0135,
+      "lat": 32.7935,
+      "depth": 9.1,
+      "mag": 0.93,
+      "place": "7 km NNW of Ocotillo, CA",
+      "time": 1786160163580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668530"
     },
     {
       "id": "us6000tj67",
@@ -2372,26 +2412,6 @@
       "place": "51 km NNE of Cruz Bay, U.S. Virgin Islands",
       "time": 1786118473500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527818"
-    },
-    {
-      "id": "nc75413432",
-      "lon": -121.186996459961,
-      "lat": 36.5660018920898,
-      "depth": 3.78999996185303,
-      "mag": 3.26,
-      "place": "5 km NW of Pinnacles, CA",
-      "time": 1786117604990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413432"
-    },
-    {
-      "id": "us6000tizf",
-      "lon": -69.6381,
-      "lat": -18.7433,
-      "depth": 95.512,
-      "mag": 4.4,
-      "place": "66 km NNW of Camiña, Chile",
-      "time": 1786117344743,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tizf"
     }
   ]
 }
