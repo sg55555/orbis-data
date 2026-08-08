@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T23:38:56Z",
-  "count": 220,
+  "updated": "2026-08-08T23:45:32Z",
+  "count": 221,
   "points": [
+    {
+      "id": "ci40669034",
+      "lon": -116.332833333333,
+      "lat": 33.2715,
+      "depth": 2.82,
+      "mag": 0.44,
+      "place": "4 km ENE of Borrego Springs, CA",
+      "time": 1786232278920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669034"
+    },
     {
       "id": "hv75015197",
       "lon": -155.570999145508,
@@ -22,6 +32,16 @@
       "place": "1 km NW of San Jacinto, CA",
       "time": 1786230660030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669026"
+    },
+    {
+      "id": "us6000tjbm",
+      "lon": 130.3704,
+      "lat": 32.4533,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "16 km E of Amakusa, Japan",
+      "time": 1786230127025,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjbm"
     },
     {
       "id": "ci40669018",
@@ -2192,16 +2212,6 @@
       "place": "17 km NE of Milford, Utah",
       "time": 1786146881930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147516"
-    },
-    {
-      "id": "us6000tj62",
-      "lon": 176.243,
-      "lat": 51.8444,
-      "depth": 10,
-      "mag": 2.5,
-      "place": "236 km ESE of Attu Station, Alaska",
-      "time": 1786145900453,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj62"
     }
   ]
 }
