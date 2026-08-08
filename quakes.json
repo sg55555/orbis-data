@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T15:01:55Z",
-  "count": 245,
+  "updated": "2026-08-08T15:15:33Z",
+  "count": 243,
   "points": [
+    {
+      "id": "ci40668706",
+      "lon": -116.731166666667,
+      "lat": 33.6586666666667,
+      "depth": 14.16,
+      "mag": 1.56,
+      "place": "9 km S of Idyllwild, CA",
+      "time": 1786201216300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668706"
+    },
     {
       "id": "aka2026ppqsor",
       "lon": -153.171,
@@ -732,6 +742,16 @@
       "place": "58 km WNW of Skwentna, Alaska",
       "time": 1786172508685,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppawfh"
+    },
+    {
+      "id": "us6000tj7a",
+      "lon": 140.1099,
+      "lat": 39.9436,
+      "depth": 173.075,
+      "mag": 4.3,
+      "place": "1 km NNW of Gojōnome, Japan",
+      "time": 1786172390876,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj7a"
     },
     {
       "id": "aka2026ppankx",
@@ -2412,46 +2432,6 @@
       "place": "6 km NW of Pinnacles, CA",
       "time": 1786115812040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413392"
-    },
-    {
-      "id": "nc75413387",
-      "lon": -122.813667297363,
-      "lat": 38.8271675109863,
-      "depth": 1.48000001907349,
-      "mag": 0.71,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1786115512350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413387"
-    },
-    {
-      "id": "ci40668034",
-      "lon": -117.805333333333,
-      "lat": 35.3166666666667,
-      "depth": 7.46,
-      "mag": 0.99,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1786115461160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668034"
-    },
-    {
-      "id": "us6000tj0y",
-      "lon": 176.3386,
-      "lat": 52.0136,
-      "depth": 10,
-      "mag": 2.7,
-      "place": "233 km ESE of Attu Station, Alaska",
-      "time": 1786115387537,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj0y"
-    },
-    {
-      "id": "av94365623",
-      "lon": -176.736,
-      "lat": 52.0841666666667,
-      "depth": 26.81,
-      "mag": 0.63,
-      "place": "24 km NNW of Adak, Alaska",
-      "time": 1786115190740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94365623"
     }
   ]
 }
