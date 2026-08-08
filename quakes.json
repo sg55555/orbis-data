@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T05:31:03Z",
-  "count": 291,
+  "updated": "2026-08-08T05:45:36Z",
+  "count": 292,
   "points": [
+    {
+      "id": "aka2026poycws",
+      "lon": -152.322,
+      "lat": 62.245,
+      "depth": 5,
+      "mag": 2.4,
+      "place": "55 km WNW of Skwentna, Alaska",
+      "time": 1786167573023,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026poycws"
+    },
     {
       "id": "aka2026poxsgc",
       "lon": -152.332,
@@ -1594,6 +1604,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94365513"
     },
     {
+      "id": "av94365503",
+      "lon": -155.355666666667,
+      "lat": 58.1718333333333,
+      "depth": 1.02,
+      "mag": -0.48,
+      "place": "85 km NW of Karluk, Alaska",
+      "time": 1786111300690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94365503"
+    },
+    {
       "id": "nc75413342",
       "lon": -122.824165344238,
       "lat": 38.8368339538574,
@@ -1602,6 +1622,16 @@
       "place": "9 km NW of The Geysers, CA",
       "time": 1786111178910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413342"
+    },
+    {
+      "id": "av94365498",
+      "lon": -176.1565,
+      "lat": 52.0885,
+      "depth": 10.26,
+      "mag": 0.32,
+      "place": "40 km NE of Adak, Alaska",
+      "time": 1786111043960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94365498"
     },
     {
       "id": "av94365483",
@@ -2892,26 +2922,6 @@
       "place": "14 km E of Stanton, Texas",
       "time": 1786081527752,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pkptoi"
-    },
-    {
-      "id": "ci40667642",
-      "lon": -115.8755,
-      "lat": 32.8063333333333,
-      "depth": 8.32,
-      "mag": 0.84,
-      "place": "14 km NE of Ocotillo, CA",
-      "time": 1786081341370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667642"
-    },
-    {
-      "id": "av94364533",
-      "lon": -178.8425,
-      "lat": 51.785,
-      "depth": 13.68,
-      "mag": 0.39,
-      "place": "152 km W of Adak, Alaska",
-      "time": 1786080979680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94364533"
     }
   ]
 }
