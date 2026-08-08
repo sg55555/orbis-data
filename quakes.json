@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T01:30:40Z",
+  "updated": "2026-08-08T01:45:32Z",
   "count": 288,
   "points": [
+    {
+      "id": "ci40668458",
+      "lon": -117.806167602539,
+      "lat": 35.3211669921875,
+      "depth": 6.40000009536743,
+      "mag": 1.60841210358474,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1786153293160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668458"
+    },
     {
       "id": "ci40668434",
       "lon": -117.807166666667,
@@ -172,6 +182,16 @@
       "place": "6 km ENE of Fox, Alaska",
       "time": 1786143735430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pokwjx"
+    },
+    {
+      "id": "us6000tj4i",
+      "lon": 125.622,
+      "lat": 5.8489,
+      "depth": 139.805,
+      "mag": 4.6,
+      "place": "7 km SSW of Caburan, Philippines",
+      "time": 1786143229394,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj4i"
     },
     {
       "id": "nc75413702",
@@ -2862,26 +2882,6 @@
       "place": "62 km ENE of Pedro Bay, Alaska",
       "time": 1786067167650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94364073"
-    },
-    {
-      "id": "ci40667594",
-      "lon": -116.288166666667,
-      "lat": 33.2165,
-      "depth": 9.44,
-      "mag": 0.59,
-      "place": "9 km ESE of Borrego Springs, CA",
-      "time": 1786066932190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667594"
-    },
-    {
-      "id": "pr71527738",
-      "lon": -65.7631666666667,
-      "lat": 18.6988333333333,
-      "depth": 26.96,
-      "mag": 3.16,
-      "place": "31 km NNE of Vieques, Puerto Rico",
-      "time": 1786066342250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527738"
     }
   ]
 }
