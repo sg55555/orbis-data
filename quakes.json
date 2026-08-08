@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T07:00:58Z",
-  "count": 283,
+  "updated": "2026-08-08T07:08:55Z",
+  "count": 280,
   "points": [
+    {
+      "id": "aka2026ppawfh",
+      "lon": -152.37,
+      "lat": 62.248,
+      "depth": 0.6,
+      "mag": 3.4,
+      "place": "58 km WNW of Skwentna, Alaska",
+      "time": 1786172508685,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppawfh"
+    },
     {
       "id": "aka2026ppankx",
       "lon": -148.915,
@@ -1132,6 +1142,16 @@
       "place": "16 km NE of Milford, Utah",
       "time": 1786125633790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147451"
+    },
+    {
+      "id": "av94365983",
+      "lon": -159.370666666667,
+      "lat": 56.1811666666667,
+      "depth": 11.48,
+      "mag": 0.09,
+      "place": "31 km NNE of Ivanof Bay, Alaska",
+      "time": 1786125145190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94365983"
     },
     {
       "id": "nc75413532",
@@ -2782,56 +2802,6 @@
       "place": "5 km SW of Lárdos, Greece",
       "time": 1786086656672,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiwc"
-    },
-    {
-      "id": "aka2026pnezzi",
-      "lon": -178.209,
-      "lat": 51.232,
-      "depth": 46.9,
-      "mag": 2.1,
-      "place": "130 km SW of Adak, Alaska",
-      "time": 1786086479726,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pnezzi"
-    },
-    {
-      "id": "uu80147376",
-      "lon": -112.881666666667,
-      "lat": 38.511,
-      "depth": 1.96,
-      "mag": 0.88,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1786086372800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147376"
-    },
-    {
-      "id": "pr2026219001",
-      "lon": -68.5036,
-      "lat": 19.196,
-      "depth": 32,
-      "mag": 3.68,
-      "place": "61 km ENE of Miches, Dominican Republic",
-      "time": 1786086335830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026219001"
-    },
-    {
-      "id": "nc75413167",
-      "lon": -121.175003051758,
-      "lat": 36.5818328857422,
-      "depth": 2.32999992370605,
-      "mag": 1.88,
-      "place": "6 km NNW of Pinnacles, CA",
-      "time": 1786086319220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413167"
-    },
-    {
-      "id": "nc75413157",
-      "lon": -122.788665771484,
-      "lat": 38.829833984375,
-      "depth": 1.75999999046326,
-      "mag": 1.09,
-      "place": "6 km W of Cobb, CA",
-      "time": 1786086180270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413157"
     }
   ]
 }
