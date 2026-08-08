@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T14:15:35Z",
-  "count": 244,
+  "updated": "2026-08-08T14:30:44Z",
+  "count": 242,
   "points": [
+    {
+      "id": "ci40668682",
+      "lon": -117.483,
+      "lat": 35.6018333333333,
+      "depth": 4.69,
+      "mag": 0.75,
+      "place": "18 km E of Ridgecrest, CA",
+      "time": 1786198691640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668682"
+    },
+    {
+      "id": "ci40668674",
+      "lon": -117.5795,
+      "lat": 34.023,
+      "depth": 11.19,
+      "mag": 1.09,
+      "place": "6 km SE of Ontario, CA",
+      "time": 1786198427240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668674"
+    },
     {
       "id": "aka2026pppdip",
       "lon": -147.17,
@@ -12,6 +32,16 @@
       "place": "53 km ENE of Chenega, Alaska",
       "time": 1786198190747,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pppdip"
+    },
+    {
+      "id": "pr71527888",
+      "lon": -66.8391666666667,
+      "lat": 17.9965,
+      "depth": 15.45,
+      "mag": 2.11,
+      "place": "2 km W of Indios, Puerto Rico",
+      "time": 1786197842450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527888"
     },
     {
       "id": "aka2026pposea",
@@ -2392,56 +2422,6 @@
       "place": "86 km NW of Karluk, Alaska",
       "time": 1786113126220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94365568"
-    },
-    {
-      "id": "nc75413352",
-      "lon": -121.184501647949,
-      "lat": 36.563835144043,
-      "depth": 2.89000010490417,
-      "mag": 3.25,
-      "place": "5 km NW of Pinnacles, CA",
-      "time": 1786112876560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413352"
-    },
-    {
-      "id": "nc75413347",
-      "lon": -122.752502441406,
-      "lat": 38.7911682128906,
-      "depth": 1.52999997138977,
-      "mag": 2.35,
-      "place": "2 km NNE of The Geysers, CA",
-      "time": 1786112870310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413347"
-    },
-    {
-      "id": "av94365538",
-      "lon": -155.256333333333,
-      "lat": 58.2001666666667,
-      "depth": 0.95,
-      "mag": -0.66,
-      "place": "84 km NW of Karluk, Alaska",
-      "time": 1786112534560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94365538"
-    },
-    {
-      "id": "us6000tixr",
-      "lon": 156.7027,
-      "lat": 50.4235,
-      "depth": 83.854,
-      "mag": 5,
-      "place": "49 km SE of Severo-Kuril’sk, Russia",
-      "time": 1786112490314,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tixr"
-    },
-    {
-      "id": "uw714072662",
-      "lon": -122.313,
-      "lat": 46.2101666666667,
-      "depth": 12.65,
-      "mag": 0.46,
-      "place": "34 km NNE of Amboy, Washington",
-      "time": 1786112300490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714072662"
     }
   ]
 }
