@@ -1,16 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T01:45:32Z",
-  "count": 288,
+  "updated": "2026-08-08T02:00:52Z",
+  "count": 290,
   "points": [
     {
+      "id": "aka2026poqnxm",
+      "lon": -155.368,
+      "lat": 57.232,
+      "depth": 11.3,
+      "mag": 1.8,
+      "place": "66 km SW of Karluk, Alaska",
+      "time": 1786153948496,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026poqnxm"
+    },
+    {
+      "id": "ci40668466",
+      "lon": -116.4165,
+      "lat": 34.842,
+      "depth": 2.02,
+      "mag": 1.89,
+      "place": "27 km WNW of Ludlow, CA",
+      "time": 1786153522450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668466"
+    },
+    {
+      "id": "nc75413792",
+      "lon": -122.797164916992,
+      "lat": 38.7729988098145,
+      "depth": 3.01999998092651,
+      "mag": 1.13,
+      "place": "4 km W of The Geysers, CA",
+      "time": 1786153494780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413792"
+    },
+    {
       "id": "ci40668458",
-      "lon": -117.806167602539,
-      "lat": 35.3211669921875,
-      "depth": 6.40000009536743,
-      "mag": 1.60841210358474,
+      "lon": -117.807,
+      "lat": 35.3205,
+      "depth": 6.84,
+      "mag": 1.5,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1786153293160,
+      "time": 1786153293140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668458"
     },
     {
@@ -2872,16 +2902,6 @@
       "place": "4 km N of Redwood Valley, CA",
       "time": 1786068541860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413032"
-    },
-    {
-      "id": "av94364073",
-      "lon": -153.072,
-      "lat": 60.0086666666667,
-      "depth": -2.93,
-      "mag": -0.05,
-      "place": "62 km ENE of Pedro Bay, Alaska",
-      "time": 1786067167650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94364073"
     }
   ]
 }
