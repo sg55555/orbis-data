@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T23:00:52Z",
-  "count": 225,
+  "updated": "2026-08-08T23:15:30Z",
+  "count": 223,
   "points": [
+    {
+      "id": "ci40669026",
+      "lon": -116.966333333333,
+      "lat": 33.7915,
+      "depth": 12.77,
+      "mag": 1.35,
+      "place": "1 km NW of San Jacinto, CA",
+      "time": 1786230660030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669026"
+    },
+    {
+      "id": "ci40669018",
+      "lon": -118.012833333333,
+      "lat": 35.7378333333333,
+      "depth": 10.52,
+      "mag": 0.57,
+      "place": "21 km WNW of Inyokern, CA",
+      "time": 1786230099980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669018"
+    },
     {
       "id": "ci40669010",
       "lon": -115.436833333333,
@@ -2212,46 +2232,6 @@
       "place": "4 km E of Coahoma, Texas",
       "time": 1786145053613,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026plyvxz"
-    },
-    {
-      "id": "uw714073182",
-      "lon": -120.443333333333,
-      "lat": 49.3213333333333,
-      "depth": -0.62,
-      "mag": 1.63,
-      "place": "15 km SSE of Princeton, Canada",
-      "time": 1786144478030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714073182"
-    },
-    {
-      "id": "hv75014717",
-      "lon": -155.374664306641,
-      "lat": 19.1909999847412,
-      "depth": 29.3899993896484,
-      "mag": 2.36,
-      "place": "11 km E of Pāhala, Hawaii",
-      "time": 1786144324210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75014717"
-    },
-    {
-      "id": "us6000tj4s",
-      "lon": -75.5241,
-      "lat": -12.1235,
-      "depth": 10,
-      "mag": 4.7,
-      "place": "17 km WNW of Yanacancha, Peru",
-      "time": 1786144283416,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj4s"
-    },
-    {
-      "id": "aka2026pokwjx",
-      "lon": -147.493,
-      "lat": 64.988,
-      "depth": 5,
-      "mag": 1.1,
-      "place": "6 km ENE of Fox, Alaska",
-      "time": 1786143735430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pokwjx"
     }
   ]
 }
