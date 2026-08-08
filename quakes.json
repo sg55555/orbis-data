@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T16:30:47Z",
-  "count": 237,
+  "updated": "2026-08-08T16:45:38Z",
+  "count": 235,
   "points": [
+    {
+      "id": "nc75414047",
+      "lon": -124.478500366211,
+      "lat": 40.3191680908203,
+      "depth": 11.6099996566772,
+      "mag": 1.78,
+      "place": "16 km W of Petrolia, CA",
+      "time": 1786206799170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414047"
+    },
     {
       "id": "ci40668730",
       "lon": -118.2775,
@@ -872,6 +882,26 @@
       "place": "4 km W of The Geysers, CA",
       "time": 1786171456180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413902"
+    },
+    {
+      "id": "aka2026ppagtx",
+      "lon": 176.147,
+      "lat": 51.778,
+      "depth": 20,
+      "mag": 3.4,
+      "place": "234 km ESE of Attu Station, Alaska",
+      "time": 1786171432921,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppagtx"
+    },
+    {
+      "id": "aka2026pozgsw",
+      "lon": -171.203,
+      "lat": 51.676,
+      "depth": 7.2,
+      "mag": 3.6,
+      "place": "212 km SW of Nikolski, Alaska",
+      "time": 1786169635686,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pozgsw"
     },
     {
       "id": "aka2026pozdxv",
@@ -2322,56 +2352,6 @@
       "place": "11 km N of Victorville, CA",
       "time": 1786121199010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668098"
-    },
-    {
-      "id": "uu80147421",
-      "lon": -112.881,
-      "lat": 38.5103333333333,
-      "depth": 2.24,
-      "mag": 1.12,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1786120825270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147421"
-    },
-    {
-      "id": "aka2026pnycuv",
-      "lon": -152.43,
-      "lat": 60.343,
-      "depth": 99.3,
-      "mag": 1.4,
-      "place": "53 km NW of Ninilchik, Alaska",
-      "time": 1786120788788,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pnycuv"
-    },
-    {
-      "id": "uu80147416",
-      "lon": -112.881,
-      "lat": 38.5105,
-      "depth": 1.69,
-      "mag": 1.29,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1786120773140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147416"
-    },
-    {
-      "id": "av94365823",
-      "lon": -176.112666666667,
-      "lat": 52.0671666666667,
-      "depth": -1.77,
-      "mag": 0.58,
-      "place": "41 km ENE of Adak, Alaska",
-      "time": 1786120709460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94365823"
-    },
-    {
-      "id": "aka2026pnxudy",
-      "lon": -148.376,
-      "lat": 60.363,
-      "depth": 5,
-      "mag": 1.5,
-      "place": "38 km NNW of Chenega, Alaska",
-      "time": 1786120191198,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pnxudy"
     }
   ]
 }
