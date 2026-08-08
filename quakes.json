@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T18:53:52Z",
-  "count": 233,
+  "updated": "2026-08-08T19:15:33Z",
+  "count": 229,
   "points": [
     {
+      "id": "ci40668794",
+      "lon": -117.718833333333,
+      "lat": 35.8961666666667,
+      "depth": 9.36,
+      "mag": 0.48,
+      "place": "18 km ESE of Little Lake, CA",
+      "time": 1786215845110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668794"
+    },
+    {
+      "id": "aka2026ppysix",
+      "lon": -155.553,
+      "lat": 57.639,
+      "depth": 22.1,
+      "mag": 1,
+      "place": "66 km W of Karluk, Alaska",
+      "time": 1786215422486,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppysix"
+    },
+    {
       "id": "aka2026ppynvf",
-      "lon": -152.39,
-      "lat": 62.252,
+      "lon": -152.396,
+      "lat": 62.246,
       "depth": 5,
-      "mag": 2.7,
+      "mag": 2.6,
       "place": "59 km WNW of Skwentna, Alaska",
-      "time": 1786215109135,
+      "time": 1786215109866,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppynvf"
     },
     {
@@ -27,7 +47,7 @@
       "id": "tx2026pnlluv",
       "lon": -103.991,
       "lat": 31.609,
-      "depth": 6.1119,
+      "depth": 6.1106,
       "mag": 1.5,
       "place": "37 km NNW of Toyah, Texas",
       "time": 1786214961321,
@@ -2272,66 +2292,6 @@
       "place": "40 km NE of Adak, Alaska",
       "time": 1786130734890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94366138"
-    },
-    {
-      "id": "ci40668226",
-      "lon": -116.699666666667,
-      "lat": 33.4931666666667,
-      "depth": 11.49,
-      "mag": 0.63,
-      "place": "7 km SSW of Anza, CA",
-      "time": 1786130017960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668226"
-    },
-    {
-      "id": "ci40668218",
-      "lon": -118.192333333333,
-      "lat": 34.9876666666667,
-      "depth": -0.8,
-      "mag": 0.87,
-      "place": "7 km SSW of Mojave, CA",
-      "time": 1786129808280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668218"
-    },
-    {
-      "id": "uu80147456",
-      "lon": -112.881666666667,
-      "lat": 38.5073333333333,
-      "depth": 2.48,
-      "mag": 0.89,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1786129774970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147456"
-    },
-    {
-      "id": "nc75413572",
-      "lon": -122.72200012207,
-      "lat": 38.7821655273438,
-      "depth": 2.20000004768372,
-      "mag": 0.76,
-      "place": "3 km WNW of Anderson Springs, CA",
-      "time": 1786129754180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413572"
-    },
-    {
-      "id": "tx2026plqaut",
-      "lon": -103.836,
-      "lat": 32.002,
-      "depth": 7.702,
-      "mag": 1.8,
-      "place": "33 km SE of Malaga, New Mexico",
-      "time": 1786129101312,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026plqaut"
-    },
-    {
-      "id": "ci40668210",
-      "lon": -118.3385,
-      "lat": 35.0553333333333,
-      "depth": -1.01,
-      "mag": 1.17,
-      "place": "13 km SE of Tehachapi, CA",
-      "time": 1786128825060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668210"
     }
   ]
 }
