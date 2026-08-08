@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T12:15:32Z",
-  "count": 255,
+  "updated": "2026-08-08T12:30:42Z",
+  "count": 257,
   "points": [
+    {
+      "id": "ci40668626",
+      "lon": -116.724502563477,
+      "lat": 33.5281677246094,
+      "depth": 6.94999980926514,
+      "mag": 1.08625546743562,
+      "place": "6 km WSW of Anza, CA",
+      "time": 1786192045030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668626"
+    },
     {
       "id": "aka2026pplenn",
       "lon": -150.034,
@@ -254,6 +264,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527868"
     },
     {
+      "id": "us6000tj85",
+      "lon": -140.6997,
+      "lat": 66.5967,
+      "depth": 7.318,
+      "mag": 2.6,
+      "place": "134 km E of Chalkyitsik, Alaska",
+      "time": 1786182190066,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj85"
+    },
+    {
       "id": "aka2026ppgcri",
       "lon": -149.944,
       "lat": 61.533,
@@ -282,6 +302,16 @@
       "place": "54 km WNW of Skwentna, Alaska",
       "time": 1786180848338,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppfmsq"
+    },
+    {
+      "id": "us6000tj80",
+      "lon": -92.9921,
+      "lat": 14.2442,
+      "depth": 42.381,
+      "mag": 4.2,
+      "place": "81 km SW of Puerto Madero, Mexico",
+      "time": 1786180423869,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj80"
     },
     {
       "id": "ci40668594",
@@ -2542,16 +2572,6 @@
       "place": "81 km SSW of Adak, Alaska",
       "time": 1786105843772,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pnpuoe"
-    },
-    {
-      "id": "aka2026pnppbj",
-      "lon": -153.173,
-      "lat": 59.975,
-      "depth": 126.2,
-      "mag": 0.7,
-      "place": "56 km ENE of Pedro Bay, Alaska",
-      "time": 1786105449812,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pnppbj"
     }
   ]
 }
