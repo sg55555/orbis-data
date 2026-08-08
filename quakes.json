@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-08T10:49:07Z",
-  "count": 265,
+  "updated": "2026-08-08T11:00:52Z",
+  "count": 262,
   "points": [
+    {
+      "id": "ci40668618",
+      "lon": -117.428337097168,
+      "lat": 35.6003341674805,
+      "depth": 4.96000003814697,
+      "mag": 1.00885650498146,
+      "place": "19 km S of Searles Valley, CA",
+      "time": 1786186660520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668618"
+    },
     {
       "id": "hv75014962",
       "lon": -155.401672363281,
@@ -82,6 +92,16 @@
       "place": "4 km ENE of Borrego Springs, CA",
       "time": 1786183869720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668602"
+    },
+    {
+      "id": "pr71527878",
+      "lon": -66.9855,
+      "lat": 17.99,
+      "depth": 10.76,
+      "mag": 1.82,
+      "place": "6 km ENE of La Parguera, Puerto Rico",
+      "time": 1786183159110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527878"
     },
     {
       "id": "aka2026ppgrzw",
@@ -2602,56 +2622,6 @@
       "place": "4 km S of Redwood Valley, CA",
       "time": 1786100639860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413277"
-    },
-    {
-      "id": "tx2026plabgm",
-      "lon": -101.918,
-      "lat": 32.127,
-      "depth": 8.2764,
-      "mag": 1.2,
-      "place": "12 km W of Stanton, Texas",
-      "time": 1786100206056,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026plabgm"
-    },
-    {
-      "id": "nc75413272",
-      "lon": -122.799163818359,
-      "lat": 38.8380012512207,
-      "depth": 1.91999995708466,
-      "mag": 0.53,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1786100034160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413272"
-    },
-    {
-      "id": "nc75413267",
-      "lon": -122.800003051758,
-      "lat": 38.8385009765625,
-      "depth": 1.67999994754791,
-      "mag": 0.21,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1786100028790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413267"
-    },
-    {
-      "id": "ci40667826",
-      "lon": -116.705833333333,
-      "lat": 33.6446666666667,
-      "depth": 14.27,
-      "mag": 0.32,
-      "place": "10 km NNW of Anza, CA",
-      "time": 1786099937020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667826"
-    },
-    {
-      "id": "ci40667818",
-      "lon": -115.602,
-      "lat": 33.1811666666667,
-      "depth": 2.68,
-      "mag": 2.06,
-      "place": "10 km SW of Niland, CA",
-      "time": 1786099867470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40667818"
     }
   ]
 }
