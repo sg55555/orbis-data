@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T17:30:44Z",
-  "count": 243,
+  "updated": "2026-08-09T17:42:33Z",
+  "count": 244,
   "points": [
+    {
+      "id": "ci40669442",
+      "lon": -117.231166666667,
+      "lat": 33.5795,
+      "depth": 15.07,
+      "mag": 1.61,
+      "place": "3 km NNW of Murrieta, CA",
+      "time": 1786297095660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669442"
+    },
+    {
+      "id": "tx2026ppeuvu",
+      "lon": -103.94,
+      "lat": 31.49,
+      "depth": 0.4612,
+      "mag": 1.9,
+      "place": "23 km NW of Toyah, Texas",
+      "time": 1786297046110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ppeuvu"
+    },
     {
       "id": "aka2026prrgnz",
       "lon": -155.551,
@@ -22,6 +42,16 @@
       "place": "82 km NNW of Karluk, Alaska",
       "time": 1786295352037,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prrdkl"
+    },
+    {
+      "id": "us6000tjgd",
+      "lon": 125.2313,
+      "lat": 11.3941,
+      "depth": 110.58,
+      "mag": 4.8,
+      "place": "7 km ESE of Mabini, Philippines",
+      "time": 1786295142371,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgd"
     },
     {
       "id": "tx2026ppdhfv",
@@ -1385,12 +1415,12 @@
     },
     {
       "id": "ci40669114",
-      "lon": -118.106666666667,
-      "lat": 33.9438333333333,
-      "depth": 5.3,
-      "mag": 1.78,
-      "place": "2 km W of Santa Fe Springs, CA",
-      "time": 1786247233700,
+      "lon": -118.103666666667,
+      "lat": 33.9421666666667,
+      "depth": 5.35,
+      "mag": 1.65,
+      "place": "2 km WSW of Santa Fe Springs, CA",
+      "time": 1786247233590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669114"
     },
     {
@@ -2412,26 +2442,6 @@
       "place": "6 km NE of Lake Henshaw, CA",
       "time": 1786211590310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668754"
-    },
-    {
-      "id": "hv75015097",
-      "lon": -155.445007324219,
-      "lat": 20.0240001678467,
-      "depth": 21.3400001525879,
-      "mag": 1.83,
-      "place": "6 km SSE of Honoka‘a, Hawaii",
-      "time": 1786210719340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015097"
-    },
-    {
-      "id": "aka2026ppvvmw",
-      "lon": -151.843,
-      "lat": 60.96,
-      "depth": 83.8,
-      "mag": 1.4,
-      "place": "40 km WSW of Tyonek, Alaska",
-      "time": 1786210243777,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppvvmw"
     }
   ]
 }
