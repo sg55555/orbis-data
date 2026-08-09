@@ -1,6 +1,6 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T17:15:36Z",
+  "updated": "2026-08-09T17:30:44Z",
   "count": 243,
   "points": [
     {
@@ -32,6 +32,16 @@
       "place": "8 km S of Lindsay, Texas",
       "time": 1786294287980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ppdhfv"
+    },
+    {
+      "id": "us6000tjg9",
+      "lon": -67.5915,
+      "lat": 18.9102,
+      "depth": 35,
+      "mag": 2.7,
+      "place": "69 km NW of San Antonio, Puerto Rico",
+      "time": 1786294210464,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjg9"
     },
     {
       "id": "aka2026prqdsb",
@@ -1235,12 +1245,12 @@
     },
     {
       "id": "ci40669146",
-      "lon": -120.488833333333,
-      "lat": 34.5286666666667,
-      "depth": 5.76,
-      "mag": 1.82,
+      "lon": -120.499166666667,
+      "lat": 34.5253333333333,
+      "depth": 6.03,
+      "mag": 1.89,
       "place": "13 km SSW of Lompoc, CA",
-      "time": 1786252413420,
+      "time": 1786252413330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669146"
     },
     {
@@ -2422,16 +2432,6 @@
       "place": "40 km WSW of Tyonek, Alaska",
       "time": 1786210243777,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppvvmw"
-    },
-    {
-      "id": "ci40668746",
-      "lon": -117.212666666667,
-      "lat": 34.0241666666667,
-      "depth": 15.19,
-      "mag": 1,
-      "place": "4 km SW of Redlands, CA",
-      "time": 1786210186290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668746"
     }
   ]
 }
