@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T22:30:42Z",
-  "count": 245,
+  "updated": "2026-08-09T22:44:52Z",
+  "count": 248,
   "points": [
+    {
+      "id": "ci40669554",
+      "lon": -117.155166666667,
+      "lat": 34.0061666666667,
+      "depth": 3.36,
+      "mag": 0.73,
+      "place": "6 km SSE of Redlands, CA",
+      "time": 1786314795580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669554"
+    },
     {
       "id": "aka2026psbucm",
       "lon": -147.159,
@@ -24,6 +34,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015632"
     },
     {
+      "id": "us6000tji3",
+      "lon": 126.7399,
+      "lat": 4.1457,
+      "depth": 35,
+      "mag": 5,
+      "place": "198 km SE of Sarangani, Philippines",
+      "time": 1786313847944,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tji3"
+    },
+    {
       "id": "aka2026psbhzl",
       "lon": -155.552,
       "lat": 58.266,
@@ -32,6 +52,16 @@
       "place": "80 km SE of King Salmon, Alaska",
       "time": 1786313660230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026psbhzl"
+    },
+    {
+      "id": "pr71527958",
+      "lon": -67.9821666666667,
+      "lat": 19.1643333333333,
+      "depth": 20.38,
+      "mag": 3.23,
+      "place": "78 km NE of Punta Cana, Dominican Republic",
+      "time": 1786313496980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527958"
     },
     {
       "id": "nc75414822",
@@ -2044,6 +2074,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669090"
     },
     {
+      "id": "av94370383",
+      "lon": -178.806833333333,
+      "lat": 51.7686666666667,
+      "depth": 8.18,
+      "mag": 0.37,
+      "place": "150 km W of Adak, Alaska",
+      "time": 1786245533440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94370383"
+    },
+    {
       "id": "ci40669082",
       "lon": -116.6695,
       "lat": 33.9401666666667,
@@ -2442,16 +2482,6 @@
       "place": "19 km E of Little Lake, CA",
       "time": 1786229410730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668994"
-    },
-    {
-      "id": "hv75015182",
-      "lon": -155.47917175293,
-      "lat": 19.1906661987305,
-      "depth": 28.9500007629395,
-      "mag": 1.97,
-      "place": "1 km S of Pāhala, Hawaii",
-      "time": 1786228977470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015182"
     }
   ]
 }
