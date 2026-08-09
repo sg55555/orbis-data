@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T15:43:01Z",
-  "count": 242,
+  "updated": "2026-08-09T16:01:10Z",
+  "count": 244,
   "points": [
+    {
+      "id": "aka2026prounr",
+      "lon": -158.142,
+      "lat": 55.843,
+      "depth": 41.5,
+      "mag": 2,
+      "place": "52 km SSE of Chignik, Alaska",
+      "time": 1786291140941,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prounr"
+    },
+    {
+      "id": "aka2026proizu",
+      "lon": -150.081,
+      "lat": 62.06,
+      "depth": 26.4,
+      "mag": 1.3,
+      "place": "16 km SW of Susitna North, Alaska",
+      "time": 1786290340931,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026proizu"
+    },
+    {
+      "id": "aka2026proixx",
+      "lon": -145.335,
+      "lat": 69.626,
+      "depth": 1.1,
+      "mag": 2.4,
+      "place": "86 km SW of Kaktovik, Alaska",
+      "time": 1786290335909,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026proixx"
+    },
     {
       "id": "nc75414652",
       "lon": -120.797332763672,
@@ -1725,12 +1755,12 @@
     },
     {
       "id": "us6000tjcz",
-      "lon": -81.1646,
-      "lat": 41.7734,
-      "depth": 10.523,
-      "mag": 1.9,
-      "place": "2 km NW of Perry, Ohio",
-      "time": 1786227132192,
+      "lon": -81.1899,
+      "lat": 41.8342,
+      "depth": 5,
+      "mag": 2,
+      "place": "6 km WNW of North Perry, Ohio",
+      "time": 1786227131327,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcz"
     },
     {
@@ -2344,6 +2374,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414047"
     },
     {
+      "id": "us6000tjd3",
+      "lon": 73.5696,
+      "lat": 20.2095,
+      "depth": 10,
+      "mag": 3.8,
+      "place": "30 km N of Trimbak, India",
+      "time": 1786206657993,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjd3"
+    },
+    {
       "id": "ci40668730",
       "lon": -118.2775,
       "lat": 36.1515,
@@ -2402,26 +2442,6 @@
       "place": "227 km ESE of Attu Station, Alaska",
       "time": 1786205107936,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppszms"
-    },
-    {
-      "id": "aka2026ppssfl",
-      "lon": -152.891,
-      "lat": 60.114,
-      "depth": 0,
-      "mag": 1.9,
-      "place": "67 km WNW of Happy Valley, Alaska",
-      "time": 1786204617616,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppssfl"
-    },
-    {
-      "id": "aka2026ppsghz",
-      "lon": -153.513,
-      "lat": 60.167,
-      "depth": 5,
-      "mag": 1.4,
-      "place": "44 km E of Port Alsworth, Alaska",
-      "time": 1786203794453,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppsghz"
     }
   ]
 }
