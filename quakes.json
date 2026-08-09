@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T09:30:47Z",
-  "count": 239,
+  "updated": "2026-08-09T09:45:43Z",
+  "count": 236,
   "points": [
+    {
+      "id": "ci40669258",
+      "lon": -116.921333333333,
+      "lat": 34.1105,
+      "depth": 5.39,
+      "mag": 0.48,
+      "place": "14 km NE of Yucaipa, CA",
+      "time": 1786268007280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669258"
+    },
     {
       "id": "nc75414557",
       "lon": -122.803169250488,
@@ -2352,46 +2362,6 @@
       "place": "11 km SSE of Punta Santiago, Puerto Rico",
       "time": 1786182312610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527868"
-    },
-    {
-      "id": "us6000tj85",
-      "lon": -140.6997,
-      "lat": 66.5967,
-      "depth": 7.318,
-      "mag": 2.6,
-      "place": "134 km E of Chalkyitsik, Alaska",
-      "time": 1786182190066,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj85"
-    },
-    {
-      "id": "aka2026ppgcri",
-      "lon": -149.944,
-      "lat": 61.533,
-      "depth": 29.7,
-      "mag": 1.3,
-      "place": "1 km NNE of Big Lake, Alaska",
-      "time": 1786181952809,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppgcri"
-    },
-    {
-      "id": "aka2026ppgbha",
-      "lon": -175.425,
-      "lat": 50.526,
-      "depth": 20,
-      "mag": 2.4,
-      "place": "172 km SSE of Adak, Alaska",
-      "time": 1786181854074,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppgbha"
-    },
-    {
-      "id": "tx2026pmtcym",
-      "lon": -104.155,
-      "lat": 31.53,
-      "depth": 4.3808,
-      "mag": 2,
-      "place": "41 km NW of Toyah, Texas",
-      "time": 1786181749937,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pmtcym"
     }
   ]
 }
