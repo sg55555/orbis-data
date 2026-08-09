@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T18:45:30Z",
-  "count": 249,
+  "updated": "2026-08-09T18:55:50Z",
+  "count": 252,
   "points": [
+    {
+      "id": "aka2026prukcu",
+      "lon": -151.696,
+      "lat": 59.926,
+      "depth": 56.8,
+      "mag": 2,
+      "place": "3 km SE of Happy Valley, Alaska",
+      "time": 1786301214280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prukcu"
+    },
+    {
+      "id": "aka2026pruimu",
+      "lon": -159.144,
+      "lat": 55.646,
+      "depth": 183,
+      "mag": 1.4,
+      "place": "29 km S of Perryville, Alaska",
+      "time": 1786301090073,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pruimu"
+    },
     {
       "id": "aka2026prugua",
       "lon": -149.388,
@@ -52,6 +72,16 @@
       "place": "7 km ESE of Cloverdale, CA",
       "time": 1786299247960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414692"
+    },
+    {
+      "id": "us6000tjgl",
+      "lon": 154.4887,
+      "lat": -5.8198,
+      "depth": 104.48,
+      "mag": 4.5,
+      "place": "123 km WNW of Panguna, Papua New Guinea",
+      "time": 1786299089507,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgl"
     },
     {
       "id": "aka2026prtdxp",
@@ -524,6 +554,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669362"
     },
     {
+      "id": "aka2026prjlqp",
+      "lon": 176.15,
+      "lat": 51.745,
+      "depth": 20,
+      "mag": 2.4,
+      "place": "236 km ESE of Attu Station, Alaska",
+      "time": 1786281528120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prjlqp"
+    },
+    {
       "id": "aka2026prjkqi",
       "lon": -152.328,
       "lat": 60.987,
@@ -532,6 +572,16 @@
       "place": "65 km W of Tyonek, Alaska",
       "time": 1786281457790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prjkqi"
+    },
+    {
+      "id": "aka2026prjjpy",
+      "lon": 178.806,
+      "lat": 50.94,
+      "depth": 14.4,
+      "mag": 2.5,
+      "place": "Rat Islands, Aleutian Islands, Alaska",
+      "time": 1786281398709,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prjjpy"
     },
     {
       "id": "ci40669354",
@@ -1324,13 +1374,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pquynx"
     },
     {
+      "id": "ci10248182",
+      "lon": -116.735,
+      "lat": 33.2196666666667,
+      "depth": 10.13,
+      "mag": 0.58,
+      "place": "4 km SE of Lake Henshaw, CA",
+      "time": 1786255057720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10248182"
+    },
+    {
       "id": "ci40669162",
-      "lon": -116.926166666667,
-      "lat": 33.455,
-      "depth": 29.39,
-      "mag": 1.43,
-      "place": "6 km WNW of Aguanga, CA",
-      "time": 1786255052600,
+      "lon": -116.735333333333,
+      "lat": 33.2233333333333,
+      "depth": 8.7,
+      "mag": 0.54,
+      "place": "3 km SE of Lake Henshaw, CA",
+      "time": 1786255051930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669162"
     },
     {
@@ -2462,36 +2522,6 @@
       "place": "66 km W of Karluk, Alaska",
       "time": 1786215422486,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppysix"
-    },
-    {
-      "id": "aka2026ppynvf",
-      "lon": -152.396,
-      "lat": 62.246,
-      "depth": 5,
-      "mag": 2.6,
-      "place": "59 km WNW of Skwentna, Alaska",
-      "time": 1786215109866,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppynvf"
-    },
-    {
-      "id": "ci40668786",
-      "lon": -117.528833333333,
-      "lat": 35.7321666666667,
-      "depth": 1.74,
-      "mag": 0.63,
-      "place": "12 km WSW of Searles Valley, CA",
-      "time": 1786214962240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668786"
-    },
-    {
-      "id": "tx2026pnlluv",
-      "lon": -103.991,
-      "lat": 31.609,
-      "depth": 6.1106,
-      "mag": 1.5,
-      "place": "37 km NNW of Toyah, Texas",
-      "time": 1786214961321,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pnlluv"
     }
   ]
 }
