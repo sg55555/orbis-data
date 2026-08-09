@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T17:00:51Z",
-  "count": 244,
+  "updated": "2026-08-09T17:15:36Z",
+  "count": 243,
   "points": [
+    {
+      "id": "aka2026prrgnz",
+      "lon": -155.551,
+      "lat": 58.275,
+      "depth": 5,
+      "mag": 1.4,
+      "place": "79 km SE of King Salmon, Alaska",
+      "time": 1786295568533,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prrgnz"
+    },
+    {
+      "id": "aka2026prrdkl",
+      "lon": -154.939,
+      "lat": 58.267,
+      "depth": 5,
+      "mag": 0.7,
+      "place": "82 km NNW of Karluk, Alaska",
+      "time": 1786295352037,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prrdkl"
+    },
     {
       "id": "tx2026ppdhfv",
       "lon": -103.526,
@@ -1065,12 +1085,12 @@
     },
     {
       "id": "tx2026poiysd",
-      "lon": -103.337,
-      "lat": 30.886,
-      "depth": 0,
-      "mag": 2,
-      "place": "40 km ESE of Balmorhea, Texas",
-      "time": 1786257487607,
+      "lon": -104.121,
+      "lat": 31.625,
+      "depth": 2.1626,
+      "mag": 0.6,
+      "place": "46 km NW of Toyah, Texas",
+      "time": 1786257505880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026poiysd"
     },
     {
@@ -2412,36 +2432,6 @@
       "place": "4 km SW of Redlands, CA",
       "time": 1786210186290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668746"
-    },
-    {
-      "id": "nc75414057",
-      "lon": -122.852996826172,
-      "lat": 38.8209991455078,
-      "depth": 2.69000005722046,
-      "mag": 0.73,
-      "place": "10 km WNW of The Geysers, CA",
-      "time": 1786209202630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414057"
-    },
-    {
-      "id": "tx2026pnhzqx",
-      "lon": -103.451,
-      "lat": 31.453,
-      "depth": 0,
-      "mag": 1.5,
-      "place": "5 km NE of Pecos, Texas",
-      "time": 1786208675370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pnhzqx"
-    },
-    {
-      "id": "ci40668738",
-      "lon": -117.805333333333,
-      "lat": 35.329,
-      "depth": 6.18,
-      "mag": 0.86,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": 1786208576240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668738"
     }
   ]
 }
