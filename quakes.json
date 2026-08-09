@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T15:15:33Z",
+  "updated": "2026-08-09T15:30:45Z",
   "count": 241,
   "points": [
+    {
+      "id": "aka2026prnusk",
+      "lon": -152.282,
+      "lat": 62.246,
+      "depth": 5,
+      "mag": 1.4,
+      "place": "54 km WNW of Skwentna, Alaska",
+      "time": 1786289352546,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prnusk"
+    },
     {
       "id": "hv75015467",
       "lon": -155.374664306641,
@@ -1734,6 +1744,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668954"
     },
     {
+      "id": "ci40668946",
+      "lon": -118.310833333333,
+      "lat": 33.9045,
+      "depth": 10.43,
+      "mag": 1.38,
+      "place": "2 km N of Gardena, CA",
+      "time": 1786225670040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668946"
+    },
+    {
       "id": "ci40668938",
       "lon": -116.742,
       "lat": 33.2903333333333,
@@ -2392,26 +2412,6 @@
       "place": "31 km NNW of Covelo, CA",
       "time": 1786203202210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414027"
-    },
-    {
-      "id": "pr71527893",
-      "lon": -67.4288333333333,
-      "lat": 18.0918333333333,
-      "depth": 16.72,
-      "mag": 2.62,
-      "place": "25 km W of Puerto Real, Puerto Rico",
-      "time": 1786202775410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527893"
-    },
-    {
-      "id": "hv75015062",
-      "lon": -155.503173828125,
-      "lat": 19.150333404541,
-      "depth": 32.7000007629395,
-      "mag": 1.96,
-      "place": "6 km SSW of Pāhala, Hawaii",
-      "time": 1786202168700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015062"
     }
   ]
 }
