@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T15:30:45Z",
-  "count": 241,
+  "updated": "2026-08-09T15:43:01Z",
+  "count": 242,
   "points": [
+    {
+      "id": "nc75414652",
+      "lon": -120.797332763672,
+      "lat": 35.5578346252441,
+      "depth": 5.51999998092651,
+      "mag": 2.01,
+      "place": "8 km W of Templeton, CA",
+      "time": 1786289968460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414652"
+    },
     {
       "id": "aka2026prnusk",
       "lon": -152.282,
@@ -12,6 +22,16 @@
       "place": "54 km WNW of Skwentna, Alaska",
       "time": 1786289352546,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prnusk"
+    },
+    {
+      "id": "us6000tjfj",
+      "lon": 102.8866,
+      "lat": -5.7782,
+      "depth": 35,
+      "mag": 5.3,
+      "place": "197 km SSW of Pagar Alam, Indonesia",
+      "time": 1786288503956,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfj"
     },
     {
       "id": "hv75015467",
@@ -2402,16 +2422,6 @@
       "place": "44 km E of Port Alsworth, Alaska",
       "time": 1786203794453,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppsghz"
-    },
-    {
-      "id": "nc75414027",
-      "lon": -123.442665100098,
-      "lat": 40.0276679992676,
-      "depth": 8.52000045776367,
-      "mag": 3.38,
-      "place": "31 km NNW of Covelo, CA",
-      "time": 1786203202210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414027"
     }
   ]
 }
