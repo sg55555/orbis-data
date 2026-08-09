@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T03:00:56Z",
-  "count": 236,
+  "updated": "2026-08-09T03:15:32Z",
+  "count": 233,
   "points": [
+    {
+      "id": "uw714074042",
+      "lon": -124.559333333333,
+      "lat": 43.2776666666667,
+      "depth": 21.87,
+      "mag": 2.35,
+      "place": "21 km NW of Bandon, Oregon",
+      "time": 1786244270220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714074042"
+    },
     {
       "id": "aka2026pqonmt",
       "lon": 176.048,
@@ -2322,46 +2332,6 @@
       "place": "6 km SE of Loma Linda, CA",
       "time": 1786159148250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668506"
-    },
-    {
-      "id": "se60506098",
-      "lon": -82.9153333333333,
-      "lat": 35.1526666666667,
-      "depth": 2.18,
-      "mag": 1.75,
-      "place": "8 km W of Rosman, North Carolina",
-      "time": 1786158814180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60506098"
-    },
-    {
-      "id": "nc75413842",
-      "lon": -122.935997009277,
-      "lat": 38.7783317565918,
-      "depth": 3.76999998092651,
-      "mag": 0.99,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1786158622040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413842"
-    },
-    {
-      "id": "nc75413837",
-      "lon": -122.800331115723,
-      "lat": 38.7675018310547,
-      "depth": 3.67000007629395,
-      "mag": 1.05,
-      "place": "4 km WSW of The Geysers, CA",
-      "time": 1786158520120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413837"
-    },
-    {
-      "id": "ci40668498",
-      "lon": -116.803166666667,
-      "lat": 33.7001666666667,
-      "depth": 15.72,
-      "mag": 0.43,
-      "place": "9 km WSW of Idyllwild, CA",
-      "time": 1786158115720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668498"
     }
   ]
 }
