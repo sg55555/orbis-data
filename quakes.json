@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T10:15:32Z",
-  "count": 234,
+  "updated": "2026-08-09T10:30:40Z",
+  "count": 233,
   "points": [
+    {
+      "id": "aka2026prdmch",
+      "lon": -149.294,
+      "lat": 64.347,
+      "depth": 3.6,
+      "mag": 1.1,
+      "place": "5 km W of Anderson, Alaska",
+      "time": 1786270764403,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prdmch"
+    },
     {
       "id": "aka2026prcwyz",
       "lon": -151.072,
@@ -15,12 +25,12 @@
     },
     {
       "id": "tx2026poplnz",
-      "lon": -98.623,
-      "lat": 28.842,
-      "depth": 0.8878,
-      "mag": 2.1,
-      "place": "8 km ESE of Charlotte, Texas",
-      "time": 1786269248831,
+      "lon": -98.962,
+      "lat": 28.861,
+      "depth": 5.9604,
+      "mag": 2,
+      "place": "13 km ESE of Pearsall, Texas",
+      "time": 1786269243212,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026poplnz"
     },
     {
@@ -2322,26 +2332,6 @@
       "place": "6 km E of Hidden Valley Lake, CA",
       "time": 1786185207280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413962"
-    },
-    {
-      "id": "us6000tj8e",
-      "lon": 125.0834,
-      "lat": 5.095,
-      "depth": 10.022,
-      "mag": 4.8,
-      "place": "54 km SW of Sarangani, Philippines",
-      "time": 1786184446908,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8e"
-    },
-    {
-      "id": "aka2026pphjnm",
-      "lon": -151.22,
-      "lat": 57.959,
-      "depth": 28.8,
-      "mag": 2,
-      "place": "72 km ENE of Kodiak, Alaska",
-      "time": 1786184228406,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pphjnm"
     }
   ]
 }
