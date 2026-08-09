@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T17:45:34Z",
+  "updated": "2026-08-09T18:00:50Z",
   "count": 244,
   "points": [
+    {
+      "id": "ci40669458",
+      "lon": -117.794,
+      "lat": 35.3638333333333,
+      "depth": 6.33,
+      "mag": 0.95,
+      "place": "14 km W of Johannesburg, CA",
+      "time": 1786297929580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669458"
+    },
     {
       "id": "ci40669442",
       "lon": -117.231166666667,
@@ -32,6 +42,16 @@
       "place": "79 km SE of King Salmon, Alaska",
       "time": 1786295568533,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prrgnz"
+    },
+    {
+      "id": "us6000tjgf",
+      "lon": 40.0706,
+      "lat": 8.8103,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "19 km ESE of Metahāra, Ethiopia",
+      "time": 1786295502151,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgf"
     },
     {
       "id": "aka2026prrdkl",
@@ -64,14 +84,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ppdhfv"
     },
     {
-      "id": "us6000tjg9",
-      "lon": -67.5915,
-      "lat": 18.9102,
-      "depth": 35,
-      "mag": 2.7,
-      "place": "69 km NW of San Antonio, Puerto Rico",
-      "time": 1786294210464,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjg9"
+      "id": "pr2026221002",
+      "lon": -67.5626,
+      "lat": 18.9505,
+      "depth": 8,
+      "mag": 3.45,
+      "place": "70 km NW of San Antonio, Puerto Rico",
+      "time": 1786294211510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026221002"
     },
     {
       "id": "aka2026prqdsb",
@@ -595,12 +615,12 @@
     },
     {
       "id": "ci40669306",
-      "lon": -117.455833333333,
-      "lat": 34.211,
-      "depth": 10.78,
-      "mag": 1.73228648520253,
+      "lon": -117.452833333333,
+      "lat": 34.2083333333333,
+      "depth": 10.34,
+      "mag": 1.69,
       "place": "5 km WSW of Devore, CA",
-      "time": 1786275868610,
+      "time": 1786275868590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669306"
     },
     {
@@ -2422,26 +2442,6 @@
       "place": "42 km E of Pedro Bay, Alaska",
       "time": 1786212113273,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppwwng"
-    },
-    {
-      "id": "us6000tjaj",
-      "lon": 142.3107,
-      "lat": 40.1723,
-      "depth": 34,
-      "mag": 5.6,
-      "place": "42 km E of Noda, Japan",
-      "time": 1786211878745,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjaj"
-    },
-    {
-      "id": "ci40668754",
-      "lon": -116.721,
-      "lat": 33.2858333333333,
-      "depth": 13.66,
-      "mag": 0.32,
-      "place": "6 km NE of Lake Henshaw, CA",
-      "time": 1786211590310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668754"
     }
   ]
 }
