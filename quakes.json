@@ -1,15 +1,35 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T06:00:53Z",
+  "updated": "2026-08-09T06:15:31Z",
   "count": 235,
   "points": [
     {
+      "id": "hv75015317",
+      "lon": -155.789169311523,
+      "lat": 20.1608333587646,
+      "depth": 23.6499996185303,
+      "mag": 2.39,
+      "place": "8 km S of Kapaau, Hawaii",
+      "time": 1786255797980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015317"
+    },
+    {
+      "id": "aka2026pquynx",
+      "lon": -156.192,
+      "lat": 57.07,
+      "depth": 1.8,
+      "mag": 2.9,
+      "place": "87 km SE of Ugashik, Alaska",
+      "time": 1786255433448,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pquynx"
+    },
+    {
       "id": "ci40669162",
-      "lon": -116.936332702637,
-      "lat": 33.4536666870117,
-      "depth": 29.2600002288818,
-      "mag": 1.34578989796579,
-      "place": "7 km W of Aguanga, CA",
+      "lon": -116.926166666667,
+      "lat": 33.455,
+      "depth": 29.39,
+      "mag": 1.43,
+      "place": "6 km WNW of Aguanga, CA",
       "time": 1786255052600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669162"
     },
@@ -702,6 +722,16 @@
       "place": "2 km SSW of Alamo, CA",
       "time": 1786227506520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414252"
+    },
+    {
+      "id": "us6000tjcz",
+      "lon": -81.1646,
+      "lat": 41.7734,
+      "depth": 10.523,
+      "mag": 1.9,
+      "place": "2 km NW of Perry, Ohio",
+      "time": 1786227132192,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcz"
     },
     {
       "id": "ci40668962",
@@ -2322,36 +2352,6 @@
       "place": "234 km ESE of Attu Station, Alaska",
       "time": 1786171432921,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppagtx"
-    },
-    {
-      "id": "aka2026pozgsw",
-      "lon": -171.203,
-      "lat": 51.676,
-      "depth": 7.2,
-      "mag": 3.6,
-      "place": "212 km SW of Nikolski, Alaska",
-      "time": 1786169635686,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pozgsw"
-    },
-    {
-      "id": "aka2026pozdxv",
-      "lon": -152.337,
-      "lat": 62.241,
-      "depth": 5,
-      "mag": 2.1,
-      "place": "56 km WNW of Skwentna, Alaska",
-      "time": 1786169445002,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pozdxv"
-    },
-    {
-      "id": "us6000tj73",
-      "lon": -67.3807,
-      "lat": -24.3551,
-      "depth": 190.698,
-      "mag": 4.4,
-      "place": "108 km W of San Antonio de los Cobres, Argentina",
-      "time": 1786169201571,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj73"
     }
   ]
 }
