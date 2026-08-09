@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T19:45:38Z",
-  "count": 256,
+  "updated": "2026-08-09T20:00:54Z",
+  "count": 252,
   "points": [
+    {
+      "id": "ci40669506",
+      "lon": -117.698166666667,
+      "lat": 35.858,
+      "depth": 4.69,
+      "mag": 2.07,
+      "place": "21 km ESE of Little Lake, CA",
+      "time": 1786305187710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669506"
+    },
+    {
+      "id": "nc75414767",
+      "lon": -122.714500427246,
+      "lat": 38.7738342285156,
+      "depth": 2.5,
+      "mag": 0.77,
+      "place": "2 km W of Anderson Springs, CA",
+      "time": 1786305117650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414767"
+    },
     {
       "id": "ci40669490",
       "lon": -120.480833333333,
@@ -2502,66 +2522,6 @@
       "place": "23 km NW of Parkfield, CA",
       "time": 1786219413630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414162"
-    },
-    {
-      "id": "uw714073682",
-      "lon": -121.239833333333,
-      "lat": 43.8113333333333,
-      "depth": 2.65,
-      "mag": 1.5,
-      "place": "17 km ESE of Sunriver, Oregon",
-      "time": 1786219148340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714073682"
-    },
-    {
-      "id": "aka2026pqaubd",
-      "lon": -155.611,
-      "lat": 57.702,
-      "depth": 83.6,
-      "mag": 0.9,
-      "place": "70 km WNW of Karluk, Alaska",
-      "time": 1786219139652,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pqaubd"
-    },
-    {
-      "id": "ci40668842",
-      "lon": -116.3195,
-      "lat": 33.9026666666667,
-      "depth": 5.43,
-      "mag": 0.82,
-      "place": "11 km NE of Thousand Palms, CA",
-      "time": 1786219027160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668842"
-    },
-    {
-      "id": "tx2026pnnrbk",
-      "lon": -101.609,
-      "lat": 32.397,
-      "depth": 2.7352,
-      "mag": 2.3,
-      "place": "17 km SE of Ackerly, Texas",
-      "time": 1786218953586,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pnnrbk"
-    },
-    {
-      "id": "tx2026pnnrbt",
-      "lon": -101.614,
-      "lat": 32.395,
-      "depth": 4.0624,
-      "mag": 2.3,
-      "place": "17 km SSE of Ackerly, Texas",
-      "time": 1786218953365,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pnnrbt"
-    },
-    {
-      "id": "aka2026pqakkm",
-      "lon": 176.23,
-      "lat": 51.848,
-      "depth": 20,
-      "mag": 2.4,
-      "place": "235 km ESE of Attu Station, Alaska",
-      "time": 1786218472797,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pqakkm"
     }
   ]
 }
