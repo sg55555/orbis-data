@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T05:30:40Z",
-  "count": 235,
+  "updated": "2026-08-09T05:45:36Z",
+  "count": 234,
   "points": [
+    {
+      "id": "nc75414477",
+      "lon": -121.90983581543,
+      "lat": 37.8186683654785,
+      "depth": 8.69999980926514,
+      "mag": 1.26,
+      "place": "0 km SW of Blackhawk, CA",
+      "time": 1786253440980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414477"
+    },
     {
       "id": "nc75414472",
       "lon": -121.911666870117,
@@ -2332,26 +2342,6 @@
       "place": "57 km WNW of Skwentna, Alaska",
       "time": 1786167958028,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026poyilk"
-    },
-    {
-      "id": "us6000tj70",
-      "lon": 155.753,
-      "lat": 49.8507,
-      "depth": 82.521,
-      "mag": 4.8,
-      "place": "95 km SSW of Severo-Kuril’sk, Russia",
-      "time": 1786167579927,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj70"
-    },
-    {
-      "id": "aka2026poycws",
-      "lon": -152.322,
-      "lat": 62.245,
-      "depth": 5,
-      "mag": 2.4,
-      "place": "55 km WNW of Skwentna, Alaska",
-      "time": 1786167573023,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026poycws"
     }
   ]
 }
