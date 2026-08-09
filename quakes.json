@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T16:15:30Z",
+  "updated": "2026-08-09T16:30:43Z",
   "count": 243,
   "points": [
+    {
+      "id": "nc75414677",
+      "lon": -122.755500793457,
+      "lat": 38.7903327941895,
+      "depth": -0.310000002384186,
+      "mag": 0.77,
+      "place": "1 km N of The Geysers, CA",
+      "time": 1786292714150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414677"
+    },
     {
       "id": "ci40669434",
       "lon": -117.016,
@@ -62,6 +72,16 @@
       "place": "86 km SW of Kaktovik, Alaska",
       "time": 1786290335909,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026proixx"
+    },
+    {
+      "id": "us6000tjfr",
+      "lon": -74.5481,
+      "lat": -10.994,
+      "depth": 95.468,
+      "mag": 4.6,
+      "place": "30 km NNE of Satipo, Peru",
+      "time": 1786290005269,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfr"
     },
     {
       "id": "nc75414652",
@@ -1005,12 +1025,12 @@
     },
     {
       "id": "ci40669178",
-      "lon": -120.4725,
-      "lat": 34.5393333333333,
-      "depth": 3.89,
-      "mag": 2.86,
-      "place": "11 km S of Lompoc, CA",
-      "time": 1786257459830,
+      "lon": -120.4865,
+      "lat": 34.5335,
+      "depth": 5.3,
+      "mag": 2.82,
+      "place": "12 km SSW of Lompoc, CA",
+      "time": 1786257459650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669178"
     },
     {
@@ -1155,12 +1175,12 @@
     },
     {
       "id": "ci40669138",
-      "lon": -120.483166666667,
-      "lat": 34.5381666666667,
-      "depth": 5.25,
-      "mag": 2.5,
-      "place": "11 km SSW of Lompoc, CA",
-      "time": 1786252344350,
+      "lon": -120.491833333333,
+      "lat": 34.5301666666667,
+      "depth": 5.94,
+      "mag": 2.51,
+      "place": "13 km SSW of Lompoc, CA",
+      "time": 1786252344220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669138"
     },
     {
@@ -2412,26 +2432,6 @@
       "place": "30 km N of Trimbak, India",
       "time": 1786206657993,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjd3"
-    },
-    {
-      "id": "ci40668730",
-      "lon": -118.2775,
-      "lat": 36.1515,
-      "depth": 7.71,
-      "mag": 2.08,
-      "place": "28 km WSW of Olancha, CA",
-      "time": 1786205864560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668730"
-    },
-    {
-      "id": "aka2026pptjxg",
-      "lon": -149.822,
-      "lat": 62.16,
-      "depth": 11.4,
-      "mag": 1.9,
-      "place": "1 km E of Susitna North, Alaska",
-      "time": 1786205840345,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pptjxg"
     }
   ]
 }
