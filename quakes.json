@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T00:30:50Z",
-  "count": 219,
+  "updated": "2026-08-09T00:45:33Z",
+  "count": 220,
   "points": [
+    {
+      "id": "aka2026pqjvxy",
+      "lon": -152.267,
+      "lat": 62.253,
+      "depth": 3.1,
+      "mag": 1.5,
+      "place": "53 km WNW of Skwentna, Alaska",
+      "time": 1786235460938,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pqjvxy"
+    },
     {
       "id": "nc75414322",
       "lon": -122.806335449219,
@@ -72,6 +82,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1786232864020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414302"
+    },
+    {
+      "id": "us6000tjbr",
+      "lon": 49.6839,
+      "lat": 32.2034,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "46 km NE of Masjed Soleymān, Iran",
+      "time": 1786232310503,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjbr"
     },
     {
       "id": "ci40669034",
@@ -2182,16 +2202,6 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1786150046770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668434"
-    },
-    {
-      "id": "ci40668418",
-      "lon": -117.592,
-      "lat": 35.6076666666667,
-      "depth": 6.41,
-      "mag": 0.87,
-      "place": "8 km E of Ridgecrest, CA",
-      "time": 1786149274120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668418"
     }
   ]
 }
