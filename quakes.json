@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T11:00:51Z",
-  "count": 234,
+  "updated": "2026-08-09T11:15:30Z",
+  "count": 231,
   "points": [
+    {
+      "id": "ci40669290",
+      "lon": -116.240166666667,
+      "lat": 32.9126666666667,
+      "depth": 7.53,
+      "mag": 0.81,
+      "place": "28 km SSW of Ocotillo Wells, CA",
+      "time": 1786273599840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669290"
+    },
     {
       "id": "aka2026presrt",
       "lon": -150.231,
@@ -2302,46 +2312,6 @@
       "place": "45 km ESE of Sunriver, Oregon",
       "time": 1786187930240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714073392"
-    },
-    {
-      "id": "uw714073372",
-      "lon": -120.982,
-      "lat": 43.692,
-      "depth": -1.77,
-      "mag": 1.03,
-      "place": "41 km ESE of Three Rivers, Oregon",
-      "time": 1786187655290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714073372"
-    },
-    {
-      "id": "aka2026ppjazs",
-      "lon": 176.062,
-      "lat": 51.636,
-      "depth": 20,
-      "mag": 2.5,
-      "place": "238 km SE of Attu Station, Alaska",
-      "time": 1786187253857,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppjazs"
-    },
-    {
-      "id": "hv75014972",
-      "lon": -155.372329711914,
-      "lat": 19.1968326568604,
-      "depth": 29.9200000762939,
-      "mag": 2.21,
-      "place": "11 km E of Pāhala, Hawaii",
-      "time": 1786187041040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75014972"
-    },
-    {
-      "id": "tx2026pmvznt",
-      "lon": -104.479,
-      "lat": 31.65,
-      "depth": 9.6654,
-      "mag": 1.4,
-      "place": "59 km S of Whites City, New Mexico",
-      "time": 1786186951521,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pmvznt"
     }
   ]
 }
