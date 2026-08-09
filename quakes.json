@@ -1,15 +1,35 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T09:15:35Z",
-  "count": 238,
+  "updated": "2026-08-09T09:30:47Z",
+  "count": 239,
   "points": [
+    {
+      "id": "nc75414557",
+      "lon": -122.803169250488,
+      "lat": 38.8370018005371,
+      "depth": 2.17000007629395,
+      "mag": 1.65,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1786267506170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414557"
+    },
+    {
+      "id": "aka2026prbmry",
+      "lon": -149.005,
+      "lat": 62.844,
+      "depth": 72,
+      "mag": 2.3,
+      "place": "61 km S of Cantwell, Alaska",
+      "time": 1786267208009,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prbmry"
+    },
     {
       "id": "tx2026ponwhe",
       "lon": -102.206,
-      "lat": 31.918,
-      "depth": 1.2073,
+      "lat": 31.917,
+      "depth": 1.2081,
       "mag": 1.6,
-      "place": "14 km SW of Midland, Texas",
+      "place": "15 km SW of Midland, Texas",
       "time": 1786266370631,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ponwhe"
     },
@@ -2372,16 +2392,6 @@
       "place": "41 km NW of Toyah, Texas",
       "time": 1786181749937,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pmtcym"
-    },
-    {
-      "id": "aka2026ppfmsq",
-      "lon": -152.287,
-      "lat": 62.25,
-      "depth": 5,
-      "mag": 1.3,
-      "place": "54 km WNW of Skwentna, Alaska",
-      "time": 1786180848338,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppfmsq"
     }
   ]
 }
