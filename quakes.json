@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T03:15:32Z",
-  "count": 233,
+  "updated": "2026-08-09T03:30:45Z",
+  "count": 235,
   "points": [
+    {
+      "id": "ci40669090",
+      "lon": -117.561333333333,
+      "lat": 35.6485,
+      "depth": 8.37,
+      "mag": 1.66,
+      "place": "11 km ENE of Ridgecrest, CA",
+      "time": 1786245830150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669090"
+    },
+    {
+      "id": "ci40669082",
+      "lon": -116.6695,
+      "lat": 33.9401666666667,
+      "depth": 10.27,
+      "mag": 1.25,
+      "place": "11 km ENE of Cabazon, CA",
+      "time": 1786245426970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669082"
+    },
+    {
+      "id": "us6000tjcl",
+      "lon": 94.1402,
+      "lat": 7.017,
+      "depth": 10,
+      "mag": 5,
+      "place": "180 km NW of Sabang, Indonesia",
+      "time": 1786244527086,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl"
+    },
     {
       "id": "uw714074042",
       "lon": -124.559333333333,
@@ -2322,16 +2352,6 @@
       "place": "2 km ESE of Mehmand Chak, Pakistan",
       "time": 1786159804685,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj67"
-    },
-    {
-      "id": "ci40668506",
-      "lon": -117.218,
-      "lat": 34.003,
-      "depth": 5.72,
-      "mag": 0.8,
-      "place": "6 km SE of Loma Linda, CA",
-      "time": 1786159148250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668506"
     }
   ]
 }
