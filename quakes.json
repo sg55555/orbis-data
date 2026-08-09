@@ -1,16 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T05:16:01Z",
-  "count": 234,
+  "updated": "2026-08-09T05:30:40Z",
+  "count": 235,
   "points": [
     {
-      "id": "ci40669138",
-      "lon": -120.49983215332,
-      "lat": 34.5321655273438,
-      "depth": 5.73000001907349,
-      "mag": 2.55854749912871,
+      "id": "nc75414472",
+      "lon": -121.911666870117,
+      "lat": 37.8096656799316,
+      "depth": 1.24000000953674,
+      "mag": 1.14,
+      "place": "1 km SSW of Blackhawk, CA",
+      "time": 1786253307360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414472"
+    },
+    {
+      "id": "ci40669154",
+      "lon": -116.7405,
+      "lat": 33.2213333333333,
+      "depth": 12.94,
+      "mag": 0.6,
+      "place": "3 km SE of Lake Henshaw, CA",
+      "time": 1786252979490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669154"
+    },
+    {
+      "id": "ci40669146",
+      "lon": -120.488833333333,
+      "lat": 34.5286666666667,
+      "depth": 5.76,
+      "mag": 1.82,
       "place": "13 km SSW of Lompoc, CA",
-      "time": 1786252344260,
+      "time": 1786252413420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669146"
+    },
+    {
+      "id": "ci40669138",
+      "lon": -120.483166666667,
+      "lat": 34.5381666666667,
+      "depth": 5.25,
+      "mag": 2.5,
+      "place": "11 km SSW of Lompoc, CA",
+      "time": 1786252344350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669138"
     },
     {
@@ -2322,26 +2352,6 @@
       "place": "55 km WNW of Skwentna, Alaska",
       "time": 1786167573023,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026poycws"
-    },
-    {
-      "id": "aka2026poxsgc",
-      "lon": -152.332,
-      "lat": 62.252,
-      "depth": 5,
-      "mag": 1.9,
-      "place": "56 km WNW of Skwentna, Alaska",
-      "time": 1786166852598,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026poxsgc"
-    },
-    {
-      "id": "us6000tj6x",
-      "lon": -173.4796,
-      "lat": 51.4851,
-      "depth": 35,
-      "mag": 3.4,
-      "place": "93 km SSE of Atka, Alaska",
-      "time": 1786166204594,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj6x"
     }
   ]
 }
