@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T16:45:36Z",
-  "count": 253,
+  "updated": "2026-08-10T17:01:00Z",
+  "count": 254,
   "points": [
+    {
+      "id": "hv75017351",
+      "lon": -155.178329467773,
+      "lat": 18.8921661376953,
+      "depth": 17.1100006103516,
+      "mag": 1.77,
+      "place": "46 km ESE of Naalehu, Hawaii",
+      "time": 1786380816940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017351"
+    },
     {
       "id": "ci40669890",
       "lon": -115.667833333333,
@@ -165,12 +175,12 @@
     },
     {
       "id": "tx2026pqvwob",
-      "lon": -101.9,
-      "lat": 31.662,
-      "depth": 0,
-      "mag": 1.6,
-      "place": "40 km SSE of Midland, Texas",
-      "time": 1786375006509,
+      "lon": -101.923,
+      "lat": 31.776,
+      "depth": 5.957,
+      "mag": 0.6,
+      "place": "28 km SSE of Midland, Texas",
+      "time": 1786375008289,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pqvwob"
     },
     {
@@ -412,6 +422,16 @@
       "place": "29 km NNW of Beluga, Alaska",
       "time": 1786364300078,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ptdluf"
+    },
+    {
+      "id": "tx2026pqpxib",
+      "lon": -98.998,
+      "lat": 28.843,
+      "depth": 9.2561,
+      "mag": 1.6,
+      "place": "10 km ESE of Pearsall, Texas",
+      "time": 1786364199126,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pqpxib"
     },
     {
       "id": "aka2026ptdfxc",
@@ -1734,6 +1754,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75016921"
     },
     {
+      "id": "uu80148151",
+      "lon": -112.879666666667,
+      "lat": 38.5023333333333,
+      "depth": 2.21,
+      "mag": 1.83,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1786320355410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148151"
+    },
+    {
       "id": "ci40669594",
       "lon": -116.251333333333,
       "lat": 33.3025,
@@ -1745,12 +1775,12 @@
     },
     {
       "id": "nn00923143",
-      "lon": -119.0453,
-      "lat": 39.1646,
-      "depth": 5.9396,
-      "mag": 1.55,
+      "lon": -119.0415,
+      "lat": 39.1689,
+      "depth": 6.8164,
+      "mag": 1.62,
       "place": "22 km NNE of Yerington, Nevada",
-      "time": 1786320169060,
+      "time": 1786320169602,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923143"
     },
     {
@@ -2512,26 +2542,6 @@
       "place": "7 km ESE of Mabini, Philippines",
       "time": 1786295142371,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgd"
-    },
-    {
-      "id": "tx2026ppdhfv",
-      "lon": -103.526,
-      "lat": 31.292,
-      "depth": 19.9593,
-      "mag": 1.6,
-      "place": "8 km S of Lindsay, Texas",
-      "time": 1786294287980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ppdhfv"
-    },
-    {
-      "id": "pr2026221002",
-      "lon": -67.5626,
-      "lat": 18.9505,
-      "depth": 8,
-      "mag": 3.45,
-      "place": "70 km NW of San Antonio, Puerto Rico",
-      "time": 1786294211510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026221002"
     }
   ]
 }
