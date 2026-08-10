@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T14:30:46Z",
-  "count": 237,
+  "updated": "2026-08-10T14:45:32Z",
+  "count": 235,
   "points": [
+    {
+      "id": "hv75017226",
+      "lon": -155.472671508789,
+      "lat": 19.1848335266113,
+      "depth": 30.4200000762939,
+      "mag": 1.77,
+      "place": "2 km SSE of Pāhala, Hawaii",
+      "time": 1786372264660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017226"
+    },
     {
       "id": "aka2026pthgzh",
       "lon": -152.95,
@@ -195,12 +205,12 @@
     },
     {
       "id": "ci40669802",
-      "lon": -116.741333333333,
-      "lat": 33.2893333333333,
-      "depth": 13.68,
-      "mag": 1.49,
+      "lon": -116.739333333333,
+      "lat": 33.2901666666667,
+      "depth": 14.22,
+      "mag": 0.18,
       "place": "6 km NNE of Lake Henshaw, CA",
-      "time": 1786362286410,
+      "time": 1786362286290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669802"
     },
     {
@@ -952,6 +962,16 @@
       "place": "5 km NNW of Pinnacles, CA",
       "time": 1786331790000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415027"
+    },
+    {
+      "id": "us6000tjm0",
+      "lon": -105.5861,
+      "lat": 19.6906,
+      "depth": 10,
+      "mag": 3.9,
+      "place": "36 km WSW of Campo Acosta, Mexico",
+      "time": 1786331779561,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjm0"
     },
     {
       "id": "nc75415022",
@@ -1775,12 +1795,12 @@
     },
     {
       "id": "ci40669514",
-      "lon": -120.545666666667,
-      "lat": 34.4713333333333,
-      "depth": 8.16,
-      "mag": 1.58,
-      "place": "20 km SSW of Lompoc, CA",
-      "time": 1786307985950,
+      "lon": -120.4915,
+      "lat": 34.5331666666667,
+      "depth": 4.85,
+      "mag": 1.49,
+      "place": "12 km SSW of Lompoc, CA",
+      "time": 1786307987080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669514"
     },
     {
@@ -2085,12 +2105,12 @@
     },
     {
       "id": "tx2026ppecjc",
-      "lon": -99.015,
-      "lat": 28.858,
-      "depth": 5.095,
-      "mag": 2,
-      "place": "8 km ESE of Pearsall, Texas",
-      "time": 1786295758693,
+      "lon": -98.989,
+      "lat": 28.806,
+      "depth": 7.499,
+      "mag": 1.9,
+      "place": "14 km SE of Pearsall, Texas",
+      "time": 1786295756794,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ppecjc"
     },
     {
@@ -2332,46 +2352,6 @@
       "place": "34 km ESE of Ugashik, Alaska",
       "time": 1786287126891,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prmooe"
-    },
-    {
-      "id": "aka2026prmgxu",
-      "lon": -154.463,
-      "lat": 58.867,
-      "depth": 120.5,
-      "mag": 1.9,
-      "place": "66 km SSE of Kokhanok, Alaska",
-      "time": 1786286598651,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prmgxu"
-    },
-    {
-      "id": "aka2026prmaok",
-      "lon": -152.332,
-      "lat": 59.447,
-      "depth": 74.7,
-      "mag": 1.9,
-      "place": "25 km WNW of Nanwalek, Alaska",
-      "time": 1786286158386,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prmaok"
-    },
-    {
-      "id": "nc75414637",
-      "lon": -122.944664001465,
-      "lat": 38.7733345031738,
-      "depth": 6.1399998664856,
-      "mag": 1.99,
-      "place": "7 km ESE of Cloverdale, CA",
-      "time": 1786286044960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414637"
-    },
-    {
-      "id": "hv75015462",
-      "lon": -155.494333333333,
-      "lat": 19.2056666666667,
-      "depth": 30.76,
-      "mag": 3.08,
-      "place": "1 km W of Pāhala, Hawaii",
-      "time": 1786285822310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015462"
     }
   ]
 }
