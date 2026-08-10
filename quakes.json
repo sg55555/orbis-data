@@ -1,16 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T04:45:31Z",
-  "count": 254,
+  "updated": "2026-08-10T05:08:26Z",
+  "count": 257,
   "points": [
     {
+      "id": "nc75415072",
+      "lon": -122.932830810547,
+      "lat": 38.7756652832031,
+      "depth": 4.71000003814697,
+      "mag": 1.61,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": 1786337910630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415072"
+    },
+    {
+      "id": "ci40669690",
+      "lon": -116.338,
+      "lat": 33.2646666666667,
+      "depth": 3.04,
+      "mag": 0.67,
+      "place": "4 km ENE of Borrego Springs, CA",
+      "time": 1786337718040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669690"
+    },
+    {
+      "id": "nc75415067",
+      "lon": -122.794166564941,
+      "lat": 38.8240013122559,
+      "depth": 3.15000009536743,
+      "mag": 0.58,
+      "place": "6 km NNW of The Geysers, CA",
+      "time": 1786337341910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415067"
+    },
+    {
       "id": "ci40669682",
-      "lon": -116.395835876465,
-      "lat": 33.2335014343262,
-      "depth": 4.53999996185303,
-      "mag": 1.33173207142806,
+      "lon": -116.3965,
+      "lat": 33.2318333333333,
+      "depth": 4.41,
+      "mag": 1.24,
       "place": "3 km SW of Borrego Springs, CA",
-      "time": 1786336954030,
+      "time": 1786336954020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669682"
     },
     {
@@ -502,6 +532,16 @@
       "place": "16 km N of Borrego Springs, CA",
       "time": 1786320103580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669586"
+    },
+    {
+      "id": "us6000tjif",
+      "lon": 22.6168,
+      "lat": 38.246,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "15 km S of Antikyra, Greece",
+      "time": 1786319819955,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjif"
     },
     {
       "id": "hv75016911",
@@ -2532,16 +2572,6 @@
       "place": "13 km SSW of Lompoc, CA",
       "time": 1786252344220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669138"
-    },
-    {
-      "id": "aka2026pqspby",
-      "lon": -152.13,
-      "lat": 62.237,
-      "depth": 31.2,
-      "mag": 1.2,
-      "place": "47 km NW of Skwentna, Alaska",
-      "time": 1786251179930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pqspby"
     }
   ]
 }
