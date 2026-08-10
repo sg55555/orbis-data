@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T16:27:09Z",
-  "count": 255,
+  "updated": "2026-08-10T16:30:50Z",
+  "count": 252,
   "points": [
     {
+      "id": "hv75017331",
+      "lon": -155.471496582031,
+      "lat": 19.3635005950928,
+      "depth": 4.76999998092651,
+      "mag": 2.18,
+      "place": "17 km N of Pāhala, Hawaii",
+      "time": 1786379139680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017331"
+    },
+    {
       "id": "uw714074522",
-      "lon": -124.297836303711,
-      "lat": 42.2666664123535,
-      "depth": 3.16000008583069,
-      "mag": 2.30011022090912,
-      "place": "8 km E of Pistol River, Oregon",
-      "time": 1786378853720,
+      "lon": -124.306166666667,
+      "lat": 42.2718333333333,
+      "depth": 3.65,
+      "mag": 2.34,
+      "place": "7 km E of Pistol River, Oregon",
+      "time": 1786378853710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714074522"
     },
     {
@@ -2054,16 +2064,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026przgwg"
     },
     {
-      "id": "tx2026pplvyn",
-      "lon": -104.123,
-      "lat": 31.619,
-      "depth": 5.5453,
-      "mag": 0.4,
-      "place": "46 km NW of Toyah, Texas",
-      "time": 1786309798014,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pplvyn"
-    },
-    {
       "id": "hv75015567",
       "lon": -155.567833333333,
       "lat": 19.4723333333333,
@@ -2404,16 +2404,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prtdxp"
     },
     {
-      "id": "tx2026ppfwcc",
-      "lon": -101.936,
-      "lat": 31.678,
-      "depth": 0,
-      "mag": 1.1,
-      "place": "37 km SSE of Midland, Texas",
-      "time": 1786298943591,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ppfwcc"
-    },
-    {
       "id": "ci40669458",
       "lon": -117.7965,
       "lat": 35.3646666666667,
@@ -2532,26 +2522,6 @@
       "place": "57 km NE of Chenega, Alaska",
       "time": 1786293572821,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prqdsb"
-    },
-    {
-      "id": "nc75414682",
-      "lon": -122.84400177002,
-      "lat": 38.8683319091797,
-      "depth": 4.76000022888184,
-      "mag": 1.5,
-      "place": "12 km WNW of Cobb, CA",
-      "time": 1786292957290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414682"
-    },
-    {
-      "id": "tx2026ppcluz",
-      "lon": -101.459,
-      "lat": 32.085,
-      "depth": 8.7646,
-      "mag": 2,
-      "place": "9 km WSW of Forsan, Texas",
-      "time": 1786292923213,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ppcluz"
     }
   ]
 }
