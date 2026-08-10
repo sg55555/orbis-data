@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T06:45:36Z",
-  "count": 256,
+  "updated": "2026-08-10T07:01:01Z",
+  "count": 255,
   "points": [
+    {
+      "id": "aka2026pssuym",
+      "lon": -152.752,
+      "lat": 60.124,
+      "depth": 112,
+      "mag": 1.9,
+      "place": "60 km WNW of Happy Valley, Alaska",
+      "time": 1786345143590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pssuym"
+    },
+    {
+      "id": "aka2026pssufm",
+      "lon": -152.227,
+      "lat": 62.255,
+      "depth": 25.6,
+      "mag": 1.5,
+      "place": "52 km NW of Skwentna, Alaska",
+      "time": 1786345092697,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pssufm"
+    },
+    {
+      "id": "aka2026psspkh",
+      "lon": -151.85,
+      "lat": 59.74,
+      "depth": 61.6,
+      "mag": 2.1,
+      "place": "4 km SSW of Anchor Point, Alaska",
+      "time": 1786344760058,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026psspkh"
+    },
     {
       "id": "ci40669722",
       "lon": -116.6635,
@@ -2522,46 +2552,6 @@
       "place": "17 km ESE of Anza, CA",
       "time": 1786258896760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669194"
-    },
-    {
-      "id": "nc75414507",
-      "lon": -122.823669433594,
-      "lat": 38.84033203125,
-      "depth": 2.3199999332428,
-      "mag": 1.82,
-      "place": "9 km WNW of Cobb, CA",
-      "time": 1786258614820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414507"
-    },
-    {
-      "id": "ci40669186",
-      "lon": -120.487333333333,
-      "lat": 34.5365,
-      "depth": 5.49,
-      "mag": 1.6,
-      "place": "12 km SSW of Lompoc, CA",
-      "time": 1786258610470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669186"
-    },
-    {
-      "id": "tx2026pojkve",
-      "lon": -102.338,
-      "lat": 31.923,
-      "depth": 6.826,
-      "mag": 1,
-      "place": "9 km NNE of Odessa, Texas",
-      "time": 1786258332456,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pojkve"
-    },
-    {
-      "id": "hv75015337",
-      "lon": -156.245330810547,
-      "lat": 18.7999992370605,
-      "depth": 6.8600001335144,
-      "mag": 1.88,
-      "place": "58 km WSW of Hawaiian Ocean View, Hawaii",
-      "time": 1786258065960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015337"
     }
   ]
 }
