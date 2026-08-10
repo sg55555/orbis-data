@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T06:30:47Z",
-  "count": 260,
+  "updated": "2026-08-10T06:45:36Z",
+  "count": 256,
   "points": [
+    {
+      "id": "ci40669722",
+      "lon": -116.6635,
+      "lat": 33.5596666666667,
+      "depth": 7.92,
+      "mag": 1.32,
+      "place": "1 km ENE of Anza, CA",
+      "time": 1786343312960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669722"
+    },
     {
       "id": "aka2026psrujw",
       "lon": -155.548,
@@ -2552,56 +2562,6 @@
       "place": "58 km WSW of Hawaiian Ocean View, Hawaii",
       "time": 1786258065960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015337"
-    },
-    {
-      "id": "nc75414497",
-      "lon": -121.192665100098,
-      "lat": 36.586498260498,
-      "depth": 2.6800000667572,
-      "mag": 1.61,
-      "place": "8 km NW of Pinnacles, CA",
-      "time": 1786257909130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414497"
-    },
-    {
-      "id": "tx2026poiysd",
-      "lon": -104.121,
-      "lat": 31.625,
-      "depth": 2.1626,
-      "mag": 0.6,
-      "place": "46 km NW of Toyah, Texas",
-      "time": 1786257505880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026poiysd"
-    },
-    {
-      "id": "ci40669178",
-      "lon": -120.4865,
-      "lat": 34.5335,
-      "depth": 5.3,
-      "mag": 2.82,
-      "place": "12 km SSW of Lompoc, CA",
-      "time": 1786257459650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669178"
-    },
-    {
-      "id": "pr2026221001",
-      "lon": -64.829,
-      "lat": 19.5323,
-      "depth": 36,
-      "mag": 3.73,
-      "place": "132 km N of Charlotte Amalie, U.S. Virgin Islands",
-      "time": 1786257333090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026221001"
-    },
-    {
-      "id": "ci40669170",
-      "lon": -117.8135,
-      "lat": 35.3193333333333,
-      "depth": 8.64,
-      "mag": 1.08,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1786257116960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669170"
     }
   ]
 }
