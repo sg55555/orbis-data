@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T07:15:36Z",
-  "count": 252,
+  "updated": "2026-08-10T07:30:45Z",
+  "count": 250,
   "points": [
+    {
+      "id": "nc75415112",
+      "lon": -122.779663085938,
+      "lat": 38.7863349914551,
+      "depth": 3.45000004768372,
+      "mag": 0.27,
+      "place": "2 km WNW of The Geysers, CA",
+      "time": 1786346454180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415112"
+    },
     {
       "id": "aka2026pssyoy",
       "lon": -148.639,
@@ -715,12 +725,12 @@
     },
     {
       "id": "tx2026ppshfb",
-      "lon": -102.06,
-      "lat": 31.946,
-      "depth": 3.7087,
-      "mag": 1.6,
+      "lon": -102.055,
+      "lat": 31.953,
+      "depth": 8.6182,
+      "mag": 1.5,
       "place": "5 km SSE of Midland, Texas",
-      "time": 1786321477939,
+      "time": 1786321478241,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ppshfb"
     },
     {
@@ -2492,36 +2502,6 @@
       "place": "52 km WNW of Skwentna, Alaska",
       "time": 1786262441288,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pqyvve"
-    },
-    {
-      "id": "tx2026pokqol",
-      "lon": -104.582,
-      "lat": 31.705,
-      "depth": 3.4006,
-      "mag": 1.7,
-      "place": "55 km SSW of Whites City, New Mexico",
-      "time": 1786260547219,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pokqol"
-    },
-    {
-      "id": "ci40669226",
-      "lon": -119.597,
-      "lat": 34.8601666666667,
-      "depth": 9.94,
-      "mag": 1.67,
-      "place": "28 km SW of Maricopa, CA",
-      "time": 1786260514040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669226"
-    },
-    {
-      "id": "ci40669218",
-      "lon": -117.820166666667,
-      "lat": 35.325,
-      "depth": 6.42,
-      "mag": 0.75,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": 1786259897520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669218"
     }
   ]
 }
