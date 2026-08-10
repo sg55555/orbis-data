@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-09T23:45:35Z",
-  "count": 242,
+  "updated": "2026-08-10T00:01:00Z",
+  "count": 240,
   "points": [
+    {
+      "id": "nc75414867",
+      "lon": -122.822998046875,
+      "lat": 38.84033203125,
+      "depth": 1.5900000333786,
+      "mag": 0.75,
+      "place": "9 km WNW of Cobb, CA",
+      "time": 1786319256560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414867"
+    },
     {
       "id": "tx2026ppqwmq",
       "lon": -104.123,
       "lat": 31.612,
-      "depth": 3.7373,
+      "depth": 3.7389,
       "mag": 1.4,
       "place": "45 km NW of Toyah, Texas",
-      "time": 1786318884206,
+      "time": 1786318884205,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ppqwmq"
     },
     {
@@ -42,6 +52,16 @@
       "place": "19 km SE of Eagle River, Alaska",
       "time": 1786316251007,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026psctll"
+    },
+    {
+      "id": "hv75015642",
+      "lon": -155.260166666667,
+      "lat": 19.0033333333333,
+      "depth": 12,
+      "mag": 2.72,
+      "place": "31 km SE of Pāhala, Hawaii",
+      "time": 1786314932510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015642"
     },
     {
       "id": "ci40669554",
@@ -2382,46 +2402,6 @@
       "place": "2 km E of Saint-Donat-de-Montcalm, Canada",
       "time": 1786233885211,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjbu"
-    },
-    {
-      "id": "nc75414312",
-      "lon": -121.178001403809,
-      "lat": 36.5631675720215,
-      "depth": 2.35999989509583,
-      "mag": 2.77,
-      "place": "5 km NW of Pinnacles, CA",
-      "time": 1786233527090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414312"
-    },
-    {
-      "id": "ci40669042",
-      "lon": -116.8115,
-      "lat": 33.9941666666667,
-      "depth": 16.84,
-      "mag": 1.11,
-      "place": "9 km NNW of Cabazon, CA",
-      "time": 1786233195710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669042"
-    },
-    {
-      "id": "nc75414307",
-      "lon": -121.170829772949,
-      "lat": 36.5673332214355,
-      "depth": 3.89000010490417,
-      "mag": 2.1,
-      "place": "5 km NNW of Pinnacles, CA",
-      "time": 1786233063970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414307"
-    },
-    {
-      "id": "nc75414302",
-      "lon": -122.803833007812,
-      "lat": 38.824333190918,
-      "depth": 2.44000005722046,
-      "mag": 0.67,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1786232864020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414302"
     }
   ]
 }
