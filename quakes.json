@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T09:45:33Z",
-  "count": 253,
+  "updated": "2026-08-10T10:00:55Z",
+  "count": 250,
   "points": [
+    {
+      "id": "ci40669770",
+      "lon": -116.338166666667,
+      "lat": 33.2636666666667,
+      "depth": 2.98,
+      "mag": 1.09,
+      "place": "4 km ENE of Borrego Springs, CA",
+      "time": 1786355032120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669770"
+    },
     {
       "id": "ci40669762",
       "lon": -117.254666666667,
@@ -2492,46 +2502,6 @@
       "place": "25 km NE of Skwentna, Alaska",
       "time": 1786269718015,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prcwyz"
-    },
-    {
-      "id": "tx2026poplnz",
-      "lon": -98.962,
-      "lat": 28.861,
-      "depth": 5.9604,
-      "mag": 2,
-      "place": "13 km ESE of Pearsall, Texas",
-      "time": 1786269243212,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026poplnz"
-    },
-    {
-      "id": "aka2026prcpvq",
-      "lon": -152.275,
-      "lat": 62.285,
-      "depth": 5,
-      "mag": 3.3,
-      "place": "56 km NW of Skwentna, Alaska",
-      "time": 1786269226277,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prcpvq"
-    },
-    {
-      "id": "nc75414572",
-      "lon": -122.823669433594,
-      "lat": 38.8421669006348,
-      "depth": 1.8400000333786,
-      "mag": 0.34,
-      "place": "9 km WNW of Cobb, CA",
-      "time": 1786268880910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414572"
-    },
-    {
-      "id": "nn00923117",
-      "lon": -116.0079,
-      "lat": 36.7332,
-      "depth": 11.3745,
-      "mag": 2.93,
-      "place": "35 km WNW of Indian Springs, Nevada",
-      "time": 1786268758248,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923117"
     }
   ]
 }
