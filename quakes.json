@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T11:45:38Z",
-  "count": 241,
+  "updated": "2026-08-10T12:00:55Z",
+  "count": 240,
   "points": [
+    {
+      "id": "ci40669802",
+      "lon": -116.741333333333,
+      "lat": 33.2893333333333,
+      "depth": 13.68,
+      "mag": 1.49,
+      "place": "6 km NNE of Lake Henshaw, CA",
+      "time": 1786362286410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669802"
+    },
     {
       "id": "aka2026ptcfjd",
       "lon": -148.865,
@@ -22,6 +32,16 @@
       "place": "62 km WNW of Aleneva, Alaska",
       "time": 1786361834190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ptccdi"
+    },
+    {
+      "id": "tx2026pqobzc",
+      "lon": -101.61,
+      "lat": 32.096,
+      "depth": 2.0423,
+      "mag": 1.1,
+      "place": "17 km ESE of Stanton, Texas",
+      "time": 1786360904789,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pqobzc"
     },
     {
       "id": "aka2026ptbnlc",
@@ -1885,12 +1905,12 @@
     },
     {
       "id": "tx2026ppcluz",
-      "lon": -101.473,
-      "lat": 32.094,
-      "depth": 3.4779,
+      "lon": -101.459,
+      "lat": 32.085,
+      "depth": 8.7646,
       "mag": 2,
-      "place": "10 km W of Forsan, Texas",
-      "time": 1786292923135,
+      "place": "9 km WSW of Forsan, Texas",
+      "time": 1786292923213,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ppcluz"
     },
     {
@@ -2382,36 +2402,6 @@
       "place": "50 km N of Rampart, Alaska",
       "time": 1786276842944,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prgvyg"
-    },
-    {
-      "id": "uw714074152",
-      "lon": -124.300163269043,
-      "lat": 42.2736663818359,
-      "depth": 4.82000017166138,
-      "mag": 1.8859179019928,
-      "place": "7 km E of Pistol River, Oregon",
-      "time": 1786276728910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714074152"
-    },
-    {
-      "id": "us6000tjen",
-      "lon": -101.9125,
-      "lat": 2.2955,
-      "depth": 10,
-      "mag": 5.2,
-      "place": "Galapagos Triple Junction region",
-      "time": 1786276653237,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjen"
-    },
-    {
-      "id": "ok2026pmwd",
-      "lon": -95.97866667,
-      "lat": 34.66366667,
-      "depth": 5.28,
-      "mag": 2.94,
-      "place": "4 km ENE of Wardville, Oklahoma",
-      "time": 1786276250280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pmwd"
     }
   ]
 }
