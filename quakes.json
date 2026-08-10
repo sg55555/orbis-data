@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T03:30:44Z",
-  "count": 256,
+  "updated": "2026-08-10T03:45:38Z",
+  "count": 257,
   "points": [
+    {
+      "id": "nc75415037",
+      "lon": -122.779335021973,
+      "lat": 38.7840003967285,
+      "depth": 2.96000003814697,
+      "mag": 1.28,
+      "place": "2 km WNW of The Geysers, CA",
+      "time": 1786333334760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415037"
+    },
+    {
+      "id": "nc75415032",
+      "lon": -121.176834106445,
+      "lat": 36.5723342895508,
+      "depth": 4.75,
+      "mag": 1.39,
+      "place": "5 km NNW of Pinnacles, CA",
+      "time": 1786332705840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415032"
+    },
     {
       "id": "nc75415027",
       "lon": -121.175666809082,
@@ -374,6 +394,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ppshfb"
     },
     {
+      "id": "hv75016921",
+      "lon": -155.438166666667,
+      "lat": 19.3946666666667,
+      "depth": 3.76,
+      "mag": 1.74,
+      "place": "21 km NNE of Pāhala, Hawaii",
+      "time": 1786320751020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75016921"
+    },
+    {
       "id": "ci40669594",
       "lon": -116.251333333333,
       "lat": 33.3025,
@@ -402,6 +432,16 @@
       "place": "16 km N of Borrego Springs, CA",
       "time": 1786320103580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669586"
+    },
+    {
+      "id": "hv75016911",
+      "lon": -155.483666666667,
+      "lat": 19.1975,
+      "depth": 29.09,
+      "mag": 1.54,
+      "place": "0 km SW of Pāhala, Hawaii",
+      "time": 1786319561120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75016911"
     },
     {
       "id": "nc75414867",
@@ -2532,36 +2572,6 @@
       "place": "2 km WSW of Santa Fe Springs, CA",
       "time": 1786247233590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669114"
-    },
-    {
-      "id": "ci40669106",
-      "lon": -116.742,
-      "lat": 33.2876666666667,
-      "depth": 12.91,
-      "mag": 0.42,
-      "place": "5 km NNE of Lake Henshaw, CA",
-      "time": 1786246660060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669106"
-    },
-    {
-      "id": "us6000tjcn",
-      "lon": -173.261,
-      "lat": 51.987,
-      "depth": 60.301,
-      "mag": 4.9,
-      "place": "68 km ESE of Atka, Alaska",
-      "time": 1786246577166,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcn"
-    },
-    {
-      "id": "ci40669098",
-      "lon": -117.866166666667,
-      "lat": 36.0905,
-      "depth": 5.59,
-      "mag": 0.97,
-      "place": "9 km NE of Coso Junction, CA",
-      "time": 1786246559090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669098"
     }
   ]
 }
