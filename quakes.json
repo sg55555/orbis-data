@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T19:45:42Z",
-  "count": 254,
+  "updated": "2026-08-10T20:01:02Z",
+  "count": 252,
   "points": [
+    {
+      "id": "aka2026ptspct",
+      "lon": -155.341,
+      "lat": 58.162,
+      "depth": 5,
+      "mag": 0.2,
+      "place": "84 km NW of Karluk, Alaska",
+      "time": 1786391518170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ptspct"
+    },
+    {
+      "id": "ci40670050",
+      "lon": -117.498833333333,
+      "lat": 33.841,
+      "depth": 2.47,
+      "mag": 1.39,
+      "place": "5 km SSE of Home Gardens, CA",
+      "time": 1786391185670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670050"
+    },
     {
       "id": "aka2026ptsfon",
       "lon": -147.429,
@@ -905,12 +925,12 @@
     },
     {
       "id": "ci40669754",
-      "lon": -116.712,
-      "lat": 33.5393333333333,
-      "depth": 5.21,
-      "mag": 0.02,
+      "lon": -116.711333333333,
+      "lat": 33.5383333333333,
+      "depth": 5.17,
+      "mag": -0.08,
       "place": "4 km WSW of Anza, CA",
-      "time": 1786354525560,
+      "time": 1786354525550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669754"
     },
     {
@@ -2502,46 +2522,6 @@
       "place": "49 km E of Susitna North, Alaska",
       "time": 1786307243078,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prxtgl"
-    },
-    {
-      "id": "ci40669506",
-      "lon": -117.698166666667,
-      "lat": 35.858,
-      "depth": 4.69,
-      "mag": 2.07,
-      "place": "21 km ESE of Little Lake, CA",
-      "time": 1786305187710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669506"
-    },
-    {
-      "id": "uu80148111",
-      "lon": -111.098333333333,
-      "lat": 44.779,
-      "depth": 6.6,
-      "mag": 1.06,
-      "place": "7 km E of Hebgen Lake Estates, Montana",
-      "time": 1786305150150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148111"
-    },
-    {
-      "id": "nc75414767",
-      "lon": -122.714500427246,
-      "lat": 38.7738342285156,
-      "depth": 2.5,
-      "mag": 0.77,
-      "place": "2 km W of Anderson Springs, CA",
-      "time": 1786305117650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414767"
-    },
-    {
-      "id": "us6000tjh9",
-      "lon": 78.3442,
-      "lat": 30.868,
-      "depth": 10,
-      "mag": 4.3,
-      "place": "14 km ENE of Barkot, India",
-      "time": 1786305092991,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjh9"
     }
   ]
 }
