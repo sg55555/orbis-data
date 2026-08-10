@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T04:00:54Z",
-  "count": 255,
+  "updated": "2026-08-10T04:15:34Z",
+  "count": 254,
   "points": [
+    {
+      "id": "nc75415047",
+      "lon": -122.929664611816,
+      "lat": 38.7770004272461,
+      "depth": 5.3600001335144,
+      "mag": 2.01,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": 1786335120460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415047"
+    },
+    {
+      "id": "ci40669658",
+      "lon": -117.841833333333,
+      "lat": 36.0678333333333,
+      "depth": 2.55,
+      "mag": 1.09,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": 1786334907570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669658"
+    },
     {
       "id": "ci40669650",
       "lon": -116.413833333333,
@@ -57,10 +77,10 @@
       "id": "tx2026ppxlzm",
       "lon": -104.539,
       "lat": 31.574,
-      "depth": 2.844,
+      "depth": 2.863,
       "mag": 2.3,
       "place": "65 km NNE of Van Horn, Texas",
-      "time": 1786330906657,
+      "time": 1786330906651,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ppxlzm"
     },
     {
@@ -2522,36 +2542,6 @@
       "place": "8 km NE of Lake Arrowhead, CA",
       "time": 1786248965560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669130"
-    },
-    {
-      "id": "us6000tjcr",
-      "lon": -75.4906,
-      "lat": -12.0506,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "12 km W of Chambara, Peru",
-      "time": 1786248344245,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcr"
-    },
-    {
-      "id": "ci40669122",
-      "lon": -117.710333333333,
-      "lat": 35.885,
-      "depth": 8.24,
-      "mag": 1.04,
-      "place": "19 km ESE of Little Lake, CA",
-      "time": 1786248187330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669122"
-    },
-    {
-      "id": "nc75414447",
-      "lon": -121.684669494629,
-      "lat": 36.9378318786621,
-      "depth": 11.4399995803833,
-      "mag": 1.72,
-      "place": "5 km ESE of Interlaken, CA",
-      "time": 1786248144730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414447"
     }
   ]
 }
