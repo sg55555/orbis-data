@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T09:15:43Z",
-  "count": 254,
+  "updated": "2026-08-10T09:30:54Z",
+  "count": 253,
   "points": [
     {
+      "id": "nc75415132",
+      "lon": -122.93049621582,
+      "lat": 38.7765007019043,
+      "depth": 5.1100001335144,
+      "mag": 1.55,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": 1786353455740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415132"
+    },
+    {
       "id": "aka2026psxgyi",
-      "lon": -152.899,
-      "lat": 59.575,
-      "depth": 101.5,
-      "mag": 1.6,
-      "place": "60 km WNW of Nanwalek, Alaska",
-      "time": 1786353169328,
+      "lon": -152.814,
+      "lat": 59.549,
+      "depth": 99.7,
+      "mag": 1.9,
+      "place": "55 km WNW of Nanwalek, Alaska",
+      "time": 1786353169392,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026psxgyi"
     },
     {
@@ -2522,26 +2532,6 @@
       "place": "14 km NE of Yucaipa, CA",
       "time": 1786268007280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669258"
-    },
-    {
-      "id": "nc75414557",
-      "lon": -122.803169250488,
-      "lat": 38.8370018005371,
-      "depth": 2.17000007629395,
-      "mag": 1.65,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1786267506170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414557"
-    },
-    {
-      "id": "aka2026prbmry",
-      "lon": -149.005,
-      "lat": 62.844,
-      "depth": 72,
-      "mag": 2.3,
-      "place": "61 km S of Cantwell, Alaska",
-      "time": 1786267208009,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prbmry"
     }
   ]
 }
