@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T12:30:50Z",
-  "count": 242,
+  "updated": "2026-08-10T12:45:34Z",
+  "count": 238,
   "points": [
+    {
+      "id": "hv75017156",
+      "lon": -155.193664550781,
+      "lat": 19.3449993133545,
+      "depth": 3.29999995231628,
+      "mag": 1.79,
+      "place": "11 km SSE of Volcano, Hawaii",
+      "time": 1786365223530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017156"
+    },
     {
       "id": "aka2026ptdluf",
       "lon": -151.382,
@@ -22,6 +32,16 @@
       "place": "55 km NNW of Petersville, Alaska",
       "time": 1786363951494,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ptdfxc"
+    },
+    {
+      "id": "us6000tjl0",
+      "lon": -45.8376,
+      "lat": 17.5068,
+      "depth": 10,
+      "mag": 5,
+      "place": "northern Mid-Atlantic Ridge",
+      "time": 1786363942220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl0"
     },
     {
       "id": "aka2026ptdbnc",
@@ -2362,66 +2382,6 @@
       "place": "23 km N of Ridgecrest, CA",
       "time": 1786280991120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669354"
-    },
-    {
-      "id": "tx2026pouzvw",
-      "lon": -104.096,
-      "lat": 31.548,
-      "depth": 4.1326,
-      "mag": 0.4,
-      "place": "38 km NW of Toyah, Texas",
-      "time": 1786279296641,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pouzvw"
-    },
-    {
-      "id": "aka2026priekc",
-      "lon": -140.63,
-      "lat": 60.226,
-      "depth": 5,
-      "mag": 1.4,
-      "place": "90 km NW of Yakutat, Alaska",
-      "time": 1786279225793,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026priekc"
-    },
-    {
-      "id": "aka2026pribbi",
-      "lon": -149.917,
-      "lat": 64.28,
-      "depth": 2,
-      "mag": 1.9,
-      "place": "35 km W of Clear, Alaska",
-      "time": 1786279002164,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pribbi"
-    },
-    {
-      "id": "ci40669346",
-      "lon": -115.934666666667,
-      "lat": 33.1556666666667,
-      "depth": 6.87,
-      "mag": 0.84,
-      "place": "16 km S of Salton City, CA",
-      "time": 1786278856540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669346"
-    },
-    {
-      "id": "aka2026prhyrf",
-      "lon": -153.063,
-      "lat": 59.76,
-      "depth": 103.6,
-      "mag": 1.4,
-      "place": "58 km E of Pedro Bay, Alaska",
-      "time": 1786278834355,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prhyrf"
-    },
-    {
-      "id": "hv75015427",
-      "lon": -155.119827270508,
-      "lat": 18.7691669464111,
-      "depth": 9.11999988555908,
-      "mag": 1.97,
-      "place": "58 km SE of Naalehu, Hawaii",
-      "time": 1786278804240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015427"
     }
   ]
 }
