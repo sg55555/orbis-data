@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T01:00:58Z",
-  "count": 246,
+  "updated": "2026-08-10T01:15:35Z",
+  "count": 247,
   "points": [
+    {
+      "id": "hv75016946",
+      "lon": -155.189834594727,
+      "lat": 18.8325004577637,
+      "depth": 9.84000015258789,
+      "mag": 2.07,
+      "place": "48 km ESE of Naalehu, Hawaii",
+      "time": 1786323605710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75016946"
+    },
     {
       "id": "ci40669610",
       "lon": -117.703833333333,
@@ -35,12 +45,12 @@
     },
     {
       "id": "hv75016931",
-      "lon": -155.271835327148,
-      "lat": 18.8266658782959,
-      "depth": 12.6300001144409,
-      "mag": 4.07,
-      "place": "41 km SE of Naalehu, Hawaii",
-      "time": 1786322277140,
+      "lon": -155.270333333333,
+      "lat": 18.8196666666667,
+      "depth": 9.78,
+      "mag": 3.89,
+      "place": "42 km SE of Naalehu, Hawaii",
+      "time": 1786322276810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75016931"
     },
     {
@@ -92,6 +102,16 @@
       "place": "5 km NNW of Pinnacles, CA",
       "time": 1786321614970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414872"
+    },
+    {
+      "id": "tx2026ppsidg",
+      "lon": -103.117,
+      "lat": 30.78,
+      "depth": 1.4007,
+      "mag": 1.7,
+      "place": "26 km WSW of Fort Stockton, Texas",
+      "time": 1786321505611,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ppsidg"
     },
     {
       "id": "tx2026ppshfb",
@@ -2452,16 +2472,6 @@
       "place": "31 km SSW of Ester, Alaska",
       "time": 1786238192412,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pqljkf"
-    },
-    {
-      "id": "us6000tjc4",
-      "lon": -178.453,
-      "lat": -17.848,
-      "depth": 589.12,
-      "mag": 4.9,
-      "place": "237 km E of Levuka, Fiji",
-      "time": 1786237759167,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjc4"
     }
   ]
 }
