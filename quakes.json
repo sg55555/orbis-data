@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T10:30:44Z",
-  "count": 247,
+  "updated": "2026-08-10T11:00:55Z",
+  "count": 243,
   "points": [
+    {
+      "id": "ci40669786",
+      "lon": -117.235833333333,
+      "lat": 34.0288333333333,
+      "depth": 15.6,
+      "mag": 0.85,
+      "place": "3 km SE of Loma Linda, CA",
+      "time": 1786358276750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669786"
+    },
     {
       "id": "aka2026psztfd",
       "lon": -144.047,
@@ -12,6 +22,16 @@
       "place": "57 km NE of Kenny Lake, Alaska",
       "time": 1786357616886,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026psztfd"
+    },
+    {
+      "id": "pr71527988",
+      "lon": -67.1566666666667,
+      "lat": 18.2205,
+      "depth": 23.45,
+      "mag": 2.35,
+      "place": "2 km NW of Mayagüez, Puerto Rico",
+      "time": 1786356671270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527988"
     },
     {
       "id": "nc75415137",
@@ -102,6 +122,16 @@
       "place": "20 km SE of Pāhala, Hawaii",
       "time": 1786352030730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017096"
+    },
+    {
+      "id": "pr71527983",
+      "lon": -67.3598333333333,
+      "lat": 18.7828333333333,
+      "depth": 10.7,
+      "mag": 2.78,
+      "place": "42 km NW of San Antonio, Puerto Rico",
+      "time": 1786351627160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527983"
     },
     {
       "id": "aka2026pswhrq",
@@ -2402,76 +2432,6 @@
       "place": "28 km SSW of Ocotillo Wells, CA",
       "time": 1786273599840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669290"
-    },
-    {
-      "id": "aka2026presrt",
-      "lon": -150.231,
-      "lat": 60.413,
-      "depth": 37.6,
-      "mag": 1.9,
-      "place": "23 km WSW of Cooper Landing, Alaska",
-      "time": 1786273020847,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026presrt"
-    },
-    {
-      "id": "ok2026pmuf",
-      "lon": -98.16355896,
-      "lat": 35.38455963,
-      "depth": 4.429159641,
-      "mag": 1.91,
-      "place": "18 km ENE of Binger, Oklahoma",
-      "time": 1786272757311,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pmuf"
-    },
-    {
-      "id": "aka2026prekvx",
-      "lon": -151.381,
-      "lat": 60.271,
-      "depth": 71.1,
-      "mag": 1.6,
-      "place": "4 km N of Clam Gulch, Alaska",
-      "time": 1786272573903,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prekvx"
-    },
-    {
-      "id": "aka2026prehgp",
-      "lon": -152.891,
-      "lat": 60.515,
-      "depth": 5,
-      "mag": 0.5,
-      "place": "85 km NW of Ninilchik, Alaska",
-      "time": 1786272230693,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prehgp"
-    },
-    {
-      "id": "aka2026precdn",
-      "lon": -160.035,
-      "lat": 67.513,
-      "depth": 6,
-      "mag": 3,
-      "place": "62 km NNE of Kiana, Alaska",
-      "time": 1786271864986,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026precdn"
-    },
-    {
-      "id": "ok2026pmts",
-      "lon": -95.98342896,
-      "lat": 34.66565704,
-      "depth": 0.6291239858,
-      "mag": 2.2,
-      "place": "4 km ENE of Wardville, Oklahoma",
-      "time": 1786271864357,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pmts"
-    },
-    {
-      "id": "tx2026poqsok",
-      "lon": -99.015,
-      "lat": 28.85,
-      "depth": 7.1287,
-      "mag": 2,
-      "place": "9 km ESE of Pearsall, Texas",
-      "time": 1786271542097,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026poqsok"
     }
   ]
 }
