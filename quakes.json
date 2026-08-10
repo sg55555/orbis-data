@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T16:22:09Z",
-  "count": 256,
+  "updated": "2026-08-10T16:27:09Z",
+  "count": 255,
   "points": [
+    {
+      "id": "uw714074522",
+      "lon": -124.297836303711,
+      "lat": 42.2666664123535,
+      "depth": 3.16000008583069,
+      "mag": 2.30011022090912,
+      "place": "8 km E of Pistol River, Oregon",
+      "time": 1786378853720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714074522"
+    },
     {
       "id": "aka2026ptllcn",
       "lon": -141.266,
@@ -1754,16 +1764,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414867"
     },
     {
-      "id": "tx2026ppqwmq",
-      "lon": -104.123,
-      "lat": 31.612,
-      "depth": 3.7389,
-      "mag": 1.4,
-      "place": "45 km NW of Toyah, Texas",
-      "time": 1786318884205,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ppqwmq"
-    },
-    {
       "id": "hv75016896",
       "lon": -155.186333333333,
       "lat": 18.8468333333333,
@@ -2552,16 +2552,6 @@
       "place": "9 km WSW of Forsan, Texas",
       "time": 1786292923213,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ppcluz"
-    },
-    {
-      "id": "nc75414677",
-      "lon": -122.755500793457,
-      "lat": 38.7903327941895,
-      "depth": -0.310000002384186,
-      "mag": 0.77,
-      "place": "1 km N of The Geysers, CA",
-      "time": 1786292714150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414677"
     }
   ]
 }
