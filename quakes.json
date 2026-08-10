@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T17:01:00Z",
-  "count": 254,
+  "updated": "2026-08-10T17:15:37Z",
+  "count": 253,
   "points": [
+    {
+      "id": "nc75415232",
+      "lon": -122.820167541504,
+      "lat": 38.8064994812012,
+      "depth": 2.96000003814697,
+      "mag": 1.02,
+      "place": "6 km WNW of The Geysers, CA",
+      "time": 1786381520010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415232"
+    },
+    {
+      "id": "nc75415227",
+      "lon": -122.785499572754,
+      "lat": 38.8139991760254,
+      "depth": 1.36000001430511,
+      "mag": 1.28,
+      "place": "5 km NNW of The Geysers, CA",
+      "time": 1786381300470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415227"
+    },
     {
       "id": "hv75017351",
       "lon": -155.178329467773,
@@ -125,12 +145,12 @@
     },
     {
       "id": "nn00923168",
-      "lon": -119.0252,
-      "lat": 39.3321,
-      "depth": 3.7516,
-      "mag": 1.53,
+      "lon": -119.0286,
+      "lat": 39.3339,
+      "depth": 6.2098,
+      "mag": 1.68,
       "place": "19 km ESE of Silver Springs, Nevada",
-      "time": 1786375548862,
+      "time": 1786375549405,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923168"
     },
     {
@@ -292,6 +312,16 @@
       "place": "2 km SSE of Pāhala, Hawaii",
       "time": 1786372264660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017226"
+    },
+    {
+      "id": "aka2026pthmbu",
+      "lon": 176.26,
+      "lat": 51.915,
+      "depth": 20,
+      "mag": 2.5,
+      "place": "233 km ESE of Attu Station, Alaska",
+      "time": 1786371500945,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pthmbu"
     },
     {
       "id": "aka2026pthgzh",
@@ -845,12 +875,12 @@
     },
     {
       "id": "ci40669738",
-      "lon": -115.930166666667,
-      "lat": 33.156,
-      "depth": 6.51,
-      "mag": 0.98,
+      "lon": -115.938166666667,
+      "lat": 33.1516666666667,
+      "depth": 6.99,
+      "mag": 0.99,
       "place": "16 km S of Salton City, CA",
-      "time": 1786348145910,
+      "time": 1786348145900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669738"
     },
     {
@@ -2285,12 +2315,12 @@
     },
     {
       "id": "ci40669482",
-      "lon": -115.765666666667,
-      "lat": 32.6605,
-      "depth": 7.36,
-      "mag": 1.1,
+      "lon": -115.766333333333,
+      "lat": 32.6496666666667,
+      "depth": 5.8,
+      "mag": 0.76,
       "place": "19 km WNW of Progreso, B.C., MX",
-      "time": 1786303332880,
+      "time": 1786303332840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669482"
     },
     {
@@ -2502,46 +2532,6 @@
       "place": "14 km SE of Pearsall, Texas",
       "time": 1786295756794,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ppecjc"
-    },
-    {
-      "id": "aka2026prrgnz",
-      "lon": -155.551,
-      "lat": 58.275,
-      "depth": 5,
-      "mag": 1.4,
-      "place": "79 km SE of King Salmon, Alaska",
-      "time": 1786295568533,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prrgnz"
-    },
-    {
-      "id": "us6000tjgf",
-      "lon": 40.0706,
-      "lat": 8.8103,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "19 km ESE of Metahāra, Ethiopia",
-      "time": 1786295502151,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgf"
-    },
-    {
-      "id": "aka2026prrdkl",
-      "lon": -154.939,
-      "lat": 58.267,
-      "depth": 5,
-      "mag": 0.7,
-      "place": "82 km NNW of Karluk, Alaska",
-      "time": 1786295352037,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prrdkl"
-    },
-    {
-      "id": "us6000tjgd",
-      "lon": 125.2313,
-      "lat": 11.3941,
-      "depth": 110.58,
-      "mag": 4.8,
-      "place": "7 km ESE of Mabini, Philippines",
-      "time": 1786295142371,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgd"
     }
   ]
 }
