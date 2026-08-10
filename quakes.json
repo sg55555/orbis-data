@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T05:08:26Z",
-  "count": 257,
+  "updated": "2026-08-10T05:15:36Z",
+  "count": 256,
   "points": [
+    {
+      "id": "nc75415077",
+      "lon": -122.813667297363,
+      "lat": 38.818000793457,
+      "depth": 3.01999998092651,
+      "mag": 1.52,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1786338588150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415077"
+    },
     {
       "id": "nc75415072",
       "lon": -122.932830810547,
@@ -394,14 +404,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pnvx"
     },
     {
-      "id": "aka2026psgian",
-      "lon": 176.223,
-      "lat": 51.852,
-      "depth": 20,
+      "id": "us6000tjj9",
+      "lon": 176.1009,
+      "lat": 51.7137,
+      "depth": 35,
       "mag": 2.5,
-      "place": "234 km ESE of Attu Station, Alaska",
-      "time": 1786322652886,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026psgian"
+      "place": "235 km ESE of Attu Station, Alaska",
+      "time": 1786322652357,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjj9"
     },
     {
       "id": "nc75414882",
@@ -2552,26 +2562,6 @@
       "place": "233 km ESE of Attu Station, Alaska",
       "time": 1786252928730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pqtoih"
-    },
-    {
-      "id": "ci40669146",
-      "lon": -120.499166666667,
-      "lat": 34.5253333333333,
-      "depth": 6.03,
-      "mag": 1.89,
-      "place": "13 km SSW of Lompoc, CA",
-      "time": 1786252413330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669146"
-    },
-    {
-      "id": "ci40669138",
-      "lon": -120.491833333333,
-      "lat": 34.5301666666667,
-      "depth": 5.94,
-      "mag": 2.51,
-      "place": "13 km SSW of Lompoc, CA",
-      "time": 1786252344220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669138"
     }
   ]
 }
