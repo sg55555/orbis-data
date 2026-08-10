@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T10:15:37Z",
-  "count": 249,
+  "updated": "2026-08-10T10:30:44Z",
+  "count": 247,
   "points": [
+    {
+      "id": "aka2026psztfd",
+      "lon": -144.047,
+      "lat": 62.017,
+      "depth": 6.5,
+      "mag": 0.9,
+      "place": "57 km NE of Kenny Lake, Alaska",
+      "time": 1786357616886,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026psztfd"
+    },
     {
       "id": "nc75415137",
       "lon": -118.358001708984,
@@ -145,12 +155,12 @@
     },
     {
       "id": "ok2026pokr",
-      "lon": -95.9695282,
-      "lat": 34.66854858,
-      "depth": 5,
-      "mag": 2.71,
-      "place": "5 km ENE of Wardville, Oklahoma",
-      "time": 1786350034292,
+      "lon": -95.98333333,
+      "lat": 34.669,
+      "depth": 5.98,
+      "mag": 2.37,
+      "place": "4 km ENE of Wardville, Oklahoma",
+      "time": 1786350033750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pokr"
     },
     {
@@ -402,6 +412,16 @@
       "place": "43 km WSW of Clear, Alaska",
       "time": 1786340987119,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026psqmwx"
+    },
+    {
+      "id": "us6000tjji",
+      "lon": -68.7476,
+      "lat": 19.7493,
+      "depth": 10,
+      "mag": 3,
+      "place": "86 km NE of Samaná, Dominican Republic",
+      "time": 1786340768563,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjji"
     },
     {
       "id": "us6000tjjj",
@@ -2452,46 +2472,6 @@
       "place": "9 km ESE of Pearsall, Texas",
       "time": 1786271542097,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026poqsok"
-    },
-    {
-      "id": "aka2026prdurd",
-      "lon": -148.285,
-      "lat": 68.508,
-      "depth": 5,
-      "mag": 2.3,
-      "place": "121 km WNW of Arctic Village, Alaska",
-      "time": 1786271357733,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prdurd"
-    },
-    {
-      "id": "ci40669274",
-      "lon": -116.738333333333,
-      "lat": 33.2876666666667,
-      "depth": 13.47,
-      "mag": 0.63,
-      "place": "6 km NNE of Lake Henshaw, CA",
-      "time": 1786271333570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669274"
-    },
-    {
-      "id": "tx2026poqpca",
-      "lon": -99.018,
-      "lat": 28.874,
-      "depth": 5.9624,
-      "mag": 1.9,
-      "place": "7 km ESE of Pearsall, Texas",
-      "time": 1786271300626,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026poqpca"
-    },
-    {
-      "id": "aka2026prdmch",
-      "lon": -149.294,
-      "lat": 64.347,
-      "depth": 3.6,
-      "mag": 1.1,
-      "place": "5 km W of Anderson, Alaska",
-      "time": 1786270764403,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prdmch"
     }
   ]
 }
