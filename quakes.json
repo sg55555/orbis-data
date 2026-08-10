@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T06:00:53Z",
+  "updated": "2026-08-10T06:15:33Z",
   "count": 256,
   "points": [
+    {
+      "id": "nc75415107",
+      "lon": -122.780670166016,
+      "lat": 38.781665802002,
+      "depth": 2.75999999046326,
+      "mag": 2.66,
+      "place": "2 km WNW of The Geysers, CA",
+      "time": 1786341930780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415107"
+    },
     {
       "id": "aka2026psquyy",
       "lon": -154.97,
@@ -32,6 +42,16 @@
       "place": "62 km ESE of Leilani Estates, Hawaii",
       "time": 1786340977100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017011"
+    },
+    {
+      "id": "us6000tjjj",
+      "lon": -114.648,
+      "lat": 0.3112,
+      "depth": 10,
+      "mag": 5.5,
+      "place": "east central Pacific Ocean",
+      "time": 1786340504224,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjjj"
     },
     {
       "id": "aka2026psqbol",
@@ -2164,14 +2184,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923117"
     },
     {
-      "id": "aka2026prciit",
-      "lon": 176.143,
-      "lat": 51.729,
-      "depth": 20,
-      "mag": 3,
-      "place": "236 km ESE of Attu Station, Alaska",
-      "time": 1786268692904,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prciit"
+      "id": "us6000tjgs",
+      "lon": 176.1988,
+      "lat": 51.7112,
+      "depth": 26.424,
+      "mag": 2.8,
+      "place": "241 km ESE of Attu Station, Alaska",
+      "time": 1786268693506,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgs"
     },
     {
       "id": "ci40669258",
@@ -2542,26 +2562,6 @@
       "place": "5 km ENE of Wardville, Oklahoma",
       "time": 1786256418707,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjd6"
-    },
-    {
-      "id": "hv75015317",
-      "lon": -155.787833333333,
-      "lat": 20.1538333333333,
-      "depth": 23.05,
-      "mag": 2.59,
-      "place": "8 km S of Kapaau, Hawaii",
-      "time": 1786255798070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015317"
-    },
-    {
-      "id": "aka2026pquynx",
-      "lon": -156.192,
-      "lat": 57.07,
-      "depth": 1.8,
-      "mag": 2.9,
-      "place": "87 km SE of Ugashik, Alaska",
-      "time": 1786255433448,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pquynx"
     }
   ]
 }
