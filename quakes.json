@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T18:15:41Z",
-  "count": 259,
+  "updated": "2026-08-10T18:28:38Z",
+  "count": 257,
   "points": [
+    {
+      "id": "nc75415272",
+      "lon": -123.451835632324,
+      "lat": 40.0281677246094,
+      "depth": 8.02999973297119,
+      "mag": 2.6,
+      "place": "31 km NNW of Covelo, CA",
+      "time": 1786386362810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415272"
+    },
+    {
+      "id": "ci40669970",
+      "lon": -117.884166666667,
+      "lat": 36.0923333333333,
+      "depth": 4.01,
+      "mag": 1.05,
+      "place": "8 km NE of Coso Junction, CA",
+      "time": 1786385742880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669970"
+    },
     {
       "id": "hv75017371",
       "lon": -155.201171875,
@@ -95,12 +115,12 @@
     },
     {
       "id": "ci40669890",
-      "lon": -115.667833333333,
-      "lat": 32.9093333333333,
-      "depth": 2.81,
-      "mag": 1.36,
-      "place": "11 km NW of Imperial, CA",
-      "time": 1786380036450,
+      "lon": -115.658,
+      "lat": 32.9025,
+      "depth": 3.31,
+      "mag": 1.44,
+      "place": "10 km NW of Imperial, CA",
+      "time": 1786380036360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669890"
     },
     {
@@ -165,12 +185,12 @@
     },
     {
       "id": "hv75017316",
-      "lon": -155.379837036133,
-      "lat": 19.2695007324219,
-      "depth": 0.730000019073486,
-      "mag": 1.95,
-      "place": "12 km NE of Pāhala, Hawaii",
-      "time": 1786378494680,
+      "lon": -155.379666666667,
+      "lat": 19.254,
+      "depth": 3.18,
+      "mag": 1.83,
+      "place": "11 km ENE of Pāhala, Hawaii",
+      "time": 1786378494740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017316"
     },
     {
@@ -494,16 +514,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pqrlet"
     },
     {
-      "id": "hv75017166",
-      "lon": -155.139663696289,
-      "lat": 19.308500289917,
-      "depth": 13.539999961853,
-      "mag": 2.22,
-      "place": "17 km S of Fern Forest, Hawaii",
-      "time": 1786365984370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017166"
-    },
-    {
       "id": "us6000tjls",
       "lon": 168.8919,
       "lat": -13.0188,
@@ -732,6 +742,16 @@
       "place": "113 km SE of Estacion Coahuila, B.C., MX",
       "time": 1786355779460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669778"
+    },
+    {
+      "id": "uu80007843",
+      "lon": -108.949666666667,
+      "lat": 38.2601666666667,
+      "depth": 5.76,
+      "mag": 1.53,
+      "place": "26 km ESE of La Sal, Utah",
+      "time": 1786355270460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007843"
     },
     {
       "id": "ci40669770",
@@ -2552,46 +2572,6 @@
       "place": "19 km SW of Alder, Montana",
       "time": 1786300785190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90204613"
-    },
-    {
-      "id": "ok2026pnje",
-      "lon": -95.99483333,
-      "lat": 34.66183333,
-      "depth": 7,
-      "mag": 1.44,
-      "place": "3 km ENE of Wardville, Oklahoma",
-      "time": 1786299995780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pnje"
-    },
-    {
-      "id": "nc75414722",
-      "lon": -122.682502746582,
-      "lat": 38.7106666564941,
-      "depth": 10.0799999237061,
-      "mag": 0.9,
-      "place": "7 km S of Anderson Springs, CA",
-      "time": 1786299824750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414722"
-    },
-    {
-      "id": "us6000tjgp",
-      "lon": -179.8704,
-      "lat": -23.8269,
-      "depth": 525.534,
-      "mag": 4.5,
-      "place": "south of the Fiji Islands",
-      "time": 1786299782637,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgp"
-    },
-    {
-      "id": "ci40669466",
-      "lon": -119.596666666667,
-      "lat": 34.8535,
-      "depth": 9.56,
-      "mag": 1.38,
-      "place": "29 km SW of Maricopa, CA",
-      "time": 1786299653150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669466"
     }
   ]
 }
