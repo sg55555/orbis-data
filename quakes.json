@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T07:01:01Z",
-  "count": 255,
+  "updated": "2026-08-10T07:15:36Z",
+  "count": 252,
   "points": [
     {
+      "id": "aka2026pssyoy",
+      "lon": -148.639,
+      "lat": 63.923,
+      "depth": 118.8,
+      "mag": 2.5,
+      "place": "17 km ENE of Healy, Alaska",
+      "time": 1786345393745,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pssyoy"
+    },
+    {
       "id": "aka2026pssuym",
-      "lon": -152.752,
-      "lat": 60.124,
-      "depth": 112,
-      "mag": 1.9,
-      "place": "60 km WNW of Happy Valley, Alaska",
-      "time": 1786345143590,
+      "lon": -152.648,
+      "lat": 60.105,
+      "depth": 110.3,
+      "mag": 2.3,
+      "place": "54 km WNW of Happy Valley, Alaska",
+      "time": 1786345143785,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pssuym"
     },
     {
@@ -22,6 +32,16 @@
       "place": "52 km NW of Skwentna, Alaska",
       "time": 1786345092697,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pssufm"
+    },
+    {
+      "id": "ci40669730",
+      "lon": -117.587666666667,
+      "lat": 34.0245,
+      "depth": 4.76,
+      "mag": 0.94,
+      "place": "5 km SE of Ontario, CA",
+      "time": 1786345084420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669730"
     },
     {
       "id": "aka2026psspkh",
@@ -345,12 +365,12 @@
     },
     {
       "id": "tx2026ppxlzm",
-      "lon": -104.539,
-      "lat": 31.574,
-      "depth": 2.863,
-      "mag": 2.3,
-      "place": "65 km NNE of Van Horn, Texas",
-      "time": 1786330906651,
+      "lon": -104.478,
+      "lat": 31.607,
+      "depth": 6.1255,
+      "mag": 2.1,
+      "place": "63 km S of Whites City, New Mexico",
+      "time": 1786330907230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ppxlzm"
     },
     {
@@ -692,16 +712,6 @@
       "place": "5 km NNW of Pinnacles, CA",
       "time": 1786321614970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414872"
-    },
-    {
-      "id": "tx2026ppsidg",
-      "lon": -103.117,
-      "lat": 30.78,
-      "depth": 1.4007,
-      "mag": 1.7,
-      "place": "26 km WSW of Fort Stockton, Texas",
-      "time": 1786321505611,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ppsidg"
     },
     {
       "id": "tx2026ppshfb",
@@ -2512,46 +2522,6 @@
       "place": "18 km WSW of Johannesburg, CA",
       "time": 1786259897520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669218"
-    },
-    {
-      "id": "ci40669210",
-      "lon": -115.683166666667,
-      "lat": 33.303,
-      "depth": 4.37,
-      "mag": 1.49,
-      "place": "7 km SE of Bombay Beach, CA",
-      "time": 1786259198650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669210"
-    },
-    {
-      "id": "ci40669202",
-      "lon": -115.682833333333,
-      "lat": 33.3031666666667,
-      "depth": 4.5,
-      "mag": 1.25,
-      "place": "7 km SE of Bombay Beach, CA",
-      "time": 1786259141640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669202"
-    },
-    {
-      "id": "nc75414512",
-      "lon": -122.824165344238,
-      "lat": 38.8385009765625,
-      "depth": 2.48000001907349,
-      "mag": 0.33,
-      "place": "9 km WNW of Cobb, CA",
-      "time": 1786259105690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414512"
-    },
-    {
-      "id": "ci40669194",
-      "lon": -116.512333333333,
-      "lat": 33.4753333333333,
-      "depth": 12.67,
-      "mag": 0.67,
-      "place": "17 km ESE of Anza, CA",
-      "time": 1786258896760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669194"
     }
   ]
 }
