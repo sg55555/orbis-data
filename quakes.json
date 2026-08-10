@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T04:16:24Z",
-  "count": 253,
+  "updated": "2026-08-10T04:31:02Z",
+  "count": 254,
   "points": [
+    {
+      "id": "ci40669666",
+      "lon": -116.3395,
+      "lat": 33.2638333333333,
+      "depth": 3.02,
+      "mag": 1.05,
+      "place": "3 km ENE of Borrego Springs, CA",
+      "time": 1786335768690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669666"
+    },
     {
       "id": "nc75415047",
       "lon": -122.929664611816,
@@ -504,6 +514,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75016896"
     },
     {
+      "id": "aka2026psdsai",
+      "lon": 176.212,
+      "lat": 51.865,
+      "depth": 20,
+      "mag": 2.5,
+      "place": "233 km ESE of Attu Station, Alaska",
+      "time": 1786317952330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026psdsai"
+    },
+    {
       "id": "ci40669562",
       "lon": -117.660666666667,
       "lat": 34.3606666666667,
@@ -802,6 +822,16 @@
       "place": "79 km SE of King Salmon, Alaska",
       "time": 1786308079323,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pryfio"
+    },
+    {
+      "id": "aka2026pryfdz",
+      "lon": 176.186,
+      "lat": 51.808,
+      "depth": 20,
+      "mag": 3,
+      "place": "234 km ESE of Attu Station, Alaska",
+      "time": 1786308068277,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pryfdz"
     },
     {
       "id": "ok2026pnnp",
@@ -2385,12 +2415,12 @@
     },
     {
       "id": "hv75015312",
-      "lon": -155.606826782227,
-      "lat": 19.4231662750244,
-      "depth": 36.3600006103516,
-      "mag": 2.06,
-      "place": "27 km E of Honaunau-Napoopoo, Hawaii",
-      "time": 1786254967370,
+      "lon": -155.615,
+      "lat": 19.4295,
+      "depth": 41.2,
+      "mag": 1.67,
+      "place": "26 km E of Honaunau-Napoopoo, Hawaii",
+      "time": 1786254966360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015312"
     },
     {
@@ -2512,26 +2542,6 @@
       "place": "8 km N of Anchor Point, Alaska",
       "time": 1786250020583,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pqrxvj"
-    },
-    {
-      "id": "uu80147946",
-      "lon": -112.8805,
-      "lat": 38.513,
-      "depth": 3.08,
-      "mag": 1.63,
-      "place": "17 km NE of Milford, Utah",
-      "time": 1786249750060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80147946"
-    },
-    {
-      "id": "tx2026poenuv",
-      "lon": -102.159,
-      "lat": 31.999,
-      "depth": 0,
-      "mag": 1.6,
-      "place": "7 km W of Midland, Texas",
-      "time": 1786249487650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026poenuv"
     }
   ]
 }
