@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T13:01:05Z",
-  "count": 241,
+  "updated": "2026-08-10T13:15:43Z",
+  "count": 242,
   "points": [
+    {
+      "id": "tx2026pqrlet",
+      "lon": -103.365,
+      "lat": 31.314,
+      "depth": 19.6145,
+      "mag": 2.3,
+      "place": "16 km S of Barstow, Texas",
+      "time": 1786366976547,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pqrlet"
+    },
     {
       "id": "tx2026pqrcwq",
       "lon": -104.28,
@@ -22,6 +32,16 @@
       "place": "17 km S of Fern Forest, Hawaii",
       "time": 1786365984370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017166"
+    },
+    {
+      "id": "us6000tjls",
+      "lon": 168.8919,
+      "lat": -13.0188,
+      "depth": 655.67,
+      "mag": 4.8,
+      "place": "173 km ENE of Sola, Vanuatu",
+      "time": 1786365970915,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjls"
     },
     {
       "id": "us6000tjl2",
@@ -2402,16 +2422,6 @@
       "place": "Rat Islands, Aleutian Islands, Alaska",
       "time": 1786281398709,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prjjpy"
-    },
-    {
-      "id": "ci40669354",
-      "lon": -117.674666666667,
-      "lat": 35.8281666666667,
-      "depth": 7.55,
-      "mag": 0.6,
-      "place": "23 km N of Ridgecrest, CA",
-      "time": 1786280991120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669354"
     }
   ]
 }
