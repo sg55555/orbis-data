@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T22:16:57Z",
-  "count": 252,
+  "updated": "2026-08-10T22:30:42Z",
+  "count": 249,
   "points": [
+    {
+      "id": "aka2026ptxpty",
+      "lon": -151.28,
+      "lat": 60.242,
+      "depth": 60.9,
+      "mag": 2,
+      "place": "6 km E of Clam Gulch, Alaska",
+      "time": 1786400560203,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ptxpty"
+    },
+    {
+      "id": "ci40670146",
+      "lon": -117.745666666667,
+      "lat": 34.2956666666667,
+      "depth": 2.48,
+      "mag": 1,
+      "place": "13 km SW of Wrightwood, CA",
+      "time": 1786400450740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670146"
+    },
     {
       "id": "tx2026prjpcs",
       "lon": -101.688,
@@ -15,12 +35,12 @@
     },
     {
       "id": "ci40670122",
-      "lon": -116.951666666667,
-      "lat": 33.9791666666667,
-      "depth": 14.53,
-      "mag": 1.32,
+      "lon": -116.949,
+      "lat": 33.9806666666667,
+      "depth": 15.65,
+      "mag": 1.33,
       "place": "6 km NNE of Beaumont, CA",
-      "time": 1786399041860,
+      "time": 1786399041820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670122"
     },
     {
@@ -2472,56 +2492,6 @@
       "place": "6 km SSE of Redlands, CA",
       "time": 1786314795580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669554"
-    },
-    {
-      "id": "hv75015637",
-      "lon": -155.444,
-      "lat": 19.2936666666667,
-      "depth": 10.27,
-      "mag": 0.94,
-      "place": "10 km NNE of Pāhala, Hawaii",
-      "time": 1786314525840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015637"
-    },
-    {
-      "id": "aka2026psbucm",
-      "lon": -147.159,
-      "lat": 61.216,
-      "depth": 3.2,
-      "mag": 1.4,
-      "place": "44 km WNW of Valdez, Alaska",
-      "time": 1786314498824,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026psbucm"
-    },
-    {
-      "id": "hv75015632",
-      "lon": -155.248166666667,
-      "lat": 18.8605,
-      "depth": 12.48,
-      "mag": 2.41,
-      "place": "41 km ESE of Naalehu, Hawaii",
-      "time": 1786314258040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015632"
-    },
-    {
-      "id": "hv75015627",
-      "lon": -155.2335,
-      "lat": 18.832,
-      "depth": 7.94,
-      "mag": 2.64,
-      "place": "44 km SE of Naalehu, Hawaii",
-      "time": 1786314114030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015627"
-    },
-    {
-      "id": "us6000tji3",
-      "lon": 126.8342,
-      "lat": 4.1417,
-      "depth": 35,
-      "mag": 5,
-      "place": "206 km SE of Sarangani, Philippines",
-      "time": 1786313847839,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tji3"
     }
   ]
 }
