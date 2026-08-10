@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T03:15:33Z",
+  "updated": "2026-08-10T03:30:44Z",
   "count": 256,
   "points": [
+    {
+      "id": "nc75415027",
+      "lon": -121.175666809082,
+      "lat": 36.5726661682129,
+      "depth": 4,
+      "mag": 1.51,
+      "place": "5 km NNW of Pinnacles, CA",
+      "time": 1786331790000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415027"
+    },
+    {
+      "id": "nc75415022",
+      "lon": -121.194999694824,
+      "lat": 36.5750007629395,
+      "depth": 2.9300000667572,
+      "mag": 2.13,
+      "place": "7 km NW of Pinnacles, CA",
+      "time": 1786331728570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415022"
+    },
     {
       "id": "tx2026ppxlzm",
       "lon": -104.539,
@@ -474,6 +494,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015632"
     },
     {
+      "id": "hv75015627",
+      "lon": -155.2335,
+      "lat": 18.832,
+      "depth": 7.94,
+      "mag": 2.64,
+      "place": "44 km SE of Naalehu, Hawaii",
+      "time": 1786314114030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015627"
+    },
+    {
       "id": "us6000tji3",
       "lon": 126.7399,
       "lat": 4.1457,
@@ -545,12 +575,12 @@
     },
     {
       "id": "hv75015602",
-      "lon": -155.224166870117,
-      "lat": 18.8386669158936,
-      "depth": 4.86999988555908,
-      "mag": 1.97,
-      "place": "45 km SE of Naalehu, Hawaii",
-      "time": 1786312641850,
+      "lon": -155.229166666667,
+      "lat": 18.8478333333333,
+      "depth": 5.35,
+      "mag": 2.56,
+      "place": "44 km ESE of Naalehu, Hawaii",
+      "time": 1786312641980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015602"
     },
     {
@@ -2532,36 +2562,6 @@
       "place": "9 km NE of Coso Junction, CA",
       "time": 1786246559090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669098"
-    },
-    {
-      "id": "ci40669090",
-      "lon": -117.561333333333,
-      "lat": 35.6485,
-      "depth": 8.37,
-      "mag": 1.66,
-      "place": "11 km ENE of Ridgecrest, CA",
-      "time": 1786245830150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669090"
-    },
-    {
-      "id": "av94370383",
-      "lon": -178.806833333333,
-      "lat": 51.7686666666667,
-      "depth": 8.18,
-      "mag": 0.37,
-      "place": "150 km W of Adak, Alaska",
-      "time": 1786245533440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94370383"
-    },
-    {
-      "id": "ci40669082",
-      "lon": -116.6695,
-      "lat": 33.9401666666667,
-      "depth": 10.27,
-      "mag": 1.25,
-      "place": "11 km ENE of Cabazon, CA",
-      "time": 1786245426970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669082"
     }
   ]
 }
