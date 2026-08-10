@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T01:45:38Z",
-  "count": 253,
+  "updated": "2026-08-10T02:00:54Z",
+  "count": 256,
   "points": [
+    {
+      "id": "ci40669618",
+      "lon": -117.596333333333,
+      "lat": 35.7765,
+      "depth": 7.95,
+      "mag": 0.74,
+      "place": "17 km W of Searles Valley, CA",
+      "time": 1786326225420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669618"
+    },
     {
       "id": "aka2026psidwk",
       "lon": -150.149,
@@ -72,6 +82,16 @@
       "place": "8 km SSW of Ridgemark, CA",
       "time": 1786325331520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414932"
+    },
+    {
+      "id": "us6000tjiq",
+      "lon": -173.0524,
+      "lat": -15.6002,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "88 km ENE of Hihifo, Tonga",
+      "time": 1786324810110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjiq"
     },
     {
       "id": "nc75414922",
@@ -402,6 +422,26 @@
       "place": "45 km SE of Naalehu, Hawaii",
       "time": 1786312641850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015602"
+    },
+    {
+      "id": "hv75015597",
+      "lon": -155.2235,
+      "lat": 18.848,
+      "depth": 2.34,
+      "mag": 2.39,
+      "place": "44 km ESE of Naalehu, Hawaii",
+      "time": 1786312526380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75015597"
+    },
+    {
+      "id": "us6000tjht",
+      "lon": -147.7605,
+      "lat": 70.0316,
+      "depth": 10,
+      "mag": 2.7,
+      "place": "33 km SE of Prudhoe Bay, Alaska",
+      "time": 1786312322229,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjht"
     },
     {
       "id": "aka2026psaoaq",
@@ -2522,16 +2562,6 @@
       "place": "10 km NNE of San Simeon, CA",
       "time": 1786241063700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414352"
-    },
-    {
-      "id": "aka2026pqmsof",
-      "lon": -157.142,
-      "lat": 56.018,
-      "depth": 12.7,
-      "mag": 3.9,
-      "place": "84 km ESE of Chignik, Alaska",
-      "time": 1786240624575,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pqmsof"
     }
   ]
 }
