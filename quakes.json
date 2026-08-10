@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-10T09:30:54Z",
-  "count": 253,
+  "updated": "2026-08-10T09:43:39Z",
+  "count": 254,
   "points": [
+    {
+      "id": "ci40669762",
+      "lon": -117.254666666667,
+      "lat": 34.059,
+      "depth": 11.52,
+      "mag": 0.74,
+      "place": "1 km NNE of Loma Linda, CA",
+      "time": 1786354579790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669762"
+    },
+    {
+      "id": "ci40669754",
+      "lon": -116.712,
+      "lat": 33.5393333333333,
+      "depth": 5.21,
+      "mag": 0.02,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1786354525560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669754"
+    },
     {
       "id": "nc75415132",
       "lon": -122.93049621582,
@@ -2522,16 +2542,6 @@
       "place": "241 km ESE of Attu Station, Alaska",
       "time": 1786268693506,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgs"
-    },
-    {
-      "id": "ci40669258",
-      "lon": -116.921333333333,
-      "lat": 34.1105,
-      "depth": 5.39,
-      "mag": 0.48,
-      "place": "14 km NE of Yucaipa, CA",
-      "time": 1786268007280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669258"
     }
   ]
 }
