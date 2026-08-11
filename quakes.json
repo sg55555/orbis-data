@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-11T05:15:41Z",
-  "count": 227,
+  "updated": "2026-08-11T05:19:03Z",
+  "count": 225,
   "points": [
+    {
+      "id": "nc75415642",
+      "lon": -122.841331481934,
+      "lat": 38.8383331298828,
+      "depth": 1.97000002861023,
+      "mag": 0.74,
+      "place": "10 km NW of The Geysers, CA",
+      "time": 1786425326470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415642"
+    },
     {
       "id": "aka2026pulbpy",
       "lon": -150.892,
@@ -2242,36 +2252,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1786339991690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415087"
-    },
-    {
-      "id": "aka2026pspjwf",
-      "lon": -162.582,
-      "lat": 65.313,
-      "depth": 5,
-      "mag": 3.4,
-      "place": "79 km N of Elim, Alaska",
-      "time": 1786338974132,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pspjwf"
-    },
-    {
-      "id": "ci40669706",
-      "lon": -116.339666666667,
-      "lat": 33.2633333333333,
-      "depth": 2.93,
-      "mag": 1.36,
-      "place": "3 km ENE of Borrego Springs, CA",
-      "time": 1786338924700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669706"
-    },
-    {
-      "id": "ci40669698",
-      "lon": -116.993833333333,
-      "lat": 33.9836666666667,
-      "depth": 7.03,
-      "mag": 0.62,
-      "place": "5 km E of Calimesa, CA",
-      "time": 1786338895270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669698"
     }
   ]
 }
