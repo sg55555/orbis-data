@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-11T16:45:30Z",
-  "count": 238,
+  "updated": "2026-08-11T17:00:58Z",
+  "count": 239,
   "points": [
+    {
+      "id": "nc75415967",
+      "lon": -122.814666748047,
+      "lat": 38.8316650390625,
+      "depth": 2,
+      "mag": 0.93,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1786467371700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415967"
+    },
     {
       "id": "nc75415942",
       "lon": -121.181335449219,
@@ -2094,6 +2104,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ptsdbv"
     },
     {
+      "id": "uw714074772",
+      "lon": -122.653831481934,
+      "lat": 46.7838325500488,
+      "depth": 0.409999996423721,
+      "mag": 1.52999997,
+      "place": "11 km SSE of Rainier, Washington",
+      "time": 1786390658670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714074772"
+    },
+    {
       "id": "nc75415312",
       "lon": -121.370498657227,
       "lat": 36.7768325805664,
@@ -2112,6 +2132,16 @@
       "place": "85 km NW of Karluk, Alaska",
       "time": 1786390425466,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ptrzie"
+    },
+    {
+      "id": "uw714074742",
+      "lon": -120.804832458496,
+      "lat": 47.1404991149902,
+      "depth": -0.75,
+      "mag": 1.69999194145203,
+      "place": "11 km ESE of Cle Elum, Washington",
+      "time": 1786389986400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714074742"
     },
     {
       "id": "aka2026ptrmda",
@@ -2362,26 +2392,6 @@
       "place": "5 km NNW of The Geysers, CA",
       "time": 1786381300470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415227"
-    },
-    {
-      "id": "hv75017351",
-      "lon": -155.178329467773,
-      "lat": 18.8921661376953,
-      "depth": 17.1100006103516,
-      "mag": 1.77,
-      "place": "46 km ESE of Naalehu, Hawaii",
-      "time": 1786380816940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017351"
-    },
-    {
-      "id": "pr71528048",
-      "lon": -66.3338333333333,
-      "lat": 17.9998333333333,
-      "depth": 9.22,
-      "mag": 2.89,
-      "place": "0 km E of Parcelas Peñuelas, Puerto Rico",
-      "time": 1786380508820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528048"
     }
   ]
 }
