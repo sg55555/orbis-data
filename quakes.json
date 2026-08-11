@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-11T21:15:34Z",
+  "updated": "2026-08-11T21:30:44Z",
   "count": 256,
   "points": [
+    {
+      "id": "nc75416197",
+      "lon": -122.819664001465,
+      "lat": 38.8089981079102,
+      "depth": 2.94000005722046,
+      "mag": 1.06,
+      "place": "7 km WNW of The Geysers, CA",
+      "time": 1786483699940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416197"
+    },
     {
       "id": "nc75416177",
       "lon": -122.745666503906,
@@ -744,6 +754,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjxa"
     },
     {
+      "id": "aka2026pvafsq",
+      "lon": -153.822,
+      "lat": 57.08,
+      "depth": 24.3,
+      "mag": 1.5,
+      "place": "26 km NE of Akhiok, Alaska",
+      "time": 1786452040802,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvafsq"
+    },
+    {
       "id": "nc75415842",
       "lon": -122.792999267578,
       "lat": 38.8246650695801,
@@ -792,6 +812,16 @@
       "place": "13 km ENE of Borrego Springs, CA",
       "time": 1786451341250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670474"
+    },
+    {
+      "id": "aka2026puzqbs",
+      "lon": -176.274,
+      "lat": 51.205,
+      "depth": 26.1,
+      "mag": 1.8,
+      "place": "78 km SSE of Adak, Alaska",
+      "time": 1786450964383,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026puzqbs"
     },
     {
       "id": "ci40670466",
@@ -2532,36 +2562,6 @@
       "place": "10 km NNE of Pāhala, Hawaii",
       "time": 1786397449300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017476"
-    },
-    {
-      "id": "hv75017471",
-      "lon": -155.48583984375,
-      "lat": 19.219165802002,
-      "depth": 28.4099998474121,
-      "mag": 2.36,
-      "place": "1 km NNW of Pāhala, Hawaii",
-      "time": 1786397083980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017471"
-    },
-    {
-      "id": "nc75415412",
-      "lon": -122.832496643066,
-      "lat": 38.8556671142578,
-      "depth": 0.939999997615814,
-      "mag": 1.22,
-      "place": "10 km WNW of Cobb, CA",
-      "time": 1786397005310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415412"
-    },
-    {
-      "id": "nc75415407",
-      "lon": -122.836502075195,
-      "lat": 38.8526649475098,
-      "depth": 0.959999978542328,
-      "mag": 1.73,
-      "place": "10 km WNW of Cobb, CA",
-      "time": 1786396998920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415407"
     }
   ]
 }
