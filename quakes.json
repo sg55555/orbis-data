@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-11T15:15:41Z",
-  "count": 247,
+  "updated": "2026-08-11T15:30:54Z",
+  "count": 241,
   "points": [
+    {
+      "id": "nc75415902",
+      "lon": -121.183670043945,
+      "lat": 36.579833984375,
+      "depth": 2.76999998092651,
+      "mag": 1.72,
+      "place": "6 km NW of Pinnacles, CA",
+      "time": 1786461833310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415902"
+    },
     {
       "id": "nc75415897",
       "lon": -122.75700378418,
@@ -634,6 +644,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670354"
     },
     {
+      "id": "aka2026putsom",
+      "lon": 172.497,
+      "lat": 52.38,
+      "depth": 20,
+      "mag": 4,
+      "place": "69 km SW of Attu Station, Alaska",
+      "time": 1786440372386,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026putsom"
+    },
+    {
       "id": "ci40670346",
       "lon": -116.806333333333,
       "lat": 33.5656666666667,
@@ -652,16 +672,6 @@
       "place": "5 km NE of Wardville, Oklahoma",
       "time": 1786439034149,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pqhq"
-    },
-    {
-      "id": "aka2026puspua",
-      "lon": -136.781,
-      "lat": 57.458,
-      "depth": 11.2,
-      "mag": 2.1,
-      "place": "64 km SSW of Pelican, Alaska",
-      "time": 1786438343268,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026puspua"
     },
     {
       "id": "us6000tjwh",
@@ -1544,6 +1554,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670194"
     },
     {
+      "id": "ci40670186",
+      "lon": -114.985666666667,
+      "lat": 33.0491666666667,
+      "depth": -0.2,
+      "mag": 1.25,
+      "place": "45 km NE of Holtville, CA",
+      "time": 1786405776950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670186"
+    },
+    {
       "id": "ok2026ppov",
       "lon": -96.7435,
       "lat": 35.5485,
@@ -2392,86 +2412,6 @@
       "place": "11 km ENE of Pāhala, Hawaii",
       "time": 1786376353150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017276"
-    },
-    {
-      "id": "nn00923168",
-      "lon": -119.0286,
-      "lat": 39.3339,
-      "depth": 6.2098,
-      "mag": 1.68,
-      "place": "19 km ESE of Silver Springs, Nevada",
-      "time": 1786375549405,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923168"
-    },
-    {
-      "id": "tx2026pqwcxs",
-      "lon": -103.822,
-      "lat": 31.758,
-      "depth": 9.8425,
-      "mag": 0.9,
-      "place": "21 km WNW of Mentone, Texas",
-      "time": 1786375450069,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pqwcxs"
-    },
-    {
-      "id": "aka2026ptjniu",
-      "lon": -149.199,
-      "lat": 59.775,
-      "depth": 76.1,
-      "mag": 1.6,
-      "place": "35 km SSE of Lowell Point, Alaska",
-      "time": 1786375201423,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ptjniu"
-    },
-    {
-      "id": "hv75017261",
-      "lon": -155.381833333333,
-      "lat": 19.253,
-      "depth": 7.11,
-      "mag": 2,
-      "place": "11 km ENE of Pāhala, Hawaii",
-      "time": 1786375038760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017261"
-    },
-    {
-      "id": "aka2026ptjkxn",
-      "lon": -151.772,
-      "lat": 58.973,
-      "depth": 29.7,
-      "mag": 1.4,
-      "place": "42 km S of Port Graham, Alaska",
-      "time": 1786375034833,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ptjkxn"
-    },
-    {
-      "id": "tx2026pqvwob",
-      "lon": -101.923,
-      "lat": 31.776,
-      "depth": 5.957,
-      "mag": 0.6,
-      "place": "28 km SSE of Midland, Texas",
-      "time": 1786375008289,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pqvwob"
-    },
-    {
-      "id": "hv75017256",
-      "lon": -155.384666666667,
-      "lat": 19.247,
-      "depth": 4.46,
-      "mag": 0.92,
-      "place": "11 km ENE of Pāhala, Hawaii",
-      "time": 1786374989230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017256"
-    },
-    {
-      "id": "nc75415197",
-      "lon": -122.771667480469,
-      "lat": 38.8068351745605,
-      "depth": 2.36999988555908,
-      "mag": 1.07,
-      "place": "4 km NNW of The Geysers, CA",
-      "time": 1786374944600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415197"
     }
   ]
 }
