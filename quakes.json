@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-11T08:15:34Z",
-  "count": 220,
+  "updated": "2026-08-11T08:30:47Z",
+  "count": 221,
   "points": [
+    {
+      "id": "aka2026purlng",
+      "lon": -150.817,
+      "lat": 61.639,
+      "depth": 74.1,
+      "mag": 2.5,
+      "place": "19 km WNW of Susitna, Alaska",
+      "time": 1786436248338,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026purlng"
+    },
     {
       "id": "hv75017731",
       "lon": -155.584167480469,
@@ -245,12 +255,12 @@
     },
     {
       "id": "tx2026prydfh",
-      "lon": -103.814,
-      "lat": 32.008,
-      "depth": 8.6313,
-      "mag": 1.6,
+      "lon": -103.817,
+      "lat": 32.004,
+      "depth": 7.8815,
+      "mag": 1.5,
       "place": "34 km SE of Malaga, New Mexico",
-      "time": 1786426161168,
+      "time": 1786426161645,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026prydfh"
     },
     {
@@ -1504,6 +1514,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415202"
     },
     {
+      "id": "hv75017281",
+      "lon": -155.3805,
+      "lat": 19.2593333333333,
+      "depth": 3.04,
+      "mag": 1.46,
+      "place": "12 km ENE of Pāhala, Hawaii",
+      "time": 1786376451480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017281"
+    },
+    {
+      "id": "hv75017276",
+      "lon": -155.385666666667,
+      "lat": 19.2496666666667,
+      "depth": 4.1,
+      "mag": 0.9,
+      "place": "11 km ENE of Pāhala, Hawaii",
+      "time": 1786376353150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017276"
+    },
+    {
       "id": "nn00923168",
       "lon": -119.0286,
       "lat": 39.3339,
@@ -2182,26 +2212,6 @@
       "place": "80 km ESE of Isangel, Vanuatu",
       "time": 1786350868098,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjk6"
-    },
-    {
-      "id": "ok2026pokr",
-      "lon": -95.98333333,
-      "lat": 34.669,
-      "depth": 5.98,
-      "mag": 2.37,
-      "place": "4 km ENE of Wardville, Oklahoma",
-      "time": 1786350033750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pokr"
-    },
-    {
-      "id": "aka2026psvlus",
-      "lon": -151.994,
-      "lat": 60.487,
-      "depth": 79.9,
-      "mag": 1.5,
-      "place": "39 km W of Kalifornsky, Alaska",
-      "time": 1786349917000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026psvlus"
     }
   ]
 }
