@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-11T18:31:34Z",
+  "updated": "2026-08-11T18:45:35Z",
   "count": 236,
   "points": [
+    {
+      "id": "tx2026psykpx",
+      "lon": -104.488,
+      "lat": 31.589,
+      "depth": 0.8625,
+      "mag": 1.4,
+      "place": "65 km S of Whites City, New Mexico",
+      "time": 1786473753223,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026psykpx"
+    },
     {
       "id": "aka2026pvljou",
       "lon": -152.958,
@@ -15,12 +25,12 @@
     },
     {
       "id": "ci40670634",
-      "lon": -116.491500854492,
-      "lat": 33.5029983520508,
-      "depth": 14.1999998092651,
-      "mag": 1.01277009323133,
-      "place": "18 km ESE of Anza, CA",
-      "time": 1786471446340,
+      "lon": -116.503833333333,
+      "lat": 33.4985,
+      "depth": 13.34,
+      "mag": 0.85,
+      "place": "17 km ESE of Anza, CA",
+      "time": 1786471446420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670634"
     },
     {
@@ -1554,6 +1564,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026prtjms"
     },
     {
+      "id": "uw714075102",
+      "lon": -122.182,
+      "lat": 46.2076666666667,
+      "depth": 0.93,
+      "mag": 0.05,
+      "place": "38 km NNE of Amboy, Washington",
+      "time": 1786417147990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714075102"
+    },
+    {
+      "id": "uw714075092",
+      "lon": -122.121666666667,
+      "lat": 47.2828333333333,
+      "depth": 4.57,
+      "mag": 0.85,
+      "place": "5 km SSW of Lake Morton-Berrydale, Washington",
+      "time": 1786417092580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714075092"
+    },
+    {
       "id": "uw714075082",
       "lon": -122.191166666667,
       "lat": 46.2046666666667,
@@ -2332,36 +2362,6 @@
       "place": "5 km NW of The Geysers, CA",
       "time": 1786387535740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415287"
-    },
-    {
-      "id": "ci40669986",
-      "lon": -115.721833333333,
-      "lat": 33.1633333333333,
-      "depth": 3.13,
-      "mag": 1.36,
-      "place": "17 km NNW of Westmorland, CA",
-      "time": 1786387082980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669986"
-    },
-    {
-      "id": "nc75415277",
-      "lon": -122.87516784668,
-      "lat": 38.7971649169922,
-      "depth": 2.5,
-      "mag": 0.42,
-      "place": "11 km WNW of The Geysers, CA",
-      "time": 1786387025210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415277"
-    },
-    {
-      "id": "aka2026ptqbvk",
-      "lon": -152.53,
-      "lat": 59.91,
-      "depth": 89.4,
-      "mag": 1.5,
-      "place": "41 km WNW of Anchor Point, Alaska",
-      "time": 1786386997928,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ptqbvk"
     }
   ]
 }
