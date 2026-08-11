@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-11T03:30:52Z",
-  "count": 228,
+  "updated": "2026-08-11T03:45:34Z",
+  "count": 230,
   "points": [
+    {
+      "id": "ci40670266",
+      "lon": -116.831833333333,
+      "lat": 33.3045,
+      "depth": 13.62,
+      "mag": 0.39,
+      "place": "6 km SSE of Palomar Observatory, CA",
+      "time": 1786419530070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670266"
+    },
+    {
+      "id": "aka2026puibug",
+      "lon": -155.366,
+      "lat": 58.168,
+      "depth": 5,
+      "mag": 0.3,
+      "place": "85 km NW of Karluk, Alaska",
+      "time": 1786419382802,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026puibug"
+    },
+    {
+      "id": "nn00923178",
+      "lon": -119.0496,
+      "lat": 39.1265,
+      "depth": 10.7865,
+      "mag": 1.93,
+      "place": "18 km NNE of Yerington, Nevada",
+      "time": 1786419038069,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923178"
+    },
     {
       "id": "hv75017621",
       "lon": -155.607666015625,
@@ -12,6 +42,16 @@
       "place": "27 km E of Honaunau-Napoopoo, Hawaii",
       "time": 1786418287330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017621"
+    },
+    {
+      "id": "us6000tjvb",
+      "lon": -179.7759,
+      "lat": -23.5978,
+      "depth": 548.449,
+      "mag": 4.5,
+      "place": "south of the Fiji Islands",
+      "time": 1786417879919,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjvb"
     },
     {
       "id": "aka2026puhebo",
@@ -2262,26 +2302,6 @@
       "place": "18 km ESE of Julian, CA",
       "time": 1786333712290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669650"
-    },
-    {
-      "id": "nc75415037",
-      "lon": -122.779335021973,
-      "lat": 38.7840003967285,
-      "depth": 2.96000003814697,
-      "mag": 1.28,
-      "place": "2 km WNW of The Geysers, CA",
-      "time": 1786333334760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415037"
-    },
-    {
-      "id": "nc75415032",
-      "lon": -121.176834106445,
-      "lat": 36.5723342895508,
-      "depth": 4.75,
-      "mag": 1.39,
-      "place": "5 km NNW of Pinnacles, CA",
-      "time": 1786332705840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415032"
     }
   ]
 }
