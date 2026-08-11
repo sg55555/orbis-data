@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-11T10:30:52Z",
+  "updated": "2026-08-11T10:45:40Z",
   "count": 237,
   "points": [
     {
+      "id": "nc75415737",
+      "lon": -121.201499938965,
+      "lat": 36.568000793457,
+      "depth": 0.949999988079071,
+      "mag": 1.58,
+      "place": "7 km NW of Pinnacles, CA",
+      "time": 1786444498740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415737"
+    },
+    {
+      "id": "nc75415732",
+      "lon": -121.189666748047,
+      "lat": 36.5719985961914,
+      "depth": 3.16000008583069,
+      "mag": 1.77,
+      "place": "6 km NW of Pinnacles, CA",
+      "time": 1786444323860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415732"
+    },
+    {
       "id": "aka2026puvuna",
-      "lon": -153.484,
-      "lat": 59.712,
-      "depth": 129.4,
-      "mag": 0.8,
-      "place": "35 km ESE of Pedro Bay, Alaska",
-      "time": 1786444068488,
+      "lon": -153.454,
+      "lat": 59.703,
+      "depth": 128.2,
+      "mag": 1.4,
+      "place": "37 km ESE of Pedro Bay, Alaska",
+      "time": 1786444068617,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026puvuna"
     },
     {
@@ -48,7 +68,7 @@
       "lon": -121.182998657227,
       "lat": 36.5690002441406,
       "depth": 5.3600001335144,
-      "mag": 3.99,
+      "mag": 3.94,
       "place": "5 km NW of Pinnacles, CA",
       "time": 1786443548260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415717"
@@ -642,6 +662,16 @@
       "place": "6 km SSE of Palomar Observatory, CA",
       "time": 1786419530070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670266"
+    },
+    {
+      "id": "pr2026223000",
+      "lon": -68.9661,
+      "lat": 18.413,
+      "depth": 100,
+      "mag": 3.86,
+      "place": "1 km SSE of La Romana, Dominican Republic",
+      "time": 1786419528250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026223000"
     },
     {
       "id": "aka2026puibug",
@@ -2342,36 +2372,6 @@
       "place": "21 km ESE of Little Lake, CA",
       "time": 1786360383850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669794"
-    },
-    {
-      "id": "ci40669786",
-      "lon": -117.235666666667,
-      "lat": 34.0311666666667,
-      "depth": 15.26,
-      "mag": 0.85,
-      "place": "3 km SE of Loma Linda, CA",
-      "time": 1786358276700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669786"
-    },
-    {
-      "id": "us6000tjkl",
-      "lon": 147.4942,
-      "lat": 44.0156,
-      "depth": 66.149,
-      "mag": 4.7,
-      "place": "66 km ENE of Shikotan, Russia",
-      "time": 1786358202622,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjkl"
-    },
-    {
-      "id": "us6000tjnf",
-      "lon": 176.2173,
-      "lat": 51.8721,
-      "depth": 10,
-      "mag": 2.6,
-      "place": "233 km ESE of Attu Station, Alaska",
-      "time": 1786357951646,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjnf"
     }
   ]
 }
