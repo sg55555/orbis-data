@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-11T22:18:43Z",
-  "count": 283,
+  "updated": "2026-08-11T22:30:42Z",
+  "count": 292,
   "points": [
+    {
+      "id": "aka2026pvtuaw",
+      "lon": -153.335,
+      "lat": 60.105,
+      "depth": 152.4,
+      "mag": 3.3,
+      "place": "55 km ESE of Port Alsworth, Alaska",
+      "time": 1786487214732,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvtuaw"
+    },
+    {
+      "id": "nc75416322",
+      "lon": -122.794998168945,
+      "lat": 38.8141670227051,
+      "depth": 2.33999991416931,
+      "mag": 0.97,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1786487036520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416322"
+    },
+    {
+      "id": "nc75416317",
+      "lon": -122.81566619873,
+      "lat": 38.8058319091797,
+      "depth": 3.71000003814697,
+      "mag": 0.31,
+      "place": "6 km WNW of The Geysers, CA",
+      "time": 1786486994380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416317"
+    },
     {
       "id": "nc75416292",
       "lon": -121.18083190918,
@@ -224,6 +254,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416162"
     },
     {
+      "id": "tx2026ptcvua",
+      "lon": -102.021,
+      "lat": 31.795,
+      "depth": 7.1045,
+      "mag": 0.8,
+      "place": "23 km SSE of Midland, Texas",
+      "time": 1786481766145,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ptcvua"
+    },
+    {
       "id": "ci40670730",
       "lon": -118.3385,
       "lat": 35.0615,
@@ -275,12 +315,12 @@
     },
     {
       "id": "aka2026pvpwxo",
-      "lon": -147.753,
-      "lat": 64.929,
-      "depth": 5,
-      "mag": 0.9,
-      "place": "3 km NW of Farmers Loop, Alaska",
-      "time": 1786480217874,
+      "lon": -147.781,
+      "lat": 64.899,
+      "depth": 0,
+      "mag": 1.1,
+      "place": "4 km WSW of Farmers Loop, Alaska",
+      "time": 1786480218190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvpwxo"
     },
     {
@@ -324,6 +364,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670706"
     },
     {
+      "id": "aka2026pvpbbr",
+      "lon": -163.854,
+      "lat": 52.74,
+      "depth": 5,
+      "mag": 2.3,
+      "place": "200 km SE of Akutan, Alaska",
+      "time": 1786478697170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvpbbr"
+    },
+    {
       "id": "us6000tk1m",
       "lon": 93.4884,
       "lat": 10.5351,
@@ -342,6 +392,26 @@
       "place": "7 km ESE of Cloverdale, CA",
       "time": 1786477815270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416102"
+    },
+    {
+      "id": "aka2026pvonnx",
+      "lon": -152.464,
+      "lat": 59.09,
+      "depth": 67.2,
+      "mag": 1.5,
+      "place": "42 km SW of Nanwalek, Alaska",
+      "time": 1786477768714,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvonnx"
+    },
+    {
+      "id": "aka2026pvoiux",
+      "lon": -166.611,
+      "lat": 52.603,
+      "depth": 20,
+      "mag": 1.9,
+      "place": "141 km S of Unalaska, Alaska",
+      "time": 1786477442888,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvoiux"
     },
     {
       "id": "ok2026prcp",
@@ -404,6 +474,36 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670666"
     },
     {
+      "id": "aka2026pvmold",
+      "lon": -174.564,
+      "lat": 51.541,
+      "depth": 11.9,
+      "mag": 2,
+      "place": "77 km SSW of Atka, Alaska",
+      "time": 1786474233087,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvmold"
+    },
+    {
+      "id": "aka2026pvmnjy",
+      "lon": -176.475,
+      "lat": 51.541,
+      "depth": 59.7,
+      "mag": 1.6,
+      "place": "38 km SSE of Adak, Alaska",
+      "time": 1786474161332,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvmnjy"
+    },
+    {
+      "id": "aka2026pvmmkw",
+      "lon": -152.78,
+      "lat": 59.541,
+      "depth": 83.9,
+      "mag": 1.2,
+      "place": "52 km WNW of Nanwalek, Alaska",
+      "time": 1786474095057,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvmmkw"
+    },
+    {
       "id": "ci40670650",
       "lon": -118.782166666667,
       "lat": 34.8565,
@@ -434,13 +534,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026psykpx"
     },
     {
+      "id": "aka2026pvmfzj",
+      "lon": -176.306,
+      "lat": 51.428,
+      "depth": 25.6,
+      "mag": 2.1,
+      "place": "54 km SSE of Adak, Alaska",
+      "time": 1786473649162,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvmfzj"
+    },
+    {
       "id": "aka2026pvljou",
-      "lon": -152.958,
-      "lat": 59.837,
+      "lon": -152.953,
+      "lat": 59.838,
       "depth": 100.5,
-      "mag": 1.2,
+      "mag": 1.5,
       "place": "63 km W of Anchor Point, Alaska",
-      "time": 1786472098694,
+      "time": 1786472098691,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvljou"
     },
     {
@@ -2812,26 +2922,6 @@
       "place": "94 km SW of Puerto Madero, Mexico",
       "time": 1786401715547,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tju1"
-    },
-    {
-      "id": "aka2026ptxpty",
-      "lon": -151.28,
-      "lat": 60.242,
-      "depth": 60.9,
-      "mag": 2,
-      "place": "6 km E of Clam Gulch, Alaska",
-      "time": 1786400560203,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ptxpty"
-    },
-    {
-      "id": "ci40670146",
-      "lon": -117.746666666667,
-      "lat": 34.2975,
-      "depth": 2.27,
-      "mag": 0.94,
-      "place": "13 km SW of Wrightwood, CA",
-      "time": 1786400450730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670146"
     }
   ]
 }
