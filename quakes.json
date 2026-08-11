@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-11T18:00:59Z",
-  "count": 241,
+  "updated": "2026-08-11T18:15:33Z",
+  "count": 239,
   "points": [
+    {
+      "id": "ci40670634",
+      "lon": -116.491500854492,
+      "lat": 33.5029983520508,
+      "depth": 14.1999998092651,
+      "mag": 1.01277009323133,
+      "place": "18 km ESE of Anza, CA",
+      "time": 1786471446340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670634"
+    },
     {
       "id": "aka2026pvkrrt",
       "lon": -155.972,
@@ -1534,6 +1544,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026prtjms"
     },
     {
+      "id": "uw714075082",
+      "lon": -122.191166666667,
+      "lat": 46.2046666666667,
+      "depth": 1.32,
+      "mag": -0.13,
+      "place": "38 km NNE of Amboy, Washington",
+      "time": 1786416471350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714075082"
+    },
+    {
       "id": "tx2026prstcl",
       "lon": -103.738,
       "lat": 32.043,
@@ -1922,16 +1942,6 @@
       "place": "13 km SW of Wrightwood, CA",
       "time": 1786400450730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670146"
-    },
-    {
-      "id": "tx2026prjpcs",
-      "lon": -101.695,
-      "lat": 31.724,
-      "depth": 8.2764,
-      "mag": 1.3,
-      "place": "25 km SW of Garden City, Texas",
-      "time": 1786399838822,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026prjpcs"
     },
     {
       "id": "ci40670122",
@@ -2382,36 +2392,6 @@
       "place": "8 km NE of Coso Junction, CA",
       "time": 1786385742880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669970"
-    },
-    {
-      "id": "aka2026ptpegj",
-      "lon": 177.528,
-      "lat": 50.102,
-      "depth": 26.5,
-      "mag": 3.6,
-      "place": "Rat Islands, Aleutian Islands, Alaska",
-      "time": 1786385368875,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ptpegj"
-    },
-    {
-      "id": "aka2026ptpead",
-      "lon": -172.274,
-      "lat": 51.955,
-      "depth": 5.2,
-      "mag": 3.2,
-      "place": "134 km ESE of Atka, Alaska",
-      "time": 1786385328684,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ptpead"
-    },
-    {
-      "id": "hv75017386",
-      "lon": -155.382166666667,
-      "lat": 19.2535,
-      "depth": 2.89,
-      "mag": 1.01,
-      "place": "11 km ENE of Pāhala, Hawaii",
-      "time": 1786385222860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017386"
     }
   ]
 }
