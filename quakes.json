@@ -1,8 +1,78 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-11T21:30:44Z",
-  "count": 256,
+  "updated": "2026-08-11T21:45:36Z",
+  "count": 266,
   "points": [
+    {
+      "id": "ci40670754",
+      "lon": -115.540664672852,
+      "lat": 32.9836654663086,
+      "depth": 7.67999982833862,
+      "mag": 1.59125146663657,
+      "place": "1 km WNW of Brawley, CA",
+      "time": 1786484552180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670754"
+    },
+    {
+      "id": "nc75416237",
+      "lon": -122.806831359863,
+      "lat": 38.8235015869141,
+      "depth": 3.15000009536743,
+      "mag": 0.75,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1786484229300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416237"
+    },
+    {
+      "id": "nc75416232",
+      "lon": -122.806503295898,
+      "lat": 38.826000213623,
+      "depth": 2.64000010490417,
+      "mag": 1.79,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1786484192740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416232"
+    },
+    {
+      "id": "nc75416227",
+      "lon": -122.803169250488,
+      "lat": 38.8236656188965,
+      "depth": 4.55000019073486,
+      "mag": 0.74,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1786484148740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416227"
+    },
+    {
+      "id": "nc75416222",
+      "lon": -122.803337097168,
+      "lat": 38.8261680603027,
+      "depth": 2.45000004768372,
+      "mag": 2.76,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1786484114730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416222"
+    },
+    {
+      "id": "nc75416217",
+      "lon": -122.804832458496,
+      "lat": 38.8261680603027,
+      "depth": 2.75999999046326,
+      "mag": 2.99,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1786484097190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416217"
+    },
+    {
+      "id": "ci40670738",
+      "lon": -115.537333333333,
+      "lat": 32.9436666666667,
+      "depth": 9.31,
+      "mag": 1.58,
+      "place": "4 km S of Brawley, CA",
+      "time": 1786483817420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670738"
+    },
     {
       "id": "nc75416197",
       "lon": -122.819664001465,
@@ -655,12 +725,12 @@
     },
     {
       "id": "aka2026pvcugt",
-      "lon": -156.375,
-      "lat": 58.118,
-      "depth": 24.5,
-      "mag": 0.7,
-      "place": "59 km E of Egegik, Alaska",
-      "time": 1786456645231,
+      "lon": -156.352,
+      "lat": 58.117,
+      "depth": 18.7,
+      "mag": 0.8,
+      "place": "61 km E of Egegik, Alaska",
+      "time": 1786456645546,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvcugt"
     },
     {
@@ -694,6 +764,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026psoiis"
     },
     {
+      "id": "aka2026pvcanc",
+      "lon": -177.568,
+      "lat": 51.237,
+      "depth": 21,
+      "mag": 2.4,
+      "place": "96 km SW of Adak, Alaska",
+      "time": 1786455277067,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvcanc"
+    },
+    {
+      "id": "aka2026pvbzzp",
+      "lon": -152.235,
+      "lat": 59.216,
+      "depth": 69.4,
+      "mag": 1.4,
+      "place": "23 km SW of Nanwalek, Alaska",
+      "time": 1786455245162,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvbzzp"
+    },
+    {
       "id": "hv75017846",
       "lon": -155.205337524414,
       "lat": 18.8528327941895,
@@ -702,6 +792,16 @@
       "place": "46 km ESE of Naalehu, Hawaii",
       "time": 1786455060470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017846"
+    },
+    {
+      "id": "aka2026pvbnhe",
+      "lon": -160.13,
+      "lat": 54.513,
+      "depth": 15.9,
+      "mag": 2.3,
+      "place": "94 km SSE of Sand Point, Alaska",
+      "time": 1786454363575,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvbnhe"
     },
     {
       "id": "hv75017831",
@@ -714,13 +814,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017831"
     },
     {
+      "id": "aka2026pvbbnw",
+      "lon": -155.369,
+      "lat": 57.231,
+      "depth": 13.1,
+      "mag": 1.6,
+      "place": "66 km SW of Karluk, Alaska",
+      "time": 1786453554847,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvbbnw"
+    },
+    {
       "id": "aka2026pvayox",
-      "lon": -149.549,
-      "lat": 62.262,
-      "depth": 71.5,
+      "lon": -149.542,
+      "lat": 62.264,
+      "depth": 73,
       "mag": 1.4,
       "place": "19 km NE of Susitna North, Alaska",
-      "time": 1786453346327,
+      "time": 1786453346151,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvayox"
     },
     {
@@ -752,6 +862,16 @@
       "place": "Pulau Pulau Tanimbar, Indonesia",
       "time": 1786452312884,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjxa"
+    },
+    {
+      "id": "aka2026pvailr",
+      "lon": -166.596,
+      "lat": 52.61,
+      "depth": 20.6,
+      "mag": 3.1,
+      "place": "140 km S of Unalaska, Alaska",
+      "time": 1786452236091,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvailr"
     },
     {
       "id": "aka2026pvafsq",
@@ -2542,26 +2662,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1786398471020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415422"
-    },
-    {
-      "id": "us6000tjt8",
-      "lon": 104.6343,
-      "lat": 28.6111,
-      "depth": 55.31,
-      "mag": 4.5,
-      "place": "12 km SE of Baixi, China",
-      "time": 1786397504273,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjt8"
-    },
-    {
-      "id": "hv75017476",
-      "lon": -155.430333333333,
-      "lat": 19.2895,
-      "depth": 26.39,
-      "mag": 1.46,
-      "place": "10 km NNE of Pāhala, Hawaii",
-      "time": 1786397449300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017476"
     }
   ]
 }
