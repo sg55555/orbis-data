@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-11T02:23:21Z",
+  "updated": "2026-08-11T02:45:31Z",
   "count": 231,
   "points": [
+    {
+      "id": "nc75415572",
+      "lon": -122.818336486816,
+      "lat": 38.8059997558594,
+      "depth": 2.52999997138977,
+      "mag": 0.76,
+      "place": "6 km WNW of The Geysers, CA",
+      "time": 1786414967710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415572"
+    },
     {
       "id": "aka2026pufiwk",
       "lon": -152.12,
@@ -12,6 +22,16 @@
       "place": "16 km W of Anchor Point, Alaska",
       "time": 1786414475628,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pufiwk"
+    },
+    {
+      "id": "us6000tjuw",
+      "lon": -173.399,
+      "lat": 51.6378,
+      "depth": 46.5,
+      "mag": 3.6,
+      "place": "83 km SE of Atka, Alaska",
+      "time": 1786414275032,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjuw"
     },
     {
       "id": "ci40670258",
@@ -82,6 +102,16 @@
       "place": "6 km S of Devore, CA",
       "time": 1786411800280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670234"
+    },
+    {
+      "id": "aka2026pudmal",
+      "lon": 176.107,
+      "lat": 51.768,
+      "depth": 20,
+      "mag": 3.6,
+      "place": "232 km ESE of Attu Station, Alaska",
+      "time": 1786411082004,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pudmal"
     },
     {
       "id": "us6000tjug",
@@ -2282,36 +2312,6 @@
       "place": "6 km NW of Pinnacles, CA",
       "time": 1786330046560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415007"
-    },
-    {
-      "id": "nc75415002",
-      "lon": -121.392333984375,
-      "lat": 36.7374992370605,
-      "depth": 8.73999977111816,
-      "mag": 1.71,
-      "place": "9 km SSW of Ridgemark, CA",
-      "time": 1786329826150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415002"
-    },
-    {
-      "id": "nc75414992",
-      "lon": -121.199668884277,
-      "lat": 36.5606651306152,
-      "depth": 1.99000000953674,
-      "mag": 2.93,
-      "place": "6 km WNW of Pinnacles, CA",
-      "time": 1786329595390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414992"
-    },
-    {
-      "id": "nc75414997",
-      "lon": -121.191833496094,
-      "lat": 36.561164855957,
-      "depth": 2.78999996185303,
-      "mag": 2.97,
-      "place": "5 km NW of Pinnacles, CA",
-      "time": 1786329542180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414997"
     }
   ]
 }
