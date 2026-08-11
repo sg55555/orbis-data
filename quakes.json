@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-11T12:15:31Z",
-  "count": 246,
+  "updated": "2026-08-11T12:26:47Z",
+  "count": 245,
   "points": [
+    {
+      "id": "ci40670466",
+      "lon": -117.223,
+      "lat": 33.9495,
+      "depth": 12.92,
+      "mag": 0.86,
+      "place": "3 km N of Moreno Valley, CA",
+      "time": 1786450592930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670466"
+    },
     {
       "id": "nc75415817",
       "lon": -121.175003051758,
@@ -355,12 +365,12 @@
     },
     {
       "id": "ok2026pqhq",
-      "lon": -95.97317505,
-      "lat": 34.7611084,
-      "depth": 9.390864372,
-      "mag": 1.78,
-      "place": "8 km WNW of Kiowa, Oklahoma",
-      "time": 1786439035202,
+      "lon": -95.98466667,
+      "lat": 34.682,
+      "depth": 5,
+      "mag": 1.67,
+      "place": "5 km NE of Wardville, Oklahoma",
+      "time": 1786439034149,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pqhq"
     },
     {
@@ -1325,12 +1335,12 @@
     },
     {
       "id": "tx2026prjpcs",
-      "lon": -101.686,
-      "lat": 31.723,
-      "depth": 3.21,
-      "mag": 1.5,
-      "place": "24 km SW of Garden City, Texas",
-      "time": 1786399838630,
+      "lon": -101.695,
+      "lat": 31.724,
+      "depth": 8.2764,
+      "mag": 1.3,
+      "place": "25 km SW of Garden City, Texas",
+      "time": 1786399838822,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026prjpcs"
     },
     {
@@ -2442,26 +2452,6 @@
       "place": "11 km ENE of Pāhala, Hawaii",
       "time": 1786364921160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017151"
-    },
-    {
-      "id": "aka2026ptdluf",
-      "lon": -151.382,
-      "lat": 61.359,
-      "depth": 84.1,
-      "mag": 2.2,
-      "place": "29 km NNW of Beluga, Alaska",
-      "time": 1786364300078,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ptdluf"
-    },
-    {
-      "id": "tx2026pqpxib",
-      "lon": -98.998,
-      "lat": 28.843,
-      "depth": 9.2561,
-      "mag": 1.6,
-      "place": "10 km ESE of Pearsall, Texas",
-      "time": 1786364199126,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pqpxib"
     }
   ]
 }
