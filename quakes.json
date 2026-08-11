@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-11T19:00:58Z",
-  "count": 234,
+  "updated": "2026-08-11T19:15:33Z",
+  "count": 235,
   "points": [
+    {
+      "id": "nc75416072",
+      "lon": -122.810333251953,
+      "lat": 38.8318328857422,
+      "depth": 1.92999994754791,
+      "mag": 1.03,
+      "place": "8 km W of Cobb, CA",
+      "time": 1786475604440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416072"
+    },
+    {
+      "id": "ci40670666",
+      "lon": -116.407333333333,
+      "lat": 33.0625,
+      "depth": 13.11,
+      "mag": 0.69,
+      "place": "18 km E of Julian, CA",
+      "time": 1786475054770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670666"
+    },
     {
       "id": "ci40670650",
       "lon": -118.782166666667,
@@ -1004,6 +1024,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415672"
     },
     {
+      "id": "uu80148276",
+      "lon": -112.883166666667,
+      "lat": 38.5071666666667,
+      "depth": 2.38,
+      "mag": 0.47,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1786437130060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148276"
+    },
+    {
       "id": "ci40670338",
       "lon": -116.604833333333,
       "lat": 32.6863333333333,
@@ -1784,6 +1814,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjug"
     },
     {
+      "id": "uu80148251",
+      "lon": -112.885,
+      "lat": 38.5125,
+      "depth": 1.95,
+      "mag": 1,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1786410670350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148251"
+    },
+    {
       "id": "nc75415537",
       "lon": -122.76016998291,
       "lat": 38.7906684875488,
@@ -2312,36 +2352,6 @@
       "place": "90 km NW of Karluk, Alaska",
       "time": 1786389512264,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ptrmda"
-    },
-    {
-      "id": "ci40670018",
-      "lon": -117.491666666667,
-      "lat": 33.8408333333333,
-      "depth": -0.51,
-      "mag": 1.16,
-      "place": "5 km SSE of Home Gardens, CA",
-      "time": 1786389174230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670018"
-    },
-    {
-      "id": "nc75415307",
-      "lon": -122.87483215332,
-      "lat": 38.8431663513184,
-      "depth": 2.40000009536743,
-      "mag": 1.15,
-      "place": "13 km NW of The Geysers, CA",
-      "time": 1786388944900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415307"
-    },
-    {
-      "id": "hv75017416",
-      "lon": -155.424835205078,
-      "lat": 19.3063335418701,
-      "depth": 26.6700000762939,
-      "mag": 2.03,
-      "place": "12 km NNE of Pāhala, Hawaii",
-      "time": 1786388828750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017416"
     }
   ]
 }
