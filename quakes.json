@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-11T14:45:33Z",
-  "count": 254,
+  "updated": "2026-08-11T15:00:59Z",
+  "count": 248,
   "points": [
     {
+      "id": "nc75415882",
+      "lon": -122.766670227051,
+      "lat": 38.826831817627,
+      "depth": 1.96000003814697,
+      "mag": 0.7,
+      "place": "4 km W of Cobb, CA",
+      "time": 1786460020700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415882"
+    },
+    {
+      "id": "nc75415877",
+      "lon": -122.765998840332,
+      "lat": 38.8246650695801,
+      "depth": 1.76999998092651,
+      "mag": 0.71,
+      "place": "4 km W of Cobb, CA",
+      "time": 1786459879640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415877"
+    },
+    {
       "id": "ci40670546",
-      "lon": -116.330169677734,
-      "lat": 33.2703323364258,
-      "depth": 2.44000005722046,
-      "mag": 1.06543504407791,
+      "lon": -116.3365,
+      "lat": 33.2666666666667,
+      "depth": 2.85,
+      "mag": 0.85,
       "place": "4 km ENE of Borrego Springs, CA",
-      "time": 1786459336250,
+      "time": 1786459336280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670546"
     },
     {
@@ -125,12 +145,12 @@
     },
     {
       "id": "tx2026psoiis",
-      "lon": -104.354,
-      "lat": 31.65,
-      "depth": 3.0722,
-      "mag": 1.7,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": 1786455484339,
+      "lon": -104.343,
+      "lat": 31.67,
+      "depth": 6.0999,
+      "mag": 1.6,
+      "place": "56 km S of Whites City, New Mexico",
+      "time": 1786455483996,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026psoiis"
     },
     {
@@ -255,12 +275,12 @@
     },
     {
       "id": "tx2026pslody",
-      "lon": -98.992,
-      "lat": 28.874,
-      "depth": 7.64,
+      "lon": -99.001,
+      "lat": 28.833,
+      "depth": 7.576,
       "mag": 1.9,
-      "place": "10 km ESE of Pearsall, Texas",
-      "time": 1786450458924,
+      "place": "11 km SE of Pearsall, Texas",
+      "time": 1786450457059,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pslody"
     },
     {
@@ -392,16 +412,6 @@
       "place": "6 km NW of Pinnacles, CA",
       "time": 1786445858820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415772"
-    },
-    {
-      "id": "tx2026psiwvq",
-      "lon": -102.078,
-      "lat": 32.399,
-      "depth": 6.4918,
-      "mag": 1,
-      "place": "36 km WSW of Ackerly, Texas",
-      "time": 1786445631068,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026psiwvq"
     },
     {
       "id": "us6000tjx1",
@@ -684,6 +694,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415672"
     },
     {
+      "id": "ci40670338",
+      "lon": -116.604833333333,
+      "lat": 32.6863333333333,
+      "depth": 19.81,
+      "mag": 0.48,
+      "place": "14 km NNE of Tecate, B.C., MX",
+      "time": 1786436885060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670338"
+    },
+    {
       "id": "aka2026purlng",
       "lon": -150.817,
       "lat": 61.639,
@@ -884,13 +904,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415647"
     },
     {
+      "id": "ci10248366",
+      "lon": -116.331333333333,
+      "lat": 33.2758333333333,
+      "depth": 4.03,
+      "mag": 0.2,
+      "place": "5 km ENE of Borrego Springs, CA",
+      "time": 1786428559580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10248366"
+    },
+    {
       "id": "ci40670306",
-      "lon": -116.5785,
-      "lat": 32.6495,
-      "depth": -0.75,
-      "mag": 1.25,
-      "place": "11 km NNE of Tecate, B.C., MX",
-      "time": 1786428537090,
+      "lon": -116.608166666667,
+      "lat": 32.672,
+      "depth": 21.84,
+      "mag": 0.34,
+      "place": "12 km NNE of Tecate, B.C., MX",
+      "time": 1786428532840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670306"
     },
     {
@@ -1484,16 +1514,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670194"
     },
     {
-      "id": "tx2026prmwnk",
-      "lon": -103.471,
-      "lat": 31.101,
-      "depth": 5.3017,
-      "mag": 1.8,
-      "place": "29 km ENE of Balmorhea, Texas",
-      "time": 1786405786291,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026prmwnk"
-    },
-    {
       "id": "ok2026ppov",
       "lon": -96.7435,
       "lat": 35.5485,
@@ -1534,16 +1554,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415487"
     },
     {
-      "id": "tx2026prlthe",
-      "lon": -103.653,
-      "lat": 31.171,
-      "depth": 0,
-      "mag": 1.1,
-      "place": "20 km SE of Toyah, Texas",
-      "time": 1786403746648,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026prlthe"
-    },
-    {
       "id": "nc75415477",
       "lon": -122.814834594727,
       "lat": 38.8264999389648,
@@ -1572,16 +1582,6 @@
       "place": "48 km ENE of Nishinoomote, Japan",
       "time": 1786402794062,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjtz"
-    },
-    {
-      "id": "tx2026prlawf",
-      "lon": -103.4,
-      "lat": 31.022,
-      "depth": 14.2975,
-      "mag": 1.7,
-      "place": "33 km E of Balmorhea, Texas",
-      "time": 1786402463982,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026prlawf"
     },
     {
       "id": "nc75415447",
@@ -1802,6 +1802,16 @@
       "place": "109 km SSE of Sand Point, Alaska",
       "time": 1786394292272,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ptudnh"
+    },
+    {
+      "id": "tx2026prglic",
+      "lon": -102.178,
+      "lat": 32.364,
+      "depth": 8.7402,
+      "mag": 0.5,
+      "place": "33 km ENE of McKinney Acres, Texas",
+      "time": 1786394141269,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026prglic"
     },
     {
       "id": "hv75017451",
@@ -2472,76 +2482,6 @@
       "place": "55 km NW of Shahrak-e Kūlūrī, Iran",
       "time": 1786374070127,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjmt"
-    },
-    {
-      "id": "nc75415192",
-      "lon": -122.932502746582,
-      "lat": 38.7776679992676,
-      "depth": 3.33999991416931,
-      "mag": 1.07,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1786373889040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415192"
-    },
-    {
-      "id": "nc75415187",
-      "lon": -121.844329833984,
-      "lat": 37.5221672058105,
-      "depth": 2.82999992370605,
-      "mag": 1.24,
-      "place": "10 km SSE of Sunol, CA",
-      "time": 1786373795050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415187"
-    },
-    {
-      "id": "tx2026pqvdth",
-      "lon": -101.598,
-      "lat": 32.4,
-      "depth": 6.0303,
-      "mag": 1,
-      "place": "17 km SE of Ackerly, Texas",
-      "time": 1786373700930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pqvdth"
-    },
-    {
-      "id": "nc75415182",
-      "lon": -121.069999694824,
-      "lat": 36.4706649780273,
-      "depth": 8.13000011444092,
-      "mag": 2.49,
-      "place": "9 km SE of Pinnacles, CA",
-      "time": 1786373586700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415182"
-    },
-    {
-      "id": "hv75017251",
-      "lon": -155.379333333333,
-      "lat": 19.2526666666667,
-      "depth": 4.32,
-      "mag": 1.76,
-      "place": "11 km ENE of Pāhala, Hawaii",
-      "time": 1786373430690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017251"
-    },
-    {
-      "id": "hv75017241",
-      "lon": -155.384,
-      "lat": 19.2555,
-      "depth": 3.81,
-      "mag": 0.75,
-      "place": "11 km ENE of Pāhala, Hawaii",
-      "time": 1786373141080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017241"
-    },
-    {
-      "id": "nc75415177",
-      "lon": -122.804664611816,
-      "lat": 38.8273315429688,
-      "depth": 1.92999994754791,
-      "mag": 1.41,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1786373128090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415177"
     }
   ]
 }
