@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-11T09:15:47Z",
-  "count": 225,
+  "updated": "2026-08-11T09:30:43Z",
+  "count": 226,
   "points": [
+    {
+      "id": "ci40670346",
+      "lon": -116.806333333333,
+      "lat": 33.5656666666667,
+      "depth": 6.54,
+      "mag": 0.65,
+      "place": "12 km W of Anza, CA",
+      "time": 1786439556160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670346"
+    },
     {
       "id": "ok2026pqhq",
       "lon": -95.97317505,
@@ -512,6 +522,16 @@
       "place": "76 km S of Ugashik, Alaska",
       "time": 1786417738359,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026puhebo"
+    },
+    {
+      "id": "tx2026prtjms",
+      "lon": -103.466,
+      "lat": 31.148,
+      "depth": 4.5874,
+      "mag": 1,
+      "place": "25 km SSE of Lindsay, Texas",
+      "time": 1786417552529,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026prtjms"
     },
     {
       "id": "tx2026prsdrf",
@@ -2242,16 +2262,6 @@
       "place": "4 km WSW of Anza, CA",
       "time": 1786354525550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669754"
-    },
-    {
-      "id": "nc75415132",
-      "lon": -122.93049621582,
-      "lat": 38.7765007019043,
-      "depth": 5.1100001335144,
-      "mag": 1.55,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1786353455740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415132"
     }
   ]
 }
