@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-11T23:45:34Z",
-  "count": 301,
+  "updated": "2026-08-11T23:53:22Z",
+  "count": 302,
   "points": [
+    {
+      "id": "pr71528133",
+      "lon": -66.9538333333333,
+      "lat": 17.936,
+      "depth": 12.59,
+      "mag": 1.91,
+      "place": "6 km SW of Guánica, Puerto Rico",
+      "time": 1786491612410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528133"
+    },
     {
       "id": "ok2026prkj",
       "lon": -96.08118439,
@@ -12,6 +22,16 @@
       "place": "5 km SSE of Stuart, Oklahoma",
       "time": 1786491293651,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026prkj"
+    },
+    {
+      "id": "us6000tk41",
+      "lon": 140.0289,
+      "lat": -3.971,
+      "depth": 37.029,
+      "mag": 4.8,
+      "place": "166 km SSW of Abepura, Indonesia",
+      "time": 1786491195174,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk41"
     },
     {
       "id": "nc75416367",
@@ -3002,16 +3022,6 @@
       "place": "4 km ENE of Borrego Springs, CA",
       "time": 1786406092280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670194"
-    },
-    {
-      "id": "ci40670186",
-      "lon": -114.985666666667,
-      "lat": 33.0491666666667,
-      "depth": -0.2,
-      "mag": 1.25,
-      "place": "45 km NE of Holtville, CA",
-      "time": 1786405776950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670186"
     }
   ]
 }
