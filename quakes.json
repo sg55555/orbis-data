@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-11T15:12:25Z",
-  "count": 246,
+  "updated": "2026-08-11T15:15:41Z",
+  "count": 247,
   "points": [
+    {
+      "id": "nc75415897",
+      "lon": -122.75700378418,
+      "lat": 38.7921676635742,
+      "depth": 1.38999998569489,
+      "mag": 0.29,
+      "place": "2 km N of The Geysers, CA",
+      "time": 1786461211830,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415897"
+    },
     {
       "id": "aka2026pvfdbz",
       "lon": -154.449,
@@ -852,6 +862,16 @@
       "place": "7 km NNE of Cabazon, CA",
       "time": 1786431521370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670322"
+    },
+    {
+      "id": "aka2026puovei",
+      "lon": -159.962,
+      "lat": 54.398,
+      "depth": 20,
+      "mag": 2,
+      "place": "109 km SSE of Sand Point, Alaska",
+      "time": 1786431521343,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026puovei"
     },
     {
       "id": "aka2026puoivb",
@@ -2452,16 +2472,6 @@
       "place": "4 km NNW of The Geysers, CA",
       "time": 1786374944600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415197"
-    },
-    {
-      "id": "aka2026ptjimc",
-      "lon": -145.489,
-      "lat": 63.908,
-      "depth": 18.8,
-      "mag": 0.6,
-      "place": "5 km SE of Fort Greely, Alaska",
-      "time": 1786374866013,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ptjimc"
     }
   ]
 }
