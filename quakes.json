@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-11T12:45:42Z",
-  "count": 247,
+  "updated": "2026-08-11T13:01:05Z",
+  "count": 248,
   "points": [
+    {
+      "id": "nc75415847",
+      "lon": -123.236167907715,
+      "lat": 39.8671684265137,
+      "depth": 7.59000015258789,
+      "mag": 1.85,
+      "place": "8 km N of Covelo, CA",
+      "time": 1786452819000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415847"
+    },
+    {
+      "id": "ci40670490",
+      "lon": -116.899,
+      "lat": 33.4288333333333,
+      "depth": 11.01,
+      "mag": 0.5,
+      "place": "4 km WSW of Aguanga, CA",
+      "time": 1786452403200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670490"
+    },
     {
       "id": "nc75415842",
       "lon": -122.792999267578,
@@ -62,6 +82,16 @@
       "place": "3 km N of Moreno Valley, CA",
       "time": 1786450592930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670466"
+    },
+    {
+      "id": "tx2026pslody",
+      "lon": -98.992,
+      "lat": 28.874,
+      "depth": 7.64,
+      "mag": 1.9,
+      "place": "10 km ESE of Pearsall, Texas",
+      "time": 1786450458924,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pslody"
     },
     {
       "id": "nc75415817",
@@ -1185,12 +1215,12 @@
     },
     {
       "id": "ok2026ppqn",
-      "lon": -95.99471283,
-      "lat": 34.74200058,
-      "depth": 7.920321941,
-      "mag": 1.89,
-      "place": "7 km ESE of Ashland, Oklahoma",
-      "time": 1786407913044,
+      "lon": -96.00016667,
+      "lat": 34.67366667,
+      "depth": 3,
+      "mag": 1.73,
+      "place": "3 km NE of Wardville, Oklahoma",
+      "time": 1786407911650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ppqn"
     },
     {
@@ -2452,26 +2482,6 @@
       "place": "16 km W of San José del Palmar, Colombia",
       "time": 1786367890451,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjm4"
-    },
-    {
-      "id": "tx2026pqqysa",
-      "lon": -98.992,
-      "lat": 28.842,
-      "depth": 8.8621,
-      "mag": 2.2,
-      "place": "11 km ESE of Pearsall, Texas",
-      "time": 1786366105260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pqqysa"
-    },
-    {
-      "id": "us6000tjls",
-      "lon": 168.8919,
-      "lat": -13.0188,
-      "depth": 655.67,
-      "mag": 4.8,
-      "place": "173 km ENE of Sola, Vanuatu",
-      "time": 1786365970915,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjls"
     }
   ]
 }
