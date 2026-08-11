@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-11T08:30:47Z",
-  "count": 221,
+  "updated": "2026-08-11T08:45:36Z",
+  "count": 220,
   "points": [
+    {
+      "id": "aka2026pusdea",
+      "lon": -143.055,
+      "lat": 60.458,
+      "depth": 19,
+      "mag": 1.2,
+      "place": "108 km S of McCarthy, Alaska",
+      "time": 1786437469726,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pusdea"
+    },
+    {
+      "id": "nc75415677",
+      "lon": -122.751998901367,
+      "lat": 38.7961654663086,
+      "depth": 0.730000019073486,
+      "mag": 1.05,
+      "place": "2 km N of The Geysers, CA",
+      "time": 1786437364970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415677"
+    },
+    {
+      "id": "nc75415672",
+      "lon": -122.949836730957,
+      "lat": 38.7700004577637,
+      "depth": 3.46000003814697,
+      "mag": 1.13,
+      "place": "7 km SE of Cloverdale, CA",
+      "time": 1786437340240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415672"
+    },
     {
       "id": "aka2026purlng",
       "lon": -150.817,
@@ -482,16 +512,6 @@
       "place": "83 km SE of Atka, Alaska",
       "time": 1786414275032,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjuw"
-    },
-    {
-      "id": "tx2026prrjdx",
-      "lon": -104.484,
-      "lat": 31.651,
-      "depth": 3.6965,
-      "mag": 1.5,
-      "place": "59 km S of Whites City, New Mexico",
-      "time": 1786413903142,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026prrjdx"
     },
     {
       "id": "ci40670258",
@@ -1594,6 +1614,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pqvwob"
     },
     {
+      "id": "hv75017256",
+      "lon": -155.384666666667,
+      "lat": 19.247,
+      "depth": 4.46,
+      "mag": 0.92,
+      "place": "11 km ENE of Pāhala, Hawaii",
+      "time": 1786374989230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017256"
+    },
+    {
       "id": "nc75415197",
       "lon": -122.771667480469,
       "lat": 38.8068351745605,
@@ -1712,6 +1742,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1786373128090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415177"
+    },
+    {
+      "id": "hv75017231",
+      "lon": -155.365833333333,
+      "lat": 19.287,
+      "depth": 4.17,
+      "mag": 0.93,
+      "place": "15 km NE of Pāhala, Hawaii",
+      "time": 1786372357560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017231"
     },
     {
       "id": "aka2026pthxny",
@@ -2162,56 +2202,6 @@
       "place": "42 km NW of San Antonio, Puerto Rico",
       "time": 1786351627160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527983"
-    },
-    {
-      "id": "aka2026pswhrq",
-      "lon": -152.03,
-      "lat": 62.183,
-      "depth": 35.2,
-      "mag": 0.9,
-      "place": "39 km WNW of Skwentna, Alaska",
-      "time": 1786351422169,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pswhrq"
-    },
-    {
-      "id": "aka2026pswgsp",
-      "lon": -155.645,
-      "lat": 57.807,
-      "depth": 94.3,
-      "mag": 1,
-      "place": "75 km WNW of Karluk, Alaska",
-      "time": 1786351355843,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pswgsp"
-    },
-    {
-      "id": "hv75017091",
-      "lon": -155.478164672852,
-      "lat": 19.1633338928223,
-      "depth": 31.8099994659424,
-      "mag": 1.92,
-      "place": "4 km S of Pāhala, Hawaii",
-      "time": 1786351030850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017091"
-    },
-    {
-      "id": "hv75017086",
-      "lon": -155.593002319336,
-      "lat": 19.931999206543,
-      "depth": 5.42000007629395,
-      "mag": 1.78,
-      "place": "13 km SE of Waimea, Hawaii",
-      "time": 1786350886280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017086"
-    },
-    {
-      "id": "us6000tjk6",
-      "lon": 170,
-      "lat": -19.7958,
-      "depth": 10,
-      "mag": 4.8,
-      "place": "80 km ESE of Isangel, Vanuatu",
-      "time": 1786350868098,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjk6"
     }
   ]
 }
