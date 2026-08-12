@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-12T04:45:32Z",
-  "count": 305,
+  "updated": "2026-08-12T04:56:33Z",
+  "count": 306,
   "points": [
+    {
+      "id": "uw714076192",
+      "lon": -121.763336181641,
+      "lat": 46.8525009155273,
+      "depth": 0.270000010728836,
+      "mag": 0.629999995,
+      "place": "22 km ENE of Ashford, Washington",
+      "time": 1786510174490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714076192"
+    },
+    {
+      "id": "ci40670898",
+      "lon": -116.339833333333,
+      "lat": 33.2696666666667,
+      "depth": 2.73,
+      "mag": 0.73,
+      "place": "4 km ENE of Borrego Springs, CA",
+      "time": 1786509796480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670898"
+    },
     {
       "id": "ci40670890",
       "lon": -117.652333333333,
@@ -3042,16 +3062,6 @@
       "place": "7 km WNW of Corning, CA",
       "time": 1786424241470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415627"
-    },
-    {
-      "id": "nc75415622",
-      "lon": -122.877166748047,
-      "lat": 38.8409996032715,
-      "depth": 2.48000001907349,
-      "mag": 1.19,
-      "place": "13 km NW of The Geysers, CA",
-      "time": 1786423978570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415622"
     }
   ]
 }
