@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-12T15:09:36Z",
-  "count": 277,
+  "updated": "2026-08-12T15:15:41Z",
+  "count": 279,
   "points": [
+    {
+      "id": "aka2026pxbhdx",
+      "lon": -152.521,
+      "lat": 57.841,
+      "depth": 5,
+      "mag": 3.1,
+      "place": "9 km NW of Kodiak, Alaska",
+      "time": 1786547496119,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pxbhdx"
+    },
     {
       "id": "nc75416862",
       "lon": -122.810668945312,
@@ -122,6 +132,16 @@
       "place": "3 km SW of Pāhala, Hawaii",
       "time": 1786542051580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018571"
+    },
+    {
+      "id": "uu80148406",
+      "lon": -112.874666666667,
+      "lat": 38.4995,
+      "depth": 0.28,
+      "mag": 1.01,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1786541900760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148406"
     },
     {
       "id": "nn00923226",
@@ -322,6 +342,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1786535808430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416792"
+    },
+    {
+      "id": "us6000tk75",
+      "lon": -92.3028,
+      "lat": 13.9641,
+      "depth": 35,
+      "mag": 4.6,
+      "place": "55 km SW of Champerico, Guatemala",
+      "time": 1786535789774,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk75"
     },
     {
       "id": "pr71528248",
@@ -2762,16 +2792,6 @@
       "place": "6 km NW of Pinnacles, CA",
       "time": 1786461833310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415902"
-    },
-    {
-      "id": "nc75415897",
-      "lon": -122.75700378418,
-      "lat": 38.7921676635742,
-      "depth": 1.38999998569489,
-      "mag": 0.29,
-      "place": "2 km N of The Geysers, CA",
-      "time": 1786461211830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415897"
     }
   ]
 }
