@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-12T13:30:43Z",
-  "count": 280,
+  "updated": "2026-08-12T13:38:29Z",
+  "count": 281,
   "points": [
     {
+      "id": "nn00923226",
+      "lon": -118.1569,
+      "lat": 38.534,
+      "depth": 10.1626,
+      "mag": 1.59,
+      "place": "16 km NNW of Mina, Nevada",
+      "time": 1786541526458,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923226"
+    },
+    {
       "id": "ci40671066",
-      "lon": -117.837501525879,
-      "lat": 35.3105010986328,
-      "depth": 7.17000007629395,
-      "mag": 1.27436668796846,
-      "place": "20 km WSW of Johannesburg, CA",
-      "time": 1786541278390,
+      "lon": -117.830833333333,
+      "lat": 35.3131666666667,
+      "depth": 9.26,
+      "mag": 0.95,
+      "place": "19 km WSW of Johannesburg, CA",
+      "time": 1786541278200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671066"
     },
     {
@@ -404,6 +414,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pudllo"
     },
     {
+      "id": "us6000tk6n",
+      "lon": 127.7768,
+      "lat": -2.6342,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "125 km NNW of Ambon, Indonesia",
+      "time": 1786529728554,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk6n"
+    },
+    {
       "id": "hv75018491",
       "lon": -155.371002197266,
       "lat": 19.1604995727539,
@@ -662,6 +682,16 @@
       "place": "4 km NE of Wardville, Oklahoma",
       "time": 1786520547190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026psal"
+    },
+    {
+      "id": "tx2026ptxwdy",
+      "lon": -101.853,
+      "lat": 32.315,
+      "depth": 4.7607,
+      "mag": 0.7,
+      "place": "21 km NNW of Stanton, Texas",
+      "time": 1786519813154,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ptxwdy"
     },
     {
       "id": "hv75018421",
@@ -2464,6 +2494,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvhnqq"
     },
     {
+      "id": "tx2026pstong",
+      "lon": -98.993,
+      "lat": 28.824,
+      "depth": 7.18,
+      "mag": 1.7,
+      "place": "12 km SE of Pearsall, Texas",
+      "time": 1786464954481,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pstong"
+    },
+    {
       "id": "ci40670586",
       "lon": -116.541333333333,
       "lat": 33.4601666666667,
@@ -2772,36 +2812,6 @@
       "place": "56 km S of Whites City, New Mexico",
       "time": 1786455483996,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026psoiis"
-    },
-    {
-      "id": "aka2026pvcanc",
-      "lon": -177.568,
-      "lat": 51.237,
-      "depth": 21,
-      "mag": 2.4,
-      "place": "96 km SW of Adak, Alaska",
-      "time": 1786455277067,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvcanc"
-    },
-    {
-      "id": "aka2026pvbzzp",
-      "lon": -152.235,
-      "lat": 59.216,
-      "depth": 69.4,
-      "mag": 1.4,
-      "place": "23 km SW of Nanwalek, Alaska",
-      "time": 1786455245162,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvbzzp"
-    },
-    {
-      "id": "hv75017846",
-      "lon": -155.205337524414,
-      "lat": 18.8528327941895,
-      "depth": 11.1899995803833,
-      "mag": 3.08,
-      "place": "46 km ESE of Naalehu, Hawaii",
-      "time": 1786455060470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017846"
     }
   ]
 }
