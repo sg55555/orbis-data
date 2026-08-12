@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-12T14:00:56Z",
-  "count": 285,
+  "updated": "2026-08-12T14:15:32Z",
+  "count": 284,
   "points": [
+    {
+      "id": "ci40671106",
+      "lon": -117.007166666667,
+      "lat": 33.6436666666667,
+      "depth": 12.32,
+      "mag": 0.89,
+      "place": "10 km SE of Winchester, CA",
+      "time": 1786543723700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671106"
+    },
     {
       "id": "nc75416847",
       "lon": -122.8125,
@@ -2832,26 +2842,6 @@
       "place": "47 km ESE of Naalehu, Hawaii",
       "time": 1786457721660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017881"
-    },
-    {
-      "id": "hv75017876",
-      "lon": -155.456832885742,
-      "lat": 19.1459999084473,
-      "depth": 28.9899997711182,
-      "mag": 1.77,
-      "place": "6 km SSE of Pāhala, Hawaii",
-      "time": 1786457372640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017876"
-    },
-    {
-      "id": "aka2026pvddeu",
-      "lon": -177.532,
-      "lat": 51.23,
-      "depth": 20.8,
-      "mag": 1.8,
-      "place": "94 km SW of Adak, Alaska",
-      "time": 1786457262431,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvddeu"
     }
   ]
 }
