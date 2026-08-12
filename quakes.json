@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-12T18:15:33Z",
-  "count": 281,
+  "updated": "2026-08-12T18:30:42Z",
+  "count": 283,
   "points": [
     {
+      "id": "ci40671354",
+      "lon": -118.206166666667,
+      "lat": 35.1156666666667,
+      "depth": 6.79,
+      "mag": 0.96,
+      "place": "8 km NNW of Mojave, CA",
+      "time": 1786558557990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671354"
+    },
+    {
       "id": "ci40671346",
-      "lon": -116.991996765137,
-      "lat": 33.9866676330566,
-      "depth": 6.40000009536743,
-      "mag": 1.20275286989457,
+      "lon": -116.992833333333,
+      "lat": 33.9836666666667,
+      "depth": 5.68,
+      "mag": 1.05,
       "place": "6 km E of Calimesa, CA",
-      "time": 1786558365100,
+      "time": 1786558365090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671346"
     },
     {
@@ -355,12 +365,12 @@
     },
     {
       "id": "ci40671170",
-      "lon": -119.899833333333,
-      "lat": 34.6295,
-      "depth": 1.28,
-      "mag": 1.44,
+      "lon": -119.900333333333,
+      "lat": 34.6306666666667,
+      "depth": 0.5,
+      "mag": 1.41,
       "place": "17 km E of Santa Ynez, CA",
-      "time": 1786546019720,
+      "time": 1786546019690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671170"
     },
     {
@@ -1385,12 +1395,12 @@
     },
     {
       "id": "hv75018371",
-      "lon": -155.196838378906,
-      "lat": 18.8806667327881,
-      "depth": 3.39000010490417,
-      "mag": 2.25,
+      "lon": -155.189166666667,
+      "lat": 18.892,
+      "depth": 10.28,
+      "mag": 2.43,
       "place": "45 km ESE of Naalehu, Hawaii",
-      "time": 1786514604310,
+      "time": 1786514604800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018371"
     },
     {
@@ -2812,6 +2822,16 @@
       "place": "26 km S of Westbrook, Texas",
       "time": 1786473459217,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026psygle"
+    },
+    {
+      "id": "uw714075652",
+      "lon": -121.699166666667,
+      "lat": 48.3006666666667,
+      "depth": -0.96,
+      "mag": 1.2,
+      "place": "2 km NE of Swede Heaven, Washington",
+      "time": 1786473029210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714075652"
     }
   ]
 }
