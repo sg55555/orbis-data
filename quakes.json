@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-12T06:23:51Z",
-  "count": 299,
+  "updated": "2026-08-12T06:30:43Z",
+  "count": 300,
   "points": [
+    {
+      "id": "ci40670946",
+      "lon": -117.217498779297,
+      "lat": 33.9718322753906,
+      "depth": 10.960000038147,
+      "mag": 1.53584047666881,
+      "place": "5 km N of Moreno Valley, CA",
+      "time": 1786516004720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670946"
+    },
+    {
+      "id": "nc75416552",
+      "lon": -121.176498413086,
+      "lat": 36.5764999389648,
+      "depth": 5,
+      "mag": 1.89,
+      "place": "6 km NNW of Pinnacles, CA",
+      "time": 1786515811570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416552"
+    },
     {
       "id": "ci40670938",
       "lon": -117.664666666667,
@@ -2982,16 +3002,6 @@
       "place": "233 km ESE of Attu Station, Alaska",
       "time": 1786430182425,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026puobyu"
-    },
-    {
-      "id": "aka2026punshf",
-      "lon": -157.243,
-      "lat": 66.323,
-      "depth": 10.5,
-      "mag": 1.9,
-      "place": "63 km S of Shungnak, Alaska",
-      "time": 1786429520384,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026punshf"
     }
   ]
 }
