@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-12T18:32:55Z",
-  "count": 282,
+  "updated": "2026-08-12T18:45:46Z",
+  "count": 281,
   "points": [
+    {
+      "id": "nc75416967",
+      "lon": -122.817497253418,
+      "lat": 38.8129997253418,
+      "depth": 3.53999996185303,
+      "mag": 0.68,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1786559535640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416967"
+    },
+    {
+      "id": "hv75018676",
+      "lon": -155.377670288086,
+      "lat": 19.1965007781982,
+      "depth": 29.6299991607666,
+      "mag": 2.37,
+      "place": "10 km E of Pāhala, Hawaii",
+      "time": 1786559515010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018676"
+    },
     {
       "id": "ci40671354",
       "lon": -118.206166666667,
@@ -1475,12 +1495,12 @@
     },
     {
       "id": "ci40670898",
-      "lon": -116.339833333333,
-      "lat": 33.2696666666667,
-      "depth": 2.73,
-      "mag": 0.73,
+      "lon": -116.335833333333,
+      "lat": 33.269,
+      "depth": 2.94,
+      "mag": 0.82,
       "place": "4 km ENE of Borrego Springs, CA",
-      "time": 1786509796480,
+      "time": 1786509796440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670898"
     },
     {
@@ -2792,36 +2812,6 @@
       "place": "118 km ESE of Neiafu, Tonga",
       "time": 1786473919680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk14"
-    },
-    {
-      "id": "tx2026psyjhg",
-      "lon": -101.045,
-      "lat": 32.127,
-      "depth": 5.0049,
-      "mag": 1.5,
-      "place": "25 km S of Westbrook, Texas",
-      "time": 1786473653867,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026psyjhg"
-    },
-    {
-      "id": "aka2026pvmfzj",
-      "lon": -176.306,
-      "lat": 51.428,
-      "depth": 25.6,
-      "mag": 2.1,
-      "place": "54 km SSE of Adak, Alaska",
-      "time": 1786473649162,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvmfzj"
-    },
-    {
-      "id": "tx2026psygle",
-      "lon": -101.055,
-      "lat": 32.115,
-      "depth": 3.9551,
-      "mag": 1.5,
-      "place": "26 km S of Westbrook, Texas",
-      "time": 1786473459217,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026psygle"
     }
   ]
 }
