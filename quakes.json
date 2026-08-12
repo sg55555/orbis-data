@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-12T20:15:33Z",
-  "count": 285,
+  "updated": "2026-08-12T20:30:44Z",
+  "count": 289,
   "points": [
+    {
+      "id": "ci40671434",
+      "lon": -116.176002502441,
+      "lat": 33.8798332214355,
+      "depth": 3.19000005722046,
+      "mag": 1.70646105508003,
+      "place": "18 km NNE of Indio, CA",
+      "time": 1786565728700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671434"
+    },
     {
       "id": "ci40671426",
       "lon": -117.063163757324,
@@ -12,6 +22,16 @@
       "place": "7 km NNW of La Mesa, CA",
       "time": 1786565468730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671426"
+    },
+    {
+      "id": "ci40671402",
+      "lon": -117.265833333333,
+      "lat": 34.0656666666667,
+      "depth": 16.87,
+      "mag": 0.92,
+      "place": "2 km NNW of Loma Linda, CA",
+      "time": 1786564304320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671402"
     },
     {
       "id": "nc75417032",
@@ -894,6 +914,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671010"
     },
     {
+      "id": "aka2026pwsmls",
+      "lon": -165.212,
+      "lat": 53.396,
+      "depth": 28.2,
+      "mag": 2,
+      "place": "90 km SSE of Akutan, Alaska",
+      "time": 1786531671363,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pwsmls"
+    },
+    {
       "id": "ci40671002",
       "lon": -116.7385,
       "lat": 33.2878333333333,
@@ -904,6 +934,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671002"
     },
     {
+      "id": "aka2026pwshfy",
+      "lon": -165.263,
+      "lat": 53.419,
+      "depth": 14.5,
+      "mag": 1.9,
+      "place": "86 km SSE of Akutan, Alaska",
+      "time": 1786531308295,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pwshfy"
+    },
+    {
       "id": "nc75416722",
       "lon": -122.807662963867,
       "lat": 38.8203315734863,
@@ -912,6 +952,26 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1786531291680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416722"
+    },
+    {
+      "id": "aka2026pwsgkw",
+      "lon": -164.316,
+      "lat": 53.49,
+      "depth": 6.7,
+      "mag": 2,
+      "place": "119 km SE of Akutan, Alaska",
+      "time": 1786531253069,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pwsgkw"
+    },
+    {
+      "id": "aka2026pwsetx",
+      "lon": -150.845,
+      "lat": 63.577,
+      "depth": 2.5,
+      "mag": 1.2,
+      "place": "43 km E of Denali National Park, Alaska",
+      "time": 1786531138711,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pwsetx"
     },
     {
       "id": "nc75416717",
@@ -2832,26 +2892,6 @@
       "place": "4 km WSW of Farmers Loop, Alaska",
       "time": 1786480218190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvpwxo"
-    },
-    {
-      "id": "nc75416137",
-      "lon": -122.820335388184,
-      "lat": 38.8071670532227,
-      "depth": 3.0699999332428,
-      "mag": 0.99,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": 1786480186040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416137"
-    },
-    {
-      "id": "nc75416127",
-      "lon": -121.183334350586,
-      "lat": 36.5781669616699,
-      "depth": 2.84999990463257,
-      "mag": 2.02,
-      "place": "6 km NW of Pinnacles, CA",
-      "time": 1786479761550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416127"
     }
   ]
 }
