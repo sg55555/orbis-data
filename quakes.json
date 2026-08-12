@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-12T00:15:35Z",
-  "count": 298,
+  "updated": "2026-08-12T00:30:51Z",
+  "count": 300,
   "points": [
+    {
+      "id": "ci40670810",
+      "lon": -117.490833333333,
+      "lat": 35.6628333333333,
+      "depth": 3.3,
+      "mag": 1.34,
+      "place": "14 km SW of Searles Valley, CA",
+      "time": 1786494395100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670810"
+    },
+    {
+      "id": "nc75416402",
+      "lon": -122.80916595459,
+      "lat": 38.8223342895508,
+      "depth": 2.73000001907349,
+      "mag": 1.45,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1786494208180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416402"
+    },
     {
       "id": "aka2026pvxgbw",
       "lon": -147.507,
@@ -25,12 +45,12 @@
     },
     {
       "id": "ok2026prkj",
-      "lon": -96.08118439,
-      "lat": 34.85211563,
-      "depth": 35.0008049,
-      "mag": 1.86,
-      "place": "5 km SSE of Stuart, Oklahoma",
-      "time": 1786491293651,
+      "lon": -95.987,
+      "lat": 34.66566667,
+      "depth": 5.19,
+      "mag": 1.91,
+      "place": "4 km ENE of Wardville, Oklahoma",
+      "time": 1786491291929,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026prkj"
     },
     {
@@ -72,6 +92,16 @@
       "place": "13 km N of Pāhala, Hawaii",
       "time": 1786490745170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018136"
+    },
+    {
+      "id": "aka2026pvvefw",
+      "lon": -152.472,
+      "lat": 59.603,
+      "depth": 76.5,
+      "mag": 1.5,
+      "place": "40 km WSW of Anchor Point, Alaska",
+      "time": 1786489720424,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvvefw"
     },
     {
       "id": "nc75416357",
@@ -1244,6 +1274,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvddeu"
     },
     {
+      "id": "av94376868",
+      "lon": -178.852333333333,
+      "lat": 51.7831666666667,
+      "depth": 11.18,
+      "mag": 0.28,
+      "place": "153 km W of Adak, Alaska",
+      "time": 1786456742960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94376868"
+    },
+    {
       "id": "aka2026pvcugt",
       "lon": -156.352,
       "lat": 58.117,
@@ -1655,12 +1695,12 @@
     },
     {
       "id": "aka2026puxpxc",
-      "lon": -152.28,
-      "lat": 62.242,
-      "depth": 5,
-      "mag": 1.6,
-      "place": "53 km WNW of Skwentna, Alaska",
-      "time": 1786447346809,
+      "lon": -152.288,
+      "lat": 62.253,
+      "depth": 2.9,
+      "mag": 1.7,
+      "place": "54 km WNW of Skwentna, Alaska",
+      "time": 1786447346516,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026puxpxc"
     },
     {
@@ -2962,26 +3002,6 @@
       "place": "69 km ENE of Pedro Bay, Alaska",
       "time": 1786408310222,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pubxuf"
-    },
-    {
-      "id": "ok2026ppqn",
-      "lon": -96.00016667,
-      "lat": 34.67366667,
-      "depth": 3,
-      "mag": 1.73,
-      "place": "3 km NE of Wardville, Oklahoma",
-      "time": 1786407911650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ppqn"
-    },
-    {
-      "id": "nc75415517",
-      "lon": -122.809669494629,
-      "lat": 38.8246650695801,
-      "depth": 3.38000011444092,
-      "mag": 0.99,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1786407652820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415517"
     }
   ]
 }
