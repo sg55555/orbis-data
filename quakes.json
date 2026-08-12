@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-12T17:15:39Z",
-  "count": 282,
+  "updated": "2026-08-12T17:30:46Z",
+  "count": 276,
   "points": [
+    {
+      "id": "ci40671314",
+      "lon": -118.021331787109,
+      "lat": 36.1679992675781,
+      "depth": 2.95000004768372,
+      "mag": 1.25023512677338,
+      "place": "13 km S of Olancha, CA",
+      "time": 1786555604760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671314"
+    },
     {
       "id": "ci40671298",
       "lon": -115.988502502441,
@@ -72,6 +82,16 @@
       "place": "7 km NW of Lindsay, Texas",
       "time": 1786552365952,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pupvre"
+    },
+    {
+      "id": "tx2026puptzi",
+      "lon": -103.601,
+      "lat": 31.406,
+      "depth": 1.601,
+      "mag": 1.3,
+      "place": "7 km NW of Lindsay, Texas",
+      "time": 1786552246619,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026puptzi"
     },
     {
       "id": "tx2026pupqmz",
@@ -235,12 +255,12 @@
     },
     {
       "id": "hv75018581",
-      "lon": -155.161834716797,
-      "lat": 18.8819999694824,
-      "depth": 11.1400003433228,
-      "mag": 2.9,
-      "place": "48 km ESE of Naalehu, Hawaii",
-      "time": 1786545916890,
+      "lon": -155.154333333333,
+      "lat": 18.8871666666667,
+      "depth": 10.89,
+      "mag": 3.22,
+      "place": "48 km SE of Pāhala, Hawaii",
+      "time": 1786545916750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018581"
     },
     {
@@ -285,12 +305,12 @@
     },
     {
       "id": "ci40671090",
-      "lon": -118.207166666667,
-      "lat": 35.1156666666667,
-      "depth": 10.22,
-      "mag": 0.78,
+      "lon": -118.208166666667,
+      "lat": 35.116,
+      "depth": 10.6,
+      "mag": 0.63,
       "place": "8 km NNW of Mojave, CA",
-      "time": 1786542879900,
+      "time": 1786542879850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671090"
     },
     {
@@ -1894,6 +1914,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416357"
     },
     {
+      "id": "tx2026ptgvhu",
+      "lon": -98.991,
+      "lat": 28.844,
+      "depth": 8.2985,
+      "mag": 1.8,
+      "place": "11 km ESE of Pearsall, Texas",
+      "time": 1786488971721,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ptgvhu"
+    },
+    {
       "id": "nc75416342",
       "lon": -122.82266998291,
       "lat": 38.8084983825684,
@@ -2305,12 +2335,12 @@
     },
     {
       "id": "ci40670730",
-      "lon": -118.3385,
-      "lat": 35.0615,
-      "depth": -0.99,
-      "mag": 1.08,
+      "lon": -118.336666666667,
+      "lat": 35.0601666666667,
+      "depth": -1.01,
+      "mag": 1.07,
       "place": "13 km SE of Tehachapi, CA",
-      "time": 1786481662140,
+      "time": 1786481662020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670730"
     },
     {
@@ -2732,96 +2762,6 @@
       "place": "97 km S of Sand Point, Alaska",
       "time": 1786469489258,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvjxwo"
-    },
-    {
-      "id": "aka2026pvjtpa",
-      "lon": -166.745,
-      "lat": 53.288,
-      "depth": 34.4,
-      "mag": 2.4,
-      "place": "66 km SSW of Unalaska, Alaska",
-      "time": 1786469194457,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvjtpa"
-    },
-    {
-      "id": "nc75416002",
-      "lon": -122.805999755859,
-      "lat": 38.8173332214355,
-      "depth": 3.4300000667572,
-      "mag": 0.71,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1786469089670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416002"
-    },
-    {
-      "id": "tx2026psvtjf",
-      "lon": -101.412,
-      "lat": 32.222,
-      "depth": 9.1064,
-      "mag": 1.4,
-      "place": "7 km ESE of Big Spring, Texas",
-      "time": 1786468924156,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026psvtjf"
-    },
-    {
-      "id": "us6000tk0c",
-      "lon": 26.1598,
-      "lat": 45.487,
-      "depth": 140.003,
-      "mag": 4.6,
-      "place": "7 km W of Lunca Jariștei, Romania",
-      "time": 1786468875884,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk0c"
-    },
-    {
-      "id": "nc75415997",
-      "lon": -122.805999755859,
-      "lat": 38.8196678161621,
-      "depth": 2.90000009536743,
-      "mag": 2.38,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1786468852600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415997"
-    },
-    {
-      "id": "aka2026pvjoay",
-      "lon": -177.471,
-      "lat": 51.287,
-      "depth": 19.3,
-      "mag": 2.1,
-      "place": "87 km SW of Adak, Alaska",
-      "time": 1786468808860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvjoay"
-    },
-    {
-      "id": "aka2026pvjnwq",
-      "lon": -143.365,
-      "lat": 60.232,
-      "depth": 5,
-      "mag": 1.2,
-      "place": "136 km S of McCarthy, Alaska",
-      "time": 1786468797416,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvjnwq"
-    },
-    {
-      "id": "nc75415992",
-      "lon": -122.932830810547,
-      "lat": 38.7770004272461,
-      "depth": 4.40999984741211,
-      "mag": 1.35,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1786468767740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415992"
-    },
-    {
-      "id": "aka2026pvjken",
-      "lon": -164.741,
-      "lat": 53.524,
-      "depth": 23.5,
-      "mag": 2.6,
-      "place": "96 km SE of Akutan, Alaska",
-      "time": 1786468541586,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvjken"
     }
   ]
 }
