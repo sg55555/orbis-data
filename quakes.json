@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-12T02:00:54Z",
-  "count": 305,
+  "updated": "2026-08-12T02:15:32Z",
+  "count": 304,
   "points": [
+    {
+      "id": "aka2026pwbayo",
+      "lon": -151.639,
+      "lat": 59.699,
+      "depth": 58,
+      "mag": 1.8,
+      "place": "5 km WNW of Diamond Ridge, Alaska",
+      "time": 1786500288835,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pwbayo"
+    },
     {
       "id": "us6000tk4r",
       "lon": -64.5367,
@@ -15,12 +25,12 @@
     },
     {
       "id": "tx2026ptmnfl",
-      "lon": -98.192,
-      "lat": 28.911,
-      "depth": 6.8627,
+      "lon": -98.188,
+      "lat": 28.915,
+      "depth": 8.9508,
       "mag": 1.9,
       "place": "18 km WSW of Falls City, Texas",
-      "time": 1786499271489,
+      "time": 1786499271080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ptmnfl"
     },
     {
@@ -3032,26 +3042,6 @@
       "place": "28 km E of Honaunau-Napoopoo, Hawaii",
       "time": 1786414923290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017596"
-    },
-    {
-      "id": "aka2026pufiwk",
-      "lon": -152.101,
-      "lat": 59.782,
-      "depth": 71.8,
-      "mag": 2.3,
-      "place": "15 km W of Anchor Point, Alaska",
-      "time": 1786414475509,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pufiwk"
-    },
-    {
-      "id": "us6000tjuw",
-      "lon": -173.399,
-      "lat": 51.6378,
-      "depth": 46.5,
-      "mag": 3.6,
-      "place": "83 km SE of Atka, Alaska",
-      "time": 1786414275032,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjuw"
     }
   ]
 }
