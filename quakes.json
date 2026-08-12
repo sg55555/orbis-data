@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-12T07:30:43Z",
-  "count": 291,
+  "updated": "2026-08-12T07:45:43Z",
+  "count": 292,
   "points": [
+    {
+      "id": "ok2026psal",
+      "lon": -95.98416901,
+      "lat": 34.75847244,
+      "depth": 11.96662045,
+      "mag": 1.82,
+      "place": "7 km E of Ashland, Oklahoma",
+      "time": 1786520548243,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026psal"
+    },
+    {
+      "id": "hv75018421",
+      "lon": -155.172836303711,
+      "lat": 18.8780002593994,
+      "depth": 10.7700004577637,
+      "mag": 2.57,
+      "place": "47 km ESE of Naalehu, Hawaii",
+      "time": 1786519789880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018421"
+    },
     {
       "id": "aka2026pwlnec",
       "lon": -154.844,
@@ -12,6 +32,16 @@
       "place": "103 km NNW of Karluk, Alaska",
       "time": 1786519125147,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pwlnec"
+    },
+    {
+      "id": "us6000tk5x",
+      "lon": 75.3037,
+      "lat": 42.0411,
+      "depth": 10,
+      "mag": 5,
+      "place": "66 km E of Chayek, Kyrgyzstan",
+      "time": 1786518892581,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5x"
     },
     {
       "id": "nc75416572",
@@ -506,11 +536,11 @@
     {
       "id": "tx2026ptncnw",
       "lon": -98.184,
-      "lat": 28.915,
-      "depth": 8.8934,
-      "mag": 1.8,
+      "lat": 28.932,
+      "depth": 7.7312,
+      "mag": 1.7,
       "place": "17 km WSW of Falls City, Texas",
-      "time": 1786500339221,
+      "time": 1786500337983,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ptncnw"
     },
     {
@@ -2892,26 +2922,6 @@
       "place": "101 km SSE of Nikolski, Alaska",
       "time": 1786434457120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026puqloy"
-    },
-    {
-      "id": "ci40670330",
-      "lon": -116.027333333333,
-      "lat": 33.194,
-      "depth": 5.84,
-      "mag": 0.67,
-      "place": "11 km ENE of Ocotillo Wells, CA",
-      "time": 1786433748370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670330"
-    },
-    {
-      "id": "hv75017721",
-      "lon": -155.483505249023,
-      "lat": 19.3966674804688,
-      "depth": 6.65000009536743,
-      "mag": 1.7,
-      "place": "21 km N of Pāhala, Hawaii",
-      "time": 1786433411880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017721"
     }
   ]
 }
