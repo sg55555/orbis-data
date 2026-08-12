@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-12T04:30:44Z",
-  "count": 306,
+  "updated": "2026-08-12T04:45:32Z",
+  "count": 305,
   "points": [
+    {
+      "id": "ci40670890",
+      "lon": -117.652333333333,
+      "lat": 34.3638333333333,
+      "depth": 9.32,
+      "mag": 0.94,
+      "place": "2 km W of Wrightwood, CA",
+      "time": 1786509601090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670890"
+    },
+    {
+      "id": "nc75416532",
+      "lon": -121.176330566406,
+      "lat": 36.5648345947266,
+      "depth": 3.15000009536743,
+      "mag": 1.13,
+      "place": "5 km NW of Pinnacles, CA",
+      "time": 1786509214600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416532"
+    },
     {
       "id": "hv75018311",
       "lon": -155.223663330078,
@@ -134,6 +154,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670858"
     },
     {
+      "id": "us6000tk55",
+      "lon": 15.8885,
+      "lat": 51.5853,
+      "depth": 10,
+      "mag": 4.2,
+      "place": "4 km WNW of Radwanice, Poland",
+      "time": 1786506316110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk55"
+    },
+    {
       "id": "ci40670842",
       "lon": -117.662333333333,
       "lat": 33.8318333333333,
@@ -195,12 +225,12 @@
     },
     {
       "id": "hv75018276",
-      "lon": -155.229339599609,
-      "lat": 18.8593330383301,
-      "depth": 12.2399997711182,
-      "mag": 3.31,
-      "place": "43 km ESE of Naalehu, Hawaii",
-      "time": 1786504615430,
+      "lon": -155.2425,
+      "lat": 18.8843333333333,
+      "depth": 13.09,
+      "mag": 3.25,
+      "place": "40 km ESE of Naalehu, Hawaii",
+      "time": 1786504615850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018276"
     },
     {
@@ -3022,46 +3052,6 @@
       "place": "13 km NW of The Geysers, CA",
       "time": 1786423978570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415622"
-    },
-    {
-      "id": "nc75415612",
-      "lon": -122.929832458496,
-      "lat": 38.7639999389648,
-      "depth": 4.92000007629395,
-      "mag": 0.88,
-      "place": "9 km ESE of Cloverdale, CA",
-      "time": 1786423203120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415612"
-    },
-    {
-      "id": "tx2026prwivj",
-      "lon": -102.06,
-      "lat": 31.63,
-      "depth": 2.4414,
-      "mag": 0.8,
-      "place": "37 km SE of Odessa, Texas",
-      "time": 1786422932988,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026prwivj"
-    },
-    {
-      "id": "aka2026pujzwp",
-      "lon": -165.393,
-      "lat": 54.417,
-      "depth": 159,
-      "mag": 2,
-      "place": "40 km NE of Akutan, Alaska",
-      "time": 1786422845380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pujzwp"
-    },
-    {
-      "id": "tx2026prwgcj",
-      "lon": -98.95,
-      "lat": 28.809,
-      "depth": 7.4464,
-      "mag": 2.2,
-      "place": "16 km ESE of Pearsall, Texas",
-      "time": 1786422742420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026prwgcj"
     }
   ]
 }
