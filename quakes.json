@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-12T11:15:37Z",
-  "count": 282,
+  "updated": "2026-08-12T11:30:49Z",
+  "count": 279,
   "points": [
     {
       "id": "nc75416742",
@@ -245,12 +245,12 @@
     },
     {
       "id": "tx2026pubfig",
-      "lon": -102.022,
-      "lat": 32.398,
-      "depth": 3.9429,
+      "lon": -102.021,
+      "lat": 32.402,
+      "depth": 4.5589,
       "mag": 1,
-      "place": "32 km WSW of Ackerly, Texas",
-      "time": 1786525890123,
+      "place": "31 km WSW of Ackerly, Texas",
+      "time": 1786525889833,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pubfig"
     },
     {
@@ -572,6 +572,16 @@
       "place": "11 km NNE of Cabazon, CA",
       "time": 1786511884710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670906"
+    },
+    {
+      "id": "pr71528243",
+      "lon": -64.1811666666667,
+      "lat": 18.2653333333333,
+      "depth": 25.9,
+      "mag": 3.43,
+      "place": "65 km E of Cruz Bay, U.S. Virgin Islands",
+      "time": 1786511770420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528243"
     },
     {
       "id": "us6000tk5j",
@@ -2782,46 +2792,6 @@
       "place": "5 km NW of Pinnacles, CA",
       "time": 1786447869600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415782"
-    },
-    {
-      "id": "nc75415777",
-      "lon": -121.181167602539,
-      "lat": 36.5568351745605,
-      "depth": -0.239999994635582,
-      "mag": 1.47,
-      "place": "4 km NW of Pinnacles, CA",
-      "time": 1786447797530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415777"
-    },
-    {
-      "id": "aka2026puxuln",
-      "lon": -160.154,
-      "lat": 54.504,
-      "depth": 3.7,
-      "mag": 2,
-      "place": "95 km SSE of Sand Point, Alaska",
-      "time": 1786447643137,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026puxuln"
-    },
-    {
-      "id": "ci40670426",
-      "lon": -116.335,
-      "lat": 33.269,
-      "depth": 2.61,
-      "mag": 0.46,
-      "place": "4 km ENE of Borrego Springs, CA",
-      "time": 1786447622580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670426"
-    },
-    {
-      "id": "aka2026puxpxc",
-      "lon": -152.288,
-      "lat": 62.253,
-      "depth": 2.9,
-      "mag": 1.7,
-      "place": "54 km WNW of Skwentna, Alaska",
-      "time": 1786447346516,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026puxpxc"
     }
   ]
 }
