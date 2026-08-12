@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-12T21:15:41Z",
-  "count": 284,
+  "updated": "2026-08-12T21:30:44Z",
+  "count": 280,
   "points": [
     {
       "id": "aka2026pxnevo",
@@ -72,6 +72,16 @@
       "place": "7 km NNW of La Mesa, CA",
       "time": 1786565468730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671426"
+    },
+    {
+      "id": "uw714077591",
+      "lon": -121.989833333333,
+      "lat": 49.1461666666667,
+      "depth": -0.83,
+      "mag": 0.93,
+      "place": "3 km SW of Chilliwack, Canada",
+      "time": 1786565171190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714077591"
     },
     {
       "id": "ci40671402",
@@ -2792,56 +2802,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1786484097190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416217"
-    },
-    {
-      "id": "ci40670738",
-      "lon": -115.538666666667,
-      "lat": 32.945,
-      "depth": 9.82,
-      "mag": 1.46,
-      "place": "4 km SSW of Brawley, CA",
-      "time": 1786483817430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670738"
-    },
-    {
-      "id": "nc75416197",
-      "lon": -122.819664001465,
-      "lat": 38.8089981079102,
-      "depth": 2.94000005722046,
-      "mag": 1.06,
-      "place": "7 km WNW of The Geysers, CA",
-      "time": 1786483699940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416197"
-    },
-    {
-      "id": "aka2026pvrsqt",
-      "lon": -151.143,
-      "lat": 59.894,
-      "depth": 58.8,
-      "mag": 1.7,
-      "place": "11 km WNW of Fox River, Alaska",
-      "time": 1786483521948,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvrsqt"
-    },
-    {
-      "id": "hv75018071",
-      "lon": -155.2225,
-      "lat": 18.9903333333333,
-      "depth": 41.97,
-      "mag": 2.02,
-      "place": "35 km SE of Pāhala, Hawaii",
-      "time": 1786483508210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018071"
-    },
-    {
-      "id": "us6000tk3r",
-      "lon": -170.5175,
-      "lat": 51.9789,
-      "depth": 35,
-      "mag": 3,
-      "place": "155 km SW of Nikolski, Alaska",
-      "time": 1786483381183,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk3r"
     }
   ]
 }
