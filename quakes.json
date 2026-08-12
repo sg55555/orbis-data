@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-12T16:31:51Z",
-  "count": 276,
+  "updated": "2026-08-12T16:45:42Z",
+  "count": 277,
   "points": [
+    {
+      "id": "ci40671258",
+      "lon": -117.663833618164,
+      "lat": 33.8343315124512,
+      "depth": 2.70000004768372,
+      "mag": 2.07965649841936,
+      "place": "10 km WSW of Corona, CA",
+      "time": 1786552621010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671258"
+    },
     {
       "id": "tx2026pupqmz",
       "lon": -104.116,
@@ -92,6 +102,16 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1786549406430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416877"
+    },
+    {
+      "id": "uu80148411",
+      "lon": -112.883166666667,
+      "lat": 38.5125,
+      "depth": 1.89,
+      "mag": 0.93,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1786548955470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148411"
     },
     {
       "id": "nc75416867",
@@ -1155,12 +1175,12 @@
     },
     {
       "id": "nn00923211",
-      "lon": -117.9754,
-      "lat": 38.1473,
-      "depth": 1.7957,
-      "mag": 2.23,
-      "place": "29 km SSE of Mina, Nevada",
-      "time": 1786512909849,
+      "lon": -117.9813,
+      "lat": 38.1328,
+      "depth": 9.9535,
+      "mag": 1.97,
+      "place": "30 km SSE of Mina, Nevada",
+      "time": 1786512910571,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923211"
     },
     {
@@ -1995,12 +2015,12 @@
     },
     {
       "id": "ci40670754",
-      "lon": -115.539,
-      "lat": 32.9393333333333,
-      "depth": 9.22,
-      "mag": 1.2,
+      "lon": -115.538,
+      "lat": 32.9388333333333,
+      "depth": 9.82,
+      "mag": 1.14,
       "place": "4 km S of Brawley, CA",
-      "time": 1786484552450,
+      "time": 1786484552480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670754"
     },
     {
@@ -2752,16 +2772,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1786467371700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415967"
-    },
-    {
-      "id": "nc75415942",
-      "lon": -121.181335449219,
-      "lat": 36.5745010375977,
-      "depth": 2.97000002861023,
-      "mag": 1.92,
-      "place": "6 km NW of Pinnacles, CA",
-      "time": 1786466196130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415942"
     }
   ]
 }
