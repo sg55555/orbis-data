@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-12T15:01:01Z",
-  "count": 276,
+  "updated": "2026-08-12T15:09:36Z",
+  "count": 277,
   "points": [
+    {
+      "id": "nc75416862",
+      "lon": -122.810668945312,
+      "lat": 38.8216667175293,
+      "depth": 3.10999989509583,
+      "mag": 1.08,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1786547197300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416862"
+    },
+    {
+      "id": "tx2026pumwba",
+      "lon": -102.096,
+      "lat": 32.382,
+      "depth": 4.2061,
+      "mag": 1.4,
+      "place": "39 km WSW of Ackerly, Texas",
+      "time": 1786546964427,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pumwba"
+    },
     {
       "id": "ci40671170",
       "lon": -119.899833333333,
@@ -2752,16 +2772,6 @@
       "place": "2 km N of The Geysers, CA",
       "time": 1786461211830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415897"
-    },
-    {
-      "id": "aka2026pvfdbz",
-      "lon": -154.458,
-      "lat": 57.439,
-      "depth": 46.1,
-      "mag": 1.3,
-      "place": "14 km S of Karluk, Alaska",
-      "time": 1786460854012,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvfdbz"
     }
   ]
 }
