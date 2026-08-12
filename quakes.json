@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-12T01:00:55Z",
-  "count": 305,
+  "updated": "2026-08-12T01:15:35Z",
+  "count": 304,
   "points": [
+    {
+      "id": "tx2026ptkrym",
+      "lon": -104.007,
+      "lat": 31.64,
+      "depth": 0,
+      "mag": 1.3,
+      "place": "39 km W of Mentone, Texas",
+      "time": 1786495972775,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ptkrym"
+    },
     {
       "id": "tx2026ptkpel",
       "lon": -103.992,
@@ -894,6 +904,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416012"
     },
     {
+      "id": "aka2026pvjxwo",
+      "lon": -160.226,
+      "lat": 54.479,
+      "depth": 3.7,
+      "mag": 1.9,
+      "place": "97 km S of Sand Point, Alaska",
+      "time": 1786469489258,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvjxwo"
+    },
+    {
       "id": "aka2026pvjtpa",
       "lon": -166.745,
       "lat": 53.288,
@@ -942,6 +962,16 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1786468852600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415997"
+    },
+    {
+      "id": "aka2026pvjoay",
+      "lon": -177.471,
+      "lat": 51.287,
+      "depth": 19.3,
+      "mag": 2.1,
+      "place": "87 km SW of Adak, Alaska",
+      "time": 1786468808860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvjoay"
     },
     {
       "id": "aka2026pvjnwq",
@@ -3012,46 +3042,6 @@
       "place": "17 km WSW of Falls City, Texas",
       "time": 1786411036520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026prptzr"
-    },
-    {
-      "id": "us6000tjug",
-      "lon": 102.5519,
-      "lat": -4.4801,
-      "depth": 61.94,
-      "mag": 4.7,
-      "place": "81 km SSE of Bengkulu, Indonesia",
-      "time": 1786410766205,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjug"
-    },
-    {
-      "id": "uu80148251",
-      "lon": -112.885,
-      "lat": 38.5125,
-      "depth": 1.95,
-      "mag": 1,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1786410670350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148251"
-    },
-    {
-      "id": "nc75415537",
-      "lon": -122.76016998291,
-      "lat": 38.7906684875488,
-      "depth": 1.53999996185303,
-      "mag": 0.74,
-      "place": "2 km NNW of The Geysers, CA",
-      "time": 1786410565250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415537"
-    },
-    {
-      "id": "aka2026pucytu",
-      "lon": -179.023,
-      "lat": 51.189,
-      "depth": 30,
-      "mag": 2.3,
-      "place": "182 km WSW of Adak, Alaska",
-      "time": 1786410179421,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pucytu"
     }
   ]
 }
