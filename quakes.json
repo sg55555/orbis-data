@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-12T20:01:02Z",
-  "count": 284,
+  "updated": "2026-08-12T20:15:33Z",
+  "count": 285,
   "points": [
+    {
+      "id": "ci40671426",
+      "lon": -117.063163757324,
+      "lat": 32.8183326721191,
+      "depth": 2.71000003814697,
+      "mag": 1.27427301361015,
+      "place": "7 km NNW of La Mesa, CA",
+      "time": 1786565468730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671426"
+    },
     {
       "id": "nc75417032",
       "lon": -122.767501831055,
@@ -35,10 +45,10 @@
     },
     {
       "id": "ci40671386",
-      "lon": -116.340667724609,
-      "lat": 33.2706680297852,
-      "depth": 2.24000000953674,
-      "mag": 1.19045473393543,
+      "lon": -116.3375,
+      "lat": 33.2685,
+      "depth": 3.08,
+      "mag": 0.98,
       "place": "4 km ENE of Borrego Springs, CA",
       "time": 1786563139230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671386"
@@ -945,12 +955,12 @@
     },
     {
       "id": "aka2026pwsdba",
-      "lon": -150.924,
-      "lat": 63.082,
-      "depth": 129.6,
-      "mag": 1.7,
+      "lon": -150.94,
+      "lat": 63.087,
+      "depth": 128.6,
+      "mag": 1.9,
       "place": "64 km SE of Denali National Park, Alaska",
-      "time": 1786531022732,
+      "time": 1786531022612,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pwsdba"
     },
     {
@@ -1024,6 +1034,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416672"
     },
     {
+      "id": "aka2026pwrrfx",
+      "lon": -153.88,
+      "lat": 59.36,
+      "depth": 131.2,
+      "mag": 1.6,
+      "place": "41 km ESE of Pope-Vannoy Landing, Alaska",
+      "time": 1786530256990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pwrrfx"
+    },
+    {
       "id": "tx2026pudllo",
       "lon": -103.989,
       "lat": 31.636,
@@ -1092,6 +1112,16 @@
       "place": "16 km E of Twentynine Palms, CA",
       "time": 1786527966900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670978"
+    },
+    {
+      "id": "aka2026pwqffe",
+      "lon": -151.198,
+      "lat": 60.584,
+      "depth": 31.2,
+      "mag": 1.3,
+      "place": "4 km NE of Kenai, Alaska",
+      "time": 1786527570939,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pwqffe"
     },
     {
       "id": "hv75018481",
@@ -1232,6 +1262,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1786522547050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416607"
+    },
+    {
+      "id": "aka2026pwncze",
+      "lon": -150.648,
+      "lat": 61.802,
+      "depth": 67.9,
+      "mag": 1.7,
+      "place": "29 km NNW of Susitna, Alaska",
+      "time": 1786522020536,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pwncze"
     },
     {
       "id": "aka2026pwnaje",
@@ -2812,36 +2852,6 @@
       "place": "6 km NW of Pinnacles, CA",
       "time": 1786479761550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416127"
-    },
-    {
-      "id": "us6000tk1y",
-      "lon": 128.4742,
-      "lat": 1.7064,
-      "depth": 10,
-      "mag": 5.1,
-      "place": "51 km E of Tobelo, Indonesia",
-      "time": 1786479258452,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1y"
-    },
-    {
-      "id": "ci40670706",
-      "lon": -115.609833333333,
-      "lat": 33.1858333333333,
-      "depth": 1.99,
-      "mag": 1.43,
-      "place": "10 km SW of Niland, CA",
-      "time": 1786478814260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670706"
-    },
-    {
-      "id": "aka2026pvpbbr",
-      "lon": -163.854,
-      "lat": 52.74,
-      "depth": 5,
-      "mag": 2.3,
-      "place": "200 km SE of Akutan, Alaska",
-      "time": 1786478697170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvpbbr"
     }
   ]
 }
