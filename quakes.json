@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-13T08:45:43Z",
-  "count": 240,
+  "updated": "2026-08-13T09:00:58Z",
+  "count": 242,
   "points": [
+    {
+      "id": "hv75018941",
+      "lon": -155.492492675781,
+      "lat": 19.1648330688477,
+      "depth": 29.4599990844727,
+      "mag": 2.33,
+      "place": "4 km SSW of Pāhala, Hawaii",
+      "time": 1786611250290,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018941"
+    },
+    {
+      "id": "nc75417417",
+      "lon": -122.853500366211,
+      "lat": 38.8214988708496,
+      "depth": 2.71000003814697,
+      "mag": 0.87,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": 1786610981890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417417"
+    },
+    {
+      "id": "nc75417412",
+      "lon": -122.815170288086,
+      "lat": 38.8311653137207,
+      "depth": 1.60000002384186,
+      "mag": 1.05,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1786610834530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417412"
+    },
     {
       "id": "nc75417407",
       "lon": -121.388664245605,
@@ -232,6 +262,16 @@
       "place": "20 km NNW of Pāhala, Hawaii",
       "time": 1786600351980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018901"
+    },
+    {
+      "id": "tx2026pvqgjz",
+      "lon": -100.685,
+      "lat": 32.762,
+      "depth": 6.2256,
+      "mag": 1.2,
+      "place": "15 km NNE of Hermleigh, Texas",
+      "time": 1786600176517,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pvqgjz"
     },
     {
       "id": "ci40671626",
@@ -2382,26 +2422,6 @@
       "place": "5 km W of Glen Ellen, CA",
       "time": 1786525598210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416642"
-    },
-    {
-      "id": "nc75416632",
-      "lon": -122.78133392334,
-      "lat": 38.8400001525879,
-      "depth": 0.910000026226044,
-      "mag": 0.69,
-      "place": "5 km WNW of Cobb, CA",
-      "time": 1786525157930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416632"
-    },
-    {
-      "id": "nc75416627",
-      "lon": -122.952003479004,
-      "lat": 38.7688331604004,
-      "depth": 1.98000001907349,
-      "mag": 0.86,
-      "place": "7 km SE of Cloverdale, CA",
-      "time": 1786524863920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416627"
     }
   ]
 }
