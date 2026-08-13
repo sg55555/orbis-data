@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-13T19:15:36Z",
-  "count": 231,
+  "updated": "2026-08-13T19:35:03Z",
+  "count": 226,
   "points": [
+    {
+      "id": "hv75018042",
+      "lon": -155.45182800293,
+      "lat": 19.2396659851074,
+      "depth": 31.0200004577637,
+      "mag": 1.85,
+      "place": "4 km NE of Pāhala, Hawaii",
+      "time": 1786648550300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018042"
+    },
     {
       "id": "ci40672066",
       "lon": -117.665,
@@ -15,12 +25,12 @@
     },
     {
       "id": "ci40672058",
-      "lon": -117.665,
-      "lat": 35.8713333333333,
-      "depth": 10.41,
-      "mag": 0.31,
+      "lon": -117.663333333333,
+      "lat": 35.8743333333333,
+      "depth": 11.52,
+      "mag": 0.42,
       "place": "23 km ESE of Little Lake, CA",
-      "time": 1786647621620,
+      "time": 1786647621520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672058"
     },
     {
@@ -114,23 +124,13 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714078381"
     },
     {
-      "id": "tx2026pwongg",
-      "lon": -103.543,
-      "lat": 30.832,
-      "depth": 0.9069,
-      "mag": 1.5,
-      "place": "25 km SE of Balmorhea, Texas",
-      "time": 1786644101278,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pwongg"
-    },
-    {
       "id": "ci40672002",
-      "lon": -116.94,
-      "lat": 33.6615,
-      "depth": 11.57,
+      "lon": -116.9405,
+      "lat": 33.6651666666667,
+      "depth": 12.02,
       "mag": 0.62,
       "place": "10 km SSE of Hemet, CA",
-      "time": 1786643367280,
+      "time": 1786643367220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672002"
     },
     {
@@ -315,12 +315,12 @@
     },
     {
       "id": "nc75417557",
-      "lon": -122.151168823242,
-      "lat": 37.7591667175293,
-      "depth": 5.15000009536743,
+      "lon": -122.150166666667,
+      "lat": 37.7551666666667,
+      "depth": 5.55,
       "mag": 3.84,
-      "place": "4 km N of San Leandro, CA",
-      "time": 1786635004660,
+      "place": "3 km N of San Leandro, CA",
+      "time": 1786635004700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417557"
     },
     {
@@ -1255,12 +1255,12 @@
     },
     {
       "id": "ci40671626",
-      "lon": -117.652333333333,
-      "lat": 34.366,
-      "depth": 8.29,
-      "mag": 1.07,
+      "lon": -117.6525,
+      "lat": 34.3661666666667,
+      "depth": 9.04,
+      "mag": 1.04,
       "place": "2 km WNW of Wrightwood, CA",
-      "time": 1786599812830,
+      "time": 1786599812740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671626"
     },
     {
@@ -2262,56 +2262,6 @@
       "place": "3 km SSW of Owasso, Oklahoma",
       "time": 1786563366240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026psxz"
-    },
-    {
-      "id": "nc75417022",
-      "lon": -122.809501647949,
-      "lat": 38.795166015625,
-      "depth": 2.89000010490417,
-      "mag": 1.06,
-      "place": "5 km WNW of The Geysers, CA",
-      "time": 1786563165500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417022"
-    },
-    {
-      "id": "ci40671386",
-      "lon": -116.34,
-      "lat": 33.2678333333333,
-      "depth": 2.7,
-      "mag": 0.98,
-      "place": "4 km ENE of Borrego Springs, CA",
-      "time": 1786563139240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671386"
-    },
-    {
-      "id": "uw714077551",
-      "lon": -117.030833333333,
-      "lat": 46.5323333333333,
-      "depth": 9.9,
-      "mag": 1.72,
-      "place": "4 km E of Uniontown, Washington",
-      "time": 1786563093450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714077551"
-    },
-    {
-      "id": "nc75417017",
-      "lon": -122.80899810791,
-      "lat": 38.7948341369629,
-      "depth": 2.82999992370605,
-      "mag": 1.12,
-      "place": "5 km WNW of The Geysers, CA",
-      "time": 1786562658550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417017"
-    },
-    {
-      "id": "nc75417012",
-      "lon": -122.809501647949,
-      "lat": 38.7956657409668,
-      "depth": 3.03999996185303,
-      "mag": 0.43,
-      "place": "5 km WNW of The Geysers, CA",
-      "time": 1786562498350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417012"
     }
   ]
 }
