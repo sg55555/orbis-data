@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-13T10:45:32Z",
-  "count": 235,
+  "updated": "2026-08-13T11:00:54Z",
+  "count": 231,
   "points": [
+    {
+      "id": "nc75417472",
+      "lon": -121.129333496094,
+      "lat": 40.2249984741211,
+      "depth": 11.25,
+      "mag": 1.99,
+      "place": "3 km NE of Prattville, CA",
+      "time": 1786617927660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417472"
+    },
     {
       "id": "nc75417467",
       "lon": -122.788665771484,
@@ -35,12 +45,12 @@
     },
     {
       "id": "hv75017722",
-      "lon": -155.494171142578,
-      "lat": 19.1695003509521,
-      "depth": 29.2900009155273,
-      "mag": 2.42,
-      "place": "4 km SSW of Pāhala, Hawaii",
-      "time": 1786616957520,
+      "lon": -155.496166666667,
+      "lat": 19.1876666666667,
+      "depth": 29.44,
+      "mag": 1.88,
+      "place": "2 km SW of Pāhala, Hawaii",
+      "time": 1786616957600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017722"
     },
     {
@@ -87,10 +97,10 @@
       "id": "tx2026pvyumv",
       "lon": -104.125,
       "lat": 31.613,
-      "depth": 4.5381,
+      "depth": 4.5385,
       "mag": 1.7,
       "place": "45 km NW of Toyah, Texas",
-      "time": 1786615644647,
+      "time": 1786615644646,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pvyumv"
     },
     {
@@ -2302,56 +2312,6 @@
       "place": "6 km W of Malibu, CA",
       "time": 1786532472180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671018"
-    },
-    {
-      "id": "nc75416742",
-      "lon": -122.811668395996,
-      "lat": 38.8129997253418,
-      "depth": 3.30999994277954,
-      "mag": 1.57,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1786532356360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416742"
-    },
-    {
-      "id": "nc75416737",
-      "lon": -122.807998657227,
-      "lat": 38.8128318786621,
-      "depth": 3.4300000667572,
-      "mag": 0.78,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1786532057300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416737"
-    },
-    {
-      "id": "ci40671010",
-      "lon": -118.021166666667,
-      "lat": 36.1745,
-      "depth": 3.5,
-      "mag": 1.03,
-      "place": "12 km S of Olancha, CA",
-      "time": 1786532013210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671010"
-    },
-    {
-      "id": "aka2026pwsmls",
-      "lon": -165.212,
-      "lat": 53.396,
-      "depth": 28.2,
-      "mag": 2,
-      "place": "90 km SSE of Akutan, Alaska",
-      "time": 1786531671363,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pwsmls"
-    },
-    {
-      "id": "ci40671002",
-      "lon": -116.7385,
-      "lat": 33.2878333333333,
-      "depth": 13.17,
-      "mag": 0.38,
-      "place": "6 km NNE of Lake Henshaw, CA",
-      "time": 1786531599900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671002"
     }
   ]
 }
