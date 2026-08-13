@@ -1,8 +1,48 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-13T16:45:36Z",
-  "count": 209,
+  "updated": "2026-08-13T17:01:01Z",
+  "count": 211,
   "points": [
+    {
+      "id": "ci40671954",
+      "lon": -116.452163696289,
+      "lat": 33.1414985656738,
+      "depth": 12.6300001144409,
+      "mag": 1.18898236559692,
+      "place": "15 km SSW of Borrego Springs, CA",
+      "time": 1786640324670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671954"
+    },
+    {
+      "id": "hv75017867",
+      "lon": -155.365173339844,
+      "lat": 19.236665725708,
+      "depth": 32.9500007629395,
+      "mag": 2.26,
+      "place": "12 km ENE of Pāhala, Hawaii",
+      "time": 1786639962850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017867"
+    },
+    {
+      "id": "ci40671938",
+      "lon": -117.882833333333,
+      "lat": 33.9356666666667,
+      "depth": 6.23,
+      "mag": 1.96,
+      "place": "3 km NE of Brea, CA",
+      "time": 1786639943540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671938"
+    },
+    {
+      "id": "ci40671930",
+      "lon": -116.8405,
+      "lat": 32.9226666666667,
+      "depth": 23.15,
+      "mag": 1.65,
+      "place": "11 km NE of Lakeside, CA",
+      "time": 1786639629190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671930"
+    },
     {
       "id": "nc75417597",
       "lon": -122.144500732422,
@@ -25,12 +65,12 @@
     },
     {
       "id": "us6000tkhm",
-      "lon": -176.3788,
-      "lat": -28.7863,
+      "lon": -176.3124,
+      "lat": -28.6742,
       "depth": 10,
-      "mag": 5.4,
+      "mag": 5.6,
       "place": "Kermadec Islands region",
-      "time": 1786637505887,
+      "time": 1786637505826,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkhm"
     },
     {
@@ -164,6 +204,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671786"
     },
     {
+      "id": "ci40671770",
+      "lon": -117.721666666667,
+      "lat": 34.1636666666667,
+      "depth": 9.98,
+      "mag": 0.93,
+      "place": "7 km N of Claremont, CA",
+      "time": 1786630457250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671770"
+    },
+    {
       "id": "ci40671762",
       "lon": -116.693666666667,
       "lat": 33.3725,
@@ -232,6 +282,16 @@
       "place": "17 km ESE of Little Lake, CA",
       "time": 1786625058630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671738"
+    },
+    {
+      "id": "uu80148611",
+      "lon": -112.886166666667,
+      "lat": 38.5151666666667,
+      "depth": 2.38,
+      "mag": 0.9,
+      "place": "17 km NE of Milford, Utah",
+      "time": 1786624038850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148611"
     },
     {
       "id": "nc75417497",
@@ -405,12 +465,12 @@
     },
     {
       "id": "ci40671690",
-      "lon": -117.777,
-      "lat": 36.0335,
-      "depth": 2.25,
+      "lon": -117.777166666667,
+      "lat": 36.0343333333333,
+      "depth": 2.27,
       "mag": 0.48,
       "place": "15 km E of Coso Junction, CA",
-      "time": 1786616799990,
+      "time": 1786616799960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671690"
     },
     {
@@ -2052,46 +2112,6 @@
       "place": "12 km S of Olancha, CA",
       "time": 1786555604680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671314"
-    },
-    {
-      "id": "ci40671298",
-      "lon": -115.987666666667,
-      "lat": 33.2563333333333,
-      "depth": 4.9,
-      "mag": 0.78,
-      "place": "6 km SSW of Salton City, CA",
-      "time": 1786553765050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671298"
-    },
-    {
-      "id": "uu80148426",
-      "lon": -112.8895,
-      "lat": 38.5061666666667,
-      "depth": 1.71,
-      "mag": 1.58,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1786553485250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148426"
-    },
-    {
-      "id": "aka2026pxeprm",
-      "lon": -145.142,
-      "lat": 63.285,
-      "depth": 1.3,
-      "mag": 1.6,
-      "place": "32 km NE of Paxson, Alaska",
-      "time": 1786553483647,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pxeprm"
-    },
-    {
-      "id": "uu80148421",
-      "lon": -112.8845,
-      "lat": 38.5086666666667,
-      "depth": 2.31,
-      "mag": 1.86,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1786553404660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148421"
     }
   ]
 }
