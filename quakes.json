@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-13T07:15:33Z",
-  "count": 251,
+  "updated": "2026-08-13T07:30:57Z",
+  "count": 249,
   "points": [
+    {
+      "id": "nc75417372",
+      "lon": -121.174003601074,
+      "lat": 40.2428321838379,
+      "depth": 5.28999996185303,
+      "mag": 2.33,
+      "place": "3 km N of Almanor, CA",
+      "time": 1786605934240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417372"
+    },
+    {
+      "id": "aka2026pyhpqg",
+      "lon": -141.565,
+      "lat": 58.842,
+      "depth": 5,
+      "mag": 3,
+      "place": "131 km SW of Yakutat, Alaska",
+      "time": 1786605653817,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pyhpqg"
+    },
     {
       "id": "tx2026pvsqrk",
       "lon": -104.113,
@@ -12,6 +32,16 @@
       "place": "44 km NW of Toyah, Texas",
       "time": 1786604528833,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pvsqrk"
+    },
+    {
+      "id": "hv75018921",
+      "lon": -155.252838134766,
+      "lat": 18.8838329315186,
+      "depth": 8.85999965667725,
+      "mag": 2.03,
+      "place": "39 km ESE of Naalehu, Hawaii",
+      "time": 1786604395400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018921"
     },
     {
       "id": "nc75417362",
@@ -645,12 +675,12 @@
     },
     {
       "id": "tx2026pvaicg",
-      "lon": -103.248,
-      "lat": 32.006,
-      "depth": 7.1838,
-      "mag": 1.6,
+      "lon": -103.236,
+      "lat": 32.002,
+      "depth": 4.4714,
+      "mag": 1.8,
       "place": "12 km SSW of Jal, New Mexico",
-      "time": 1786571339384,
+      "time": 1786571339880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pvaicg"
     },
     {
@@ -665,12 +695,12 @@
     },
     {
       "id": "tx2026puzzfh",
-      "lon": -103.844,
-      "lat": 31.745,
-      "depth": 6.7909,
-      "mag": 1.7,
-      "place": "23 km W of Mentone, Texas",
-      "time": 1786570776909,
+      "lon": -103.817,
+      "lat": 31.771,
+      "depth": 7.1617,
+      "mag": 1.8,
+      "place": "21 km WNW of Mentone, Texas",
+      "time": 1786570776227,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026puzzfh"
     },
     {
@@ -2462,56 +2492,6 @@
       "place": "21 km NNW of Stanton, Texas",
       "time": 1786519813154,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ptxwdy"
-    },
-    {
-      "id": "hv75018421",
-      "lon": -155.160333333333,
-      "lat": 18.879,
-      "depth": 10.08,
-      "mag": 2.79,
-      "place": "48 km ESE of Naalehu, Hawaii",
-      "time": 1786519789730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018421"
-    },
-    {
-      "id": "av94378533",
-      "lon": -155.0575,
-      "lat": 58.4461666666667,
-      "depth": 1.68,
-      "mag": 0.1,
-      "place": "97 km ESE of King Salmon, Alaska",
-      "time": 1786519689820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94378533"
-    },
-    {
-      "id": "aka2026pwlswb",
-      "lon": -169.491,
-      "lat": 52.336,
-      "depth": 17.1,
-      "mag": 2,
-      "place": "79 km SSW of Nikolski, Alaska",
-      "time": 1786519521133,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pwlswb"
-    },
-    {
-      "id": "aka2026pwlpua",
-      "lon": -177.037,
-      "lat": 51.425,
-      "depth": 18.5,
-      "mag": 2.3,
-      "place": "57 km SSW of Adak, Alaska",
-      "time": 1786519305747,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pwlpua"
-    },
-    {
-      "id": "us6000tk5x",
-      "lon": 75.3037,
-      "lat": 42.0411,
-      "depth": 10,
-      "mag": 5,
-      "place": "66 km E of Chayek, Kyrgyzstan",
-      "time": 1786518892581,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5x"
     }
   ]
 }
