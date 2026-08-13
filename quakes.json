@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-13T20:45:35Z",
-  "count": 244,
+  "updated": "2026-08-13T20:56:52Z",
+  "count": 245,
   "points": [
     {
       "id": "aka2026pzigmw",
@@ -175,12 +175,12 @@
     },
     {
       "id": "aka2026pzeima",
-      "lon": -150.156,
-      "lat": 62.187,
-      "depth": 17.2,
+      "lon": -150.135,
+      "lat": 62.185,
+      "depth": 12.5,
       "mag": 2,
-      "place": "14 km SSE of Trapper Creek, Alaska",
-      "time": 1786646542806,
+      "place": "15 km W of Susitna North, Alaska",
+      "time": 1786646542534,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pzeima"
     },
     {
@@ -904,6 +904,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417457"
     },
     {
+      "id": "aka2026pynipu",
+      "lon": 178.021,
+      "lat": 50.95,
+      "depth": 12.6,
+      "mag": 2.8,
+      "place": "Rat Islands, Aleutian Islands, Alaska",
+      "time": 1786615970685,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pynipu"
+    },
+    {
       "id": "nn00923266",
       "lon": -119.9911,
       "lat": 39.3579,
@@ -925,12 +935,12 @@
     },
     {
       "id": "aka2026pyndxb",
-      "lon": -150.091,
-      "lat": 61.1,
-      "depth": 43.1,
+      "lon": -150.05,
+      "lat": 61.131,
+      "depth": 43.7,
       "mag": 1.8,
-      "place": "16 km SW of Anchorage, Alaska",
-      "time": 1786615640282,
+      "place": "12 km SW of Anchorage, Alaska",
+      "time": 1786615640295,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pyndxb"
     },
     {
@@ -944,13 +954,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671682"
     },
     {
+      "id": "aka2026pynchm",
+      "lon": -161.498,
+      "lat": 54.343,
+      "depth": 10,
+      "mag": 2.5,
+      "place": "95 km SSE of King Cove, Alaska",
+      "time": 1786615532070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pynchm"
+    },
+    {
       "id": "aka2026pymyqj",
-      "lon": -147.221,
-      "lat": 61.769,
-      "depth": 9.5,
+      "lon": -147.241,
+      "lat": 61.755,
+      "depth": 17.6,
       "mag": 1.8,
-      "place": "19 km S of Eureka Roadhouse, Alaska",
-      "time": 1786615276866,
+      "place": "20 km S of Eureka Roadhouse, Alaska",
+      "time": 1786615277614,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pymyqj"
     },
     {
@@ -1704,6 +1724,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pyaebb"
     },
     {
+      "id": "av94380148",
+      "lon": -158.254166666667,
+      "lat": 56.842,
+      "depth": 7.93,
+      "mag": 0.59,
+      "place": "61 km N of Chignik, Alaska",
+      "time": 1786592250010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94380148"
+    },
+    {
+      "id": "av93065734",
+      "lon": -169.887,
+      "lat": 52.8386666666667,
+      "depth": 5.93,
+      "mag": 0.11,
+      "place": "69 km W of Nikolski, Alaska",
+      "time": 1786591741640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065734"
+    },
+    {
       "id": "aka2026pxzuox",
       "lon": -150.938,
       "lat": 61.909,
@@ -2412,36 +2452,6 @@
       "place": "9 km SW of Valencia, CA",
       "time": 1786568189310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671466"
-    },
-    {
-      "id": "hv75018711",
-      "lon": -155.443161010742,
-      "lat": 19.3071670532227,
-      "depth": 28.7600002288818,
-      "mag": 1.84,
-      "place": "12 km NNE of Pāhala, Hawaii",
-      "time": 1786568048810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018711"
-    },
-    {
-      "id": "uu80148441",
-      "lon": -111.966833333333,
-      "lat": 39.9185,
-      "depth": 4.43,
-      "mag": 1.15,
-      "place": "3 km SSW of Mount Nebo, Utah",
-      "time": 1786567837390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148441"
-    },
-    {
-      "id": "uw714077631",
-      "lon": -122.056,
-      "lat": 49.0021666666667,
-      "depth": -0.69,
-      "mag": 1.75,
-      "place": "8 km N of Maple Falls, Washington",
-      "time": 1786567715290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714077631"
     }
   ]
 }
