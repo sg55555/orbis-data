@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-13T09:30:49Z",
-  "count": 245,
+  "updated": "2026-08-13T09:45:35Z",
+  "count": 246,
   "points": [
+    {
+      "id": "ci40671666",
+      "lon": -116.251166666667,
+      "lat": 32.914,
+      "depth": 5.61,
+      "mag": 2.53,
+      "place": "28 km SSW of Ocotillo Wells, CA",
+      "time": 1786613478030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671666"
+    },
     {
       "id": "nc75417437",
       "lon": -121.173332214355,
@@ -22,6 +32,16 @@
       "place": "37 km WSW of Mentone, Texas",
       "time": 1786613061357,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pvxjlz"
+    },
+    {
+      "id": "us6000tkfh",
+      "lon": 125.8789,
+      "lat": 6.2479,
+      "depth": 91.206,
+      "mag": 5.1,
+      "place": "22 km ENE of Lapuan, Philippines",
+      "time": 1786612978999,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkfh"
     },
     {
       "id": "nc75417432",
@@ -2442,16 +2462,6 @@
       "place": "16 km E of Twentynine Palms, CA",
       "time": 1786527966900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670978"
-    },
-    {
-      "id": "aka2026pwqffe",
-      "lon": -151.198,
-      "lat": 60.584,
-      "depth": 31.2,
-      "mag": 1.3,
-      "place": "4 km NE of Kenai, Alaska",
-      "time": 1786527570939,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pwqffe"
     }
   ]
 }
