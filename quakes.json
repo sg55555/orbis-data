@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-13T03:45:32Z",
-  "count": 257,
+  "updated": "2026-08-13T04:00:55Z",
+  "count": 254,
   "points": [
+    {
+      "id": "aka2026pyaroc",
+      "lon": -147.85,
+      "lat": 60.733,
+      "depth": 25.9,
+      "mag": 1.8,
+      "place": "45 km E of Whittier, Alaska",
+      "time": 1786593195087,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pyaroc"
+    },
     {
       "id": "aka2026pyaebb",
       "lon": -150.857,
@@ -2532,46 +2542,6 @@
       "place": "14 km WSW of Honmachi, Japan",
       "time": 1786507551903,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5c"
-    },
-    {
-      "id": "aka2026pwewfb",
-      "lon": -151.731,
-      "lat": 61.687,
-      "depth": 97.4,
-      "mag": 2,
-      "place": "38 km SSW of Skwentna, Alaska",
-      "time": 1786507154251,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pwewfb"
-    },
-    {
-      "id": "ci40670866",
-      "lon": -116.798666666667,
-      "lat": 33.5731666666667,
-      "depth": 7.59,
-      "mag": 1.25,
-      "place": "12 km W of Anza, CA",
-      "time": 1786506581290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670866"
-    },
-    {
-      "id": "hv75018296",
-      "lon": -155.233333333333,
-      "lat": 18.879,
-      "depth": 10.73,
-      "mag": 5.2,
-      "place": "42 km ESE of Naalehu, Hawaii",
-      "time": 1786506513980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018296"
-    },
-    {
-      "id": "us6000tk55",
-      "lon": 15.8885,
-      "lat": 51.5853,
-      "depth": 10,
-      "mag": 4.2,
-      "place": "4 km WNW of Radwanice, Poland",
-      "time": 1786506316110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk55"
     }
   ]
 }
