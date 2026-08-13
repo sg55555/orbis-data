@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-13T04:00:55Z",
-  "count": 254,
+  "updated": "2026-08-13T04:15:33Z",
+  "count": 250,
   "points": [
+    {
+      "id": "ci40671602",
+      "lon": -117.219,
+      "lat": 34.0095,
+      "depth": 7.06,
+      "mag": 0.84,
+      "place": "6 km SE of Loma Linda, CA",
+      "time": 1786593828560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671602"
+    },
     {
       "id": "aka2026pyaroc",
       "lon": -147.85,
@@ -2324,6 +2334,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018366"
     },
     {
+      "id": "av94378363",
+      "lon": -168.144,
+      "lat": 53.3666666666667,
+      "depth": 8.1,
+      "mag": -0.85,
+      "place": "67 km NE of Nikolski, Alaska",
+      "time": 1786514087100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94378363"
+    },
+    {
+      "id": "av94378353",
+      "lon": -153.151166666667,
+      "lat": 60.0298333333333,
+      "depth": 2.56,
+      "mag": -0.65,
+      "place": "59 km ENE of Pedro Bay, Alaska",
+      "time": 1786513868480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94378353"
+    },
+    {
       "id": "nn00923211",
       "lon": -117.9813,
       "lat": 38.1328,
@@ -2472,76 +2502,6 @@
       "place": "159 km ESE of McCarthy, Alaska",
       "time": 1786508260989,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pwfmed"
-    },
-    {
-      "id": "aka2026pwfjuq",
-      "lon": -151.731,
-      "lat": 60.449,
-      "depth": 77.2,
-      "mag": 1.9,
-      "place": "24 km W of Kalifornsky, Alaska",
-      "time": 1786508096358,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pwfjuq"
-    },
-    {
-      "id": "nc75416517",
-      "lon": -122.797996520996,
-      "lat": 38.8341674804688,
-      "depth": 1.83000004291534,
-      "mag": 0.75,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1786507862300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416517"
-    },
-    {
-      "id": "nn00923208",
-      "lon": -117.977,
-      "lat": 38.1362,
-      "depth": 10.9858,
-      "mag": 2.62,
-      "place": "30 km SSE of Mina, Nevada",
-      "time": 1786507831556,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923208"
-    },
-    {
-      "id": "av94378143",
-      "lon": -178.843833333333,
-      "lat": 51.7778333333333,
-      "depth": 7.23,
-      "mag": 0.6,
-      "place": "152 km W of Adak, Alaska",
-      "time": 1786507721880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94378143"
-    },
-    {
-      "id": "ci40670882",
-      "lon": -116.5075,
-      "lat": 33.5193333333333,
-      "depth": 12.84,
-      "mag": 0.35,
-      "place": "16 km ESE of Anza, CA",
-      "time": 1786507563270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670882"
-    },
-    {
-      "id": "nc75416512",
-      "lon": -120.611503601074,
-      "lat": 36.0518341064453,
-      "depth": 8.97999954223633,
-      "mag": 2.34,
-      "place": "24 km NW of Parkfield, CA",
-      "time": 1786507556750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416512"
-    },
-    {
-      "id": "us6000tk5c",
-      "lon": 130.4504,
-      "lat": 32.4564,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "14 km WSW of Honmachi, Japan",
-      "time": 1786507551903,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5c"
     }
   ]
 }
