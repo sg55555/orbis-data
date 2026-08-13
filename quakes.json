@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-13T06:15:33Z",
-  "count": 253,
+  "updated": "2026-08-13T06:30:45Z",
+  "count": 251,
   "points": [
+    {
+      "id": "hv75018906",
+      "lon": -155.491333007812,
+      "lat": 19.7551670074463,
+      "depth": 29.3799991607666,
+      "mag": 2.16,
+      "place": "34 km SSW of Pa‘auilo, Hawaii",
+      "time": 1786601744040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018906"
+    },
     {
       "id": "hv75018901",
       "lon": -155.540161132812,
@@ -45,12 +55,12 @@
     },
     {
       "id": "aka2026pydiwn",
-      "lon": -150.088,
-      "lat": 61.407,
-      "depth": 31.3,
-      "mag": 1.4,
-      "place": "7 km NW of Point MacKenzie, Alaska",
-      "time": 1786597993512,
+      "lon": -150.085,
+      "lat": 61.415,
+      "depth": 29.2,
+      "mag": 1.6,
+      "place": "8 km NW of Point MacKenzie, Alaska",
+      "time": 1786597993639,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pydiwn"
     },
     {
@@ -105,12 +115,12 @@
     },
     {
       "id": "aka2026pybwbk",
-      "lon": -151.391,
-      "lat": 58.64,
-      "depth": 26,
+      "lon": -151.405,
+      "lat": 58.654,
+      "depth": 28,
       "mag": 1.8,
-      "place": "83 km SSE of Port Graham, Alaska",
-      "time": 1786595302799,
+      "place": "81 km SSE of Port Graham, Alaska",
+      "time": 1786595303017,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pybwbk"
     },
     {
@@ -155,22 +165,32 @@
     },
     {
       "id": "aka2026pyaroc",
-      "lon": -147.85,
-      "lat": 60.733,
-      "depth": 25.9,
-      "mag": 1.8,
-      "place": "45 km E of Whittier, Alaska",
-      "time": 1786593195087,
+      "lon": -147.882,
+      "lat": 60.751,
+      "depth": 24.9,
+      "mag": 2.1,
+      "place": "43 km E of Whittier, Alaska",
+      "time": 1786593195447,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pyaroc"
     },
     {
+      "id": "aka2026pyabqz",
+      "lon": -150.767,
+      "lat": 64.786,
+      "depth": 14.6,
+      "mag": 2.4,
+      "place": "24 km SSW of Manley Hot Springs, Alaska",
+      "time": 1786592278021,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pyabqz"
+    },
+    {
       "id": "aka2026pyaebb",
-      "lon": -150.857,
-      "lat": 64.772,
-      "depth": 21.9,
-      "mag": 1.6,
-      "place": "27 km SSW of Manley Hot Springs, Alaska",
-      "time": 1786592261116,
+      "lon": -150.838,
+      "lat": 64.786,
+      "depth": 19.8,
+      "mag": 2.4,
+      "place": "25 km SSW of Manley Hot Springs, Alaska",
+      "time": 1786592261053,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pyaebb"
     },
     {
@@ -422,6 +442,16 @@
       "place": "31 km NNW of Covelo, CA",
       "time": 1786577249210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417167"
+    },
+    {
+      "id": "av93065719",
+      "lon": -169.894666666667,
+      "lat": 52.7766666666667,
+      "depth": 9.02,
+      "mag": 0.57,
+      "place": "71 km WSW of Nikolski, Alaska",
+      "time": 1786576926790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065719"
     },
     {
       "id": "ci40671530",
@@ -2482,56 +2512,6 @@
       "place": "16 km NE of Milford, Utah",
       "time": 1786516807490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148346"
-    },
-    {
-      "id": "ci40670946",
-      "lon": -117.219166666667,
-      "lat": 33.9696666666667,
-      "depth": 11.36,
-      "mag": 1.55,
-      "place": "5 km N of Moreno Valley, CA",
-      "time": 1786516004670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670946"
-    },
-    {
-      "id": "nc75416552",
-      "lon": -121.176498413086,
-      "lat": 36.5764999389648,
-      "depth": 5,
-      "mag": 1.89,
-      "place": "6 km NNW of Pinnacles, CA",
-      "time": 1786515811570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416552"
-    },
-    {
-      "id": "ci40670938",
-      "lon": -117.664666666667,
-      "lat": 33.8321666666667,
-      "depth": 3.11,
-      "mag": 1.62,
-      "place": "10 km WSW of Corona, CA",
-      "time": 1786515570770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670938"
-    },
-    {
-      "id": "ci40670930",
-      "lon": -117.664166666667,
-      "lat": 33.833,
-      "depth": 3.01,
-      "mag": 2.24,
-      "place": "10 km WSW of Corona, CA",
-      "time": 1786515453150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670930"
-    },
-    {
-      "id": "ci40670922",
-      "lon": -117.661833333333,
-      "lat": 33.8333333333333,
-      "depth": 2.8,
-      "mag": 3.04,
-      "place": "10 km WSW of Corona, CA",
-      "time": 1786515426400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670922"
     }
   ]
 }
