@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-13T20:56:52Z",
-  "count": 245,
+  "updated": "2026-08-13T21:01:05Z",
+  "count": 246,
   "points": [
     {
       "id": "aka2026pzigmw",
@@ -25,12 +25,12 @@
     },
     {
       "id": "tx2026pwtnnb",
-      "lon": -104.317,
-      "lat": 31.483,
-      "depth": 0,
-      "mag": 1.9,
-      "place": "53 km WNW of Toyah, Texas",
-      "time": 1786653183608,
+      "lon": -104.165,
+      "lat": 31.532,
+      "depth": 4.467,
+      "mag": 1.7,
+      "place": "42 km NW of Toyah, Texas",
+      "time": 1786653185849,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pwtnnb"
     },
     {
@@ -114,6 +114,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018072"
     },
     {
+      "id": "aka2026pzgbuk",
+      "lon": -139.784,
+      "lat": 60.595,
+      "depth": 1.6,
+      "mag": 1.9,
+      "place": "116 km N of Yakutat, Alaska",
+      "time": 1786649678237,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pzgbuk"
+    },
+    {
       "id": "ci40672082",
       "lon": -117.118666666667,
       "lat": 34.623,
@@ -132,6 +142,26 @@
       "place": "4 km NE of Pāhala, Hawaii",
       "time": 1786648550300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018042"
+    },
+    {
+      "id": "aka2026pzfgfd",
+      "lon": -179.76,
+      "lat": 50.977,
+      "depth": 11.2,
+      "mag": 2.5,
+      "place": "239 km WSW of Adak, Alaska",
+      "time": 1786648190313,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pzfgfd"
+    },
+    {
+      "id": "aka2026pzffgx",
+      "lon": -140.671,
+      "lat": 61.225,
+      "depth": 4,
+      "mag": 1.6,
+      "place": "122 km ESE of McCarthy, Alaska",
+      "time": 1786648119812,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pzffgx"
     },
     {
       "id": "ci40672066",
@@ -2432,26 +2462,6 @@
       "place": "35 km NW of Ninilchik, Alaska",
       "time": 1786568926388,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pxnevo"
-    },
-    {
-      "id": "ci40671474",
-      "lon": -118.631166666667,
-      "lat": 34.3756666666667,
-      "depth": 4.19,
-      "mag": 0.97,
-      "place": "10 km SSW of Valencia, CA",
-      "time": 1786568368310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671474"
-    },
-    {
-      "id": "ci40671466",
-      "lon": -118.628666666667,
-      "lat": 34.3845,
-      "depth": 4.22,
-      "mag": 2.63,
-      "place": "9 km SW of Valencia, CA",
-      "time": 1786568189310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671466"
     }
   ]
 }
