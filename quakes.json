@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-13T06:45:45Z",
-  "count": 257,
+  "updated": "2026-08-13T07:00:55Z",
+  "count": 255,
   "points": [
+    {
+      "id": "nc75417357",
+      "lon": -122.052833557129,
+      "lat": 37.6446647644043,
+      "depth": 4.3899998664856,
+      "mag": 1.41,
+      "place": "2 km E of Hayward, CA",
+      "time": 1786603485560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417357"
+    },
     {
       "id": "tx2026pvrppd",
       "lon": -101.703,
@@ -542,6 +552,16 @@
       "place": "43 km W of Kalifornsky, Alaska",
       "time": 1786575926551,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pxrbzb"
+    },
+    {
+      "id": "av94379693",
+      "lon": -155.375,
+      "lat": 58.1648333333333,
+      "depth": 2.23,
+      "mag": -0.17,
+      "place": "85 km NW of Karluk, Alaska",
+      "time": 1786574059310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94379693"
     },
     {
       "id": "av94379688",
@@ -2532,46 +2552,6 @@
       "place": "40 km NNW of Toyah, Texas",
       "time": 1786518142830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ptwygn"
-    },
-    {
-      "id": "hv75018411",
-      "lon": -155.375503540039,
-      "lat": 19.0224990844727,
-      "depth": 28.5,
-      "mag": 1.87,
-      "place": "22 km ESE of Naalehu, Hawaii",
-      "time": 1786517752820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018411"
-    },
-    {
-      "id": "aka2026pwkowl",
-      "lon": -176.968,
-      "lat": 51.45,
-      "depth": 15.2,
-      "mag": 2.2,
-      "place": "52 km SSW of Adak, Alaska",
-      "time": 1786517444017,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pwkowl"
-    },
-    {
-      "id": "nc75416557",
-      "lon": -122.785835266113,
-      "lat": 38.8221664428711,
-      "depth": 1.35000002384186,
-      "mag": 1.06,
-      "place": "5 km W of Cobb, CA",
-      "time": 1786517399740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416557"
-    },
-    {
-      "id": "ci40670954",
-      "lon": -117.664166666667,
-      "lat": 33.8353333333333,
-      "depth": 3.74,
-      "mag": 1.32,
-      "place": "10 km WSW of Corona, CA",
-      "time": 1786517253820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670954"
     }
   ]
 }
