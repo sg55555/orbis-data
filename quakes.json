@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-13T09:45:35Z",
-  "count": 246,
+  "updated": "2026-08-13T10:01:00Z",
+  "count": 242,
   "points": [
+    {
+      "id": "ci40671674",
+      "lon": -116.332166666667,
+      "lat": 33.2673333333333,
+      "depth": 2.56,
+      "mag": 0.48,
+      "place": "4 km ENE of Borrego Springs, CA",
+      "time": 1786614815750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671674"
+    },
     {
       "id": "ci40671666",
       "lon": -116.251166666667,
@@ -305,12 +315,12 @@
     },
     {
       "id": "tx2026pvrppd",
-      "lon": -101.703,
-      "lat": 31.852,
-      "depth": 2.8548,
+      "lon": -101.71,
+      "lat": 31.845,
+      "depth": 8.374,
       "mag": 2.6,
       "place": "21 km W of Garden City, Texas",
-      "time": 1786602625884,
+      "time": 1786602625846,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pvrppd"
     },
     {
@@ -2412,56 +2422,6 @@
       "place": "96 km NNW of Karluk, Alaska",
       "time": 1786528947380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94378808"
-    },
-    {
-      "id": "hv75018491",
-      "lon": -155.371002197266,
-      "lat": 19.1604995727539,
-      "depth": 29.9500007629395,
-      "mag": 1.81,
-      "place": "12 km ESE of Pāhala, Hawaii",
-      "time": 1786528567590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018491"
-    },
-    {
-      "id": "nm60626601",
-      "lon": -89.6138333333333,
-      "lat": 36.5333333333333,
-      "depth": 9.02,
-      "mag": 1.93,
-      "place": "1 km N of Marston, Missouri",
-      "time": 1786528447730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60626601"
-    },
-    {
-      "id": "tx2026pucpxk",
-      "lon": -98.994,
-      "lat": 28.834,
-      "depth": 7.3859,
-      "mag": 2,
-      "place": "11 km ESE of Pearsall, Texas",
-      "time": 1786528421900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pucpxk"
-    },
-    {
-      "id": "nc75416662",
-      "lon": -121.169830322266,
-      "lat": 36.5616683959961,
-      "depth": 1.44000005722046,
-      "mag": 1.39,
-      "place": "4 km NW of Pinnacles, CA",
-      "time": 1786528054090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416662"
-    },
-    {
-      "id": "ci40670978",
-      "lon": -115.9,
-      "lat": 34.118,
-      "depth": 7.84,
-      "mag": 0.96,
-      "place": "16 km E of Twentynine Palms, CA",
-      "time": 1786527966900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670978"
     }
   ]
 }
