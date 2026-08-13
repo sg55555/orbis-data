@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-13T21:15:36Z",
-  "count": 250,
+  "updated": "2026-08-13T21:30:50Z",
+  "count": 248,
   "points": [
+    {
+      "id": "hv75018207",
+      "lon": -155.495666503906,
+      "lat": 19.1356658935547,
+      "depth": 30.4200000762939,
+      "mag": 2.14,
+      "place": "7 km SSW of Pāhala, Hawaii",
+      "time": 1786655657610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018207"
+    },
     {
       "id": "aka2026pzjjwm",
       "lon": -155.151,
@@ -182,6 +192,16 @@
       "place": "15 km NNE of Apple Valley, CA",
       "time": 1786648858890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672082"
+    },
+    {
+      "id": "pr2026225000",
+      "lon": -67.6655,
+      "lat": 18.2241,
+      "depth": 104,
+      "mag": 3.56,
+      "place": "45 km WSW of Stella, Puerto Rico",
+      "time": 1786648603780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026225000"
     },
     {
       "id": "hv75018042",
@@ -2462,46 +2482,6 @@
       "place": "7 km SE of Maria Antonia, Puerto Rico",
       "time": 1786570452690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528323"
-    },
-    {
-      "id": "us6000tkax",
-      "lon": 122.2726,
-      "lat": 20.4966,
-      "depth": 10,
-      "mag": 4.7,
-      "place": "31 km E of Basco, Philippines",
-      "time": 1786569920192,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkax"
-    },
-    {
-      "id": "us6000tkaw",
-      "lon": 130.4343,
-      "lat": 32.4765,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "15 km WSW of Honmachi, Japan",
-      "time": 1786569689025,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkaw"
-    },
-    {
-      "id": "uu80148446",
-      "lon": -112.885833333333,
-      "lat": 38.5081666666667,
-      "depth": 2.44,
-      "mag": 1.81,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1786569501710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148446"
-    },
-    {
-      "id": "aka2026pxnldr",
-      "lon": 178.13,
-      "lat": 53.166,
-      "depth": 110.6,
-      "mag": 3,
-      "place": "Rat Islands, Aleutian Islands, Alaska",
-      "time": 1786569383142,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pxnldr"
     }
   ]
 }
