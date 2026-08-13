@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-13T18:00:57Z",
-  "count": 215,
+  "updated": "2026-08-13T18:15:31Z",
+  "count": 218,
   "points": [
+    {
+      "id": "ci40672010",
+      "lon": -116.0585,
+      "lat": 33.2698333333333,
+      "depth": 21.89,
+      "mag": 1.65,
+      "place": "10 km WSW of Salton City, CA",
+      "time": 1786644682360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672010"
+    },
     {
       "id": "ci40672002",
       "lon": -116.94,
@@ -12,6 +22,26 @@
       "place": "10 km SSE of Hemet, CA",
       "time": 1786643367280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672002"
+    },
+    {
+      "id": "tx2026pwnvna",
+      "lon": -101.903,
+      "lat": 32.097,
+      "depth": 8.9111,
+      "mag": 0.5,
+      "place": "11 km WSW of Stanton, Texas",
+      "time": 1786642870373,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pwnvna"
+    },
+    {
+      "id": "tx2026pwntno",
+      "lon": -101.872,
+      "lat": 32.298,
+      "depth": 5.2019,
+      "mag": 1.8,
+      "place": "20 km NNW of Stanton, Texas",
+      "time": 1786642764851,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pwntno"
     },
     {
       "id": "aka2026pzcela",
@@ -115,12 +145,12 @@
     },
     {
       "id": "tx2026pwlsjl",
-      "lon": -101.111,
-      "lat": 32.136,
-      "depth": 4.2158,
-      "mag": 1.5,
-      "place": "24 km E of Forsan, Texas",
-      "time": 1786639030301,
+      "lon": -101.085,
+      "lat": 32.141,
+      "depth": 8.9355,
+      "mag": 1.6,
+      "place": "24 km SSW of Westbrook, Texas",
+      "time": 1786639030638,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pwlsjl"
     },
     {
@@ -202,6 +232,16 @@
       "place": "14 km SSW of Ester, Alaska",
       "time": 1786632664072,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pywpxr"
+    },
+    {
+      "id": "us6000tkha",
+      "lon": -76.3547,
+      "lat": 4.8666,
+      "depth": 105.616,
+      "mag": 4.3,
+      "place": "13 km WSW of San José del Palmar, Colombia",
+      "time": 1786632152192,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkha"
     },
     {
       "id": "us6000tkhc",
@@ -1354,6 +1394,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528338"
     },
     {
+      "id": "uu80148491",
+      "lon": -112.880333333333,
+      "lat": 38.5118333333333,
+      "depth": 2.24,
+      "mag": 1.36,
+      "place": "17 km NE of Milford, Utah",
+      "time": 1786584472540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148491"
+    },
+    {
       "id": "nc75417227",
       "lon": -123.704002380371,
       "lat": 39.7751655578613,
@@ -1492,6 +1542,16 @@
       "place": "14 km ENE of Willow, Alaska",
       "time": 1786580116154,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pxtkfo"
+    },
+    {
+      "id": "uw714077821",
+      "lon": -122.613833333333,
+      "lat": 47.6151666666667,
+      "depth": 20.9,
+      "mag": 1.32,
+      "place": "3 km ENE of Tracyton, Washington",
+      "time": 1786579901240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714077821"
     },
     {
       "id": "nm60626686",
@@ -2122,36 +2182,6 @@
       "place": "8 km NNW of Mojave, CA",
       "time": 1786558557990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671354"
-    },
-    {
-      "id": "ci40671346",
-      "lon": -116.992666666667,
-      "lat": 33.9836666666667,
-      "depth": 5.5,
-      "mag": 1.06,
-      "place": "6 km E of Calimesa, CA",
-      "time": 1786558365080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671346"
-    },
-    {
-      "id": "nc75416957",
-      "lon": -121.601501464844,
-      "lat": 36.8785018920898,
-      "depth": 3.30999994277954,
-      "mag": 2.21,
-      "place": "4 km ESE of Aromas, CA",
-      "time": 1786558039260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416957"
-    },
-    {
-      "id": "uw714077421",
-      "lon": -122.7655,
-      "lat": 47.999,
-      "depth": 4.76,
-      "mag": 1.5,
-      "place": "4 km SSE of Port Hadlock-Irondale, Washington",
-      "time": 1786557691870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714077421"
     }
   ]
 }
