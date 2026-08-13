@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-13T01:15:35Z",
-  "count": 271,
+  "updated": "2026-08-13T01:30:41Z",
+  "count": 270,
   "points": [
+    {
+      "id": "nc75417227",
+      "lon": -123.704002380371,
+      "lat": 39.7751655578613,
+      "depth": 4.13000011444092,
+      "mag": 1.64,
+      "place": "10 km ENE of Rockport, CA",
+      "time": 1786584172110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417227"
+    },
     {
       "id": "nc75417207",
       "lon": -122.817001342773,
@@ -2692,26 +2702,6 @@
       "place": "99 km SE of Akutan, Alaska",
       "time": 1786498384080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pvzzhy"
-    },
-    {
-      "id": "pr71528143",
-      "lon": -66.1133333333333,
-      "lat": 19.044,
-      "depth": 7.1,
-      "mag": 3.11,
-      "place": "63 km N of San Juan, Puerto Rico",
-      "time": 1786497845290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528143"
-    },
-    {
-      "id": "tx2026ptlqob",
-      "lon": -103.988,
-      "lat": 31.636,
-      "depth": 5.1385,
-      "mag": 1.5,
-      "place": "37 km WSW of Mentone, Texas",
-      "time": 1786497712649,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ptlqob"
     }
   ]
 }
