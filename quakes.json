@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-13T15:30:49Z",
-  "count": 211,
+  "updated": "2026-08-13T15:45:35Z",
+  "count": 212,
   "points": [
+    {
+      "id": "nc75417557",
+      "lon": -122.151168823242,
+      "lat": 37.7591667175293,
+      "depth": 5.15000009536743,
+      "mag": 3.91,
+      "place": "4 km N of San Leandro, CA",
+      "time": 1786635004660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417557"
+    },
     {
       "id": "nc75417552",
       "lon": -122.835670471191,
@@ -244,6 +254,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pwaqwl"
     },
     {
+      "id": "uu80007863",
+      "lon": -112.8855,
+      "lat": 38.5065,
+      "depth": 1.96,
+      "mag": 1.67,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1786618662060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007863"
+    },
+    {
       "id": "uu80007858",
       "lon": -112.882666666667,
       "lat": 38.5093333333333,
@@ -415,10 +435,10 @@
     },
     {
       "id": "ci40671666",
-      "lon": -116.251166666667,
-      "lat": 32.914,
-      "depth": 5.61,
-      "mag": 2.53,
+      "lon": -116.249666666667,
+      "lat": 32.913,
+      "depth": 7.82,
+      "mag": 2.63,
       "place": "28 km SSW of Ocotillo Wells, CA",
       "time": 1786613478030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671666"
@@ -1212,6 +1232,16 @@
       "place": "14 km ENE of Willow, Alaska",
       "time": 1786580116154,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pxtkfo"
+    },
+    {
+      "id": "nm60626686",
+      "lon": -89.5163333333333,
+      "lat": 36.426,
+      "depth": 8.07,
+      "mag": 2.1,
+      "place": "6 km NW of Tiptonville, Tennessee",
+      "time": 1786579843720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60626686"
     },
     {
       "id": "aka2026pxshoy",
@@ -2092,26 +2122,6 @@
       "place": "85 km NW of Karluk, Alaska",
       "time": 1786549700140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94379188"
-    },
-    {
-      "id": "nc75416877",
-      "lon": -122.80899810791,
-      "lat": 38.8123321533203,
-      "depth": 3.19000005722046,
-      "mag": 0.92,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1786549406430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416877"
-    },
-    {
-      "id": "uu80148411",
-      "lon": -112.883166666667,
-      "lat": 38.5125,
-      "depth": 1.89,
-      "mag": 0.93,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1786548955470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148411"
     }
   ]
 }
