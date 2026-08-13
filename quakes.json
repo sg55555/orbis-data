@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-13T18:15:31Z",
-  "count": 218,
+  "updated": "2026-08-13T18:30:48Z",
+  "count": 219,
   "points": [
     {
       "id": "ci40672010",
@@ -32,6 +32,16 @@
       "place": "11 km WSW of Stanton, Texas",
       "time": 1786642870373,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pwnvna"
+    },
+    {
+      "id": "us6000tki8",
+      "lon": 147.2281,
+      "lat": -56.8562,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "west of Macquarie Island",
+      "time": 1786642769650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tki8"
     },
     {
       "id": "tx2026pwntno",
@@ -294,6 +304,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417532"
     },
     {
+      "id": "ci40671794",
+      "lon": -117.752333333333,
+      "lat": 34.4151666666667,
+      "depth": 8.05,
+      "mag": 0.6,
+      "place": "9 km SSE of Llano, CA",
+      "time": 1786631321530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671794"
+    },
+    {
       "id": "ci40671786",
       "lon": -116.344666666667,
       "lat": 33.268,
@@ -344,6 +364,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017772"
     },
     {
+      "id": "tx2026pweqot",
+      "lon": -102.111,
+      "lat": 32.39,
+      "depth": 8.374,
+      "mag": 0.6,
+      "place": "40 km WSW of Ackerly, Texas",
+      "time": 1786626229301,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pweqot"
+    },
+    {
       "id": "ci40671746",
       "lon": -118.6495,
       "lat": 35.4065,
@@ -365,12 +395,12 @@
     },
     {
       "id": "tx2026pwecfz",
-      "lon": -104.432,
-      "lat": 31.635,
-      "depth": 3.165,
+      "lon": -104.431,
+      "lat": 31.669,
+      "depth": 7.2791,
       "mag": 1.5,
-      "place": "60 km S of Whites City, New Mexico",
-      "time": 1786625229677,
+      "place": "56 km S of Whites City, New Mexico",
+      "time": 1786625229536,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pwecfz"
     },
     {
@@ -1364,6 +1394,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018836"
     },
     {
+      "id": "uw714077971",
+      "lon": -121.786833333333,
+      "lat": 46.5445,
+      "depth": 8.72,
+      "mag": 0.75,
+      "place": "11 km SW of Packwood, Washington",
+      "time": 1786587193580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714077971"
+    },
+    {
       "id": "aka2026pxwlvo",
       "lon": 176.173,
       "lat": 52.048,
@@ -1375,12 +1415,12 @@
     },
     {
       "id": "ci40671562",
-      "lon": -116.999333333333,
-      "lat": 34.0313333333333,
-      "depth": 10.19,
-      "mag": 1.91,
+      "lon": -116.999833333333,
+      "lat": 34.032,
+      "depth": 11.16,
+      "mag": 1.95,
       "place": "4 km E of Yucaipa, CA",
-      "time": 1786584997610,
+      "time": 1786584997580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671562"
     },
     {
@@ -1935,12 +1975,12 @@
     },
     {
       "id": "ci40671426",
-      "lon": -117.062333333333,
-      "lat": 32.8191666666667,
-      "depth": 2.82,
-      "mag": 1.24,
+      "lon": -117.055833333333,
+      "lat": 32.8235,
+      "depth": -0.11,
+      "mag": 0.98,
       "place": "7 km NNW of La Mesa, CA",
-      "time": 1786565468710,
+      "time": 1786565468510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671426"
     },
     {
@@ -2152,36 +2192,6 @@
       "place": "10 km E of Pāhala, Hawaii",
       "time": 1786559515010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018676"
-    },
-    {
-      "id": "us6000tk9l",
-      "lon": -69.7862,
-      "lat": -17.3277,
-      "depth": 158.608,
-      "mag": 4.2,
-      "place": "27 km E of Chuquitira, Peru",
-      "time": 1786559310735,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk9l"
-    },
-    {
-      "id": "uw714077461",
-      "lon": -124.303333333333,
-      "lat": 42.2766666666667,
-      "depth": 13.94,
-      "mag": -0.05,
-      "place": "7 km E of Pistol River, Oregon",
-      "time": 1786558786580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714077461"
-    },
-    {
-      "id": "ci40671354",
-      "lon": -118.206166666667,
-      "lat": 35.1156666666667,
-      "depth": 6.79,
-      "mag": 0.96,
-      "place": "8 km NNW of Mojave, CA",
-      "time": 1786558557990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671354"
     }
   ]
 }
