@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-13T15:15:36Z",
-  "count": 213,
+  "updated": "2026-08-13T15:30:49Z",
+  "count": 211,
   "points": [
+    {
+      "id": "nc75417552",
+      "lon": -122.835670471191,
+      "lat": 38.8605003356934,
+      "depth": 0.400000005960464,
+      "mag": 0.47,
+      "place": "11 km WNW of Cobb, CA",
+      "time": 1786634112650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417552"
+    },
     {
       "id": "aka2026pyxbsf",
       "lon": -148.122,
@@ -232,6 +242,16 @@
       "place": "39 km WSW of Ackerly, Texas",
       "time": 1786619032066,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pwaqwl"
+    },
+    {
+      "id": "uu80007858",
+      "lon": -112.882666666667,
+      "lat": 38.5093333333333,
+      "depth": 2.72,
+      "mag": 1.84,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1786618657860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007858"
     },
     {
       "id": "uu80148601",
@@ -1955,12 +1975,12 @@
     },
     {
       "id": "ci40671258",
-      "lon": -117.664333333333,
-      "lat": 33.8328333333333,
-      "depth": 2.93,
-      "mag": 2.06,
+      "lon": -117.665333333333,
+      "lat": 33.8313333333333,
+      "depth": 4.07,
+      "mag": 2.09,
       "place": "10 km WSW of Corona, CA",
-      "time": 1786552621020,
+      "time": 1786552621040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671258"
     },
     {
@@ -2092,46 +2112,6 @@
       "place": "16 km NE of Milford, Utah",
       "time": 1786548955470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148411"
-    },
-    {
-      "id": "aka2026pxbsns",
-      "lon": -151.997,
-      "lat": 59.226,
-      "depth": 66.9,
-      "mag": 1.7,
-      "place": "15 km SSW of Nanwalek, Alaska",
-      "time": 1786548283841,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pxbsns"
-    },
-    {
-      "id": "nc75416867",
-      "lon": -122.80899810791,
-      "lat": 38.8196678161621,
-      "depth": 3.33999991416931,
-      "mag": 0.23,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1786548246030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416867"
-    },
-    {
-      "id": "aka2026pxbqlc",
-      "lon": -164.445,
-      "lat": 54.367,
-      "depth": 88.7,
-      "mag": 1.9,
-      "place": "86 km SW of False Pass, Alaska",
-      "time": 1786548138281,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pxbqlc"
-    },
-    {
-      "id": "aka2026pxbkla",
-      "lon": -166.754,
-      "lat": 52.915,
-      "depth": 22.7,
-      "mag": 2.8,
-      "place": "107 km S of Unalaska, Alaska",
-      "time": 1786547731570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pxbkla"
     }
   ]
 }
