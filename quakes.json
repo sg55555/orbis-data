@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-13T20:00:57Z",
-  "count": 226,
+  "updated": "2026-08-13T20:15:38Z",
+  "count": 227,
   "points": [
+    {
+      "id": "hv75018112",
+      "lon": -155.504333496094,
+      "lat": 19.1436672210693,
+      "depth": 30.5300006866455,
+      "mag": 2.89,
+      "place": "7 km SSW of Pāhala, Hawaii",
+      "time": 1786651509850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018112"
+    },
     {
       "id": "ci40672138",
       "lon": -116.240833333333,
@@ -285,12 +295,12 @@
     },
     {
       "id": "ci40671938",
-      "lon": -117.882833333333,
-      "lat": 33.9356666666667,
-      "depth": 6.23,
-      "mag": 1.96,
-      "place": "3 km NE of Brea, CA",
-      "time": 1786639943540,
+      "lon": -117.884,
+      "lat": 33.934,
+      "depth": 7.17,
+      "mag": 2,
+      "place": "2 km NE of Brea, CA",
+      "time": 1786639943510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671938"
     },
     {
@@ -1024,6 +1034,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417407"
     },
     {
+      "id": "uu80148566",
+      "lon": -112.884333333333,
+      "lat": 38.5093333333333,
+      "depth": 1.66,
+      "mag": 1.27,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1786610173070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148566"
+    },
+    {
       "id": "ci40671658",
       "lon": -117.741,
       "lat": 35.9021666666667,
@@ -1072,6 +1092,26 @@
       "place": "8 km W of Cobb, CA",
       "time": 1786608427220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417402"
+    },
+    {
+      "id": "uu80148556",
+      "lon": -112.883333333333,
+      "lat": 38.5113333333333,
+      "depth": 1.62,
+      "mag": 0.83,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1786608282180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148556"
+    },
+    {
+      "id": "uu80148551",
+      "lon": -112.8865,
+      "lat": 38.5153333333333,
+      "depth": 1.69,
+      "mag": 1.16,
+      "place": "17 km NE of Milford, Utah",
+      "time": 1786607399690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148551"
     },
     {
       "id": "nc75417392",
@@ -1544,6 +1584,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417287"
     },
     {
+      "id": "av94380058",
+      "lon": -153.155166666667,
+      "lat": 60.0316666666667,
+      "depth": 5.24,
+      "mag": 0.09,
+      "place": "59 km ENE of Pedro Bay, Alaska",
+      "time": 1786589786030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94380058"
+    },
+    {
       "id": "aka2026pxyoqb",
       "lon": -139.57,
       "lat": 60.487,
@@ -1572,6 +1622,16 @@
       "place": "17 km WSW of Falls City, Texas",
       "time": 1786589039149,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pvkcmc"
+    },
+    {
+      "id": "av94380028",
+      "lon": -153.085166666667,
+      "lat": 60.0328333333333,
+      "depth": 6.43,
+      "mag": -0.87,
+      "place": "63 km ENE of Pedro Bay, Alaska",
+      "time": 1786588138520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94380028"
     },
     {
       "id": "hv75018841",
@@ -2212,56 +2272,6 @@
       "place": "18 km N of Indio, CA",
       "time": 1786565728730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671434"
-    },
-    {
-      "id": "ci40671426",
-      "lon": -117.055833333333,
-      "lat": 32.8235,
-      "depth": -0.11,
-      "mag": 0.98,
-      "place": "7 km NNW of La Mesa, CA",
-      "time": 1786565468510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671426"
-    },
-    {
-      "id": "nc75417047",
-      "lon": -121.955,
-      "lat": 37.923,
-      "depth": -0.21,
-      "mag": 1.8,
-      "place": "3 km SW of Clayton, CA",
-      "time": 1786565324160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417047"
-    },
-    {
-      "id": "aka2026pxldxk",
-      "lon": -167.395,
-      "lat": 52.795,
-      "depth": 23.8,
-      "mag": 2,
-      "place": "100 km E of Nikolski, Alaska",
-      "time": 1786565259369,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pxldxk"
-    },
-    {
-      "id": "uw714077591",
-      "lon": -121.989833333333,
-      "lat": 49.1461666666667,
-      "depth": -0.83,
-      "mag": 0.93,
-      "place": "3 km SW of Chilliwack, Canada",
-      "time": 1786565171190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714077591"
-    },
-    {
-      "id": "us6000tkc9",
-      "lon": -159.9532,
-      "lat": 54.501,
-      "depth": 35,
-      "mag": 3.6,
-      "place": "99 km SSE of Sand Point, Alaska",
-      "time": 1786565034806,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkc9"
     }
   ]
 }
