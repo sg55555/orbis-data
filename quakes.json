@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-13T23:15:35Z",
-  "count": 241,
+  "updated": "2026-08-13T23:30:46Z",
+  "count": 242,
   "points": [
+    {
+      "id": "aka2026pznwkh",
+      "lon": -152.281,
+      "lat": 59.6,
+      "depth": 82,
+      "mag": 1.7,
+      "place": "32 km SW of Anchor Point, Alaska",
+      "time": 1786663699609,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pznwkh"
+    },
+    {
+      "id": "ok2026pvbc",
+      "lon": -95.96405029,
+      "lat": 34.67367172,
+      "depth": 5,
+      "mag": 2.74,
+      "place": "6 km ENE of Wardville, Oklahoma",
+      "time": 1786663578205,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pvbc"
+    },
+    {
+      "id": "nc75417842",
+      "lon": -121.189002990723,
+      "lat": 36.5776672363281,
+      "depth": 3.61999988555908,
+      "mag": 0.7,
+      "place": "7 km NW of Pinnacles, CA",
+      "time": 1786663350760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417842"
+    },
     {
       "id": "nc75417827",
       "lon": -122.814834594727,
@@ -1022,6 +1052,16 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1786617385570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417467"
+    },
+    {
+      "id": "av94380808",
+      "lon": -153.072833333333,
+      "lat": 60.0541666666667,
+      "depth": 0.63,
+      "mag": -0.37,
+      "place": "64 km ENE of Pedro Bay, Alaska",
+      "time": 1786617213010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94380808"
     },
     {
       "id": "ci40671706",
@@ -2382,36 +2422,6 @@
       "place": "18 km NW of Stanton, Texas",
       "time": 1786577417238,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pvdrjl"
-    },
-    {
-      "id": "nc75417167",
-      "lon": -123.447830200195,
-      "lat": 40.0289993286133,
-      "depth": 6.88000011444092,
-      "mag": 2.76,
-      "place": "31 km NNW of Covelo, CA",
-      "time": 1786577249210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417167"
-    },
-    {
-      "id": "av93065719",
-      "lon": -169.894666666667,
-      "lat": 52.7766666666667,
-      "depth": 9.02,
-      "mag": 0.57,
-      "place": "71 km WSW of Nikolski, Alaska",
-      "time": 1786576926790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065719"
-    },
-    {
-      "id": "ci40671530",
-      "lon": -118.671333333333,
-      "lat": 35.477,
-      "depth": 6.35,
-      "mag": 1.63,
-      "place": "20 km SW of Bodfish, CA",
-      "time": 1786576552020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671530"
     }
   ]
 }
