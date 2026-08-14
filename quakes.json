@@ -1,17 +1,37 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-14T18:15:33Z",
-  "count": 241,
+  "updated": "2026-08-14T18:30:47Z",
+  "count": 244,
   "points": [
     {
+      "id": "aka2026qazpzy",
+      "lon": -152.36,
+      "lat": 62.254,
+      "depth": 5,
+      "mag": 2.7,
+      "place": "58 km WNW of Skwentna, Alaska",
+      "time": 1786731624800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qazpzy"
+    },
+    {
       "id": "ci40672746",
-      "lon": -117.778503417969,
-      "lat": 36.0315017700195,
-      "depth": 2.15000009536743,
-      "mag": 0.972734296628974,
+      "lon": -117.780833333333,
+      "lat": 36.0313333333333,
+      "depth": 2.11,
+      "mag": 0.8,
       "place": "15 km E of Coso Junction, CA",
-      "time": 1786731116930,
+      "time": 1786731116950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672746"
+    },
+    {
+      "id": "us6000tkrs",
+      "lon": 128.0475,
+      "lat": 4.2883,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "283 km N of Tobelo, Indonesia",
+      "time": 1786730634327,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkrs"
     },
     {
       "id": "ci40672738",
@@ -22,6 +42,16 @@
       "place": "8 km NNW of Mojave, CA",
       "time": 1786729936690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672738"
+    },
+    {
+      "id": "pr71528493",
+      "lon": -64.1005,
+      "lat": 18.4435,
+      "depth": 73.97,
+      "mag": 3.03,
+      "place": "74 km E of Cruz Bay, U.S. Virgin Islands",
+      "time": 1786729860190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528493"
     },
     {
       "id": "ci40672730",
@@ -46,11 +76,11 @@
     {
       "id": "ci40672706",
       "lon": -116.243166666667,
-      "lat": 32.9145,
-      "depth": 7.29,
-      "mag": 1.47,
-      "place": "27 km SSW of Ocotillo Wells, CA",
-      "time": 1786728958220,
+      "lat": 32.9141666666667,
+      "depth": 7.41,
+      "mag": 1.46,
+      "place": "28 km SSW of Ocotillo Wells, CA",
+      "time": 1786728958210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672706"
     },
     {
@@ -334,6 +364,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418232"
     },
     {
+      "id": "uw714079131",
+      "lon": -121.993333333333,
+      "lat": 47.7413333333333,
+      "depth": 16.47,
+      "mag": 1.2,
+      "place": "0 km W of Duvall, Washington",
+      "time": 1786717986740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714079131"
+    },
+    {
       "id": "ci40672514",
       "lon": -116.3795,
       "lat": 33.9913333333333,
@@ -425,12 +465,12 @@
     },
     {
       "id": "uw714079081",
-      "lon": -122.022003173828,
-      "lat": 47.6303329467773,
-      "depth": 3.40000009536743,
-      "mag": 1.57359480857849,
-      "place": "3 km NNE of City of Sammamish, Washington",
-      "time": 1786712315590,
+      "lon": -122.001,
+      "lat": 47.6398333333333,
+      "depth": 11.32,
+      "mag": 1.52,
+      "place": "2 km WNW of Ames Lake, Washington",
+      "time": 1786712315350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714079081"
     },
     {
@@ -2402,16 +2442,6 @@
       "place": "3 km NNE of San Leandro, CA",
       "time": 1786646066150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417647"
-    },
-    {
-      "id": "av94381588",
-      "lon": -166.643,
-      "lat": 53.8953333333333,
-      "depth": 7.16,
-      "mag": 0.21,
-      "place": "6 km W of Dutch Harbor, Alaska",
-      "time": 1786645519060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94381588"
     }
   ]
 }
