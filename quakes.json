@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-14T01:45:31Z",
+  "updated": "2026-08-14T02:00:52Z",
   "count": 245,
   "points": [
+    {
+      "id": "ci40672218",
+      "lon": -116.863833333333,
+      "lat": 33.8831666666667,
+      "depth": 15.09,
+      "mag": 0.77,
+      "place": "5 km SSE of Banning, CA",
+      "time": 1786672538540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672218"
+    },
+    {
+      "id": "nc75417962",
+      "lon": -122.768669128418,
+      "lat": 38.8011665344238,
+      "depth": 4.8899998664856,
+      "mag": 0.24,
+      "place": "3 km NNW of The Geysers, CA",
+      "time": 1786672346000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417962"
+    },
     {
       "id": "us6000tkkw",
       "lon": 125.1585,
@@ -305,12 +325,12 @@
     },
     {
       "id": "hv75018192",
-      "lon": -155.492828369141,
-      "lat": 19.1515007019043,
-      "depth": 34.2799987792969,
-      "mag": 2.45,
+      "lon": -155.494166666667,
+      "lat": 19.1571666666667,
+      "depth": 35.95,
+      "mag": 1.85,
       "place": "5 km SSW of Pāhala, Hawaii",
-      "time": 1786655060470,
+      "time": 1786655060370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018192"
     },
     {
@@ -2432,26 +2452,6 @@
       "place": "11 km SW of Packwood, Washington",
       "time": 1786587193580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714077971"
-    },
-    {
-      "id": "uu80148501",
-      "lon": -112.887,
-      "lat": 38.5091666666667,
-      "depth": 1.7,
-      "mag": 1.7,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1786585898240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148501"
-    },
-    {
-      "id": "us6000tke7",
-      "lon": 176.3382,
-      "lat": 51.8674,
-      "depth": 10,
-      "mag": 3.4,
-      "place": "240 km ESE of Attu Station, Alaska",
-      "time": 1786585604527,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tke7"
     }
   ]
 }
