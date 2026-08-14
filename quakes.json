@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-14T18:03:40Z",
-  "count": 243,
+  "updated": "2026-08-14T18:15:33Z",
+  "count": 241,
   "points": [
+    {
+      "id": "ci40672746",
+      "lon": -117.778503417969,
+      "lat": 36.0315017700195,
+      "depth": 2.15000009536743,
+      "mag": 0.972734296628974,
+      "place": "15 km E of Coso Junction, CA",
+      "time": 1786731116930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672746"
+    },
     {
       "id": "ci40672738",
       "lon": -118.207833333333,
@@ -22,6 +32,16 @@
       "place": "6 km W of Imperial, CA",
       "time": 1786729767240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672730"
+    },
+    {
+      "id": "us6000tkrq",
+      "lon": 158.869,
+      "lat": 51.371,
+      "depth": 35,
+      "mag": 4.5,
+      "place": "165 km E of Ozernovskiy, Russia",
+      "time": 1786729662334,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkrq"
     },
     {
       "id": "ci40672706",
@@ -1375,12 +1395,12 @@
     },
     {
       "id": "ci40672274",
-      "lon": -117.655333333333,
-      "lat": 34.3685,
-      "depth": 7.61,
-      "mag": 1.61,
+      "lon": -117.656166666667,
+      "lat": 34.3675,
+      "depth": 7.48,
+      "mag": 1.6,
       "place": "2 km WNW of Wrightwood, CA",
-      "time": 1786683799660,
+      "time": 1786683799670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672274"
     },
     {
@@ -2392,46 +2412,6 @@
       "place": "6 km W of Dutch Harbor, Alaska",
       "time": 1786645519060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94381588"
-    },
-    {
-      "id": "ci40672010",
-      "lon": -115.8215,
-      "lat": 33.3075,
-      "depth": 11.26,
-      "mag": 1.08,
-      "place": "9 km WSW of Bombay Beach, CA",
-      "time": 1786644686040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672010"
-    },
-    {
-      "id": "uw714078391",
-      "lon": -122.9865,
-      "lat": 48.6533333333333,
-      "depth": 17.32,
-      "mag": 0.11,
-      "place": "6 km NNW of Orcas, Washington",
-      "time": 1786644655360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714078391"
-    },
-    {
-      "id": "uu80148626",
-      "lon": -112.883333333333,
-      "lat": 38.5166666666667,
-      "depth": 3.34,
-      "mag": 1.53,
-      "place": "17 km NE of Milford, Utah",
-      "time": 1786644635560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148626"
-    },
-    {
-      "id": "uw714078381",
-      "lon": -121.680166666667,
-      "lat": 42.0293333333333,
-      "depth": -1.57,
-      "mag": 2.03,
-      "place": "6 km W of Merrill, Oregon",
-      "time": 1786644194430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714078381"
     }
   ]
 }
