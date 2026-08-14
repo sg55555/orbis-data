@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-14T23:32:16Z",
-  "count": 268,
+  "updated": "2026-08-14T23:45:32Z",
+  "count": 267,
   "points": [
     {
       "id": "nc75418427",
@@ -34,6 +34,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pyuozw"
     },
     {
+      "id": "us6000tkv7",
+      "lon": 120.4166,
+      "lat": -8.1694,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "49 km N of Ruteng, Indonesia",
+      "time": 1786749151091,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkv7"
+    },
+    {
       "id": "aka2026qbjdaz",
       "lon": -147.516,
       "lat": 64.964,
@@ -42,6 +52,16 @@
       "place": "4 km E of Fox, Alaska",
       "time": 1786748720124,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qbjdaz"
+    },
+    {
+      "id": "us6000tkv2",
+      "lon": -3.6486,
+      "lat": 37.0789,
+      "depth": 10,
+      "mag": 5.2,
+      "place": "1 km SW of Otura, Spain",
+      "time": 1786748680797,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkv2"
     },
     {
       "id": "tx2026pyufsf",
@@ -365,12 +385,12 @@
     },
     {
       "id": "ci40672874",
-      "lon": -117.701833333333,
-      "lat": 35.8781666666667,
-      "depth": 4.19,
-      "mag": 0.72,
-      "place": "20 km ESE of Little Lake, CA",
-      "time": 1786739695760,
+      "lon": -117.702666666667,
+      "lat": 35.8785,
+      "depth": 4.26,
+      "mag": 0.6,
+      "place": "19 km ESE of Little Lake, CA",
+      "time": 1786739695730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672874"
     },
     {
@@ -2652,36 +2672,6 @@
       "place": "93 km E of Nikolski, Alaska",
       "time": 1786664923434,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pzooat"
-    },
-    {
-      "id": "aka2026pzokei",
-      "lon": -166.97,
-      "lat": 53.613,
-      "depth": 11.7,
-      "mag": 1.9,
-      "place": "40 km SW of Unalaska, Alaska",
-      "time": 1786664649622,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pzokei"
-    },
-    {
-      "id": "tx2026pwzswu",
-      "lon": -98.987,
-      "lat": 28.815,
-      "depth": 7.4418,
-      "mag": 2.5,
-      "place": "13 km SE of Pearsall, Texas",
-      "time": 1786664403775,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pwzswu"
-    },
-    {
-      "id": "ok2026pvbh",
-      "lon": -95.99183333,
-      "lat": 34.68316667,
-      "depth": 5,
-      "mag": 1.5,
-      "place": "4 km NE of Wardville, Oklahoma",
-      "time": 1786663960030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pvbh"
     }
   ]
 }
