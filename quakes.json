@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-14T20:15:35Z",
-  "count": 243,
+  "updated": "2026-08-14T20:30:44Z",
+  "count": 242,
   "points": [
+    {
+      "id": "hv75018847",
+      "lon": -155.494003295898,
+      "lat": 19.1224994659424,
+      "depth": 30.5499992370605,
+      "mag": 1.82,
+      "place": "9 km S of Pāhala, Hawaii",
+      "time": 1786738670970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018847"
+    },
     {
       "id": "nn00923299",
       "lon": -119.0267,
@@ -25,12 +35,12 @@
     },
     {
       "id": "tx2026pynysw",
-      "lon": -104.232,
-      "lat": 31.651,
-      "depth": 7.2382,
-      "mag": 1.9,
-      "place": "55 km NW of Toyah, Texas",
-      "time": 1786737229405,
+      "lon": -104.216,
+      "lat": 31.648,
+      "depth": 6.1383,
+      "mag": 1.8,
+      "place": "54 km NW of Toyah, Texas",
+      "time": 1786737230361,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pynysw"
     },
     {
@@ -102,6 +112,16 @@
       "place": "9 km NNW of Borrego Springs, CA",
       "time": 1786734147610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672802"
+    },
+    {
+      "id": "uu80148811",
+      "lon": -112.884666666667,
+      "lat": 38.5166666666667,
+      "depth": 1.73,
+      "mag": 1.03,
+      "place": "17 km NE of Milford, Utah",
+      "time": 1786734083790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148811"
     },
     {
       "id": "nc75418307",
@@ -2402,36 +2422,6 @@
       "place": "42 km NW of Toyah, Texas",
       "time": 1786653185988,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pwtnnb"
-    },
-    {
-      "id": "aka2026pzhxil",
-      "lon": -161.504,
-      "lat": 54.379,
-      "depth": 5.4,
-      "mag": 2.7,
-      "place": "92 km SE of King Cove, Alaska",
-      "time": 1786652967378,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pzhxil"
-    },
-    {
-      "id": "ci40672146",
-      "lon": -116.978166666667,
-      "lat": 32.6295,
-      "depth": -0.43,
-      "mag": 1.33,
-      "place": "6 km ESE of Bonita, CA",
-      "time": 1786652942200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672146"
-    },
-    {
-      "id": "aka2026pzhtah",
-      "lon": -172.639,
-      "lat": 65.428,
-      "depth": 10.9,
-      "mag": 3.6,
-      "place": "44 km WSW of Lorino, Russia",
-      "time": 1786652676504,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pzhtah"
     }
   ]
 }
