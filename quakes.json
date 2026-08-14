@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-14T21:35:38Z",
-  "count": 248,
+  "updated": "2026-08-14T21:56:29Z",
+  "count": 249,
   "points": [
+    {
+      "id": "ci40672914",
+      "lon": -116.79,
+      "lat": 33.9961666666667,
+      "depth": 14.31,
+      "mag": 1.14,
+      "place": "9 km N of Cabazon, CA",
+      "time": 1786744109860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672914"
+    },
+    {
+      "id": "nc75418417",
+      "lon": -121.24683380127,
+      "lat": 35.8810005187988,
+      "depth": 9.77999973297119,
+      "mag": 0.94,
+      "place": "27 km N of San Simeon, CA",
+      "time": 1786743990020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418417"
+    },
     {
       "id": "nc75418397",
       "lon": -122.766998291016,
@@ -15,12 +35,12 @@
     },
     {
       "id": "ci40672890",
-      "lon": -115.035333333333,
-      "lat": 33.151,
-      "depth": 7.28,
-      "mag": 1.63,
-      "place": "45 km E of Calipatria, CA",
-      "time": 1786742244980,
+      "lon": -114.990833333333,
+      "lat": 33.0515,
+      "depth": -0.2,
+      "mag": 1.2,
+      "place": "45 km NE of Holtville, CA",
+      "time": 1786742246340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672890"
     },
     {
@@ -1964,6 +1984,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672250"
     },
     {
+      "id": "av94382393",
+      "lon": -176.597333333333,
+      "lat": 51.86,
+      "depth": 4.87,
+      "mag": 0.64,
+      "place": "2 km ESE of Adak, Alaska",
+      "time": 1786677408660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94382393"
+    },
+    {
       "id": "ci40672234",
       "lon": -117.803833333333,
       "lat": 36.0103333333333,
@@ -2084,6 +2114,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417962"
     },
     {
+      "id": "av93065774",
+      "lon": -176.006,
+      "lat": 52.0696666666667,
+      "depth": 8.77,
+      "mag": -0.2,
+      "place": "48 km ENE of Adak, Alaska",
+      "time": 1786670596390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065774"
+    },
+    {
       "id": "us6000tkkw",
       "lon": 125.1585,
       "lat": 5.3865,
@@ -2182,6 +2222,16 @@
       "place": "46 km W of Nanwalek, Alaska",
       "time": 1786666437497,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pzpjzk"
+    },
+    {
+      "id": "av94382123",
+      "lon": -168.269333333333,
+      "lat": 53.3551666666667,
+      "depth": 5.5,
+      "mag": -0.34,
+      "place": "60 km NE of Nikolski, Alaska",
+      "time": 1786666160810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94382123"
     },
     {
       "id": "tx2026pxaoqj",
@@ -2442,46 +2492,6 @@
       "place": "4 km S of Pāhala, Hawaii",
       "time": 1786658523930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018232"
-    },
-    {
-      "id": "aka2026pzkiqi",
-      "lon": -175.286,
-      "lat": 51.728,
-      "depth": 113.5,
-      "mag": 2.5,
-      "place": "90 km SW of Atka, Alaska",
-      "time": 1786657391975,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pzkiqi"
-    },
-    {
-      "id": "ok2026puxo",
-      "lon": -97.89683333,
-      "lat": 35.023,
-      "depth": 10.74,
-      "mag": 1.07,
-      "place": "4 km SE of Chickasha, Oklahoma",
-      "time": 1786657203450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026puxo"
-    },
-    {
-      "id": "hv75018227",
-      "lon": -155.373001098633,
-      "lat": 19.1280002593994,
-      "depth": 27.3700008392334,
-      "mag": 1.95,
-      "place": "13 km SE of Pāhala, Hawaii",
-      "time": 1786657150620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018227"
-    },
-    {
-      "id": "hv75018222",
-      "lon": -155.488006591797,
-      "lat": 19.1753330230713,
-      "depth": 26.2000007629395,
-      "mag": 1.72,
-      "place": "3 km SSW of Pāhala, Hawaii",
-      "time": 1786656997750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018222"
     }
   ]
 }
