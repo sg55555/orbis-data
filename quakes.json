@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-14T01:00:53Z",
-  "count": 244,
+  "updated": "2026-08-14T01:15:32Z",
+  "count": 247,
   "points": [
+    {
+      "id": "ci40672202",
+      "lon": -116.031,
+      "lat": 33.1621666666667,
+      "depth": 0.02,
+      "mag": 1.98,
+      "place": "10 km ENE of Ocotillo Wells, CA",
+      "time": 1786669256110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672202"
+    },
     {
       "id": "nc75417927",
       "lon": -121.17749786377,
@@ -152,6 +162,16 @@
       "place": "7 km NW of Pinnacles, CA",
       "time": 1786663350760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417842"
+    },
+    {
+      "id": "us6000tkkb",
+      "lon": 71.0489,
+      "lat": 36.9807,
+      "depth": 110.31,
+      "mag": 4.2,
+      "place": "23 km NE of Jurm, Afghanistan",
+      "time": 1786662717925,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkkb"
     },
     {
       "id": "nc75417827",
@@ -794,6 +814,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417587"
     },
     {
+      "id": "av94381373",
+      "lon": -178.791,
+      "lat": 51.674,
+      "depth": 12.87,
+      "mag": 1.54,
+      "place": "150 km W of Adak, Alaska",
+      "time": 1786637285870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94381373"
+    },
+    {
       "id": "nc75417582",
       "lon": -122.149,
       "lat": 37.7568333333333,
@@ -812,6 +842,16 @@
       "place": "3 km NNE of San Leandro, CA",
       "time": 1786637238710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417577"
+    },
+    {
+      "id": "av94381368",
+      "lon": -155.366333333333,
+      "lat": 58.1671666666667,
+      "depth": 1.61,
+      "mag": 0.3,
+      "place": "85 km NW of Karluk, Alaska",
+      "time": 1786637148510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94381368"
     },
     {
       "id": "nc75417557",
@@ -2432,16 +2472,6 @@
       "place": "95 km S of King Cove, Alaska",
       "time": 1786584134495,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tke6"
-    },
-    {
-      "id": "tx2026pvgyry",
-      "lon": -102.098,
-      "lat": 32.378,
-      "depth": 8.1787,
-      "mag": 0.6,
-      "place": "39 km WSW of Ackerly, Texas",
-      "time": 1786583346193,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pvgyry"
     }
   ]
 }
