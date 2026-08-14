@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-14T19:30:48Z",
-  "count": 244,
+  "updated": "2026-08-14T19:45:32Z",
+  "count": 241,
   "points": [
+    {
+      "id": "tx2026pynavk",
+      "lon": -103.393,
+      "lat": 31.068,
+      "depth": 2.0473,
+      "mag": 1.6,
+      "place": "34 km ENE of Balmorhea, Texas",
+      "time": 1786735577585,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pynavk"
+    },
     {
       "id": "ci40672810",
       "lon": -116.6865,
@@ -214,6 +224,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkrq"
     },
     {
+      "id": "uw714079171",
+      "lon": -121.886833333333,
+      "lat": 46.8435,
+      "depth": 6.47,
+      "mag": -0.29,
+      "place": "14 km NE of Ashford, Washington",
+      "time": 1786729103740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714079171"
+    },
+    {
       "id": "ci40672706",
       "lon": -116.243166666667,
       "lat": 32.9141666666667,
@@ -225,12 +245,12 @@
     },
     {
       "id": "ci40672690",
-      "lon": -117.176333333333,
-      "lat": 34.0268333333333,
-      "depth": 4.16,
-      "mag": 1.15,
-      "place": "3 km S of Redlands, CA",
-      "time": 1786728736440,
+      "lon": -117.175,
+      "lat": 34.0278333333333,
+      "depth": 4.02,
+      "mag": 1.14,
+      "place": "3 km SSE of Redlands, CA",
+      "time": 1786728736460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672690"
     },
     {
@@ -595,12 +615,12 @@
     },
     {
       "id": "ci40672466",
-      "lon": -116.708166666667,
-      "lat": 33.5396666666667,
-      "depth": 5.75,
-      "mag": 1.2,
+      "lon": -116.711,
+      "lat": 33.5376666666667,
+      "depth": 6.25,
+      "mag": 0.1,
       "place": "4 km WSW of Anza, CA",
-      "time": 1786712509470,
+      "time": 1786712509410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672466"
     },
     {
@@ -2392,56 +2412,6 @@
       "place": "63 km WNW of Happy Valley, Alaska",
       "time": 1786650467656,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pzgnfd"
-    },
-    {
-      "id": "uw714078461",
-      "lon": -117.906166666667,
-      "lat": 48.209,
-      "depth": -0.96,
-      "mag": 1.07,
-      "place": "14 km WNW of Valley, Washington",
-      "time": 1786649935910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714078461"
-    },
-    {
-      "id": "aka2026pzgdyf",
-      "lon": -177.747,
-      "lat": 51.455,
-      "depth": 57.2,
-      "mag": 2,
-      "place": "90 km WSW of Adak, Alaska",
-      "time": 1786649826936,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pzgdyf"
-    },
-    {
-      "id": "nc75417682",
-      "lon": -122.793663024902,
-      "lat": 38.8196678161621,
-      "depth": 2.92000007629395,
-      "mag": 1.08,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1786649805200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417682"
-    },
-    {
-      "id": "hv75018072",
-      "lon": -155.484161376953,
-      "lat": 19.1466674804688,
-      "depth": 25.8299999237061,
-      "mag": 1.72,
-      "place": "6 km S of Pāhala, Hawaii",
-      "time": 1786649750450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018072"
-    },
-    {
-      "id": "aka2026pzgbuk",
-      "lon": -139.784,
-      "lat": 60.595,
-      "depth": 1.6,
-      "mag": 1.9,
-      "place": "116 km N of Yakutat, Alaska",
-      "time": 1786649678237,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pzgbuk"
     }
   ]
 }
