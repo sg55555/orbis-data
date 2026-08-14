@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-14T10:35:58Z",
-  "count": 232,
+  "updated": "2026-08-14T10:45:35Z",
+  "count": 231,
   "points": [
+    {
+      "id": "nn00923296",
+      "lon": -119.0558,
+      "lat": 39.3155,
+      "depth": 9.8001,
+      "mag": 1.75,
+      "place": "18 km SE of Silver Springs, Nevada",
+      "time": 1786704167997,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923296"
+    },
     {
       "id": "nc75418142",
       "lon": -122.795333862305,
@@ -2302,26 +2312,6 @@
       "place": "3 km NE of Prattville, CA",
       "time": 1786617927660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417472"
-    },
-    {
-      "id": "aka2026pyoega",
-      "lon": -169.828,
-      "lat": 52.314,
-      "depth": 10.7,
-      "mag": 2.3,
-      "place": "95 km SW of Nikolski, Alaska",
-      "time": 1786617458723,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pyoega"
-    },
-    {
-      "id": "nc75417467",
-      "lon": -122.788665771484,
-      "lat": 38.836498260498,
-      "depth": 1.83000004291534,
-      "mag": 1.02,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1786617385570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417467"
     }
   ]
 }
