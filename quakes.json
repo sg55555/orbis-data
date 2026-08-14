@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-14T19:00:56Z",
-  "count": 247,
+  "updated": "2026-08-14T19:09:01Z",
+  "count": 248,
   "points": [
+    {
+      "id": "ci40672802",
+      "lon": -116.199666666667,
+      "lat": 32.8608333333333,
+      "depth": 28.54,
+      "mag": 1.17,
+      "place": "24 km NW of Ocotillo, CA",
+      "time": 1786734139510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672802"
+    },
+    {
+      "id": "nc75418307",
+      "lon": -122.754501342773,
+      "lat": 38.7939987182617,
+      "depth": 3.59999990463257,
+      "mag": 1.26,
+      "place": "2 km N of The Geysers, CA",
+      "time": 1786733989910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418307"
+    },
     {
       "id": "aka2026qbavul",
       "lon": -152.197,
@@ -82,6 +102,16 @@
       "place": "58 km WNW of Skwentna, Alaska",
       "time": 1786731624800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qazpzy"
+    },
+    {
+      "id": "ci40672762",
+      "lon": -117.931333333333,
+      "lat": 34.1751666666667,
+      "depth": -1.17,
+      "mag": 0.87,
+      "place": "5 km NE of Bradbury, CA",
+      "time": 1786731495400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672762"
     },
     {
       "id": "ci40672746",
@@ -2452,26 +2482,6 @@
       "place": "122 km ESE of McCarthy, Alaska",
       "time": 1786648119812,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pzffgx"
-    },
-    {
-      "id": "ci40672066",
-      "lon": -117.665666666667,
-      "lat": 35.8768333333333,
-      "depth": 11.24,
-      "mag": 0.82,
-      "place": "23 km ESE of Little Lake, CA",
-      "time": 1786647850860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672066"
-    },
-    {
-      "id": "ci40672058",
-      "lon": -117.663333333333,
-      "lat": 35.8743333333333,
-      "depth": 11.52,
-      "mag": 0.42,
-      "place": "23 km ESE of Little Lake, CA",
-      "time": 1786647621520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672058"
     }
   ]
 }
