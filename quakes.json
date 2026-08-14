@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-14T03:15:31Z",
-  "count": 253,
+  "updated": "2026-08-14T03:30:45Z",
+  "count": 248,
   "points": [
+    {
+      "id": "ci40672250",
+      "lon": -116.452333333333,
+      "lat": 33.041,
+      "depth": 15.01,
+      "mag": 1.31,
+      "place": "15 km ESE of Julian, CA",
+      "time": 1786677698820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672250"
+    },
     {
       "id": "ci40672234",
       "lon": -117.803833333333,
@@ -2472,66 +2482,6 @@
       "place": "61 km N of Chignik, Alaska",
       "time": 1786592250010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94380148"
-    },
-    {
-      "id": "av93065734",
-      "lon": -169.887,
-      "lat": 52.8386666666667,
-      "depth": 5.93,
-      "mag": 0.11,
-      "place": "69 km W of Nikolski, Alaska",
-      "time": 1786591741640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065734"
-    },
-    {
-      "id": "aka2026pxzuox",
-      "lon": -150.938,
-      "lat": 61.909,
-      "depth": 73.9,
-      "mag": 1.7,
-      "place": "25 km ESE of Skwentna, Alaska",
-      "time": 1786591605376,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pxzuox"
-    },
-    {
-      "id": "nc75417302",
-      "lon": -122.145668029785,
-      "lat": 37.7506675720215,
-      "depth": 4.28999996185303,
-      "mag": 2.17,
-      "place": "3 km NNE of San Leandro, CA",
-      "time": 1786591590060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417302"
-    },
-    {
-      "id": "ci40671586",
-      "lon": -116.6535,
-      "lat": 33.4241666666667,
-      "depth": 4.88,
-      "mag": 0.51,
-      "place": "15 km S of Anza, CA",
-      "time": 1786591552510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671586"
-    },
-    {
-      "id": "hv75018856",
-      "lon": -155.342333333333,
-      "lat": 19.1933333333333,
-      "depth": 28.33,
-      "mag": 2.35,
-      "place": "14 km E of Pāhala, Hawaii",
-      "time": 1786591535800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018856"
-    },
-    {
-      "id": "aka2026pxzpgc",
-      "lon": -165.442,
-      "lat": 53.516,
-      "depth": 20,
-      "mag": 1.9,
-      "place": "72 km SSE of Akutan, Alaska",
-      "time": 1786591235497,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pxzpgc"
     }
   ]
 }
