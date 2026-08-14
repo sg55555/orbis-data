@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-14T04:15:36Z",
-  "count": 242,
+  "updated": "2026-08-14T04:30:42Z",
+  "count": 240,
   "points": [
+    {
+      "id": "nc75418042",
+      "lon": -122.042167663574,
+      "lat": 37.9706649780273,
+      "depth": 14.5,
+      "mag": 1.47,
+      "place": "2 km W of Concord, CA",
+      "time": 1786680953950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418042"
+    },
     {
       "id": "nc75418037",
       "lon": -122.79133605957,
@@ -2392,36 +2402,6 @@
       "place": "17 km NE of Milford, Utah",
       "time": 1786595832210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148526"
-    },
-    {
-      "id": "aka2026pybwbk",
-      "lon": -151.405,
-      "lat": 58.654,
-      "depth": 28,
-      "mag": 1.8,
-      "place": "81 km SSE of Port Graham, Alaska",
-      "time": 1786595303017,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pybwbk"
-    },
-    {
-      "id": "ci40671610",
-      "lon": -118.665666666667,
-      "lat": 35.3193333333333,
-      "depth": 6.97,
-      "mag": 1.33,
-      "place": "19 km NE of Arvin, CA",
-      "time": 1786595054720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671610"
-    },
-    {
-      "id": "us6000tkdf",
-      "lon": 74.2629,
-      "lat": 36.8572,
-      "depth": 57.968,
-      "mag": 4.3,
-      "place": "70 km NNW of Barishal, Pakistan",
-      "time": 1786595053980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkdf"
     }
   ]
 }
