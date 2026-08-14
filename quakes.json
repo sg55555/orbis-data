@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-14T20:45:33Z",
-  "count": 248,
+  "updated": "2026-08-14T21:00:56Z",
+  "count": 249,
   "points": [
     {
+      "id": "nc75418372",
+      "lon": -118.837997436523,
+      "lat": 37.4544982910156,
+      "depth": 6.44999980926514,
+      "mag": 2.4,
+      "place": "18 km SW of Toms Place, CA",
+      "time": 1786740323330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418372"
+    },
+    {
       "id": "aka2026qbekdq",
-      "lon": -150.994,
-      "lat": 61.91,
-      "depth": 70.3,
-      "mag": 3,
-      "place": "23 km ESE of Skwentna, Alaska",
-      "time": 1786740215744,
+      "lon": -151.007,
+      "lat": 61.944,
+      "depth": 64.7,
+      "mag": 3.1,
+      "place": "21 km ESE of Skwentna, Alaska",
+      "time": 1786740216317,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qbekdq"
     },
     {
@@ -25,23 +35,13 @@
     },
     {
       "id": "uw714079301",
-      "lon": -122.81566619873,
-      "lat": 44.6166648864746,
-      "depth": 16.3899993896484,
-      "mag": 2.0018972158432,
-      "place": "6 km WNW of Lacomb, Oregon",
-      "time": 1786739888230,
+      "lon": -122.799333333333,
+      "lat": 44.6298333333333,
+      "depth": 12.76,
+      "mag": 1.73,
+      "place": "6 km NW of Lacomb, Oregon",
+      "time": 1786739888500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714079301"
-    },
-    {
-      "id": "tx2026pypiua",
-      "lon": -102.171,
-      "lat": 31.989,
-      "depth": 3.4752,
-      "mag": 1.8,
-      "place": "8 km W of Midland, Texas",
-      "time": 1786739738375,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pypiua"
     },
     {
       "id": "nc75418357",
@@ -62,6 +62,16 @@
       "place": "20 km ESE of Little Lake, CA",
       "time": 1786739695760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672874"
+    },
+    {
+      "id": "uw714079291",
+      "lon": -122.1885,
+      "lat": 46.2025,
+      "depth": 0.9,
+      "mag": 0.33,
+      "place": "38 km NNE of Amboy, Washington",
+      "time": 1786739679720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714079291"
     },
     {
       "id": "ci40672866",
@@ -102,6 +112,16 @@
       "place": "18 km ESE of Silver Springs, Nevada",
       "time": 1786738004774,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923299"
+    },
+    {
+      "id": "uu80148821",
+      "lon": -111.725,
+      "lat": 40.9326666666667,
+      "depth": 6.84,
+      "mag": 1.18,
+      "place": "12 km SSW of Morgan, Utah",
+      "time": 1786737996320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148821"
     },
     {
       "id": "aka2026qbddbh",
@@ -712,6 +732,16 @@
       "place": "12 km ENE of Desert Hot Springs, CA",
       "time": 1786717572530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672514"
+    },
+    {
+      "id": "av94383363",
+      "lon": -178.893166666667,
+      "lat": 51.7995,
+      "depth": 2.36,
+      "mag": 0.92,
+      "place": "155 km W of Adak, Alaska",
+      "time": 1786717302860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94383363"
     },
     {
       "id": "nc75418217",
@@ -2462,26 +2492,6 @@
       "place": "3 km NE of Sasakwa, Oklahoma",
       "time": 1786654938269,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026puwh"
-    },
-    {
-      "id": "uw714078551",
-      "lon": -121.825,
-      "lat": 42.3135,
-      "depth": -1.82,
-      "mag": 1.87,
-      "place": "10 km NNW of Klamath Falls, Oregon",
-      "time": 1786654701400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714078551"
-    },
-    {
-      "id": "aka2026pzinui",
-      "lon": -139.985,
-      "lat": 60.51,
-      "depth": 5,
-      "mag": 1.8,
-      "place": "108 km N of Yakutat, Alaska",
-      "time": 1786654107684,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pzinui"
     }
   ]
 }
