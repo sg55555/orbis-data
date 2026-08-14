@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-14T22:30:56Z",
-  "count": 256,
+  "updated": "2026-08-14T22:35:26Z",
+  "count": 257,
   "points": [
+    {
+      "id": "aka2026qbhztk",
+      "lon": -150.053,
+      "lat": 60.741,
+      "depth": 32.1,
+      "mag": 2.9,
+      "place": "29 km SW of Hope, Alaska",
+      "time": 1786746693892,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qbhztk"
+    },
+    {
+      "id": "tx2026pytcln",
+      "lon": -103.848,
+      "lat": 31.444,
+      "depth": 0.2525,
+      "mag": 1.6,
+      "place": "15 km NNW of Toyah, Texas",
+      "time": 1786746537092,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pytcln"
+    },
     {
       "id": "uu80148836",
       "lon": -112.883333333333,
@@ -1754,6 +1774,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418067"
     },
     {
+      "id": "av94382718",
+      "lon": -153.0575,
+      "lat": 60.016,
+      "depth": 1.46,
+      "mag": -0.81,
+      "place": "63 km ENE of Pedro Bay, Alaska",
+      "time": 1786690897240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94382718"
+    },
+    {
       "id": "av94382713",
       "lon": -168.223666666667,
       "lat": 53.3338333333333,
@@ -2542,26 +2572,6 @@
       "place": "70 km WNW of Tyonek, Alaska",
       "time": 1786661071210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94381968"
-    },
-    {
-      "id": "ci40672178",
-      "lon": -116.034,
-      "lat": 33.1725,
-      "depth": 5.52,
-      "mag": 0.85,
-      "place": "10 km ENE of Ocotillo Wells, CA",
-      "time": 1786660409170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672178"
-    },
-    {
-      "id": "av94381948",
-      "lon": -168.277833333333,
-      "lat": 53.3211666666667,
-      "depth": 9.75,
-      "mag": 1.07,
-      "place": "57 km NE of Nikolski, Alaska",
-      "time": 1786660221530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94381948"
     }
   ]
 }
