@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-14T17:05:51Z",
-  "count": 237,
+  "updated": "2026-08-14T17:15:33Z",
+  "count": 240,
   "points": [
+    {
+      "id": "nc75418302",
+      "lon": -122.929664611816,
+      "lat": 38.779167175293,
+      "depth": 4.09000015258789,
+      "mag": 1.31,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": 1786727472190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418302"
+    },
+    {
+      "id": "us6000tkrg",
+      "lon": 48.7787,
+      "lat": 41.1279,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "19 km WSW of Divichibazar, Azerbaijan",
+      "time": 1786726574767,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkrg"
+    },
     {
       "id": "tx2026pyhydp",
       "lon": -101.823,
@@ -25,13 +45,23 @@
     },
     {
       "id": "tx2026pyhofl",
-      "lon": -103.92,
-      "lat": 31.445,
-      "depth": 5.2218,
+      "lon": -103.936,
+      "lat": 31.426,
+      "depth": 2.8695,
       "mag": 1.5,
       "place": "18 km NW of Toyah, Texas",
-      "time": 1786725652204,
+      "time": 1786725652929,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pyhofl"
+    },
+    {
+      "id": "uu80148781",
+      "lon": -112.884333333333,
+      "lat": 38.5128333333333,
+      "depth": 1.67,
+      "mag": 1.52,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1786725446870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148781"
     },
     {
       "id": "aka2026qavyyg",
@@ -52,6 +82,26 @@
       "place": "20 km S of Honaunau-Napoopoo, Hawaii",
       "time": 1786724779130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018722"
+    },
+    {
+      "id": "uu80148776",
+      "lon": -112.888833333333,
+      "lat": 38.517,
+      "depth": 2.39,
+      "mag": 0.88,
+      "place": "17 km NE of Milford, Utah",
+      "time": 1786724434590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148776"
+    },
+    {
+      "id": "uu80148771",
+      "lon": -112.884333333333,
+      "lat": 38.5085,
+      "depth": 2.33,
+      "mag": 1.24,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1786724368120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148771"
     },
     {
       "id": "ci40672594",
@@ -2352,26 +2402,6 @@
       "place": "1 km SW of Redlands, CA",
       "time": 1786641500700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671978"
-    },
-    {
-      "id": "ci40671970",
-      "lon": -117.194333333333,
-      "lat": 34.05,
-      "depth": 6.6,
-      "mag": 0.95,
-      "place": "1 km WSW of Redlands, CA",
-      "time": 1786641293860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671970"
-    },
-    {
-      "id": "ci40671962",
-      "lon": -117.193666666667,
-      "lat": 34.0465,
-      "depth": 5.71,
-      "mag": 1.19,
-      "place": "1 km SW of Redlands, CA",
-      "time": 1786641270550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671962"
     }
   ]
 }
