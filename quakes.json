@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-14T09:30:46Z",
-  "count": 242,
+  "updated": "2026-08-14T09:45:32Z",
+  "count": 241,
   "points": [
     {
       "id": "nc75418112",
@@ -702,6 +702,16 @@
       "place": "55 km NW of Toyah, Texas",
       "time": 1786668914518,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pxcfqe"
+    },
+    {
+      "id": "tx2026pxcend",
+      "lon": -101.819,
+      "lat": 32.143,
+      "depth": 7.2998,
+      "mag": 0.7,
+      "place": "3 km WNW of Stanton, Texas",
+      "time": 1786668833853,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pxcend"
     },
     {
       "id": "nc75417917",
@@ -2402,26 +2412,6 @@
       "place": "5 km ENE of Borrego Springs, CA",
       "time": 1786614815700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671674"
-    },
-    {
-      "id": "aka2026pylytt",
-      "lon": -169.823,
-      "lat": 52.358,
-      "depth": 11.3,
-      "mag": 2.6,
-      "place": "91 km SW of Nikolski, Alaska",
-      "time": 1786613485774,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pylytt"
-    },
-    {
-      "id": "ci40671666",
-      "lon": -116.249666666667,
-      "lat": 32.913,
-      "depth": 7.82,
-      "mag": 2.63,
-      "place": "28 km SSW of Ocotillo Wells, CA",
-      "time": 1786613478030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671666"
     }
   ]
 }
