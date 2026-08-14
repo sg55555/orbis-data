@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-14T09:16:24Z",
-  "count": 246,
+  "updated": "2026-08-14T09:30:46Z",
+  "count": 242,
   "points": [
+    {
+      "id": "nc75418112",
+      "lon": -122.071998596191,
+      "lat": 37.8261680603027,
+      "depth": 11.5,
+      "mag": 0.64,
+      "place": "4 km SW of Alamo, CA",
+      "time": 1786699068170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418112"
+    },
     {
       "id": "aka2026qahkyn",
       "lon": -152.956,
@@ -82,6 +92,16 @@
       "place": "53 km WNW of Nanwalek, Alaska",
       "time": 1786696858646,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qaghpk"
+    },
+    {
+      "id": "us6000tkml",
+      "lon": 58.4214,
+      "lat": 36.1183,
+      "depth": 10,
+      "mag": 4.2,
+      "place": "35 km WSW of Neyshābūr, Iran",
+      "time": 1786696145807,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkml"
     },
     {
       "id": "aka2026qafrlh",
@@ -752,6 +772,16 @@
       "place": "44 km NW of Toyah, Texas",
       "time": 1786665867135,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pxanqg"
+    },
+    {
+      "id": "tx2026pxajav",
+      "lon": -101.708,
+      "lat": 31.865,
+      "depth": 7.7881,
+      "mag": 0.9,
+      "place": "21 km W of Garden City, Texas",
+      "time": 1786665530668,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pxajav"
     },
     {
       "id": "aka2026pzotob",
@@ -2392,76 +2422,6 @@
       "place": "28 km SSW of Ocotillo Wells, CA",
       "time": 1786613478030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671666"
-    },
-    {
-      "id": "nc75417437",
-      "lon": -121.173332214355,
-      "lat": 36.5736656188965,
-      "depth": 4.09999990463257,
-      "mag": 1.92,
-      "place": "5 km NNW of Pinnacles, CA",
-      "time": 1786613187460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417437"
-    },
-    {
-      "id": "tx2026pvxjlz",
-      "lon": -103.968,
-      "lat": 31.613,
-      "depth": 8.2916,
-      "mag": 2.2,
-      "place": "36 km WSW of Mentone, Texas",
-      "time": 1786613061432,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pvxjlz"
-    },
-    {
-      "id": "us6000tkfh",
-      "lon": 125.8789,
-      "lat": 6.2479,
-      "depth": 91.206,
-      "mag": 5.1,
-      "place": "22 km ENE of Lapuan, Philippines",
-      "time": 1786612978999,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkfh"
-    },
-    {
-      "id": "nc75417432",
-      "lon": -122.880668640137,
-      "lat": 38.8428344726562,
-      "depth": 2.50999999046326,
-      "mag": 0.63,
-      "place": "13 km ENE of Cloverdale, CA",
-      "time": 1786612946020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417432"
-    },
-    {
-      "id": "tx2026pvxhir",
-      "lon": -103.491,
-      "lat": 31.383,
-      "depth": 2.3059,
-      "mag": 1.7,
-      "place": "4 km S of Pecos, Texas",
-      "time": 1786612926907,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pvxhir"
-    },
-    {
-      "id": "nc75417427",
-      "lon": -122.255668640137,
-      "lat": 40.8448333740234,
-      "depth": 13.1099996566772,
-      "mag": 1.88,
-      "place": "21 km NNE of Shasta Lake, CA",
-      "time": 1786612799260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417427"
-    },
-    {
-      "id": "pr71528358",
-      "lon": -66.8171666666667,
-      "lat": 17.9841666666667,
-      "depth": 18.04,
-      "mag": 2.2,
-      "place": "1 km SSE of Indios, Puerto Rico",
-      "time": 1786612774440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528358"
     }
   ]
 }
