@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-14T19:09:01Z",
-  "count": 248,
+  "updated": "2026-08-14T19:28:54Z",
+  "count": 245,
   "points": [
     {
+      "id": "ci40672810",
+      "lon": -116.6865,
+      "lat": 33.5295,
+      "depth": 8.7,
+      "mag": 0.36,
+      "place": "3 km SSW of Anza, CA",
+      "time": 1786734802090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672810"
+    },
+    {
+      "id": "nc75418312",
+      "lon": -122.737831115723,
+      "lat": 38.8038330078125,
+      "depth": 0.899999976158142,
+      "mag": 1.03,
+      "place": "2 km SSW of Cobb, CA",
+      "time": 1786734793710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418312"
+    },
+    {
       "id": "ci40672802",
-      "lon": -116.199666666667,
-      "lat": 32.8608333333333,
-      "depth": 28.54,
-      "mag": 1.17,
-      "place": "24 km NW of Ocotillo, CA",
-      "time": 1786734139510,
+      "lon": -116.398333333333,
+      "lat": 33.3366666666667,
+      "depth": 7.23,
+      "mag": 0.55,
+      "place": "9 km NNW of Borrego Springs, CA",
+      "time": 1786734147610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672802"
     },
     {
@@ -35,12 +55,12 @@
     },
     {
       "id": "ci40672786",
-      "lon": -118.3445,
-      "lat": 35.0556666666667,
-      "depth": -0.98,
+      "lon": -118.347,
+      "lat": 35.0541666666667,
+      "depth": -1.01,
       "mag": 1.51,
       "place": "13 km SE of Tehachapi, CA",
-      "time": 1786733373960,
+      "time": 1786733373870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672786"
     },
     {
@@ -55,12 +75,12 @@
     },
     {
       "id": "tx2026pylpop",
-      "lon": -103.783,
-      "lat": 31.022,
-      "depth": 0,
+      "lon": -103.696,
+      "lat": 31.054,
+      "depth": 0.9601,
       "mag": 1.6,
-      "place": "5 km NW of Balmorhea, Texas",
-      "time": 1786732969083,
+      "place": "9 km NNE of Balmorhea, Texas",
+      "time": 1786732966924,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pylpop"
     },
     {
@@ -1645,12 +1665,12 @@
     },
     {
       "id": "ci40672250",
-      "lon": -116.452333333333,
-      "lat": 33.041,
-      "depth": 15.01,
-      "mag": 1.31,
-      "place": "15 km ESE of Julian, CA",
-      "time": 1786677698820,
+      "lon": -116.427666666667,
+      "lat": 33.0391666666667,
+      "depth": 13.94,
+      "mag": 1.27,
+      "place": "17 km ESE of Julian, CA",
+      "time": 1786677698460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672250"
     },
     {
@@ -2432,56 +2452,6 @@
       "place": "3 km WSW of Kalama, Washington",
       "time": 1786649370150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714078441"
-    },
-    {
-      "id": "ci40672082",
-      "lon": -117.118666666667,
-      "lat": 34.623,
-      "depth": -1.5,
-      "mag": 1.11,
-      "place": "15 km NNE of Apple Valley, CA",
-      "time": 1786648858890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672082"
-    },
-    {
-      "id": "pr2026225000",
-      "lon": -67.6655,
-      "lat": 18.2241,
-      "depth": 104,
-      "mag": 3.56,
-      "place": "45 km WSW of Stella, Puerto Rico",
-      "time": 1786648603780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026225000"
-    },
-    {
-      "id": "hv75018042",
-      "lon": -155.45182800293,
-      "lat": 19.2396659851074,
-      "depth": 31.0200004577637,
-      "mag": 1.85,
-      "place": "4 km NE of Pāhala, Hawaii",
-      "time": 1786648550300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018042"
-    },
-    {
-      "id": "aka2026pzfgfd",
-      "lon": -179.76,
-      "lat": 50.977,
-      "depth": 11.2,
-      "mag": 2.5,
-      "place": "239 km WSW of Adak, Alaska",
-      "time": 1786648190313,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pzfgfd"
-    },
-    {
-      "id": "aka2026pzffgx",
-      "lon": -140.671,
-      "lat": 61.225,
-      "depth": 4,
-      "mag": 1.6,
-      "place": "122 km ESE of McCarthy, Alaska",
-      "time": 1786648119812,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pzffgx"
     }
   ]
 }
