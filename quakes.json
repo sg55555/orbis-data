@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-15T17:45:35Z",
-  "count": 275,
+  "updated": "2026-08-15T17:52:49Z",
+  "count": 273,
   "points": [
+    {
+      "id": "ci40673282",
+      "lon": -117.6975,
+      "lat": 33.8828333333333,
+      "depth": 4.55,
+      "mag": 1.23,
+      "place": "11 km E of Yorba Linda, CA",
+      "time": 1786815832820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673282"
+    },
     {
       "id": "ci40673274",
       "lon": -117.3905,
@@ -2722,36 +2732,6 @@
       "place": "8 km NNW of Mojave, CA",
       "time": 1786729936640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672738"
-    },
-    {
-      "id": "pr71528493",
-      "lon": -64.1005,
-      "lat": 18.4435,
-      "depth": 73.97,
-      "mag": 3.03,
-      "place": "74 km E of Cruz Bay, U.S. Virgin Islands",
-      "time": 1786729860190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528493"
-    },
-    {
-      "id": "ci40672730",
-      "lon": -115.625833333333,
-      "lat": 32.84,
-      "depth": 10.08,
-      "mag": 0.93,
-      "place": "5 km W of Imperial, CA",
-      "time": 1786729767250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672730"
-    },
-    {
-      "id": "us6000tkrq",
-      "lon": 158.869,
-      "lat": 51.371,
-      "depth": 35,
-      "mag": 4.5,
-      "place": "165 km E of Ozernovskiy, Russia",
-      "time": 1786729662334,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkrq"
     }
   ]
 }
