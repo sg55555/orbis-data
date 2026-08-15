@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-15T06:15:32Z",
-  "count": 285,
+  "updated": "2026-08-15T06:30:45Z",
+  "count": 281,
   "points": [
     {
+      "id": "ci40673018",
+      "lon": -116.437,
+      "lat": 33.0455,
+      "depth": 9.56,
+      "mag": 1.41,
+      "place": "16 km ESE of Julian, CA",
+      "time": 1786774867450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673018"
+    },
+    {
       "id": "hv75019107",
-      "lon": -155.241836547852,
-      "lat": 19.457332611084,
-      "depth": 21.3400001525879,
-      "mag": 2.72,
+      "lon": -155.241,
+      "lat": 19.4531666666667,
+      "depth": 21.73,
+      "mag": 2.58,
       "place": "1 km NNW of Volcano, Hawaii",
-      "time": 1786774303790,
+      "time": 1786774303760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019107"
     },
     {
@@ -2802,56 +2812,6 @@
       "place": "12 km W of Anza, CA",
       "time": 1786689829460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672306"
-    },
-    {
-      "id": "hv75018532",
-      "lon": -155.408660888672,
-      "lat": 19.2643337249756,
-      "depth": 30.9899997711182,
-      "mag": 1.87,
-      "place": "10 km NE of Pāhala, Hawaii",
-      "time": 1786689010690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018532"
-    },
-    {
-      "id": "ci40672298",
-      "lon": -116.622166666667,
-      "lat": 34.0293333333333,
-      "depth": 10.48,
-      "mag": 0.89,
-      "place": "4 km WSW of Morongo Valley, CA",
-      "time": 1786688805670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672298"
-    },
-    {
-      "id": "aka2026qabstb",
-      "lon": -151.107,
-      "lat": 62.83,
-      "depth": 106.9,
-      "mag": 2,
-      "place": "41 km NNW of Petersville, Alaska",
-      "time": 1786688633898,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qabstb"
-    },
-    {
-      "id": "nc75418052",
-      "lon": -121.177833557129,
-      "lat": 36.5563316345215,
-      "depth": 0.119999997317791,
-      "mag": 1.77,
-      "place": "4 km NW of Pinnacles, CA",
-      "time": 1786688512550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418052"
-    },
-    {
-      "id": "uu80148691",
-      "lon": -112.882,
-      "lat": 38.5066666666667,
-      "depth": 1.41,
-      "mag": 1.19,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1786688155060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148691"
     }
   ]
 }
