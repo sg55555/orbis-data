@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-15T03:30:46Z",
+  "updated": "2026-08-15T03:45:41Z",
   "count": 275,
   "points": [
+    {
+      "id": "hv75019047",
+      "lon": -155.211502075195,
+      "lat": 19.3461666107178,
+      "depth": 2.74000000953674,
+      "mag": 2.38,
+      "place": "10 km SSE of Volcano, Hawaii",
+      "time": 1786765091700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019047"
+    },
+    {
+      "id": "nc75418537",
+      "lon": -118.522003173828,
+      "lat": 37.4141654968262,
+      "depth": 12.039999961853,
+      "mag": 1.92,
+      "place": "7 km E of Round Valley, CA",
+      "time": 1786764821920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418537"
+    },
     {
       "id": "nc75418522",
       "lon": -121.411331176758,
@@ -232,6 +252,16 @@
       "place": "14 km WSW of Nenana, Alaska",
       "time": 1786753438646,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qbltfw"
+    },
+    {
+      "id": "us6000tkvg",
+      "lon": 121.2789,
+      "lat": -8.6065,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "49 km WNW of Ende, Indonesia",
+      "time": 1786753227120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvg"
     },
     {
       "id": "us6000tkvd",
@@ -2722,36 +2752,6 @@
       "place": "5 km NW of The Geysers, CA",
       "time": 1786680322430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418037"
-    },
-    {
-      "id": "nc75418027",
-      "lon": -122.952003479004,
-      "lat": 38.7671661376953,
-      "depth": 1.87999999523163,
-      "mag": 1.06,
-      "place": "7 km SE of Cloverdale, CA",
-      "time": 1786678678900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418027"
-    },
-    {
-      "id": "aka2026pzwdoh",
-      "lon": -141.015,
-      "lat": 62.058,
-      "depth": 5,
-      "mag": 2.3,
-      "place": "69 km S of Alcan Border, Alaska",
-      "time": 1786678587862,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pzwdoh"
-    },
-    {
-      "id": "ci40672258",
-      "lon": -116.229333333333,
-      "lat": 33.2975,
-      "depth": 11.23,
-      "mag": 2.27,
-      "place": "14 km ENE of Borrego Springs, CA",
-      "time": 1786678345750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672258"
     }
   ]
 }
