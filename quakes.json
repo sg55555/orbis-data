@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-15T06:45:34Z",
+  "updated": "2026-08-15T06:53:42Z",
   "count": 281,
   "points": [
+    {
+      "id": "ci40673026",
+      "lon": -118.436332702637,
+      "lat": 36.139331817627,
+      "depth": 4.92000007629395,
+      "mag": 2.40741029935314,
+      "place": "42 km WSW of Olancha, CA",
+      "time": 1786776573690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673026"
+    },
+    {
+      "id": "nc75418632",
+      "lon": -122.795501708984,
+      "lat": 38.8266677856445,
+      "depth": 2.82999992370605,
+      "mag": 0.62,
+      "place": "6 km W of Cobb, CA",
+      "time": 1786776551770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418632"
+    },
     {
       "id": "hv75019117",
       "lon": -155.367828369141,
@@ -12,6 +32,16 @@
       "place": "23 km ESE of Naalehu, Hawaii",
       "time": 1786775904010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019117"
+    },
+    {
+      "id": "us6000tkwq",
+      "lon": 121.3664,
+      "lat": -8.2671,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "71 km NNW of Ende, Indonesia",
+      "time": 1786775331109,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwq"
     },
     {
       "id": "ci40673018",
@@ -2782,36 +2812,6 @@
       "place": "44 km WNW of Akhiok, Alaska",
       "time": 1786690479811,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qactkq"
-    },
-    {
-      "id": "ci40672314",
-      "lon": -117.799833333333,
-      "lat": 35.3085,
-      "depth": 7.16,
-      "mag": 1.09,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1786690117060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672314"
-    },
-    {
-      "id": "hv75018542",
-      "lon": -155.401336669922,
-      "lat": 19.2674999237061,
-      "depth": 31.25,
-      "mag": 2.01,
-      "place": "10 km NE of Pāhala, Hawaii",
-      "time": 1786690070120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018542"
-    },
-    {
-      "id": "aka2026qacmgm",
-      "lon": -150.29,
-      "lat": 61.872,
-      "depth": 0.3,
-      "mag": 1.8,
-      "place": "19 km NW of Willow, Alaska",
-      "time": 1786689984307,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qacmgm"
     }
   ]
 }
