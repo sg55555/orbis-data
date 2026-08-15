@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-15T19:15:35Z",
-  "count": 265,
+  "updated": "2026-08-15T19:29:52Z",
+  "count": 267,
   "points": [
+    {
+      "id": "nc75418937",
+      "lon": -122.71866607666,
+      "lat": 38.7116661071777,
+      "depth": 1.75999999046326,
+      "mag": 1.45,
+      "place": "7 km SSW of Anderson Springs, CA",
+      "time": 1786821450300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418937"
+    },
+    {
+      "id": "us6000tl30",
+      "lon": -92.9401,
+      "lat": 14.0581,
+      "depth": 10,
+      "mag": 4.2,
+      "place": "92 km SW of Puerto Madero, Mexico",
+      "time": 1786820683241,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl30"
+    },
     {
       "id": "nc75418932",
       "lon": -122.823165893555,
@@ -32,6 +52,16 @@
       "place": "3 km NNE of San Leandro, CA",
       "time": 1786819421370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418912"
+    },
+    {
+      "id": "us6000tl31",
+      "lon": 120.6399,
+      "lat": -8.2203,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "47 km NNE of Ruteng, Indonesia",
+      "time": 1786819221369,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl31"
     },
     {
       "id": "ci40673290",
@@ -252,6 +282,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1786809591360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418857"
+    },
+    {
+      "id": "us6000tl1p",
+      "lon": 121.3861,
+      "lat": -8.2101,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "76 km NNW of Ende, Indonesia",
+      "time": 1786809152416,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl1p"
     },
     {
       "id": "nc75418852",
@@ -2632,26 +2672,6 @@
       "place": "21 km W of Garden City, Texas",
       "time": 1786736338794,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pyniyk"
-    },
-    {
-      "id": "tx2026pynavk",
-      "lon": -103.393,
-      "lat": 31.068,
-      "depth": 2.0547,
-      "mag": 1.6,
-      "place": "34 km ENE of Balmorhea, Texas",
-      "time": 1786735577584,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pynavk"
-    },
-    {
-      "id": "av94383953",
-      "lon": -153.962833333333,
-      "lat": 58.9905,
-      "depth": 3.67,
-      "mag": 1.37,
-      "place": "68 km SE of Kokhanok, Alaska",
-      "time": 1786735551620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94383953"
     }
   ]
 }
