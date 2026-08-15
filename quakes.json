@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-15T00:01:01Z",
-  "count": 267,
+  "updated": "2026-08-15T00:15:39Z",
+  "count": 265,
   "points": [
     {
       "id": "aka2026qbkref",
@@ -15,13 +15,23 @@
     },
     {
       "id": "tx2026pyvmcu",
-      "lon": -104.117,
-      "lat": 31.574,
-      "depth": 2.5198,
-      "mag": 1.8,
-      "place": "42 km NW of Toyah, Texas",
-      "time": 1786750844238,
+      "lon": -104.122,
+      "lat": 31.63,
+      "depth": 2.595,
+      "mag": 0.9,
+      "place": "46 km NW of Toyah, Texas",
+      "time": 1786750843003,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pyvmcu"
+    },
+    {
+      "id": "tx2026pyvhfj",
+      "lon": -103.333,
+      "lat": 31.225,
+      "depth": 3.6902,
+      "mag": 2.9,
+      "place": "25 km SE of Lindsay, Texas",
+      "time": 1786750489885,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pyvhfj"
     },
     {
       "id": "nc75418427",
@@ -952,6 +962,16 @@
       "place": "5 km WSW of Idyllwild, CA",
       "time": 1786724348240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672594"
+    },
+    {
+      "id": "av94383588",
+      "lon": -154.886166666667,
+      "lat": 58.255,
+      "depth": 4.63,
+      "mag": 0.86,
+      "place": "80 km NNW of Karluk, Alaska",
+      "time": 1786724258750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94383588"
     },
     {
       "id": "aka2026qavkmj",
@@ -2632,46 +2652,6 @@
       "place": "7 km NNE of Burney, CA",
       "time": 1786666707970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417887"
-    },
-    {
-      "id": "aka2026pzpjzk",
-      "lon": -152.742,
-      "lat": 59.348,
-      "depth": 74.8,
-      "mag": 1.6,
-      "place": "46 km W of Nanwalek, Alaska",
-      "time": 1786666437497,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pzpjzk"
-    },
-    {
-      "id": "av94382123",
-      "lon": -168.269333333333,
-      "lat": 53.3551666666667,
-      "depth": 5.5,
-      "mag": -0.34,
-      "place": "60 km NE of Nikolski, Alaska",
-      "time": 1786666160810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94382123"
-    },
-    {
-      "id": "tx2026pxaoqj",
-      "lon": -104.217,
-      "lat": 31.654,
-      "depth": 6.7151,
-      "mag": 1.7,
-      "place": "55 km NW of Toyah, Texas",
-      "time": 1786666021813,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pxaoqj"
-    },
-    {
-      "id": "tx2026pxanqg",
-      "lon": -104.108,
-      "lat": 31.615,
-      "depth": 6.0999,
-      "mag": 1.7,
-      "place": "44 km NW of Toyah, Texas",
-      "time": 1786665867135,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pxanqg"
     }
   ]
 }
