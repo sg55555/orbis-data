@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-15T22:15:40Z",
-  "count": 255,
+  "updated": "2026-08-15T22:30:45Z",
+  "count": 252,
   "points": [
     {
+      "id": "ci40673418",
+      "lon": -117.842166666667,
+      "lat": 36.0666666666667,
+      "depth": 2.88,
+      "mag": 1.16,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": 1786832654730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673418"
+    },
+    {
       "id": "tx2026qaohkr",
-      "lon": -98.974,
-      "lat": 28.845,
+      "lon": -98.993,
+      "lat": 28.878,
       "depth": 0,
-      "mag": 1.9,
-      "place": "12 km ESE of Pearsall, Texas",
-      "time": 1786831968320,
+      "mag": 2,
+      "place": "10 km E of Pearsall, Texas",
+      "time": 1786831967875,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qaohkr"
     },
     {
@@ -2512,46 +2522,6 @@
       "place": "29 km SW of Hope, Alaska",
       "time": 1786746693892,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qbhztk"
-    },
-    {
-      "id": "tx2026pytcln",
-      "lon": -103.848,
-      "lat": 31.444,
-      "depth": 0.2525,
-      "mag": 1.6,
-      "place": "15 km NNW of Toyah, Texas",
-      "time": 1786746537092,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pytcln"
-    },
-    {
-      "id": "us6000tkuc",
-      "lon": 121.5717,
-      "lat": -8.3186,
-      "depth": 10,
-      "mag": 6.1,
-      "place": "58 km N of Ende, Indonesia",
-      "time": 1786746517550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkuc"
-    },
-    {
-      "id": "uu80148836",
-      "lon": -112.883333333333,
-      "lat": 38.5076666666667,
-      "depth": 2.14,
-      "mag": 2.18,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1786746140650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148836"
-    },
-    {
-      "id": "us6000tku7",
-      "lon": 121.4284,
-      "lat": -8.3406,
-      "depth": 10,
-      "mag": 5.6,
-      "place": "61 km NNW of Ende, Indonesia",
-      "time": 1786745886706,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tku7"
     }
   ]
 }
