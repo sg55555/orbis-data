@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-15T05:15:35Z",
-  "count": 282,
+  "updated": "2026-08-15T05:30:43Z",
+  "count": 284,
   "points": [
+    {
+      "id": "hv75019092",
+      "lon": -155.471160888672,
+      "lat": 19.1690006256104,
+      "depth": 27.3600006103516,
+      "mag": 1.8,
+      "place": "3 km SSE of Pāhala, Hawaii",
+      "time": 1786771277720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019092"
+    },
+    {
+      "id": "nc75418617",
+      "lon": -121.183502197266,
+      "lat": 36.5661659240723,
+      "depth": -0.129999995231628,
+      "mag": 1.66,
+      "place": "5 km NW of Pinnacles, CA",
+      "time": 1786771195980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418617"
+    },
+    {
+      "id": "nc75418612",
+      "lon": -122.46533203125,
+      "lat": 37.6175003051758,
+      "depth": 7.59999990463257,
+      "mag": 1.04,
+      "place": "2 km ENE of Pacifica, CA",
+      "time": 1786771054830,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418612"
+    },
     {
       "id": "ci40673002",
       "lon": -118.048166666667,
@@ -2812,16 +2842,6 @@
       "place": "2 km WNW of Wrightwood, CA",
       "time": 1786685805330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672290"
-    },
-    {
-      "id": "ci40672282",
-      "lon": -116.936333333333,
-      "lat": 33.951,
-      "depth": 17.72,
-      "mag": 0.75,
-      "place": "4 km ENE of Beaumont, CA",
-      "time": 1786685032370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672282"
     }
   ]
 }
