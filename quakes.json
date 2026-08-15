@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-15T19:30:46Z",
-  "count": 267,
+  "updated": "2026-08-15T19:45:30Z",
+  "count": 269,
   "points": [
+    {
+      "id": "nc75418942",
+      "lon": -121.661331176758,
+      "lat": 37.2916679382324,
+      "depth": 5.11999988555908,
+      "mag": 1.76,
+      "place": "16 km E of Seven Trees, CA",
+      "time": 1786822511260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418942"
+    },
+    {
+      "id": "aka2026qcxzda",
+      "lon": -153.165,
+      "lat": 59.762,
+      "depth": 128.1,
+      "mag": 2,
+      "place": "52 km E of Pedro Bay, Alaska",
+      "time": 1786822215657,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qcxzda"
+    },
     {
       "id": "nc75418937",
       "lon": -122.71866607666,
@@ -12,6 +32,16 @@
       "place": "7 km SSW of Anderson Springs, CA",
       "time": 1786821450300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418937"
+    },
+    {
+      "id": "pr71528623",
+      "lon": -65.347,
+      "lat": 19.182,
+      "depth": 8.06,
+      "mag": 3.43,
+      "place": "97 km N of Culebra, Puerto Rico",
+      "time": 1786820697720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528623"
     },
     {
       "id": "us6000tl30",
@@ -52,6 +82,16 @@
       "place": "3 km NNE of San Leandro, CA",
       "time": 1786819421370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418912"
+    },
+    {
+      "id": "us6000tl33",
+      "lon": 120.5418,
+      "lat": -8.2027,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "45 km N of Ruteng, Indonesia",
+      "time": 1786819385132,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl33"
     },
     {
       "id": "us6000tl31",
@@ -2652,26 +2692,6 @@
       "place": "7 km W of Tecate, B.C., MX",
       "time": 1786736722080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672850"
-    },
-    {
-      "id": "ci40672842",
-      "lon": -118.083166666667,
-      "lat": 34.518,
-      "depth": 9.39,
-      "mag": 0.71,
-      "place": "4 km ENE of Vincent, CA",
-      "time": 1786736591510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672842"
-    },
-    {
-      "id": "tx2026pyniyk",
-      "lon": -101.703,
-      "lat": 31.836,
-      "depth": 8.1299,
-      "mag": 0.9,
-      "place": "21 km W of Garden City, Texas",
-      "time": 1786736338794,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pyniyk"
     }
   ]
 }
