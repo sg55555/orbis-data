@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-15T06:53:42Z",
-  "count": 281,
+  "updated": "2026-08-15T07:16:25Z",
+  "count": 277,
   "points": [
     {
+      "id": "hv75019127",
+      "lon": -155.46549987793,
+      "lat": 19.3658332824707,
+      "depth": 5.73000001907349,
+      "mag": 1.72,
+      "place": "18 km N of Pāhala, Hawaii",
+      "time": 1786777867810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019127"
+    },
+    {
+      "id": "ok2026pxlr",
+      "lon": -97.59687805,
+      "lat": 34.4393158,
+      "depth": 4.830121517,
+      "mag": 1.72,
+      "place": "7 km ESE of Velma, Oklahoma",
+      "time": 1786777446548,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pxlr"
+    },
+    {
       "id": "ci40673026",
-      "lon": -118.436332702637,
-      "lat": 36.139331817627,
-      "depth": 4.92000007629395,
-      "mag": 2.40741029935314,
+      "lon": -118.439833333333,
+      "lat": 36.1351666666667,
+      "depth": 5.73,
+      "mag": 2.28,
       "place": "42 km WSW of Olancha, CA",
-      "time": 1786776573690,
+      "time": 1786776573720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673026"
     },
     {
@@ -22,6 +42,16 @@
       "place": "6 km W of Cobb, CA",
       "time": 1786776551770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418632"
+    },
+    {
+      "id": "us6000tkwt",
+      "lon": 120.6523,
+      "lat": -8.2384,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "46 km NNE of Ruteng, Indonesia",
+      "time": 1786776187500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwt"
     },
     {
       "id": "hv75019117",
@@ -2742,76 +2772,6 @@
       "place": "10 km ENE of Ocotillo Wells, CA",
       "time": 1786692536690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672322"
-    },
-    {
-      "id": "nc75418077",
-      "lon": -122.818168640137,
-      "lat": 38.8071670532227,
-      "depth": 2.90000009536743,
-      "mag": 1.2,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": 1786691206510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418077"
-    },
-    {
-      "id": "nc75418072",
-      "lon": -122.807830810547,
-      "lat": 38.8361663818359,
-      "depth": 2.22000002861023,
-      "mag": 0.44,
-      "place": "8 km WNW of Cobb, CA",
-      "time": 1786690982680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418072"
-    },
-    {
-      "id": "nc75418067",
-      "lon": -121.668502807617,
-      "lat": 37.2939987182617,
-      "depth": 2.27999997138977,
-      "mag": 1.46,
-      "place": "15 km E of Seven Trees, CA",
-      "time": 1786690944050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418067"
-    },
-    {
-      "id": "av94382718",
-      "lon": -153.0575,
-      "lat": 60.016,
-      "depth": 1.46,
-      "mag": -0.81,
-      "place": "63 km ENE of Pedro Bay, Alaska",
-      "time": 1786690897240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94382718"
-    },
-    {
-      "id": "av94382713",
-      "lon": -168.223666666667,
-      "lat": 53.3338333333333,
-      "depth": 8.62,
-      "mag": 0.96,
-      "place": "61 km NE of Nikolski, Alaska",
-      "time": 1786690697190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94382713"
-    },
-    {
-      "id": "hv75018547",
-      "lon": -155.492660522461,
-      "lat": 19.1399993896484,
-      "depth": 32.3199996948242,
-      "mag": 2.17,
-      "place": "7 km SSW of Pāhala, Hawaii",
-      "time": 1786690603860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018547"
-    },
-    {
-      "id": "aka2026qactkq",
-      "lon": -154.884,
-      "lat": 57.036,
-      "depth": 5,
-      "mag": 2.2,
-      "place": "44 km WNW of Akhiok, Alaska",
-      "time": 1786690479811,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qactkq"
     }
   ]
 }
