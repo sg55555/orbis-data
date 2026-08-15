@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-15T11:31:07Z",
+  "updated": "2026-08-15T11:45:33Z",
   "count": 287,
   "points": [
+    {
+      "id": "ci40673130",
+      "lon": -116.759833333333,
+      "lat": 33.6605,
+      "depth": 14.32,
+      "mag": 0.32,
+      "place": "10 km SSW of Idyllwild, CA",
+      "time": 1786794007950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673130"
+    },
+    {
+      "id": "nc75418742",
+      "lon": -118.837997436523,
+      "lat": 37.4550018310547,
+      "depth": 2.71000003814697,
+      "mag": 1.62,
+      "place": "18 km SW of Toms Place, CA",
+      "time": 1786793765330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418742"
+    },
     {
       "id": "nc75418727",
       "lon": -123.120002746582,
@@ -25,12 +45,12 @@
     },
     {
       "id": "us6000tkyk",
-      "lon": 99.0376,
-      "lat": 3.018,
-      "depth": 183.226,
+      "lon": 99.015,
+      "lat": 3.0856,
+      "depth": 172.526,
       "mag": 6.9,
-      "place": "7 km NNW of Pematangsiantar, Indonesia",
-      "time": 1786791292753,
+      "place": "15 km NNW of Pematangsiantar, Indonesia",
+      "time": 1786791291796,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk"
     },
     {
@@ -322,6 +342,16 @@
       "place": "9 km WNW of Cobb, CA",
       "time": 1786780823360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418672"
+    },
+    {
+      "id": "pr71528558",
+      "lon": -67.2963333333333,
+      "lat": 18.2571666666667,
+      "depth": 103.27,
+      "mag": 3.24,
+      "place": "8 km SW of Stella, Puerto Rico",
+      "time": 1786780467730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528558"
     },
     {
       "id": "aka2026qcatny",
@@ -2842,36 +2872,6 @@
       "place": "17 km NE of Milford, Utah",
       "time": 1786708089880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148716"
-    },
-    {
-      "id": "nc75418167",
-      "lon": -122.83716583252,
-      "lat": 38.8413314819336,
-      "depth": 1.78999996185303,
-      "mag": 0.74,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1786707893170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418167"
-    },
-    {
-      "id": "uu80148711",
-      "lon": -112.887166666667,
-      "lat": 38.5156666666667,
-      "depth": 2.74,
-      "mag": 0.66,
-      "place": "17 km NE of Milford, Utah",
-      "time": 1786707138450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148711"
-    },
-    {
-      "id": "nc75418162",
-      "lon": -122.796997070312,
-      "lat": 38.8370018005371,
-      "depth": 2.07999992370605,
-      "mag": 0.93,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1786707080900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418162"
     }
   ]
 }
