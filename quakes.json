@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-15T01:00:54Z",
+  "updated": "2026-08-15T01:15:39Z",
   "count": 270,
   "points": [
+    {
+      "id": "nc75418482",
+      "lon": -122.811500549316,
+      "lat": 38.8213348388672,
+      "depth": 2.88000011444092,
+      "mag": 0.93,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1786755714460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418482"
+    },
     {
       "id": "nc75418467",
       "lon": -122.754165649414,
@@ -22,6 +32,16 @@
       "place": "38 km SSE of Severo-Kuril’sk, Russia",
       "time": 1786754609640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvj"
+    },
+    {
+      "id": "us6000tkvh",
+      "lon": 121.4162,
+      "lat": -8.248,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "71 km NNW of Ende, Indonesia",
+      "time": 1786754418406,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvh"
     },
     {
       "id": "us6000tkvi",
@@ -2682,26 +2702,6 @@
       "place": "48 km ENE of Adak, Alaska",
       "time": 1786670596390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065774"
-    },
-    {
-      "id": "us6000tkkw",
-      "lon": 125.1585,
-      "lat": 5.3865,
-      "depth": 92.559,
-      "mag": 4.9,
-      "place": "29 km SW of Balangonan, Philippines",
-      "time": 1786670093627,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkkw"
-    },
-    {
-      "id": "ci40672202",
-      "lon": -115.688166666667,
-      "lat": 33.177,
-      "depth": 0.3,
-      "mag": 0.34,
-      "place": "17 km NNW of Westmorland, CA",
-      "time": 1786669261850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672202"
     }
   ]
 }
