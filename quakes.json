@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-15T17:00:54Z",
-  "count": 281,
+  "updated": "2026-08-15T17:15:33Z",
+  "count": 278,
   "points": [
+    {
+      "id": "hv75019242",
+      "lon": -156.419174194336,
+      "lat": 19.521333694458,
+      "depth": 15.3999996185303,
+      "mag": 3.41,
+      "place": "45 km WSW of Kailua-Kona, Hawaii",
+      "time": 1786813769400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019242"
+    },
     {
       "id": "aka2026qcsvho",
       "lon": -151.077,
@@ -775,12 +785,12 @@
     },
     {
       "id": "tx2026pzmlzl",
-      "lon": -104.081,
-      "lat": 31.884,
-      "depth": 1.1107,
-      "mag": 1.1,
-      "place": "37 km S of Malaga, New Mexico",
-      "time": 1786781594375,
+      "lon": -104.113,
+      "lat": 31.735,
+      "depth": 3.338,
+      "mag": 0.8,
+      "place": "48 km W of Mentone, Texas",
+      "time": 1786781596485,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pzmlzl"
     },
     {
@@ -2772,46 +2782,6 @@
       "place": "3 km SSE of Redlands, CA",
       "time": 1786728329010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672658"
-    },
-    {
-      "id": "nc75418302",
-      "lon": -122.929664611816,
-      "lat": 38.779167175293,
-      "depth": 4.09000015258789,
-      "mag": 1.31,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1786727472190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418302"
-    },
-    {
-      "id": "aka2026qaxgpi",
-      "lon": -150.204,
-      "lat": 56.14,
-      "depth": 10,
-      "mag": 2.9,
-      "place": "207 km SE of Chiniak, Alaska",
-      "time": 1786727420290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qaxgpi"
-    },
-    {
-      "id": "av93065814",
-      "lon": -166.9285,
-      "lat": 53.8373333333333,
-      "depth": 6.71,
-      "mag": -0.77,
-      "place": "26 km WSW of Dutch Harbor, Alaska",
-      "time": 1786727249480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065814"
-    },
-    {
-      "id": "av94383663",
-      "lon": -155.0535,
-      "lat": 58.247,
-      "depth": 8.37,
-      "mag": -0.17,
-      "place": "83 km NNW of Karluk, Alaska",
-      "time": 1786726988280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94383663"
     }
   ]
 }
