@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-15T07:30:42Z",
+  "updated": "2026-08-15T07:38:17Z",
   "count": 278,
   "points": [
     {
+      "id": "nc75418657",
+      "lon": -118.842498779297,
+      "lat": 37.4589996337891,
+      "depth": 5.98000001907349,
+      "mag": 1.46,
+      "place": "18 km SW of Toms Place, CA",
+      "time": 1786779046710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418657"
+    },
+    {
+      "id": "nc75418652",
+      "lon": -122.77433013916,
+      "lat": 38.7955017089844,
+      "depth": 3.33999991416931,
+      "mag": 1.12,
+      "place": "3 km NW of The Geysers, CA",
+      "time": 1786778969900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418652"
+    },
+    {
       "id": "ci40673034",
-      "lon": -117.408836364746,
-      "lat": 35.5340003967285,
-      "depth": 3.30999994277954,
-      "mag": 1.69235233636419,
+      "lon": -117.4035,
+      "lat": 35.5291666666667,
+      "depth": 4.87,
+      "mag": 0.6,
       "place": "26 km S of Trona, CA",
-      "time": 1786778835610,
+      "time": 1786778835490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673034"
     },
     {
@@ -2762,26 +2782,6 @@
       "place": "7 km ESE of Velma, Oklahoma",
       "time": 1786693120619,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026pvri"
-    },
-    {
-      "id": "uu80148696",
-      "lon": -112.886833333333,
-      "lat": 38.5221666666667,
-      "depth": 0.04,
-      "mag": 0.8,
-      "place": "17 km NE of Milford, Utah",
-      "time": 1786692865160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148696"
-    },
-    {
-      "id": "ci40672330",
-      "lon": -116.031166666667,
-      "lat": 33.1803333333333,
-      "depth": 4.52,
-      "mag": 0.72,
-      "place": "10 km ENE of Ocotillo Wells, CA",
-      "time": 1786692741670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672330"
     }
   ]
 }
