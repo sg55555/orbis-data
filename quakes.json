@@ -1,37 +1,87 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-15T09:00:57Z",
-  "count": 283,
+  "updated": "2026-08-15T09:15:36Z",
+  "count": 285,
   "points": [
     {
+      "id": "hv75019147",
+      "lon": -155.359497070312,
+      "lat": 19.2898330688477,
+      "depth": 28.0900001525879,
+      "mag": 1.93,
+      "place": "15 km NE of Pāhala, Hawaii",
+      "time": 1786785009810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019147"
+    },
+    {
+      "id": "hv75019142",
+      "lon": -155.468170166016,
+      "lat": 19.3780002593994,
+      "depth": 6.34999990463257,
+      "mag": 1.94,
+      "place": "19 km N of Pāhala, Hawaii",
+      "time": 1786784817120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019142"
+    },
+    {
+      "id": "ci40673074",
+      "lon": -117.274333333333,
+      "lat": 35.4235,
+      "depth": 6.3,
+      "mag": 1.29,
+      "place": "33 km E of Johannesburg, CA",
+      "time": 1786784485950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673074"
+    },
+    {
+      "id": "aka2026qccyxf",
+      "lon": -152.68,
+      "lat": 60.063,
+      "depth": 99.6,
+      "mag": 1.8,
+      "place": "54 km WNW of Happy Valley, Alaska",
+      "time": 1786784417564,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qccyxf"
+    },
+    {
       "id": "aka2026qccfph",
-      "lon": -149.254,
-      "lat": 61.388,
-      "depth": 32.1,
-      "mag": 1.5,
+      "lon": -149.249,
+      "lat": 61.383,
+      "depth": 32.9,
+      "mag": 1.8,
       "place": "18 km ENE of Eagle River, Alaska",
-      "time": 1786783081873,
+      "time": 1786783081985,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qccfph"
     },
     {
       "id": "aka2026qccajk",
-      "lon": -153.345,
-      "lat": 64.953,
-      "depth": 5,
-      "mag": 2.2,
-      "place": "64 km WSW of Tanana, Alaska",
-      "time": 1786782717253,
+      "lon": -153.333,
+      "lat": 64.962,
+      "depth": 7.5,
+      "mag": 2,
+      "place": "63 km WSW of Tanana, Alaska",
+      "time": 1786782717644,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qccajk"
     },
     {
       "id": "tx2026pznaiv",
       "lon": -104.123,
       "lat": 31.735,
-      "depth": 3.8373,
+      "depth": 3.8718,
       "mag": 1.5,
       "place": "49 km W of Mentone, Texas",
-      "time": 1786782610075,
+      "time": 1786782610054,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pznaiv"
+    },
+    {
+      "id": "aka2026qcbqqm",
+      "lon": -177.727,
+      "lat": 51.343,
+      "depth": 25.5,
+      "mag": 2,
+      "place": "96 km SW of Adak, Alaska",
+      "time": 1786782045549,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qcbqqm"
     },
     {
       "id": "ci40673058",
@@ -42,6 +92,16 @@
       "place": "6 km WSW of Anza, CA",
       "time": 1786781747760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673058"
+    },
+    {
+      "id": "tx2026pzmlzl",
+      "lon": -104.081,
+      "lat": 31.884,
+      "depth": 1.1107,
+      "mag": 1.1,
+      "place": "37 km S of Malaga, New Mexico",
+      "time": 1786781594375,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pzmlzl"
     },
     {
       "id": "ci40673050",
@@ -62,6 +122,16 @@
       "place": "6 km NNW of Pinnacles, CA",
       "time": 1786780955220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418677"
+    },
+    {
+      "id": "aka2026qcazbj",
+      "lon": -179.889,
+      "lat": 51.835,
+      "depth": 112.1,
+      "mag": 2.3,
+      "place": "224 km W of Adak, Alaska",
+      "time": 1786780832322,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qcazbj"
     },
     {
       "id": "nc75418672",
@@ -2782,56 +2852,6 @@
       "place": "4 km SW of Alamo, CA",
       "time": 1786699068170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418112"
-    },
-    {
-      "id": "av94382943",
-      "lon": -152.9525,
-      "lat": 60.026,
-      "depth": 4.4,
-      "mag": -0.3,
-      "place": "68 km WNW of Anchor Point, Alaska",
-      "time": 1786698889680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94382943"
-    },
-    {
-      "id": "av94382938",
-      "lon": -168.203166666667,
-      "lat": 53.3828333333333,
-      "depth": 4.8,
-      "mag": -0.23,
-      "place": "66 km NE of Nikolski, Alaska",
-      "time": 1786698831400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94382938"
-    },
-    {
-      "id": "ci40672394",
-      "lon": -116.696666666667,
-      "lat": 33.3685,
-      "depth": 11.8,
-      "mag": 0.97,
-      "place": "11 km NNW of Warner Springs, CA",
-      "time": 1786698686240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672394"
-    },
-    {
-      "id": "nc75418107",
-      "lon": -123.266334533691,
-      "lat": 39.326000213623,
-      "depth": 6.36999988555908,
-      "mag": 1.77,
-      "place": "9 km NW of Redwood Valley, CA",
-      "time": 1786698194720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418107"
-    },
-    {
-      "id": "hv75018567",
-      "lon": -155.503997802734,
-      "lat": 19.1450004577637,
-      "depth": 29.4599990844727,
-      "mag": 2.1,
-      "place": "6 km SSW of Pāhala, Hawaii",
-      "time": 1786698083010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018567"
     }
   ]
 }
