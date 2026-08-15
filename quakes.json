@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-15T15:31:29Z",
-  "count": 288,
+  "updated": "2026-08-15T15:52:10Z",
+  "count": 285,
   "points": [
+    {
+      "id": "nc75418837",
+      "lon": -123.231163024902,
+      "lat": 39.3704986572266,
+      "depth": 6.59000015258789,
+      "mag": 1.64,
+      "place": "12 km ESE of Willits, CA",
+      "time": 1786808132820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418837"
+    },
+    {
+      "id": "ci40673234",
+      "lon": -116.781333333333,
+      "lat": 33.6761666666667,
+      "depth": 10.29,
+      "mag": 0.38,
+      "place": "9 km SW of Idyllwild, CA",
+      "time": 1786807832020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673234"
+    },
     {
       "id": "nc75418827",
       "lon": -122.943664550781,
@@ -1844,6 +1864,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl1g"
     },
     {
+      "id": "us6000tkv1",
+      "lon": 120.2424,
+      "lat": -8.146,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "55 km NE of Labuan Bajo, Indonesia",
+      "time": 1786748352662,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkv1"
+    },
+    {
       "id": "hv75018947",
       "lon": -155.240829467773,
       "lat": 18.8803329467773,
@@ -2822,66 +2852,6 @@
       "place": "19 km W of Hope, Alaska",
       "time": 1786723074298,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qauwkx"
-    },
-    {
-      "id": "av93065799",
-      "lon": -152.302666666667,
-      "lat": 61.3026666666667,
-      "depth": 2.13,
-      "mag": -0.21,
-      "place": "67 km WNW of Tyonek, Alaska",
-      "time": 1786722301850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065799"
-    },
-    {
-      "id": "aka2026qaulab",
-      "lon": -151.467,
-      "lat": 59.942,
-      "depth": 78.9,
-      "mag": 1.7,
-      "place": "14 km E of Happy Valley, Alaska",
-      "time": 1786722284874,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qaulab"
-    },
-    {
-      "id": "nc75418262",
-      "lon": -122.811332702637,
-      "lat": 38.8230018615723,
-      "depth": 3,
-      "mag": 0.7,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1786722136280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418262"
-    },
-    {
-      "id": "aka2026qauffx",
-      "lon": -152.283,
-      "lat": 62.24,
-      "depth": 5,
-      "mag": 1.6,
-      "place": "53 km WNW of Skwentna, Alaska",
-      "time": 1786721883660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qauffx"
-    },
-    {
-      "id": "ci40672554",
-      "lon": -117.733,
-      "lat": 35.92,
-      "depth": 7.81,
-      "mag": 1.11,
-      "place": "16 km E of Little Lake, CA",
-      "time": 1786721730550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672554"
-    },
-    {
-      "id": "aka2026qaubui",
-      "lon": -152.771,
-      "lat": 59.464,
-      "depth": 80.2,
-      "mag": 2.1,
-      "place": "49 km WNW of Nanwalek, Alaska",
-      "time": 1786721646574,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qaubui"
     }
   ]
 }
