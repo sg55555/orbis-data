@@ -1,13 +1,23 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-15T18:30:45Z",
-  "count": 271,
+  "updated": "2026-08-15T18:43:01Z",
+  "count": 269,
   "points": [
+    {
+      "id": "ci40673290",
+      "lon": -116.07,
+      "lat": 33.2586666666667,
+      "depth": 4.41,
+      "mag": 0.7,
+      "place": "11 km WSW of Salton City, CA",
+      "time": 1786818625540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673290"
+    },
     {
       "id": "tx2026qagons",
       "lon": -101.993,
       "lat": 31.675,
-      "depth": 3.0776,
+      "depth": 3.0729,
       "mag": 2.6,
       "place": "36 km SSE of Midland, Texas",
       "time": 1786817989200,
@@ -2682,36 +2692,6 @@
       "place": "38 km SSE of Mammoth, Wyoming",
       "time": 1786733158660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148801"
-    },
-    {
-      "id": "tx2026pylpop",
-      "lon": -103.696,
-      "lat": 31.054,
-      "depth": 0.9601,
-      "mag": 1.6,
-      "place": "9 km NNE of Balmorhea, Texas",
-      "time": 1786732966924,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pylpop"
-    },
-    {
-      "id": "aka2026qbacek",
-      "lon": -151.374,
-      "lat": 62.548,
-      "depth": 90.3,
-      "mag": 1.9,
-      "place": "31 km W of Petersville, Alaska",
-      "time": 1786732467552,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qbacek"
-    },
-    {
-      "id": "us6000tkrw",
-      "lon": 167.4799,
-      "lat": -12.3805,
-      "depth": 369.326,
-      "mag": 4.5,
-      "place": "165 km N of Sola, Vanuatu",
-      "time": 1786732405499,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkrw"
     }
   ]
 }
