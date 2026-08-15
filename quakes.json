@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-15T02:30:55Z",
-  "count": 278,
+  "updated": "2026-08-15T02:45:30Z",
+  "count": 275,
   "points": [
+    {
+      "id": "aka2026qbqgwv",
+      "lon": -149.427,
+      "lat": 63.069,
+      "depth": 24.9,
+      "mag": 2,
+      "place": "43 km SSW of Cantwell, Alaska",
+      "time": 1786761582142,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qbqgwv"
+    },
     {
       "id": "aka2026qbplzh",
       "lon": -151.271,
@@ -172,6 +182,16 @@
       "place": "14 km WSW of Nenana, Alaska",
       "time": 1786753438646,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qbltfw"
+    },
+    {
+      "id": "us6000tkvd",
+      "lon": 121.3126,
+      "lat": -8.2265,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "78 km NNW of Ende, Indonesia",
+      "time": 1786752202963,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvd"
     },
     {
       "id": "us6000tkvc",
@@ -2732,56 +2752,6 @@
       "place": "56 km S of Whites City, New Mexico",
       "time": 1786676159744,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pxgfrx"
-    },
-    {
-      "id": "nc75417992",
-      "lon": -122.7431640625,
-      "lat": 38.8269996643066,
-      "depth": 0.419999986886978,
-      "mag": 1.09,
-      "place": "2 km WNW of Cobb, CA",
-      "time": 1786675483270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417992"
-    },
-    {
-      "id": "tx2026pxfvtv",
-      "lon": -104.108,
-      "lat": 31.617,
-      "depth": 6.0999,
-      "mag": 1.7,
-      "place": "44 km NW of Toyah, Texas",
-      "time": 1786675468399,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pxfvtv"
-    },
-    {
-      "id": "tx2026pxflmp",
-      "lon": -104.309,
-      "lat": 31.696,
-      "depth": 6.6125,
-      "mag": 1.7,
-      "place": "53 km S of Whites City, New Mexico",
-      "time": 1786674956465,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pxflmp"
-    },
-    {
-      "id": "nc75417987",
-      "lon": -122.499496459961,
-      "lat": 38.681999206543,
-      "depth": 6.67999982833862,
-      "mag": 1.12,
-      "place": "13 km NNW of Angwin, CA",
-      "time": 1786674791550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417987"
-    },
-    {
-      "id": "nc75417982",
-      "lon": -122.783836364746,
-      "lat": 38.8341674804688,
-      "depth": 2.10999989509583,
-      "mag": 1.09,
-      "place": "5 km WNW of Cobb, CA",
-      "time": 1786674774520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417982"
     }
   ]
 }
