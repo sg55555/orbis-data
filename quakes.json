@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-15T05:00:59Z",
-  "count": 281,
+  "updated": "2026-08-15T05:15:35Z",
+  "count": 282,
   "points": [
+    {
+      "id": "ci40673002",
+      "lon": -118.048166666667,
+      "lat": 34.1175,
+      "depth": 11.02,
+      "mag": 1.39,
+      "place": "1 km NE of Temple City, CA",
+      "time": 1786770452270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673002"
+    },
+    {
+      "id": "nc75418607",
+      "lon": -122.737335205078,
+      "lat": 38.757999420166,
+      "depth": 1.33000004291534,
+      "mag": 0.99,
+      "place": "3 km SE of The Geysers, CA",
+      "time": 1786770297840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418607"
+    },
+    {
+      "id": "nc75418602",
+      "lon": -122.736167907715,
+      "lat": 38.7573318481445,
+      "depth": 1.47000002861023,
+      "mag": 1.14,
+      "place": "3 km SE of The Geysers, CA",
+      "time": 1786770138380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418602"
+    },
     {
       "id": "nc75418592",
       "lon": -122.820999145508,
@@ -22,6 +52,16 @@
       "place": "6 km SSW of Pāhala, Hawaii",
       "time": 1786768823440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019077"
+    },
+    {
+      "id": "us6000tkwe",
+      "lon": -177.9262,
+      "lat": -20.4191,
+      "depth": 544.691,
+      "mag": 4.2,
+      "place": "285 km WNW of Houma, Tonga",
+      "time": 1786768278890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwe"
     },
     {
       "id": "us6000tkwd",
@@ -445,12 +485,12 @@
     },
     {
       "id": "tx2026pyvmcu",
-      "lon": -104.122,
-      "lat": 31.63,
-      "depth": 2.595,
+      "lon": -104.119,
+      "lat": 31.624,
+      "depth": 2.3927,
       "mag": 0.9,
       "place": "46 km NW of Toyah, Texas",
-      "time": 1786750843003,
+      "time": 1786750843082,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pyvmcu"
     },
     {
@@ -2782,36 +2822,6 @@
       "place": "4 km ENE of Beaumont, CA",
       "time": 1786685032370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672282"
-    },
-    {
-      "id": "tx2026pxksxe",
-      "lon": -102.098,
-      "lat": 32.389,
-      "depth": 7.1045,
-      "mag": 0.1,
-      "place": "39 km WSW of Ackerly, Texas",
-      "time": 1786684308661,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pxksxe"
-    },
-    {
-      "id": "tx2026pxkloa",
-      "lon": -98.987,
-      "lat": 28.826,
-      "depth": 8.691,
-      "mag": 1.5,
-      "place": "12 km SE of Pearsall, Texas",
-      "time": 1786683809050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pxkloa"
-    },
-    {
-      "id": "ci40672274",
-      "lon": -117.656166666667,
-      "lat": 34.3675,
-      "depth": 7.48,
-      "mag": 1.6,
-      "place": "2 km WNW of Wrightwood, CA",
-      "time": 1786683799670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672274"
     }
   ]
 }
