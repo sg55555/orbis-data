@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-15T01:15:39Z",
-  "count": 270,
+  "updated": "2026-08-15T01:30:42Z",
+  "count": 272,
   "points": [
+    {
+      "id": "ci40672946",
+      "lon": -117.652833333333,
+      "lat": 34.3678333333333,
+      "depth": 8.73,
+      "mag": 1.61,
+      "place": "2 km WNW of Wrightwood, CA",
+      "time": 1786756764480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672946"
+    },
+    {
+      "id": "ci40672938",
+      "lon": -117.238333333333,
+      "lat": 33.9875,
+      "depth": 14.37,
+      "mag": 1.05,
+      "place": "7 km N of Moreno Valley, CA",
+      "time": 1786756514300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672938"
+    },
+    {
+      "id": "us6000tkvn",
+      "lon": 141.1138,
+      "lat": 37.2084,
+      "depth": 50.197,
+      "mag": 4.7,
+      "place": "16 km SSE of Tomioka, Japan",
+      "time": 1786756251635,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvn"
+    },
     {
       "id": "nc75418482",
       "lon": -122.811500549316,
@@ -2692,16 +2722,6 @@
       "place": "3 km NNW of The Geysers, CA",
       "time": 1786672346000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417962"
-    },
-    {
-      "id": "av93065774",
-      "lon": -176.006,
-      "lat": 52.0696666666667,
-      "depth": 8.77,
-      "mag": -0.2,
-      "place": "48 km ENE of Adak, Alaska",
-      "time": 1786670596390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065774"
     }
   ]
 }
