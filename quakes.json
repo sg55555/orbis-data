@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-15T18:15:36Z",
-  "count": 272,
+  "updated": "2026-08-15T18:30:45Z",
+  "count": 271,
   "points": [
+    {
+      "id": "tx2026qagons",
+      "lon": -101.993,
+      "lat": 31.675,
+      "depth": 3.0776,
+      "mag": 2.6,
+      "place": "36 km SSE of Midland, Texas",
+      "time": 1786817989200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qagons"
+    },
     {
       "id": "nc75418897",
       "lon": -122.078330993652,
@@ -12,6 +22,16 @@
       "place": "0 km NW of Hayward, CA",
       "time": 1786817509420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418897"
+    },
+    {
+      "id": "us6000tl2u",
+      "lon": 120.6775,
+      "lat": -7.7671,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "96 km NNE of Ruteng, Indonesia",
+      "time": 1786816287384,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2u"
     },
     {
       "id": "us6000tl2t",
@@ -2692,36 +2712,6 @@
       "place": "165 km N of Sola, Vanuatu",
       "time": 1786732405499,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkrw"
-    },
-    {
-      "id": "hv75018772",
-      "lon": -155.351837158203,
-      "lat": 18.9993324279785,
-      "depth": 16.5100002288818,
-      "mag": 1.9,
-      "place": "25 km ESE of Naalehu, Hawaii",
-      "time": 1786732101220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018772"
-    },
-    {
-      "id": "aka2026qazpzy",
-      "lon": -152.36,
-      "lat": 62.254,
-      "depth": 5,
-      "mag": 2.7,
-      "place": "58 km WNW of Skwentna, Alaska",
-      "time": 1786731624800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qazpzy"
-    },
-    {
-      "id": "ci40672762",
-      "lon": -117.931333333333,
-      "lat": 34.1751666666667,
-      "depth": -1.17,
-      "mag": 0.87,
-      "place": "5 km NE of Bradbury, CA",
-      "time": 1786731495400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672762"
     }
   ]
 }
