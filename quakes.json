@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-16T20:15:38Z",
-  "count": 186,
+  "updated": "2026-08-16T20:30:44Z",
+  "count": 184,
   "points": [
+    {
+      "id": "ok2026qahp",
+      "lon": -99.26368713,
+      "lat": 35.90881729,
+      "depth": 0.2303224057,
+      "mag": 1.95,
+      "place": "8 km ENE of Leedey, Oklahoma",
+      "time": 1786911908541,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026qahp"
+    },
+    {
+      "id": "nc75419622",
+      "lon": -124.90299987793,
+      "lat": 40.4930000305176,
+      "depth": 17.1499996185303,
+      "mag": 2.6,
+      "place": "55 km W of Ferndale, CA",
+      "time": 1786911705850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419622"
+    },
     {
       "id": "tx2026qcfjrz",
       "lon": -104.166,
@@ -25,12 +45,12 @@
     },
     {
       "id": "ci40673978",
-      "lon": -118.930666666667,
-      "lat": 34.7945,
-      "depth": 12.1,
-      "mag": 1.79,
+      "lon": -118.931166666667,
+      "lat": 34.7965,
+      "depth": 12.89,
+      "mag": 1.77,
       "place": "3 km SSE of Frazier Park, CA",
-      "time": 1786908843430,
+      "time": 1786908843330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673978"
     },
     {
@@ -1822,46 +1842,6 @@
       "place": "6 km NNE of Lake Henshaw, CA",
       "time": 1786825805720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673362"
-    },
-    {
-      "id": "us6000tl3k",
-      "lon": 120.4927,
-      "lat": -8.0349,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "63 km N of Ruteng, Indonesia",
-      "time": 1786825784571,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl3k"
-    },
-    {
-      "id": "aka2026qczwcl",
-      "lon": -150.735,
-      "lat": 63.567,
-      "depth": 2.3,
-      "mag": 2.3,
-      "place": "49 km E of Denali National Park, Alaska",
-      "time": 1786825604276,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qczwcl"
-    },
-    {
-      "id": "tx2026qakoan",
-      "lon": -103.365,
-      "lat": 30.729,
-      "depth": 1.1491,
-      "mag": 1.8,
-      "place": "46 km SE of Balmorhea, Texas",
-      "time": 1786825187110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qakoan"
-    },
-    {
-      "id": "ci40673330",
-      "lon": -116.521166666667,
-      "lat": 33.1573333333333,
-      "depth": 6.07,
-      "mag": 0.69,
-      "place": "12 km NE of Julian, CA",
-      "time": 1786824896620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673330"
     }
   ]
 }
