@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-16T14:15:32Z",
-  "count": 193,
+  "updated": "2026-08-16T14:30:45Z",
+  "count": 191,
   "points": [
     {
       "id": "tx2026qbtjkj",
@@ -25,9 +25,9 @@
     },
     {
       "id": "ci40673826",
-      "lon": -117.7,
-      "lat": 35.8886666666667,
-      "depth": 8.36,
+      "lon": -117.699,
+      "lat": 35.8871666666667,
+      "depth": 8.17,
       "mag": 0.38,
       "place": "19 km ESE of Little Lake, CA",
       "time": 1786886886660,
@@ -185,12 +185,12 @@
     },
     {
       "id": "ci40673778",
-      "lon": -116.167666666667,
-      "lat": 33.8691666666667,
-      "depth": 4.23,
+      "lon": -116.169,
+      "lat": 33.8686666666667,
+      "depth": 3.62,
       "mag": 1.28,
       "place": "17 km NNE of Indio, CA",
-      "time": 1786877965360,
+      "time": 1786877965320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673778"
     },
     {
@@ -315,12 +315,12 @@
     },
     {
       "id": "ci40673738",
-      "lon": -117.539166666667,
-      "lat": 35.6781666666667,
-      "depth": 2.54,
+      "lon": -117.5375,
+      "lat": 35.6793333333333,
+      "depth": 2.99,
       "mag": 0.39,
       "place": "14 km ENE of Ridgecrest, CA",
-      "time": 1786873938590,
+      "time": 1786873938650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673738"
     },
     {
@@ -505,12 +505,12 @@
     },
     {
       "id": "ci40673666",
-      "lon": -117.568,
+      "lon": -117.567166666667,
       "lat": 35.6301666666667,
-      "depth": 4.42,
+      "depth": 4.19,
       "mag": 0.55,
       "place": "10 km E of Ridgecrest, CA",
-      "time": 1786866372060,
+      "time": 1786866372020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673666"
     },
     {
@@ -1155,9 +1155,9 @@
     },
     {
       "id": "ci40673458",
-      "lon": -116.407833333333,
-      "lat": 33.031,
-      "depth": 8.69,
+      "lon": -116.408333333333,
+      "lat": 33.0313333333333,
+      "depth": 8.65,
       "mag": 0.96,
       "place": "19 km ESE of Julian, CA",
       "time": 1786839364770,
@@ -1334,6 +1334,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673394"
     },
     {
+      "id": "ci40673386",
+      "lon": -116.792,
+      "lat": 33.7395,
+      "depth": 16.24,
+      "mag": 1.55,
+      "place": "7 km W of Idyllwild, CA",
+      "time": 1786829733510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673386"
+    },
+    {
       "id": "nc75419027",
       "lon": -122.80916595459,
       "lat": 38.7949981689453,
@@ -1445,12 +1455,12 @@
     },
     {
       "id": "ci40673322",
-      "lon": -116.367166666667,
-      "lat": 33.3806666666667,
-      "depth": 7.45,
+      "lon": -116.365666666667,
+      "lat": 33.3813333333333,
+      "depth": 7.71,
       "mag": 0.55,
       "place": "14 km N of Borrego Springs, CA",
-      "time": 1786824390600,
+      "time": 1786824390560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673322"
     },
     {
@@ -1875,12 +1885,12 @@
     },
     {
       "id": "ci40673202",
-      "lon": -116.246,
-      "lat": 32.9181666666667,
-      "depth": 7.67,
+      "lon": -116.244833333333,
+      "lat": 32.9196666666667,
+      "depth": 8.29,
       "mag": 0.65,
       "place": "27 km SSW of Ocotillo Wells, CA",
-      "time": 1786805991090,
+      "time": 1786805991060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673202"
     },
     {
@@ -1902,36 +1912,6 @@
       "place": "2 km WNW of Pinnacles, CA",
       "time": 1786805332430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418807"
-    },
-    {
-      "id": "hv75019212",
-      "lon": -155.488159179688,
-      "lat": 19.1389999389648,
-      "depth": 30.7299995422363,
-      "mag": 3.24,
-      "place": "7 km S of Pāhala, Hawaii",
-      "time": 1786803859780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019212"
-    },
-    {
-      "id": "nc75418802",
-      "lon": -122.846000671387,
-      "lat": 38.8219985961914,
-      "depth": 2.35999989509583,
-      "mag": 1.29,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": 1786803816100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418802"
-    },
-    {
-      "id": "nc75418797",
-      "lon": -122.817001342773,
-      "lat": 38.8318328857422,
-      "depth": 2.16000008583069,
-      "mag": 0.75,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1786803649240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418797"
     }
   ]
 }
