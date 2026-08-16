@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-16T03:00:57Z",
-  "count": 226,
+  "updated": "2026-08-16T03:09:03Z",
+  "count": 224,
   "points": [
+    {
+      "id": "ci40673506",
+      "lon": -116.736663818359,
+      "lat": 33.291332244873,
+      "depth": 12.7600002288818,
+      "mag": 0.984534607560995,
+      "place": "6 km NNE of Lake Henshaw, CA",
+      "time": 1786849578530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673506"
+    },
     {
       "id": "aka2026qdmoqo",
       "lon": -148.715,
@@ -2232,36 +2242,6 @@
       "place": "87 km ENE of Chignik, Alaska",
       "time": 1786763349217,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qbrglq"
-    },
-    {
-      "id": "aka2026qbrewc",
-      "lon": -147.736,
-      "lat": 63.549,
-      "depth": 5.9,
-      "mag": 1.4,
-      "place": "61 km ESE of Denali Park, Alaska",
-      "time": 1786763239129,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qbrewc"
-    },
-    {
-      "id": "nc75418522",
-      "lon": -121.411331176758,
-      "lat": 36.8815002441406,
-      "depth": 4.94000005722046,
-      "mag": 1.29,
-      "place": "4 km NNW of Hollister, CA",
-      "time": 1786763107130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418522"
-    },
-    {
-      "id": "aka2026qbqznn",
-      "lon": -177.466,
-      "lat": 51.43,
-      "depth": 53.3,
-      "mag": 1.8,
-      "place": "75 km SW of Adak, Alaska",
-      "time": 1786762861720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qbqznn"
     }
   ]
 }
