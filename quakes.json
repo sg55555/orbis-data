@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-16T22:45:33Z",
-  "count": 188,
+  "updated": "2026-08-16T22:53:14Z",
+  "count": 189,
   "points": [
+    {
+      "id": "hv75019597",
+      "lon": -155.578002929688,
+      "lat": 19.4273338317871,
+      "depth": 38.2299995422363,
+      "mag": 1.85,
+      "place": "26 km NNW of Pāhala, Hawaii",
+      "time": 1786920456230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019597"
+    },
     {
       "id": "aka2026qfajll",
       "lon": -147.434,
@@ -92,6 +102,16 @@
       "place": "6 km W of Cobb, CA",
       "time": 1786915896860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419677"
+    },
+    {
+      "id": "usd0015ea9",
+      "lon": 129.5762,
+      "lat": -7.1047,
+      "depth": 163.13,
+      "mag": 4.5,
+      "place": "Kepulauan Babar, Indonesia",
+      "time": 1786915698985,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ea9"
     },
     {
       "id": "nc75419667",
@@ -1872,16 +1892,6 @@
       "place": "19 km NE of Colonia, Micronesia",
       "time": 1786834375761,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl43"
-    },
-    {
-      "id": "us6000tl40",
-      "lon": -90.984,
-      "lat": 13.189,
-      "depth": 10,
-      "mag": 4.4,
-      "place": "83 km SSW of Puerto San José, Guatemala",
-      "time": 1786833924028,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl40"
     }
   ]
 }
