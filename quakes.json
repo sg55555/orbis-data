@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-16T06:00:50Z",
-  "count": 207,
+  "updated": "2026-08-16T06:15:32Z",
+  "count": 206,
   "points": [
+    {
+      "id": "nc75419277",
+      "lon": -118.84033203125,
+      "lat": 37.4503326416016,
+      "depth": 1.9099999666214,
+      "mag": 2.46,
+      "place": "19 km SW of Toms Place, CA",
+      "time": 1786860087090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419277"
+    },
     {
       "id": "nc75419267",
       "lon": -122.803833007812,
@@ -42,6 +52,16 @@
       "place": "4 km WNW of Point MacKenzie, Alaska",
       "time": 1786858205977,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qdrzfl"
+    },
+    {
+      "id": "tx2026qbclqd",
+      "lon": -104.102,
+      "lat": 31.611,
+      "depth": 4.5009,
+      "mag": 1.4,
+      "place": "44 km NW of Toyah, Texas",
+      "time": 1786857807776,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qbclqd"
     },
     {
       "id": "ci40673570",
@@ -2042,36 +2062,6 @@
       "place": "16 km ESE of Julian, CA",
       "time": 1786774867450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673018"
-    },
-    {
-      "id": "hv75019107",
-      "lon": -155.241,
-      "lat": 19.4531666666667,
-      "depth": 21.73,
-      "mag": 2.58,
-      "place": "1 km NNW of Volcano, Hawaii",
-      "time": 1786774303760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019107"
-    },
-    {
-      "id": "nc75418627",
-      "lon": -122.795829772949,
-      "lat": 38.8266677856445,
-      "depth": 3.24000000953674,
-      "mag": 1.07,
-      "place": "6 km W of Cobb, CA",
-      "time": 1786773897170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418627"
-    },
-    {
-      "id": "aka2026qbwzhu",
-      "lon": -149.83,
-      "lat": 61.628,
-      "depth": 26.9,
-      "mag": 2.7,
-      "place": "0 km WSW of Houston, Alaska",
-      "time": 1786773650614,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qbwzhu"
     }
   ]
 }
