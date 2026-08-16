@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-16T11:15:34Z",
-  "count": 204,
+  "updated": "2026-08-16T11:30:22Z",
+  "count": 205,
   "points": [
+    {
+      "id": "nc75419397",
+      "lon": -122.935333251953,
+      "lat": 38.7685012817383,
+      "depth": 7.05999994277954,
+      "mag": 1.9,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": 1786878882040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419397"
+    },
     {
       "id": "ci40673786",
       "lon": -115.513333333333,
@@ -22,6 +32,16 @@
       "place": "17 km NNE of Indio, CA",
       "time": 1786877965360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673778"
+    },
+    {
+      "id": "usd0015e7p",
+      "lon": 146.7476,
+      "lat": -5.5481,
+      "depth": 138.737,
+      "mag": 5.1,
+      "place": "112 km ESE of Madang, Papua New Guinea",
+      "time": 1786877950367,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7p"
     },
     {
       "id": "aka2026qectoa",
@@ -815,12 +835,12 @@
     },
     {
       "id": "tx2026qaykwt",
-      "lon": -100.986,
-      "lat": 32.219,
-      "depth": 2.1538,
-      "mag": 2,
-      "place": "15 km S of Westbrook, Texas",
-      "time": 1786850312877,
+      "lon": -100.98,
+      "lat": 32.221,
+      "depth": 1.9265,
+      "mag": 1.9,
+      "place": "15 km SSE of Westbrook, Texas",
+      "time": 1786850312848,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qaykwt"
     },
     {
@@ -2032,16 +2052,6 @@
       "place": "63 km ESE of Yilan, Taiwan",
       "time": 1786793415368,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl0a"
-    },
-    {
-      "id": "aka2026qchrxo",
-      "lon": -146.452,
-      "lat": 61.539,
-      "depth": 35.2,
-      "mag": 1.6,
-      "place": "45 km N of Valdez, Alaska",
-      "time": 1786792929294,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qchrxo"
     }
   ]
 }
