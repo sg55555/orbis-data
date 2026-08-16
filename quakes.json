@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-16T23:45:30Z",
-  "count": 189,
+  "updated": "2026-08-16T23:51:42Z",
+  "count": 191,
   "points": [
+    {
+      "id": "nc75419742",
+      "lon": -122.842834472656,
+      "lat": 38.8643341064453,
+      "depth": -0.779999971389771,
+      "mag": 1.05,
+      "place": "11 km WNW of Cobb, CA",
+      "time": 1786923954780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419742"
+    },
+    {
+      "id": "nc75419732",
+      "lon": -122.846832275391,
+      "lat": 38.8499984741211,
+      "depth": 1.29999995231628,
+      "mag": 0.42,
+      "place": "11 km WNW of Cobb, CA",
+      "time": 1786923908300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419732"
+    },
+    {
+      "id": "nc75419722",
+      "lon": -122.811500549316,
+      "lat": 38.8166656494141,
+      "depth": 2.97000002861023,
+      "mag": 0.84,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1786923811170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419722"
+    },
     {
       "id": "hv75019617",
       "lon": -155.498840332031,
@@ -17,7 +47,7 @@
       "id": "tx2026qcmpqd",
       "lon": -104.516,
       "lat": 31.611,
-      "depth": 3.1319,
+      "depth": 3.1321,
       "mag": 1.5,
       "place": "63 km SSW of Whites City, New Mexico",
       "time": 1786923056167,
@@ -1882,16 +1912,6 @@
       "place": "13 km WSW of Searles Valley, CA",
       "time": 1786838421620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673450"
-    },
-    {
-      "id": "tx2026qarmkd",
-      "lon": -104.097,
-      "lat": 31.612,
-      "depth": 4.8026,
-      "mag": 1.7,
-      "place": "43 km NW of Toyah, Texas",
-      "time": 1786837752097,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qarmkd"
     }
   ]
 }
