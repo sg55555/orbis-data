@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-16T18:15:32Z",
+  "updated": "2026-08-16T18:30:45Z",
   "count": 194,
   "points": [
+    {
+      "id": "ci40673938",
+      "lon": -116.817833333333,
+      "lat": 33.7008333333333,
+      "depth": 14.9,
+      "mag": 0.84,
+      "place": "9 km SE of Valle Vista, CA",
+      "time": 1786904741400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673938"
+    },
+    {
+      "id": "nc75419547",
+      "lon": -121.170829772949,
+      "lat": 36.5588340759277,
+      "depth": 2.23000001907349,
+      "mag": 2.03,
+      "place": "4 km NW of Pinnacles, CA",
+      "time": 1786904658820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419547"
+    },
     {
       "id": "nc75419542",
       "lon": -122.792999267578,
@@ -415,12 +435,12 @@
     },
     {
       "id": "ci40673810",
-      "lon": -118.258,
-      "lat": 33.8468333333333,
-      "depth": 7.9,
-      "mag": 1.77,
-      "place": "3 km NE of Carson, CA",
-      "time": 1786882272440,
+      "lon": -118.247333333333,
+      "lat": 33.8448333333333,
+      "depth": 7.96,
+      "mag": 1.61,
+      "place": "4 km ENE of Carson, CA",
+      "time": 1786882272350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673810"
     },
     {
@@ -1255,12 +1275,12 @@
     },
     {
       "id": "ci40673530",
-      "lon": -116.531333333333,
-      "lat": 32.2596666666667,
-      "depth": 7.73,
-      "mag": 1.53,
-      "place": "35 km SSE of Tecate, B.C., MX",
-      "time": 1786850801250,
+      "lon": -116.5395,
+      "lat": 32.2546666666667,
+      "depth": 9.51,
+      "mag": 1.52,
+      "place": "36 km E of Primo Tapia, B.C., MX",
+      "time": 1786850801180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673530"
     },
     {
@@ -1922,26 +1942,6 @@
       "place": "11 km WSW of Salton City, CA",
       "time": 1786818625540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673290"
-    },
-    {
-      "id": "tx2026qagoyu",
-      "lon": -103.424,
-      "lat": 32.064,
-      "depth": 0.412,
-      "mag": 2.2,
-      "place": "22 km WSW of Jal, New Mexico",
-      "time": 1786818011658,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qagoyu"
-    },
-    {
-      "id": "tx2026qagons",
-      "lon": -101.994,
-      "lat": 31.679,
-      "depth": 3.5593,
-      "mag": 2.6,
-      "place": "36 km SSE of Midland, Texas",
-      "time": 1786817989106,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qagons"
     }
   ]
 }
