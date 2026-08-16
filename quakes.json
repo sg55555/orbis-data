@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-16T02:30:43Z",
-  "count": 227,
+  "updated": "2026-08-16T02:45:36Z",
+  "count": 228,
   "points": [
+    {
+      "id": "ci40673498",
+      "lon": -117.837666666667,
+      "lat": 36.0681666666667,
+      "depth": 2.79,
+      "mag": 0.91,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": 1786847653590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673498"
+    },
+    {
+      "id": "ci40673490",
+      "lon": -116.5175,
+      "lat": 33.1606666666667,
+      "depth": 5.81,
+      "mag": 0.53,
+      "place": "12 km NE of Julian, CA",
+      "time": 1786847603660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673490"
+    },
     {
       "id": "aka2026qdlvlg",
       "lon": -141.552,
@@ -242,6 +262,16 @@
       "place": "10 km E of Pearsall, Texas",
       "time": 1786831967875,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qaohkr"
+    },
+    {
+      "id": "us6000tl3u",
+      "lon": 126.0929,
+      "lat": 5.173,
+      "depth": 93.165,
+      "mag": 4.4,
+      "place": "74 km ESE of Sarangani, Philippines",
+      "time": 1786831803063,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl3u"
     },
     {
       "id": "ci40673410",
@@ -2252,26 +2282,6 @@
       "place": "69 km NNW of Ende, Indonesia",
       "time": 1786762015923,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkw2"
-    },
-    {
-      "id": "tx2026pzbovm",
-      "lon": -104.285,
-      "lat": 31.594,
-      "depth": 4.3457,
-      "mag": 1.7,
-      "place": "56 km WNW of Toyah, Texas",
-      "time": 1786761881458,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pzbovm"
-    },
-    {
-      "id": "aka2026qbqgwv",
-      "lon": -149.427,
-      "lat": 63.069,
-      "depth": 24.9,
-      "mag": 2,
-      "place": "43 km SSW of Cantwell, Alaska",
-      "time": 1786761582142,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qbqgwv"
     }
   ]
 }
