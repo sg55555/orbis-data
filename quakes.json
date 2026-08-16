@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-16T05:00:52Z",
-  "count": 219,
+  "updated": "2026-08-16T05:03:47Z",
+  "count": 218,
   "points": [
     {
       "id": "ci40673562",
@@ -74,16 +74,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419222"
     },
     {
-      "id": "tx2026qazpun",
-      "lon": -104.411,
-      "lat": 31.767,
-      "depth": 1.9866,
-      "mag": 2.3,
-      "place": "45 km S of Whites City, New Mexico",
-      "time": 1786852544627,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qazpun"
-    },
-    {
       "id": "tx2026qazqpe",
       "lon": -104.179,
       "lat": 31.704,
@@ -92,6 +82,16 @@
       "place": "54 km W of Mentone, Texas",
       "time": 1786852541051,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qazqpe"
+    },
+    {
+      "id": "tx2026qazpun",
+      "lon": -104.18,
+      "lat": 31.704,
+      "depth": 4.5901,
+      "mag": 2.1,
+      "place": "55 km W of Mentone, Texas",
+      "time": 1786852541039,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qazpun"
     },
     {
       "id": "nc75419207",
@@ -2182,16 +2182,6 @@
       "place": "3 km SE of The Geysers, CA",
       "time": 1786770297840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418607"
-    },
-    {
-      "id": "nc75418602",
-      "lon": -122.736167907715,
-      "lat": 38.7573318481445,
-      "depth": 1.47000002861023,
-      "mag": 1.14,
-      "place": "3 km SE of The Geysers, CA",
-      "time": 1786770138380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418602"
     }
   ]
 }
