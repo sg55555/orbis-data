@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-16T00:15:36Z",
-  "count": 235,
+  "updated": "2026-08-16T00:30:43Z",
+  "count": 234,
   "points": [
+    {
+      "id": "ci40673458",
+      "lon": -116.407833333333,
+      "lat": 33.031,
+      "depth": 8.69,
+      "mag": 0.96,
+      "place": "19 km ESE of Julian, CA",
+      "time": 1786839364770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673458"
+    },
     {
       "id": "ci40673450",
       "lon": -117.5385,
@@ -2332,26 +2342,6 @@
       "place": "Balleny Islands region",
       "time": 1786754413397,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvi"
-    },
-    {
-      "id": "aka2026qbltfw",
-      "lon": -149.379,
-      "lat": 64.525,
-      "depth": 1.8,
-      "mag": 1.8,
-      "place": "14 km WSW of Nenana, Alaska",
-      "time": 1786753438646,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qbltfw"
-    },
-    {
-      "id": "us6000tkvg",
-      "lon": 121.2789,
-      "lat": -8.6065,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "49 km WNW of Ende, Indonesia",
-      "time": 1786753227120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvg"
     }
   ]
 }
