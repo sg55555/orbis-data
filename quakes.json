@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-16T16:45:37Z",
-  "count": 195,
+  "updated": "2026-08-16T16:58:54Z",
+  "count": 193,
   "points": [
+    {
+      "id": "ci40673906",
+      "lon": -116.333333333333,
+      "lat": 32.9388333333333,
+      "depth": 7.61,
+      "mag": 0.78,
+      "place": "22 km NE of Pine Valley, CA",
+      "time": 1786899243470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673906"
+    },
     {
       "id": "hv75019527",
       "lon": -155.502670288086,
@@ -1922,36 +1932,6 @@
       "place": "44 km WSW of Kailua-Kona, Hawaii",
       "time": 1786813769280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019242"
-    },
-    {
-      "id": "us6000tl2c",
-      "lon": 120.6878,
-      "lat": -7.795,
-      "depth": 9.95,
-      "mag": 4.5,
-      "place": "93 km NNE of Ruteng, Indonesia",
-      "time": 1786813085970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2c"
-    },
-    {
-      "id": "aka2026qcsvho",
-      "lon": -151.077,
-      "lat": 60.373,
-      "depth": 54.7,
-      "mag": 2,
-      "place": "11 km ENE of Kasilof, Alaska",
-      "time": 1786812955204,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qcsvho"
-    },
-    {
-      "id": "us6000tl2a",
-      "lon": 73.9208,
-      "lat": 38.6186,
-      "depth": 99.461,
-      "mag": 4.1,
-      "place": "49 km N of Murghob, Tajikistan",
-      "time": 1786812446516,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2a"
     }
   ]
 }
