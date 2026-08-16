@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-16T00:30:43Z",
-  "count": 234,
+  "updated": "2026-08-16T00:45:38Z",
+  "count": 233,
   "points": [
+    {
+      "id": "hv75019372",
+      "lon": -155.35417175293,
+      "lat": 19.4318332672119,
+      "depth": 5.05000019073486,
+      "mag": 3.24,
+      "place": "12 km W of Volcano, Hawaii",
+      "time": 1786840326890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019372"
+    },
     {
       "id": "ci40673458",
       "lon": -116.407833333333,
@@ -182,6 +192,16 @@
       "place": "10 km ENE of Ocotillo Wells, CA",
       "time": 1786829031740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673370"
+    },
+    {
+      "id": "us6000tl3n",
+      "lon": 120.5111,
+      "lat": -7.8284,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "86 km N of Ruteng, Indonesia",
+      "time": 1786828112582,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl3n"
     },
     {
       "id": "tx2026qambhg",
@@ -2312,36 +2332,6 @@
       "place": "2 km N of The Geysers, CA",
       "time": 1786754869290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418467"
-    },
-    {
-      "id": "us6000tkvj",
-      "lon": 156.3863,
-      "lat": 50.3745,
-      "depth": 78.982,
-      "mag": 5.4,
-      "place": "38 km SSE of Severo-Kuril’sk, Russia",
-      "time": 1786754609640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvj"
-    },
-    {
-      "id": "us6000tkvh",
-      "lon": 121.4162,
-      "lat": -8.248,
-      "depth": 10,
-      "mag": 5.1,
-      "place": "71 km NNW of Ende, Indonesia",
-      "time": 1786754418406,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvh"
-    },
-    {
-      "id": "us6000tkvi",
-      "lon": 165.89,
-      "lat": -62.9125,
-      "depth": 10,
-      "mag": 5.3,
-      "place": "Balleny Islands region",
-      "time": 1786754413397,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvi"
     }
   ]
 }
