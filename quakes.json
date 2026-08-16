@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-16T05:45:34Z",
-  "count": 209,
+  "updated": "2026-08-16T06:00:50Z",
+  "count": 207,
   "points": [
+    {
+      "id": "nc75419267",
+      "lon": -122.803833007812,
+      "lat": 38.8339996337891,
+      "depth": 1.60000002384186,
+      "mag": 0.96,
+      "place": "7 km W of Cobb, CA",
+      "time": 1786859638610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419267"
+    },
+    {
+      "id": "nc75419252",
+      "lon": -122.801666259766,
+      "lat": 38.833667755127,
+      "depth": 1.8400000333786,
+      "mag": 1.48,
+      "place": "7 km W of Cobb, CA",
+      "time": 1786859418660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419252"
+    },
+    {
+      "id": "aka2026qdslov",
+      "lon": -154.956,
+      "lat": 58.263,
+      "depth": 6.2,
+      "mag": 1.5,
+      "place": "82 km NNW of Karluk, Alaska",
+      "time": 1786859060208,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qdslov"
+    },
     {
       "id": "aka2026qdrzfl",
       "lon": -150.048,
@@ -2042,56 +2072,6 @@
       "place": "0 km WSW of Houston, Alaska",
       "time": 1786773650614,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qbwzhu"
-    },
-    {
-      "id": "tx2026pzhyoa",
-      "lon": -101.922,
-      "lat": 32.254,
-      "depth": 3.8527,
-      "mag": 1.1,
-      "place": "18 km NW of Stanton, Texas",
-      "time": 1786773451840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pzhyoa"
-    },
-    {
-      "id": "pr71528533",
-      "lon": -66.9175,
-      "lat": 17.9343333333333,
-      "depth": 13.73,
-      "mag": 1.99,
-      "place": "4 km SSW of Guánica, Puerto Rico",
-      "time": 1786773406130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528533"
-    },
-    {
-      "id": "us6000tkxt",
-      "lon": -171.2326,
-      "lat": 51.0209,
-      "depth": 10,
-      "mag": 2.9,
-      "place": "243 km ESE of Atka, Alaska",
-      "time": 1786773271347,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkxt"
-    },
-    {
-      "id": "aka2026qbwtip",
-      "lon": -156.462,
-      "lat": 58.181,
-      "depth": 5.5,
-      "mag": 2.4,
-      "place": "53 km E of Egegik, Alaska",
-      "time": 1786773237250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qbwtip"
-    },
-    {
-      "id": "us6000tkwj",
-      "lon": 121.3609,
-      "lat": -8.3681,
-      "depth": 10,
-      "mag": 5,
-      "place": "62 km NNW of Ende, Indonesia",
-      "time": 1786772708046,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwj"
     }
   ]
 }
