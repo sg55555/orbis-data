@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-16T10:15:33Z",
-  "count": 204,
+  "updated": "2026-08-16T10:30:47Z",
+  "count": 206,
   "points": [
+    {
+      "id": "ci40673770",
+      "lon": -115.511666666667,
+      "lat": 32.8733333333333,
+      "depth": 5.81,
+      "mag": 1.22,
+      "place": "6 km ENE of Imperial, CA",
+      "time": 1786875510380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673770"
+    },
+    {
+      "id": "nc75419387",
+      "lon": -122.844329833984,
+      "lat": 38.8251647949219,
+      "depth": 2.10999989509583,
+      "mag": 0.44,
+      "place": "9 km NW of The Geysers, CA",
+      "time": 1786875306590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419387"
+    },
     {
       "id": "ci40673762",
       "lon": -116.335,
@@ -52,6 +72,16 @@
       "place": "15 km WNW of Nelson, Nevada",
       "time": 1786874352827,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923371"
+    },
+    {
+      "id": "usd0015e7e",
+      "lon": -109.2716,
+      "lat": 31.2009,
+      "depth": 16.424,
+      "mag": 4,
+      "place": "30 km ESE of Agua Prieta, Mexico",
+      "time": 1786874258788,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7e"
     },
     {
       "id": "ci40673738",
@@ -2032,16 +2062,6 @@
       "place": "39 km NNW of Ruteng, Indonesia",
       "time": 1786789890185,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyg"
-    },
-    {
-      "id": "pr2026227000",
-      "lon": -64.3383,
-      "lat": 19.4871,
-      "depth": 10,
-      "mag": 3.54,
-      "place": "136 km NNE of Cruz Bay, U.S. Virgin Islands",
-      "time": 1786789017590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026227000"
     }
   ]
 }
