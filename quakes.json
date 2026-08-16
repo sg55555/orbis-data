@@ -1,16 +1,16 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-16T03:09:03Z",
+  "updated": "2026-08-16T03:15:31Z",
   "count": 224,
   "points": [
     {
       "id": "ci40673506",
-      "lon": -116.736663818359,
-      "lat": 33.291332244873,
-      "depth": 12.7600002288818,
-      "mag": 0.984534607560995,
-      "place": "6 km NNE of Lake Henshaw, CA",
-      "time": 1786849578530,
+      "lon": -116.746166666667,
+      "lat": 33.2885,
+      "depth": 12.12,
+      "mag": 1.01,
+      "place": "5 km NNE of Lake Henshaw, CA",
+      "time": 1786849578560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673506"
     },
     {
@@ -232,6 +232,16 @@
       "place": "19 km NE of Colonia, Micronesia",
       "time": 1786834375761,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl43"
+    },
+    {
+      "id": "us6000tl40",
+      "lon": -90.984,
+      "lat": 13.189,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "83 km SSW of Puerto San José, Guatemala",
+      "time": 1786833924028,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl40"
     },
     {
       "id": "aka2026qdeiyi",
@@ -2232,16 +2242,6 @@
       "place": "122 km WSW of Adak, Alaska",
       "time": 1786764529692,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qbrxni"
-    },
-    {
-      "id": "aka2026qbrglq",
-      "lon": -157.121,
-      "lat": 56.625,
-      "depth": 99.1,
-      "mag": 2.1,
-      "place": "87 km ENE of Chignik, Alaska",
-      "time": 1786763349217,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qbrglq"
     }
   ]
 }
