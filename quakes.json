@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-17T21:30:46Z",
-  "count": 220,
+  "updated": "2026-08-17T21:35:09Z",
+  "count": 219,
   "points": [
     {
       "id": "ok2026qcfe",
@@ -404,16 +404,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674530"
     },
     {
-      "id": "tx2026qduyaz",
-      "lon": -101.513,
-      "lat": 32.105,
-      "depth": 2.203,
-      "mag": 1,
-      "place": "13 km W of Forsan, Texas",
-      "time": 1786985193456,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qduyaz"
-    },
-    {
       "id": "ci40674514",
       "lon": -116.680666666667,
       "lat": 33.6903333333333,
@@ -452,6 +442,16 @@
       "place": "8 km W of Tecate, B.C., MX",
       "time": 1786983953150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674490"
+    },
+    {
+      "id": "tx2026qdudte",
+      "lon": -99.005,
+      "lat": 28.812,
+      "depth": 7.5671,
+      "mag": 1.9,
+      "place": "12 km SE of Pearsall, Texas",
+      "time": 1786983777598,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qdudte"
     },
     {
       "id": "nc75420107",
@@ -1855,12 +1855,12 @@
     },
     {
       "id": "ci40674138",
-      "lon": -117.1755,
-      "lat": 34.0278333333333,
-      "depth": 4.79,
-      "mag": 0.97,
+      "lon": -117.173833333333,
+      "lat": 34.0271666666667,
+      "depth": 4.65,
+      "mag": 0.89,
       "place": "3 km SSE of Redlands, CA",
-      "time": 1786928096650,
+      "time": 1786928096670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674138"
     },
     {
@@ -2192,16 +2192,6 @@
       "place": "17 km SE of Karatsu, Japan",
       "time": 1786916236137,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eab"
-    },
-    {
-      "id": "nc75419677",
-      "lon": -122.789001464844,
-      "lat": 38.8306655883789,
-      "depth": 1.73000001907349,
-      "mag": 1.82,
-      "place": "6 km W of Cobb, CA",
-      "time": 1786915896860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419677"
     }
   ]
 }
