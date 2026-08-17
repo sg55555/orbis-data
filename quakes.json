@@ -1,17 +1,57 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-17T01:51:22Z",
-  "count": 205,
+  "updated": "2026-08-17T02:15:35Z",
+  "count": 206,
   "points": [
     {
+      "id": "aka2026qfhjhd",
+      "lon": -143.315,
+      "lat": 60.164,
+      "depth": 5,
+      "mag": 3.7,
+      "place": "141 km ESE of Cordova, Alaska",
+      "time": 1786932666348,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qfhjhd"
+    },
+    {
+      "id": "pr71528738",
+      "lon": -66.7523333333333,
+      "lat": 18.0145,
+      "depth": 15.79,
+      "mag": 2,
+      "place": "1 km E of Magas Arriba, Puerto Rico",
+      "time": 1786932079470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528738"
+    },
+    {
+      "id": "nc75419767",
+      "lon": -122.778335571289,
+      "lat": 38.7804985046387,
+      "depth": 3.36999988555908,
+      "mag": 0.35,
+      "place": "2 km W of The Geysers, CA",
+      "time": 1786931588060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419767"
+    },
+    {
       "id": "tx2026qcrcjl",
-      "lon": -104.144,
-      "lat": 31.526,
-      "depth": 4.9202,
+      "lon": -104.138,
+      "lat": 31.531,
+      "depth": 6.828,
       "mag": 1.6,
       "place": "40 km NW of Toyah, Texas",
-      "time": 1786931191084,
+      "time": 1786931190870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qcrcjl"
+    },
+    {
+      "id": "pr2026229000",
+      "lon": -64.9306,
+      "lat": 18.7603,
+      "depth": 18,
+      "mag": 3.55,
+      "place": "46 km N of Charlotte Amalie, U.S. Virgin Islands",
+      "time": 1786930821380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026229000"
     },
     {
       "id": "ci40674146",
@@ -42,6 +82,16 @@
       "place": "9 km S of Volcano, Hawaii",
       "time": 1786929639530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019652"
+    },
+    {
+      "id": "usd0015eaz",
+      "lon": 69.5974,
+      "lat": 38.3307,
+      "depth": 10,
+      "mag": 4.2,
+      "place": "24 km ESE of Norak, Tajikistan",
+      "time": 1786928491312,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eaz"
     },
     {
       "id": "usd0015eb0",
@@ -2012,46 +2062,6 @@
       "place": "13 km SSW of Volcano, Hawaii",
       "time": 1786846542620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019392"
-    },
-    {
-      "id": "nc75419162",
-      "lon": -122.806663513184,
-      "lat": 38.8308334350586,
-      "depth": 2.0699999332428,
-      "mag": 1.04,
-      "place": "7 km W of Cobb, CA",
-      "time": 1786846201770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419162"
-    },
-    {
-      "id": "ci40673482",
-      "lon": -117.8415,
-      "lat": 36.0661666666667,
-      "depth": 2.48,
-      "mag": 1.75,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": 1786845375630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673482"
-    },
-    {
-      "id": "pr71528643",
-      "lon": -66.9438333333333,
-      "lat": 17.9698333333333,
-      "depth": 11.19,
-      "mag": 2.68,
-      "place": "3 km SW of Fuig, Puerto Rico",
-      "time": 1786845246020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528643"
-    },
-    {
-      "id": "ci40673474",
-      "lon": -117.842666666667,
-      "lat": 36.0663333333333,
-      "depth": 2.49,
-      "mag": 1.2,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": 1786845180830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673474"
     }
   ]
 }
