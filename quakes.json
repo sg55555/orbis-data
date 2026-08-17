@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-17T15:01:21Z",
-  "count": 211,
+  "updated": "2026-08-17T15:15:36Z",
+  "count": 208,
   "points": [
     {
       "id": "ci40674434",
@@ -52,6 +52,16 @@
       "place": "6 km WNW of The Geysers, CA",
       "time": 1786975777020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420052"
+    },
+    {
+      "id": "usd0015ee2",
+      "lon": 120.4472,
+      "lat": -8.3182,
+      "depth": 10,
+      "mag": 5,
+      "place": "32 km N of Ruteng, Indonesia",
+      "time": 1786975114474,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ee2"
     },
     {
       "id": "aka2026qgeidn",
@@ -1485,12 +1495,12 @@
     },
     {
       "id": "ci40674098",
-      "lon": -116.7345,
-      "lat": 33.293,
-      "depth": 12.54,
-      "mag": 0.86,
+      "lon": -116.7375,
+      "lat": 33.2906666666667,
+      "depth": 12.86,
+      "mag": 0.61,
       "place": "6 km NNE of Lake Henshaw, CA",
-      "time": 1786918942570,
+      "time": 1786918942480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674098"
     },
     {
@@ -1505,12 +1515,12 @@
     },
     {
       "id": "ci40674082",
-      "lon": -117.613666666667,
-      "lat": 35.6966666666667,
-      "depth": 8.29,
-      "mag": 1.48,
+      "lon": -117.612333333333,
+      "lat": 35.6981666666667,
+      "depth": 8.57,
+      "mag": 1.53,
       "place": "10 km NNE of Ridgecrest, CA",
-      "time": 1786918179810,
+      "time": 1786918179760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674082"
     },
     {
@@ -2072,46 +2082,6 @@
       "place": "11 km E of Hala‘ula, Hawaii",
       "time": 1786893930450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019517"
-    },
-    {
-      "id": "nc75419442",
-      "lon": -122.819664001465,
-      "lat": 38.8128318786621,
-      "depth": 2.78999996185303,
-      "mag": 0.73,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1786892926460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419442"
-    },
-    {
-      "id": "ci40673850",
-      "lon": -117.693166666667,
-      "lat": 35.8978333333333,
-      "depth": 3.96,
-      "mag": 1.34,
-      "place": "20 km ESE of Little Lake, CA",
-      "time": 1786892817870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673850"
-    },
-    {
-      "id": "pr71528688",
-      "lon": -67.3213333333333,
-      "lat": 18.1488333333333,
-      "depth": 6.96,
-      "mag": 3.05,
-      "place": "16 km WNW of Puerto Real, Puerto Rico",
-      "time": 1786892783190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528688"
-    },
-    {
-      "id": "pr71528673",
-      "lon": -66.7815,
-      "lat": 19.002,
-      "depth": 24.45,
-      "mag": 3.14,
-      "place": "57 km N of Hatillo, Puerto Rico",
-      "time": 1786892691100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528673"
     }
   ]
 }
