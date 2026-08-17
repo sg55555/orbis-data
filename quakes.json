@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-17T12:45:36Z",
-  "count": 200,
+  "updated": "2026-08-17T13:00:54Z",
+  "count": 199,
   "points": [
     {
       "id": "nc75420007",
@@ -15,13 +15,23 @@
     },
     {
       "id": "ci40674394",
-      "lon": -116.632331848145,
-      "lat": 32.689998626709,
-      "depth": 23.6000003814697,
-      "mag": 1.76741002425764,
+      "lon": -116.632833333333,
+      "lat": 32.6905,
+      "depth": 22.26,
+      "mag": 1.39,
       "place": "14 km N of Tecate, B.C., MX",
-      "time": 1786970517950,
+      "time": 1786970518080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674394"
+    },
+    {
+      "id": "usd0015edq",
+      "lon": 159.7259,
+      "lat": 52.9129,
+      "depth": 67.497,
+      "mag": 5.3,
+      "place": "75 km ESE of Petropavlovsk-Kamchatsky, Russia",
+      "time": 1786970284600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edq"
     },
     {
       "id": "hv75019792",
@@ -55,12 +65,12 @@
     },
     {
       "id": "ci40674386",
-      "lon": -117.570666666667,
-      "lat": 35.6773333333333,
-      "depth": 7.38,
+      "lon": -117.571833333333,
+      "lat": 35.677,
+      "depth": 7.3,
       "mag": 0.53,
       "place": "11 km ENE of Ridgecrest, CA",
-      "time": 1786968908210,
+      "time": 1786968908200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674386"
     },
     {
@@ -312,6 +322,16 @@
       "place": "7 km ESE of Valle Vista, CA",
       "time": 1786959748660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674306"
+    },
+    {
+      "id": "ok2026qbhp",
+      "lon": -95.982,
+      "lat": 34.685,
+      "depth": 16,
+      "mag": 1.21,
+      "place": "5 km NE of Wardville, Oklahoma",
+      "time": 1786959199109,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026qbhp"
     },
     {
       "id": "aka2026qfvunv",
@@ -882,6 +902,16 @@
       "place": "11 km WNW of Cobb, CA",
       "time": 1786937089720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419817"
+    },
+    {
+      "id": "ci40674178",
+      "lon": -116.732166666667,
+      "lat": 33.289,
+      "depth": 13.45,
+      "mag": 1.45537851943473,
+      "place": "6 km NNE of Lake Henshaw, CA",
+      "time": 1786936564660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674178"
     },
     {
       "id": "aka2026qfjamr",
@@ -1962,46 +1992,6 @@
       "place": "17 km S of Lindsay, Texas",
       "time": 1786885787899,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qbsajb"
-    },
-    {
-      "id": "nc75419407",
-      "lon": -118.445999145508,
-      "lat": 37.4821662902832,
-      "depth": 7.55999994277954,
-      "mag": 2.31,
-      "place": "11 km NNW of Dixon Lane-Meadow Creek, CA",
-      "time": 1786885053550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419407"
-    },
-    {
-      "id": "aka2026qeguys",
-      "lon": -150.778,
-      "lat": 60.914,
-      "depth": 5,
-      "mag": 3.1,
-      "place": "4 km WSW of Point Possession, Alaska",
-      "time": 1786884897761,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qeguys"
-    },
-    {
-      "id": "nn00923380",
-      "lon": -116.0685,
-      "lat": 36.718,
-      "depth": 6.274,
-      "mag": 2.2,
-      "place": "39 km WNW of Indian Springs, Nevada",
-      "time": 1786884787290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923380"
-    },
-    {
-      "id": "aka2026qegoga",
-      "lon": -149.338,
-      "lat": 62.991,
-      "depth": 2.8,
-      "mag": 2.3,
-      "place": "48 km SSW of Cantwell, Alaska",
-      "time": 1786884430295,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qegoga"
     }
   ]
 }
