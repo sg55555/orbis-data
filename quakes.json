@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-17T19:45:32Z",
-  "count": 229,
+  "updated": "2026-08-17T19:56:54Z",
+  "count": 228,
   "points": [
+    {
+      "id": "hv75019822",
+      "lon": -155.53450012207,
+      "lat": 19.1943340301514,
+      "depth": -0.46000000834465,
+      "mag": 1.7,
+      "place": "5 km W of Pāhala, Hawaii",
+      "time": 1786996390980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019822"
+    },
     {
       "id": "ci40674650",
       "lon": -116.784333333333,
@@ -15,12 +25,12 @@
     },
     {
       "id": "hv75019812",
-      "lon": -155.840667724609,
-      "lat": 19.3113327026367,
-      "depth": 14.3400001525879,
-      "mag": 4.29,
-      "place": "16 km S of Honaunau-Napoopoo, Hawaii",
-      "time": 1786994648310,
+      "lon": -155.827333333333,
+      "lat": 19.3153333333333,
+      "depth": 23,
+      "mag": 4.06,
+      "place": "16 km SSE of Honaunau-Napoopoo, Hawaii",
+      "time": 1786994648290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019812"
     },
     {
@@ -2272,26 +2282,6 @@
       "place": "5 km NNW of Saratoga Springs, Utah",
       "time": 1786910570470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149051"
-    },
-    {
-      "id": "tx2026qcfjrz",
-      "lon": -104.163,
-      "lat": 31.705,
-      "depth": 7.0868,
-      "mag": 1.6,
-      "place": "53 km W of Mentone, Texas",
-      "time": 1786909970743,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qcfjrz"
-    },
-    {
-      "id": "aka2026qeunmy",
-      "lon": -149.573,
-      "lat": 61.9,
-      "depth": 44.5,
-      "mag": 1.7,
-      "place": "24 km NW of Fishhook, Alaska",
-      "time": 1786909572946,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qeunmy"
     }
   ]
 }
