@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-17T09:21:37Z",
+  "updated": "2026-08-17T09:30:44Z",
   "count": 188,
   "points": [
+    {
+      "id": "aka2026qfvunv",
+      "lon": -152.822,
+      "lat": 59.828,
+      "depth": 102.6,
+      "mag": 2.7,
+      "place": "55 km W of Anchor Point, Alaska",
+      "time": 1786958635859,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qfvunv"
+    },
     {
       "id": "nc75419957",
       "lon": -122.758499145508,
@@ -382,6 +392,16 @@
       "place": "9 km S of Volcano, Hawaii",
       "time": 1786944213550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019687"
+    },
+    {
+      "id": "usd0015ebp",
+      "lon": 175.3138,
+      "lat": -38.907,
+      "depth": 177.408,
+      "mag": 4.6,
+      "place": "43 km WNW of Turangi, New Zealand",
+      "time": 1786943921824,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebp"
     },
     {
       "id": "aka2026qfngls",
@@ -1862,26 +1882,6 @@
       "place": "6 km W of Cobb, CA",
       "time": 1786873649190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419372"
-    },
-    {
-      "id": "tx2026qbkntm",
-      "lon": -104.412,
-      "lat": 31.684,
-      "depth": 8.5814,
-      "mag": 1.5,
-      "place": "54 km S of Whites City, New Mexico",
-      "time": 1786872267730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qbkntm"
-    },
-    {
-      "id": "ci40673722",
-      "lon": -117.841333333333,
-      "lat": 36.0655,
-      "depth": 2.67,
-      "mag": 0.89,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": 1786872179830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673722"
     }
   ]
 }
