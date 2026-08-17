@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-17T21:35:09Z",
-  "count": 219,
+  "updated": "2026-08-17T21:54:26Z",
+  "count": 220,
   "points": [
     {
+      "id": "us6000tlbz",
+      "lon": 151.3834,
+      "lat": 46.4341,
+      "depth": 90.992,
+      "mag": 5.1,
+      "place": "Kuril Islands",
+      "time": 1787002595887,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlbz"
+    },
+    {
       "id": "ok2026qcfe",
-      "lon": -95.22416687,
-      "lat": 35.93155289,
-      "depth": 0.593179822,
-      "mag": 1.78,
-      "place": "7 km W of Hulbert, Oklahoma",
-      "time": 1787002057810,
+      "lon": -95.17166667,
+      "lat": 35.91016667,
+      "depth": 0,
+      "mag": 1.4,
+      "place": "3 km SW of Hulbert, Oklahoma",
+      "time": 1787002055270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026qcfe"
     },
     {
@@ -124,6 +134,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015efp"
     },
     {
+      "id": "aka2026qgqbll",
+      "lon": -140.895,
+      "lat": 61.096,
+      "depth": 5,
+      "mag": 2.4,
+      "place": "115 km ESE of McCarthy, Alaska",
+      "time": 1786995097670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qgqbll"
+    },
+    {
+      "id": "aka2026qgqavb",
+      "lon": -140.883,
+      "lat": 61.123,
+      "depth": 5,
+      "mag": 2.3,
+      "place": "114 km ESE of McCarthy, Alaska",
+      "time": 1786995055058,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qgqavb"
+    },
+    {
       "id": "ci40674650",
       "lon": -116.784333333333,
       "lat": 33.3305,
@@ -185,12 +215,12 @@
     },
     {
       "id": "aka2026qgpglq",
-      "lon": -147.21,
-      "lat": 61.181,
-      "depth": 15.4,
-      "mag": 1.7,
-      "place": "45 km NW of Tatitlek, Alaska",
-      "time": 1786993693458,
+      "lon": -147.312,
+      "lat": 61.156,
+      "depth": 5.6,
+      "mag": 1.6,
+      "place": "47 km NW of Tatitlek, Alaska",
+      "time": 1786993693212,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qgpglq"
     },
     {
@@ -235,12 +265,12 @@
     },
     {
       "id": "aka2026qgodma",
-      "lon": -151.585,
-      "lat": 59.699,
-      "depth": 63.4,
-      "mag": 2.7,
-      "place": "2 km NNW of Diamond Ridge, Alaska",
-      "time": 1786991638989,
+      "lon": -151.609,
+      "lat": 59.716,
+      "depth": 59.3,
+      "mag": 2.8,
+      "place": "5 km NNW of Diamond Ridge, Alaska",
+      "time": 1786991639199,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qgodma"
     },
     {
@@ -404,6 +434,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674530"
     },
     {
+      "id": "aka2026qgkuzt",
+      "lon": -150.739,
+      "lat": 60.764,
+      "depth": 47.7,
+      "mag": 2,
+      "place": "17 km S of Point Possession, Alaska",
+      "time": 1786985655478,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qgkuzt"
+    },
+    {
       "id": "ci40674514",
       "lon": -116.680666666667,
       "lat": 33.6903333333333,
@@ -535,12 +575,12 @@
     },
     {
       "id": "aka2026qgfojh",
-      "lon": -150.164,
-      "lat": 63.408,
-      "depth": 118,
-      "mag": 1.9,
-      "place": "60 km W of Cantwell, Alaska",
-      "time": 1786976200431,
+      "lon": -150.145,
+      "lat": 63.402,
+      "depth": 118.7,
+      "mag": 2.2,
+      "place": "59 km W of Cantwell, Alaska",
+      "time": 1786976200216,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qgfojh"
     },
     {
@@ -605,12 +645,12 @@
     },
     {
       "id": "aka2026qgeidn",
-      "lon": -141.21,
+      "lon": -141.255,
       "lat": 60.313,
-      "depth": 8.3,
-      "mag": 2.4,
-      "place": "118 km NW of Yakutat, Alaska",
-      "time": 1786973969349,
+      "depth": 14.2,
+      "mag": 2.3,
+      "place": "120 km NW of Yakutat, Alaska",
+      "time": 1786973969901,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qgeidn"
     },
     {
@@ -2162,36 +2202,6 @@
       "place": "8 km S of Port Hadlock-Irondale, Washington",
       "time": 1786917231210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714080321"
-    },
-    {
-      "id": "usd0015eae",
-      "lon": 120.6656,
-      "lat": -8.2271,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "47 km NNE of Ruteng, Indonesia",
-      "time": 1786916922968,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eae"
-    },
-    {
-      "id": "aka2026qeymww",
-      "lon": -151.267,
-      "lat": 64.97,
-      "depth": 3.2,
-      "mag": 1.6,
-      "place": "30 km W of Manley Hot Springs, Alaska",
-      "time": 1786916724124,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qeymww"
-    },
-    {
-      "id": "usd0015eab",
-      "lon": 130.1161,
-      "lat": 33.3434,
-      "depth": 10,
-      "mag": 4.3,
-      "place": "17 km SE of Karatsu, Japan",
-      "time": 1786916236137,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eab"
     }
   ]
 }
