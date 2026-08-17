@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-17T10:45:34Z",
-  "count": 187,
+  "updated": "2026-08-17T10:59:45Z",
+  "count": 188,
   "points": [
+    {
+      "id": "ci40674346",
+      "lon": -115.529833333333,
+      "lat": 32.9476666666667,
+      "depth": 9.55,
+      "mag": 2.14,
+      "place": "3 km S of Brawley, CA",
+      "time": 1786963854870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674346"
+    },
+    {
+      "id": "hv75019777",
+      "lon": -155.33366394043,
+      "lat": 19.0141658782959,
+      "depth": 24.8500003814697,
+      "mag": 1.72,
+      "place": "25 km SE of Pāhala, Hawaii",
+      "time": 1786963825820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019777"
+    },
+    {
+      "id": "usd0015ed7",
+      "lon": 120.5019,
+      "lat": -7.8762,
+      "depth": 10,
+      "mag": 5.2,
+      "place": "81 km N of Ruteng, Indonesia",
+      "time": 1786963361971,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ed7"
+    },
     {
       "id": "nc75419972",
       "lon": -121.430999755859,
@@ -712,6 +742,16 @@
       "place": "141 km ESE of Cordova, Alaska",
       "time": 1786932666348,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qfhjhd"
+    },
+    {
+      "id": "pr71528753",
+      "lon": -64.9165,
+      "lat": 18.709,
+      "depth": 36.12,
+      "mag": 3.14,
+      "place": "40 km N of Charlotte Amalie, U.S. Virgin Islands",
+      "time": 1786932615730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528753"
     },
     {
       "id": "pr71528738",
@@ -1842,36 +1882,6 @@
       "place": "7 km NE of Imperial, CA",
       "time": 1786878648050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673786"
-    },
-    {
-      "id": "ci40673778",
-      "lon": -116.169,
-      "lat": 33.8686666666667,
-      "depth": 3.62,
-      "mag": 1.28,
-      "place": "17 km NNE of Indio, CA",
-      "time": 1786877965320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673778"
-    },
-    {
-      "id": "usd0015e7p",
-      "lon": 146.7476,
-      "lat": -5.5481,
-      "depth": 138.737,
-      "mag": 5.1,
-      "place": "112 km ESE of Madang, Papua New Guinea",
-      "time": 1786877950367,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7p"
-    },
-    {
-      "id": "aka2026qectoa",
-      "lon": -154.861,
-      "lat": 65.683,
-      "depth": 2.9,
-      "mag": 3.5,
-      "place": "49 km SW of Hughes, Alaska",
-      "time": 1786877765904,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qectoa"
     }
   ]
 }
