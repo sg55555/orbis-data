@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-17T05:18:21Z",
-  "count": 193,
+  "updated": "2026-08-17T05:30:43Z",
+  "count": 194,
   "points": [
+    {
+      "id": "ci40674210",
+      "lon": -117.840666666667,
+      "lat": 36.0648333333333,
+      "depth": 2.58,
+      "mag": 1.63,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": 1786944408670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674210"
+    },
+    {
+      "id": "hv75019687",
+      "lon": -155.245498657227,
+      "lat": 19.3543338775635,
+      "depth": 29,
+      "mag": 1.89,
+      "place": "9 km S of Volcano, Hawaii",
+      "time": 1786944213550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019687"
+    },
     {
       "id": "aka2026qfngls",
       "lon": -150.655,
@@ -132,6 +152,16 @@
       "place": "62 km SE of Denali National Park, Alaska",
       "time": 1786935658270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qfjamr"
+    },
+    {
+      "id": "usd0015ebf",
+      "lon": 121.5676,
+      "lat": -8.4617,
+      "depth": 10,
+      "mag": 4.2,
+      "place": "43 km NNW of Ende, Indonesia",
+      "time": 1786935508488,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebf"
     },
     {
       "id": "ci40674170",
@@ -1912,26 +1942,6 @@
       "place": "82 km NNW of Karluk, Alaska",
       "time": 1786859060208,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qdslov"
-    },
-    {
-      "id": "aka2026qdrzfl",
-      "lon": -150.048,
-      "lat": 61.381,
-      "depth": 33,
-      "mag": 2.6,
-      "place": "4 km WNW of Point MacKenzie, Alaska",
-      "time": 1786858205977,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qdrzfl"
-    },
-    {
-      "id": "tx2026qbclqd",
-      "lon": -104.102,
-      "lat": 31.611,
-      "depth": 4.5009,
-      "mag": 1.4,
-      "place": "44 km NW of Toyah, Texas",
-      "time": 1786857807776,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qbclqd"
     }
   ]
 }
