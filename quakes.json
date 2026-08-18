@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-18T23:45:31Z",
+  "updated": "2026-08-18T23:53:31Z",
   "count": 300,
   "points": [
+    {
+      "id": "nc75420917",
+      "lon": -122.800331115723,
+      "lat": 38.8380012512207,
+      "depth": 1.61000001430511,
+      "mag": 1.06,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1787096885780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420917"
+    },
+    {
+      "id": "tx2026qgemot",
+      "lon": -103.352,
+      "lat": 31.176,
+      "depth": 5.1623,
+      "mag": 1.5,
+      "place": "27 km SE of Lindsay, Texas",
+      "time": 1787096635347,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qgemot"
+    },
     {
       "id": "hv75020412",
       "lon": -155.510162353516,
@@ -85,12 +105,12 @@
     },
     {
       "id": "ci41529728",
-      "lon": -116.778666666667,
-      "lat": 33.2928333333333,
-      "depth": 13.69,
-      "mag": 0.45,
+      "lon": -116.779333333333,
+      "lat": 33.292,
+      "depth": 14.08,
+      "mag": 0.47,
       "place": "6 km NNW of Lake Henshaw, CA",
-      "time": 1787093957490,
+      "time": 1787093957420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529728"
     },
     {
@@ -2982,26 +3002,6 @@
       "place": "1 km E of The Geysers, CA",
       "time": 1787011225850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420362"
-    },
-    {
-      "id": "nc75420347",
-      "lon": -120.796669006348,
-      "lat": 35.5771675109863,
-      "depth": 4.40999984741211,
-      "mag": 1.08,
-      "place": "9 km WNW of Templeton, CA",
-      "time": 1787010733650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420347"
-    },
-    {
-      "id": "nc75420337",
-      "lon": -120.794830322266,
-      "lat": 35.5716667175293,
-      "depth": 4.69000005722046,
-      "mag": 1.57,
-      "place": "8 km WNW of Templeton, CA",
-      "time": 1787010432120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420337"
     }
   ]
 }
