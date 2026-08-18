@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-18T05:15:38Z",
-  "count": 238,
+  "updated": "2026-08-18T05:30:48Z",
+  "count": 237,
   "points": [
+    {
+      "id": "ci41528952",
+      "lon": -119.166,
+      "lat": 34.4481666666667,
+      "depth": 3.42,
+      "mag": 1.16,
+      "place": "7 km E of Ojai, CA",
+      "time": 1787030364640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528952"
+    },
     {
       "id": "ci41528944",
       "lon": -116.729,
@@ -12,6 +22,16 @@
       "place": "6 km WSW of Anza, CA",
       "time": 1787029565970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528944"
+    },
+    {
+      "id": "us6000tlkl",
+      "lon": -93.1475,
+      "lat": 14.2298,
+      "depth": 10,
+      "mag": 5.7,
+      "place": "95 km SW of Puerto Madero, Mexico",
+      "time": 1787029352244,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkl"
     },
     {
       "id": "ci41528936",
@@ -1884,6 +1904,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qfvcqi"
     },
     {
+      "id": "av94389353",
+      "lon": -177.181833333333,
+      "lat": 51.735,
+      "depth": 10.86,
+      "mag": 0.81,
+      "place": "40 km WSW of Adak, Alaska",
+      "time": 1786956563420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94389353"
+    },
+    {
       "id": "nc75419952",
       "lon": -122.790168762207,
       "lat": 38.8371658325195,
@@ -2342,46 +2372,6 @@
       "place": "27 km SE of Lindsay, Texas",
       "time": 1786945748276,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qczdnr"
-    },
-    {
-      "id": "uw714080441",
-      "lon": -122.323,
-      "lat": 47.4638333333333,
-      "depth": 29.57,
-      "mag": 1.28,
-      "place": "1 km ESE of Burien, Washington",
-      "time": 1786944536910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714080441"
-    },
-    {
-      "id": "ci40674210",
-      "lon": -117.840666666667,
-      "lat": 36.0648333333333,
-      "depth": 2.58,
-      "mag": 1.63,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": 1786944408670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674210"
-    },
-    {
-      "id": "hv75019687",
-      "lon": -155.245498657227,
-      "lat": 19.3543338775635,
-      "depth": 29,
-      "mag": 1.89,
-      "place": "9 km S of Volcano, Hawaii",
-      "time": 1786944213550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019687"
-    },
-    {
-      "id": "usd0015ebp",
-      "lon": 175.3138,
-      "lat": -38.907,
-      "depth": 177.408,
-      "mag": 4.6,
-      "place": "43 km WNW of Turangi, New Zealand",
-      "time": 1786943921824,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebp"
     }
   ]
 }
