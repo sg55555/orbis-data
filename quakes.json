@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-18T12:00:53Z",
-  "count": 249,
+  "updated": "2026-08-18T12:15:32Z",
+  "count": 247,
   "points": [
+    {
+      "id": "uw714081141",
+      "lon": -121.771003723145,
+      "lat": 48.4804992675781,
+      "depth": -0.400000005960464,
+      "mag": 1.66215240955353,
+      "place": "6 km SSW of Concrete, Washington",
+      "time": 1787054461770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714081141"
+    },
     {
       "id": "tx2026qfguhl",
       "lon": -104.454,
       "lat": 31.641,
-      "depth": 3.6826,
+      "depth": 3.6955,
       "mag": 1.9,
       "place": "59 km S of Whites City, New Mexico",
-      "time": 1787053739924,
+      "time": 1787053739923,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qfguhl"
     },
     {
@@ -55,12 +65,12 @@
     },
     {
       "id": "tx2026qfffvn",
-      "lon": -101.923,
-      "lat": 31.749,
-      "depth": 3.3286,
-      "mag": 1,
+      "lon": -101.943,
+      "lat": 31.742,
+      "depth": 3.7354,
+      "mag": 0.6,
       "place": "31 km SSE of Midland, Texas",
-      "time": 1787050907988,
+      "time": 1787050908544,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qfffvn"
     },
     {
@@ -352,16 +362,6 @@
       "place": "14 km S of Joshua Tree, CA",
       "time": 1787041439200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529048"
-    },
-    {
-      "id": "tx2026qezueu",
-      "lon": -101.192,
-      "lat": 32.312,
-      "depth": 1.8488,
-      "mag": 1.2,
-      "place": "10 km E of Coahoma, Texas",
-      "time": 1787041056175,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qezueu"
     },
     {
       "id": "pr71528888",
@@ -852,6 +852,16 @@
       "place": "20 km WSW of Aleneva, Alaska",
       "time": 1787025895145,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qhhemr"
+    },
+    {
+      "id": "tx2026qerfkc",
+      "lon": -103.255,
+      "lat": 30.945,
+      "depth": 1.46,
+      "mag": 1.2,
+      "place": "36 km W of Fort Stockton, Texas",
+      "time": 1787025640553,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qerfkc"
     },
     {
       "id": "nc75420422",
@@ -1462,6 +1472,16 @@
       "place": "7 km W of Cobb, CA",
       "time": 1787005304180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420292"
+    },
+    {
+      "id": "ok2026qcgw",
+      "lon": -95.8335,
+      "lat": 36.25216667,
+      "depth": 0,
+      "mag": 1.36,
+      "place": "2 km SE of Owasso, Oklahoma",
+      "time": 1787005105100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026qcgw"
     },
     {
       "id": "ci41528744",
@@ -2452,46 +2472,6 @@
       "place": "11 km ENE of Ridgecrest, CA",
       "time": 1786968908200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674386"
-    },
-    {
-      "id": "ci40674378",
-      "lon": -117.251166666667,
-      "lat": 34.0486666666667,
-      "depth": 16.18,
-      "mag": 1.07,
-      "place": "1 km E of Loma Linda, CA",
-      "time": 1786968808220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674378"
-    },
-    {
-      "id": "tx2026qdlvdv",
-      "lon": -104.142,
-      "lat": 31.546,
-      "depth": 9.5477,
-      "mag": 1.7,
-      "place": "41 km NW of Toyah, Texas",
-      "time": 1786968700684,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qdlvdv"
-    },
-    {
-      "id": "uw714080481",
-      "lon": -122.062166666667,
-      "lat": 48.5303333333333,
-      "depth": 7.29,
-      "mag": 1.12,
-      "place": "0 km N of Lyman, Washington",
-      "time": 1786968618770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714080481"
-    },
-    {
-      "id": "ci40674370",
-      "lon": -120.487,
-      "lat": 34.5343333333333,
-      "depth": 6.8,
-      "mag": 2.54,
-      "place": "12 km SSW of Lompoc, CA",
-      "time": 1786968503600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674370"
     }
   ]
 }
