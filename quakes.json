@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-18T11:45:32Z",
+  "updated": "2026-08-18T11:57:49Z",
   "count": 249,
   "points": [
+    {
+      "id": "tx2026qfguhl",
+      "lon": -104.454,
+      "lat": 31.641,
+      "depth": 3.6826,
+      "mag": 1.9,
+      "place": "59 km S of Whites City, New Mexico",
+      "time": 1787053739924,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qfguhl"
+    },
     {
       "id": "nc75420557",
       "lon": -122.769668579102,
@@ -32,6 +42,16 @@
       "place": "52 km NW of Aleneva, Alaska",
       "time": 1787051244456,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qhvgvk"
+    },
+    {
+      "id": "us6000tlmt",
+      "lon": 120.3661,
+      "lat": -7.8898,
+      "depth": 10.259,
+      "mag": 4.7,
+      "place": "80 km N of Ruteng, Indonesia",
+      "time": 1787051210913,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlmt"
     },
     {
       "id": "tx2026qfffvn",
@@ -525,12 +545,12 @@
     },
     {
       "id": "tx2026qewest",
-      "lon": -104.194,
-      "lat": 31.555,
-      "depth": 4.1572,
+      "lon": -104.181,
+      "lat": 31.573,
+      "depth": 7.2791,
       "mag": 1.7,
       "place": "46 km NW of Toyah, Texas",
-      "time": 1787034538012,
+      "time": 1787034538102,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qewest"
     },
     {
@@ -652,6 +672,16 @@
       "place": "74 km ESE of Ugashik, Alaska",
       "time": 1787031218321,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qhkdla"
+    },
+    {
+      "id": "tx2026qeuihp",
+      "lon": -104.002,
+      "lat": 31.985,
+      "depth": 7.3303,
+      "mag": 0.7,
+      "place": "27 km SSE of Malaga, New Mexico",
+      "time": 1787031173351,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qeuihp"
     },
     {
       "id": "nc75420437",
@@ -2462,36 +2492,6 @@
       "place": "12 km SSW of Lompoc, CA",
       "time": 1786968503600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674370"
-    },
-    {
-      "id": "tx2026qdlgtu",
-      "lon": -104.136,
-      "lat": 31.542,
-      "depth": 8.9709,
-      "mag": 1.7,
-      "place": "41 km NW of Toyah, Texas",
-      "time": 1786967697163,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qdlgtu"
-    },
-    {
-      "id": "nc75419992",
-      "lon": -122.804664611816,
-      "lat": 38.8219985961914,
-      "depth": 3.11999988555908,
-      "mag": 0.83,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1786967534130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419992"
-    },
-    {
-      "id": "nc75419987",
-      "lon": -122.804168701172,
-      "lat": 38.8223342895508,
-      "depth": 3.13000011444092,
-      "mag": 1.54,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1786967518500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419987"
     }
   ]
 }
