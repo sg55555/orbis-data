@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-18T05:45:41Z",
-  "count": 241,
+  "updated": "2026-08-18T06:00:56Z",
+  "count": 240,
   "points": [
+    {
+      "id": "ci41528968",
+      "lon": -117.6015,
+      "lat": 34.3435,
+      "depth": 9.73,
+      "mag": 0.86,
+      "place": "4 km ESE of Wrightwood, CA",
+      "time": 1787032590520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528968"
+    },
     {
       "id": "ci41528960",
       "lon": -116.236333333333,
@@ -1724,6 +1734,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qdkeld"
     },
     {
+      "id": "av94389628",
+      "lon": -179.027166666667,
+      "lat": 51.7328333333333,
+      "depth": 7.94,
+      "mag": 1.07,
+      "place": "165 km W of Adak, Alaska",
+      "time": 1786965690200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94389628"
+    },
+    {
       "id": "nc75419982",
       "lon": -121.159164428711,
       "lat": 36.5606651306152,
@@ -2382,36 +2402,6 @@
       "place": "58 km E of Denali National Park, Alaska",
       "time": 1786946436507,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qfpagh"
-    },
-    {
-      "id": "pr71528768",
-      "lon": -66.8228333333333,
-      "lat": 18.0075,
-      "depth": 16.05,
-      "mag": 2.12,
-      "place": "1 km NNW of Indios, Puerto Rico",
-      "time": 1786946246450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528768"
-    },
-    {
-      "id": "ci40674218",
-      "lon": -116.778666666667,
-      "lat": 33.6575,
-      "depth": 12.78,
-      "mag": 0.38,
-      "place": "11 km SSW of Idyllwild, CA",
-      "time": 1786945917870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674218"
-    },
-    {
-      "id": "tx2026qczdnr",
-      "lon": -103.36,
-      "lat": 31.171,
-      "depth": 1.8958,
-      "mag": 1.7,
-      "place": "27 km SE of Lindsay, Texas",
-      "time": 1786945748276,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qczdnr"
     }
   ]
 }
