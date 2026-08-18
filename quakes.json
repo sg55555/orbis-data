@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-18T11:35:02Z",
-  "count": 248,
+  "updated": "2026-08-18T11:45:32Z",
+  "count": 249,
   "points": [
+    {
+      "id": "nc75420557",
+      "lon": -122.769668579102,
+      "lat": 38.7873344421387,
+      "depth": 3.79999995231628,
+      "mag": 1.09,
+      "place": "2 km NW of The Geysers, CA",
+      "time": 1787053349440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420557"
+    },
     {
       "id": "aka2026qhwbjb",
       "lon": -137.699,
@@ -35,12 +45,12 @@
     },
     {
       "id": "tx2026qffajf",
-      "lon": -98.965,
-      "lat": 28.893,
-      "depth": 5.6598,
+      "lon": -98.949,
+      "lat": 28.839,
+      "depth": 8.342,
       "mag": 1.9,
-      "place": "12 km E of Pearsall, Texas",
-      "time": 1787050526481,
+      "place": "15 km ESE of Pearsall, Texas",
+      "time": 1787050525121,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qffajf"
     },
     {
@@ -892,6 +902,16 @@
       "place": "7 km SSE of La Romana, Dominican Republic",
       "time": 1787023987490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026230000"
+    },
+    {
+      "id": "tx2026qeqhaw",
+      "lon": -101.909,
+      "lat": 32.108,
+      "depth": 8.6182,
+      "mag": 0.8,
+      "place": "11 km WSW of Stanton, Texas",
+      "time": 1787023837795,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qeqhaw"
     },
     {
       "id": "tx2026qeqetu",
@@ -2472,16 +2492,6 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1786967518500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419987"
-    },
-    {
-      "id": "ci40674362",
-      "lon": -116.5405,
-      "lat": 32.3785,
-      "depth": 16.33,
-      "mag": 1.46,
-      "place": "23 km SSE of Tecate, B.C., MX",
-      "time": 1786966583630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674362"
     }
   ]
 }
