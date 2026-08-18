@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-17T23:53:53Z",
-  "count": 229,
+  "updated": "2026-08-18T00:00:56Z",
+  "count": 230,
   "points": [
+    {
+      "id": "nc75420347",
+      "lon": -120.796669006348,
+      "lat": 35.5771675109863,
+      "depth": 4.40999984741211,
+      "mag": 1.08,
+      "place": "9 km WNW of Templeton, CA",
+      "time": 1787010733650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420347"
+    },
     {
       "id": "nc75420337",
       "lon": -120.794830322266,
@@ -35,12 +45,12 @@
     },
     {
       "id": "ci41528792",
-      "lon": -117.667831420898,
-      "lat": 35.0496673583984,
-      "depth": -0.790000021457672,
-      "mag": 1.3771872067179,
-      "place": "6 km NNW of Boron, CA",
-      "time": 1787009441430,
+      "lon": -117.671166666667,
+      "lat": 35.04,
+      "depth": -0.73,
+      "mag": 1.44,
+      "place": "5 km NNW of Boron, CA",
+      "time": 1787009441550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528792"
     },
     {
@@ -55,12 +65,12 @@
     },
     {
       "id": "ci41528784",
-      "lon": -116.778663635254,
-      "lat": 33.2928352355957,
-      "depth": 13.6599998474121,
-      "mag": 1.03914582043461,
+      "lon": -116.7845,
+      "lat": 33.2903333333333,
+      "depth": 13.63,
+      "mag": 0.89,
       "place": "6 km NNW of Lake Henshaw, CA",
-      "time": 1787008579770,
+      "time": 1787008579740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528784"
     },
     {
@@ -95,12 +105,12 @@
     },
     {
       "id": "ci41528768",
-      "lon": -116.793502807617,
-      "lat": 33.3311653137207,
-      "depth": 16.2399997711182,
-      "mag": 1.43491791339865,
+      "lon": -116.793666666667,
+      "lat": 33.3276666666667,
+      "depth": 15.74,
+      "mag": 1.29,
       "place": "7 km ESE of Palomar Observatory, CA",
-      "time": 1787006297910,
+      "time": 1787006297940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528768"
     },
     {
@@ -122,6 +132,16 @@
       "place": "7 km W of Cobb, CA",
       "time": 1787005785580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420307"
+    },
+    {
+      "id": "ci41528752",
+      "lon": -116.783,
+      "lat": 33.3283333333333,
+      "depth": 16.21,
+      "mag": 0.85,
+      "place": "8 km ESE of Palomar Observatory, CA",
+      "time": 1787005639720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528752"
     },
     {
       "id": "nc75420292",
@@ -2282,16 +2302,6 @@
       "place": "215 km ENE of Levuka, Fiji",
       "time": 1786925287431,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eas"
-    },
-    {
-      "id": "hv75019622",
-      "lon": -155.488327026367,
-      "lat": 19.140832901001,
-      "depth": 31.3199996948242,
-      "mag": 2.29,
-      "place": "6 km S of Pāhala, Hawaii",
-      "time": 1786924663920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019622"
     }
   ]
 }
