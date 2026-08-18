@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-18T00:00:56Z",
-  "count": 230,
+  "updated": "2026-08-18T00:15:37Z",
+  "count": 238,
   "points": [
+    {
+      "id": "hv75019897",
+      "lon": -155.272506713867,
+      "lat": 19.4171657562256,
+      "depth": 0.589999973773956,
+      "mag": 1.75,
+      "place": "4 km SW of Volcano, Hawaii",
+      "time": 1787011745030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019897"
+    },
+    {
+      "id": "nc75420362",
+      "lon": -122.744834899902,
+      "lat": 38.7756652832031,
+      "depth": 2.02999997138977,
+      "mag": 1.29,
+      "place": "1 km E of The Geysers, CA",
+      "time": 1787011225850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420362"
+    },
     {
       "id": "nc75420347",
       "lon": -120.796669006348,
@@ -25,12 +45,12 @@
     },
     {
       "id": "ok2026qcji",
-      "lon": -97.88217163,
-      "lat": 35.01652145,
-      "depth": 3.156549692,
-      "mag": 2.27,
+      "lon": -97.87766667,
+      "lat": 35.01916667,
+      "depth": 9.65,
+      "mag": 1.82,
       "place": "6 km SE of Chickasha, Oklahoma",
-      "time": 1787009589944,
+      "time": 1787009589769,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026qcji"
     },
     {
@@ -212,6 +232,16 @@
       "place": "3 km SW of Hulbert, Oklahoma",
       "time": 1787002055270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026qcfe"
+    },
+    {
+      "id": "ci41528728",
+      "lon": -116.738833333333,
+      "lat": 33.2903333333333,
+      "depth": 12.79,
+      "mag": 0.77,
+      "place": "6 km NNE of Lake Henshaw, CA",
+      "time": 1787001540820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528728"
     },
     {
       "id": "nc75420257",
@@ -1654,6 +1684,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674242"
     },
     {
+      "id": "av94389123",
+      "lon": -155.374,
+      "lat": 58.1698333333333,
+      "depth": 1.39,
+      "mag": 0.26,
+      "place": "86 km NW of Karluk, Alaska",
+      "time": 1786947960640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94389123"
+    },
+    {
       "id": "nc75419892",
       "lon": -122.811500549316,
       "lat": 38.8366661071777,
@@ -1684,6 +1724,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419882"
     },
     {
+      "id": "av94389118",
+      "lon": -153.081,
+      "lat": 59.9971666666667,
+      "depth": 1.9,
+      "mag": -0.32,
+      "place": "61 km ENE of Pedro Bay, Alaska",
+      "time": 1786947658430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94389118"
+    },
+    {
       "id": "uu80149081",
       "lon": -110.343333333333,
       "lat": 44.6293333333333,
@@ -1694,6 +1744,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149081"
     },
     {
+      "id": "av94389113",
+      "lon": -153.083666666667,
+      "lat": 59.9986666666667,
+      "depth": 2,
+      "mag": -0.14,
+      "place": "61 km ENE of Pedro Bay, Alaska",
+      "time": 1786947564990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94389113"
+    },
+    {
+      "id": "av94389103",
+      "lon": -176.183,
+      "lat": 52.1083333333333,
+      "depth": 9.19,
+      "mag": 0.34,
+      "place": "40 km NE of Adak, Alaska",
+      "time": 1786947285960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94389103"
+    },
+    {
       "id": "nc75419872",
       "lon": -122.750503540039,
       "lat": 38.7750015258789,
@@ -1702,6 +1772,26 @@
       "place": "1 km ESE of The Geysers, CA",
       "time": 1786947062470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419872"
+    },
+    {
+      "id": "av93065884",
+      "lon": 178.456,
+      "lat": 51.9636666666667,
+      "depth": 2.42,
+      "mag": -0.48,
+      "place": "Rat Islands, Aleutian Islands, Alaska",
+      "time": 1786946949860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065884"
+    },
+    {
+      "id": "av93065879",
+      "lon": 178.437833333333,
+      "lat": 51.9801666666667,
+      "depth": 1.34,
+      "mag": -0.16,
+      "place": "Rat Islands, Aleutian Islands, Alaska",
+      "time": 1786946919160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065879"
     },
     {
       "id": "ci40674234",
@@ -2292,16 +2382,6 @@
       "place": "44 km W of Tyonek, Alaska",
       "time": 1786925902355,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qfdpnd"
-    },
-    {
-      "id": "usd0015eas",
-      "lon": -178.692,
-      "lat": -17.6896,
-      "depth": 564.366,
-      "mag": 5,
-      "place": "215 km ENE of Levuka, Fiji",
-      "time": 1786925287431,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eas"
     }
   ]
 }
