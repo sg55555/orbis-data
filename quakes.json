@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-18T15:30:44Z",
-  "count": 256,
+  "updated": "2026-08-18T15:41:26Z",
+  "count": 260,
   "points": [
+    {
+      "id": "nc75420647",
+      "lon": -122.834335327148,
+      "lat": 38.8366661071777,
+      "depth": 1.30999994277954,
+      "mag": 0.66,
+      "place": "9 km NW of The Geysers, CA",
+      "time": 1787067108900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420647"
+    },
     {
       "id": "ci41529248",
       "lon": -117.2185,
@@ -74,6 +84,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420632"
     },
     {
+      "id": "ci10248766",
+      "lon": -117.164666666667,
+      "lat": 33.984,
+      "depth": 10.88,
+      "mag": 0.38,
+      "place": "8 km SSE of Redlands, CA",
+      "time": 1787064200260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10248766"
+    },
+    {
+      "id": "ci41529224",
+      "lon": -118.256333333333,
+      "lat": 34.0986666666667,
+      "depth": 11.47,
+      "mag": 0.74,
+      "place": "1 km NE of Silver Lake, CA",
+      "time": 1787064196280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529224"
+    },
+    {
       "id": "nc75420617",
       "lon": -122.78483581543,
       "lat": 38.8373336791992,
@@ -132,6 +162,16 @@
       "place": "10 km NE of Pāhala, Hawaii",
       "time": 1787062718500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75020262"
+    },
+    {
+      "id": "us6000tlnz",
+      "lon": 76.6142,
+      "lat": 32.5029,
+      "depth": 45.866,
+      "mag": 4.3,
+      "place": "39 km WSW of Kyelang, India",
+      "time": 1787062203059,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlnz"
     },
     {
       "id": "ci41529208",
@@ -1696,9 +1736,9 @@
     {
       "id": "ci41528800",
       "lon": -117.1985,
-      "lat": 34.0115,
-      "depth": 13.66,
-      "mag": 1.44,
+      "lat": 34.0113333333333,
+      "depth": 13.65,
+      "mag": 1.43,
       "place": "5 km SSW of Redlands, CA",
       "time": 1787011988270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528800"
