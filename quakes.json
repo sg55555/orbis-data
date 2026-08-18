@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-18T21:54:39Z",
-  "count": 301,
+  "updated": "2026-08-18T22:01:01Z",
+  "count": 302,
   "points": [
+    {
+      "id": "nc75420867",
+      "lon": -118.692497253418,
+      "lat": 37.3466682434082,
+      "depth": 17.4599990844727,
+      "mag": 2.54,
+      "place": "11 km SW of Round Valley, CA",
+      "time": 1787090099120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420867"
+    },
     {
       "id": "nc75420862",
       "lon": -122.93083190918,
@@ -42,6 +52,16 @@
       "place": "3 km ENE of Rancho San Diego, CA",
       "time": 1787088635050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529648"
+    },
+    {
+      "id": "ci41529640",
+      "lon": -116.740833333333,
+      "lat": 33.2886666666667,
+      "depth": 13.62,
+      "mag": 0.57,
+      "place": "6 km NNE of Lake Henshaw, CA",
+      "time": 1787088586040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529640"
     },
     {
       "id": "hv75020387",
@@ -3002,16 +3022,6 @@
       "place": "9 km S of Volcano, Hawaii",
       "time": 1787004045440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019857"
-    },
-    {
-      "id": "av94390473",
-      "lon": -176.140833333333,
-      "lat": 52.0878333333333,
-      "depth": -1.77,
-      "mag": 0.29,
-      "place": "41 km NE of Adak, Alaska",
-      "time": 1787003911670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94390473"
     }
   ]
 }
