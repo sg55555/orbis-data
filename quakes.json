@@ -1,8 +1,58 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-18T06:45:33Z",
-  "count": 232,
+  "updated": "2026-08-18T06:59:44Z",
+  "count": 236,
   "points": [
+    {
+      "id": "ci41529008",
+      "lon": -116.7395,
+      "lat": 33.5123333333333,
+      "depth": 3.82,
+      "mag": 0.55,
+      "place": "8 km SW of Anza, CA",
+      "time": 1787035959780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529008"
+    },
+    {
+      "id": "ci41529000",
+      "lon": -116.732,
+      "lat": 33.527,
+      "depth": 2.76,
+      "mag": 0.94,
+      "place": "6 km WSW of Anza, CA",
+      "time": 1787035779350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529000"
+    },
+    {
+      "id": "ci41528992",
+      "lon": -117.812,
+      "lat": 35.3203333333333,
+      "depth": 7.2,
+      "mag": 0.86,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1787035745120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528992"
+    },
+    {
+      "id": "nc75420462",
+      "lon": -122.730834960938,
+      "lat": 38.764331817627,
+      "depth": 1.46000003814697,
+      "mag": 2.04,
+      "place": "3 km ESE of The Geysers, CA",
+      "time": 1787035632960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420462"
+    },
+    {
+      "id": "nc75420457",
+      "lon": -123.233497619629,
+      "lat": 39.3133316040039,
+      "depth": 4.23999977111816,
+      "mag": 1.47,
+      "place": "6 km NNW of Redwood Valley, CA",
+      "time": 1787035503150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420457"
+    },
     {
       "id": "tx2026qewest",
       "lon": -104.194,
@@ -1664,6 +1714,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edq"
     },
     {
+      "id": "av93065909",
+      "lon": -168.1405,
+      "lat": 53.334,
+      "depth": 19.78,
+      "mag": 0.56,
+      "place": "65 km NE of Nikolski, Alaska",
+      "time": 1786970121190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065909"
+    },
+    {
+      "id": "av93065904",
+      "lon": -168.1495,
+      "lat": 53.3306666666667,
+      "depth": 19.58,
+      "mag": 0.07,
+      "place": "64 km NE of Nikolski, Alaska",
+      "time": 1786970084050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065904"
+    },
+    {
       "id": "hv75019792",
       "lon": -155.86083984375,
       "lat": 19.3519992828369,
@@ -2214,6 +2284,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ecl"
     },
     {
+      "id": "usd0015ecj",
+      "lon": 135.6311,
+      "lat": 34.8761,
+      "depth": 370.457,
+      "mag": 4.6,
+      "place": "3 km NNE of Takatsuki, Japan",
+      "time": 1786952179104,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ecj"
+    },
+    {
       "id": "nc75419912",
       "lon": -122.803833007812,
       "lat": 38.8255004882812,
@@ -2282,46 +2362,6 @@
       "place": "51 km NNE of Chase, Alaska",
       "time": 1786951036716,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qfrosr"
-    },
-    {
-      "id": "usd0015ecf",
-      "lon": 147.0932,
-      "lat": 14.5955,
-      "depth": 10,
-      "mag": 4.8,
-      "place": "159 km ESE of Saipan, Northern Mariana Islands",
-      "time": 1786949711062,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ecf"
-    },
-    {
-      "id": "ci40674258",
-      "lon": -118.044333333333,
-      "lat": 35.9496666666667,
-      "depth": 3.79,
-      "mag": 0.97,
-      "place": "12 km W of Little Lake, CA",
-      "time": 1786949425060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674258"
-    },
-    {
-      "id": "aka2026qfqrdq",
-      "lon": -150.871,
-      "lat": 59.967,
-      "depth": 15.5,
-      "mag": 2.5,
-      "place": "13 km NNE of Fox River, Alaska",
-      "time": 1786949405442,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qfqrdq"
-    },
-    {
-      "id": "ci40674250",
-      "lon": -118.412833333333,
-      "lat": 33.8913333333333,
-      "depth": 13.31,
-      "mag": 1.32,
-      "place": "1 km NNW of Manhattan Beach, CA",
-      "time": 1786949224740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674250"
     }
   ]
 }
