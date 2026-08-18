@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-18T19:15:40Z",
-  "count": 284,
+  "updated": "2026-08-18T19:30:49Z",
+  "count": 282,
   "points": [
+    {
+      "id": "ci41529504",
+      "lon": -117.713,
+      "lat": 35.9253333333333,
+      "depth": 2.81,
+      "mag": 1.05,
+      "place": "17 km E of Little Lake, CA",
+      "time": 1787080645780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529504"
+    },
+    {
+      "id": "ci41529496",
+      "lon": -116.7435,
+      "lat": 33.2903333333333,
+      "depth": 13,
+      "mag": 0.92,
+      "place": "6 km NNE of Lake Henshaw, CA",
+      "time": 1787080396790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529496"
+    },
     {
       "id": "aka2026qildly",
       "lon": -150.177,
@@ -105,12 +125,12 @@
     },
     {
       "id": "ci41529416",
-      "lon": -116.469833333333,
-      "lat": 33.4861666666667,
-      "depth": 12.25,
+      "lon": -116.469,
+      "lat": 33.4865,
+      "depth": 13.51,
       "mag": 0.92,
       "place": "20 km ESE of Anza, CA",
-      "time": 1787075114620,
+      "time": 1787075114480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529416"
     },
     {
@@ -335,12 +355,12 @@
     },
     {
       "id": "ci41529296",
-      "lon": -116.472,
-      "lat": 33.4865,
-      "depth": 13.08,
-      "mag": 0.8,
-      "place": "20 km ESE of Anza, CA",
-      "time": 1787069036160,
+      "lon": -116.464833333333,
+      "lat": 33.4871666666667,
+      "depth": 14.16,
+      "mag": 0.76,
+      "place": "21 km ESE of Anza, CA",
+      "time": 1787069035970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529296"
     },
     {
@@ -656,11 +676,11 @@
     {
       "id": "nn00923432",
       "lon": -115.7519,
-      "lat": 36.7234,
-      "depth": 4.1185,
+      "lat": 36.7233,
+      "depth": 4.1451,
       "mag": 1.6,
       "place": "18 km NNW of Indian Springs, Nevada",
-      "time": 1787059595016,
+      "time": 1787059595015,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923432"
     },
     {
@@ -1005,12 +1025,12 @@
     },
     {
       "id": "hv75020202",
-      "lon": -155.235168457031,
-      "lat": 19.3299999237061,
-      "depth": 30.6200008392334,
-      "mag": 2.06,
-      "place": "12 km S of Volcano, Hawaii",
-      "time": 1787048894440,
+      "lon": -155.241166666667,
+      "lat": 19.3506666666667,
+      "depth": 29.48,
+      "mag": 1.5,
+      "place": "10 km S of Volcano, Hawaii",
+      "time": 1787048894600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75020202"
     },
     {
@@ -2802,46 +2822,6 @@
       "place": "114 km ESE of McCarthy, Alaska",
       "time": 1786995055058,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qgqavb"
-    },
-    {
-      "id": "ci40674650",
-      "lon": -116.784333333333,
-      "lat": 33.3305,
-      "depth": 16.83,
-      "mag": 0.73,
-      "place": "8 km ESE of Palomar Observatory, CA",
-      "time": 1786994722960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674650"
-    },
-    {
-      "id": "hv75019812",
-      "lon": -155.827333333333,
-      "lat": 19.3153333333333,
-      "depth": 23,
-      "mag": 4.06,
-      "place": "16 km SSE of Honaunau-Napoopoo, Hawaii",
-      "time": 1786994648290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019812"
-    },
-    {
-      "id": "ci40674642",
-      "lon": -116.784,
-      "lat": 33.3311666666667,
-      "depth": 17.12,
-      "mag": 0.68,
-      "place": "8 km ESE of Palomar Observatory, CA",
-      "time": 1786994469680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674642"
-    },
-    {
-      "id": "ci40674634",
-      "lon": -116.711333333333,
-      "lat": 33.6463333333333,
-      "depth": 13.34,
-      "mag": 0.61,
-      "place": "10 km S of Idyllwild, CA",
-      "time": 1786994320300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674634"
     }
   ]
 }
