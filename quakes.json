@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-18T22:01:01Z",
-  "count": 302,
+  "updated": "2026-08-18T22:15:32Z",
+  "count": 303,
   "points": [
+    {
+      "id": "tx2026qgbepq",
+      "lon": -103.437,
+      "lat": 31.201,
+      "depth": 3.4661,
+      "mag": 1.7,
+      "place": "20 km SSE of Lindsay, Texas",
+      "time": 1787090649565,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qgbepq"
+    },
+    {
+      "id": "hv75020397",
+      "lon": -155.31266784668,
+      "lat": 19.1881675720215,
+      "depth": 39.8499984741211,
+      "mag": 2.51,
+      "place": "17 km E of Pāhala, Hawaii",
+      "time": 1787090521090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75020397"
+    },
+    {
+      "id": "aka2026qiraui",
+      "lon": -150.966,
+      "lat": 61.684,
+      "depth": 69.7,
+      "mag": 2.3,
+      "place": "28 km WNW of Susitna, Alaska",
+      "time": 1787090408948,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qiraui"
+    },
     {
       "id": "nc75420867",
       "lon": -118.692497253418,
@@ -25,12 +55,12 @@
     },
     {
       "id": "ci41529664",
-      "lon": -118.254837036133,
-      "lat": 34.1030006408691,
-      "depth": 11.5500001907349,
-      "mag": 1.4375210024708,
-      "place": "2 km NE of Silver Lake, CA",
-      "time": 1787089244590,
+      "lon": -118.254166666667,
+      "lat": 34.1071666666667,
+      "depth": 11.39,
+      "mag": 1.34,
+      "place": "2 km NNE of Silver Lake, CA",
+      "time": 1787089244630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529664"
     },
     {
@@ -45,12 +75,12 @@
     },
     {
       "id": "ci41529648",
-      "lon": -116.900001525879,
-      "lat": 32.7548332214355,
-      "depth": 4.88000011444092,
-      "mag": 1.72119677074455,
-      "place": "3 km ENE of Rancho San Diego, CA",
-      "time": 1787088635050,
+      "lon": -116.888333333333,
+      "lat": 32.778,
+      "depth": -0.35,
+      "mag": 1.45,
+      "place": "6 km NE of Rancho San Diego, CA",
+      "time": 1787088634830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529648"
     },
     {
@@ -172,6 +202,16 @@
       "place": "39 km NW of Toyah, Texas",
       "time": 1787085590314,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qfyjyd"
+    },
+    {
+      "id": "uw714081751",
+      "lon": -122.041666666667,
+      "lat": 46.1021666666667,
+      "depth": 12.25,
+      "mag": 0.94,
+      "place": "37 km NE of Amboy, Washington",
+      "time": 1787085508380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714081751"
     },
     {
       "id": "aka2026qioeum",
@@ -2992,36 +3032,6 @@
       "place": "7 km ESE of Palomar Observatory, CA",
       "time": 1787004968300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528744"
-    },
-    {
-      "id": "nc75420282",
-      "lon": -124.85717010498,
-      "lat": 40.3349990844727,
-      "depth": 14.6700000762939,
-      "mag": 3.17,
-      "place": "49 km W of Petrolia, CA",
-      "time": 1787004790050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420282"
-    },
-    {
-      "id": "aka2026qgvbtf",
-      "lon": -176.031,
-      "lat": 51.334,
-      "depth": 32,
-      "mag": 2.2,
-      "place": "73 km SE of Adak, Alaska",
-      "time": 1787004116146,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qgvbtf"
-    },
-    {
-      "id": "hv75019857",
-      "lon": -155.239,
-      "lat": 19.3568333333333,
-      "depth": 29.07,
-      "mag": 2.03,
-      "place": "9 km S of Volcano, Hawaii",
-      "time": 1787004045440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019857"
     }
   ]
 }
