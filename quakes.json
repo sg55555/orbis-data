@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-18T23:31:53Z",
-  "count": 299,
+  "updated": "2026-08-18T23:45:31Z",
+  "count": 300,
   "points": [
+    {
+      "id": "hv75020412",
+      "lon": -155.510162353516,
+      "lat": 19.1603336334229,
+      "depth": 27.8099994659424,
+      "mag": 1.9,
+      "place": "5 km SW of Pāhala, Hawaii",
+      "time": 1787096097360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75020412"
+    },
     {
       "id": "nc75420907",
       "lon": -122.817497253418,
@@ -115,22 +125,22 @@
     },
     {
       "id": "ci41529704",
-      "lon": -118.241666666667,
-      "lat": 34.178,
-      "depth": 7.88,
-      "mag": 1.04,
-      "place": "1 km NE of Glendale, CA",
-      "time": 1787093114280,
+      "lon": -118.254,
+      "lat": 34.1083333333333,
+      "depth": 11.96,
+      "mag": 0.83,
+      "place": "2 km NNE of Silver Lake, CA",
+      "time": 1787093113060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529704"
     },
     {
       "id": "ci41529696",
-      "lon": -117.028666666667,
-      "lat": 33.8471666666667,
-      "depth": 13.6,
+      "lon": -117.0265,
+      "lat": 33.8476666666667,
+      "depth": 13.89,
       "mag": 1.14,
-      "place": "10 km NW of San Jacinto, CA",
-      "time": 1787092064870,
+      "place": "9 km NW of San Jacinto, CA",
+      "time": 1787092064820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529696"
     },
     {
@@ -205,12 +215,12 @@
     },
     {
       "id": "ci41529648",
-      "lon": -116.902166666667,
-      "lat": 32.7586666666667,
-      "depth": 5.04,
-      "mag": 1.45,
-      "place": "3 km ENE of Rancho San Diego, CA",
-      "time": 1787088635040,
+      "lon": -116.893666666667,
+      "lat": 32.779,
+      "depth": -0.26,
+      "mag": 1.44,
+      "place": "5 km SE of Bostonia, CA",
+      "time": 1787088634840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529648"
     },
     {
@@ -1522,6 +1532,16 @@
       "place": "10 km E of Coso Junction, CA",
       "time": 1787050118890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529128"
+    },
+    {
+      "id": "av93065954",
+      "lon": -158.1315,
+      "lat": 56.7685,
+      "depth": 8.02,
+      "mag": 0.24,
+      "place": "55 km NNE of Chignik, Alaska",
+      "time": 1787049865570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065954"
     },
     {
       "id": "ci41529120",
@@ -2982,16 +3002,6 @@
       "place": "8 km WNW of Templeton, CA",
       "time": 1787010432120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420337"
-    },
-    {
-      "id": "ok2026qcji",
-      "lon": -97.87766667,
-      "lat": 35.01916667,
-      "depth": 9.65,
-      "mag": 1.82,
-      "place": "6 km SE of Chickasha, Oklahoma",
-      "time": 1787009589769,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026qcji"
     }
   ]
 }
