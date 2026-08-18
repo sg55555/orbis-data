@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-18T20:45:33Z",
-  "count": 291,
+  "updated": "2026-08-18T20:57:35Z",
+  "count": 290,
   "points": [
+    {
+      "id": "aka2026qiovlq",
+      "lon": -150.644,
+      "lat": 63.579,
+      "depth": 2.1,
+      "mag": 2,
+      "place": "53 km E of Denali National Park, Alaska",
+      "time": 1787086440543,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qiovlq"
+    },
     {
       "id": "nc75420807",
       "lon": -122.860664367676,
@@ -65,12 +75,12 @@
     },
     {
       "id": "ci41529560",
-      "lon": -118.329833333333,
-      "lat": 35.061,
-      "depth": -0.86,
-      "mag": 1.05,
+      "lon": -118.334166666667,
+      "lat": 35.0608333333333,
+      "depth": -1.01,
+      "mag": 0.98,
       "place": "13 km SE of Tehachapi, CA",
-      "time": 1787083710790,
+      "time": 1787083710730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529560"
     },
     {
@@ -2892,26 +2902,6 @@
       "place": "9 km ESE of Coso Junction, CA",
       "time": 1787000579810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528712"
-    },
-    {
-      "id": "ci41528704",
-      "lon": -116.475833333333,
-      "lat": 33.4928333333333,
-      "depth": 14.42,
-      "mag": 0.72,
-      "place": "20 km ESE of Anza, CA",
-      "time": 1787000245290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528704"
-    },
-    {
-      "id": "nc75420242",
-      "lon": -122.941497802734,
-      "lat": 38.7815017700195,
-      "depth": 4.44999980926514,
-      "mag": 1.26,
-      "place": "7 km ESE of Cloverdale, CA",
-      "time": 1787000165660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420242"
     }
   ]
 }
