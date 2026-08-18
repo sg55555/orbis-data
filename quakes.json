@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-18T01:30:41Z",
+  "updated": "2026-08-18T01:45:39Z",
   "count": 234,
   "points": [
+    {
+      "id": "tx2026qemkxe",
+      "lon": -104.442,
+      "lat": 31.653,
+      "depth": 4.4322,
+      "mag": 1.5,
+      "place": "58 km S of Whites City, New Mexico",
+      "time": 1787016998682,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qemkxe"
+    },
     {
       "id": "ci41528864",
       "lon": -116.3605,
@@ -65,12 +75,12 @@
     },
     {
       "id": "hv75019927",
-      "lon": -155.234832763672,
-      "lat": 19.3396663665771,
-      "depth": 31.3899993896484,
-      "mag": 2.13,
-      "place": "11 km S of Volcano, Hawaii",
-      "time": 1787013452230,
+      "lon": -155.240833333333,
+      "lat": 19.3543333333333,
+      "depth": 29.16,
+      "mag": 1.59,
+      "place": "9 km S of Volcano, Hawaii",
+      "time": 1787013452470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019927"
     },
     {
@@ -452,6 +462,16 @@
       "place": "41 km SW of Karluk, Alaska",
       "time": 1786998910038,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qgsene"
+    },
+    {
+      "id": "nc75420232",
+      "lon": -119.7985,
+      "lat": 37.0056666666667,
+      "depth": -0.39,
+      "mag": 1.74,
+      "place": "7 km ENE of Bonadelle Ranchos-Madera Ranchos, CA",
+      "time": 1786998161970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420232"
     },
     {
       "id": "hv75019832",
@@ -2322,26 +2342,6 @@
       "place": "2 km W of The Geysers, CA",
       "time": 1786931588060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419767"
-    },
-    {
-      "id": "pr2026229000",
-      "lon": -64.9306,
-      "lat": 18.7603,
-      "depth": 18,
-      "mag": 3.55,
-      "place": "46 km N of Charlotte Amalie, U.S. Virgin Islands",
-      "time": 1786930821380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026229000"
-    },
-    {
-      "id": "ci40674146",
-      "lon": -117.173666666667,
-      "lat": 34.0285,
-      "depth": 3.82,
-      "mag": 0.94,
-      "place": "3 km SSE of Redlands, CA",
-      "time": 1786930550180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674146"
     }
   ]
 }
