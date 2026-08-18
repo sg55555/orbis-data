@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-18T00:45:32Z",
-  "count": 238,
+  "updated": "2026-08-18T01:00:52Z",
+  "count": 235,
   "points": [
     {
       "id": "hv75019922",
@@ -175,12 +175,12 @@
     },
     {
       "id": "ci41528784",
-      "lon": -116.7845,
-      "lat": 33.2903333333333,
-      "depth": 13.63,
-      "mag": 0.89,
+      "lon": -116.783666666667,
+      "lat": 33.292,
+      "depth": 14.33,
+      "mag": 0.92,
       "place": "6 km NNW of Lake Henshaw, CA",
-      "time": 1787008579740,
+      "time": 1787008579610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528784"
     },
     {
@@ -215,13 +215,23 @@
     },
     {
       "id": "ci41528768",
-      "lon": -116.793666666667,
-      "lat": 33.3276666666667,
-      "depth": 15.74,
+      "lon": -116.7895,
+      "lat": 33.3313333333333,
+      "depth": 17.28,
       "mag": 1.29,
       "place": "7 km ESE of Palomar Observatory, CA",
-      "time": 1787006297940,
+      "time": 1787006297800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528768"
+    },
+    {
+      "id": "ci41528760",
+      "lon": -116.7855,
+      "lat": 33.3321666666667,
+      "depth": 17.71,
+      "mag": 0.52,
+      "place": "8 km ESE of Palomar Observatory, CA",
+      "time": 1787006133210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528760"
     },
     {
       "id": "aka2026qgwerx",
@@ -245,12 +255,12 @@
     },
     {
       "id": "ci41528752",
-      "lon": -116.783,
-      "lat": 33.3283333333333,
-      "depth": 16.21,
-      "mag": 0.85,
+      "lon": -116.7845,
+      "lat": 33.3321666666667,
+      "depth": 17.47,
+      "mag": 0.93,
       "place": "8 km ESE of Palomar Observatory, CA",
-      "time": 1787005639720,
+      "time": 1787005639560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528752"
     },
     {
@@ -265,12 +275,12 @@
     },
     {
       "id": "ci41528744",
-      "lon": -116.796836853027,
-      "lat": 33.3236656188965,
-      "depth": 14.6700000762939,
-      "mag": 2.84044794271953,
+      "lon": -116.798666666667,
+      "lat": 33.3253333333333,
+      "depth": 16.02,
+      "mag": 2.42,
       "place": "7 km ESE of Palomar Observatory, CA",
-      "time": 1787004968420,
+      "time": 1787004968300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528744"
     },
     {
@@ -2342,46 +2352,6 @@
       "place": "35 km E of Poso, Indonesia",
       "time": 1786928489183,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eb0"
-    },
-    {
-      "id": "av93065859",
-      "lon": -169.826666666667,
-      "lat": 52.8148333333333,
-      "depth": 4.68,
-      "mag": 1.01,
-      "place": "66 km WSW of Nikolski, Alaska",
-      "time": 1786928150220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93065859"
-    },
-    {
-      "id": "ci40674138",
-      "lon": -117.173833333333,
-      "lat": 34.0271666666667,
-      "depth": 4.65,
-      "mag": 0.89,
-      "place": "3 km SSE of Redlands, CA",
-      "time": 1786928096670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674138"
-    },
-    {
-      "id": "ok2026qaqk",
-      "lon": -97.84183333,
-      "lat": 35.11316667,
-      "depth": 8.02,
-      "mag": 1.26,
-      "place": "6 km SSE of Amber, Oklahoma",
-      "time": 1786927872150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026qaqk"
-    },
-    {
-      "id": "usd0015eay",
-      "lon": 121.5148,
-      "lat": -8.2665,
-      "depth": 48.947,
-      "mag": 5.7,
-      "place": "65 km NNW of Ende, Indonesia",
-      "time": 1786927605640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay"
     }
   ]
 }
