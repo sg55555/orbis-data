@@ -1,17 +1,37 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-18T09:15:33Z",
+  "updated": "2026-08-18T09:30:44Z",
   "count": 241,
   "points": [
     {
       "id": "aka2026qhrlmm",
-      "lon": -152.233,
-      "lat": 61.197,
-      "depth": 6.1,
-      "mag": 1,
-      "place": "60 km WNW of Tyonek, Alaska",
-      "time": 1787044369860,
+      "lon": -152.254,
+      "lat": 61.175,
+      "depth": 11.5,
+      "mag": 1.2,
+      "place": "61 km W of Tyonek, Alaska",
+      "time": 1787044369054,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qhrlmm"
+    },
+    {
+      "id": "aka2026qhrekz",
+      "lon": -161.454,
+      "lat": 54.391,
+      "depth": 20,
+      "mag": 3.2,
+      "place": "93 km SE of King Cove, Alaska",
+      "time": 1787043884087,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qhrekz"
+    },
+    {
+      "id": "aka2026qhrciw",
+      "lon": -179.488,
+      "lat": 51.712,
+      "depth": 118.5,
+      "mag": 2.3,
+      "place": "197 km W of Adak, Alaska",
+      "time": 1787043736164,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qhrciw"
     },
     {
       "id": "nc75420517",
@@ -74,6 +94,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420512"
     },
     {
+      "id": "aka2026qhqbyh",
+      "lon": 176.931,
+      "lat": 51.918,
+      "depth": 10,
+      "mag": 3.5,
+      "place": "275 km ESE of Attu Station, Alaska",
+      "time": 1787041906120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qhqbyh"
+    },
+    {
       "id": "ci41529048",
       "lon": -116.3195,
       "lat": 34.0086666666667,
@@ -115,12 +145,12 @@
     },
     {
       "id": "aka2026qhopyy",
-      "lon": -153.963,
-      "lat": 56.573,
-      "depth": 32.2,
+      "lon": -153.987,
+      "lat": 56.585,
+      "depth": 34.1,
       "mag": 2.9,
-      "place": "43 km SSE of Akhiok, Alaska",
-      "time": 1787039282336,
+      "place": "41 km SSE of Akhiok, Alaska",
+      "time": 1787039282428,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qhopyy"
     },
     {
@@ -2382,36 +2412,6 @@
       "place": "5 km NE of Wardville, Oklahoma",
       "time": 1786959199109,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026qbhp"
-    },
-    {
-      "id": "aka2026qfvunv",
-      "lon": -152.817,
-      "lat": 59.853,
-      "depth": 102.1,
-      "mag": 2.9,
-      "place": "55 km W of Anchor Point, Alaska",
-      "time": 1786958635901,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qfvunv"
-    },
-    {
-      "id": "tx2026qdgfwq",
-      "lon": -102.079,
-      "lat": 32.35,
-      "depth": 5.9326,
-      "mag": 0.4,
-      "place": "36 km NW of Stanton, Texas",
-      "time": 1786958584438,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qdgfwq"
-    },
-    {
-      "id": "usd0015ed1",
-      "lon": 121.5192,
-      "lat": -8.3911,
-      "depth": 10,
-      "mag": 4.8,
-      "place": "52 km NNW of Ende, Indonesia",
-      "time": 1786958165268,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ed1"
     }
   ]
 }
