@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-18T07:19:46Z",
-  "count": 243,
+  "updated": "2026-08-18T07:30:40Z",
+  "count": 240,
   "points": [
+    {
+      "id": "ci41529016",
+      "lon": -117.857166666667,
+      "lat": 36.0691666666667,
+      "depth": 2.02,
+      "mag": 0.71,
+      "place": "9 km ENE of Coso Junction, CA",
+      "time": 1787037458210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529016"
+    },
     {
       "id": "aka2026qhnllv",
       "lon": -147.217,
@@ -142,6 +152,16 @@
       "place": "5 km W of Honomu, Hawaii",
       "time": 1787033303890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75020087"
+    },
+    {
+      "id": "us6000tlkr",
+      "lon": -107.0349,
+      "lat": 34.5876,
+      "depth": 4.921,
+      "mag": 2.5,
+      "place": "23 km W of Pueblitos, New Mexico",
+      "time": 1787033010256,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkr"
     },
     {
       "id": "us6000tlkt",
@@ -2382,56 +2402,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1786951971070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419912"
-    },
-    {
-      "id": "hv75019707",
-      "lon": -155.251327514648,
-      "lat": 19.3043327331543,
-      "depth": 3.80999994277954,
-      "mag": 1.86,
-      "place": "15 km S of Volcano, Hawaii",
-      "time": 1786951772890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019707"
-    },
-    {
-      "id": "nc75419907",
-      "lon": -123.266670227051,
-      "lat": 39.326000213623,
-      "depth": 6.53999996185303,
-      "mag": 1.41,
-      "place": "9 km NW of Redwood Valley, CA",
-      "time": 1786951551950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419907"
-    },
-    {
-      "id": "hv75019702",
-      "lon": -155.257339477539,
-      "lat": 19.2889995574951,
-      "depth": 13.2399997711182,
-      "mag": 1.98,
-      "place": "17 km S of Volcano, Hawaii",
-      "time": 1786951338510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019702"
-    },
-    {
-      "id": "usd0015ech",
-      "lon": 121.2007,
-      "lat": -8.5254,
-      "depth": 28.252,
-      "mag": 4.9,
-      "place": "61 km NW of Ende, Indonesia",
-      "time": 1786951232272,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ech"
-    },
-    {
-      "id": "nc75419902",
-      "lon": -122.824501037598,
-      "lat": 38.8436660766602,
-      "depth": 2.05999994277954,
-      "mag": 0.92,
-      "place": "9 km WNW of Cobb, CA",
-      "time": 1786951176210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419902"
     }
   ]
 }
