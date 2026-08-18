@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-18T07:30:40Z",
+  "updated": "2026-08-18T07:45:35Z",
   "count": 240,
   "points": [
+    {
+      "id": "ci41529032",
+      "lon": -116.928666666667,
+      "lat": 34.0111666666667,
+      "depth": 17.02,
+      "mag": 0.83,
+      "place": "10 km NNE of Beaumont, CA",
+      "time": 1787038861030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529032"
+    },
+    {
+      "id": "nc75420487",
+      "lon": -120.17733001709,
+      "lat": 36.0536651611328,
+      "depth": 10.3000001907349,
+      "mag": 2.54,
+      "place": "7 km NW of Avenal, CA",
+      "time": 1787038498310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420487"
+    },
     {
       "id": "ci41529016",
       "lon": -117.857166666667,
@@ -375,12 +395,12 @@
     },
     {
       "id": "tx2026qeqebs",
-      "lon": -104.437,
-      "lat": 31.666,
-      "depth": 5.9193,
-      "mag": 2.3,
-      "place": "56 km S of Whites City, New Mexico",
-      "time": 1787023629623,
+      "lon": -104.411,
+      "lat": 31.683,
+      "depth": 6.0999,
+      "mag": 2.1,
+      "place": "54 km S of Whites City, New Mexico",
+      "time": 1787023630191,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qeqebs"
     },
     {
@@ -535,12 +555,12 @@
     },
     {
       "id": "tx2026qemutg",
-      "lon": -104.124,
-      "lat": 31.737,
-      "depth": 4.2222,
+      "lon": -104.116,
+      "lat": 31.74,
+      "depth": 7.2919,
       "mag": 2.2,
       "place": "49 km W of Mentone, Texas",
-      "time": 1787017551206,
+      "time": 1787017551098,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qemutg"
     },
     {
@@ -2204,6 +2224,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94389368"
     },
     {
+      "id": "usd0015ecv",
+      "lon": 121.1463,
+      "lat": -8.3011,
+      "depth": 23.728,
+      "mag": 4.5,
+      "place": "82 km ENE of Ruteng, Indonesia",
+      "time": 1786956720116,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ecv"
+    },
+    {
       "id": "av94389353",
       "lon": -177.181833333333,
       "lat": 51.735,
@@ -2372,36 +2402,6 @@
       "place": "4 km NW of The Geysers, CA",
       "time": 1786952755930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419917"
-    },
-    {
-      "id": "usd0015ecl",
-      "lon": -108.6188,
-      "lat": 39.2582,
-      "depth": 1.264,
-      "mag": 2,
-      "place": "14 km NE of Fruita, Colorado",
-      "time": 1786952687769,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ecl"
-    },
-    {
-      "id": "usd0015ecj",
-      "lon": 135.6311,
-      "lat": 34.8761,
-      "depth": 370.457,
-      "mag": 4.6,
-      "place": "3 km NNE of Takatsuki, Japan",
-      "time": 1786952179104,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ecj"
-    },
-    {
-      "id": "nc75419912",
-      "lon": -122.803833007812,
-      "lat": 38.8255004882812,
-      "depth": 2.45000004768372,
-      "mag": 0.74,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1786951971070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419912"
     }
   ]
 }
