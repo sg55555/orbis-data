@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-19T22:15:33Z",
-  "count": 349,
+  "updated": "2026-08-19T22:30:43Z",
+  "count": 351,
   "points": [
+    {
+      "id": "ci41530696",
+      "lon": -116.353166666667,
+      "lat": 33.3333333333333,
+      "depth": 10.27,
+      "mag": 0.96,
+      "place": "9 km NNE of Borrego Springs, CA",
+      "time": 1787178364860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530696"
+    },
+    {
+      "id": "ci41530688",
+      "lon": -116.337833333333,
+      "lat": 33.3588333333333,
+      "depth": 11.14,
+      "mag": 0.72,
+      "place": "12 km NNE of Borrego Springs, CA",
+      "time": 1787178033220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530688"
+    },
     {
       "id": "ci41530680",
       "lon": -117.680833333333,
@@ -12,6 +32,16 @@
       "place": "22 km ESE of Little Lake, CA",
       "time": 1787177009450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530680"
+    },
+    {
+      "id": "aka2026qkneeo",
+      "lon": -169.691,
+      "lat": 52.735,
+      "depth": 12.8,
+      "mag": 2.2,
+      "place": "60 km WSW of Nikolski, Alaska",
+      "time": 1787177004295,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkneeo"
     },
     {
       "id": "nc75421522",
@@ -25,13 +55,23 @@
     },
     {
       "id": "aka2026qkmzvg",
-      "lon": -153.765,
-      "lat": 58.879,
-      "depth": 12.8,
-      "mag": 2,
-      "place": "85 km SE of Kokhanok, Alaska",
-      "time": 1787176709967,
+      "lon": -153.834,
+      "lat": 58.906,
+      "depth": 13,
+      "mag": 2.1,
+      "place": "80 km SE of Kokhanok, Alaska",
+      "time": 1787176710251,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkmzvg"
+    },
+    {
+      "id": "aka2026qkmyxm",
+      "lon": -147.331,
+      "lat": 61.66,
+      "depth": 23.5,
+      "mag": 1.2,
+      "place": "23 km SE of Glacier View, Alaska",
+      "time": 1787176640944,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkmyxm"
     },
     {
       "id": "nc75421512",
@@ -62,6 +102,16 @@
       "place": "10 km WNW of The Geysers, CA",
       "time": 1787176302920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421502"
+    },
+    {
+      "id": "aka2026qkmqac",
+      "lon": -178.448,
+      "lat": 51.131,
+      "depth": 30.3,
+      "mag": 2,
+      "place": "150 km SW of Adak, Alaska",
+      "time": 1787176024040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkmqac"
     },
     {
       "id": "nc75421497",
@@ -275,12 +325,12 @@
     },
     {
       "id": "nn00923529",
-      "lon": -116.5835,
-      "lat": 38.3948,
-      "depth": 1.6442,
-      "mag": 2.04,
-      "place": "67 km ENE of Tonopah, Nevada",
-      "time": 1787172272198,
+      "lon": -116.503,
+      "lat": 38.4375,
+      "depth": 9.8672,
+      "mag": 1.82,
+      "place": "75 km ENE of Tonopah, Nevada",
+      "time": 1787172271242,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923529"
     },
     {
@@ -3462,36 +3512,6 @@
       "place": "73 km SE of Adak, Alaska",
       "time": 1787092489938,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qisewj"
-    },
-    {
-      "id": "ci41529696",
-      "lon": -117.0265,
-      "lat": 33.8476666666667,
-      "depth": 13.89,
-      "mag": 1.14,
-      "place": "9 km NW of San Jacinto, CA",
-      "time": 1787092064820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529696"
-    },
-    {
-      "id": "us6000tlrt",
-      "lon": 120.4458,
-      "lat": -8.179,
-      "depth": 35,
-      "mag": 4.6,
-      "place": "47 km N of Ruteng, Indonesia",
-      "time": 1787092015404,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlrt"
-    },
-    {
-      "id": "uu80149256",
-      "lon": -112.799833333333,
-      "lat": 36.7816666666667,
-      "depth": 18.1,
-      "mag": 1.43,
-      "place": "13 km SSW of Kaibab, Arizona",
-      "time": 1787091959170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149256"
     }
   ]
 }
