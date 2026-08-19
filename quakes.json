@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-19T11:45:30Z",
-  "count": 301,
+  "updated": "2026-08-19T11:58:11Z",
+  "count": 302,
   "points": [
+    {
+      "id": "ci41530064",
+      "lon": -116.468166666667,
+      "lat": 33.4876666666667,
+      "depth": 13.71,
+      "mag": 0.66,
+      "place": "20 km ESE of Anza, CA",
+      "time": 1787140320860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530064"
+    },
+    {
+      "id": "nc75421207",
+      "lon": -122.745834350586,
+      "lat": 38.7796669006348,
+      "depth": 0.100000001490116,
+      "mag": 0.78,
+      "place": "1 km ENE of The Geysers, CA",
+      "time": 1787140131790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421207"
+    },
     {
       "id": "hv75020692",
       "lon": -155.247329711914,
@@ -3002,16 +3022,6 @@
       "place": "72 km NNE of Ruteng, Indonesia",
       "time": 1787054413955,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlmz"
-    },
-    {
-      "id": "tx2026qfguhl",
-      "lon": -104.425,
-      "lat": 31.661,
-      "depth": 6.0999,
-      "mag": 1.9,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": 1787053739996,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qfguhl"
     }
   ]
 }
