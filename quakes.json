@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-19T19:15:33Z",
-  "count": 335,
+  "updated": "2026-08-19T19:30:44Z",
+  "count": 333,
   "points": [
+    {
+      "id": "ci41530528",
+      "lon": -116.433666666667,
+      "lat": 33.5013333333333,
+      "depth": 3.36,
+      "mag": 0.61,
+      "place": "21 km SSW of La Quinta, CA",
+      "time": 1787167596420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530528"
+    },
+    {
+      "id": "ci41530512",
+      "lon": -116.410666666667,
+      "lat": 33.0316666666667,
+      "depth": 9.49,
+      "mag": 1.02,
+      "place": "19 km ESE of Julian, CA",
+      "time": 1787167271780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530512"
+    },
     {
       "id": "ci41530480",
       "lon": -117.505666666667,
@@ -405,12 +425,12 @@
     },
     {
       "id": "ci41530264",
-      "lon": -116.637666666667,
-      "lat": 33.421,
-      "depth": 6.74,
-      "mag": 0.5,
+      "lon": -116.639666666667,
+      "lat": 33.4211666666667,
+      "depth": 7.4,
+      "mag": 0.2,
       "place": "15 km SSE of Anza, CA",
-      "time": 1787153919610,
+      "time": 1787153919510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530264"
     },
     {
@@ -445,12 +465,12 @@
     },
     {
       "id": "ci41530232",
-      "lon": -116.4815,
-      "lat": 33.489,
-      "depth": 12.73,
-      "mag": 1.24,
+      "lon": -116.485,
+      "lat": 33.4883333333333,
+      "depth": 11.99,
+      "mag": 1.26,
       "place": "19 km ESE of Anza, CA",
-      "time": 1787152679660,
+      "time": 1787152679670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530232"
     },
     {
@@ -1934,6 +1954,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421072"
     },
     {
+      "id": "uw714082061",
+      "lon": -121.951666666667,
+      "lat": 46.8778333333333,
+      "depth": 4.39,
+      "mag": 0.47,
+      "place": "14 km NNE of Ashford, Washington",
+      "time": 1787117440480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714082061"
+    },
+    {
       "id": "nc75421067",
       "lon": -122.748168945312,
       "lat": 38.7938346862793,
@@ -2545,12 +2575,12 @@
     },
     {
       "id": "ci41529744",
-      "lon": -116.8885,
-      "lat": 33.3266666666667,
-      "depth": 10.28,
+      "lon": -116.888666666667,
+      "lat": 33.3265,
+      "depth": 11.06,
       "mag": 1.73,
       "place": "4 km SW of Palomar Observatory, CA",
-      "time": 1787098809050,
+      "time": 1787098809000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529744"
     },
     {
@@ -3302,56 +3332,6 @@
       "place": "40 km NW of Toyah, Texas",
       "time": 1787081500181,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qfwcys"
-    },
-    {
-      "id": "tx2026qfwbcd",
-      "lon": -102.025,
-      "lat": 31.929,
-      "depth": 3.5889,
-      "mag": 1.2,
-      "place": "9 km SSE of Midland, Texas",
-      "time": 1787081352622,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qfwbcd"
-    },
-    {
-      "id": "av94391988",
-      "lon": -155.256166666667,
-      "lat": 58.1766666666667,
-      "depth": 1.63,
-      "mag": -0.92,
-      "place": "82 km NW of Karluk, Alaska",
-      "time": 1787081164440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94391988"
-    },
-    {
-      "id": "uu80149221",
-      "lon": -111.412666666667,
-      "lat": 42.3773333333333,
-      "depth": 5.62,
-      "mag": 1.78,
-      "place": "7 km WSW of Bennington, Idaho",
-      "time": 1787080942070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149221"
-    },
-    {
-      "id": "aka2026qilqer",
-      "lon": -160.398,
-      "lat": 54.502,
-      "depth": 10,
-      "mag": 2.4,
-      "place": "93 km S of Sand Point, Alaska",
-      "time": 1787080679522,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qilqer"
-    },
-    {
-      "id": "ci41529504",
-      "lon": -117.713,
-      "lat": 35.9253333333333,
-      "depth": 2.81,
-      "mag": 1.05,
-      "place": "17 km E of Little Lake, CA",
-      "time": 1787080645780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529504"
     }
   ]
 }
