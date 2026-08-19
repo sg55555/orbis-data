@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-19T20:00:51Z",
-  "count": 336,
+  "updated": "2026-08-19T20:15:47Z",
+  "count": 338,
   "points": [
+    {
+      "id": "nn00923526",
+      "lon": -114.8028,
+      "lat": 37.0654,
+      "depth": 16,
+      "mag": 2.57,
+      "place": "46 km SE of Alamo, Nevada",
+      "time": 1787169908517,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923526"
+    },
+    {
+      "id": "nc75421422",
+      "lon": -122.84400177002,
+      "lat": 38.8231658935547,
+      "depth": 1.60000002384186,
+      "mag": 1.3,
+      "place": "9 km NW of The Geysers, CA",
+      "time": 1787169642410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421422"
+    },
     {
       "id": "tx2026qhsshn",
       "lon": -104.373,
@@ -40,7 +60,7 @@
       "depth": 108,
       "mag": 3.7,
       "place": "45 km W of Happy Valley, Alaska",
-      "time": 1787169103493,
+      "time": 1787169103802,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkiuau"
     },
     {
@@ -185,13 +205,33 @@
     },
     {
       "id": "ci41530448",
-      "lon": -116.884,
-      "lat": 34.3395,
-      "depth": -0.85,
-      "mag": 1.27,
+      "lon": -116.882333333333,
+      "lat": 34.3401666666667,
+      "depth": -1.75,
+      "mag": 1.18,
       "place": "9 km NNW of Big Bear City, CA",
-      "time": 1787164495060,
+      "time": 1787164494800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530448"
+    },
+    {
+      "id": "aka2026qkgeft",
+      "lon": -173.247,
+      "lat": 52.418,
+      "depth": 7.5,
+      "mag": 2.8,
+      "place": "69 km ENE of Atka, Alaska",
+      "time": 1787164392110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkgeft"
+    },
+    {
+      "id": "aka2026qkfzrh",
+      "lon": -152.001,
+      "lat": 61.078,
+      "depth": 90.7,
+      "mag": 1.4,
+      "place": "46 km W of Tyonek, Alaska",
+      "time": 1787164096477,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkfzrh"
     },
     {
       "id": "aka2026qkfxfr",
@@ -200,8 +240,18 @@
       "depth": 163.8,
       "mag": 3.3,
       "place": "48 km ESE of Port Alsworth, Alaska",
-      "time": 1787163924653,
+      "time": 1787163924917,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkfxfr"
+    },
+    {
+      "id": "aka2026qkfsrw",
+      "lon": -177.008,
+      "lat": 51.266,
+      "depth": 32.3,
+      "mag": 2,
+      "place": "72 km SSW of Adak, Alaska",
+      "time": 1787163619297,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkfsrw"
     },
     {
       "id": "aka2026qkflvm",
@@ -1365,12 +1415,12 @@
     },
     {
       "id": "hv75020637",
-      "lon": -155.21516418457,
-      "lat": 18.8575000762939,
-      "depth": 9.89000034332275,
-      "mag": 2.14,
-      "place": "44 km ESE of Naalehu, Hawaii",
-      "time": 1787131387460,
+      "lon": -155.241,
+      "lat": 18.887,
+      "depth": 11.58,
+      "mag": 2.15,
+      "place": "40 km ESE of Naalehu, Hawaii",
+      "time": 1787131387990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75020637"
     },
     {
@@ -3332,36 +3382,6 @@
       "place": "72 km NW of Ende, Indonesia",
       "time": 1787084146995,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlqv"
-    },
-    {
-      "id": "ci41529560",
-      "lon": -118.334166666667,
-      "lat": 35.0608333333333,
-      "depth": -1.01,
-      "mag": 0.98,
-      "place": "13 km SE of Tehachapi, CA",
-      "time": 1787083710730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529560"
-    },
-    {
-      "id": "aka2026qineyb",
-      "lon": -155.58,
-      "lat": 57.389,
-      "depth": 14.5,
-      "mag": 1.7,
-      "place": "70 km WSW of Karluk, Alaska",
-      "time": 1787083499519,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qineyb"
-    },
-    {
-      "id": "tx2026qfxcvh",
-      "lon": -104.1,
-      "lat": 31.613,
-      "depth": 6.7023,
-      "mag": 1.6,
-      "place": "44 km NW of Toyah, Texas",
-      "time": 1787083454532,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qfxcvh"
     }
   ]
 }
