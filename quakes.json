@@ -1,14 +1,24 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-19T03:00:57Z",
+  "updated": "2026-08-19T03:07:09Z",
   "count": 305,
   "points": [
+    {
+      "id": "nc75421027",
+      "lon": -122.794166564941,
+      "lat": 38.836498260498,
+      "depth": 1.87999999523163,
+      "mag": 1.5,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1787108598950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421027"
+    },
     {
       "id": "tx2026qgkvpp",
       "lon": -103.229,
       "lat": 31.993,
       "depth": 2.5947,
-      "mag": 1.4,
+      "mag": 1.5,
       "place": "13 km SSW of Jal, New Mexico",
       "time": 1787108126601,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qgkvpp"
@@ -87,7 +97,7 @@
       "id": "nn00923484",
       "lon": -116.4914,
       "lat": 38.432,
-      "depth": 11.6482,
+      "depth": 11.6578,
       "mag": 3.01,
       "place": "76 km ENE of Tonopah, Nevada",
       "time": 1787104799440,
@@ -3042,16 +3052,6 @@
       "place": "8 km NNW of Borrego Springs, CA",
       "time": 1787022634510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528880"
-    },
-    {
-      "id": "tx2026qepify",
-      "lon": -101.853,
-      "lat": 32.079,
-      "depth": 8.0322,
-      "mag": 0.6,
-      "place": "8 km SW of Stanton, Texas",
-      "time": 1787022338068,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qepify"
     }
   ]
 }
