@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-19T13:45:37Z",
-  "count": 300,
+  "updated": "2026-08-19T13:54:11Z",
+  "count": 299,
   "points": [
+    {
+      "id": "ci41530128",
+      "lon": -116.453498840332,
+      "lat": 34.3559989929199,
+      "depth": 6.61999988555908,
+      "mag": 1.43588489290007,
+      "place": "27 km N of Yucca Valley, CA",
+      "time": 1787147459500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530128"
+    },
     {
       "id": "aka2026qjwkuw",
       "lon": -152.452,
@@ -1162,6 +1172,16 @@
       "place": "87 km SSE of Sand Point, Alaska",
       "time": 1787106724633,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qjaccm"
+    },
+    {
+      "id": "uu80149281",
+      "lon": -112.886166666667,
+      "lat": 38.5195,
+      "depth": 1.49,
+      "mag": 0.89,
+      "place": "17 km NE of Milford, Utah",
+      "time": 1787106629620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149281"
     },
     {
       "id": "aka2026qizwax",
@@ -2972,36 +2992,6 @@
       "place": "58 km SW of Sitka, Alaska",
       "time": 1787061484076,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qiaysl"
-    },
-    {
-      "id": "tx2026qfkubn",
-      "lon": -103.597,
-      "lat": 31.133,
-      "depth": 0,
-      "mag": 1.6,
-      "place": "21 km NE of Balmorhea, Texas",
-      "time": 1787060950176,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qfkubn"
-    },
-    {
-      "id": "aka2026qiaptn",
-      "lon": -154.936,
-      "lat": 57.328,
-      "depth": 56.7,
-      "mag": 2.3,
-      "place": "39 km SW of Karluk, Alaska",
-      "time": 1787060858550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qiaptn"
-    },
-    {
-      "id": "hv75020257",
-      "lon": -155.318666666667,
-      "lat": 19.3253333333333,
-      "depth": 30.32,
-      "mag": 1.99,
-      "place": "15 km SW of Volcano, Hawaii",
-      "time": 1787060744030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75020257"
     }
   ]
 }
