@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-19T19:45:36Z",
-  "count": 331,
+  "updated": "2026-08-19T19:55:39Z",
+  "count": 332,
   "points": [
+    {
+      "id": "aka2026qkiuau",
+      "lon": -152.533,
+      "lat": 60.029,
+      "depth": 111.8,
+      "mag": 3.4,
+      "place": "45 km W of Happy Valley, Alaska",
+      "time": 1787169103484,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkiuau"
+    },
     {
       "id": "nc75421407",
       "lon": -122.818664550781,
@@ -42,6 +52,16 @@
       "place": "19 km ESE of Julian, CA",
       "time": 1787167271780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530512"
+    },
+    {
+      "id": "av94393823",
+      "lon": -169.7305,
+      "lat": 52.8591666666667,
+      "depth": 1.64,
+      "mag": 2.02,
+      "place": "59 km W of Nikolski, Alaska",
+      "time": 1787166675950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94393823"
     },
     {
       "id": "ci41530480",
@@ -135,12 +155,12 @@
     },
     {
       "id": "aka2026qkfxfr",
-      "lon": -153.43,
-      "lat": 60.086,
-      "depth": 165.5,
-      "mag": 2.9,
-      "place": "50 km NE of Pedro Bay, Alaska",
-      "time": 1787163924871,
+      "lon": -153.469,
+      "lat": 60.096,
+      "depth": 163.8,
+      "mag": 3.3,
+      "place": "48 km ESE of Port Alsworth, Alaska",
+      "time": 1787163924653,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkfxfr"
     },
     {
@@ -185,20 +205,20 @@
     },
     {
       "id": "ci41530408",
-      "lon": -116.9415,
-      "lat": 32.9026666666667,
-      "depth": 5.49,
-      "mag": 0.76,
-      "place": "5 km NNW of Lakeside, CA",
-      "time": 1787162308590,
+      "lon": -116.929833333333,
+      "lat": 32.9145,
+      "depth": -0.18,
+      "mag": 0.65,
+      "place": "6 km N of Lakeside, CA",
+      "time": 1787162308200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530408"
     },
     {
       "id": "ci41530400",
-      "lon": -117.730333333333,
-      "lat": 34.1573333333333,
-      "depth": 9.64,
-      "mag": 1.64,
+      "lon": -117.722333333333,
+      "lat": 34.1628333333333,
+      "depth": 10.17,
+      "mag": 0.81,
       "place": "7 km N of Claremont, CA",
       "time": 1787161907950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530400"
@@ -222,6 +242,16 @@
       "place": "3 km NW of The Geysers, CA",
       "time": 1787160008900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421307"
+    },
+    {
+      "id": "us6000tlyi",
+      "lon": 126.6639,
+      "lat": 5.8923,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "74 km SE of Pondaguitan, Philippines",
+      "time": 1787159974166,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlyi"
     },
     {
       "id": "aka2026qkdqtt",
@@ -3292,26 +3322,6 @@
       "place": "44 km NW of Toyah, Texas",
       "time": 1787083454532,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qfxcvh"
-    },
-    {
-      "id": "us6000tlqq",
-      "lon": 70.7551,
-      "lat": 36.5535,
-      "depth": 195.937,
-      "mag": 5.3,
-      "place": "35 km SSW of Jurm, Afghanistan",
-      "time": 1787082669478,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlqq"
-    },
-    {
-      "id": "ci41529552",
-      "lon": -117.813166666667,
-      "lat": 35.3265,
-      "depth": 7.2,
-      "mag": 1.02,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1787082543820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529552"
     }
   ]
 }
