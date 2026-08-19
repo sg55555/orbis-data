@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-19T17:57:17Z",
-  "count": 325,
+  "updated": "2026-08-19T18:01:12Z",
+  "count": 330,
   "points": [
+    {
+      "id": "ci41530408",
+      "lon": -116.94066619873,
+      "lat": 32.8969993591309,
+      "depth": 5.42999982833862,
+      "mag": 1.10864257021264,
+      "place": "5 km NNW of Lakeside, CA",
+      "time": 1787162308600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530408"
+    },
     {
       "id": "ci41530400",
       "lon": -117.730333333333,
@@ -15,12 +25,12 @@
     },
     {
       "id": "tx2026qholzd",
-      "lon": -101.945,
-      "lat": 32.397,
-      "depth": 8.852,
-      "mag": 1.5,
-      "place": "25 km SW of Ackerly, Texas",
-      "time": 1787161768252,
+      "lon": -101.951,
+      "lat": 32.394,
+      "depth": 9.9152,
+      "mag": 1.7,
+      "place": "26 km WSW of Ackerly, Texas",
+      "time": 1787161768034,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qholzd"
     },
     {
@@ -54,6 +64,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkdqtt"
     },
     {
+      "id": "aka2026qkdmvi",
+      "lon": -154.739,
+      "lat": 57.725,
+      "depth": 61.9,
+      "mag": 1.2,
+      "place": "24 km NW of Karluk, Alaska",
+      "time": 1787159610012,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkdmvi"
+    },
+    {
+      "id": "uu80149416",
+      "lon": -112.890666666667,
+      "lat": 38.5113333333333,
+      "depth": 2.53,
+      "mag": 1.83,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1787159588450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149416"
+    },
+    {
       "id": "hv75020857",
       "lon": -155.352340698242,
       "lat": 19.1863327026367,
@@ -62,6 +92,26 @@
       "place": "13 km E of Pāhala, Hawaii",
       "time": 1787159110270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75020857"
+    },
+    {
+      "id": "aka2026qkctsk",
+      "lon": -153.744,
+      "lat": 58.568,
+      "depth": 83.1,
+      "mag": 1.5,
+      "place": "74 km NW of Aleneva, Alaska",
+      "time": 1787158296946,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkctsk"
+    },
+    {
+      "id": "aka2026qkcrxb",
+      "lon": 178.919,
+      "lat": 51.726,
+      "depth": 119.9,
+      "mag": 3.9,
+      "place": "Rat Islands, Aleutian Islands, Alaska",
+      "time": 1787158183559,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkcrxb"
     },
     {
       "id": "aka2026qkclrt",
@@ -652,6 +702,16 @@
       "place": "17 km SE of Big Bear City, CA",
       "time": 1787140950790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530072"
+    },
+    {
+      "id": "ci10248862",
+      "lon": -116.471,
+      "lat": 33.5026666666667,
+      "depth": 18.23,
+      "mag": 0.42,
+      "place": "20 km ESE of Anza, CA",
+      "time": 1787140324250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10248862"
     },
     {
       "id": "ci41530064",
@@ -2784,6 +2844,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923456"
     },
     {
+      "id": "uw714081821",
+      "lon": -120.498333333333,
+      "lat": 49.3515,
+      "depth": -0.51,
+      "mag": 1.75,
+      "place": "11 km S of Princeton, Canada",
+      "time": 1787087993360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714081821"
+    },
+    {
       "id": "av94392103",
       "lon": -155.3545,
       "lat": 58.1728333333333,
@@ -3232,26 +3302,6 @@
       "place": "5 km NE of Anza, CA",
       "time": 1787076673360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529440"
-    },
-    {
-      "id": "nn00923448",
-      "lon": -119.013,
-      "lat": 39.3336,
-      "depth": 7.097,
-      "mag": 2.54,
-      "place": "20 km ESE of Silver Springs, Nevada",
-      "time": 1787076014145,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923448"
-    },
-    {
-      "id": "aka2026qiiztv",
-      "lon": -179.628,
-      "lat": 51.107,
-      "depth": 14.2,
-      "mag": 2.8,
-      "place": "224 km WSW of Adak, Alaska",
-      "time": 1787075942797,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qiiztv"
     }
   ]
 }
