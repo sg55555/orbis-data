@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-19T23:32:21Z",
-  "count": 350,
+  "updated": "2026-08-19T23:45:32Z",
+  "count": 348,
   "points": [
+    {
+      "id": "aka2026qkqjbv",
+      "lon": -152.53,
+      "lat": 60.277,
+      "depth": 111.5,
+      "mag": 1.9,
+      "place": "54 km WNW of Ninilchik, Alaska",
+      "time": 1787182781096,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkqjbv"
+    },
     {
       "id": "nc75421547",
       "lon": -122.856163024902,
@@ -1262,6 +1272,16 @@
       "place": "13 km SE of Anza, CA",
       "time": 1787148983420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530144"
+    },
+    {
+      "id": "hv75020772",
+      "lon": -155.405166666667,
+      "lat": 19.344,
+      "depth": 8.39,
+      "mag": 1.35,
+      "place": "17 km NNE of Pāhala, Hawaii",
+      "time": 1787148877630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75020772"
     },
     {
       "id": "tx2026qhhbhp",
@@ -3462,46 +3482,6 @@
       "place": "7 km WNW of Cobb, CA",
       "time": 1787096885780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420917"
-    },
-    {
-      "id": "tx2026qgemot",
-      "lon": -103.354,
-      "lat": 31.186,
-      "depth": 7.6636,
-      "mag": 1.5,
-      "place": "26 km SE of Lindsay, Texas",
-      "time": 1787096634573,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qgemot"
-    },
-    {
-      "id": "aka2026qiuhwk",
-      "lon": -154.338,
-      "lat": 61.841,
-      "depth": 1.6,
-      "mag": 1.8,
-      "place": "79 km NE of Lime Village, Alaska",
-      "time": 1787096477648,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qiuhwk"
-    },
-    {
-      "id": "uw714081971",
-      "lon": -119.524833333333,
-      "lat": 48.8081666666667,
-      "depth": 17.92,
-      "mag": 2.16,
-      "place": "8 km E of Loomis, Washington",
-      "time": 1787096098810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714081971"
-    },
-    {
-      "id": "hv75020412",
-      "lon": -155.510162353516,
-      "lat": 19.1603336334229,
-      "depth": 27.8099994659424,
-      "mag": 1.9,
-      "place": "5 km SW of Pāhala, Hawaii",
-      "time": 1787096097360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75020412"
     }
   ]
 }
