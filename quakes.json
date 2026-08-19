@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-19T12:45:34Z",
-  "count": 299,
+  "updated": "2026-08-19T13:00:56Z",
+  "count": 298,
   "points": [
+    {
+      "id": "hv75020732",
+      "lon": -155.446166992188,
+      "lat": 18.8939990997314,
+      "depth": 29.6000003814697,
+      "mag": 1.79,
+      "place": "23 km SE of Naalehu, Hawaii",
+      "time": 1787143340800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75020732"
+    },
     {
       "id": "hv75020722",
       "lon": -155.244659423828,
@@ -615,12 +625,12 @@
     },
     {
       "id": "tx2026qgszdv",
-      "lon": -103.242,
-      "lat": 32.006,
-      "depth": 3.0077,
-      "mag": 2.5,
-      "place": "12 km SSW of Jal, New Mexico",
-      "time": 1787122865817,
+      "lon": -103.232,
+      "lat": 32.013,
+      "depth": 6.3818,
+      "mag": 2.3,
+      "place": "11 km SSW of Jal, New Mexico",
+      "time": 1787122865436,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qgszdv"
     },
     {
@@ -2972,26 +2982,6 @@
       "place": "9 km N of Anacortes, Washington",
       "time": 1787058088010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714081151"
-    },
-    {
-      "id": "av94391563",
-      "lon": -155.370833333333,
-      "lat": 58.17,
-      "depth": 2.01,
-      "mag": -0.13,
-      "place": "86 km NW of Karluk, Alaska",
-      "time": 1787057658850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94391563"
-    },
-    {
-      "id": "ci41529136",
-      "lon": -117.020166666667,
-      "lat": 34.2758333333333,
-      "depth": 5.67,
-      "mag": 0.85,
-      "place": "11 km WNW of Big Bear Lake, CA",
-      "time": 1787057638300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529136"
     }
   ]
 }
