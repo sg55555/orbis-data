@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-19T05:40:42Z",
-  "count": 305,
+  "updated": "2026-08-19T05:45:32Z",
+  "count": 306,
   "points": [
+    {
+      "id": "nc75421077",
+      "lon": -122.837829589844,
+      "lat": 38.839168548584,
+      "depth": 1.04999995231628,
+      "mag": 0.63,
+      "place": "10 km NW of The Geysers, CA",
+      "time": 1787118003080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421077"
+    },
     {
       "id": "nc75421072",
       "lon": -122.761001586914,
@@ -22,6 +32,16 @@
       "place": "2 km NNE of The Geysers, CA",
       "time": 1787117437820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421067"
+    },
+    {
+      "id": "us6000tltq",
+      "lon": 95.5097,
+      "lat": 37.8621,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "265 km SSE of Dunhuang, China",
+      "time": 1787116944762,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tltq"
     },
     {
       "id": "ci41529856",
@@ -1355,12 +1375,12 @@
     },
     {
       "id": "aka2026qihtno",
-      "lon": -153.839,
-      "lat": 59.883,
-      "depth": 160.4,
-      "mag": 1.6,
-      "place": "18 km NE of Pedro Bay, Alaska",
-      "time": 1787073716766,
+      "lon": -153.87,
+      "lat": 59.875,
+      "depth": 164.6,
+      "mag": 1.9,
+      "place": "16 km NE of Pedro Bay, Alaska",
+      "time": 1787073716252,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qihtno"
     },
     {
@@ -3042,16 +3062,6 @@
       "place": "4 km ESE of Wrightwood, CA",
       "time": 1787032590520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528968"
-    },
-    {
-      "id": "us6000tlkq",
-      "lon": -91.927,
-      "lat": 13.9935,
-      "depth": 35.138,
-      "mag": 4,
-      "place": "33 km S of Champerico, Guatemala",
-      "time": 1787031745134,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkq"
     }
   ]
 }
