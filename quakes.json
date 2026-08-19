@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-19T14:30:43Z",
-  "count": 300,
+  "updated": "2026-08-19T14:45:36Z",
+  "count": 296,
   "points": [
+    {
+      "id": "ci41530192",
+      "lon": -117.157666666667,
+      "lat": 34.0296666666667,
+      "depth": 16.02,
+      "mag": 1.12,
+      "place": "4 km SE of Redlands, CA",
+      "time": 1787150499430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530192"
+    },
+    {
+      "id": "ci41530184",
+      "lon": -118.067833333333,
+      "lat": 36.1183333333333,
+      "depth": -0.57,
+      "mag": 0.78,
+      "place": "13 km NW of Coso Junction, CA",
+      "time": 1787150467940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530184"
+    },
+    {
+      "id": "ci41530176",
+      "lon": -116.081,
+      "lat": 32.7486666666667,
+      "depth": 2.44,
+      "mag": 0.99,
+      "place": "8 km W of Ocotillo, CA",
+      "time": 1787150046860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530176"
+    },
     {
       "id": "ci41530152",
       "lon": -117.866333333333,
@@ -862,6 +892,16 @@
       "place": "97 km SE of Kingston, Nevada",
       "time": 1787122821682,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923495"
+    },
+    {
+      "id": "uu80149341",
+      "lon": -112.8895,
+      "lat": 38.513,
+      "depth": 2.33,
+      "mag": 1,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1787122239720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149341"
     },
     {
       "id": "nc75421087",
@@ -1744,16 +1784,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420907"
     },
     {
-      "id": "tx2026qgdlfv",
-      "lon": -103.578,
-      "lat": 31.088,
-      "depth": 0.3583,
-      "mag": 1.7,
-      "place": "19 km NE of Balmorhea, Texas",
-      "time": 1787094729952,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qgdlfv"
-    },
-    {
       "id": "nc75420902",
       "lon": -121.179336547852,
       "lat": 36.5548324584961,
@@ -1902,16 +1932,6 @@
       "place": "13 km SSW of Kaibab, Arizona",
       "time": 1787091959170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149256"
-    },
-    {
-      "id": "tx2026qgbepq",
-      "lon": -103.437,
-      "lat": 31.201,
-      "depth": 3.4661,
-      "mag": 1.7,
-      "place": "20 km SSE of Lindsay, Texas",
-      "time": 1787090649565,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qgbepq"
     },
     {
       "id": "hv75020397",
@@ -2942,66 +2962,6 @@
       "place": "60 km W of Petrolia, CA",
       "time": 1787065186750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420632"
-    },
-    {
-      "id": "ci10248766",
-      "lon": -117.164666666667,
-      "lat": 33.984,
-      "depth": 10.88,
-      "mag": 0.38,
-      "place": "8 km SSE of Redlands, CA",
-      "time": 1787064200260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10248766"
-    },
-    {
-      "id": "ci41529224",
-      "lon": -118.256333333333,
-      "lat": 34.0986666666667,
-      "depth": 11.47,
-      "mag": 0.74,
-      "place": "1 km NE of Silver Lake, CA",
-      "time": 1787064196280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529224"
-    },
-    {
-      "id": "nc75420617",
-      "lon": -122.78483581543,
-      "lat": 38.8373336791992,
-      "depth": 1.44000005722046,
-      "mag": 1.09,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1787063905830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420617"
-    },
-    {
-      "id": "tx2026qfmjie",
-      "lon": -101.759,
-      "lat": 32.418,
-      "depth": 6.1768,
-      "mag": 0.9,
-      "place": "12 km SSW of Ackerly, Texas",
-      "time": 1787063821715,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qfmjie"
-    },
-    {
-      "id": "aka2026qicfyg",
-      "lon": -173.727,
-      "lat": 51.468,
-      "depth": 20,
-      "mag": 2.6,
-      "place": "87 km SSE of Atka, Alaska",
-      "time": 1787063776787,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qicfyg"
-    },
-    {
-      "id": "nc75420607",
-      "lon": -122.768165588379,
-      "lat": 38.7818336486816,
-      "depth": 1.21000003814697,
-      "mag": 1.14,
-      "place": "1 km WNW of The Geysers, CA",
-      "time": 1787063648070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420607"
     }
   ]
 }
