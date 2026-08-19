@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-19T22:45:30Z",
-  "count": 351,
+  "updated": "2026-08-19T22:58:08Z",
+  "count": 346,
   "points": [
+    {
+      "id": "aka2026qkoqcr",
+      "lon": -153.501,
+      "lat": 60.16,
+      "depth": 5,
+      "mag": 1.2,
+      "place": "45 km E of Port Alsworth, Alaska",
+      "time": 1787179628263,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkoqcr"
+    },
     {
       "id": "nn00923538",
       "lon": -116.4973,
@@ -12,6 +22,16 @@
       "place": "78 km NE of Tonopah, Nevada",
       "time": 1787179002908,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923538"
+    },
+    {
+      "id": "us6000tm0s",
+      "lon": 120.4559,
+      "lat": -8.3255,
+      "depth": 10,
+      "mag": 5.2,
+      "place": "31 km N of Ruteng, Indonesia",
+      "time": 1787178488710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm0s"
     },
     {
       "id": "ci41530696",
@@ -2625,12 +2645,12 @@
     },
     {
       "id": "nn00923493",
-      "lon": -116.5159,
-      "lat": 38.4457,
-      "depth": 1.2306,
-      "mag": 2.16,
-      "place": "75 km ENE of Tonopah, Nevada",
-      "time": 1787116252035,
+      "lon": -116.5154,
+      "lat": 38.4342,
+      "depth": 5.6701,
+      "mag": 1.66,
+      "place": "74 km ENE of Tonopah, Nevada",
+      "time": 1787116252250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923493"
     },
     {
@@ -2904,14 +2924,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421017"
     },
     {
-      "id": "aka2026qjaccm",
-      "lon": -160.2,
-      "lat": 54.57,
-      "depth": 0.8,
-      "mag": 3.6,
-      "place": "87 km SSE of Sand Point, Alaska",
-      "time": 1787106724633,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qjaccm"
+      "id": "us6000tlt2",
+      "lon": -160.2378,
+      "lat": 54.5435,
+      "depth": 35,
+      "mag": 3.5,
+      "place": "89 km S of Sand Point, Alaska",
+      "time": 1787106727996,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt2"
     },
     {
       "id": "uu80149281",
@@ -3442,76 +3462,6 @@
       "place": "6 km NNW of Lake Henshaw, CA",
       "time": 1787093957420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529728"
-    },
-    {
-      "id": "nc75420887",
-      "lon": -122.815002441406,
-      "lat": 38.8328323364258,
-      "depth": 1.9099999666214,
-      "mag": 0.91,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1787093765580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420887"
-    },
-    {
-      "id": "aka2026qiswhq",
-      "lon": -172.755,
-      "lat": 50.766,
-      "depth": 20,
-      "mag": 3,
-      "place": "188 km SSE of Atka, Alaska",
-      "time": 1787093669906,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qiswhq"
-    },
-    {
-      "id": "ci41529720",
-      "lon": -116.686333333333,
-      "lat": 32.5621666666667,
-      "depth": -0.83,
-      "mag": 0.97,
-      "place": "5 km W of Tecate, B.C., MX",
-      "time": 1787093596490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529720"
-    },
-    {
-      "id": "nc75420882",
-      "lon": -123.189834594727,
-      "lat": 39.3346672058105,
-      "depth": 8.61999988555908,
-      "mag": 1.25,
-      "place": "8 km N of Redwood Valley, CA",
-      "time": 1787093524790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420882"
-    },
-    {
-      "id": "aka2026qispsf",
-      "lon": -146.758,
-      "lat": 62.023,
-      "depth": 36.7,
-      "mag": 1.4,
-      "place": "3 km N of Nelchina, Alaska",
-      "time": 1787093234137,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qispsf"
-    },
-    {
-      "id": "nc75420877",
-      "lon": -122.814666748047,
-      "lat": 38.8278350830078,
-      "depth": 2.13000011444092,
-      "mag": 0.67,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1787093228640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420877"
-    },
-    {
-      "id": "ci41529704",
-      "lon": -118.254,
-      "lat": 34.1083333333333,
-      "depth": 11.96,
-      "mag": 0.83,
-      "place": "2 km NNE of Silver Lake, CA",
-      "time": 1787093113060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529704"
     }
   ]
 }
