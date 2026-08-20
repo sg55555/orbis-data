@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-20T19:39:20Z",
-  "count": 268,
+  "updated": "2026-08-20T19:45:35Z",
+  "count": 269,
   "points": [
+    {
+      "id": "aka2026qmeind",
+      "lon": -150.874,
+      "lat": 60.935,
+      "depth": 5.4,
+      "mag": 2.2,
+      "place": "10 km W of Point Possession, Alaska",
+      "time": 1787254667368,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qmeind"
+    },
+    {
+      "id": "ci41531352",
+      "lon": -117.399833333333,
+      "lat": 34.1723333333333,
+      "depth": 8.64,
+      "mag": 0.52,
+      "place": "5 km S of Devore, CA",
+      "time": 1787254658180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531352"
+    },
     {
       "id": "nc75421947",
       "lon": -122.817337036133,
@@ -12,6 +32,16 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1787254377590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421947"
+    },
+    {
+      "id": "us6000tm93",
+      "lon": 121.2709,
+      "lat": -8.423,
+      "depth": 10,
+      "mag": 5,
+      "place": "63 km NW of Ende, Indonesia",
+      "time": 1787253843495,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm93"
     },
     {
       "id": "uu80149596",
@@ -35,12 +65,12 @@
     },
     {
       "id": "ci41531304",
-      "lon": -117.776,
-      "lat": 36.0356666666667,
-      "depth": 1.9,
-      "mag": 1.3,
+      "lon": -117.7745,
+      "lat": 36.0368333333333,
+      "depth": 1.97,
+      "mag": 1.31,
       "place": "16 km E of Coso Junction, CA",
-      "time": 1787251417400,
+      "time": 1787251417360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531304"
     },
     {
@@ -245,12 +275,12 @@
     },
     {
       "id": "uw714082082",
-      "lon": -120.114166259766,
-      "lat": 47.8208351135254,
-      "depth": -0.589999973773956,
-      "mag": 1.82483994960785,
+      "lon": -120.113,
+      "lat": 47.8208333333333,
+      "depth": 6.48,
+      "mag": 1.67,
       "place": "7 km WSW of Chelan, Washington",
-      "time": 1787238646460,
+      "time": 1787238646200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714082082"
     },
     {
@@ -2662,26 +2692,6 @@
       "place": "17 km SSW of Volcano, Hawaii",
       "time": 1787169098840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75020937"
-    },
-    {
-      "id": "nc75421407",
-      "lon": -122.818664550781,
-      "lat": 38.8063316345215,
-      "depth": 3.34999990463257,
-      "mag": 0.67,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": 1787168598140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421407"
-    },
-    {
-      "id": "aka2026qkikww",
-      "lon": -162.32,
-      "lat": 54.438,
-      "depth": 9.2,
-      "mag": 2,
-      "place": "69 km S of King Cove, Alaska",
-      "time": 1787168471431,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkikww"
     }
   ]
 }
