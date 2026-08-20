@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-20T22:00:55Z",
-  "count": 257,
+  "updated": "2026-08-20T22:15:32Z",
+  "count": 258,
   "points": [
+    {
+      "id": "ci41531504",
+      "lon": -117.8415,
+      "lat": 36.065,
+      "depth": 2.72,
+      "mag": 1.27,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": 1787263225490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531504"
+    },
     {
       "id": "nc75422047",
       "lon": -122.814002990723,
@@ -155,12 +165,12 @@
     },
     {
       "id": "nn00923595",
-      "lon": -119.0134,
-      "lat": 39.3468,
-      "depth": 6.0662,
-      "mag": 1.8,
+      "lon": -119.0215,
+      "lat": 39.3458,
+      "depth": 6.3444,
+      "mag": 1.79,
       "place": "19 km ESE of Silver Springs, Nevada",
-      "time": 1787257891006,
+      "time": 1787257891395,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923595"
     },
     {
@@ -1734,6 +1744,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm25"
     },
     {
+      "id": "av94394628",
+      "lon": -169.744333333333,
+      "lat": 52.8258333333333,
+      "depth": 8.08,
+      "mag": 1.55,
+      "place": "60 km WSW of Nikolski, Alaska",
+      "time": 1787201524090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94394628"
+    },
+    {
+      "id": "av94394613",
+      "lon": -169.734166666667,
+      "lat": 52.8356666666667,
+      "depth": 6.62,
+      "mag": 1.42,
+      "place": "59 km WSW of Nikolski, Alaska",
+      "time": 1787201106000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94394613"
+    },
+    {
       "id": "tx2026qikdtr",
       "lon": -101.723,
       "lat": 32.279,
@@ -1832,6 +1862,36 @@
       "place": "23 km S of Westbrook, Texas",
       "time": 1787199469511,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qijhml"
+    },
+    {
+      "id": "av94394573",
+      "lon": -152.2635,
+      "lat": 61.329,
+      "depth": -0.49,
+      "mag": -0.04,
+      "place": "66 km WNW of Beluga, Alaska",
+      "time": 1787199454830,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94394573"
+    },
+    {
+      "id": "av94394568",
+      "lon": -169.735666666667,
+      "lat": 52.8213333333333,
+      "depth": 7.93,
+      "mag": 1.61,
+      "place": "60 km WSW of Nikolski, Alaska",
+      "time": 1787199265650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94394568"
+    },
+    {
+      "id": "av94394563",
+      "lon": -169.741666666667,
+      "lat": 52.8423333333333,
+      "depth": 7.28,
+      "mag": 1.32,
+      "place": "60 km W of Nikolski, Alaska",
+      "time": 1787199108210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94394563"
     },
     {
       "id": "nc75421652",
@@ -2522,56 +2582,6 @@
       "place": "12 km NNE of Borrego Springs, CA",
       "time": 1787178033180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530688"
-    },
-    {
-      "id": "uw714081752",
-      "lon": -123.483166666667,
-      "lat": 44.603,
-      "depth": -0.51,
-      "mag": 1.77,
-      "place": "2 km ENE of Blodgett, Oregon",
-      "time": 1787177477360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714081752"
-    },
-    {
-      "id": "ci41530680",
-      "lon": -117.680833333333,
-      "lat": 35.865,
-      "depth": 4.68,
-      "mag": 0.48,
-      "place": "22 km ESE of Little Lake, CA",
-      "time": 1787177009450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530680"
-    },
-    {
-      "id": "aka2026qkneeo",
-      "lon": -169.691,
-      "lat": 52.735,
-      "depth": 12.8,
-      "mag": 2.2,
-      "place": "60 km WSW of Nikolski, Alaska",
-      "time": 1787177004295,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkneeo"
-    },
-    {
-      "id": "av93066039",
-      "lon": -169.716,
-      "lat": 52.799,
-      "depth": 12.16,
-      "mag": 1.12,
-      "place": "59 km WSW of Nikolski, Alaska",
-      "time": 1787176914350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93066039"
-    },
-    {
-      "id": "uw714081732",
-      "lon": -121.987833333333,
-      "lat": 47.8096666666667,
-      "depth": -0.58,
-      "mag": 1.53,
-      "place": "5 km SSW of Monroe, Washington",
-      "time": 1787176803520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714081732"
     }
   ]
 }
