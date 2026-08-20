@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-20T10:15:33Z",
-  "count": 313,
+  "updated": "2026-08-20T10:30:41Z",
+  "count": 310,
   "points": [
     {
       "id": "ci41531048",
@@ -644,6 +644,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75021097"
     },
     {
+      "id": "pr71529118",
+      "lon": -64.723,
+      "lat": 18.9418333333333,
+      "depth": 26.94,
+      "mag": 2.77,
+      "place": "67 km N of Cruz Bay, U.S. Virgin Islands",
+      "time": 1787198079460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71529118"
+    },
+    {
       "id": "uw714081862",
       "lon": -122.417335510254,
       "lat": 46.4706649780273,
@@ -672,6 +682,16 @@
       "place": "21 km ENE of Arvin, CA",
       "time": 1787195609660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530832"
+    },
+    {
+      "id": "pr71529078",
+      "lon": -67.0483333333333,
+      "lat": 17.9573333333333,
+      "depth": 15.5,
+      "mag": 2.32,
+      "place": "1 km S of La Parguera, Puerto Rico",
+      "time": 1787195405790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71529078"
     },
     {
       "id": "us6000tm1m",
@@ -3082,56 +3102,6 @@
       "place": "59 km SSE of Atka, Alaska",
       "time": 1787135612297,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qjqeaw"
-    },
-    {
-      "id": "us6000tluz",
-      "lon": -76.9552,
-      "lat": -12.3156,
-      "depth": 54.038,
-      "mag": 4.4,
-      "place": "20 km WNW of San Bartolo, Peru",
-      "time": 1787135285035,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tluz"
-    },
-    {
-      "id": "av94393078",
-      "lon": -152.2515,
-      "lat": 61.3175,
-      "depth": 1.27,
-      "mag": 0.23,
-      "place": "65 km WNW of Beluga, Alaska",
-      "time": 1787135135750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94393078"
-    },
-    {
-      "id": "ci41530032",
-      "lon": -116.646666666667,
-      "lat": 33.4206666666667,
-      "depth": 7,
-      "mag": 0.16,
-      "place": "15 km S of Anza, CA",
-      "time": 1787134921620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530032"
-    },
-    {
-      "id": "av94393073",
-      "lon": -165.993666666667,
-      "lat": 54.1436666666667,
-      "depth": 3.28,
-      "mag": -0.36,
-      "place": "14 km W of Akutan, Alaska",
-      "time": 1787134861070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94393073"
-    },
-    {
-      "id": "tx2026qgzoxd",
-      "lon": -103.229,
-      "lat": 32.007,
-      "depth": 7.4841,
-      "mag": 2,
-      "place": "12 km SSW of Jal, New Mexico",
-      "time": 1787134823400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qgzoxd"
     }
   ]
 }
