@@ -1,6 +1,6 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-20T00:00:52Z",
+  "updated": "2026-08-20T00:15:33Z",
   "count": 343,
   "points": [
     {
@@ -85,12 +85,12 @@
     },
     {
       "id": "us6000tm0u",
-      "lon": 120.529,
-      "lat": -8.3926,
+      "lon": 120.5278,
+      "lat": -8.3922,
       "depth": 10,
       "mag": 5.8,
       "place": "25 km NNE of Ruteng, Indonesia",
-      "time": 1787179517831,
+      "time": 1787179517395,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm0u"
     },
     {
@@ -105,12 +105,12 @@
     },
     {
       "id": "us6000tm0s",
-      "lon": 120.4559,
-      "lat": -8.3255,
+      "lon": 120.4718,
+      "lat": -8.3101,
       "depth": 10,
       "mag": 5.2,
-      "place": "31 km N of Ruteng, Indonesia",
-      "time": 1787178488710,
+      "place": "33 km N of Ruteng, Indonesia",
+      "time": 1787178488388,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm0s"
     },
     {
@@ -2214,6 +2214,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529960"
     },
     {
+      "id": "uw714082111",
+      "lon": -122.338166666667,
+      "lat": 46.1951666666667,
+      "depth": 10.68,
+      "mag": 0.15,
+      "place": "32 km NNE of Amboy, Washington",
+      "time": 1787127725610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714082111"
+    },
+    {
       "id": "uu80149366",
       "lon": -112.892166666667,
       "lat": 38.5136666666667,
@@ -2614,6 +2624,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714082081"
     },
     {
+      "id": "uw714082091",
+      "lon": -122.799,
+      "lat": 47.7973333333333,
+      "depth": 20.05,
+      "mag": 0.45,
+      "place": "6 km ESE of Quilcene, Washington",
+      "time": 1787120034490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714082091"
+    },
+    {
       "id": "aka2026qjhcrp",
       "lon": -150.467,
       "lat": 64.876,
@@ -2972,6 +2992,16 @@
       "place": "3 km NNW of Jackson, Wyoming",
       "time": 1787108979421,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt7"
+    },
+    {
+      "id": "av94392503",
+      "lon": -178.887,
+      "lat": 51.8143333333333,
+      "depth": 10.54,
+      "mag": 0.56,
+      "place": "155 km W of Adak, Alaska",
+      "time": 1787108656250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94392503"
     },
     {
       "id": "nc75421027",
@@ -3402,36 +3432,6 @@
       "place": "6 km W of Bennington, Idaho",
       "time": 1787098517100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149261"
-    },
-    {
-      "id": "av94392298",
-      "lon": -168.186666666667,
-      "lat": 53.388,
-      "depth": 2.81,
-      "mag": -0.08,
-      "place": "67 km NE of Nikolski, Alaska",
-      "time": 1787098449690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94392298"
-    },
-    {
-      "id": "us6000tls7",
-      "lon": 121.4067,
-      "lat": -8.264,
-      "depth": 35,
-      "mag": 4.8,
-      "place": "69 km NNW of Ende, Indonesia",
-      "time": 1787098299549,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tls7"
-    },
-    {
-      "id": "us6000tls8",
-      "lon": 159.8302,
-      "lat": 53.1938,
-      "depth": 67.886,
-      "mag": 4.4,
-      "place": "81 km E of Petropavlovsk-Kamchatsky, Russia",
-      "time": 1787097998830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tls8"
     }
   ]
 }
