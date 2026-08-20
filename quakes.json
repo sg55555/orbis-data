@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-20T00:15:33Z",
-  "count": 343,
+  "updated": "2026-08-20T00:30:43Z",
+  "count": 339,
   "points": [
+    {
+      "id": "nc75421577",
+      "lon": -122.846664428711,
+      "lat": 38.8486671447754,
+      "depth": 1.29999995231628,
+      "mag": 0.73,
+      "place": "11 km WNW of Cobb, CA",
+      "time": 1787185476370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421577"
+    },
     {
       "id": "hv75021047",
       "lon": -155.240829467773,
@@ -475,12 +485,12 @@
     },
     {
       "id": "hv75020962",
-      "lon": -155.377334594727,
-      "lat": 19.2724990844727,
-      "depth": 28.9899997711182,
-      "mag": 2.19,
-      "place": "13 km NE of Pāhala, Hawaii",
-      "time": 1787171125810,
+      "lon": -155.381,
+      "lat": 19.275,
+      "depth": 28.73,
+      "mag": 1.59,
+      "place": "12 km NE of Pāhala, Hawaii",
+      "time": 1787171125840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75020962"
     },
     {
@@ -3382,56 +3392,6 @@
       "place": "16 km NE of Milford, Utah",
       "time": 1787099529630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149266"
-    },
-    {
-      "id": "aka2026qiwasm",
-      "lon": -153.26,
-      "lat": 60.047,
-      "depth": 158.7,
-      "mag": 2.3,
-      "place": "55 km ENE of Pedro Bay, Alaska",
-      "time": 1787099398089,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qiwasm"
-    },
-    {
-      "id": "ci41529744",
-      "lon": -116.888666666667,
-      "lat": 33.3265,
-      "depth": 11.06,
-      "mag": 1.73,
-      "place": "4 km SW of Palomar Observatory, CA",
-      "time": 1787098809000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529744"
-    },
-    {
-      "id": "aka2026qivrbf",
-      "lon": -152.127,
-      "lat": 59.606,
-      "depth": 72.9,
-      "mag": 1.4,
-      "place": "25 km SW of Anchor Point, Alaska",
-      "time": 1787098730779,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qivrbf"
-    },
-    {
-      "id": "nc75420942",
-      "lon": -122.820831298828,
-      "lat": 38.8278350830078,
-      "depth": 1.74000000953674,
-      "mag": 1.29,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1787098661250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420942"
-    },
-    {
-      "id": "uu80149261",
-      "lon": -111.4055,
-      "lat": 42.3816666666667,
-      "depth": 8.15,
-      "mag": 1.88,
-      "place": "6 km W of Bennington, Idaho",
-      "time": 1787098517100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149261"
     }
   ]
 }
