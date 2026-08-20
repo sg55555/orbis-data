@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-20T20:40:29Z",
-  "count": 273,
+  "updated": "2026-08-20T20:45:37Z",
+  "count": 272,
   "points": [
+    {
+      "id": "ci41531416",
+      "lon": -116.520835876465,
+      "lat": 33.0301666259766,
+      "depth": 14.6899995803833,
+      "mag": 1.09026919701021,
+      "place": "9 km SE of Julian, CA",
+      "time": 1787258505140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531416"
+    },
     {
       "id": "nc75422007",
       "lon": -122.806831359863,
@@ -2712,26 +2722,6 @@
       "place": "25 km S of Denali National Park, Alaska",
       "time": 1787172461627,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkkqrs"
-    },
-    {
-      "id": "av94393938",
-      "lon": -153.821666666667,
-      "lat": 58.9153333333333,
-      "depth": 4.68,
-      "mag": 0.44,
-      "place": "79 km SE of Kokhanok, Alaska",
-      "time": 1787172273990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94393938"
-    },
-    {
-      "id": "nn00923529",
-      "lon": -116.503,
-      "lat": 38.4375,
-      "depth": 9.8672,
-      "mag": 1.82,
-      "place": "75 km ENE of Tonopah, Nevada",
-      "time": 1787172271242,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923529"
     }
   ]
 }
