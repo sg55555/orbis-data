@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-20T10:41:42Z",
-  "count": 310,
+  "updated": "2026-08-20T10:45:30Z",
+  "count": 311,
   "points": [
+    {
+      "id": "aka2026qlmltb",
+      "lon": -151.472,
+      "lat": 63.092,
+      "depth": 5,
+      "mag": 1.7,
+      "place": "51 km SSE of Denali National Park, Alaska",
+      "time": 1787222499611,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qlmltb"
+    },
+    {
+      "id": "aka2026qlmjpa",
+      "lon": -147.362,
+      "lat": 63.539,
+      "depth": 0.3,
+      "mag": 1.5,
+      "place": "79 km ESE of Denali Park, Alaska",
+      "time": 1787222356683,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qlmjpa"
+    },
     {
       "id": "aka2026qlmcgj",
       "lon": -147.417,
@@ -3092,16 +3112,6 @@
       "place": "80 km N of Ruteng, Indonesia",
       "time": 1787136299407,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlum"
-    },
-    {
-      "id": "us6000tly9",
-      "lon": -177.9603,
-      "lat": 51.4557,
-      "depth": 61.289,
-      "mag": 2.5,
-      "place": "102 km WSW of Adak, Alaska",
-      "time": 1787136288220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tly9"
     }
   ]
 }
