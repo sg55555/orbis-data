@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-20T18:15:35Z",
-  "count": 286,
+  "updated": "2026-08-20T18:30:52Z",
+  "count": 289,
   "points": [
+    {
+      "id": "nc75421912",
+      "lon": -122.52433013916,
+      "lat": 38.4528350830078,
+      "depth": 1.25,
+      "mag": 1.31,
+      "place": "5 km NNE of Kenwood, CA",
+      "time": 1787250294580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421912"
+    },
+    {
+      "id": "tx2026qjlhov",
+      "lon": -104.207,
+      "lat": 31.498,
+      "depth": 0,
+      "mag": 1.4,
+      "place": "44 km WNW of Toyah, Texas",
+      "time": 1787250167322,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qjlhov"
+    },
+    {
+      "id": "us6000tm8h",
+      "lon": 121.3981,
+      "lat": -8.2877,
+      "depth": 10,
+      "mag": 5.6,
+      "place": "67 km NNW of Ende, Indonesia",
+      "time": 1787249571721,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm8h"
+    },
     {
       "id": "aka2026qmbman",
       "lon": -152.89,
@@ -25,13 +55,23 @@
     },
     {
       "id": "ci41531288",
-      "lon": -116.7875,
-      "lat": 33.1283333333333,
-      "depth": 2.99,
-      "mag": 1.93,
-      "place": "12 km NE of Ramona, CA",
-      "time": 1787249020370,
+      "lon": -116.338666666667,
+      "lat": 32.9196666666667,
+      "depth": 8.95,
+      "mag": 0.66,
+      "place": "21 km ENE of Pine Valley, CA",
+      "time": 1787249020590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531288"
+    },
+    {
+      "id": "us6000tm81",
+      "lon": -73.616,
+      "lat": -14.6262,
+      "depth": 66.665,
+      "mag": 6.7,
+      "place": "38 km NW of Upahuacho, Peru",
+      "time": 1787248815163,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm81"
     },
     {
       "id": "aka2026qmbais",
@@ -774,6 +814,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2v"
     },
     {
+      "id": "uw714081932",
+      "lon": -121.125,
+      "lat": 46.7295,
+      "depth": 7.66,
+      "mag": 1.14,
+      "place": "17 km SW of Nile, Washington",
+      "time": 1787218104330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714081932"
+    },
+    {
       "id": "uu80149526",
       "lon": -112.886333333333,
       "lat": 38.509,
@@ -914,6 +964,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qlhspj"
     },
     {
+      "id": "uw714081922",
+      "lon": -121.766166666667,
+      "lat": 46.8463333333333,
+      "depth": 0.47,
+      "mag": 0.3,
+      "place": "22 km ENE of Ashford, Washington",
+      "time": 1787213220250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714081922"
+    },
+    {
       "id": "us6000tm2k",
       "lon": 120.4879,
       "lat": -8.2196,
@@ -975,12 +1035,12 @@
     },
     {
       "id": "uw714081912",
-      "lon": -122.080665588379,
-      "lat": 46.2415008544922,
-      "depth": 10.7200002670288,
-      "mag": 1.53999996,
-      "place": "38 km SSE of Morton, Washington",
-      "time": 1787210878290,
+      "lon": -122.067833333333,
+      "lat": 46.2286666666667,
+      "depth": 13.15,
+      "mag": 0.98,
+      "place": "39 km SSE of Morton, Washington",
+      "time": 1787210877940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714081912"
     },
     {
@@ -2832,36 +2892,6 @@
       "place": "71 km ENE of Atka, Alaska",
       "time": 1787164391982,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlzn"
-    },
-    {
-      "id": "aka2026qkfzrh",
-      "lon": -152.001,
-      "lat": 61.078,
-      "depth": 90.7,
-      "mag": 1.4,
-      "place": "46 km W of Tyonek, Alaska",
-      "time": 1787164096477,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkfzrh"
-    },
-    {
-      "id": "aka2026qkfxfr",
-      "lon": -153.469,
-      "lat": 60.096,
-      "depth": 163.8,
-      "mag": 3.3,
-      "place": "48 km ESE of Port Alsworth, Alaska",
-      "time": 1787163924917,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkfxfr"
-    },
-    {
-      "id": "aka2026qkfsrw",
-      "lon": -177.008,
-      "lat": 51.266,
-      "depth": 32.3,
-      "mag": 2,
-      "place": "72 km SSW of Adak, Alaska",
-      "time": 1787163619297,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkfsrw"
     }
   ]
 }
