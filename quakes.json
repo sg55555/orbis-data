@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-20T23:35:36Z",
-  "count": 277,
+  "updated": "2026-08-20T23:45:31Z",
+  "count": 276,
   "points": [
     {
       "id": "aka2026qmlukn",
@@ -235,12 +235,12 @@
     },
     {
       "id": "ci41531432",
-      "lon": -116.724666666667,
-      "lat": 33.1973333333333,
-      "depth": 5.35,
-      "mag": 0.81,
-      "place": "6 km SE of Lake Henshaw, CA",
-      "time": 1787258799570,
+      "lon": -116.513,
+      "lat": 33.0273333333333,
+      "depth": 15.09,
+      "mag": 0.65,
+      "place": "10 km SE of Julian, CA",
+      "time": 1787258799530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531432"
     },
     {
@@ -1012,6 +1012,16 @@
       "place": "15 km N of Warner Springs, CA",
       "time": 1787228851450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531112"
+    },
+    {
+      "id": "av94395223",
+      "lon": -154.979833333333,
+      "lat": 58.2976666666667,
+      "depth": 2.85,
+      "mag": -0.11,
+      "place": "86 km NNW of Karluk, Alaska",
+      "time": 1787228356060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94395223"
     },
     {
       "id": "nc75421742",
@@ -2752,26 +2762,6 @@
       "place": "16 km NE of Milford, Utah",
       "time": 1787183106710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149486"
-    },
-    {
-      "id": "aka2026qkqjbv",
-      "lon": -152.527,
-      "lat": 60.278,
-      "depth": 110.1,
-      "mag": 2.1,
-      "place": "54 km WNW of Ninilchik, Alaska",
-      "time": 1787182781208,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkqjbv"
-    },
-    {
-      "id": "uw714081812",
-      "lon": -122.187,
-      "lat": 46.201,
-      "depth": -1.81,
-      "mag": 0,
-      "place": "38 km NNE of Amboy, Washington",
-      "time": 1787182748280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714081812"
     }
   ]
 }
