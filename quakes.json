@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-20T06:00:53Z",
-  "count": 345,
+  "updated": "2026-08-20T06:15:33Z",
+  "count": 344,
   "points": [
+    {
+      "id": "nc75421687",
+      "lon": -121.172996520996,
+      "lat": 36.5606651306152,
+      "depth": 1.95000004768372,
+      "mag": 1.3,
+      "place": "4 km NW of Pinnacles, CA",
+      "time": 1787206296740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421687"
+    },
     {
       "id": "nn00923558",
       "lon": -116.8591,
@@ -1282,6 +1292,16 @@
       "place": "6 km WNW of The Geysers, CA",
       "time": 1787166088980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421377"
+    },
+    {
+      "id": "av93066004",
+      "lon": -169.744666666667,
+      "lat": 52.7791666666667,
+      "depth": 9.52,
+      "mag": 1.26,
+      "place": "62 km WSW of Nikolski, Alaska",
+      "time": 1787165909440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93066004"
     },
     {
       "id": "av93065994",
@@ -3422,36 +3442,6 @@
       "place": "5 km ESE of Quilcene, Washington",
       "time": 1787120170200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714082081"
-    },
-    {
-      "id": "uw714082091",
-      "lon": -122.799,
-      "lat": 47.7973333333333,
-      "depth": 20.05,
-      "mag": 0.45,
-      "place": "6 km ESE of Quilcene, Washington",
-      "time": 1787120034490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714082091"
-    },
-    {
-      "id": "aka2026qjhcrp",
-      "lon": -150.467,
-      "lat": 64.876,
-      "depth": 25.4,
-      "mag": 1.3,
-      "place": "16 km SSE of Manley Hot Springs, Alaska",
-      "time": 1787119326127,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qjhcrp"
-    },
-    {
-      "id": "av94392758",
-      "lon": -178.8055,
-      "lat": 51.8018333333333,
-      "depth": 10.85,
-      "mag": 1.07,
-      "place": "149 km W of Adak, Alaska",
-      "time": 1787119298380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94392758"
     }
   ]
 }
