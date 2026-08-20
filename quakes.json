@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-20T05:00:50Z",
-  "count": 341,
+  "updated": "2026-08-20T05:15:35Z",
+  "count": 339,
   "points": [
+    {
+      "id": "aka2026qlblhb",
+      "lon": -154.695,
+      "lat": 58.673,
+      "depth": 5,
+      "mag": 0.3,
+      "place": "85 km S of Kokhanok, Alaska",
+      "time": 1787202683281,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qlblhb"
+    },
     {
       "id": "nc75421667",
       "lon": -122.844169616699,
@@ -22,6 +32,16 @@
       "place": "21 km ENE of Arvin, CA",
       "time": 1787201572400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530872"
+    },
+    {
+      "id": "us6000tm25",
+      "lon": -70.4642,
+      "lat": -24.4187,
+      "depth": 35.275,
+      "mag": 4.7,
+      "place": "85 km S of Antofagasta, Chile",
+      "time": 1787201571796,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm25"
     },
     {
       "id": "nm60627091",
@@ -52,6 +72,16 @@
       "place": "5 km NW of The Geysers, CA",
       "time": 1787200139430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421657"
+    },
+    {
+      "id": "us6000tm1y",
+      "lon": 120.3951,
+      "lat": -8.386,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "26 km NNW of Ruteng, Indonesia",
+      "time": 1787199837331,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1y"
     },
     {
       "id": "aka2026qkzukb",
@@ -3362,56 +3392,6 @@
       "place": "9 km NNW of Anza, CA",
       "time": 1787116781770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529848"
-    },
-    {
-      "id": "uu80149316",
-      "lon": -112.885333333333,
-      "lat": 38.5056666666667,
-      "depth": 2.2,
-      "mag": 0.97,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1787116515290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149316"
-    },
-    {
-      "id": "nn00923493",
-      "lon": -116.5154,
-      "lat": 38.4342,
-      "depth": 5.6701,
-      "mag": 1.66,
-      "place": "74 km ENE of Tonopah, Nevada",
-      "time": 1787116252250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923493"
-    },
-    {
-      "id": "nc75421052",
-      "lon": -122.855667114258,
-      "lat": 38.8233337402344,
-      "depth": 2.76999998092651,
-      "mag": 0.61,
-      "place": "10 km WNW of The Geysers, CA",
-      "time": 1787116059860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421052"
-    },
-    {
-      "id": "ci41529840",
-      "lon": -117.414666666667,
-      "lat": 35.5771666666667,
-      "depth": 6.92,
-      "mag": 0.86,
-      "place": "21 km S of Trona, CA",
-      "time": 1787115943480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529840"
-    },
-    {
-      "id": "uu80149311",
-      "lon": -112.884833333333,
-      "lat": 38.5183333333333,
-      "depth": 2.4,
-      "mag": 0.81,
-      "place": "17 km NE of Milford, Utah",
-      "time": 1787115799460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149311"
     }
   ]
 }
