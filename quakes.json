@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-20T23:45:31Z",
-  "count": 276,
+  "updated": "2026-08-20T23:57:00Z",
+  "count": 274,
   "points": [
     {
       "id": "aka2026qmlukn",
@@ -195,12 +195,12 @@
     },
     {
       "id": "ci41531472",
-      "lon": -116.978166666667,
-      "lat": 33.3531666666667,
-      "depth": 8.61,
-      "mag": 0.62,
-      "place": "9 km E of Pala, CA",
-      "time": 1787260128200,
+      "lon": -116.7265,
+      "lat": 33.5318333333333,
+      "depth": 4.25,
+      "mag": 0.13,
+      "place": "6 km WSW of Anza, CA",
+      "time": 1787260132640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531472"
     },
     {
@@ -232,6 +232,16 @@
       "place": "10 km SE of Julian, CA",
       "time": 1787258892920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531440"
+    },
+    {
+      "id": "ci10249086",
+      "lon": -116.511,
+      "lat": 33.0311666666667,
+      "depth": 13.76,
+      "mag": 0.64,
+      "place": "10 km ESE of Julian, CA",
+      "time": 1787258831510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10249086"
     },
     {
       "id": "ci41531432",
@@ -892,6 +902,16 @@
       "place": "8 km WNW of Cobb, CA",
       "time": 1787232559240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421777"
+    },
+    {
+      "id": "av94395298",
+      "lon": -169.739666666667,
+      "lat": 52.8073333333333,
+      "depth": 9.02,
+      "mag": 0.9,
+      "place": "60 km WSW of Nikolski, Alaska",
+      "time": 1787232020680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94395298"
     },
     {
       "id": "nc75421772",
@@ -2722,46 +2742,6 @@
       "place": "18 km NNW of Stanton, Texas",
       "time": 1787184193199,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qiawbm"
-    },
-    {
-      "id": "us6000tm1f",
-      "lon": 176.9783,
-      "lat": 51.853,
-      "depth": 10,
-      "mag": 2.7,
-      "place": "281 km ESE of Attu Station, Alaska",
-      "time": 1787183565707,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1f"
-    },
-    {
-      "id": "hv75021047",
-      "lon": -155.243,
-      "lat": 19.3471666666667,
-      "depth": 28.3,
-      "mag": 1.78,
-      "place": "10 km S of Volcano, Hawaii",
-      "time": 1787183390750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75021047"
-    },
-    {
-      "id": "ci41530720",
-      "lon": -116.332333333333,
-      "lat": 32.9373333333333,
-      "depth": 7.46,
-      "mag": 1.39,
-      "place": "22 km NE of Pine Valley, CA",
-      "time": 1787183269140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530720"
-    },
-    {
-      "id": "uu80149486",
-      "lon": -112.880833333333,
-      "lat": 38.5065,
-      "depth": 1.9,
-      "mag": 0.67,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1787183106710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149486"
     }
   ]
 }
