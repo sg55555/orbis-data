@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T11:15:31Z",
-  "count": 267,
+  "updated": "2026-08-21T11:30:44Z",
+  "count": 265,
   "points": [
+    {
+      "id": "aka2026qnjtdf",
+      "lon": -152.291,
+      "lat": 60.453,
+      "depth": 99.5,
+      "mag": 1.2,
+      "place": "55 km W of Cohoe, Alaska",
+      "time": 1787311177394,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnjtdf"
+    },
     {
       "id": "nc75422337",
       "lon": -124.232833862305,
@@ -44,6 +54,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531928"
     },
     {
+      "id": "us6000tmf2",
+      "lon": 146.7826,
+      "lat": 47.2192,
+      "depth": 350.501,
+      "mag": 4.5,
+      "place": "237 km NNW of Kuril’sk, Russia",
+      "time": 1787308737051,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmf2"
+    },
+    {
       "id": "ci41531920",
       "lon": -118.337166666667,
       "lat": 35.0836666666667,
@@ -55,12 +75,12 @@
     },
     {
       "id": "tx2026qkrjso",
-      "lon": -101.744,
-      "lat": 31.918,
-      "depth": 3.0338,
-      "mag": 1.1,
-      "place": "23 km S of Stanton, Texas",
-      "time": 1787308247580,
+      "lon": -101.745,
+      "lat": 31.912,
+      "depth": 2.9086,
+      "mag": 1.2,
+      "place": "24 km S of Stanton, Texas",
+      "time": 1787308247478,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qkrjso"
     },
     {
@@ -752,6 +772,16 @@
       "place": "12 km NNW of Warner Springs, CA",
       "time": 1787281862120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531744"
+    },
+    {
+      "id": "pr71529193",
+      "lon": -66.3463333333333,
+      "lat": 18.5031666666667,
+      "depth": 17.74,
+      "mag": 2.29,
+      "place": "4 km N of Brenas, Puerto Rico",
+      "time": 1787281415020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71529193"
     },
     {
       "id": "ci41531736",
@@ -2622,56 +2652,6 @@
       "place": "25 km NW of Ivanof Bay, Alaska",
       "time": 1787225465620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93066069"
-    },
-    {
-      "id": "ci41531088",
-      "lon": -117.116,
-      "lat": 34.0201666666667,
-      "depth": 17.31,
-      "mag": 0.62,
-      "place": "6 km SSE of Mentone, CA",
-      "time": 1787225050200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531088"
-    },
-    {
-      "id": "aka2026qlnvqp",
-      "lon": -149.217,
-      "lat": 61.185,
-      "depth": 28.5,
-      "mag": 3,
-      "place": "23 km ESE of Elmendorf Air Force Base, Alaska",
-      "time": 1787224993895,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qlnvqp"
-    },
-    {
-      "id": "ci41531080",
-      "lon": -117.673833333333,
-      "lat": 35.8285,
-      "depth": 7.37,
-      "mag": 1.2,
-      "place": "23 km N of Ridgecrest, CA",
-      "time": 1787224980610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531080"
-    },
-    {
-      "id": "aka2026qlnush",
-      "lon": -152.858,
-      "lat": 60.029,
-      "depth": 121.5,
-      "mag": 2.9,
-      "place": "63 km W of Happy Valley, Alaska",
-      "time": 1787224926036,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qlnush"
-    },
-    {
-      "id": "uu80149556",
-      "lon": -112.901166666667,
-      "lat": 38.4915,
-      "depth": 3.94,
-      "mag": 1.47,
-      "place": "14 km NE of Milford, Utah",
-      "time": 1787224555010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149556"
     }
   ]
 }
