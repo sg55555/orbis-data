@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T21:15:35Z",
+  "updated": "2026-08-21T21:30:45Z",
   "count": 327,
   "points": [
+    {
+      "id": "nc75422652",
+      "lon": -122.842834472656,
+      "lat": 38.8396682739258,
+      "depth": 1.57000005245209,
+      "mag": 0.57,
+      "place": "10 km NW of The Geysers, CA",
+      "time": 1787347002740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422652"
+    },
     {
       "id": "nc75422647",
       "lon": -122.796333312988,
@@ -65,12 +75,12 @@
     },
     {
       "id": "ci41532544",
-      "lon": -116.8025,
-      "lat": 33.5711666666667,
-      "depth": 5.74,
-      "mag": 0.57,
+      "lon": -116.803333333333,
+      "lat": 33.5713333333333,
+      "depth": 6.05,
+      "mag": 0.52,
       "place": "12 km W of Anza, CA",
-      "time": 1787344186570,
+      "time": 1787344186540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532544"
     },
     {
@@ -95,12 +105,12 @@
     },
     {
       "id": "ci41532512",
-      "lon": -117.833333333333,
-      "lat": 36.0681666666667,
-      "depth": 2.67,
+      "lon": -117.837833333333,
+      "lat": 36.0683333333333,
+      "depth": 3.68,
       "mag": 0.65,
-      "place": "11 km ENE of Coso Junction, CA",
-      "time": 1787343460050,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": 1787343459980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532512"
     },
     {
@@ -115,12 +125,12 @@
     },
     {
       "id": "ci41532472",
-      "lon": -117.8,
-      "lat": 35.3115,
-      "depth": 6.53,
-      "mag": 1.12,
+      "lon": -117.799333333333,
+      "lat": 35.3141666666667,
+      "depth": 6.98,
+      "mag": 1.11,
       "place": "16 km WSW of Johannesburg, CA",
-      "time": 1787342473580,
+      "time": 1787342473490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532472"
     },
     {
@@ -134,13 +144,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmms"
     },
     {
-      "id": "ci41532464",
-      "lon": -117.838166666667,
-      "lat": 36.0638333333333,
-      "depth": 3.52,
-      "mag": 0.8,
+      "id": "ci10249158",
+      "lon": -117.839,
+      "lat": 36.0665,
+      "depth": 4.73,
+      "mag": 0.58,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": 1787342334320,
+      "time": 1787342367570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10249158"
+    },
+    {
+      "id": "ci41532464",
+      "lon": -117.840166666667,
+      "lat": 36.0645,
+      "depth": 4.27,
+      "mag": 0.78,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": 1787342334270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532464"
     },
     {
@@ -3252,26 +3272,6 @@
       "place": "17 km SSW of Tambo, Peru",
       "time": 1787261431187,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmau"
-    },
-    {
-      "id": "ci41531480",
-      "lon": -116.520666666667,
-      "lat": 33.0296666666667,
-      "depth": 12.93,
-      "mag": 0.81,
-      "place": "9 km SE of Julian, CA",
-      "time": 1787260834530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531480"
-    },
-    {
-      "id": "ok2026qhrj",
-      "lon": -97.73266667,
-      "lat": 35.12883333,
-      "depth": 7.68,
-      "mag": 0.79,
-      "place": "6 km W of Blanchard, Oklahoma",
-      "time": 1787260645160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026qhrj"
     }
   ]
 }
