@@ -1,13 +1,23 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T06:30:44Z",
-  "count": 287,
+  "updated": "2026-08-21T06:45:33Z",
+  "count": 288,
   "points": [
+    {
+      "id": "nc75422262",
+      "lon": -122.817169189453,
+      "lat": 38.8310012817383,
+      "depth": 1.75,
+      "mag": 0.27,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1787294308330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422262"
+    },
     {
       "id": "tx2026qkjgvy",
       "lon": -102.053,
       "lat": 32.395,
-      "depth": 3.9194,
+      "depth": 3.9196,
       "mag": 2,
       "place": "34 km WSW of Ackerly, Texas",
       "time": 1787293563049,
@@ -42,6 +52,16 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1787292657830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422252"
+    },
+    {
+      "id": "us6000tme0",
+      "lon": 23.5692,
+      "lat": -53.142,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "south of Africa",
+      "time": 1787291806764,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tme0"
     },
     {
       "id": "tx2026qkigyv",
@@ -2862,16 +2882,6 @@
       "place": "8 km N of Borrego Springs, CA",
       "time": 1787208602500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530936"
-    },
-    {
-      "id": "aka2026qleliq",
-      "lon": -168.462,
-      "lat": 52.368,
-      "depth": 33.7,
-      "mag": 2.4,
-      "place": "69 km SSE of Nikolski, Alaska",
-      "time": 1787208084315,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qleliq"
     }
   ]
 }
