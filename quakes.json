@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T09:30:43Z",
-  "count": 270,
+  "updated": "2026-08-21T09:45:34Z",
+  "count": 268,
   "points": [
+    {
+      "id": "ci41531880",
+      "lon": -116.633833333333,
+      "lat": 33.4123333333333,
+      "depth": 7.78,
+      "mag": -0.11,
+      "place": "14 km N of Warner Springs, CA",
+      "time": 1787305167160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531880"
+    },
+    {
+      "id": "ci41531872",
+      "lon": -116.3375,
+      "lat": 32.9355,
+      "depth": 7.88,
+      "mag": 1.53,
+      "place": "22 km NE of Pine Valley, CA",
+      "time": 1787304952240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531872"
+    },
+    {
+      "id": "aka2026qngcbv",
+      "lon": -150.192,
+      "lat": 60.98,
+      "depth": 50.8,
+      "mag": 1.7,
+      "place": "27 km ENE of Point Possession, Alaska",
+      "time": 1787304605140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qngcbv"
+    },
     {
       "id": "nc75422317",
       "lon": -122.846832275391,
@@ -12,6 +42,26 @@
       "place": "9 km WNW of The Geysers, CA",
       "time": 1787304511550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422317"
+    },
+    {
+      "id": "us6000tmes",
+      "lon": 125.5784,
+      "lat": 9.4833,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "1 km N of Alegria, Philippines",
+      "time": 1787304156390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmes"
+    },
+    {
+      "id": "us6000tmer",
+      "lon": 125.342,
+      "lat": 9.3382,
+      "depth": 10,
+      "mag": 5.2,
+      "place": "19 km W of Jabonga, Philippines",
+      "time": 1787303540890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmer"
     },
     {
       "id": "ci41531864",
@@ -265,12 +315,12 @@
     },
     {
       "id": "tx2026qkjgvy",
-      "lon": -102.053,
-      "lat": 32.395,
-      "depth": 3.9196,
+      "lon": -102.058,
+      "lat": 32.393,
+      "depth": 8.8379,
       "mag": 2,
-      "place": "34 km WSW of Ackerly, Texas",
-      "time": 1787293563049,
+      "place": "35 km WSW of Ackerly, Texas",
+      "time": 1787293563319,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qkjgvy"
     },
     {
@@ -2632,76 +2682,6 @@
       "place": "270 km SSE of Dunhuang, China",
       "time": 1787219387975,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2y"
-    },
-    {
-      "id": "av94394983",
-      "lon": -178.8405,
-      "lat": 51.819,
-      "depth": 8.65,
-      "mag": 0.74,
-      "place": "152 km W of Adak, Alaska",
-      "time": 1787219065880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94394983"
-    },
-    {
-      "id": "ci41531040",
-      "lon": -116.650166666667,
-      "lat": 33.4108333333333,
-      "depth": 4.38,
-      "mag": 1.16,
-      "place": "14 km N of Warner Springs, CA",
-      "time": 1787218868320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531040"
-    },
-    {
-      "id": "uu80149536",
-      "lon": -112.8865,
-      "lat": 38.5055,
-      "depth": 2.67,
-      "mag": 1.51,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1787218661060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149536"
-    },
-    {
-      "id": "uu80149531",
-      "lon": -112.890166666667,
-      "lat": 38.5081666666667,
-      "depth": 2.5,
-      "mag": 1.66,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1787218609760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149531"
-    },
-    {
-      "id": "nc75421697",
-      "lon": -122.721168518066,
-      "lat": 38.7798347473145,
-      "depth": 1.82000005245209,
-      "mag": 1.55,
-      "place": "3 km WNW of Anderson Springs, CA",
-      "time": 1787218384830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421697"
-    },
-    {
-      "id": "nc75421702",
-      "lon": -120.627670288086,
-      "lat": 36.0620002746582,
-      "depth": 3.72000002861023,
-      "mag": 1.28,
-      "place": "25 km NW of Parkfield, CA",
-      "time": 1787218380320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421702"
-    },
-    {
-      "id": "us6000tm2v",
-      "lon": 120.6701,
-      "lat": -8.2215,
-      "depth": 10,
-      "mag": 5.3,
-      "place": "48 km NNE of Ruteng, Indonesia",
-      "time": 1787218252720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2v"
     }
   ]
 }
