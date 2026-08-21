@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T20:30:43Z",
-  "count": 316,
+  "updated": "2026-08-21T20:35:46Z",
+  "count": 319,
   "points": [
+    {
+      "id": "ci41532544",
+      "lon": -116.8025,
+      "lat": 33.5711666666667,
+      "depth": 5.74,
+      "mag": 0.57,
+      "place": "12 km W of Anza, CA",
+      "time": 1787344186570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532544"
+    },
     {
       "id": "aka2026qobxgd",
       "lon": -155.835,
@@ -855,22 +865,22 @@
     },
     {
       "id": "aka2026qnnkqb",
-      "lon": -151.127,
-      "lat": 59.824,
-      "depth": 44.9,
-      "mag": 1.7,
-      "place": "10 km WSW of Fox River, Alaska",
-      "time": 1787317786430,
+      "lon": -151.145,
+      "lat": 59.806,
+      "depth": 42.6,
+      "mag": 2,
+      "place": "11 km NE of Fritz Creek, Alaska",
+      "time": 1787317786772,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnnkqb"
     },
     {
       "id": "aka2026qnnjqe",
-      "lon": -148.558,
-      "lat": 62.354,
-      "depth": 30.7,
-      "mag": 1.3,
-      "place": "62 km N of Chickaloon, Alaska",
-      "time": 1787317716427,
+      "lon": -148.569,
+      "lat": 62.335,
+      "depth": 43,
+      "mag": 1.5,
+      "place": "60 km N of Chickaloon, Alaska",
+      "time": 1787317716689,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnnjqe"
     },
     {
@@ -904,6 +914,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149676"
     },
     {
+      "id": "aka2026qnmybe",
+      "lon": -139.965,
+      "lat": 60.58,
+      "depth": 12.1,
+      "mag": 1.7,
+      "place": "115 km N of Yakutat, Alaska",
+      "time": 1787316915278,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnmybe"
+    },
+    {
       "id": "ci41532000",
       "lon": -115.455333333333,
       "lat": 33.3163333333333,
@@ -924,13 +944,33 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531992"
     },
     {
+      "id": "uu80007878",
+      "lon": -111.3245,
+      "lat": 39.6541666666667,
+      "depth": 1.14,
+      "mag": 1.23,
+      "place": "10 km ENE of Fairview, Utah",
+      "time": 1787316277910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007878"
+    },
+    {
+      "id": "aka2026qnmnxf",
+      "lon": -165.793,
+      "lat": 53.286,
+      "depth": 16.8,
+      "mag": 2.7,
+      "place": "81 km SE of Unalaska, Alaska",
+      "time": 1787316215012,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnmnxf"
+    },
+    {
       "id": "aka2026qnmkxu",
-      "lon": -155.484,
-      "lat": 59.471,
-      "depth": 8.5,
-      "mag": 1.5,
+      "lon": -155.499,
+      "lat": 59.481,
+      "depth": 8,
+      "mag": 1.6,
       "place": "28 km NE of Igiugig, Alaska",
-      "time": 1787316006907,
+      "time": 1787316006491,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnmkxu"
     },
     {
@@ -1772,6 +1812,16 @@
       "place": "34 km WSW of Akhiok, Alaska",
       "time": 1787297195861,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnbzbv"
+    },
+    {
+      "id": "uu80007883",
+      "lon": -111.323,
+      "lat": 39.608,
+      "depth": 10.08,
+      "mag": 0.86,
+      "place": "10 km ESE of Fairview, Utah",
+      "time": 1787297192060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007883"
     },
     {
       "id": "aka2026qnbyhv",
@@ -3142,26 +3192,6 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1787258218640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422007"
-    },
-    {
-      "id": "nc75422002",
-      "lon": -122.818168640137,
-      "lat": 38.8293342590332,
-      "depth": 2.20000004768372,
-      "mag": 0.75,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1787257925340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422002"
-    },
-    {
-      "id": "nn00923595",
-      "lon": -119.0215,
-      "lat": 39.3458,
-      "depth": 6.3444,
-      "mag": 1.79,
-      "place": "19 km ESE of Silver Springs, Nevada",
-      "time": 1787257891395,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923595"
     }
   ]
 }
