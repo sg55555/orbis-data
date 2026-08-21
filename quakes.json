@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T19:45:34Z",
-  "count": 310,
+  "updated": "2026-08-21T19:52:23Z",
+  "count": 309,
   "points": [
     {
+      "id": "aka2026qoaorw",
+      "lon": -152.206,
+      "lat": 60.258,
+      "depth": 91.6,
+      "mag": 1.5,
+      "place": "37 km NW of Ninilchik, Alaska",
+      "time": 1787341456771,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qoaorw"
+    },
+    {
       "id": "ok2026qjjo",
-      "lon": -97.63813019,
-      "lat": 34.30947495,
-      "depth": 3.83959341,
-      "mag": 2.55,
-      "place": "4 km ESE of Loco, Oklahoma",
-      "time": 1787341066824,
+      "lon": -97.6005,
+      "lat": 34.29266667,
+      "depth": 6.49,
+      "mag": 1.98,
+      "place": "8 km ESE of Loco, Oklahoma",
+      "time": 1787341066859,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026qjjo"
     },
     {
@@ -315,12 +325,12 @@
     },
     {
       "id": "ci41532232",
-      "lon": -117.838166666667,
-      "lat": 36.0666666666667,
-      "depth": 2.7,
-      "mag": 0.8,
+      "lon": -117.838833333333,
+      "lat": 36.065,
+      "depth": 2.74,
+      "mag": 1,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": 1787332446490,
+      "time": 1787332446480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532232"
     },
     {
@@ -3082,26 +3092,6 @@
       "place": "78 km NNW of Ende, Indonesia",
       "time": 1787255631824,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm9h"
-    },
-    {
-      "id": "ci41531368",
-      "lon": -117.153333333333,
-      "lat": 33.9826666666667,
-      "depth": 10.02,
-      "mag": 0.92,
-      "place": "9 km SSE of Redlands, CA",
-      "time": 1787255396320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531368"
-    },
-    {
-      "id": "ci41531360",
-      "lon": -117.332333333333,
-      "lat": 33.7185,
-      "depth": -0.5,
-      "mag": 1.27,
-      "place": "6 km N of Lake Elsinore, CA",
-      "time": 1787255152270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531360"
     }
   ]
 }
