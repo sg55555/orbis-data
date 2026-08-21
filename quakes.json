@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T00:15:33Z",
-  "count": 277,
+  "updated": "2026-08-21T00:30:45Z",
+  "count": 279,
   "points": [
+    {
+      "id": "ci41531624",
+      "lon": -117.4615,
+      "lat": 35.526,
+      "depth": 2.34,
+      "mag": 0.9,
+      "place": "22 km ESE of Ridgecrest, CA",
+      "time": 1787271746360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531624"
+    },
     {
       "id": "aka2026qmnkgl",
       "lon": -149.68,
@@ -45,12 +55,12 @@
     },
     {
       "id": "ci41531584",
-      "lon": -117.840833333333,
-      "lat": 36.0626666666667,
-      "depth": 2.64,
-      "mag": 1.19,
+      "lon": -117.841166666667,
+      "lat": 36.063,
+      "depth": 2.67,
+      "mag": 1.16,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": 1787267943450,
+      "time": 1787267943420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531584"
     },
     {
@@ -395,12 +405,12 @@
     },
     {
       "id": "ci41531376",
-      "lon": -120.470333333333,
-      "lat": 34.5381666666667,
-      "depth": 4.18,
-      "mag": 1.69,
-      "place": "11 km S of Lompoc, CA",
-      "time": 1787256731630,
+      "lon": -120.485333333333,
+      "lat": 34.5323333333333,
+      "depth": 6.35,
+      "mag": 1.7,
+      "place": "12 km SSW of Lompoc, CA",
+      "time": 1787256731390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531376"
     },
     {
@@ -435,12 +445,12 @@
     },
     {
       "id": "ci41531360",
-      "lon": -117.347,
-      "lat": 33.7118333333333,
-      "depth": 1.89,
-      "mag": 1.6,
-      "place": "5 km NNW of Lake Elsinore, CA",
-      "time": 1787255152490,
+      "lon": -117.332333333333,
+      "lat": 33.7185,
+      "depth": -0.5,
+      "mag": 1.27,
+      "place": "6 km N of Lake Elsinore, CA",
+      "time": 1787255152270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531360"
     },
     {
@@ -542,6 +552,16 @@
       "place": "16 km NE of Milford, Utah",
       "time": 1787252636600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149596"
+    },
+    {
+      "id": "ci41531336",
+      "lon": -118.191833333333,
+      "lat": 34.9921666666667,
+      "depth": -0.82,
+      "mag": 1.18,
+      "place": "7 km SSW of Mojave, CA",
+      "time": 1787252449140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531336"
     },
     {
       "id": "uu80149591",
@@ -752,6 +772,26 @@
       "place": "6 km NE of Rancho Cucamonga, CA",
       "time": 1787243658980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531232"
+    },
+    {
+      "id": "av93066089",
+      "lon": -168.143666666667,
+      "lat": 53.3766666666667,
+      "depth": 4.71,
+      "mag": -0.43,
+      "place": "68 km NE of Nikolski, Alaska",
+      "time": 1787242979920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93066089"
+    },
+    {
+      "id": "av93066084",
+      "lon": -168.216,
+      "lat": 53.3621666666667,
+      "depth": 8.48,
+      "mag": -0.18,
+      "place": "63 km NE of Nikolski, Alaska",
+      "time": 1787242733340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93066084"
     },
     {
       "id": "aka2026qlxomk",
@@ -2752,26 +2792,6 @@
       "place": "86 km SW of Skwentna, Alaska",
       "time": 1787185898250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94394273"
-    },
-    {
-      "id": "nc75421577",
-      "lon": -122.846664428711,
-      "lat": 38.8486671447754,
-      "depth": 1.29999995231628,
-      "mag": 0.73,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1787185476370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421577"
-    },
-    {
-      "id": "us6000tm16",
-      "lon": 169.1514,
-      "lat": -20.324,
-      "depth": 72.946,
-      "mag": 5,
-      "place": "87 km S of Isangel, Vanuatu",
-      "time": 1787185224938,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm16"
     }
   ]
 }
