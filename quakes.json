@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T03:01:04Z",
-  "count": 307,
+  "updated": "2026-08-21T03:12:23Z",
+  "count": 305,
   "points": [
     {
       "id": "ci41531736",
@@ -82,6 +82,16 @@
       "place": "10 km ENE of Coso Junction, CA",
       "time": 1787278681560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531704"
+    },
+    {
+      "id": "us6000tmcv",
+      "lon": 120.4258,
+      "lat": -8.2543,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "39 km N of Ruteng, Indonesia",
+      "time": 1787278641555,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmcv"
     },
     {
       "id": "us6000tmct",
@@ -1055,12 +1065,12 @@
     },
     {
       "id": "hv75021407",
-      "lon": -155.499328613281,
-      "lat": 19.1713333129883,
-      "depth": 29,
-      "mag": 2.04,
-      "place": "4 km SSW of Pāhala, Hawaii",
-      "time": 1787249260320,
+      "lon": -155.495333333333,
+      "lat": 19.1818333333333,
+      "depth": 29.95,
+      "mag": 1.98,
+      "place": "2 km SW of Pāhala, Hawaii",
+      "time": 1787249260350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75021407"
     },
     {
@@ -3042,36 +3052,6 @@
       "place": "21 km ENE of Arvin, CA",
       "time": 1787195609660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530832"
-    },
-    {
-      "id": "pr71529078",
-      "lon": -67.0483333333333,
-      "lat": 17.9573333333333,
-      "depth": 15.5,
-      "mag": 2.32,
-      "place": "1 km S of La Parguera, Puerto Rico",
-      "time": 1787195405790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71529078"
-    },
-    {
-      "id": "us6000tm1m",
-      "lon": -67.1154,
-      "lat": -24.3365,
-      "depth": 166.707,
-      "mag": 4.7,
-      "place": "81 km W of San Antonio de los Cobres, Argentina",
-      "time": 1787195346998,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1m"
-    },
-    {
-      "id": "us6000tm1l",
-      "lon": 120.662,
-      "lat": -8.2547,
-      "depth": 10,
-      "mag": 4.7,
-      "place": "45 km NNE of Ruteng, Indonesia",
-      "time": 1787194857597,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1l"
     }
   ]
 }
