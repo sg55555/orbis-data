@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T20:35:46Z",
-  "count": 319,
+  "updated": "2026-08-21T20:45:37Z",
+  "count": 317,
   "points": [
+    {
+      "id": "uu80149696",
+      "lon": -112.889333333333,
+      "lat": 38.5108333333333,
+      "depth": 2.34,
+      "mag": 2.24,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1787344442960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149696"
+    },
     {
       "id": "ci41532544",
       "lon": -116.8025,
@@ -182,6 +192,16 @@
       "place": "10 km NW of Pine Valley, CA",
       "time": 1787337944970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532400"
+    },
+    {
+      "id": "ci41532384",
+      "lon": -117.93,
+      "lat": 34.1678333333333,
+      "depth": 2.31,
+      "mag": 1.14,
+      "place": "4 km NNW of Azusa, CA",
+      "time": 1787337476300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532384"
     },
     {
       "id": "ci41532376",
@@ -1824,6 +1844,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007883"
     },
     {
+      "id": "uu80007888",
+      "lon": -111.259166666667,
+      "lat": 39.5836666666667,
+      "depth": 5.66,
+      "mag": 1.46,
+      "place": "11 km SW of Clear Creek, Utah",
+      "time": 1787297175230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80007888"
+    },
+    {
       "id": "aka2026qnbyhv",
       "lon": -168.054,
       "lat": 52.731,
@@ -3142,56 +3172,6 @@
       "place": "35 km NW of Stanton, Texas",
       "time": 1787258775008,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qjqbbc"
-    },
-    {
-      "id": "ci41531424",
-      "lon": -116.527,
-      "lat": 33.0235,
-      "depth": 13.03,
-      "mag": 1.89,
-      "place": "9 km SE of Julian, CA",
-      "time": 1787258717940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531424"
-    },
-    {
-      "id": "nc75422017",
-      "lon": -122.778167724609,
-      "lat": 38.8073348999023,
-      "depth": 2.27999997138977,
-      "mag": 0.76,
-      "place": "4 km NNW of The Geysers, CA",
-      "time": 1787258696460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422017"
-    },
-    {
-      "id": "ci41531416",
-      "lon": -116.523333333333,
-      "lat": 33.0283333333333,
-      "depth": 13.38,
-      "mag": 0.85,
-      "place": "9 km SE of Julian, CA",
-      "time": 1787258505240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531416"
-    },
-    {
-      "id": "av94395748",
-      "lon": -178.7925,
-      "lat": 51.7968333333333,
-      "depth": 9.69,
-      "mag": -0.06,
-      "place": "149 km W of Adak, Alaska",
-      "time": 1787258447790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94395748"
-    },
-    {
-      "id": "nc75422007",
-      "lon": -122.806831359863,
-      "lat": 38.8191680908203,
-      "depth": 2.64000010490417,
-      "mag": 1.08,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1787258218640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422007"
     }
   ]
 }
