@@ -1,8 +1,48 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T12:15:37Z",
-  "count": 269,
+  "updated": "2026-08-21T12:30:45Z",
+  "count": 270,
   "points": [
+    {
+      "id": "tx2026qkvcpk",
+      "lon": -102.767,
+      "lat": 32.31,
+      "depth": 0,
+      "mag": 1.5,
+      "place": "20 km W of Andrews, Texas",
+      "time": 1787314990326,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qkvcpk"
+    },
+    {
+      "id": "tx2026qkvcfe",
+      "lon": -104.596,
+      "lat": 31.706,
+      "depth": 2.7723,
+      "mag": 2.1,
+      "place": "56 km SSW of Whites City, New Mexico",
+      "time": 1787314962746,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qkvcfe"
+    },
+    {
+      "id": "nc75422382",
+      "lon": -122.824996948242,
+      "lat": 38.8429985046387,
+      "depth": 2.11999988555908,
+      "mag": 1.08,
+      "place": "9 km WNW of Cobb, CA",
+      "time": 1787314565920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422382"
+    },
+    {
+      "id": "ci41531968",
+      "lon": -116.634166666667,
+      "lat": 33.415,
+      "depth": 7.06,
+      "mag": 1.46,
+      "place": "15 km N of Warner Springs, CA",
+      "time": 1787314401730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531968"
+    },
     {
       "id": "ci41531960",
       "lon": -117.8405,
@@ -42,6 +82,16 @@
       "place": "22 km N of Ridgecrest, CA",
       "time": 1787313760820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531952"
+    },
+    {
+      "id": "us6000tmfe",
+      "lon": 140.3802,
+      "lat": 33.7171,
+      "depth": 61.666,
+      "mag": 5.4,
+      "place": "148 km SSE of Tateyama, Japan",
+      "time": 1787313727072,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmfe"
     },
     {
       "id": "nc75422362",
@@ -395,12 +445,12 @@
     },
     {
       "id": "ok2026qioc",
-      "lon": -96.93096161,
-      "lat": 36.4262886,
-      "depth": 1.932017565,
-      "mag": 2.44,
+      "lon": -96.92933333,
+      "lat": 36.43166667,
+      "depth": 8.27,
+      "mag": 2.35,
       "place": "15 km NW of Pawnee, Oklahoma",
-      "time": 1787302050558,
+      "time": 1787302050160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026qioc"
     },
     {
@@ -1655,12 +1705,12 @@
     },
     {
       "id": "tx2026qjsgyq",
-      "lon": -104.338,
-      "lat": 31.651,
-      "depth": 4.0073,
+      "lon": -104.335,
+      "lat": 31.666,
+      "depth": 7.356,
       "mag": 1.5,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": 1787262793799,
+      "place": "56 km S of Whites City, New Mexico",
+      "time": 1787262793466,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qjsgyq"
     },
     {
@@ -2652,46 +2702,6 @@
       "place": "8 km WNW of Cobb, CA",
       "time": 1787229467080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421752"
-    },
-    {
-      "id": "ci10248966",
-      "lon": -116.725333333333,
-      "lat": 33.7046666666667,
-      "depth": 17.25,
-      "mag": 0.24,
-      "place": "4 km S of Idyllwild, CA",
-      "time": 1787228866030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10248966"
-    },
-    {
-      "id": "us6000tm3t",
-      "lon": -178.6517,
-      "lat": -17.7971,
-      "depth": 564.28,
-      "mag": 4.8,
-      "place": "217 km E of Levuka, Fiji",
-      "time": 1787228856440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm3t"
-    },
-    {
-      "id": "ci41531112",
-      "lon": -116.633166666667,
-      "lat": 33.417,
-      "depth": 8.05,
-      "mag": 0.27,
-      "place": "15 km N of Warner Springs, CA",
-      "time": 1787228851450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531112"
-    },
-    {
-      "id": "av94395223",
-      "lon": -154.979833333333,
-      "lat": 58.2976666666667,
-      "depth": 2.85,
-      "mag": -0.11,
-      "place": "86 km NNW of Karluk, Alaska",
-      "time": 1787228356060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94395223"
     }
   ]
 }
