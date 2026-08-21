@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T23:33:52Z",
-  "count": 313,
+  "updated": "2026-08-21T23:45:32Z",
+  "count": 315,
   "points": [
+    {
+      "id": "ci41532696",
+      "lon": -117.674833333333,
+      "lat": 35.8268333333333,
+      "depth": 8.14,
+      "mag": 1.98,
+      "place": "23 km N of Ridgecrest, CA",
+      "time": 1787355138850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532696"
+    },
     {
       "id": "ci41532672",
       "lon": -117.840166666667,
@@ -2254,6 +2264,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnazdn"
     },
     {
+      "id": "av94396443",
+      "lon": -169.767,
+      "lat": 52.8018333333333,
+      "depth": 8.29,
+      "mag": 0.79,
+      "place": "62 km WSW of Nikolski, Alaska",
+      "time": 1787295186300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94396443"
+    },
+    {
       "id": "ci41531808",
       "lon": -115.662,
       "lat": 32.5375,
@@ -2412,6 +2432,16 @@
       "place": "2 km NNE of May Creek, Washington",
       "time": 1787290606300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714082482"
+    },
+    {
+      "id": "av94396373",
+      "lon": -152.252833333333,
+      "lat": 61.3381666666667,
+      "depth": 2.84,
+      "mag": -0.32,
+      "place": "66 km WNW of Beluga, Alaska",
+      "time": 1787289912870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94396373"
     },
     {
       "id": "aka2026qmxwhm",
@@ -3025,11 +3055,11 @@
     },
     {
       "id": "hv75021572",
-      "lon": -155.486831665039,
-      "lat": 19.1608333587646,
-      "depth": 30.2800006866455,
-      "mag": 2.26,
-      "place": "4 km S of Pāhala, Hawaii",
+      "lon": -155.487833333333,
+      "lat": 19.1643333333333,
+      "depth": 31.34,
+      "mag": 1.72,
+      "place": "4 km SSW of Pāhala, Hawaii",
       "time": 1787272596420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75021572"
     },
@@ -3122,16 +3152,6 @@
       "place": "16 km ESE of Naalehu, Hawaii",
       "time": 1787270148800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75021547"
-    },
-    {
-      "id": "us6000tmbw",
-      "lon": -141.4541,
-      "lat": -56.5921,
-      "depth": 10,
-      "mag": 5,
-      "place": "Pacific-Antarctic Ridge",
-      "time": 1787269001054,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmbw"
     }
   ]
 }
