@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T21:57:07Z",
-  "count": 327,
+  "updated": "2026-08-21T22:00:56Z",
+  "count": 326,
   "points": [
+    {
+      "id": "nn00923660",
+      "lon": -117.1234,
+      "lat": 37.229,
+      "depth": 8.3413,
+      "mag": 2.57,
+      "place": "48 km NW of Beatty, Nevada",
+      "time": 1787349231108,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923660"
+    },
     {
       "id": "nc75422667",
       "lon": -119.676834106445,
@@ -3252,26 +3262,6 @@
       "place": "58 km W of Nikolski, Alaska",
       "time": 1787263434890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94395838"
-    },
-    {
-      "id": "ci41531504",
-      "lon": -117.8415,
-      "lat": 36.065,
-      "depth": 2.72,
-      "mag": 1.27,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": 1787263225490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531504"
-    },
-    {
-      "id": "us6000tmb4",
-      "lon": 145.6176,
-      "lat": 15.9742,
-      "depth": 213.529,
-      "mag": 4.5,
-      "place": "85 km N of Saipan, Northern Mariana Islands",
-      "time": 1787263060312,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmb4"
     }
   ]
 }
