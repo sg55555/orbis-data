@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T17:45:35Z",
-  "count": 313,
+  "updated": "2026-08-21T18:00:54Z",
+  "count": 311,
   "points": [
+    {
+      "id": "ci41532304",
+      "lon": -117.843,
+      "lat": 36.0636666666667,
+      "depth": 2.4,
+      "mag": 0.97,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": 1787334837490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532304"
+    },
+    {
+      "id": "us6000tmlu",
+      "lon": 104.5501,
+      "lat": -7.5836,
+      "depth": 10,
+      "mag": 5.7,
+      "place": "194 km SW of Labuan, Indonesia",
+      "time": 1787334104453,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmlu"
+    },
     {
       "id": "ci41532280",
       "lon": -117.836666666667,
@@ -85,12 +105,12 @@
     },
     {
       "id": "ci41532240",
-      "lon": -117.840835571289,
-      "lat": 36.0706672668457,
-      "depth": 2.48000001907349,
-      "mag": 3.43688502077798,
+      "lon": -117.841833333333,
+      "lat": 36.0685,
+      "depth": 2.54,
+      "mag": 3.29,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": 1787333177670,
+      "time": 1787333177660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532240"
     },
     {
@@ -1015,12 +1035,12 @@
     },
     {
       "id": "ci41531896",
-      "lon": -117.777333333333,
-      "lat": 34.1245,
-      "depth": 5.55,
-      "mag": 1.21,
+      "lon": -117.7785,
+      "lat": 34.1225,
+      "depth": 5.88,
+      "mag": 1.19,
       "place": "3 km NNW of La Verne, CA",
-      "time": 1787306084870,
+      "time": 1787306084820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531896"
     },
     {
@@ -1075,12 +1095,12 @@
     },
     {
       "id": "ci41531880",
-      "lon": -116.633833333333,
-      "lat": 33.4123333333333,
-      "depth": 7.78,
-      "mag": -0.11,
+      "lon": -116.6375,
+      "lat": 33.411,
+      "depth": 6.94,
+      "mag": 0.21,
       "place": "14 km N of Warner Springs, CA",
-      "time": 1787305167160,
+      "time": 1787305167140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531880"
     },
     {
@@ -2042,6 +2062,16 @@
       "place": "232 km ESE of Attu Station, Alaska",
       "time": 1787274807127,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qmpnvs"
+    },
+    {
+      "id": "uw714082432",
+      "lon": -122.387333333333,
+      "lat": 49.0006666666667,
+      "depth": 12.73,
+      "mag": 1.15,
+      "place": "7 km NE of Lynden, Washington",
+      "time": 1787274726940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714082432"
     },
     {
       "id": "us6000tmcf",
@@ -3082,56 +3112,6 @@
       "place": "31 km NW of Aniso, Peru",
       "time": 1787248818626,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm81"
-    },
-    {
-      "id": "aka2026qmbais",
-      "lon": -148.103,
-      "lat": 61.566,
-      "depth": 12.4,
-      "mag": 3.5,
-      "place": "31 km SE of Chickaloon, Alaska",
-      "time": 1787248707739,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qmbais"
-    },
-    {
-      "id": "nc75421887",
-      "lon": -122.749000549316,
-      "lat": 38.7876663208008,
-      "depth": 0.779999971389771,
-      "mag": 0.86,
-      "place": "1 km NNE of The Geysers, CA",
-      "time": 1787248694450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421887"
-    },
-    {
-      "id": "uw714082252",
-      "lon": -123.278333333333,
-      "lat": 45.8051666666667,
-      "depth": -0.44,
-      "mag": 1.55,
-      "place": "8 km SW of Vernonia, Oregon",
-      "time": 1787248577180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714082252"
-    },
-    {
-      "id": "av93066099",
-      "lon": -159.356,
-      "lat": 56.1561666666667,
-      "depth": 12.78,
-      "mag": 0.11,
-      "place": "29 km NNE of Ivanof Bay, Alaska",
-      "time": 1787248231180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93066099"
-    },
-    {
-      "id": "av94395543",
-      "lon": -159.347333333333,
-      "lat": 56.1245,
-      "depth": 14.52,
-      "mag": 0.13,
-      "place": "26 km NNE of Ivanof Bay, Alaska",
-      "time": 1787248231170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94395543"
     }
   ]
 }
