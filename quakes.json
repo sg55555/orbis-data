@@ -1,6 +1,6 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T15:30:46Z",
+  "updated": "2026-08-21T15:44:01Z",
   "count": 289,
   "points": [
     {
@@ -12,6 +12,16 @@
       "place": "10 km ENE of Coso Junction, CA",
       "time": 1787325418210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532104"
+    },
+    {
+      "id": "us6000tmiz",
+      "lon": 142.636,
+      "lat": 28.4731,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "Bonin Islands, Japan region",
+      "time": 1787324910808,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmiz"
     },
     {
       "id": "ci41532096",
@@ -1695,22 +1705,22 @@
     },
     {
       "id": "ci41531656",
-      "lon": -116.584666666667,
-      "lat": 33.3505,
-      "depth": 11.2,
-      "mag": 0.27,
-      "place": "9 km NNE of Warner Springs, CA",
-      "time": 1787274449230,
+      "lon": -116.6415,
+      "lat": 33.4148333333333,
+      "depth": 6.48,
+      "mag": 0.26,
+      "place": "15 km N of Warner Springs, CA",
+      "time": 1787274450530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531656"
     },
     {
       "id": "tx2026qjynzf",
-      "lon": -104.222,
+      "lon": -104.223,
       "lat": 31.655,
-      "depth": 6.4716,
+      "depth": 6.5485,
       "mag": 2.5,
       "place": "55 km NW of Toyah, Texas",
-      "time": 1787274281822,
+      "time": 1787274281821,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qjynzf"
     },
     {
@@ -2882,16 +2892,6 @@
       "place": "50 km SSW of Covenant Life, Alaska",
       "time": 1787242481207,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qlxomk"
-    },
-    {
-      "id": "tx2026qjfmty",
-      "lon": -104.366,
-      "lat": 31.651,
-      "depth": 6.0999,
-      "mag": 1.6,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": 1787239825239,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qjfmty"
     }
   ]
 }
