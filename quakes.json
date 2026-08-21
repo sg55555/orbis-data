@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T13:45:33Z",
-  "count": 284,
+  "updated": "2026-08-21T13:55:32Z",
+  "count": 281,
   "points": [
     {
       "id": "nc75422402",
@@ -362,6 +362,16 @@
       "place": "3 km WSW of Tahoe Vista, CA",
       "time": 1787313314350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422357"
+    },
+    {
+      "id": "us6000tmfd",
+      "lon": 120.9404,
+      "lat": -8.3093,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "62 km ENE of Ruteng, Indonesia",
+      "time": 1787313289678,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmfd"
     },
     {
       "id": "ci41531944",
@@ -882,16 +892,6 @@
       "place": "6 km WSW of Progreso, B.C., MX",
       "time": 1787297529700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531816"
-    },
-    {
-      "id": "tx2026qklkko",
-      "lon": -103.336,
-      "lat": 31.18,
-      "depth": 3.1555,
-      "mag": 1,
-      "place": "26 km WSW of Coyanosa, Texas",
-      "time": 1787297432126,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qklkko"
     },
     {
       "id": "aka2026qnbzbv",
@@ -2812,36 +2812,6 @@
       "place": "11 km W of Packwood, Washington",
       "time": 1787234662230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714082052"
-    },
-    {
-      "id": "us6000tm42",
-      "lon": 148.5355,
-      "lat": -1.1659,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "170 km NE of Lorengau, Papua New Guinea",
-      "time": 1787234100053,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm42"
-    },
-    {
-      "id": "nc75421787",
-      "lon": -122.838333129883,
-      "lat": 38.8398323059082,
-      "depth": 1.24000000953674,
-      "mag": 0.25,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1787233864700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421787"
-    },
-    {
-      "id": "nc75421782",
-      "lon": -122.842834472656,
-      "lat": 38.8231658935547,
-      "depth": 1.73000001907349,
-      "mag": 1.12,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1787233701250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421782"
     }
   ]
 }
