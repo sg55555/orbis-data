@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T16:47:32Z",
-  "count": 301,
+  "updated": "2026-08-21T17:00:53Z",
+  "count": 302,
   "points": [
+    {
+      "id": "ci41532208",
+      "lon": -116.614333333333,
+      "lat": 33.584,
+      "depth": 12.83,
+      "mag": 0.55,
+      "place": "6 km ENE of Anza, CA",
+      "time": 1787331311550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532208"
+    },
+    {
+      "id": "ci41532192",
+      "lon": -117.8425,
+      "lat": 36.0655,
+      "depth": 2.78,
+      "mag": 0.81,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": 1787330870810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532192"
+    },
+    {
+      "id": "ci41532184",
+      "lon": -117.031666666667,
+      "lat": 33.9998333333333,
+      "depth": 15.88,
+      "mag": 0.79,
+      "place": "2 km ENE of Calimesa, CA",
+      "time": 1787330724780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532184"
+    },
     {
       "id": "ok2026qjdj",
       "lon": -97.60766667,
@@ -305,11 +335,11 @@
     },
     {
       "id": "ci41532024",
-      "lon": -117.7765,
-      "lat": 34.1123333333333,
-      "depth": 7.25,
-      "mag": 1.72,
-      "place": "2 km NNW of La Verne, CA",
+      "lon": -117.776666666667,
+      "lat": 34.112,
+      "depth": 7.27,
+      "mag": 0.95,
+      "place": "1 km NNW of La Verne, CA",
       "time": 1787318317890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532024"
     },
@@ -2992,26 +3022,6 @@
       "place": "9 km SSE of Ada, Oklahoma",
       "time": 1787245702199,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026qhjd"
-    },
-    {
-      "id": "av94395493",
-      "lon": -153.0895,
-      "lat": 59.9991666666667,
-      "depth": 1.67,
-      "mag": -0.62,
-      "place": "61 km ENE of Pedro Bay, Alaska",
-      "time": 1787244612550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94395493"
-    },
-    {
-      "id": "hv75021377",
-      "lon": -155.172332763672,
-      "lat": 18.7946662902832,
-      "depth": 7.94999980926514,
-      "mag": 1.7,
-      "place": "52 km SE of Naalehu, Hawaii",
-      "time": 1787244460630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75021377"
     }
   ]
 }
