@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T08:45:31Z",
-  "count": 277,
+  "updated": "2026-08-21T08:53:48Z",
+  "count": 276,
   "points": [
     {
+      "id": "ok2026qioc",
+      "lon": -96.93096161,
+      "lat": 36.4262886,
+      "depth": 1.932017565,
+      "mag": 2.44,
+      "place": "15 km NW of Pawnee, Oklahoma",
+      "time": 1787302050558,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026qioc"
+    },
+    {
+      "id": "ci41531856",
+      "lon": -117.837833333333,
+      "lat": 36.0641666666667,
+      "depth": 2.63,
+      "mag": 1.93,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": 1787301829800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531856"
+    },
+    {
       "id": "ci41531848",
-      "lon": -116.674331665039,
-      "lat": 33.6326675415039,
-      "depth": 13.0600004196167,
-      "mag": 1.18630602391434,
-      "place": "9 km N of Anza, CA",
-      "time": 1787301743420,
+      "lon": -116.673,
+      "lat": 33.6303333333333,
+      "depth": 13,
+      "mag": 0.33,
+      "place": "8 km N of Anza, CA",
+      "time": 1787301743470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531848"
     },
     {
@@ -2742,36 +2762,6 @@
       "place": "156 km S of False Pass, Alaska",
       "time": 1787216035266,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmcx"
-    },
-    {
-      "id": "tx2026qisjql",
-      "lon": -102.13,
-      "lat": 32.407,
-      "depth": 7.0557,
-      "mag": 0.6,
-      "place": "39 km ENE of McKinney Acres, Texas",
-      "time": 1787215912871,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qisjql"
-    },
-    {
-      "id": "aka2026qlisbc",
-      "lon": -178.501,
-      "lat": 50.982,
-      "depth": 7.5,
-      "mag": 2.2,
-      "place": "163 km SW of Adak, Alaska",
-      "time": 1787215745997,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qlisbc"
-    },
-    {
-      "id": "aka2026qliqde",
-      "lon": -139.592,
-      "lat": 60.37,
-      "depth": 2.9,
-      "mag": 1.7,
-      "place": "92 km N of Yakutat, Alaska",
-      "time": 1787215612970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qliqde"
     }
   ]
 }
