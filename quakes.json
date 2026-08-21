@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T19:15:31Z",
-  "count": 315,
+  "updated": "2026-08-21T19:30:46Z",
+  "count": 313,
   "points": [
+    {
+      "id": "hv75022097",
+      "lon": -155.242828369141,
+      "lat": 18.7403335571289,
+      "depth": 7.32000017166138,
+      "mag": 1.82,
+      "place": "50 km SE of Naalehu, Hawaii",
+      "time": 1787340355250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75022097"
+    },
     {
       "id": "ci41532432",
       "lon": -117.840333333333,
@@ -92,6 +102,16 @@
       "place": "10 km ENE of Coso Junction, CA",
       "time": 1787336814130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532352"
+    },
+    {
+      "id": "nn00923643",
+      "lon": -119.0155,
+      "lat": 39.3394,
+      "depth": 5.5936,
+      "mag": 1.6,
+      "place": "19 km ESE of Silver Springs, Nevada",
+      "time": 1787336608971,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923643"
     },
     {
       "id": "aka2026qnxvey",
@@ -335,12 +355,12 @@
     },
     {
       "id": "ci41532192",
-      "lon": -117.844,
-      "lat": 36.0653333333333,
-      "depth": 2.91,
-      "mag": 0.81,
+      "lon": -117.843,
+      "lat": 36.0646666666667,
+      "depth": 3.76,
+      "mag": 0.82,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": 1787330870790,
+      "time": 1787330870770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532192"
     },
     {
@@ -1425,22 +1445,22 @@
     },
     {
       "id": "aka2026qndmmh",
-      "lon": -155.841,
-      "lat": 57.888,
-      "depth": 17,
+      "lon": -155.86,
+      "lat": 57.882,
+      "depth": 17.1,
       "mag": 1.6,
-      "place": "89 km WNW of Karluk, Alaska",
-      "time": 1787299921891,
+      "place": "90 km WNW of Karluk, Alaska",
+      "time": 1787299928188,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qndmmh"
     },
     {
       "id": "aka2026qndlbq",
-      "lon": -155.837,
-      "lat": 57.878,
-      "depth": 4.6,
-      "mag": 2.1,
-      "place": "89 km WNW of Karluk, Alaska",
-      "time": 1787299825739,
+      "lon": -155.854,
+      "lat": 57.894,
+      "depth": 4.3,
+      "mag": 2.3,
+      "place": "90 km WNW of Karluk, Alaska",
+      "time": 1787299825851,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qndlbq"
     },
     {
@@ -1485,12 +1505,12 @@
     },
     {
       "id": "aka2026qndeac",
-      "lon": -149.799,
-      "lat": 61.815,
-      "depth": 27.2,
+      "lon": -149.786,
+      "lat": 61.812,
+      "depth": 27.4,
       "mag": 1.7,
-      "place": "14 km ENE of Willow, Alaska",
-      "time": 1787299352632,
+      "place": "15 km ENE of Willow, Alaska",
+      "time": 1787299352566,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qndeac"
     },
     {
@@ -3112,46 +3132,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1787254377590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421947"
-    },
-    {
-      "id": "us6000tm93",
-      "lon": 121.2709,
-      "lat": -8.423,
-      "depth": 10,
-      "mag": 5,
-      "place": "63 km NW of Ende, Indonesia",
-      "time": 1787253843495,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm93"
-    },
-    {
-      "id": "uu80149601",
-      "lon": -113.096666666667,
-      "lat": 37.821,
-      "depth": 6.67,
-      "mag": 1.65,
-      "place": "8 km NW of Enoch, Utah",
-      "time": 1787253519120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149601"
-    },
-    {
-      "id": "tx2026qjncdd",
-      "lon": -102.106,
-      "lat": 32.444,
-      "depth": 5.7861,
-      "mag": 0.3,
-      "place": "35 km SSW of Los Ybanez, Texas",
-      "time": 1787253423343,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qjncdd"
-    },
-    {
-      "id": "uw714082292",
-      "lon": -117.937666666667,
-      "lat": 45.0476666666667,
-      "depth": 9.03,
-      "mag": 1.99,
-      "place": "2 km NNW of North Powder, Oregon",
-      "time": 1787253335350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714082292"
     }
   ]
 }
