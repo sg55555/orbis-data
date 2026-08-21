@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T00:45:33Z",
-  "count": 285,
+  "updated": "2026-08-21T01:00:54Z",
+  "count": 290,
   "points": [
+    {
+      "id": "tx2026qjyevn",
+      "lon": -104.232,
+      "lat": 31.651,
+      "depth": 4.3492,
+      "mag": 2,
+      "place": "55 km NW of Toyah, Texas",
+      "time": 1787273508709,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qjyevn"
+    },
+    {
+      "id": "ci41531640",
+      "lon": -117.838,
+      "lat": 36.0628333333333,
+      "depth": 2.7,
+      "mag": 0.71,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": 1787273138970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531640"
+    },
     {
       "id": "aka2026qmolil",
       "lon": -151.153,
@@ -95,13 +115,23 @@
     },
     {
       "id": "ci41531576",
-      "lon": -117.835666666667,
-      "lat": 36.0658333333333,
-      "depth": 3.77,
-      "mag": 0.8,
+      "lon": -117.839666666667,
+      "lat": 36.0656666666667,
+      "depth": 3.91,
+      "mag": 0.63,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": 1787267856250,
+      "time": 1787267856230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531576"
+    },
+    {
+      "id": "ci10249094",
+      "lon": -117.847333333333,
+      "lat": 36.0661666666667,
+      "depth": 4.65,
+      "mag": 0.11,
+      "place": "9 km ENE of Coso Junction, CA",
+      "time": 1787267837990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10249094"
     },
     {
       "id": "us6000tmbl",
@@ -175,12 +205,12 @@
     },
     {
       "id": "ci41531520",
-      "lon": -117.4835,
-      "lat": 33.8166666666667,
-      "depth": 2.47,
-      "mag": 1.72,
-      "place": "8 km SSE of Home Gardens, CA",
-      "time": 1787264390670,
+      "lon": -117.4815,
+      "lat": 33.8203333333333,
+      "depth": -0.53,
+      "mag": 1.63,
+      "place": "7 km SSE of Home Gardens, CA",
+      "time": 1787264390450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531520"
     },
     {
@@ -262,6 +292,16 @@
       "place": "21 km W of Cohoe, Alaska",
       "time": 1787261915938,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qmijgm"
+    },
+    {
+      "id": "us6000tmau",
+      "lon": -73.9735,
+      "lat": -14.9534,
+      "depth": 86.026,
+      "mag": 4.4,
+      "place": "17 km SSW of Tambo, Peru",
+      "time": 1787261431187,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmau"
     },
     {
       "id": "ci41531480",
@@ -485,12 +525,12 @@
     },
     {
       "id": "ci41531368",
-      "lon": -117.154666666667,
-      "lat": 33.9836666666667,
-      "depth": 9.73,
+      "lon": -117.153333333333,
+      "lat": 33.9826666666667,
+      "depth": 10.02,
       "mag": 0.92,
-      "place": "8 km SSE of Redlands, CA",
-      "time": 1787255396370,
+      "place": "9 km SSE of Redlands, CA",
+      "time": 1787255396320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531368"
     },
     {
@@ -724,6 +764,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531288"
     },
     {
+      "id": "av94395558",
+      "lon": -153.098333333333,
+      "lat": 60.0245,
+      "depth": 5.54,
+      "mag": -0.46,
+      "place": "62 km ENE of Pedro Bay, Alaska",
+      "time": 1787248922960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94395558"
+    },
+    {
       "id": "us6000tm81",
       "lon": -73.5236,
       "lat": -14.6414,
@@ -762,6 +812,16 @@
       "place": "8 km SW of Vernonia, Oregon",
       "time": 1787248577180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714082252"
+    },
+    {
+      "id": "av94395543",
+      "lon": -159.347333333333,
+      "lat": 56.1245,
+      "depth": 14.52,
+      "mag": 0.13,
+      "place": "26 km NNE of Ivanof Bay, Alaska",
+      "time": 1787248231170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94395543"
     },
     {
       "id": "nc75421882",
@@ -2842,16 +2902,6 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1787187603590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41530744"
-    },
-    {
-      "id": "av94394308",
-      "lon": -152.264,
-      "lat": 61.3183333333333,
-      "depth": 3.19,
-      "mag": -0.55,
-      "place": "66 km WNW of Beluga, Alaska",
-      "time": 1787186818820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94394308"
     }
   ]
 }
