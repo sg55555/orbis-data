@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T19:52:23Z",
-  "count": 309,
+  "updated": "2026-08-21T20:00:54Z",
+  "count": 310,
   "points": [
+    {
+      "id": "nc75422607",
+      "lon": -120.601165771484,
+      "lat": 36.0373344421387,
+      "depth": 4.17000007629395,
+      "mag": 2.08,
+      "place": "22 km NW of Parkfield, CA",
+      "time": 1787341895050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422607"
+    },
+    {
+      "id": "nc75422602",
+      "lon": -122.735496520996,
+      "lat": 38.7700004577637,
+      "depth": 1.32000005245209,
+      "mag": 0.98,
+      "place": "2 km ESE of The Geysers, CA",
+      "time": 1787341884770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422602"
+    },
     {
       "id": "aka2026qoaorw",
       "lon": -152.206,
@@ -35,10 +55,10 @@
     },
     {
       "id": "ci41532432",
-      "lon": -117.840333333333,
-      "lat": 36.0643333333333,
-      "depth": 2.63,
-      "mag": 0.95,
+      "lon": -117.841666666667,
+      "lat": 36.0648333333333,
+      "depth": 2.78,
+      "mag": 0.96,
       "place": "10 km ENE of Coso Junction, CA",
       "time": 1787339372300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532432"
@@ -105,12 +125,12 @@
     },
     {
       "id": "ci41532360",
-      "lon": -116.168333333333,
-      "lat": 33.8996666666667,
-      "depth": 5.12,
-      "mag": 0.7,
-      "place": "20 km NNE of Indio, CA",
-      "time": 1787336982540,
+      "lon": -116.161666666667,
+      "lat": 33.9,
+      "depth": 5.6,
+      "mag": 0.61,
+      "place": "21 km NNE of Indio, CA",
+      "time": 1787336982470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532360"
     },
     {
@@ -365,12 +385,12 @@
     },
     {
       "id": "ci41532208",
-      "lon": -116.615166666667,
-      "lat": 33.5868333333333,
-      "depth": 12.59,
-      "mag": 0.55,
-      "place": "6 km ENE of Anza, CA",
-      "time": 1787331311540,
+      "lon": -116.6145,
+      "lat": 33.5881666666667,
+      "depth": 13.2,
+      "mag": 0.57,
+      "place": "7 km NE of Anza, CA",
+      "time": 1787331311480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532208"
     },
     {
@@ -3082,16 +3102,6 @@
       "place": "20 km NE of Upper Lake, CA",
       "time": 1787256557650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421967"
-    },
-    {
-      "id": "us6000tm9h",
-      "lon": 121.3299,
-      "lat": -8.214,
-      "depth": 10,
-      "mag": 5,
-      "place": "78 km NNW of Ende, Indonesia",
-      "time": 1787255631824,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm9h"
     }
   ]
 }
