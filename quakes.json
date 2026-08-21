@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T11:30:44Z",
-  "count": 265,
+  "updated": "2026-08-21T11:35:49Z",
+  "count": 263,
   "points": [
+    {
+      "id": "aka2026qnkcit",
+      "lon": -150.28,
+      "lat": 61.217,
+      "depth": 34.3,
+      "mag": 2.2,
+      "place": "20 km W of Anchorage, Alaska",
+      "time": 1787311815983,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnkcit"
+    },
     {
       "id": "aka2026qnjtdf",
       "lon": -152.291,
@@ -42,6 +52,16 @@
       "place": "9 km SSE of San Juan Bautista, CA",
       "time": 1787310395830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422327"
+    },
+    {
+      "id": "us6000tmf5",
+      "lon": 120.5403,
+      "lat": -8.213,
+      "depth": 9.98,
+      "mag": 4.6,
+      "place": "44 km N of Ruteng, Indonesia",
+      "time": 1787310183763,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmf5"
     },
     {
       "id": "ci41531928",
@@ -2612,46 +2632,6 @@
       "place": "2 km WNW of Wrightwood, CA",
       "time": 1787225849300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531096"
-    },
-    {
-      "id": "av94395183",
-      "lon": -178.745166666667,
-      "lat": 51.8501666666667,
-      "depth": 10.29,
-      "mag": 0.47,
-      "place": "145 km W of Adak, Alaska",
-      "time": 1787225695010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94395183"
-    },
-    {
-      "id": "tx2026qixtdq",
-      "lon": -102.044,
-      "lat": 32.365,
-      "depth": 7.9834,
-      "mag": 0.4,
-      "place": "35 km NW of Stanton, Texas",
-      "time": 1787225629560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qixtdq"
-    },
-    {
-      "id": "av94395178",
-      "lon": -159.733166666667,
-      "lat": 55.9381666666667,
-      "depth": 20.86,
-      "mag": 0.55,
-      "place": "16 km WNW of Ivanof Bay, Alaska",
-      "time": 1787225534570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94395178"
-    },
-    {
-      "id": "av93066069",
-      "lon": -159.726166666667,
-      "lat": 56.0821666666667,
-      "depth": 22.49,
-      "mag": 0.27,
-      "place": "25 km NW of Ivanof Bay, Alaska",
-      "time": 1787225465620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93066069"
     }
   ]
 }
