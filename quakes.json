@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T16:30:53Z",
-  "count": 300,
+  "updated": "2026-08-21T16:45:35Z",
+  "count": 301,
   "points": [
+    {
+      "id": "ok2026qjdj",
+      "lon": -97.60766667,
+      "lat": 34.2865,
+      "depth": 7.62,
+      "mag": 1.9,
+      "place": "8 km SE of Loco, Oklahoma",
+      "time": 1787329786799,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026qjdj"
+    },
     {
       "id": "ci41532152",
       "lon": -117.841333333333,
@@ -12,6 +22,16 @@
       "place": "10 km ENE of Coso Junction, CA",
       "time": 1787328614720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532152"
+    },
+    {
+      "id": "us6000tmkv",
+      "lon": 120.2714,
+      "lat": -8.3813,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "33 km NW of Ruteng, Indonesia",
+      "time": 1787328328869,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmkv"
     },
     {
       "id": "nc75422472",
@@ -1095,13 +1115,23 @@
     },
     {
       "id": "aka2026qncylv",
-      "lon": -156.914,
-      "lat": 54.783,
-      "depth": 5,
-      "mag": 2.8,
-      "place": "189 km SE of Perryville, Alaska",
-      "time": 1787298952704,
+      "lon": -156.848,
+      "lat": 54.731,
+      "depth": 35.7,
+      "mag": 3.2,
+      "place": "196 km SE of Perryville, Alaska",
+      "time": 1787298955920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qncylv"
+    },
+    {
+      "id": "aka2026qncubw",
+      "lon": -150.698,
+      "lat": 60.951,
+      "depth": 42,
+      "mag": 1.5,
+      "place": "3 km N of Point Possession, Alaska",
+      "time": 1787298649918,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qncubw"
     },
     {
       "id": "pr71529203",
@@ -1125,12 +1155,12 @@
     },
     {
       "id": "ci41531816",
-      "lon": -115.648666666667,
-      "lat": 32.5675,
-      "depth": 8.81,
-      "mag": 1.47,
+      "lon": -115.6485,
+      "lat": 32.562,
+      "depth": 8.69,
+      "mag": 1.4,
       "place": "6 km WSW of Progreso, B.C., MX",
-      "time": 1787297529700,
+      "time": 1787297529740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531816"
     },
     {
@@ -1405,22 +1435,22 @@
     },
     {
       "id": "ci41531768",
-      "lon": -117.7905,
-      "lat": 33.0023333333333,
-      "depth": 14.21,
-      "mag": 1.85,
-      "place": "44 km WSW of Carlsbad, CA",
-      "time": 1787287708410,
+      "lon": -117.817666666667,
+      "lat": 32.9793333333333,
+      "depth": 9.78,
+      "mag": 1.79,
+      "place": "48 km WSW of Carlsbad, CA",
+      "time": 1787287707780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531768"
     },
     {
       "id": "ci41531760",
-      "lon": -118.429166666667,
-      "lat": 35.4706666666667,
-      "depth": 1.65,
+      "lon": -118.428666666667,
+      "lat": 35.4703333333333,
+      "depth": 2.53,
       "mag": 1.14,
       "place": "14 km SSE of Bodfish, CA",
-      "time": 1787287258140,
+      "time": 1787287258220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531760"
     },
     {
@@ -1495,12 +1525,12 @@
     },
     {
       "id": "ci41531752",
-      "lon": -116.830333333333,
-      "lat": 33.2868333333333,
-      "depth": 15.75,
-      "mag": 0.25,
-      "place": "8 km NW of Lake Henshaw, CA",
-      "time": 1787283766890,
+      "lon": -116.832333333333,
+      "lat": 33.2883333333333,
+      "depth": 15.54,
+      "mag": 0.26,
+      "place": "8 km SSE of Palomar Observatory, CA",
+      "time": 1787283766840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531752"
     },
     {
@@ -2982,26 +3012,6 @@
       "place": "52 km SE of Naalehu, Hawaii",
       "time": 1787244460630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75021377"
-    },
-    {
-      "id": "hv75021372",
-      "lon": -155.590835571289,
-      "lat": 19.4211673736572,
-      "depth": 44.5699996948242,
-      "mag": 1.81,
-      "place": "26 km NNW of Pāhala, Hawaii",
-      "time": 1787244128230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75021372"
-    },
-    {
-      "id": "ci41531232",
-      "lon": -117.5395,
-      "lat": 34.163,
-      "depth": 9.26,
-      "mag": 0.48,
-      "place": "6 km NE of Rancho Cucamonga, CA",
-      "time": 1787243658980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531232"
     }
   ]
 }
