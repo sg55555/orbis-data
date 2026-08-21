@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T07:30:44Z",
-  "count": 280,
+  "updated": "2026-08-21T07:45:33Z",
+  "count": 282,
   "points": [
+    {
+      "id": "ci41531824",
+      "lon": -119.018333333333,
+      "lat": 34.8171666666667,
+      "depth": 8.48,
+      "mag": 0.94,
+      "place": "7 km W of Frazier Park, CA",
+      "time": 1787297816550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531824"
+    },
+    {
+      "id": "ci41531816",
+      "lon": -115.648666666667,
+      "lat": 32.5675,
+      "depth": 8.81,
+      "mag": 1.47,
+      "place": "6 km WSW of Progreso, B.C., MX",
+      "time": 1787297529700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531816"
+    },
+    {
+      "id": "tx2026qklkko",
+      "lon": -103.336,
+      "lat": 31.18,
+      "depth": 3.1555,
+      "mag": 1,
+      "place": "26 km WSW of Coyanosa, Texas",
+      "time": 1787297432126,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qklkko"
+    },
     {
       "id": "aka2026qnbzbv",
       "lon": -154.671,
@@ -292,6 +322,16 @@
       "place": "12 km SSE of Volcano, Hawaii",
       "time": 1787284634630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75021702"
+    },
+    {
+      "id": "tx2026qkedth",
+      "lon": -101.898,
+      "lat": 32.264,
+      "depth": 6.7627,
+      "mag": 0.6,
+      "place": "18 km NW of Stanton, Texas",
+      "time": 1787284303181,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qkedth"
     },
     {
       "id": "ci41531752",
@@ -2574,14 +2614,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2t"
     },
     {
-      "id": "aka2026qliwfq",
-      "lon": -163.52,
-      "lat": 53.52,
-      "depth": 13,
-      "mag": 2.4,
-      "place": "148 km S of False Pass, Alaska",
-      "time": 1787216033969,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qliwfq"
+      "id": "us6000tmcx",
+      "lon": -163.5004,
+      "lat": 53.4511,
+      "depth": 35,
+      "mag": 2.6,
+      "place": "156 km S of False Pass, Alaska",
+      "time": 1787216035266,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmcx"
     },
     {
       "id": "tx2026qisjql",
@@ -2782,26 +2822,6 @@
       "place": "62 km W of Ollagüe, Chile",
       "time": 1787212095326,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2i"
-    },
-    {
-      "id": "ci41531000",
-      "lon": -116.645666666667,
-      "lat": 33.4151666666667,
-      "depth": 5.49,
-      "mag": 0.69,
-      "place": "15 km N of Warner Springs, CA",
-      "time": 1787211602120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531000"
-    },
-    {
-      "id": "av94394808",
-      "lon": -169.741833333333,
-      "lat": 52.8275,
-      "depth": 7.36,
-      "mag": 1.37,
-      "place": "60 km WSW of Nikolski, Alaska",
-      "time": 1787211402070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94394808"
     }
   ]
 }
