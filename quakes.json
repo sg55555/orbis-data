@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T23:15:34Z",
-  "count": 315,
+  "updated": "2026-08-21T23:30:42Z",
+  "count": 313,
   "points": [
+    {
+      "id": "ci41532672",
+      "lon": -117.840166666667,
+      "lat": 36.0618333333333,
+      "depth": 2.83,
+      "mag": 1.21,
+      "place": "10 km E of Coso Junction, CA",
+      "time": 1787354126650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532672"
+    },
     {
       "id": "aka2026qohixf",
       "lon": -149.435,
@@ -2554,6 +2564,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qkedth"
     },
     {
+      "id": "av93066109",
+      "lon": -155.371666666667,
+      "lat": 58.1658333333333,
+      "depth": 2.1,
+      "mag": 0.27,
+      "place": "85 km NW of Karluk, Alaska",
+      "time": 1787284053090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93066109"
+    },
+    {
       "id": "ci41531752",
       "lon": -116.832333333333,
       "lat": 33.2883333333333,
@@ -3112,46 +3132,6 @@
       "place": "Pacific-Antarctic Ridge",
       "time": 1787269001054,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmbw"
-    },
-    {
-      "id": "aka2026qmlukn",
-      "lon": -152.987,
-      "lat": 59.753,
-      "depth": 98.1,
-      "mag": 1.5,
-      "place": "62 km E of Pedro Bay, Alaska",
-      "time": 1787268085954,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qmlukn"
-    },
-    {
-      "id": "ci41531584",
-      "lon": -117.841166666667,
-      "lat": 36.063,
-      "depth": 2.67,
-      "mag": 1.16,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": 1787267943420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531584"
-    },
-    {
-      "id": "ci41531576",
-      "lon": -117.839666666667,
-      "lat": 36.0656666666667,
-      "depth": 3.91,
-      "mag": 0.63,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": 1787267856230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531576"
-    },
-    {
-      "id": "ci10249094",
-      "lon": -117.847333333333,
-      "lat": 36.0661666666667,
-      "depth": 4.65,
-      "mag": 0.11,
-      "place": "9 km ENE of Coso Junction, CA",
-      "time": 1787267837990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10249094"
     }
   ]
 }
