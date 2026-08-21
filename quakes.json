@@ -1,16 +1,16 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T16:15:32Z",
-  "count": 299,
+  "updated": "2026-08-21T16:30:53Z",
+  "count": 300,
   "points": [
     {
       "id": "ci41532152",
-      "lon": -117.842166666667,
-      "lat": 36.063,
-      "depth": 2.64,
+      "lon": -117.841333333333,
+      "lat": 36.0628333333333,
+      "depth": 2.71,
       "mag": 1.16,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": 1787328614740,
+      "time": 1787328614720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532152"
     },
     {
@@ -35,12 +35,12 @@
     },
     {
       "id": "ci41532144",
-      "lon": -117.842166666667,
-      "lat": 36.0683333333333,
-      "depth": 3.75,
+      "lon": -117.844666666667,
+      "lat": 36.0686666666667,
+      "depth": 4.13,
       "mag": 0.52,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": 1787328066230,
+      "time": 1787328066200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532144"
     },
     {
@@ -65,12 +65,12 @@
     },
     {
       "id": "ci41532128",
-      "lon": -117.841333333333,
-      "lat": 36.0641666666667,
-      "depth": 2.49,
+      "lon": -117.841666666667,
+      "lat": 36.0636666666667,
+      "depth": 2.71,
       "mag": 1.14,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": 1787327509600,
+      "time": 1787327509580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532128"
     },
     {
@@ -85,13 +85,23 @@
     },
     {
       "id": "ci41532112",
-      "lon": -117.838666666667,
-      "lat": 36.0641666666667,
-      "depth": 2.76,
-      "mag": 0.63,
+      "lon": -117.838333333333,
+      "lat": 36.0645,
+      "depth": 2.77,
+      "mag": 0.4,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": 1787327082890,
+      "time": 1787327082900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532112"
+    },
+    {
+      "id": "ci10249102",
+      "lon": -117.844166666667,
+      "lat": 36.066,
+      "depth": 4.59,
+      "mag": 0.12,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": 1787327072250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10249102"
     },
     {
       "id": "pr71529223",
@@ -125,12 +135,12 @@
     },
     {
       "id": "ci41532096",
-      "lon": -117.839666666667,
-      "lat": 36.064,
-      "depth": 2.5,
+      "lon": -117.84,
+      "lat": 36.0641666666667,
+      "depth": 2.71,
       "mag": 1.24,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": 1787323815650,
+      "time": 1787323815620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532096"
     },
     {
@@ -525,12 +535,12 @@
     },
     {
       "id": "ci41531952",
-      "lon": -117.649,
-      "lat": 35.821,
-      "depth": 5.52,
+      "lon": -117.6465,
+      "lat": 35.82,
+      "depth": 5.94,
       "mag": 0.89,
       "place": "22 km N of Ridgecrest, CA",
-      "time": 1787313760820,
+      "time": 1787313760770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531952"
     },
     {
@@ -935,12 +945,12 @@
     },
     {
       "id": "ci41531864",
-      "lon": -117.730333333333,
-      "lat": 36.0378333333333,
-      "depth": 1.9,
+      "lon": -117.7285,
+      "lat": 36.0388333333333,
+      "depth": 1.97,
       "mag": 0.84,
-      "place": "19 km NE of Little Lake, CA",
-      "time": 1787302402690,
+      "place": "20 km NE of Little Lake, CA",
+      "time": 1787302402650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531864"
     },
     {
@@ -1125,13 +1135,33 @@
     },
     {
       "id": "aka2026qnbzbv",
-      "lon": -154.671,
-      "lat": 56.855,
-      "depth": 13,
+      "lon": -154.711,
+      "lat": 56.841,
+      "depth": 14.1,
       "mag": 1.8,
-      "place": "32 km WSW of Akhiok, Alaska",
-      "time": 1787297196187,
+      "place": "34 km WSW of Akhiok, Alaska",
+      "time": 1787297195861,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnbzbv"
+    },
+    {
+      "id": "aka2026qnbyhv",
+      "lon": -168.054,
+      "lat": 52.731,
+      "depth": 35.1,
+      "mag": 2.1,
+      "place": "59 km ESE of Nikolski, Alaska",
+      "time": 1787297133998,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnbyhv"
+    },
+    {
+      "id": "aka2026qnbusc",
+      "lon": 176.224,
+      "lat": 51.877,
+      "depth": 25.5,
+      "mag": 3.5,
+      "place": "233 km ESE of Attu Station, Alaska",
+      "time": 1787296892034,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnbusc"
     },
     {
       "id": "aka2026qnbqki",
@@ -1355,12 +1385,12 @@
     },
     {
       "id": "ci41531784",
-      "lon": -116.643333333333,
-      "lat": 33.4126666666667,
-      "depth": 6.58,
+      "lon": -116.641833333333,
+      "lat": 33.4125,
+      "depth": 6.9,
       "mag": 0.54,
       "place": "15 km N of Warner Springs, CA",
-      "time": 1787287902370,
+      "time": 1787287902350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531784"
     },
     {
@@ -1505,12 +1535,12 @@
     },
     {
       "id": "ci41531744",
-      "lon": -116.6925,
-      "lat": 33.3773333333333,
-      "depth": 11.44,
-      "mag": 0.25,
+      "lon": -116.691666666667,
+      "lat": 33.3748333333333,
+      "depth": 12.27,
+      "mag": 0.21,
       "place": "12 km NNW of Warner Springs, CA",
-      "time": 1787281862120,
+      "time": 1787281862040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531744"
     },
     {
@@ -1525,22 +1555,22 @@
     },
     {
       "id": "ci41531736",
-      "lon": -116.64966583252,
-      "lat": 33.2681655883789,
-      "depth": 9.92000007629395,
-      "mag": 1.6086078688126,
-      "place": "2 km SW of Warner Springs, CA",
-      "time": 1787281044380,
+      "lon": -116.637333333333,
+      "lat": 33.4156666666667,
+      "depth": 7.17,
+      "mag": 0.22,
+      "place": "15 km N of Warner Springs, CA",
+      "time": 1787281046860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531736"
     },
     {
       "id": "ci41531728",
-      "lon": -117.837833333333,
-      "lat": 36.0631666666667,
-      "depth": 2.63,
+      "lon": -117.8375,
+      "lat": 36.0641666666667,
+      "depth": 3.12,
       "mag": 1.08,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": 1787280732810,
+      "time": 1787280732770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531728"
     },
     {
@@ -1615,12 +1645,12 @@
     },
     {
       "id": "ci41531712",
-      "lon": -117.84,
-      "lat": 36.0658333333333,
-      "depth": 2.6,
-      "mag": 0.8,
+      "lon": -117.840833333333,
+      "lat": 36.0663333333333,
+      "depth": 3.64,
+      "mag": 0.47,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": 1787279007120,
+      "time": 1787279007080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531712"
     },
     {
@@ -2972,26 +3002,6 @@
       "place": "6 km NE of Rancho Cucamonga, CA",
       "time": 1787243658980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531232"
-    },
-    {
-      "id": "av93066089",
-      "lon": -168.143666666667,
-      "lat": 53.3766666666667,
-      "depth": 4.71,
-      "mag": -0.43,
-      "place": "68 km NE of Nikolski, Alaska",
-      "time": 1787242979920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93066089"
-    },
-    {
-      "id": "av93066084",
-      "lon": -168.216,
-      "lat": 53.3621666666667,
-      "depth": 8.48,
-      "mag": -0.18,
-      "place": "63 km NE of Nikolski, Alaska",
-      "time": 1787242733340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93066084"
     }
   ]
 }
