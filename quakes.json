@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-21T15:00:56Z",
-  "count": 292,
+  "updated": "2026-08-21T15:15:51Z",
+  "count": 288,
   "points": [
     {
       "id": "ci41532096",
@@ -35,12 +35,12 @@
     },
     {
       "id": "us6000tmip",
-      "lon": 179.5971,
-      "lat": -24.4225,
-      "depth": 577.317,
+      "lon": 179.7867,
+      "lat": -24.4793,
+      "depth": 523.713,
       "mag": 4.3,
       "place": "south of the Fiji Islands",
-      "time": 1787322463224,
+      "time": 1787322458711,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmip"
     },
     {
@@ -332,16 +332,6 @@
       "place": "5 km SW of Idyllwild, CA",
       "time": 1787315377420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531984"
-    },
-    {
-      "id": "tx2026qkvcpk",
-      "lon": -102.767,
-      "lat": 32.31,
-      "depth": 0,
-      "mag": 1.5,
-      "place": "20 km W of Andrews, Texas",
-      "time": 1787314990326,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qkvcpk"
     },
     {
       "id": "tx2026qkvcfe",
@@ -2804,6 +2794,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531264"
     },
     {
+      "id": "ok2026qhjd",
+      "lon": -96.6475,
+      "lat": 34.68866667,
+      "depth": 0,
+      "mag": 1.42,
+      "place": "9 km SSE of Ada, Oklahoma",
+      "time": 1787245702199,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026qhjd"
+    },
+    {
       "id": "av94395493",
       "lon": -153.0895,
       "lat": 59.9991666666667,
@@ -2882,46 +2882,6 @@
       "place": "58 km S of Whites City, New Mexico",
       "time": 1787239825239,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qjfmty"
-    },
-    {
-      "id": "tx2026qjfbuk",
-      "lon": -102.097,
-      "lat": 32.353,
-      "depth": 8.252,
-      "mag": 1.1,
-      "place": "38 km NW of Stanton, Texas",
-      "time": 1787238903614,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qjfbuk"
-    },
-    {
-      "id": "aka2026qlvoej",
-      "lon": -147.795,
-      "lat": 60.396,
-      "depth": 25.4,
-      "mag": 1.5,
-      "place": "38 km NNE of Chenega, Alaska",
-      "time": 1787238867342,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qlvoej"
-    },
-    {
-      "id": "uw714082082",
-      "lon": -120.113,
-      "lat": 47.8208333333333,
-      "depth": 6.48,
-      "mag": 1.67,
-      "place": "7 km WSW of Chelan, Washington",
-      "time": 1787238646200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714082082"
-    },
-    {
-      "id": "aka2026qlvebe",
-      "lon": -135.787,
-      "lat": 58.532,
-      "depth": 2.6,
-      "mag": 2.5,
-      "place": "13 km NNW of Gustavus, Alaska",
-      "time": 1787238164796,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qlvebe"
     }
   ]
 }
