@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-22T06:45:34Z",
-  "count": 289,
+  "updated": "2026-08-22T06:55:21Z",
+  "count": 288,
   "points": [
+    {
+      "id": "ci41532832",
+      "lon": -117.835333333333,
+      "lat": 36.0675,
+      "depth": 2.5,
+      "mag": 0.88,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": 1787381437930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532832"
+    },
+    {
+      "id": "nc75422812",
+      "lon": -122.793502807617,
+      "lat": 38.8370018005371,
+      "depth": 2.11999988555908,
+      "mag": 0.67,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1787381342190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422812"
+    },
     {
       "id": "tx2026qmethi",
       "lon": -101.931,
@@ -2862,36 +2882,6 @@
       "place": "46 km SW of Nanwalek, Alaska",
       "time": 1787295400950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnazdn"
-    },
-    {
-      "id": "av93066114",
-      "lon": -169.748333333333,
-      "lat": 52.8248333333333,
-      "depth": 8.9,
-      "mag": 0.77,
-      "place": "61 km WSW of Nikolski, Alaska",
-      "time": 1787295197260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93066114"
-    },
-    {
-      "id": "av94396443",
-      "lon": -169.767,
-      "lat": 52.8018333333333,
-      "depth": 8.29,
-      "mag": 0.79,
-      "place": "62 km WSW of Nikolski, Alaska",
-      "time": 1787295186300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94396443"
-    },
-    {
-      "id": "ci41531808",
-      "lon": -115.662,
-      "lat": 32.5375,
-      "depth": 7.06,
-      "mag": 2.12,
-      "place": "9 km WSW of Progreso, B.C., MX",
-      "time": 1787294962100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531808"
     }
   ]
 }
