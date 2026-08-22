@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-22T10:00:53Z",
-  "count": 273,
+  "updated": "2026-08-22T10:15:34Z",
+  "count": 272,
   "points": [
+    {
+      "id": "nc75422897",
+      "lon": -121.41967010498,
+      "lat": 36.7270011901855,
+      "depth": 7.07000017166138,
+      "mag": 2.3,
+      "place": "11 km SSW of Ridgemark, CA",
+      "time": 1787393221460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422897"
+    },
     {
       "id": "tx2026qmlyez",
       "lon": -101.501,
@@ -45,12 +55,12 @@
     },
     {
       "id": "tx2026qmknhp",
-      "lon": -103.264,
-      "lat": 31.206,
-      "depth": 5.4889,
+      "lon": -103.256,
+      "lat": 31.208,
+      "depth": 5.5139,
       "mag": 1.5,
-      "place": "19 km WSW of Coyanosa, Texas",
-      "time": 1787389958671,
+      "place": "18 km WSW of Coyanosa, Texas",
+      "time": 1787389958770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qmknhp"
     },
     {
@@ -2712,26 +2722,6 @@
       "place": "9 km SW of Anchor Point, Alaska",
       "time": 1787307437185,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnhrbo"
-    },
-    {
-      "id": "ci41531904",
-      "lon": -116.508333333333,
-      "lat": 33.511,
-      "depth": 13.36,
-      "mag": 0.62,
-      "place": "16 km ESE of Anza, CA",
-      "time": 1787306589650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531904"
-    },
-    {
-      "id": "aka2026qnhclx",
-      "lon": -146.686,
-      "lat": 61.537,
-      "depth": 28.4,
-      "mag": 1.5,
-      "place": "48 km NNW of Valdez, Alaska",
-      "time": 1787306500513,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnhclx"
     }
   ]
 }
