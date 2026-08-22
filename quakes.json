@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-22T03:03:28Z",
-  "count": 301,
+  "updated": "2026-08-22T03:15:33Z",
+  "count": 299,
   "points": [
+    {
+      "id": "ci41532784",
+      "lon": -117.8335,
+      "lat": 36.069,
+      "depth": 4.16,
+      "mag": 0.58,
+      "place": "11 km ENE of Coso Junction, CA",
+      "time": 1787367972250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532784"
+    },
     {
       "id": "ci41532776",
       "lon": -117.8385,
@@ -2982,36 +2992,6 @@
       "place": "3 km E of Whittier, Alaska",
       "time": 1787282850176,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qmtztc"
-    },
-    {
-      "id": "us6000tmd6",
-      "lon": -163.3413,
-      "lat": 53.9496,
-      "depth": 30.859,
-      "mag": 4.2,
-      "place": "100 km S of False Pass, Alaska",
-      "time": 1787282064017,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmd6"
-    },
-    {
-      "id": "ci41531744",
-      "lon": -116.691666666667,
-      "lat": 33.3748333333333,
-      "depth": 12.27,
-      "mag": 0.21,
-      "place": "12 km NNW of Warner Springs, CA",
-      "time": 1787281862040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531744"
-    },
-    {
-      "id": "pr71529193",
-      "lon": -66.3463333333333,
-      "lat": 18.5031666666667,
-      "depth": 17.74,
-      "mag": 2.29,
-      "place": "4 km N of Brenas, Puerto Rico",
-      "time": 1787281415020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71529193"
     }
   ]
 }
