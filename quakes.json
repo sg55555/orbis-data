@@ -1,14 +1,44 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-22T14:32:55Z",
-  "count": 226,
+  "updated": "2026-08-22T14:45:37Z",
+  "count": 228,
   "points": [
+    {
+      "id": "nc75422977",
+      "lon": -124.515830993652,
+      "lat": 40.2748336791992,
+      "depth": 20.4200000762939,
+      "mag": 1.73,
+      "place": "20 km WSW of Petrolia, CA",
+      "time": 1787409611140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422977"
+    },
+    {
+      "id": "hv75022477",
+      "lon": -155.256164550781,
+      "lat": 19.3108329772949,
+      "depth": 2.99000000953674,
+      "mag": 1.73,
+      "place": "14 km S of Volcano, Hawaii",
+      "time": 1787409556610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75022477"
+    },
+    {
+      "id": "aka2026qpmdug",
+      "lon": -148.972,
+      "lat": 62.081,
+      "depth": 12.6,
+      "mag": 2,
+      "place": "35 km NNW of Sutton-Alpine, Alaska",
+      "time": 1787409069405,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qpmdug"
+    },
     {
       "id": "tx2026qmuwdp",
       "lon": -104.104,
       "lat": 31.61,
-      "depth": 5.3875,
-      "mag": 1.8,
+      "depth": 5.3876,
+      "mag": 1.7,
       "place": "44 km NW of Toyah, Texas",
       "time": 1787408896519,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qmuwdp"
@@ -2252,16 +2282,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1787323735750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422442"
-    },
-    {
-      "id": "nc75422432",
-      "lon": -122.816497802734,
-      "lat": 38.8305015563965,
-      "depth": 1.79999995231628,
-      "mag": 0.92,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1787323042440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422432"
     }
   ]
 }
