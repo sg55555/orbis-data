@@ -1,27 +1,47 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-22T07:45:38Z",
+  "updated": "2026-08-22T08:00:50Z",
   "count": 287,
   "points": [
     {
+      "id": "nn00923683",
+      "lon": -118.9925,
+      "lat": 39.3543,
+      "depth": 10.0559,
+      "mag": 2.53,
+      "place": "21 km ESE of Silver Springs, Nevada",
+      "time": 1787385104411,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923683"
+    },
+    {
       "id": "aka2026qoynpe",
-      "lon": -149.675,
-      "lat": 60.933,
-      "depth": 36.4,
-      "mag": 4.1,
-      "place": "2 km NW of Hope, Alaska",
-      "time": 1787384561047,
+      "lon": -149.666,
+      "lat": 60.911,
+      "depth": 31.3,
+      "mag": 3.9,
+      "place": "1 km WSW of Hope, Alaska",
+      "time": 1787384560939,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qoynpe"
     },
     {
       "id": "aka2026qoyltz",
-      "lon": -152.917,
-      "lat": 60.268,
-      "depth": 129,
-      "mag": 2.5,
+      "lon": -152.923,
+      "lat": 60.271,
+      "depth": 128.6,
+      "mag": 2.3,
       "place": "73 km WNW of Ninilchik, Alaska",
-      "time": 1787384466712,
+      "time": 1787384466738,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qoyltz"
+    },
+    {
+      "id": "us6000tmrn",
+      "lon": -47.2591,
+      "lat": -60.2649,
+      "depth": 10,
+      "mag": 5.7,
+      "place": "Scotia Sea",
+      "time": 1787384412697,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrn"
     },
     {
       "id": "nc75422842",
@@ -1634,6 +1654,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532096"
     },
     {
+      "id": "av94396953",
+      "lon": -166.647,
+      "lat": 53.8973333333333,
+      "depth": 7.37,
+      "mag": 0.02,
+      "place": "6 km W of Dutch Harbor, Alaska",
+      "time": 1787323754110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94396953"
+    },
+    {
       "id": "nc75422442",
       "lon": -122.817169189453,
       "lat": 38.8311653137207,
@@ -2842,36 +2872,6 @@
       "place": "10 km ENE of Coso Junction, CA",
       "time": 1787299328430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531832"
-    },
-    {
-      "id": "aka2026qncylv",
-      "lon": -156.848,
-      "lat": 54.731,
-      "depth": 35.7,
-      "mag": 3.2,
-      "place": "196 km SE of Perryville, Alaska",
-      "time": 1787298955920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qncylv"
-    },
-    {
-      "id": "aka2026qncubw",
-      "lon": -150.698,
-      "lat": 60.951,
-      "depth": 42,
-      "mag": 1.5,
-      "place": "3 km N of Point Possession, Alaska",
-      "time": 1787298649918,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qncubw"
-    },
-    {
-      "id": "pr71529203",
-      "lon": -66.6431666666667,
-      "lat": 18.6388333333333,
-      "depth": 7.72,
-      "mag": 2.4,
-      "place": "19 km NNE of Arecibo, Puerto Rico",
-      "time": 1787298584280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71529203"
     }
   ]
 }
