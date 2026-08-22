@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-22T09:00:52Z",
+  "updated": "2026-08-22T09:15:31Z",
   "count": 277,
   "points": [
     {
+      "id": "tx2026qmknhp",
+      "lon": -103.278,
+      "lat": 31.211,
+      "depth": 5.5892,
+      "mag": 1.5,
+      "place": "20 km W of Coyanosa, Texas",
+      "time": 1787389958439,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qmknhp"
+    },
+    {
+      "id": "ci41532848",
+      "lon": -117.672333333333,
+      "lat": 35.9488333333333,
+      "depth": 2.97,
+      "mag": 0.88,
+      "place": "21 km E of Little Lake, CA",
+      "time": 1787389614390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532848"
+    },
+    {
       "id": "aka2026qpayfy",
-      "lon": -152.279,
-      "lat": 61.034,
-      "depth": 118.1,
-      "mag": 1.4,
+      "lon": -152.272,
+      "lat": 61.019,
+      "depth": 116.7,
+      "mag": 1.9,
       "place": "61 km W of Tyonek, Alaska",
-      "time": 1787388895106,
+      "time": 1787388895237,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qpayfy"
     },
     {
@@ -2752,26 +2772,6 @@
       "place": "1 km N of Alegria, Philippines",
       "time": 1787304156390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmes"
-    },
-    {
-      "id": "aka2026qnfoxg",
-      "lon": -151.483,
-      "lat": 59.771,
-      "depth": 61.6,
-      "mag": 1.6,
-      "place": "8 km ESE of Nikolaevsk, Alaska",
-      "time": 1787303687748,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnfoxg"
-    },
-    {
-      "id": "us6000tmer",
-      "lon": 125.342,
-      "lat": 9.3382,
-      "depth": 10,
-      "mag": 5.2,
-      "place": "19 km W of Jabonga, Philippines",
-      "time": 1787303540890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmer"
     }
   ]
 }
