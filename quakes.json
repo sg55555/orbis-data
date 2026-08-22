@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-22T11:31:39Z",
-  "count": 267,
+  "updated": "2026-08-22T11:45:33Z",
+  "count": 263,
   "points": [
+    {
+      "id": "hv75022432",
+      "lon": -155.483001708984,
+      "lat": 19.2056674957275,
+      "depth": 33.7000007629395,
+      "mag": 2.05,
+      "place": "0 km WNW of Pāhala, Hawaii",
+      "time": 1787398631020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75022432"
+    },
     {
       "id": "nc75422922",
       "lon": -122.790832519531,
@@ -362,6 +372,16 @@
       "place": "14 km SE of Markleeville, CA",
       "time": 1787381674670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422817"
+    },
+    {
+      "id": "pr71529323",
+      "lon": -66.9835,
+      "lat": 18.0116666666667,
+      "depth": 10.06,
+      "mag": 1.94,
+      "place": "5 km SW of Liborio Negron Torres, Puerto Rico",
+      "time": 1787381469460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71529323"
     },
     {
       "id": "ci41532832",
@@ -2612,66 +2632,6 @@
       "place": "29 km NE of Igiugig, Alaska",
       "time": 1787312708757,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnkpgp"
-    },
-    {
-      "id": "hv75021877",
-      "lon": -155.248001098633,
-      "lat": 19.2094993591309,
-      "depth": 42.6199989318848,
-      "mag": 1.77,
-      "place": "24 km E of Pāhala, Hawaii",
-      "time": 1787312704290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75021877"
-    },
-    {
-      "id": "hv75021872",
-      "lon": -155.272338867188,
-      "lat": 19.2058334350586,
-      "depth": 44.3199996948242,
-      "mag": 1.77,
-      "place": "21 km E of Pāhala, Hawaii",
-      "time": 1787312628990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75021872"
-    },
-    {
-      "id": "nc75422347",
-      "lon": -121.198829650879,
-      "lat": 36.5713348388672,
-      "depth": 2.58999991416931,
-      "mag": 1.73,
-      "place": "7 km NW of Pinnacles, CA",
-      "time": 1787312562520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422347"
-    },
-    {
-      "id": "uw714082542",
-      "lon": -122.5325,
-      "lat": 45.0075,
-      "depth": 19.07,
-      "mag": 0.58,
-      "place": "11 km ESE of Scotts Mills, Oregon",
-      "time": 1787312450090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714082542"
-    },
-    {
-      "id": "nc75422342",
-      "lon": -122.261329650879,
-      "lat": 37.7248344421387,
-      "depth": 18.1700000762939,
-      "mag": 2.33,
-      "place": "5 km SSW of Alameda, CA",
-      "time": 1787312329380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422342"
-    },
-    {
-      "id": "ci41531936",
-      "lon": -117.840333333333,
-      "lat": 36.0665,
-      "depth": 3.57,
-      "mag": 0.46,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": 1787312091970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531936"
     }
   ]
 }
