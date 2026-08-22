@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-22T08:30:47Z",
-  "count": 276,
+  "updated": "2026-08-22T08:42:35Z",
+  "count": 277,
   "points": [
+    {
+      "id": "nc75422867",
+      "lon": -122.72233581543,
+      "lat": 38.7893333435059,
+      "depth": 1.67999994754791,
+      "mag": 0.8,
+      "place": "3 km WNW of Anderson Springs, CA",
+      "time": 1787387605280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422867"
+    },
     {
       "id": "nc75422862",
       "lon": -122.811836242676,
@@ -12,6 +22,16 @@
       "place": "8 km W of Cobb, CA",
       "time": 1787387033310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422862"
+    },
+    {
+      "id": "us6000tmrw",
+      "lon": -47.6047,
+      "lat": -60.3789,
+      "depth": 10,
+      "mag": 6.2,
+      "place": "Scotia Sea",
+      "time": 1787386957740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrw"
     },
     {
       "id": "hv75022342",
@@ -1135,12 +1155,12 @@
     },
     {
       "id": "av94397168",
-      "lon": -153.135166666667,
-      "lat": 60.0121666666667,
-      "depth": 1.29,
+      "lon": -153.117,
+      "lat": 60.0168333333333,
+      "depth": 4.34,
       "mag": -0.61,
-      "place": "59 km ENE of Pedro Bay, Alaska",
-      "time": 1787336764790,
+      "place": "60 km ENE of Pedro Bay, Alaska",
+      "time": 1787336764570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94397168"
     },
     {
@@ -2752,16 +2772,6 @@
       "place": "90 km WNW of Karluk, Alaska",
       "time": 1787301739415,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnemsz"
-    },
-    {
-      "id": "ci41531840",
-      "lon": -116.638,
-      "lat": 33.4186666666667,
-      "depth": 6.59,
-      "mag": -0.04,
-      "place": "15 km N of Warner Springs, CA",
-      "time": 1787301165310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531840"
     }
   ]
 }
