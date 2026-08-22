@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-22T16:00:53Z",
-  "count": 225,
+  "updated": "2026-08-22T16:15:46Z",
+  "count": 223,
   "points": [
+    {
+      "id": "hv75022512",
+      "lon": -155.371505737305,
+      "lat": 19.0196666717529,
+      "depth": 31.6599998474121,
+      "mag": 1.78,
+      "place": "22 km ESE of Naalehu, Hawaii",
+      "time": 1787414984700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75022512"
+    },
+    {
+      "id": "tx2026qmxyjt",
+      "lon": -103.523,
+      "lat": 30.892,
+      "depth": 0,
+      "mag": 1.6,
+      "place": "23 km ESE of Balmorhea, Texas",
+      "time": 1787414265048,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qmxyjt"
+    },
     {
       "id": "nc75423002",
       "lon": -122.735168457031,
@@ -172,6 +192,16 @@
       "place": "9 km SSE of San Juan Bautista, CA",
       "time": 1787403652640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422947"
+    },
+    {
+      "id": "us6000tmsn",
+      "lon": -126.6956,
+      "lat": 41.8838,
+      "depth": 18.142,
+      "mag": 2.6,
+      "place": "195 km WSW of Pistol River, Oregon",
+      "time": 1787403647561,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmsn"
     },
     {
       "id": "aka2026qpiuus",
@@ -2202,56 +2232,6 @@
       "place": "89 km NW of Aleneva, Alaska",
       "time": 1787329291923,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qntuxa"
-    },
-    {
-      "id": "tx2026qlctff",
-      "lon": -103.524,
-      "lat": 30.983,
-      "depth": 4.3054,
-      "mag": 1.2,
-      "place": "21 km E of Balmorhea, Texas",
-      "time": 1787328826861,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qlctff"
-    },
-    {
-      "id": "ci41532152",
-      "lon": -117.841333333333,
-      "lat": 36.0628333333333,
-      "depth": 2.71,
-      "mag": 1.16,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": 1787328614720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532152"
-    },
-    {
-      "id": "us6000tmkv",
-      "lon": 120.2714,
-      "lat": -8.3813,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "33 km NW of Ruteng, Indonesia",
-      "time": 1787328328869,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmkv"
-    },
-    {
-      "id": "nc75422472",
-      "lon": -122.851333618164,
-      "lat": 38.8273315429688,
-      "depth": 1.87999999523163,
-      "mag": 0.39,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1787328100660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422472"
-    },
-    {
-      "id": "ci41532144",
-      "lon": -117.844666666667,
-      "lat": 36.0686666666667,
-      "depth": 4.13,
-      "mag": 0.52,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": 1787328066200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532144"
     }
   ]
 }
