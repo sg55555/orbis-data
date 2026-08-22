@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-22T00:30:42Z",
-  "count": 314,
+  "updated": "2026-08-22T00:45:32Z",
+  "count": 313,
   "points": [
     {
+      "id": "nc75422722",
+      "lon": -123.983833312988,
+      "lat": 39.7283325195312,
+      "depth": 6.69999980926514,
+      "mag": 1.29,
+      "place": "13 km W of Cape Vizcaino, CA",
+      "time": 1787358755010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422722"
+    },
+    {
+      "id": "pr71529238",
+      "lon": -66.807,
+      "lat": 18.0396666666667,
+      "depth": 17.35,
+      "mag": 2.26,
+      "place": "2 km NW of Guayanilla, Puerto Rico",
+      "time": 1787357990870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71529238"
+    },
+    {
       "id": "aka2026qojnhk",
-      "lon": -157.324,
-      "lat": 56.183,
-      "depth": 21,
+      "lon": -157.33,
+      "lat": 56.182,
+      "depth": 19.9,
       "mag": 2.2,
-      "place": "68 km E of Chignik, Alaska",
-      "time": 1787357558676,
+      "place": "67 km E of Chignik, Alaska",
+      "time": 1787357558590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qojnhk"
     },
     {
@@ -32,6 +52,16 @@
       "place": "3 km SE of The Geysers, CA",
       "time": 1787357429970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422707"
+    },
+    {
+      "id": "us6000tmpu",
+      "lon": -66.3169,
+      "lat": -22.5642,
+      "depth": 251.591,
+      "mag": 4.4,
+      "place": "66 km WNW of Abra Pampa, Argentina",
+      "time": 1787357020653,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmpu"
     },
     {
       "id": "ci41532696",
@@ -62,6 +92,16 @@
       "place": "15 km W of Four Mile Road, Alaska",
       "time": 1787353649579,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qohixf"
+    },
+    {
+      "id": "aka2026qogoex",
+      "lon": -164.788,
+      "lat": 54.053,
+      "depth": 73.6,
+      "mag": 2.2,
+      "place": "65 km E of Akutan, Alaska",
+      "time": 1787352222615,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qogoex"
     },
     {
       "id": "us6000tmnz",
@@ -3092,56 +3132,6 @@
       "place": "10 km ENE of Coso Junction, CA",
       "time": 1787273138930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531640"
-    },
-    {
-      "id": "pr71529168",
-      "lon": -65.7563333333333,
-      "lat": 18.0478333333333,
-      "depth": 6.92,
-      "mag": 2.07,
-      "place": "10 km E of El Negro, Puerto Rico",
-      "time": 1787273032890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71529168"
-    },
-    {
-      "id": "uu80149661",
-      "lon": -112.891,
-      "lat": 38.5208333333333,
-      "depth": 3.02,
-      "mag": 0.48,
-      "place": "17 km NE of Milford, Utah",
-      "time": 1787272888950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149661"
-    },
-    {
-      "id": "aka2026qmolil",
-      "lon": -151.178,
-      "lat": 64.278,
-      "depth": 1.1,
-      "mag": 2.3,
-      "place": "70 km NE of Lake Minchumina, Alaska",
-      "time": 1787272854569,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qmolil"
-    },
-    {
-      "id": "hv75021572",
-      "lon": -155.487833333333,
-      "lat": 19.1643333333333,
-      "depth": 31.34,
-      "mag": 1.72,
-      "place": "4 km SSW of Pāhala, Hawaii",
-      "time": 1787272596420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75021572"
-    },
-    {
-      "id": "ci41531632",
-      "lon": -116.7275,
-      "lat": 33.5286666666667,
-      "depth": 6.37,
-      "mag": 0.6,
-      "place": "6 km WSW of Anza, CA",
-      "time": 1787272365350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531632"
     }
   ]
 }
