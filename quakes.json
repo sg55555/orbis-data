@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-22T15:53:07Z",
-  "count": 226,
+  "updated": "2026-08-22T16:00:53Z",
+  "count": 225,
   "points": [
+    {
+      "id": "nc75423002",
+      "lon": -122.735168457031,
+      "lat": 38.7729988098145,
+      "depth": 0.75,
+      "mag": 0.89,
+      "place": "2 km ESE of The Geysers, CA",
+      "time": 1787414031940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75423002"
+    },
     {
       "id": "ci41532944",
       "lon": -116.797833333333,
@@ -902,6 +912,16 @@
       "place": "41 km W of Four Mile Road, Alaska",
       "time": 1787370245373,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qoqopv"
+    },
+    {
+      "id": "ci41532792",
+      "lon": -117.426166666667,
+      "lat": 34.1485,
+      "depth": 6.39,
+      "mag": 0.79,
+      "place": "6 km NNE of Fontana, CA",
+      "time": 1787370150390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532792"
     },
     {
       "id": "us6000tmqf",
@@ -2232,36 +2252,6 @@
       "place": "10 km ENE of Coso Junction, CA",
       "time": 1787328066200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532144"
-    },
-    {
-      "id": "aka2026qntaio",
-      "lon": -148.158,
-      "lat": 61.042,
-      "depth": 23.2,
-      "mag": 1.1,
-      "place": "41 km NE of Whittier, Alaska",
-      "time": 1787327868094,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qntaio"
-    },
-    {
-      "id": "aka2026qnsyet",
-      "lon": -147.435,
-      "lat": 64.986,
-      "depth": 0,
-      "mag": 1.2,
-      "place": "9 km ENE of Fox, Alaska",
-      "time": 1787327720244,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnsyet"
-    },
-    {
-      "id": "ci41532136",
-      "lon": -116.546166666667,
-      "lat": 33.5081666666667,
-      "depth": 6.98,
-      "mag": 0.49,
-      "place": "13 km ESE of Anza, CA",
-      "time": 1787327628220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532136"
     }
   ]
 }
