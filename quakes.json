@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-22T02:30:44Z",
-  "count": 307,
+  "updated": "2026-08-22T02:45:31Z",
+  "count": 304,
   "points": [
+    {
+      "id": "ci41532776",
+      "lon": -117.8385,
+      "lat": 36.0626666666667,
+      "depth": 2.88,
+      "mag": 0.63,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": 1787366180310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532776"
+    },
     {
       "id": "nc75422772",
       "lon": -120.846496582031,
@@ -1644,6 +1654,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmfl"
     },
     {
+      "id": "av94396833",
+      "lon": -152.242833333333,
+      "lat": 61.2756666666667,
+      "depth": 2.73,
+      "mag": 0.16,
+      "place": "63 km WNW of Tyonek, Alaska",
+      "time": 1787315566840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94396833"
+    },
+    {
       "id": "ci41531984",
       "lon": -116.754833333333,
       "lat": 33.7061666666667,
@@ -3022,56 +3042,6 @@
       "place": "4 km SW of Pāhala, Hawaii",
       "time": 1787280469070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75021652"
-    },
-    {
-      "id": "pr71529188",
-      "lon": -64.8143333333333,
-      "lat": 19.2751666666667,
-      "depth": 72.97,
-      "mag": 3.4,
-      "place": "104 km N of Charlotte Amalie, U.S. Virgin Islands",
-      "time": 1787280078750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71529188"
-    },
-    {
-      "id": "nc75422187",
-      "lon": -123.271667480469,
-      "lat": 39.3176651000977,
-      "depth": 6.98999977111816,
-      "mag": 1.59,
-      "place": "8 km NW of Redwood Valley, CA",
-      "time": 1787280051170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422187"
-    },
-    {
-      "id": "pr2026233000",
-      "lon": -64.8648,
-      "lat": 19.4205,
-      "depth": 18,
-      "mag": 3.73,
-      "place": "119 km N of Charlotte Amalie, U.S. Virgin Islands",
-      "time": 1787279809390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026233000"
-    },
-    {
-      "id": "us6000tmd2",
-      "lon": 120.5112,
-      "lat": -8.3786,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "26 km NNE of Ruteng, Indonesia",
-      "time": 1787279587261,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmd2"
-    },
-    {
-      "id": "hv75021622",
-      "lon": -155.488998413086,
-      "lat": 19.1615009307861,
-      "depth": 29.5400009155273,
-      "mag": 1.71,
-      "place": "4 km SSW of Pāhala, Hawaii",
-      "time": 1787279546800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75021622"
     }
   ]
 }
