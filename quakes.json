@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-22T12:15:33Z",
-  "count": 256,
+  "updated": "2026-08-22T12:30:44Z",
+  "count": 253,
   "points": [
+    {
+      "id": "ci41532888",
+      "lon": -116.467333333333,
+      "lat": 34.3325,
+      "depth": 5.14,
+      "mag": 0.94,
+      "place": "24 km N of Yucca Valley, CA",
+      "time": 1787401267190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532888"
+    },
     {
       "id": "nc75422932",
       "lon": -122.800498962402,
@@ -2522,46 +2532,6 @@
       "place": "63 km WNW of Tyonek, Alaska",
       "time": 1787315566840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94396833"
-    },
-    {
-      "id": "ci41531984",
-      "lon": -116.754833333333,
-      "lat": 33.7061666666667,
-      "depth": 15.87,
-      "mag": 0.9,
-      "place": "5 km SW of Idyllwild, CA",
-      "time": 1787315377420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531984"
-    },
-    {
-      "id": "tx2026qkvcfe",
-      "lon": -104.534,
-      "lat": 31.721,
-      "depth": 4.3951,
-      "mag": 2.1,
-      "place": "52 km SSW of Whites City, New Mexico",
-      "time": 1787314963180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qkvcfe"
-    },
-    {
-      "id": "us6000tmfi",
-      "lon": -178.7122,
-      "lat": -31.9377,
-      "depth": 69.842,
-      "mag": 4.9,
-      "place": "Kermadec Islands region",
-      "time": 1787314742927,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmfi"
-    },
-    {
-      "id": "nc75422382",
-      "lon": -122.824996948242,
-      "lat": 38.8429985046387,
-      "depth": 2.11999988555908,
-      "mag": 1.08,
-      "place": "9 km WNW of Cobb, CA",
-      "time": 1787314565920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422382"
     }
   ]
 }
