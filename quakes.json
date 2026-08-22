@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-22T00:15:35Z",
-  "count": 315,
+  "updated": "2026-08-22T00:30:42Z",
+  "count": 314,
   "points": [
     {
       "id": "aka2026qojnhk",
@@ -72,6 +72,16 @@
       "place": "147 km NE of Diego de Almagro, Chile",
       "time": 1787351163081,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmnz"
+    },
+    {
+      "id": "us6000tmny",
+      "lon": 158.3489,
+      "lat": 51.9171,
+      "depth": 74.665,
+      "mag": 4.4,
+      "place": "112 km S of Vilyuchinsk, Russia",
+      "time": 1787349604478,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmny"
     },
     {
       "id": "ci41532624",
@@ -235,12 +245,12 @@
     },
     {
       "id": "hv75022117",
-      "lon": -155.357666015625,
-      "lat": 19.1766662597656,
-      "depth": 26.3700008392334,
-      "mag": 2.03,
-      "place": "13 km ESE of Pāhala, Hawaii",
-      "time": 1787343680330,
+      "lon": -155.3545,
+      "lat": 19.1815,
+      "depth": 28.05,
+      "mag": 1.88,
+      "place": "13 km E of Pāhala, Hawaii",
+      "time": 1787343680260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75022117"
     },
     {
@@ -1774,6 +1784,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531912"
     },
     {
+      "id": "av94396678",
+      "lon": -154.7825,
+      "lat": 58.1675,
+      "depth": 9.86,
+      "mag": 0.06,
+      "place": "69 km NNW of Karluk, Alaska",
+      "time": 1787307918200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94396678"
+    },
+    {
       "id": "aka2026qnhvii",
       "lon": -154.588,
       "lat": 57.512,
@@ -3122,36 +3142,6 @@
       "place": "6 km WSW of Anza, CA",
       "time": 1787272365350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531632"
-    },
-    {
-      "id": "aka2026qmnygc",
-      "lon": -162.349,
-      "lat": 54.196,
-      "depth": 3.8,
-      "mag": 2.2,
-      "place": "96 km S of King Cove, Alaska",
-      "time": 1787271951486,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qmnygc"
-    },
-    {
-      "id": "aka2026qmnxfb",
-      "lon": -162.294,
-      "lat": 54.181,
-      "depth": 5.3,
-      "mag": 2.3,
-      "place": "97 km S of King Cove, Alaska",
-      "time": 1787271876551,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qmnxfb"
-    },
-    {
-      "id": "ci41531624",
-      "lon": -117.449833333333,
-      "lat": 35.524,
-      "depth": 4.66,
-      "mag": 0.9,
-      "place": "23 km ESE of Ridgecrest, CA",
-      "time": 1787271746410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531624"
     }
   ]
 }
