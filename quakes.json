@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-22T05:00:51Z",
-  "count": 298,
+  "updated": "2026-08-22T05:15:38Z",
+  "count": 302,
   "points": [
+    {
+      "id": "ci41532824",
+      "lon": -116.615666666667,
+      "lat": 33.0611666666667,
+      "depth": 13.28,
+      "mag": 1.12,
+      "place": "2 km SSW of Julian, CA",
+      "time": 1787375466150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532824"
+    },
+    {
+      "id": "hv75022307",
+      "lon": -155.454498291016,
+      "lat": 18.9834995269775,
+      "depth": 26.4099998474121,
+      "mag": 1.78,
+      "place": "16 km SE of Naalehu, Hawaii",
+      "time": 1787375367580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75022307"
+    },
+    {
+      "id": "aka2026qotctl",
+      "lon": -149.482,
+      "lat": 63.905,
+      "depth": 5,
+      "mag": 1.6,
+      "place": "21 km SW of Ferry, Alaska",
+      "time": 1787374814437,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qotctl"
+    },
     {
       "id": "aka2026qotbci",
       "lon": -159.346,
@@ -12,6 +42,26 @@
       "place": "66 km S of Ivanof Bay, Alaska",
       "time": 1787374707589,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qotbci"
+    },
+    {
+      "id": "ci41532816",
+      "lon": -117.614,
+      "lat": 35.7916666666667,
+      "depth": 7.67,
+      "mag": 0.4,
+      "place": "19 km W of Searles Valley, CA",
+      "time": 1787374645170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532816"
+    },
+    {
+      "id": "us6000tmr2",
+      "lon": 125.5805,
+      "lat": 9.3981,
+      "depth": 10,
+      "mag": 5,
+      "place": "6 km S of Kitcharao, Philippines",
+      "time": 1787373848744,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmr2"
     },
     {
       "id": "ci41532808",
@@ -545,12 +595,12 @@
     },
     {
       "id": "tx2026qlluwv",
-      "lon": -104.249,
-      "lat": 31.728,
-      "depth": 4.8164,
+      "lon": -104.255,
+      "lat": 31.73,
+      "depth": 4.1382,
       "mag": 1.7,
-      "place": "51 km SSE of Whites City, New Mexico",
-      "time": 1787345229078,
+      "place": "50 km SSE of Whites City, New Mexico",
+      "time": 1787345229005,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qlluwv"
     },
     {
@@ -2972,16 +3022,6 @@
       "place": "75 km WSW of Nanwalek, Alaska",
       "time": 1787289485459,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qmxrro"
-    },
-    {
-      "id": "aka2026qmxnfg",
-      "lon": -163.154,
-      "lat": 53.939,
-      "depth": 22.5,
-      "mag": 2.4,
-      "place": "103 km S of False Pass, Alaska",
-      "time": 1787289183306,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qmxnfg"
     }
   ]
 }
