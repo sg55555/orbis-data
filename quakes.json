@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-22T11:15:39Z",
-  "count": 268,
+  "updated": "2026-08-22T11:30:45Z",
+  "count": 267,
   "points": [
     {
+      "id": "nc75422922",
+      "lon": -122.790832519531,
+      "lat": 38.8091659545898,
+      "depth": 3.47000002861023,
+      "mag": 0.77,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1787397962190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422922"
+    },
+    {
       "id": "ci41532880",
-      "lon": -115.628829956055,
-      "lat": 32.9459991455078,
-      "depth": 5.05000019073486,
-      "mag": 0.987660378210295,
-      "place": "10 km WSW of Brawley, CA",
-      "time": 1787397142180,
+      "lon": -115.629666666667,
+      "lat": 32.9096666666667,
+      "depth": 5.47,
+      "mag": 1.14,
+      "place": "9 km NW of Imperial, CA",
+      "time": 1787397142530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532880"
     },
     {
@@ -104,13 +114,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422897"
     },
     {
+      "id": "tx2026qmlzzz",
+      "lon": -101.995,
+      "lat": 31.674,
+      "depth": 3.6027,
+      "mag": 1,
+      "place": "36 km SSE of Midland, Texas",
+      "time": 1787392656805,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qmlzzz"
+    },
+    {
       "id": "tx2026qmlyez",
-      "lon": -101.501,
+      "lon": -101.494,
       "lat": 32.116,
-      "depth": 2.4016,
+      "depth": 2.4201,
       "mag": 1.2,
       "place": "12 km W of Forsan, Texas",
-      "time": 1787392529158,
+      "time": 1787392528976,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qmlyez"
     },
     {
@@ -374,6 +394,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrf"
     },
     {
+      "id": "pr71529313",
+      "lon": -67.5663333333333,
+      "lat": 18.8396666666667,
+      "depth": 17.23,
+      "mag": 3.21,
+      "place": "62 km NW of San Antonio, Puerto Rico",
+      "time": 1787379760370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71529313"
+    },
+    {
       "id": "tx2026qmethi",
       "lon": -101.931,
       "lat": 32.102,
@@ -385,12 +415,12 @@
     },
     {
       "id": "tx2026qmetup",
-      "lon": -101.935,
-      "lat": 32.106,
-      "depth": 4.8329,
-      "mag": 1.7,
-      "place": "14 km W of Stanton, Texas",
-      "time": 1787379555847,
+      "lon": -101.934,
+      "lat": 32.104,
+      "depth": 4.6216,
+      "mag": 2,
+      "place": "14 km WSW of Stanton, Texas",
+      "time": 1787379555678,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qmetup"
     },
     {
@@ -725,12 +755,12 @@
     },
     {
       "id": "tx2026qlvfva",
-      "lon": -101.492,
-      "lat": 32.085,
-      "depth": 3.2955,
-      "mag": 1.3,
+      "lon": -101.491,
+      "lat": 32.081,
+      "depth": 2.7485,
+      "mag": 1.4,
       "place": "12 km WSW of Forsan, Texas",
-      "time": 1787362283316,
+      "time": 1787362283412,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qlvfva"
     },
     {
@@ -2642,46 +2672,6 @@
       "place": "10 km ENE of Coso Junction, CA",
       "time": 1787312091970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531936"
-    },
-    {
-      "id": "aka2026qnkcit",
-      "lon": -150.263,
-      "lat": 61.222,
-      "depth": 45.4,
-      "mag": 2.2,
-      "place": "19 km W of Anchorage, Alaska",
-      "time": 1787311815998,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnkcit"
-    },
-    {
-      "id": "aka2026qnjvsi",
-      "lon": 179.707,
-      "lat": 51.3,
-      "depth": 22.3,
-      "mag": 3.1,
-      "place": "261 km WSW of Adak, Alaska",
-      "time": 1787311356073,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnjvsi"
-    },
-    {
-      "id": "aka2026qnjtdf",
-      "lon": -152.295,
-      "lat": 60.451,
-      "depth": 99.4,
-      "mag": 1.6,
-      "place": "55 km W of Cohoe, Alaska",
-      "time": 1787311177427,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnjtdf"
-    },
-    {
-      "id": "us6000tmf7",
-      "lon": 120.5325,
-      "lat": -8.1896,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "47 km N of Ruteng, Indonesia",
-      "time": 1787311012056,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmf7"
     }
   ]
 }
