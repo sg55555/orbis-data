@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-08-22T12:45:35Z",
-  "count": 248,
+  "updated": "2026-08-22T12:56:49Z",
+  "count": 245,
   "points": [
+    {
+      "id": "aka2026qpiuus",
+      "lon": -150.683,
+      "lat": 63.219,
+      "depth": 128.3,
+      "mag": 2,
+      "place": "63 km SE of Denali National Park, Alaska",
+      "time": 1787403051455,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qpiuus"
+    },
     {
       "id": "aka2026qpinio",
       "lon": -150.046,
@@ -282,6 +292,16 @@
       "place": "61 km W of Tyonek, Alaska",
       "time": 1787388895237,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qpayfy"
+    },
+    {
+      "id": "se60627161",
+      "lon": -85.0476666666667,
+      "lat": 34.6116666666667,
+      "depth": 9.35,
+      "mag": 2.41,
+      "place": "10 km WNW of Resaca, Georgia",
+      "time": 1787388855250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60627161"
     },
     {
       "id": "nc75422882",
@@ -2432,56 +2452,6 @@
       "place": "6 km ENE of Mount Pleasant, Utah",
       "time": 1787317207260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80149676"
-    },
-    {
-      "id": "aka2026qnmybe",
-      "lon": -139.965,
-      "lat": 60.58,
-      "depth": 12.1,
-      "mag": 1.7,
-      "place": "115 km N of Yakutat, Alaska",
-      "time": 1787316915278,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qnmybe"
-    },
-    {
-      "id": "ci41532000",
-      "lon": -115.455333333333,
-      "lat": 33.3163333333333,
-      "depth": 4.54,
-      "mag": 2.14,
-      "place": "10 km NE of Niland, CA",
-      "time": 1787316906890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41532000"
-    },
-    {
-      "id": "av94396853",
-      "lon": -158.165666666667,
-      "lat": 56.8648333333333,
-      "depth": -0.35,
-      "mag": -0.1,
-      "place": "65 km NNE of Chignik, Alaska",
-      "time": 1787316873780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94396853"
-    },
-    {
-      "id": "av94396848",
-      "lon": -158.1805,
-      "lat": 56.8635,
-      "depth": 0.75,
-      "mag": -0.17,
-      "place": "64 km NNE of Chignik, Alaska",
-      "time": 1787316801050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94396848"
-    },
-    {
-      "id": "ci41531992",
-      "lon": -117.447666666667,
-      "lat": 35.5241666666667,
-      "depth": 5.03,
-      "mag": 0.96,
-      "place": "23 km ESE of Ridgecrest, CA",
-      "time": 1787316714690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531992"
     }
   ]
 }
