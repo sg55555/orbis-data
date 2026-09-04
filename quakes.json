@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-04T11:45:38Z",
-  "count": 310,
+  "updated": "2026-09-04T12:01:07Z",
+  "count": 309,
   "points": [
+    {
+      "id": "nc75429632",
+      "lon": -121.322166442871,
+      "lat": 36.6633338928223,
+      "depth": 5.51000022888184,
+      "mag": 1.35,
+      "place": "14 km S of Tres Pinos, CA",
+      "time": 1788522332710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429632"
+    },
     {
       "id": "aka2026rngwdx",
       "lon": -149.948,
@@ -622,6 +632,16 @@
       "place": "11 km WNW of Cobb, CA",
       "time": 1788491601590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429472"
+    },
+    {
+      "id": "tx2026rjuxed",
+      "lon": -98.096,
+      "lat": 28.895,
+      "depth": 8.8635,
+      "mag": 1.1,
+      "place": "12 km SW of Falls City, Texas",
+      "time": 1788491322922,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rjuxed"
     },
     {
       "id": "aka2026rmpmey",
@@ -3072,36 +3092,6 @@
       "place": "58 km NNE of Chignik, Alaska",
       "time": 1788437151320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93066519"
-    },
-    {
-      "id": "nc75429177",
-      "lon": -122.75316619873,
-      "lat": 38.7911682128906,
-      "depth": 3.36999988555908,
-      "mag": 1.1,
-      "place": "2 km N of The Geysers, CA",
-      "time": 1788436786420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429177"
-    },
-    {
-      "id": "hv75028652",
-      "lon": -155.491833333333,
-      "lat": 19.1826666666667,
-      "depth": 29.9,
-      "mag": 1.64,
-      "place": "2 km SSW of Pāhala, Hawaii",
-      "time": 1788436537160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75028652"
-    },
-    {
-      "id": "aka2026rlldph",
-      "lon": -169.25,
-      "lat": 52.186,
-      "depth": 11.1,
-      "mag": 3.6,
-      "place": "87 km SSW of Nikolski, Alaska",
-      "time": 1788436389097,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlldph"
     }
   ]
 }
