@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-04T21:15:43Z",
-  "count": 256,
+  "updated": "2026-09-04T21:25:29Z",
+  "count": 255,
   "points": [
+    {
+      "id": "aka2026rnzxxw",
+      "lon": -147.735,
+      "lat": 63.176,
+      "depth": 0.3,
+      "mag": 2.2,
+      "place": "65 km ESE of Cantwell, Alaska",
+      "time": 1788556542505,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnzxxw"
+    },
     {
       "id": "ok2026rjbs",
       "lon": -95.31313324,
@@ -1094,6 +1104,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541640"
     },
     {
+      "id": "aka2026rnalvu",
+      "lon": -169.328,
+      "lat": 52.153,
+      "depth": 21.9,
+      "mag": 2.8,
+      "place": "93 km SSW of Nikolski, Alaska",
+      "time": 1788510726565,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnalvu"
+    },
+    {
       "id": "pr71530848",
       "lon": -65.5816666666667,
       "lat": 18.3461666666667,
@@ -1105,13 +1125,23 @@
     },
     {
       "id": "aka2026rnahlg",
-      "lon": -154.536,
-      "lat": 57.665,
-      "depth": 57.2,
-      "mag": 1.4,
-      "place": "11 km NNW of Karluk, Alaska",
-      "time": 1788510429237,
+      "lon": -154.591,
+      "lat": 57.706,
+      "depth": 60.6,
+      "mag": 1.6,
+      "place": "17 km NNW of Karluk, Alaska",
+      "time": 1788510429413,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnahlg"
+    },
+    {
+      "id": "aka2026rnaadr",
+      "lon": -168.993,
+      "lat": 52.31,
+      "depth": 4.8,
+      "mag": 2.7,
+      "place": "70 km S of Nikolski, Alaska",
+      "time": 1788509909125,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnaadr"
     },
     {
       "id": "aka2026rmzsbs",
@@ -2394,14 +2424,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te7e"
     },
     {
-      "id": "aka2026rmguki",
-      "lon": -169.226,
-      "lat": 52.186,
-      "depth": 12.5,
-      "mag": 3.5,
-      "place": "87 km SSW of Nikolski, Alaska",
-      "time": 1788475336144,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmguki"
+      "id": "us7000te7d",
+      "lon": -169.2418,
+      "lat": 52.1742,
+      "depth": 10,
+      "mag": 3.3,
+      "place": "88 km SSW of Nikolski, Alaska",
+      "time": 1788475335895,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te7d"
     },
     {
       "id": "hv75028917",
@@ -2522,46 +2552,6 @@
       "place": "3 km NNW of The Geysers, CA",
       "time": 1788470770290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429362"
-    },
-    {
-      "id": "nn00924171",
-      "lon": -117.0688,
-      "lat": 38.6791,
-      "depth": 6.416,
-      "mag": 1.86,
-      "place": "58 km S of Kingston, Nevada",
-      "time": 1788470652931,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924171"
-    },
-    {
-      "id": "hv75028882",
-      "lon": -155.4175,
-      "lat": 19.3416666666667,
-      "depth": 7.81,
-      "mag": 1.78,
-      "place": "16 km NNE of Pāhala, Hawaii",
-      "time": 1788470621740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75028882"
-    },
-    {
-      "id": "pr71530758",
-      "lon": -67.0575,
-      "lat": 18.1986666666667,
-      "depth": 126.27,
-      "mag": 3.19,
-      "place": "8 km WNW of Maricao, Puerto Rico",
-      "time": 1788470493570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71530758"
-    },
-    {
-      "id": "us7000te5e",
-      "lon": -71.2399,
-      "lat": -31.8967,
-      "depth": 81.851,
-      "mag": 4.8,
-      "place": "29 km WSW of Salamanca, Chile",
-      "time": 1788470301492,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te5e"
     }
   ]
 }
