@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-04T22:45:39Z",
-  "count": 273,
+  "updated": "2026-09-04T23:01:04Z",
+  "count": 279,
   "points": [
+    {
+      "id": "nc75429887",
+      "lon": -122.816665649414,
+      "lat": 38.8089981079102,
+      "depth": 2.24000000953674,
+      "mag": 0.57,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1788562208810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429887"
+    },
     {
       "id": "aka2026rocqpx",
       "lon": -151.81,
@@ -84,6 +94,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rlgwxe"
     },
     {
+      "id": "uw714095072",
+      "lon": -122.2495,
+      "lat": 46.9641666666667,
+      "depth": -0.48,
+      "mag": 1.79448437690735,
+      "place": "3 km SW of Kapowsin, Washington",
+      "time": 1788559723130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714095072"
+    },
+    {
       "id": "nc75429862",
       "lon": -121.669998168945,
       "lat": 37.2931671142578,
@@ -115,12 +135,12 @@
     },
     {
       "id": "ci41541744",
-      "lon": -116.698,
-      "lat": 33.3723333333333,
-      "depth": 10.59,
-      "mag": 0.48,
+      "lon": -116.697666666667,
+      "lat": 33.3736666666667,
+      "depth": 9.61,
+      "mag": 0.35,
       "place": "12 km NNW of Warner Springs, CA",
-      "time": 1788558391250,
+      "time": 1788558391320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541744"
     },
     {
@@ -964,14 +984,34 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541656"
     },
     {
-      "id": "us7000te9w",
-      "lon": -143.6297,
-      "lat": 69.4177,
+      "id": "aka2026rnhlam",
+      "lon": -143.67,
+      "lat": 69.448,
       "depth": 5,
-      "mag": 2.5,
-      "place": "79 km S of Kaktovik, Alaska",
-      "time": 1788523469875,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te9w"
+      "mag": 2.7,
+      "place": "76 km S of Kaktovik, Alaska",
+      "time": 1788523470003,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnhlam"
+    },
+    {
+      "id": "aka2026rnhmmg",
+      "lon": -165.602,
+      "lat": 53.438,
+      "depth": 21.6,
+      "mag": 2.9,
+      "place": "78 km S of Akutan, Alaska",
+      "time": 1788523391920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnhmmg"
+    },
+    {
+      "id": "aka2026rnhmoy",
+      "lon": -169.125,
+      "lat": 52.15,
+      "depth": 15.1,
+      "mag": 3.1,
+      "place": "89 km SSW of Nikolski, Alaska",
+      "time": 1788523372125,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnhmoy"
     },
     {
       "id": "us7000te9t",
@@ -982,6 +1022,16 @@
       "place": "Kermadec Islands region",
       "time": 1788523198323,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te9t"
+    },
+    {
+      "id": "aka2026rnhcer",
+      "lon": -163.643,
+      "lat": 53.91,
+      "depth": 18.8,
+      "mag": 2.6,
+      "place": "106 km S of False Pass, Alaska",
+      "time": 1788522655402,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnhcer"
     },
     {
       "id": "nc75429632",
@@ -995,23 +1045,33 @@
     },
     {
       "id": "aka2026rngwdx",
-      "lon": -149.948,
-      "lat": 61.479,
-      "depth": 30.2,
+      "lon": -149.923,
+      "lat": 61.463,
+      "depth": 30.3,
       "mag": 1.4,
-      "place": "4 km S of Big Lake, Alaska",
+      "place": "6 km SSE of Big Lake, Alaska",
       "time": 1788522236131,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rngwdx"
     },
     {
       "id": "aka2026rngrwu",
-      "lon": -139.285,
-      "lat": 60.332,
-      "depth": 5,
+      "lon": -139.289,
+      "lat": 60.334,
+      "depth": 3.1,
       "mag": 2.1,
-      "place": "90 km NNE of Yakutat, Alaska",
-      "time": 1788521936293,
+      "place": "91 km NNE of Yakutat, Alaska",
+      "time": 1788521936444,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rngrwu"
+    },
+    {
+      "id": "aka2026rngrts",
+      "lon": -148.878,
+      "lat": 66.094,
+      "depth": 9.9,
+      "mag": 1.8,
+      "place": "13 km NE of Stevens Village, Alaska",
+      "time": 1788521927333,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rngrts"
     },
     {
       "id": "aka2026rngqor",
@@ -1464,6 +1524,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmzrzo"
     },
     {
+      "id": "av94416488",
+      "lon": -166.847,
+      "lat": 53.8461666666667,
+      "depth": 5.11,
+      "mag": -0.13,
+      "place": "20 km WSW of Dutch Harbor, Alaska",
+      "time": 1788508923700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94416488"
+    },
+    {
       "id": "aka2026rmzjyi",
       "lon": -166.808,
       "lat": 53.07,
@@ -1784,6 +1854,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmuiow"
     },
     {
+      "id": "av94416338",
+      "lon": -166.646166666667,
+      "lat": 53.8976666666667,
+      "depth": 8.36,
+      "mag": 0.18,
+      "place": "6 km W of Dutch Harbor, Alaska",
+      "time": 1788499591540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94416338"
+    },
+    {
       "id": "hv75029062",
       "lon": -155.48567199707,
       "lat": 19.1665000915527,
@@ -1912,6 +1992,16 @@
       "place": "40 km NW of Toyah, Texas",
       "time": 1788496525328,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rjxsxm"
+    },
+    {
+      "id": "av94416298",
+      "lon": -155.319666666667,
+      "lat": 58.1758333333333,
+      "depth": 1.87,
+      "mag": -0.35,
+      "place": "84 km NW of Karluk, Alaska",
+      "time": 1788496491450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94416298"
     },
     {
       "id": "nc75429492",
@@ -2702,36 +2792,6 @@
       "place": "21 km SE of Pāhala, Hawaii",
       "time": 1788476518990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75028922"
-    },
-    {
-      "id": "tx2026rjmpuq",
-      "lon": -98.088,
-      "lat": 28.889,
-      "depth": 9.7051,
-      "mag": 1.4,
-      "place": "12 km SSW of Falls City, Texas",
-      "time": 1788476329318,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rjmpuq"
-    },
-    {
-      "id": "uu80154021",
-      "lon": -111.936666666667,
-      "lat": 41.9791666666667,
-      "depth": 3.27,
-      "mag": 1.19,
-      "place": "1 km ENE of Cornish, Utah",
-      "time": 1788476102790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80154021"
-    },
-    {
-      "id": "us7000te7e",
-      "lon": -169.2923,
-      "lat": 52.0907,
-      "depth": 10,
-      "mag": 3.3,
-      "place": "98 km SSW of Nikolski, Alaska",
-      "time": 1788476059512,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te7e"
     }
   ]
 }
