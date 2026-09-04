@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-04T07:01:10Z",
-  "count": 352,
+  "updated": "2026-09-04T07:15:49Z",
+  "count": 349,
   "points": [
+    {
+      "id": "hv75029132",
+      "lon": -155.363006591797,
+      "lat": 19.0676670074463,
+      "depth": 32.7900009155273,
+      "mag": 2.12,
+      "place": "19 km SE of Pāhala, Hawaii",
+      "time": 1788505528670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029132"
+    },
     {
       "id": "aka2026rmxbzu",
       "lon": -147.518,
@@ -12,6 +22,16 @@
       "place": "26 km NW of Eureka Roadhouse, Alaska",
       "time": 1788504650430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmxbzu"
+    },
+    {
+      "id": "us7000te8r",
+      "lon": -26.1632,
+      "lat": -56.1536,
+      "depth": 10,
+      "mag": 5,
+      "place": "South Sandwich Islands region",
+      "time": 1788504354522,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te8r"
     },
     {
       "id": "hv75029107",
@@ -135,12 +155,12 @@
     },
     {
       "id": "tx2026rjykqs",
-      "lon": -104.159,
-      "lat": 31.527,
-      "depth": 4.3024,
-      "mag": 2.6,
-      "place": "41 km NW of Toyah, Texas",
-      "time": 1788497694707,
+      "lon": -104.139,
+      "lat": 31.56,
+      "depth": 6.1768,
+      "mag": 2.4,
+      "place": "42 km NW of Toyah, Texas",
+      "time": 1788497694983,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rjykqs"
     },
     {
@@ -382,16 +402,6 @@
       "place": "1 km WSW of Pāhala, Hawaii",
       "time": 1788488348230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75028972"
-    },
-    {
-      "id": "tx2026rjtfnn",
-      "lon": -98.128,
-      "lat": 28.481,
-      "depth": 0,
-      "mag": 1.6,
-      "place": "5 km ENE of Three Rivers, Texas",
-      "time": 1788488286736,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rjtfnn"
     },
     {
       "id": "aka2026rmnulv",
@@ -3482,46 +3492,6 @@
       "place": "21 km SE of Pāhala, Hawaii",
       "time": 1788420042450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75028577"
-    },
-    {
-      "id": "aka2026rlbtke",
-      "lon": -149.791,
-      "lat": 64.559,
-      "depth": 12.1,
-      "mag": 2.3,
-      "place": "32 km W of Four Mile Road, Alaska",
-      "time": 1788419490444,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlbtke"
-    },
-    {
-      "id": "nc75429102",
-      "lon": -122.498832702637,
-      "lat": 38.6803321838379,
-      "depth": 6.76999998092651,
-      "mag": 1.18,
-      "place": "12 km NNW of Angwin, CA",
-      "time": 1788419391110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429102"
-    },
-    {
-      "id": "uu80153726",
-      "lon": -112.059666666667,
-      "lat": 39.4335,
-      "depth": 8.36,
-      "mag": 0.9,
-      "place": "21 km N of Scipio, Utah",
-      "time": 1788419241340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80153726"
-    },
-    {
-      "id": "aka2026rlbndn",
-      "lon": -151.334,
-      "lat": 62.478,
-      "depth": 89.3,
-      "mag": 1.6,
-      "place": "29 km W of Petersville, Alaska",
-      "time": 1788419068227,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlbndn"
     }
   ]
 }
