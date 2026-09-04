@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-04T13:01:10Z",
-  "count": 305,
+  "updated": "2026-09-04T13:15:48Z",
+  "count": 301,
   "points": [
+    {
+      "id": "nc75429642",
+      "lon": -122.766502380371,
+      "lat": 38.8110008239746,
+      "depth": 20.0400009155273,
+      "mag": 0.41,
+      "place": "4 km NNW of The Geysers, CA",
+      "time": 1788527548410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429642"
+    },
+    {
+      "id": "hv75029237",
+      "lon": -155.350006103516,
+      "lat": 19.0666675567627,
+      "depth": 31.1000003814697,
+      "mag": 1.74,
+      "place": "20 km SE of Pāhala, Hawaii",
+      "time": 1788527338690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029237"
+    },
     {
       "id": "tx2026rknvhw",
       "lon": -104.463,
-      "lat": 31.632,
-      "depth": 3.7757,
+      "lat": 31.631,
+      "depth": 3.7823,
       "mag": 1.8,
       "place": "60 km S of Whites City, New Mexico",
-      "time": 1788525591783,
+      "time": 1788525591779,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rknvhw"
     },
     {
@@ -352,16 +372,6 @@
       "place": "26 km SW of Ackerly, Texas",
       "time": 1788508523259,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rkejxo"
-    },
-    {
-      "id": "tx2026rkejbr",
-      "lon": -103.838,
-      "lat": 31.268,
-      "depth": 0,
-      "mag": 1.7,
-      "place": "6 km SW of Toyah, Texas",
-      "time": 1788508446159,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rkejbr"
     },
     {
       "id": "ci41541632",
@@ -3002,56 +3012,6 @@
       "place": "57 km SSW of Skwentna, Alaska",
       "time": 1788441571880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94415168"
-    },
-    {
-      "id": "ci41541240",
-      "lon": -117.802666666667,
-      "lat": 35.3293333333333,
-      "depth": 6.12,
-      "mag": 1.44,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": 1788441318790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541240"
-    },
-    {
-      "id": "tx2026ritaeo",
-      "lon": -102.173,
-      "lat": 32.365,
-      "depth": 9.0088,
-      "mag": 0.4,
-      "place": "34 km ENE of McKinney Acres, Texas",
-      "time": 1788440846485,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ritaeo"
-    },
-    {
-      "id": "tx2026riszdv",
-      "lon": -101.684,
-      "lat": 32.174,
-      "depth": 8.96,
-      "mag": 0.9,
-      "place": "11 km ENE of Stanton, Texas",
-      "time": 1788440771292,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026riszdv"
-    },
-    {
-      "id": "us7000tdys",
-      "lon": -169.1988,
-      "lat": 52.0562,
-      "depth": 10,
-      "mag": 5.2,
-      "place": "100 km SSW of Nikolski, Alaska",
-      "time": 1788440598659,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdys"
-    },
-    {
-      "id": "aka2026rlnlbg",
-      "lon": -169.16,
-      "lat": 52.078,
-      "depth": 1.7,
-      "mag": 3.9,
-      "place": "97 km SSW of Nikolski, Alaska",
-      "time": 1788440508110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlnlbg"
     }
   ]
 }
