@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-04T08:15:47Z",
-  "count": 347,
+  "updated": "2026-09-04T08:31:06Z",
+  "count": 344,
   "points": [
+    {
+      "id": "aka2026rnahlg",
+      "lon": -154.536,
+      "lat": 57.665,
+      "depth": 57.2,
+      "mag": 1.4,
+      "place": "11 km NNW of Karluk, Alaska",
+      "time": 1788510429237,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnahlg"
+    },
     {
       "id": "nc75429552",
       "lon": -122.876831054688,
@@ -282,6 +292,16 @@
       "place": "4 km NNW of The Geysers, CA",
       "time": 1788495343240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429487"
+    },
+    {
+      "id": "tx2026rjxapf",
+      "lon": -102.105,
+      "lat": 32.097,
+      "depth": 8.7402,
+      "mag": 0.8,
+      "place": "11 km NNW of Midland, Texas",
+      "time": 1788495191746,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rjxapf"
     },
     {
       "id": "ci41541616",
@@ -3422,56 +3442,6 @@
       "place": "6 km NE of North Shore, CA",
       "time": 1788424876740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541144"
-    },
-    {
-      "id": "nc75429117",
-      "lon": -122.780670166016,
-      "lat": 38.8386650085449,
-      "depth": 1.6599999666214,
-      "mag": 0.63,
-      "place": "5 km WNW of Cobb, CA",
-      "time": 1788424030990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429117"
-    },
-    {
-      "id": "pr71530713",
-      "lon": -66.8268333333333,
-      "lat": 17.9928333333333,
-      "depth": 16.02,
-      "mag": 2.36,
-      "place": "0 km W of Indios, Puerto Rico",
-      "time": 1788423903720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71530713"
-    },
-    {
-      "id": "av94414813",
-      "lon": -151.846166666667,
-      "lat": 61.5558333333333,
-      "depth": 14.96,
-      "mag": 0.65,
-      "place": "53 km SSW of Skwentna, Alaska",
-      "time": 1788423769810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94414813"
-    },
-    {
-      "id": "hv75028602",
-      "lon": -155.3575,
-      "lat": 19.0416666666667,
-      "depth": 32.29,
-      "mag": 2.15,
-      "place": "21 km SE of Pāhala, Hawaii",
-      "time": 1788423611340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75028602"
-    },
-    {
-      "id": "us7000tdv4",
-      "lon": 80.33,
-      "lat": 31.3618,
-      "depth": 10,
-      "mag": 5.1,
-      "place": "115 km NE of Joshīmath, India",
-      "time": 1788423396417,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdv4"
     }
   ]
 }
