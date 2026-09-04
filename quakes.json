@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-04T15:15:42Z",
-  "count": 284,
+  "updated": "2026-09-04T15:30:53Z",
+  "count": 286,
   "points": [
+    {
+      "id": "nc75429682",
+      "lon": -123.313667297363,
+      "lat": 39.4431648254395,
+      "depth": -0.270000010728836,
+      "mag": 2.29,
+      "place": "5 km NE of Willits, CA",
+      "time": 1788535647400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429682"
+    },
+    {
+      "id": "nc75429677",
+      "lon": -122.847831726074,
+      "lat": 38.8461685180664,
+      "depth": 1.5900000333786,
+      "mag": 0.73,
+      "place": "11 km NW of The Geysers, CA",
+      "time": 1788535441620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429677"
+    },
+    {
+      "id": "aka2026rnoelc",
+      "lon": -150.464,
+      "lat": 61.074,
+      "depth": 59.8,
+      "mag": 2.1,
+      "place": "20 km NE of Point Possession, Alaska",
+      "time": 1788535411626,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnoelc"
+    },
     {
       "id": "hv75029287",
       "lon": -155.502670288086,
@@ -205,12 +235,12 @@
     },
     {
       "id": "aka2026rnhuko",
-      "lon": -148.838,
-      "lat": 63.518,
-      "depth": 5,
+      "lon": -148.831,
+      "lat": 63.532,
+      "depth": 4.3,
       "mag": 3,
-      "place": "15 km NNE of Cantwell, Alaska",
-      "time": 1788523913837,
+      "place": "16 km NNE of Cantwell, Alaska",
+      "time": 1788523914197,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnhuko"
     },
     {
@@ -1894,6 +1924,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80153986"
     },
     {
+      "id": "tx2026rjfqei",
+      "lon": -101.849,
+      "lat": 32.306,
+      "depth": 5.835,
+      "mag": 0.8,
+      "place": "20 km NNW of Stanton, Texas",
+      "time": 1788463708284,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rjfqei"
+    },
+    {
       "id": "aka2026rmahsg",
       "lon": -169.3,
       "lat": 52.319,
@@ -2822,26 +2862,6 @@
       "place": "61 km WNW of Tyonek, Alaska",
       "time": 1788449945270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93066524"
-    },
-    {
-      "id": "aka2026rlsgph",
-      "lon": -152.72,
-      "lat": 59.34,
-      "depth": 75.1,
-      "mag": 1.5,
-      "place": "45 km W of Nanwalek, Alaska",
-      "time": 1788449188589,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlsgph"
-    },
-    {
-      "id": "aka2026rlseop",
-      "lon": -168.979,
-      "lat": 52.244,
-      "depth": 3.8,
-      "mag": 2.8,
-      "place": "77 km S of Nikolski, Alaska",
-      "time": 1788449051446,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlseop"
     }
   ]
 }
