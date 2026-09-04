@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-04T13:15:48Z",
-  "count": 301,
+  "updated": "2026-09-04T13:31:06Z",
+  "count": 299,
   "points": [
+    {
+      "id": "aka2026rnkfes",
+      "lon": -141.291,
+      "lat": 60.293,
+      "depth": 5,
+      "mag": 1.1,
+      "place": "120 km NW of Yakutat, Alaska",
+      "time": 1788528258127,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnkfes"
+    },
     {
       "id": "nc75429642",
       "lon": -122.766502380371,
@@ -422,6 +432,16 @@
       "place": "26 km NW of Eureka Roadhouse, Alaska",
       "time": 1788504650430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmxbzu"
+    },
+    {
+      "id": "us7000te8p",
+      "lon": -68.5636,
+      "lat": -21.3768,
+      "depth": 130.651,
+      "mag": 4.5,
+      "place": "36 km WSW of Ollagüe, Chile",
+      "time": 1788504486994,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te8p"
     },
     {
       "id": "us7000te8r",
@@ -2972,46 +2992,6 @@
       "place": "19 km SE of Pāhala, Hawaii",
       "time": 1788442328720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75028682"
-    },
-    {
-      "id": "us7000tdzd",
-      "lon": -169.2616,
-      "lat": 52.0887,
-      "depth": 10,
-      "mag": 3.9,
-      "place": "98 km SSW of Nikolski, Alaska",
-      "time": 1788442037340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdzd"
-    },
-    {
-      "id": "aka2026rlofdr",
-      "lon": -153.869,
-      "lat": 58.735,
-      "depth": 98.5,
-      "mag": 1.5,
-      "place": "93 km NW of Aleneva, Alaska",
-      "time": 1788441895373,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlofdr"
-    },
-    {
-      "id": "us7000tdzc",
-      "lon": -169.3422,
-      "lat": 52.1435,
-      "depth": 10,
-      "mag": 3.6,
-      "place": "94 km SSW of Nikolski, Alaska",
-      "time": 1788441625974,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdzc"
-    },
-    {
-      "id": "av94415168",
-      "lon": -151.911166666667,
-      "lat": 61.5393333333333,
-      "depth": 12.55,
-      "mag": 0.36,
-      "place": "57 km SSW of Skwentna, Alaska",
-      "time": 1788441571880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94415168"
     }
   ]
 }
