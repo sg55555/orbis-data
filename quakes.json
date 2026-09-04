@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-04T13:45:50Z",
-  "count": 296,
+  "updated": "2026-09-04T14:01:07Z",
+  "count": 293,
   "points": [
+    {
+      "id": "uw714094662",
+      "lon": -121.917833333333,
+      "lat": 48.0876666666667,
+      "depth": -0.23991,
+      "mag": 1.21,
+      "place": "3 km E of Granite Falls, Washington",
+      "time": 1788528673910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714094662"
+    },
     {
       "id": "ci41541664",
       "lon": -119.382,
@@ -112,6 +122,16 @@
       "place": "24 km NNW of Tehachapi, CA",
       "time": 1788523498220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541656"
+    },
+    {
+      "id": "us7000te9w",
+      "lon": -143.6297,
+      "lat": 69.4177,
+      "depth": 5,
+      "mag": 2.5,
+      "place": "79 km S of Kaktovik, Alaska",
+      "time": 1788523469875,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te9w"
     },
     {
       "id": "us7000te9t",
@@ -1265,12 +1285,12 @@
     },
     {
       "id": "tx2026rjmsif",
-      "lon": -104.412,
-      "lat": 31.627,
-      "depth": 3.8171,
-      "mag": 2.7,
-      "place": "60 km S of Whites City, New Mexico",
-      "time": 1788476520152,
+      "lon": -104.387,
+      "lat": 31.656,
+      "depth": 6.0999,
+      "mag": 2.5,
+      "place": "57 km S of Whites City, New Mexico",
+      "time": 1788476520297,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rjmsif"
     },
     {
@@ -2912,56 +2932,6 @@
       "place": "89 km SSW of Nikolski, Alaska",
       "time": 1788444155773,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlplvh"
-    },
-    {
-      "id": "nn00924154",
-      "lon": -119.6718,
-      "lat": 38.9264,
-      "depth": 9.2454,
-      "mag": 1.72,
-      "place": "3 km SE of East Valley, Nevada",
-      "time": 1788443911049,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924154"
-    },
-    {
-      "id": "aka2026rlpgrs",
-      "lon": -169.117,
-      "lat": 52.293,
-      "depth": 18.6,
-      "mag": 2.9,
-      "place": "73 km SSW of Nikolski, Alaska",
-      "time": 1788443803826,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlpgrs"
-    },
-    {
-      "id": "ok2026rgro",
-      "lon": -97.6465,
-      "lat": 35.01983333,
-      "depth": 7.14,
-      "mag": 1.5,
-      "place": "2 km SW of Dibble, Oklahoma",
-      "time": 1788443298539,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026rgro"
-    },
-    {
-      "id": "ci41541248",
-      "lon": -116.412,
-      "lat": 33.0306666666667,
-      "depth": 8.97,
-      "mag": 1.14,
-      "place": "18 km ESE of Julian, CA",
-      "time": 1788443242890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541248"
-    },
-    {
-      "id": "us7000tdz8",
-      "lon": 169.3059,
-      "lat": -20.1366,
-      "depth": 112.706,
-      "mag": 4.8,
-      "place": "65 km S of Isangel, Vanuatu",
-      "time": 1788443230246,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdz8"
     }
   ]
 }
