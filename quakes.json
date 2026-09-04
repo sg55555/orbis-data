@@ -1,14 +1,24 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-04T12:15:45Z",
+  "updated": "2026-09-04T12:31:02Z",
   "count": 311,
   "points": [
+    {
+      "id": "hv75029197",
+      "lon": -155.487167358398,
+      "lat": 19.1631660461426,
+      "depth": 12.7399997711182,
+      "mag": 3.42,
+      "place": "4 km SSW of Pāhala, Hawaii",
+      "time": 1788524433140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029197"
+    },
     {
       "id": "aka2026rnhuko",
       "lon": -148.838,
       "lat": 63.518,
       "depth": 5,
-      "mag": 2.9,
+      "mag": 3,
       "place": "15 km NNE of Cantwell, Alaska",
       "time": 1788523913837,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnhuko"
@@ -52,6 +62,16 @@
       "place": "24 km NNW of Tehachapi, CA",
       "time": 1788523498220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541656"
+    },
+    {
+      "id": "us7000te9t",
+      "lon": -176.6452,
+      "lat": -28.5616,
+      "depth": 10,
+      "mag": 5.4,
+      "place": "Kermadec Islands region",
+      "time": 1788523198323,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te9t"
     },
     {
       "id": "nc75429632",
@@ -3092,26 +3112,6 @@
       "place": "19 km ESE of Julian, CA",
       "time": 1788438747980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541232"
-    },
-    {
-      "id": "aka2026rlmfcq",
-      "lon": -169.242,
-      "lat": 52.231,
-      "depth": 10.6,
-      "mag": 2.9,
-      "place": "82 km SSW of Nikolski, Alaska",
-      "time": 1788438292815,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlmfcq"
-    },
-    {
-      "id": "aka2026rllxdm",
-      "lon": -169.338,
-      "lat": 52.072,
-      "depth": 23.3,
-      "mag": 3.1,
-      "place": "101 km SSW of Nikolski, Alaska",
-      "time": 1788437738492,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rllxdm"
     }
   ]
 }
