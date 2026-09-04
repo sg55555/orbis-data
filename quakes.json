@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-04T13:31:06Z",
-  "count": 299,
+  "updated": "2026-09-04T13:45:50Z",
+  "count": 296,
   "points": [
+    {
+      "id": "ci41541664",
+      "lon": -119.382,
+      "lat": 34.5853333333333,
+      "depth": 4.28,
+      "mag": 1.18,
+      "place": "20 km NW of Ojai, CA",
+      "time": 1788528644820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541664"
+    },
     {
       "id": "aka2026rnkfes",
       "lon": -141.291,
@@ -322,6 +332,16 @@
       "place": "46 km ESE of Denali Park, Alaska",
       "time": 1788511915760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnbdam"
+    },
+    {
+      "id": "us7000te95",
+      "lon": 120.0504,
+      "lat": 15.1784,
+      "depth": 61.292,
+      "mag": 4.7,
+      "place": "2 km NNW of Cabangan, Philippines",
+      "time": 1788511683904,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te95"
     },
     {
       "id": "aka2026rnaxxv",
@@ -2942,56 +2962,6 @@
       "place": "65 km S of Isangel, Vanuatu",
       "time": 1788443230246,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdz8"
-    },
-    {
-      "id": "nn00924152",
-      "lon": -117.8004,
-      "lat": 37.1519,
-      "depth": 0,
-      "mag": 1.73,
-      "place": "43 km E of Big Pine, California",
-      "time": 1788443069040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924152"
-    },
-    {
-      "id": "us7000tdzf",
-      "lon": -169.1272,
-      "lat": 52.1248,
-      "depth": 10,
-      "mag": 3.4,
-      "place": "92 km S of Nikolski, Alaska",
-      "time": 1788442852882,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdzf"
-    },
-    {
-      "id": "aka2026rlosve",
-      "lon": -153.315,
-      "lat": 59.822,
-      "depth": 128.7,
-      "mag": 2.3,
-      "place": "44 km E of Pedro Bay, Alaska",
-      "time": 1788442842857,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlosve"
-    },
-    {
-      "id": "aka2026rlomui",
-      "lon": -169.067,
-      "lat": 52.164,
-      "depth": 7.2,
-      "mag": 2.9,
-      "place": "87 km S of Nikolski, Alaska",
-      "time": 1788442475650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlomui"
-    },
-    {
-      "id": "hv75028682",
-      "lon": -155.353,
-      "lat": 19.0685,
-      "depth": 31.91,
-      "mag": 2.61,
-      "place": "19 km SE of Pāhala, Hawaii",
-      "time": 1788442328720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75028682"
     }
   ]
 }
