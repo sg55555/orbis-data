@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-05T09:15:45Z",
-  "count": 254,
+  "updated": "2026-09-05T09:30:53Z",
+  "count": 253,
   "points": [
+    {
+      "id": "nc75430107",
+      "lon": -121.189331054688,
+      "lat": 36.5716667175293,
+      "depth": 3.30999994277954,
+      "mag": 1.87,
+      "place": "6 km NW of Pinnacles, CA",
+      "time": 1788600408200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430107"
+    },
+    {
+      "id": "nc75430102",
+      "lon": -122.75,
+      "lat": 38.7696647644043,
+      "depth": 7.34999990463257,
+      "mag": 0.94,
+      "place": "1 km SSE of The Geysers, CA",
+      "time": 1788599760650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430102"
+    },
     {
       "id": "nn00924209",
       "lon": -116.7306,
@@ -92,6 +112,16 @@
       "place": "4 km ESE of Roseland, CA",
       "time": 1788596605980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430077"
+    },
+    {
+      "id": "us7000tei5",
+      "lon": -67.7185,
+      "lat": -21.273,
+      "depth": 217.301,
+      "mag": 4.3,
+      "place": "55 km E of Ollagüe, Chile",
+      "time": 1788595981712,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tei5"
     },
     {
       "id": "hv75029617",
@@ -2502,46 +2532,6 @@
       "place": "12 km NE of Ashford, Washington",
       "time": 1788514251810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714094622"
-    },
-    {
-      "id": "uw714094612",
-      "lon": -124.999833333333,
-      "lat": 45.233,
-      "depth": 3.9,
-      "mag": 2.55,
-      "place": "81 km W of Neskowin, Oregon",
-      "time": 1788513978360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714094612"
-    },
-    {
-      "id": "us7000te9b",
-      "lon": -129.0824,
-      "lat": 43.6383,
-      "depth": 10,
-      "mag": 3.7,
-      "place": "off the coast of Oregon",
-      "time": 1788513932587,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te9b"
-    },
-    {
-      "id": "aka2026rncfrf",
-      "lon": -169.246,
-      "lat": 52.187,
-      "depth": 12.3,
-      "mag": 3.5,
-      "place": "87 km SSW of Nikolski, Alaska",
-      "time": 1788513921625,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rncfrf"
-    },
-    {
-      "id": "ok2026ried",
-      "lon": -97.63633333,
-      "lat": 35.01333333,
-      "depth": 10.24,
-      "mag": 3.29,
-      "place": "2 km SSW of Dibble, Oklahoma",
-      "time": 1788513420960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ried"
     }
   ]
 }
