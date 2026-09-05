@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-05T00:15:41Z",
+  "updated": "2026-09-05T00:30:54Z",
   "count": 296,
   "points": [
+    {
+      "id": "tx2026rlkxqz",
+      "lon": -104.418,
+      "lat": 31.638,
+      "depth": 4.1334,
+      "mag": 1.8,
+      "place": "59 km S of Whites City, New Mexico",
+      "time": 1788567394176,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rlkxqz"
+    },
     {
       "id": "nc75429942",
       "lon": -122.824501037598,
@@ -734,16 +744,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rkvnmm"
     },
     {
-      "id": "aka2026rnqlnn",
-      "lon": -143.064,
-      "lat": 60.512,
-      "depth": 5,
-      "mag": 1.3,
-      "place": "102 km S of McCarthy, Alaska",
-      "time": 1788539492547,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnqlnn"
-    },
-    {
       "id": "us7000teck",
       "lon": 99.0453,
       "lat": 1.3758,
@@ -762,6 +762,16 @@
       "place": "11 km WSW of Stanton, Texas",
       "time": 1788538683909,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rkvbhb"
+    },
+    {
+      "id": "aka2026rnpqqh",
+      "lon": -139.537,
+      "lat": 60.423,
+      "depth": 0.7,
+      "mag": 2.1,
+      "place": "98 km N of Yakutat, Alaska",
+      "time": 1788538045102,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnpqqh"
     },
     {
       "id": "uw714094732",
@@ -824,6 +834,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924188"
     },
     {
+      "id": "aka2026rnoniu",
+      "lon": -169.436,
+      "lat": 52.04,
+      "depth": 20.2,
+      "mag": 3.1,
+      "place": "107 km SSW of Nikolski, Alaska",
+      "time": 1788536024590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnoniu"
+    },
+    {
       "id": "nc75429682",
       "lon": -123.313667297363,
       "lat": 39.4431648254395,
@@ -855,13 +875,23 @@
     },
     {
       "id": "aka2026rnoelc",
-      "lon": -150.464,
-      "lat": 61.074,
-      "depth": 59.8,
+      "lon": -150.466,
+      "lat": 61.073,
+      "depth": 62,
       "mag": 2.1,
       "place": "20 km NE of Point Possession, Alaska",
-      "time": 1788535411626,
+      "time": 1788535411567,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnoelc"
+    },
+    {
+      "id": "aka2026rnnynn",
+      "lon": -152.732,
+      "lat": 59.908,
+      "depth": 100,
+      "mag": 1.7,
+      "place": "52 km WNW of Anchor Point, Alaska",
+      "time": 1788534993862,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnnynn"
     },
     {
       "id": "hv75029287",
@@ -2932,36 +2962,6 @@
       "place": "6 km SE of Ontario, CA",
       "time": 1788482070110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541536"
-    },
-    {
-      "id": "aka2026rmkemu",
-      "lon": -169.322,
-      "lat": 52.063,
-      "depth": 24.6,
-      "mag": 2.9,
-      "place": "102 km SSW of Nikolski, Alaska",
-      "time": 1788481426291,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmkemu"
-    },
-    {
-      "id": "aka2026rmkbgh",
-      "lon": -156.175,
-      "lat": 57.595,
-      "depth": 5,
-      "mag": 1.9,
-      "place": "73 km E of Ugashik, Alaska",
-      "time": 1788481206038,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmkbgh"
-    },
-    {
-      "id": "nc75429402",
-      "lon": -122.762336730957,
-      "lat": 38.8261680603027,
-      "depth": 1.97000002861023,
-      "mag": 1.07,
-      "place": "3 km W of Cobb, CA",
-      "time": 1788481121020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429402"
     }
   ]
 }
