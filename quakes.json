@@ -1,8 +1,88 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-04T23:45:38Z",
-  "count": 285,
+  "updated": "2026-09-05T00:01:12Z",
+  "count": 295,
   "points": [
+    {
+      "id": "nc75429937",
+      "lon": -122.783332824707,
+      "lat": 38.8136672973633,
+      "depth": 0.670000016689301,
+      "mag": 0.75,
+      "place": "5 km NNW of The Geysers, CA",
+      "time": 1788565811560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429937"
+    },
+    {
+      "id": "aka2026roeyxq",
+      "lon": -153.071,
+      "lat": 60.131,
+      "depth": 124.7,
+      "mag": 1,
+      "place": "69 km ENE of Pedro Bay, Alaska",
+      "time": 1788565619400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026roeyxq"
+    },
+    {
+      "id": "nc75429927",
+      "lon": -122.848831176758,
+      "lat": 38.8501663208008,
+      "depth": 2.5,
+      "mag": 0.65,
+      "place": "11 km WNW of Cobb, CA",
+      "time": 1788565588030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429927"
+    },
+    {
+      "id": "nc75429922",
+      "lon": -122.824333190918,
+      "lat": 38.8421669006348,
+      "depth": 1.78999996185303,
+      "mag": 0.62,
+      "place": "9 km WNW of Cobb, CA",
+      "time": 1788565532330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429922"
+    },
+    {
+      "id": "nc75429917",
+      "lon": -122.810501098633,
+      "lat": 38.8153343200684,
+      "depth": 1.46000003814697,
+      "mag": 0.82,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1788565443570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429917"
+    },
+    {
+      "id": "tx2026rljrhh",
+      "lon": -104.381,
+      "lat": 31.657,
+      "depth": 4.6695,
+      "mag": 1.6,
+      "place": "57 km S of Whites City, New Mexico",
+      "time": 1788565340973,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rljrhh"
+    },
+    {
+      "id": "us7000tefw",
+      "lon": -40.8475,
+      "lat": 9.4666,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "central Mid-Atlantic Ridge",
+      "time": 1788565120818,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefw"
+    },
+    {
+      "id": "pr71530898",
+      "lon": -66.4545,
+      "lat": 19.0521666666667,
+      "depth": 11.07,
+      "mag": 2.94,
+      "place": "65 km N of Tierras Nuevas Poniente, Puerto Rico",
+      "time": 1788565038230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71530898"
+    },
     {
       "id": "tx2026rljmdb",
       "lon": -103.938,
@@ -72,6 +152,16 @@
       "place": "58 km S of Whites City, New Mexico",
       "time": 1788564122149,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rljclq"
+    },
+    {
+      "id": "tx2026rlixcu",
+      "lon": -101.902,
+      "lat": 32.488,
+      "depth": 2.9874,
+      "mag": 1.3,
+      "place": "17 km WSW of Ackerly, Texas",
+      "time": 1788563724401,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rlixcu"
     },
     {
       "id": "tx2026rliwah",
@@ -945,12 +1035,12 @@
     },
     {
       "id": "uw714094672",
-      "lon": -121.769,
-      "lat": 46.8453333333333,
-      "depth": 0.25,
+      "lon": -121.768833333333,
+      "lat": 46.8455,
+      "depth": 0.23,
       "mag": 0.48,
       "place": "22 km ENE of Ashford, Washington",
-      "time": 1788529406490,
+      "time": 1788529406500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714094672"
     },
     {
@@ -1022,6 +1112,26 @@
       "place": "20 km SE of Pāhala, Hawaii",
       "time": 1788527338690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029237"
+    },
+    {
+      "id": "av93066544",
+      "lon": -166.9275,
+      "lat": 53.8821666666667,
+      "depth": 38.91,
+      "mag": -0.02,
+      "place": "25 km W of Dutch Harbor, Alaska",
+      "time": 1788526469140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93066544"
+    },
+    {
+      "id": "av94416783",
+      "lon": -159.326666666667,
+      "lat": 56.0461666666667,
+      "depth": 13.9,
+      "mag": 0.59,
+      "place": "18 km NNE of Ivanof Bay, Alaska",
+      "time": 1788525876000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94416783"
     },
     {
       "id": "tx2026rknxoc",
@@ -2842,16 +2952,6 @@
       "place": "100 km SSW of Nikolski, Alaska",
       "time": 1788480104828,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmjlix"
-    },
-    {
-      "id": "aka2026rmixqy",
-      "lon": -146.948,
-      "lat": 64.918,
-      "depth": 10.5,
-      "mag": 1.4,
-      "place": "5 km NW of Pleasant Valley, Alaska",
-      "time": 1788479157792,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmixqy"
     }
   ]
 }
