@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-05T12:45:40Z",
-  "count": 238,
+  "updated": "2026-09-05T13:01:40Z",
+  "count": 242,
   "points": [
+    {
+      "id": "nc75430167",
+      "lon": -122.817497253418,
+      "lat": 38.8305015563965,
+      "depth": 2.11999988555908,
+      "mag": 0.68,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1788612638220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430167"
+    },
+    {
+      "id": "hv75029692",
+      "lon": -155.460327148438,
+      "lat": 19.1461658477783,
+      "depth": 28.7800006866455,
+      "mag": 1.88,
+      "place": "6 km SSE of Pāhala, Hawaii",
+      "time": 1788612621010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029692"
+    },
+    {
+      "id": "hv75029677",
+      "lon": -155.486999511719,
+      "lat": 19.9306659698486,
+      "depth": 34.8300018310547,
+      "mag": 1.91,
+      "place": "16 km S of Honoka‘a, Hawaii",
+      "time": 1788612376980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029677"
+    },
     {
       "id": "tx2026rmjpfk",
       "lon": -104.588,
@@ -52,6 +82,16 @@
       "place": "83 km NW of Karluk, Alaska",
       "time": 1788610250710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rpdubn"
+    },
+    {
+      "id": "tx2026rmiixq",
+      "lon": -101.926,
+      "lat": 32.398,
+      "depth": 3.6533,
+      "mag": 1.1,
+      "place": "24 km SW of Ackerly, Texas",
+      "time": 1788609822103,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rmiixq"
     },
     {
       "id": "us7000tej2",
@@ -472,6 +512,16 @@
       "place": "10 km WNW of The Geysers, CA",
       "time": 1788593461420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430062"
+    },
+    {
+      "id": "pr71530998",
+      "lon": -66.9945,
+      "lat": 17.8883333333333,
+      "depth": 9.43,
+      "mag": 1.64,
+      "place": "11 km SSE of La Parguera, Puerto Rico",
+      "time": 1788593372660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71530998"
     },
     {
       "id": "us7000tei1",
@@ -1025,12 +1075,12 @@
     },
     {
       "id": "us7000tefx",
-      "lon": 149.8346,
-      "lat": 44.9792,
-      "depth": 36.429,
+      "lon": 149.9838,
+      "lat": 44.9418,
+      "depth": 32,
       "mag": 5.5,
-      "place": "156 km E of Kuril’sk, Russia",
-      "time": 1788565950886,
+      "place": "168 km ESE of Kuril’sk, Russia",
+      "time": 1788565949825,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx"
     },
     {
@@ -2372,16 +2422,6 @@
       "place": "20 km SE of Pāhala, Hawaii",
       "time": 1788527338690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029237"
-    },
-    {
-      "id": "av93066544",
-      "lon": -166.9275,
-      "lat": 53.8821666666667,
-      "depth": 38.91,
-      "mag": -0.02,
-      "place": "25 km W of Dutch Harbor, Alaska",
-      "time": 1788526469140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93066544"
     }
   ]
 }
