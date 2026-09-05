@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-05T14:01:07Z",
-  "count": 236,
+  "updated": "2026-09-05T14:15:48Z",
+  "count": 232,
   "points": [
+    {
+      "id": "nc75430187",
+      "lon": -122.815170288086,
+      "lat": 38.8303337097168,
+      "depth": 1.66999995708466,
+      "mag": 0.91,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1788617380160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430187"
+    },
     {
       "id": "hv75029717",
       "lon": -155.325332641602,
@@ -2312,56 +2322,6 @@
       "place": "8 km W of Dutch Harbor, Alaska",
       "time": 1788532077290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94416863"
-    },
-    {
-      "id": "aka2026rnlsie",
-      "lon": -150.634,
-      "lat": 62.825,
-      "depth": 92.8,
-      "mag": 2.5,
-      "place": "37 km N of Petersville, Alaska",
-      "time": 1788530992780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnlsie"
-    },
-    {
-      "id": "aka2026rnlrwj",
-      "lon": -169.168,
-      "lat": 52.07,
-      "depth": 9.7,
-      "mag": 3.1,
-      "place": "98 km SSW of Nikolski, Alaska",
-      "time": 1788530928133,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnlrwj"
-    },
-    {
-      "id": "hv75029252",
-      "lon": -155.385162353516,
-      "lat": 19.0403327941895,
-      "depth": 29.5100002288818,
-      "mag": 2.04,
-      "place": "20 km SSE of Pāhala, Hawaii",
-      "time": 1788530855800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029252"
-    },
-    {
-      "id": "pr71530888",
-      "lon": -67.6021666666667,
-      "lat": 18.8636666666667,
-      "depth": 5.91,
-      "mag": 3.21,
-      "place": "67 km NW of San Antonio, Puerto Rico",
-      "time": 1788530816420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71530888"
-    },
-    {
-      "id": "hv75029247",
-      "lon": -155.393173217773,
-      "lat": 19.2695007324219,
-      "depth": 28.8099994659424,
-      "mag": 1.84,
-      "place": "11 km NE of Pāhala, Hawaii",
-      "time": 1788530591830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029247"
     }
   ]
 }
