@@ -1,8 +1,58 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-05T08:15:41Z",
-  "count": 260,
+  "updated": "2026-09-05T08:30:51Z",
+  "count": 264,
   "points": [
+    {
+      "id": "ci41541832",
+      "lon": -116.400833129883,
+      "lat": 33.0516662597656,
+      "depth": 11.7299995422363,
+      "mag": 1.2533573663311,
+      "place": "19 km E of Julian, CA",
+      "time": 1788596843490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541832"
+    },
+    {
+      "id": "ci41541824",
+      "lon": -116.410166666667,
+      "lat": 33.0356666666667,
+      "depth": 10.59,
+      "mag": 1.07,
+      "place": "19 km ESE of Julian, CA",
+      "time": 1788596751420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541824"
+    },
+    {
+      "id": "nc75430082",
+      "lon": -122.811164855957,
+      "lat": 38.7948341369629,
+      "depth": 2.89000010490417,
+      "mag": 0.79,
+      "place": "5 km WNW of The Geysers, CA",
+      "time": 1788596696750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430082"
+    },
+    {
+      "id": "nc75430077",
+      "lon": -122.682830810547,
+      "lat": 38.4128341674805,
+      "depth": 6.78000020980835,
+      "mag": 1.61,
+      "place": "4 km ESE of Roseland, CA",
+      "time": 1788596605980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430077"
+    },
+    {
+      "id": "hv75029617",
+      "lon": -155.402328491211,
+      "lat": 19.2701663970947,
+      "depth": 27.9500007629395,
+      "mag": 1.76,
+      "place": "10 km NE of Pāhala, Hawaii",
+      "time": 1788595946190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029617"
+    },
     {
       "id": "aka2026rovuha",
       "lon": -141.281,
@@ -92,6 +142,16 @@
       "place": "77 km ESE of La Tirana, Chile",
       "time": 1788593303913,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tei1"
+    },
+    {
+      "id": "pr71530948",
+      "lon": -66.8666666666667,
+      "lat": 17.986,
+      "depth": 11.57,
+      "mag": 2.3,
+      "place": "2 km ENE of Maria Antonia, Puerto Rico",
+      "time": 1788593221650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71530948"
     },
     {
       "id": "nn00924206",
@@ -2582,26 +2642,6 @@
       "place": "7 km ENE of Fajardo, Puerto Rico",
       "time": 1788510682740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71530848"
-    },
-    {
-      "id": "aka2026rnahlg",
-      "lon": -154.591,
-      "lat": 57.706,
-      "depth": 60.6,
-      "mag": 1.6,
-      "place": "17 km NNW of Karluk, Alaska",
-      "time": 1788510429413,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnahlg"
-    },
-    {
-      "id": "aka2026rnaadr",
-      "lon": -168.993,
-      "lat": 52.31,
-      "depth": 4.8,
-      "mag": 2.7,
-      "place": "70 km S of Nikolski, Alaska",
-      "time": 1788509909125,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnaadr"
     }
   ]
 }
