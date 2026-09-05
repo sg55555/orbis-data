@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-05T13:15:39Z",
-  "count": 241,
+  "updated": "2026-09-05T13:30:52Z",
+  "count": 239,
   "points": [
+    {
+      "id": "nc75430172",
+      "lon": -120.94750213623,
+      "lat": 36.369499206543,
+      "depth": 9.22000026702881,
+      "mag": 1.95,
+      "place": "24 km NE of King City, CA",
+      "time": 1788614234810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430172"
+    },
     {
       "id": "us7000tejc",
       "lon": 167.1398,
@@ -2382,36 +2392,6 @@
       "place": "20 km NW of Ojai, CA",
       "time": 1788528644820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541664"
-    },
-    {
-      "id": "uw714094652",
-      "lon": -121.716833333333,
-      "lat": 46.6203333333333,
-      "depth": 11.79,
-      "mag": 0.49,
-      "place": "3 km WNW of Packwood, Washington",
-      "time": 1788528168060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714094652"
-    },
-    {
-      "id": "av94416798",
-      "lon": -153.086166666667,
-      "lat": 60.0463333333333,
-      "depth": 0.82,
-      "mag": -0.75,
-      "place": "63 km ENE of Pedro Bay, Alaska",
-      "time": 1788528046880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94416798"
-    },
-    {
-      "id": "uw714094642",
-      "lon": -122.5655,
-      "lat": 47.4896666666667,
-      "depth": 48.32,
-      "mag": 0.99,
-      "place": "4 km E of Bethel, Washington",
-      "time": 1788527921450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714094642"
     }
   ]
 }
