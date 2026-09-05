@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-05T14:15:48Z",
+  "updated": "2026-09-05T14:30:57Z",
   "count": 232,
   "points": [
+    {
+      "id": "aka2026rpiaeg",
+      "lon": -151.359,
+      "lat": 62.014,
+      "depth": 87.2,
+      "mag": 1.4,
+      "place": "3 km NE of Skwentna, Alaska",
+      "time": 1788617869814,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rpiaeg"
+    },
     {
       "id": "nc75430187",
       "lon": -122.815170288086,
@@ -12,6 +22,16 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1788617380160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430187"
+    },
+    {
+      "id": "pr71531003",
+      "lon": -66.8281666666667,
+      "lat": 17.974,
+      "depth": 12.53,
+      "mag": 2.1,
+      "place": "2 km SSW of Indios, Puerto Rico",
+      "time": 1788617128310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531003"
     },
     {
       "id": "hv75029717",
@@ -2302,26 +2322,6 @@
       "place": "41 km NW of Toyah, Texas",
       "time": 1788532268124,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rkrnbr"
-    },
-    {
-      "id": "tx2026rkrjjg",
-      "lon": -103.855,
-      "lat": 31.442,
-      "depth": 2.2034,
-      "mag": 1.5,
-      "place": "15 km NNW of Toyah, Texas",
-      "time": 1788532151408,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rkrjjg"
-    },
-    {
-      "id": "av94416863",
-      "lon": -166.667666666667,
-      "lat": 53.8991666666667,
-      "depth": 7.38,
-      "mag": 0.51,
-      "place": "8 km W of Dutch Harbor, Alaska",
-      "time": 1788532077290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94416863"
     }
   ]
 }
