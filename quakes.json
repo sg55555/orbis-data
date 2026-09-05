@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-05T02:01:03Z",
-  "count": 288,
+  "updated": "2026-09-05T02:15:37Z",
+  "count": 285,
   "points": [
+    {
+      "id": "tx2026rlonbq",
+      "lon": -103.262,
+      "lat": 31.214,
+      "depth": 4.2626,
+      "mag": 1.8,
+      "place": "19 km W of Coyanosa, Texas",
+      "time": 1788573901127,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rlonbq"
+    },
     {
       "id": "aka2026roixge",
       "lon": -139.375,
@@ -12,6 +22,16 @@
       "place": "91 km NNE of Yakutat, Alaska",
       "time": 1788572687808,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026roixge"
+    },
+    {
+      "id": "us7000tegg",
+      "lon": -177.8256,
+      "lat": -30.7935,
+      "depth": 33.579,
+      "mag": 4.8,
+      "place": "Kermadec Islands, New Zealand",
+      "time": 1788572461465,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tegg"
     },
     {
       "id": "nc75429957",
@@ -2832,56 +2852,6 @@
       "place": "137 km SW of Adak, Alaska",
       "time": 1788488105318,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmnwvu"
-    },
-    {
-      "id": "tx2026rjtafd",
-      "lon": -103.948,
-      "lat": 31.439,
-      "depth": 7.0227,
-      "mag": 1.1,
-      "place": "20 km NW of Toyah, Texas",
-      "time": 1788487914949,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rjtafd"
-    },
-    {
-      "id": "us7000te7h",
-      "lon": -169.3462,
-      "lat": 52.0842,
-      "depth": 35.755,
-      "mag": 3.8,
-      "place": "100 km SSW of Nikolski, Alaska",
-      "time": 1788487618275,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te7h"
-    },
-    {
-      "id": "ci41541584",
-      "lon": -116.319333333333,
-      "lat": 33.2605,
-      "depth": 11.67,
-      "mag": 0.54,
-      "place": "5 km E of Borrego Springs, CA",
-      "time": 1788487572060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541584"
-    },
-    {
-      "id": "aka2026rmnoyi",
-      "lon": -169.331,
-      "lat": 52.01,
-      "depth": 27.6,
-      "mag": 3.1,
-      "place": "108 km SSW of Nikolski, Alaska",
-      "time": 1788487548554,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmnoyi"
-    },
-    {
-      "id": "ci41541576",
-      "lon": -117.841,
-      "lat": 36.0705,
-      "depth": 4.1,
-      "mag": 0.76,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": 1788487492560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541576"
     }
   ]
 }
