@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-05T02:45:36Z",
-  "count": 281,
+  "updated": "2026-09-05T03:01:06Z",
+  "count": 280,
   "points": [
     {
       "id": "aka2026rokwol",
@@ -34,6 +34,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429972"
     },
     {
+      "id": "pr71530908",
+      "lon": -66.9276666666667,
+      "lat": 18.093,
+      "depth": 20.33,
+      "mag": 2.67,
+      "place": "3 km ENE of Sabana Grande, Puerto Rico",
+      "time": 1788574578000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71530908"
+    },
+    {
       "id": "nc75429967",
       "lon": -122.841499328613,
       "lat": 38.8230018615723,
@@ -45,12 +55,12 @@
     },
     {
       "id": "tx2026rlonbq",
-      "lon": -103.262,
-      "lat": 31.214,
-      "depth": 4.2626,
+      "lon": -103.265,
+      "lat": 31.215,
+      "depth": 4.6244,
       "mag": 1.8,
       "place": "19 km W of Coyanosa, Texas",
-      "time": 1788573901127,
+      "time": 1788573901013,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rlonbq"
     },
     {
@@ -662,6 +672,16 @@
       "place": "26 km SW of Ackerly, Texas",
       "time": 1788551279086,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rlcadf"
+    },
+    {
+      "id": "av94417238",
+      "lon": -152.276833333333,
+      "lat": 61.1873333333333,
+      "depth": 6.19,
+      "mag": -0.18,
+      "place": "62 km WNW of Tyonek, Alaska",
+      "time": 1788550832730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94417238"
     },
     {
       "id": "aka2026rnwtcx",
@@ -2782,36 +2802,6 @@
       "place": "6 km WNW of The Geysers, CA",
       "time": 1788490862280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429462"
-    },
-    {
-      "id": "aka2026rmpjyd",
-      "lon": -148.291,
-      "lat": 63.668,
-      "depth": 86.2,
-      "mag": 2.2,
-      "place": "31 km ESE of Denali Park, Alaska",
-      "time": 1788490803607,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmpjyd"
-    },
-    {
-      "id": "ci41541600",
-      "lon": -116.6345,
-      "lat": 33.4111666666667,
-      "depth": 7.09,
-      "mag": 0.59,
-      "place": "14 km N of Warner Springs, CA",
-      "time": 1788490567880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541600"
-    },
-    {
-      "id": "aka2026rmpbyg",
-      "lon": -169.258,
-      "lat": 51.927,
-      "depth": 18.5,
-      "mag": 3,
-      "place": "115 km SSW of Nikolski, Alaska",
-      "time": 1788490254740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmpbyg"
     }
   ]
 }
