@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-05T12:15:43Z",
-  "count": 236,
+  "updated": "2026-09-05T12:30:55Z",
+  "count": 239,
   "points": [
+    {
+      "id": "nc75430162",
+      "lon": -121.623832702637,
+      "lat": 36.9588317871094,
+      "depth": 4.51000022888184,
+      "mag": 1.73,
+      "place": "7 km SW of Gilroy, CA",
+      "time": 1788611262420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430162"
+    },
+    {
+      "id": "aka2026rpegoz",
+      "lon": -147.521,
+      "lat": 63.648,
+      "depth": 3.4,
+      "mag": 1.9,
+      "place": "69 km E of Denali Park, Alaska",
+      "time": 1788611116990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rpegoz"
+    },
     {
       "id": "aka2026rpdubn",
       "lon": -155.293,
@@ -105,12 +125,12 @@
     },
     {
       "id": "uw714095342",
-      "lon": -122.644833333333,
-      "lat": 46.245,
-      "depth": 17.18,
-      "mag": 3.94,
+      "lon": -122.643833333333,
+      "lat": 46.247,
+      "depth": 17.62,
+      "mag": 3.73,
       "place": "20 km E of Castle Rock, Washington",
-      "time": 1788606568290,
+      "time": 1788606568280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714095342"
     },
     {
@@ -172,6 +192,16 @@
       "place": "64 km ESE of Cantwell, Alaska",
       "time": 1788603760822,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rpaefz"
+    },
+    {
+      "id": "us7000tein",
+      "lon": -115.0117,
+      "lat": 44.2332,
+      "depth": 10,
+      "mag": 2.9,
+      "place": "6 km WNW of Stanley, Idaho",
+      "time": 1788602601433,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tein"
     },
     {
       "id": "nc75430127",
@@ -742,6 +772,16 @@
       "place": "20 km ESE of Anza, CA",
       "time": 1788577883720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541776"
+    },
+    {
+      "id": "pr71530933",
+      "lon": -67.4383333333333,
+      "lat": 19.1018333333333,
+      "depth": 5.96,
+      "mag": 3.36,
+      "place": "76 km NNW of San Antonio, Puerto Rico",
+      "time": 1788577836910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71530933"
     },
     {
       "id": "us7000tegq",
@@ -2352,16 +2392,6 @@
       "place": "57 km S of Whites City, New Mexico",
       "time": 1788525592111,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rknvhw"
-    },
-    {
-      "id": "hv75029197",
-      "lon": -155.487167358398,
-      "lat": 19.1631660461426,
-      "depth": 12.7399997711182,
-      "mag": 3.42,
-      "place": "4 km SSW of Pāhala, Hawaii",
-      "time": 1788524433140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029197"
     }
   ]
 }
