@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-05T13:01:40Z",
-  "count": 242,
+  "updated": "2026-09-05T13:15:39Z",
+  "count": 241,
   "points": [
+    {
+      "id": "us7000tejc",
+      "lon": 167.1398,
+      "lat": -14.435,
+      "depth": 166.28,
+      "mag": 4.4,
+      "place": "67 km N of Port-Olry, Vanuatu",
+      "time": 1788612905122,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tejc"
+    },
     {
       "id": "nc75430167",
       "lon": -122.817497253418,
@@ -2402,26 +2412,6 @@
       "place": "4 km E of Bethel, Washington",
       "time": 1788527921450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714094642"
-    },
-    {
-      "id": "nc75429642",
-      "lon": -122.766502380371,
-      "lat": 38.8110008239746,
-      "depth": 20.0400009155273,
-      "mag": 0.41,
-      "place": "4 km NNW of The Geysers, CA",
-      "time": 1788527548410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429642"
-    },
-    {
-      "id": "hv75029237",
-      "lon": -155.350006103516,
-      "lat": 19.0666675567627,
-      "depth": 31.1000003814697,
-      "mag": 1.74,
-      "place": "20 km SE of Pāhala, Hawaii",
-      "time": 1788527338690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029237"
     }
   ]
 }
