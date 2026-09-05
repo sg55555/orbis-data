@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-05T11:01:06Z",
-  "count": 239,
+  "updated": "2026-09-05T11:15:39Z",
+  "count": 240,
   "points": [
     {
+      "id": "tx2026rmgqkh",
+      "lon": -103.842,
+      "lat": 31.45,
+      "depth": 5.6357,
+      "mag": 1.3,
+      "place": "15 km NNW of Toyah, Texas",
+      "time": 1788606713529,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rmgqkh"
+    },
+    {
+      "id": "uw714095342",
+      "lon": -122.644500732422,
+      "lat": 46.2476654052734,
+      "depth": 17.2600002288818,
+      "mag": 3.82610392570496,
+      "place": "20 km E of Castle Rock, Washington",
+      "time": 1788606568270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714095342"
+    },
+    {
       "id": "aka2026rpbhgy",
-      "lon": -144.124,
-      "lat": 69.494,
-      "depth": 7.9,
-      "mag": 2.6,
-      "place": "73 km SSW of Kaktovik, Alaska",
-      "time": 1788605726149,
+      "lon": -144.05,
+      "lat": 69.436,
+      "depth": 1,
+      "mag": 2.7,
+      "place": "79 km SSW of Kaktovik, Alaska",
+      "time": 1788605725925,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rpbhgy"
     },
     {
@@ -35,12 +55,12 @@
     },
     {
       "id": "tx2026rmffmn",
-      "lon": -103.841,
-      "lat": 31.452,
+      "lon": -103.794,
+      "lat": 31.422,
       "depth": 0,
-      "mag": 1.4,
-      "place": "15 km NNW of Toyah, Texas",
-      "time": 1788604143433,
+      "mag": 1.2,
+      "place": "11 km N of Toyah, Texas",
+      "time": 1788604144687,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rmffmn"
     },
     {
@@ -2382,16 +2402,6 @@
       "place": "2 km NE of The Geysers, CA",
       "time": 1788521702570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429627"
-    },
-    {
-      "id": "nc75429622",
-      "lon": -122.853164672852,
-      "lat": 38.8248329162598,
-      "depth": 2.39000010490417,
-      "mag": 0.27,
-      "place": "10 km WNW of The Geysers, CA",
-      "time": 1788519854950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429622"
     }
   ]
 }
