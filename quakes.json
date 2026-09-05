@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-05T04:45:42Z",
-  "count": 274,
+  "updated": "2026-09-05T05:01:01Z",
+  "count": 276,
   "points": [
+    {
+      "id": "hv75029562",
+      "lon": -155.380828857422,
+      "lat": 19.1988334655762,
+      "depth": 29.1000003814697,
+      "mag": 2.72,
+      "place": "10 km E of Pāhala, Hawaii",
+      "time": 1788584200040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029562"
+    },
+    {
+      "id": "hv75029552",
+      "lon": -155.238830566406,
+      "lat": 19.3901672363281,
+      "depth": 42.4000015258789,
+      "mag": 2.25,
+      "place": "5 km S of Volcano, Hawaii",
+      "time": 1788583905570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029552"
+    },
+    {
+      "id": "tx2026rltulz",
+      "lon": -101.704,
+      "lat": 31.717,
+      "depth": 3.524,
+      "mag": 1.7,
+      "place": "26 km SW of Garden City, Texas",
+      "time": 1788583468463,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rltulz"
+    },
     {
       "id": "aka2026roopml",
       "lon": -149.797,
@@ -855,13 +885,33 @@
     },
     {
       "id": "aka2026rnwtcx",
-      "lon": -153.239,
-      "lat": 57.811,
-      "depth": 21.7,
+      "lon": -153.208,
+      "lat": 57.795,
+      "depth": 42,
       "mag": 2.6,
-      "place": "22 km WSW of Port Lions, Alaska",
-      "time": 1788550819601,
+      "place": "20 km WSW of Port Lions, Alaska",
+      "time": 1788550820409,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnwtcx"
+    },
+    {
+      "id": "aka2026rnwekc",
+      "lon": -146.896,
+      "lat": 61.38,
+      "depth": 23.7,
+      "mag": 1.5,
+      "place": "40 km NW of Valdez, Alaska",
+      "time": 1788549794702,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnwekc"
+    },
+    {
+      "id": "aka2026rnvtvw",
+      "lon": -150.946,
+      "lat": 61.014,
+      "depth": 56.1,
+      "mag": 1.6,
+      "place": "11 km ESE of Tyonek, Alaska",
+      "time": 1788549063457,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnvtvw"
     },
     {
       "id": "av94417208",
@@ -2712,36 +2762,6 @@
       "place": "28 km S of Cilacap, Indonesia",
       "time": 1788498294278,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te82"
-    },
-    {
-      "id": "hv75029057",
-      "lon": -155.354507446289,
-      "lat": 19.0453338623047,
-      "depth": 27.5799999237061,
-      "mag": 1.71,
-      "place": "21 km SE of Pāhala, Hawaii",
-      "time": 1788497698560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029057"
-    },
-    {
-      "id": "tx2026rjykqs",
-      "lon": -104.139,
-      "lat": 31.56,
-      "depth": 6.1768,
-      "mag": 2.4,
-      "place": "42 km NW of Toyah, Texas",
-      "time": 1788497694983,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rjykqs"
-    },
-    {
-      "id": "aka2026rmsyps",
-      "lon": -150.732,
-      "lat": 63.248,
-      "depth": 129.7,
-      "mag": 2.1,
-      "place": "59 km SE of Denali National Park, Alaska",
-      "time": 1788497238133,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmsyps"
     }
   ]
 }
