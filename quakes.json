@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-05T19:30:55Z",
-  "count": 208,
+  "updated": "2026-09-05T19:45:41Z",
+  "count": 207,
   "points": [
+    {
+      "id": "ci41541936",
+      "lon": -116.496,
+      "lat": 33.4911666666667,
+      "depth": 13.85,
+      "mag": 0.78,
+      "place": "18 km ESE of Anza, CA",
+      "time": 1788636743400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541936"
+    },
     {
       "id": "nc75430307",
       "lon": -122.810333251953,
@@ -2062,26 +2072,6 @@
       "place": "26 km SW of Ackerly, Texas",
       "time": 1788551279086,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rlcadf"
-    },
-    {
-      "id": "av94417238",
-      "lon": -152.276833333333,
-      "lat": 61.1873333333333,
-      "depth": 6.19,
-      "mag": -0.18,
-      "place": "62 km WNW of Tyonek, Alaska",
-      "time": 1788550832730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94417238"
-    },
-    {
-      "id": "aka2026rnwtcx",
-      "lon": -153.208,
-      "lat": 57.795,
-      "depth": 42,
-      "mag": 2.6,
-      "place": "20 km WSW of Port Lions, Alaska",
-      "time": 1788550820409,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnwtcx"
     }
   ]
 }
