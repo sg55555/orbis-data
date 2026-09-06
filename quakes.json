@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T15:01:04Z",
-  "count": 179,
+  "updated": "2026-09-06T15:15:41Z",
+  "count": 178,
   "points": [
+    {
+      "id": "ci41542128",
+      "lon": -117.800166666667,
+      "lat": 35.3261666666667,
+      "depth": 5.95,
+      "mag": 1.74,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1788707385530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542128"
+    },
+    {
+      "id": "nc75430707",
+      "lon": -120.795501708984,
+      "lat": 35.5555000305176,
+      "depth": 5.15999984741211,
+      "mag": 1.6,
+      "place": "8 km W of Templeton, CA",
+      "time": 1788707213610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430707"
+    },
     {
       "id": "nc75430697",
       "lon": -122.846664428711,
@@ -1762,36 +1782,6 @@
       "place": "9 km WNW of Susitna North, Alaska",
       "time": 1788621471842,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rpkafp"
-    },
-    {
-      "id": "aka2026rpjwjj",
-      "lon": -151.868,
-      "lat": 58.358,
-      "depth": 29.1,
-      "mag": 2.1,
-      "place": "61 km NE of Ouzinkie, Alaska",
-      "time": 1788621204089,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rpjwjj"
-    },
-    {
-      "id": "aka2026rpjpsk",
-      "lon": -140.078,
-      "lat": 60.078,
-      "depth": 5.1,
-      "mag": 1.5,
-      "place": "62 km NNW of Yakutat, Alaska",
-      "time": 1788620745259,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rpjpsk"
-    },
-    {
-      "id": "aka2026rpjlsr",
-      "lon": -150.766,
-      "lat": 61.536,
-      "depth": 65.2,
-      "mag": 1.9,
-      "place": "13 km W of Susitna, Alaska",
-      "time": 1788620469032,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rpjlsr"
     }
   ]
 }
