@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T18:45:40Z",
-  "count": 180,
+  "updated": "2026-09-06T19:01:06Z",
+  "count": 179,
   "points": [
+    {
+      "id": "tx2026rorqeb",
+      "lon": -103.626,
+      "lat": 30.892,
+      "depth": 0,
+      "mag": 1.6,
+      "place": "15 km SE of Balmorhea, Texas",
+      "time": 1788720749978,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rorqeb"
+    },
     {
       "id": "ci41542192",
       "lon": -116.821,
@@ -12,6 +22,16 @@
       "place": "6 km NNW of Cabazon, CA",
       "time": 1788719803570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542192"
+    },
+    {
+      "id": "tx2026roratt",
+      "lon": -103.338,
+      "lat": 31.068,
+      "depth": 0,
+      "mag": 1.5,
+      "place": "32 km SW of Coyanosa, Texas",
+      "time": 1788719691418,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026roratt"
     },
     {
       "id": "nc75430802",
@@ -284,14 +304,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430707"
     },
     {
-      "id": "aka2026rrfkjq",
-      "lon": -169.277,
-      "lat": 51.963,
-      "depth": 12.6,
-      "mag": 3.4,
-      "place": "112 km SSW of Nikolski, Alaska",
-      "time": 1788706737206,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrfkjq"
+      "id": "us7000ter5",
+      "lon": -169.3393,
+      "lat": 52.0016,
+      "depth": 10,
+      "mag": 3.1,
+      "place": "109 km SSW of Nikolski, Alaska",
+      "time": 1788706736711,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ter5"
     },
     {
       "id": "nc75430697",
@@ -1772,36 +1792,6 @@
       "place": "16 km NE of Coahoma, Texas",
       "time": 1788635230375,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rmwjyc"
-    },
-    {
-      "id": "ci41541928",
-      "lon": -116.082166666667,
-      "lat": 33.2253333333333,
-      "depth": 9.05,
-      "mag": 0.81,
-      "place": "10 km NNE of Ocotillo Wells, CA",
-      "time": 1788634433820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541928"
-    },
-    {
-      "id": "pr71531023",
-      "lon": -66.5386666666667,
-      "lat": 18.0496666666667,
-      "depth": 16.58,
-      "mag": 2.33,
-      "place": "1 km E of Coto Laurel, Puerto Rico",
-      "time": 1788634006880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531023"
-    },
-    {
-      "id": "us7000tekj",
-      "lon": 173.8015,
-      "lat": -39.2175,
-      "depth": 10.089,
-      "mag": 3.9,
-      "place": "12 km N of Rahotu, New Zealand",
-      "time": 1788633969055,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tekj"
     }
   ]
 }
