@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T21:39:53Z",
-  "count": 186,
+  "updated": "2026-09-06T21:45:38Z",
+  "count": 185,
   "points": [
+    {
+      "id": "ci41542200",
+      "lon": -115.8905,
+      "lat": 32.724,
+      "depth": 11.34,
+      "mag": 1.61,
+      "place": "10 km E of Ocotillo, CA",
+      "time": 1788730687180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542200"
+    },
     {
       "id": "us7000tert",
       "lon": -178.3887,
@@ -1842,26 +1852,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1788645009600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430357"
-    },
-    {
-      "id": "nc75430352",
-      "lon": -122.814834594727,
-      "lat": 38.829833984375,
-      "depth": 1.62999999523163,
-      "mag": 0.76,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1788644601320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430352"
-    },
-    {
-      "id": "tx2026rnbmjy",
-      "lon": -101.858,
-      "lat": 32.172,
-      "depth": 4.5622,
-      "mag": 1.3,
-      "place": "8 km NW of Stanton, Texas",
-      "time": 1788644478920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rnbmjy"
     }
   ]
 }
