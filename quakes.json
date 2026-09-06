@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T05:15:42Z",
+  "updated": "2026-09-06T05:30:53Z",
   "count": 172,
   "points": [
+    {
+      "id": "ci41542008",
+      "lon": -116.657833333333,
+      "lat": 33.4543333333333,
+      "depth": 3.95,
+      "mag": 0.48,
+      "place": "11 km S of Anza, CA",
+      "time": 1788672297820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542008"
+    },
     {
       "id": "ci41542000",
       "lon": -116.930333333333,
@@ -22,6 +32,16 @@
       "place": "5 km S of Pāhala, Hawaii",
       "time": 1788670478500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029932"
+    },
+    {
+      "id": "us7000temt",
+      "lon": -176.8095,
+      "lat": -28.5523,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "Kermadec Islands region",
+      "time": 1788670360376,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temt"
     },
     {
       "id": "tx2026rnpnev",
@@ -1702,26 +1722,6 @@
       "place": "37 km WNW of Willow, Alaska",
       "time": 1788586979937,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026roqvuc"
-    },
-    {
-      "id": "aka2026roqhpo",
-      "lon": -146.882,
-      "lat": 61.203,
-      "depth": 8.8,
-      "mag": 1,
-      "place": "29 km WNW of Valdez, Alaska",
-      "time": 1788585999413,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026roqhpo"
-    },
-    {
-      "id": "us7000tehg",
-      "lon": -83.0826,
-      "lat": 3.4509,
-      "depth": 10,
-      "mag": 4.4,
-      "place": "off the coast of Central America",
-      "time": 1788585395634,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehg"
     }
   ]
 }
