@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T12:30:55Z",
-  "count": 173,
+  "updated": "2026-09-06T12:45:44Z",
+  "count": 172,
   "points": [
+    {
+      "id": "ci41542096",
+      "lon": -116.920166666667,
+      "lat": 34.3305,
+      "depth": 5.66,
+      "mag": 1.12,
+      "place": "10 km N of Big Bear Lake, CA",
+      "time": 1788697937890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542096"
+    },
     {
       "id": "aka2026rrafwf",
       "lon": -155.038,
@@ -185,12 +195,12 @@
     },
     {
       "id": "us7000tepa",
-      "lon": -115.8427,
-      "lat": -22.1041,
+      "lon": -116.0305,
+      "lat": -24.5229,
       "depth": 10,
-      "mag": 5.1,
+      "mag": 5.2,
       "place": "southern East Pacific Rise",
-      "time": 1788691114744,
+      "time": 1788691098353,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tepa"
     },
     {
@@ -1712,26 +1722,6 @@
       "place": "16 km S of Honoka‘a, Hawaii",
       "time": 1788612376980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029677"
-    },
-    {
-      "id": "tx2026rmjpfk",
-      "lon": -104.588,
-      "lat": 31.709,
-      "depth": 2.102,
-      "mag": 1.7,
-      "place": "55 km SSW of Whites City, New Mexico",
-      "time": 1788612092773,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rmjpfk"
-    },
-    {
-      "id": "aka2026rperxm",
-      "lon": -151.681,
-      "lat": 61.669,
-      "depth": 104.3,
-      "mag": 2.3,
-      "place": "38 km SSW of Skwentna, Alaska",
-      "time": 1788611900716,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rperxm"
     }
   ]
 }
