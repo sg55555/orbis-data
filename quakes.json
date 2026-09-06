@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T04:15:41Z",
-  "count": 172,
+  "updated": "2026-09-06T04:30:55Z",
+  "count": 173,
   "points": [
+    {
+      "id": "ci41541984",
+      "lon": -117.039001464844,
+      "lat": 34.2278327941895,
+      "depth": 3.1800000667572,
+      "mag": 1.29164116181963,
+      "place": "7 km ENE of Running Springs, CA",
+      "time": 1788668853170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541984"
+    },
     {
       "id": "uu80154411",
       "lon": -112.896835327148,
@@ -12,6 +22,16 @@
       "place": "16 km NE of Milford, Utah",
       "time": 1788667719110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80154411"
+    },
+    {
+      "id": "us7000temi",
+      "lon": 162.519,
+      "lat": -11.0595,
+      "depth": 38.543,
+      "mag": 5.6,
+      "place": "93 km SE of Kirakira, Solomon Islands",
+      "time": 1788667530141,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temi"
     },
     {
       "id": "us7000teme",
@@ -1712,16 +1732,6 @@
       "place": "30 km NW of Toyah, Texas",
       "time": 1788582919430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rltmqp"
-    },
-    {
-      "id": "hv75029547",
-      "lon": -155.355331420898,
-      "lat": 19.0650005340576,
-      "depth": 33.5299987792969,
-      "mag": 1.78,
-      "place": "20 km SE of Pāhala, Hawaii",
-      "time": 1788582508260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029547"
     }
   ]
 }
