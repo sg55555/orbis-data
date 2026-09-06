@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T17:45:38Z",
-  "count": 173,
+  "updated": "2026-09-06T18:01:08Z",
+  "count": 174,
   "points": [
+    {
+      "id": "nc75430772",
+      "lon": -123.257164001465,
+      "lat": 39.4008331298828,
+      "depth": 6.67000007629395,
+      "mag": 1.83,
+      "place": "9 km E of Willits, CA",
+      "time": 1788717511510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430772"
+    },
+    {
+      "id": "nc75430767",
+      "lon": -122.78800201416,
+      "lat": 38.8363342285156,
+      "depth": 1.75999999046326,
+      "mag": 0.69,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1788717467560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430767"
+    },
     {
       "id": "tx2026ropcko",
       "lon": -103.23,
@@ -1722,16 +1742,6 @@
       "place": "55 km SSW of Pilot Point, Alaska",
       "time": 1788631318736,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rppmra"
-    },
-    {
-      "id": "us7000tek7",
-      "lon": -169.329,
-      "lat": 52.2713,
-      "depth": 35,
-      "mag": 4.9,
-      "place": "80 km SSW of Nikolski, Alaska",
-      "time": 1788631209215,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tek7"
     }
   ]
 }
