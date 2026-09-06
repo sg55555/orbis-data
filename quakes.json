@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T07:15:46Z",
-  "count": 176,
+  "updated": "2026-09-06T07:30:51Z",
+  "count": 173,
   "points": [
+    {
+      "id": "ci41542024",
+      "lon": -118.204498291016,
+      "lat": 33.8585014343262,
+      "depth": 12.8100004196167,
+      "mag": 3.22073479851606,
+      "place": "4 km SSE of Compton, CA",
+      "time": 1788678791410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542024"
+    },
     {
       "id": "tx2026rnudqr",
       "lon": -102.096,
@@ -1722,46 +1732,6 @@
       "place": "10 km WNW of The Geysers, CA",
       "time": 1788593461420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430062"
-    },
-    {
-      "id": "pr71530998",
-      "lon": -66.9945,
-      "lat": 17.8883333333333,
-      "depth": 9.43,
-      "mag": 1.64,
-      "place": "11 km SSE of La Parguera, Puerto Rico",
-      "time": 1788593372660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71530998"
-    },
-    {
-      "id": "us7000tei1",
-      "lon": -68.9315,
-      "lat": -20.4897,
-      "depth": 109.393,
-      "mag": 4.4,
-      "place": "77 km ESE of La Tirana, Chile",
-      "time": 1788593303913,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tei1"
-    },
-    {
-      "id": "pr71530948",
-      "lon": -66.8666666666667,
-      "lat": 17.986,
-      "depth": 11.57,
-      "mag": 2.3,
-      "place": "2 km ENE of Maria Antonia, Puerto Rico",
-      "time": 1788593221650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71530948"
-    },
-    {
-      "id": "nn00924206",
-      "lon": -116.7434,
-      "lat": 38.3536,
-      "depth": 0.6102,
-      "mag": 2.25,
-      "place": "53 km NE of Tonopah, Nevada",
-      "time": 1788593028548,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924206"
     }
   ]
 }
