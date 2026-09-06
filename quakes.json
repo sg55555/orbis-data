@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T14:01:05Z",
-  "count": 177,
+  "updated": "2026-09-06T14:15:40Z",
+  "count": 174,
   "points": [
     {
       "id": "nc75430682",
@@ -1004,6 +1004,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rqeoyr"
     },
     {
+      "id": "us7000telw",
+      "lon": -69.9347,
+      "lat": -20.6208,
+      "depth": 49.996,
+      "mag": 3.5,
+      "place": "42 km SSE of La Tirana, Chile",
+      "time": 1788658045731,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000telw"
+    },
+    {
       "id": "aka2026rqdkkp",
       "lon": -159.754,
       "lat": 55.975,
@@ -1732,46 +1742,6 @@
       "place": "3 km NE of Skwentna, Alaska",
       "time": 1788617869814,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rpiaeg"
-    },
-    {
-      "id": "us7000teji",
-      "lon": 153.6766,
-      "lat": -4.5469,
-      "depth": 114.364,
-      "mag": 5.5,
-      "place": "157 km E of Kokopo, Papua New Guinea",
-      "time": 1788617527727,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teji"
-    },
-    {
-      "id": "nc75430187",
-      "lon": -122.815170288086,
-      "lat": 38.8303337097168,
-      "depth": 1.66999995708466,
-      "mag": 0.91,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1788617380160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430187"
-    },
-    {
-      "id": "us7000tejg",
-      "lon": 98.6095,
-      "lat": 1.0574,
-      "depth": 91.853,
-      "mag": 5.2,
-      "place": "77 km SSW of Sibolga, Indonesia",
-      "time": 1788617167776,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tejg"
-    },
-    {
-      "id": "pr71531003",
-      "lon": -66.8281666666667,
-      "lat": 17.974,
-      "depth": 12.53,
-      "mag": 2.1,
-      "place": "2 km SSW of Indios, Puerto Rico",
-      "time": 1788617128310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531003"
     }
   ]
 }
