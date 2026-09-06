@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T09:01:06Z",
-  "count": 170,
+  "updated": "2026-09-06T09:15:41Z",
+  "count": 169,
   "points": [
+    {
+      "id": "nc75430542",
+      "lon": -121.892333984375,
+      "lat": 37.9958343505859,
+      "depth": 15.6199998855591,
+      "mag": 1.49,
+      "place": "4 km S of Pittsburg, CA",
+      "time": 1788685187100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430542"
+    },
     {
       "id": "nc75430537",
       "lon": -122.708000183105,
@@ -1682,26 +1692,6 @@
       "place": "1 km SSE of The Geysers, CA",
       "time": 1788599760650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430102"
-    },
-    {
-      "id": "us7000teim",
-      "lon": 96.1107,
-      "lat": 3.2202,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "87 km NNW of Sinabang, Indonesia",
-      "time": 1788599655563,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teim"
-    },
-    {
-      "id": "nn00924209",
-      "lon": -116.7306,
-      "lat": 38.3491,
-      "depth": 4.7719,
-      "mag": 2.14,
-      "place": "53 km NE of Tonopah, Nevada",
-      "time": 1788598957520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924209"
     }
   ]
 }
