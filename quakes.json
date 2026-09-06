@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T13:30:59Z",
-  "count": 177,
+  "updated": "2026-09-06T13:45:41Z",
+  "count": 176,
   "points": [
+    {
+      "id": "nc75430672",
+      "lon": -122.846832275391,
+      "lat": 38.8488349914551,
+      "depth": 1.32000005245209,
+      "mag": 0.93,
+      "place": "11 km WNW of Cobb, CA",
+      "time": 1788701482240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430672"
+    },
     {
       "id": "aka2026rrcfxr",
       "lon": -149.801,
@@ -122,6 +132,16 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1788697035660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542088"
+    },
+    {
+      "id": "us7000teq4",
+      "lon": 140.9156,
+      "lat": 33.2038,
+      "depth": 35,
+      "mag": 4.6,
+      "place": "219 km SSE of Wada, Japan",
+      "time": 1788697034956,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teq4"
     },
     {
       "id": "nc75430617",
@@ -1742,36 +1762,6 @@
       "place": "12 km SW of Volcano, Hawaii",
       "time": 1788616199900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029717"
-    },
-    {
-      "id": "aka2026rpgxmh",
-      "lon": -148.1,
-      "lat": 62.172,
-      "depth": 50,
-      "mag": 1,
-      "place": "45 km NNE of Chickaloon, Alaska",
-      "time": 1788615885587,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rpgxmh"
-    },
-    {
-      "id": "nc75430182",
-      "lon": -122.801170349121,
-      "lat": 38.8368339538574,
-      "depth": 1.98000001907349,
-      "mag": 1.01,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1788615752060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430182"
-    },
-    {
-      "id": "tx2026rmlhgr",
-      "lon": -103.901,
-      "lat": 31.964,
-      "depth": 7.0316,
-      "mag": 1.5,
-      "place": "33 km SSE of Malaga, New Mexico",
-      "time": 1788615134971,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rmlhgr"
     }
   ]
 }
