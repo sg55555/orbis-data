@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T10:45:40Z",
-  "count": 166,
+  "updated": "2026-09-06T11:10:00Z",
+  "count": 168,
   "points": [
+    {
+      "id": "ci41542080",
+      "lon": -117.8065,
+      "lat": 35.316,
+      "depth": 6.95,
+      "mag": 1.26,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1788692441600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542080"
+    },
+    {
+      "id": "ci41542072",
+      "lon": -117.801166666667,
+      "lat": 35.3271666666667,
+      "depth": 5.64,
+      "mag": 1.18,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1788692173610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542072"
+    },
+    {
+      "id": "aka2026rqxcnx",
+      "lon": -148.025,
+      "lat": 60.038,
+      "depth": 36.8,
+      "mag": 2.6,
+      "place": "3 km SSW of Chenega, Alaska",
+      "time": 1788691800821,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rqxcnx"
+    },
     {
       "id": "nc75430567",
       "lon": -118.444664001465,
@@ -12,6 +42,26 @@
       "place": "3 km W of Dixon Lane-Meadow Creek, CA",
       "time": 1788690801030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430567"
+    },
+    {
+      "id": "us7000tep6",
+      "lon": -115.6112,
+      "lat": -24.5304,
+      "depth": 10,
+      "mag": 5.2,
+      "place": "southern East Pacific Rise",
+      "time": 1788690748227,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tep6"
+    },
+    {
+      "id": "tx2026roapnf",
+      "lon": -103.962,
+      "lat": 31.576,
+      "depth": 5.483,
+      "mag": 1.5,
+      "place": "33 km NNW of Toyah, Texas",
+      "time": 1788690024402,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026roapnf"
     },
     {
       "id": "tx2026roaojv",
@@ -1632,36 +1682,6 @@
       "place": "16 km NNW of Toyah, Texas",
       "time": 1788606713841,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rmgqkh"
-    },
-    {
-      "id": "uw714095342",
-      "lon": -122.643833333333,
-      "lat": 46.247,
-      "depth": 17.62,
-      "mag": 3.73,
-      "place": "20 km E of Castle Rock, Washington",
-      "time": 1788606568280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714095342"
-    },
-    {
-      "id": "us7000teiy",
-      "lon": 102.7513,
-      "lat": -4.4202,
-      "depth": 68.934,
-      "mag": 5,
-      "place": "70 km SW of Pagar Alam, Indonesia",
-      "time": 1788605955678,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teiy"
-    },
-    {
-      "id": "aka2026rpbhgy",
-      "lon": -144.05,
-      "lat": 69.436,
-      "depth": 1,
-      "mag": 2.7,
-      "place": "79 km SSW of Kaktovik, Alaska",
-      "time": 1788605725925,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rpbhgy"
     }
   ]
 }
