@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T21:15:48Z",
-  "count": 189,
+  "updated": "2026-09-06T21:30:53Z",
+  "count": 188,
   "points": [
+    {
+      "id": "us7000tert",
+      "lon": -178.3887,
+      "lat": -17.8899,
+      "depth": 592.756,
+      "mag": 4.9,
+      "place": "243 km E of Levuka, Fiji",
+      "time": 1788728922742,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tert"
+    },
     {
       "id": "aka2026rrrlsa",
       "lon": -149.175,
@@ -1872,26 +1882,6 @@
       "place": "13 km NW of The Geysers, CA",
       "time": 1788643829770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430332"
-    },
-    {
-      "id": "pr71531043",
-      "lon": -66.998,
-      "lat": 18.2318333333333,
-      "depth": 17.63,
-      "mag": 2.3,
-      "place": "2 km SSW of Las Marías, Puerto Rico",
-      "time": 1788643508990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531043"
-    },
-    {
-      "id": "nn00924211",
-      "lon": -117.1904,
-      "lat": 38.6385,
-      "depth": 4.8409,
-      "mag": 1.84,
-      "place": "63 km N of Tonopah, Nevada",
-      "time": 1788643031206,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924211"
     }
   ]
 }
