@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T16:45:39Z",
-  "count": 176,
+  "updated": "2026-09-06T17:01:05Z",
+  "count": 177,
   "points": [
+    {
+      "id": "nc75430757",
+      "lon": -122.803169250488,
+      "lat": 38.8366661071777,
+      "depth": 2.30999994277954,
+      "mag": 1.01,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1788713092250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430757"
+    },
+    {
+      "id": "pr71531098",
+      "lon": -66.8788333333333,
+      "lat": 17.9751666666667,
+      "depth": 15.65,
+      "mag": 1.71,
+      "place": "1 km ESE of Maria Antonia, Puerto Rico",
+      "time": 1788712322440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531098"
+    },
     {
       "id": "nc75430747",
       "lon": -121.035003662109,
@@ -1752,16 +1772,6 @@
       "place": "96 km ESE of Isangel, Vanuatu",
       "time": 1788627731581,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tek0"
-    },
-    {
-      "id": "hv75029747",
-      "lon": -155.214492797852,
-      "lat": 18.8866672515869,
-      "depth": 6.88000011444092,
-      "mag": 1.84,
-      "place": "43 km ESE of Naalehu, Hawaii",
-      "time": 1788627565290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029747"
     }
   ]
 }
