@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T11:31:03Z",
-  "count": 169,
+  "updated": "2026-09-06T11:45:38Z",
+  "count": 167,
   "points": [
     {
+      "id": "nc75430582",
+      "lon": -122.834831237793,
+      "lat": 38.8363342285156,
+      "depth": 1.72000002861023,
+      "mag": 1.28,
+      "place": "9 km NW of The Geysers, CA",
+      "time": 1788694717300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430582"
+    },
+    {
+      "id": "aka2026rqyobb",
+      "lon": -152.496,
+      "lat": 61.291,
+      "depth": 5,
+      "mag": 1.8,
+      "place": "77 km WNW of Tyonek, Alaska",
+      "time": 1788694395936,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rqyobb"
+    },
+    {
       "id": "tx2026roctny",
-      "lon": -104.156,
-      "lat": 31.524,
-      "depth": 4.4186,
+      "lon": -104.128,
+      "lat": 31.542,
+      "depth": 8.8428,
       "mag": 2.5,
-      "place": "41 km NW of Toyah, Texas",
-      "time": 1788693844197,
+      "place": "40 km NW of Toyah, Texas",
+      "time": 1788693844550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026roctny"
     },
     {
@@ -1652,46 +1672,6 @@
       "place": "24 km SW of Ackerly, Texas",
       "time": 1788609821671,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rmiixq"
-    },
-    {
-      "id": "us7000tej2",
-      "lon": -66.7176,
-      "lat": -26.1078,
-      "depth": 10,
-      "mag": 5.1,
-      "place": "69 km E of Antofagasta de la Sierra, Argentina",
-      "time": 1788608232553,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tej2"
-    },
-    {
-      "id": "nc75430157",
-      "lon": -121.622329711914,
-      "lat": 36.9593315124512,
-      "depth": 4.23000001907349,
-      "mag": 1.55,
-      "place": "7 km SW of Gilroy, CA",
-      "time": 1788608208280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430157"
-    },
-    {
-      "id": "aka2026rpcprg",
-      "lon": -150.056,
-      "lat": 64.577,
-      "depth": 5,
-      "mag": 1.3,
-      "place": "44 km W of Four Mile Road, Alaska",
-      "time": 1788608147321,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rpcprg"
-    },
-    {
-      "id": "aka2026rpcnur",
-      "lon": -149.43,
-      "lat": 64.585,
-      "depth": 14,
-      "mag": 1.8,
-      "place": "14 km W of Four Mile Road, Alaska",
-      "time": 1788608018425,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rpcnur"
     }
   ]
 }
