@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T08:45:38Z",
-  "count": 172,
+  "updated": "2026-09-06T09:01:06Z",
+  "count": 170,
   "points": [
+    {
+      "id": "nc75430537",
+      "lon": -122.708000183105,
+      "lat": 38.7779998779297,
+      "depth": 3.27999997138977,
+      "mag": 1.32,
+      "place": "1 km WNW of Anderson Springs, CA",
+      "time": 1788684788590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430537"
+    },
     {
       "id": "aka2026rqsrrp",
       "lon": -149.804,
@@ -152,6 +162,16 @@
       "place": "20 km E of Pāhala, Hawaii",
       "time": 1788677573760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029982"
+    },
+    {
+      "id": "us7000tena",
+      "lon": 123.3003,
+      "lat": -0.3104,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "91 km NE of Luwuk, Indonesia",
+      "time": 1788676881347,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tena"
     },
     {
       "id": "hv75029977",
@@ -1682,46 +1702,6 @@
       "place": "53 km NE of Tonopah, Nevada",
       "time": 1788598957520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924209"
-    },
-    {
-      "id": "nc75430097",
-      "lon": -121.373336791992,
-      "lat": 36.6816673278809,
-      "depth": 5.09000015258789,
-      "mag": 1.55,
-      "place": "13 km SSW of Tres Pinos, CA",
-      "time": 1788598683920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430097"
-    },
-    {
-      "id": "aka2026roxcdh",
-      "lon": -152.889,
-      "lat": 59.471,
-      "depth": 104.2,
-      "mag": 2,
-      "place": "56 km WNW of Nanwalek, Alaska",
-      "time": 1788598213832,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026roxcdh"
-    },
-    {
-      "id": "ci41541840",
-      "lon": -116.792833333333,
-      "lat": 33.6881666666667,
-      "depth": 15.97,
-      "mag": 0.78,
-      "place": "9 km SW of Idyllwild, CA",
-      "time": 1788598211310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541840"
-    },
-    {
-      "id": "hv75029632",
-      "lon": -155.424667358398,
-      "lat": 19.3199996948242,
-      "depth": 28.0699996948242,
-      "mag": 1.84,
-      "place": "14 km NNE of Pāhala, Hawaii",
-      "time": 1788597982700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029632"
     }
   ]
 }
