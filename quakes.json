@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T12:45:44Z",
-  "count": 172,
+  "updated": "2026-09-06T13:01:05Z",
+  "count": 171,
   "points": [
+    {
+      "id": "hv75030062",
+      "lon": -155.403839111328,
+      "lat": 19.279333114624,
+      "depth": 30.6299991607666,
+      "mag": 1.97,
+      "place": "11 km NE of Pāhala, Hawaii",
+      "time": 1788698994950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030062"
+    },
+    {
+      "id": "nc75430637",
+      "lon": -122.849830627441,
+      "lat": 38.848331451416,
+      "depth": 1.37999999523163,
+      "mag": 1.06,
+      "place": "11 km NW of The Geysers, CA",
+      "time": 1788698861910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430637"
+    },
+    {
+      "id": "nc75430632",
+      "lon": -122.844665527344,
+      "lat": 38.8450012207031,
+      "depth": 3.02999997138977,
+      "mag": 0.67,
+      "place": "11 km NW of The Geysers, CA",
+      "time": 1788698703270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430632"
+    },
     {
       "id": "ci41542096",
       "lon": -116.920166666667,
@@ -1682,46 +1712,6 @@
       "place": "24 km NE of King City, CA",
       "time": 1788614234810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430172"
-    },
-    {
-      "id": "us7000tejc",
-      "lon": 167.1398,
-      "lat": -14.435,
-      "depth": 166.28,
-      "mag": 4.4,
-      "place": "67 km N of Port-Olry, Vanuatu",
-      "time": 1788612905122,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tejc"
-    },
-    {
-      "id": "nc75430167",
-      "lon": -122.817497253418,
-      "lat": 38.8305015563965,
-      "depth": 2.11999988555908,
-      "mag": 0.68,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1788612638220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430167"
-    },
-    {
-      "id": "hv75029692",
-      "lon": -155.460327148438,
-      "lat": 19.1461658477783,
-      "depth": 28.7800006866455,
-      "mag": 1.88,
-      "place": "6 km SSE of Pāhala, Hawaii",
-      "time": 1788612621010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029692"
-    },
-    {
-      "id": "hv75029677",
-      "lon": -155.486999511719,
-      "lat": 19.9306659698486,
-      "depth": 34.8300018310547,
-      "mag": 1.91,
-      "place": "16 km S of Honoka‘a, Hawaii",
-      "time": 1788612376980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029677"
     }
   ]
 }
