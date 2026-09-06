@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T20:38:47Z",
-  "count": 188,
+  "updated": "2026-09-06T20:45:39Z",
+  "count": 189,
   "points": [
     {
+      "id": "hv75030212",
+      "lon": -155.491668701172,
+      "lat": 19.136999130249,
+      "depth": 28.7600002288818,
+      "mag": 1.81,
+      "place": "7 km S of Pāhala, Hawaii",
+      "time": 1788727212970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030212"
+    },
+    {
+      "id": "hv75030207",
+      "lon": -155.496337890625,
+      "lat": 19.029167175293,
+      "depth": 26.7399997711182,
+      "mag": 1.99,
+      "place": "9 km ESE of Naalehu, Hawaii",
+      "time": 1788727208050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030207"
+    },
+    {
       "id": "tx2026rovblf",
-      "lon": -103.9,
+      "lon": -103.897,
       "lat": 31.965,
-      "depth": 5.7529,
-      "mag": 1.9,
+      "depth": 7.5623,
+      "mag": 1.8,
       "place": "33 km SSE of Malaga, New Mexico",
-      "time": 1788726978259,
+      "time": 1788726977901,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rovblf"
     },
     {
@@ -1872,16 +1892,6 @@
       "place": "95 km ESE of Isangel, Vanuatu",
       "time": 1788642361351,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tel1"
-    },
-    {
-      "id": "nc75430327",
-      "lon": -122.760665893555,
-      "lat": 38.7918319702148,
-      "depth": 1.3400000333786,
-      "mag": 1.31,
-      "place": "2 km NNW of The Geysers, CA",
-      "time": 1788641099800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430327"
     }
   ]
 }
