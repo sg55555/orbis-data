@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T04:50:34Z",
-  "count": 172,
+  "updated": "2026-09-06T05:01:02Z",
+  "count": 171,
   "points": [
+    {
+      "id": "hv75029932",
+      "lon": -155.484161376953,
+      "lat": 19.1525001525879,
+      "depth": 11.4700002670288,
+      "mag": 1.75,
+      "place": "5 km S of Pāhala, Hawaii",
+      "time": 1788670478500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029932"
+    },
     {
       "id": "tx2026rnpnev",
       "lon": -104.45,
@@ -87,10 +97,10 @@
       "id": "tx2026rnnzam",
       "lon": -104.438,
       "lat": 31.635,
-      "depth": 4.0635,
+      "depth": 4.0647,
       "mag": 1.9,
       "place": "60 km S of Whites City, New Mexico",
-      "time": 1788667055985,
+      "time": 1788667055984,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rnnzam"
     },
     {
@@ -622,6 +632,16 @@
       "place": "1 km E of Coto Laurel, Puerto Rico",
       "time": 1788634006880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531023"
+    },
+    {
+      "id": "us7000tekj",
+      "lon": 173.8298,
+      "lat": -39.2201,
+      "depth": 10.589,
+      "mag": 3.9,
+      "place": "12 km NNE of Rahotu, New Zealand",
+      "time": 1788633969594,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tekj"
     },
     {
       "id": "aka2026rpqqhb",
@@ -1692,36 +1712,6 @@
       "place": "off the coast of Central America",
       "time": 1788585395634,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehg"
-    },
-    {
-      "id": "us7000tehe",
-      "lon": -83.151,
-      "lat": 3.5071,
-      "depth": 10,
-      "mag": 5,
-      "place": "off the coast of Central America",
-      "time": 1788584406778,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehe"
-    },
-    {
-      "id": "hv75029562",
-      "lon": -155.380828857422,
-      "lat": 19.1988334655762,
-      "depth": 29.1000003814697,
-      "mag": 2.72,
-      "place": "10 km E of Pāhala, Hawaii",
-      "time": 1788584200040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029562"
-    },
-    {
-      "id": "hv75029552",
-      "lon": -155.238830566406,
-      "lat": 19.3901672363281,
-      "depth": 42.4000015258789,
-      "mag": 2.25,
-      "place": "5 km S of Volcano, Hawaii",
-      "time": 1788583905570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029552"
     }
   ]
 }
