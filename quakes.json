@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T03:45:39Z",
-  "count": 171,
+  "updated": "2026-09-06T04:01:39Z",
+  "count": 170,
   "points": [
     {
       "id": "ci41541976",
@@ -34,13 +34,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430477"
     },
     {
+      "id": "uu80154381",
+      "lon": -112.897833333333,
+      "lat": 38.5178333333333,
+      "depth": 2.26,
+      "mag": 2.04,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1788664083730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80154381"
+    },
+    {
       "id": "tx2026rnmccd",
       "lon": -104.456,
       "lat": 31.667,
-      "depth": 5.6237,
+      "depth": 5.6359,
       "mag": 1.7,
       "place": "56 km S of Whites City, New Mexico",
-      "time": 1788663656976,
+      "time": 1788663656974,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rnmccd"
     },
     {
@@ -1692,26 +1702,6 @@
       "place": "36 km WNW of Salamatof, Alaska",
       "time": 1788580966239,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ronmwt"
-    },
-    {
-      "id": "ci41541792",
-      "lon": -116.758666666667,
-      "lat": 33.6531666666667,
-      "depth": 12.7,
-      "mag": 0.52,
-      "place": "10 km SSW of Idyllwild, CA",
-      "time": 1788580545710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541792"
-    },
-    {
-      "id": "nc75430022",
-      "lon": -122.790000915527,
-      "lat": 38.8338317871094,
-      "depth": 2.09999990463257,
-      "mag": 0.9,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1788580429790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430022"
     }
   ]
 }
