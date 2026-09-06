@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T03:15:41Z",
-  "count": 175,
+  "updated": "2026-09-06T03:30:54Z",
+  "count": 174,
   "points": [
+    {
+      "id": "ci41541976",
+      "lon": -116.803665161133,
+      "lat": 33.5726661682129,
+      "depth": 6.23000001907349,
+      "mag": 1.18725007504571,
+      "place": "12 km W of Anza, CA",
+      "time": 1788665277350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541976"
+    },
+    {
+      "id": "aka2026rqhyuy",
+      "lon": -141.225,
+      "lat": 59.871,
+      "depth": 5,
+      "mag": 2,
+      "place": "91 km WNW of Yakutat, Alaska",
+      "time": 1788664553545,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rqhyuy"
+    },
     {
       "id": "nc75430477",
       "lon": -122.789833068848,
@@ -1722,36 +1742,6 @@
       "place": "7 km W of Cobb, CA",
       "time": 1788579095850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430012"
-    },
-    {
-      "id": "tx2026rlqwmc",
-      "lon": -101.738,
-      "lat": 31.857,
-      "depth": 4.1284,
-      "mag": 1.5,
-      "place": "24 km W of Garden City, Texas",
-      "time": 1788578404875,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rlqwmc"
-    },
-    {
-      "id": "nc75430002",
-      "lon": -122.821998596191,
-      "lat": 38.8178329467773,
-      "depth": 2.02999997138977,
-      "mag": 0.86,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1788578320030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430002"
-    },
-    {
-      "id": "pr71530993",
-      "lon": -66.7848333333333,
-      "lat": 17.9026666666667,
-      "depth": 25.95,
-      "mag": 1.91,
-      "place": "10 km SSE of Indios, Puerto Rico",
-      "time": 1788578245380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71530993"
     }
   ]
 }
