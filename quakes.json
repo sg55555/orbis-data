@@ -1,16 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-07T23:01:04Z",
-  "count": 202,
+  "updated": "2026-09-07T23:15:42Z",
+  "count": 205,
   "points": [
     {
+      "id": "ci41542552",
+      "lon": -116.768,
+      "lat": 34.0135,
+      "depth": 18.06,
+      "mag": 1.23,
+      "place": "11 km N of Cabazon, CA",
+      "time": 1788822419070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542552"
+    },
+    {
+      "id": "aka2026rtrrqt",
+      "lon": -147.486,
+      "lat": 64.991,
+      "depth": 5,
+      "mag": 1,
+      "place": "7 km ENE of Fox, Alaska",
+      "time": 1788822387723,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rtrrqt"
+    },
+    {
+      "id": "ci41542544",
+      "lon": -116.854,
+      "lat": 33.9638333333333,
+      "depth": 8.39,
+      "mag": 0.81,
+      "place": "5 km NNE of Banning, CA",
+      "time": 1788822345390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542544"
+    },
+    {
       "id": "ci41542536",
-      "lon": -117.805335998535,
-      "lat": 35.3246650695801,
-      "depth": 5.78000020980835,
-      "mag": 1.6497011589689,
+      "lon": -117.803666666667,
+      "lat": 35.3223333333333,
+      "depth": 6.88,
+      "mag": 1.53,
       "place": "16 km WSW of Johannesburg, CA",
-      "time": 1788821905980,
+      "time": 1788821905930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542536"
     },
     {
@@ -62,6 +92,16 @@
       "place": "84 km NW of Karluk, Alaska",
       "time": 1788819646443,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rtqebb"
+    },
+    {
+      "id": "us7000tez1",
+      "lon": -69.2641,
+      "lat": -25.0539,
+      "depth": 90.724,
+      "mag": 4.5,
+      "place": "129 km ENE of Taltal, Chile",
+      "time": 1788818078748,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tez1"
     },
     {
       "id": "nc75431402",
@@ -2012,16 +2052,6 @@
       "place": "22 km SSE of Pāhala, Hawaii",
       "time": 1788737535310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030277"
-    },
-    {
-      "id": "hv75030267",
-      "lon": -155.430160522461,
-      "lat": 19.2876663208008,
-      "depth": 28.5100002288818,
-      "mag": 1.74,
-      "place": "10 km NNE of Pāhala, Hawaii",
-      "time": 1788736367670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030267"
     }
   ]
 }
