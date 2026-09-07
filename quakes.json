@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-07T00:01:08Z",
-  "count": 183,
+  "updated": "2026-09-07T00:15:39Z",
+  "count": 181,
   "points": [
+    {
+      "id": "aka2026rrxren",
+      "lon": -149.595,
+      "lat": 61.705,
+      "depth": 14.7,
+      "mag": 2.3,
+      "place": "8 km N of Meadow Lakes, Alaska",
+      "time": 1788739592285,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrxren"
+    },
+    {
+      "id": "aka2026rrxnpv",
+      "lon": -155.471,
+      "lat": 58.141,
+      "depth": 5,
+      "mag": 1,
+      "place": "87 km NW of Karluk, Alaska",
+      "time": 1788739345368,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrxnpv"
+    },
     {
       "id": "aka2026rrxaqi",
       "lon": -153.241,
@@ -25,12 +45,12 @@
     },
     {
       "id": "aka2026rrwrsv",
-      "lon": -148.615,
-      "lat": 68.644,
-      "depth": 0,
-      "mag": 2.7,
-      "place": "139 km WNW of Arctic Village, Alaska",
-      "time": 1788737835681,
+      "lon": -148.655,
+      "lat": 68.639,
+      "depth": 5,
+      "mag": 2.8,
+      "place": "138 km ENE of Anaktuvuk Pass, Alaska",
+      "time": 1788737835824,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrwrsv"
     },
     {
@@ -1792,46 +1812,6 @@
       "place": "8 km WNW of Cobb, CA",
       "time": 1788654303900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430417"
-    },
-    {
-      "id": "aka2026rqbvhd",
-      "lon": -153.314,
-      "lat": 59.72,
-      "depth": 132.1,
-      "mag": 2.2,
-      "place": "45 km E of Pedro Bay, Alaska",
-      "time": 1788653513928,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rqbvhd"
-    },
-    {
-      "id": "nc75430412",
-      "lon": -122.801330566406,
-      "lat": 38.8198318481445,
-      "depth": 2.35999989509583,
-      "mag": 1.22,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1788653364090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430412"
-    },
-    {
-      "id": "nc75430407",
-      "lon": -120.94750213623,
-      "lat": 36.658332824707,
-      "depth": 3.65000009536743,
-      "mag": 2.13,
-      "place": "22 km NE of Pinnacles, CA",
-      "time": 1788653348480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430407"
-    },
-    {
-      "id": "hv75029857",
-      "lon": -155.371170043945,
-      "lat": 19.0256671905518,
-      "depth": 30.4599990844727,
-      "mag": 2.03,
-      "place": "22 km ESE of Naalehu, Hawaii",
-      "time": 1788653209850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029857"
     }
   ]
 }
