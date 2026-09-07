@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-07T15:31:00Z",
-  "count": 196,
+  "updated": "2026-09-07T15:45:43Z",
+  "count": 192,
   "points": [
     {
+      "id": "ci41542400",
+      "lon": -116.985333333333,
+      "lat": 33.9701666666667,
+      "depth": 3.89,
+      "mag": 0.75,
+      "place": "5 km N of Beaumont, CA",
+      "time": 1788795237220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542400"
+    },
+    {
       "id": "ci41542392",
-      "lon": -116.987335205078,
-      "lat": 33.9703330993652,
-      "depth": 1.70000004768372,
-      "mag": 1.38270543394726,
+      "lon": -116.989666666667,
+      "lat": 33.9693333333333,
+      "depth": 2.77,
+      "mag": 1.33,
       "place": "5 km NNW of Beaumont, CA",
-      "time": 1788794871520,
+      "time": 1788794871530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542392"
     },
     {
@@ -262,6 +272,16 @@
       "place": "31 km SW of Petersville, Alaska",
       "time": 1788788384866,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rsyuhl"
+    },
+    {
+      "id": "us7000tew3",
+      "lon": 128.5045,
+      "lat": 2.2478,
+      "depth": 235.036,
+      "mag": 4.3,
+      "place": "79 km NE of Tobelo, Indonesia",
+      "time": 1788788020590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tew3"
     },
     {
       "id": "ci41542328",
@@ -1902,66 +1922,6 @@
       "place": "2 km NW of The Geysers, CA",
       "time": 1788710724180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430742"
-    },
-    {
-      "id": "aka2026rrgvpe",
-      "lon": -146.519,
-      "lat": 61.571,
-      "depth": 46.9,
-      "mag": 1.3,
-      "place": "48 km SSE of Nelchina, Alaska",
-      "time": 1788709311344,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrgvpe"
-    },
-    {
-      "id": "ci41542160",
-      "lon": -117.829,
-      "lat": 36.0646666666667,
-      "depth": 2.81,
-      "mag": 1.42,
-      "place": "11 km ENE of Coso Junction, CA",
-      "time": 1788708925220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542160"
-    },
-    {
-      "id": "us7000teqw",
-      "lon": -115.18,
-      "lat": 44.3368,
-      "depth": 10,
-      "mag": 3.3,
-      "place": "23 km NW of Stanley, Idaho",
-      "time": 1788708924623,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teqw"
-    },
-    {
-      "id": "nc75430727",
-      "lon": -122.792167663574,
-      "lat": 38.8136672973633,
-      "depth": 3.42000007629395,
-      "mag": 0.41,
-      "place": "5 km NW of The Geysers, CA",
-      "time": 1788708848160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430727"
-    },
-    {
-      "id": "ci41542152",
-      "lon": -117.837333679199,
-      "lat": 36.0724983215332,
-      "depth": 2.61999988555908,
-      "mag": 3.0502761918035,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": 1788708820770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542152"
-    },
-    {
-      "id": "ci41542144",
-      "lon": -117.2595,
-      "lat": 34.0031666666667,
-      "depth": 13.44,
-      "mag": 1.47,
-      "place": "5 km S of Loma Linda, CA",
-      "time": 1788708675110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542144"
     }
   ]
 }
