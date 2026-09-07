@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-06T23:48:25Z",
-  "count": 182,
+  "updated": "2026-09-07T00:01:08Z",
+  "count": 183,
   "points": [
+    {
+      "id": "aka2026rrxaqi",
+      "lon": -153.241,
+      "lat": 59.787,
+      "depth": 132,
+      "mag": 1.8,
+      "place": "48 km E of Pedro Bay, Alaska",
+      "time": 1788738440459,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrxaqi"
+    },
     {
       "id": "nc75430897",
       "lon": -122.730003356934,
@@ -72,6 +82,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1788734120970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430872"
+    },
+    {
+      "id": "us7000tes0",
+      "lon": -76.795,
+      "lat": 4.5418,
+      "depth": 61.61,
+      "mag": 4.4,
+      "place": "20 km SW of Sipí, Colombia",
+      "time": 1788732938764,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tes0"
     },
     {
       "id": "aka2026rrtnhu",
@@ -1812,16 +1832,6 @@
       "place": "22 km ESE of Naalehu, Hawaii",
       "time": 1788653209850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029857"
-    },
-    {
-      "id": "hv75029847",
-      "lon": -155.289169311523,
-      "lat": 19.236665725708,
-      "depth": 44.3899993896484,
-      "mag": 1.74,
-      "place": "20 km E of Pāhala, Hawaii",
-      "time": 1788652095440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029847"
     }
   ]
 }
