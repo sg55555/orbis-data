@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-07T06:45:43Z",
-  "count": 191,
+  "updated": "2026-09-07T07:01:08Z",
+  "count": 192,
   "points": [
     {
+      "id": "tx2026rppnyg",
+      "lon": -103.478,
+      "lat": 31.159,
+      "depth": 4.6015,
+      "mag": 1.4,
+      "place": "24 km SSE of Lindsay, Texas",
+      "time": 1788764041362,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rppnyg"
+    },
+    {
+      "id": "aka2026rslcyz",
+      "lon": -136.399,
+      "lat": 59.194,
+      "depth": 5,
+      "mag": 2,
+      "place": "32 km SW of Covenant Life, Alaska",
+      "time": 1788763797922,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rslcyz"
+    },
+    {
       "id": "aka2026rskved",
-      "lon": -152.93,
+      "lon": -152.924,
       "lat": 59.497,
-      "depth": 104.9,
-      "mag": 2.2,
+      "depth": 105,
+      "mag": 2.3,
       "place": "59 km WNW of Nanwalek, Alaska",
-      "time": 1788763258292,
+      "time": 1788763258271,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rskved"
     },
     {
@@ -1902,16 +1922,6 @@
       "place": "9 km SSW of Midland, Texas",
       "time": 1788678240750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rnudqr"
-    },
-    {
-      "id": "hv75029982",
-      "lon": -155.287002563477,
-      "lat": 19.2391662597656,
-      "depth": 44.6500015258789,
-      "mag": 2.18,
-      "place": "20 km E of Pāhala, Hawaii",
-      "time": 1788677573760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029982"
     }
   ]
 }
