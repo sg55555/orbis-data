@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-07T16:01:10Z",
-  "count": 192,
+  "updated": "2026-09-07T16:15:41Z",
+  "count": 190,
   "points": [
+    {
+      "id": "ci41542424",
+      "lon": -115.494333333333,
+      "lat": 32.9563333333333,
+      "depth": 1.44,
+      "mag": 1.32,
+      "place": "4 km SE of Brawley, CA",
+      "time": 1788797296450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542424"
+    },
     {
       "id": "ci41542400",
       "lon": -116.985333333333,
@@ -47,10 +57,10 @@
       "id": "tx2026rqgkay",
       "lon": -103.965,
       "lat": 31.606,
-      "depth": 6.0287,
+      "depth": 6.056,
       "mag": 1.7,
       "place": "36 km NNW of Toyah, Texas",
-      "time": 1788794547603,
+      "time": 1788794547597,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rqgkay"
     },
     {
@@ -1892,36 +1902,6 @@
       "place": "13 km SE of Pinnacles, CA",
       "time": 1788711532820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430747"
-    },
-    {
-      "id": "tx2026romilg",
-      "lon": -101.634,
-      "lat": 32.485,
-      "depth": 4.9152,
-      "mag": 1,
-      "place": "8 km ESE of Ackerly, Texas",
-      "time": 1788711156211,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026romilg"
-    },
-    {
-      "id": "tx2026rolzka",
-      "lon": -101.635,
-      "lat": 32.486,
-      "depth": 3.5255,
-      "mag": 1.1,
-      "place": "8 km ESE of Ackerly, Texas",
-      "time": 1788710724614,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rolzka"
-    },
-    {
-      "id": "nc75430742",
-      "lon": -122.772003173828,
-      "lat": 38.7888336181641,
-      "depth": 3.57999992370605,
-      "mag": 1.39,
-      "place": "2 km NW of The Geysers, CA",
-      "time": 1788710724180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430742"
     }
   ]
 }
