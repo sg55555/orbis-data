@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-07T07:01:08Z",
-  "count": 192,
+  "updated": "2026-09-07T07:15:43Z",
+  "count": 191,
   "points": [
+    {
+      "id": "aka2026rslsel",
+      "lon": -150.649,
+      "lat": 63.045,
+      "depth": 123.1,
+      "mag": 2.8,
+      "place": "61 km N of Petersville, Alaska",
+      "time": 1788764856136,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rslsel"
+    },
     {
       "id": "tx2026rppnyg",
       "lon": -103.478,
@@ -785,12 +795,12 @@
     },
     {
       "id": "tx2026rovblf",
-      "lon": -103.898,
-      "lat": 31.96,
-      "depth": 8.3835,
+      "lon": -103.893,
+      "lat": 31.961,
+      "depth": 7.4326,
       "mag": 1.8,
       "place": "33 km SSE of Malaga, New Mexico",
-      "time": 1788726977656,
+      "time": 1788726977856,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rovblf"
     },
     {
@@ -1902,26 +1912,6 @@
       "place": "9 km SE of Valle Vista, CA",
       "time": 1788679783750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542032"
-    },
-    {
-      "id": "ci41542024",
-      "lon": -118.204498291016,
-      "lat": 33.8585014343262,
-      "depth": 12.8100004196167,
-      "mag": 3.22073479851606,
-      "place": "4 km SSE of Compton, CA",
-      "time": 1788678791410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542024"
-    },
-    {
-      "id": "tx2026rnudqr",
-      "lon": -102.11,
-      "lat": 31.912,
-      "depth": 2.6435,
-      "mag": 1.1,
-      "place": "9 km SSW of Midland, Texas",
-      "time": 1788678240750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rnudqr"
     }
   ]
 }
