@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-07T05:30:54Z",
-  "count": 191,
+  "updated": "2026-09-07T05:45:37Z",
+  "count": 190,
   "points": [
+    {
+      "id": "ci41542248",
+      "lon": -117.813667297363,
+      "lat": 35.3248329162598,
+      "depth": 6.28000020980835,
+      "mag": 1.51495316982746,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1788759749830,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542248"
+    },
+    {
+      "id": "aka2026rsimby",
+      "lon": -149.773,
+      "lat": 64.775,
+      "depth": 10,
+      "mag": 1.2,
+      "place": "36 km WNW of Four Mile Road, Alaska",
+      "time": 1788759031935,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rsimby"
+    },
     {
       "id": "nc75431002",
       "lon": -122.845664978027,
@@ -1882,36 +1902,6 @@
       "place": "5 km WNW of Cobb, CA",
       "time": 1788674121710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430497"
-    },
-    {
-      "id": "nc75430487",
-      "lon": -122.93399810791,
-      "lat": 38.7765007019043,
-      "depth": 3.83999991416931,
-      "mag": 1.34,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1788673331880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430487"
-    },
-    {
-      "id": "aka2026rqmmou",
-      "lon": -147.673,
-      "lat": 59.335,
-      "depth": 5,
-      "mag": 2.4,
-      "place": "83 km SSE of Chenega, Alaska",
-      "time": 1788672700552,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rqmmou"
-    },
-    {
-      "id": "hv75029952",
-      "lon": -155.10400390625,
-      "lat": 19.6350002288818,
-      "depth": 31.6399993896484,
-      "mag": 2.76,
-      "place": "6 km NW of Kurtistown, Hawaii",
-      "time": 1788672690920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029952"
     }
   ]
 }
