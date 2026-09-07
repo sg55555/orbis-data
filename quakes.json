@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-07T02:30:55Z",
-  "count": 186,
+  "updated": "2026-09-07T02:45:44Z",
+  "count": 188,
   "points": [
+    {
+      "id": "ci41542208",
+      "lon": -117.803337097168,
+      "lat": 33.7946662902832,
+      "depth": 2.79999995231628,
+      "mag": 1.51250703955276,
+      "place": "2 km SSE of Villa Park, CA",
+      "time": 1788748943030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542208"
+    },
     {
       "id": "tx2026rpgsgc",
       "lon": -103.653,
@@ -34,6 +44,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430932"
     },
     {
+      "id": "us7000tesx",
+      "lon": 178.6445,
+      "lat": -31.1216,
+      "depth": 585.921,
+      "mag": 4.9,
+      "place": "Kermadec Islands region",
+      "time": 1788747111997,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tesx"
+    },
+    {
       "id": "us7000test",
       "lon": 178.5443,
       "lat": -30.9663,
@@ -42,6 +62,16 @@
       "place": "Kermadec Islands region",
       "time": 1788746808371,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000test"
+    },
+    {
+      "id": "us7000tesr",
+      "lon": -139.1261,
+      "lat": 57.8732,
+      "depth": 10,
+      "mag": 4.1,
+      "place": "168 km WSW of Elfin Cove, Alaska",
+      "time": 1788746394767,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tesr"
     },
     {
       "id": "aka2026rsblne",
@@ -1852,16 +1882,6 @@
       "place": "108 km SW of Puerto Madero, Mexico",
       "time": 1788663392601,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tem2"
-    },
-    {
-      "id": "tx2026rnlojj",
-      "lon": -101.694,
-      "lat": 31.718,
-      "depth": 3.5195,
-      "mag": 1.1,
-      "place": "25 km SW of Garden City, Texas",
-      "time": 1788662697906,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rnlojj"
     }
   ]
 }
