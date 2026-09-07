@@ -1,16 +1,16 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-07T05:45:37Z",
-  "count": 190,
+  "updated": "2026-09-07T06:01:06Z",
+  "count": 188,
   "points": [
     {
       "id": "ci41542248",
-      "lon": -117.813667297363,
-      "lat": 35.3248329162598,
-      "depth": 6.28000020980835,
-      "mag": 1.51495316982746,
+      "lon": -117.808,
+      "lat": 35.3163333333333,
+      "depth": 7.3,
+      "mag": 1.11,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1788759749830,
+      "time": 1788759749730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542248"
     },
     {
@@ -202,6 +202,16 @@
       "place": "124 km S of Dampit, Indonesia",
       "time": 1788749315539,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tetc"
+    },
+    {
+      "id": "pr2026250001",
+      "lon": -68.7458,
+      "lat": 18.5473,
+      "depth": 143,
+      "mag": 3.64,
+      "place": "8 km SSW of Salvaleón de Higüey, Dominican Republic",
+      "time": 1788749198930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026250001"
     },
     {
       "id": "us7000tetb",
@@ -1872,36 +1882,6 @@
       "place": "60 km NE of Labuan Bajo, Indonesia",
       "time": 1788674765479,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ten5"
-    },
-    {
-      "id": "nm60627601",
-      "lon": -88.616,
-      "lat": 36.0313333333333,
-      "depth": 14.99,
-      "mag": 1.73,
-      "place": "2 km NNE of Trezevant, Tennessee",
-      "time": 1788674390490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60627601"
-    },
-    {
-      "id": "aka2026rqniig",
-      "lon": -151.124,
-      "lat": 61.03,
-      "depth": 75.4,
-      "mag": 1.6,
-      "place": "4 km S of Tyonek, Alaska",
-      "time": 1788674208887,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rqniig"
-    },
-    {
-      "id": "nc75430497",
-      "lon": -122.783500671387,
-      "lat": 38.8373336791992,
-      "depth": 1.99000000953674,
-      "mag": 1.5,
-      "place": "5 km WNW of Cobb, CA",
-      "time": 1788674121710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430497"
     }
   ]
 }
