@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-07T08:45:42Z",
-  "count": 191,
+  "updated": "2026-09-07T09:01:12Z",
+  "count": 192,
   "points": [
+    {
+      "id": "ci41542280",
+      "lon": -116.029666666667,
+      "lat": 32.7676666666667,
+      "depth": 10.28,
+      "mag": 1.23,
+      "place": "5 km NW of Ocotillo, CA",
+      "time": 1788771350810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542280"
+    },
+    {
+      "id": "ci41542272",
+      "lon": -116.029333333333,
+      "lat": 32.7745,
+      "depth": 10.67,
+      "mag": 0.96,
+      "place": "6 km NW of Ocotillo, CA",
+      "time": 1788771322040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542272"
+    },
     {
       "id": "nc75431072",
       "lon": -124.125831604004,
@@ -17,11 +37,21 @@
       "id": "tx2026rpsjjr",
       "lon": -103.816,
       "lat": 32.014,
-      "depth": 7.214,
+      "depth": 7.2165,
       "mag": 1.2,
       "place": "33 km SE of Malaga, New Mexico",
-      "time": 1788769159875,
+      "time": 1788769159874,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rpsjjr"
+    },
+    {
+      "id": "pr71531133",
+      "lon": -67.0481666666667,
+      "lat": 18.2023333333333,
+      "depth": 121.93,
+      "mag": 3.18,
+      "place": "7 km WNW of Maricao, Puerto Rico",
+      "time": 1788768484030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531133"
     },
     {
       "id": "nc75431067",
@@ -1892,26 +1922,6 @@
       "place": "65 km S of Camaná, Peru",
       "time": 1788686066925,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tenr"
-    },
-    {
-      "id": "nc75430542",
-      "lon": -121.892333984375,
-      "lat": 37.9958343505859,
-      "depth": 15.6199998855591,
-      "mag": 1.49,
-      "place": "4 km S of Pittsburg, CA",
-      "time": 1788685187100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430542"
-    },
-    {
-      "id": "nc75430537",
-      "lon": -122.708000183105,
-      "lat": 38.7779998779297,
-      "depth": 3.27999997138977,
-      "mag": 1.32,
-      "place": "1 km WNW of Anderson Springs, CA",
-      "time": 1788684788590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430537"
     }
   ]
 }
