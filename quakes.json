@@ -1,17 +1,47 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-07T02:45:44Z",
-  "count": 188,
+  "updated": "2026-09-07T03:01:07Z",
+  "count": 189,
   "points": [
     {
+      "id": "nc75430947",
+      "lon": -122.794502258301,
+      "lat": 38.8354988098145,
+      "depth": 2.23000001907349,
+      "mag": 0.71,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1788749552530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430947"
+    },
+    {
+      "id": "ci41542216",
+      "lon": -117.235166666667,
+      "lat": 34.0445,
+      "depth": 0.35,
+      "mag": 0.68,
+      "place": "2 km E of Loma Linda, CA",
+      "time": 1788749419870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542216"
+    },
+    {
       "id": "ci41542208",
-      "lon": -117.803337097168,
-      "lat": 33.7946662902832,
-      "depth": 2.79999995231628,
-      "mag": 1.51250703955276,
-      "place": "2 km SSE of Villa Park, CA",
-      "time": 1788748943030,
+      "lon": -117.801,
+      "lat": 33.7931666666667,
+      "depth": 3.04,
+      "mag": 1.35,
+      "place": "3 km SSE of Villa Park, CA",
+      "time": 1788748943040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542208"
+    },
+    {
+      "id": "us7000tet6",
+      "lon": 178.6194,
+      "lat": -31.2726,
+      "depth": 586.221,
+      "mag": 4.7,
+      "place": "Kermadec Islands region",
+      "time": 1788748221719,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tet6"
     },
     {
       "id": "tx2026rpgsgc",
@@ -1862,26 +1892,6 @@
       "place": "10 km W of Andrews, Texas",
       "time": 1788663687120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rnmcqi"
-    },
-    {
-      "id": "tx2026rnmccd",
-      "lon": -104.456,
-      "lat": 31.667,
-      "depth": 5.6359,
-      "mag": 1.7,
-      "place": "56 km S of Whites City, New Mexico",
-      "time": 1788663656974,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rnmccd"
-    },
-    {
-      "id": "us7000tem2",
-      "lon": -93.2487,
-      "lat": 14.1551,
-      "depth": 10,
-      "mag": 5.3,
-      "place": "108 km SW of Puerto Madero, Mexico",
-      "time": 1788663392601,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tem2"
     }
   ]
 }
