@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-07T02:01:02Z",
-  "count": 180,
+  "updated": "2026-09-07T02:15:42Z",
+  "count": 181,
   "points": [
+    {
+      "id": "aka2026rsblne",
+      "lon": -139.944,
+      "lat": 58.464,
+      "depth": 5,
+      "mag": 3.7,
+      "place": "121 km S of Yakutat, Alaska",
+      "time": 1788746385362,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rsblne"
+    },
     {
       "id": "aka2026rsaxav",
       "lon": -152.909,
@@ -24,14 +34,24 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rsauol"
     },
     {
-      "id": "attkz06l",
-      "lon": -128.75,
-      "lat": 43.832,
-      "depth": 12,
-      "mag": 4.6,
+      "id": "us7000tesi",
+      "lon": -128.2038,
+      "lat": 43.9019,
+      "depth": 10,
+      "mag": 5.3,
       "place": "off the coast of Oregon",
-      "time": 1788744621000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attkz06l"
+      "time": 1788744624930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tesi"
+    },
+    {
+      "id": "us7000tesk",
+      "lon": -128.1908,
+      "lat": 43.778,
+      "depth": 12.294,
+      "mag": 3.9,
+      "place": "off the coast of Oregon",
+      "time": 1788744601883,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tesk"
     },
     {
       "id": "pr71531118",
@@ -1792,16 +1812,6 @@
       "place": "8 km WSW of Two Rivers, Alaska",
       "time": 1788661214833,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rqgcof"
-    },
-    {
-      "id": "us7000tely",
-      "lon": -14.92,
-      "lat": 70.6365,
-      "depth": 10,
-      "mag": 4.2,
-      "place": "230 km W of Olonkinbyen, Svalbard and Jan Mayen",
-      "time": 1788660807506,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tely"
     }
   ]
 }
