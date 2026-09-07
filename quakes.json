@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-07T11:01:12Z",
-  "count": 192,
+  "updated": "2026-09-07T11:15:41Z",
+  "count": 193,
   "points": [
+    {
+      "id": "hv75030407",
+      "lon": -155.381164550781,
+      "lat": 19.0153331756592,
+      "depth": 29.25,
+      "mag": 1.75,
+      "place": "21 km ESE of Naalehu, Hawaii",
+      "time": 1788779253760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030407"
+    },
+    {
+      "id": "tx2026rpxtre",
+      "lon": -103.878,
+      "lat": 31.511,
+      "depth": 6.0417,
+      "mag": 1.5,
+      "place": "23 km NNW of Toyah, Texas",
+      "time": 1788778924918,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rpxtre"
+    },
     {
       "id": "ci41542296",
       "lon": -116.329833333333,
@@ -1912,16 +1932,6 @@
       "place": "105 km NNW of Pante Makasar, Timor Leste",
       "time": 1788693346043,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teph"
-    },
-    {
-      "id": "ci41542080",
-      "lon": -117.8065,
-      "lat": 35.316,
-      "depth": 6.95,
-      "mag": 1.26,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1788692441600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542080"
     }
   ]
 }
