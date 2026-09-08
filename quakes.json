@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T17:31:03Z",
+  "updated": "2026-09-08T17:45:46Z",
   "count": 207,
   "points": [
+    {
+      "id": "ci41542888",
+      "lon": -118.923166666667,
+      "lat": 36.0575,
+      "depth": 5.33,
+      "mag": 1.49,
+      "place": "8 km E of Porterville, CA",
+      "time": 1788888750270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542888"
+    },
+    {
+      "id": "ci41542880",
+      "lon": -116.983,
+      "lat": 32.5988333333333,
+      "depth": 3.39,
+      "mag": 1.12,
+      "place": "7 km ESE of Chula Vista, CA",
+      "time": 1788888657430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542880"
+    },
+    {
+      "id": "ci41542872",
+      "lon": -117.108833333333,
+      "lat": 33.7476666666667,
+      "depth": 2.45,
+      "mag": 0.84,
+      "place": "3 km WNW of Green Acres, CA",
+      "time": 1788888599660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542872"
+    },
     {
       "id": "aka2026rvcdtb",
       "lon": -155.79,
@@ -795,12 +825,12 @@
     },
     {
       "id": "aka2026rumtco",
-      "lon": -148.565,
-      "lat": 64.609,
-      "depth": 5.8,
+      "lon": -148.525,
+      "lat": 64.599,
+      "depth": 6.6,
       "mag": 3.1,
-      "place": "25 km E of Nenana, Alaska",
-      "time": 1788860270039,
+      "place": "27 km E of Nenana, Alaska",
+      "time": 1788860270104,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rumtco"
     },
     {
@@ -2042,36 +2072,6 @@
       "place": "3 km SSE of The Geysers, CA",
       "time": 1788803322290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431237"
-    },
-    {
-      "id": "aka2026rtgtkz",
-      "lon": -148.832,
-      "lat": 62.774,
-      "depth": 5,
-      "mag": 2.1,
-      "place": "69 km S of Cantwell, Alaska",
-      "time": 1788802717301,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rtgtkz"
-    },
-    {
-      "id": "ci41542472",
-      "lon": -116.247166666667,
-      "lat": 32.9138333333333,
-      "depth": 7.13,
-      "mag": 0.73,
-      "place": "28 km SSW of Ocotillo Wells, CA",
-      "time": 1788802690510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542472"
-    },
-    {
-      "id": "nc75431227",
-      "lon": -122.827331542969,
-      "lat": 38.8106651306152,
-      "depth": 9.40999984741211,
-      "mag": 0.57,
-      "place": "7 km WNW of The Geysers, CA",
-      "time": 1788802515990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431227"
     }
   ]
 }
