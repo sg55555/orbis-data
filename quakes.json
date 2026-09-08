@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T07:30:57Z",
-  "count": 185,
+  "updated": "2026-09-08T07:45:41Z",
+  "count": 183,
   "points": [
     {
+      "id": "tx2026rrmmbh",
+      "lon": -104.011,
+      "lat": 31.521,
+      "depth": 5.6016,
+      "mag": 1.9,
+      "place": "30 km NW of Toyah, Texas",
+      "time": 1788852627989,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rrmmbh"
+    },
+    {
+      "id": "nc75431607",
+      "lon": -122.841331481934,
+      "lat": 38.8190002441406,
+      "depth": 2.5,
+      "mag": 1.05,
+      "place": "9 km WNW of The Geysers, CA",
+      "time": 1788852522250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431607"
+    },
+    {
       "id": "uu80155026",
-      "lon": -111.165336608887,
-      "lat": 44.7550010681152,
-      "depth": 11.8800001144409,
+      "lon": -111.152,
+      "lat": 44.7586666666667,
+      "depth": 11,
       "mag": 2.74,
-      "place": "2 km SE of Hebgen Lake Estates, Montana",
-      "time": 1788852113630,
+      "place": "3 km ESE of Hebgen Lake Estates, Montana",
+      "time": 1788852113740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155026"
     },
     {
@@ -1812,46 +1832,6 @@
       "place": "5 km WNW of Cobb, CA",
       "time": 1788768457440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431067"
-    },
-    {
-      "id": "uu80154666",
-      "lon": -110.221666666667,
-      "lat": 44.049,
-      "depth": 7.08,
-      "mag": 2.64,
-      "place": "57 km NE of Kelly, Wyoming",
-      "time": 1788767024250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80154666"
-    },
-    {
-      "id": "nc75431062",
-      "lon": -122.853668212891,
-      "lat": 38.8216667175293,
-      "depth": 2.53999996185303,
-      "mag": 1.07,
-      "place": "10 km WNW of The Geysers, CA",
-      "time": 1788766845410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431062"
-    },
-    {
-      "id": "hv75030352",
-      "lon": -155.148330688477,
-      "lat": 19.8409996032715,
-      "depth": 33.8499984741211,
-      "mag": 2.35,
-      "place": "4 km W of Pepeekeo, Hawaii",
-      "time": 1788766529330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030352"
-    },
-    {
-      "id": "nc75431057",
-      "lon": -122.846664428711,
-      "lat": 38.8223342895508,
-      "depth": 2.13000011444092,
-      "mag": 1.07,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": 1788766462840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431057"
     }
   ]
 }
