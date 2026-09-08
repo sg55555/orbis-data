@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T02:01:05Z",
-  "count": 194,
+  "updated": "2026-09-08T02:15:40Z",
+  "count": 193,
   "points": [
+    {
+      "id": "aka2026rtxspy",
+      "lon": -141.385,
+      "lat": 59.859,
+      "depth": 17.6,
+      "mag": 2.2,
+      "place": "99 km WNW of Yakutat, Alaska",
+      "time": 1788833248927,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rtxspy"
+    },
     {
       "id": "aka2026rtxhvg",
       "lon": -143.492,
@@ -22,6 +32,16 @@
       "place": "20 km SSE of Pāhala, Hawaii",
       "time": 1788831723630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030732"
+    },
+    {
+      "id": "us7000tfqi",
+      "lon": -179.7628,
+      "lat": -22.3345,
+      "depth": 568.559,
+      "mag": 4.5,
+      "place": "south of the Fiji Islands",
+      "time": 1788831575020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqi"
     },
     {
       "id": "hv75030717",
@@ -1912,36 +1932,6 @@
       "place": "2 km NW of The Geysers, CA",
       "time": 1788747545980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430932"
-    },
-    {
-      "id": "us7000tesx",
-      "lon": 178.6445,
-      "lat": -31.1216,
-      "depth": 585.921,
-      "mag": 4.9,
-      "place": "Kermadec Islands region",
-      "time": 1788747111997,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tesx"
-    },
-    {
-      "id": "us7000teti",
-      "lon": -166.6651,
-      "lat": 53.896,
-      "depth": 8.776,
-      "mag": 3.3,
-      "place": "8 km W of Dutch Harbor, Alaska",
-      "time": 1788746928393,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teti"
-    },
-    {
-      "id": "us7000test",
-      "lon": 178.5443,
-      "lat": -30.9663,
-      "depth": 585.146,
-      "mag": 5,
-      "place": "Kermadec Islands region",
-      "time": 1788746808371,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000test"
     }
   ]
 }
