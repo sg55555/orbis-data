@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T22:15:41Z",
-  "count": 239,
+  "updated": "2026-09-08T22:30:58Z",
+  "count": 240,
   "points": [
+    {
+      "id": "aka2026rvmamr",
+      "lon": -135.327,
+      "lat": 57.206,
+      "depth": 5,
+      "mag": 2,
+      "place": "17 km N of Sitka, Alaska",
+      "time": 1788905761895,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvmamr"
+    },
+    {
+      "id": "pr71531208",
+      "lon": -66.4888333333333,
+      "lat": 17.9876666666667,
+      "depth": 13.1,
+      "mag": 2.43,
+      "place": "0 km ESE of Potala Pastillo, Puerto Rico",
+      "time": 1788905301990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531208"
+    },
     {
       "id": "ci41543032",
       "lon": -116.802666666667,
@@ -362,6 +382,16 @@
       "place": "22 km WSW of Coyanosa, Texas",
       "time": 1788891136483,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rshtgw"
+    },
+    {
+      "id": "aka2026rvdmtj",
+      "lon": -169.499,
+      "lat": 52.207,
+      "depth": 11.6,
+      "mag": 3.6,
+      "place": "92 km SSW of Nikolski, Alaska",
+      "time": 1788890409093,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvdmtj"
     },
     {
       "id": "nc75431852",
@@ -1915,12 +1945,12 @@
     },
     {
       "id": "ci41542640",
-      "lon": -115.2745,
-      "lat": 32.5808333333333,
-      "depth": 18.7,
-      "mag": 1.91,
-      "place": "8 km ENE of Puebla, B.C., MX",
-      "time": 1788841044470,
+      "lon": -115.2765,
+      "lat": 32.5801666666667,
+      "depth": 20.15,
+      "mag": 1.94,
+      "place": "7 km ENE of Puebla, B.C., MX",
+      "time": 1788841044360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542640"
     },
     {
@@ -2372,26 +2402,6 @@
       "place": "12 km SSW of Jal, New Mexico",
       "time": 1788820282988,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rquprl"
-    },
-    {
-      "id": "us7000tez5",
-      "lon": -71.3275,
-      "lat": -35.5421,
-      "depth": 110.678,
-      "mag": 4.3,
-      "place": "14 km E of San Clemente, Chile",
-      "time": 1788819936826,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tez5"
-    },
-    {
-      "id": "aka2026rtqebb",
-      "lon": -155.342,
-      "lat": 58.163,
-      "depth": 5,
-      "mag": 0.9,
-      "place": "84 km NW of Karluk, Alaska",
-      "time": 1788819646443,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rtqebb"
     }
   ]
 }
