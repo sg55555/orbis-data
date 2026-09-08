@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T02:45:43Z",
-  "count": 187,
+  "updated": "2026-09-08T03:01:09Z",
+  "count": 184,
   "points": [
+    {
+      "id": "ci41542608",
+      "lon": -116.758833333333,
+      "lat": 33.5835,
+      "depth": 12.21,
+      "mag": 0.61,
+      "place": "9 km WNW of Anza, CA",
+      "time": 1788836146870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542608"
+    },
+    {
+      "id": "nc75431522",
+      "lon": -120.582336425781,
+      "lat": 36.0214996337891,
+      "depth": 1.37999999523163,
+      "mag": 0.29,
+      "place": "19 km NW of Parkfield, CA",
+      "time": 1788835543440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431522"
+    },
     {
       "id": "nc75431497",
       "lon": -122.807334899902,
@@ -1822,56 +1842,6 @@
       "place": "6 km W of Dutch Harbor, Alaska",
       "time": 1788751026790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94420543"
-    },
-    {
-      "id": "nc75430947",
-      "lon": -122.794502258301,
-      "lat": 38.8354988098145,
-      "depth": 2.23000001907349,
-      "mag": 0.71,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1788749552530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430947"
-    },
-    {
-      "id": "ci41542216",
-      "lon": -117.235166666667,
-      "lat": 34.0445,
-      "depth": 0.35,
-      "mag": 0.68,
-      "place": "2 km E of Loma Linda, CA",
-      "time": 1788749419870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542216"
-    },
-    {
-      "id": "us7000tetc",
-      "lon": 112.9125,
-      "lat": -9.3217,
-      "depth": 10,
-      "mag": 4.4,
-      "place": "124 km S of Dampit, Indonesia",
-      "time": 1788749315539,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tetc"
-    },
-    {
-      "id": "pr2026250001",
-      "lon": -68.7458,
-      "lat": 18.5473,
-      "depth": 143,
-      "mag": 3.64,
-      "place": "8 km SSW of Salvaleón de Higüey, Dominican Republic",
-      "time": 1788749198930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026250001"
-    },
-    {
-      "id": "us7000tetb",
-      "lon": -68.3102,
-      "lat": 19.5975,
-      "depth": 10,
-      "mag": 3.2,
-      "place": "103 km NE of Miches, Dominican Republic",
-      "time": 1788749197618,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tetb"
     }
   ]
 }
