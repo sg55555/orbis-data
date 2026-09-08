@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T13:45:50Z",
-  "count": 197,
+  "updated": "2026-09-08T14:01:16Z",
+  "count": 195,
   "points": [
+    {
+      "id": "ci41542800",
+      "lon": -116.765166666667,
+      "lat": 33.5783333333333,
+      "depth": 11.95,
+      "mag": 1.51,
+      "place": "9 km WNW of Anza, CA",
+      "time": 1788875430960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542800"
+    },
+    {
+      "id": "uw714096972",
+      "lon": -121.611167907715,
+      "lat": 46.4191665649414,
+      "depth": 3.51999998092651,
+      "mag": 1.55518841743469,
+      "place": "21 km SSE of Packwood, Washington",
+      "time": 1788875343190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714096972"
+    },
     {
       "id": "ci41542784",
       "lon": -117.7985,
@@ -1932,46 +1952,6 @@
       "place": "7 km ESE of Cloverdale, CA",
       "time": 1788790528670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431127"
-    },
-    {
-      "id": "tx2026rqdpaa",
-      "lon": -101.926,
-      "lat": 32.405,
-      "depth": 8.8623,
-      "mag": 2.1,
-      "place": "23 km SW of Ackerly, Texas",
-      "time": 1788789461754,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rqdpaa"
-    },
-    {
-      "id": "tx2026rqdnzi",
-      "lon": -98.082,
-      "lat": 28.881,
-      "depth": 8.3811,
-      "mag": 1.6,
-      "place": "12 km SSW of Falls City, Texas",
-      "time": 1788789388779,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rqdnzi"
-    },
-    {
-      "id": "aka2026rszhhl",
-      "lon": -152.479,
-      "lat": 59.631,
-      "depth": 74.2,
-      "mag": 2,
-      "place": "39 km WSW of Anchor Point, Alaska",
-      "time": 1788789283733,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rszhhl"
-    },
-    {
-      "id": "hv75030482",
-      "lon": -155.591827392578,
-      "lat": 19.4283332824707,
-      "depth": 39.2299995422363,
-      "mag": 2.02,
-      "place": "27 km NNW of Pāhala, Hawaii",
-      "time": 1788789201640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030482"
     }
   ]
 }
