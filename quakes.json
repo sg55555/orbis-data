@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T13:31:02Z",
-  "count": 201,
+  "updated": "2026-09-08T13:45:50Z",
+  "count": 197,
   "points": [
+    {
+      "id": "ci41542784",
+      "lon": -117.7985,
+      "lat": 35.323,
+      "depth": 6.49,
+      "mag": 1.11,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1788874450740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542784"
+    },
     {
       "id": "ci41542776",
       "lon": -116.7245,
@@ -665,12 +675,12 @@
     },
     {
       "id": "tx2026rrjflf",
-      "lon": -103.343,
-      "lat": 31.179,
-      "depth": 8.5561,
-      "mag": 1.9,
-      "place": "27 km WSW of Coyanosa, Texas",
-      "time": 1788846728366,
+      "lon": -103.366,
+      "lat": 31.198,
+      "depth": 8.0481,
+      "mag": 1.7,
+      "place": "25 km SE of Lindsay, Texas",
+      "time": 1788846728558,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rrjflf"
     },
     {
@@ -1022,26 +1032,6 @@
       "place": "92 km ESE of Isangel, Vanuatu",
       "time": 1788828722083,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqf"
-    },
-    {
-      "id": "tx2026rqyrug",
-      "lon": -103.673,
-      "lat": 30.859,
-      "depth": 0.6571,
-      "mag": 1.8,
-      "place": "15 km SSE of Balmorhea, Texas",
-      "time": 1788827672064,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rqyrug"
-    },
-    {
-      "id": "tx2026rqyqom",
-      "lon": -103.622,
-      "lat": 30.912,
-      "depth": 4.7049,
-      "mag": 1.6,
-      "place": "14 km SE of Balmorhea, Texas",
-      "time": 1788827585427,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rqyqom"
     },
     {
       "id": "ci41542592",
@@ -1982,36 +1972,6 @@
       "place": "27 km NNW of Pāhala, Hawaii",
       "time": 1788789201640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030482"
-    },
-    {
-      "id": "tx2026rqdcvq",
-      "lon": -101.234,
-      "lat": 32.441,
-      "depth": 6.4101,
-      "mag": 1.1,
-      "place": "17 km NNE of Coahoma, Texas",
-      "time": 1788788624446,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rqdcvq"
-    },
-    {
-      "id": "aka2026rsyuhl",
-      "lon": -151.153,
-      "lat": 62.281,
-      "depth": 81.2,
-      "mag": 2.3,
-      "place": "31 km SW of Petersville, Alaska",
-      "time": 1788788384866,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rsyuhl"
-    },
-    {
-      "id": "us7000tew3",
-      "lon": 128.5045,
-      "lat": 2.2478,
-      "depth": 235.036,
-      "mag": 4.3,
-      "place": "79 km NE of Tobelo, Indonesia",
-      "time": 1788788020590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tew3"
     }
   ]
 }
