@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T09:45:40Z",
+  "updated": "2026-09-08T10:01:09Z",
   "count": 189,
   "points": [
+    {
+      "id": "aka2026runkig",
+      "lon": -147.753,
+      "lat": 62.188,
+      "depth": 36.6,
+      "mag": 1.3,
+      "place": "41 km NW of Eureka Roadhouse, Alaska",
+      "time": 1788861463368,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026runkig"
+    },
+    {
+      "id": "aka2026runabn",
+      "lon": -147.083,
+      "lat": 65,
+      "depth": 2.1,
+      "mag": 1,
+      "place": "14 km N of Two Rivers, Alaska",
+      "time": 1788860752070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026runabn"
+    },
     {
       "id": "nc75431637",
       "lon": -122.783332824707,
@@ -15,12 +35,12 @@
     },
     {
       "id": "aka2026rumtco",
-      "lon": -148.567,
-      "lat": 64.607,
-      "depth": 5.9,
+      "lon": -148.565,
+      "lat": 64.609,
+      "depth": 5.8,
       "mag": 3.1,
       "place": "25 km E of Nenana, Alaska",
-      "time": 1788860270027,
+      "time": 1788860270039,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rumtco"
     },
     {
@@ -632,6 +652,16 @@
       "place": "88 km W of San Antonio de los Cobres, Argentina",
       "time": 1788830655300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqh"
+    },
+    {
+      "id": "tx2026rqzzia",
+      "lon": -103.902,
+      "lat": 31.96,
+      "depth": 7.6379,
+      "mag": 1.2,
+      "place": "33 km SSE of Malaga, New Mexico",
+      "time": 1788830082233,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rqzzia"
     },
     {
       "id": "us7000tfqf",
@@ -1862,36 +1892,6 @@
       "place": "78 km WNW of Tyonek, Alaska",
       "time": 1788775260489,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rsrmqf"
-    },
-    {
-      "id": "aka2026rsridv",
-      "lon": -152.39,
-      "lat": 59.98,
-      "depth": 79.6,
-      "mag": 2.2,
-      "place": "36 km W of Happy Valley, Alaska",
-      "time": 1788774950719,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rsridv"
-    },
-    {
-      "id": "hv75030377",
-      "lon": -155.594665527344,
-      "lat": 19.4323329925537,
-      "depth": 37.8300018310547,
-      "mag": 1.7,
-      "place": "28 km NNW of Pāhala, Hawaii",
-      "time": 1788774479410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030377"
-    },
-    {
-      "id": "nc75431077",
-      "lon": -122.793663024902,
-      "lat": 38.8376655578613,
-      "depth": 1.87999999523163,
-      "mag": 0.7,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1788774330340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431077"
     }
   ]
 }
