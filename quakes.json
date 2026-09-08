@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T08:15:40Z",
+  "updated": "2026-09-08T08:30:57Z",
   "count": 184,
   "points": [
+    {
+      "id": "ci41542688",
+      "lon": -118.7925,
+      "lat": 34.7271666666667,
+      "depth": 11.4,
+      "mag": 0.76,
+      "place": "10 km SE of Gorman, CA",
+      "time": 1788855845720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542688"
+    },
     {
       "id": "tx2026rrneqs",
       "lon": -104.372,
@@ -25,12 +35,12 @@
     },
     {
       "id": "tx2026rrmmbh",
-      "lon": -104.011,
-      "lat": 31.521,
-      "depth": 5.6016,
+      "lon": -103.997,
+      "lat": 31.526,
+      "depth": 7.356,
       "mag": 1.9,
       "place": "30 km NW of Toyah, Texas",
-      "time": 1788852627989,
+      "time": 1788852628177,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rrmmbh"
     },
     {
@@ -1832,16 +1842,6 @@
       "place": "19 km SE of Petrolia, CA",
       "time": 1788770406370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431072"
-    },
-    {
-      "id": "tx2026rpsjjr",
-      "lon": -103.816,
-      "lat": 32.014,
-      "depth": 7.2165,
-      "mag": 1.2,
-      "place": "33 km SE of Malaga, New Mexico",
-      "time": 1788769159874,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rpsjjr"
     }
   ]
 }
