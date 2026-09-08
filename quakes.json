@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T16:15:42Z",
-  "count": 202,
+  "updated": "2026-09-08T16:31:00Z",
+  "count": 201,
   "points": [
+    {
+      "id": "nc75431767",
+      "lon": -122.842666625977,
+      "lat": 38.8228340148926,
+      "depth": 2.21000003814697,
+      "mag": 0.98,
+      "place": "9 km NW of The Geysers, CA",
+      "time": 1788884389420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431767"
+    },
     {
       "id": "nc75431752",
       "lon": -122.783996582031,
@@ -2002,26 +2012,6 @@
       "place": "12 km S of Forsan, Texas",
       "time": 1788798986081,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rqivrq"
-    },
-    {
-      "id": "nc75431182",
-      "lon": -121.476829528809,
-      "lat": 37.0323333740234,
-      "depth": 5.57000017166138,
-      "mag": 2.22,
-      "place": "9 km ENE of Gilroy, CA",
-      "time": 1788797954790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431182"
-    },
-    {
-      "id": "aka2026rtebwy",
-      "lon": -155.016,
-      "lat": 57.091,
-      "depth": 54.8,
-      "mag": 1.9,
-      "place": "53 km WNW of Akhiok, Alaska",
-      "time": 1788797906840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rtebwy"
     }
   ]
 }
