@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T18:45:42Z",
+  "updated": "2026-09-08T19:01:10Z",
   "count": 210,
   "points": [
+    {
+      "id": "ci41542944",
+      "lon": -118.352333333333,
+      "lat": 33.9826666666667,
+      "depth": 14.17,
+      "mag": 1.31,
+      "place": "1 km SSW of View Park-Windsor Hills, CA",
+      "time": 1788893712210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542944"
+    },
+    {
+      "id": "ci41542936",
+      "lon": -116.0105,
+      "lat": 33.0778333333333,
+      "depth": 7.7,
+      "mag": 1.21,
+      "place": "13 km ESE of Ocotillo Wells, CA",
+      "time": 1788893572430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542936"
+    },
     {
       "id": "nc75431862",
       "lon": -122.806335449219,
@@ -945,12 +965,12 @@
     },
     {
       "id": "hv75030812",
-      "lon": -155.499664306641,
-      "lat": 19.1935005187988,
-      "depth": 28.5400009155273,
-      "mag": 2.69,
-      "place": "2 km WSW of Pāhala, Hawaii",
-      "time": 1788858264990,
+      "lon": -155.5015,
+      "lat": 19.206,
+      "depth": 30.32,
+      "mag": 2.46,
+      "place": "2 km W of Pāhala, Hawaii",
+      "time": 1788858264950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030812"
     },
     {
@@ -1252,6 +1272,16 @@
       "place": "3 km ESE of Hebgen Lake Estates, Montana",
       "time": 1788846275060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80154926"
+    },
+    {
+      "id": "uu80154921",
+      "lon": -111.143,
+      "lat": 44.7615,
+      "depth": 10.37,
+      "mag": 1.84,
+      "place": "3 km ESE of Hebgen Lake Estates, Montana",
+      "time": 1788846137990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80154921"
     },
     {
       "id": "uu80154906",
@@ -2072,36 +2102,6 @@
       "place": "0 km S of Angwin, CA",
       "time": 1788807692430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431287"
-    },
-    {
-      "id": "aka2026rtjjko",
-      "lon": -154.964,
-      "lat": 58.283,
-      "depth": 5,
-      "mag": 0.8,
-      "place": "85 km NNW of Karluk, Alaska",
-      "time": 1788807423399,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rtjjko"
-    },
-    {
-      "id": "hv75030577",
-      "lon": -155.563171386719,
-      "lat": 19.4610004425049,
-      "depth": 38.9500007629395,
-      "mag": 1.93,
-      "place": "29 km NNW of Pāhala, Hawaii",
-      "time": 1788807088360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030577"
-    },
-    {
-      "id": "hv75030572",
-      "lon": -155.251495361328,
-      "lat": 19.3840007781982,
-      "depth": 37.0499992370605,
-      "mag": 1.91,
-      "place": "6 km SSW of Volcano, Hawaii",
-      "time": 1788806818650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030572"
     }
   ]
 }
