@@ -1,6 +1,6 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T16:01:16Z",
+  "updated": "2026-09-08T16:15:42Z",
   "count": 202,
   "points": [
     {
@@ -22,6 +22,16 @@
       "place": "4 km SE of Home Gardens, CA",
       "time": 1788882475250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542856"
+    },
+    {
+      "id": "us7000tfup",
+      "lon": -173.298,
+      "lat": -16.0323,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "54 km E of Hihifo, Tonga",
+      "time": 1788882237137,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfup"
     },
     {
       "id": "us7000tfum",
@@ -97,10 +107,10 @@
       "id": "tx2026rsblgy",
       "lon": -104.002,
       "lat": 31.524,
-      "depth": 4.7208,
+      "depth": 4.7216,
       "mag": 1.9,
       "place": "30 km NW of Toyah, Texas",
-      "time": 1788879721131,
+      "time": 1788879721130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rsblgy"
     },
     {
@@ -162,6 +172,16 @@
       "place": "30 km NW of Toyah, Texas",
       "time": 1788877013494,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rrzykc"
+    },
+    {
+      "id": "us7000tfu8",
+      "lon": 155.7106,
+      "lat": 49.8562,
+      "depth": 64.43,
+      "mag": 4.5,
+      "place": "95 km SSW of Severo-Kuril’sk, Russia",
+      "time": 1788876789955,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfu8"
     },
     {
       "id": "nc75431712",
@@ -2002,26 +2022,6 @@
       "place": "53 km WNW of Akhiok, Alaska",
       "time": 1788797906840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rtebwy"
-    },
-    {
-      "id": "hv75030517",
-      "lon": -155.380172729492,
-      "lat": 19.0349998474121,
-      "depth": 30.5300006866455,
-      "mag": 1.76,
-      "place": "21 km SSE of Pāhala, Hawaii",
-      "time": 1788797565800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030517"
-    },
-    {
-      "id": "ci41542424",
-      "lon": -115.494333333333,
-      "lat": 32.9563333333333,
-      "depth": 1.44,
-      "mag": 1.32,
-      "place": "4 km SE of Brawley, CA",
-      "time": 1788797296450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542424"
     }
   ]
 }
