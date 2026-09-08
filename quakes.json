@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T22:01:31Z",
-  "count": 238,
+  "updated": "2026-09-08T22:15:41Z",
+  "count": 239,
   "points": [
+    {
+      "id": "ci41543032",
+      "lon": -116.802666666667,
+      "lat": 33.5686666666667,
+      "depth": 5.65,
+      "mag": 0.41,
+      "place": "12 km W of Anza, CA",
+      "time": 1788904855660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543032"
+    },
     {
       "id": "nc75432037",
       "lon": -122.84383392334,
@@ -12,6 +22,16 @@
       "place": "10 km NW of The Geysers, CA",
       "time": 1788903834270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432037"
+    },
+    {
+      "id": "us7000tfxd",
+      "lon": 120.658,
+      "lat": -8.1535,
+      "depth": 17.467,
+      "mag": 4.6,
+      "place": "54 km NNE of Ruteng, Indonesia",
+      "time": 1788903742442,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfxd"
     },
     {
       "id": "tx2026rsoieh",
@@ -2372,16 +2392,6 @@
       "place": "84 km NW of Karluk, Alaska",
       "time": 1788819646443,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rtqebb"
-    },
-    {
-      "id": "tx2026rqubpa",
-      "lon": -101.65,
-      "lat": 31.808,
-      "depth": 8.4717,
-      "mag": 0.8,
-      "place": "17 km WSW of Garden City, Texas",
-      "time": 1788819300117,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rqubpa"
     }
   ]
 }
