@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T02:15:40Z",
-  "count": 193,
+  "updated": "2026-09-08T02:30:55Z",
+  "count": 189,
   "points": [
+    {
+      "id": "nc75431497",
+      "lon": -122.807334899902,
+      "lat": 38.8358345031738,
+      "depth": 2.24000000953674,
+      "mag": 0.69,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1788834058700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431497"
+    },
     {
       "id": "aka2026rtxspy",
       "lon": -141.385,
@@ -12,6 +22,16 @@
       "place": "99 km WNW of Yakutat, Alaska",
       "time": 1788833248927,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rtxspy"
+    },
+    {
+      "id": "pr71531163",
+      "lon": -64.8425,
+      "lat": 18.8408333333333,
+      "depth": 20.14,
+      "mag": 3.03,
+      "place": "56 km N of Charlotte Amalie, U.S. Virgin Islands",
+      "time": 1788832716170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531163"
     },
     {
       "id": "aka2026rtxhvg",
@@ -1872,66 +1892,6 @@
       "place": "Kermadec Islands region",
       "time": 1788748221719,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tet6"
-    },
-    {
-      "id": "us7000teta",
-      "lon": 179.6916,
-      "lat": -24.8477,
-      "depth": 512.564,
-      "mag": 4.5,
-      "place": "south of the Fiji Islands",
-      "time": 1788748181341,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teta"
-    },
-    {
-      "id": "aka2026rscjwd",
-      "lon": -169.19,
-      "lat": 52.196,
-      "depth": 13.8,
-      "mag": 3.3,
-      "place": "85 km SSW of Nikolski, Alaska",
-      "time": 1788748083523,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rscjwd"
-    },
-    {
-      "id": "tx2026rpgsgc",
-      "lon": -103.653,
-      "lat": 31.007,
-      "depth": 6.1856,
-      "mag": 1.2,
-      "place": "9 km ENE of Balmorhea, Texas",
-      "time": 1788748050364,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rpgsgc"
-    },
-    {
-      "id": "uw714096482",
-      "lon": -121.9995,
-      "lat": 46.944,
-      "depth": 8.79,
-      "mag": -0.41,
-      "place": "15 km SSE of Carbonado, Washington",
-      "time": 1788747941120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714096482"
-    },
-    {
-      "id": "aka2026rschfj",
-      "lon": -149.757,
-      "lat": 64.589,
-      "depth": 5,
-      "mag": 0.9,
-      "place": "30 km W of Four Mile Road, Alaska",
-      "time": 1788747898402,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rschfj"
-    },
-    {
-      "id": "nc75430932",
-      "lon": -122.772331237793,
-      "lat": 38.7869987487793,
-      "depth": 1.69000005722046,
-      "mag": 0.79,
-      "place": "2 km NW of The Geysers, CA",
-      "time": 1788747545980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430932"
     }
   ]
 }
