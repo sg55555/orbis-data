@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T03:45:38Z",
-  "count": 180,
+  "updated": "2026-09-08T04:01:06Z",
+  "count": 182,
   "points": [
+    {
+      "id": "tx2026rrffpc",
+      "lon": -102.17,
+      "lat": 32.35,
+      "depth": 4.1969,
+      "mag": 1.5,
+      "place": "34 km E of McKinney Acres, Texas",
+      "time": 1788839497074,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rrffpc"
+    },
     {
       "id": "nc75431547",
       "lon": -122.74633026123,
@@ -12,6 +22,16 @@
       "place": "1 km NE of The Geysers, CA",
       "time": 1788838873340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431547"
+    },
+    {
+      "id": "us7000tfqz",
+      "lon": 21.7065,
+      "lat": 38.3149,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "5 km WSW of Antirrio, Greece",
+      "time": 1788837915019,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqz"
     },
     {
       "id": "ci41542632",
@@ -92,6 +112,16 @@
       "place": "99 km WNW of Yakutat, Alaska",
       "time": 1788833248927,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rtxspy"
+    },
+    {
+      "id": "us7000tfql",
+      "lon": -76.7929,
+      "lat": 4.5226,
+      "depth": 67.08,
+      "mag": 4.4,
+      "place": "21 km SW of Sipí, Colombia",
+      "time": 1788832894461,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfql"
     },
     {
       "id": "pr71531163",
@@ -1792,16 +1822,6 @@
       "place": "56 km NE of Kelly, Wyoming",
       "time": 1788755101880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80154611"
-    },
-    {
-      "id": "nc75430972",
-      "lon": -123.257835388184,
-      "lat": 39.4010009765625,
-      "depth": 6.65999984741211,
-      "mag": 2.01,
-      "place": "8 km E of Willits, CA",
-      "time": 1788753024780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430972"
     }
   ]
 }
