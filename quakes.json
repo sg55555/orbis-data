@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T22:30:58Z",
-  "count": 240,
+  "updated": "2026-09-08T22:45:41Z",
+  "count": 239,
   "points": [
+    {
+      "id": "ci41543040",
+      "lon": -116.972666666667,
+      "lat": 34.223,
+      "depth": 2.37,
+      "mag": 0.45,
+      "place": "6 km WSW of Big Bear Lake, CA",
+      "time": 1788906634580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543040"
+    },
     {
       "id": "aka2026rvmamr",
       "lon": -135.327,
@@ -372,6 +382,16 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1788891590060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431862"
+    },
+    {
+      "id": "aka2026rvedom",
+      "lon": -149.249,
+      "lat": 56.322,
+      "depth": 5,
+      "mag": 2.9,
+      "place": "233 km SE of Chiniak, Alaska",
+      "time": 1788891546421,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvedom"
     },
     {
       "id": "tx2026rshtgw",
@@ -2372,36 +2392,6 @@
       "place": "32 km NE of Manley Hot Springs, Alaska",
       "time": 1788821387900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rtrdfk"
-    },
-    {
-      "id": "hv75030662",
-      "lon": -155.587997436523,
-      "lat": 19.4211673736572,
-      "depth": 40.75,
-      "mag": 2,
-      "place": "26 km NNW of Pāhala, Hawaii",
-      "time": 1788820561710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030662"
-    },
-    {
-      "id": "us7000tf1q",
-      "lon": -178.7862,
-      "lat": -17.419,
-      "depth": 542.371,
-      "mag": 4.4,
-      "place": "213 km ENE of Levuka, Fiji",
-      "time": 1788820523578,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tf1q"
-    },
-    {
-      "id": "tx2026rquprl",
-      "lon": -103.238,
-      "lat": 32.008,
-      "depth": 6.0999,
-      "mag": 1.5,
-      "place": "12 km SSW of Jal, New Mexico",
-      "time": 1788820282988,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rquprl"
     }
   ]
 }
