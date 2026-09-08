@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T10:30:56Z",
-  "count": 187,
+  "updated": "2026-09-08T10:45:41Z",
+  "count": 185,
   "points": [
+    {
+      "id": "ci41542736",
+      "lon": -116.746666666667,
+      "lat": 33.6675,
+      "depth": 13.34,
+      "mag": 0.7,
+      "place": "8 km SSW of Idyllwild, CA",
+      "time": 1788863855700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542736"
+    },
     {
       "id": "hv75030842",
       "lon": -155.492172241211,
@@ -1842,36 +1852,6 @@
       "place": "22 km NNW of Toyah, Texas",
       "time": 1788778924807,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rpxtre"
-    },
-    {
-      "id": "ci41542296",
-      "lon": -116.329833333333,
-      "lat": 32.0308333333333,
-      "depth": 21.29,
-      "mag": 1.74,
-      "place": "33 km ENE of Ensenada, B.C., MX",
-      "time": 1788777871520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542296"
-    },
-    {
-      "id": "pr71531143",
-      "lon": -64.9836666666667,
-      "lat": 18.6896666666667,
-      "depth": 77.45,
-      "mag": 3.02,
-      "place": "38 km N of Charlotte Amalie, U.S. Virgin Islands",
-      "time": 1788777688130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531143"
-    },
-    {
-      "id": "aka2026rsssww",
-      "lon": -154.31,
-      "lat": 58.918,
-      "depth": 117.4,
-      "mag": 2.2,
-      "place": "63 km SSE of Kokhanok, Alaska",
-      "time": 1788777491258,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rsssww"
     }
   ]
 }
