@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T21:45:42Z",
+  "updated": "2026-09-08T22:00:35Z",
   "count": 238,
   "points": [
+    {
+      "id": "nc75432037",
+      "lon": -122.84383392334,
+      "lat": 38.8346672058105,
+      "depth": 1.53999996185303,
+      "mag": 0.82,
+      "place": "10 km NW of The Geysers, CA",
+      "time": 1788903834270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432037"
+    },
     {
       "id": "tx2026rsoieh",
       "lon": -101.99,
@@ -232,6 +242,16 @@
       "place": "6 km N of Mantua, Utah",
       "time": 1788894939030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80008003"
+    },
+    {
+      "id": "uw714097172",
+      "lon": -122.634,
+      "lat": 46.2326666666667,
+      "depth": 17.08,
+      "mag": 0.64,
+      "place": "21 km ESE of Castle Rock, Washington",
+      "time": 1788894352320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714097172"
     },
     {
       "id": "uw714097152",
@@ -2362,26 +2382,6 @@
       "place": "17 km WSW of Garden City, Texas",
       "time": 1788819300117,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rqubpa"
-    },
-    {
-      "id": "us7000tez1",
-      "lon": -69.2641,
-      "lat": -25.0539,
-      "depth": 90.724,
-      "mag": 4.5,
-      "place": "129 km ENE of Taltal, Chile",
-      "time": 1788818078748,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tez1"
-    },
-    {
-      "id": "nc75431402",
-      "lon": -122.814834594727,
-      "lat": 38.8291664123535,
-      "depth": 2.03999996185303,
-      "mag": 1.02,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1788817659860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431402"
     }
   ]
 }
