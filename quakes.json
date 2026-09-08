@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T14:31:00Z",
-  "count": 199,
+  "updated": "2026-09-08T14:45:43Z",
+  "count": 196,
   "points": [
     {
       "id": "nc75431722",
@@ -105,12 +105,12 @@
     },
     {
       "id": "tx2026rrxyuo",
-      "lon": -104.007,
-      "lat": 31.52,
-      "depth": 3.3773,
+      "lon": -104.003,
+      "lat": 31.535,
+      "depth": 6.0999,
       "mag": 2,
-      "place": "30 km NW of Toyah, Texas",
-      "time": 1788873513498,
+      "place": "31 km NW of Toyah, Texas",
+      "time": 1788873513272,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rrxyuo"
     },
     {
@@ -782,6 +782,16 @@
       "place": "9 km NW of The Geysers, CA",
       "time": 1788846641390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431577"
+    },
+    {
+      "id": "uu80154926",
+      "lon": -111.149333333333,
+      "lat": 44.76,
+      "depth": 9.44,
+      "mag": 0.42,
+      "place": "3 km ESE of Hebgen Lake Estates, Montana",
+      "time": 1788846275060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80154926"
     },
     {
       "id": "tx2026rrhlep",
@@ -1952,46 +1962,6 @@
       "place": "5 km NNW of Beaumont, CA",
       "time": 1788792368970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542344"
-    },
-    {
-      "id": "nc75431132",
-      "lon": -122.84700012207,
-      "lat": 38.8484992980957,
-      "depth": 1.79999995231628,
-      "mag": 0.69,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1788792141880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431132"
-    },
-    {
-      "id": "ci41542336",
-      "lon": -117.246833333333,
-      "lat": 34.1315,
-      "depth": 29.54,
-      "mag": 1.33,
-      "place": "4 km W of Highland, CA",
-      "time": 1788792061790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542336"
-    },
-    {
-      "id": "tx2026rqewek",
-      "lon": -104.368,
-      "lat": 31.673,
-      "depth": 5.8948,
-      "mag": 1.9,
-      "place": "55 km S of Whites City, New Mexico",
-      "time": 1788791770485,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rqewek"
-    },
-    {
-      "id": "tx2026rqeret",
-      "lon": -101.924,
-      "lat": 32.404,
-      "depth": 4.5928,
-      "mag": 1.7,
-      "place": "23 km SW of Ackerly, Texas",
-      "time": 1788791424204,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rqeret"
     }
   ]
 }
