@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T09:01:14Z",
-  "count": 184,
+  "updated": "2026-09-08T09:15:41Z",
+  "count": 185,
   "points": [
     {
+      "id": "ci41542712",
+      "lon": -116.9935,
+      "lat": 33.974,
+      "depth": 2.72,
+      "mag": 0.64,
+      "place": "5 km NNW of Beaumont, CA",
+      "time": 1788858674280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542712"
+    },
+    {
+      "id": "hv75030812",
+      "lon": -155.499664306641,
+      "lat": 19.1935005187988,
+      "depth": 28.5400009155273,
+      "mag": 2.69,
+      "place": "2 km WSW of Pāhala, Hawaii",
+      "time": 1788858264990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030812"
+    },
+    {
       "id": "ci41542704",
-      "lon": -117.254669189453,
-      "lat": 34.0618324279785,
-      "depth": 14.0900001525879,
-      "mag": 1.27368759849608,
+      "lon": -117.252666666667,
+      "lat": 34.0608333333333,
+      "depth": 13.87,
+      "mag": 0.91,
       "place": "2 km NNE of Loma Linda, CA",
-      "time": 1788857916440,
+      "time": 1788857916430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542704"
     },
     {
@@ -1832,16 +1852,6 @@
       "place": "17 km N of Pāhala, Hawaii",
       "time": 1788772786130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030362"
-    },
-    {
-      "id": "aka2026rspyja",
-      "lon": -152.786,
-      "lat": 59.397,
-      "depth": 71.2,
-      "mag": 2,
-      "place": "49 km W of Nanwalek, Alaska",
-      "time": 1788772474583,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rspyja"
     }
   ]
 }
