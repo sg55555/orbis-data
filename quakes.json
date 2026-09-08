@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T07:15:42Z",
-  "count": 188,
+  "updated": "2026-09-08T07:30:57Z",
+  "count": 185,
   "points": [
+    {
+      "id": "uu80155026",
+      "lon": -111.165336608887,
+      "lat": 44.7550010681152,
+      "depth": 11.8800001144409,
+      "mag": 2.74,
+      "place": "2 km SE of Hebgen Lake Estates, Montana",
+      "time": 1788852113630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155026"
+    },
     {
       "id": "hv75030782",
       "lon": -155.149505615234,
@@ -32,6 +42,16 @@
       "place": "South Sandwich Islands region",
       "time": 1788850246470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfs3"
+    },
+    {
+      "id": "us7000tfs1",
+      "lon": -69.1624,
+      "lat": 10.733,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "43 km NW of Aroa, Venezuela",
+      "time": 1788850188990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfs1"
     },
     {
       "id": "nc75431602",
@@ -665,12 +685,12 @@
     },
     {
       "id": "nc75431397",
-      "lon": -123.680000305176,
-      "lat": 40.5639991760254,
-      "depth": 23.6000003814697,
+      "lon": -123.6775,
+      "lat": 40.5625,
+      "depth": 24.25,
       "mag": 3.67,
-      "place": "35 km E of Hydesville, CA",
-      "time": 1788817464910,
+      "place": "36 km E of Hydesville, CA",
+      "time": 1788817464890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431397"
     },
     {
@@ -1832,56 +1852,6 @@
       "place": "9 km WNW of The Geysers, CA",
       "time": 1788766462840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431057"
-    },
-    {
-      "id": "nc75431047",
-      "lon": -122.780334472656,
-      "lat": 38.8366661071777,
-      "depth": 2,
-      "mag": 0.77,
-      "place": "5 km WNW of Cobb, CA",
-      "time": 1788765873720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431047"
-    },
-    {
-      "id": "nc75431042",
-      "lon": -122.781829833984,
-      "lat": 38.8380012512207,
-      "depth": 1.75,
-      "mag": 0.75,
-      "place": "5 km WNW of Cobb, CA",
-      "time": 1788765664930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431042"
-    },
-    {
-      "id": "tx2026rpqkpd",
-      "lon": -104.308,
-      "lat": 31.686,
-      "depth": 7.2278,
-      "mag": 1.9,
-      "place": "54 km S of Whites City, New Mexico",
-      "time": 1788765618898,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rpqkpd"
-    },
-    {
-      "id": "nc75431032",
-      "lon": -122.758163452148,
-      "lat": 38.7934989929199,
-      "depth": 0.569999992847443,
-      "mag": 1.05,
-      "place": "2 km N of The Geysers, CA",
-      "time": 1788765566120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431032"
-    },
-    {
-      "id": "nc75431027",
-      "lon": -122.779998779297,
-      "lat": 38.8363342285156,
-      "depth": 2.01999998092651,
-      "mag": 2.04,
-      "place": "5 km WNW of Cobb, CA",
-      "time": 1788765484900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431027"
     }
   ]
 }
