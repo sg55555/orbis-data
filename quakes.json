@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-08T18:15:53Z",
-  "count": 209,
+  "updated": "2026-09-08T18:31:00Z",
+  "count": 210,
   "points": [
+    {
+      "id": "nc75431862",
+      "lon": -122.806335449219,
+      "lat": 38.8128318786621,
+      "depth": 1.17999994754791,
+      "mag": 1.45,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1788891590060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431862"
+    },
     {
       "id": "tx2026rshtgw",
       "lon": -103.292,
@@ -1244,6 +1254,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80154926"
     },
     {
+      "id": "uu80154906",
+      "lon": -112.426,
+      "lat": 41.5566666666667,
+      "depth": 5.12,
+      "mag": 1.08,
+      "place": "18 km SW of Thatcher, Utah",
+      "time": 1788844064460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80154906"
+    },
+    {
       "id": "tx2026rrhlep",
       "lon": -103.898,
       "lat": 31.96,
@@ -2082,16 +2102,6 @@
       "place": "6 km SSW of Volcano, Hawaii",
       "time": 1788806818650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030572"
-    },
-    {
-      "id": "hv75030547",
-      "lon": -155.247329711914,
-      "lat": 19.4138336181641,
-      "depth": 36.8800010681152,
-      "mag": 2.53,
-      "place": "3 km SSW of Volcano, Hawaii",
-      "time": 1788805267590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030547"
     }
   ]
 }
