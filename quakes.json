@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T14:31:53Z",
-  "count": 243,
+  "updated": "2026-09-09T14:45:43Z",
+  "count": 244,
   "points": [
+    {
+      "id": "hv75031527",
+      "lon": -155.491333007812,
+      "lat": 19.1208324432373,
+      "depth": 31.0799999237061,
+      "mag": 1.87,
+      "place": "9 km S of Pāhala, Hawaii",
+      "time": 1788964753540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75031527"
+    },
+    {
+      "id": "tx2026rtwfho",
+      "lon": -104.143,
+      "lat": 31.553,
+      "depth": 4.192,
+      "mag": 1.8,
+      "place": "42 km NW of Toyah, Texas",
+      "time": 1788964527902,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rtwfho"
+    },
     {
       "id": "nc75432382",
       "lon": -124.357666015625,
@@ -305,12 +325,12 @@
     },
     {
       "id": "tx2026rtorgz",
-      "lon": -101.418,
-      "lat": 32.155,
-      "depth": 3.2179,
-      "mag": 1.3,
+      "lon": -101.412,
+      "lat": 32.158,
+      "depth": 8.7646,
+      "mag": 1.4,
       "place": "6 km NW of Forsan, Texas",
-      "time": 1788950738709,
+      "time": 1788950738857,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rtorgz"
     },
     {
@@ -2422,16 +2442,6 @@
       "place": "12 km SW of Falls City, Texas",
       "time": 1788879445732,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rsbhjs"
-    },
-    {
-      "id": "uw714097012",
-      "lon": -122.676833333333,
-      "lat": 46.2553333333333,
-      "depth": 3.83,
-      "mag": 0.34,
-      "place": "17 km E of Castle Rock, Washington",
-      "time": 1788878086230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714097012"
     }
   ]
 }
