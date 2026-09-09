@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T08:01:23Z",
+  "updated": "2026-09-09T08:15:43Z",
   "count": 252,
   "points": [
+    {
+      "id": "ci41543360",
+      "lon": -117.844333333333,
+      "lat": 35.3265,
+      "depth": 7.78,
+      "mag": 0.93,
+      "place": "20 km WSW of Johannesburg, CA",
+      "time": 1788941416770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543360"
+    },
+    {
+      "id": "ci41543352",
+      "lon": -117.005333333333,
+      "lat": 34.0105,
+      "depth": 26.22,
+      "mag": 0.83,
+      "place": "4 km SE of Yucaipa, CA",
+      "time": 1788941140810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543352"
+    },
     {
       "id": "ci41543344",
       "lon": -117.604666666667,
@@ -1115,12 +1135,12 @@
     },
     {
       "id": "tx2026rsoieh",
-      "lon": -101.992,
-      "lat": 32.137,
-      "depth": 3.3395,
-      "mag": 2.1,
-      "place": "17 km NNE of Midland, Texas",
-      "time": 1788903036794,
+      "lon": -101.991,
+      "lat": 32.143,
+      "depth": 8.7646,
+      "mag": 2,
+      "place": "18 km NNE of Midland, Texas",
+      "time": 1788903036999,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rsoieh"
     },
     {
@@ -2502,26 +2522,6 @@
       "place": "10 km SE of Gorman, CA",
       "time": 1788855845720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542688"
-    },
-    {
-      "id": "uw714096932",
-      "lon": -125.065666666667,
-      "lat": 42.6228333333333,
-      "depth": 4.8,
-      "mag": 2.02,
-      "place": "48 km WSW of Port Orford, Oregon",
-      "time": 1788855053080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714096932"
-    },
-    {
-      "id": "uw714096912",
-      "lon": -121.924833333333,
-      "lat": 46.76,
-      "depth": 2.32,
-      "mag": 1.06,
-      "place": "8 km E of Ashford, Washington",
-      "time": 1788854624560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714096912"
     }
   ]
 }
