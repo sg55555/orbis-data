@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T06:31:33Z",
-  "count": 254,
+  "updated": "2026-09-09T06:45:41Z",
+  "count": 253,
   "points": [
+    {
+      "id": "nc75432232",
+      "lon": -118.841667175293,
+      "lat": 37.4511680603027,
+      "depth": 1.03999996185303,
+      "mag": 1.97,
+      "place": "19 km SW of Toms Place, CA",
+      "time": 1788935499870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432232"
+    },
     {
       "id": "hv75031297",
       "lon": -155.59700012207,
@@ -42,6 +52,16 @@
       "place": "2 km SSE of View Park-Windsor Hills, CA",
       "time": 1788932853450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543288"
+    },
+    {
+      "id": "pr71531233",
+      "lon": -67.6598333333333,
+      "lat": 17.611,
+      "depth": 16.09,
+      "mag": 3.34,
+      "place": "64 km SW of Pole Ojea, Puerto Rico",
+      "time": 1788931994170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531233"
     },
     {
       "id": "nc75432222",
@@ -2124,6 +2144,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542728"
     },
     {
+      "id": "us7000tft4",
+      "lon": -68.8859,
+      "lat": -23.3881,
+      "depth": 99.602,
+      "mag": 4.2,
+      "place": "87 km SW of San Pedro de Atacama, Chile",
+      "time": 1788863619128,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tft4"
+    },
+    {
       "id": "hv75030842",
       "lon": -155.492172241211,
       "lat": 19.1186676025391,
@@ -2502,46 +2532,6 @@
       "place": "43 km NW of Aroa, Venezuela",
       "time": 1788850188990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfs1"
-    },
-    {
-      "id": "nc75431602",
-      "lon": -122.84033203125,
-      "lat": 38.8356666564941,
-      "depth": 2.07999992370605,
-      "mag": 0.77,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1788849741110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431602"
-    },
-    {
-      "id": "ci41542680",
-      "lon": -116.730166666667,
-      "lat": 33.6596666666667,
-      "depth": 14.33,
-      "mag": 1.33,
-      "place": "9 km S of Idyllwild, CA",
-      "time": 1788849587650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542680"
-    },
-    {
-      "id": "aka2026rugues",
-      "lon": -147.073,
-      "lat": 63.993,
-      "depth": 5,
-      "mag": 1.7,
-      "place": "48 km SSW of Harding-Birch Lakes, Alaska",
-      "time": 1788849550691,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rugues"
-    },
-    {
-      "id": "tx2026rrknlp",
-      "lon": -103.305,
-      "lat": 31.279,
-      "depth": 5.4846,
-      "mag": 1.9,
-      "place": "21 km SSE of Barstow, Texas",
-      "time": 1788849120024,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rrknlp"
     }
   ]
 }
