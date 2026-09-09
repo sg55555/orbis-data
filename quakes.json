@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T22:45:41Z",
-  "count": 288,
+  "updated": "2026-09-09T23:01:06Z",
+  "count": 286,
   "points": [
+    {
+      "id": "nc75432882",
+      "lon": -121.757499694824,
+      "lat": 37.4091682434082,
+      "depth": 6.26000022888184,
+      "mag": 1.96,
+      "place": "8 km NE of Alum Rock, CA",
+      "time": 1788994462100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432882"
+    },
     {
       "id": "nc75432862",
       "lon": -122.844497680664,
@@ -182,16 +192,6 @@
       "place": "21 km SE of Pāhala, Hawaii",
       "time": 1788989065180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75031862"
-    },
-    {
-      "id": "nn00924300",
-      "lon": -115.3449,
-      "lat": 36.0655,
-      "depth": 0.0012,
-      "mag": 1.59,
-      "place": "5 km ENE of Blue Diamond, Nevada",
-      "time": 1788988288527,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924300"
     },
     {
       "id": "us7000tg67",
@@ -2862,26 +2862,6 @@
       "place": "32 km NW of Toyah, Texas",
       "time": 1788908544730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rsrglx"
-    },
-    {
-      "id": "nc75432057",
-      "lon": -122.814498901367,
-      "lat": 38.8121681213379,
-      "depth": 3.07999992370605,
-      "mag": 1.19,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1788908331120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432057"
-    },
-    {
-      "id": "ci41543048",
-      "lon": -117.670166666667,
-      "lat": 35.0415,
-      "depth": -0.73,
-      "mag": 1.63,
-      "place": "5 km NNW of Boron, CA",
-      "time": 1788907889720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543048"
     }
   ]
 }
