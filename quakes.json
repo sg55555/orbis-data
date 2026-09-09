@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T09:01:12Z",
+  "updated": "2026-09-09T09:15:42Z",
   "count": 256,
   "points": [
+    {
+      "id": "ci41543376",
+      "lon": -116.843666666667,
+      "lat": 33.974,
+      "depth": 20.12,
+      "mag": 0.31,
+      "place": "6 km NNE of Banning, CA",
+      "time": 1788945075650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543376"
+    },
+    {
+      "id": "nc75432302",
+      "lon": -122.811836242676,
+      "lat": 38.8310012817383,
+      "depth": -0.769999980926514,
+      "mag": 1.71,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1788945050200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432302"
+    },
     {
       "id": "nc75432297",
       "lon": -122.814834594727,
@@ -2542,26 +2562,6 @@
       "place": "19 km SSW of Mammoth Lakes, CA",
       "time": 1788859321320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431622"
-    },
-    {
-      "id": "ci41542712",
-      "lon": -116.9935,
-      "lat": 33.974,
-      "depth": 2.72,
-      "mag": 0.64,
-      "place": "5 km NNW of Beaumont, CA",
-      "time": 1788858674280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542712"
-    },
-    {
-      "id": "hv75030812",
-      "lon": -155.5015,
-      "lat": 19.206,
-      "depth": 30.32,
-      "mag": 2.46,
-      "place": "2 km W of Pāhala, Hawaii",
-      "time": 1788858264950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030812"
     }
   ]
 }
