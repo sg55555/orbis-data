@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T01:15:40Z",
-  "count": 251,
+  "updated": "2026-09-09T01:30:55Z",
+  "count": 252,
   "points": [
+    {
+      "id": "ci41543128",
+      "lon": -116.529830932617,
+      "lat": 33.4786682128906,
+      "depth": 10.5699996948242,
+      "mag": 2.03638900539884,
+      "place": "16 km ESE of Anza, CA",
+      "time": 1788917234890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543128"
+    },
+    {
+      "id": "aka2026rvsfji",
+      "lon": -151.949,
+      "lat": 61.714,
+      "depth": 74.5,
+      "mag": 1.2,
+      "place": "42 km SW of Skwentna, Alaska",
+      "time": 1788916895586,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvsfji"
+    },
+    {
+      "id": "nc75432137",
+      "lon": -122.814666748047,
+      "lat": 38.8306655883789,
+      "depth": 2.21000003814697,
+      "mag": 1.69,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1788916558080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432137"
+    },
     {
       "id": "nc75432132",
       "lon": -122.814163208008,
@@ -2325,22 +2355,22 @@
     },
     {
       "id": "ci41542632",
-      "lon": -116.364333333333,
-      "lat": 33.348,
-      "depth": 11.07,
-      "mag": 1.02,
+      "lon": -116.3635,
+      "lat": 33.3473333333333,
+      "depth": 11.22,
+      "mag": 1.05,
       "place": "10 km N of Borrego Springs, CA",
-      "time": 1788837433870,
+      "time": 1788837433840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542632"
     },
     {
       "id": "ci41542624",
-      "lon": -116.345497131348,
-      "lat": 33.3501663208008,
-      "depth": 11.960000038147,
-      "mag": 1.46445292760536,
-      "place": "11 km NNE of Borrego Springs, CA",
-      "time": 1788837430860,
+      "lon": -116.3555,
+      "lat": 33.3541666666667,
+      "depth": 10.15,
+      "mag": 0.71,
+      "place": "11 km N of Borrego Springs, CA",
+      "time": 1788837431020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542624"
     },
     {
@@ -2492,26 +2522,6 @@
       "place": "south of the Fiji Islands",
       "time": 1788831575020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqi"
-    },
-    {
-      "id": "hv75030717",
-      "lon": -155.408004760742,
-      "lat": 19.3404998779297,
-      "depth": 28.0900001525879,
-      "mag": 1.82,
-      "place": "16 km NNE of Pāhala, Hawaii",
-      "time": 1788830960750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030717"
-    },
-    {
-      "id": "us7000tfqh",
-      "lon": -67.1868,
-      "lat": -24.1437,
-      "depth": 167.68,
-      "mag": 4.3,
-      "place": "88 km W of San Antonio de los Cobres, Argentina",
-      "time": 1788830655300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqh"
     }
   ]
 }
