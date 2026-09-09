@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T17:57:09Z",
-  "count": 264,
+  "updated": "2026-09-09T18:01:15Z",
+  "count": 261,
   "points": [
     {
       "id": "tx2026ructku",
@@ -192,6 +192,16 @@
       "place": "11 km WNW of Cobb, CA",
       "time": 1788974333120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432497"
+    },
+    {
+      "id": "us7000tg43",
+      "lon": 170.0391,
+      "lat": -19.7219,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "81 km ESE of Isangel, Vanuatu",
+      "time": 1788974325381,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg43"
     },
     {
       "id": "nc75432477",
@@ -1005,12 +1015,12 @@
     },
     {
       "id": "ci41543368",
-      "lon": -115.436166666667,
-      "lat": 32.7706666666667,
-      "depth": 12.19,
+      "lon": -115.435666666667,
+      "lat": 32.7693333333333,
+      "depth": 11.64,
       "mag": 1.51,
       "place": "7 km SW of Holtville, CA",
-      "time": 1788941712250,
+      "time": 1788941712210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543368"
     },
     {
@@ -2602,46 +2612,6 @@
       "place": "22 km WSW of Coyanosa, Texas",
       "time": 1788891136483,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rshtgw"
-    },
-    {
-      "id": "aka2026rvdmtj",
-      "lon": -169.499,
-      "lat": 52.207,
-      "depth": 11.6,
-      "mag": 3.6,
-      "place": "92 km SSW of Nikolski, Alaska",
-      "time": 1788890409093,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvdmtj"
-    },
-    {
-      "id": "nc75431852",
-      "lon": -122.815170288086,
-      "lat": 38.8274993896484,
-      "depth": 1.74000000953674,
-      "mag": 1.88,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1788890329480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431852"
-    },
-    {
-      "id": "nc75431847",
-      "lon": -122.145835876465,
-      "lat": 38.1308326721191,
-      "depth": 3.85999989509583,
-      "mag": 2.09,
-      "place": "8 km ENE of Vallejo, CA",
-      "time": 1788890276990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431847"
-    },
-    {
-      "id": "ci41542896",
-      "lon": -117.597666666667,
-      "lat": 35.7728333333333,
-      "depth": 6.82,
-      "mag": 0.44,
-      "place": "17 km W of Searles Valley, CA",
-      "time": 1788890228390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542896"
     }
   ]
 }
