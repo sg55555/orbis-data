@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T18:15:42Z",
-  "count": 264,
+  "updated": "2026-09-09T18:31:02Z",
+  "count": 262,
   "points": [
+    {
+      "id": "nc75432647",
+      "lon": -122.85050201416,
+      "lat": 38.8501663208008,
+      "depth": 1.54999995231628,
+      "mag": 0.51,
+      "place": "11 km WNW of Cobb, CA",
+      "time": 1788978500210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432647"
+    },
     {
       "id": "nc75432632",
       "lon": -122.696662902832,
@@ -2612,36 +2622,6 @@
       "place": "20 km E of Castle Rock, Washington",
       "time": 1788892643210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714097132"
-    },
-    {
-      "id": "us7000tfv1",
-      "lon": -149.1563,
-      "lat": 56.251,
-      "depth": 10,
-      "mag": 3.7,
-      "place": "243 km SE of Chiniak, Alaska",
-      "time": 1788891602537,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfv1"
-    },
-    {
-      "id": "nc75431862",
-      "lon": -122.806335449219,
-      "lat": 38.8128318786621,
-      "depth": 1.17999994754791,
-      "mag": 1.45,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1788891590060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431862"
-    },
-    {
-      "id": "aka2026rvedom",
-      "lon": -149.249,
-      "lat": 56.322,
-      "depth": 5,
-      "mag": 2.9,
-      "place": "233 km SE of Chiniak, Alaska",
-      "time": 1788891546421,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvedom"
     }
   ]
 }
