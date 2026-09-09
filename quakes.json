@@ -1,17 +1,47 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T00:45:41Z",
-  "count": 245,
+  "updated": "2026-09-09T01:01:07Z",
+  "count": 249,
   "points": [
+    {
+      "id": "aka2026rvrdne",
+      "lon": -151.988,
+      "lat": 65.572,
+      "depth": 12.9,
+      "mag": 2.7,
+      "place": "44 km N of Tanana, Alaska",
+      "time": 1788914966835,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvrdne"
+    },
+    {
+      "id": "aka2026rvqzzb",
+      "lon": -147.786,
+      "lat": 64.899,
+      "depth": 2,
+      "mag": 1.1,
+      "place": "4 km WSW of Farmers Loop, Alaska",
+      "time": 1788914721259,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvqzzb"
+    },
     {
       "id": "tx2026rsuopz",
       "lon": -104.431,
-      "lat": 31.654,
-      "depth": 4.5841,
+      "lat": 31.653,
+      "depth": 4.6397,
       "mag": 1.7,
       "place": "58 km S of Whites City, New Mexico",
-      "time": 1788914357068,
+      "time": 1788914357038,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rsuopz"
+    },
+    {
+      "id": "pr71531223",
+      "lon": -66.9675,
+      "lat": 17.9423333333333,
+      "depth": 14.91,
+      "mag": 2.12,
+      "place": "7 km WSW of Guánica, Puerto Rico",
+      "time": 1788914312630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531223"
     },
     {
       "id": "ci41543112",
@@ -1165,12 +1195,12 @@
     },
     {
       "id": "tx2026rrxbne",
-      "lon": -101.129,
-      "lat": 32.503,
-      "depth": 3.1816,
+      "lon": -101.122,
+      "lat": 32.498,
+      "depth": 6.4697,
       "mag": 1.2,
-      "place": "19 km NNW of Westbrook, Texas",
-      "time": 1788871796748,
+      "place": "18 km NNW of Westbrook, Texas",
+      "time": 1788871796910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rrxbne"
     },
     {
@@ -1334,6 +1364,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rurnzj"
     },
     {
+      "id": "tx2026rrvhdu",
+      "lon": -101.791,
+      "lat": 32.403,
+      "depth": 8.667,
+      "mag": 1,
+      "place": "15 km SSW of Ackerly, Texas",
+      "time": 1788868759710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rrvhdu"
+    },
+    {
       "id": "aka2026rurfdh",
       "lon": -147.136,
       "lat": 61.209,
@@ -1442,6 +1482,16 @@
       "place": "8 km SSW of Idyllwild, CA",
       "time": 1788863855700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542736"
+    },
+    {
+      "id": "ci41542728",
+      "lon": -117.183166666667,
+      "lat": 34.0088333333333,
+      "depth": 16.58,
+      "mag": 0.84,
+      "place": "5 km S of Redlands, CA",
+      "time": 1788863794990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542728"
     },
     {
       "id": "hv75030842",
@@ -2442,16 +2492,6 @@
       "place": "33 km SSE of Malaga, New Mexico",
       "time": 1788830082233,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rqzzia"
-    },
-    {
-      "id": "us7000tfqf",
-      "lon": 170.1194,
-      "lat": -19.8072,
-      "depth": 10,
-      "mag": 5.1,
-      "place": "92 km ESE of Isangel, Vanuatu",
-      "time": 1788828722083,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqf"
     }
   ]
 }
