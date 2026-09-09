@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T04:30:54Z",
-  "count": 264,
+  "updated": "2026-09-09T04:53:59Z",
+  "count": 266,
   "points": [
+    {
+      "id": "ci41543224",
+      "lon": -116.5295,
+      "lat": 33.4765,
+      "depth": 11.39,
+      "mag": 1.89,
+      "place": "16 km ESE of Anza, CA",
+      "time": 1788928976650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543224"
+    },
+    {
+      "id": "us7000tfzk",
+      "lon": -76.069,
+      "lat": 39.6915,
+      "depth": 5.134,
+      "mag": 2.1,
+      "place": "0 km SW of Rising Sun, Maryland",
+      "time": 1788928899547,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfzk"
+    },
+    {
+      "id": "nc75432197",
+      "lon": -122.765335083008,
+      "lat": 38.7970008850098,
+      "depth": 1.69000005722046,
+      "mag": 0.74,
+      "place": "2 km NNW of The Geysers, CA",
+      "time": 1788928533260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432197"
+    },
     {
       "id": "nc75432187",
       "lon": -122.841499328613,
@@ -12,6 +42,16 @@
       "place": "9 km NW of The Geysers, CA",
       "time": 1788927848390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432187"
+    },
+    {
+      "id": "us7000tfzh",
+      "lon": -68.6822,
+      "lat": -22.3843,
+      "depth": 115.83,
+      "mag": 4.2,
+      "place": "26 km ENE of Calama, Chile",
+      "time": 1788927455181,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfzh"
     },
     {
       "id": "ci41543216",
@@ -2622,26 +2662,6 @@
       "place": "32 km S of Akhiok, Alaska",
       "time": 1788843353639,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rudiqp"
-    },
-    {
-      "id": "tx2026rrgxhm",
-      "lon": -103.246,
-      "lat": 32.005,
-      "depth": 6.6382,
-      "mag": 1.2,
-      "place": "12 km SSW of Jal, New Mexico",
-      "time": 1788842536552,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rrgxhm"
-    },
-    {
-      "id": "us7000tfr8",
-      "lon": 120.5995,
-      "lat": -8.1646,
-      "depth": 10,
-      "mag": 5.3,
-      "place": "51 km NNE of Ruteng, Indonesia",
-      "time": 1788842428046,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfr8"
     }
   ]
 }
