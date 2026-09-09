@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T07:15:44Z",
-  "count": 253,
+  "updated": "2026-09-09T07:31:10Z",
+  "count": 249,
   "points": [
+    {
+      "id": "aka2026rwegeu",
+      "lon": -151.387,
+      "lat": 61.028,
+      "depth": 77.6,
+      "mag": 2.5,
+      "place": "14 km WSW of Tyonek, Alaska",
+      "time": 1788938540879,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rwegeu"
+    },
     {
       "id": "nc75432257",
       "lon": -122.854499816895,
@@ -22,6 +32,16 @@
       "place": "4 km WNW of The Geysers, CA",
       "time": 1788937675970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432252"
+    },
+    {
+      "id": "us7000tg06",
+      "lon": 125.3233,
+      "lat": 4.0172,
+      "depth": 10,
+      "mag": 5,
+      "place": "154 km S of Sarangani, Philippines",
+      "time": 1788937623319,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg06"
     },
     {
       "id": "ci41543312",
@@ -775,12 +795,12 @@
     },
     {
       "id": "tx2026rssrsn",
-      "lon": -101.69,
-      "lat": 31.725,
-      "depth": 2.9483,
-      "mag": 2.5,
-      "place": "25 km SW of Garden City, Texas",
-      "time": 1788910956701,
+      "lon": -101.685,
+      "lat": 31.723,
+      "depth": 8.7402,
+      "mag": 2.4,
+      "place": "24 km SW of Garden City, Texas",
+      "time": 1788910956726,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rssrsn"
     },
     {
@@ -2472,66 +2492,6 @@
       "place": "3 km ESE of Hebgen Lake Estates, Montana",
       "time": 1788853325160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155031"
-    },
-    {
-      "id": "tx2026rrmmbh",
-      "lon": -103.997,
-      "lat": 31.526,
-      "depth": 7.356,
-      "mag": 1.9,
-      "place": "30 km NW of Toyah, Texas",
-      "time": 1788852628177,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rrmmbh"
-    },
-    {
-      "id": "nc75431607",
-      "lon": -122.841331481934,
-      "lat": 38.8190002441406,
-      "depth": 2.5,
-      "mag": 1.05,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": 1788852522250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431607"
-    },
-    {
-      "id": "uu80155026",
-      "lon": -111.151666666667,
-      "lat": 44.759,
-      "depth": 10.96,
-      "mag": 2.77,
-      "place": "3 km ESE of Hebgen Lake Estates, Montana",
-      "time": 1788852113730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155026"
-    },
-    {
-      "id": "uu80008008",
-      "lon": -111.148166666667,
-      "lat": 44.7615,
-      "depth": 10.28,
-      "mag": 0.87,
-      "place": "3 km ESE of Hebgen Lake Estates, Montana",
-      "time": 1788851926960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80008008"
-    },
-    {
-      "id": "uu80155021",
-      "lon": -111.148833333333,
-      "lat": 44.756,
-      "depth": 8.36,
-      "mag": 0.3,
-      "place": "3 km ESE of Hebgen Lake Estates, Montana",
-      "time": 1788851907200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155021"
-    },
-    {
-      "id": "pr71531193",
-      "lon": -66.8813333333333,
-      "lat": 17.9741666666667,
-      "depth": 10.57,
-      "mag": 2.31,
-      "place": "0 km ESE of Maria Antonia, Puerto Rico",
-      "time": 1788851826200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531193"
     }
   ]
 }
