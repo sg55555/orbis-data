@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T14:01:19Z",
-  "count": 249,
+  "updated": "2026-09-09T14:15:52Z",
+  "count": 248,
   "points": [
+    {
+      "id": "nc75432382",
+      "lon": -124.357666015625,
+      "lat": 40.3409996032715,
+      "depth": 23.1900005340576,
+      "mag": 1.67,
+      "place": "6 km WNW of Petrolia, CA",
+      "time": 1788962755710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432382"
+    },
     {
       "id": "ci41543536",
       "lon": -117.798666666667,
@@ -362,6 +372,16 @@
       "place": "53 km W of Cafayate, Argentina",
       "time": 1788948417170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg12"
+    },
+    {
+      "id": "uu80155341",
+      "lon": -112.897666666667,
+      "lat": 38.512,
+      "depth": 2.38,
+      "mag": 1.09,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1788947705490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155341"
     },
     {
       "id": "ci41543408",
@@ -924,6 +944,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543232"
     },
     {
+      "id": "uu80155291",
+      "lon": -111.151166666667,
+      "lat": 44.7596666666667,
+      "depth": 9.35,
+      "mag": 0.17,
+      "place": "3 km ESE of Hebgen Lake Estates, Montana",
+      "time": 1788929273470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155291"
+    },
+    {
       "id": "tx2026rtcrlb",
       "lon": -103.245,
       "lat": 32.002,
@@ -1332,16 +1362,6 @@
       "place": "12 km WSW of Salton City, CA",
       "time": 1788915903950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543120"
-    },
-    {
-      "id": "tx2026rsvffz",
-      "lon": -104.456,
-      "lat": 31.642,
-      "depth": 0.8388,
-      "mag": 1.7,
-      "place": "59 km S of Whites City, New Mexico",
-      "time": 1788915495121,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rsvffz"
     },
     {
       "id": "aka2026rvrdne",
@@ -2462,36 +2482,6 @@
       "place": "30 km NW of Toyah, Texas",
       "time": 1788877013494,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rrzykc"
-    },
-    {
-      "id": "us7000tfu8",
-      "lon": 155.7106,
-      "lat": 49.8562,
-      "depth": 64.43,
-      "mag": 4.5,
-      "place": "95 km SSW of Severo-Kuril’sk, Russia",
-      "time": 1788876789955,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfu8"
-    },
-    {
-      "id": "nc75431712",
-      "lon": -121.824668884277,
-      "lat": 37.4196662902832,
-      "depth": 0.0799999982118607,
-      "mag": 1.63,
-      "place": "6 km N of Alum Rock, CA",
-      "time": 1788876540430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431712"
-    },
-    {
-      "id": "nn00924257",
-      "lon": -119.3082,
-      "lat": 40.7474,
-      "depth": 4.4265,
-      "mag": 1.58,
-      "place": "7 km WSW of Burning Man Earth, Nevada",
-      "time": 1788876149879,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924257"
     }
   ]
 }
