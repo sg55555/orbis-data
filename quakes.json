@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T16:01:13Z",
-  "count": 240,
+  "updated": "2026-09-09T16:15:43Z",
+  "count": 242,
   "points": [
+    {
+      "id": "hv75031572",
+      "lon": -155.499496459961,
+      "lat": 19.1843338012695,
+      "depth": 30.5,
+      "mag": 2.38,
+      "place": "3 km SW of Pāhala, Hawaii",
+      "time": 1788970220370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75031572"
+    },
+    {
+      "id": "ci41543592",
+      "lon": -116.511166666667,
+      "lat": 33.4835,
+      "depth": 12.2,
+      "mag": 0.44,
+      "place": "17 km ESE of Anza, CA",
+      "time": 1788969744250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543592"
+    },
     {
       "id": "ci41543576",
       "lon": -116.518666666667,
@@ -344,6 +364,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432342"
     },
     {
+      "id": "uw714097462",
+      "lon": -122.792333333333,
+      "lat": 47.8266666666667,
+      "depth": 20.36,
+      "mag": 0.58,
+      "place": "6 km E of Quilcene, Washington",
+      "time": 1788952771440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714097462"
+    },
+    {
       "id": "ci41543448",
       "lon": -116.573,
       "lat": 33.4905,
@@ -375,12 +405,12 @@
     },
     {
       "id": "tx2026rtpbbr",
-      "lon": -104.512,
-      "lat": 31.618,
-      "depth": 1.9922,
-      "mag": 1.6,
-      "place": "63 km SSW of Whites City, New Mexico",
-      "time": 1788951520703,
+      "lon": -104.491,
+      "lat": 31.633,
+      "depth": 2.9834,
+      "mag": 1.4,
+      "place": "61 km S of Whites City, New Mexico",
+      "time": 1788951520400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rtpbbr"
     },
     {
@@ -2392,16 +2422,6 @@
       "place": "9 km NW of The Geysers, CA",
       "time": 1788884389420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431767"
-    },
-    {
-      "id": "us7000tfur",
-      "lon": 83.9779,
-      "lat": 29.2727,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "97 km NNE of Chitre, Nepal",
-      "time": 1788883714980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfur"
     }
   ]
 }
