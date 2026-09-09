@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T13:30:59Z",
-  "count": 245,
+  "updated": "2026-09-09T13:46:18Z",
+  "count": 246,
   "points": [
+    {
+      "id": "ci41543520",
+      "lon": -116.525333333333,
+      "lat": 33.4795,
+      "depth": 11.24,
+      "mag": 1.25,
+      "place": "16 km ESE of Anza, CA",
+      "time": 1788961246390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543520"
+    },
     {
       "id": "ci41543512",
       "lon": -116.221333333333,
@@ -114,6 +124,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg1q"
     },
     {
+      "id": "uu80155371",
+      "lon": -112.375,
+      "lat": 41.9133333333333,
+      "depth": 0.09,
+      "mag": 1.06,
+      "place": "13 km WSW of Portage, Utah",
+      "time": 1788955997300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155371"
+    },
+    {
       "id": "ci41543480",
       "lon": -116.6905,
       "lat": 33.6535,
@@ -152,6 +172,16 @@
       "place": "25 km SW of Ocotillo Wells, CA",
       "time": 1788955617840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543456"
+    },
+    {
+      "id": "uu80155366",
+      "lon": -112.9055,
+      "lat": 38.4926666666667,
+      "depth": 3.88,
+      "mag": 1.64,
+      "place": "14 km NE of Milford, Utah",
+      "time": 1788953157140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155366"
     },
     {
       "id": "nc75432342",
@@ -815,12 +845,12 @@
     },
     {
       "id": "uu80155301",
-      "lon": -112.903666666667,
-      "lat": 38.5138333333333,
-      "depth": 2.14,
-      "mag": 2.46,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1788929853300,
+      "lon": -112.898666666667,
+      "lat": 38.5161666666667,
+      "depth": 2.33,
+      "mag": 2.47,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1788929853280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155301"
     },
     {
@@ -2432,26 +2462,6 @@
       "place": "20 km SSE of Packwood, Washington",
       "time": 1788875343130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714096972"
-    },
-    {
-      "id": "us7000tfty",
-      "lon": -68.8236,
-      "lat": -21.4066,
-      "depth": 110.668,
-      "mag": 4.7,
-      "place": "62 km WSW of Ollagüe, Chile",
-      "time": 1788874928931,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfty"
-    },
-    {
-      "id": "ci41542784",
-      "lon": -117.7985,
-      "lat": 35.323,
-      "depth": 6.49,
-      "mag": 1.11,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": 1788874450740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542784"
     }
   ]
 }
