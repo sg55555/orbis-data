@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T02:15:41Z",
-  "count": 255,
+  "updated": "2026-09-09T02:30:55Z",
+  "count": 256,
   "points": [
+    {
+      "id": "aka2026rvubsi",
+      "lon": -153.047,
+      "lat": 59.896,
+      "depth": 107.8,
+      "mag": 2.1,
+      "place": "60 km E of Pedro Bay, Alaska",
+      "time": 1788920228436,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvubsi"
+    },
+    {
+      "id": "hv75031212",
+      "lon": -155.405334472656,
+      "lat": 19.298999786377,
+      "depth": 28.2900009155273,
+      "mag": 2.09,
+      "place": "13 km NE of Pāhala, Hawaii",
+      "time": 1788919925160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75031212"
+    },
     {
       "id": "aka2026rvtsuc",
       "lon": -149.741,
@@ -2542,16 +2562,6 @@
       "place": "15 km SSE of Westbrook, Texas",
       "time": 1788834704316,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rrcouk"
-    },
-    {
-      "id": "nc75431497",
-      "lon": -122.807334899902,
-      "lat": 38.8358345031738,
-      "depth": 2.24000000953674,
-      "mag": 0.69,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1788834058700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431497"
     }
   ]
 }
