@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T22:15:40Z",
-  "count": 289,
+  "updated": "2026-09-09T22:30:58Z",
+  "count": 288,
   "points": [
+    {
+      "id": "nc75432862",
+      "lon": -122.844497680664,
+      "lat": 38.8588333129883,
+      "depth": 2.16000008583069,
+      "mag": 1.74,
+      "place": "11 km WNW of Cobb, CA",
+      "time": 1788992635830,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432862"
+    },
     {
       "id": "ci41543768",
       "lon": -116.764666666667,
@@ -2155,12 +2165,12 @@
     },
     {
       "id": "ci41543232",
-      "lon": -116.516166666667,
-      "lat": 33.4836666666667,
-      "depth": 12.08,
-      "mag": 0.45,
+      "lon": -116.513166666667,
+      "lat": 33.4868333333333,
+      "depth": 12.25,
+      "mag": 0.32,
       "place": "17 km ESE of Anza, CA",
-      "time": 1788929576450,
+      "time": 1788929576430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543232"
     },
     {
@@ -2872,26 +2882,6 @@
       "place": "57 km W of Yonakuni, Japan",
       "time": 1788906769451,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfxp"
-    },
-    {
-      "id": "ci41543040",
-      "lon": -116.972666666667,
-      "lat": 34.223,
-      "depth": 2.37,
-      "mag": 0.45,
-      "place": "6 km WSW of Big Bear Lake, CA",
-      "time": 1788906634580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543040"
-    },
-    {
-      "id": "aka2026rvmamr",
-      "lon": -135.327,
-      "lat": 57.206,
-      "depth": 5,
-      "mag": 2,
-      "place": "17 km N of Sitka, Alaska",
-      "time": 1788905761895,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvmamr"
     }
   ]
 }
