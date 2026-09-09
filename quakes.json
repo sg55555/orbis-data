@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T21:30:58Z",
-  "count": 282,
+  "updated": "2026-09-09T21:45:44Z",
+  "count": 281,
   "points": [
+    {
+      "id": "nc75432832",
+      "lon": -122.755500793457,
+      "lat": 38.7953338623047,
+      "depth": -0.129999995231628,
+      "mag": 1.28,
+      "place": "2 km N of The Geysers, CA",
+      "time": 1788990235780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432832"
+    },
+    {
+      "id": "aka2026rxguxn",
+      "lon": -156.575,
+      "lat": 56.216,
+      "depth": 77.6,
+      "mag": 2.7,
+      "place": "113 km E of Chignik, Alaska",
+      "time": 1788989937887,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxguxn"
+    },
     {
       "id": "nc75432827",
       "lon": -122.804336547852,
@@ -72,6 +92,16 @@
       "place": "18 km SW of La Quinta, CA",
       "time": 1788988001950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543720"
+    },
+    {
+      "id": "pr71531258",
+      "lon": -66.7675,
+      "lat": 17.9801666666667,
+      "depth": 13.22,
+      "mag": 2.24,
+      "place": "4 km S of Magas Arriba, Puerto Rico",
+      "time": 1788987687950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531258"
     },
     {
       "id": "nc75432797",
@@ -2782,46 +2812,6 @@
       "place": "10 km NE of Hildale, Utah",
       "time": 1788904354040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155256"
-    },
-    {
-      "id": "nc75432037",
-      "lon": -122.84383392334,
-      "lat": 38.8346672058105,
-      "depth": 1.53999996185303,
-      "mag": 0.82,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1788903834270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432037"
-    },
-    {
-      "id": "us7000tfxd",
-      "lon": 120.658,
-      "lat": -8.1535,
-      "depth": 17.467,
-      "mag": 4.6,
-      "place": "54 km NNE of Ruteng, Indonesia",
-      "time": 1788903742442,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfxd"
-    },
-    {
-      "id": "ok2026rqkr",
-      "lon": -97.709,
-      "lat": 35.01483333,
-      "depth": 11.17,
-      "mag": 0.8,
-      "place": "7 km WSW of Dibble, Oklahoma",
-      "time": 1788903607700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026rqkr"
-    },
-    {
-      "id": "tx2026rsoieh",
-      "lon": -101.991,
-      "lat": 32.143,
-      "depth": 8.7646,
-      "mag": 2,
-      "place": "18 km NNE of Midland, Texas",
-      "time": 1788903036999,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rsoieh"
     }
   ]
 }
