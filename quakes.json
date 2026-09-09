@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T17:45:43Z",
+  "updated": "2026-09-09T17:57:09Z",
   "count": 264,
   "points": [
+    {
+      "id": "tx2026ructku",
+      "lon": -104.47,
+      "lat": 31.648,
+      "depth": 7.4504,
+      "mag": 1.9,
+      "place": "59 km S of Whites City, New Mexico",
+      "time": 1788976230437,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ructku"
+    },
     {
       "id": "nc75432602",
       "lon": -122.849502563477,
@@ -202,6 +212,16 @@
       "place": "19 km WNW of Progreso, B.C., MX",
       "time": 1788973404700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543624"
+    },
+    {
+      "id": "us7000tg3x",
+      "lon": 169.9486,
+      "lat": -19.8237,
+      "depth": 10,
+      "mag": 5.2,
+      "place": "76 km ESE of Isangel, Vanuatu",
+      "time": 1788973312208,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg3x"
     },
     {
       "id": "nc75432467",
@@ -615,9 +635,9 @@
     },
     {
       "id": "ci41543472",
-      "lon": -118.279,
-      "lat": 36.1543333333333,
-      "depth": 8.26,
+      "lon": -118.280833333333,
+      "lat": 36.1551666666667,
+      "depth": 7.99,
       "mag": 1.69,
       "place": "28 km WSW of Olancha, CA",
       "time": 1788955831680,
@@ -2622,26 +2642,6 @@
       "place": "17 km W of Searles Valley, CA",
       "time": 1788890228390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542896"
-    },
-    {
-      "id": "aka2026rvdjld",
-      "lon": -148.31,
-      "lat": 62.864,
-      "depth": 82.3,
-      "mag": 2.7,
-      "place": "67 km SSE of Cantwell, Alaska",
-      "time": 1788890194852,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvdjld"
-    },
-    {
-      "id": "nc75431832",
-      "lon": -122.817337036133,
-      "lat": 38.8133316040039,
-      "depth": 2.25999999046326,
-      "mag": 1.1,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1788889597700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431832"
     }
   ]
 }
