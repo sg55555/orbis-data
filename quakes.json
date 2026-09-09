@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T00:15:40Z",
-  "count": 240,
+  "updated": "2026-09-09T00:30:55Z",
+  "count": 241,
   "points": [
+    {
+      "id": "ci41543104",
+      "lon": -117.807502746582,
+      "lat": 35.3325004577637,
+      "depth": 6.48000001907349,
+      "mag": 1.87982914816964,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1788913682330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543104"
+    },
+    {
+      "id": "nc75432107",
+      "lon": -122.84733581543,
+      "lat": 38.8484992980957,
+      "depth": 1.97000002861023,
+      "mag": 0.75,
+      "place": "11 km WNW of Cobb, CA",
+      "time": 1788913014320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432107"
+    },
     {
       "id": "pr71531213",
       "lon": -67.3285,
@@ -92,6 +112,16 @@
       "place": "10 km WNW of The Geysers, CA",
       "time": 1788909375700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432067"
+    },
+    {
+      "id": "aka2026rvnour",
+      "lon": -169.286,
+      "lat": 52.186,
+      "depth": 9.5,
+      "mag": 4.2,
+      "place": "88 km SSW of Nikolski, Alaska",
+      "time": 1788908551538,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvnour"
     },
     {
       "id": "tx2026rsrglx",
@@ -755,12 +785,12 @@
     },
     {
       "id": "ci41542856",
-      "lon": -117.495,
-      "lat": 33.8501666666667,
-      "depth": 2,
-      "mag": 1.78,
+      "lon": -117.496666666667,
+      "lat": 33.8495,
+      "depth": 3.07,
+      "mag": 1.56,
       "place": "4 km SE of Home Gardens, CA",
-      "time": 1788882475250,
+      "time": 1788882475200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542856"
     },
     {
@@ -1215,12 +1245,12 @@
     },
     {
       "id": "tx2026rrvuxy",
-      "lon": -104.439,
+      "lon": -104.437,
       "lat": 31.65,
-      "depth": 6.7664,
+      "depth": 7.0483,
       "mag": 1.6,
       "place": "58 km S of Whites City, New Mexico",
-      "time": 1788869528235,
+      "time": 1788869528200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rrvuxy"
     },
     {
@@ -2382,26 +2412,6 @@
       "place": "92 km ESE of Isangel, Vanuatu",
       "time": 1788828722083,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqf"
-    },
-    {
-      "id": "ci41542592",
-      "lon": -115.7785,
-      "lat": 32.6405,
-      "depth": 8.16,
-      "mag": 1.16,
-      "place": "19 km WNW of Progreso, B.C., MX",
-      "time": 1788827348620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542592"
-    },
-    {
-      "id": "uu80154836",
-      "lon": -112.817833333333,
-      "lat": 37.068,
-      "depth": 7.93,
-      "mag": 1.41,
-      "place": "15 km ENE of Hildale, Utah",
-      "time": 1788826612190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80154836"
     }
   ]
 }
