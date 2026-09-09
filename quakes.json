@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T10:31:04Z",
-  "count": 252,
+  "updated": "2026-09-09T10:45:44Z",
+  "count": 251,
   "points": [
+    {
+      "id": "ci41543424",
+      "lon": -116.495330810547,
+      "lat": 33.4778327941895,
+      "depth": 11.539999961853,
+      "mag": 1.25747348204341,
+      "place": "19 km ESE of Anza, CA",
+      "time": 1788950553920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543424"
+    },
+    {
+      "id": "aka2026rwkvcn",
+      "lon": -149.809,
+      "lat": 64.776,
+      "depth": 11.1,
+      "mag": 2.3,
+      "place": "38 km WNW of Four Mile Road, Alaska",
+      "time": 1788950367547,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rwkvcn"
+    },
     {
       "id": "aka2026rwkcin",
       "lon": -144.81,
@@ -22,6 +42,16 @@
       "place": "44 km WSW of Fort Stockton, Texas",
       "time": 1788948486026,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rtnkzl"
+    },
+    {
+      "id": "us7000tg12",
+      "lon": -66.5049,
+      "lat": -26.1386,
+      "depth": 10,
+      "mag": 5,
+      "place": "53 km W of Cafayate, Argentina",
+      "time": 1788948417170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg12"
     },
     {
       "id": "ci41543408",
@@ -2482,46 +2512,6 @@
       "place": "105 km SSE of King Cove, Alaska",
       "time": 1788864542312,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tft5"
-    },
-    {
-      "id": "uu80155071",
-      "lon": -111.138333333333,
-      "lat": 44.762,
-      "depth": 9.8,
-      "mag": 1.1,
-      "place": "4 km E of Hebgen Lake Estates, Montana",
-      "time": 1788864049030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155071"
-    },
-    {
-      "id": "ci41542736",
-      "lon": -116.746666666667,
-      "lat": 33.6675,
-      "depth": 13.34,
-      "mag": 0.7,
-      "place": "8 km SSW of Idyllwild, CA",
-      "time": 1788863855700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542736"
-    },
-    {
-      "id": "ci41542728",
-      "lon": -117.183166666667,
-      "lat": 34.0088333333333,
-      "depth": 16.58,
-      "mag": 0.84,
-      "place": "5 km S of Redlands, CA",
-      "time": 1788863794990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542728"
-    },
-    {
-      "id": "us7000tft4",
-      "lon": -68.8859,
-      "lat": -23.3881,
-      "depth": 99.602,
-      "mag": 4.2,
-      "place": "87 km SW of San Pedro de Atacama, Chile",
-      "time": 1788863619128,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tft4"
     }
   ]
 }
