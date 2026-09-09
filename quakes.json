@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T18:31:02Z",
-  "count": 262,
+  "updated": "2026-09-09T18:45:49Z",
+  "count": 263,
   "points": [
+    {
+      "id": "aka2026rxarpv",
+      "lon": -150.661,
+      "lat": 61.246,
+      "depth": 32.3,
+      "mag": 2.9,
+      "place": "25 km ENE of Beluga, Alaska",
+      "time": 1788978905275,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxarpv"
+    },
+    {
+      "id": "nc75432652",
+      "lon": -121.324836730957,
+      "lat": 36.9435005187988,
+      "depth": 4.30999994277954,
+      "mag": 1.24,
+      "place": "13 km NNE of Hollister, CA",
+      "time": 1788978801090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432652"
+    },
     {
       "id": "nc75432647",
       "lon": -122.85050201416,
@@ -12,6 +32,16 @@
       "place": "11 km WNW of Cobb, CA",
       "time": 1788978500210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432647"
+    },
+    {
+      "id": "us7000tg4e",
+      "lon": -178.0932,
+      "lat": -20.6521,
+      "depth": 499.414,
+      "mag": 4.6,
+      "place": "295 km WNW of Houma, Tonga",
+      "time": 1788977942293,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg4e"
     },
     {
       "id": "nc75432632",
@@ -2602,26 +2632,6 @@
       "place": "38 km NNE of Amboy, Washington",
       "time": 1788893534970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714097142"
-    },
-    {
-      "id": "uu80155211",
-      "lon": -112.255666666667,
-      "lat": 38.5616666666667,
-      "depth": 6.84,
-      "mag": 1.61,
-      "place": "7 km SSW of Joseph, Utah",
-      "time": 1788892871400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155211"
-    },
-    {
-      "id": "uw714097132",
-      "lon": -122.642166666667,
-      "lat": 46.2446666666667,
-      "depth": 15.67,
-      "mag": 0.67,
-      "place": "20 km E of Castle Rock, Washington",
-      "time": 1788892643210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714097132"
     }
   ]
 }
