@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T17:31:03Z",
-  "count": 260,
+  "updated": "2026-09-09T17:45:43Z",
+  "count": 264,
   "points": [
+    {
+      "id": "nc75432602",
+      "lon": -122.849502563477,
+      "lat": 38.8513336181641,
+      "depth": 1.20000004768372,
+      "mag": 1.4,
+      "place": "11 km WNW of Cobb, CA",
+      "time": 1788975656650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432602"
+    },
+    {
+      "id": "nc75432592",
+      "lon": -122.850997924805,
+      "lat": 38.8498344421387,
+      "depth": 0.769999980926514,
+      "mag": 1.04,
+      "place": "11 km NW of The Geysers, CA",
+      "time": 1788975163270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432592"
+    },
+    {
+      "id": "nc75432577",
+      "lon": -122.849998474121,
+      "lat": 38.8493347167969,
+      "depth": 1.49000000953674,
+      "mag": 0.74,
+      "place": "11 km NW of The Geysers, CA",
+      "time": 1788974995020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432577"
+    },
     {
       "id": "nc75432572",
       "lon": -122.847831726074,
@@ -65,12 +95,12 @@
     },
     {
       "id": "hv75031627",
-      "lon": -155.390502929688,
-      "lat": 19.0590000152588,
-      "depth": 34.2700004577637,
-      "mag": 2.6,
-      "place": "18 km SSE of Pāhala, Hawaii",
-      "time": 1788974587340,
+      "lon": -155.382666666667,
+      "lat": 19.0486666666667,
+      "depth": 32.44,
+      "mag": 2.63,
+      "place": "19 km SSE of Pāhala, Hawaii",
+      "time": 1788974587390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75031627"
     },
     {
@@ -382,6 +412,26 @@
       "place": "6 km WNW of Petrolia, CA",
       "time": 1788962755710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432382"
+    },
+    {
+      "id": "se60627631",
+      "lon": -84.2541666666667,
+      "lat": 35.67,
+      "depth": 16.5,
+      "mag": 2.04,
+      "place": "1 km S of Tellico Village, Tennessee",
+      "time": 1788962323640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60627631"
+    },
+    {
+      "id": "se60506298",
+      "lon": -84.2538333333333,
+      "lat": 35.6701666666667,
+      "depth": 16.79,
+      "mag": 2.13,
+      "place": "1 km S of Tellico Village, Tennessee",
+      "time": 1788962260190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60506298"
     },
     {
       "id": "ci41543536",
@@ -1285,12 +1335,12 @@
     },
     {
       "id": "ci41543264",
-      "lon": -115.462,
-      "lat": 32.8293333333333,
-      "depth": 9.16,
-      "mag": 1.82,
-      "place": "8 km WNW of Holtville, CA",
-      "time": 1788930168070,
+      "lon": -115.458666666667,
+      "lat": 32.8123333333333,
+      "depth": 8.16,
+      "mag": 1.76,
+      "place": "7 km W of Holtville, CA",
+      "time": 1788930168020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543264"
     },
     {
@@ -2592,16 +2642,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1788889597700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431832"
-    },
-    {
-      "id": "ci41542888",
-      "lon": -118.923166666667,
-      "lat": 36.0575,
-      "depth": 5.33,
-      "mag": 1.49,
-      "place": "8 km E of Porterville, CA",
-      "time": 1788888750270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542888"
     }
   ]
 }
