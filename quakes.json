@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T08:45:42Z",
-  "count": 253,
+  "updated": "2026-09-09T09:01:12Z",
+  "count": 256,
   "points": [
+    {
+      "id": "nc75432297",
+      "lon": -122.814834594727,
+      "lat": 38.8178329467773,
+      "depth": 2.60999989509583,
+      "mag": 0.24,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1788944234560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432297"
+    },
+    {
+      "id": "nc75432287",
+      "lon": -122.93049621582,
+      "lat": 38.779167175293,
+      "depth": 4.01999998092651,
+      "mag": 1.36,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": 1788943870320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432287"
+    },
+    {
+      "id": "hv75031332",
+      "lon": -155.285507202148,
+      "lat": 18.9995002746582,
+      "depth": 49,
+      "mag": 1.98,
+      "place": "30 km SE of Pāhala, Hawaii",
+      "time": 1788943418000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75031332"
+    },
     {
       "id": "tx2026rtkaar",
       "lon": -101.696,
@@ -24,13 +54,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rtkawg"
     },
     {
+      "id": "tx2026rtkalb",
+      "lon": -98.101,
+      "lat": 28.857,
+      "depth": 12.8516,
+      "mag": 1.5,
+      "place": "16 km SSW of Falls City, Texas",
+      "time": 1788942324451,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rtkalb"
+    },
+    {
       "id": "tx2026rtjwrv",
       "lon": -104.22,
       "lat": 31.501,
-      "depth": 1.8558,
+      "depth": 1.8627,
       "mag": 1.2,
       "place": "45 km WNW of Toyah, Texas",
-      "time": 1788942063973,
+      "time": 1788942063969,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rtjwrv"
     },
     {
@@ -835,12 +875,12 @@
     },
     {
       "id": "tx2026rsuopz",
-      "lon": -104.43,
-      "lat": 31.664,
-      "depth": 5.8492,
-      "mag": 1.7,
-      "place": "56 km S of Whites City, New Mexico",
-      "time": 1788914356908,
+      "lon": -104.416,
+      "lat": 31.674,
+      "depth": 6.4075,
+      "mag": 1.6,
+      "place": "55 km S of Whites City, New Mexico",
+      "time": 1788914357159,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rsuopz"
     },
     {
@@ -2522,16 +2562,6 @@
       "place": "2 km W of Pāhala, Hawaii",
       "time": 1788858264950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030812"
-    },
-    {
-      "id": "ci41542704",
-      "lon": -117.252666666667,
-      "lat": 34.0608333333333,
-      "depth": 13.87,
-      "mag": 0.91,
-      "place": "2 km NNE of Loma Linda, CA",
-      "time": 1788857916430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542704"
     }
   ]
 }
