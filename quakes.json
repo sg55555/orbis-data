@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T04:53:59Z",
-  "count": 266,
+  "updated": "2026-09-09T05:01:05Z",
+  "count": 265,
   "points": [
+    {
+      "id": "ci41543232",
+      "lon": -116.516166666667,
+      "lat": 33.4836666666667,
+      "depth": 12.08,
+      "mag": 0.45,
+      "place": "17 km ESE of Anza, CA",
+      "time": 1788929576450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543232"
+    },
     {
       "id": "ci41543224",
       "lon": -116.5295,
@@ -2642,26 +2652,6 @@
       "place": "18 km SW of Thatcher, Utah",
       "time": 1788844064460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80154906"
-    },
-    {
-      "id": "tx2026rrhlep",
-      "lon": -103.898,
-      "lat": 31.96,
-      "depth": 7.7533,
-      "mag": 1.5,
-      "place": "33 km SSE of Malaga, New Mexico",
-      "time": 1788843506956,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rrhlep"
-    },
-    {
-      "id": "aka2026rudiqp",
-      "lon": -154.141,
-      "lat": 56.655,
-      "depth": 38.9,
-      "mag": 2.7,
-      "place": "32 km S of Akhiok, Alaska",
-      "time": 1788843353639,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rudiqp"
     }
   ]
 }
