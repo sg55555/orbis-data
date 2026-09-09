@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T09:45:41Z",
+  "updated": "2026-09-09T10:01:11Z",
   "count": 252,
   "points": [
     {
+      "id": "ci41543408",
+      "lon": -117.898166666667,
+      "lat": 33.5275,
+      "depth": 9.36,
+      "mag": 1.39,
+      "place": "11 km SSE of Newport Beach, CA",
+      "time": 1788947701000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543408"
+    },
+    {
+      "id": "ci41543400",
+      "lon": -116.967666666667,
+      "lat": 34.228,
+      "depth": 2.52,
+      "mag": 0.47,
+      "place": "5 km WSW of Big Bear Lake, CA",
+      "time": 1788947026390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543400"
+    },
+    {
       "id": "tx2026rtmnni",
-      "lon": -103.481,
-      "lat": 31.263,
-      "depth": 4.7886,
+      "lon": -103.468,
+      "lat": 31.261,
+      "depth": 4.9192,
       "mag": 1.1,
-      "place": "12 km SSE of Lindsay, Texas",
-      "time": 1788946853961,
+      "place": "13 km SSE of Lindsay, Texas",
+      "time": 1788946853852,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rtmnni"
     },
     {
@@ -2502,26 +2522,6 @@
       "place": "9 km SSW of Idyllwild, CA",
       "time": 1788862494830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542720"
-    },
-    {
-      "id": "aka2026runkig",
-      "lon": -147.753,
-      "lat": 62.188,
-      "depth": 36.6,
-      "mag": 1.6,
-      "place": "41 km NW of Eureka Roadhouse, Alaska",
-      "time": 1788861463368,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026runkig"
-    },
-    {
-      "id": "aka2026runabn",
-      "lon": -147.083,
-      "lat": 65,
-      "depth": 2.1,
-      "mag": 1,
-      "place": "14 km N of Two Rivers, Alaska",
-      "time": 1788860752070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026runabn"
     }
   ]
 }
