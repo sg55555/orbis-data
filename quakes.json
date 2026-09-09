@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T13:15:46Z",
-  "count": 244,
+  "updated": "2026-09-09T13:30:59Z",
+  "count": 245,
   "points": [
+    {
+      "id": "ci41543512",
+      "lon": -116.221333333333,
+      "lat": 33.3481666666667,
+      "depth": 4.53,
+      "mag": 0.87,
+      "place": "17 km SW of Oasis, CA",
+      "time": 1788960429330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543512"
+    },
     {
       "id": "ci41543504",
       "lon": -117.519,
@@ -22,6 +32,16 @@
       "place": "33 km SW of Cantwell, Alaska",
       "time": 1788959221650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rwptay"
+    },
+    {
+      "id": "uu80155386",
+      "lon": -110.468333333333,
+      "lat": 44.6683333333333,
+      "depth": 5.09,
+      "mag": 1.42,
+      "place": "38 km SSE of Mammoth, Wyoming",
+      "time": 1788958965520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155386"
     },
     {
       "id": "hv75031487",
@@ -194,6 +214,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rwlhsl"
     },
     {
+      "id": "us7000tg1h",
+      "lon": 112.3011,
+      "lat": 34.9849,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "27 km WSW of Jiyuan, China",
+      "time": 1788951099229,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg1h"
+    },
+    {
       "id": "tx2026rtorgz",
       "lon": -101.418,
       "lat": 32.155,
@@ -272,6 +302,16 @@
       "place": "11 km SSE of Newport Beach, CA",
       "time": 1788947701000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543408"
+    },
+    {
+      "id": "us7000tg0z",
+      "lon": -76.0665,
+      "lat": 39.666,
+      "depth": 5,
+      "mag": 1.7,
+      "place": "3 km S of Rising Sun, Maryland",
+      "time": 1788947659773,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg0z"
     },
     {
       "id": "ci41543400",
@@ -815,12 +855,12 @@
     },
     {
       "id": "us7000tfzk",
-      "lon": -76.069,
-      "lat": 39.6915,
-      "depth": 5.134,
+      "lon": -76.0941,
+      "lat": 39.6934,
+      "depth": 6.208,
       "mag": 2.1,
-      "place": "0 km SW of Rising Sun, Maryland",
-      "time": 1788928899547,
+      "place": "2 km W of Rising Sun, Maryland",
+      "time": 1788928899421,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfzk"
     },
     {
@@ -2412,36 +2452,6 @@
       "place": "16 km WSW of Johannesburg, CA",
       "time": 1788874450740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542784"
-    },
-    {
-      "id": "ci41542776",
-      "lon": -116.7245,
-      "lat": 33.6505,
-      "depth": 15.2,
-      "mag": 0.99,
-      "place": "10 km S of Idyllwild, CA",
-      "time": 1788873830820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542776"
-    },
-    {
-      "id": "tx2026rrxyuo",
-      "lon": -104.003,
-      "lat": 31.535,
-      "depth": 6.0999,
-      "mag": 2,
-      "place": "31 km NW of Toyah, Texas",
-      "time": 1788873513272,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rrxyuo"
-    },
-    {
-      "id": "tx2026rrxzon",
-      "lon": -104.256,
-      "lat": 31.736,
-      "depth": 8.4967,
-      "mag": 1.6,
-      "place": "50 km SSE of Whites City, New Mexico",
-      "time": 1788873471270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rrxzon"
     }
   ]
 }
