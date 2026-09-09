@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T09:15:42Z",
-  "count": 256,
+  "updated": "2026-09-09T09:30:57Z",
+  "count": 255,
   "points": [
+    {
+      "id": "ci41543392",
+      "lon": -117.810833333333,
+      "lat": 35.3301666666667,
+      "depth": 7.73,
+      "mag": 1,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1788945671260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543392"
+    },
+    {
+      "id": "ci41543384",
+      "lon": -117.802666666667,
+      "lat": 35.3266666666667,
+      "depth": 6.48,
+      "mag": 1.89,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1788945300920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543384"
+    },
     {
       "id": "ci41543376",
       "lon": -116.843666666667,
@@ -2532,36 +2552,6 @@
       "place": "24 km SSW of Mammoth, Wyoming",
       "time": 1788860186570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155056"
-    },
-    {
-      "id": "nc75431632",
-      "lon": -122.728996276855,
-      "lat": 38.7588348388672,
-      "depth": 2.59999990463257,
-      "mag": 1.78,
-      "place": "3 km SE of The Geysers, CA",
-      "time": 1788859563180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431632"
-    },
-    {
-      "id": "hv75030822",
-      "lon": -155.368667602539,
-      "lat": 19.0254993438721,
-      "depth": 32.6599998474121,
-      "mag": 2.12,
-      "place": "22 km ESE of Naalehu, Hawaii",
-      "time": 1788859502940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030822"
-    },
-    {
-      "id": "nc75431622",
-      "lon": -119.059829711914,
-      "lat": 37.4773330688477,
-      "depth": 8.22999954223633,
-      "mag": 1.4,
-      "place": "19 km SSW of Mammoth Lakes, CA",
-      "time": 1788859321320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431622"
     }
   ]
 }
