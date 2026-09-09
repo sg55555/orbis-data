@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T02:30:55Z",
-  "count": 256,
+  "updated": "2026-09-09T02:45:41Z",
+  "count": 255,
   "points": [
+    {
+      "id": "ci41543160",
+      "lon": -116.525333333333,
+      "lat": 33.487,
+      "depth": 11.33,
+      "mag": 0.78,
+      "place": "16 km ESE of Anza, CA",
+      "time": 1788921319180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543160"
+    },
     {
       "id": "aka2026rvubsi",
       "lon": -153.047,
@@ -232,6 +242,16 @@
       "place": "89 km SSW of Nikolski, Alaska",
       "time": 1788913425868,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvqhfz"
+    },
+    {
+      "id": "us7000tfyn",
+      "lon": 102.8454,
+      "lat": -4.9167,
+      "depth": 39.565,
+      "mag": 4.5,
+      "place": "108 km SSW of Pagar Alam, Indonesia",
+      "time": 1788913399728,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfyn"
     },
     {
       "id": "nc75432107",
@@ -2532,36 +2552,6 @@
       "place": "19 km NW of Parkfield, CA",
       "time": 1788835543440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431522"
-    },
-    {
-      "id": "uu80154861",
-      "lon": -112.895833333333,
-      "lat": 38.5091666666667,
-      "depth": 2.1,
-      "mag": 0.75,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1788835242910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80154861"
-    },
-    {
-      "id": "us7000tfqv",
-      "lon": 159.7019,
-      "lat": 51.5605,
-      "depth": 24.871,
-      "mag": 4.6,
-      "place": "176 km SSE of Vilyuchinsk, Russia",
-      "time": 1788834860009,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqv"
-    },
-    {
-      "id": "tx2026rrcouk",
-      "lon": -100.981,
-      "lat": 32.222,
-      "depth": 5.5908,
-      "mag": 1.2,
-      "place": "15 km SSE of Westbrook, Texas",
-      "time": 1788834704316,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rrcouk"
     }
   ]
 }
