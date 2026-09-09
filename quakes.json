@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T01:30:55Z",
+  "updated": "2026-09-09T01:45:38Z",
   "count": 252,
   "points": [
     {
+      "id": "aka2026rvssbv",
+      "lon": -149.783,
+      "lat": 64.781,
+      "depth": 9.7,
+      "mag": 2.3,
+      "place": "37 km WNW of Four Mile Road, Alaska",
+      "time": 1788917772591,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvssbv"
+    },
+    {
       "id": "ci41543128",
-      "lon": -116.529830932617,
-      "lat": 33.4786682128906,
-      "depth": 10.5699996948242,
-      "mag": 2.03638900539884,
+      "lon": -116.528833333333,
+      "lat": 33.4783333333333,
+      "depth": 11.09,
+      "mag": 2.05,
       "place": "16 km ESE of Anza, CA",
-      "time": 1788917234890,
+      "time": 1788917234850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543128"
     },
     {
@@ -214,6 +224,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvolbt"
     },
     {
+      "id": "ci41543072",
+      "lon": -117.252833333333,
+      "lat": 34.0425,
+      "depth": 16.2,
+      "mag": 0.68,
+      "place": "1 km SE of Loma Linda, CA",
+      "time": 1788909985730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543072"
+    },
+    {
       "id": "tx2026rsryft",
       "lon": -101.684,
       "lat": 31.718,
@@ -244,14 +264,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432067"
     },
     {
-      "id": "aka2026rvnour",
-      "lon": -169.286,
-      "lat": 52.186,
-      "depth": 9.5,
-      "mag": 4.2,
-      "place": "88 km SSW of Nikolski, Alaska",
-      "time": 1788908551538,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvnour"
+      "id": "us7000tfy4",
+      "lon": -169.4249,
+      "lat": 52.3325,
+      "depth": 49.3,
+      "mag": 4,
+      "place": "77 km SSW of Nikolski, Alaska",
+      "time": 1788908554467,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfy4"
     },
     {
       "id": "tx2026rsrglx",
@@ -2502,26 +2522,6 @@
       "place": "27 km NNW of Midland, Texas",
       "time": 1788831995827,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rrbbuz"
-    },
-    {
-      "id": "hv75030732",
-      "lon": -155.383331298828,
-      "lat": 19.0403327941895,
-      "depth": 29.9899997711182,
-      "mag": 2.01,
-      "place": "20 km SSE of Pāhala, Hawaii",
-      "time": 1788831723630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030732"
-    },
-    {
-      "id": "us7000tfqi",
-      "lon": -179.7628,
-      "lat": -22.3345,
-      "depth": 568.559,
-      "mag": 4.5,
-      "place": "south of the Fiji Islands",
-      "time": 1788831575020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqi"
     }
   ]
 }
