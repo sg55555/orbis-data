@@ -1,8 +1,58 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T21:45:44Z",
-  "count": 281,
+  "updated": "2026-09-09T22:01:09Z",
+  "count": 286,
   "points": [
+    {
+      "id": "nc75432842",
+      "lon": -122.813667297363,
+      "lat": 38.7971649169922,
+      "depth": 3.09999990463257,
+      "mag": 1.1,
+      "place": "5 km WNW of The Geysers, CA",
+      "time": 1788990756530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432842"
+    },
+    {
+      "id": "ci41543744",
+      "lon": -116.4835,
+      "lat": 33.5116666666667,
+      "depth": 6.9,
+      "mag": 0.6,
+      "place": "18 km ESE of Anza, CA",
+      "time": 1788990670030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543744"
+    },
+    {
+      "id": "pr71531263",
+      "lon": -66.8378333333333,
+      "lat": 17.9305,
+      "depth": 13.96,
+      "mag": 2.15,
+      "place": "7 km SSW of Indios, Puerto Rico",
+      "time": 1788990348660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531263"
+    },
+    {
+      "id": "nc75432837",
+      "lon": -122.758003234863,
+      "lat": 38.7949981689453,
+      "depth": 0.620000004768372,
+      "mag": 0.93,
+      "place": "2 km N of The Geysers, CA",
+      "time": 1788990348240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432837"
+    },
+    {
+      "id": "aka2026rxgzwl",
+      "lon": -143.129,
+      "lat": 60.432,
+      "depth": 3.6,
+      "mag": 1.3,
+      "place": "112 km S of McCarthy, Alaska",
+      "time": 1788990279830,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxgzwl"
+    },
     {
       "id": "nc75432832",
       "lon": -122.755500793457,
@@ -15,13 +65,23 @@
     },
     {
       "id": "aka2026rxguxn",
-      "lon": -156.575,
-      "lat": 56.216,
-      "depth": 77.6,
-      "mag": 2.7,
-      "place": "113 km E of Chignik, Alaska",
-      "time": 1788989937887,
+      "lon": -156.548,
+      "lat": 56.199,
+      "depth": 74.3,
+      "mag": 2.9,
+      "place": "115 km E of Chignik, Alaska",
+      "time": 1788989937759,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxguxn"
+    },
+    {
+      "id": "us7000tg6g",
+      "lon": 74.3249,
+      "lat": -28.6108,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "Mid-Indian Ridge",
+      "time": 1788989394670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg6g"
     },
     {
       "id": "nc75432827",
@@ -184,6 +244,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg5p"
     },
     {
+      "id": "us7000tg5i",
+      "lon": 70.6552,
+      "lat": 38.9879,
+      "depth": 29.594,
+      "mag": 4.6,
+      "place": "24 km E of Rasht, Tajikistan",
+      "time": 1788985033749,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg5i"
+    },
+    {
       "id": "hv75031752",
       "lon": -155.492340087891,
       "lat": 19.1830005645752,
@@ -302,6 +372,16 @@
       "place": "8 km NW of Anchor Point, Alaska",
       "time": 1788981976950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxcgyx"
+    },
+    {
+      "id": "uu80155401",
+      "lon": -112.891333333333,
+      "lat": 38.5105,
+      "depth": 3.02,
+      "mag": 0.81,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1788981488780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155401"
     },
     {
       "id": "us7000tg51",
@@ -2782,36 +2862,6 @@
       "place": "12 km W of Anza, CA",
       "time": 1788904855660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543032"
-    },
-    {
-      "id": "us7000tfxg",
-      "lon": -172.2335,
-      "lat": -17.7255,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "211 km ENE of Neiafu, Tonga",
-      "time": 1788904653202,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfxg"
-    },
-    {
-      "id": "uu80155261",
-      "lon": -112.898,
-      "lat": 38.5123333333333,
-      "depth": 2.17,
-      "mag": 1.67,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1788904574450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155261"
-    },
-    {
-      "id": "uu80155256",
-      "lon": -112.899,
-      "lat": 37.0755,
-      "depth": 14.88,
-      "mag": 1.14,
-      "place": "10 km NE of Hildale, Utah",
-      "time": 1788904354040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155256"
     }
   ]
 }
