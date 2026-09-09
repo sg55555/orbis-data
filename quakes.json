@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-09T07:31:10Z",
-  "count": 249,
+  "updated": "2026-09-09T07:45:44Z",
+  "count": 250,
   "points": [
+    {
+      "id": "nc75432267",
+      "lon": -122.856666564941,
+      "lat": 38.8266677856445,
+      "depth": 2.45000004768372,
+      "mag": 1.17,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": 1788939753980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432267"
+    },
+    {
+      "id": "aka2026rwevog",
+      "lon": -150.509,
+      "lat": 61.288,
+      "depth": 53.7,
+      "mag": 1.7,
+      "place": "28 km S of Susitna, Alaska",
+      "time": 1788939643503,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rwevog"
+    },
     {
       "id": "aka2026rwegeu",
       "lon": -151.387,
@@ -2482,16 +2502,6 @@
       "place": "16 km NE of Milford, Utah",
       "time": 1788853532970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155036"
-    },
-    {
-      "id": "uu80155031",
-      "lon": -111.1445,
-      "lat": 44.7623333333333,
-      "depth": 10.55,
-      "mag": 0.66,
-      "place": "3 km ESE of Hebgen Lake Estates, Montana",
-      "time": 1788853325160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155031"
     }
   ]
 }
