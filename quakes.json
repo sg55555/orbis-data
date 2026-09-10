@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-10T21:04:36Z",
-  "count": 268,
+  "updated": "2026-09-10T21:15:44Z",
+  "count": 267,
   "points": [
+    {
+      "id": "ci41544360",
+      "lon": -117.9005,
+      "lat": 36.0805,
+      "depth": 5.53,
+      "mag": 0.83,
+      "place": "6 km NE of Coso Junction, CA",
+      "time": 1789074382740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544360"
+    },
     {
       "id": "aka2026rzbofd",
       "lon": -152.679,
@@ -1675,12 +1685,12 @@
     },
     {
       "id": "ci41543960",
-      "lon": -117.8025,
-      "lat": 35.328,
-      "depth": 5.94,
+      "lon": -117.801833333333,
+      "lat": 35.3313333333333,
+      "depth": 6.19,
       "mag": 0.98,
       "place": "16 km WSW of Johannesburg, CA",
-      "time": 1789022424670,
+      "time": 1789022424590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543960"
     },
     {
@@ -1775,12 +1785,12 @@
     },
     {
       "id": "ci41543944",
-      "lon": -117.1945,
-      "lat": 34.0171666666667,
-      "depth": 9.02,
-      "mag": 0.68,
+      "lon": -117.194333333333,
+      "lat": 34.0175,
+      "depth": 9.97,
+      "mag": 0.54,
       "place": "4 km SSW of Redlands, CA",
-      "time": 1789019652620,
+      "time": 1789019652550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543944"
     },
     {
@@ -2166,7 +2176,7 @@
     {
       "id": "nc75432947",
       "lon": -124.516333333333,
-      "lat": 40.2891666666667,
+      "lat": 40.2893333333333,
       "depth": 20.34,
       "mag": 3.79,
       "place": "20 km WSW of Petrolia, CA",
@@ -2662,26 +2672,6 @@
       "place": "13 km W of Chilliwack, Canada",
       "time": 1788988948760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714097812"
-    },
-    {
-      "id": "us7000tg67",
-      "lon": -93.0181,
-      "lat": 14.3007,
-      "depth": 35,
-      "mag": 4.3,
-      "place": "79 km SW of Puerto Madero, Mexico",
-      "time": 1788988111951,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg67"
-    },
-    {
-      "id": "ci41543720",
-      "lon": -116.762666666667,
-      "lat": 33.5603333333333,
-      "depth": 4.66,
-      "mag": 0.03,
-      "place": "8 km W of Anza, CA",
-      "time": 1788988006650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543720"
     }
   ]
 }
