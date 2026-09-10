@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-10T07:30:56Z",
-  "count": 262,
+  "updated": "2026-09-10T07:45:41Z",
+  "count": 258,
   "points": [
+    {
+      "id": "ci41544000",
+      "lon": -116.780334472656,
+      "lat": 33.6711654663086,
+      "depth": 16.6800003051758,
+      "mag": 1.07419544710147,
+      "place": "10 km SW of Idyllwild, CA",
+      "time": 1789026148510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544000"
+    },
     {
       "id": "nc75433032",
       "lon": -122.770668029785,
@@ -122,16 +132,6 @@
       "place": "42 km NNW of Beluga, Alaska",
       "time": 1789020947495,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxxymw"
-    },
-    {
-      "id": "tx2026rvbdht",
-      "lon": -103.49,
-      "lat": 31.194,
-      "depth": 7.6611,
-      "mag": 1.4,
-      "place": "19 km SSE of Lindsay, Texas",
-      "time": 1789020368735,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rvbdht"
     },
     {
       "id": "aka2026rxxrwn",
@@ -2582,46 +2582,6 @@
       "place": "31 km WSW of Coyanosa, Texas",
       "time": 1788939953907,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rtisgp"
-    },
-    {
-      "id": "ci41543320",
-      "lon": -118.8885,
-      "lat": 34.9826666666667,
-      "depth": 15.38,
-      "mag": 1,
-      "place": "6 km NE of Grapevine, CA",
-      "time": 1788939859210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543320"
-    },
-    {
-      "id": "nc75432267",
-      "lon": -122.856666564941,
-      "lat": 38.8266677856445,
-      "depth": 2.45000004768372,
-      "mag": 1.17,
-      "place": "10 km WNW of The Geysers, CA",
-      "time": 1788939753980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432267"
-    },
-    {
-      "id": "aka2026rwevog",
-      "lon": -150.509,
-      "lat": 61.288,
-      "depth": 53.7,
-      "mag": 1.7,
-      "place": "28 km S of Susitna, Alaska",
-      "time": 1788939643503,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rwevog"
-    },
-    {
-      "id": "uu80155321",
-      "lon": -112.897166666667,
-      "lat": 38.509,
-      "depth": 2.13,
-      "mag": 1.29,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1788939263780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155321"
     }
   ]
 }
