@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-10T01:24:47Z",
-  "count": 288,
+  "updated": "2026-09-10T01:30:57Z",
+  "count": 289,
   "points": [
+    {
+      "id": "nc75432942",
+      "lon": -124.585166931152,
+      "lat": 40.2934989929199,
+      "depth": 19.2299995422363,
+      "mag": 3.69,
+      "place": "26 km W of Petrolia, CA",
+      "time": 1789003487490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432942"
+    },
+    {
+      "id": "nc75432947",
+      "lon": -124.569664001465,
+      "lat": 40.2936668395996,
+      "depth": 19.5599994659424,
+      "mag": 3.7,
+      "place": "24 km W of Petrolia, CA",
+      "time": 1789003443810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432947"
+    },
     {
       "id": "ok2026rsnh",
       "lon": -97.89131927,
@@ -105,12 +125,12 @@
     },
     {
       "id": "aka2026rxmlvd",
-      "lon": -151.424,
-      "lat": 63.472,
-      "depth": 0,
+      "lon": -151.42,
+      "lat": 63.473,
+      "depth": 1.2,
       "mag": 2.3,
       "place": "16 km ESE of Denali National Park, Alaska",
-      "time": 1789000102387,
+      "time": 1789000102378,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxmlvd"
     },
     {
@@ -2735,12 +2755,12 @@
     },
     {
       "id": "ci41543176",
-      "lon": -116.5245,
-      "lat": 33.4783333333333,
-      "depth": 11.81,
+      "lon": -116.523666666667,
+      "lat": 33.4793333333333,
+      "depth": 12.01,
       "mag": 1.23,
       "place": "16 km ESE of Anza, CA",
-      "time": 1788922197180,
+      "time": 1788922197140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543176"
     },
     {
@@ -2872,16 +2892,6 @@
       "place": "9 km NE of Ashford, Washington",
       "time": 1788917558870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714097382"
-    },
-    {
-      "id": "ci41543128",
-      "lon": -116.528833333333,
-      "lat": 33.4783333333333,
-      "depth": 11.09,
-      "mag": 2.05,
-      "place": "16 km ESE of Anza, CA",
-      "time": 1788917234850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543128"
     }
   ]
 }
