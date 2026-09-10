@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-10T15:01:17Z",
-  "count": 251,
+  "updated": "2026-09-10T15:15:44Z",
+  "count": 249,
   "points": [
+    {
+      "id": "aka2026rypnvn",
+      "lon": -148.32,
+      "lat": 62.921,
+      "depth": 72.4,
+      "mag": 1.7,
+      "place": "61 km SSE of Cantwell, Alaska",
+      "time": 1789052415846,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rypnvn"
+    },
     {
       "id": "nc75433162",
       "lon": -122.765830993652,
@@ -12,6 +22,16 @@
       "place": "4 km W of Cobb, CA",
       "time": 1789051390250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433162"
+    },
+    {
+      "id": "uu80155671",
+      "lon": -112.898333333333,
+      "lat": 38.5205,
+      "depth": 2.23,
+      "mag": 0.88,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1789051332680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155671"
     },
     {
       "id": "nc75433157",
@@ -714,16 +734,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543968"
     },
     {
-      "id": "aka2026rxzatm",
-      "lon": -155.285,
-      "lat": 58.198,
-      "depth": 0.7,
-      "mag": 0.5,
-      "place": "85 km NW of Karluk, Alaska",
-      "time": 1789022726988,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxzatm"
-    },
-    {
       "id": "us7000tg8v",
       "lon": -77.5027,
       "lat": -3.873,
@@ -885,12 +895,12 @@
     },
     {
       "id": "aka2026rxwdbw",
-      "lon": -147.75,
-      "lat": 62.521,
-      "depth": 12.4,
+      "lon": -147.742,
+      "lat": 62.506,
+      "depth": 15.8,
       "mag": 4.2,
-      "place": "67 km WNW of Lake Louise, Alaska",
-      "time": 1789017488379,
+      "place": "66 km WNW of Lake Louise, Alaska",
+      "time": 1789017488805,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxwdbw"
     },
     {
@@ -2315,12 +2325,12 @@
     },
     {
       "id": "us7000tg3x",
-      "lon": 169.9486,
-      "lat": -19.8237,
+      "lon": 169.9636,
+      "lat": -19.8279,
       "depth": 10,
       "mag": 5.2,
-      "place": "76 km ESE of Isangel, Vanuatu",
-      "time": 1788973312208,
+      "place": "78 km ESE of Isangel, Vanuatu",
+      "time": 1788973312191,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg3x"
     },
     {
@@ -2482,36 +2492,6 @@
       "place": "18 km S of Lindsay, Texas",
       "time": 1788967908897,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rtydjn"
-    },
-    {
-      "id": "hv75031532",
-      "lon": -155.495666503906,
-      "lat": 19.191499710083,
-      "depth": 28.9099998474121,
-      "mag": 1.85,
-      "place": "2 km SW of Pāhala, Hawaii",
-      "time": 1788966517160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75031532"
-    },
-    {
-      "id": "tx2026rtxibh",
-      "lon": -104.256,
-      "lat": 31.71,
-      "depth": 4.2923,
-      "mag": 1.5,
-      "place": "52 km SSE of Whites City, New Mexico",
-      "time": 1788966507906,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rtxibh"
-    },
-    {
-      "id": "nc75432412",
-      "lon": -119.802665710449,
-      "lat": 36.0525016784668,
-      "depth": 15.5699996948242,
-      "mag": 2.37,
-      "place": "15 km ENE of Kettleman City, CA",
-      "time": 1788966471040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432412"
     }
   ]
 }
