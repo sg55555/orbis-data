@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-10T01:15:42Z",
-  "count": 290,
+  "updated": "2026-09-10T01:24:47Z",
+  "count": 288,
   "points": [
     {
+      "id": "ok2026rsnh",
+      "lon": -97.89131927,
+      "lat": 35.95297241,
+      "depth": 5,
+      "mag": 2.73,
+      "place": "3 km SSE of Dover, Oklahoma",
+      "time": 1789002958154,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026rsnh"
+    },
+    {
       "id": "aka2026rxnwfe",
-      "lon": -139.932,
-      "lat": 60.647,
-      "depth": 0,
-      "mag": 1.9,
-      "place": "123 km N of Yakutat, Alaska",
-      "time": 1789002619688,
+      "lon": -139.936,
+      "lat": 60.632,
+      "depth": 3.7,
+      "mag": 2,
+      "place": "121 km N of Yakutat, Alaska",
+      "time": 1789002619502,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxnwfe"
     },
     {
@@ -2735,12 +2745,12 @@
     },
     {
       "id": "ci41543168",
-      "lon": -115.5315,
-      "lat": 32.928,
-      "depth": 9.71,
-      "mag": 1.56,
-      "place": "6 km S of Brawley, CA",
-      "time": 1788921881870,
+      "lon": -115.526833333333,
+      "lat": 32.9301666666667,
+      "depth": 9.9,
+      "mag": 1.57,
+      "place": "5 km S of Brawley, CA",
+      "time": 1788921881780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543168"
     },
     {
@@ -2872,36 +2882,6 @@
       "place": "16 km ESE of Anza, CA",
       "time": 1788917234850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543128"
-    },
-    {
-      "id": "aka2026rvsfji",
-      "lon": -151.949,
-      "lat": 61.714,
-      "depth": 74.5,
-      "mag": 1.2,
-      "place": "42 km SW of Skwentna, Alaska",
-      "time": 1788916895586,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvsfji"
-    },
-    {
-      "id": "tx2026rsvxxp",
-      "lon": -101.948,
-      "lat": 32.101,
-      "depth": 8.6182,
-      "mag": 1.3,
-      "place": "15 km WSW of Stanton, Texas",
-      "time": 1788916805708,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rsvxxp"
-    },
-    {
-      "id": "nc75432137",
-      "lon": -122.814666748047,
-      "lat": 38.8306655883789,
-      "depth": 2.21000003814697,
-      "mag": 1.69,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1788916558080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432137"
     }
   ]
 }
