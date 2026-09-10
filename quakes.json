@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-10T18:15:44Z",
-  "count": 258,
+  "updated": "2026-09-10T18:30:55Z",
+  "count": 257,
   "points": [
     {
       "id": "ci41544208",
@@ -132,6 +132,16 @@
       "place": "21 km NNE of Karluk, Alaska",
       "time": 1789058161740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ryssvg"
+    },
+    {
+      "id": "uw714099121",
+      "lon": -123.0785,
+      "lat": 47.1206666666667,
+      "depth": -0.22,
+      "mag": 1.3,
+      "place": "10 km S of Shelton, Washington",
+      "time": 1789057799590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714099121"
     },
     {
       "id": "aka2026ryslnb",
@@ -825,12 +835,12 @@
     },
     {
       "id": "hv75032262",
-      "lon": -155.473327636719,
-      "lat": 19.4388332366943,
-      "depth": 5.53999996185303,
-      "mag": 2.16,
+      "lon": -155.477833333333,
+      "lat": 19.4406666666667,
+      "depth": 9.15,
+      "mag": 2,
       "place": "25 km W of Volcano, Hawaii",
-      "time": 1789031346590,
+      "time": 1789031346320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75032262"
     },
     {
@@ -2155,12 +2165,12 @@
     },
     {
       "id": "ci41543720",
-      "lon": -116.45,
-      "lat": 33.5491666666667,
-      "depth": 21.73,
-      "mag": 1.41,
-      "place": "18 km SW of La Quinta, CA",
-      "time": 1788988001950,
+      "lon": -116.762333333333,
+      "lat": 33.5601666666667,
+      "depth": 4.64,
+      "mag": 1.62,
+      "place": "8 km W of Anza, CA",
+      "time": 1788988006670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543720"
     },
     {
@@ -2562,26 +2572,6 @@
       "place": "13 km NNE of Hollister, CA",
       "time": 1788978801090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432652"
-    },
-    {
-      "id": "nc75432647",
-      "lon": -122.85050201416,
-      "lat": 38.8501663208008,
-      "depth": 1.54999995231628,
-      "mag": 0.51,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1788978500210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432647"
-    },
-    {
-      "id": "us7000tg4e",
-      "lon": -178.0932,
-      "lat": -20.6521,
-      "depth": 499.414,
-      "mag": 4.6,
-      "place": "295 km WNW of Houma, Tonga",
-      "time": 1788977942293,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg4e"
     }
   ]
 }
