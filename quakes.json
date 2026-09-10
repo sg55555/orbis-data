@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-10T04:52:02Z",
-  "count": 268,
+  "updated": "2026-09-10T05:01:05Z",
+  "count": 264,
   "points": [
+    {
+      "id": "nc75433012",
+      "lon": -122.882164001465,
+      "lat": 38.8343315124512,
+      "depth": 2.5699999332428,
+      "mag": 0.74,
+      "place": "12 km ENE of Cloverdale, CA",
+      "time": 1789016216430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433012"
+    },
     {
       "id": "ci41543896",
       "lon": -119.217,
@@ -2632,56 +2642,6 @@
       "place": "20 km E of Castle Rock, Washington",
       "time": 1788930082730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714097422"
-    },
-    {
-      "id": "ci41543248",
-      "lon": -115.461666666667,
-      "lat": 32.8308333333333,
-      "depth": 12,
-      "mag": 2.13,
-      "place": "8 km WNW of Holtville, CA",
-      "time": 1788929971560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543248"
-    },
-    {
-      "id": "ci41543240",
-      "lon": -116.514833333333,
-      "lat": 33.4848333333333,
-      "depth": 12.06,
-      "mag": 0.57,
-      "place": "17 km ESE of Anza, CA",
-      "time": 1788929952660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543240"
-    },
-    {
-      "id": "uu80155301",
-      "lon": -112.898666666667,
-      "lat": 38.5161666666667,
-      "depth": 2.33,
-      "mag": 2.47,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1788929853280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155301"
-    },
-    {
-      "id": "uu80155296",
-      "lon": -112.8995,
-      "lat": 38.5085,
-      "depth": 2.15,
-      "mag": 1.69,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1788929791520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155296"
-    },
-    {
-      "id": "ci41543232",
-      "lon": -116.513166666667,
-      "lat": 33.4868333333333,
-      "depth": 12.25,
-      "mag": 0.32,
-      "place": "17 km ESE of Anza, CA",
-      "time": 1788929576430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543232"
     }
   ]
 }
