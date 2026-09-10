@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-10T04:01:05Z",
-  "count": 271,
+  "updated": "2026-09-10T04:15:39Z",
+  "count": 270,
   "points": [
+    {
+      "id": "nc75432997",
+      "lon": -121.964836120605,
+      "lat": 37.8291664123535,
+      "depth": 5.94000005722046,
+      "mag": 1.13,
+      "place": "1 km SW of Diablo, CA",
+      "time": 1789012969630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432997"
+    },
     {
       "id": "ci41543880",
       "lon": -117.908333333333,
@@ -495,12 +505,12 @@
     },
     {
       "id": "us7000tg6g",
-      "lon": 74.3249,
-      "lat": -28.6108,
+      "lon": 74.2522,
+      "lat": -28.5889,
       "depth": 10,
-      "mag": 4.9,
+      "mag": 4.8,
       "place": "Mid-Indian Ridge",
-      "time": 1788989394670,
+      "time": 1788989394374,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg6g"
     },
     {
@@ -2692,26 +2702,6 @@
       "place": "26 km ENE of Calama, Chile",
       "time": 1788927455181,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfzh"
-    },
-    {
-      "id": "ci41543216",
-      "lon": -116.967,
-      "lat": 34.2268333333333,
-      "depth": 2.1,
-      "mag": 1.5,
-      "place": "5 km WSW of Big Bear Lake, CA",
-      "time": 1788926894490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543216"
-    },
-    {
-      "id": "hv75031237",
-      "lon": -155.424667358398,
-      "lat": 19.1628341674805,
-      "depth": 31.7000007629395,
-      "mag": 1.9,
-      "place": "7 km SE of Pāhala, Hawaii",
-      "time": 1788926722920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75031237"
     }
   ]
 }
