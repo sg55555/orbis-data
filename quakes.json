@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-10T01:45:42Z",
-  "count": 286,
+  "updated": "2026-09-10T02:01:04Z",
+  "count": 283,
   "points": [
+    {
+      "id": "hv75032127",
+      "lon": -155.442169189453,
+      "lat": 19.3226661682129,
+      "depth": 25.8799991607666,
+      "mag": 1.99,
+      "place": "13 km NNE of Pāhala, Hawaii",
+      "time": 1789004762060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75032127"
+    },
     {
       "id": "nc75432952",
       "lon": -124.529335021973,
@@ -2475,12 +2485,12 @@
     },
     {
       "id": "ci41543256",
-      "lon": -115.4655,
-      "lat": 32.8125,
-      "depth": 8.15,
-      "mag": 1.28,
+      "lon": -115.462666666667,
+      "lat": 32.813,
+      "depth": 7.98,
+      "mag": 1.18,
       "place": "8 km W of Holtville, CA",
-      "time": 1788930149480,
+      "time": 1788930149420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543256"
     },
     {
@@ -2822,46 +2832,6 @@
       "place": "11 km SSE of Susitna North, Alaska",
       "time": 1788919620767,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvtsuc"
-    },
-    {
-      "id": "aka2026rvtglu",
-      "lon": -155.171,
-      "lat": 58.257,
-      "depth": 2.9,
-      "mag": 0.9,
-      "place": "87 km NNW of Karluk, Alaska",
-      "time": 1788918768251,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvtglu"
-    },
-    {
-      "id": "ci41543144",
-      "lon": -117.476166666667,
-      "lat": 35.6695,
-      "depth": 7.96,
-      "mag": 1.15,
-      "place": "13 km SSW of Searles Valley, CA",
-      "time": 1788918564720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543144"
-    },
-    {
-      "id": "ci41543136",
-      "lon": -117.806833333333,
-      "lat": 35.3351666666667,
-      "depth": 7.13,
-      "mag": 2.33,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": 1788918363390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543136"
-    },
-    {
-      "id": "aka2026rvtafc",
-      "lon": -150.661,
-      "lat": 60.358,
-      "depth": 53.8,
-      "mag": 1.9,
-      "place": "16 km SSE of Funny River, Alaska",
-      "time": 1788918333973,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvtafc"
     }
   ]
 }
