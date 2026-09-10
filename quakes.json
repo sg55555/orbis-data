@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-10T00:30:58Z",
-  "count": 288,
+  "updated": "2026-09-10T00:45:42Z",
+  "count": 286,
   "points": [
     {
+      "id": "nc75432902",
+      "lon": -122.799499511719,
+      "lat": 38.8351669311523,
+      "depth": 2.02999997138977,
+      "mag": 1.24,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1789000922990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432902"
+    },
+    {
+      "id": "nc75432897",
+      "lon": -122.821502685547,
+      "lat": 38.8096656799316,
+      "depth": 3.07999992370605,
+      "mag": 0.63,
+      "place": "7 km WNW of The Geysers, CA",
+      "time": 1789000862420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432897"
+    },
+    {
       "id": "aka2026rxmlvd",
-      "lon": -151.403,
-      "lat": 63.463,
-      "depth": 7.4,
-      "mag": 2.2,
-      "place": "18 km ESE of Denali National Park, Alaska",
-      "time": 1789000102409,
+      "lon": -151.433,
+      "lat": 63.476,
+      "depth": 5,
+      "mag": 2.3,
+      "place": "16 km ESE of Denali National Park, Alaska",
+      "time": 1789000102417,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxmlvd"
     },
     {
@@ -122,6 +142,16 @@
       "place": "42 km NW of Toyah, Texas",
       "time": 1788995041621,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rundok"
+    },
+    {
+      "id": "aka2026rxjkup",
+      "lon": -164.566,
+      "lat": 53.446,
+      "depth": 1.7,
+      "mag": 2.2,
+      "place": "110 km SE of Akutan, Alaska",
+      "time": 1788994639270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxjkup"
     },
     {
       "id": "nc75432882",
@@ -1895,12 +1925,12 @@
     },
     {
       "id": "tx2026rtkalb",
-      "lon": -98.094,
-      "lat": 28.883,
-      "depth": 7.1787,
+      "lon": -98.096,
+      "lat": 28.893,
+      "depth": 9.8253,
       "mag": 1.4,
-      "place": "13 km SW of Falls City, Texas",
-      "time": 1788942325286,
+      "place": "12 km SW of Falls City, Texas",
+      "time": 1788942323767,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rtkalb"
     },
     {
@@ -2832,56 +2862,6 @@
       "place": "44 km N of Tanana, Alaska",
       "time": 1788914966835,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvrdne"
-    },
-    {
-      "id": "aka2026rvqzzb",
-      "lon": -147.786,
-      "lat": 64.899,
-      "depth": 2,
-      "mag": 1.1,
-      "place": "4 km WSW of Farmers Loop, Alaska",
-      "time": 1788914721259,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvqzzb"
-    },
-    {
-      "id": "tx2026rsuopz",
-      "lon": -104.416,
-      "lat": 31.674,
-      "depth": 6.4075,
-      "mag": 1.6,
-      "place": "55 km S of Whites City, New Mexico",
-      "time": 1788914357159,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rsuopz"
-    },
-    {
-      "id": "pr71531223",
-      "lon": -66.9675,
-      "lat": 17.9423333333333,
-      "depth": 14.91,
-      "mag": 2.12,
-      "place": "7 km WSW of Guánica, Puerto Rico",
-      "time": 1788914312630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531223"
-    },
-    {
-      "id": "ci41543112",
-      "lon": -117.807,
-      "lat": 35.3338333333333,
-      "depth": 7.67,
-      "mag": 1.51,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": 1788914023900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543112"
-    },
-    {
-      "id": "nc75432117",
-      "lon": -122.616333007812,
-      "lat": 38.7576675415039,
-      "depth": 5.51000022888184,
-      "mag": 1.14,
-      "place": "1 km N of Middletown, CA",
-      "time": 1788913950930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432117"
     }
   ]
 }
