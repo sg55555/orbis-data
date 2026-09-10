@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-10T17:15:41Z",
-  "count": 257,
+  "updated": "2026-09-10T17:31:01Z",
+  "count": 242,
   "points": [
+    {
+      "id": "uu80155741",
+      "lon": -112.899833333333,
+      "lat": 38.5163333333333,
+      "depth": 2.29,
+      "mag": 1.93,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1789059970390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155741"
+    },
     {
       "id": "hv75032447",
       "lon": -155.606674194336,
@@ -22,16 +32,6 @@
       "place": "11 km ENE of Ocotillo Wells, CA",
       "time": 1789058943910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544184"
-    },
-    {
-      "id": "nn00924320",
-      "lon": -114.6417,
-      "lat": 37.1847,
-      "depth": 2.5396,
-      "mag": 1.62,
-      "place": "49 km SSW of Caliente, Nevada",
-      "time": 1789058601166,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924320"
     },
     {
       "id": "aka2026ryssvg",
@@ -985,12 +985,12 @@
     },
     {
       "id": "ci41543976",
-      "lon": -116.978333333333,
-      "lat": 35.039,
-      "depth": 1.88,
+      "lon": -116.979166666667,
+      "lat": 35.0395,
+      "depth": 2,
       "mag": 1.48,
       "place": "16 km NNE of Barstow, CA",
-      "time": 1789022887020,
+      "time": 1789022887010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543976"
     },
     {
@@ -1492,6 +1492,26 @@
       "place": "7 km WNW of The Geysers, CA",
       "time": 1789000862420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432897"
+    },
+    {
+      "id": "ci41543848",
+      "lon": -116.736333333333,
+      "lat": 33.5166666666667,
+      "depth": 3.76,
+      "mag": -0.01,
+      "place": "7 km SW of Anza, CA",
+      "time": 1789000290290,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543848"
+    },
+    {
+      "id": "aka2026rxmmpu",
+      "lon": -160.896,
+      "lat": 55.221,
+      "depth": 88.4,
+      "mag": 1.8,
+      "place": "28 km WSW of Sand Point, Alaska",
+      "time": 1789000157350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxmmpu"
     },
     {
       "id": "aka2026rxmlvd",
@@ -2402,176 +2422,6 @@
       "place": "11 km NW of The Geysers, CA",
       "time": 1788975163270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432592"
-    },
-    {
-      "id": "nc75432577",
-      "lon": -122.849998474121,
-      "lat": 38.8493347167969,
-      "depth": 1.49000000953674,
-      "mag": 0.74,
-      "place": "11 km NW of The Geysers, CA",
-      "time": 1788974995020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432577"
-    },
-    {
-      "id": "nc75432572",
-      "lon": -122.847831726074,
-      "lat": 38.8508338928223,
-      "depth": 0.379999995231628,
-      "mag": 1.81,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1788974867490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432572"
-    },
-    {
-      "id": "nc75432567",
-      "lon": -122.847663879395,
-      "lat": 38.851001739502,
-      "depth": 1.41999995708466,
-      "mag": 1.08,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1788974840230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432567"
-    },
-    {
-      "id": "nc75432552",
-      "lon": -122.849830627441,
-      "lat": 38.8530006408691,
-      "depth": 1.1599999666214,
-      "mag": 1.05,
-      "place": "12 km WNW of Cobb, CA",
-      "time": 1788974745020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432552"
-    },
-    {
-      "id": "nc75432547",
-      "lon": -122.850166320801,
-      "lat": 38.8535003662109,
-      "depth": 0.660000026226044,
-      "mag": 1.4,
-      "place": "12 km WNW of Cobb, CA",
-      "time": 1788974714070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432547"
-    },
-    {
-      "id": "nc75432537",
-      "lon": -122.85066986084,
-      "lat": 38.8536682128906,
-      "depth": 0.600000023841858,
-      "mag": 1.15,
-      "place": "12 km WNW of Cobb, CA",
-      "time": 1788974654230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432537"
-    },
-    {
-      "id": "nc75432532",
-      "lon": -122.849998474121,
-      "lat": 38.8608322143555,
-      "depth": 0.140000000596046,
-      "mag": 0.9,
-      "place": "12 km WNW of Cobb, CA",
-      "time": 1788974615110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432532"
-    },
-    {
-      "id": "hv75031627",
-      "lon": -155.382666666667,
-      "lat": 19.0486666666667,
-      "depth": 32.44,
-      "mag": 2.63,
-      "place": "19 km SSE of Pāhala, Hawaii",
-      "time": 1788974587390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75031627"
-    },
-    {
-      "id": "nc75432527",
-      "lon": -122.883499145508,
-      "lat": 38.876335144043,
-      "depth": 2.15000009536743,
-      "mag": 0.67,
-      "place": "12 km SSW of Kelseyville, CA",
-      "time": 1788974587010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432527"
-    },
-    {
-      "id": "nc75432522",
-      "lon": -122.846168518066,
-      "lat": 38.8541679382324,
-      "depth": -0.610000014305115,
-      "mag": 0.79,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1788974553500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432522"
-    },
-    {
-      "id": "nc75432507",
-      "lon": -122.847663879395,
-      "lat": 38.855167388916,
-      "depth": 0.980000019073486,
-      "mag": 0.27,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1788974468530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432507"
-    },
-    {
-      "id": "nc75432502",
-      "lon": -122.847831726074,
-      "lat": 38.8543319702148,
-      "depth": 1.33000004291534,
-      "mag": 0.68,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1788974423730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432502"
-    },
-    {
-      "id": "nc75432492",
-      "lon": -122.846000671387,
-      "lat": 38.8563346862793,
-      "depth": 1.1599999666214,
-      "mag": 2.58,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1788974374940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432492"
-    },
-    {
-      "id": "nc75432487",
-      "lon": -122.846832275391,
-      "lat": 38.8554992675781,
-      "depth": 1.33000004291534,
-      "mag": 1.22,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1788974358300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432487"
-    },
-    {
-      "id": "nc75432482",
-      "lon": -122.84733581543,
-      "lat": 38.8553352355957,
-      "depth": 1.36000001430511,
-      "mag": 1.53,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1788974354250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432482"
-    },
-    {
-      "id": "nc75432497",
-      "lon": -122.847831726074,
-      "lat": 38.8536682128906,
-      "depth": 0.779999971389771,
-      "mag": 1.93,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1788974333120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432497"
-    },
-    {
-      "id": "us7000tg43",
-      "lon": 170.0677,
-      "lat": -19.777,
-      "depth": 10,
-      "mag": 5.1,
-      "place": "86 km ESE of Isangel, Vanuatu",
-      "time": 1788974325408,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg43"
     }
   ]
 }
