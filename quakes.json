@@ -1,14 +1,24 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-10T01:30:57Z",
-  "count": 289,
+  "updated": "2026-09-10T01:45:42Z",
+  "count": 286,
   "points": [
+    {
+      "id": "nc75432952",
+      "lon": -124.529335021973,
+      "lat": 40.2804985046387,
+      "depth": 19.9300003051758,
+      "mag": 2.3,
+      "place": "21 km WSW of Petrolia, CA",
+      "time": 1789003984850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432952"
+    },
     {
       "id": "nc75432942",
       "lon": -124.585166931152,
       "lat": 40.2934989929199,
       "depth": 19.2299995422363,
-      "mag": 3.69,
+      "mag": 3.6,
       "place": "26 km W of Petrolia, CA",
       "time": 1789003487490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432942"
@@ -18,7 +28,7 @@
       "lon": -124.569664001465,
       "lat": 40.2936668395996,
       "depth": 19.5599994659424,
-      "mag": 3.7,
+      "mag": 3.79,
       "place": "24 km W of Petrolia, CA",
       "time": 1789003443810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432947"
@@ -2485,22 +2495,22 @@
     },
     {
       "id": "ci41543248",
-      "lon": -115.462666666667,
-      "lat": 32.8305,
-      "depth": 11.79,
-      "mag": 2.12,
+      "lon": -115.461666666667,
+      "lat": 32.8308333333333,
+      "depth": 12,
+      "mag": 2.13,
       "place": "8 km WNW of Holtville, CA",
-      "time": 1788929971600,
+      "time": 1788929971560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543248"
     },
     {
       "id": "ci41543240",
-      "lon": -116.234666666667,
-      "lat": 33.3541666666667,
-      "depth": 23.9,
-      "mag": 0.79,
-      "place": "17 km NE of Borrego Springs, CA",
-      "time": 1788929948050,
+      "lon": -116.514833333333,
+      "lat": 33.4848333333333,
+      "depth": 12.06,
+      "mag": 0.57,
+      "place": "17 km ESE of Anza, CA",
+      "time": 1788929952660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543240"
     },
     {
@@ -2645,12 +2655,12 @@
     },
     {
       "id": "ci41543208",
-      "lon": -116.248833333333,
-      "lat": 33.306,
-      "depth": 5.9,
+      "lon": -116.248,
+      "lat": 33.3075,
+      "depth": 7.41,
       "mag": 0.69,
       "place": "13 km ENE of Borrego Springs, CA",
-      "time": 1788925606820,
+      "time": 1788925606790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543208"
     },
     {
@@ -2695,12 +2705,12 @@
     },
     {
       "id": "ci41543192",
-      "lon": -116.762166666667,
+      "lon": -116.762666666667,
       "lat": 33.5615,
-      "depth": 4.37,
-      "mag": 0.27,
+      "depth": 4.49,
+      "mag": 0.31,
       "place": "8 km W of Anza, CA",
-      "time": 1788922879410,
+      "time": 1788922879390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543192"
     },
     {
@@ -2852,46 +2862,6 @@
       "place": "16 km SSE of Funny River, Alaska",
       "time": 1788918333973,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvtafc"
-    },
-    {
-      "id": "aka2026rvssbv",
-      "lon": -149.783,
-      "lat": 64.781,
-      "depth": 9.7,
-      "mag": 2.3,
-      "place": "37 km WNW of Four Mile Road, Alaska",
-      "time": 1788917772591,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvssbv"
-    },
-    {
-      "id": "tx2026rswjbs",
-      "lon": -99.11,
-      "lat": 28.837,
-      "depth": 7.083,
-      "mag": 1.6,
-      "place": "6 km SSW of Pearsall, Texas",
-      "time": 1788917579752,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rswjbs"
-    },
-    {
-      "id": "tx2026rswizx",
-      "lon": -101.682,
-      "lat": 31.711,
-      "depth": 7.9346,
-      "mag": 0.3,
-      "place": "25 km SW of Garden City, Texas",
-      "time": 1788917579486,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rswizx"
-    },
-    {
-      "id": "uw714097382",
-      "lon": -121.941333333333,
-      "lat": 46.8188333333333,
-      "depth": 6.9,
-      "mag": 0.39,
-      "place": "9 km NE of Ashford, Washington",
-      "time": 1788917558870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714097382"
     }
   ]
 }
