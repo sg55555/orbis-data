@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-10T21:31:01Z",
-  "count": 266,
+  "updated": "2026-09-10T21:45:42Z",
+  "count": 267,
   "points": [
+    {
+      "id": "tx2026rwfuwm",
+      "lon": -104.269,
+      "lat": 31.806,
+      "depth": 4.2323,
+      "mag": 1.6,
+      "place": "42 km SSE of Whites City, New Mexico",
+      "time": 1789075900519,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rwfuwm"
+    },
     {
       "id": "nc75433317",
       "lon": -121.966835021973,
@@ -12,6 +22,16 @@
       "place": "3 km W of Dublin, CA",
       "time": 1789075638070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433317"
+    },
+    {
+      "id": "hv75032612",
+      "lon": -155.351333618164,
+      "lat": 19.0398330688477,
+      "depth": 30.8899993896484,
+      "mag": 2.03,
+      "place": "22 km SE of Pāhala, Hawaii",
+      "time": 1789075634570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75032612"
     },
     {
       "id": "aka2026rzcjwo",
@@ -62,6 +82,16 @@
       "place": "6 km NE of Coso Junction, CA",
       "time": 1789074382720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544360"
+    },
+    {
+      "id": "hv75032582",
+      "lon": -155.2795,
+      "lat": 19.421,
+      "depth": 0.23,
+      "mag": 1.87,
+      "place": "5 km WSW of Volcano, Hawaii",
+      "time": 1789074061160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75032582"
     },
     {
       "id": "aka2026rzbofd",
@@ -315,12 +345,12 @@
     },
     {
       "id": "ci41544232",
-      "lon": -116.862666666667,
-      "lat": 33.3046666666667,
-      "depth": 14.01,
-      "mag": 0.92,
+      "lon": -116.863666666667,
+      "lat": 33.3061666666667,
+      "depth": 14.64,
+      "mag": 0.56,
       "place": "6 km S of Palomar Observatory, CA",
-      "time": 1789066556120,
+      "time": 1789066556060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544232"
     },
     {
@@ -582,6 +612,16 @@
       "place": "27 km E of Honaunau-Napoopoo, Hawaii",
       "time": 1789059258700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75032447"
+    },
+    {
+      "id": "uu80155731",
+      "lon": -112.899666666667,
+      "lat": 38.518,
+      "depth": 2.75,
+      "mag": 1.35,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1789059136750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155731"
     },
     {
       "id": "ci41544184",
@@ -2632,36 +2672,6 @@
       "place": "2 km N of The Geysers, CA",
       "time": 1788990348240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432837"
-    },
-    {
-      "id": "aka2026rxgzwl",
-      "lon": -143.129,
-      "lat": 60.432,
-      "depth": 3.6,
-      "mag": 1.3,
-      "place": "112 km S of McCarthy, Alaska",
-      "time": 1788990279830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxgzwl"
-    },
-    {
-      "id": "nc75432832",
-      "lon": -122.755500793457,
-      "lat": 38.7953338623047,
-      "depth": -0.129999995231628,
-      "mag": 1.28,
-      "place": "2 km N of The Geysers, CA",
-      "time": 1788990235780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432832"
-    },
-    {
-      "id": "aka2026rxguxn",
-      "lon": -156.548,
-      "lat": 56.199,
-      "depth": 74.3,
-      "mag": 2.9,
-      "place": "115 km E of Chignik, Alaska",
-      "time": 1788989937759,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxguxn"
     }
   ]
 }
