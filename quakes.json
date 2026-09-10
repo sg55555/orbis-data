@@ -1,16 +1,56 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-10T09:01:08Z",
-  "count": 254,
+  "updated": "2026-09-10T09:15:43Z",
+  "count": 256,
   "points": [
     {
+      "id": "hv75032262",
+      "lon": -155.473327636719,
+      "lat": 19.4388332366943,
+      "depth": 5.53999996185303,
+      "mag": 2.16,
+      "place": "25 km W of Volcano, Hawaii",
+      "time": 1789031346590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75032262"
+    },
+    {
+      "id": "tx2026rvhaln",
+      "lon": -103.81,
+      "lat": 31.066,
+      "depth": 4.241,
+      "mag": 1.6,
+      "place": "10 km NW of Balmorhea, Texas",
+      "time": 1789031030689,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rvhaln"
+    },
+    {
+      "id": "tx2026rvhahc",
+      "lon": -102.164,
+      "lat": 32.108,
+      "depth": 4.3008,
+      "mag": 1.6,
+      "place": "14 km NNW of Midland, Texas",
+      "time": 1789031020876,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rvhahc"
+    },
+    {
+      "id": "nc75433067",
+      "lon": -121.624664306641,
+      "lat": 36.8913345336914,
+      "depth": 7.53999996185303,
+      "mag": 1.55,
+      "place": "2 km E of Aromas, CA",
+      "time": 1789030784900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433067"
+    },
+    {
       "id": "aka2026rydmqp",
-      "lon": -153.472,
-      "lat": 57.831,
-      "depth": 52.6,
-      "mag": 2.4,
-      "place": "35 km W of Port Lions, Alaska",
-      "time": 1789030742664,
+      "lon": -153.446,
+      "lat": 57.842,
+      "depth": 51.6,
+      "mag": 2.5,
+      "place": "33 km W of Port Lions, Alaska",
+      "time": 1789030742648,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rydmqp"
     },
     {
@@ -22,6 +62,16 @@
       "place": "1 km E of Aromas, CA",
       "time": 1789030700490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433062"
+    },
+    {
+      "id": "hv75032257",
+      "lon": -155.363494873047,
+      "lat": 19.0441665649414,
+      "depth": 30.1599998474121,
+      "mag": 1.77,
+      "place": "21 km SE of Pāhala, Hawaii",
+      "time": 1789030655890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75032257"
     },
     {
       "id": "nc75433057",
@@ -72,6 +122,16 @@
       "place": "10 km ESE of Riverbend, Washington",
       "time": 1789030014520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714098911"
+    },
+    {
+      "id": "pr71531268",
+      "lon": -66.8235,
+      "lat": 17.9688333333333,
+      "depth": 11.94,
+      "mag": 2.4,
+      "place": "2 km S of Indios, Puerto Rico",
+      "time": 1789029408120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531268"
     },
     {
       "id": "ci41544016",
@@ -612,16 +672,6 @@
       "place": "121 km N of Yakutat, Alaska",
       "time": 1789002619502,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxnwfe"
-    },
-    {
-      "id": "tx2026ruratk",
-      "lon": -104.137,
-      "lat": 31.541,
-      "depth": 4.7379,
-      "mag": 1.4,
-      "place": "41 km NW of Toyah, Texas",
-      "time": 1789002137993,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ruratk"
     },
     {
       "id": "ci41543864",
@@ -2512,36 +2562,6 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1788945671260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543392"
-    },
-    {
-      "id": "ci41543384",
-      "lon": -117.802666666667,
-      "lat": 35.3246666666667,
-      "depth": 6.93,
-      "mag": 1.89,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": 1788945300880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543384"
-    },
-    {
-      "id": "ci41543376",
-      "lon": -116.843666666667,
-      "lat": 33.974,
-      "depth": 20.12,
-      "mag": 0.31,
-      "place": "6 km NNE of Banning, CA",
-      "time": 1788945075650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543376"
-    },
-    {
-      "id": "nc75432302",
-      "lon": -122.811836242676,
-      "lat": 38.8310012817383,
-      "depth": -0.769999980926514,
-      "mag": 1.71,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1788945050200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432302"
     }
   ]
 }
