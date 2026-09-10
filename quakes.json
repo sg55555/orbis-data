@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-10T04:31:06Z",
-  "count": 270,
+  "updated": "2026-09-10T04:52:02Z",
+  "count": 268,
   "points": [
+    {
+      "id": "ci41543896",
+      "lon": -119.217,
+      "lat": 34.7418333333333,
+      "depth": 2.57,
+      "mag": 0.54,
+      "place": "13 km SSW of Pine Mountain Club, CA",
+      "time": 1789015084050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543896"
+    },
+    {
+      "id": "ci41543888",
+      "lon": -116.587333333333,
+      "lat": 33.0583333333333,
+      "depth": 2.72,
+      "mag": 0.77,
+      "place": "3 km SSE of Julian, CA",
+      "time": 1789014533540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543888"
+    },
     {
       "id": "nc75433007",
       "lon": -122.792167663574,
@@ -32,6 +52,16 @@
       "place": "6 km NE of Coso Junction, CA",
       "time": 1789011548540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543880"
+    },
+    {
+      "id": "uw714098851",
+      "lon": -119.406666666667,
+      "lat": 42.203,
+      "depth": 7.55,
+      "mag": 2.24,
+      "place": "47 km ESE of Plush, Oregon",
+      "time": 1789011173890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714098851"
     },
     {
       "id": "nn00924308",
@@ -2652,56 +2682,6 @@
       "place": "17 km ESE of Anza, CA",
       "time": 1788929576430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543232"
-    },
-    {
-      "id": "uu80155291",
-      "lon": -111.151166666667,
-      "lat": 44.7596666666667,
-      "depth": 9.35,
-      "mag": 0.17,
-      "place": "3 km ESE of Hebgen Lake Estates, Montana",
-      "time": 1788929273470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155291"
-    },
-    {
-      "id": "tx2026rtcrlb",
-      "lon": -103.245,
-      "lat": 32.002,
-      "depth": 6.4075,
-      "mag": 1.3,
-      "place": "13 km SSW of Jal, New Mexico",
-      "time": 1788929039015,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rtcrlb"
-    },
-    {
-      "id": "ci41543224",
-      "lon": -116.5295,
-      "lat": 33.4765,
-      "depth": 11.39,
-      "mag": 1.89,
-      "place": "16 km ESE of Anza, CA",
-      "time": 1788928976650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543224"
-    },
-    {
-      "id": "us7000tfzk",
-      "lon": -76.0941,
-      "lat": 39.6934,
-      "depth": 6.208,
-      "mag": 2.1,
-      "place": "2 km W of Rising Sun, Maryland",
-      "time": 1788928899421,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfzk"
-    },
-    {
-      "id": "nc75432197",
-      "lon": -122.765335083008,
-      "lat": 38.7970008850098,
-      "depth": 1.69000005722046,
-      "mag": 0.74,
-      "place": "2 km NNW of The Geysers, CA",
-      "time": 1788928533260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432197"
     }
   ]
 }
