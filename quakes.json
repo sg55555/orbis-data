@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-10T13:15:57Z",
-  "count": 248,
+  "updated": "2026-09-10T13:31:00Z",
+  "count": 249,
   "points": [
+    {
+      "id": "ci41544112",
+      "lon": -116.761333333333,
+      "lat": 33.5808333333333,
+      "depth": 12.34,
+      "mag": 0.59,
+      "place": "9 km WNW of Anza, CA",
+      "time": 1789046281930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544112"
+    },
+    {
+      "id": "ci41544104",
+      "lon": -117.9065,
+      "lat": 36.0875,
+      "depth": 1.8,
+      "mag": 1.49,
+      "place": "6 km NE of Coso Junction, CA",
+      "time": 1789046010910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544104"
+    },
     {
       "id": "aka2026rylvrr",
       "lon": -155.35,
@@ -2472,16 +2492,6 @@
       "place": "16 km ESE of Anza, CA",
       "time": 1788961246390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543520"
-    },
-    {
-      "id": "ci41543512",
-      "lon": -116.221333333333,
-      "lat": 33.3481666666667,
-      "depth": 4.53,
-      "mag": 0.87,
-      "place": "17 km SW of Oasis, CA",
-      "time": 1788960429330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543512"
     }
   ]
 }
