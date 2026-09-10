@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-10T20:01:10Z",
+  "updated": "2026-09-10T20:15:45Z",
   "count": 259,
   "points": [
+    {
+      "id": "nc75433272",
+      "lon": -122.823669433594,
+      "lat": 38.8398323059082,
+      "depth": 2.26999998092651,
+      "mag": 1.54,
+      "place": "9 km WNW of Cobb, CA",
+      "time": 1789070811150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433272"
+    },
     {
       "id": "ci41544344",
       "lon": -118.315333333333,
@@ -754,6 +764,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155641"
     },
     {
+      "id": "uu80155636",
+      "lon": -112.898166666667,
+      "lat": 38.5086666666667,
+      "depth": 2.3,
+      "mag": 1.65,
+      "place": "15 km NE of Milford, Utah",
+      "time": 1789043929690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155636"
+    },
+    {
       "id": "hv75032352",
       "lon": -155.445663452148,
       "lat": 19.0446662902832,
@@ -842,6 +862,16 @@
       "place": "9 km WNW of The Geysers, CA",
       "time": 1789039653460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433087"
+    },
+    {
+      "id": "uu80155626",
+      "lon": -112.9,
+      "lat": 38.5071666666667,
+      "depth": 2.41,
+      "mag": 1.12,
+      "place": "15 km NE of Milford, Utah",
+      "time": 1789039650110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155626"
     },
     {
       "id": "nc75433082",
@@ -2135,12 +2165,12 @@
     },
     {
       "id": "ci41543792",
-      "lon": -117.683666666667,
-      "lat": 35.0345,
-      "depth": -0.81,
-      "mag": 1.22,
-      "place": "5 km NW of Boron, CA",
-      "time": 1788996089810,
+      "lon": -117.679666666667,
+      "lat": 35.0378333333333,
+      "depth": -0.82,
+      "mag": 1.24,
+      "place": "5 km NNW of Boron, CA",
+      "time": 1788996089640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543792"
     },
     {
@@ -2155,12 +2185,12 @@
     },
     {
       "id": "ci41543784",
-      "lon": -116.661166666667,
-      "lat": 33.4433333333333,
-      "depth": 3.93,
-      "mag": 0.82,
+      "lon": -116.661,
+      "lat": 33.4441666666667,
+      "depth": 4.21,
+      "mag": 0.83,
       "place": "12 km S of Anza, CA",
-      "time": 1788995339980,
+      "time": 1788995339960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543784"
     },
     {
@@ -2195,12 +2225,12 @@
     },
     {
       "id": "ci41543768",
-      "lon": -116.764666666667,
-      "lat": 33.5611666666667,
-      "depth": 3.89,
+      "lon": -116.763333333333,
+      "lat": 33.563,
+      "depth": 4.3,
       "mag": 0.96,
       "place": "8 km W of Anza, CA",
-      "time": 1788991782600,
+      "time": 1788991782570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543768"
     },
     {
@@ -2562,36 +2592,6 @@
       "place": "24 km E of Rasht, Tajikistan",
       "time": 1788985033749,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg5i"
-    },
-    {
-      "id": "uw714097672",
-      "lon": -122.157833333333,
-      "lat": 46.202,
-      "depth": 6.96,
-      "mag": -0.14,
-      "place": "39 km NE of Amboy, Washington",
-      "time": 1788984559670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714097672"
-    },
-    {
-      "id": "hv75031752",
-      "lon": -155.500166666667,
-      "lat": 19.1871666666667,
-      "depth": 31.88,
-      "mag": 2.01,
-      "place": "2 km SW of Pāhala, Hawaii",
-      "time": 1788984435020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75031752"
-    },
-    {
-      "id": "aka2026rxdoms",
-      "lon": -158.902,
-      "lat": 56.354,
-      "depth": 6.7,
-      "mag": 2.5,
-      "place": "13 km NW of Chignik Lake, Alaska",
-      "time": 1788984114365,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxdoms"
     }
   ]
 }
