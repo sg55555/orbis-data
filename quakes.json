@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-10T08:01:09Z",
-  "count": 252,
+  "updated": "2026-09-10T08:15:40Z",
+  "count": 249,
   "points": [
+    {
+      "id": "ci41544008",
+      "lon": -116.6295,
+      "lat": 33.586,
+      "depth": 13.4,
+      "mag": 0.37,
+      "place": "5 km NE of Anza, CA",
+      "time": 1789027899410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544008"
+    },
     {
       "id": "ok2026rtak",
       "lon": -97.8762207,
@@ -115,12 +125,12 @@
     },
     {
       "id": "tx2026rvbzdj",
-      "lon": -104.373,
-      "lat": 31.616,
-      "depth": 9.0429,
-      "mag": 1.8,
-      "place": "62 km S of Whites City, New Mexico",
-      "time": 1789022080627,
+      "lon": -104.371,
+      "lat": 31.67,
+      "depth": 6.0999,
+      "mag": 1.7,
+      "place": "56 km S of Whites City, New Mexico",
+      "time": 1789022082744,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rvbzdj"
     },
     {
@@ -172,6 +182,16 @@
       "place": "4 km SSW of Redlands, CA",
       "time": 1789019652620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543944"
+    },
+    {
+      "id": "tx2026rvaopr",
+      "lon": -104.01,
+      "lat": 31.978,
+      "depth": 7.4072,
+      "mag": 1,
+      "place": "27 km SSE of Malaga, New Mexico",
+      "time": 1789019343205,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rvaopr"
     },
     {
       "id": "hv75032177",
@@ -2472,56 +2492,6 @@
       "place": "1 km NW of The Geysers, CA",
       "time": 1788941744270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432277"
-    },
-    {
-      "id": "ci41543368",
-      "lon": -115.435666666667,
-      "lat": 32.7693333333333,
-      "depth": 11.64,
-      "mag": 1.51,
-      "place": "7 km SW of Holtville, CA",
-      "time": 1788941712210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543368"
-    },
-    {
-      "id": "uu80155326",
-      "lon": -112.898666666667,
-      "lat": 38.5108333333333,
-      "depth": 2.28,
-      "mag": 1.11,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1788941428250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155326"
-    },
-    {
-      "id": "ci41543360",
-      "lon": -117.844333333333,
-      "lat": 35.3265,
-      "depth": 7.78,
-      "mag": 0.93,
-      "place": "20 km WSW of Johannesburg, CA",
-      "time": 1788941416770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543360"
-    },
-    {
-      "id": "tx2026rtjkux",
-      "lon": -104.125,
-      "lat": 31.536,
-      "depth": 7.6892,
-      "mag": 1.5,
-      "place": "39 km NW of Toyah, Texas",
-      "time": 1788941326462,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rtjkux"
-    },
-    {
-      "id": "ci41543352",
-      "lon": -116.715,
-      "lat": 33.6678333333333,
-      "depth": 15.18,
-      "mag": 0.7,
-      "place": "8 km S of Idyllwild, CA",
-      "time": 1788941147300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543352"
     }
   ]
 }
