@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-10T10:15:42Z",
-  "count": 256,
+  "updated": "2026-09-10T10:30:59Z",
+  "count": 257,
   "points": [
+    {
+      "id": "hv75032302",
+      "lon": -155.212005615234,
+      "lat": 19.5848331451416,
+      "depth": 29.3299999237061,
+      "mag": 1.99,
+      "place": "11 km WNW of Mountain View, Hawaii",
+      "time": 1789035172520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75032302"
+    },
     {
       "id": "ci41544048",
       "lon": -117.588833333333,
@@ -32,6 +42,16 @@
       "place": "22 km ESE of Little Lake, CA",
       "time": 1789033877060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544040"
+    },
+    {
+      "id": "pr71531273",
+      "lon": -64.3048333333333,
+      "lat": 18.4903333333333,
+      "depth": 58.93,
+      "mag": 3.16,
+      "place": "54 km ENE of Cruz Bay, U.S. Virgin Islands",
+      "time": 1789033710490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531273"
     },
     {
       "id": "tx2026rvikaw",
@@ -2552,16 +2572,6 @@
       "place": "38 km WNW of Four Mile Road, Alaska",
       "time": 1788950367547,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rwkvcn"
-    },
-    {
-      "id": "aka2026rwkcin",
-      "lon": -144.81,
-      "lat": 61.584,
-      "depth": 39.4,
-      "mag": 2.8,
-      "place": "16 km SSE of Kenny Lake, Alaska",
-      "time": 1788949070735,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rwkcin"
     }
   ]
 }
