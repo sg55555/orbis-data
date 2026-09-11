@@ -1,8 +1,48 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-11T21:15:43Z",
-  "count": 285,
+  "updated": "2026-09-11T21:30:58Z",
+  "count": 286,
   "points": [
+    {
+      "id": "nc75433892",
+      "lon": -122.852165222168,
+      "lat": 38.8549995422363,
+      "depth": 2.25,
+      "mag": 0.52,
+      "place": "12 km WNW of Cobb, CA",
+      "time": 1789161841130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433892"
+    },
+    {
+      "id": "nc75433887",
+      "lon": -122.85066986084,
+      "lat": 38.8544998168945,
+      "depth": 2.14000010490417,
+      "mag": 0.37,
+      "place": "12 km WNW of Cobb, CA",
+      "time": 1789161796340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433887"
+    },
+    {
+      "id": "nc75433882",
+      "lon": -122.85033416748,
+      "lat": 38.8536682128906,
+      "depth": 1.63999998569489,
+      "mag": 1.71,
+      "place": "12 km WNW of Cobb, CA",
+      "time": 1789161783950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433882"
+    },
+    {
+      "id": "nn00924361",
+      "lon": -115.033,
+      "lat": 36.2787,
+      "depth": 3.8151,
+      "mag": 1.63,
+      "place": "4 km NNE of Nellis Air Force Base, Nevada",
+      "time": 1789161121509,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924361"
+    },
     {
       "id": "nc75433862",
       "lon": -120.765167236328,
@@ -104,6 +144,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026savrhq"
     },
     {
+      "id": "aka2026savely",
+      "lon": -152.782,
+      "lat": 56.305,
+      "depth": 20.1,
+      "mag": 2.5,
+      "place": "104 km SSE of Old Harbor, Alaska",
+      "time": 1789156121094,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026savely"
+    },
+    {
       "id": "aka2026savbvc",
       "lon": -141.64,
       "lat": 60.641,
@@ -152,6 +202,16 @@
       "place": "107 km SE of Akhiok, Alaska",
       "time": 1789154225258,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026saudea"
+    },
+    {
+      "id": "aka2026satzxl",
+      "lon": -156.935,
+      "lat": 53.877,
+      "depth": 20,
+      "mag": 3,
+      "place": "267 km SSE of Perryville, Alaska",
+      "time": 1789154065094,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026satzxl"
     },
     {
       "id": "ci41544888",
@@ -2045,12 +2105,12 @@
     },
     {
       "id": "ci41544568",
-      "lon": -116.4535,
-      "lat": 33.508,
-      "depth": 4.07,
-      "mag": 0.88,
+      "lon": -116.453833333333,
+      "lat": 33.5068333333333,
+      "depth": 6.04,
+      "mag": 0.87,
       "place": "21 km ESE of Anza, CA",
-      "time": 1789099189430,
+      "time": 1789099189420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544568"
     },
     {
@@ -2802,56 +2862,6 @@
       "place": "42 km SSE of Whites City, New Mexico",
       "time": 1789075900592,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rwfuwm"
-    },
-    {
-      "id": "nc75433317",
-      "lon": -121.966835021973,
-      "lat": 37.7061653137207,
-      "depth": 9.71000003814697,
-      "mag": 2.11,
-      "place": "3 km W of Dublin, CA",
-      "time": 1789075638070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433317"
-    },
-    {
-      "id": "hv75032612",
-      "lon": -155.355166666667,
-      "lat": 19.057,
-      "depth": 31.57,
-      "mag": 1.78,
-      "place": "20 km SE of Pāhala, Hawaii",
-      "time": 1789075634690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75032612"
-    },
-    {
-      "id": "aka2026rzcjwo",
-      "lon": -150.502,
-      "lat": 63.249,
-      "depth": 127,
-      "mag": 2.6,
-      "place": "69 km ESE of Denali National Park, Alaska",
-      "time": 1789075518969,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rzcjwo"
-    },
-    {
-      "id": "nc75433312",
-      "lon": -118.797836303711,
-      "lat": 37.5456657409668,
-      "depth": 4.92000007629395,
-      "mag": 1.24,
-      "place": "11 km W of Toms Place, CA",
-      "time": 1789075459840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433312"
-    },
-    {
-      "id": "ci41544368",
-      "lon": -117.911,
-      "lat": 36.083,
-      "depth": 5.2,
-      "mag": 0.77,
-      "place": "5 km NE of Coso Junction, CA",
-      "time": 1789075353670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544368"
     }
   ]
 }
