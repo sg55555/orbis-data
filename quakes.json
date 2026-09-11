@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-11T01:45:42Z",
-  "count": 277,
+  "updated": "2026-09-11T02:01:05Z",
+  "count": 278,
   "points": [
+    {
+      "id": "ci41544512",
+      "lon": -117.630666666667,
+      "lat": 33.818,
+      "depth": 5.46,
+      "mag": 1.02,
+      "place": "8 km SW of Corona, CA",
+      "time": 1789091291720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544512"
+    },
     {
       "id": "ci41544504",
       "lon": -115.487666666667,
@@ -102,6 +112,16 @@
       "place": "20 km SE of Denali National Park, Alaska",
       "time": 1789086771634,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rziqhg"
+    },
+    {
+      "id": "hv75032737",
+      "lon": -155.281833333333,
+      "lat": 19.3946666666667,
+      "depth": 2.41,
+      "mag": 0.61,
+      "place": "7 km SW of Volcano, Hawaii",
+      "time": 1789086514950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75032737"
     },
     {
       "id": "tx2026rwloep",
@@ -212,6 +232,16 @@
       "place": "35 km SSE of Fern Forest, Hawaii",
       "time": 1789083100570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75032702"
+    },
+    {
+      "id": "hv75032692",
+      "lon": -155.282,
+      "lat": 19.3851666666667,
+      "depth": 1.93,
+      "mag": 0.73,
+      "place": "8 km SW of Volcano, Hawaii",
+      "time": 1789082758430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75032692"
     },
     {
       "id": "nc75433382",
@@ -2752,26 +2782,6 @@
       "place": "4 km WNW of San Francisco Zoo, CA",
       "time": 1789006866910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432967"
-    },
-    {
-      "id": "us7000tg7v",
-      "lon": -69.2508,
-      "lat": -21.0043,
-      "depth": 122.998,
-      "mag": 4.3,
-      "place": "85 km SSE of La Tirana, Chile",
-      "time": 1789005456234,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg7v"
-    },
-    {
-      "id": "hv75032127",
-      "lon": -155.442169189453,
-      "lat": 19.3226661682129,
-      "depth": 25.8799991607666,
-      "mag": 1.99,
-      "place": "13 km NNE of Pāhala, Hawaii",
-      "time": 1789004762060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75032127"
     }
   ]
 }
