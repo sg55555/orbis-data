@@ -1,16 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-11T07:15:45Z",
-  "count": 272,
+  "updated": "2026-09-11T07:31:01Z",
+  "count": 275,
   "points": [
     {
+      "id": "ci41544648",
+      "lon": -116.7805,
+      "lat": 33.6746666666667,
+      "depth": 12.85,
+      "mag": 0.55,
+      "place": "9 km SW of Idyllwild, CA",
+      "time": 1789111385940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544648"
+    },
+    {
+      "id": "hv75032972",
+      "lon": -155.579330444336,
+      "lat": 19.4228324890137,
+      "depth": 36.4900016784668,
+      "mag": 2.12,
+      "place": "26 km NNW of Pāhala, Hawaii",
+      "time": 1789111245240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75032972"
+    },
+    {
+      "id": "aka2026rzwfne",
+      "lon": -152.389,
+      "lat": 59.528,
+      "depth": 72.9,
+      "mag": 1.6,
+      "place": "32 km NW of Nanwalek, Alaska",
+      "time": 1789111215168,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rzwfne"
+    },
+    {
       "id": "aka2026rzvwxv",
-      "lon": -147.837,
-      "lat": 62.171,
-      "depth": 27.1,
+      "lon": -147.835,
+      "lat": 62.17,
+      "depth": 27.2,
       "mag": 4,
       "place": "41 km NNW of Glacier View, Alaska",
-      "time": 1789110622467,
+      "time": 1789110622460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rzvwxv"
     },
     {
@@ -62,6 +92,16 @@
       "place": "5 km SSE of Redlands, CA",
       "time": 1789105919860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544640"
+    },
+    {
+      "id": "us7000tgjp",
+      "lon": -92.9367,
+      "lat": 13.9298,
+      "depth": 10,
+      "mag": 4.2,
+      "place": "102 km SW of Brisas Barra de Suchiate, Mexico",
+      "time": 1789105475710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgjp"
     },
     {
       "id": "tx2026rwwbbb",
@@ -2712,16 +2752,6 @@
       "place": "16 km WNW of Orangeville, Utah",
       "time": 1789025747310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80008018"
-    },
-    {
-      "id": "nc75433032",
-      "lon": -122.770668029785,
-      "lat": 38.8053321838379,
-      "depth": 1.54999995231628,
-      "mag": 1.05,
-      "place": "3 km NNW of The Geysers, CA",
-      "time": 1789025246170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433032"
     }
   ]
 }
