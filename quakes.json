@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-11T12:30:56Z",
-  "count": 262,
+  "updated": "2026-09-11T12:45:43Z",
+  "count": 263,
   "points": [
+    {
+      "id": "aka2026sagyry",
+      "lon": -150.887,
+      "lat": 65.846,
+      "depth": 1.2,
+      "mag": 1.5,
+      "place": "50 km NW of Rampart, Alaska",
+      "time": 1789130534198,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sagyry"
+    },
     {
       "id": "hv75033162",
       "lon": -155.489334106445,
@@ -322,6 +332,16 @@
       "place": "12 km S of Anza, CA",
       "time": 1789117387200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544680"
+    },
+    {
+      "id": "nm60627846",
+      "lon": -89.6448333333333,
+      "lat": 36.5538333333333,
+      "depth": 7.57,
+      "mag": 1.74,
+      "place": "4 km WSW of Howardville, Missouri",
+      "time": 1789117376220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60627846"
     },
     {
       "id": "us7000tgkg",
@@ -2612,16 +2632,6 @@
       "place": "16 km NE of Milford, Utah",
       "time": 1789044482430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155641"
-    },
-    {
-      "id": "uu80155636",
-      "lon": -112.898166666667,
-      "lat": 38.5086666666667,
-      "depth": 2.3,
-      "mag": 1.65,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1789043929690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155636"
     }
   ]
 }
