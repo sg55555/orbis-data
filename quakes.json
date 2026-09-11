@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-11T20:15:41Z",
+  "updated": "2026-09-11T20:30:59Z",
   "count": 284,
   "points": [
+    {
+      "id": "aka2026sawaws",
+      "lon": -149.182,
+      "lat": 64.789,
+      "depth": 19.2,
+      "mag": 1.9,
+      "place": "20 km N of Four Mile Road, Alaska",
+      "time": 1789157673207,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sawaws"
+    },
     {
       "id": "aka2026savyjy",
       "lon": -152.208,
@@ -92,6 +102,16 @@
       "place": "15 km NE of Milford, Utah",
       "time": 1789153330680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156236"
+    },
+    {
+      "id": "ok2026rvrx",
+      "lon": -95.85733333,
+      "lat": 36.2035,
+      "depth": 0,
+      "mag": 1.64,
+      "place": "7 km S of Owasso, Oklahoma",
+      "time": 1789153221530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026rvrx"
     },
     {
       "id": "us7000tgqf",
@@ -275,10 +295,10 @@
     },
     {
       "id": "ci41544864",
-      "lon": -119.27,
-      "lat": 34.3875,
-      "depth": 5.04,
-      "mag": 1.49,
+      "lon": -119.262166666667,
+      "lat": 34.3906666666667,
+      "depth": 3.76,
+      "mag": 1.28,
       "place": "7 km SSW of Ojai, CA",
       "time": 1789148812590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544864"
@@ -442,6 +462,16 @@
       "place": "8 km WNW of Cobb, CA",
       "time": 1789145722520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433712"
+    },
+    {
+      "id": "uw714100071",
+      "lon": -124.056,
+      "lat": 43.4613333333333,
+      "depth": -0.42,
+      "mag": 1.56,
+      "place": "12 km ENE of Glasgow, Oregon",
+      "time": 1789145721620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714100071"
     },
     {
       "id": "tx2026rxrzhs",
@@ -1435,12 +1465,12 @@
     },
     {
       "id": "ci41544656",
-      "lon": -119.264166666667,
-      "lat": 34.3953333333333,
-      "depth": 4.24,
-      "mag": 1.46,
+      "lon": -119.2585,
+      "lat": 34.3983333333333,
+      "depth": 2.35,
+      "mag": 1.4,
       "place": "6 km SSW of Ojai, CA",
-      "time": 1789114149240,
+      "time": 1789114149200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544656"
     },
     {
@@ -2812,36 +2842,6 @@
       "place": "9 km ENE of Happy Valley, Alaska",
       "time": 1789072405801,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rzaqrf"
-    },
-    {
-      "id": "nc75433287",
-      "lon": -122.832496643066,
-      "lat": 38.8508338928223,
-      "depth": 2.86999988555908,
-      "mag": 2.15,
-      "place": "10 km WNW of Cobb, CA",
-      "time": 1789072178710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433287"
-    },
-    {
-      "id": "hv75032557",
-      "lon": -155.280333333333,
-      "lat": 19.417,
-      "depth": 0.24,
-      "mag": 2,
-      "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1789072028890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75032557"
-    },
-    {
-      "id": "hv75032552",
-      "lon": -155.214166666667,
-      "lat": 19.3428333333333,
-      "depth": 6.44,
-      "mag": 1.81,
-      "place": "11 km S of Volcano, Hawaii",
-      "time": 1789071605740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75032552"
     }
   ]
 }
