@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-11T13:01:12Z",
-  "count": 260,
+  "updated": "2026-09-11T13:15:46Z",
+  "count": 259,
   "points": [
+    {
+      "id": "hv75033197",
+      "lon": -155.4931640625,
+      "lat": 19.1844997406006,
+      "depth": 28.5100002288818,
+      "mag": 1.84,
+      "place": "2 km SW of Pāhala, Hawaii",
+      "time": 1789132225120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75033197"
+    },
     {
       "id": "aka2026sahjmf",
       "lon": -150.711,
@@ -502,6 +512,16 @@
       "place": "34 km NNW of Glacier View, Alaska",
       "time": 1789111767745,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rzwnma"
+    },
+    {
+      "id": "us7000tgk0",
+      "lon": 123.5477,
+      "lat": -0.2532,
+      "depth": 160.28,
+      "mag": 4.3,
+      "place": "102 km SSE of Gorontalo, Indonesia",
+      "time": 1789111450876,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgk0"
     },
     {
       "id": "ci41544648",
@@ -2572,36 +2592,6 @@
       "place": "9 km WNW of Anza, CA",
       "time": 1789046281910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544112"
-    },
-    {
-      "id": "ci41544104",
-      "lon": -117.9075,
-      "lat": 36.0868333333333,
-      "depth": 1.83,
-      "mag": 1.53,
-      "place": "6 km NE of Coso Junction, CA",
-      "time": 1789046010880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544104"
-    },
-    {
-      "id": "nc75433117",
-      "lon": -122.803337097168,
-      "lat": 38.836498260498,
-      "depth": 2.21000003814697,
-      "mag": 1.02,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1789045748680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433117"
-    },
-    {
-      "id": "nc75433112",
-      "lon": -122.848999023438,
-      "lat": 38.8489990234375,
-      "depth": 1.85000002384186,
-      "mag": 0.7,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1789045284810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433112"
     }
   ]
 }
