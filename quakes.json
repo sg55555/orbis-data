@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-11T17:31:09Z",
-  "count": 287,
+  "updated": "2026-09-11T17:45:51Z",
+  "count": 288,
   "points": [
+    {
+      "id": "nc75433757",
+      "lon": -123.275665283203,
+      "lat": 39.4088325500488,
+      "depth": 5.32000017166138,
+      "mag": 1.84,
+      "place": "7 km E of Willits, CA",
+      "time": 1789148544640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433757"
+    },
+    {
+      "id": "nc75433742",
+      "lon": -121.355003356934,
+      "lat": 36.6716651916504,
+      "depth": 0.720000028610229,
+      "mag": 1.4,
+      "place": "14 km SSW of Tres Pinos, CA",
+      "time": 1789147814250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433742"
+    },
+    {
+      "id": "aka2026saqnun",
+      "lon": -151.188,
+      "lat": 61.491,
+      "depth": 15.7,
+      "mag": 1.2,
+      "place": "36 km W of Susitna, Alaska",
+      "time": 1789147771762,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026saqnun"
+    },
     {
       "id": "nc75433732",
       "lon": -122.812835693359,
@@ -1274,6 +1304,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75032902"
     },
     {
+      "id": "uw714099931",
+      "lon": -121.947833333333,
+      "lat": 46.752,
+      "depth": 1.28,
+      "mag": 0.29,
+      "place": "6 km E of Ashford, Washington",
+      "time": 1789104812780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714099931"
+    },
+    {
       "id": "tx2026rwvsjz",
       "lon": -101.44,
       "lat": 31.766,
@@ -1285,12 +1325,12 @@
     },
     {
       "id": "tx2026rwvqpd",
-      "lon": -104.576,
-      "lat": 31.707,
-      "depth": 3.2182,
-      "mag": 2.1,
-      "place": "55 km SSW of Whites City, New Mexico",
-      "time": 1789104570667,
+      "lon": -104.566,
+      "lat": 31.724,
+      "depth": 5.741,
+      "mag": 2.2,
+      "place": "53 km SSW of Whites City, New Mexico",
+      "time": 1789104570268,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rwvqpd"
     },
     {
@@ -2842,36 +2882,6 @@
       "place": "19 km SSE of Pāhala, Hawaii",
       "time": 1789062317460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75032462"
-    },
-    {
-      "id": "nc75433212",
-      "lon": -122.824668884277,
-      "lat": 38.8413314819336,
-      "depth": 1.76999998092651,
-      "mag": 0.67,
-      "place": "9 km WNW of Cobb, CA",
-      "time": 1789062276050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433212"
-    },
-    {
-      "id": "uu80155756",
-      "lon": -112.898666666667,
-      "lat": 38.512,
-      "depth": 2.46,
-      "mag": 1,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1789062158060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155756"
-    },
-    {
-      "id": "nc75433197",
-      "lon": -122.848503112793,
-      "lat": 38.8553352355957,
-      "depth": 2.48000001907349,
-      "mag": 0.56,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1789061432100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433197"
     }
   ]
 }
