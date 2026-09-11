@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-11T13:32:40Z",
-  "count": 263,
+  "updated": "2026-09-11T13:45:40Z",
+  "count": 264,
   "points": [
+    {
+      "id": "nc75433617",
+      "lon": -122.852836608887,
+      "lat": 38.829833984375,
+      "depth": 1.5900000333786,
+      "mag": 0.94,
+      "place": "10 km NW of The Geysers, CA",
+      "time": 1789134160300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433617"
+    },
+    {
+      "id": "aka2026saiyrl",
+      "lon": -153.005,
+      "lat": 59.563,
+      "depth": 92.8,
+      "mag": 1.8,
+      "place": "65 km WNW of Nanwalek, Alaska",
+      "time": 1789134131839,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026saiyrl"
+    },
     {
       "id": "nc75433607",
       "lon": -121.970001220703,
@@ -2622,16 +2642,6 @@
       "place": "25 km SSE of Lindsay, Texas",
       "time": 1789048170622,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rvqmhh"
-    },
-    {
-      "id": "aka2026rymzhd",
-      "lon": -152.049,
-      "lat": 62.382,
-      "depth": 0.8,
-      "mag": 1.4,
-      "place": "55 km NW of Skwentna, Alaska",
-      "time": 1789047835051,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rymzhd"
     }
   ]
 }
