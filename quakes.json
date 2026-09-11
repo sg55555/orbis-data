@@ -1,13 +1,23 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-11T22:01:11Z",
-  "count": 289,
+  "updated": "2026-09-11T22:15:44Z",
+  "count": 285,
   "points": [
+    {
+      "id": "nc75433917",
+      "lon": -122.812164306641,
+      "lat": 38.8315010070801,
+      "depth": 3.02999997138977,
+      "mag": 0.77,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1789164433330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433917"
+    },
     {
       "id": "tx2026rybwyi",
       "lon": -104.338,
       "lat": 31.655,
-      "depth": 4.1161,
+      "depth": 4.1173,
       "mag": 2.2,
       "place": "57 km S of Whites City, New Mexico",
       "time": 1789162973949,
@@ -274,14 +284,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026saudea"
     },
     {
-      "id": "aka2026satzxl",
-      "lon": -156.935,
-      "lat": 53.877,
-      "depth": 20,
-      "mag": 3,
-      "place": "267 km SSE of Perryville, Alaska",
-      "time": 1789154065094,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026satzxl"
+      "id": "us7000tgrg",
+      "lon": -156.9662,
+      "lat": 53.903,
+      "depth": 10,
+      "mag": 3.3,
+      "place": "263 km SSE of Perryville, Alaska",
+      "time": 1789154064148,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrg"
     },
     {
       "id": "ci41544888",
@@ -2265,12 +2275,12 @@
     },
     {
       "id": "ci41544536",
-      "lon": -116.783,
-      "lat": 33.5348333333333,
-      "depth": 9.28,
-      "mag": 0.66,
-      "place": "10 km WSW of Anza, CA",
-      "time": 1789095820130,
+      "lon": -116.784666666667,
+      "lat": 33.534,
+      "depth": 9.69,
+      "mag": 0.6,
+      "place": "11 km WSW of Anza, CA",
+      "time": 1789095820070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544536"
     },
     {
@@ -2842,56 +2852,6 @@
       "place": "10 km WSW of Pāhala, Hawaii",
       "time": 1789078611120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75032652"
-    },
-    {
-      "id": "nc75433347",
-      "lon": -121.480003356934,
-      "lat": 37.242000579834,
-      "depth": 5.48999977111816,
-      "mag": 0.99,
-      "place": "20 km NE of Morgan Hill, CA",
-      "time": 1789078025820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433347"
-    },
-    {
-      "id": "nc75433342",
-      "lon": -121.97216796875,
-      "lat": 37.7071647644043,
-      "depth": 8.4399995803833,
-      "mag": 1.46,
-      "place": "3 km W of Dublin, CA",
-      "time": 1789077945160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433342"
-    },
-    {
-      "id": "nc75433337",
-      "lon": -121.967498779297,
-      "lat": 37.7075004577637,
-      "depth": 9.90999984741211,
-      "mag": 2.19,
-      "place": "3 km WNW of Dublin, CA",
-      "time": 1789077772850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433337"
-    },
-    {
-      "id": "ci41544392",
-      "lon": -116.757666666667,
-      "lat": 33.5878333333333,
-      "depth": 12.07,
-      "mag": 0.78,
-      "place": "9 km WNW of Anza, CA",
-      "time": 1789077687630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544392"
-    },
-    {
-      "id": "nc75433332",
-      "lon": -121.962997436523,
-      "lat": 37.7091674804688,
-      "depth": 9.8100004196167,
-      "mag": 2.09,
-      "place": "3 km WNW of Dublin, CA",
-      "time": 1789077638550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433332"
     }
   ]
 }
