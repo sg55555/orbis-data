@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-11T01:01:08Z",
+  "updated": "2026-09-11T01:15:44Z",
   "count": 278,
   "points": [
+    {
+      "id": "nc75433437",
+      "lon": -122.829833984375,
+      "lat": 38.8611679077148,
+      "depth": 0.990000009536743,
+      "mag": 1.48,
+      "place": "10 km WNW of Cobb, CA",
+      "time": 1789089115550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433437"
+    },
+    {
+      "id": "aka2026rzjujl",
+      "lon": -152.684,
+      "lat": 58.415,
+      "depth": 63.7,
+      "mag": 1.7,
+      "place": "41 km NNE of Aleneva, Alaska",
+      "time": 1789088853780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rzjujl"
+    },
     {
       "id": "ci41544488",
       "lon": -116.7895,
@@ -592,6 +612,16 @@
       "place": "4 km ENE of Pullman, Washington",
       "time": 1789070149700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714099341"
+    },
+    {
+      "id": "ci41544352",
+      "lon": -118.331666666667,
+      "lat": 33.938,
+      "depth": 19.92,
+      "mag": 0.93,
+      "place": "2 km E of Lennox, CA",
+      "time": 1789069778250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544352"
     },
     {
       "id": "ci41544344",
@@ -1725,11 +1755,11 @@
     },
     {
       "id": "hv75032302",
-      "lon": -155.212005615234,
-      "lat": 19.5848331451416,
-      "depth": 29.3299999237061,
-      "mag": 1.99,
-      "place": "11 km WNW of Mountain View, Hawaii",
+      "lon": -155.204666666667,
+      "lat": 19.5926666666667,
+      "depth": 29.18,
+      "mag": 1.61,
+      "place": "10 km WNW of Mountain View, Hawaii",
       "time": 1789035172520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75032302"
     },
@@ -2752,36 +2782,6 @@
       "place": "5 km SSE of Dover, Oklahoma",
       "time": 1789002957630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026rsnh"
-    },
-    {
-      "id": "aka2026rxnwfe",
-      "lon": -139.936,
-      "lat": 60.632,
-      "depth": 3.7,
-      "mag": 2,
-      "place": "121 km N of Yakutat, Alaska",
-      "time": 1789002619502,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxnwfe"
-    },
-    {
-      "id": "ci41543864",
-      "lon": -117.802166666667,
-      "lat": 35.3281666666667,
-      "depth": 6.48,
-      "mag": 1.92,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": 1789002129900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543864"
-    },
-    {
-      "id": "ci41543856",
-      "lon": -116.266666666667,
-      "lat": 33.2905,
-      "depth": 7,
-      "mag": 0.98,
-      "place": "11 km ENE of Borrego Springs, CA",
-      "time": 1789002118430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41543856"
     }
   ]
 }
