@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-11T19:30:56Z",
-  "count": 291,
+  "updated": "2026-09-11T19:45:43Z",
+  "count": 285,
   "points": [
+    {
+      "id": "nc75433822",
+      "lon": -122.800666809082,
+      "lat": 38.8361663818359,
+      "depth": 2.27999997138977,
+      "mag": 0.93,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1789155006650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433822"
+    },
     {
       "id": "nc75433817",
       "lon": -122.762496948242,
@@ -122,6 +132,16 @@
       "place": "7 km E of Santa Venetia, CA",
       "time": 1789151519980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433792"
+    },
+    {
+      "id": "uu80156211",
+      "lon": -112.896666666667,
+      "lat": 38.5186666666667,
+      "depth": 2.23,
+      "mag": 1.43,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1789151364040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156211"
     },
     {
       "id": "aka2026sasfbe",
@@ -855,12 +875,12 @@
     },
     {
       "id": "uw714100011",
-      "lon": -123.535,
-      "lat": 48.9571666666667,
-      "depth": 42.49,
+      "lon": -123.859,
+      "lat": 49.006,
+      "depth": 42.59,
       "mag": 1.77,
-      "place": "11 km NNW of Ganges, Canada",
-      "time": 1789130528590,
+      "place": "3 km WNW of Ladysmith, Canada",
+      "time": 1789130525520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714100011"
     },
     {
@@ -2832,86 +2852,6 @@
       "place": "2 km E of Lennox, CA",
       "time": 1789069778250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544352"
-    },
-    {
-      "id": "ci41544344",
-      "lon": -118.315333333333,
-      "lat": 33.9435,
-      "depth": 18.7,
-      "mag": 1.66,
-      "place": "3 km ESE of Inglewood, CA",
-      "time": 1789069511920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544344"
-    },
-    {
-      "id": "ci41544336",
-      "lon": -118.3225,
-      "lat": 33.9251666666667,
-      "depth": 19.41,
-      "mag": 2.28,
-      "place": "3 km ENE of Hawthorne, CA",
-      "time": 1789069248450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544336"
-    },
-    {
-      "id": "uu80155856",
-      "lon": -112.899333333333,
-      "lat": 38.5198333333333,
-      "depth": 2.58,
-      "mag": 1.11,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1789069221130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155856"
-    },
-    {
-      "id": "ci41544320",
-      "lon": -118.331166666667,
-      "lat": 33.935,
-      "depth": 19.75,
-      "mag": 1.77,
-      "place": "2 km E of Lennox, CA",
-      "time": 1789069209810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544320"
-    },
-    {
-      "id": "ci41544312",
-      "lon": -117.907666666667,
-      "lat": 36.0826666666667,
-      "depth": 4.92,
-      "mag": 1.92,
-      "place": "6 km NE of Coso Junction, CA",
-      "time": 1789069160630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544312"
-    },
-    {
-      "id": "ci41544304",
-      "lon": -118.3315,
-      "lat": 33.9376666666667,
-      "depth": 19.69,
-      "mag": 1.32,
-      "place": "2 km E of Lennox, CA",
-      "time": 1789069062130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544304"
-    },
-    {
-      "id": "ci41544296",
-      "lon": -117.905833333333,
-      "lat": 36.0828333333333,
-      "depth": 5.2,
-      "mag": 0.91,
-      "place": "6 km NE of Coso Junction, CA",
-      "time": 1789068985870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544296"
-    },
-    {
-      "id": "uw714099311",
-      "lon": -122.575,
-      "lat": 46.5193333333333,
-      "depth": -0.72,
-      "mag": 1.67739915847778,
-      "place": "6 km W of Mossyrock, Washington",
-      "time": 1789068633120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714099311"
     }
   ]
 }
