@@ -1,14 +1,24 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-11T22:45:41Z",
-  "count": 277,
+  "updated": "2026-09-11T23:01:06Z",
+  "count": 278,
   "points": [
+    {
+      "id": "aka2026sbbhpc",
+      "lon": -147.831,
+      "lat": 62.181,
+      "depth": 29.4,
+      "mag": 2.4,
+      "place": "42 km NNW of Glacier View, Alaska",
+      "time": 1789167135016,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sbbhpc"
+    },
     {
       "id": "tx2026rydwpl",
       "lon": -103.847,
       "lat": 31.473,
       "depth": 5.5705,
-      "mag": 1.8,
+      "mag": 1.6,
       "place": "18 km NNW of Toyah, Texas",
       "time": 1789166544344,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rydwpl"
@@ -155,12 +165,12 @@
     },
     {
       "id": "ci41544928",
-      "lon": -119.1,
-      "lat": 34.309,
-      "depth": 9.77,
-      "mag": 1.88,
-      "place": "6 km SW of Santa Paula, CA",
-      "time": 1789160071480,
+      "lon": -119.094833333333,
+      "lat": 34.3085,
+      "depth": 9.29,
+      "mag": 1.76,
+      "place": "6 km SSW of Santa Paula, CA",
+      "time": 1789160071430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544928"
     },
     {
@@ -1142,6 +1152,16 @@
       "place": "65 km WNW of Nanwalek, Alaska",
       "time": 1789134131839,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026saiyrl"
+    },
+    {
+      "id": "ci41544752",
+      "lon": -117.907333333333,
+      "lat": 36.0841666666667,
+      "depth": 3.99,
+      "mag": 1.23,
+      "place": "6 km NE of Coso Junction, CA",
+      "time": 1789134009630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544752"
     },
     {
       "id": "nc75433607",
@@ -2155,12 +2175,12 @@
     },
     {
       "id": "ci41544584",
-      "lon": -117.801,
-      "lat": 35.3086666666667,
-      "depth": 6.74,
-      "mag": 0.93,
+      "lon": -117.802166666667,
+      "lat": 35.3071666666667,
+      "depth": 7.58,
+      "mag": 0.94,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1789100774060,
+      "time": 1789100774000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544584"
     },
     {
@@ -2186,9 +2206,9 @@
     {
       "id": "ci41544576",
       "lon": -116.756,
-      "lat": 33.5908333333333,
-      "depth": 11.48,
-      "mag": 0.55,
+      "lat": 33.5886666666667,
+      "depth": 11.86,
+      "mag": 0.43,
       "place": "9 km WNW of Anza, CA",
       "time": 1789099706210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544576"
@@ -2235,10 +2255,10 @@
     },
     {
       "id": "ci41544544",
-      "lon": -116.362,
-      "lat": 33.4176666666667,
-      "depth": 12.44,
-      "mag": 0.5,
+      "lon": -116.362666666667,
+      "lat": 33.4156666666667,
+      "depth": 11.85,
+      "mag": 0.43,
       "place": "18 km N of Borrego Springs, CA",
       "time": 1789098882240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544544"
@@ -2762,16 +2782,6 @@
       "place": "8 km SE of Port Clarence, Alaska",
       "time": 1789081390729,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rzfqpv"
-    },
-    {
-      "id": "us7000tghk",
-      "lon": 167.3321,
-      "lat": -13.3249,
-      "depth": 49.877,
-      "mag": 4.9,
-      "place": "65 km NNW of Sola, Vanuatu",
-      "time": 1789080854162,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tghk"
     }
   ]
 }
