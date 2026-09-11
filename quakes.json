@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-11T02:30:56Z",
-  "count": 276,
+  "updated": "2026-09-11T02:45:38Z",
+  "count": 277,
   "points": [
+    {
+      "id": "ci41544520",
+      "lon": -117.800333333333,
+      "lat": 35.314,
+      "depth": 5.81,
+      "mag": 0.95,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1789094240160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544520"
+    },
+    {
+      "id": "uu80156006",
+      "lon": -112.901833333333,
+      "lat": 38.5151666666667,
+      "depth": 2.8,
+      "mag": 2.2,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1789092996880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156006"
+    },
     {
       "id": "ci41544512",
       "lon": -117.630666666667,
@@ -2752,16 +2772,6 @@
       "place": "2 km ESE of Oakland, CA",
       "time": 1789008743850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75432977"
-    },
-    {
-      "id": "uu80155441",
-      "lon": -112.898166666667,
-      "lat": 38.512,
-      "depth": 2.53,
-      "mag": 1.69,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1789007653480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155441"
     }
   ]
 }
