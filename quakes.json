@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-12T05:15:40Z",
-  "count": 292,
+  "updated": "2026-09-12T05:30:55Z",
+  "count": 290,
   "points": [
+    {
+      "id": "nc75434097",
+      "lon": -118.518501281738,
+      "lat": 37.2933349609375,
+      "depth": 10.6000003814697,
+      "mag": 1.74,
+      "place": "9 km SW of West Bishop, CA",
+      "time": 1789190645800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434097"
+    },
     {
       "id": "aka2026sbnvva",
       "lon": -153.262,
@@ -12,6 +22,16 @@
       "place": "47 km E of Pedro Bay, Alaska",
       "time": 1789189704724,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sbnvva"
+    },
+    {
+      "id": "us7000tgx2",
+      "lon": 126.5851,
+      "lat": 1.0665,
+      "depth": 44.24,
+      "mag": 4.7,
+      "place": "94 km WNW of Ternate, Indonesia",
+      "time": 1789189704039,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgx2"
     },
     {
       "id": "nc75434087",
@@ -2882,46 +2902,6 @@
       "place": "11 km SSE of Garden City, Texas",
       "time": 1789104695572,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rwvsjz"
-    },
-    {
-      "id": "tx2026rwvqpd",
-      "lon": -104.566,
-      "lat": 31.724,
-      "depth": 5.741,
-      "mag": 2.2,
-      "place": "53 km SSW of Whites City, New Mexico",
-      "time": 1789104570268,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rwvqpd"
-    },
-    {
-      "id": "tx2026rwviex",
-      "lon": -102.205,
-      "lat": 32.13,
-      "depth": 8.2764,
-      "mag": 2.4,
-      "place": "18 km NW of Midland, Texas",
-      "time": 1789104065593,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rwviex"
-    },
-    {
-      "id": "nc75433502",
-      "lon": -122.845664978027,
-      "lat": 38.8240013122559,
-      "depth": 1.99000000953674,
-      "mag": 1.3,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1789104008140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433502"
-    },
-    {
-      "id": "nc75433497",
-      "lon": -122.793334960938,
-      "lat": 38.8190002441406,
-      "depth": 3.13000011444092,
-      "mag": 0.92,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1789103696630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433497"
     }
   ]
 }
