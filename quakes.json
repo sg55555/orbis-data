@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-12T14:30:58Z",
-  "count": 352,
+  "updated": "2026-09-12T14:45:40Z",
+  "count": 351,
   "points": [
+    {
+      "id": "ci41546112",
+      "lon": -116.757166666667,
+      "lat": 33.5891666666667,
+      "depth": 10.86,
+      "mag": 0.61,
+      "place": "9 km WNW of Anza, CA",
+      "time": 1789224111060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546112"
+    },
+    {
+      "id": "nc75434247",
+      "lon": -122.814331054688,
+      "lat": 38.8219985961914,
+      "depth": 2.84999990463257,
+      "mag": 0.74,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1789223659950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434247"
+    },
     {
       "id": "uu80156496",
       "lon": -112.900166666667,
@@ -3492,36 +3512,6 @@
       "place": "36 km NE of Larsen Bay, Alaska",
       "time": 1789137961285,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026salbzv"
-    },
-    {
-      "id": "aka2026sakslc",
-      "lon": -148.364,
-      "lat": 65.433,
-      "depth": 26.5,
-      "mag": 0.9,
-      "place": "13 km SE of Livengood, Alaska",
-      "time": 1789137297656,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sakslc"
-    },
-    {
-      "id": "aka2026saksgq",
-      "lon": -154.803,
-      "lat": 58.333,
-      "depth": 102.7,
-      "mag": 1.1,
-      "place": "87 km NNW of Karluk, Alaska",
-      "time": 1789137296190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026saksgq"
-    },
-    {
-      "id": "aka2026sakqpg",
-      "lon": -139.889,
-      "lat": 60.553,
-      "depth": 5,
-      "mag": 1.7,
-      "place": "112 km N of Yakutat, Alaska",
-      "time": 1789137151069,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sakqpg"
     }
   ]
 }
