@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-12T04:47:21Z",
-  "count": 291,
+  "updated": "2026-09-12T04:59:36Z",
+  "count": 289,
   "points": [
     {
       "id": "ci41545216",
@@ -32,6 +32,16 @@
       "place": "11 km WNW of Cobb, CA",
       "time": 1789187872990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434067"
+    },
+    {
+      "id": "uu80156361",
+      "lon": -112.8975,
+      "lat": 38.5126666666667,
+      "depth": 2.37,
+      "mag": 2.03,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1789187719580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156361"
     },
     {
       "id": "ci41545208",
@@ -2882,36 +2892,6 @@
       "place": "30 km NE of Paxson, Alaska",
       "time": 1789103067768,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rzrrud"
-    },
-    {
-      "id": "nc75433492",
-      "lon": -120.578330993652,
-      "lat": 36.0148315429688,
-      "depth": 2.98000001907349,
-      "mag": 1.23,
-      "place": "18 km NW of Parkfield, CA",
-      "time": 1789102348590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433492"
-    },
-    {
-      "id": "aka2026rzrfpa",
-      "lon": -152.848,
-      "lat": 59.532,
-      "depth": 99,
-      "mag": 2,
-      "place": "56 km WNW of Nanwalek, Alaska",
-      "time": 1789102228510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rzrfpa"
-    },
-    {
-      "id": "tx2026rwuhhj",
-      "lon": -102.164,
-      "lat": 32.446,
-      "depth": 4.3285,
-      "mag": 1.4,
-      "place": "37 km ENE of McKinney Acres, Texas",
-      "time": 1789102110574,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rwuhhj"
     }
   ]
 }
