@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-12T17:30:56Z",
-  "count": 350,
+  "updated": "2026-09-12T17:45:43Z",
+  "count": 346,
   "points": [
+    {
+      "id": "ci41546232",
+      "lon": -118.341,
+      "lat": 33.9505,
+      "depth": 19.01,
+      "mag": 1.37,
+      "place": "1 km SSE of Inglewood, CA",
+      "time": 1789234503080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546232"
+    },
     {
       "id": "ci41546224",
       "lon": -116.760333333333,
@@ -32,6 +42,16 @@
       "place": "61 km S of Whites City, New Mexico",
       "time": 1789232536019,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rzoigp"
+    },
+    {
+      "id": "pr71531533",
+      "lon": -66.9673333333333,
+      "lat": 17.974,
+      "depth": 8.51,
+      "mag": 2.05,
+      "place": "5 km WSW of Fuig, Puerto Rico",
+      "time": 1789232168970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531533"
     },
     {
       "id": "pr2026255005",
@@ -3442,66 +3462,6 @@
       "place": "15 km NE of Milford, Utah",
       "time": 1789148799410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156181"
-    },
-    {
-      "id": "hv75033372",
-      "lon": -155.563339233398,
-      "lat": 19.4755001068115,
-      "depth": 35.5900001525879,
-      "mag": 1.92,
-      "place": "31 km NNW of Pāhala, Hawaii",
-      "time": 1789148661700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75033372"
-    },
-    {
-      "id": "nc75433762",
-      "lon": -122.841835021973,
-      "lat": 38.8226661682129,
-      "depth": 1.72000002861023,
-      "mag": 1.05,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1789148643460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433762"
-    },
-    {
-      "id": "nc75433757",
-      "lon": -123.275665283203,
-      "lat": 39.4088325500488,
-      "depth": 5.32000017166138,
-      "mag": 1.84,
-      "place": "7 km E of Willits, CA",
-      "time": 1789148544640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433757"
-    },
-    {
-      "id": "uw714100101",
-      "lon": -123.272,
-      "lat": 44.2598333333333,
-      "depth": -0.34,
-      "mag": 1.5,
-      "place": "6 km SSE of Monroe, Oregon",
-      "time": 1789148118220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714100101"
-    },
-    {
-      "id": "uu80156176",
-      "lon": -112.9005,
-      "lat": 38.5121666666667,
-      "depth": 2.17,
-      "mag": 2.03,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1789147895230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156176"
-    },
-    {
-      "id": "nc75433742",
-      "lon": -121.355003356934,
-      "lat": 36.6716651916504,
-      "depth": 0.720000028610229,
-      "mag": 1.4,
-      "place": "14 km SSW of Tres Pinos, CA",
-      "time": 1789147814250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433742"
     }
   ]
 }
