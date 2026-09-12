@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-12T06:15:40Z",
+  "updated": "2026-09-12T06:30:58Z",
   "count": 288,
   "points": [
+    {
+      "id": "ci41545280",
+      "lon": -118.529333333333,
+      "lat": 33.6086666666667,
+      "depth": 12.21,
+      "mag": 1.9,
+      "place": "20 km SW of Rancho Palos Verdes, CA",
+      "time": 1789193945870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545280"
+    },
     {
       "id": "tx2026rysrci",
       "lon": -103.396,
@@ -2872,16 +2882,6 @@
       "place": "16 km NE of Milford, Utah",
       "time": 1789109659200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156041"
-    },
-    {
-      "id": "tx2026rwxgip",
-      "lon": -102.215,
-      "lat": 32.128,
-      "depth": 4.4852,
-      "mag": 1.3,
-      "place": "19 km NW of Midland, Texas",
-      "time": 1789107483283,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rwxgip"
     }
   ]
 }
