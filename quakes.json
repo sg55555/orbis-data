@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-12T02:45:38Z",
-  "count": 284,
+  "updated": "2026-09-12T03:01:14Z",
+  "count": 283,
   "points": [
+    {
+      "id": "nc75434032",
+      "lon": -122.81600189209,
+      "lat": 38.8339996337891,
+      "depth": 1.85000002384186,
+      "mag": 0.75,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1789181753570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434032"
+    },
+    {
+      "id": "ci41545088",
+      "lon": -119.262166666667,
+      "lat": 34.3885,
+      "depth": 4.39,
+      "mag": 1.28,
+      "place": "7 km SSW of Ojai, CA",
+      "time": 1789181670300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545088"
+    },
     {
       "id": "aka2026sbiznu",
       "lon": -147.153,
@@ -65,12 +85,12 @@
     },
     {
       "id": "tx2026ryknxz",
-      "lon": -104.017,
-      "lat": 31.551,
-      "depth": 0.4034,
-      "mag": 1.7,
-      "place": "33 km NW of Toyah, Texas",
-      "time": 1789178605332,
+      "lon": -103.837,
+      "lat": 31.493,
+      "depth": 0,
+      "mag": 1.1,
+      "place": "20 km NNW of Toyah, Texas",
+      "time": 1789178608952,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ryknxz"
     },
     {
@@ -2812,36 +2832,6 @@
       "place": "43 km WNW of Valdez, Alaska",
       "time": 1789095697392,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rznpgy"
-    },
-    {
-      "id": "ci41544528",
-      "lon": -116.166,
-      "lat": 33.8848333333333,
-      "depth": 4.92,
-      "mag": 1.76,
-      "place": "19 km NNE of Indio, CA",
-      "time": 1789095576910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544528"
-    },
-    {
-      "id": "aka2026rznkxu",
-      "lon": -152.6,
-      "lat": 58.987,
-      "depth": 61,
-      "mag": 2.9,
-      "place": "56 km SW of Nanwalek, Alaska",
-      "time": 1789095398786,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rznkxu"
-    },
-    {
-      "id": "uu80156016",
-      "lon": -112.881333333333,
-      "lat": 38.4896666666667,
-      "depth": 1.24,
-      "mag": 1.04,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1789094933810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156016"
     }
   ]
 }
