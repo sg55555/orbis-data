@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-12T01:45:39Z",
-  "count": 282,
+  "updated": "2026-09-12T02:01:13Z",
+  "count": 283,
   "points": [
+    {
+      "id": "aka2026sbhitq",
+      "lon": -146.978,
+      "lat": 61.675,
+      "depth": 10.3,
+      "mag": 1.9,
+      "place": "31 km SSE of Eureka Roadhouse, Alaska",
+      "time": 1789178009047,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sbhitq"
+    },
     {
       "id": "ci41545048",
       "lon": -116.6555,
@@ -12,6 +22,16 @@
       "place": "11 km S of Anza, CA",
       "time": 1789176480740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545048"
+    },
+    {
+      "id": "tx2026ryjgej",
+      "lon": -103.496,
+      "lat": 31.193,
+      "depth": 0.1737,
+      "mag": 1.5,
+      "place": "19 km SSE of Lindsay, Texas",
+      "time": 1789176248849,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ryjgej"
     },
     {
       "id": "tx2026ryjcpz",
@@ -45,12 +65,12 @@
     },
     {
       "id": "hv75033707",
-      "lon": -155.605667114258,
-      "lat": 19.4281673431396,
-      "depth": 39.4900016784668,
-      "mag": 2.14,
-      "place": "27 km E of Honaunau-Napoopoo, Hawaii",
-      "time": 1789175125760,
+      "lon": -155.612,
+      "lat": 19.4295,
+      "depth": 40.22,
+      "mag": 2.18,
+      "place": "26 km E of Honaunau-Napoopoo, Hawaii",
+      "time": 1789175125660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75033707"
     },
     {
@@ -225,12 +245,12 @@
     },
     {
       "id": "hv75033647",
-      "lon": -155.337829589844,
-      "lat": 19.2059993743896,
-      "depth": 32.0699996948242,
-      "mag": 2.2,
+      "lon": -155.3395,
+      "lat": 19.2115,
+      "depth": 31.81,
+      "mag": 1.56,
       "place": "14 km E of Pāhala, Hawaii",
-      "time": 1789170126150,
+      "time": 1789170126220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75033647"
     },
     {
@@ -2812,16 +2832,6 @@
       "place": "15 km NE of Milford, Utah",
       "time": 1789092235800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156001"
-    },
-    {
-      "id": "ci41544512",
-      "lon": -117.631,
-      "lat": 33.821,
-      "depth": 5.39,
-      "mag": 1.02,
-      "place": "8 km SW of Corona, CA",
-      "time": 1789091291680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544512"
     }
   ]
 }
