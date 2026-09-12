@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-12T09:13:39Z",
-  "count": 321,
+  "updated": "2026-09-12T09:15:41Z",
+  "count": 322,
   "points": [
+    {
+      "id": "ci41545608",
+      "lon": -118.36799621582,
+      "lat": 33.9071655273438,
+      "depth": 24.1900005340576,
+      "mag": 1.34946577682598,
+      "place": "2 km SW of Hawthorne, CA",
+      "time": 1789204398900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545608"
+    },
+    {
+      "id": "nc75434172",
+      "lon": -122.788330078125,
+      "lat": 38.8368339538574,
+      "depth": 1.80999994277954,
+      "mag": 1.04,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1789204373370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434172"
+    },
     {
       "id": "nc75434167",
       "lon": -122.849998474121,
@@ -3202,16 +3222,6 @@
       "place": "3 km W of Dublin, CA",
       "time": 1789118226720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433532"
-    },
-    {
-      "id": "uw714099971",
-      "lon": -122.6535,
-      "lat": 45.1033333333333,
-      "depth": 34.06,
-      "mag": 1.21,
-      "place": "6 km N of Scotts Mills, Oregon",
-      "time": 1789118124440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714099971"
     }
   ]
 }
