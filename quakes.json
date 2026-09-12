@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-12T01:30:55Z",
+  "updated": "2026-09-12T01:45:39Z",
   "count": 282,
   "points": [
+    {
+      "id": "ci41545048",
+      "lon": -116.6555,
+      "lat": 33.4535,
+      "depth": 3.19,
+      "mag": 0.1,
+      "place": "11 km S of Anza, CA",
+      "time": 1789176480740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545048"
+    },
     {
       "id": "tx2026ryjcpz",
       "lon": -97.689,
@@ -95,12 +105,12 @@
     },
     {
       "id": "ci41545008",
-      "lon": -118.327666666667,
-      "lat": 33.9408333333333,
-      "depth": 19.68,
-      "mag": 1.48,
-      "place": "2 km E of Lennox, CA",
-      "time": 1789173565150,
+      "lon": -118.323166666667,
+      "lat": 33.937,
+      "depth": 19.59,
+      "mag": 1.12,
+      "place": "3 km E of Lennox, CA",
+      "time": 1789173565070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545008"
     },
     {
@@ -332,6 +342,16 @@
       "place": "16 km WNW of Volcano, Hawaii",
       "time": 1789166391840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75033617"
+    },
+    {
+      "id": "us7000tguq",
+      "lon": -75.8153,
+      "lat": -45.7183,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "235 km W of Puerto Chacabuco, Chile",
+      "time": 1789165943645,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tguq"
     },
     {
       "id": "nc75433917",
@@ -1675,12 +1695,12 @@
     },
     {
       "id": "hv75033137",
-      "lon": -155.554336547852,
-      "lat": 19.4008331298828,
-      "depth": 43.7599983215332,
-      "mag": 2.23,
-      "place": "23 km NNW of Pāhala, Hawaii",
-      "time": 1789127600790,
+      "lon": -155.581333333333,
+      "lat": 19.4296666666667,
+      "depth": 44.22,
+      "mag": 1.54,
+      "place": "27 km NNW of Pāhala, Hawaii",
+      "time": 1789127600430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75033137"
     },
     {
@@ -2802,26 +2822,6 @@
       "place": "8 km SW of Corona, CA",
       "time": 1789091291680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544512"
-    },
-    {
-      "id": "uw714099701",
-      "lon": -122.155333333333,
-      "lat": 46.1955,
-      "depth": 6.2,
-      "mag": -0.07,
-      "place": "38 km NE of Amboy, Washington",
-      "time": 1789090706170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714099701"
-    },
-    {
-      "id": "uu80155971",
-      "lon": -112.901333333333,
-      "lat": 38.5181666666667,
-      "depth": 2.59,
-      "mag": 1.9,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1789090470680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155971"
     }
   ]
 }
