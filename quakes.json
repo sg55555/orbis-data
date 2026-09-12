@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-12T01:01:10Z",
-  "count": 283,
+  "updated": "2026-09-12T01:15:40Z",
+  "count": 282,
   "points": [
+    {
+      "id": "ci41545040",
+      "lon": -116.72533416748,
+      "lat": 33.3256683349609,
+      "depth": 15.2700004577637,
+      "mag": 1.89359592708483,
+      "place": "10 km WNW of Warner Springs, CA",
+      "time": 1789175530940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545040"
+    },
+    {
+      "id": "hv75033707",
+      "lon": -155.605667114258,
+      "lat": 19.4281673431396,
+      "depth": 39.4900016784668,
+      "mag": 2.14,
+      "place": "27 km E of Honaunau-Napoopoo, Hawaii",
+      "time": 1789175125760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75033707"
+    },
     {
       "id": "aka2026sbfkrv",
       "lon": -155.947,
@@ -12,6 +32,16 @@
       "place": "89 km ENE of Ugashik, Alaska",
       "time": 1789174544637,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sbfkrv"
+    },
+    {
+      "id": "us7000tgvr",
+      "lon": -24.9274,
+      "lat": -59.1348,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "South Sandwich Islands region",
+      "time": 1789174508418,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr"
     },
     {
       "id": "ci41545024",
@@ -72,6 +102,16 @@
       "place": "10 km NW of The Geysers, CA",
       "time": 1789172818720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433992"
+    },
+    {
+      "id": "us7000tgvj",
+      "lon": -103.293,
+      "lat": 32.2661,
+      "depth": 8.265,
+      "mag": 2.6,
+      "place": "19 km NNW of Jal, New Mexico",
+      "time": 1789172532425,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvj"
     },
     {
       "id": "aka2026sbegvf",
@@ -175,12 +215,12 @@
     },
     {
       "id": "ci41544984",
-      "lon": -119.26,
-      "lat": 34.3795,
-      "depth": 6.18,
-      "mag": 2.07,
-      "place": "8 km SSW of Ojai, CA",
-      "time": 1789169380930,
+      "lon": -119.260333333333,
+      "lat": 34.3741666666667,
+      "depth": 7.12,
+      "mag": 2.14,
+      "place": "8 km S of Ojai, CA",
+      "time": 1789169380790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544984"
     },
     {
@@ -195,12 +235,12 @@
     },
     {
       "id": "ci41544976",
-      "lon": -117.1925,
-      "lat": 34.0171666666667,
-      "depth": 9.26,
-      "mag": 1.41,
+      "lon": -117.192333333333,
+      "lat": 34.017,
+      "depth": 9.4,
+      "mag": 1.29,
       "place": "4 km SSW of Redlands, CA",
-      "time": 1789168489360,
+      "time": 1789168489330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544976"
     },
     {
@@ -2782,56 +2822,6 @@
       "place": "12 km NW of Parkfield, CA",
       "time": 1789089354680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433442"
-    },
-    {
-      "id": "hv75032762",
-      "lon": -155.276166666667,
-      "lat": 19.4208333333333,
-      "depth": 0.41,
-      "mag": 1.76,
-      "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1789089295840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75032762"
-    },
-    {
-      "id": "nc75433437",
-      "lon": -122.829833984375,
-      "lat": 38.8611679077148,
-      "depth": 0.990000009536743,
-      "mag": 1.48,
-      "place": "10 km WNW of Cobb, CA",
-      "time": 1789089115550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433437"
-    },
-    {
-      "id": "aka2026rzjujl",
-      "lon": -152.738,
-      "lat": 58.426,
-      "depth": 61.8,
-      "mag": 1.9,
-      "place": "41 km NNE of Aleneva, Alaska",
-      "time": 1789088854174,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rzjujl"
-    },
-    {
-      "id": "uu80155966",
-      "lon": -112.901166666667,
-      "lat": 38.5123333333333,
-      "depth": 2.47,
-      "mag": 0.83,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1789088665550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80155966"
-    },
-    {
-      "id": "uw714099681",
-      "lon": -121.054166666667,
-      "lat": 46.6855,
-      "depth": 10.43,
-      "mag": 1.49,
-      "place": "17 km SSW of Nile, Washington",
-      "time": 1789088429640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714099681"
     }
   ]
 }
