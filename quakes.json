@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-12T07:01:11Z",
-  "count": 298,
+  "updated": "2026-09-12T07:15:40Z",
+  "count": 296,
   "points": [
+    {
+      "id": "ci41545344",
+      "lon": -118.344169616699,
+      "lat": 33.9048347473145,
+      "depth": 11.8299999237061,
+      "mag": 1.35164974068101,
+      "place": "2 km SSE of Hawthorne, CA",
+      "time": 1789197130950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545344"
+    },
+    {
+      "id": "ci41545336",
+      "lon": -118.316666666667,
+      "lat": 33.9238333333333,
+      "depth": 15.3,
+      "mag": 1.25,
+      "place": "3 km ENE of Hawthorne, CA",
+      "time": 1789196516670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545336"
+    },
     {
       "id": "aka2026sbrdbl",
       "lon": -157.608,
@@ -2942,46 +2962,6 @@
       "place": "32 km NW of Nanwalek, Alaska",
       "time": 1789111215168,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rzwfne"
-    },
-    {
-      "id": "aka2026rzvwxv",
-      "lon": -147.835,
-      "lat": 62.17,
-      "depth": 27.2,
-      "mag": 4,
-      "place": "41 km NNW of Glacier View, Alaska",
-      "time": 1789110622460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rzvwxv"
-    },
-    {
-      "id": "tx2026rwyxpc",
-      "lon": -98.984,
-      "lat": 28.77,
-      "depth": 6.3371,
-      "mag": 1.7,
-      "place": "17 km SE of Pearsall, Texas",
-      "time": 1789110491976,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rwyxpc"
-    },
-    {
-      "id": "aka2026rzvtzq",
-      "lon": -143.873,
-      "lat": 69.603,
-      "depth": 18.7,
-      "mag": 2.5,
-      "place": "59 km S of Kaktovik, Alaska",
-      "time": 1789110413713,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rzvtzq"
-    },
-    {
-      "id": "us7000tgjw",
-      "lon": -69.4096,
-      "lat": -19.6983,
-      "depth": 108.762,
-      "mag": 4.1,
-      "place": "42 km S of Camiña, Chile",
-      "time": 1789110294187,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgjw"
     }
   ]
 }
