@@ -1,16 +1,56 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-12T10:31:00Z",
-  "count": 340,
+  "updated": "2026-09-12T10:59:28Z",
+  "count": 339,
   "points": [
     {
+      "id": "ci41545848",
+      "lon": -118.326833333333,
+      "lat": 33.9168333333333,
+      "depth": 24.91,
+      "mag": 1.52,
+      "place": "2 km E of Hawthorne, CA",
+      "time": 1789210305820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545848"
+    },
+    {
+      "id": "ci41545840",
+      "lon": -118.302333333333,
+      "lat": 33.9346666666667,
+      "depth": 19.56,
+      "mag": 1.18,
+      "place": "5 km E of Lennox, CA",
+      "time": 1789210176890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545840"
+    },
+    {
+      "id": "ci41545832",
+      "lon": -118.291,
+      "lat": 33.9305,
+      "depth": 15.37,
+      "mag": 1.43,
+      "place": "4 km WNW of Willowbrook, CA",
+      "time": 1789209829250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545832"
+    },
+    {
+      "id": "nc75434202",
+      "lon": -122.785331726074,
+      "lat": 38.8370018005371,
+      "depth": 1.48000001907349,
+      "mag": 0.54,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1789209161990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434202"
+    },
+    {
       "id": "ci41545824",
-      "lon": -118.318496704102,
-      "lat": 33.929500579834,
-      "depth": 20.4300003051758,
-      "mag": 1.59202680371443,
-      "place": "3 km ESE of Lennox, CA",
-      "time": 1789208845530,
+      "lon": -118.311833333333,
+      "lat": 33.9345,
+      "depth": 20.53,
+      "mag": 1.66,
+      "place": "4 km E of Lennox, CA",
+      "time": 1789208845570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545824"
     },
     {
@@ -432,6 +472,16 @@
       "place": "4 km E of Lennox, CA",
       "time": 1789203666790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545576"
+    },
+    {
+      "id": "pr2026255003",
+      "lon": -67.726,
+      "lat": 19.0138,
+      "depth": 76,
+      "mag": 3.51,
+      "place": "86 km ENE of Punta Cana, Dominican Republic",
+      "time": 1789203522130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026255003"
     },
     {
       "id": "ci41545568",
@@ -3342,66 +3392,6 @@
       "place": "135 km SW of Adak, Alaska",
       "time": 1789125092970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sadydv"
-    },
-    {
-      "id": "aka2026sadhvu",
-      "lon": -178.434,
-      "lat": 51.109,
-      "depth": 13.8,
-      "mag": 4.3,
-      "place": "151 km SW of Adak, Alaska",
-      "time": 1789123971596,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sadhvu"
-    },
-    {
-      "id": "aka2026sadhaz",
-      "lon": -178.438,
-      "lat": 51.087,
-      "depth": 18.8,
-      "mag": 3.1,
-      "place": "152 km SW of Adak, Alaska",
-      "time": 1789123915195,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sadhaz"
-    },
-    {
-      "id": "uu80156086",
-      "lon": -112.899,
-      "lat": 38.5211666666667,
-      "depth": 2.2,
-      "mag": 1.18,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1789123732300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156086"
-    },
-    {
-      "id": "ci41544712",
-      "lon": -116.435833333333,
-      "lat": 32.9716666666667,
-      "depth": 11.48,
-      "mag": 0.78,
-      "place": "19 km NNE of Pine Valley, CA",
-      "time": 1789123684960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41544712"
-    },
-    {
-      "id": "us7000tgky",
-      "lon": -178.5429,
-      "lat": 51.213,
-      "depth": 40.892,
-      "mag": 5.3,
-      "place": "151 km WSW of Adak, Alaska",
-      "time": 1789123632613,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgky"
-    },
-    {
-      "id": "hv75033087",
-      "lon": -155.8785,
-      "lat": 19.4713333333333,
-      "depth": 6.98,
-      "mag": 1.96,
-      "place": "2 km NW of Honaunau-Napoopoo, Hawaii",
-      "time": 1789123500140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75033087"
     }
   ]
 }
