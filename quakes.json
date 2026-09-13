@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-13T03:15:44Z",
-  "count": 323,
+  "updated": "2026-09-13T03:31:04Z",
+  "count": 319,
   "points": [
+    {
+      "id": "ci41546472",
+      "lon": -117.574666666667,
+      "lat": 35.7648333333333,
+      "depth": 6.15,
+      "mag": 1.27,
+      "place": "15 km W of Searles Valley, CA",
+      "time": 1789269207170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546472"
+    },
     {
       "id": "ci41546464",
       "lon": -116.718333333333,
@@ -12,6 +22,16 @@
       "place": "4 km S of Idyllwild, CA",
       "time": 1789268460970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546464"
+    },
+    {
+      "id": "us7000th33",
+      "lon": -65.2593,
+      "lat": 18.9075,
+      "depth": 39.648,
+      "mag": 3.6,
+      "place": "67 km N of Culebra, Puerto Rico",
+      "time": 1789268405407,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th33"
     },
     {
       "id": "ci41546456",
@@ -3172,66 +3192,6 @@
       "place": "45 km NNE of Ruteng, Indonesia",
       "time": 1789184097594,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgwe"
-    },
-    {
-      "id": "ci41545160",
-      "lon": -118.303166666667,
-      "lat": 33.9443333333333,
-      "depth": 16.76,
-      "mag": 1.44,
-      "place": "4 km ESE of Inglewood, CA",
-      "time": 1789183681930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545160"
-    },
-    {
-      "id": "ci41545152",
-      "lon": -118.307833333333,
-      "lat": 33.9356666666667,
-      "depth": 17.91,
-      "mag": 1.6,
-      "place": "4 km E of Lennox, CA",
-      "time": 1789183422380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545152"
-    },
-    {
-      "id": "ci41545144",
-      "lon": -116.895833333333,
-      "lat": 33.9381666666667,
-      "depth": 3.91,
-      "mag": 1.59,
-      "place": "2 km NW of Banning, CA",
-      "time": 1789183249490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545144"
-    },
-    {
-      "id": "ci41545136",
-      "lon": -116.891666666667,
-      "lat": 33.939,
-      "depth": 4.12,
-      "mag": 0.98,
-      "place": "2 km NW of Banning, CA",
-      "time": 1789183233420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545136"
-    },
-    {
-      "id": "aka2026sbkflm",
-      "lon": -152.899,
-      "lat": 60.074,
-      "depth": 126.6,
-      "mag": 1.5,
-      "place": "66 km WNW of Happy Valley, Alaska",
-      "time": 1789183176912,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sbkflm"
-    },
-    {
-      "id": "aka2026sbkcuk",
-      "lon": -153.405,
-      "lat": 59.255,
-      "depth": 104.3,
-      "mag": 1.9,
-      "place": "70 km ESE of Pope-Vannoy Landing, Alaska",
-      "time": 1789182993720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sbkcuk"
     }
   ]
 }
