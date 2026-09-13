@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-13T19:30:54Z",
-  "count": 214,
+  "updated": "2026-09-13T19:45:42Z",
+  "count": 216,
   "points": [
+    {
+      "id": "nc75435112",
+      "lon": -121.211502075195,
+      "lat": 36.5974998474121,
+      "depth": 0.980000019073486,
+      "mag": 1.55,
+      "place": "10 km NW of Pinnacles, CA",
+      "time": 1789327825990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435112"
+    },
+    {
+      "id": "tx2026sbovxh",
+      "lon": -102.037,
+      "lat": 32.432,
+      "depth": 4.4802,
+      "mag": 1.3,
+      "place": "31 km WSW of Ackerly, Texas",
+      "time": 1789327609135,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sbovxh"
+    },
     {
       "id": "aka2026semkca",
       "lon": -154.873,
@@ -12,6 +32,16 @@
       "place": "85 km NNW of Karluk, Alaska",
       "time": 1789327433119,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026semkca"
+    },
+    {
+      "id": "us7000th7w",
+      "lon": 121.4016,
+      "lat": 23.5992,
+      "depth": 12.223,
+      "mag": 4.2,
+      "place": "46 km SSW of Hualien City, Taiwan",
+      "time": 1789327295331,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th7w"
     },
     {
       "id": "ci41546784",
@@ -2132,16 +2162,6 @@
       "place": "103 km S of False Pass, Alaska",
       "time": 1789242643366,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026scrgtq"
-    },
-    {
-      "id": "aka2026scquxa",
-      "lon": -151.402,
-      "lat": 63.135,
-      "depth": 0.2,
-      "mag": 2.3,
-      "place": "48 km SSE of Denali National Park, Alaska",
-      "time": 1789241812227,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026scquxa"
     }
   ]
 }
