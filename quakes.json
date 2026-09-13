@@ -1,17 +1,27 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-13T10:30:54Z",
-  "count": 237,
+  "updated": "2026-09-13T10:45:44Z",
+  "count": 236,
   "points": [
     {
-      "id": "us7000th5q",
-      "lon": -104.4542,
-      "lat": 31.6401,
-      "depth": 6.874,
+      "id": "ci41546656",
+      "lon": -118.327333333333,
+      "lat": 35.6403333333333,
+      "depth": 7.51,
+      "mag": 1.14,
+      "place": "13 km E of Lake Isabella, CA",
+      "time": 1789295858950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546656"
+    },
+    {
+      "id": "tx2026sawssd",
+      "lon": -104.434,
+      "lat": 31.657,
+      "depth": 6.0999,
       "mag": 3.3,
-      "place": "59 km S of Whites City, New Mexico",
-      "time": 1789294799754,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th5q"
+      "place": "57 km S of Whites City, New Mexico",
+      "time": 1789294799943,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sawssd"
     },
     {
       "id": "hv75034802",
@@ -2352,26 +2362,6 @@
       "place": "5 km E of Lennox, CA",
       "time": 1789210176890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545840"
-    },
-    {
-      "id": "ci41545832",
-      "lon": -118.291,
-      "lat": 33.9305,
-      "depth": 15.37,
-      "mag": 1.43,
-      "place": "4 km WNW of Willowbrook, CA",
-      "time": 1789209829250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545832"
-    },
-    {
-      "id": "nc75434202",
-      "lon": -122.785331726074,
-      "lat": 38.8370018005371,
-      "depth": 1.48000001907349,
-      "mag": 0.54,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1789209161990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434202"
     }
   ]
 }
