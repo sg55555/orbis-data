@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-13T02:01:45Z",
-  "count": 325,
+  "updated": "2026-09-13T02:15:44Z",
+  "count": 327,
   "points": [
+    {
+      "id": "tx2026sagcvd",
+      "lon": -104.447,
+      "lat": 31.643,
+      "depth": 4.433,
+      "mag": 1.5,
+      "place": "59 km S of Whites City, New Mexico",
+      "time": 1789264728655,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sagcvd"
+    },
     {
       "id": "ci41546440",
       "lon": -119.092166666667,
@@ -604,6 +614,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026scqemw"
     },
     {
+      "id": "aka2026scpwzn",
+      "lon": -157.091,
+      "lat": 53.93,
+      "depth": 20,
+      "mag": 2.8,
+      "place": "256 km SSE of Perryville, Alaska",
+      "time": 1789240166208,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026scpwzn"
+    },
+    {
+      "id": "aka2026scpvak",
+      "lon": -179.184,
+      "lat": 50.788,
+      "depth": 11.6,
+      "mag": 2.5,
+      "place": "214 km SW of Adak, Alaska",
+      "time": 1789240018328,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026scpvak"
+    },
+    {
       "id": "nc75434367",
       "lon": -122.765502929688,
       "lat": 38.8251647949219,
@@ -662,6 +692,16 @@
       "place": "7 km SW of Volcano, Hawaii",
       "time": 1789238051710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75034312"
+    },
+    {
+      "id": "aka2026scolzh",
+      "lon": -178.879,
+      "lat": 49.485,
+      "depth": 20,
+      "mag": 2.9,
+      "place": "south of the Aleutian Islands",
+      "time": 1789237576594,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026scolzh"
     },
     {
       "id": "ci41546288",
@@ -3232,26 +3272,6 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1789179366100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434017"
-    },
-    {
-      "id": "ci41545064",
-      "lon": -118.305166666667,
-      "lat": 33.9441666666667,
-      "depth": 16.7,
-      "mag": 1.32,
-      "place": "4 km ESE of Inglewood, CA",
-      "time": 1789179041850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41545064"
-    },
-    {
-      "id": "tx2026ryknxz",
-      "lon": -103.837,
-      "lat": 31.493,
-      "depth": 0,
-      "mag": 1.1,
-      "place": "20 km NNW of Toyah, Texas",
-      "time": 1789178608952,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ryknxz"
     }
   ]
 }
