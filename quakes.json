@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-13T19:01:08Z",
-  "count": 214,
+  "updated": "2026-09-13T19:15:43Z",
+  "count": 212,
   "points": [
+    {
+      "id": "ci41546760",
+      "lon": -119.0975,
+      "lat": 34.9415,
+      "depth": 12.4,
+      "mag": 1.31,
+      "place": "12 km NNE of Pine Mountain Club, CA",
+      "time": 1789325935560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546760"
+    },
     {
       "id": "aka2026selbks",
       "lon": -152.369,
@@ -2112,36 +2122,6 @@
       "place": "21 km NE of Valdez, Alaska",
       "time": 1789240685903,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026scqemw"
-    },
-    {
-      "id": "us7000th2v",
-      "lon": -157.2289,
-      "lat": 53.963,
-      "depth": 10,
-      "mag": 2.8,
-      "place": "249 km SSE of Perryville, Alaska",
-      "time": 1789240166227,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th2v"
-    },
-    {
-      "id": "aka2026scpvak",
-      "lon": -179.184,
-      "lat": 50.788,
-      "depth": 11.6,
-      "mag": 2.5,
-      "place": "214 km SW of Adak, Alaska",
-      "time": 1789240018328,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026scpvak"
-    },
-    {
-      "id": "nc75434367",
-      "lon": -122.765502929688,
-      "lat": 38.8251647949219,
-      "depth": 1.97000002861023,
-      "mag": 1.42,
-      "place": "4 km W of Cobb, CA",
-      "time": 1789239715360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434367"
     }
   ]
 }
