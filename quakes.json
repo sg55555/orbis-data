@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-13T20:15:41Z",
-  "count": 214,
+  "updated": "2026-09-13T20:31:03Z",
+  "count": 213,
   "points": [
+    {
+      "id": "pr71531728",
+      "lon": -66.8365,
+      "lat": 17.9731666666667,
+      "depth": 17.51,
+      "mag": 2.35,
+      "place": "2 km SW of Indios, Puerto Rico",
+      "time": 1789330070780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531728"
+    },
     {
       "id": "hv75035077",
       "lon": -155.484497070312,
@@ -52,6 +62,16 @@
       "place": "86 km SSW of Isangel, Vanuatu",
       "time": 1789328503663,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th81"
+    },
+    {
+      "id": "us7000th7y",
+      "lon": -66.5753,
+      "lat": -26.1559,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "60 km W of Cafayate, Argentina",
+      "time": 1789328425248,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th7y"
     },
     {
       "id": "nc75435112",
@@ -2112,36 +2132,6 @@
       "place": "101 km S of Yudomari, Japan",
       "time": 1789245178910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th1q"
-    },
-    {
-      "id": "ci41546344",
-      "lon": -116.594833333333,
-      "lat": 33.5883333333333,
-      "depth": 13.82,
-      "mag": 0.8,
-      "place": "8 km ENE of Anza, CA",
-      "time": 1789245035350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546344"
-    },
-    {
-      "id": "nc75434417",
-      "lon": -122.823165893555,
-      "lat": 38.8041648864746,
-      "depth": 3.0699999332428,
-      "mag": 1.75,
-      "place": "7 km WNW of The Geysers, CA",
-      "time": 1789244618630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434417"
-    },
-    {
-      "id": "aka2026scsfpk",
-      "lon": -157.787,
-      "lat": 55.757,
-      "depth": 5,
-      "mag": 2,
-      "place": "71 km SSE of Chignik, Alaska",
-      "time": 1789244358070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026scsfpk"
     }
   ]
 }
