@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-13T17:01:06Z",
+  "updated": "2026-09-13T17:15:44Z",
   "count": 216,
   "points": [
+    {
+      "id": "ci41546744",
+      "lon": -116.893,
+      "lat": 33.9376666666667,
+      "depth": 3.96,
+      "mag": 0.88,
+      "place": "2 km NW of Banning, CA",
+      "time": 1789319332740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546744"
+    },
     {
       "id": "nc75434992",
       "lon": -122.720664978027,
@@ -84,14 +94,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546736"
     },
     {
-      "id": "us7000th74",
-      "lon": -67.2746,
-      "lat": 18.8146,
-      "depth": 46.422,
-      "mag": 3.4,
-      "place": "40 km NNW of San Antonio, Puerto Rico",
-      "time": 1789315858442,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th74"
+      "id": "pr71531693",
+      "lon": -67.2978333333333,
+      "lat": 18.8685,
+      "depth": 5.05,
+      "mag": 3.42,
+      "place": "46 km NNW of San Antonio, Puerto Rico",
+      "time": 1789315858500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531693"
     },
     {
       "id": "nc75434912",
@@ -915,12 +925,12 @@
     },
     {
       "id": "tx2026sapusk",
-      "lon": -103.956,
-      "lat": 31.431,
-      "depth": 6.1417,
-      "mag": 1.6,
+      "lon": -103.962,
+      "lat": 31.425,
+      "depth": 3.4516,
+      "mag": 1.5,
       "place": "20 km NW of Toyah, Texas",
-      "time": 1789282271225,
+      "time": 1789282271834,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sapusk"
     },
     {
@@ -952,6 +962,16 @@
       "place": "76 km NW of Ninilchik, Alaska",
       "time": 1789281164707,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sdmrlt"
+    },
+    {
+      "id": "av94431231",
+      "lon": -152.806833333333,
+      "lat": 60.5375,
+      "depth": 31.15,
+      "mag": -0.1,
+      "place": "82 km W of Salamatof, Alaska",
+      "time": 1789280356940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94431231"
     },
     {
       "id": "aka2026sdloju",
@@ -2142,26 +2162,6 @@
       "place": "9 km WSW of Anza, CA",
       "time": 1789233599670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546224"
-    },
-    {
-      "id": "hv75034272",
-      "lon": -155.490829467773,
-      "lat": 19.1568336486816,
-      "depth": 25.1700000762939,
-      "mag": 2.38,
-      "place": "5 km SSW of Pāhala, Hawaii",
-      "time": 1789233318650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75034272"
-    },
-    {
-      "id": "tx2026rzoigp",
-      "lon": -104.493,
-      "lat": 31.645,
-      "depth": 7.6511,
-      "mag": 1.9,
-      "place": "59 km S of Whites City, New Mexico",
-      "time": 1789232535544,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rzoigp"
     }
   ]
 }
