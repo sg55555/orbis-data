@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-13T20:01:08Z",
-  "count": 213,
+  "updated": "2026-09-13T20:15:41Z",
+  "count": 214,
   "points": [
+    {
+      "id": "hv75035077",
+      "lon": -155.484497070312,
+      "lat": 19.158166885376,
+      "depth": 11.0299997329712,
+      "mag": 2.21,
+      "place": "4 km S of Pāhala, Hawaii",
+      "time": 1789330041850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75035077"
+    },
+    {
+      "id": "aka2026senvsd",
+      "lon": -157.768,
+      "lat": 56.608,
+      "depth": 78.8,
+      "mag": 1.4,
+      "place": "52 km NE of Chignik, Alaska",
+      "time": 1789330031213,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026senvsd"
+    },
     {
       "id": "aka2026senfab",
       "lon": -155.335,
@@ -22,6 +42,16 @@
       "place": "15 km E of Seven Trees, CA",
       "time": 1789328714520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435122"
+    },
+    {
+      "id": "us7000th81",
+      "lon": 168.8337,
+      "lat": -20.2006,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "86 km SSW of Isangel, Vanuatu",
+      "time": 1789328503663,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th81"
     },
     {
       "id": "nc75435112",
@@ -2112,26 +2142,6 @@
       "place": "71 km SSE of Chignik, Alaska",
       "time": 1789244358070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026scsfpk"
-    },
-    {
-      "id": "ci41546336",
-      "lon": -116.761,
-      "lat": 33.562,
-      "depth": 4.78,
-      "mag": 0.14,
-      "place": "8 km W of Anza, CA",
-      "time": 1789244108150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546336"
-    },
-    {
-      "id": "ci41546328",
-      "lon": -116.762333333333,
-      "lat": 33.564,
-      "depth": 4.5,
-      "mag": 0.49,
-      "place": "8 km W of Anza, CA",
-      "time": 1789244021210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546328"
     }
   ]
 }
