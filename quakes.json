@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-13T18:15:44Z",
-  "count": 214,
+  "updated": "2026-09-13T18:31:00Z",
+  "count": 212,
   "points": [
+    {
+      "id": "hv75035027",
+      "lon": -155.486328125,
+      "lat": 19.1650009155273,
+      "depth": 11.3400001525879,
+      "mag": 2.61,
+      "place": "4 km S of Pāhala, Hawaii",
+      "time": 1789323646760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75035027"
+    },
+    {
+      "id": "aka2026sekedf",
+      "lon": -155.809,
+      "lat": 56.985,
+      "depth": 69.3,
+      "mag": 1.6,
+      "place": "99 km W of Akhiok, Alaska",
+      "time": 1789323574635,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sekedf"
+    },
     {
       "id": "nc75435047",
       "lon": -122.845832824707,
@@ -25,12 +45,12 @@
     },
     {
       "id": "hv75034997",
-      "lon": -155.488998413086,
-      "lat": 19.1811676025391,
-      "depth": 8.72000026702881,
-      "mag": 3.85,
-      "place": "2 km SSW of Pāhala, Hawaii",
-      "time": 1789322423270,
+      "lon": -155.480833333333,
+      "lat": 19.1606666666667,
+      "depth": 12.87,
+      "mag": 3.95,
+      "place": "4 km S of Pāhala, Hawaii",
+      "time": 1789322423040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75034997"
     },
     {
@@ -2102,46 +2122,6 @@
       "place": "7 km SW of Volcano, Hawaii",
       "time": 1789238051710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75034312"
-    },
-    {
-      "id": "aka2026scolzh",
-      "lon": -178.879,
-      "lat": 49.485,
-      "depth": 20,
-      "mag": 2.9,
-      "place": "south of the Aleutian Islands",
-      "time": 1789237576594,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026scolzh"
-    },
-    {
-      "id": "ci41546288",
-      "lon": -116.739833333333,
-      "lat": 33.5205,
-      "depth": 4.03,
-      "mag": 0.4,
-      "place": "7 km WSW of Anza, CA",
-      "time": 1789237455170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546288"
-    },
-    {
-      "id": "ci41546280",
-      "lon": -116.018333333333,
-      "lat": 33.7286666666667,
-      "depth": 3.61,
-      "mag": 2.08,
-      "place": "15 km NE of Thermal, CA",
-      "time": 1789237232480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546280"
-    },
-    {
-      "id": "nc75434337",
-      "lon": -122.877998352051,
-      "lat": 38.8411674499512,
-      "depth": 2.44000005722046,
-      "mag": 0.96,
-      "place": "13 km ENE of Cloverdale, CA",
-      "time": 1789237203920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434337"
     }
   ]
 }
