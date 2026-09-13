@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-13T21:30:54Z",
-  "count": 205,
+  "updated": "2026-09-13T21:38:28Z",
+  "count": 204,
   "points": [
+    {
+      "id": "ci41546800",
+      "lon": -116.170166015625,
+      "lat": 33.8911666870117,
+      "depth": 5.36999988555908,
+      "mag": 1.15099198396933,
+      "place": "19 km NNE of Indio, CA",
+      "time": 1789335271840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546800"
+    },
     {
       "id": "tx2026sbsloh",
       "lon": -104.102,
@@ -2032,26 +2042,6 @@
       "place": "12 km S of Kelseyville, CA",
       "time": 1789249583130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434497"
-    },
-    {
-      "id": "tx2026rzxilb",
-      "lon": -104.156,
-      "lat": 31.635,
-      "depth": 3.0602,
-      "mag": 2,
-      "place": "49 km NW of Toyah, Texas",
-      "time": 1789248828264,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rzxilb"
-    },
-    {
-      "id": "nc75434482",
-      "lon": -122.763496398926,
-      "lat": 38.8278350830078,
-      "depth": 1.8400000333786,
-      "mag": 0.7,
-      "place": "4 km W of Cobb, CA",
-      "time": 1789248799620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434482"
     }
   ]
 }
