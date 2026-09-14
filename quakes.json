@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T18:01:10Z",
-  "count": 230,
+  "updated": "2026-09-14T18:15:43Z",
+  "count": 229,
   "points": [
+    {
+      "id": "aka2026sggbbw",
+      "lon": -148.806,
+      "lat": 63.104,
+      "depth": 5,
+      "mag": 1.4,
+      "place": "32 km SSE of Cantwell, Alaska",
+      "time": 1789409561967,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sggbbw"
+    },
     {
       "id": "ci41547128",
       "lon": -117.688666666667,
@@ -45,12 +55,12 @@
     },
     {
       "id": "tx2026sdgjlq",
-      "lon": -103.68,
+      "lon": -103.681,
       "lat": 32.078,
-      "depth": 6.9574,
+      "depth": 6.9521,
       "mag": 2,
       "place": "40 km ESE of Malaga, New Mexico",
-      "time": 1789406494771,
+      "time": 1789406494772,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdgjlq"
     },
     {
@@ -2282,26 +2292,6 @@
       "place": "99 km W of Akhiok, Alaska",
       "time": 1789323574635,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sekedf"
-    },
-    {
-      "id": "nc75435047",
-      "lon": -122.845832824707,
-      "lat": 38.8581657409668,
-      "depth": 1.97000002861023,
-      "mag": 0.79,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1789323003070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435047"
-    },
-    {
-      "id": "nc75435042",
-      "lon": -122.854164123535,
-      "lat": 38.8343315124512,
-      "depth": 1.67999994754791,
-      "mag": 0.35,
-      "place": "11 km NW of The Geysers, CA",
-      "time": 1789322538510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435042"
     }
   ]
 }
