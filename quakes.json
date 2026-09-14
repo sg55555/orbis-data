@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T05:06:01Z",
-  "count": 212,
+  "updated": "2026-09-14T05:15:43Z",
+  "count": 211,
   "points": [
     {
       "id": "tx2026schvry",
@@ -734,16 +734,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546800"
     },
     {
-      "id": "tx2026sbsloh",
-      "lon": -104.102,
-      "lat": 31.557,
-      "depth": 9.9325,
-      "mag": 1.9,
-      "place": "39 km NW of Toyah, Texas",
-      "time": 1789334132302,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sbsloh"
-    },
-    {
       "id": "tx2026sbsjyg",
       "lon": -104.154,
       "lat": 31.529,
@@ -752,6 +742,16 @@
       "place": "41 km NW of Toyah, Texas",
       "time": 1789334132261,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sbsjyg"
+    },
+    {
+      "id": "tx2026sbsloh",
+      "lon": -104.149,
+      "lat": 31.535,
+      "depth": 7.0162,
+      "mag": 1.7,
+      "place": "41 km NW of Toyah, Texas",
+      "time": 1789334131869,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sbsloh"
     },
     {
       "id": "uw714101511",
@@ -2112,16 +2112,6 @@
       "place": "10 km ESE of Rampart, Alaska",
       "time": 1789278670588,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sdlhks"
-    },
-    {
-      "id": "ci41546544",
-      "lon": -116.709333333333,
-      "lat": 33.5323333333333,
-      "depth": 3.61,
-      "mag": 0.14,
-      "place": "4 km SW of Anza, CA",
-      "time": 1789276221310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546544"
     }
   ]
 }
