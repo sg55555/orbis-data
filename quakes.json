@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T10:01:29Z",
-  "count": 219,
+  "updated": "2026-09-14T10:15:47Z",
+  "count": 217,
   "points": [
     {
       "id": "ci41546952",
@@ -94,13 +94,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156766"
     },
     {
+      "id": "us7000thbu",
+      "lon": -107.1297,
+      "lat": 40.1622,
+      "depth": 5,
+      "mag": 2,
+      "place": "17 km WSW of Phippsburg, Colorado",
+      "time": 1789376819645,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thbu"
+    },
+    {
       "id": "tx2026scqahv",
-      "lon": -98.078,
-      "lat": 28.882,
-      "depth": 10.0889,
+      "lon": -98.075,
+      "lat": 28.876,
+      "depth": 7.2805,
       "mag": 1.5,
-      "place": "12 km SSW of Falls City, Texas",
-      "time": 1789376793672,
+      "place": "13 km SSW of Falls City, Texas",
+      "time": 1789376794403,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026scqahv"
     },
     {
@@ -2162,36 +2172,6 @@
       "place": "57 km S of Whites City, New Mexico",
       "time": 1789294799943,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sawssd"
-    },
-    {
-      "id": "hv75034802",
-      "lon": -155.101333618164,
-      "lat": 18.8246669769287,
-      "depth": 17.0799999237061,
-      "mag": 1.88,
-      "place": "57 km ESE of Naalehu, Hawaii",
-      "time": 1789294140510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75034802"
-    },
-    {
-      "id": "aka2026sdtrsy",
-      "lon": -145.644,
-      "lat": 65.783,
-      "depth": 0.5,
-      "mag": 3.4,
-      "place": "45 km WNW of Central, Alaska",
-      "time": 1789293777709,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sdtrsy"
-    },
-    {
-      "id": "aka2026sdtrjk",
-      "lon": -178.036,
-      "lat": 51.043,
-      "depth": 20,
-      "mag": 3.5,
-      "place": "134 km SW of Adak, Alaska",
-      "time": 1789293756945,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sdtrjk"
     }
   ]
 }
