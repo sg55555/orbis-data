@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T16:45:46Z",
-  "count": 227,
+  "updated": "2026-09-14T17:01:10Z",
+  "count": 229,
   "points": [
+    {
+      "id": "ci41547104",
+      "lon": -116.348666666667,
+      "lat": 33.9796666666667,
+      "depth": 4.09,
+      "mag": 1,
+      "place": "14 km E of Desert Hot Springs, CA",
+      "time": 1789404653230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41547104"
+    },
     {
       "id": "hv75035602",
       "lon": -155.259826660156,
@@ -25,12 +35,12 @@
     },
     {
       "id": "tx2026sdelyy",
-      "lon": -103.684,
+      "lon": -103.685,
       "lat": 32.083,
-      "depth": 6.8496,
+      "depth": 6.7343,
       "mag": 1.5,
       "place": "39 km ESE of Malaga, New Mexico",
-      "time": 1789402951646,
+      "time": 1789402951680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdelyy"
     },
     {
@@ -1644,6 +1654,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435262"
     },
     {
+      "id": "uu80008048",
+      "lon": -113.061333333333,
+      "lat": 37.4871666666667,
+      "depth": 14.2,
+      "mag": 0.84,
+      "place": "12 km ESE of Kanarraville, Utah",
+      "time": 1789341979970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80008048"
+    },
+    {
+      "id": "uu80156711",
+      "lon": -113.057166666667,
+      "lat": 37.4808333333333,
+      "depth": 13.1,
+      "mag": 1.59,
+      "place": "12 km ESE of Kanarraville, Utah",
+      "time": 1789341902220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156711"
+    },
+    {
       "id": "aka2026seujbr",
       "lon": -151.212,
       "lat": 58.586,
@@ -2262,16 +2292,6 @@
       "place": "2 km NW of Banning, CA",
       "time": 1789319332740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546744"
-    },
-    {
-      "id": "nc75434992",
-      "lon": -122.720664978027,
-      "lat": 38.7573318481445,
-      "depth": 2.4300000667572,
-      "mag": 0.87,
-      "place": "3 km SW of Anderson Springs, CA",
-      "time": 1789318724340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434992"
     }
   ]
 }
