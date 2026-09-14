@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T01:30:58Z",
-  "count": 211,
+  "updated": "2026-09-14T01:45:40Z",
+  "count": 210,
   "points": [
+    {
+      "id": "nc75435352",
+      "lon": -122.765167236328,
+      "lat": 38.8008346557617,
+      "depth": 3.83999991416931,
+      "mag": 1.03,
+      "place": "3 km NNW of The Geysers, CA",
+      "time": 1789349609250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435352"
+    },
     {
       "id": "ci41546872",
       "lon": -116.272166666667,
@@ -182,6 +192,16 @@
       "place": "5 km NNW of Hollister, CA",
       "time": 1789343154630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435292"
+    },
+    {
+      "id": "us7000th98",
+      "lon": -179.619,
+      "lat": -23.5079,
+      "depth": 438.237,
+      "mag": 4.4,
+      "place": "south of the Fiji Islands",
+      "time": 1789342891259,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th98"
     },
     {
       "id": "tx2026sbxfop",
@@ -2082,36 +2102,6 @@
       "place": "14 km NNE of Pine Valley, CA",
       "time": 1789264194950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546432"
-    },
-    {
-      "id": "aka2026sddaxk",
-      "lon": -154.937,
-      "lat": 56.684,
-      "depth": 15.6,
-      "mag": 1.8,
-      "place": "55 km WSW of Akhiok, Alaska",
-      "time": 1789263828558,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sddaxk"
-    },
-    {
-      "id": "hv75034557",
-      "lon": -155.22216796875,
-      "lat": 19.2443332672119,
-      "depth": 3.00999999046326,
-      "mag": 2.19,
-      "place": "22 km S of Volcano, Hawaii",
-      "time": 1789263757370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75034557"
-    },
-    {
-      "id": "nc75434647",
-      "lon": -122.848167419434,
-      "lat": 38.8478317260742,
-      "depth": 1.23000001907349,
-      "mag": 1.06,
-      "place": "11 km NW of The Geysers, CA",
-      "time": 1789263580870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434647"
     }
   ]
 }
