@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T17:45:45Z",
-  "count": 234,
+  "updated": "2026-09-14T18:01:10Z",
+  "count": 230,
   "points": [
+    {
+      "id": "ci41547128",
+      "lon": -117.688666666667,
+      "lat": 35.8621666666667,
+      "depth": 8.09,
+      "mag": 0.61,
+      "place": "21 km ESE of Little Lake, CA",
+      "time": 1789407944200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41547128"
+    },
     {
       "id": "tx2026sdgyhl",
       "lon": -101.226,
@@ -85,12 +95,12 @@
     },
     {
       "id": "tx2026sdfvmr",
-      "lon": -103.698,
-      "lat": 32.076,
-      "depth": 8.6516,
+      "lon": -103.691,
+      "lat": 32.078,
+      "depth": 8.5,
       "mag": 1.3,
-      "place": "38 km ESE of Malaga, New Mexico",
-      "time": 1789405428533,
+      "place": "39 km ESE of Malaga, New Mexico",
+      "time": 1789405428434,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdfvmr"
     },
     {
@@ -2292,56 +2302,6 @@
       "place": "11 km NW of The Geysers, CA",
       "time": 1789322538510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435042"
-    },
-    {
-      "id": "hv75034997",
-      "lon": -155.480833333333,
-      "lat": 19.1606666666667,
-      "depth": 12.87,
-      "mag": 3.95,
-      "place": "4 km S of Pāhala, Hawaii",
-      "time": 1789322423040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75034997"
-    },
-    {
-      "id": "us7000th7k",
-      "lon": -73.0464,
-      "lat": 6.8511,
-      "depth": 153.773,
-      "mag": 4.3,
-      "place": "13 km NW of Cepitá, Colombia",
-      "time": 1789322125243,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th7k"
-    },
-    {
-      "id": "hv75034987",
-      "lon": -155.265166666667,
-      "lat": 19.4041666666667,
-      "depth": 0.36,
-      "mag": 1.39,
-      "place": "5 km SW of Volcano, Hawaii",
-      "time": 1789322027690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75034987"
-    },
-    {
-      "id": "nn00924413",
-      "lon": -119.0608,
-      "lat": 39.3091,
-      "depth": 5.7894,
-      "mag": 1.83,
-      "place": "18 km SE of Silver Springs, Nevada",
-      "time": 1789321886783,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924413"
-    },
-    {
-      "id": "nc75435032",
-      "lon": -120.59716796875,
-      "lat": 36.0325012207031,
-      "depth": 6.73999977111816,
-      "mag": 1.07,
-      "place": "21 km NW of Parkfield, CA",
-      "time": 1789321822350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435032"
     }
   ]
 }
