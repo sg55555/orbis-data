@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T21:45:42Z",
-  "count": 241,
+  "updated": "2026-09-14T22:01:11Z",
+  "count": 237,
   "points": [
+    {
+      "id": "uw714102071",
+      "lon": -121.818333333333,
+      "lat": 47.215,
+      "depth": 11.03,
+      "mag": 1.16,
+      "place": "13 km E of Enumclaw, Washington",
+      "time": 1789420550060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714102071"
+    },
     {
       "id": "pr71531798",
       "lon": -66.7236666666667,
@@ -72,6 +82,16 @@
       "place": "off the coast of Michoacan, Mexico",
       "time": 1789418339760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thgs"
+    },
+    {
+      "id": "uw714102061",
+      "lon": -120.484333333333,
+      "lat": 46.6335,
+      "depth": -0.56,
+      "mag": 1.47,
+      "place": "3 km NNE of Yakima, Washington",
+      "time": 1789418111110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714102061"
     },
     {
       "id": "ci41332799",
@@ -635,12 +655,12 @@
     },
     {
       "id": "tx2026sdbwey",
-      "lon": -103.679,
-      "lat": 32.072,
-      "depth": 8.2127,
-      "mag": 2,
+      "lon": -103.681,
+      "lat": 32.073,
+      "depth": 9.5477,
+      "mag": 2.1,
       "place": "40 km ESE of Malaga, New Mexico",
-      "time": 1789398234382,
+      "time": 1789398234902,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdbwey"
     },
     {
@@ -727,8 +747,8 @@
       "id": "nn00924436",
       "lon": -119.5801,
       "lat": 40.6068,
-      "depth": 12.6026,
-      "mag": 3.42,
+      "depth": 11,
+      "mag": 3.34,
       "place": "19 km WSW of Gerlach, Nevada",
       "time": 1789395125606,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924436"
@@ -2352,66 +2372,6 @@
       "place": "9 km SW of Brentwood, CA",
       "time": 1789337166260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435217"
-    },
-    {
-      "id": "nn00924417",
-      "lon": -119.064,
-      "lat": 39.3141,
-      "depth": 7.1908,
-      "mag": 2,
-      "place": "17 km SE of Silver Springs, Nevada",
-      "time": 1789336795125,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924417"
-    },
-    {
-      "id": "us7000thae",
-      "lon": -174.0051,
-      "lat": 50.3062,
-      "depth": 22.547,
-      "mag": 2.9,
-      "place": "210 km S of Atka, Alaska",
-      "time": 1789336633625,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thae"
-    },
-    {
-      "id": "aka2026sermog",
-      "lon": -178.5,
-      "lat": 51.051,
-      "depth": 15.1,
-      "mag": 2.3,
-      "place": "158 km SW of Adak, Alaska",
-      "time": 1789336599510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sermog"
-    },
-    {
-      "id": "ci41546816",
-      "lon": -117.396833333333,
-      "lat": 35.5291666666667,
-      "depth": 8.89,
-      "mag": 1,
-      "place": "26 km S of Trona, CA",
-      "time": 1789336228880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546816"
-    },
-    {
-      "id": "ci41546808",
-      "lon": -116.6915,
-      "lat": 34.014,
-      "depth": 10.17,
-      "mag": 0.79,
-      "place": "11 km WSW of Morongo Valley, CA",
-      "time": 1789336087910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546808"
-    },
-    {
-      "id": "nn00924416",
-      "lon": -119.0532,
-      "lat": 39.3164,
-      "depth": 6.8416,
-      "mag": 1.81,
-      "place": "18 km SE of Silver Springs, Nevada",
-      "time": 1789335976953,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924416"
     }
   ]
 }
