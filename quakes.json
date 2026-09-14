@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T21:30:59Z",
-  "count": 240,
+  "updated": "2026-09-14T21:45:42Z",
+  "count": 241,
   "points": [
+    {
+      "id": "pr71531798",
+      "lon": -66.7236666666667,
+      "lat": 18.6081666666667,
+      "depth": 76.28,
+      "mag": 2.96,
+      "place": "15 km N of Arecibo, Puerto Rico",
+      "time": 1789420513770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531798"
+    },
+    {
+      "id": "us7000thh2",
+      "lon": -76.8931,
+      "lat": 4.5258,
+      "depth": 48.35,
+      "mag": 4.9,
+      "place": "31 km WSW of Sipí, Colombia",
+      "time": 1789420395924,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thh2"
+    },
     {
       "id": "hv75035817",
       "lon": -155.602005004883,
@@ -234,6 +254,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgiaqh"
     },
     {
+      "id": "uu80156851",
+      "lon": -112.897166666667,
+      "lat": 38.5025,
+      "depth": 4.05,
+      "mag": 1.88,
+      "place": "15 km NE of Milford, Utah",
+      "time": 1789412688950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156851"
+    },
+    {
       "id": "ci41332759",
       "lon": -116.7085,
       "lat": 33.5386666666667,
@@ -272,6 +302,16 @@
       "place": "21 km E of Julian, CA",
       "time": 1789411804460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41332751"
+    },
+    {
+      "id": "uu80156841",
+      "lon": -112.9,
+      "lat": 38.5165,
+      "depth": 2.72,
+      "mag": 0.82,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1789410858690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156841"
     },
     {
       "id": "nc75435687",
@@ -587,10 +627,10 @@
       "id": "tx2026sdbzie",
       "lon": -103.683,
       "lat": 32.072,
-      "depth": 7.5085,
+      "depth": 9.2401,
       "mag": 2.3,
       "place": "40 km ESE of Malaga, New Mexico",
-      "time": 1789398451506,
+      "time": 1789398451909,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdbzie"
     },
     {
@@ -2315,23 +2355,23 @@
     },
     {
       "id": "nn00924417",
-      "lon": -119.0586,
-      "lat": 39.3165,
-      "depth": 7.6852,
-      "mag": 1.93,
-      "place": "18 km SE of Silver Springs, Nevada",
-      "time": 1789336794566,
+      "lon": -119.064,
+      "lat": 39.3141,
+      "depth": 7.1908,
+      "mag": 2,
+      "place": "17 km SE of Silver Springs, Nevada",
+      "time": 1789336795125,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924417"
     },
     {
-      "id": "aka2026sermil",
-      "lon": -174.139,
-      "lat": 50.375,
-      "depth": 20,
-      "mag": 2.8,
-      "place": "202 km S of Atka, Alaska",
-      "time": 1789336634948,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sermil"
+      "id": "us7000thae",
+      "lon": -174.0051,
+      "lat": 50.3062,
+      "depth": 22.547,
+      "mag": 2.9,
+      "place": "210 km S of Atka, Alaska",
+      "time": 1789336633625,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thae"
     },
     {
       "id": "aka2026sermog",
@@ -2372,36 +2412,6 @@
       "place": "18 km SE of Silver Springs, Nevada",
       "time": 1789335976953,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924416"
-    },
-    {
-      "id": "nc75435192",
-      "lon": -121.754669189453,
-      "lat": 41.1515007019043,
-      "depth": 9,
-      "mag": 1.54,
-      "place": "19 km NE of Big Bend, CA",
-      "time": 1789335537590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435192"
-    },
-    {
-      "id": "tx2026sbtdxv",
-      "lon": -103.842,
-      "lat": 32.003,
-      "depth": 6.7023,
-      "mag": 2.4,
-      "place": "32 km SE of Malaga, New Mexico",
-      "time": 1789335408943,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sbtdxv"
-    },
-    {
-      "id": "ci41546800",
-      "lon": -116.170333333333,
-      "lat": 33.8881666666667,
-      "depth": 5.48,
-      "mag": 1,
-      "place": "19 km NNE of Indio, CA",
-      "time": 1789335271840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546800"
     }
   ]
 }
