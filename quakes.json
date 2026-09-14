@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T08:45:40Z",
+  "updated": "2026-09-14T09:01:20Z",
   "count": 214,
   "points": [
     {
+      "id": "nc75435482",
+      "lon": -124.549835205078,
+      "lat": 40.2890014648438,
+      "depth": 24.3500003814697,
+      "mag": 1.81,
+      "place": "23 km W of Petrolia, CA",
+      "time": 1789375757740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435482"
+    },
+    {
       "id": "ci41546944",
-      "lon": -118.938835144043,
-      "lat": 35.3208351135254,
-      "depth": 20.7299995422363,
-      "mag": 1.92427481221135,
+      "lon": -118.934166666667,
+      "lat": 35.3218333333333,
+      "depth": 20.64,
+      "mag": 1.85,
       "place": "7 km NNW of Lamont, CA",
-      "time": 1789375318120,
+      "time": 1789375318160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546944"
     },
     {
@@ -32,6 +42,16 @@
       "place": "28 km ENE of Cordova, Alaska",
       "time": 1789371608045,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sfkyls"
+    },
+    {
+      "id": "us7000thbl",
+      "lon": 142.2375,
+      "lat": 37.1853,
+      "depth": 35,
+      "mag": 4.5,
+      "place": "109 km E of Tomioka, Japan",
+      "time": 1789371184419,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thbl"
     },
     {
       "id": "hv75035387",
@@ -2122,26 +2142,6 @@
       "place": "59 km S of Whites City, New Mexico",
       "time": 1789290238846,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026saufet"
-    },
-    {
-      "id": "nc75434782",
-      "lon": -122.775665283203,
-      "lat": 38.8074989318848,
-      "depth": 3.4300000667572,
-      "mag": 0.9,
-      "place": "4 km NNW of The Geysers, CA",
-      "time": 1789289978760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434782"
-    },
-    {
-      "id": "tx2026sauadc",
-      "lon": -103.372,
-      "lat": 31.249,
-      "depth": 3.3923,
-      "mag": 1.1,
-      "place": "20 km SE of Lindsay, Texas",
-      "time": 1789289887053,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sauadc"
     }
   ]
 }
