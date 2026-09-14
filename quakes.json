@@ -1,17 +1,47 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T18:15:43Z",
-  "count": 229,
+  "updated": "2026-09-14T18:30:59Z",
+  "count": 230,
   "points": [
     {
+      "id": "nc75435687",
+      "lon": -121.24983215332,
+      "lat": 36.910831451416,
+      "depth": 6.98999977111816,
+      "mag": 1.14,
+      "place": "15 km NNE of Tres Pinos, CA",
+      "time": 1789410210630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435687"
+    },
+    {
       "id": "aka2026sggbbw",
-      "lon": -148.806,
+      "lon": -148.8,
       "lat": 63.104,
       "depth": 5,
       "mag": 1.4,
       "place": "32 km SSE of Cantwell, Alaska",
-      "time": 1789409561967,
+      "time": 1789409561970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sggbbw"
+    },
+    {
+      "id": "tx2026sdicto",
+      "lon": -104.025,
+      "lat": 31.286,
+      "depth": 0,
+      "mag": 1.8,
+      "place": "22 km W of Toyah, Texas",
+      "time": 1789409550936,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdicto"
+    },
+    {
+      "id": "us7000thfh",
+      "lon": 128.1204,
+      "lat": -1.8912,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "157 km SSE of Labuha, Indonesia",
+      "time": 1789408515206,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thfh"
     },
     {
       "id": "ci41547128",
@@ -56,11 +86,11 @@
     {
       "id": "tx2026sdgjlq",
       "lon": -103.681,
-      "lat": 32.078,
-      "depth": 6.9521,
+      "lat": 32.071,
+      "depth": 8.7146,
       "mag": 2,
       "place": "40 km ESE of Malaga, New Mexico",
-      "time": 1789406494772,
+      "time": 1789406495164,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdgjlq"
     },
     {
@@ -2045,11 +2075,11 @@
     },
     {
       "id": "uw714101511",
-      "lon": -122.335670471191,
-      "lat": 46.9008331298828,
-      "depth": 17.9500007629395,
-      "mag": 1.52999997,
-      "place": "6 km NW of Eatonville, Washington",
+      "lon": -122.328333333333,
+      "lat": 46.8966666666667,
+      "depth": 19.06,
+      "mag": 1.37,
+      "place": "5 km NW of Eatonville, Washington",
       "time": 1789332987770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714101511"
     },
@@ -2072,6 +2102,16 @@
       "place": "19 km ESE of Naalehu, Hawaii",
       "time": 1789331990390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75035087"
+    },
+    {
+      "id": "uw714101481",
+      "lon": -122.631666666667,
+      "lat": 46.229,
+      "depth": 17.55,
+      "mag": 0.44,
+      "place": "21 km ESE of Castle Rock, Washington",
+      "time": 1789331980200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714101481"
     },
     {
       "id": "pr71531738",
@@ -2262,36 +2302,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1789324499580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435077"
-    },
-    {
-      "id": "ci41546752",
-      "lon": -117.900666666667,
-      "lat": 36.0848333333333,
-      "depth": 5.26,
-      "mag": 1.4,
-      "place": "6 km NE of Coso Junction, CA",
-      "time": 1789324125790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546752"
-    },
-    {
-      "id": "hv75035027",
-      "lon": -155.486328125,
-      "lat": 19.1650009155273,
-      "depth": 11.3400001525879,
-      "mag": 2.61,
-      "place": "4 km S of Pāhala, Hawaii",
-      "time": 1789323646760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75035027"
-    },
-    {
-      "id": "aka2026sekedf",
-      "lon": -155.809,
-      "lat": 56.985,
-      "depth": 69.3,
-      "mag": 1.6,
-      "place": "99 km W of Akhiok, Alaska",
-      "time": 1789323574635,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sekedf"
     }
   ]
 }
