@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T02:15:43Z",
+  "updated": "2026-09-14T02:30:55Z",
   "count": 214,
   "points": [
     {
+      "id": "nc75435377",
+      "lon": -122.813499450684,
+      "lat": 38.8143348693848,
+      "depth": 2.77999997138977,
+      "mag": 1.01,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1789352381080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435377"
+    },
+    {
       "id": "aka2026sfaasu",
-      "lon": -152.15,
-      "lat": 59.654,
-      "depth": 82,
+      "lon": -152.107,
+      "lat": 59.651,
+      "depth": 82.4,
       "mag": 2.1,
-      "place": "22 km SW of Anchor Point, Alaska",
-      "time": 1789351974356,
+      "place": "20 km SW of Anchor Point, Alaska",
+      "time": 1789351974165,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sfaasu"
     },
     {
@@ -2132,16 +2142,6 @@
       "place": "14 km NNE of Pine Valley, CA",
       "time": 1789267006340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546448"
-    },
-    {
-      "id": "nc75434667",
-      "lon": -122.815002441406,
-      "lat": 38.8278350830078,
-      "depth": 2.17000007629395,
-      "mag": 1.25,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1789266436730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434667"
     }
   ]
 }
