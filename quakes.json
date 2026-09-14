@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T16:32:36Z",
+  "updated": "2026-09-14T16:45:46Z",
   "count": 227,
   "points": [
+    {
+      "id": "hv75035602",
+      "lon": -155.259826660156,
+      "lat": 19.4039993286133,
+      "depth": 0.430000007152557,
+      "mag": 1.84,
+      "place": "5 km SSW of Volcano, Hawaii",
+      "time": 1789403612720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75035602"
+    },
+    {
+      "id": "ci41547088",
+      "lon": -116.725166666667,
+      "lat": 33.0781666666667,
+      "depth": 0.35,
+      "mag": 0.95,
+      "place": "10 km NE of San Diego Country Estates, CA",
+      "time": 1789403399190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41547088"
+    },
     {
       "id": "tx2026sdelyy",
       "lon": -103.684,
@@ -22,6 +42,16 @@
       "place": "28 km WNW of Karluk, Alaska",
       "time": 1789402631790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgceto"
+    },
+    {
+      "id": "us7000thea",
+      "lon": 157.7415,
+      "lat": -8.9454,
+      "depth": 10,
+      "mag": 5.2,
+      "place": "135 km SE of Gizo, Solomon Islands",
+      "time": 1789402505947,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thea"
     },
     {
       "id": "aka2026sgbvpb",
@@ -2242,36 +2272,6 @@
       "place": "3 km SW of Anderson Springs, CA",
       "time": 1789318724340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434992"
-    },
-    {
-      "id": "aka2026segzdk",
-      "lon": -150.027,
-      "lat": 61.371,
-      "depth": 36,
-      "mag": 1.8,
-      "place": "2 km WNW of Point MacKenzie, Alaska",
-      "time": 1789317680883,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026segzdk"
-    },
-    {
-      "id": "hv75034962",
-      "lon": -155.263671875,
-      "lat": 19.4039993286133,
-      "depth": 0.409999996423721,
-      "mag": 1.79,
-      "place": "5 km SW of Volcano, Hawaii",
-      "time": 1789317174750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75034962"
-    },
-    {
-      "id": "nc75434967",
-      "lon": -122.809669494629,
-      "lat": 38.8390007019043,
-      "depth": 1.9099999666214,
-      "mag": 0.22,
-      "place": "8 km WNW of Cobb, CA",
-      "time": 1789317110530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434967"
     }
   ]
 }
