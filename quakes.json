@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T11:31:03Z",
+  "updated": "2026-09-14T11:45:42Z",
   "count": 216,
   "points": [
     {
+      "id": "nc75435522",
+      "lon": -122.79467010498,
+      "lat": 38.8286666870117,
+      "depth": 1.6599999666214,
+      "mag": 0.76,
+      "place": "6 km W of Cobb, CA",
+      "time": 1789385660770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435522"
+    },
+    {
       "id": "aka2026sfsmkt",
-      "lon": -154.211,
-      "lat": 56.267,
-      "depth": 10.3,
+      "lon": -154.116,
+      "lat": 56.196,
+      "depth": 49.4,
       "mag": 3,
-      "place": "75 km S of Akhiok, Alaska",
-      "time": 1789385168617,
+      "place": "83 km S of Akhiok, Alaska",
+      "time": 1789385170115,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sfsmkt"
     },
     {
@@ -2152,16 +2162,6 @@
       "place": "19 km SE of Lindsay, Texas",
       "time": 1789299931681,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sazokd"
-    },
-    {
-      "id": "nc75434827",
-      "lon": -118.808670043945,
-      "lat": 37.4613342285156,
-      "depth": 5.71999979019165,
-      "mag": 0.98,
-      "place": "16 km SW of Toms Place, CA",
-      "time": 1789299521630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434827"
     }
   ]
 }
