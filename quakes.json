@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-13T23:45:39Z",
+  "updated": "2026-09-14T00:01:15Z",
   "count": 207,
   "points": [
+    {
+      "id": "nc75435292",
+      "lon": -121.411331176758,
+      "lat": 36.8886680603027,
+      "depth": 9.65999984741211,
+      "mag": 1.52,
+      "place": "5 km NNW of Hollister, CA",
+      "time": 1789343154630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435292"
+    },
     {
       "id": "tx2026sbxfop",
       "lon": -101.919,
@@ -22,6 +32,16 @@
       "place": "6 km WNW of The Geysers, CA",
       "time": 1789342362100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435272"
+    },
+    {
+      "id": "pr71531758",
+      "lon": -66.8136666666667,
+      "lat": 17.943,
+      "depth": 11.05,
+      "mag": 2.41,
+      "place": "5 km S of Indios, Puerto Rico",
+      "time": 1789342141600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531758"
     },
     {
       "id": "nc75435262",
@@ -2052,26 +2072,6 @@
       "place": "6 km SW of Volcano, Hawaii",
       "time": 1789258736350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75034512"
-    },
-    {
-      "id": "nc75434597",
-      "lon": -122.761665344238,
-      "lat": 38.7890014648438,
-      "depth": -0.129999995231628,
-      "mag": 1.25,
-      "place": "1 km NNW of The Geysers, CA",
-      "time": 1789257088400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434597"
-    },
-    {
-      "id": "ci41546416",
-      "lon": -116.193666666667,
-      "lat": 33.3051666666667,
-      "depth": 10.7,
-      "mag": 0.86,
-      "place": "18 km ENE of Borrego Springs, CA",
-      "time": 1789256848050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546416"
     }
   ]
 }
