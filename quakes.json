@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T06:31:00Z",
-  "count": 221,
+  "updated": "2026-09-14T06:45:43Z",
+  "count": 223,
   "points": [
+    {
+      "id": "nc75435452",
+      "lon": -122.716667175293,
+      "lat": 38.781665802002,
+      "depth": 2.24000000953674,
+      "mag": 0.86,
+      "place": "2 km WNW of Anderson Springs, CA",
+      "time": 1789367649220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435452"
+    },
     {
       "id": "nc75435447",
       "lon": -122.767669677734,
@@ -14,13 +24,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435447"
     },
     {
+      "id": "us7000thb8",
+      "lon": -98.0473,
+      "lat": 35.6153,
+      "depth": 10.797,
+      "mag": 2.6,
+      "place": "6 km ENE of Calumet, Oklahoma",
+      "time": 1789367190529,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thb8"
+    },
+    {
       "id": "aka2026sficpp",
-      "lon": -149.457,
+      "lon": -149.449,
       "lat": 62.092,
-      "depth": 5,
+      "depth": 4.1,
       "mag": 1.8,
-      "place": "21 km ESE of Susitna North, Alaska",
-      "time": 1789366498572,
+      "place": "22 km ESE of Susitna North, Alaska",
+      "time": 1789366498543,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sficpp"
     },
     {
@@ -45,12 +65,12 @@
     },
     {
       "id": "aka2026sfhnyo",
-      "lon": -149.413,
-      "lat": 60.653,
-      "depth": 3.5,
+      "lon": -149.406,
+      "lat": 60.657,
+      "depth": 7.1,
       "mag": 2.5,
       "place": "18 km N of Moose Pass, Alaska",
-      "time": 1789365483277,
+      "time": 1789365483466,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sfhnyo"
     },
     {
@@ -82,6 +102,16 @@
       "place": "17 km WNW of Tehachapi, CA",
       "time": 1789364468690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546920"
+    },
+    {
+      "id": "aka2026sfgtlr",
+      "lon": -155.517,
+      "lat": 57.204,
+      "depth": 82.8,
+      "mag": 1.6,
+      "place": "75 km WSW of Karluk, Alaska",
+      "time": 1789364064865,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sfgtlr"
     },
     {
       "id": "pr71531778",
@@ -134,6 +164,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435417"
     },
     {
+      "id": "aka2026sfexbz",
+      "lon": -176.39,
+      "lat": 51.18,
+      "depth": 9.9,
+      "mag": 2.6,
+      "place": "79 km SSE of Adak, Alaska",
+      "time": 1789360722971,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sfexbz"
+    },
+    {
       "id": "tx2026scghsz",
       "lon": -104.459,
       "lat": 31.634,
@@ -142,6 +182,16 @@
       "place": "60 km S of Whites City, New Mexico",
       "time": 1789359223119,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026scghsz"
+    },
+    {
+      "id": "aka2026sfdcuy",
+      "lon": 179.332,
+      "lat": 51.504,
+      "depth": 71.9,
+      "mag": 2.5,
+      "place": "281 km W of Adak, Alaska",
+      "time": 1789357533339,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sfdcuy"
     },
     {
       "id": "uw714101651",
@@ -2182,36 +2232,6 @@
       "place": "19 km NW of Toyah, Texas",
       "time": 1789282271175,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sapusk"
-    },
-    {
-      "id": "tx2026saphfj",
-      "lon": -103.852,
-      "lat": 31.492,
-      "depth": 4.93,
-      "mag": 0.9,
-      "place": "20 km NNW of Toyah, Texas",
-      "time": 1789281333391,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026saphfj"
-    },
-    {
-      "id": "aka2026sdmscv",
-      "lon": -148.972,
-      "lat": 65.309,
-      "depth": 9.5,
-      "mag": 0.7,
-      "place": "24 km NE of Minto, Alaska",
-      "time": 1789281209765,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sdmscv"
-    },
-    {
-      "id": "aka2026sdmrlt",
-      "lon": -152.777,
-      "lat": 60.464,
-      "depth": 5,
-      "mag": 1.5,
-      "place": "76 km NW of Ninilchik, Alaska",
-      "time": 1789281164707,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sdmrlt"
     }
   ]
 }
