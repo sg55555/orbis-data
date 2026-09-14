@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T09:30:59Z",
-  "count": 217,
+  "updated": "2026-09-14T09:45:47Z",
+  "count": 218,
   "points": [
+    {
+      "id": "ci41546952",
+      "lon": -116.902333333333,
+      "lat": 33.3253333333333,
+      "depth": 18.74,
+      "mag": 0.52,
+      "place": "5 km SW of Palomar Observatory, CA",
+      "time": 1789378648970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546952"
+    },
+    {
+      "id": "hv75035432",
+      "lon": -155.502334594727,
+      "lat": 19.1371669769287,
+      "depth": 31.0799999237061,
+      "mag": 2.32,
+      "place": "7 km SSW of Pāhala, Hawaii",
+      "time": 1789378195940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75035432"
+    },
     {
       "id": "aka2026sfollu",
       "lon": -151.437,
@@ -62,6 +82,16 @@
       "place": "16 km NE of Milford, Utah",
       "time": 1789377002630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156766"
+    },
+    {
+      "id": "us7000thbt",
+      "lon": -107.2136,
+      "lat": 40.0871,
+      "depth": 5,
+      "mag": 1.9,
+      "place": "26 km WSW of Yampa, Colorado",
+      "time": 1789376352634,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thbt"
     },
     {
       "id": "nc75435482",
@@ -2152,26 +2182,6 @@
       "place": "6 km N of Port Graham, Alaska",
       "time": 1789293080538,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sdthqw"
-    },
-    {
-      "id": "ci41546648",
-      "lon": -116.707333333333,
-      "lat": 33.3691666666667,
-      "depth": 11.02,
-      "mag": 0.29,
-      "place": "12 km NW of Warner Springs, CA",
-      "time": 1789292312260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546648"
-    },
-    {
-      "id": "ci41546640",
-      "lon": -116.757333333333,
-      "lat": 33.5841666666667,
-      "depth": 12.16,
-      "mag": 0.37,
-      "place": "8 km WNW of Anza, CA",
-      "time": 1789292178000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546640"
     }
   ]
 }
