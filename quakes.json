@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T23:31:00Z",
-  "count": 236,
+  "updated": "2026-09-14T23:45:48Z",
+  "count": 233,
   "points": [
+    {
+      "id": "ci41332887",
+      "lon": -116.2885,
+      "lat": 33.0385,
+      "depth": 6.34,
+      "mag": 0.32,
+      "place": "19 km SW of Ocotillo Wells, CA",
+      "time": 1789428997450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41332887"
+    },
     {
       "id": "aka2026sgqnhu",
       "lon": -151.235,
@@ -12,6 +22,16 @@
       "place": "36 km SSE of Skwentna, Alaska",
       "time": 1789428410123,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgqnhu"
+    },
+    {
+      "id": "pr71531813",
+      "lon": -66.8306666666667,
+      "lat": 18.1421666666667,
+      "depth": 7.28,
+      "mag": 2.13,
+      "place": "11 km W of Adjuntas, Puerto Rico",
+      "time": 1789427896360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531813"
     },
     {
       "id": "tx2026sdsddq",
@@ -32,16 +52,6 @@
       "place": "10 km WSW of Adjuntas, Puerto Rico",
       "time": 1789427059560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531808"
-    },
-    {
-      "id": "nn00924452",
-      "lon": -118.1306,
-      "lat": 40.2597,
-      "depth": 11.92,
-      "mag": 1.56,
-      "place": "30 km ENE of Lovelock, Nevada",
-      "time": 1789426906070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924452"
     },
     {
       "id": "aka2026sgpmlo",
@@ -95,12 +105,12 @@
     },
     {
       "id": "nn00924449",
-      "lon": -118.8539,
-      "lat": 39.5655,
-      "depth": 14.6631,
-      "mag": 1.64,
-      "place": "12 km NNW of Fallon, Nevada",
-      "time": 1789424283802,
+      "lon": -118.8626,
+      "lat": 39.5622,
+      "depth": 7.4702,
+      "mag": 1.7,
+      "place": "12 km NW of Fallon, Nevada",
+      "time": 1789424284370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924449"
     },
     {
@@ -2322,46 +2332,6 @@
       "place": "5 km NNW of Hollister, CA",
       "time": 1789343154630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435292"
-    },
-    {
-      "id": "us7000th98",
-      "lon": -179.619,
-      "lat": -23.5079,
-      "depth": 438.237,
-      "mag": 4.4,
-      "place": "south of the Fiji Islands",
-      "time": 1789342891259,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th98"
-    },
-    {
-      "id": "tx2026sbxfop",
-      "lon": -101.911,
-      "lat": 32.108,
-      "depth": 6.5674,
-      "mag": 1.2,
-      "place": "11 km WSW of Stanton, Texas",
-      "time": 1789342778264,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sbxfop"
-    },
-    {
-      "id": "nc75435272",
-      "lon": -122.814498901367,
-      "lat": 38.8011665344238,
-      "depth": 3.39000010490417,
-      "mag": 0.77,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": 1789342362100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435272"
-    },
-    {
-      "id": "ok2026rzrw",
-      "lon": -97.95283333,
-      "lat": 35.038,
-      "depth": 10.41,
-      "mag": 0.92,
-      "place": "2 km SW of Chickasha, Oklahoma",
-      "time": 1789342326929,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026rzrw"
     }
   ]
 }
