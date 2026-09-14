@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T16:01:15Z",
-  "count": 228,
+  "updated": "2026-09-14T16:15:51Z",
+  "count": 229,
   "points": [
+    {
+      "id": "aka2026sgbvpb",
+      "lon": -150.022,
+      "lat": 62.057,
+      "depth": 26,
+      "mag": 1.5,
+      "place": "14 km SW of Susitna North, Alaska",
+      "time": 1789401996353,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgbvpb"
+    },
+    {
+      "id": "hv75035582",
+      "lon": -155.051330566406,
+      "lat": 19.359167098999,
+      "depth": 2.91000008583069,
+      "mag": 1.83,
+      "place": "14 km SE of Fern Forest, Hawaii",
+      "time": 1789401951310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75035582"
+    },
     {
       "id": "nc75435637",
       "lon": -122.812835693359,
@@ -77,10 +97,10 @@
       "id": "tx2026sdbzie",
       "lon": -103.681,
       "lat": 32.075,
-      "depth": 7.9332,
+      "depth": 7.9553,
       "mag": 2.2,
       "place": "40 km ESE of Malaga, New Mexico",
-      "time": 1789398451410,
+      "time": 1789398451406,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdbzie"
     },
     {
@@ -1142,6 +1162,16 @@
       "place": "26 km NNW of Pāhala, Hawaii",
       "time": 1789353230750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75035212"
+    },
+    {
+      "id": "uu80156726",
+      "lon": -112.247,
+      "lat": 38.1656666666667,
+      "depth": 3.07,
+      "mag": 1,
+      "place": "2 km ESE of Circleville, Utah",
+      "time": 1789353215710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156726"
     },
     {
       "id": "ci41546888",
@@ -2262,26 +2292,6 @@
       "place": "26 km S of Trona, CA",
       "time": 1789316147170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546736"
-    },
-    {
-      "id": "pr71531693",
-      "lon": -67.2978333333333,
-      "lat": 18.8685,
-      "depth": 5.05,
-      "mag": 3.42,
-      "place": "46 km NNW of San Antonio, Puerto Rico",
-      "time": 1789315858500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531693"
-    },
-    {
-      "id": "se60627896",
-      "lon": -84.1505,
-      "lat": 35.7065,
-      "depth": 9.2,
-      "mag": 2.12,
-      "place": "5 km NNE of Greenback, Tennessee",
-      "time": 1789315323350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60627896"
     }
   ]
 }
