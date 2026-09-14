@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T08:30:58Z",
-  "count": 216,
+  "updated": "2026-09-14T08:45:40Z",
+  "count": 214,
   "points": [
+    {
+      "id": "ci41546944",
+      "lon": -118.938835144043,
+      "lat": 35.3208351135254,
+      "depth": 20.7299995422363,
+      "mag": 1.92427481221135,
+      "place": "7 km NNW of Lamont, CA",
+      "time": 1789375318120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546944"
+    },
     {
       "id": "aka2026sflctu",
       "lon": -148.428,
@@ -2132,36 +2142,6 @@
       "place": "20 km SE of Lindsay, Texas",
       "time": 1789289887053,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sauadc"
-    },
-    {
-      "id": "aka2026sdquns",
-      "lon": -163.203,
-      "lat": 53.509,
-      "depth": 9.8,
-      "mag": 3,
-      "place": "150 km S of False Pass, Alaska",
-      "time": 1789288759338,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sdquns"
-    },
-    {
-      "id": "nc75434777",
-      "lon": -122.823829650879,
-      "lat": 38.8411674499512,
-      "depth": 1.72000002861023,
-      "mag": 0.74,
-      "place": "9 km WNW of Cobb, CA",
-      "time": 1789288579110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434777"
-    },
-    {
-      "id": "us7000th5d",
-      "lon": 141.2715,
-      "lat": 41.5125,
-      "depth": 120.372,
-      "mag": 4.7,
-      "place": "25 km N of Mutsu, Japan",
-      "time": 1789288275069,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th5d"
     }
   ]
 }
