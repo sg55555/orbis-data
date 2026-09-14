@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T09:01:20Z",
-  "count": 214,
+  "updated": "2026-09-14T09:15:44Z",
+  "count": 212,
   "points": [
     {
       "id": "nc75435482",
@@ -22,6 +22,16 @@
       "place": "7 km NNW of Lamont, CA",
       "time": 1789375318160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546944"
+    },
+    {
+      "id": "us7000thbq",
+      "lon": -107.2425,
+      "lat": 40.0775,
+      "depth": 5,
+      "mag": 2,
+      "place": "29 km WSW of Yampa, Colorado",
+      "time": 1789374713111,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thbq"
     },
     {
       "id": "aka2026sflctu",
@@ -135,12 +145,12 @@
     },
     {
       "id": "tx2026sclkih",
-      "lon": -104.488,
-      "lat": 31.633,
-      "depth": 3.7009,
+      "lon": -104.475,
+      "lat": 31.667,
+      "depth": 6.6638,
       "mag": 1.5,
-      "place": "61 km S of Whites City, New Mexico",
-      "time": 1789368441073,
+      "place": "57 km S of Whites City, New Mexico",
+      "time": 1789368441250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sclkih"
     },
     {
@@ -302,16 +312,6 @@
       "place": "69 km W of San Antonio de los Cobres, Argentina",
       "time": 1789362192877,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000than"
-    },
-    {
-      "id": "tx2026schvry",
-      "lon": -104.5,
-      "lat": 31.627,
-      "depth": 3.3249,
-      "mag": 1.5,
-      "place": "61 km S of Whites City, New Mexico",
-      "time": 1789361990042,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026schvry"
     },
     {
       "id": "ci41546912",
@@ -2122,26 +2122,6 @@
       "place": "8 km WNW of Anza, CA",
       "time": 1789292178000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546640"
-    },
-    {
-      "id": "ci41546632",
-      "lon": -116.814333333333,
-      "lat": 33.8928333333333,
-      "depth": 17.61,
-      "mag": 0.63,
-      "place": "4 km SW of Cabazon, CA",
-      "time": 1789290695570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546632"
-    },
-    {
-      "id": "tx2026saufet",
-      "lon": -104.454,
-      "lat": 31.639,
-      "depth": 3.2081,
-      "mag": 2.3,
-      "place": "59 km S of Whites City, New Mexico",
-      "time": 1789290238846,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026saufet"
     }
   ]
 }
