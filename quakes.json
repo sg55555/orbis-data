@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T15:15:42Z",
-  "count": 222,
+  "updated": "2026-09-14T15:31:02Z",
+  "count": 224,
   "points": [
+    {
+      "id": "ci41547048",
+      "lon": -117.748832702637,
+      "lat": 35.9090003967285,
+      "depth": 8.28999996185303,
+      "mag": 1.24212440515824,
+      "place": "15 km ESE of Little Lake, CA",
+      "time": 1789399611710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41547048"
+    },
+    {
+      "id": "nc75435617",
+      "lon": -122.199501037598,
+      "lat": 38.0821647644043,
+      "depth": 7.69999980926514,
+      "mag": 1.49,
+      "place": "4 km NNE of Crockett, CA",
+      "time": 1789399061790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435617"
+    },
+    {
+      "id": "ci41547040",
+      "lon": -118.041666666667,
+      "lat": 36.2668333333333,
+      "depth": 0.42,
+      "mag": 2.19,
+      "place": "4 km WSW of Olancha, CA",
+      "time": 1789398902540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41547040"
+    },
     {
       "id": "tx2026sdbzie",
       "lon": -103.681,
@@ -655,12 +685,12 @@
     },
     {
       "id": "tx2026scmegf",
-      "lon": -104.494,
-      "lat": 31.628,
-      "depth": 0.7991,
-      "mag": 1.8,
-      "place": "61 km S of Whites City, New Mexico",
-      "time": 1789369826728,
+      "lon": -104.467,
+      "lat": 31.653,
+      "depth": 3.8953,
+      "mag": 1.5,
+      "place": "58 km S of Whites City, New Mexico",
+      "time": 1789369826175,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026scmegf"
     },
     {
@@ -822,6 +852,16 @@
       "place": "9 km S of Midland, Texas",
       "time": 1789365190704,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026scjprb"
+    },
+    {
+      "id": "uu80008038",
+      "lon": -112.8925,
+      "lat": 37.0818333333333,
+      "depth": 17.11,
+      "mag": 0.99,
+      "place": "10 km NE of Hildale, Utah",
+      "time": 1789365185460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80008038"
     },
     {
       "id": "nc75435432",
@@ -2202,26 +2242,6 @@
       "place": "6 km ESE of Hebgen Lake Estates, Montana",
       "time": 1789315041520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156676"
-    },
-    {
-      "id": "nc75434912",
-      "lon": -122.815330505371,
-      "lat": 38.8318328857422,
-      "depth": 1.61000001430511,
-      "mag": 0.68,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1789313183990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434912"
-    },
-    {
-      "id": "nc75434907",
-      "lon": -120.596000671387,
-      "lat": 36.0351676940918,
-      "depth": 7.57000017166138,
-      "mag": 2.33,
-      "place": "21 km NW of Parkfield, CA",
-      "time": 1789312759930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434907"
     }
   ]
 }
