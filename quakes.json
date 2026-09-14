@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T23:01:42Z",
-  "count": 239,
+  "updated": "2026-09-14T23:15:41Z",
+  "count": 241,
   "points": [
+    {
+      "id": "pr71531808",
+      "lon": -66.8196666666667,
+      "lat": 18.1383333333333,
+      "depth": 17.63,
+      "mag": 2.03,
+      "place": "10 km WSW of Adjuntas, Puerto Rico",
+      "time": 1789427059560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531808"
+    },
+    {
+      "id": "nn00924452",
+      "lon": -118.1306,
+      "lat": 40.2597,
+      "depth": 11.92,
+      "mag": 1.56,
+      "place": "30 km ENE of Lovelock, Nevada",
+      "time": 1789426906070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924452"
+    },
     {
       "id": "aka2026sgpmlo",
       "lon": -150.499,
@@ -564,16 +584,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgedvy"
     },
     {
-      "id": "aka2026sgdzgd",
-      "lon": -155.228,
-      "lat": 58.193,
-      "depth": 5,
-      "mag": 0.4,
-      "place": "83 km NNW of Karluk, Alaska",
-      "time": 1789405846768,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgdzgd"
-    },
-    {
       "id": "tx2026sdfvmr",
       "lon": -103.68,
       "lat": 32.071,
@@ -766,12 +776,22 @@
     {
       "id": "tx2026sdbwey",
       "lon": -103.681,
-      "lat": 32.073,
-      "depth": 9.5477,
+      "lat": 32.074,
+      "depth": 8.5608,
       "mag": 2.1,
       "place": "40 km ESE of Malaga, New Mexico",
-      "time": 1789398234902,
+      "time": 1789398234943,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdbwey"
+    },
+    {
+      "id": "tx2026sdbvul",
+      "lon": -103.658,
+      "lat": 32.074,
+      "depth": 9.4971,
+      "mag": 1.5,
+      "place": "41 km N of Mentone, Texas",
+      "time": 1789398202242,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdbvul"
     },
     {
       "id": "us7000thdw",
@@ -1272,6 +1292,16 @@
       "place": "5 km NW of The Geysers, CA",
       "time": 1789377696470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435497"
+    },
+    {
+      "id": "tx2026scqnaj",
+      "lon": -103.774,
+      "lat": 31.413,
+      "depth": 6.8689,
+      "mag": 1,
+      "place": "11 km N of Toyah, Texas",
+      "time": 1789377676840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026scqnaj"
     },
     {
       "id": "nc75435492",
@@ -2382,16 +2412,6 @@
       "place": "5 km NNW of Boron, CA",
       "time": 1789341531930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546840"
-    },
-    {
-      "id": "nc75435247",
-      "lon": -120.866996765137,
-      "lat": 36.7335014343262,
-      "depth": 5.03999996185303,
-      "mag": 2.09,
-      "place": "32 km SW of South Dos Palos, CA",
-      "time": 1789340801930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435247"
     }
   ]
 }
