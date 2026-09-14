@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-14T02:30:55Z",
-  "count": 214,
+  "updated": "2026-09-14T02:45:42Z",
+  "count": 215,
   "points": [
+    {
+      "id": "hv75035212",
+      "lon": -155.594329833984,
+      "lat": 19.4166660308838,
+      "depth": 39.5900001525879,
+      "mag": 2.22,
+      "place": "26 km NNW of Pāhala, Hawaii",
+      "time": 1789353230750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75035212"
+    },
+    {
+      "id": "ci41546888",
+      "lon": -116.4775,
+      "lat": 33.4933333333333,
+      "depth": 13.67,
+      "mag": 0.49,
+      "place": "19 km ESE of Anza, CA",
+      "time": 1789353168390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546888"
+    },
     {
       "id": "nc75435377",
       "lon": -122.813499450684,
@@ -2132,16 +2152,6 @@
       "place": "11 km NW of The Geysers, CA",
       "time": 1789267904370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434692"
-    },
-    {
-      "id": "ci41546448",
-      "lon": -116.4695,
-      "lat": 32.934,
-      "depth": 2.99,
-      "mag": 1.09,
-      "place": "14 km NNE of Pine Valley, CA",
-      "time": 1789267006340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546448"
     }
   ]
 }
