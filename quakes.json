@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-15T18:45:43Z",
-  "count": 217,
+  "updated": "2026-09-15T19:01:14Z",
+  "count": 219,
   "points": [
+    {
+      "id": "nc75436157",
+      "lon": -121.455833435059,
+      "lat": 36.8703346252441,
+      "depth": 10.5600004196167,
+      "mag": 1.37,
+      "place": "6 km WNW of Hollister, CA",
+      "time": 1789498675220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436157"
+    },
+    {
+      "id": "tx2026sfezzo",
+      "lon": -103.597,
+      "lat": 30.913,
+      "depth": 18.976,
+      "mag": 2.2,
+      "place": "16 km ESE of Balmorhea, Texas",
+      "time": 1789498064188,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sfezzo"
+    },
     {
       "id": "nc75436147",
       "lon": -122.814331054688,
@@ -92,6 +112,16 @@
       "place": "21 km ESE of Little Lake, CA",
       "time": 1789493045890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333175"
+    },
+    {
+      "id": "us7000thne",
+      "lon": 123.6736,
+      "lat": 25.0311,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "90 km NNW of Ishigaki, Japan",
+      "time": 1789492608369,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thne"
     },
     {
       "id": "uw714102761",
@@ -262,6 +292,16 @@
       "place": "25 km SW of Coyanosa, Texas",
       "time": 1789481992284,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sewdec"
+    },
+    {
+      "id": "us7000thlq",
+      "lon": 129.2771,
+      "lat": -8.3244,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "251 km E of Lospalos, Timor Leste",
+      "time": 1789481771033,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thlq"
     },
     {
       "id": "tx2026sevoge",
@@ -2152,26 +2192,6 @@
       "place": "40 km ESE of Malaga, New Mexico",
       "time": 1789412480402,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdjsvn"
-    },
-    {
-      "id": "mb90208368",
-      "lon": -111.5205,
-      "lat": 44.8095,
-      "depth": 10.81,
-      "mag": 0.31,
-      "place": "26 km W of Hebgen Lake Estates, Montana",
-      "time": 1789411887600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90208368"
-    },
-    {
-      "id": "ci41332751",
-      "lon": -116.380333333333,
-      "lat": 33.0515,
-      "depth": 13.1,
-      "mag": 1.88,
-      "place": "21 km E of Julian, CA",
-      "time": 1789411804460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41332751"
     }
   ]
 }
