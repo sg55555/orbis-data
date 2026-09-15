@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-15T17:15:45Z",
-  "count": 213,
+  "updated": "2026-09-15T17:31:07Z",
+  "count": 211,
   "points": [
+    {
+      "id": "ci41333175",
+      "lon": -117.683333333333,
+      "lat": 35.8963333333333,
+      "depth": 8.89,
+      "mag": 0.48,
+      "place": "21 km ESE of Little Lake, CA",
+      "time": 1789493045890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333175"
+    },
     {
       "id": "uw714102761",
       "lon": -122.452835083008,
@@ -505,12 +515,12 @@
     },
     {
       "id": "uw714102521",
-      "lon": -122.578834533691,
-      "lat": 45.9661674499512,
-      "depth": 15.1199998855591,
-      "mag": 1.55522322654724,
-      "place": "12 km WNW of Amboy, Washington",
-      "time": 1789470215820,
+      "lon": -122.578166666667,
+      "lat": 45.9661666666667,
+      "depth": 15.45,
+      "mag": 1.24,
+      "place": "11 km WNW of Amboy, Washington",
+      "time": 1789470215810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714102521"
     },
     {
@@ -774,6 +784,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435977"
     },
     {
+      "id": "uu80156976",
+      "lon": -112.896666666667,
+      "lat": 38.5146666666667,
+      "depth": 2.28,
+      "mag": 1.72,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1789459694520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156976"
+    },
+    {
       "id": "nc75435972",
       "lon": -122.807662963867,
       "lat": 38.8386650085449,
@@ -802,6 +822,16 @@
       "place": "38 km WNW of Four Mile Road, Alaska",
       "time": 1789459045483,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026shhoai"
+    },
+    {
+      "id": "uu80156966",
+      "lon": -112.8995,
+      "lat": 38.5106666666667,
+      "depth": 2.44,
+      "mag": 1.58,
+      "place": "15 km NE of Milford, Utah",
+      "time": 1789458983500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156966"
     },
     {
       "id": "aka2026shhkyr",
@@ -1222,16 +1252,6 @@
       "place": "16 km NE of Milford, Utah",
       "time": 1789438379090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156941"
-    },
-    {
-      "id": "aka2026sgvwgi",
-      "lon": -152.462,
-      "lat": 60.164,
-      "depth": 106.1,
-      "mag": 1.2,
-      "place": "45 km WNW of Ninilchik, Alaska",
-      "time": 1789438023613,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgvwgi"
     },
     {
       "id": "nc75435887",
@@ -2092,46 +2112,6 @@
       "place": "17 km SE of Forsan, Texas",
       "time": 1789407442044,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdgyhl"
-    },
-    {
-      "id": "aka2026sgekle",
-      "lon": -149.799,
-      "lat": 64.778,
-      "depth": 12.1,
-      "mag": 2,
-      "place": "37 km WNW of Four Mile Road, Alaska",
-      "time": 1789406622105,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgekle"
-    },
-    {
-      "id": "tx2026sdgjlq",
-      "lon": -103.681,
-      "lat": 32.071,
-      "depth": 8.7146,
-      "mag": 2,
-      "place": "40 km ESE of Malaga, New Mexico",
-      "time": 1789406495164,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdgjlq"
-    },
-    {
-      "id": "tx2026sdgglf",
-      "lon": -103.68,
-      "lat": 32.073,
-      "depth": 7.702,
-      "mag": 2.1,
-      "place": "40 km ESE of Malaga, New Mexico",
-      "time": 1789406195629,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdgglf"
-    },
-    {
-      "id": "aka2026sgedvy",
-      "lon": -155.809,
-      "lat": 58.314,
-      "depth": 146.7,
-      "mag": 1.6,
-      "place": "64 km SE of King Salmon, Alaska",
-      "time": 1789406164700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgedvy"
     }
   ]
 }
