@@ -1,14 +1,24 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-15T03:01:13Z",
-  "count": 208,
+  "updated": "2026-09-15T03:15:40Z",
+  "count": 205,
   "points": [
+    {
+      "id": "ci41332983",
+      "lon": -116.803665161133,
+      "lat": 34.3593330383301,
+      "depth": 2.46000003814697,
+      "mag": 0.980698843915659,
+      "place": "12 km NNE of Big Bear City, CA",
+      "time": 1789441794950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41332983"
+    },
     {
       "id": "tx2026sdzmpn",
       "lon": -104.148,
       "lat": 31.775,
       "depth": 4.5741,
-      "mag": 2.2,
+      "mag": 2.3,
       "place": "49 km SSE of Whites City, New Mexico",
       "time": 1789441011962,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdzmpn"
@@ -2042,46 +2052,6 @@
       "place": "26 km S of Trona, CA",
       "time": 1789356010340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546896"
-    },
-    {
-      "id": "hv75035242",
-      "lon": -155.351666666667,
-      "lat": 19.2191666666667,
-      "depth": 29.18,
-      "mag": 1.69,
-      "place": "13 km E of Pāhala, Hawaii",
-      "time": 1789355353370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75035242"
-    },
-    {
-      "id": "uu80156731",
-      "lon": -112.897333333333,
-      "lat": 38.523,
-      "depth": 3.03,
-      "mag": 0.93,
-      "place": "17 km NE of Milford, Utah",
-      "time": 1789355290310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156731"
-    },
-    {
-      "id": "uw714101641",
-      "lon": -122.139333333333,
-      "lat": 46.9923333333333,
-      "depth": 2.35,
-      "mag": 0.84,
-      "place": "6 km E of Kapowsin, Washington",
-      "time": 1789354941810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714101641"
-    },
-    {
-      "id": "nc75435402",
-      "lon": -122.807830810547,
-      "lat": 38.828498840332,
-      "depth": 0.629999995231628,
-      "mag": 0.64,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1789354864090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435402"
     }
   ]
 }
