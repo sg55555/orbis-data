@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-15T08:15:47Z",
-  "count": 201,
+  "updated": "2026-09-15T08:30:57Z",
+  "count": 203,
   "points": [
+    {
+      "id": "ci41333055",
+      "lon": -115.565330505371,
+      "lat": 32.9474983215332,
+      "depth": 2.33999991416931,
+      "mag": 1.12084734880219,
+      "place": "5 km SW of Brawley, CA",
+      "time": 1789460884590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333055"
+    },
+    {
+      "id": "ci41333039",
+      "lon": -117.473831176758,
+      "lat": 35.9393348693848,
+      "depth": 3.13000011444092,
+      "mag": 1.03246605530836,
+      "place": "20 km NNW of Searles Valley, CA",
+      "time": 1789460030940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333039"
+    },
     {
       "id": "nc75435977",
       "lon": -122.790168762207,
@@ -425,12 +445,12 @@
     },
     {
       "id": "tx2026sdwtla",
-      "lon": -103.674,
-      "lat": 32.089,
-      "depth": 8.045,
+      "lon": -103.678,
+      "lat": 32.076,
+      "depth": 7.6379,
       "mag": 1.4,
       "place": "40 km ESE of Malaga, New Mexico",
-      "time": 1789436054330,
+      "time": 1789436055222,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdwtla"
     },
     {
@@ -1044,16 +1064,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41332743"
     },
     {
-      "id": "aka2026sggbbw",
-      "lon": -148.8,
-      "lat": 63.104,
-      "depth": 5,
-      "mag": 1.4,
-      "place": "32 km SSE of Cantwell, Alaska",
-      "time": 1789409561970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sggbbw"
-    },
-    {
       "id": "tx2026sdhyku",
       "lon": -103.678,
       "lat": 32.075,
@@ -1104,16 +1114,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdgyhl"
     },
     {
-      "id": "aka2026sgerfd",
-      "lon": -155.364,
-      "lat": 58.171,
-      "depth": 5,
-      "mag": 0.4,
-      "place": "86 km NW of Karluk, Alaska",
-      "time": 1789407089718,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgerfd"
-    },
-    {
       "id": "aka2026sgekle",
       "lon": -149.816,
       "lat": 64.777,
@@ -1132,16 +1132,6 @@
       "place": "40 km ESE of Malaga, New Mexico",
       "time": 1789406495164,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdgjlq"
-    },
-    {
-      "id": "aka2026sgeica",
-      "lon": -153.135,
-      "lat": 60.02,
-      "depth": 5,
-      "mag": 0.8,
-      "place": "60 km ENE of Pedro Bay, Alaska",
-      "time": 1789406458661,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgeica"
     },
     {
       "id": "tx2026sdgglf",
@@ -1224,16 +1214,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdelyy"
     },
     {
-      "id": "aka2026sgceto",
-      "lon": -154.891,
-      "lat": 57.666,
-      "depth": 78.6,
-      "mag": 1.3,
-      "place": "28 km WNW of Karluk, Alaska",
-      "time": 1789402631790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgceto"
-    },
-    {
       "id": "us7000thea",
       "lon": 157.7415,
       "lat": -8.9454,
@@ -1262,6 +1242,26 @@
       "place": "14 km SE of Fern Forest, Hawaii",
       "time": 1789401951310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75035582"
+    },
+    {
+      "id": "aka2026sgbttj",
+      "lon": 179.489,
+      "lat": 51.013,
+      "depth": 24.6,
+      "mag": 2.7,
+      "place": "286 km WSW of Adak, Alaska",
+      "time": 1789401868422,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgbttj"
+    },
+    {
+      "id": "aka2026sgbpml",
+      "lon": -139.914,
+      "lat": 60.508,
+      "depth": 5.9,
+      "mag": 1.4,
+      "place": "107 km N of Yakutat, Alaska",
+      "time": 1789401572981,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgbpml"
     },
     {
       "id": "nc75435637",
@@ -1715,12 +1715,12 @@
     },
     {
       "id": "aka2026sfsmkt",
-      "lon": -154.116,
-      "lat": 56.196,
-      "depth": 49.4,
+      "lon": -154.163,
+      "lat": 56.201,
+      "depth": 46,
       "mag": 3,
-      "place": "83 km S of Akhiok, Alaska",
-      "time": 1789385170115,
+      "place": "82 km S of Akhiok, Alaska",
+      "time": 1789385170216,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sfsmkt"
     },
     {
@@ -1735,12 +1735,12 @@
     },
     {
       "id": "aka2026sfscjz",
-      "lon": -153.41,
-      "lat": 59.813,
-      "depth": 137.2,
+      "lon": -153.417,
+      "lat": 59.815,
+      "depth": 134.9,
       "mag": 2.7,
-      "place": "39 km E of Pedro Bay, Alaska",
-      "time": 1789384477261,
+      "place": "38 km E of Pedro Bay, Alaska",
+      "time": 1789384477251,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sfscjz"
     },
     {
@@ -1774,6 +1774,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435517"
     },
     {
+      "id": "aka2026sfqtql",
+      "lon": -148.876,
+      "lat": 63.801,
+      "depth": 103.6,
+      "mag": 1.4,
+      "place": "7 km SE of Healy, Alaska",
+      "time": 1789382072760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sfqtql"
+    },
+    {
       "id": "uu80156776",
       "lon": -112.8915,
       "lat": 37.0783333333333,
@@ -1792,6 +1802,16 @@
       "place": "9 km WNW of Cobb, CA",
       "time": 1789381945940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435512"
+    },
+    {
+      "id": "aka2026sfqoyk",
+      "lon": -164.682,
+      "lat": 53.315,
+      "depth": 28.1,
+      "mag": 3.3,
+      "place": "116 km SE of Akutan, Alaska",
+      "time": 1789381747037,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sfqoyk"
     },
     {
       "id": "hv75035452",
