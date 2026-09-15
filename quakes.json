@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-15T04:30:56Z",
-  "count": 208,
+  "updated": "2026-09-15T04:45:41Z",
+  "count": 210,
   "points": [
+    {
+      "id": "ci41332999",
+      "lon": -117.801834106445,
+      "lat": 35.3380012512207,
+      "depth": 6.69999980926514,
+      "mag": 1.99898627447864,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1789446761010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41332999"
+    },
     {
       "id": "aka2026shaijz",
       "lon": -149.385,
@@ -22,6 +32,16 @@
       "place": "51 km E of Port Alsworth, Alaska",
       "time": 1789444375464,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgzkap"
+    },
+    {
+      "id": "pr71531818",
+      "lon": -64.7423333333333,
+      "lat": 18.2641666666667,
+      "depth": 125.54,
+      "mag": 3.36,
+      "place": "9 km SE of Cruz Bay, U.S. Virgin Islands",
+      "time": 1789443875270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531818"
     },
     {
       "id": "tx2026seawuq",
@@ -362,6 +382,16 @@
       "place": "66 km SSW of Patea, New Zealand",
       "time": 1789425886947,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thhv"
+    },
+    {
+      "id": "us7000thhw",
+      "lon": -93.2899,
+      "lat": 14.6326,
+      "depth": 35,
+      "mag": 4.2,
+      "place": "87 km SW of El Arenal, Mexico",
+      "time": 1789425784694,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thhw"
     },
     {
       "id": "us7000thht",
@@ -2072,16 +2102,6 @@
       "place": "10 km WNW of The Geysers, CA",
       "time": 1789361386660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435417"
-    },
-    {
-      "id": "aka2026sfexbz",
-      "lon": -176.39,
-      "lat": 51.18,
-      "depth": 9.9,
-      "mag": 2.6,
-      "place": "79 km SSE of Adak, Alaska",
-      "time": 1789360722971,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sfexbz"
     }
   ]
 }
