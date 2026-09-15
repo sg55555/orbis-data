@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-15T03:45:45Z",
-  "count": 207,
+  "updated": "2026-09-15T04:01:07Z",
+  "count": 208,
   "points": [
+    {
+      "id": "aka2026sgzkap",
+      "lon": -153.392,
+      "lat": 60.217,
+      "depth": 5,
+      "mag": 1.2,
+      "place": "51 km E of Port Alsworth, Alaska",
+      "time": 1789444375464,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgzkap"
+    },
     {
       "id": "tx2026seawuq",
       "lon": -102.38,
@@ -35,13 +45,23 @@
     },
     {
       "id": "tx2026seacbl",
-      "lon": -104.377,
-      "lat": 31.647,
-      "depth": 4.3083,
+      "lon": -104.376,
+      "lat": 31.653,
+      "depth": 5.8591,
       "mag": 1.9,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": 1789442277594,
+      "place": "57 km S of Whites City, New Mexico",
+      "time": 1789442277341,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026seacbl"
+    },
+    {
+      "id": "tx2026seadyw",
+      "lon": -104.371,
+      "lat": 31.881,
+      "depth": 0,
+      "mag": 2.2,
+      "place": "32 km S of Whites City, New Mexico",
+      "time": 1789442251902,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026seadyw"
     },
     {
       "id": "ci41332983",
@@ -365,12 +385,12 @@
     },
     {
       "id": "us7000thhd",
-      "lon": 146.4675,
-      "lat": -6.2894,
-      "depth": 125.293,
-      "mag": 5.2,
-      "place": "66 km E of Kainantu, Papua New Guinea",
-      "time": 1789423614287,
+      "lon": 146.5257,
+      "lat": -6.3071,
+      "depth": 119.787,
+      "mag": 5,
+      "place": "69 km NW of Lae, Papua New Guinea",
+      "time": 1789423613342,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thhd"
     },
     {
@@ -2062,16 +2082,6 @@
       "place": "60 km S of Whites City, New Mexico",
       "time": 1789359223119,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026scghsz"
-    },
-    {
-      "id": "uu80156736",
-      "lon": -112.897666666667,
-      "lat": 38.5195,
-      "depth": 2.62,
-      "mag": 1.59,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1789357995620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156736"
     }
   ]
 }
