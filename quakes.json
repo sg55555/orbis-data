@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-15T07:01:07Z",
+  "updated": "2026-09-15T07:15:42Z",
   "count": 200,
   "points": [
+    {
+      "id": "nc75435957",
+      "lon": -124.446334838867,
+      "lat": 40.3105010986328,
+      "depth": 9.85999965667725,
+      "mag": 1.96,
+      "place": "14 km W of Petrolia, CA",
+      "time": 1789456240740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435957"
+    },
     {
       "id": "nc75435952",
       "lon": -122.817337036133,
@@ -355,12 +365,12 @@
     },
     {
       "id": "tx2026sdwrew",
-      "lon": -103.685,
+      "lon": -103.683,
       "lat": 32.074,
-      "depth": 6.7979,
-      "mag": 1.6,
+      "depth": 4.6223,
+      "mag": 1.4,
       "place": "40 km ESE of Malaga, New Mexico",
-      "time": 1789435900348,
+      "time": 1789435900754,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdwrew"
     },
     {
@@ -1992,16 +2002,6 @@
       "place": "5 km SSW of Volcano, Hawaii",
       "time": 1789370486400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75035372"
-    },
-    {
-      "id": "tx2026scmegf",
-      "lon": -104.467,
-      "lat": 31.653,
-      "depth": 3.8953,
-      "mag": 1.5,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": 1789369826175,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026scmegf"
     }
   ]
 }
