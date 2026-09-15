@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-15T04:45:41Z",
-  "count": 210,
+  "updated": "2026-09-15T05:05:50Z",
+  "count": 209,
   "points": [
+    {
+      "id": "nc75435917",
+      "lon": -122.911499023438,
+      "lat": 39.8266677856445,
+      "depth": -1.11000001430511,
+      "mag": 2.24,
+      "place": "25 km NW of Alder Springs, CA",
+      "time": 1789448559360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435917"
+    },
+    {
+      "id": "nc75435912",
+      "lon": -122.880332946777,
+      "lat": 38.8393325805664,
+      "depth": 2.02999997138977,
+      "mag": 0.67,
+      "place": "12 km ENE of Cloverdale, CA",
+      "time": 1789448509320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435912"
+    },
     {
       "id": "ci41332999",
       "lon": -117.801834106445,
@@ -375,12 +395,12 @@
     },
     {
       "id": "us7000thhv",
-      "lon": 174.232,
-      "lat": -40.3296,
-      "depth": 102.563,
+      "lon": 174.1408,
+      "lat": -40.325,
+      "depth": 97.616,
       "mag": 4.9,
-      "place": "66 km SSW of Patea, New Zealand",
-      "time": 1789425886947,
+      "place": "69 km SSW of Patea, New Zealand",
+      "time": 1789425887191,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thhv"
     },
     {
@@ -2072,36 +2092,6 @@
       "place": "16 km SSE of Maria Antonia, Puerto Rico",
       "time": 1789363375270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531778"
-    },
-    {
-      "id": "us7000than",
-      "lon": -66.9986,
-      "lat": -24.1313,
-      "depth": 189.041,
-      "mag": 4.4,
-      "place": "69 km W of San Antonio de los Cobres, Argentina",
-      "time": 1789362192877,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000than"
-    },
-    {
-      "id": "ci41546912",
-      "lon": -117.799833333333,
-      "lat": 33.9235,
-      "depth": 15.27,
-      "mag": 0.9,
-      "place": "4 km NNE of Yorba Linda, CA",
-      "time": 1789361865440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546912"
-    },
-    {
-      "id": "nc75435417",
-      "lon": -122.855834960938,
-      "lat": 38.8286666870117,
-      "depth": 2.33999991416931,
-      "mag": 0.76,
-      "place": "10 km WNW of The Geysers, CA",
-      "time": 1789361386660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435417"
     }
   ]
 }
