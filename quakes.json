@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-15T21:01:09Z",
-  "count": 222,
+  "updated": "2026-09-15T21:15:21Z",
+  "count": 221,
   "points": [
+    {
+      "id": "nc75436252",
+      "lon": -121.198829650879,
+      "lat": 36.1296653747559,
+      "depth": 6.5,
+      "mag": 1.87,
+      "place": "11 km SW of King City, CA",
+      "time": 1789506356080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436252"
+    },
     {
       "id": "aka2026sihpcb",
       "lon": -155.139,
@@ -832,6 +842,16 @@
       "place": "0 km NW of The Geysers, CA",
       "time": 1789472583140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436002"
+    },
+    {
+      "id": "aka2026shoyyi",
+      "lon": -149.253,
+      "lat": 61.745,
+      "depth": 4.5,
+      "mag": 1.5,
+      "place": "0 km W of Fishhook, Alaska",
+      "time": 1789472398222,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026shoyyi"
     },
     {
       "id": "us7000thl5",
@@ -2192,36 +2212,6 @@
       "place": "15 km N of Arecibo, Puerto Rico",
       "time": 1789420513770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531798"
-    },
-    {
-      "id": "us7000thh2",
-      "lon": -76.8814,
-      "lat": 4.5523,
-      "depth": 48.051,
-      "mag": 4.9,
-      "place": "28 km WSW of Sipí, Colombia",
-      "time": 1789420396066,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thh2"
-    },
-    {
-      "id": "uu80156896",
-      "lon": -112.901666666667,
-      "lat": 38.5131666666667,
-      "depth": 2.61,
-      "mag": 1.1,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1789420306740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156896"
-    },
-    {
-      "id": "hv75035817",
-      "lon": -155.601666666667,
-      "lat": 19.4296666666667,
-      "depth": 37.63,
-      "mag": 2.16,
-      "place": "27 km E of Honaunau-Napoopoo, Hawaii",
-      "time": 1789419919260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75035817"
     }
   ]
 }
