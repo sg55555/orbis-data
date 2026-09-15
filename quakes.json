@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-15T19:30:58Z",
-  "count": 216,
+  "updated": "2026-09-15T19:45:39Z",
+  "count": 215,
   "points": [
+    {
+      "id": "ci41333247",
+      "lon": -117.114666666667,
+      "lat": 33.6833333333333,
+      "depth": 0.09,
+      "mag": 0.95,
+      "place": "4 km SW of Winchester, CA",
+      "time": 1789501213330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333247"
+    },
     {
       "id": "aka2026sieozh",
       "lon": -149.932,
@@ -12,6 +22,16 @@
       "place": "3 km SSE of Big Lake, Alaska",
       "time": 1789500494425,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sieozh"
+    },
+    {
+      "id": "uu80157046",
+      "lon": -112.904333333333,
+      "lat": 38.5216666666667,
+      "depth": 3.03,
+      "mag": 2.63,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1789500240740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157046"
     },
     {
       "id": "hv75036437",
@@ -2132,36 +2152,6 @@
       "place": "11 km WNW of The Geysers, CA",
       "time": 1789415282090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435722"
-    },
-    {
-      "id": "pr71531788",
-      "lon": -68.2376666666667,
-      "lat": 19.0886666666667,
-      "depth": 13.92,
-      "mag": 3.2,
-      "place": "58 km NNE of Punta Cana, Dominican Republic",
-      "time": 1789415066560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531788"
-    },
-    {
-      "id": "ci41332767",
-      "lon": -116.717833333333,
-      "lat": 33.6561666666667,
-      "depth": 15.23,
-      "mag": 1.84,
-      "place": "9 km S of Idyllwild, CA",
-      "time": 1789414951200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41332767"
-    },
-    {
-      "id": "tx2026sdkzie",
-      "lon": -103.681,
-      "lat": 32.073,
-      "depth": 8.5864,
-      "mag": 1.7,
-      "place": "40 km ESE of Malaga, New Mexico",
-      "time": 1789414741775,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdkzie"
     }
   ]
 }
