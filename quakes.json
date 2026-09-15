@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-15T11:01:08Z",
-  "count": 202,
+  "updated": "2026-09-15T11:15:41Z",
+  "count": 201,
   "points": [
+    {
+      "id": "uw714102521",
+      "lon": -122.578834533691,
+      "lat": 45.9661674499512,
+      "depth": 15.1199998855591,
+      "mag": 1.55522322654724,
+      "place": "12 km WNW of Amboy, Washington",
+      "time": 1789470215820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714102521"
+    },
     {
       "id": "hv75036227",
       "lon": -155.867828369141,
@@ -285,12 +295,12 @@
     },
     {
       "id": "tx2026seilfz",
-      "lon": -104.369,
-      "lat": 31.607,
-      "depth": 4.1387,
-      "mag": 1.8,
-      "place": "63 km S of Whites City, New Mexico",
-      "time": 1789457209532,
+      "lon": -104.363,
+      "lat": 31.632,
+      "depth": 6.0999,
+      "mag": 1.7,
+      "place": "60 km S of Whites City, New Mexico",
+      "time": 1789457209702,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026seilfz"
     },
     {
@@ -2002,26 +2012,6 @@
       "place": "82 km S of Akhiok, Alaska",
       "time": 1789385170216,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sfsmkt"
-    },
-    {
-      "id": "uu80156781",
-      "lon": -110.760166666667,
-      "lat": 44.7723333333333,
-      "depth": 7.78,
-      "mag": 1,
-      "place": "23 km SSW of Mammoth, Wyoming",
-      "time": 1789384505660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156781"
-    },
-    {
-      "id": "aka2026sfscjz",
-      "lon": -153.417,
-      "lat": 59.815,
-      "depth": 134.9,
-      "mag": 2.7,
-      "place": "38 km E of Pedro Bay, Alaska",
-      "time": 1789384477251,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sfscjz"
     }
   ]
 }
