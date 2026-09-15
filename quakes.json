@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-15T15:31:06Z",
-  "count": 200,
+  "updated": "2026-09-15T15:45:42Z",
+  "count": 202,
   "points": [
+    {
+      "id": "nc75436062",
+      "lon": -122.769996643066,
+      "lat": 38.7955017089844,
+      "depth": 15.1199998855591,
+      "mag": 0.83,
+      "place": "2 km NNW of The Geysers, CA",
+      "time": 1789486563930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436062"
+    },
     {
       "id": "uw714102671",
       "lon": -122.297332763672,
@@ -82,6 +92,16 @@
       "place": "49 km NW of Toyah, Texas",
       "time": 1789481111859,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sevoge"
+    },
+    {
+      "id": "uu80157016",
+      "lon": -111.689,
+      "lat": 38.861,
+      "depth": 11.95,
+      "mag": 1.25,
+      "place": "18 km SE of Salina, Utah",
+      "time": 1789481082040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157016"
     },
     {
       "id": "aka2026shtjmd",
@@ -222,6 +242,16 @@
       "place": "11 km WNW of Cobb, CA",
       "time": 1789477267220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436027"
+    },
+    {
+      "id": "uu80156996",
+      "lon": -112.882666666667,
+      "lat": 38.5041666666667,
+      "depth": 1.67,
+      "mag": 1.29,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1789477212660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156996"
     },
     {
       "id": "nc75436022",
@@ -385,12 +415,12 @@
     },
     {
       "id": "tx2026senuah",
-      "lon": -104.135,
-      "lat": 31.651,
-      "depth": 6.6346,
+      "lon": -104.134,
+      "lat": 31.658,
+      "depth": 7.5226,
       "mag": 1.7,
       "place": "49 km NW of Toyah, Texas",
-      "time": 1789466874240,
+      "time": 1789466874615,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026senuah"
     },
     {
@@ -1992,16 +2022,6 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1789401304470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435632"
-    },
-    {
-      "id": "nc75435622",
-      "lon": -122.768669128418,
-      "lat": 38.7835006713867,
-      "depth": 3.86999988555908,
-      "mag": 0.81,
-      "place": "1 km WNW of The Geysers, CA",
-      "time": 1789400083590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435622"
     }
   ]
 }
