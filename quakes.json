@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-15T19:01:14Z",
-  "count": 219,
+  "updated": "2026-09-15T19:15:42Z",
+  "count": 216,
   "points": [
     {
       "id": "nc75436157",
@@ -42,6 +42,16 @@
       "place": "11 km SE of Running Springs, CA",
       "time": 1789497246600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333215"
+    },
+    {
+      "id": "us7000thp0",
+      "lon": 120.4443,
+      "lat": -8.1982,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "45 km N of Ruteng, Indonesia",
+      "time": 1789496793369,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thp0"
     },
     {
       "id": "aka2026sibumr",
@@ -85,13 +95,23 @@
     },
     {
       "id": "hv75036377",
-      "lon": -155.452499389648,
-      "lat": 19.1574993133545,
-      "depth": 32.1300010681152,
-      "mag": 2.04,
+      "lon": -155.457666666667,
+      "lat": 19.1611666666667,
+      "depth": 32.58,
+      "mag": 1.56,
       "place": "5 km SSE of Pāhala, Hawaii",
       "time": 1789494564140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75036377"
+    },
+    {
+      "id": "us7000thni",
+      "lon": -66.4888,
+      "lat": -25.4555,
+      "depth": 185.605,
+      "mag": 4.5,
+      "place": "49 km SW of Cachí, Argentina",
+      "time": 1789494085765,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thni"
     },
     {
       "id": "uu80157021",
@@ -185,12 +205,12 @@
     },
     {
       "id": "hv75036327",
-      "lon": -155.602005004883,
-      "lat": 19.441333770752,
-      "depth": 31.9899997711182,
-      "mag": 2.01,
-      "place": "27 km E of Honaunau-Napoopoo, Hawaii",
-      "time": 1789488720200,
+      "lon": -155.615,
+      "lat": 19.4511666666667,
+      "depth": 35.28,
+      "mag": 2.19,
+      "place": "26 km E of Honaunau-Napoopoo, Hawaii",
+      "time": 1789488719700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75036327"
     },
     {
@@ -2142,56 +2162,6 @@
       "place": "106 km WSW of Alianza Cristiana, Peru",
       "time": 1789413409927,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thg5"
-    },
-    {
-      "id": "ok2026sbev",
-      "lon": -96.79316667,
-      "lat": 34.39516667,
-      "depth": 0,
-      "mag": 1.34,
-      "place": "3 km ESE of Mill Creek, Oklahoma",
-      "time": 1789413172000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026sbev"
-    },
-    {
-      "id": "uu80156851",
-      "lon": -112.897166666667,
-      "lat": 38.5025,
-      "depth": 4.05,
-      "mag": 1.88,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1789412688950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156851"
-    },
-    {
-      "id": "ci41332759",
-      "lon": -116.7085,
-      "lat": 33.5386666666667,
-      "depth": 5.3,
-      "mag": 2.14,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1789412521620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41332759"
-    },
-    {
-      "id": "aka2026sghroq",
-      "lon": -151.085,
-      "lat": 62.687,
-      "depth": 96.1,
-      "mag": 1.7,
-      "place": "26 km NW of Petersville, Alaska",
-      "time": 1789412512502,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sghroq"
-    },
-    {
-      "id": "tx2026sdjsvn",
-      "lon": -103.678,
-      "lat": 32.075,
-      "depth": 8.1378,
-      "mag": 2.2,
-      "place": "40 km ESE of Malaga, New Mexico",
-      "time": 1789412480402,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdjsvn"
     }
   ]
 }
