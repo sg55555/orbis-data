@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-15T06:45:42Z",
-  "count": 202,
+  "updated": "2026-09-15T07:01:07Z",
+  "count": 200,
   "points": [
+    {
+      "id": "nc75435952",
+      "lon": -122.817337036133,
+      "lat": 38.8346672058105,
+      "depth": 1.86000001430511,
+      "mag": 1.04,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1789455145700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435952"
+    },
     {
       "id": "nc75435947",
       "lon": -122.799667358398,
@@ -22,6 +32,16 @@
       "place": "2 km N of The Geysers, CA",
       "time": 1789453516440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435942"
+    },
+    {
+      "id": "pr71531828",
+      "lon": -66.9961666666667,
+      "lat": 17.9715,
+      "depth": 13.23,
+      "mag": 2.86,
+      "place": "5 km E of La Parguera, Puerto Rico",
+      "time": 1789453308340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531828"
     },
     {
       "id": "aka2026shedez",
@@ -1982,46 +2002,6 @@
       "place": "58 km S of Whites City, New Mexico",
       "time": 1789369826175,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026scmegf"
-    },
-    {
-      "id": "aka2026sfjpgo",
-      "lon": -150.542,
-      "lat": 61.625,
-      "depth": 33.9,
-      "mag": 1.6,
-      "place": "9 km N of Susitna, Alaska",
-      "time": 1789369172621,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sfjpgo"
-    },
-    {
-      "id": "tx2026sclpmz",
-      "lon": -101.484,
-      "lat": 32.1,
-      "depth": 8.9355,
-      "mag": 1.2,
-      "place": "11 km W of Forsan, Texas",
-      "time": 1789368800962,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sclpmz"
-    },
-    {
-      "id": "tx2026sclkih",
-      "lon": -104.475,
-      "lat": 31.667,
-      "depth": 6.6638,
-      "mag": 1.5,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": 1789368441250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sclkih"
-    },
-    {
-      "id": "tx2026scljjg",
-      "lon": -103.858,
-      "lat": 31.514,
-      "depth": 5.6384,
-      "mag": 2.4,
-      "place": "22 km NNW of Toyah, Texas",
-      "time": 1789368371196,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026scljjg"
     }
   ]
 }
