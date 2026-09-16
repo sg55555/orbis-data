@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-16T21:33:32Z",
-  "count": 216,
+  "updated": "2026-09-16T21:45:40Z",
+  "count": 218,
   "points": [
+    {
+      "id": "nc75436857",
+      "lon": -120.833168029785,
+      "lat": 36.2743339538574,
+      "depth": 7.6399998664856,
+      "mag": 1.13,
+      "place": "21 km SW of New Idria, CA",
+      "time": 1789594599450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436857"
+    },
+    {
+      "id": "nc75436852",
+      "lon": -122.876998901367,
+      "lat": 38.845832824707,
+      "depth": 2.77999997138977,
+      "mag": 0.94,
+      "place": "13 km NW of The Geysers, CA",
+      "time": 1789594593130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436852"
+    },
     {
       "id": "ci41333847",
       "lon": -114.989166666667,
@@ -22,6 +42,16 @@
       "place": "60 km S of Whites City, New Mexico",
       "time": 1789592400674,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026shfcrz"
+    },
+    {
+      "id": "uw714103751",
+      "lon": -123.3865,
+      "lat": 45.439,
+      "depth": -0.68,
+      "mag": 1.45,
+      "place": "18 km NW of Yamhill, Oregon",
+      "time": 1789592298800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714103751"
     },
     {
       "id": "ci41333839",
@@ -785,12 +815,12 @@
     },
     {
       "id": "hv75037092",
-      "lon": -155.34700012207,
-      "lat": 19.2038326263428,
-      "depth": 30.3600006103516,
-      "mag": 1.99,
+      "lon": -155.352833333333,
+      "lat": 19.214,
+      "depth": 29.57,
+      "mag": 1.55,
       "place": "13 km E of Pāhala, Hawaii",
-      "time": 1789561931670,
+      "time": 1789561931820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75037092"
     },
     {
@@ -2152,16 +2182,6 @@
       "place": "3 km NW of Big Lake, Washington",
       "time": 1789508808310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714103201"
-    },
-    {
-      "id": "ci41333295",
-      "lon": -116.415,
-      "lat": 33.03,
-      "depth": 9.15,
-      "mag": 1.1,
-      "place": "18 km ESE of Julian, CA",
-      "time": 1789508109860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333295"
     }
   ]
 }
