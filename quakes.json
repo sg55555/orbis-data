@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-16T22:04:57Z",
-  "count": 221,
+  "updated": "2026-09-16T22:15:39Z",
+  "count": 223,
   "points": [
+    {
+      "id": "nc75436867",
+      "lon": -122.724334716797,
+      "lat": 38.788501739502,
+      "depth": 0.930000007152557,
+      "mag": 1.86,
+      "place": "3 km ENE of The Geysers, CA",
+      "time": 1789596720260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436867"
+    },
+    {
+      "id": "aka2026skfxdv",
+      "lon": -154.973,
+      "lat": 58.292,
+      "depth": 5,
+      "mag": 0.9,
+      "place": "86 km NNW of Karluk, Alaska",
+      "time": 1789596415465,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026skfxdv"
+    },
     {
       "id": "us7000thxt",
       "lon": -97.66,
@@ -104,6 +124,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714103751"
     },
     {
+      "id": "us7000thxm",
+      "lon": -76.8006,
+      "lat": 4.46,
+      "depth": 51.459,
+      "mag": 4.7,
+      "place": "27 km SW of Sipí, Colombia",
+      "time": 1789592100902,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thxm"
+    },
+    {
       "id": "ci41333839",
       "lon": -115.523833333333,
       "lat": 32.931,
@@ -165,12 +195,12 @@
     },
     {
       "id": "hv75037262",
-      "lon": -155.500503540039,
-      "lat": 19.1714992523193,
-      "depth": 27.8600006103516,
-      "mag": 2.06,
-      "place": "4 km SSW of Pāhala, Hawaii",
-      "time": 1789589848400,
+      "lon": -155.4935,
+      "lat": 19.181,
+      "depth": 29.26,
+      "mag": 1.85,
+      "place": "2 km SSW of Pāhala, Hawaii",
+      "time": 1789589848360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75037262"
     },
     {
@@ -2202,16 +2232,6 @@
       "place": "38 km E of Clear, Alaska",
       "time": 1789512921229,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026silmoq"
-    },
-    {
-      "id": "aka2026sijzqp",
-      "lon": -147.461,
-      "lat": 64.947,
-      "depth": 5,
-      "mag": 1.1,
-      "place": "7 km E of Fox, Alaska",
-      "time": 1789510228058,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sijzqp"
     }
   ]
 }
