@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-16T18:45:38Z",
-  "count": 212,
+  "updated": "2026-09-16T18:50:53Z",
+  "count": 213,
   "points": [
+    {
+      "id": "nc75436712",
+      "lon": -122.817169189453,
+      "lat": 38.8273315429688,
+      "depth": 1.94000005722046,
+      "mag": 0.74,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1789584479860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436712"
+    },
+    {
+      "id": "nc75436702",
+      "lon": -122.814331054688,
+      "lat": 38.8390007019043,
+      "depth": 0.689999997615814,
+      "mag": 1.09,
+      "place": "8 km WNW of Cobb, CA",
+      "time": 1789584306480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436702"
+    },
     {
       "id": "aka2026sjysik",
       "lon": -151.558,
@@ -2112,16 +2132,6 @@
       "place": "16 km NE of Milford, Utah",
       "time": 1789498487810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157036"
-    },
-    {
-      "id": "uu80157031",
-      "lon": -112.901333333333,
-      "lat": 38.5205,
-      "depth": 2.96,
-      "mag": 1.35,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1789498153280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157031"
     }
   ]
 }
