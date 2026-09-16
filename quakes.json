@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-16T02:15:39Z",
-  "count": 212,
+  "updated": "2026-09-16T02:30:53Z",
+  "count": 214,
   "points": [
+    {
+      "id": "nc75436357",
+      "lon": -121.0625,
+      "lat": 36.4588317871094,
+      "depth": 5.1100001335144,
+      "mag": 1.97,
+      "place": "11 km SE of Pinnacles, CA",
+      "time": 1789525588080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436357"
+    },
+    {
+      "id": "ci41333415",
+      "lon": -117.4385,
+      "lat": 34.1148333333333,
+      "depth": 6.6,
+      "mag": 0.91,
+      "place": "3 km NE of Fontana, CA",
+      "time": 1789525469600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333415"
+    },
     {
       "id": "nc75436352",
       "lon": -122.665664672852,
@@ -62,6 +82,16 @@
       "place": "27 km ENE of Pine Valley, CA",
       "time": 1789522717630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333391"
+    },
+    {
+      "id": "us7000thrm",
+      "lon": -69.2782,
+      "lat": 10.6842,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "45 km NNW of Duaca, Venezuela",
+      "time": 1789522637171,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrm"
     },
     {
       "id": "nc75436332",
@@ -2112,16 +2142,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1789439794360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435892"
-    },
-    {
-      "id": "aka2026sgwfzt",
-      "lon": 177.929,
-      "lat": 50.267,
-      "depth": 20,
-      "mag": 3.4,
-      "place": "Rat Islands, Aleutian Islands, Alaska",
-      "time": 1789438698520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgwfzt"
     }
   ]
 }
