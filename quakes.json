@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-16T03:15:56Z",
-  "count": 216,
+  "updated": "2026-09-16T03:30:56Z",
+  "count": 215,
   "points": [
+    {
+      "id": "nc75436377",
+      "lon": -122.78483581543,
+      "lat": 38.7921676635742,
+      "depth": 4.71000003814697,
+      "mag": 0.73,
+      "place": "3 km NW of The Geysers, CA",
+      "time": 1789528929620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436377"
+    },
     {
       "id": "nc75436372",
       "lon": -122.77116394043,
@@ -442,6 +452,16 @@
       "place": "6 km W of Pāhala, Hawaii",
       "time": 1789506822980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75036562"
+    },
+    {
+      "id": "us7000thq4",
+      "lon": -106.7832,
+      "lat": 34.4946,
+      "depth": 10,
+      "mag": 2.7,
+      "place": "2 km NNW of Las Nutrias, New Mexico",
+      "time": 1789506612184,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thq4"
     },
     {
       "id": "nc75436252",
@@ -2132,36 +2152,6 @@
       "place": "7 km E of Hydesville, CA",
       "time": 1789443380190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435897"
-    },
-    {
-      "id": "tx2026seammn",
-      "lon": -101.92,
-      "lat": 32.037,
-      "depth": 8.9111,
-      "mag": 0.5,
-      "place": "15 km ENE of Midland, Texas",
-      "time": 1789442815590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026seammn"
-    },
-    {
-      "id": "tx2026seacbl",
-      "lon": -104.364,
-      "lat": 31.669,
-      "depth": 7.6892,
-      "mag": 1.8,
-      "place": "56 km S of Whites City, New Mexico",
-      "time": 1789442277458,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026seacbl"
-    },
-    {
-      "id": "aka2026sgyfhy",
-      "lon": -153.278,
-      "lat": 59.155,
-      "depth": 76.7,
-      "mag": 1.6,
-      "place": "80 km WSW of Nanwalek, Alaska",
-      "time": 1789442251210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgyfhy"
     }
   ]
 }
