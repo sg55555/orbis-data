@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-16T14:15:43Z",
-  "count": 197,
+  "updated": "2026-09-16T14:30:57Z",
+  "count": 200,
   "points": [
     {
+      "id": "aka2026sjqhua",
+      "lon": -154.647,
+      "lat": 57.415,
+      "depth": 53.2,
+      "mag": 1.9,
+      "place": "20 km SW of Karluk, Alaska",
+      "time": 1789568363557,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sjqhua"
+    },
+    {
+      "id": "ci41333575",
+      "lon": -117.496,
+      "lat": 35.9728333333333,
+      "depth": 2.86,
+      "mag": 1.64713378398018,
+      "place": "24 km NNW of Searles Valley, CA",
+      "time": 1789568020890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333575"
+    },
+    {
       "id": "ci41333567",
-      "lon": -117.632164001465,
-      "lat": 33.843334197998,
-      "depth": 1.05999994277954,
-      "mag": 1.05431636204174,
-      "place": "7 km WSW of Corona, CA",
-      "time": 1789567920230,
+      "lon": -117.662833333333,
+      "lat": 33.8366666666667,
+      "depth": 3.15,
+      "mag": 1.02,
+      "place": "10 km WSW of Corona, CA",
+      "time": 1789567919990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333567"
     },
     {
@@ -22,6 +42,16 @@
       "place": "25 km NNW of Searles Valley, CA",
       "time": 1789567553000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333559"
+    },
+    {
+      "id": "pr71531923",
+      "lon": -66.8833333333333,
+      "lat": 17.904,
+      "depth": 13.51,
+      "mag": 1.84,
+      "place": "7 km SSE of Guánica, Puerto Rico",
+      "time": 1789567195240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531923"
     },
     {
       "id": "ci41333551",
@@ -105,12 +135,12 @@
     },
     {
       "id": "ci41333527",
-      "lon": -116.780833333333,
-      "lat": 33.6835,
-      "depth": 14.4,
+      "lon": -116.782833333333,
+      "lat": 33.6625,
+      "depth": 10.55,
       "mag": 0.86,
-      "place": "9 km SW of Idyllwild, CA",
-      "time": 1789563732360,
+      "place": "10 km SW of Idyllwild, CA",
+      "time": 1789563732820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333527"
     },
     {
@@ -164,6 +194,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sgojqx"
     },
     {
+      "id": "uu80157141",
+      "lon": -110.811833333333,
+      "lat": 44.7828333333333,
+      "depth": 4.89,
+      "mag": 1.25,
+      "place": "23 km SSW of Mammoth, Wyoming",
+      "time": 1789562085780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157141"
+    },
+    {
       "id": "us7000thts",
       "lon": 40.13,
       "lat": 9.0247,
@@ -185,12 +225,12 @@
     },
     {
       "id": "ci41333519",
-      "lon": -117.805666666667,
-      "lat": 35.337,
-      "depth": 5.94,
+      "lon": -117.804166666667,
+      "lat": 35.3391666666667,
+      "depth": 5.87,
       "mag": 0.73,
       "place": "16 km WSW of Johannesburg, CA",
-      "time": 1789561804950,
+      "time": 1789561804890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333519"
     },
     {
@@ -1024,6 +1064,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sftosm"
     },
     {
+      "id": "uu80157081",
+      "lon": -110.347,
+      "lat": 44.6741666666667,
+      "depth": 2.16,
+      "mag": 0.34,
+      "place": "43 km SE of Mammoth, Wyoming",
+      "time": 1789524048420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157081"
+    },
+    {
       "id": "nc75436352",
       "lon": -122.665664672852,
       "lat": 38.438835144043,
@@ -1814,6 +1864,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714102761"
     },
     {
+      "id": "ci41333167",
+      "lon": -116.556833333333,
+      "lat": 33.4701666666667,
+      "depth": 11.5,
+      "mag": 0.6,
+      "place": "14 km SE of Anza, CA",
+      "time": 1789491373830,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333167"
+    },
+    {
       "id": "nc75436087",
       "lon": -122.81266784668,
       "lat": 38.8228340148926,
@@ -1942,36 +2002,6 @@
       "place": "119 km E of Chignik, Alaska",
       "time": 1789482758168,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026shusro"
-    },
-    {
-      "id": "ci41333127",
-      "lon": -117.396835327148,
-      "lat": 35.5289993286133,
-      "depth": 8.8100004196167,
-      "mag": 1.66293200487541,
-      "place": "26 km S of Trona, CA",
-      "time": 1789482613720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333127"
-    },
-    {
-      "id": "tx2026sewdec",
-      "lon": -103.254,
-      "lat": 31.075,
-      "depth": 3.5831,
-      "mag": 1.5,
-      "place": "25 km SW of Coyanosa, Texas",
-      "time": 1789481992284,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sewdec"
-    },
-    {
-      "id": "us7000thlq",
-      "lon": 129.2771,
-      "lat": -8.3244,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "251 km E of Lospalos, Timor Leste",
-      "time": 1789481771033,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thlq"
     }
   ]
 }
