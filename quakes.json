@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-16T21:45:40Z",
-  "count": 218,
+  "updated": "2026-09-16T22:01:08Z",
+  "count": 219,
   "points": [
+    {
+      "id": "nc75436862",
+      "lon": -122.791831970215,
+      "lat": 38.8333320617676,
+      "depth": 2.61999988555908,
+      "mag": 0.91,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1789595326090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436862"
+    },
     {
       "id": "nc75436857",
       "lon": -120.833168029785,
@@ -24,6 +34,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436852"
     },
     {
+      "id": "pr71531938",
+      "lon": -66.3395,
+      "lat": 18.0241666666667,
+      "depth": 14.39,
+      "mag": 2,
+      "place": "0 km W of Mariano Colón, Puerto Rico",
+      "time": 1789594514270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531938"
+    },
+    {
       "id": "ci41333847",
       "lon": -114.989166666667,
       "lat": 33.0448333333333,
@@ -32,6 +52,16 @@
       "place": "45 km NE of Holtville, CA",
       "time": 1789594105420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333847"
+    },
+    {
+      "id": "uw714103801",
+      "lon": -122.086,
+      "lat": 48.9985,
+      "depth": -0.84,
+      "mag": 0.65,
+      "place": "8 km NE of Peaceful Valley, Washington",
+      "time": 1789593946510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714103801"
     },
     {
       "id": "tx2026shfcrz",
@@ -2162,26 +2192,6 @@
       "place": "7 km E of Fox, Alaska",
       "time": 1789510228058,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sijzqp"
-    },
-    {
-      "id": "us7000ths2",
-      "lon": 178.951,
-      "lat": 51.4846,
-      "depth": 57.34,
-      "mag": 3.5,
-      "place": "Rat Islands, Aleutian Islands, Alaska",
-      "time": 1789508969349,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ths2"
-    },
-    {
-      "id": "uw714103201",
-      "lon": -122.275,
-      "lat": 48.4185,
-      "depth": -0.68,
-      "mag": 0.92,
-      "place": "3 km NW of Big Lake, Washington",
-      "time": 1789508808310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714103201"
     }
   ]
 }
