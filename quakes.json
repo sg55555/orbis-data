@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-16T20:30:57Z",
-  "count": 216,
+  "updated": "2026-09-16T20:45:41Z",
+  "count": 218,
   "points": [
+    {
+      "id": "tx2026shefap",
+      "lon": -104.378,
+      "lat": 31.642,
+      "depth": 3.5609,
+      "mag": 1.5,
+      "place": "59 km S of Whites City, New Mexico",
+      "time": 1789590765019,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026shefap"
+    },
+    {
+      "id": "us7000thxg",
+      "lon": 151.7775,
+      "lat": -6.1072,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "191 km ESE of Kimbe, Papua New Guinea",
+      "time": 1789590084970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thxg"
+    },
     {
       "id": "nc75436812",
       "lon": -122.781997680664,
@@ -32,6 +52,16 @@
       "place": "29 km WSW of Sipí, Colombia",
       "time": 1789589572070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thxc"
+    },
+    {
+      "id": "us7000thxb",
+      "lon": -177.5927,
+      "lat": -30.2154,
+      "depth": 35,
+      "mag": 4.9,
+      "place": "Kermadec Islands, New Zealand",
+      "time": 1789589015025,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thxb"
     },
     {
       "id": "ci41333799",
@@ -2094,6 +2124,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75036562"
     },
     {
+      "id": "tx2026sfjtvo",
+      "lon": -102.094,
+      "lat": 32.412,
+      "depth": 9.6436,
+      "mag": 0.4,
+      "place": "37 km WSW of Ackerly, Texas",
+      "time": 1789506699416,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sfjtvo"
+    },
+    {
       "id": "us7000thq4",
       "lon": -106.7832,
       "lat": 34.4946,
@@ -2142,26 +2182,6 @@
       "place": "11 km NE of Pāhala, Hawaii",
       "time": 1789505155230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75036527"
-    },
-    {
-      "id": "ci41333279",
-      "lon": -117.036833333333,
-      "lat": 33.8778333333333,
-      "depth": 1.42,
-      "mag": 1.36,
-      "place": "8 km SW of Beaumont, CA",
-      "time": 1789505071550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333279"
-    },
-    {
-      "id": "uu80157061",
-      "lon": -112.902333333333,
-      "lat": 38.5131666666667,
-      "depth": 2.52,
-      "mag": 1.94,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1789504252010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157061"
     }
   ]
 }
