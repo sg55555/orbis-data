@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-16T13:45:41Z",
-  "count": 197,
+  "updated": "2026-09-16T14:01:08Z",
+  "count": 195,
   "points": [
+    {
+      "id": "ci41333551",
+      "lon": -117.4965,
+      "lat": 35.9755,
+      "depth": 3.8,
+      "mag": 1.86,
+      "place": "25 km NNW of Searles Valley, CA",
+      "time": 1789567008850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333551"
+    },
     {
       "id": "ci41333535",
       "lon": -116.812333333333,
@@ -772,6 +782,16 @@
       "place": "10 km WNW of The Geysers, CA",
       "time": 1789537866400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436417"
+    },
+    {
+      "id": "tx2026sgauyc",
+      "lon": -101.908,
+      "lat": 32.243,
+      "depth": 4.7363,
+      "mag": 0.2,
+      "place": "16 km NW of Stanton, Texas",
+      "time": 1789537539380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sgauyc"
     },
     {
       "id": "tx2026sgaeai",
@@ -1932,46 +1952,6 @@
       "place": "18 km SE of Salina, Utah",
       "time": 1789481082040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157016"
-    },
-    {
-      "id": "tx2026sevjqb",
-      "lon": -102.169,
-      "lat": 32.378,
-      "depth": 9.1553,
-      "mag": 0.5,
-      "place": "34 km ENE of McKinney Acres, Texas",
-      "time": 1789480632632,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sevjqb"
-    },
-    {
-      "id": "aka2026shtjmd",
-      "lon": -151.642,
-      "lat": 60.711,
-      "depth": 85.6,
-      "mag": 1.9,
-      "place": "19 km W of Nikiski, Alaska",
-      "time": 1789480319416,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026shtjmd"
-    },
-    {
-      "id": "ci41333119",
-      "lon": -115.554833333333,
-      "lat": 33.0505,
-      "depth": 7.32,
-      "mag": 1.71,
-      "place": "6 km ENE of Westmorland, CA",
-      "time": 1789480263530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333119"
-    },
-    {
-      "id": "us7000thlk",
-      "lon": -66.0517,
-      "lat": -18.1008,
-      "depth": 363.499,
-      "mag": 4.2,
-      "place": "48 km SSE of Irpa Irpa, Bolivia",
-      "time": 1789480221979,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thlk"
     }
   ]
 }
