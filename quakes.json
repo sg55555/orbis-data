@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-16T14:01:08Z",
-  "count": 195,
+  "updated": "2026-09-16T14:15:43Z",
+  "count": 197,
   "points": [
+    {
+      "id": "ci41333567",
+      "lon": -117.632164001465,
+      "lat": 33.843334197998,
+      "depth": 1.05999994277954,
+      "mag": 1.05431636204174,
+      "place": "7 km WSW of Corona, CA",
+      "time": 1789567920230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333567"
+    },
+    {
+      "id": "ci41333559",
+      "lon": -117.494166666667,
+      "lat": 35.9771666666667,
+      "depth": 4.63,
+      "mag": 0.65,
+      "place": "25 km NNW of Searles Valley, CA",
+      "time": 1789567553000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333559"
+    },
     {
       "id": "ci41333551",
       "lon": -117.4965,
@@ -22,6 +42,16 @@
       "place": "9 km ESE of Valle Vista, CA",
       "time": 1789565481580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333535"
+    },
+    {
+      "id": "pr71531913",
+      "lon": -66.0855,
+      "lat": 19.3143333333333,
+      "depth": 19.95,
+      "mag": 3.23,
+      "place": "93 km N of San Juan, Puerto Rico",
+      "time": 1789565367910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531913"
     },
     {
       "id": "nc75436552",
@@ -67,10 +97,10 @@
       "id": "tx2026sgpkxo",
       "lon": -101.988,
       "lat": 32.143,
-      "depth": 4.0851,
+      "depth": 4.0746,
       "mag": 1.1,
       "place": "18 km NNE of Midland, Texas",
-      "time": 1789564016797,
+      "time": 1789564016802,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sgpkxo"
     },
     {
@@ -112,6 +142,16 @@
       "place": "86 km NNW of Karluk, Alaska",
       "time": 1789562612836,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sjncrh"
+    },
+    {
+      "id": "uu80157146",
+      "lon": -110.802,
+      "lat": 44.8051666666667,
+      "depth": 4.59,
+      "mag": 0.52,
+      "place": "20 km SSW of Mammoth, Wyoming",
+      "time": 1789562441930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157146"
     },
     {
       "id": "tx2026sgojqx",
@@ -1932,26 +1972,6 @@
       "place": "251 km E of Lospalos, Timor Leste",
       "time": 1789481771033,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thlq"
-    },
-    {
-      "id": "tx2026sevoge",
-      "lon": -104.135,
-      "lat": 31.655,
-      "depth": 6.2152,
-      "mag": 1.5,
-      "place": "49 km NW of Toyah, Texas",
-      "time": 1789481111997,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sevoge"
-    },
-    {
-      "id": "uu80157016",
-      "lon": -111.689,
-      "lat": 38.861,
-      "depth": 11.95,
-      "mag": 1.25,
-      "place": "18 km SE of Salina, Utah",
-      "time": 1789481082040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157016"
     }
   ]
 }
