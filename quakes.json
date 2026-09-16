@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-16T12:45:40Z",
-  "count": 207,
+  "updated": "2026-09-16T13:01:08Z",
+  "count": 205,
   "points": [
+    {
+      "id": "aka2026sjnpll",
+      "lon": -152.257,
+      "lat": 58.918,
+      "depth": 53.4,
+      "mag": 2.4,
+      "place": "52 km SSW of Nanwalek, Alaska",
+      "time": 1789563496948,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sjnpll"
+    },
     {
       "id": "aka2026sjncrh",
       "lon": -154.987,
@@ -15,12 +25,12 @@
     },
     {
       "id": "tx2026sgojqx",
-      "lon": -101.558,
-      "lat": 32.469,
-      "depth": 4.262,
+      "lon": -101.554,
+      "lat": 32.467,
+      "depth": 4.3612,
       "mag": 1,
       "place": "16 km ESE of Ackerly, Texas",
-      "time": 1789562096482,
+      "time": 1789562096548,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sgojqx"
     },
     {
@@ -72,6 +82,16 @@
       "place": "4 km ESE of Santa Rosa, CA",
       "time": 1789561310060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436527"
+    },
+    {
+      "id": "pr71531908",
+      "lon": -66.8736666666667,
+      "lat": 17.8813333333333,
+      "depth": 12.39,
+      "mag": 2.19,
+      "place": "10 km SSE of Guánica, Puerto Rico",
+      "time": 1789560993600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531908"
     },
     {
       "id": "uw714103451",
@@ -964,6 +984,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026sdme"
     },
     {
+      "id": "ci41333375",
+      "lon": -117.896333333333,
+      "lat": 36.0801666666667,
+      "depth": 5.01,
+      "mag": 0.98,
+      "place": "6 km NE of Coso Junction, CA",
+      "time": 1789520800740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333375"
+    },
+    {
       "id": "tx2026sfqnot",
       "lon": -101.36,
       "lat": 32.006,
@@ -1092,16 +1122,6 @@
       "place": "71 km WNW of Tyonek, Alaska",
       "time": 1789515571961,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026simywu"
-    },
-    {
-      "id": "ci41333343",
-      "lon": -117.748833333333,
-      "lat": 34.0271666666667,
-      "depth": 0.52,
-      "mag": 1.39,
-      "place": "4 km S of Pomona, CA",
-      "time": 1789515459890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333343"
     },
     {
       "id": "nc75436292",
@@ -1624,16 +1644,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714102761"
     },
     {
-      "id": "ci41333167",
-      "lon": -115.44100189209,
-      "lat": 33.1505012512207,
-      "depth": 26.5,
-      "mag": 1.63529307940075,
-      "place": "7 km ENE of Calipatria, CA",
-      "time": 1789491358420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333167"
-    },
-    {
       "id": "nc75436087",
       "lon": -122.81266784668,
       "lat": 38.8228340148926,
@@ -2042,36 +2052,6 @@
       "place": "17 km NE of Milford, Utah",
       "time": 1789477262340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157001"
-    },
-    {
-      "id": "uu80156996",
-      "lon": -112.882666666667,
-      "lat": 38.5041666666667,
-      "depth": 1.67,
-      "mag": 1.29,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1789477212660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156996"
-    },
-    {
-      "id": "nc75436022",
-      "lon": -122.781829833984,
-      "lat": 38.8373336791992,
-      "depth": 2.1800000667572,
-      "mag": 1.08,
-      "place": "5 km WNW of Cobb, CA",
-      "time": 1789476723680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436022"
-    },
-    {
-      "id": "ci41333087",
-      "lon": -117.804833333333,
-      "lat": 35.3355,
-      "depth": 6.39,
-      "mag": 1.55,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": 1789476387560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333087"
     }
   ]
 }
