@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-16T19:45:39Z",
-  "count": 215,
+  "updated": "2026-09-16T20:01:06Z",
+  "count": 216,
   "points": [
     {
       "id": "ci41333799",
@@ -144,6 +144,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157191"
     },
     {
+      "id": "us7000thwt",
+      "lon": 145.4729,
+      "lat": 14.2866,
+      "depth": 110.79,
+      "mag": 5.1,
+      "place": "77 km SSW of San Jose Village, Northern Mariana Islands",
+      "time": 1789582000886,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thwt"
+    },
+    {
       "id": "aka2026sjxbaj",
       "lon": -147.528,
       "lat": 61.423,
@@ -192,6 +202,16 @@
       "place": "97 km S of McCarthy, Alaska",
       "time": 1789578723780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sjwbmo"
+    },
+    {
+      "id": "uw714103571",
+      "lon": -122.0105,
+      "lat": 46.9413333333333,
+      "depth": 8.27,
+      "mag": -0.03,
+      "place": "15 km SSE of Carbonado, Washington",
+      "time": 1789578081970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714103571"
     },
     {
       "id": "aka2026sjvfqi",
@@ -462,6 +482,16 @@
       "place": "93 km N of San Juan, Puerto Rico",
       "time": 1789565367910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531913"
+    },
+    {
+      "id": "uw714103481",
+      "lon": -121.6675,
+      "lat": 47.554,
+      "depth": 13.47,
+      "mag": 0.6,
+      "place": "10 km NE of Tanner, Washington",
+      "time": 1789564879360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714103481"
     },
     {
       "id": "nc75436552",
@@ -1035,12 +1065,12 @@
     },
     {
       "id": "hv75037017",
-      "lon": -154.98616027832,
-      "lat": 19.2803325653076,
-      "depth": 36.8300018310547,
-      "mag": 2.25,
-      "place": "22 km SSW of Leilani Estates, Hawaii",
-      "time": 1789544987770,
+      "lon": -154.9815,
+      "lat": 19.2911666666667,
+      "depth": 38.23,
+      "mag": 1.8,
+      "place": "20 km SSW of Leilani Estates, Hawaii",
+      "time": 1789544987670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75037017"
     },
     {
@@ -2132,26 +2162,6 @@
       "place": "3 km WNW of Dublin, CA",
       "time": 1789502431150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436197"
-    },
-    {
-      "id": "nc75436192",
-      "lon": -122.755996704102,
-      "lat": 38.78466796875,
-      "depth": 2.07999992370605,
-      "mag": 1.06,
-      "place": "1 km N of The Geysers, CA",
-      "time": 1789502355780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436192"
-    },
-    {
-      "id": "aka2026sifosx",
-      "lon": -147.524,
-      "lat": 63.593,
-      "depth": 5.2,
-      "mag": 1.9,
-      "place": "70 km ESE of Denali Park, Alaska",
-      "time": 1789502275502,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sifosx"
     }
   ]
 }
