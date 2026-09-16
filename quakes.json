@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-16T15:01:10Z",
-  "count": 212,
+  "updated": "2026-09-16T15:15:43Z",
+  "count": 210,
   "points": [
+    {
+      "id": "nc75436622",
+      "lon": -121.093330383301,
+      "lat": 36.5391654968262,
+      "depth": 10.9899997711182,
+      "mag": 1.64,
+      "place": "5 km E of Pinnacles, CA",
+      "time": 1789571623620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436622"
+    },
     {
       "id": "nc75436602",
       "lon": -121.966667175293,
@@ -1395,10 +1405,10 @@
     },
     {
       "id": "ci41333351",
-      "lon": -119.3835,
-      "lat": 34.5906666666667,
-      "depth": 3.79,
-      "mag": 2.17,
+      "lon": -119.379333333333,
+      "lat": 34.5898333333333,
+      "depth": 3.9,
+      "mag": 1.96,
       "place": "20 km NW of Ojai, CA",
       "time": 1789516835990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333351"
@@ -1445,12 +1455,12 @@
     },
     {
       "id": "tx2026sfotti",
-      "lon": -104.492,
-      "lat": 31.628,
-      "depth": 2.9804,
+      "lon": -104.468,
+      "lat": 31.646,
+      "depth": 6.1511,
       "mag": 1.7,
-      "place": "61 km S of Whites City, New Mexico",
-      "time": 1789515738990,
+      "place": "59 km S of Whites City, New Mexico",
+      "time": 1789515738871,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sfotti"
     },
     {
@@ -1475,12 +1485,12 @@
     },
     {
       "id": "tx2026sfnzsy",
-      "lon": -104.479,
-      "lat": 31.626,
-      "depth": 3.9128,
+      "lon": -104.472,
+      "lat": 31.657,
+      "depth": 5.2283,
       "mag": 1.9,
-      "place": "61 km S of Whites City, New Mexico",
-      "time": 1789514482605,
+      "place": "58 km S of Whites City, New Mexico",
+      "time": 1789514482905,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sfnzsy"
     },
     {
@@ -2092,36 +2102,6 @@
       "place": "22 km S of Morton, Washington",
       "time": 1789485337540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714102671"
-    },
-    {
-      "id": "nc75436047",
-      "lon": -122.795829772949,
-      "lat": 38.8223342895508,
-      "depth": 2.47000002861023,
-      "mag": 0.27,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1789484986650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436047"
-    },
-    {
-      "id": "tx2026sextsa",
-      "lon": -104.462,
-      "lat": 31.655,
-      "depth": 6.6638,
-      "mag": 1.9,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": 1789484953182,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sextsa"
-    },
-    {
-      "id": "aka2026shvxvf",
-      "lon": -152.756,
-      "lat": 59.973,
-      "depth": 100.4,
-      "mag": 2.5,
-      "place": "56 km WNW of Anchor Point, Alaska",
-      "time": 1789484911093,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026shvxvf"
     }
   ]
 }
