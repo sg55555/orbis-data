@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-16T02:30:53Z",
-  "count": 214,
+  "updated": "2026-09-16T02:45:38Z",
+  "count": 215,
   "points": [
+    {
+      "id": "aka2026sisyzx",
+      "lon": -149.218,
+      "lat": 66.135,
+      "depth": 17.5,
+      "mag": 2,
+      "place": "15 km NNW of Stevens Village, Alaska",
+      "time": 1789526375690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sisyzx"
+    },
     {
       "id": "nc75436357",
       "lon": -121.0625,
@@ -22,6 +32,16 @@
       "place": "3 km NE of Fontana, CA",
       "time": 1789525469600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333415"
+    },
+    {
+      "id": "pr71531888",
+      "lon": -67.4271666666667,
+      "lat": 18.3331666666667,
+      "depth": 8.24,
+      "mag": 2.89,
+      "place": "18 km W of Rincón, Puerto Rico",
+      "time": 1789524581730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531888"
     },
     {
       "id": "nc75436352",
@@ -165,12 +185,12 @@
     },
     {
       "id": "hv75036777",
-      "lon": -155.480163574219,
-      "lat": 19.1334991455078,
-      "depth": 12.6099996566772,
-      "mag": 2.1,
-      "place": "7 km S of Pāhala, Hawaii",
-      "time": 1789517552260,
+      "lon": -155.485,
+      "lat": 19.1436666666667,
+      "depth": 11.59,
+      "mag": 1.88,
+      "place": "6 km S of Pāhala, Hawaii",
+      "time": 1789517552480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75036777"
     },
     {
@@ -2132,16 +2152,6 @@
       "place": "7 km NE of Hildale, Utah",
       "time": 1789440849320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156946"
-    },
-    {
-      "id": "nc75435892",
-      "lon": -122.805999755859,
-      "lat": 38.826831817627,
-      "depth": 2.52999997138977,
-      "mag": 1.27,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1789439794360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435892"
     }
   ]
 }
