@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-16T10:45:42Z",
-  "count": 205,
+  "updated": "2026-09-16T11:01:05Z",
+  "count": 203,
   "points": [
+    {
+      "id": "tx2026sgkprp",
+      "lon": -104.497,
+      "lat": 31.702,
+      "depth": 4.7784,
+      "mag": 1.7,
+      "place": "53 km SSW of Whites City, New Mexico",
+      "time": 1789555276632,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sgkprp"
+    },
     {
       "id": "tx2026sgknov",
       "lon": -103.684,
-      "lat": 32.08,
-      "depth": 7.8008,
-      "mag": 1.7,
+      "lat": 32.081,
+      "depth": 7.7043,
+      "mag": 1.6,
       "place": "39 km ESE of Malaga, New Mexico",
-      "time": 1789555154937,
+      "time": 1789555154946,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sgknov"
     },
     {
@@ -2022,36 +2032,6 @@
       "place": "11 km WNW of Amboy, Washington",
       "time": 1789470215810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714102521"
-    },
-    {
-      "id": "hv75036227",
-      "lon": -155.867828369141,
-      "lat": 19.3279991149902,
-      "depth": 5.07000017166138,
-      "mag": 1.79,
-      "place": "14 km S of Honaunau-Napoopoo, Hawaii",
-      "time": 1789469643020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75036227"
-    },
-    {
-      "id": "ci41333071",
-      "lon": -117.225166666667,
-      "lat": 34.024,
-      "depth": 14.83,
-      "mag": 1.39,
-      "place": "4 km SE of Loma Linda, CA",
-      "time": 1789469515800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333071"
-    },
-    {
-      "id": "hv75036222",
-      "lon": -155.503833333333,
-      "lat": 19.192,
-      "depth": 32.45,
-      "mag": 2.61,
-      "place": "2 km WSW of Pāhala, Hawaii",
-      "time": 1789469185910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75036222"
     }
   ]
 }
