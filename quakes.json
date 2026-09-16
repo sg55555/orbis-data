@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-16T09:15:48Z",
-  "count": 208,
+  "updated": "2026-09-16T09:30:53Z",
+  "count": 210,
   "points": [
+    {
+      "id": "ci41333487",
+      "lon": -116.709333333333,
+      "lat": 33.5343333333333,
+      "depth": 5.54,
+      "mag": 0.77,
+      "place": "4 km SW of Anza, CA",
+      "time": 1789550479810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333487"
+    },
+    {
+      "id": "aka2026sjgfxq",
+      "lon": -150.759,
+      "lat": 59.726,
+      "depth": 54.1,
+      "mag": 2.4,
+      "place": "18 km SE of Fox River, Alaska",
+      "time": 1789550467743,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sjgfxq"
+    },
     {
       "id": "nc75436477",
       "lon": -122.847999572754,
@@ -412,6 +432,16 @@
       "place": "14 km E of Pāhala, Hawaii",
       "time": 1789532326790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75036967"
+    },
+    {
+      "id": "tx2026sfxvwl",
+      "lon": -102.004,
+      "lat": 32.379,
+      "depth": 7.2021,
+      "mag": 0.3,
+      "place": "31 km WSW of Ackerly, Texas",
+      "time": 1789532176591,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sfxvwl"
     },
     {
       "id": "ci41333439",
@@ -2072,16 +2102,6 @@
       "place": "21 km SSW of Ucluelet, Canada",
       "time": 1789464651090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714102491"
-    },
-    {
-      "id": "ci41333063",
-      "lon": -115.626166666667,
-      "lat": 33.1623333333333,
-      "depth": 3.37,
-      "mag": 1.28,
-      "place": "11 km WNW of Calipatria, CA",
-      "time": 1789464293670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333063"
     }
   ]
 }
