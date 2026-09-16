@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-16T08:01:16Z",
-  "count": 214,
+  "updated": "2026-09-16T08:15:38Z",
+  "count": 210,
   "points": [
+    {
+      "id": "nc75436462",
+      "lon": -123.672668457031,
+      "lat": 40.5646667480469,
+      "depth": 19.4799995422363,
+      "mag": 1.86,
+      "place": "36 km E of Hydesville, CA",
+      "time": 1789546029040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436462"
+    },
     {
       "id": "ci41333479",
       "lon": -116.446166666667,
@@ -75,12 +85,12 @@
     },
     {
       "id": "tx2026sgdrbj",
-      "lon": -104.594,
-      "lat": 31.702,
-      "depth": 1.872,
-      "mag": 1.9,
-      "place": "56 km SSW of Whites City, New Mexico",
-      "time": 1789542699906,
+      "lon": -104.536,
+      "lat": 31.711,
+      "depth": 3.1262,
+      "mag": 1.6,
+      "place": "53 km SSW of Whites City, New Mexico",
+      "time": 1789542700003,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sgdrbj"
     },
     {
@@ -2092,56 +2102,6 @@
       "place": "8 km ENE of Moreno Valley, CA",
       "time": 1789460360530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333047"
-    },
-    {
-      "id": "ci41333039",
-      "lon": -117.483166666667,
-      "lat": 35.9398333333333,
-      "depth": 1.9,
-      "mag": 0.82,
-      "place": "20 km NNW of Searles Valley, CA",
-      "time": 1789460030890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333039"
-    },
-    {
-      "id": "nc75435977",
-      "lon": -122.790168762207,
-      "lat": 38.8231658935547,
-      "depth": 0.689999997615814,
-      "mag": 0.76,
-      "place": "6 km W of Cobb, CA",
-      "time": 1789459992610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435977"
-    },
-    {
-      "id": "uu80156976",
-      "lon": -112.896666666667,
-      "lat": 38.5146666666667,
-      "depth": 2.28,
-      "mag": 1.72,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1789459694520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156976"
-    },
-    {
-      "id": "nc75435972",
-      "lon": -122.807662963867,
-      "lat": 38.8386650085449,
-      "depth": 1.98000001907349,
-      "mag": 0.73,
-      "place": "8 km WNW of Cobb, CA",
-      "time": 1789459583710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435972"
-    },
-    {
-      "id": "aka2026shhrds",
-      "lon": -153.169,
-      "lat": 59.138,
-      "depth": 80.4,
-      "mag": 1.8,
-      "place": "75 km WSW of Nanwalek, Alaska",
-      "time": 1789459255679,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026shhrds"
     }
   ]
 }
