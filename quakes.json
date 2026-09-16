@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-16T18:01:10Z",
-  "count": 213,
+  "updated": "2026-09-16T18:31:08Z",
+  "count": 209,
   "points": [
+    {
+      "id": "ci41333735",
+      "lon": -116.8605,
+      "lat": 33.9321666666667,
+      "depth": 16.89,
+      "mag": 0.84,
+      "place": "2 km ENE of Banning, CA",
+      "time": 1789583162540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333735"
+    },
     {
       "id": "aka2026sjxbaj",
       "lon": -147.528,
@@ -52,16 +62,6 @@
       "place": "97 km S of McCarthy, Alaska",
       "time": 1789578723780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sjwbmo"
-    },
-    {
-      "id": "tx2026sgxbxl",
-      "lon": -103.903,
-      "lat": 31.374,
-      "depth": 0,
-      "mag": 1.8,
-      "place": "12 km WNW of Toyah, Texas",
-      "time": 1789578069082,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sgxbxl"
     },
     {
       "id": "aka2026sjvfqi",
@@ -974,13 +974,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thsp"
     },
     {
-      "id": "nn00924507",
-      "lon": -119.6331,
-      "lat": 40.6154,
-      "depth": 0,
-      "mag": 1.54,
+      "id": "nn00924525",
+      "lon": -119.6261,
+      "lat": 40.6182,
+      "depth": 9,
+      "mag": 1.84,
       "place": "23 km W of Gerlach, Nevada",
-      "time": 1789542039562,
+      "time": 1789542086352,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924525"
+    },
+    {
+      "id": "nn00924507",
+      "lon": -119.6165,
+      "lat": 40.6183,
+      "depth": 12.3383,
+      "mag": 1.5,
+      "place": "22 km W of Gerlach, Nevada",
+      "time": 1789542039554,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924507"
     },
     {
@@ -2082,56 +2092,6 @@
       "place": "11 km SE of Running Springs, CA",
       "time": 1789497246600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333215"
-    },
-    {
-      "id": "us7000thp0",
-      "lon": 120.4443,
-      "lat": -8.1982,
-      "depth": 10,
-      "mag": 4.3,
-      "place": "45 km N of Ruteng, Indonesia",
-      "time": 1789496793369,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thp0"
-    },
-    {
-      "id": "aka2026sibumr",
-      "lon": -150.202,
-      "lat": 60.68,
-      "depth": 46,
-      "mag": 1.7,
-      "place": "29 km NW of Cooper Landing, Alaska",
-      "time": 1789495477731,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sibumr"
-    },
-    {
-      "id": "nc75436117",
-      "lon": -122.764335632324,
-      "lat": 38.8263320922852,
-      "depth": 2.0699999332428,
-      "mag": 1.04,
-      "place": "4 km W of Cobb, CA",
-      "time": 1789495406960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436117"
-    },
-    {
-      "id": "nc75436112",
-      "lon": -122.80549621582,
-      "lat": 38.8331680297852,
-      "depth": 1.98000001907349,
-      "mag": 1.71,
-      "place": "7 km W of Cobb, CA",
-      "time": 1789495309000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436112"
-    },
-    {
-      "id": "ci41333199",
-      "lon": -116.509666666667,
-      "lat": 34.5086666666667,
-      "depth": 1.46,
-      "mag": 1.59,
-      "place": "40 km SW of Ludlow, CA",
-      "time": 1789495295800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333199"
     }
   ]
 }
