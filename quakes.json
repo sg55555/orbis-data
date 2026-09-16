@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-16T00:01:07Z",
-  "count": 221,
+  "updated": "2026-09-16T00:15:40Z",
+  "count": 220,
   "points": [
+    {
+      "id": "ci41333351",
+      "lon": -119.3835,
+      "lat": 34.5906666666667,
+      "depth": 3.79,
+      "mag": 2.17,
+      "place": "20 km NW of Ojai, CA",
+      "time": 1789516835990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333351"
+    },
     {
       "id": "nc75436297",
       "lon": -119.029167175293,
@@ -22,6 +32,16 @@
       "place": "29 km NNW of Susitna, Alaska",
       "time": 1789516250333,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sinind"
+    },
+    {
+      "id": "us7000thr6",
+      "lon": 50.7312,
+      "lat": 13.4116,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "159 km N of Caluula, Somalia",
+      "time": 1789516019295,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thr6"
     },
     {
       "id": "tx2026sfotti",
@@ -1685,12 +1705,12 @@
     },
     {
       "id": "ci41333015",
-      "lon": -116.618667602539,
-      "lat": 33.2998352050781,
-      "depth": 19.2900009155273,
-      "mag": 1.72696105846241,
-      "place": "2 km NE of Warner Springs, CA",
-      "time": 1789450472520,
+      "lon": -116.647,
+      "lat": 33.4458333333333,
+      "depth": 7.27,
+      "mag": -0.1,
+      "place": "12 km SSE of Anza, CA",
+      "time": 1789450475420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333015"
     },
     {
@@ -2182,36 +2202,6 @@
       "place": "55 km SE of Adak, Alaska",
       "time": 1789432539488,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thpf"
-    },
-    {
-      "id": "uu80156931",
-      "lon": -112.902333333333,
-      "lat": 38.5175,
-      "depth": 2.49,
-      "mag": 1.75,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1789430693650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80156931"
-    },
-    {
-      "id": "ci41332895",
-      "lon": -117.4225,
-      "lat": 35.6796666666667,
-      "depth": 5.96,
-      "mag": 0.66,
-      "place": "10 km S of Searles Valley, CA",
-      "time": 1789430622010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41332895"
-    },
-    {
-      "id": "nc75435832",
-      "lon": -122.742164611816,
-      "lat": 38.7726669311523,
-      "depth": 1.58000004291534,
-      "mag": 1.6,
-      "place": "1 km ESE of The Geysers, CA",
-      "time": 1789430565000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435832"
     }
   ]
 }
