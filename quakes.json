@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-16T15:45:40Z",
-  "count": 218,
+  "updated": "2026-09-16T16:01:10Z",
+  "count": 219,
   "points": [
+    {
+      "id": "ci41333679",
+      "lon": -117.900833333333,
+      "lat": 36.083,
+      "depth": 5.17,
+      "mag": 1.46,
+      "place": "6 km NE of Coso Junction, CA",
+      "time": 1789574138350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333679"
+    },
+    {
+      "id": "pr71531928",
+      "lon": -66.9426666666667,
+      "lat": 17.9415,
+      "depth": 11.23,
+      "mag": 2.07,
+      "place": "4 km SW of Guánica, Puerto Rico",
+      "time": 1789573010800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531928"
+    },
     {
       "id": "aka2026sjsviw",
       "lon": -151.263,
@@ -302,6 +322,16 @@
       "place": "15 km W of Eunice, New Mexico",
       "time": 1789563207642,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thtt"
+    },
+    {
+      "id": "aka2026sjnfzo",
+      "lon": -167.001,
+      "lat": 53.067,
+      "depth": 20.2,
+      "mag": 3.6,
+      "place": "95 km SSW of Unalaska, Alaska",
+      "time": 1789562844321,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sjnfzo"
     },
     {
       "id": "uu80157151",
@@ -965,12 +995,12 @@
     },
     {
       "id": "nn00924498",
-      "lon": -119.7899,
-      "lat": 40.4954,
-      "depth": 12.2556,
-      "mag": 2.26,
-      "place": "38 km WSW of Empire, Nevada",
-      "time": 1789539551266,
+      "lon": -119.6173,
+      "lat": 40.6294,
+      "depth": 8.0282,
+      "mag": 2.36,
+      "place": "22 km W of Gerlach, Nevada",
+      "time": 1789539548697,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924498"
     },
     {
@@ -2162,26 +2192,6 @@
       "place": "160 km WSW of Adak, Alaska",
       "time": 1789488621484,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thn0"
-    },
-    {
-      "id": "nc75436072",
-      "lon": -122.789497375488,
-      "lat": 38.835334777832,
-      "depth": 2.17000007629395,
-      "mag": 0.75,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1789487180750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436072"
-    },
-    {
-      "id": "ok2026sctm",
-      "lon": -96.60483333,
-      "lat": 34.54683333,
-      "depth": 0,
-      "mag": 1.4,
-      "place": "13 km SSW of Stonewall, Oklahoma",
-      "time": 1789487115660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026sctm"
     }
   ]
 }
