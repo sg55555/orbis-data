@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-16T13:15:40Z",
-  "count": 199,
+  "updated": "2026-09-16T13:30:58Z",
+  "count": 198,
   "points": [
+    {
+      "id": "nc75436552",
+      "lon": -121.547164916992,
+      "lat": 36.8190002441406,
+      "depth": 6.59000015258789,
+      "mag": 1.11,
+      "place": "3 km SSW of San Juan Bautista, CA",
+      "time": 1789564602320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436552"
+    },
     {
       "id": "aka2026sjoayr",
       "lon": -147.677,
@@ -12,6 +22,16 @@
       "place": "18 km SSW of Badger, Alaska",
       "time": 1789564292864,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sjoayr"
+    },
+    {
+      "id": "uu80157156",
+      "lon": -110.811666666667,
+      "lat": 44.786,
+      "depth": 4.52,
+      "mag": 1.07,
+      "place": "22 km SSW of Mammoth, Wyoming",
+      "time": 1789564156420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157156"
     },
     {
       "id": "tx2026sgpkxo",
@@ -1644,6 +1664,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thni"
     },
     {
+      "id": "ok2026scxd",
+      "lon": -96.404,
+      "lat": 34.30116667,
+      "depth": 0,
+      "mag": 1.18,
+      "place": "8 km SSE of Wapanucka, Oklahoma",
+      "time": 1789493803969,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026scxd"
+    },
+    {
       "id": "uu80157021",
       "lon": -112.905833333333,
       "lat": 38.5153333333333,
@@ -1952,46 +1982,6 @@
       "place": "74 km W of Elfin Cove, Alaska",
       "time": 1789479307943,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026shsuud"
-    },
-    {
-      "id": "tx2026seueoz",
-      "lon": -102.106,
-      "lat": 32.39,
-      "depth": 7.2998,
-      "mag": 0.4,
-      "place": "39 km WSW of Ackerly, Texas",
-      "time": 1789478658975,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026seueoz"
-    },
-    {
-      "id": "ci41333111",
-      "lon": -116.707666666667,
-      "lat": 33.53,
-      "depth": 3.89,
-      "mag": 1.62,
-      "place": "4 km SW of Anza, CA",
-      "time": 1789478620390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333111"
-    },
-    {
-      "id": "tx2026seuefj",
-      "lon": -104.571,
-      "lat": 31.709,
-      "depth": 6.0486,
-      "mag": 1.5,
-      "place": "54 km SSW of Whites City, New Mexico",
-      "time": 1789478444103,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026seuefj"
-    },
-    {
-      "id": "aka2026shshcs",
-      "lon": -151.137,
-      "lat": 60.186,
-      "depth": 65.4,
-      "mag": 1.5,
-      "place": "15 km ESE of Clam Gulch, Alaska",
-      "time": 1789478356485,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026shshcs"
     }
   ]
 }
