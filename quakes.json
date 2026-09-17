@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-17T15:45:44Z",
-  "count": 192,
+  "updated": "2026-09-17T16:01:12Z",
+  "count": 190,
   "points": [
+    {
+      "id": "tx2026siqmfk",
+      "lon": -104.3,
+      "lat": 31.569,
+      "depth": 0,
+      "mag": 1.5,
+      "place": "55 km WNW of Toyah, Texas",
+      "time": 1789660045562,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026siqmfk"
+    },
     {
       "id": "ci41334127",
       "lon": -117.482833333333,
@@ -1304,16 +1314,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436937"
     },
     {
-      "id": "tx2026shkvwu",
-      "lon": -102.984,
-      "lat": 31.552,
-      "depth": 3.4786,
-      "mag": 1.4,
-      "place": "2 km SE of Wickett, Texas",
-      "time": 1789602777561,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026shkvwu"
-    },
-    {
       "id": "nc75436927",
       "lon": -122.768333435059,
       "lat": 38.7893333435059,
@@ -1902,26 +1902,6 @@
       "place": "10 km WNW of Beluga, Alaska",
       "time": 1789574941636,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sjtyvj"
-    },
-    {
-      "id": "ci41333687",
-      "lon": -116.759833333333,
-      "lat": 33.5855,
-      "depth": 12.09,
-      "mag": 0.48,
-      "place": "9 km WNW of Anza, CA",
-      "time": 1789574339940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333687"
-    },
-    {
-      "id": "ci41333679",
-      "lon": -117.899833333333,
-      "lat": 36.083,
-      "depth": 5.3,
-      "mag": 1.48,
-      "place": "6 km NE of Coso Junction, CA",
-      "time": 1789574138320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333679"
     }
   ]
 }
