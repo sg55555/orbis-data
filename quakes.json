@@ -1,17 +1,27 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-17T08:01:06Z",
-  "count": 210,
+  "updated": "2026-09-17T08:15:41Z",
+  "count": 209,
   "points": [
     {
       "id": "tx2026siaayi",
-      "lon": -104.458,
-      "lat": 31.506,
-      "depth": 0,
-      "mag": 0.8,
-      "place": "62 km NE of Van Horn, Texas",
-      "time": 1789630285344,
+      "lon": -104.451,
+      "lat": 31.662,
+      "depth": 3.3508,
+      "mag": 0,
+      "place": "57 km S of Whites City, New Mexico",
+      "time": 1789630288057,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026siaayi"
+    },
+    {
+      "id": "tx2026shzsqo",
+      "lon": -103.489,
+      "lat": 31.199,
+      "depth": 6.2153,
+      "mag": 1.8,
+      "place": "19 km SSE of Lindsay, Texas",
+      "time": 1789629709561,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026shzsqo"
     },
     {
       "id": "aka2026skykgw",
@@ -22,16 +32,6 @@
       "place": "69 km SSW of Ugashik, Alaska",
       "time": 1789629708376,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026skykgw"
-    },
-    {
-      "id": "tx2026shzsqo",
-      "lon": -103.415,
-      "lat": 31.172,
-      "depth": 5.0589,
-      "mag": 2,
-      "place": "24 km SSE of Lindsay, Texas",
-      "time": 1789629708251,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026shzsqo"
     },
     {
       "id": "ci41334039",
@@ -2092,16 +2092,6 @@
       "place": "4 km W of Cobb, CA",
       "time": 1789546677170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436467"
-    },
-    {
-      "id": "nc75436462",
-      "lon": -123.672668457031,
-      "lat": 40.5646667480469,
-      "depth": 19.4799995422363,
-      "mag": 1.86,
-      "place": "36 km E of Hydesville, CA",
-      "time": 1789546029040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436462"
     }
   ]
 }
