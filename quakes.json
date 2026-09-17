@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-17T19:30:56Z",
-  "count": 194,
+  "updated": "2026-09-17T19:45:40Z",
+  "count": 197,
   "points": [
+    {
+      "id": "tx2026sixyqa",
+      "lon": -103.397,
+      "lat": 31.111,
+      "depth": 10.0826,
+      "mag": 1.5,
+      "place": "31 km SSE of Lindsay, Texas",
+      "time": 1789673570876,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sixyqa"
+    },
+    {
+      "id": "aka2026slwqqp",
+      "lon": -153.465,
+      "lat": 59.725,
+      "depth": 134.1,
+      "mag": 2,
+      "place": "36 km E of Pedro Bay, Alaska",
+      "time": 1789673329032,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026slwqqp"
+    },
     {
       "id": "tx2026sixqhq",
       "lon": -103.684,
@@ -12,6 +32,16 @@
       "place": "9 km SE of Balmorhea, Texas",
       "time": 1789672987262,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sixqhq"
+    },
+    {
+      "id": "us7000ti5b",
+      "lon": -42.1489,
+      "lat": 30.1619,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "northern Mid-Atlantic Ridge",
+      "time": 1789672746799,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti5b"
     },
     {
       "id": "ci41334175",
@@ -52,16 +82,6 @@
       "place": "81 km NNW of Karluk, Alaska",
       "time": 1789671737063,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026slvtqn"
-    },
-    {
-      "id": "tx2026siwxxs",
-      "lon": -103.639,
-      "lat": 31.405,
-      "depth": 0,
-      "mag": 1.6,
-      "place": "10 km WNW of Lindsay, Texas",
-      "time": 1789671726325,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026siwxxs"
     },
     {
       "id": "aka2026sluzec",
@@ -125,12 +145,12 @@
     },
     {
       "id": "tx2026siujoi",
-      "lon": -104.596,
-      "lat": 31.702,
-      "depth": 2.045,
-      "mag": 2,
-      "place": "56 km SSW of Whites City, New Mexico",
-      "time": 1789667103528,
+      "lon": -104.54,
+      "lat": 31.71,
+      "depth": 3.5364,
+      "mag": 1.8,
+      "place": "53 km SSW of Whites City, New Mexico",
+      "time": 1789667103428,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026siujoi"
     },
     {
@@ -395,12 +415,12 @@
     },
     {
       "id": "hv75037927",
-      "lon": -155.49333190918,
-      "lat": 19.1763324737549,
-      "depth": 10.6800003051758,
-      "mag": 2.72,
-      "place": "3 km SSW of Pāhala, Hawaii",
-      "time": 1789655095490,
+      "lon": -155.506666666667,
+      "lat": 19.1973333333333,
+      "depth": 8.27,
+      "mag": 1.05,
+      "place": "3 km WSW of Pāhala, Hawaii",
+      "time": 1789655095600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75037927"
     },
     {
@@ -432,6 +452,16 @@
       "place": "165 km W of Nikolski, Alaska",
       "time": 1789654793164,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti1p"
+    },
+    {
+      "id": "hv75037912",
+      "lon": -155.280833333333,
+      "lat": 19.42,
+      "depth": 0.04,
+      "mag": 2.05,
+      "place": "5 km WSW of Volcano, Hawaii",
+      "time": 1789654684940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75037912"
     },
     {
       "id": "hv75037907",
@@ -1102,6 +1132,16 @@
       "place": "11 km WNW of Cobb, CA",
       "time": 1789622463390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437072"
+    },
+    {
+      "id": "uw714103981",
+      "lon": -121.7235,
+      "lat": 46.5805,
+      "depth": 8.63,
+      "mag": 0.63,
+      "place": "4 km SW of Packwood, Washington",
+      "time": 1789622363170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714103981"
     },
     {
       "id": "nc75437067",
@@ -1932,16 +1972,6 @@
       "place": "3 km ENE of Glacier, Washington",
       "time": 1789588212690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714103701"
-    },
-    {
-      "id": "us7000thx7",
-      "lon": 146.0172,
-      "lat": -5.5399,
-      "depth": 59.858,
-      "mag": 4.6,
-      "place": "43 km SE of Madang, Papua New Guinea",
-      "time": 1789587425143,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thx7"
     }
   ]
 }
