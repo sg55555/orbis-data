@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-17T08:45:41Z",
-  "count": 204,
+  "updated": "2026-09-17T09:01:07Z",
+  "count": 205,
   "points": [
+    {
+      "id": "nc75437117",
+      "lon": -122.817497253418,
+      "lat": 38.8168334960938,
+      "depth": 2.52999997138977,
+      "mag": 0.75,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1789635466400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437117"
+    },
     {
       "id": "tx2026sicdvx",
       "lon": -103.49,
@@ -12,6 +22,16 @@
       "place": "18 km SSE of Lindsay, Texas",
       "time": 1789634106522,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sicdvx"
+    },
+    {
+      "id": "pr71532008",
+      "lon": -66.8086666666667,
+      "lat": 17.9963333333333,
+      "depth": 12.07,
+      "mag": 3.05,
+      "place": "1 km ENE of Indios, Puerto Rico",
+      "time": 1789631787140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532008"
     },
     {
       "id": "tx2026siaayi",
@@ -2032,16 +2052,6 @@
       "place": "11 km WNW of Cobb, CA",
       "time": 1789549617840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436477"
-    },
-    {
-      "id": "tx2026sggzqh",
-      "lon": -101.055,
-      "lat": 32.144,
-      "depth": 3.1738,
-      "mag": 1.5,
-      "place": "23 km S of Westbrook, Texas",
-      "time": 1789548729045,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sggzqh"
     }
   ]
 }
