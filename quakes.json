@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-17T20:01:11Z",
-  "count": 199,
+  "updated": "2026-09-17T20:15:41Z",
+  "count": 198,
   "points": [
+    {
+      "id": "aka2026slyeab",
+      "lon": -148.953,
+      "lat": 64.722,
+      "depth": 14.4,
+      "mag": 0.9,
+      "place": "15 km NNE of Four Mile Road, Alaska",
+      "time": 1789676053881,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026slyeab"
+    },
     {
       "id": "ci41334207",
       "lon": -116.571,
@@ -44,16 +54,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157276"
     },
     {
-      "id": "tx2026sixwby",
-      "lon": -103.626,
-      "lat": 30.88,
-      "depth": 0,
-      "mag": 1.5,
-      "place": "16 km SE of Balmorhea, Texas",
-      "time": 1789673393862,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sixwby"
-    },
-    {
       "id": "aka2026slwqqp",
       "lon": -153.465,
       "lat": 59.725,
@@ -72,6 +72,16 @@
       "place": "northern Mid-Atlantic Ridge",
       "time": 1789672746799,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti5b"
+    },
+    {
+      "id": "us7000ti5c",
+      "lon": 104.5828,
+      "lat": -7.7411,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "204 km SW of Labuan, Indonesia",
+      "time": 1789672653000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti5c"
     },
     {
       "id": "ci41334175",
@@ -1575,12 +1585,12 @@
     },
     {
       "id": "hv75037607",
-      "lon": -155.473159790039,
-      "lat": 19.2498340606689,
-      "depth": 32.2299995422363,
-      "mag": 2.3,
+      "lon": -155.471333333333,
+      "lat": 19.2563333333333,
+      "depth": 33.3,
+      "mag": 2.05,
       "place": "5 km N of Pāhala, Hawaii",
-      "time": 1789607872240,
+      "time": 1789607872210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75037607"
     },
     {
@@ -1972,26 +1982,6 @@
       "place": "2 km SSW of Pāhala, Hawaii",
       "time": 1789589848360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75037262"
-    },
-    {
-      "id": "us7000thxc",
-      "lon": -76.8772,
-      "lat": 4.5241,
-      "depth": 59.026,
-      "mag": 5,
-      "place": "29 km WSW of Sipí, Colombia",
-      "time": 1789589572070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thxc"
-    },
-    {
-      "id": "us7000thxb",
-      "lon": -177.5927,
-      "lat": -30.2154,
-      "depth": 35,
-      "mag": 4.9,
-      "place": "Kermadec Islands, New Zealand",
-      "time": 1789589015025,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thxb"
     }
   ]
 }
