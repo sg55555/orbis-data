@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-17T04:45:44Z",
-  "count": 226,
+  "updated": "2026-09-17T05:07:01Z",
+  "count": 224,
   "points": [
+    {
+      "id": "hv75037722",
+      "lon": -155.505828857422,
+      "lat": 19.1666660308838,
+      "depth": 26.7199993133545,
+      "mag": 1.71,
+      "place": "4 km SW of Pāhala, Hawaii",
+      "time": 1789621270770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75037722"
+    },
     {
       "id": "aka2026sktaoy",
       "lon": -148.292,
@@ -1724,6 +1734,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714103431"
     },
     {
+      "id": "av94435301",
+      "lon": -174.158166666667,
+      "lat": 52.3441666666667,
+      "depth": 7.23,
+      "mag": 1.03,
+      "place": "16 km N of Atka, Alaska",
+      "time": 1789551724440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94435301"
+    },
+    {
       "id": "us7000tht8",
       "lon": 167.0164,
       "lat": -15.0655,
@@ -2222,46 +2242,6 @@
       "place": "13 km S of Volcano, Hawaii",
       "time": 1789535694270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75036977"
-    },
-    {
-      "id": "av94435116",
-      "lon": -166.010833333333,
-      "lat": 54.0626666666667,
-      "depth": 13.91,
-      "mag": 0.99,
-      "place": "17 km WSW of Akutan, Alaska",
-      "time": 1789534743770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94435116"
-    },
-    {
-      "id": "ci41333455",
-      "lon": -116.681833333333,
-      "lat": 33.623,
-      "depth": 14.27,
-      "mag": 0.71,
-      "place": "8 km N of Anza, CA",
-      "time": 1789534704120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333455"
-    },
-    {
-      "id": "av94435111",
-      "lon": -176.203166666667,
-      "lat": 52.1158333333333,
-      "depth": 9.19,
-      "mag": 1.26,
-      "place": "40 km NE of Adak, Alaska",
-      "time": 1789534670190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94435111"
-    },
-    {
-      "id": "ci41333447",
-      "lon": -117.778666666667,
-      "lat": 36.0276666666667,
-      "depth": 1.54,
-      "mag": 1.4,
-      "place": "15 km NE of Little Lake, CA",
-      "time": 1789534456320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333447"
     }
   ]
 }
