@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-17T07:01:12Z",
-  "count": 216,
+  "updated": "2026-09-17T07:15:40Z",
+  "count": 213,
   "points": [
     {
       "id": "aka2026skxkvl",
@@ -24,6 +24,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75037752"
     },
     {
+      "id": "us7000thzz",
+      "lon": -20.3463,
+      "lat": -22.5873,
+      "depth": 10,
+      "mag": 5,
+      "place": "South Atlantic Ocean",
+      "time": 1789627721815,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzz"
+    },
+    {
       "id": "aka2026skxcpk",
       "lon": -148.39,
       "lat": 62.042,
@@ -32,6 +42,16 @@
       "place": "27 km N of Chickaloon, Alaska",
       "time": 1789627379990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026skxcpk"
+    },
+    {
+      "id": "us7000thzw",
+      "lon": -174.8957,
+      "lat": -14.4792,
+      "depth": 10,
+      "mag": 5.3,
+      "place": "191 km SE of Mata-Utu, Wallis and Futuna",
+      "time": 1789627361657,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzw"
     },
     {
       "id": "us7000thzs",
@@ -2112,56 +2132,6 @@
       "place": "20 km WSW of Gerlach, Nevada",
       "time": 1789543045899,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924508"
-    },
-    {
-      "id": "tx2026sgdrbj",
-      "lon": -104.536,
-      "lat": 31.711,
-      "depth": 3.1262,
-      "mag": 1.6,
-      "place": "53 km SSW of Whites City, New Mexico",
-      "time": 1789542700003,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sgdrbj"
-    },
-    {
-      "id": "nc75436442",
-      "lon": -122.838333129883,
-      "lat": 38.8396682739258,
-      "depth": 1.77999997138977,
-      "mag": 0.25,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1789542507240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436442"
-    },
-    {
-      "id": "us7000thsp",
-      "lon": -77.8115,
-      "lat": 6.0969,
-      "depth": 10,
-      "mag": 4.8,
-      "place": "47 km WSW of Bahía Solano, Colombia",
-      "time": 1789542133029,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thsp"
-    },
-    {
-      "id": "nn00924525",
-      "lon": -119.6133,
-      "lat": 40.6158,
-      "depth": 14.9334,
-      "mag": 1.84,
-      "place": "22 km W of Gerlach, Nevada",
-      "time": 1789542086348,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924525"
-    },
-    {
-      "id": "nn00924507",
-      "lon": -119.6165,
-      "lat": 40.6183,
-      "depth": 12.3383,
-      "mag": 1.5,
-      "place": "22 km W of Gerlach, Nevada",
-      "time": 1789542039554,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924507"
     }
   ]
 }
