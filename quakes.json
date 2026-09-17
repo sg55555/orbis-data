@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-17T13:15:40Z",
+  "updated": "2026-09-17T13:30:59Z",
   "count": 189,
   "points": [
+    {
+      "id": "tx2026silton",
+      "lon": -103.605,
+      "lat": 31.084,
+      "depth": 0.2107,
+      "mag": 1.4,
+      "place": "17 km NE of Balmorhea, Texas",
+      "time": 1789651489981,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026silton"
+    },
+    {
+      "id": "aka2026slkdza",
+      "lon": -152.384,
+      "lat": 60.208,
+      "depth": 94.2,
+      "mag": 1.4,
+      "place": "43 km WNW of Ninilchik, Alaska",
+      "time": 1789650862016,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026slkdza"
+    },
     {
       "id": "ci41334095",
       "lon": -117.009333333333,
@@ -612,6 +632,16 @@
       "place": "7 km SW of Anza, CA",
       "time": 1789617926430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334023"
+    },
+    {
+      "id": "uu80157216",
+      "lon": -112.881666666667,
+      "lat": 38.492,
+      "depth": 0.33,
+      "mag": 0.6,
+      "place": "15 km NE of Milford, Utah",
+      "time": 1789617445460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157216"
     },
     {
       "id": "ci41334015",
@@ -1862,36 +1892,6 @@
       "place": "9 km ESE of Valle Vista, CA",
       "time": 1789565481580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333535"
-    },
-    {
-      "id": "pr71531913",
-      "lon": -66.0855,
-      "lat": 19.3143333333333,
-      "depth": 19.95,
-      "mag": 3.23,
-      "place": "93 km N of San Juan, Puerto Rico",
-      "time": 1789565367910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531913"
-    },
-    {
-      "id": "uw714103481",
-      "lon": -121.6675,
-      "lat": 47.554,
-      "depth": 13.47,
-      "mag": 0.6,
-      "place": "10 km NE of Tanner, Washington",
-      "time": 1789564879360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714103481"
-    },
-    {
-      "id": "nc75436552",
-      "lon": -121.547164916992,
-      "lat": 36.8190002441406,
-      "depth": 6.59000015258789,
-      "mag": 1.11,
-      "place": "3 km SSW of San Juan Bautista, CA",
-      "time": 1789564602320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436552"
     }
   ]
 }
