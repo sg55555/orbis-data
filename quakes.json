@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-17T09:15:48Z",
+  "updated": "2026-09-17T09:31:00Z",
   "count": 206,
   "points": [
+    {
+      "id": "nc75437122",
+      "lon": -122.823829650879,
+      "lat": 38.8148345947266,
+      "depth": 2.90000009536743,
+      "mag": 0.71,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1789636866810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437122"
+    },
+    {
+      "id": "tx2026sidqym",
+      "lon": -104.374,
+      "lat": 31.659,
+      "depth": 9.1726,
+      "mag": 1.6,
+      "place": "57 km S of Whites City, New Mexico",
+      "time": 1789636828901,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sidqym"
+    },
     {
       "id": "tx2026siczzu",
       "lon": -104.418,
@@ -32,6 +52,16 @@
       "place": "18 km SSE of Lindsay, Texas",
       "time": 1789634106522,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sicdvx"
+    },
+    {
+      "id": "us7000ti03",
+      "lon": 121.7079,
+      "lat": -8.1138,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "78 km NW of Maumere, Indonesia",
+      "time": 1789633705582,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti03"
     },
     {
       "id": "pr71532008",
@@ -2032,36 +2062,6 @@
       "place": "1 km NW of Pāhala, Hawaii",
       "time": 1789551261760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75037032"
-    },
-    {
-      "id": "ci41333487",
-      "lon": -116.709333333333,
-      "lat": 33.5343333333333,
-      "depth": 5.54,
-      "mag": 0.77,
-      "place": "4 km SW of Anza, CA",
-      "time": 1789550479810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333487"
-    },
-    {
-      "id": "aka2026sjgfxq",
-      "lon": -150.759,
-      "lat": 59.726,
-      "depth": 54.1,
-      "mag": 2.4,
-      "place": "18 km SE of Fox River, Alaska",
-      "time": 1789550467743,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sjgfxq"
-    },
-    {
-      "id": "uw714103421",
-      "lon": -122.814666666667,
-      "lat": 47.5635,
-      "depth": 24.05,
-      "mag": 0.33,
-      "place": "8 km S of Seabeck, Washington",
-      "time": 1789550162040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714103421"
     }
   ]
 }
