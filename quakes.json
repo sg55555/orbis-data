@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-17T22:30:55Z",
-  "count": 192,
+  "updated": "2026-09-17T22:45:40Z",
+  "count": 188,
   "points": [
+    {
+      "id": "aka2026smcwxv",
+      "lon": -152.726,
+      "lat": 60.539,
+      "depth": 6.6,
+      "mag": 1.1,
+      "place": "77 km W of Salamatof, Alaska",
+      "time": 1789684559285,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026smcwxv"
+    },
     {
       "id": "ci41334295",
       "lon": -116.743,
@@ -12,6 +22,16 @@
       "place": "8 km SW of Anza, CA",
       "time": 1789683534770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334295"
+    },
+    {
+      "id": "uw714104731",
+      "lon": -121.931833333333,
+      "lat": 46.8305,
+      "depth": 5.44,
+      "mag": 1.55,
+      "place": "11 km NE of Ashford, Washington",
+      "time": 1789681648570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714104731"
     },
     {
       "id": "ci41334271",
@@ -1862,66 +1882,6 @@
       "place": "5 km WSW of Yacolt, Washington",
       "time": 1789599637470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714103841"
-    },
-    {
-      "id": "ci41333895",
-      "lon": -117.809333333333,
-      "lat": 35.3321666666667,
-      "depth": 8.2,
-      "mag": 1.13,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": 1789598380560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333895"
-    },
-    {
-      "id": "pr71531953",
-      "lon": -66.8343333333333,
-      "lat": 17.9538333333333,
-      "depth": 12.63,
-      "mag": 2.17,
-      "place": "4 km SSW of Indios, Puerto Rico",
-      "time": 1789598144350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531953"
-    },
-    {
-      "id": "nc75436882",
-      "lon": -123.771331787109,
-      "lat": 40.3746681213379,
-      "depth": 28.4699993133545,
-      "mag": 1.72,
-      "place": "29 km N of Redway, CA",
-      "time": 1789598038000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436882"
-    },
-    {
-      "id": "ci41333887",
-      "lon": -116.897833333333,
-      "lat": 33.7875,
-      "depth": 10.74,
-      "mag": 1.06,
-      "place": "4 km N of Valle Vista, CA",
-      "time": 1789597964640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333887"
-    },
-    {
-      "id": "ci41333879",
-      "lon": -118.3675,
-      "lat": 36.2221666666667,
-      "depth": 2.86,
-      "mag": 1.3,
-      "place": "33 km WSW of Olancha, CA",
-      "time": 1789597951140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333879"
-    },
-    {
-      "id": "us7000thxx",
-      "lon": 37.5188,
-      "lat": 45.0513,
-      "depth": 10,
-      "mag": 4.2,
-      "place": "3 km NNE of Gostagayevskaya, Russia",
-      "time": 1789597876831,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thxx"
     }
   ]
 }
