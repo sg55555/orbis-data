@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-17T19:15:42Z",
-  "count": 197,
+  "updated": "2026-09-17T19:30:56Z",
+  "count": 194,
   "points": [
+    {
+      "id": "tx2026sixqhq",
+      "lon": -103.684,
+      "lat": 30.913,
+      "depth": 0.7746,
+      "mag": 1.9,
+      "place": "9 km SE of Balmorhea, Texas",
+      "time": 1789672987262,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sixqhq"
+    },
     {
       "id": "ci41334175",
       "lon": -117.119666666667,
@@ -12,6 +22,16 @@
       "place": "5 km SW of Winchester, CA",
       "time": 1789672241470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334175"
+    },
+    {
+      "id": "ok2026sgrf",
+      "lon": -96.53433333,
+      "lat": 36.00866667,
+      "depth": 0,
+      "mag": 1.47,
+      "place": "6 km ENE of Drumright, Oklahoma",
+      "time": 1789672191299,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026sgrf"
     },
     {
       "id": "tx2026siwysg",
@@ -415,12 +435,12 @@
     },
     {
       "id": "hv75037907",
-      "lon": -155.279495239258,
-      "lat": 19.4273338317871,
-      "depth": -0.28999999165535,
-      "mag": 2.15,
+      "lon": -155.2785,
+      "lat": 19.421,
+      "depth": -0.27,
+      "mag": 1.58,
       "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1789654679170,
+      "time": 1789654679270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75037907"
     },
     {
@@ -1922,56 +1942,6 @@
       "place": "43 km SE of Madang, Papua New Guinea",
       "time": 1789587425143,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thx7"
-    },
-    {
-      "id": "uw714103681",
-      "lon": -120.739333333333,
-      "lat": 47.9116666666667,
-      "depth": -0.23,
-      "mag": 0.49,
-      "place": "35 km N of Leavenworth, Washington",
-      "time": 1789586855670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714103681"
-    },
-    {
-      "id": "ci41333799",
-      "lon": -116.739333333333,
-      "lat": 33.6606666666667,
-      "depth": 14.68,
-      "mag": 0.78,
-      "place": "9 km SSW of Idyllwild, CA",
-      "time": 1789586788100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333799"
-    },
-    {
-      "id": "aka2026skampn",
-      "lon": -150.957,
-      "lat": 62.366,
-      "depth": 70.3,
-      "mag": 1.6,
-      "place": "17 km SW of Petersville, Alaska",
-      "time": 1789586689108,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026skampn"
-    },
-    {
-      "id": "ci41333791",
-      "lon": -118.664166666667,
-      "lat": 34.6133333333333,
-      "depth": 10.71,
-      "mag": 1.16,
-      "place": "14 km NNW of Castaic, CA",
-      "time": 1789586337770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333791"
-    },
-    {
-      "id": "nc75436762",
-      "lon": -121.967163085938,
-      "lat": 37.7063331604004,
-      "depth": 9.35000038146973,
-      "mag": 2.03,
-      "place": "3 km W of Dublin, CA",
-      "time": 1789586155010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436762"
     }
   ]
 }
