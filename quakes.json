@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-17T20:15:41Z",
+  "updated": "2026-09-17T20:31:09Z",
   "count": 198,
   "points": [
     {
+      "id": "tx2026siznfq",
+      "lon": -103.595,
+      "lat": 31.056,
+      "depth": 2.0631,
+      "mag": 1.5,
+      "place": "16 km ENE of Balmorhea, Texas",
+      "time": 1789676397767,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026siznfq"
+    },
+    {
+      "id": "aka2026slyfmz",
+      "lon": -152.165,
+      "lat": 59.905,
+      "depth": 81.7,
+      "mag": 1.5,
+      "place": "23 km NW of Anchor Point, Alaska",
+      "time": 1789676157650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026slyfmz"
+    },
+    {
       "id": "aka2026slyeab",
-      "lon": -148.953,
-      "lat": 64.722,
-      "depth": 14.4,
-      "mag": 0.9,
-      "place": "15 km NNE of Four Mile Road, Alaska",
-      "time": 1789676053881,
+      "lon": -148.996,
+      "lat": 64.713,
+      "depth": 14,
+      "mag": 1.2,
+      "place": "13 km NNE of Four Mile Road, Alaska",
+      "time": 1789676053523,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026slyeab"
     },
     {
@@ -785,12 +805,12 @@
     },
     {
       "id": "uw714104031",
-      "lon": -122.842666625977,
-      "lat": 45.6736679077148,
-      "depth": 21.9099998474121,
-      "mag": 2.2820440530777,
-      "place": "9 km SSE of Scappoose, Oregon",
-      "time": 1789639005760,
+      "lon": -122.831333333333,
+      "lat": 45.6683333333333,
+      "depth": 23.35,
+      "mag": 1.97,
+      "place": "10 km SSE of Scappoose, Oregon",
+      "time": 1789639005660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714104031"
     },
     {
@@ -875,12 +895,12 @@
     },
     {
       "id": "hv75037782",
-      "lon": -155.498001098633,
-      "lat": 19.1261672973633,
-      "depth": 28.5900001525879,
-      "mag": 2.12,
-      "place": "8 km SSW of Pāhala, Hawaii",
-      "time": 1789637431120,
+      "lon": -155.4945,
+      "lat": 19.141,
+      "depth": 31.91,
+      "mag": 1.68,
+      "place": "7 km SSW of Pāhala, Hawaii",
+      "time": 1789637431020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75037782"
     },
     {
@@ -1025,12 +1045,12 @@
     },
     {
       "id": "hv75037752",
-      "lon": -155.440170288086,
-      "lat": 19.1293334960938,
-      "depth": 30.4300003051758,
-      "mag": 2.37,
-      "place": "9 km SSE of Pāhala, Hawaii",
-      "time": 1789627725920,
+      "lon": -155.444333333333,
+      "lat": 19.1318333333333,
+      "depth": 31.3,
+      "mag": 2.04,
+      "place": "8 km SSE of Pāhala, Hawaii",
+      "time": 1789627725850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75037752"
     },
     {
@@ -1222,6 +1242,16 @@
       "place": "41 km WSW of Stovepipe Wells, CA",
       "time": 1789619629650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334031"
+    },
+    {
+      "id": "uw714103961",
+      "lon": -121.979166666667,
+      "lat": 46.8796666666667,
+      "depth": 8.22,
+      "mag": -0.06,
+      "place": "14 km NNE of Ashford, Washington",
+      "time": 1789618674460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714103961"
     },
     {
       "id": "us7000thz3",
@@ -1952,36 +1982,6 @@
       "place": "12 km SE of Minersville, Utah",
       "time": 1789590733010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157206"
-    },
-    {
-      "id": "us7000thxg",
-      "lon": 151.7775,
-      "lat": -6.1072,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "191 km ESE of Kimbe, Papua New Guinea",
-      "time": 1789590084970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thxg"
-    },
-    {
-      "id": "nc75436812",
-      "lon": -122.781997680664,
-      "lat": 38.8359985351562,
-      "depth": 1.86000001430511,
-      "mag": 1.09,
-      "place": "5 km WNW of Cobb, CA",
-      "time": 1789590034700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436812"
-    },
-    {
-      "id": "hv75037262",
-      "lon": -155.4935,
-      "lat": 19.181,
-      "depth": 29.26,
-      "mag": 1.85,
-      "place": "2 km SSW of Pāhala, Hawaii",
-      "time": 1789589848360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75037262"
     }
   ]
 }
