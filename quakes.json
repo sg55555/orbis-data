@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-18T21:15:42Z",
-  "count": 245,
+  "updated": "2026-09-18T21:30:59Z",
+  "count": 244,
   "points": [
+    {
+      "id": "ok2026sirg",
+      "lon": -95.44998169,
+      "lat": 36.37624359,
+      "depth": 5,
+      "mag": 2.14,
+      "place": "9 km SE of Foyil, Oklahoma",
+      "time": 1789766789566,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026sirg"
+    },
     {
       "id": "aka2026snwcjc",
       "lon": -157.624,
@@ -172,6 +182,16 @@
       "place": "6 km SW of Guánica, Puerto Rico",
       "time": 1789758895400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532588"
+    },
+    {
+      "id": "us7000tiej",
+      "lon": -155.5904,
+      "lat": 19.4646,
+      "depth": 26.769,
+      "mag": 2.6,
+      "place": "28 km E of Honaunau-Napoopoo, Hawaii",
+      "time": 1789758797034,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiej"
     },
     {
       "id": "ci41334703",
@@ -752,6 +772,16 @@
       "place": "89 km S of Kokhanok, Alaska",
       "time": 1789746621095,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026snljub"
+    },
+    {
+      "id": "pr71532688",
+      "lon": -66.9543333333333,
+      "lat": 17.9431666666667,
+      "depth": 9.54,
+      "mag": 2.34,
+      "place": "5 km WSW of Guánica, Puerto Rico",
+      "time": 1789745719870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532688"
     },
     {
       "id": "ci10253982",
@@ -2412,46 +2442,6 @@
       "place": "14 km SE of Ellsinore, Missouri",
       "time": 1789680991190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60506348"
-    },
-    {
-      "id": "ci41334271",
-      "lon": -117.905666666667,
-      "lat": 36.0825,
-      "depth": 4.69,
-      "mag": 1.43,
-      "place": "6 km NE of Coso Junction, CA",
-      "time": 1789680587990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334271"
-    },
-    {
-      "id": "tx2026sjbtxd",
-      "lon": -104.539,
-      "lat": 31.696,
-      "depth": 4.2542,
-      "mag": 2.7,
-      "place": "55 km SSW of Whites City, New Mexico",
-      "time": 1789680483994,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sjbtxd"
-    },
-    {
-      "id": "ci41334255",
-      "lon": -117.576666666667,
-      "lat": 35.6666666666667,
-      "depth": 2.56,
-      "mag": 1.32,
-      "place": "10 km ENE of Ridgecrest, CA",
-      "time": 1789680234840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334255"
-    },
-    {
-      "id": "aka2026smagpz",
-      "lon": -155.365,
-      "lat": 58.167,
-      "depth": 5,
-      "mag": 0.7,
-      "place": "85 km NW of Karluk, Alaska",
-      "time": 1789679832886,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026smagpz"
     }
   ]
 }
