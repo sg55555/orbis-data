@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-18T04:15:40Z",
-  "count": 178,
+  "updated": "2026-09-18T04:30:54Z",
+  "count": 180,
   "points": [
+    {
+      "id": "nc75437642",
+      "lon": -120.445663452148,
+      "lat": 35.8883323669434,
+      "depth": 8.72000026702881,
+      "mag": 1.32,
+      "place": "2 km SW of Parkfield, CA",
+      "time": 1789705592380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437642"
+    },
+    {
+      "id": "aka2026smonpf",
+      "lon": -150.117,
+      "lat": 64.669,
+      "depth": 5,
+      "mag": 1.1,
+      "place": "44 km SSE of Manley Hot Springs, Alaska",
+      "time": 1789705502958,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026smonpf"
+    },
     {
       "id": "tx2026sjnlig",
       "lon": -103.966,
@@ -1134,6 +1154,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334079"
     },
     {
+      "id": "av94436401",
+      "lon": -152.354833333333,
+      "lat": 61.2811666666667,
+      "depth": 2.33,
+      "mag": -0.73,
+      "place": "69 km WNW of Tyonek, Alaska",
+      "time": 1789645083930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94436401"
+    },
+    {
       "id": "ci41334071",
       "lon": -116.7525,
       "lat": 33.6705,
@@ -1772,16 +1802,6 @@
       "place": "41 km WSW of Stovepipe Wells, CA",
       "time": 1789619629650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334031"
-    },
-    {
-      "id": "uw714103961",
-      "lon": -121.979166666667,
-      "lat": 46.8796666666667,
-      "depth": 8.22,
-      "mag": -0.06,
-      "place": "14 km NNE of Ashford, Washington",
-      "time": 1789618674460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714103961"
     }
   ]
 }
