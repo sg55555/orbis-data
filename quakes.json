@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-18T14:45:43Z",
-  "count": 184,
+  "updated": "2026-09-18T14:57:40Z",
+  "count": 186,
   "points": [
+    {
+      "id": "us7000tib8",
+      "lon": 105.9112,
+      "lat": -8.5809,
+      "depth": 10,
+      "mag": 5.2,
+      "place": "189 km SSW of Pelabuhanratu, Indonesia",
+      "time": 1789742177895,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tib8"
+    },
     {
       "id": "ci41334495",
       "lon": -116.834166666667,
@@ -32,6 +42,16 @@
       "place": "22 km ESE of Anza, CA",
       "time": 1789740979150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334479"
+    },
+    {
+      "id": "pr71532288",
+      "lon": -66.9338333333333,
+      "lat": 17.9561666666667,
+      "depth": 9.21,
+      "mag": 2.52,
+      "place": "3 km WSW of Guánica, Puerto Rico",
+      "time": 1789740814200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532288"
     },
     {
       "id": "ci41334463",
@@ -72,6 +92,16 @@
       "place": "66 km ENE of Pedro Bay, Alaska",
       "time": 1789737975123,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sngovo"
+    },
+    {
+      "id": "pr71532193",
+      "lon": -66.9461666666667,
+      "lat": 17.9866666666667,
+      "depth": 7.63,
+      "mag": 2.51,
+      "place": "3 km W of Fuig, Puerto Rico",
+      "time": 1789737775470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532193"
     },
     {
       "id": "pr2026261000",
@@ -255,12 +285,12 @@
     },
     {
       "id": "tx2026skcpgy",
-      "lon": -101.614,
-      "lat": 32.39,
-      "depth": 2.7079,
-      "mag": 1.2,
-      "place": "17 km SSE of Ackerly, Texas",
-      "time": 1789729238033,
+      "lon": -101.603,
+      "lat": 32.4,
+      "depth": 5.3467,
+      "mag": 1.3,
+      "place": "17 km SE of Ackerly, Texas",
+      "time": 1789729237931,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026skcpgy"
     },
     {
@@ -1832,16 +1862,6 @@
       "place": "40 km ESE of Malaga, New Mexico",
       "time": 1789657456188,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sipbbo"
-    },
-    {
-      "id": "us7000ti2h",
-      "lon": -171.3302,
-      "lat": 52.8617,
-      "depth": 97.508,
-      "mag": 3.8,
-      "place": "166 km W of Nikolski, Alaska",
-      "time": 1789656403544,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti2h"
     }
   ]
 }
