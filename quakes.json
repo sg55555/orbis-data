@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-18T12:45:41Z",
-  "count": 185,
+  "updated": "2026-09-18T13:01:10Z",
+  "count": 186,
   "points": [
+    {
+      "id": "aka2026snfewi",
+      "lon": -153.033,
+      "lat": 60.307,
+      "depth": 133.4,
+      "mag": 1.5,
+      "place": "72 km E of Port Alsworth, Alaska",
+      "time": 1789735479091,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026snfewi"
+    },
     {
       "id": "nc75437762",
       "lon": -122.797332763672,
@@ -354,6 +364,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437697"
     },
     {
+      "id": "uu80157351",
+      "lon": -111.269833333333,
+      "lat": 39.5693333333333,
+      "depth": -0.09,
+      "mag": 0.95,
+      "place": "13 km SW of Clear Creek, Utah",
+      "time": 1789719033470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157351"
+    },
+    {
       "id": "aka2026smvveg",
       "lon": -149.896,
       "lat": 60.779,
@@ -492,6 +512,16 @@
       "place": "Fiji region",
       "time": 1789713749274,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti83"
+    },
+    {
+      "id": "us7000ti82",
+      "lon": 23.3755,
+      "lat": 38.915,
+      "depth": 4.385,
+      "mag": 4.3,
+      "place": "15 km NW of Mantoúdi, Greece",
+      "time": 1789713726708,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti82"
     },
     {
       "id": "pr71532128",
@@ -1832,26 +1862,6 @@
       "place": "43 km WNW of Ninilchik, Alaska",
       "time": 1789650862016,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026slkdza"
-    },
-    {
-      "id": "ci41334095",
-      "lon": -117.009333333333,
-      "lat": 33.8858333333333,
-      "depth": 15.74,
-      "mag": 0.67,
-      "place": "6 km SSW of Beaumont, CA",
-      "time": 1789649687020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334095"
-    },
-    {
-      "id": "tx2026sikqng",
-      "lon": -104.46,
-      "lat": 31.65,
-      "depth": 7.2791,
-      "mag": 1.9,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": 1789649472391,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sikqng"
     }
   ]
 }
