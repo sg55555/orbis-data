@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-18T00:31:32Z",
-  "count": 200,
+  "updated": "2026-09-18T00:45:25Z",
+  "count": 199,
   "points": [
+    {
+      "id": "ci41334359",
+      "lon": -116.0895,
+      "lat": 33.7451666666667,
+      "depth": 5.31,
+      "mag": 0.98,
+      "place": "11 km NE of Coachella, CA",
+      "time": 1789691813180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334359"
+    },
     {
       "id": "ci41334351",
       "lon": -118.288,
@@ -125,12 +135,12 @@
     },
     {
       "id": "uw714104731",
-      "lon": -121.931833333333,
-      "lat": 46.8305,
-      "depth": 5.44,
-      "mag": 1.55,
+      "lon": -121.925333333333,
+      "lat": 46.832,
+      "depth": 5.33,
+      "mag": 1.54,
       "place": "11 km NE of Ashford, Washington",
-      "time": 1789681648570,
+      "time": 1789681648590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714104731"
     },
     {
@@ -1982,26 +1992,6 @@
       "place": "30 km SSE of Balmorhea, Texas",
       "time": 1789606405926,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026shmvzt"
-    },
-    {
-      "id": "pr71531968",
-      "lon": -64.4005,
-      "lat": 18.8318333333333,
-      "depth": 24.25,
-      "mag": 3.05,
-      "place": "69 km NE of Cruz Bay, U.S. Virgin Islands",
-      "time": 1789605816530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531968"
-    },
-    {
-      "id": "ci41333927",
-      "lon": -117.685833333333,
-      "lat": 34.4576666666667,
-      "depth": 5.26,
-      "mag": 0.67,
-      "place": "4 km NW of Pinon Hills, CA",
-      "time": 1789605464230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333927"
     }
   ]
 }
