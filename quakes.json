@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-18T19:15:45Z",
-  "count": 236,
+  "updated": "2026-09-18T19:30:59Z",
+  "count": 235,
   "points": [
+    {
+      "id": "pr71532588",
+      "lon": -66.9606666666667,
+      "lat": 17.9368333333333,
+      "depth": 7.56,
+      "mag": 2.09,
+      "place": "6 km SW of Guánica, Puerto Rico",
+      "time": 1789758895400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532588"
+    },
     {
       "id": "ci41334703",
       "lon": -117.484664916992,
@@ -64,14 +74,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437892"
     },
     {
-      "id": "us7000tidy",
-      "lon": -66.9369,
-      "lat": 17.9212,
-      "depth": 14.143,
-      "mag": 2.9,
-      "place": "6 km SSW of Guánica, Puerto Rico",
-      "time": 1789755809195,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tidy"
+      "id": "pr71532538",
+      "lon": -66.9475,
+      "lat": 17.9553333333333,
+      "depth": 7.58,
+      "mag": 2.84,
+      "place": "4 km WSW of Guánica, Puerto Rico",
+      "time": 1789755810020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532538"
     },
     {
       "id": "ci41334655",
@@ -152,6 +162,16 @@
       "place": "6 km WSW of Guánica, Puerto Rico",
       "time": 1789753047850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532458"
+    },
+    {
+      "id": "pr71532568",
+      "lon": -66.9648333333333,
+      "lat": 17.9648333333333,
+      "depth": 6.39,
+      "mag": 1.72,
+      "place": "5 km WSW of Fuig, Puerto Rico",
+      "time": 1789753008030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532568"
     },
     {
       "id": "nc75437857",
@@ -342,16 +362,6 @@
       "place": "4 km WSW of Fuig, Puerto Rico",
       "time": 1789750625620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532383"
-    },
-    {
-      "id": "tx2026skomwk",
-      "lon": -102.207,
-      "lat": 31.999,
-      "depth": 14.3113,
-      "mag": 2.5,
-      "place": "12 km W of Midland, Texas",
-      "time": 1789750597145,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026skomwk"
     },
     {
       "id": "pr71532418",
@@ -1194,6 +1204,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75039307"
     },
     {
+      "id": "aka2026smympm",
+      "lon": -173.278,
+      "lat": 51.364,
+      "depth": 0,
+      "mag": 3.6,
+      "place": "112 km SE of Atka, Alaska",
+      "time": 1789723424994,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026smympm"
+    },
+    {
       "id": "tx2026sjzfne",
       "lon": -101.738,
       "lat": 32.022,
@@ -1532,6 +1552,16 @@
       "place": "42 km ENE of Maneadero, B.C., MX",
       "time": 1789710773540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334399"
+    },
+    {
+      "id": "aka2026smrdve",
+      "lon": -171.02,
+      "lat": 52.164,
+      "depth": 109.9,
+      "mag": 3.8,
+      "place": "169 km WSW of Nikolski, Alaska",
+      "time": 1789710226639,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026smrdve"
     },
     {
       "id": "tx2026sjsbqx",
@@ -2322,46 +2352,6 @@
       "place": "7 km WNW of Gorst, Washington",
       "time": 1789673450550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714104631"
-    },
-    {
-      "id": "aka2026slwqqp",
-      "lon": -153.465,
-      "lat": 59.725,
-      "depth": 134.1,
-      "mag": 2,
-      "place": "36 km E of Pedro Bay, Alaska",
-      "time": 1789673329032,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026slwqqp"
-    },
-    {
-      "id": "av94436831",
-      "lon": -153.0295,
-      "lat": 60.0206666666667,
-      "depth": 2.06,
-      "mag": -0.88,
-      "place": "65 km ENE of Pedro Bay, Alaska",
-      "time": 1789672789420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94436831"
-    },
-    {
-      "id": "us7000ti5b",
-      "lon": -42.1489,
-      "lat": 30.1619,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "northern Mid-Atlantic Ridge",
-      "time": 1789672746799,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti5b"
-    },
-    {
-      "id": "us7000ti5c",
-      "lon": 104.5828,
-      "lat": -7.7411,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "204 km SW of Labuan, Indonesia",
-      "time": 1789672653000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti5c"
     }
   ]
 }
