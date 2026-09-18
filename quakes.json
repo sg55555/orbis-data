@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-18T21:30:59Z",
-  "count": 244,
+  "updated": "2026-09-18T21:45:44Z",
+  "count": 248,
   "points": [
+    {
+      "id": "ci41334847",
+      "lon": -118.9135,
+      "lat": 34.5005,
+      "depth": 26.67,
+      "mag": 2.35,
+      "place": "11 km N of Fillmore, CA",
+      "time": 1789767038800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334847"
+    },
     {
       "id": "ok2026sirg",
       "lon": -95.44998169,
@@ -35,12 +45,12 @@
     },
     {
       "id": "ci41334783",
-      "lon": -117.516,
-      "lat": 33.8546666666667,
-      "depth": 2.67,
-      "mag": 1.14,
-      "place": "3 km S of Home Gardens, CA",
-      "time": 1789764117200,
+      "lon": -117.507166666667,
+      "lat": 33.863,
+      "depth": -0.5,
+      "mag": 1.09,
+      "place": "2 km SE of Home Gardens, CA",
+      "time": 1789764116960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334783"
     },
     {
@@ -174,6 +184,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532603"
     },
     {
+      "id": "us7000tiem",
+      "lon": 164.062,
+      "lat": 55.7503,
+      "depth": 30.943,
+      "mag": 4.5,
+      "place": "112 km ESE of Ust’-Kamchatsk Staryy, Russia",
+      "time": 1789758997535,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiem"
+    },
+    {
       "id": "pr71532588",
       "lon": -66.9606666666667,
       "lat": 17.9368333333333,
@@ -215,9 +235,9 @@
     },
     {
       "id": "ci41334687",
-      "lon": -116.374333333333,
+      "lon": -116.3745,
       "lat": 33.3618333333333,
-      "depth": 11.14,
+      "depth": 11.21,
       "mag": 0.91,
       "place": "12 km N of Borrego Springs, CA",
       "time": 1789757544410,
@@ -295,12 +315,12 @@
     },
     {
       "id": "ci41334655",
-      "lon": -118.331333333333,
-      "lat": 35.063,
-      "depth": -0.41,
-      "mag": 0.86,
-      "place": "13 km SE of Tehachapi, CA",
-      "time": 1789755680470,
+      "lon": -118.331166666667,
+      "lat": 35.0568333333333,
+      "depth": -0.73,
+      "mag": 0.82,
+      "place": "14 km SE of Tehachapi, CA",
+      "time": 1789755680310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334655"
     },
     {
@@ -822,6 +842,16 @@
       "place": "52 km N of Valdez, Alaska",
       "time": 1789745075191,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026snknll"
+    },
+    {
+      "id": "pr71532693",
+      "lon": -66.9473333333333,
+      "lat": 17.935,
+      "depth": 9.22,
+      "mag": 2.09,
+      "place": "5 km SW of Guánica, Puerto Rico",
+      "time": 1789744866420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532693"
     },
     {
       "id": "pr71532683",
@@ -1674,6 +1704,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532143"
     },
     {
+      "id": "av94437426",
+      "lon": -178.79,
+      "lat": 51.8075,
+      "depth": 4.64,
+      "mag": 0.34,
+      "place": "148 km W of Adak, Alaska",
+      "time": 1789714614710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94437426"
+    },
+    {
       "id": "hv75039227",
       "lon": -155.479995727539,
       "lat": 19.1494998931885,
@@ -1852,6 +1892,16 @@
       "place": "9 km NNW of Entiat, Washington",
       "time": 1789709395720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714105041"
+    },
+    {
+      "id": "av94437346",
+      "lon": -176.128,
+      "lat": 52.0836666666667,
+      "depth": -1.77,
+      "mag": 0.93,
+      "place": "41 km ENE of Adak, Alaska",
+      "time": 1789709300090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94437346"
     },
     {
       "id": "uu80157341",
@@ -2432,16 +2482,6 @@
       "place": "11 km NE of Ashford, Washington",
       "time": 1789681648590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714104731"
-    },
-    {
-      "id": "nm60506348",
-      "lon": -90.6216666666667,
-      "lat": 36.8508333333333,
-      "depth": 0.05,
-      "mag": 2.43,
-      "place": "14 km SE of Ellsinore, Missouri",
-      "time": 1789680991190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60506348"
     }
   ]
 }
