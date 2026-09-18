@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-18T18:30:57Z",
-  "count": 231,
+  "updated": "2026-09-18T18:45:39Z",
+  "count": 233,
   "points": [
+    {
+      "id": "aka2026snrdle",
+      "lon": -151.178,
+      "lat": 63.241,
+      "depth": 0.3,
+      "mag": 1.8,
+      "place": "43 km SE of Denali National Park, Alaska",
+      "time": 1789756977169,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026snrdle"
+    },
     {
       "id": "nc75437892",
       "lon": -122.811668395996,
@@ -14,6 +24,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437892"
     },
     {
+      "id": "us7000tidy",
+      "lon": -66.9369,
+      "lat": 17.9212,
+      "depth": 14.143,
+      "mag": 2.9,
+      "place": "6 km SSW of Guánica, Puerto Rico",
+      "time": 1789755809195,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tidy"
+    },
+    {
       "id": "ci41334655",
       "lon": -118.331333333333,
       "lat": 35.063,
@@ -22,6 +42,26 @@
       "place": "13 km SE of Tehachapi, CA",
       "time": 1789755680470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334655"
+    },
+    {
+      "id": "uu80157421",
+      "lon": -112.361833333333,
+      "lat": 42.0816666666667,
+      "depth": 0.06,
+      "mag": 1.15,
+      "place": "15 km SW of Malad City, Idaho",
+      "time": 1789755095250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157421"
+    },
+    {
+      "id": "pr71532508",
+      "lon": -66.9646666666667,
+      "lat": 17.957,
+      "depth": 7.84,
+      "mag": 2.12,
+      "place": "6 km WSW of Fuig, Puerto Rico",
+      "time": 1789755079070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532508"
     },
     {
       "id": "hv75039572",
@@ -2292,26 +2332,6 @@
       "place": "81 km NNW of Karluk, Alaska",
       "time": 1789671737063,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026slvtqn"
-    },
-    {
-      "id": "aka2026sluzec",
-      "lon": -155.347,
-      "lat": 57.229,
-      "depth": 54.6,
-      "mag": 2.5,
-      "place": "65 km SW of Karluk, Alaska",
-      "time": 1789670321308,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sluzec"
-    },
-    {
-      "id": "aka2026sluwsf",
-      "lon": -151.613,
-      "lat": 61.368,
-      "depth": 84.5,
-      "mag": 0.6,
-      "place": "38 km NW of Beluga, Alaska",
-      "time": 1789670150956,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sluwsf"
     }
   ]
 }
