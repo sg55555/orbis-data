@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-18T08:45:40Z",
-  "count": 186,
+  "updated": "2026-09-18T09:01:13Z",
+  "count": 185,
   "points": [
+    {
+      "id": "nc75437702",
+      "lon": -122.766670227051,
+      "lat": 38.8231658935547,
+      "depth": 2.00999999046326,
+      "mag": 1.52,
+      "place": "4 km W of Cobb, CA",
+      "time": 1789721585390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437702"
+    },
     {
       "id": "hv75039287",
       "lon": -155.480499267578,
@@ -1842,26 +1852,6 @@
       "place": "58 km S of Whites City, New Mexico",
       "time": 1789635844208,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026siczzu"
-    },
-    {
-      "id": "nc75437117",
-      "lon": -122.817497253418,
-      "lat": 38.8168334960938,
-      "depth": 2.52999997138977,
-      "mag": 0.75,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1789635466400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437117"
-    },
-    {
-      "id": "tx2026sictwr",
-      "lon": -103.733,
-      "lat": 31.058,
-      "depth": 8.689,
-      "mag": 1.3,
-      "place": "8 km N of Balmorhea, Texas",
-      "time": 1789635223349,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sictwr"
     }
   ]
 }
