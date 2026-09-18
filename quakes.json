@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-18T20:45:45Z",
+  "updated": "2026-09-18T21:10:33Z",
   "count": 244,
   "points": [
+    {
+      "id": "ci41334791",
+      "lon": -117.081666666667,
+      "lat": 34.0408333333333,
+      "depth": 10.27,
+      "mag": 1.17,
+      "place": "4 km WNW of Yucaipa, CA",
+      "time": 1789764432590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334791"
+    },
     {
       "id": "ci41334783",
       "lon": -117.516,
@@ -155,12 +165,12 @@
     },
     {
       "id": "ci41334703",
-      "lon": -117.484664916992,
-      "lat": 33.8693351745605,
-      "depth": 6.21999979019165,
-      "mag": 0.966494924670157,
-      "place": "3 km ESE of Home Gardens, CA",
-      "time": 1789758476830,
+      "lon": -117.498166666667,
+      "lat": 33.8713333333333,
+      "depth": -0.54,
+      "mag": 0.65,
+      "place": "2 km ESE of Home Gardens, CA",
+      "time": 1789758476560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334703"
     },
     {
@@ -292,6 +302,16 @@
       "place": "4 km SSW of Guánica, Puerto Rico",
       "time": 1789754429330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532503"
+    },
+    {
+      "id": "pr71532488",
+      "lon": -66.9563333333333,
+      "lat": 17.955,
+      "depth": 7.91,
+      "mag": 2.3,
+      "place": "5 km WSW of Guánica, Puerto Rico",
+      "time": 1789754125980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532488"
     },
     {
       "id": "uw714105271",
@@ -1385,12 +1405,12 @@
     },
     {
       "id": "hv75039307",
-      "lon": -155.48567199707,
-      "lat": 19.1620006561279,
-      "depth": 8.13000011444092,
-      "mag": 2.38,
+      "lon": -155.484166666667,
+      "lat": 19.165,
+      "depth": 10.45,
+      "mag": 2.52,
       "place": "4 km S of Pāhala, Hawaii",
-      "time": 1789723571310,
+      "time": 1789723571300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75039307"
     },
     {
@@ -1994,6 +2014,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026smlgtq"
     },
     {
+      "id": "av93067119",
+      "lon": -176.135833333333,
+      "lat": 52.056,
+      "depth": -1.78,
+      "mag": -0.04,
+      "place": "39 km ENE of Adak, Alaska",
+      "time": 1789698871270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067119"
+    },
+    {
       "id": "us7000ti79",
       "lon": 141.3761,
       "lat": 32.3401,
@@ -2412,36 +2442,6 @@
       "place": "24 km SW of Sipí, Colombia",
       "time": 1789679425572,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti5y"
-    },
-    {
-      "id": "uw714104701",
-      "lon": -120.427166666667,
-      "lat": 49.3675,
-      "depth": -0.51,
-      "mag": 1.89,
-      "place": "11 km SSE of Princeton, Canada",
-      "time": 1789679250440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714104701"
-    },
-    {
-      "id": "hv75038327",
-      "lon": -155.278335571289,
-      "lat": 19.3901672363281,
-      "depth": 1.49000000953674,
-      "mag": 1.88,
-      "place": "7 km SW of Volcano, Hawaii",
-      "time": 1789679005850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75038327"
-    },
-    {
-      "id": "av94436921",
-      "lon": -152.1765,
-      "lat": 61.2891666666667,
-      "depth": -3.18,
-      "mag": -0.5,
-      "place": "61 km WNW of Beluga, Alaska",
-      "time": 1789678710430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94436921"
     }
   ]
 }
