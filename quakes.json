@@ -1,8 +1,78 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-18T16:15:44Z",
-  "count": 190,
+  "updated": "2026-09-18T16:36:45Z",
+  "count": 200,
   "points": [
+    {
+      "id": "aka2026snmmda",
+      "lon": -149.712,
+      "lat": 62.145,
+      "depth": 53,
+      "mag": 2.1,
+      "place": "7 km ESE of Susitna North, Alaska",
+      "time": 1789748583808,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026snmmda"
+    },
+    {
+      "id": "nc75437822",
+      "lon": -121.115501403809,
+      "lat": 36.482666015625,
+      "depth": 0.959999978542328,
+      "mag": 1.31,
+      "place": "6 km SSE of Pinnacles, CA",
+      "time": 1789748510600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437822"
+    },
+    {
+      "id": "hv75039527",
+      "lon": -155.366836547852,
+      "lat": 19.1354999542236,
+      "depth": 27.4099998474121,
+      "mag": 2.49,
+      "place": "13 km ESE of Pāhala, Hawaii",
+      "time": 1789748428140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75039527"
+    },
+    {
+      "id": "nc75437817",
+      "lon": -122.782997131348,
+      "lat": 38.8383331298828,
+      "depth": 1.88999998569489,
+      "mag": 1.1,
+      "place": "5 km WNW of Cobb, CA",
+      "time": 1789748423080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437817"
+    },
+    {
+      "id": "aka2026snmiqv",
+      "lon": -143.79,
+      "lat": 60.438,
+      "depth": 12.2,
+      "mag": 2.3,
+      "place": "108 km E of Cordova, Alaska",
+      "time": 1789748344034,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026snmiqv"
+    },
+    {
+      "id": "nc75437812",
+      "lon": -123.816665649414,
+      "lat": 40.0900001525879,
+      "depth": 19.4699993133545,
+      "mag": 1.3,
+      "place": "3 km S of Redway, CA",
+      "time": 1789748303260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437812"
+    },
+    {
+      "id": "nc75437807",
+      "lon": -123.798164367676,
+      "lat": 40.0953330993652,
+      "depth": 18.8600006103516,
+      "mag": 1.76,
+      "place": "3 km SE of Redway, CA",
+      "time": 1789748169130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437807"
+    },
     {
       "id": "aka2026snluvj",
       "lon": -152.727,
@@ -15,12 +85,12 @@
     },
     {
       "id": "uw714105181",
-      "lon": -122.996170043945,
-      "lat": 48.0738334655762,
-      "depth": 44.8600006103516,
-      "mag": 2.42117893695831,
-      "place": "5 km N of Blyn, Washington",
-      "time": 1789746901390,
+      "lon": -123.004,
+      "lat": 48.0841666666667,
+      "depth": 49.46,
+      "mag": 2.13,
+      "place": "6 km ENE of Bell Hill, Washington",
+      "time": 1789746900890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714105181"
     },
     {
@@ -34,6 +104,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026snljub"
     },
     {
+      "id": "pr71532333",
+      "lon": -66.9521666666667,
+      "lat": 17.9446666666667,
+      "depth": 6.91,
+      "mag": 1.95,
+      "place": "5 km WSW of Guánica, Puerto Rico",
+      "time": 1789745168070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532333"
+    },
+    {
       "id": "aka2026snknll",
       "lon": -146.205,
       "lat": 61.594,
@@ -42,6 +122,16 @@
       "place": "52 km N of Valdez, Alaska",
       "time": 1789745075191,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026snknll"
+    },
+    {
+      "id": "pr71532318",
+      "lon": -66.9513333333333,
+      "lat": 17.9605,
+      "depth": 8.29,
+      "mag": 1.78,
+      "place": "4 km WSW of Guánica, Puerto Rico",
+      "time": 1789744290130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532318"
     },
     {
       "id": "tx2026skkyqk",
@@ -92,6 +182,16 @@
       "place": "189 km SSW of Pelabuhanratu, Indonesia",
       "time": 1789742177895,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tib8"
+    },
+    {
+      "id": "pr71532363",
+      "lon": -66.9426666666667,
+      "lat": 18.0081666666667,
+      "depth": 4.5,
+      "mag": 2.39,
+      "place": "3 km NW of Fuig, Puerto Rico",
+      "time": 1789741490940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532363"
     },
     {
       "id": "ci41334495",
@@ -905,12 +1005,12 @@
     },
     {
       "id": "ci41334399",
-      "lon": -116.1345,
-      "lat": 31.8241666666667,
-      "depth": 15.56,
-      "mag": 2.09,
-      "place": "43 km ENE of Maneadero, B.C., MX",
-      "time": 1789710773590,
+      "lon": -116.142,
+      "lat": 31.8301666666667,
+      "depth": 14.88,
+      "mag": 2.08,
+      "place": "42 km ENE of Maneadero, B.C., MX",
+      "time": 1789710773540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334399"
     },
     {
@@ -1052,6 +1152,16 @@
       "place": "44 km SSE of Manley Hot Springs, Alaska",
       "time": 1789705502958,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026smonpf"
+    },
+    {
+      "id": "pr2026261001",
+      "lon": -67.8398,
+      "lat": 18.274,
+      "depth": 116,
+      "mag": 3.39,
+      "place": "62 km W of Rincón, Puerto Rico",
+      "time": 1789704277500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026261001"
     },
     {
       "id": "pr71532113",
@@ -1395,12 +1505,12 @@
     },
     {
       "id": "ci41334295",
-      "lon": -116.743,
-      "lat": 33.5141666666667,
-      "depth": 4.83,
-      "mag": 2.06,
-      "place": "8 km SW of Anza, CA",
-      "time": 1789683534770,
+      "lon": -116.740333333333,
+      "lat": 33.5195,
+      "depth": 4.39,
+      "mag": 0.23,
+      "place": "7 km WSW of Anza, CA",
+      "time": 1789683534810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334295"
     },
     {
@@ -1535,12 +1645,12 @@
     },
     {
       "id": "ci41334239",
-      "lon": -116.257333333333,
+      "lon": -116.259,
       "lat": 32.916,
-      "depth": 7.12,
+      "depth": 7.53,
       "mag": 1.26,
       "place": "27 km ENE of Pine Valley, CA",
-      "time": 1789677753900,
+      "time": 1789677753870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334239"
     },
     {
@@ -1892,16 +2002,6 @@
       "place": "1 km WSW of Parkfield, CA",
       "time": 1789663287210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437272"
-    },
-    {
-      "id": "hv75038032",
-      "lon": -155.492666666667,
-      "lat": 19.1455,
-      "depth": 32.2,
-      "mag": 1.73,
-      "place": "6 km SSW of Pāhala, Hawaii",
-      "time": 1789662537390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75038032"
     }
   ]
 }
