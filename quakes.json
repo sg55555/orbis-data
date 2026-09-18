@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-18T15:45:46Z",
-  "count": 187,
+  "updated": "2026-09-18T16:01:14Z",
+  "count": 189,
   "points": [
+    {
+      "id": "uw714105181",
+      "lon": -122.996170043945,
+      "lat": 48.0738334655762,
+      "depth": 44.8600006103516,
+      "mag": 2.42117893695831,
+      "place": "5 km N of Blyn, Washington",
+      "time": 1789746901390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714105181"
+    },
+    {
+      "id": "aka2026snljub",
+      "lon": -154.988,
+      "lat": 58.639,
+      "depth": 135.4,
+      "mag": 1.8,
+      "place": "89 km S of Kokhanok, Alaska",
+      "time": 1789746621095,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026snljub"
+    },
     {
       "id": "aka2026snknll",
       "lon": -146.205,
@@ -114,6 +134,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532283"
     },
     {
+      "id": "us7000tib5",
+      "lon": 167.0585,
+      "lat": -13.0681,
+      "depth": 191.321,
+      "mag": 4.6,
+      "place": "104 km NNW of Sola, Vanuatu",
+      "time": 1789739876067,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tib5"
+    },
+    {
       "id": "uu80157376",
       "lon": -112.895833333333,
       "lat": 37.0843333333333,
@@ -152,6 +182,16 @@
       "place": "5 km NW of Black Eagle, Montana",
       "time": 1789738842979,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiax"
+    },
+    {
+      "id": "us7000tiav",
+      "lon": -66.9352,
+      "lat": 17.9368,
+      "depth": 10,
+      "mag": 2.9,
+      "place": "4 km SW of Guánica, Puerto Rico",
+      "time": 1789738527900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiav"
     },
     {
       "id": "pr71532198",
@@ -1852,26 +1892,6 @@
       "place": "3 km SSW of Pāhala, Hawaii",
       "time": 1789661623350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75038007"
-    },
-    {
-      "id": "us7000ti3n",
-      "lon": -73.4257,
-      "lat": -40.5514,
-      "depth": 61.766,
-      "mag": 4.6,
-      "place": "24 km W of Osorno, Chile",
-      "time": 1789660278436,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti3n"
-    },
-    {
-      "id": "tx2026siqmfk",
-      "lon": -104.3,
-      "lat": 31.569,
-      "depth": 0,
-      "mag": 1.5,
-      "place": "55 km WNW of Toyah, Texas",
-      "time": 1789660045562,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026siqmfk"
     }
   ]
 }
