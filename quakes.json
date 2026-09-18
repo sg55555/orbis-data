@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-18T19:01:08Z",
-  "count": 237,
+  "updated": "2026-09-18T19:15:45Z",
+  "count": 236,
   "points": [
+    {
+      "id": "ci41334703",
+      "lon": -117.484664916992,
+      "lat": 33.8693351745605,
+      "depth": 6.21999979019165,
+      "mag": 0.966494924670157,
+      "place": "3 km ESE of Home Gardens, CA",
+      "time": 1789758476830,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334703"
+    },
     {
       "id": "ci41334687",
       "lon": -116.374333333333,
@@ -242,6 +252,16 @@
       "place": "5 km WSW of Fuig, Puerto Rico",
       "time": 1789752042440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026261002"
+    },
+    {
+      "id": "pr71532408",
+      "lon": -66.9541666666667,
+      "lat": 17.9615,
+      "depth": 7.14,
+      "mag": 2.24,
+      "place": "4 km SW of Fuig, Puerto Rico",
+      "time": 1789751546290,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532408"
     },
     {
       "id": "uu80157411",
@@ -2342,36 +2362,6 @@
       "place": "204 km SW of Labuan, Indonesia",
       "time": 1789672653000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti5c"
-    },
-    {
-      "id": "ci41334175",
-      "lon": -117.119666666667,
-      "lat": 33.6853333333333,
-      "depth": -0.54,
-      "mag": 0.78,
-      "place": "4 km SW of Winchester, CA",
-      "time": 1789672241210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334175"
-    },
-    {
-      "id": "ok2026sgrf",
-      "lon": -96.53433333,
-      "lat": 36.00866667,
-      "depth": 0,
-      "mag": 1.47,
-      "place": "6 km ENE of Drumright, Oklahoma",
-      "time": 1789672191299,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026sgrf"
-    },
-    {
-      "id": "aka2026slvtqn",
-      "lon": -154.858,
-      "lat": 58.273,
-      "depth": 21.5,
-      "mag": 0.7,
-      "place": "81 km NNW of Karluk, Alaska",
-      "time": 1789671737063,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026slvtqn"
     }
   ]
 }
