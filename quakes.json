@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-18T20:30:58Z",
-  "count": 243,
+  "updated": "2026-09-18T20:45:45Z",
+  "count": 244,
   "points": [
+    {
+      "id": "ci41334783",
+      "lon": -117.516,
+      "lat": 33.8546666666667,
+      "depth": 2.67,
+      "mag": 1.14,
+      "place": "3 km S of Home Gardens, CA",
+      "time": 1789764117200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334783"
+    },
+    {
+      "id": "aka2026snuvwd",
+      "lon": -149.206,
+      "lat": 62.951,
+      "depth": 75.1,
+      "mag": 2.4,
+      "place": "50 km SSW of Cantwell, Alaska",
+      "time": 1789763650111,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026snuvwd"
+    },
     {
       "id": "aka2026snujen",
       "lon": -156.65,
@@ -12,6 +32,16 @@
       "place": "109 km E of Chignik, Alaska",
       "time": 1789762766613,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026snujen"
+    },
+    {
+      "id": "pr71532668",
+      "lon": -66.9601666666667,
+      "lat": 17.973,
+      "depth": 6.77,
+      "mag": 2.25,
+      "place": "4 km WSW of Fuig, Puerto Rico",
+      "time": 1789762665530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532668"
     },
     {
       "id": "ci41334759",
@@ -1425,12 +1455,12 @@
     },
     {
       "id": "hv75039287",
-      "lon": -155.480499267578,
-      "lat": 19.1534996032715,
-      "depth": 12.0900001525879,
-      "mag": 2.24,
-      "place": "5 km S of Pāhala, Hawaii",
-      "time": 1789720259750,
+      "lon": -155.484666666667,
+      "lat": 19.1601666666667,
+      "depth": 11.85,
+      "mag": 2.09,
+      "place": "4 km S of Pāhala, Hawaii",
+      "time": 1789720259830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75039287"
     },
     {
@@ -1994,6 +2024,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75038817"
     },
     {
+      "id": "av93067094",
+      "lon": -152.230166666667,
+      "lat": 61.2956666666667,
+      "depth": 2,
+      "mag": -0.61,
+      "place": "64 km WNW of Beluga, Alaska",
+      "time": 1789696639850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067094"
+    },
+    {
       "id": "uu80157321",
       "lon": -112.8955,
       "lat": 37.0866666666667,
@@ -2402,36 +2442,6 @@
       "place": "61 km WNW of Beluga, Alaska",
       "time": 1789678710430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94436921"
-    },
-    {
-      "id": "ci41334239",
-      "lon": -116.259,
-      "lat": 32.916,
-      "depth": 7.53,
-      "mag": 1.26,
-      "place": "27 km ENE of Pine Valley, CA",
-      "time": 1789677753870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334239"
-    },
-    {
-      "id": "av94436901",
-      "lon": -153.054333333333,
-      "lat": 60.0288333333333,
-      "depth": 0.93,
-      "mag": -0.73,
-      "place": "64 km ENE of Pedro Bay, Alaska",
-      "time": 1789677707580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94436901"
-    },
-    {
-      "id": "ci41334231",
-      "lon": -118.2075,
-      "lat": 33.8646666666667,
-      "depth": 13.23,
-      "mag": 2.94,
-      "place": "4 km SSE of Compton, CA",
-      "time": 1789677149830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334231"
     }
   ]
 }
