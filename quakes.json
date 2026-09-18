@@ -1,14 +1,24 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-18T06:15:44Z",
-  "count": 187,
+  "updated": "2026-09-18T06:30:57Z",
+  "count": 186,
   "points": [
+    {
+      "id": "tx2026sjtguj",
+      "lon": -104.572,
+      "lat": 31.709,
+      "depth": 4.0156,
+      "mag": 1.8,
+      "place": "54 km SSW of Whites City, New Mexico",
+      "time": 1789712155105,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sjtguj"
+    },
     {
       "id": "tx2026sjtdai",
       "lon": -104.479,
       "lat": 31.635,
       "depth": 3.622,
-      "mag": 2.4,
+      "mag": 2.3,
       "place": "60 km S of Whites City, New Mexico",
       "time": 1789711893055,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sjtdai"
@@ -1852,26 +1862,6 @@
       "place": "64 km SSE of Lakatoro, Vanuatu",
       "time": 1789626733046,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzs"
-    },
-    {
-      "id": "us7000thzp",
-      "lon": 126.3092,
-      "lat": 1.3156,
-      "depth": 10,
-      "mag": 5.2,
-      "place": "132 km E of Bitung, Indonesia",
-      "time": 1789626048508,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzp"
-    },
-    {
-      "id": "pr71531998",
-      "lon": -66.8413333333333,
-      "lat": 17.9943333333333,
-      "depth": 15.71,
-      "mag": 2.12,
-      "place": "2 km W of Indios, Puerto Rico",
-      "time": 1789625917950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531998"
     }
   ]
 }
