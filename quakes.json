@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-18T02:30:53Z",
-  "count": 193,
+  "updated": "2026-09-18T02:45:46Z",
+  "count": 188,
   "points": [
+    {
+      "id": "us7000ti79",
+      "lon": 141.3761,
+      "lat": 32.3401,
+      "depth": 36.296,
+      "mag": 4.5,
+      "place": "Izu Islands, Japan region",
+      "time": 1789697548463,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti79"
+    },
     {
       "id": "nc75437612",
       "lon": -122.5556640625,
@@ -22,6 +32,16 @@
       "place": "7 km SW of Volcano, Hawaii",
       "time": 1789697092350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75038817"
+    },
+    {
+      "id": "us7000ti74",
+      "lon": 71.5498,
+      "lat": 37.0863,
+      "depth": 106.028,
+      "mag": 4.1,
+      "place": "40 km N of Ishqoshim, Tajikistan",
+      "time": 1789694941643,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti74"
     },
     {
       "id": "aka2026smidun",
@@ -1862,76 +1882,6 @@
       "place": "31 km NW of Toyah, Texas",
       "time": 1789613186206,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026shqpft"
-    },
-    {
-      "id": "nc75437007",
-      "lon": -122.816833496094,
-      "lat": 38.8166656494141,
-      "depth": 2.64000010490417,
-      "mag": 1.44,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1789613067270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437007"
-    },
-    {
-      "id": "nc75437002",
-      "lon": -122.819831848145,
-      "lat": 38.8096656799316,
-      "depth": 8.10000038146973,
-      "mag": 1.23,
-      "place": "7 km WNW of The Geysers, CA",
-      "time": 1789613043220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437002"
-    },
-    {
-      "id": "nc75436997",
-      "lon": -122.81950378418,
-      "lat": 38.8160018920898,
-      "depth": 2.22000002861023,
-      "mag": 0.93,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1789613007640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75436997"
-    },
-    {
-      "id": "aka2026skpafg",
-      "lon": -152.874,
-      "lat": 60.574,
-      "depth": 14.1,
-      "mag": 1.6,
-      "place": "85 km W of Salamatof, Alaska",
-      "time": 1789612824344,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026skpafg"
-    },
-    {
-      "id": "ci41333975",
-      "lon": -117.875833333333,
-      "lat": 36.1083333333333,
-      "depth": 2.08,
-      "mag": 0.85,
-      "place": "10 km NE of Coso Junction, CA",
-      "time": 1789612562000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333975"
-    },
-    {
-      "id": "aka2026skowih",
-      "lon": -154.611,
-      "lat": 58.418,
-      "depth": 5,
-      "mag": 1.3,
-      "place": "95 km N of Karluk, Alaska",
-      "time": 1789612550769,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026skowih"
-    },
-    {
-      "id": "aka2026skorju",
-      "lon": -152.437,
-      "lat": 60.206,
-      "depth": 104,
-      "mag": 2.2,
-      "place": "46 km WNW of Ninilchik, Alaska",
-      "time": 1789612209508,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026skorju"
     }
   ]
 }
