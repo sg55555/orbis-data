@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-18T05:01:06Z",
+  "updated": "2026-09-18T05:15:39Z",
   "count": 187,
   "points": [
     {
+      "id": "ci41334391",
+      "lon": -116.496,
+      "lat": 33.5113333333333,
+      "depth": 14.05,
+      "mag": 0.57,
+      "place": "17 km ESE of Anza, CA",
+      "time": 1789708092610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334391"
+    },
+    {
       "id": "tx2026sjqrly",
-      "lon": -102.216,
-      "lat": 32.129,
-      "depth": 6.6177,
-      "mag": 1.2,
-      "place": "19 km NW of Midland, Texas",
-      "time": 1789707483879,
+      "lon": -102.218,
+      "lat": 32.127,
+      "depth": 4.1383,
+      "mag": 1.1,
+      "place": "19 km NE of Gardendale, Texas",
+      "time": 1789707484351,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sjqrly"
     },
     {
@@ -1862,16 +1872,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1789622295640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437067"
-    },
-    {
-      "id": "hv75037722",
-      "lon": -155.505828857422,
-      "lat": 19.1666660308838,
-      "depth": 26.7199993133545,
-      "mag": 1.71,
-      "place": "4 km SW of Pāhala, Hawaii",
-      "time": 1789621270770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75037722"
     }
   ]
 }
