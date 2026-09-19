@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-19T13:01:06Z",
+  "updated": "2026-09-19T13:15:43Z",
   "count": 303,
   "points": [
+    {
+      "id": "ci41335063",
+      "lon": -116.597,
+      "lat": 33.0831666666667,
+      "depth": 11.63,
+      "mag": 0.56,
+      "place": "1 km NE of Julian, CA",
+      "time": 1789822684000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335063"
+    },
+    {
+      "id": "pr71532998",
+      "lon": -66.9313333333333,
+      "lat": 17.9676666666667,
+      "depth": 7.78,
+      "mag": 2.1,
+      "place": "2 km W of Guánica, Puerto Rico",
+      "time": 1789822173660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532998"
+    },
     {
       "id": "tx2026smbfxf",
       "lon": -104.617,
@@ -212,6 +232,16 @@
       "place": "6 km WSW of Fuig, Puerto Rico",
       "time": 1789816681240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532993"
+    },
+    {
+      "id": "nm60628056",
+      "lon": -89.393,
+      "lat": 36.2693333333333,
+      "depth": 14.53,
+      "mag": 1.8,
+      "place": "8 km E of Ridgely, Tennessee",
+      "time": 1789816327700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60628056"
     },
     {
       "id": "nc75438292",
@@ -3002,36 +3032,6 @@
       "place": "9 km NW of The Geysers, CA",
       "time": 1789737536590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437767"
-    },
-    {
-      "id": "us7000tiaq",
-      "lon": -93.5556,
-      "lat": 14.3814,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "125 km SSW of La Esperanza (El Zapotal), Mexico",
-      "time": 1789737169370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiaq"
-    },
-    {
-      "id": "ok2026sias",
-      "lon": -98.0375,
-      "lat": 35.62133333,
-      "depth": 6,
-      "mag": 1.75,
-      "place": "7 km ENE of Calumet, Oklahoma",
-      "time": 1789736751219,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026sias"
-    },
-    {
-      "id": "ci41334455",
-      "lon": -117.046,
-      "lat": 34.235,
-      "depth": 6.29,
-      "mag": 0.6,
-      "place": "7 km ENE of Running Springs, CA",
-      "time": 1789736461930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334455"
     }
   ]
 }
