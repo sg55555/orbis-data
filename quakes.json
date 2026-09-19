@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-19T18:15:40Z",
-  "count": 241,
+  "updated": "2026-09-19T18:30:57Z",
+  "count": 240,
   "points": [
+    {
+      "id": "hv75040307",
+      "lon": -155.392837524414,
+      "lat": 19.0025005340576,
+      "depth": 32.5200004577637,
+      "mag": 1.95,
+      "place": "20 km ESE of Naalehu, Hawaii",
+      "time": 1789842384370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75040307"
+    },
+    {
+      "id": "nc75438487",
+      "lon": -122.769332885742,
+      "lat": 38.7879981994629,
+      "depth": 0.970000028610229,
+      "mag": 1.18,
+      "place": "2 km NW of The Geysers, CA",
+      "time": 1789841979400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438487"
+    },
     {
       "id": "nc75438477",
       "lon": -122.763496398926,
@@ -2382,36 +2402,6 @@
       "place": "25 km ENE of Yacolt, Washington",
       "time": 1789756426080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714105301"
-    },
-    {
-      "id": "nc75437892",
-      "lon": -122.811668395996,
-      "lat": 38.7998352050781,
-      "depth": 3.41000008583069,
-      "mag": 1.07,
-      "place": "5 km WNW of The Geysers, CA",
-      "time": 1789755855210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437892"
-    },
-    {
-      "id": "pr71532538",
-      "lon": -66.9475,
-      "lat": 17.9553333333333,
-      "depth": 7.58,
-      "mag": 2.84,
-      "place": "4 km WSW of Guánica, Puerto Rico",
-      "time": 1789755810020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532538"
-    },
-    {
-      "id": "ci41334655",
-      "lon": -118.331166666667,
-      "lat": 35.0568333333333,
-      "depth": -0.73,
-      "mag": 0.82,
-      "place": "14 km SE of Tehachapi, CA",
-      "time": 1789755680310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334655"
     }
   ]
 }
