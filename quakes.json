@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-19T22:30:57Z",
-  "count": 226,
+  "updated": "2026-09-19T22:45:42Z",
+  "count": 225,
   "points": [
+    {
+      "id": "ci41335303",
+      "lon": -116.706,
+      "lat": 33.5398333333333,
+      "depth": 5.67,
+      "mag": 0.15,
+      "place": "3 km WSW of Anza, CA",
+      "time": 1789856926860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335303"
+    },
     {
       "id": "nc75438622",
       "lon": -122.7568359375,
@@ -42,6 +52,16 @@
       "place": "4 km NNE of Yucca Valley, CA",
       "time": 1789856193840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335287"
+    },
+    {
+      "id": "pr71533203",
+      "lon": -65.81,
+      "lat": 19.4268333333333,
+      "depth": 20.96,
+      "mag": 3.3,
+      "place": "110 km N of Suárez, Puerto Rico",
+      "time": 1789856117580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533203"
     },
     {
       "id": "nc75438612",
@@ -105,12 +125,12 @@
     },
     {
       "id": "ok2026skmd",
-      "lon": -96.77445221,
-      "lat": 35.53836823,
-      "depth": 5.859345436,
-      "mag": 2.41,
-      "place": "8 km SSE of Sparks, Oklahoma",
-      "time": 1789852121498,
+      "lon": -96.76616667,
+      "lat": 35.536,
+      "depth": 11.26,
+      "mag": 2.18,
+      "place": "9 km NW of Prague, Oklahoma",
+      "time": 1789852121729,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026skmd"
     },
     {
@@ -2232,36 +2252,6 @@
       "place": "3 km SE of The Geysers, CA",
       "time": 1789772106920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438072"
-    },
-    {
-      "id": "ci41334895",
-      "lon": -117.801,
-      "lat": 35.3326666666667,
-      "depth": 6.6,
-      "mag": 1.75,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": 1789771343400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334895"
-    },
-    {
-      "id": "aka2026snytya",
-      "lon": -154.985,
-      "lat": 58.289,
-      "depth": 2.7,
-      "mag": 0.6,
-      "place": "86 km NNW of Karluk, Alaska",
-      "time": 1789770712943,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026snytya"
-    },
-    {
-      "id": "ci41334879",
-      "lon": -116.464,
-      "lat": 32.9365,
-      "depth": 3.09,
-      "mag": 1.11,
-      "place": "14 km NNE of Pine Valley, CA",
-      "time": 1789770679410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334879"
     }
   ]
 }
