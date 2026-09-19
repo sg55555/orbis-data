@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-19T06:33:29Z",
-  "count": 286,
+  "updated": "2026-09-19T06:45:46Z",
+  "count": 282,
   "points": [
+    {
+      "id": "ci41335015",
+      "lon": -117.795666666667,
+      "lat": 35.369,
+      "depth": 4.8,
+      "mag": 0.87,
+      "place": "15 km W of Johannesburg, CA",
+      "time": 1789800066200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335015"
+    },
     {
       "id": "aka2026soorgk",
       "lon": -149.751,
@@ -92,6 +102,16 @@
       "place": "11 km NE of Ridgecrest, CA",
       "time": 1789793715090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334999"
+    },
+    {
+      "id": "pr2026262000",
+      "lon": -66.9363,
+      "lat": 17.9478,
+      "depth": 7,
+      "mag": 2.95,
+      "place": "3 km SW of Guánica, Puerto Rico",
+      "time": 1789793348420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026262000"
     },
     {
       "id": "hv75039947",
@@ -2802,66 +2822,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1789714212180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437672"
-    },
-    {
-      "id": "aka2026smtdey",
-      "lon": -153.317,
-      "lat": 59.873,
-      "depth": 143,
-      "mag": 2.1,
-      "place": "45 km ENE of Pedro Bay, Alaska",
-      "time": 1789713780522,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026smtdey"
-    },
-    {
-      "id": "us7000ti83",
-      "lon": -179.3724,
-      "lat": -21.9479,
-      "depth": 548.378,
-      "mag": 4.7,
-      "place": "Fiji region",
-      "time": 1789713749274,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti83"
-    },
-    {
-      "id": "us7000ti82",
-      "lon": 23.3755,
-      "lat": 38.915,
-      "depth": 4.385,
-      "mag": 4.3,
-      "place": "15 km NW of Mantoúdi, Greece",
-      "time": 1789713726708,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti82"
-    },
-    {
-      "id": "pr71532128",
-      "lon": -66.5461666666667,
-      "lat": 18.1101666666667,
-      "depth": 20.42,
-      "mag": 2.64,
-      "place": "5 km NW of Guayabal, Puerto Rico",
-      "time": 1789713710150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532128"
-    },
-    {
-      "id": "hv75039212",
-      "lon": -155.476333333333,
-      "lat": 19.1576666666667,
-      "depth": 12.42,
-      "mag": 4.06,
-      "place": "5 km S of Pāhala, Hawaii",
-      "time": 1789713403030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75039212"
-    },
-    {
-      "id": "nc75437667",
-      "lon": -122.771499633789,
-      "lat": 38.8103332519531,
-      "depth": 1.42999994754791,
-      "mag": 0.53,
-      "place": "4 km NNW of The Geysers, CA",
-      "time": 1789713170710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437667"
     }
   ]
 }
