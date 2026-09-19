@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-19T05:45:38Z",
-  "count": 289,
+  "updated": "2026-09-19T06:01:06Z",
+  "count": 288,
   "points": [
+    {
+      "id": "nc75438217",
+      "lon": -120.789329528809,
+      "lat": 36.2154998779297,
+      "depth": 0.379999995231628,
+      "mag": 1.27,
+      "place": "23 km ENE of San Lucas, CA",
+      "time": 1789797003400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438217"
+    },
     {
       "id": "tx2026slnska",
       "lon": -101.517,
@@ -2872,26 +2882,6 @@
       "place": "57 km S of Whites City, New Mexico",
       "time": 1789711893148,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sjtdai"
-    },
-    {
-      "id": "nc75437662",
-      "lon": -118.51782989502,
-      "lat": 37.6028327941895,
-      "depth": 8.64999961853027,
-      "mag": 1.39,
-      "place": "15 km ENE of Toms Place, CA",
-      "time": 1789711208490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437662"
-    },
-    {
-      "id": "ci41334399",
-      "lon": -116.142,
-      "lat": 31.8301666666667,
-      "depth": 14.88,
-      "mag": 2.08,
-      "place": "42 km ENE of Maneadero, B.C., MX",
-      "time": 1789710773540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334399"
     }
   ]
 }
