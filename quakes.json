@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-19T21:01:11Z",
-  "count": 230,
+  "updated": "2026-09-19T21:15:41Z",
+  "count": 232,
   "points": [
+    {
+      "id": "ok2026skmd",
+      "lon": -96.77445221,
+      "lat": 35.53836823,
+      "depth": 5.859345436,
+      "mag": 2.41,
+      "place": "8 km SSE of Sparks, Oklahoma",
+      "time": 1789852121498,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026skmd"
+    },
+    {
+      "id": "us7000till",
+      "lon": 14.8718,
+      "lat": 38.9139,
+      "depth": 272.133,
+      "mag": 4.3,
+      "place": "37 km N of Malfa, Italy",
+      "time": 1789851332082,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000till"
+    },
     {
       "id": "nc75438582",
       "lon": -122.806335449219,
@@ -45,22 +65,22 @@
     },
     {
       "id": "hv75040342",
-      "lon": -155.285507202148,
-      "lat": 19.4133338928223,
-      "depth": 0.790000021457672,
-      "mag": 2.3,
-      "place": "6 km WSW of Volcano, Hawaii",
-      "time": 1789849254190,
+      "lon": -155.2665,
+      "lat": 19.3985,
+      "depth": 0.15,
+      "mag": 2.13,
+      "place": "5 km SW of Volcano, Hawaii",
+      "time": 1789849253000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75040342"
     },
     {
       "id": "hv75040337",
-      "lon": -155.267669677734,
-      "lat": 19.3999996185303,
-      "depth": -0.239999994635582,
-      "mag": 2.62,
+      "lon": -155.268,
+      "lat": 19.4006666666667,
+      "depth": 0.12,
+      "mag": 1.91,
       "place": "5 km SW of Volcano, Hawaii",
-      "time": 1789849252380,
+      "time": 1789849252420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75040337"
     },
     {
@@ -142,6 +162,16 @@
       "place": "3 km SSE of Compton, CA",
       "time": 1789846601430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335183"
+    },
+    {
+      "id": "pr71533133",
+      "lon": -66.955,
+      "lat": 17.9728333333333,
+      "depth": 2.78,
+      "mag": 1.8,
+      "place": "4 km WSW of Fuig, Puerto Rico",
+      "time": 1789846284490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533133"
     },
     {
       "id": "aka2026sporqt",
@@ -2292,16 +2322,6 @@
       "place": "9 km SE of Foyil, Oklahoma",
       "time": 1789766789566,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026sirg"
-    },
-    {
-      "id": "aka2026snwcjc",
-      "lon": -157.624,
-      "lat": 56.186,
-      "depth": 52.3,
-      "mag": 2.4,
-      "place": "49 km ESE of Chignik, Alaska",
-      "time": 1789765900379,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026snwcjc"
     }
   ]
 }
