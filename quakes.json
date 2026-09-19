@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-19T22:01:10Z",
-  "count": 229,
+  "updated": "2026-09-19T22:15:43Z",
+  "count": 225,
   "points": [
     {
+      "id": "nc75438612",
+      "lon": -122.75316619873,
+      "lat": 38.7924995422363,
+      "depth": 1.14999997615814,
+      "mag": 0.41,
+      "place": "2 km N of The Geysers, CA",
+      "time": 1789855215170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438612"
+    },
+    {
       "id": "aka2026sptokh",
-      "lon": -152.408,
+      "lon": -152.409,
       "lat": 60.116,
-      "depth": 94.8,
-      "mag": 2.5,
+      "depth": 94.7,
+      "mag": 2.6,
       "place": "41 km W of Ninilchik, Alaska",
-      "time": 1789854943262,
+      "time": 1789854943272,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sptokh"
     },
     {
@@ -2242,56 +2252,6 @@
       "place": "5 km SW of Guánica, Puerto Rico",
       "time": 1789769741970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532738"
-    },
-    {
-      "id": "us7000tifz",
-      "lon": 23.3956,
-      "lat": 38.9246,
-      "depth": 10,
-      "mag": 4.3,
-      "place": "15 km NNW of Mantoúdi, Greece",
-      "time": 1789769517388,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tifz"
-    },
-    {
-      "id": "us7000tij9",
-      "lon": -83.0267,
-      "lat": 8.7166,
-      "depth": 10,
-      "mag": 3.9,
-      "place": "12 km NW of Corredor, Costa Rica",
-      "time": 1789769376768,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tij9"
-    },
-    {
-      "id": "aka2026snxzvj",
-      "lon": -153.118,
-      "lat": 60.046,
-      "depth": 5,
-      "mag": 1.3,
-      "place": "62 km ENE of Pedro Bay, Alaska",
-      "time": 1789769321817,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026snxzvj"
-    },
-    {
-      "id": "ci41334863",
-      "lon": -116.051333333333,
-      "lat": 33.9973333333333,
-      "depth": 8.71,
-      "mag": 1.19,
-      "place": "16 km S of Twentynine Palms, CA",
-      "time": 1789768945860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334863"
-    },
-    {
-      "id": "tx2026skypez",
-      "lon": -103.491,
-      "lat": 31.188,
-      "depth": 4.9984,
-      "mag": 1.4,
-      "place": "20 km SSE of Lindsay, Texas",
-      "time": 1789768862350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026skypez"
     }
   ]
 }
