@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-19T23:16:18Z",
-  "count": 228,
+  "updated": "2026-09-19T23:30:52Z",
+  "count": 229,
   "points": [
+    {
+      "id": "nc75438647",
+      "lon": -122.801002502441,
+      "lat": 38.8264999389648,
+      "depth": 1.77999997138977,
+      "mag": 1.03,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1789860276250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438647"
+    },
     {
       "id": "aka2026spwcaz",
       "lon": -147.468,
@@ -34,6 +44,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026smwldq"
     },
     {
+      "id": "pr71533238",
+      "lon": -66.9603333333333,
+      "lat": 17.9778333333333,
+      "depth": 7.61,
+      "mag": 2.32,
+      "place": "4 km WSW of Fuig, Puerto Rico",
+      "time": 1789858827860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533238"
+    },
+    {
       "id": "tx2026smwdrk",
       "lon": -97.682,
       "lat": 29.137,
@@ -52,6 +72,16 @@
       "place": "21 km NW of Parkfield, CA",
       "time": 1789858467340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438632"
+    },
+    {
+      "id": "pr71533218",
+      "lon": -66.94,
+      "lat": 17.9411666666667,
+      "depth": 9.49,
+      "mag": 2.62,
+      "place": "4 km SW of Guánica, Puerto Rico",
+      "time": 1789858004600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533218"
     },
     {
       "id": "aka2026spvfxe",
@@ -762,6 +792,16 @@
       "place": "14 km SE of Markleeville, CA",
       "time": 1789826829530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438357"
+    },
+    {
+      "id": "tx2026smepke",
+      "lon": -101.799,
+      "lat": 32.157,
+      "depth": 3.8958,
+      "mag": 1,
+      "place": "3 km NNW of Stanton, Texas",
+      "time": 1789826808234,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026smepke"
     },
     {
       "id": "ci41335079",
@@ -2252,36 +2292,6 @@
       "place": "73 km SSE of Ugashik, Alaska",
       "time": 1789774734392,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sobaax"
-    },
-    {
-      "id": "aka2026soajsw",
-      "lon": -150.304,
-      "lat": 63.222,
-      "depth": 110.9,
-      "mag": 2.3,
-      "place": "70 km WSW of Cantwell, Alaska",
-      "time": 1789773605892,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026soajsw"
-    },
-    {
-      "id": "us7000tigd",
-      "lon": -177.2286,
-      "lat": -27.8581,
-      "depth": 94.054,
-      "mag": 5.5,
-      "place": "Kermadec Islands region",
-      "time": 1789773508306,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tigd"
-    },
-    {
-      "id": "av94438216",
-      "lon": -155.2565,
-      "lat": 58.1936666666667,
-      "depth": 2.27,
-      "mag": -0.67,
-      "place": "84 km NW of Karluk, Alaska",
-      "time": 1789773379960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94438216"
     }
   ]
 }
