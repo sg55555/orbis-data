@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-19T01:01:23Z",
-  "count": 282,
+  "updated": "2026-09-19T01:15:37Z",
+  "count": 281,
   "points": [
+    {
+      "id": "aka2026sodwhy",
+      "lon": -153.102,
+      "lat": 59.996,
+      "depth": 5,
+      "mag": 0.2,
+      "place": "60 km ENE of Pedro Bay, Alaska",
+      "time": 1789779873620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sodwhy"
+    },
     {
       "id": "nc75438122",
       "lon": -122.854164123535,
@@ -27,10 +37,10 @@
       "id": "tx2026sldltr",
       "lon": -104.442,
       "lat": 31.619,
-      "depth": 3.4093,
+      "depth": 3.4198,
       "mag": 1.5,
       "place": "62 km S of Whites City, New Mexico",
-      "time": 1789777687203,
+      "time": 1789777687201,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sldltr"
     },
     {
@@ -342,6 +352,16 @@
       "place": "49 km ESE of Chignik, Alaska",
       "time": 1789765900379,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026snwcjc"
+    },
+    {
+      "id": "av94438111",
+      "lon": -153.088833333333,
+      "lat": 60.0433333333333,
+      "depth": 1.01,
+      "mag": 1.14,
+      "place": "63 km ENE of Pedro Bay, Alaska",
+      "time": 1789764918520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94438111"
     },
     {
       "id": "av94438106",
@@ -2792,36 +2812,6 @@
       "place": "40 km N of Ishqoshim, Tajikistan",
       "time": 1789694941643,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti74"
-    },
-    {
-      "id": "aka2026smidun",
-      "lon": -148.026,
-      "lat": 64.285,
-      "depth": 13.3,
-      "mag": 0.9,
-      "place": "56 km E of Clear, Alaska",
-      "time": 1789694030688,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026smidun"
-    },
-    {
-      "id": "us7000ti78",
-      "lon": -169.2494,
-      "lat": 52.1148,
-      "depth": 24.885,
-      "mag": 3.8,
-      "place": "95 km SSW of Nikolski, Alaska",
-      "time": 1789693660851,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti78"
-    },
-    {
-      "id": "us7000ti70",
-      "lon": 131.754,
-      "lat": 32.1616,
-      "depth": 53.945,
-      "mag": 4.6,
-      "place": "20 km ESE of Tsunō, Japan",
-      "time": 1789693650435,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti70"
     }
   ]
 }
