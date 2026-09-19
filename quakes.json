@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-19T09:45:41Z",
-  "count": 287,
+  "updated": "2026-09-19T10:01:12Z",
+  "count": 288,
   "points": [
+    {
+      "id": "aka2026sovrcv",
+      "lon": -155.435,
+      "lat": 57.869,
+      "depth": 17.4,
+      "mag": 0.7,
+      "place": "67 km WNW of Karluk, Alaska",
+      "time": 1789811899197,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sovrcv"
+    },
     {
       "id": "aka2026souxgj",
       "lon": -152.939,
@@ -12,6 +22,16 @@
       "place": "61 km WNW of Nanwalek, Alaska",
       "time": 1789810525226,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026souxgj"
+    },
+    {
+      "id": "us7000tiim",
+      "lon": 146.3637,
+      "lat": 47.4016,
+      "depth": 394.117,
+      "mag": 4.8,
+      "place": "268 km NNW of Kuril’sk, Russia",
+      "time": 1789810444394,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiim"
     },
     {
       "id": "aka2026souvpe",
@@ -622,6 +642,16 @@
       "place": "12 km W of Petrolia, CA",
       "time": 1789787495930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438187"
+    },
+    {
+      "id": "pr71532838",
+      "lon": -66.9525,
+      "lat": 17.9541666666667,
+      "depth": 7.06,
+      "mag": 2.4,
+      "place": "5 km WSW of Guánica, Puerto Rico",
+      "time": 1789787151860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532838"
     },
     {
       "id": "aka2026sohssn",
@@ -2852,26 +2882,6 @@
       "place": "55 km S of Whites City, New Mexico",
       "time": 1789725847535,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026skavkw"
-    },
-    {
-      "id": "nc75437722",
-      "lon": -122.725997924805,
-      "lat": 38.7775001525879,
-      "depth": 1.66999995708466,
-      "mag": 0.36,
-      "place": "3 km E of The Geysers, CA",
-      "time": 1789725476260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437722"
-    },
-    {
-      "id": "hv75039317",
-      "lon": -155.487838745117,
-      "lat": 19.1523342132568,
-      "depth": 11.1700000762939,
-      "mag": 1.71,
-      "place": "5 km S of Pāhala, Hawaii",
-      "time": 1789724883150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75039317"
     }
   ]
 }
