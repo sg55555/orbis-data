@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-19T04:01:10Z",
-  "count": 291,
+  "updated": "2026-09-19T04:15:44Z",
+  "count": 290,
   "points": [
     {
+      "id": "tx2026slkvdk",
+      "lon": -104.522,
+      "lat": 31.466,
+      "depth": 0,
+      "mag": 1.5,
+      "place": "55 km NNE of Van Horn, Texas",
+      "time": 1789791002816,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026slkvdk"
+    },
+    {
       "id": "hv75039922",
-      "lon": -155.491668701172,
-      "lat": 19.1641674041748,
-      "depth": 12.4700002670288,
-      "mag": 3,
-      "place": "4 km SSW of Pāhala, Hawaii",
-      "time": 1789788521710,
+      "lon": -155.488166666667,
+      "lat": 19.1693333333333,
+      "depth": 13.79,
+      "mag": 2.82,
+      "place": "3 km SSW of Pāhala, Hawaii",
+      "time": 1789788521790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75039922"
     },
     {
@@ -2892,26 +2902,6 @@
       "place": "44 km SSE of Manley Hot Springs, Alaska",
       "time": 1789705502958,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026smonpf"
-    },
-    {
-      "id": "pr2026261001",
-      "lon": -67.8398,
-      "lat": 18.274,
-      "depth": 116,
-      "mag": 3.39,
-      "place": "62 km W of Rincón, Puerto Rico",
-      "time": 1789704277500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026261001"
-    },
-    {
-      "id": "pr71532113",
-      "lon": -66.851,
-      "lat": 17.9205,
-      "depth": 6.37,
-      "mag": 2.48,
-      "place": "7 km SSE of Maria Antonia, Puerto Rico",
-      "time": 1789704211170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532113"
     }
   ]
 }
