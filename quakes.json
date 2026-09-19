@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-19T19:30:56Z",
-  "count": 233,
+  "updated": "2026-09-19T19:45:39Z",
+  "count": 232,
   "points": [
+    {
+      "id": "ci41335183",
+      "lon": -118.201166666667,
+      "lat": 33.8703333333333,
+      "depth": 9.76,
+      "mag": 1.64,
+      "place": "3 km SSE of Compton, CA",
+      "time": 1789846601430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335183"
+    },
+    {
+      "id": "aka2026sporqt",
+      "lon": -152.702,
+      "lat": 59.722,
+      "depth": 85.8,
+      "mag": 1.6,
+      "place": "49 km W of Anchor Point, Alaska",
+      "time": 1789846131863,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sporqt"
+    },
     {
       "id": "nc75438532",
       "lon": -122.78116607666,
@@ -2302,36 +2322,6 @@
       "place": "0 km SW of Indios, Puerto Rico",
       "time": 1789760840220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532653"
-    },
-    {
-      "id": "nc75437932",
-      "lon": -122.817832946777,
-      "lat": 38.8076667785645,
-      "depth": 2.6800000667572,
-      "mag": 1.02,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": 1789760453070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437932"
-    },
-    {
-      "id": "pr71532648",
-      "lon": -66.9538333333333,
-      "lat": 17.9636666666667,
-      "depth": 7.47,
-      "mag": 2.37,
-      "place": "4 km WSW of Fuig, Puerto Rico",
-      "time": 1789760402460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532648"
-    },
-    {
-      "id": "pr71532633",
-      "lon": -66.9331666666667,
-      "lat": 17.9481666666667,
-      "depth": 7.82,
-      "mag": 1.95,
-      "place": "3 km SW of Guánica, Puerto Rico",
-      "time": 1789759935430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532633"
     }
   ]
 }
