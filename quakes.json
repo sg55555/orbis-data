@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-19T19:01:09Z",
-  "count": 238,
+  "updated": "2026-09-19T19:15:40Z",
+  "count": 236,
   "points": [
+    {
+      "id": "aka2026spobdy",
+      "lon": -153.407,
+      "lat": 59.845,
+      "depth": 141,
+      "mag": 2,
+      "place": "39 km E of Pedro Bay, Alaska",
+      "time": 1789845086198,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026spobdy"
+    },
     {
       "id": "aka2026spnngj",
       "lon": -141.24,
@@ -2352,36 +2362,6 @@
       "place": "6 km SW of Guánica, Puerto Rico",
       "time": 1789758895400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532588"
-    },
-    {
-      "id": "us7000tiej",
-      "lon": -155.5904,
-      "lat": 19.4646,
-      "depth": 26.769,
-      "mag": 2.6,
-      "place": "28 km E of Honaunau-Napoopoo, Hawaii",
-      "time": 1789758797034,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiej"
-    },
-    {
-      "id": "ci41334703",
-      "lon": -117.498166666667,
-      "lat": 33.8713333333333,
-      "depth": -0.54,
-      "mag": 0.65,
-      "place": "2 km ESE of Home Gardens, CA",
-      "time": 1789758476560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334703"
-    },
-    {
-      "id": "ci41334695",
-      "lon": -118.2,
-      "lat": 34.9931666666667,
-      "depth": -0.75,
-      "mag": 1.4,
-      "place": "7 km SSW of Mojave, CA",
-      "time": 1789758264180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334695"
     }
   ]
 }
