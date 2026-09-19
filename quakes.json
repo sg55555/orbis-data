@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-19T19:45:39Z",
-  "count": 232,
+  "updated": "2026-09-19T20:01:07Z",
+  "count": 230,
   "points": [
+    {
+      "id": "nc75438552",
+      "lon": -121.982330322266,
+      "lat": 40.2383346557617,
+      "depth": 16.4200000762939,
+      "mag": 2.71,
+      "place": "22 km SSW of Manton, CA",
+      "time": 1789847571470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438552"
+    },
     {
       "id": "ci41335183",
       "lon": -118.201166666667,
@@ -2292,36 +2302,6 @@
       "place": "1 km WNW of Aguilita, Puerto Rico",
       "time": 1789761744980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533103"
-    },
-    {
-      "id": "ci41334743",
-      "lon": -116.284166666667,
-      "lat": 32.4606666666667,
-      "depth": 16.86,
-      "mag": 1.15,
-      "place": "24 km SE of Campo, CA",
-      "time": 1789761554350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334743"
-    },
-    {
-      "id": "pr71532663",
-      "lon": -66.9458333333333,
-      "lat": 17.945,
-      "depth": 6.69,
-      "mag": 1.87,
-      "place": "4 km SW of Guánica, Puerto Rico",
-      "time": 1789761198140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532663"
-    },
-    {
-      "id": "pr71532653",
-      "lon": -66.8245,
-      "lat": 17.9905,
-      "depth": 15.44,
-      "mag": 2.31,
-      "place": "0 km SW of Indios, Puerto Rico",
-      "time": 1789760840220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532653"
     }
   ]
 }
