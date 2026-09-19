@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-19T17:45:39Z",
-  "count": 246,
+  "updated": "2026-09-19T17:57:38Z",
+  "count": 244,
   "points": [
+    {
+      "id": "nc75438477",
+      "lon": -122.763496398926,
+      "lat": 38.7944984436035,
+      "depth": 0.660000026226044,
+      "mag": 0.66,
+      "place": "2 km NNW of The Geysers, CA",
+      "time": 1789840116280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438477"
+    },
     {
       "id": "aka2026spkrdt",
       "lon": -155.654,
@@ -25,10 +35,10 @@
     },
     {
       "id": "pr71533073",
-      "lon": -66.9333333333333,
-      "lat": 18.577,
-      "depth": 16.44,
-      "mag": 2.8,
+      "lon": -66.934,
+      "lat": 18.5763333333333,
+      "depth": 16.68,
+      "mag": 2.52,
       "place": "11 km N of Quebradillas, Puerto Rico",
       "time": 1789838317940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533073"
@@ -362,6 +372,16 @@
       "place": "2 km W of Guánica, Puerto Rico",
       "time": 1789822173660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532998"
+    },
+    {
+      "id": "aka2026spbesg",
+      "lon": -169.349,
+      "lat": 52.225,
+      "depth": 17.2,
+      "mag": 4,
+      "place": "86 km SSW of Nikolski, Alaska",
+      "time": 1789821842820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026spbesg"
     },
     {
       "id": "tx2026smbfxf",
@@ -2422,46 +2442,6 @@
       "place": "4 km SSW of Guánica, Puerto Rico",
       "time": 1789754429330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532503"
-    },
-    {
-      "id": "pr71532488",
-      "lon": -66.9563333333333,
-      "lat": 17.955,
-      "depth": 7.91,
-      "mag": 2.3,
-      "place": "5 km WSW of Guánica, Puerto Rico",
-      "time": 1789754125980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532488"
-    },
-    {
-      "id": "uw714105271",
-      "lon": -122.841666666667,
-      "lat": 47.7786666666667,
-      "depth": 19.18,
-      "mag": 0.44,
-      "place": "5 km SSE of Quilcene, Washington",
-      "time": 1789754005050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714105271"
-    },
-    {
-      "id": "hv75039572",
-      "lon": -155.489334106445,
-      "lat": 19.3563327789307,
-      "depth": 5.28000020980835,
-      "mag": 1.79,
-      "place": "17 km N of Pāhala, Hawaii",
-      "time": 1789753804170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75039572"
-    },
-    {
-      "id": "uw714105251",
-      "lon": -117.39,
-      "lat": 47.7841666666667,
-      "depth": -0.76,
-      "mag": 1.88,
-      "place": "2 km NE of Fairwood, Washington",
-      "time": 1789753516440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714105251"
     }
   ]
 }
