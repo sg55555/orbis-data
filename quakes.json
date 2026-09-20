@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T08:30:55Z",
-  "count": 250,
+  "updated": "2026-09-20T08:45:38Z",
+  "count": 248,
   "points": [
     {
       "id": "ci41335463",
@@ -42,6 +42,16 @@
       "place": "74 km ENE of Tonopah, Nevada",
       "time": 1789891730282,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924657"
+    },
+    {
+      "id": "pr71533478",
+      "lon": -66.895,
+      "lat": 17.9395,
+      "depth": 2.17,
+      "mag": 2.41,
+      "place": "3 km SSE of Guánica, Puerto Rico",
+      "time": 1789891697680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533478"
     },
     {
       "id": "ci41335455",
@@ -2472,36 +2482,6 @@
       "place": "166 km SW of Nikolski, Alaska",
       "time": 1789807670579,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sotica"
-    },
-    {
-      "id": "aka2026sotaqm",
-      "lon": -154.985,
-      "lat": 58.282,
-      "depth": 5,
-      "mag": 0.9,
-      "place": "85 km NNW of Karluk, Alaska",
-      "time": 1789807160798,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sotaqm"
-    },
-    {
-      "id": "pr71532953",
-      "lon": -66.9543333333333,
-      "lat": 17.9598333333333,
-      "depth": 9.84,
-      "mag": 2.15,
-      "place": "5 km WSW of Guánica, Puerto Rico",
-      "time": 1789807077070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532953"
-    },
-    {
-      "id": "aka2026sosvrf",
-      "lon": -152.241,
-      "lat": 59.912,
-      "depth": 85.4,
-      "mag": 1,
-      "place": "27 km WNW of Anchor Point, Alaska",
-      "time": 1789806816892,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sosvrf"
     }
   ]
 }
