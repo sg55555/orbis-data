@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T07:01:07Z",
-  "count": 248,
+  "updated": "2026-09-20T07:15:44Z",
+  "count": 244,
   "points": [
+    {
+      "id": "aka2026sqlsqi",
+      "lon": -151.896,
+      "lat": 59.125,
+      "depth": 54.8,
+      "mag": 2.5,
+      "place": "25 km S of Port Graham, Alaska",
+      "time": 1789887568429,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sqlsqi"
+    },
     {
       "id": "aka2026sqlmrc",
       "lon": -152.727,
@@ -32,6 +42,16 @@
       "place": "11 km N of Glacier View, Alaska",
       "time": 1789886894239,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sqlivy"
+    },
+    {
+      "id": "us7000tipi",
+      "lon": 145.7081,
+      "lat": 13.2653,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "93 km ESE of Yigo Village, Guam",
+      "time": 1789886876942,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipi"
     },
     {
       "id": "aka2026sqkyvn",
@@ -585,12 +605,12 @@
     },
     {
       "id": "tx2026smzort",
-      "lon": -103.679,
-      "lat": 32.071,
-      "depth": 8.106,
-      "mag": 1.7,
-      "place": "40 km ESE of Malaga, New Mexico",
-      "time": 1789864956379,
+      "lon": -103.685,
+      "lat": 32.084,
+      "depth": 7.4495,
+      "mag": 1.8,
+      "place": "39 km ESE of Malaga, New Mexico",
+      "time": 1789864956361,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026smzort"
     },
     {
@@ -2422,66 +2442,6 @@
       "place": "4 km SW of Guánica, Puerto Rico",
       "time": 1789802101550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532933"
-    },
-    {
-      "id": "us7000tii3",
-      "lon": -77.349,
-      "lat": -4.0134,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "117 km NW of Barranca, Peru",
-      "time": 1789801947058,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii3"
-    },
-    {
-      "id": "tx2026slqtdq",
-      "lon": -104.45,
-      "lat": 31.634,
-      "depth": 3.8878,
-      "mag": 1.5,
-      "place": "60 km S of Whites City, New Mexico",
-      "time": 1789801725595,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026slqtdq"
-    },
-    {
-      "id": "us7000tii4",
-      "lon": 131.1901,
-      "lat": 30.1668,
-      "depth": 38.536,
-      "mag": 4.6,
-      "place": "57 km ESE of Koseda, Japan",
-      "time": 1789801703856,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii4"
-    },
-    {
-      "id": "ok2026sjkk",
-      "lon": -95.96624756,
-      "lat": 34.67452621,
-      "depth": 5,
-      "mag": 2.26,
-      "place": "6 km ENE of Wardville, Oklahoma",
-      "time": 1789801686211,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026sjkk"
-    },
-    {
-      "id": "ci41335023",
-      "lon": -116.7275,
-      "lat": 33.5928333333333,
-      "depth": 10.04,
-      "mag": 0.36,
-      "place": "7 km NW of Anza, CA",
-      "time": 1789801372290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335023"
-    },
-    {
-      "id": "pr71532923",
-      "lon": -66.591,
-      "lat": 17.95,
-      "depth": 13.82,
-      "mag": 2.95,
-      "place": "7 km SSE of Ponce, Puerto Rico",
-      "time": 1789801302940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532923"
     }
   ]
 }
