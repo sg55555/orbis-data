@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T23:01:05Z",
-  "count": 217,
+  "updated": "2026-09-20T23:11:02Z",
+  "count": 214,
   "points": [
+    {
+      "id": "ci41335735",
+      "lon": -116.384833333333,
+      "lat": 33.3705,
+      "depth": 10.78,
+      "mag": 0.47,
+      "place": "13 km N of Borrego Springs, CA",
+      "time": 1789945395690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335735"
+    },
     {
       "id": "uw714106481",
       "lon": -122.321998596191,
@@ -2132,46 +2142,6 @@
       "place": "24 km S of Sipí, Colombia",
       "time": 1789860015368,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timg"
-    },
-    {
-      "id": "aka2026spwcaz",
-      "lon": -147.468,
-      "lat": 64.96,
-      "depth": 5,
-      "mag": 1,
-      "place": "7 km E of Fox, Alaska",
-      "time": 1789859434785,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026spwcaz"
-    },
-    {
-      "id": "aka2026spvyab",
-      "lon": -154.483,
-      "lat": 58.359,
-      "depth": 5.9,
-      "mag": 0.8,
-      "place": "88 km N of Karluk, Alaska",
-      "time": 1789859156217,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026spvyab"
-    },
-    {
-      "id": "tx2026smwldq",
-      "lon": -104.461,
-      "lat": 31.626,
-      "depth": 3.656,
-      "mag": 1.7,
-      "place": "61 km S of Whites City, New Mexico",
-      "time": 1789859116326,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026smwldq"
-    },
-    {
-      "id": "pr71533238",
-      "lon": -66.9603333333333,
-      "lat": 17.9778333333333,
-      "depth": 7.61,
-      "mag": 2.32,
-      "place": "4 km WSW of Fuig, Puerto Rico",
-      "time": 1789858827860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533238"
     }
   ]
 }
