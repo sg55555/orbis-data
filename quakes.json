@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T00:30:57Z",
-  "count": 232,
+  "updated": "2026-09-20T00:45:38Z",
+  "count": 233,
   "points": [
+    {
+      "id": "aka2026spyyke",
+      "lon": -154.972,
+      "lat": 58.295,
+      "depth": 5,
+      "mag": 0.8,
+      "place": "86 km NNW of Karluk, Alaska",
+      "time": 1789864583747,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026spyyke"
+    },
+    {
+      "id": "aka2026spyyci",
+      "lon": -148.508,
+      "lat": 61.937,
+      "depth": 7.4,
+      "mag": 2.3,
+      "place": "15 km N of Chickaloon, Alaska",
+      "time": 1789864558206,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026spyyci"
+    },
     {
       "id": "nc75438697",
       "lon": -121.611335754395,
@@ -32,6 +52,16 @@
       "place": "2 km NE of Pacifica, CA",
       "time": 1789863369740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438677"
+    },
+    {
+      "id": "pr71533288",
+      "lon": -66.9498333333333,
+      "lat": 17.9738333333333,
+      "depth": 6.91,
+      "mag": 2.52,
+      "place": "3 km WSW of Fuig, Puerto Rico",
+      "time": 1789863232310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533288"
     },
     {
       "id": "aka2026spxztd",
@@ -2302,26 +2332,6 @@
       "place": "10 km WNW of The Geysers, CA",
       "time": 1789779499920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438122"
-    },
-    {
-      "id": "aka2026soddcg",
-      "lon": -154.31,
-      "lat": 58.688,
-      "depth": 106.7,
-      "mag": 1.7,
-      "place": "87 km SSE of Kokhanok, Alaska",
-      "time": 1789778558610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026soddcg"
-    },
-    {
-      "id": "pr71532793",
-      "lon": -67.081,
-      "lat": 17.9365,
-      "depth": 11,
-      "mag": 2.43,
-      "place": "5 km SW of La Parguera, Puerto Rico",
-      "time": 1789778294950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532793"
     }
   ]
 }
