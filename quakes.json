@@ -1,14 +1,24 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T12:30:55Z",
-  "count": 221,
+  "updated": "2026-09-20T12:45:50Z",
+  "count": 222,
   "points": [
+    {
+      "id": "ci41335535",
+      "lon": -116.8025,
+      "lat": 33.57,
+      "depth": 5.34,
+      "mag": 0.09,
+      "place": "12 km W of Anza, CA",
+      "time": 1789907843430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335535"
+    },
     {
       "id": "aka2026sqwrcl",
       "lon": -147.473,
       "lat": 63.402,
       "depth": 64.6,
-      "mag": 1.6,
+      "mag": 1.9,
       "place": "73 km E of Cantwell, Alaska",
       "time": 1789907256259,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sqwrcl"
@@ -522,6 +532,16 @@
       "place": "10 km WSW of Corona, CA",
       "time": 1789885838230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335431"
+    },
+    {
+      "id": "us7000tipf",
+      "lon": -177.7128,
+      "lat": -19.2124,
+      "depth": 580.282,
+      "mag": 4.3,
+      "place": "Fiji region",
+      "time": 1789885807624,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipf"
     },
     {
       "id": "aka2026sqkjms",
@@ -2202,16 +2222,6 @@
       "place": "2 km W of Guánica, Puerto Rico",
       "time": 1789822173660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532998"
-    },
-    {
-      "id": "us7000tikp",
-      "lon": -169.4274,
-      "lat": 52.2509,
-      "depth": 40.507,
-      "mag": 4,
-      "place": "85 km SSW of Nikolski, Alaska",
-      "time": 1789821843347,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tikp"
     }
   ]
 }
