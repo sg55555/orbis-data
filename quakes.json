@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T05:21:15Z",
-  "count": 233,
+  "updated": "2026-09-20T05:30:57Z",
+  "count": 235,
   "points": [
+    {
+      "id": "nc75438782",
+      "lon": -122.946502685547,
+      "lat": 38.7761650085449,
+      "depth": 5.17000007629395,
+      "mag": 1,
+      "place": "7 km ESE of Cloverdale, CA",
+      "time": 1789882054240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438782"
+    },
+    {
+      "id": "nc75438777",
+      "lon": -122.93416595459,
+      "lat": 38.7786674499512,
+      "depth": 4.01999998092651,
+      "mag": 1.13,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": 1789881817660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438777"
+    },
     {
       "id": "ci41335415",
       "lon": -116.256833333333,
@@ -22,6 +42,16 @@
       "place": "20 km WNW of Big Spring, Texas",
       "time": 1789880879603,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026snilwi"
+    },
+    {
+      "id": "us7000tip2",
+      "lon": -174.7641,
+      "lat": -15.8926,
+      "depth": 10,
+      "mag": 5,
+      "place": "103 km W of Hihifo, Tonga",
+      "time": 1789880823869,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tip2"
     },
     {
       "id": "ci41335407",
@@ -2322,16 +2352,6 @@
       "place": "4 km WSW of Fuig, Puerto Rico",
       "time": 1789795879590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532898"
-    },
-    {
-      "id": "nc75438212",
-      "lon": -122.782333374023,
-      "lat": 38.8333320617676,
-      "depth": 2.60999989509583,
-      "mag": 1.1,
-      "place": "5 km WNW of Cobb, CA",
-      "time": 1789795271990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438212"
     }
   ]
 }
