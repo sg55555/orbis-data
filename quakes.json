@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T18:30:55Z",
-  "count": 218,
+  "updated": "2026-09-20T18:45:44Z",
+  "count": 219,
   "points": [
+    {
+      "id": "ci41335623",
+      "lon": -116.803333333333,
+      "lat": 33.5685,
+      "depth": 6.41,
+      "mag": 0.82,
+      "place": "12 km W of Anza, CA",
+      "time": 1789929453720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335623"
+    },
     {
       "id": "nc75438997",
       "lon": -122.754837036133,
@@ -22,6 +32,16 @@
       "place": "122 km S of Yakutat, Alaska",
       "time": 1789928379446,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026srikrm"
+    },
+    {
+      "id": "us7000tisi",
+      "lon": 115.7801,
+      "lat": -9.286,
+      "depth": 76.416,
+      "mag": 4.4,
+      "place": "69 km SSW of Lembar, Indonesia",
+      "time": 1789926692955,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tisi"
     },
     {
       "id": "tx2026sohpvq",
@@ -2172,16 +2192,6 @@
       "place": "47 km NW of Toyah, Texas",
       "time": 1789843548752,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026smnvud"
-    },
-    {
-      "id": "pr71533208",
-      "lon": -66.9418333333333,
-      "lat": 18.0331666666667,
-      "depth": 7.21,
-      "mag": 2.14,
-      "place": "1 km S of Liborio Negron Torres, Puerto Rico",
-      "time": 1789842782280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533208"
     }
   ]
 }
