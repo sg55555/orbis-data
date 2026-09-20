@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T16:19:00Z",
-  "count": 221,
+  "updated": "2026-09-20T16:30:55Z",
+  "count": 222,
   "points": [
+    {
+      "id": "ci41335599",
+      "lon": -118.833833333333,
+      "lat": 34.557,
+      "depth": 1.57,
+      "mag": 1.22,
+      "place": "16 km NNW of Piru, CA",
+      "time": 1789921025450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335599"
+    },
     {
       "id": "ci41335591",
       "lon": -116.726333333333,
@@ -162,6 +172,16 @@
       "place": "5 km S of Pāhala, Hawaii",
       "time": 1789912807130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75040782"
+    },
+    {
+      "id": "us7000tirv",
+      "lon": -170.3466,
+      "lat": 52.7501,
+      "depth": 87.277,
+      "mag": 4.6,
+      "place": "102 km WSW of Nikolski, Alaska",
+      "time": 1789912547125,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tirv"
     },
     {
       "id": "us7000tirt",
@@ -2202,16 +2222,6 @@
       "place": "2 km SW of Fuig, Puerto Rico",
       "time": 1789835479480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533043"
-    },
-    {
-      "id": "nc75438432",
-      "lon": -122.804000854492,
-      "lat": 38.8375015258789,
-      "depth": 2.11999988555908,
-      "mag": 0.7,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1789834997860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438432"
     }
   ]
 }
