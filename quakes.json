@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T20:15:38Z",
-  "count": 215,
+  "updated": "2026-09-20T20:30:54Z",
+  "count": 211,
   "points": [
+    {
+      "id": "ci41335671",
+      "lon": -117.216833333333,
+      "lat": 34.0173333333333,
+      "depth": 14.35,
+      "mag": 0.76,
+      "place": "5 km SW of Redlands, CA",
+      "time": 1789935761070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335671"
+    },
     {
       "id": "ci41335663",
       "lon": -115.093,
@@ -2102,56 +2112,6 @@
       "place": "2 km NNW of Pāhala, Hawaii",
       "time": 1789850298200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75040347"
-    },
-    {
-      "id": "us7000tild",
-      "lon": -33.4247,
-      "lat": 57.1175,
-      "depth": 10,
-      "mag": 5.2,
-      "place": "Reykjanes Ridge",
-      "time": 1789849482449,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tild"
-    },
-    {
-      "id": "hv75040342",
-      "lon": -155.2665,
-      "lat": 19.3985,
-      "depth": 0.15,
-      "mag": 2.13,
-      "place": "5 km SW of Volcano, Hawaii",
-      "time": 1789849253000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75040342"
-    },
-    {
-      "id": "hv75040337",
-      "lon": -155.268,
-      "lat": 19.4006666666667,
-      "depth": 0.12,
-      "mag": 1.91,
-      "place": "5 km SW of Volcano, Hawaii",
-      "time": 1789849252420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75040337"
-    },
-    {
-      "id": "aka2026spqkpb",
-      "lon": -144.211,
-      "lat": 69.544,
-      "depth": 2.6,
-      "mag": 2.5,
-      "place": "69 km SSW of Kaktovik, Alaska",
-      "time": 1789849242592,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026spqkpb"
-    },
-    {
-      "id": "aka2026spqjau",
-      "lon": -152.284,
-      "lat": 61.3,
-      "depth": 7.6,
-      "mag": 0.8,
-      "place": "66 km WNW of Tyonek, Alaska",
-      "time": 1789849122951,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026spqjau"
     }
   ]
 }
