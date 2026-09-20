@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T02:45:38Z",
-  "count": 234,
+  "updated": "2026-09-20T03:01:05Z",
+  "count": 235,
   "points": [
+    {
+      "id": "nc75438762",
+      "lon": -122.811332702637,
+      "lat": 38.8321647644043,
+      "depth": 1.95000004768372,
+      "mag": 1.22,
+      "place": "8 km W of Cobb, CA",
+      "time": 1789872933940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438762"
+    },
+    {
+      "id": "nc75438752",
+      "lon": -122.813163757324,
+      "lat": 38.8310012817383,
+      "depth": 1.50999999046326,
+      "mag": 1.05,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1789872724610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438752"
+    },
+    {
+      "id": "us7000tinf",
+      "lon": -60.5578,
+      "lat": 15.0395,
+      "depth": 46.424,
+      "mag": 4.5,
+      "place": "54 km ENE of Sainte-Marie, Martinique",
+      "time": 1789872261022,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinf"
+    },
     {
       "id": "nc75438742",
       "lon": -122.816833496094,
@@ -2322,26 +2352,6 @@
       "place": "5 km WSW of Guánica, Puerto Rico",
       "time": 1789787151860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532838"
-    },
-    {
-      "id": "aka2026sohssn",
-      "lon": -148.173,
-      "lat": 62.516,
-      "depth": 55,
-      "mag": 1.9,
-      "place": "81 km N of Chickaloon, Alaska",
-      "time": 1789786822606,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sohssn"
-    },
-    {
-      "id": "aka2026sohmlx",
-      "lon": -152.723,
-      "lat": 60.538,
-      "depth": 6.9,
-      "mag": 1.1,
-      "place": "77 km W of Salamatof, Alaska",
-      "time": 1789786388856,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sohmlx"
     }
   ]
 }
