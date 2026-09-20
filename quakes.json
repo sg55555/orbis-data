@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T14:30:54Z",
-  "count": 219,
+  "updated": "2026-09-20T14:45:40Z",
+  "count": 221,
   "points": [
+    {
+      "id": "ci41335567",
+      "lon": -116.782,
+      "lat": 33.308,
+      "depth": 15.54,
+      "mag": 0.72,
+      "place": "8 km NNW of Lake Henshaw, CA",
+      "time": 1789915130770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335567"
+    },
     {
       "id": "aka2026srangn",
       "lon": -152.331,
@@ -52,6 +62,16 @@
       "place": "5 km S of Pāhala, Hawaii",
       "time": 1789912807130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75040782"
+    },
+    {
+      "id": "us7000tirt",
+      "lon": 137.2284,
+      "lat": 33.9678,
+      "depth": 354.932,
+      "mag": 4.7,
+      "place": "54 km SE of Shima, Japan",
+      "time": 1789912496995,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tirt"
     },
     {
       "id": "ci41335559",
@@ -285,9 +305,9 @@
     },
     {
       "id": "ci41335503",
-      "lon": -119.015166666667,
-      "lat": 34.8963333333333,
-      "depth": 12.5,
+      "lon": -119.012833333333,
+      "lat": 34.8918333333333,
+      "depth": 12.29,
       "mag": 1.2,
       "place": "9 km SW of Grapevine, CA",
       "time": 1789903324580,
