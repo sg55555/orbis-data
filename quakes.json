@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T04:30:53Z",
+  "updated": "2026-09-20T04:45:38Z",
   "count": 230,
   "points": [
+    {
+      "id": "ci41335367",
+      "lon": -117.579170227051,
+      "lat": 35.7550010681152,
+      "depth": 1.89999997615814,
+      "mag": 0.964099511977769,
+      "place": "16 km W of Searles Valley, CA",
+      "time": 1789879349040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335367"
+    },
+    {
+      "id": "aka2026sqgyfq",
+      "lon": -150.669,
+      "lat": 61.181,
+      "depth": 57.3,
+      "mag": 2.3,
+      "place": "22 km E of Beluga, Alaska",
+      "time": 1789878963486,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sqgyfq"
+    },
     {
       "id": "aka2026sqgrtn",
       "lon": -148.53,
@@ -12,6 +32,16 @@
       "place": "38 km E of Minto, Alaska",
       "time": 1789878513392,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sqgrtn"
+    },
+    {
+      "id": "tx2026sngzur",
+      "lon": -104.364,
+      "lat": 31.669,
+      "depth": 7.3816,
+      "mag": 3,
+      "place": "56 km S of Whites City, New Mexico",
+      "time": 1789878220140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sngzur"
     },
     {
       "id": "tx2026sngvai",
@@ -2272,36 +2302,6 @@
       "place": "3 km SW of Guánica, Puerto Rico",
       "time": 1789793348420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026262000"
-    },
-    {
-      "id": "hv75039947",
-      "lon": -155.526336669922,
-      "lat": 19.1875,
-      "depth": 27.3899993896484,
-      "mag": 1.96,
-      "place": "5 km WSW of Pāhala, Hawaii",
-      "time": 1789792831530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75039947"
-    },
-    {
-      "id": "pr71532868",
-      "lon": -66.9235,
-      "lat": 17.7826666666667,
-      "depth": 10.61,
-      "mag": 2.21,
-      "place": "20 km S of Guánica, Puerto Rico",
-      "time": 1789792761660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532868"
-    },
-    {
-      "id": "ci41334991",
-      "lon": -116.805166666667,
-      "lat": 33.5703333333333,
-      "depth": 5.82,
-      "mag": 0.46,
-      "place": "12 km W of Anza, CA",
-      "time": 1789792406750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334991"
     }
   ]
 }
