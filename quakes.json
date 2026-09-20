@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T05:30:57Z",
-  "count": 235,
+  "updated": "2026-09-20T05:45:39Z",
+  "count": 234,
   "points": [
+    {
+      "id": "nc75438787",
+      "lon": -122.765998840332,
+      "lat": 38.7923316955566,
+      "depth": 3.45000004768372,
+      "mag": 0.77,
+      "place": "2 km NNW of The Geysers, CA",
+      "time": 1789882194490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438787"
+    },
     {
       "id": "nc75438782",
       "lon": -122.946502685547,
@@ -2332,26 +2342,6 @@
       "place": "23 km ENE of San Lucas, CA",
       "time": 1789797003400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438217"
-    },
-    {
-      "id": "tx2026slnska",
-      "lon": -101.508,
-      "lat": 31.876,
-      "depth": 2.5912,
-      "mag": 1.4,
-      "place": "2 km WNW of Garden City, Texas",
-      "time": 1789796239235,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026slnska"
-    },
-    {
-      "id": "pr71532898",
-      "lon": -66.9571666666667,
-      "lat": 17.9726666666667,
-      "depth": 7.87,
-      "mag": 3.07,
-      "place": "4 km WSW of Fuig, Puerto Rico",
-      "time": 1789795879590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532898"
     }
   ]
 }
