@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T14:01:10Z",
-  "count": 221,
+  "updated": "2026-09-20T14:10:47Z",
+  "count": 219,
   "points": [
+    {
+      "id": "hv75040782",
+      "lon": -155.48649597168,
+      "lat": 19.1509990692139,
+      "depth": 13.2799997329712,
+      "mag": 2.14,
+      "place": "5 km S of Pāhala, Hawaii",
+      "time": 1789912807130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75040782"
+    },
     {
       "id": "ci41335559",
       "lon": -116.785,
@@ -2182,36 +2192,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1789827540810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438362"
-    },
-    {
-      "id": "nc75438357",
-      "lon": -119.676498413086,
-      "lat": 38.6066665649414,
-      "depth": 0.180000007152557,
-      "mag": 2.02,
-      "place": "14 km SE of Markleeville, CA",
-      "time": 1789826829530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438357"
-    },
-    {
-      "id": "tx2026smepke",
-      "lon": -101.799,
-      "lat": 32.157,
-      "depth": 3.8958,
-      "mag": 1,
-      "place": "3 km NNW of Stanton, Texas",
-      "time": 1789826808234,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026smepke"
-    },
-    {
-      "id": "ci41335079",
-      "lon": -116.446833333333,
-      "lat": 33.5071666666667,
-      "depth": 5.94,
-      "mag": 0.59,
-      "place": "22 km SW of La Quinta, CA",
-      "time": 1789826706550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335079"
     }
   ]
 }
