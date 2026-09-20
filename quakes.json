@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T08:01:07Z",
-  "count": 244,
+  "updated": "2026-09-20T08:15:40Z",
+  "count": 247,
   "points": [
+    {
+      "id": "nc75438812",
+      "lon": -122.84016418457,
+      "lat": 38.8209991455078,
+      "depth": 2.10999989509583,
+      "mag": 1.4,
+      "place": "9 km NW of The Geysers, CA",
+      "time": 1789891965030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438812"
+    },
+    {
+      "id": "nn00924657",
+      "lon": -116.522,
+      "lat": 38.4394,
+      "depth": 1.0387,
+      "mag": 1.75,
+      "place": "74 km ENE of Tonopah, Nevada",
+      "time": 1789891730282,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924657"
+    },
     {
       "id": "ci41335455",
       "lon": -115.602833333333,
@@ -12,6 +32,16 @@
       "place": "9 km SW of Niland, CA",
       "time": 1789890919910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335455"
+    },
+    {
+      "id": "pr71533463",
+      "lon": -66.6015,
+      "lat": 17.9513333333333,
+      "depth": 14.03,
+      "mag": 3.05,
+      "place": "6 km SSE of Ponce, Puerto Rico",
+      "time": 1789890784250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533463"
     },
     {
       "id": "aka2026sqnctp",
@@ -1294,6 +1324,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026spoiqh"
     },
     {
+      "id": "av94439336",
+      "lon": -156.326833333333,
+      "lat": 58.107,
+      "depth": 12.27,
+      "mag": 0.75,
+      "place": "62 km ESE of Egegik, Alaska",
+      "time": 1789845249010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94439336"
+    },
+    {
       "id": "aka2026spobdy",
       "lon": -153.407,
       "lat": 59.845,
@@ -2432,16 +2472,6 @@
       "place": "27 km WNW of Anchor Point, Alaska",
       "time": 1789806816892,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sosvrf"
-    },
-    {
-      "id": "aka2026sortzr",
-      "lon": -150.074,
-      "lat": 60.885,
-      "depth": 35.2,
-      "mag": 2.3,
-      "place": "23 km W of Hope, Alaska",
-      "time": 1789804902438,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sortzr"
     }
   ]
 }
