@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T02:30:54Z",
-  "count": 232,
+  "updated": "2026-09-20T02:45:38Z",
+  "count": 234,
   "points": [
+    {
+      "id": "nc75438742",
+      "lon": -122.816833496094,
+      "lat": 38.8303337097168,
+      "depth": 1.70000004768372,
+      "mag": 0.72,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1789871588390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438742"
+    },
+    {
+      "id": "hv75040502",
+      "lon": -155.380340576172,
+      "lat": 19.1270008087158,
+      "depth": 28.1499996185303,
+      "mag": 1.95,
+      "place": "13 km SE of Pāhala, Hawaii",
+      "time": 1789871323140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75040502"
+    },
     {
       "id": "hv75040492",
       "lon": -155.251495361328,
@@ -12,6 +32,16 @@
       "place": "5 km SSW of Volcano, Hawaii",
       "time": 1789870647420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75040492"
+    },
+    {
+      "id": "pr71533323",
+      "lon": -66.9348333333333,
+      "lat": 17.945,
+      "depth": 9.27,
+      "mag": 2.01,
+      "place": "4 km SW of Guánica, Puerto Rico",
+      "time": 1789869851750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533323"
     },
     {
       "id": "aka2026sqbrhg",
@@ -232,6 +262,16 @@
       "place": "4 km N of Aromas, CA",
       "time": 1789862644360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438672"
+    },
+    {
+      "id": "us7000timl",
+      "lon": 127.5122,
+      "lat": -7.6037,
+      "depth": 152.595,
+      "mag": 4.2,
+      "place": "116 km NNE of Lospalos, Timor Leste",
+      "time": 1789862046577,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timl"
     },
     {
       "id": "nc75438667",
@@ -2302,26 +2342,6 @@
       "place": "77 km W of Salamatof, Alaska",
       "time": 1789786388856,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sohmlx"
-    },
-    {
-      "id": "pr71532833",
-      "lon": -66.9368333333333,
-      "lat": 17.9328333333333,
-      "depth": 8.15,
-      "mag": 2.27,
-      "place": "5 km SW of Guánica, Puerto Rico",
-      "time": 1789785854120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532833"
-    },
-    {
-      "id": "ci41334967",
-      "lon": -116.721666666667,
-      "lat": 33.9156666666667,
-      "depth": 17.5,
-      "mag": 0.53,
-      "place": "6 km E of Cabazon, CA",
-      "time": 1789785577240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334967"
     }
   ]
 }
