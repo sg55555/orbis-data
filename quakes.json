@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T17:45:38Z",
+  "updated": "2026-09-20T18:01:06Z",
   "count": 216,
   "points": [
+    {
+      "id": "tx2026sohpvq",
+      "lon": -103.552,
+      "lat": 30.878,
+      "depth": 4.3134,
+      "mag": 1.6,
+      "place": "21 km ESE of Balmorhea, Texas",
+      "time": 1789926406286,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sohpvq"
+    },
     {
       "id": "aka2026srgcdi",
       "lon": -157.772,
@@ -32,6 +42,16 @@
       "place": "9 km WNW of The Geysers, CA",
       "time": 1789923813060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438982"
+    },
+    {
+      "id": "us7000tisb",
+      "lon": -68.6909,
+      "lat": 17.6862,
+      "depth": 35,
+      "mag": 3.1,
+      "place": "77 km S of Boca de Yuma, Dominican Republic",
+      "time": 1789923570757,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tisb"
     },
     {
       "id": "ci41335607",
@@ -405,12 +425,12 @@
     },
     {
       "id": "ci41335527",
-      "lon": -115.5285,
-      "lat": 32.9078333333333,
-      "depth": 9.92,
-      "mag": 1.43,
-      "place": "8 km NNE of Imperial, CA",
-      "time": 1789906532290,
+      "lon": -115.526166666667,
+      "lat": 32.9123333333333,
+      "depth": 10.96,
+      "mag": 1.4,
+      "place": "7 km S of Brawley, CA",
+      "time": 1789906532110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335527"
     },
     {
@@ -2142,26 +2162,6 @@
       "place": "2 km NW of The Geysers, CA",
       "time": 1789841979400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438487"
-    },
-    {
-      "id": "nc75438477",
-      "lon": -122.763496398926,
-      "lat": 38.7944984436035,
-      "depth": 0.660000026226044,
-      "mag": 0.66,
-      "place": "2 km NNW of The Geysers, CA",
-      "time": 1789840116280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438477"
-    },
-    {
-      "id": "pr71533078",
-      "lon": -66.9473333333333,
-      "lat": 17.9568333333333,
-      "depth": 8.77,
-      "mag": 2.39,
-      "place": "4 km WSW of Guánica, Puerto Rico",
-      "time": 1789840015820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533078"
     }
   ]
 }
