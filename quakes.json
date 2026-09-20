@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T03:01:05Z",
-  "count": 235,
+  "updated": "2026-09-20T03:15:40Z",
+  "count": 233,
   "points": [
+    {
+      "id": "aka2026sqdzzi",
+      "lon": -150.764,
+      "lat": 61.422,
+      "depth": 65.9,
+      "mag": 1.8,
+      "place": "19 km SW of Susitna, Alaska",
+      "time": 1789873685063,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sqdzzi"
+    },
     {
       "id": "nc75438762",
       "lon": -122.811332702637,
@@ -342,6 +352,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1789860276250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438647"
+    },
+    {
+      "id": "us7000timg",
+      "lon": -76.628,
+      "lat": 4.436,
+      "depth": 80.206,
+      "mag": 4.2,
+      "place": "24 km S of Sipí, Colombia",
+      "time": 1789860015368,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timg"
     },
     {
       "id": "aka2026spwcaz",
@@ -2312,46 +2332,6 @@
       "place": "54 km W of Anchor Point, Alaska",
       "time": 1789787743779,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026soigah"
-    },
-    {
-      "id": "pr71532863",
-      "lon": -66.9275,
-      "lat": 17.9408333333333,
-      "depth": 13.13,
-      "mag": 2.48,
-      "place": "3 km SSW of Guánica, Puerto Rico",
-      "time": 1789787619980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532863"
-    },
-    {
-      "id": "pr71532843",
-      "lon": -66.9425,
-      "lat": 17.9458333333333,
-      "depth": 9.46,
-      "mag": 2.47,
-      "place": "4 km SW of Guánica, Puerto Rico",
-      "time": 1789787528300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532843"
-    },
-    {
-      "id": "nc75438187",
-      "lon": -124.427001953125,
-      "lat": 40.3073348999023,
-      "depth": 9.56999969482422,
-      "mag": 1.53,
-      "place": "12 km W of Petrolia, CA",
-      "time": 1789787495930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438187"
-    },
-    {
-      "id": "pr71532838",
-      "lon": -66.9525,
-      "lat": 17.9541666666667,
-      "depth": 7.06,
-      "mag": 2.4,
-      "place": "5 km WSW of Guánica, Puerto Rico",
-      "time": 1789787151860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532838"
     }
   ]
 }
