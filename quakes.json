@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T07:45:42Z",
-  "count": 243,
+  "updated": "2026-09-20T08:01:07Z",
+  "count": 244,
   "points": [
+    {
+      "id": "ci41335455",
+      "lon": -115.602833333333,
+      "lat": 33.1928333333333,
+      "depth": 2.44,
+      "mag": 1.07,
+      "place": "9 km SW of Niland, CA",
+      "time": 1789890919910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335455"
+    },
     {
       "id": "aka2026sqnctp",
       "lon": -155.617,
@@ -42,6 +52,16 @@
       "place": "8 km S of Pāhala, Hawaii",
       "time": 1789889506070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75040647"
+    },
+    {
+      "id": "us7000tipl",
+      "lon": 129.3406,
+      "lat": 28.3947,
+      "depth": 68.834,
+      "mag": 5.1,
+      "place": "14 km WNW of Naze, Japan",
+      "time": 1789889302965,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipl"
     },
     {
       "id": "aka2026sqmmxq",
@@ -1172,6 +1192,26 @@
       "place": "18 km SSW of Searles Valley, CA",
       "time": 1789848055920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335215"
+    },
+    {
+      "id": "av94439391",
+      "lon": -154.903833333333,
+      "lat": 58.2508333333333,
+      "depth": 14.54,
+      "mag": -0.05,
+      "place": "80 km NNW of Karluk, Alaska",
+      "time": 1789847919820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94439391"
+    },
+    {
+      "id": "av94439386",
+      "lon": -154.987333333333,
+      "lat": 58.3008333333333,
+      "depth": 2.87,
+      "mag": -0.39,
+      "place": "87 km NNW of Karluk, Alaska",
+      "time": 1789847858110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94439386"
     },
     {
       "id": "pr71533158",
@@ -2402,36 +2442,6 @@
       "place": "23 km W of Hope, Alaska",
       "time": 1789804902438,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sortzr"
-    },
-    {
-      "id": "pr71532943",
-      "lon": -66.7496666666667,
-      "lat": 19.7728333333333,
-      "depth": 33.14,
-      "mag": 3.41,
-      "place": "142 km N of Hatillo, Puerto Rico",
-      "time": 1789804462700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532943"
-    },
-    {
-      "id": "tx2026slsggq",
-      "lon": -104.192,
-      "lat": 31.562,
-      "depth": 4.2036,
-      "mag": 1.7,
-      "place": "46 km NW of Toyah, Texas",
-      "time": 1789804444995,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026slsggq"
-    },
-    {
-      "id": "tx2026slsfls",
-      "lon": -104.176,
-      "lat": 31.594,
-      "depth": 9.0791,
-      "mag": 1.5,
-      "place": "47 km NW of Toyah, Texas",
-      "time": 1789804389502,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026slsfls"
     }
   ]
 }
