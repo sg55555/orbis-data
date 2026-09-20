@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T18:15:44Z",
-  "count": 217,
+  "updated": "2026-09-20T18:30:55Z",
+  "count": 218,
   "points": [
+    {
+      "id": "nc75438997",
+      "lon": -122.754837036133,
+      "lat": 38.7864990234375,
+      "depth": 1.96000003814697,
+      "mag": 1.38,
+      "place": "1 km N of The Geysers, CA",
+      "time": 1789928615260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438997"
+    },
+    {
+      "id": "aka2026srikrm",
+      "lon": -139.381,
+      "lat": 58.46,
+      "depth": 5,
+      "mag": 3.4,
+      "place": "122 km S of Yakutat, Alaska",
+      "time": 1789928379446,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026srikrm"
+    },
     {
       "id": "tx2026sohpvq",
       "lon": -103.552,
@@ -12,6 +32,16 @@
       "place": "21 km ESE of Balmorhea, Texas",
       "time": 1789926406286,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sohpvq"
+    },
+    {
+      "id": "us7000tisg",
+      "lon": -174.7369,
+      "lat": -16.7787,
+      "depth": 160.742,
+      "mag": 4.4,
+      "place": "135 km SW of Hihifo, Tonga",
+      "time": 1789924625458,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tisg"
     },
     {
       "id": "aka2026srgcdi",
@@ -2152,26 +2182,6 @@
       "place": "1 km S of Liborio Negron Torres, Puerto Rico",
       "time": 1789842782280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533208"
-    },
-    {
-      "id": "hv75040307",
-      "lon": -155.392837524414,
-      "lat": 19.0025005340576,
-      "depth": 32.5200004577637,
-      "mag": 1.95,
-      "place": "20 km ESE of Naalehu, Hawaii",
-      "time": 1789842384370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75040307"
-    },
-    {
-      "id": "nc75438487",
-      "lon": -122.769332885742,
-      "lat": 38.7879981994629,
-      "depth": 0.970000028610229,
-      "mag": 1.18,
-      "place": "2 km NW of The Geysers, CA",
-      "time": 1789841979400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438487"
     }
   ]
 }
