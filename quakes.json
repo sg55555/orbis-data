@@ -1,6 +1,6 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T21:01:02Z",
+  "updated": "2026-09-20T21:15:41Z",
   "count": 212,
   "points": [
     {
@@ -12,6 +12,16 @@
       "place": "0 km W of The Geysers, CA",
       "time": 1789937909280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439067"
+    },
+    {
+      "id": "us7000tit5",
+      "lon": 31.2345,
+      "lat": -48.4279,
+      "depth": 10,
+      "mag": 5.7,
+      "place": "south of Africa",
+      "time": 1789937677248,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tit5"
     },
     {
       "id": "nc75439057",
@@ -2112,16 +2122,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1789852693790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438597"
-    },
-    {
-      "id": "ok2026skmd",
-      "lon": -96.76616667,
-      "lat": 35.536,
-      "depth": 11.26,
-      "mag": 2.18,
-      "place": "9 km NW of Prague, Oklahoma",
-      "time": 1789852121729,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026skmd"
     }
   ]
 }
