@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-20T20:45:55Z",
-  "count": 211,
+  "updated": "2026-09-20T21:01:02Z",
+  "count": 212,
   "points": [
+    {
+      "id": "nc75439067",
+      "lon": -122.758834838867,
+      "lat": 38.7776679992676,
+      "depth": 0.870000004768372,
+      "mag": 0.26,
+      "place": "0 km W of The Geysers, CA",
+      "time": 1789937909280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439067"
+    },
     {
       "id": "nc75439057",
       "lon": -122.807502746582,
@@ -32,6 +42,16 @@
       "place": "13 km NE of Pāhala, Hawaii",
       "time": 1789936568830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75040882"
+    },
+    {
+      "id": "pr71533593",
+      "lon": -66.9515,
+      "lat": 17.9575,
+      "depth": 7.96,
+      "mag": 2.95,
+      "place": "4 km WSW of Guánica, Puerto Rico",
+      "time": 1789936356360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533593"
     },
     {
       "id": "ci41335671",
@@ -2102,16 +2122,6 @@
       "place": "9 km NW of Prague, Oklahoma",
       "time": 1789852121729,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026skmd"
-    },
-    {
-      "id": "us7000till",
-      "lon": 14.8718,
-      "lat": 38.9139,
-      "depth": 272.133,
-      "mag": 4.3,
-      "place": "37 km N of Malfa, Italy",
-      "time": 1789851332082,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000till"
     }
   ]
 }
