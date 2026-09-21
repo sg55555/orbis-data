@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-21T22:45:47Z",
-  "count": 251,
+  "updated": "2026-09-21T23:01:07Z",
+  "count": 250,
   "points": [
+    {
+      "id": "ci41336415",
+      "lon": -117.342333333333,
+      "lat": 34.1463333333333,
+      "depth": 9.52,
+      "mag": 1.25,
+      "place": "1 km S of Muscoy, CA",
+      "time": 1790031040920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336415"
+    },
     {
       "id": "nc75439702",
       "lon": -124.535835266113,
@@ -144,6 +154,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj0r"
     },
     {
+      "id": "uw714107261",
+      "lon": -119.445833333333,
+      "lat": 42.449,
+      "depth": 7.91,
+      "mag": 1.54,
+      "place": "37 km E of Plush, Oregon",
+      "time": 1790023497380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714107261"
+    },
+    {
       "id": "uu80157676",
       "lon": -110.056,
       "lat": 44.6765,
@@ -175,12 +195,12 @@
     },
     {
       "id": "ci41336311",
-      "lon": -116.791666666667,
-      "lat": 33.6895,
-      "depth": 16.07,
-      "mag": 0.35,
+      "lon": -116.792,
+      "lat": 33.6861666666667,
+      "depth": 15.52,
+      "mag": 0.43,
       "place": "9 km SW of Idyllwild, CA",
-      "time": 1790022056920,
+      "time": 1790022056950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336311"
     },
     {
@@ -1604,6 +1624,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026spezsy"
     },
     {
+      "id": "av94441286",
+      "lon": -153.044,
+      "lat": 60.0565,
+      "depth": 5,
+      "mag": -0.77,
+      "place": "66 km ENE of Pedro Bay, Alaska",
+      "time": 1789968691180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94441286"
+    },
+    {
       "id": "ci10254054",
       "lon": -116.342666666667,
       "lat": 33.9866666666667,
@@ -2344,6 +2374,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sotxqn"
     },
     {
+      "id": "uw714106511",
+      "lon": -122.6405,
+      "lat": 46.23,
+      "depth": 17.51,
+      "mag": 0.66,
+      "place": "21 km ESE of Castle Rock, Washington",
+      "time": 1789948647390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714106511"
+    },
+    {
       "id": "ci41335759",
       "lon": -116.757833333333,
       "lat": 33.5865,
@@ -2454,64 +2494,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335735"
     },
     {
-      "id": "uw714106481",
-      "lon": -122.321998596191,
-      "lat": 46.5195007324219,
-      "depth": 8.06999969482422,
-      "mag": 1.08000004,
-      "place": "5 km SW of Morton, Washington",
-      "time": 1789944981750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714106481"
-    },
-    {
-      "id": "uw714106471",
-      "lon": -122.3175,
-      "lat": 46.5146666666667,
-      "depth": 10.05,
-      "mag": 1.51,
-      "place": "5 km SSW of Morton, Washington",
-      "time": 1789944790410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714106471"
-    },
-    {
-      "id": "nc75439152",
-      "lon": -122.896331787109,
-      "lat": 38.8246650695801,
-      "depth": 3.9300000667572,
-      "mag": 0.4,
-      "place": "11 km ENE of Cloverdale, CA",
-      "time": 1789944712160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439152"
-    },
-    {
-      "id": "us7000titz",
-      "lon": 166.1528,
-      "lat": -12.24,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "172 km SSE of Lata, Solomon Islands",
-      "time": 1789944681731,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000titz"
-    },
-    {
-      "id": "aka2026srrkqm",
-      "lon": -155.644,
-      "lat": 57.838,
-      "depth": 10.3,
-      "mag": 1.7,
-      "place": "76 km WNW of Karluk, Alaska",
-      "time": 1789944591012,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026srrkqm"
-    },
-    {
-      "id": "hv75040947",
-      "lon": -156.241333007812,
-      "lat": 19.808500289917,
-      "depth": 15.0200004577637,
-      "mag": 1.86,
-      "place": "28 km WNW of Kalaoa, Hawaii",
-      "time": 1789944547090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75040947"
+      "id": "uw714106491",
+      "lon": -120.484666666667,
+      "lat": 49.3873333333333,
+      "depth": -0.36,
+      "mag": 2.4,
+      "place": "8 km SSE of Princeton, Canada",
+      "time": 1789945303660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714106491"
     }
   ]
 }
