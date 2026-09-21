@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-21T11:16:17Z",
-  "count": 220,
+  "updated": "2026-09-21T11:30:56Z",
+  "count": 222,
   "points": [
+    {
+      "id": "aka2026ssqscs",
+      "lon": -150.859,
+      "lat": 60.274,
+      "depth": 64.6,
+      "mag": 1.9,
+      "place": "24 km ESE of Kasilof, Alaska",
+      "time": 1789990086572,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssqscs"
+    },
+    {
+      "id": "aka2026ssqjze",
+      "lon": -152.651,
+      "lat": 59.462,
+      "depth": 90.8,
+      "mag": 2,
+      "place": "43 km WNW of Nanwalek, Alaska",
+      "time": 1789989524178,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssqjze"
+    },
     {
       "id": "aka2026sspyry",
       "lon": -150.688,
@@ -842,6 +862,16 @@
       "place": "40 km NW of Toyah, Texas",
       "time": 1789955793032,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026soxvxe"
+    },
+    {
+      "id": "tx2026soxuwx",
+      "lon": -101.468,
+      "lat": 32.085,
+      "depth": 2.878,
+      "mag": 1.1,
+      "place": "9 km WSW of Forsan, Texas",
+      "time": 1789955722037,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026soxuwx"
     },
     {
       "id": "ci41335799",
@@ -2192,16 +2222,6 @@
       "place": "Volcano Islands, Japan region",
       "time": 1789904605187,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tir6"
-    },
-    {
-      "id": "ci41335503",
-      "lon": -119.012833333333,
-      "lat": 34.8918333333333,
-      "depth": 12.29,
-      "mag": 1.2,
-      "place": "9 km SW of Grapevine, CA",
-      "time": 1789903324580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335503"
     }
   ]
 }
