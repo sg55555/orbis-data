@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-21T15:01:14Z",
-  "count": 233,
+  "updated": "2026-09-21T15:15:55Z",
+  "count": 232,
   "points": [
     {
       "id": "aka2026ssxqjv",
@@ -904,13 +904,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026spezsy"
     },
     {
+      "id": "ci10254054",
+      "lon": -116.342666666667,
+      "lat": 33.9866666666667,
+      "depth": 5.08,
+      "mag": 0.5,
+      "place": "15 km E of Desert Hot Springs, CA",
+      "time": 1789968246950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10254054"
+    },
+    {
       "id": "ci41335863",
-      "lon": -116.891666666667,
-      "lat": 33.8878333333333,
-      "depth": 15.18,
-      "mag": 0.89,
-      "place": "4 km SSW of Banning, CA",
-      "time": 1789968239310,
+      "lon": -116.890333333333,
+      "lat": 33.8845,
+      "depth": 14.26,
+      "mag": 0.45,
+      "place": "5 km SSW of Banning, CA",
+      "time": 1789968239390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335863"
     },
     {
@@ -1265,12 +1275,12 @@
     },
     {
       "id": "tx2026soxuwx",
-      "lon": -101.468,
-      "lat": 32.085,
-      "depth": 2.878,
-      "mag": 1.1,
-      "place": "9 km WSW of Forsan, Texas",
-      "time": 1789955722037,
+      "lon": -101.478,
+      "lat": 32.088,
+      "depth": 8.9111,
+      "mag": 0.8,
+      "place": "10 km WSW of Forsan, Texas",
+      "time": 1789955722133,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026soxuwx"
     },
     {
@@ -2154,6 +2164,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tisg"
     },
     {
+      "id": "uu80157581",
+      "lon": -112.902333333333,
+      "lat": 37.0801666666667,
+      "depth": 13.66,
+      "mag": 1.13,
+      "place": "10 km NE of Hildale, Utah",
+      "time": 1789924232160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157581"
+    },
+    {
       "id": "aka2026srgcdi",
       "lon": -157.772,
       "lat": 55.946,
@@ -2302,36 +2322,6 @@
       "place": "1 km ESE of Pāhala, Hawaii",
       "time": 1789917335590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75040822"
-    },
-    {
-      "id": "aka2026srcbwk",
-      "lon": -151.04,
-      "lat": 62.567,
-      "depth": 86.3,
-      "mag": 2.3,
-      "place": "16 km WNW of Petersville, Alaska",
-      "time": 1789916995140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026srcbwk"
-    },
-    {
-      "id": "ci41335575",
-      "lon": -119.143,
-      "lat": 35.0071666666667,
-      "depth": 11.62,
-      "mag": 1.08,
-      "place": "18 km N of Pine Mountain Club, CA",
-      "time": 1789916914030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335575"
-    },
-    {
-      "id": "aka2026srbzoo",
-      "lon": -148.558,
-      "lat": 65.504,
-      "depth": 15.2,
-      "mag": 0.9,
-      "place": "2 km SSW of Livengood, Alaska",
-      "time": 1789916836437,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026srbzoo"
     }
   ]
 }
