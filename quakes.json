@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-21T02:45:39Z",
+  "updated": "2026-09-21T03:01:18Z",
   "count": 217,
   "points": [
+    {
+      "id": "aka2026srzpsk",
+      "lon": -155.663,
+      "lat": 57.822,
+      "depth": 15.2,
+      "mag": 1.3,
+      "place": "77 km WNW of Karluk, Alaska",
+      "time": 1789959335106,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026srzpsk"
+    },
     {
       "id": "ci41335823",
       "lon": -117.825333333333,
@@ -442,6 +452,16 @@
       "place": "11 km ENE of Cloverdale, CA",
       "time": 1789944712160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439152"
+    },
+    {
+      "id": "us7000titz",
+      "lon": 166.1528,
+      "lat": -12.24,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "172 km SSE of Lata, Solomon Islands",
+      "time": 1789944681731,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000titz"
     },
     {
       "id": "aka2026srrkqm",
@@ -2152,26 +2172,6 @@
       "place": "19 km SW of Susitna, Alaska",
       "time": 1789873685063,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sqdzzi"
-    },
-    {
-      "id": "nc75438762",
-      "lon": -122.811332702637,
-      "lat": 38.8321647644043,
-      "depth": 1.95000004768372,
-      "mag": 1.22,
-      "place": "8 km W of Cobb, CA",
-      "time": 1789872933940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438762"
-    },
-    {
-      "id": "nc75438752",
-      "lon": -122.813163757324,
-      "lat": 38.8310012817383,
-      "depth": 1.50999999046326,
-      "mag": 1.05,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1789872724610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438752"
     }
   ]
 }
