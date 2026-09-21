@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-21T16:45:42Z",
-  "count": 238,
+  "updated": "2026-09-21T17:01:13Z",
+  "count": 240,
   "points": [
+    {
+      "id": "pr71533908",
+      "lon": -66.8763333333333,
+      "lat": 17.9323333333333,
+      "depth": 5.95,
+      "mag": 2.36,
+      "place": "5 km SSE of Maria Antonia, Puerto Rico",
+      "time": 1790008545100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533908"
+    },
     {
       "id": "ci41336063",
       "lon": -117.3395,
@@ -12,6 +22,16 @@
       "place": "1 km SE of Muscoy, CA",
       "time": 1790008470990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336063"
+    },
+    {
+      "id": "us7000tiz7",
+      "lon": -75.7087,
+      "lat": 3.8585,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "20 km SW of Roncesvalles, Colombia",
+      "time": 1790007800333,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiz7"
     },
     {
       "id": "us7000tiya",
@@ -25,12 +45,12 @@
     },
     {
       "id": "ci41336047",
-      "lon": -115.717,
-      "lat": 33.3213333333333,
-      "depth": 2.4,
-      "mag": 1.47,
-      "place": "4 km SSE of Bombay Beach, CA",
-      "time": 1790006163090,
+      "lon": -115.715666666667,
+      "lat": 33.3238333333333,
+      "depth": 3.21,
+      "mag": 1.44,
+      "place": "3 km SSE of Bombay Beach, CA",
+      "time": 1790006163030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336047"
     },
     {
@@ -72,6 +92,16 @@
       "place": "24 km WSW of Anchor Point, Alaska",
       "time": 1790004644841,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssyumw"
+    },
+    {
+      "id": "uu80157646",
+      "lon": -112.901,
+      "lat": 38.5188333333333,
+      "depth": 2.22,
+      "mag": 1.31,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1790003510070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157646"
     },
     {
       "id": "aka2026ssxqjv",
@@ -265,12 +295,12 @@
     },
     {
       "id": "ci41335967",
-      "lon": -116.194166666667,
-      "lat": 33.8885,
-      "depth": 1.98,
-      "mag": 1.3,
+      "lon": -116.196666666667,
+      "lat": 33.8895,
+      "depth": 2.15,
+      "mag": 1.36,
       "place": "19 km N of Indio, CA",
-      "time": 1789996166800,
+      "time": 1789996166790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335967"
     },
     {
@@ -402,6 +432,16 @@
       "place": "69 km SE of King Salmon, Alaska",
       "time": 1789991823754,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssrreb"
+    },
+    {
+      "id": "nn00924691",
+      "lon": -119.7814,
+      "lat": 39.6047,
+      "depth": 4.5151,
+      "mag": 1.63,
+      "place": "1 km NNW of Sun Valley, Nevada",
+      "time": 1789991352600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924691"
     },
     {
       "id": "us7000tixc",
@@ -2164,6 +2204,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335647"
     },
     {
+      "id": "uu80008058",
+      "lon": -112.324166666667,
+      "lat": 37.5418333333333,
+      "depth": -0.56,
+      "mag": 1.32,
+      "place": "15 km SE of Hatch, Utah",
+      "time": 1789933362150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80008058"
+    },
+    {
       "id": "tx2026solhlz",
       "lon": -103.87,
       "lat": 30.986,
@@ -2352,36 +2402,6 @@
       "place": "9 km WNW of The Geysers, CA",
       "time": 1789923813060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438982"
-    },
-    {
-      "id": "us7000tisb",
-      "lon": -68.6909,
-      "lat": 17.6862,
-      "depth": 35,
-      "mag": 3.1,
-      "place": "77 km S of Boca de Yuma, Dominican Republic",
-      "time": 1789923570757,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tisb"
-    },
-    {
-      "id": "ci41335615",
-      "lon": -116.154,
-      "lat": 33.8593333333333,
-      "depth": 11.69,
-      "mag": 0.07,
-      "place": "16 km NNE of Indio, CA",
-      "time": 1789923382690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335615"
-    },
-    {
-      "id": "ci41335607",
-      "lon": -117.3035,
-      "lat": 34.0876666666667,
-      "depth": 14.26,
-      "mag": 0.97,
-      "place": "2 km NNE of Colton, CA",
-      "time": 1789923044080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335607"
     }
   ]
 }
