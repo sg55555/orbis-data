@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-21T09:15:56Z",
-  "count": 215,
+  "updated": "2026-09-21T09:31:05Z",
+  "count": 216,
   "points": [
+    {
+      "id": "ci41335903",
+      "lon": -116.803166666667,
+      "lat": 33.5695,
+      "depth": 5.91,
+      "mag": 0.32,
+      "place": "12 km W of Anza, CA",
+      "time": 1789982575130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335903"
+    },
+    {
+      "id": "aka2026ssmhdn",
+      "lon": -151.266,
+      "lat": 66.027,
+      "depth": 4.9,
+      "mag": 2.2,
+      "place": "76 km NW of Rampart, Alaska",
+      "time": 1789982130831,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssmhdn"
+    },
     {
       "id": "tx2026spluyf",
       "lon": -101.681,
@@ -145,12 +165,12 @@
     },
     {
       "id": "tx2026sphntr",
-      "lon": -97.661,
-      "lat": 29.136,
-      "depth": 5.5591,
+      "lon": -97.667,
+      "lat": 29.122,
+      "depth": 8.8483,
       "mag": 1.7,
-      "place": "14 km S of Smiley, Texas",
-      "time": 1789973328696,
+      "place": "16 km S of Smiley, Texas",
+      "time": 1789973327357,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sphntr"
     },
     {
@@ -2142,16 +2162,6 @@
       "place": "27 km WSW of Coyanosa, Texas",
       "time": 1789897506297,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026snrqui"
-    },
-    {
-      "id": "us7000tiqc",
-      "lon": 146.0922,
-      "lat": -5.9021,
-      "depth": 104.329,
-      "mag": 6.4,
-      "place": "49 km NNE of Kainantu, Papua New Guinea",
-      "time": 1789895855624,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiqc"
     }
   ]
 }
