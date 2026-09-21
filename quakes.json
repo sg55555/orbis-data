@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-21T21:45:42Z",
-  "count": 243,
+  "updated": "2026-09-21T22:01:11Z",
+  "count": 242,
   "points": [
     {
       "id": "ci41336359",
@@ -12,6 +12,16 @@
       "place": "17 km NNE of Indio, CA",
       "time": 1790026722210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336359"
+    },
+    {
+      "id": "us7000tj0z",
+      "lon": -23.969,
+      "lat": -56.4621,
+      "depth": 10,
+      "mag": 5,
+      "place": "South Sandwich Islands region",
+      "time": 1790026625134,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj0z"
     },
     {
       "id": "aka2026stkjjp",
@@ -95,13 +105,23 @@
     },
     {
       "id": "ci41336287",
-      "lon": -117.119333333333,
-      "lat": 33.6815,
-      "depth": 1.43,
-      "mag": 0.96,
-      "place": "4 km SW of Winchester, CA",
-      "time": 1790020608460,
+      "lon": -117.12,
+      "lat": 33.6788333333333,
+      "depth": -0.63,
+      "mag": 0.54,
+      "place": "5 km SW of Winchester, CA",
+      "time": 1790020608290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336287"
+    },
+    {
+      "id": "uw714107191",
+      "lon": -122.6605,
+      "lat": 46.7818333333333,
+      "depth": -0.3,
+      "mag": 1.22,
+      "place": "12 km S of Rainier, Washington",
+      "time": 1790020142910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714107191"
     },
     {
       "id": "nc75439527",
@@ -1984,6 +2004,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026srwsol"
     },
     {
+      "id": "av94440986",
+      "lon": -155.298666666667,
+      "lat": 58.187,
+      "depth": 1.82,
+      "mag": -0.46,
+      "place": "85 km NW of Karluk, Alaska",
+      "time": 1789954033810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94440986"
+    },
+    {
       "id": "ci41335783",
       "lon": -118.622666666667,
       "lat": 35.1995,
@@ -2175,12 +2205,12 @@
     },
     {
       "id": "ci41335759",
-      "lon": -116.754833333333,
-      "lat": 33.5836666666667,
-      "depth": 12.46,
-      "mag": 0.31,
-      "place": "8 km WNW of Anza, CA",
-      "time": 1789948207450,
+      "lon": -116.757833333333,
+      "lat": 33.5865,
+      "depth": 12.19,
+      "mag": 0.27,
+      "place": "9 km WNW of Anza, CA",
+      "time": 1789948207470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335759"
     },
     {
@@ -2295,12 +2325,12 @@
     },
     {
       "id": "uw714106471",
-      "lon": -122.318832397461,
-      "lat": 46.5178337097168,
-      "depth": 8.01000022888184,
-      "mag": 1.62499022483826,
-      "place": "5 km SW of Morton, Washington",
-      "time": 1789944790360,
+      "lon": -122.3175,
+      "lat": 46.5146666666667,
+      "depth": 10.05,
+      "mag": 1.51,
+      "place": "5 km SSW of Morton, Washington",
+      "time": 1789944790410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714106471"
     },
     {
@@ -2392,46 +2422,6 @@
       "place": "18 km SE of Silver Springs, Nevada",
       "time": 1789941775915,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924676"
-    },
-    {
-      "id": "nc75439112",
-      "lon": -122.935668945312,
-      "lat": 38.7806663513184,
-      "depth": 6.65000009536743,
-      "mag": 1.67,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1789941174130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439112"
-    },
-    {
-      "id": "aka2026srpjla",
-      "lon": -171.088,
-      "lat": 52.246,
-      "depth": 101.4,
-      "mag": 3.2,
-      "place": "169 km WSW of Nikolski, Alaska",
-      "time": 1789940888946,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026srpjla"
-    },
-    {
-      "id": "ci10254046",
-      "lon": -116.124833333333,
-      "lat": 33.1771666666667,
-      "depth": 11.63,
-      "mag": 0.68,
-      "place": "4 km N of Ocotillo Wells, CA",
-      "time": 1789940883000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10254046"
-    },
-    {
-      "id": "ci41335695",
-      "lon": -116.119833333333,
-      "lat": 33.17,
-      "depth": 10.87,
-      "mag": 1.04,
-      "place": "3 km NNE of Ocotillo Wells, CA",
-      "time": 1789940875750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335695"
     }
   ]
 }
