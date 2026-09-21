@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-21T15:45:43Z",
-  "count": 234,
+  "updated": "2026-09-21T16:01:14Z",
+  "count": 235,
   "points": [
+    {
+      "id": "ci41336047",
+      "lon": -115.717,
+      "lat": 33.3213333333333,
+      "depth": 2.4,
+      "mag": 1.47,
+      "place": "4 km SSE of Bombay Beach, CA",
+      "time": 1790006163090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336047"
+    },
     {
       "id": "ci41336023",
       "lon": -116.5135,
@@ -164,6 +174,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssuznb"
     },
     {
+      "id": "uu80157641",
+      "lon": -112.9025,
+      "lat": 38.4845,
+      "depth": 2.86,
+      "mag": 0.58,
+      "place": "13 km NE of Milford, Utah",
+      "time": 1789997331070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157641"
+    },
+    {
       "id": "nc75439397",
       "lon": -122.810501098633,
       "lat": 38.7999992370605,
@@ -245,12 +265,12 @@
     },
     {
       "id": "ci41335959",
-      "lon": -118.345,
-      "lat": 35.9828333333333,
-      "depth": 2.39,
-      "mag": 0.69,
+      "lon": -118.348666666667,
+      "lat": 35.9825,
+      "depth": 5.88,
+      "mag": 0.7,
       "place": "26 km NNE of Kernville, CA",
-      "time": 1789995593170,
+      "time": 1789995593220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335959"
     },
     {
@@ -2332,16 +2352,6 @@
       "place": "9 km S of Idyllwild, CA",
       "time": 1789920150310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335591"
-    },
-    {
-      "id": "hv75040837",
-      "lon": -155.503326416016,
-      "lat": 19.0900001525879,
-      "depth": 31.8799991607666,
-      "mag": 1.71,
-      "place": "8 km ENE of Naalehu, Hawaii",
-      "time": 1789919228230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75040837"
     }
   ]
 }
