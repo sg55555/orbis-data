@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-21T21:01:16Z",
-  "count": 248,
+  "updated": "2026-09-21T21:15:39Z",
+  "count": 249,
   "points": [
     {
+      "id": "us7000tj0r",
+      "lon": -177.5544,
+      "lat": -19.1407,
+      "depth": 583.682,
+      "mag": 4.4,
+      "place": "Fiji region",
+      "time": 1790023995107,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj0r"
+    },
+    {
+      "id": "uu80157676",
+      "lon": -110.056,
+      "lat": 44.6765,
+      "depth": 13.65,
+      "mag": 1.49,
+      "place": "37 km S of Silver Gate, Montana",
+      "time": 1790022789160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157676"
+    },
+    {
       "id": "ci41336327",
-      "lon": -115.4315,
-      "lat": 32.3618333333333,
-      "depth": 1.66,
-      "mag": 1.85,
-      "place": "22 km W of Delta, B.C., MX",
-      "time": 1790022494610,
+      "lon": -115.409666666667,
+      "lat": 32.3636666666667,
+      "depth": 7.67,
+      "mag": 1.66,
+      "place": "20 km W of Delta, B.C., MX",
+      "time": 1790022494780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336327"
     },
     {
@@ -2472,16 +2492,6 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1789938975800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439082"
-    },
-    {
-      "id": "us7000tit6",
-      "lon": -162.4693,
-      "lat": 52.6966,
-      "depth": 10,
-      "mag": 5,
-      "place": "248 km SSE of False Pass, Alaska",
-      "time": 1789938379931,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tit6"
     }
   ]
 }
