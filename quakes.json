@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-21T18:30:59Z",
-  "count": 241,
+  "updated": "2026-09-21T18:45:40Z",
+  "count": 242,
   "points": [
     {
+      "id": "hv75041327",
+      "lon": -155.378326416016,
+      "lat": 19.0116672515869,
+      "depth": 29.7999992370605,
+      "mag": 1.81,
+      "place": "22 km ESE of Naalehu, Hawaii",
+      "time": 1790015392300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041327"
+    },
+    {
       "id": "aka2026steqzi",
-      "lon": -154.051,
-      "lat": 55.456,
-      "depth": 66.5,
-      "mag": 3.7,
+      "lon": -154.044,
+      "lat": 55.453,
+      "depth": 57.2,
+      "mag": 3.8,
       "place": "166 km S of Akhiok, Alaska",
-      "time": 1790015210436,
+      "time": 1790015210434,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026steqzi"
     },
     {
@@ -1034,6 +1044,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439317"
     },
     {
+      "id": "uw714106601",
+      "lon": -124.249666666667,
+      "lat": 46.6563333333333,
+      "depth": 31.87,
+      "mag": 1.44,
+      "place": "20 km SW of Grayland, Washington",
+      "time": 1789971888700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714106601"
+    },
+    {
       "id": "aka2026ssgltk",
       "lon": -153.893,
       "lat": 58.7,
@@ -1255,12 +1275,12 @@
     },
     {
       "id": "uw714106591",
-      "lon": -121.561668395996,
-      "lat": 46.8351669311523,
-      "depth": 2.70000004768372,
-      "mag": 0.360000014,
+      "lon": -121.571833333333,
+      "lat": 46.8371666666667,
+      "depth": 3.34,
+      "mag": 0.83,
       "place": "26 km NNE of Packwood, Washington",
-      "time": 1789965006320,
+      "time": 1789965006350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714106591"
     },
     {
@@ -2402,16 +2422,6 @@
       "place": "39 km ESE of Malaga, New Mexico",
       "time": 1789930803786,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sokayc"
-    },
-    {
-      "id": "ci41335623",
-      "lon": -116.803333333333,
-      "lat": 33.5685,
-      "depth": 6.41,
-      "mag": 0.82,
-      "place": "12 km W of Anza, CA",
-      "time": 1789929453720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335623"
     }
   ]
 }
