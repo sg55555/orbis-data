@@ -1,17 +1,47 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-21T11:30:56Z",
-  "count": 222,
+  "updated": "2026-09-21T11:45:41Z",
+  "count": 225,
   "points": [
     {
+      "id": "hv75041182",
+      "lon": -155.273330688477,
+      "lat": 19.3920001983643,
+      "depth": 1.03999996185303,
+      "mag": 1.74,
+      "place": "6 km SW of Volcano, Hawaii",
+      "time": 1789990831140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041182"
+    },
+    {
+      "id": "aka2026ssqxrw",
+      "lon": -149.067,
+      "lat": 62.547,
+      "depth": 33.4,
+      "mag": 2,
+      "place": "54 km E of Chase, Alaska",
+      "time": 1789990541706,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssqxrw"
+    },
+    {
       "id": "aka2026ssqscs",
-      "lon": -150.859,
-      "lat": 60.274,
-      "depth": 64.6,
-      "mag": 1.9,
+      "lon": -150.856,
+      "lat": 60.28,
+      "depth": 58.9,
+      "mag": 2,
       "place": "24 km ESE of Kasilof, Alaska",
-      "time": 1789990086572,
+      "time": 1789990086909,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssqscs"
+    },
+    {
+      "id": "ci41335935",
+      "lon": -116.783,
+      "lat": 33.3081666666667,
+      "depth": 15.48,
+      "mag": 0.72,
+      "place": "8 km NNW of Lake Henshaw, CA",
+      "time": 1789990013890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335935"
     },
     {
       "id": "aka2026ssqjze",
@@ -42,6 +72,16 @@
       "place": "7 km SSE of Redlands, CA",
       "time": 1789988605220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335927"
+    },
+    {
+      "id": "us7000tix2",
+      "lon": -93.0352,
+      "lat": 15.7541,
+      "depth": 142.841,
+      "mag": 4.2,
+      "place": "15 km SW of El Ramal (Porvenir), Mexico",
+      "time": 1789988558555,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tix2"
     },
     {
       "id": "aka2026sspwaa",
@@ -2212,16 +2252,6 @@
       "place": "39 km ESE of Malaga, New Mexico",
       "time": 1789904753738,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026snvqxt"
-    },
-    {
-      "id": "us7000tir6",
-      "lon": 141.1682,
-      "lat": 25.0379,
-      "depth": 162.51,
-      "mag": 4.4,
-      "place": "Volcano Islands, Japan region",
-      "time": 1789904605187,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tir6"
     }
   ]
 }
