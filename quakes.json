@@ -1,8 +1,48 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-21T15:31:24Z",
-  "count": 230,
+  "updated": "2026-09-21T15:45:43Z",
+  "count": 234,
   "points": [
+    {
+      "id": "ci41336023",
+      "lon": -116.5135,
+      "lat": 33.524,
+      "depth": 12.96,
+      "mag": 0.49,
+      "place": "15 km ESE of Anza, CA",
+      "time": 1790004866800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336023"
+    },
+    {
+      "id": "ci41336015",
+      "lon": -115.719333333333,
+      "lat": 33.3233333333333,
+      "depth": 2.41,
+      "mag": 1.77,
+      "place": "3 km SSE of Bombay Beach, CA",
+      "time": 1790004707770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336015"
+    },
+    {
+      "id": "nc75439427",
+      "lon": -122.768669128418,
+      "lat": 38.788501739502,
+      "depth": 2.14000010490417,
+      "mag": 0.75,
+      "place": "2 km NW of The Geysers, CA",
+      "time": 1790004684530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439427"
+    },
+    {
+      "id": "aka2026ssyumw",
+      "lon": -152.222,
+      "lat": 59.687,
+      "depth": 73,
+      "mag": 1.8,
+      "place": "24 km WSW of Anchor Point, Alaska",
+      "time": 1790004644841,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssyumw"
+    },
     {
       "id": "aka2026ssxqjv",
       "lon": -152.25,
@@ -502,6 +542,16 @@
       "place": "79 km SE of Kokhanok, Alaska",
       "time": 1789985367669,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssobxi"
+    },
+    {
+      "id": "aka2026ssnubr",
+      "lon": -171.004,
+      "lat": 52.182,
+      "depth": 105.6,
+      "mag": 3.6,
+      "place": "167 km WSW of Nikolski, Alaska",
+      "time": 1789984811101,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssnubr"
     },
     {
       "id": "aka2026ssnpvh",
@@ -1102,6 +1152,16 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1789962457130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439257"
+    },
+    {
+      "id": "tx2026spbibd",
+      "lon": -103.679,
+      "lat": 32.072,
+      "depth": 7.6379,
+      "mag": 1.6,
+      "place": "40 km ESE of Malaga, New Mexico",
+      "time": 1789962191311,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026spbibd"
     },
     {
       "id": "nc75439252",
@@ -2282,26 +2342,6 @@
       "place": "8 km ENE of Naalehu, Hawaii",
       "time": 1789919228230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75040837"
-    },
-    {
-      "id": "pr2026263000",
-      "lon": -63.6425,
-      "lat": 19.7456,
-      "depth": 38,
-      "mag": 3.8,
-      "place": "180 km NNW of The Valley, Anguilla",
-      "time": 1789918588270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026263000"
-    },
-    {
-      "id": "us7000tis4",
-      "lon": -177.7935,
-      "lat": -20.3079,
-      "depth": 507.081,
-      "mag": 4.4,
-      "place": "276 km WNW of Houma, Tonga",
-      "time": 1789918430526,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tis4"
     }
   ]
 }
