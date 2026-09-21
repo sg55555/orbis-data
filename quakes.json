@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-21T20:15:53Z",
-  "count": 248,
+  "updated": "2026-09-21T20:31:01Z",
+  "count": 249,
   "points": [
+    {
+      "id": "ci41336311",
+      "lon": -116.791666666667,
+      "lat": 33.6895,
+      "depth": 16.07,
+      "mag": 0.35,
+      "place": "9 km SW of Idyllwild, CA",
+      "time": 1790022056920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336311"
+    },
+    {
+      "id": "ci41336303",
+      "lon": -118.3215,
+      "lat": 35.0506666666667,
+      "depth": -0.59,
+      "mag": 1.18,
+      "place": "13 km W of Mojave, CA",
+      "time": 1790021881610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336303"
+    },
     {
       "id": "nc75439547",
       "lon": -122.794502258301,
@@ -275,12 +295,12 @@
     },
     {
       "id": "ci41336063",
-      "lon": -117.3395,
-      "lat": 34.1485,
-      "depth": 8.88,
-      "mag": 2.05,
+      "lon": -117.338333333333,
+      "lat": 34.1488333333333,
+      "depth": 8.54,
+      "mag": 0.59,
       "place": "1 km SE of Muscoy, CA",
-      "time": 1790008470990,
+      "time": 1790008470900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336063"
     },
     {
@@ -2472,16 +2492,6 @@
       "place": "4 km WSW of Guánica, Puerto Rico",
       "time": 1789936356360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533593"
-    },
-    {
-      "id": "ci41335671",
-      "lon": -117.212666666667,
-      "lat": 34.015,
-      "depth": 13.68,
-      "mag": 0.76,
-      "place": "5 km SSW of Redlands, CA",
-      "time": 1789935761060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335671"
     }
   ]
 }
