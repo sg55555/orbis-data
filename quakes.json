@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-21T10:30:56Z",
+  "updated": "2026-09-21T10:45:43Z",
   "count": 220,
   "points": [
+    {
+      "id": "nc75439357",
+      "lon": -122.813003540039,
+      "lat": 38.8289985656738,
+      "depth": 1.62000000476837,
+      "mag": 1.06,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1789987297190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439357"
+    },
+    {
+      "id": "ci41335911",
+      "lon": -116.601666666667,
+      "lat": 33.3936666666667,
+      "depth": 12.05,
+      "mag": 0.6,
+      "place": "13 km NNE of Warner Springs, CA",
+      "time": 1789986562140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335911"
+    },
     {
       "id": "hv75041172",
       "lon": -155.442993164062,
@@ -152,6 +172,16 @@
       "place": "45 km WNW of Anchor Point, Alaska",
       "time": 1789979556847,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sskvxt"
+    },
+    {
+      "id": "pr71533863",
+      "lon": -66.953,
+      "lat": 17.962,
+      "depth": 6.75,
+      "mag": 2,
+      "place": "4 km SW of Fuig, Puerto Rico",
+      "time": 1789979024310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533863"
     },
     {
       "id": "hv75041117",
@@ -372,16 +402,6 @@
       "place": "16 km N of Ivanof Bay, Alaska",
       "time": 1789969013740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssezpi"
-    },
-    {
-      "id": "tx2026spfctc",
-      "lon": -104.119,
-      "lat": 31.644,
-      "depth": 3.684,
-      "mag": 1.6,
-      "place": "47 km NW of Toyah, Texas",
-      "time": 1789968961627,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026spfctc"
     },
     {
       "id": "ci41335871",
@@ -2182,26 +2202,6 @@
       "place": "21 km SSE of Lindsay, Texas",
       "time": 1789901452277,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sntvmd"
-    },
-    {
-      "id": "tx2026sntpzg",
-      "lon": -103.472,
-      "lat": 31.168,
-      "depth": 6.2363,
-      "mag": 1.2,
-      "place": "23 km SSE of Lindsay, Texas",
-      "time": 1789901069780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sntpzg"
-    },
-    {
-      "id": "aka2026sqtfof",
-      "lon": -152.062,
-      "lat": 59.827,
-      "depth": 70.7,
-      "mag": 2.5,
-      "place": "14 km WNW of Anchor Point, Alaska",
-      "time": 1789901056818,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sqtfof"
     }
   ]
 }
