@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-21T08:15:41Z",
+  "updated": "2026-09-21T08:30:55Z",
   "count": 215,
   "points": [
+    {
+      "id": "hv75041117",
+      "lon": -155.373992919922,
+      "lat": 19.2903327941895,
+      "depth": 29.4300003051758,
+      "mag": 1.91,
+      "place": "14 km NE of Pāhala, Hawaii",
+      "time": 1789979008010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041117"
+    },
     {
       "id": "aka2026ssjwtj",
       "lon": -150.745,
@@ -222,6 +232,16 @@
       "place": "61 km S of Whites City, New Mexico",
       "time": 1789968859982,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026spfbfj"
+    },
+    {
+      "id": "tx2026spezsy",
+      "lon": -97.69,
+      "lat": 29.133,
+      "depth": 8.6291,
+      "mag": 1.8,
+      "place": "15 km SSW of Smiley, Texas",
+      "time": 1789968729795,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026spezsy"
     },
     {
       "id": "ci41335863",
@@ -2132,26 +2152,6 @@
       "place": "20 km E of McFarland, CA",
       "time": 1789893998490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335471"
-    },
-    {
-      "id": "ci41335463",
-      "lon": -116.467,
-      "lat": 32.523,
-      "depth": 18.3,
-      "mag": 0.94,
-      "place": "9 km S of Campo, CA",
-      "time": 1789892706770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335463"
-    },
-    {
-      "id": "nc75438817",
-      "lon": -122.81950378418,
-      "lat": 38.8380012512207,
-      "depth": 2.50999999046326,
-      "mag": 0.76,
-      "place": "9 km WNW of Cobb, CA",
-      "time": 1789892495980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438817"
     }
   ]
 }
