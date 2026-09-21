@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-21T13:45:45Z",
+  "updated": "2026-09-21T14:01:16Z",
   "count": 225,
   "points": [
+    {
+      "id": "tx2026spvgjn",
+      "lon": -102.081,
+      "lat": 32.442,
+      "depth": 3.5733,
+      "mag": 1.5,
+      "place": "34 km SSW of Los Ybanez, Texas",
+      "time": 1789998208668,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026spvgjn"
+    },
     {
       "id": "aka2026ssvehn",
       "lon": -151.111,
@@ -12,6 +22,16 @@
       "place": "58 km NW of Rampart, Alaska",
       "time": 1789998126495,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssvehn"
+    },
+    {
+      "id": "us7000tixp",
+      "lon": 132.0805,
+      "lat": 32.5978,
+      "depth": 42.736,
+      "mag": 5,
+      "place": "38 km E of Nobeoka, Japan",
+      "time": 1789997912404,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixp"
     },
     {
       "id": "aka2026ssuznb",
@@ -1214,6 +1234,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335791"
     },
     {
+      "id": "nm60628071",
+      "lon": -89.7523333333333,
+      "lat": 36.0976666666667,
+      "depth": 9.75,
+      "mag": 2.07,
+      "place": "7 km ENE of Steele, Missouri",
+      "time": 1789954178740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60628071"
+    },
+    {
       "id": "aka2026srwsol",
       "lon": -154.044,
       "lat": 61.235,
@@ -2222,36 +2252,6 @@
       "place": "1 km WNW of Pāhala, Hawaii",
       "time": 1789913313070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75040787"
-    },
-    {
-      "id": "hv75040782",
-      "lon": -155.48649597168,
-      "lat": 19.1509990692139,
-      "depth": 13.2799997329712,
-      "mag": 2.14,
-      "place": "5 km S of Pāhala, Hawaii",
-      "time": 1789912807130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75040782"
-    },
-    {
-      "id": "us7000tirv",
-      "lon": -170.3466,
-      "lat": 52.7501,
-      "depth": 87.277,
-      "mag": 4.6,
-      "place": "102 km WSW of Nikolski, Alaska",
-      "time": 1789912547125,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tirv"
-    },
-    {
-      "id": "us7000tirt",
-      "lon": 137.2284,
-      "lat": 33.9678,
-      "depth": 354.932,
-      "mag": 4.7,
-      "place": "54 km SE of Shima, Japan",
-      "time": 1789912496995,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tirt"
     }
   ]
 }
