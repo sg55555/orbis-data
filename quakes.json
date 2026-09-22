@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T06:01:09Z",
-  "count": 242,
+  "updated": "2026-09-22T06:15:46Z",
+  "count": 241,
   "points": [
     {
+      "id": "hv75041782",
+      "lon": -155.310333251953,
+      "lat": 19.3460006713867,
+      "depth": 30.8600006103516,
+      "mag": 2.05,
+      "place": "13 km SW of Volcano, Hawaii",
+      "time": 1790056718190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041782"
+    },
+    {
       "id": "ci41336655",
-      "lon": -116.065002441406,
-      "lat": 33.2498321533203,
-      "depth": 3.30999994277954,
-      "mag": 1.06709385587598,
-      "place": "11 km WSW of Salton City, CA",
-      "time": 1790056685850,
+      "lon": -116.064333333333,
+      "lat": 33.2416666666667,
+      "depth": 3.57,
+      "mag": 1.04,
+      "place": "12 km WSW of Salton City, CA",
+      "time": 1790056685860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336655"
     },
     {
@@ -2402,26 +2412,6 @@
       "place": "68 km S of Kokhanok, Alaska",
       "time": 1789971501881,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssgjoz"
-    },
-    {
-      "id": "hv75041092",
-      "lon": -155.685333251953,
-      "lat": 20.111665725708,
-      "depth": 24.4699993133545,
-      "mag": 1.86,
-      "place": "9 km N of Waimea, Hawaii",
-      "time": 1789970458480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041092"
-    },
-    {
-      "id": "pr71533788",
-      "lon": -66.8388333333333,
-      "lat": 18.0176666666667,
-      "depth": 16.38,
-      "mag": 1.55,
-      "place": "2 km SSE of Yauco, Puerto Rico",
-      "time": 1789970448590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533788"
     }
   ]
 }
