@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T06:30:57Z",
+  "updated": "2026-09-22T06:45:40Z",
   "count": 238,
   "points": [
+    {
+      "id": "ci41336671",
+      "lon": -118.950333333333,
+      "lat": 34.8473333333333,
+      "depth": 9.96,
+      "mag": 1.5,
+      "place": "3 km N of Frazier Park, CA",
+      "time": 1790059070750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336671"
+    },
+    {
+      "id": "aka2026sudamr",
+      "lon": -148.878,
+      "lat": 66.46,
+      "depth": 0.8,
+      "mag": 1.9,
+      "place": "51 km N of Stevens Village, Alaska",
+      "time": 1790059036218,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sudamr"
+    },
     {
       "id": "ci41336663",
       "lon": -116.521166666667,
@@ -12,6 +32,16 @@
       "place": "11 km NE of Julian, CA",
       "time": 1790058137690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336663"
+    },
+    {
+      "id": "us7000tj3s",
+      "lon": 142.3395,
+      "lat": 23.003,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "Volcano Islands, Japan region",
+      "time": 1790057470037,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3s"
     },
     {
       "id": "hv75041782",
@@ -2352,36 +2382,6 @@
       "place": "65 km ENE of Pedro Bay, Alaska",
       "time": 1789973183554,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sshhvq"
-    },
-    {
-      "id": "aka2026sshbxi",
-      "lon": -152.775,
-      "lat": 59.707,
-      "depth": 87.8,
-      "mag": 1.6,
-      "place": "53 km W of Anchor Point, Alaska",
-      "time": 1789973013215,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sshbxi"
-    },
-    {
-      "id": "pr71533803",
-      "lon": -66.6,
-      "lat": 17.9475,
-      "depth": 13.63,
-      "mag": 1.62,
-      "place": "7 km SSE of Ponce, Puerto Rico",
-      "time": 1789972839680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533803"
-    },
-    {
-      "id": "nc75439317",
-      "lon": -122.818832397461,
-      "lat": 38.832332611084,
-      "depth": 1.71000003814697,
-      "mag": 0.68,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1789972770190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439317"
     }
   ]
 }
