@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T18:01:14Z",
-  "count": 258,
+  "updated": "2026-09-22T18:15:46Z",
+  "count": 257,
   "points": [
+    {
+      "id": "aka2026suzvrb",
+      "lon": -154.75,
+      "lat": 57.371,
+      "depth": 41.7,
+      "mag": 1.7,
+      "place": "28 km SW of Karluk, Alaska",
+      "time": 1790100083381,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026suzvrb"
+    },
     {
       "id": "ci41336927",
       "lon": -117.8635,
@@ -62,6 +72,16 @@
       "place": "5 km E of Hebgen Lake Estates, Montana",
       "time": 1790097754090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157821"
+    },
+    {
+      "id": "uw714107771",
+      "lon": -122.2365,
+      "lat": 46.7063333333333,
+      "depth": 16.02,
+      "mag": 0.96,
+      "place": "4 km WSW of Mineral, Washington",
+      "time": 1790097177270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714107771"
     },
     {
       "id": "aka2026suydot",
@@ -795,12 +815,12 @@
     },
     {
       "id": "ci41336751",
-      "lon": -117.487166666667,
-      "lat": 35.6053333333333,
-      "depth": 7.73,
-      "mag": 1.42,
-      "place": "17 km E of Ridgecrest, CA",
-      "time": 1790066481160,
+      "lon": -117.482666666667,
+      "lat": 35.606,
+      "depth": 8.96,
+      "mag": 1.4,
+      "place": "18 km E of Ridgecrest, CA",
+      "time": 1790066481070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336751"
     },
     {
@@ -1694,11 +1714,21 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533968"
     },
     {
+      "id": "ci10254142",
+      "lon": -117.3815,
+      "lat": 35.9715,
+      "depth": 3.5,
+      "mag": 1.33,
+      "place": "23 km N of Searles Valley, CA",
+      "time": 1790038552390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10254142"
+    },
+    {
       "id": "ci41336487",
       "lon": -117.385,
-      "lat": 35.9553333333333,
-      "depth": 4.68,
-      "mag": 1.39,
+      "lat": 35.9551666666667,
+      "depth": 4.74,
+      "mag": 1.38,
       "place": "21 km N of Searles Valley, CA",
       "time": 1790038545420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336487"
@@ -2542,46 +2572,6 @@
       "place": "163 km S of Akhiok, Alaska",
       "time": 1790015209270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026steqzi"
-    },
-    {
-      "id": "aka2026steflf",
-      "lon": -155.053,
-      "lat": 58.581,
-      "depth": 139.8,
-      "mag": 1.8,
-      "place": "94 km E of King Salmon, Alaska",
-      "time": 1790014449327,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026steflf"
-    },
-    {
-      "id": "aka2026stdzcy",
-      "lon": -147.475,
-      "lat": 64.953,
-      "depth": 5,
-      "mag": 1.3,
-      "place": "6 km E of Fox, Alaska",
-      "time": 1790013962363,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026stdzcy"
-    },
-    {
-      "id": "av93067189",
-      "lon": -169.915166666667,
-      "lat": 52.8168333333333,
-      "depth": 7.27,
-      "mag": 0.64,
-      "place": "72 km WSW of Nikolski, Alaska",
-      "time": 1790013923970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067189"
-    },
-    {
-      "id": "av93067184",
-      "lon": -169.842166666667,
-      "lat": 52.8643333333333,
-      "depth": -0.92,
-      "mag": 0.7,
-      "place": "66 km W of Nikolski, Alaska",
-      "time": 1790013877750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067184"
     }
   ]
 }
