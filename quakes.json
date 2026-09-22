@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T19:30:57Z",
+  "updated": "2026-09-22T19:45:41Z",
   "count": 255,
   "points": [
+    {
+      "id": "aka2026svcwrq",
+      "lon": -155.062,
+      "lat": 57.691,
+      "depth": 76.3,
+      "mag": 1.6,
+      "place": "38 km WNW of Karluk, Alaska",
+      "time": 1790105551222,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svcwrq"
+    },
+    {
+      "id": "hv75042087",
+      "lon": -155.422836303711,
+      "lat": 19.2975006103516,
+      "depth": 27.6499996185303,
+      "mag": 1.95,
+      "place": "11 km NNE of Pāhala, Hawaii",
+      "time": 1790105432460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042087"
+    },
     {
       "id": "aka2026svctzj",
       "lon": -149.874,
@@ -22,6 +42,16 @@
       "place": "3 km SW of Guánica, Puerto Rico",
       "time": 1790104853420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534078"
+    },
+    {
+      "id": "pr71534068",
+      "lon": -65.4088333333333,
+      "lat": 19.5575,
+      "depth": 12.38,
+      "mag": 3.34,
+      "place": "133 km NNE of Vieques, Puerto Rico",
+      "time": 1790104719210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534068"
     },
     {
       "id": "nc75440092",
@@ -2522,36 +2552,6 @@
       "place": "12 km S of Rainier, Washington",
       "time": 1790020142910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714107191"
-    },
-    {
-      "id": "nc75439527",
-      "lon": -124.438163757324,
-      "lat": 40.3131675720215,
-      "depth": 8.55000019073486,
-      "mag": 1.82,
-      "place": "13 km W of Petrolia, CA",
-      "time": 1790019586300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439527"
-    },
-    {
-      "id": "aka2026sthcdv",
-      "lon": -155.901,
-      "lat": 57.207,
-      "depth": 65.1,
-      "mag": 2.3,
-      "place": "95 km WSW of Karluk, Alaska",
-      "time": 1790019571457,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sthcdv"
-    },
-    {
-      "id": "aka2026stgwir",
-      "lon": -155.339,
-      "lat": 56.675,
-      "depth": 52,
-      "mag": 3.1,
-      "place": "77 km WSW of Akhiok, Alaska",
-      "time": 1790019167655,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026stgwir"
     }
   ]
 }
