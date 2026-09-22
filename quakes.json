@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T09:01:17Z",
-  "count": 244,
+  "updated": "2026-09-22T09:15:46Z",
+  "count": 245,
   "points": [
+    {
+      "id": "hv75041832",
+      "lon": -155.40966796875,
+      "lat": 19.2919998168945,
+      "depth": 28.0300006866455,
+      "mag": 2.03,
+      "place": "12 km NE of Pāhala, Hawaii",
+      "time": 1790067961950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041832"
+    },
     {
       "id": "nc75439902",
       "lon": -122.769165039062,
@@ -732,6 +742,16 @@
       "place": "13 km NW of The Geysers, CA",
       "time": 1790038431260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439767"
+    },
+    {
+      "id": "tx2026sqrkvd",
+      "lon": -103.84,
+      "lat": 32.003,
+      "depth": 7.843,
+      "mag": 1.6,
+      "place": "32 km SE of Malaga, New Mexico",
+      "time": 1790038295295,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sqrkvd"
     },
     {
       "id": "nc75439762",
@@ -2432,16 +2452,6 @@
       "place": "76 km NW of Rampart, Alaska",
       "time": 1789982130831,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssmhdn"
-    },
-    {
-      "id": "tx2026spluyf",
-      "lon": -101.681,
-      "lat": 32.115,
-      "depth": 2.9148,
-      "mag": 1.1,
-      "place": "10 km E of Stanton, Texas",
-      "time": 1789981266465,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026spluyf"
     }
   ]
 }
