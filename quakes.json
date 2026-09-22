@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T15:01:16Z",
-  "count": 227,
+  "updated": "2026-09-22T15:15:42Z",
+  "count": 230,
   "points": [
+    {
+      "id": "hv75041932",
+      "lon": -155.537170410156,
+      "lat": 19.9629993438721,
+      "depth": 42.689998626709,
+      "mag": 1.98,
+      "place": "14 km SSW of Honoka‘a, Hawaii",
+      "time": 1790089712300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041932"
+    },
+    {
+      "id": "aka2026sutxvz",
+      "lon": -154.131,
+      "lat": 58.066,
+      "depth": 67.7,
+      "mag": 1.4,
+      "place": "58 km NNE of Karluk, Alaska",
+      "time": 1790089439336,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sutxvz"
+    },
     {
       "id": "aka2026sutpgd",
       "lon": -152.167,
@@ -915,12 +935,12 @@
     },
     {
       "id": "ci41336591",
-      "lon": -116.740669250488,
-      "lat": 33.5214996337891,
-      "depth": 5.40000009536743,
-      "mag": 1.22749987241973,
-      "place": "7 km WSW of Anza, CA",
-      "time": 1790048540650,
+      "lon": -116.737833333333,
+      "lat": 33.5145,
+      "depth": 4.61,
+      "mag": 0.38,
+      "place": "7 km SW of Anza, CA",
+      "time": 1790048540660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336591"
     },
     {
@@ -1094,6 +1114,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336527"
     },
     {
+      "id": "uu80157716",
+      "lon": -112.901833333333,
+      "lat": 38.5133333333333,
+      "depth": 2.64,
+      "mag": 1.35,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1790041650450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157716"
+    },
+    {
       "id": "hv75041697",
       "lon": -155.499160766602,
       "lat": 19.1809997558594,
@@ -1162,6 +1192,16 @@
       "place": "21 km ESE of Anza, CA",
       "time": 1790039361960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336495"
+    },
+    {
+      "id": "uu80157711",
+      "lon": -112.9025,
+      "lat": 38.5126666666667,
+      "depth": 2.57,
+      "mag": 1.36,
+      "place": "15 km NE of Milford, Utah",
+      "time": 1790039072530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157711"
     },
     {
       "id": "pr71533968",
@@ -2262,16 +2302,6 @@
       "place": "13 km NE of Milford, Utah",
       "time": 1790004170020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157651"
-    },
-    {
-      "id": "uu80157646",
-      "lon": -112.901,
-      "lat": 38.5188333333333,
-      "depth": 2.22,
-      "mag": 1.31,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1790003510070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157646"
     }
   ]
 }
