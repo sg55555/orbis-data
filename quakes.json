@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T01:01:09Z",
-  "count": 245,
+  "updated": "2026-09-22T01:15:39Z",
+  "count": 244,
   "points": [
+    {
+      "id": "ci41336495",
+      "lon": -116.457666666667,
+      "lat": 33.5033333333333,
+      "depth": 4.14,
+      "mag": 1.23,
+      "place": "21 km ESE of Anza, CA",
+      "time": 1790039361960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336495"
+    },
+    {
+      "id": "pr71533968",
+      "lon": -66.8188333333333,
+      "lat": 17.997,
+      "depth": 14.75,
+      "mag": 2.21,
+      "place": "0 km N of Indios, Puerto Rico",
+      "time": 1790038983670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533968"
+    },
     {
       "id": "ci41336487",
       "lon": -117.385166666667,
@@ -2422,36 +2442,6 @@
       "place": "5 km NW of Happy Valley, Alaska",
       "time": 1789953389307,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026srwhug"
-    },
-    {
-      "id": "us7000tiuj",
-      "lon": -71.9868,
-      "lat": -13.6048,
-      "depth": 10,
-      "mag": 4.3,
-      "place": "8 km S of Santiago, Peru",
-      "time": 1789952853847,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiuj"
-    },
-    {
-      "id": "us7000tiui",
-      "lon": 36.2994,
-      "lat": 37.8136,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "26 km SE of Saimbeyli, Turkey",
-      "time": 1789952524529,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiui"
-    },
-    {
-      "id": "tx2026sowawz",
-      "lon": -97.692,
-      "lat": 29.127,
-      "depth": 8.886,
-      "mag": 1.2,
-      "place": "16 km SSW of Smiley, Texas",
-      "time": 1789952517913,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sowawz"
     }
   ]
 }
