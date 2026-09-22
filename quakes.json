@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T19:01:12Z",
-  "count": 257,
+  "updated": "2026-09-22T19:15:44Z",
+  "count": 256,
   "points": [
+    {
+      "id": "nc75440092",
+      "lon": -122.786666870117,
+      "lat": 38.8134994506836,
+      "depth": 3.13000011444092,
+      "mag": 1.14,
+      "place": "5 km NNW of The Geysers, CA",
+      "time": 1790104136590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440092"
+    },
+    {
+      "id": "nc75440082",
+      "lon": -124.752166748047,
+      "lat": 40.3553352355957,
+      "depth": 2,
+      "mag": 2.52,
+      "place": "40 km W of Petrolia, CA",
+      "time": 1790103608330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440082"
+    },
     {
       "id": "ci41337007",
       "lon": -116.723333333333,
@@ -55,12 +75,12 @@
     },
     {
       "id": "nn00924728",
-      "lon": -119.7903,
-      "lat": 39.6037,
-      "depth": 5.9169,
+      "lon": -119.7882,
+      "lat": 39.6007,
+      "depth": 5.2223,
       "mag": 1.84,
-      "place": "1 km NW of Sun Valley, Nevada",
-      "time": 1790101952224,
+      "place": "1 km WNW of Sun Valley, Nevada",
+      "time": 1790101952891,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924728"
     },
     {
@@ -2542,36 +2562,6 @@
       "place": "7 km W of Tecate, B.C., MX",
       "time": 1790018467710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336263"
-    },
-    {
-      "id": "nc75439507",
-      "lon": -123.206001281738,
-      "lat": 39.2471656799316,
-      "depth": 6.80999994277954,
-      "mag": 1.25,
-      "place": "2 km S of Redwood Valley, CA",
-      "time": 1790018040390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439507"
-    },
-    {
-      "id": "aka2026stgbqd",
-      "lon": -154.549,
-      "lat": 58.873,
-      "depth": 112.6,
-      "mag": 1.4,
-      "place": "64 km SSE of Kokhanok, Alaska",
-      "time": 1790017733706,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026stgbqd"
-    },
-    {
-      "id": "ok2026snzc",
-      "lon": -96.98916667,
-      "lat": 34.37316667,
-      "depth": 0,
-      "mag": 1.2,
-      "place": "6 km ESE of Dougherty, Oklahoma",
-      "time": 1790017563029,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026snzc"
     }
   ]
 }
