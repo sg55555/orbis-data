@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T21:33:19Z",
-  "count": 282,
+  "updated": "2026-09-22T21:45:38Z",
+  "count": 285,
   "points": [
+    {
+      "id": "aka2026svgybo",
+      "lon": -149.259,
+      "lat": 61.906,
+      "depth": 5,
+      "mag": 1.3,
+      "place": "18 km N of Fishhook, Alaska",
+      "time": 1790112843284,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svgybo"
+    },
     {
       "id": "aka2026svguyk",
       "lon": -152.731,
@@ -45,12 +55,12 @@
     },
     {
       "id": "ci41337175",
-      "lon": -116.149333333333,
-      "lat": 33.1938333333333,
-      "depth": 5.6,
-      "mag": 1.29,
-      "place": "6 km NNW of Ocotillo Wells, CA",
-      "time": 1790111297890,
+      "lon": -115.719833333333,
+      "lat": 33.3216666666667,
+      "depth": 2.62,
+      "mag": 1.14,
+      "place": "3 km SSE of Bombay Beach, CA",
+      "time": 1790111304460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337175"
     },
     {
@@ -825,12 +835,12 @@
     },
     {
       "id": "ci41336815",
-      "lon": -116.697166666667,
-      "lat": 32.5766666666667,
-      "depth": 2.94,
-      "mag": 0.42,
-      "place": "6 km W of Tecate, B.C., MX",
-      "time": 1790085212610,
+      "lon": -116.702666666667,
+      "lat": 32.5631666666667,
+      "depth": 5.43,
+      "mag": 0.49,
+      "place": "7 km W of Tecate, B.C., MX",
+      "time": 1790085212390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336815"
     },
     {
@@ -862,6 +872,16 @@
       "place": "8 km NNE of Cane Beds, Arizona",
       "time": 1790083149120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157791"
+    },
+    {
+      "id": "tx2026srqexk",
+      "lon": -97.7,
+      "lat": 29.116,
+      "depth": 9.6197,
+      "mag": 1.3,
+      "place": "17 km SSE of Nixon, Texas",
+      "time": 1790083141015,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026srqexk"
     },
     {
       "id": "nc75439947",
@@ -1122,6 +1142,16 @@
       "place": "2 km NNW of The Geysers, CA",
       "time": 1790071792620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439922"
+    },
+    {
+      "id": "tx2026srjtjr",
+      "lon": -101.6,
+      "lat": 32.394,
+      "depth": 5.7373,
+      "mag": 1.1,
+      "place": "18 km SE of Ackerly, Texas",
+      "time": 1790071483663,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026srjtjr"
     },
     {
       "id": "nc75439917",
@@ -1904,6 +1934,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336623"
     },
     {
+      "id": "av94442846",
+      "lon": -153.078166666667,
+      "lat": 60.0358333333333,
+      "depth": -0.74,
+      "mag": -0.28,
+      "place": "63 km ENE of Pedro Bay, Alaska",
+      "time": 1790048703090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94442846"
+    },
+    {
       "id": "ci41336615",
       "lon": -116.737333333333,
       "lat": 33.5171666666667,
@@ -2002,6 +2042,16 @@
       "place": "2 km SE of Pacifica, CA",
       "time": 1790047478090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439827"
+    },
+    {
+      "id": "av94442781",
+      "lon": -169.884,
+      "lat": 52.8041666666667,
+      "depth": 8.32,
+      "mag": 1.42,
+      "place": "70 km WSW of Nikolski, Alaska",
+      "time": 1790045872380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94442781"
     },
     {
       "id": "nc75439817",
@@ -2802,26 +2852,6 @@
       "place": "3 km ENE of Moreno Valley, CA",
       "time": 1790028002700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336367"
-    },
-    {
-      "id": "ci41336359",
-      "lon": -116.1775,
-      "lat": 33.8668333333333,
-      "depth": 2.96,
-      "mag": 0.93,
-      "place": "17 km NNE of Indio, CA",
-      "time": 1790026722210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336359"
-    },
-    {
-      "id": "us7000tj0z",
-      "lon": -24.1479,
-      "lat": -56.5064,
-      "depth": 10,
-      "mag": 5,
-      "place": "South Sandwich Islands region",
-      "time": 1790026624871,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj0z"
     }
   ]
 }
