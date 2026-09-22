@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T20:15:42Z",
+  "updated": "2026-09-22T20:30:59Z",
   "count": 256,
   "points": [
+    {
+      "id": "ci41337095",
+      "lon": -116.724166666667,
+      "lat": 32.898,
+      "depth": 28.89,
+      "mag": 0.89,
+      "place": "8 km NNE of Alpine, CA",
+      "time": 1790108284730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337095"
+    },
     {
       "id": "aka2026svdxta",
       "lon": -151.983,
@@ -42,6 +52,16 @@
       "place": "9 km N of Coso Junction, CA",
       "time": 1790106176770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337039"
+    },
+    {
+      "id": "ci41337055",
+      "lon": -114.9835,
+      "lat": 33.0515,
+      "depth": -0.24,
+      "mag": 1.43,
+      "place": "46 km NNW of Los Algodones, B.C., MX",
+      "time": 1790106060640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337055"
     },
     {
       "id": "aka2026svcwrq",
@@ -822,6 +842,16 @@
       "place": "88 km NNW of Uken, Japan",
       "time": 1790073982312,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj4y"
+    },
+    {
+      "id": "av94443351",
+      "lon": -163.522833333333,
+      "lat": 54.544,
+      "depth": 11.07,
+      "mag": 2.14,
+      "place": "35 km SSW of False Pass, Alaska",
+      "time": 1790073795940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94443351"
     },
     {
       "id": "us7000tj4v",
@@ -2024,6 +2054,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj31"
     },
     {
+      "id": "av93067209",
+      "lon": -166.801,
+      "lat": 53.8536666666667,
+      "depth": 5.26,
+      "mag": 0.05,
+      "place": "17 km WSW of Dutch Harbor, Alaska",
+      "time": 1790037243920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067209"
+    },
+    {
       "id": "pr71533958",
       "lon": -66.8196666666667,
       "lat": 17.9661666666667,
@@ -2522,46 +2562,6 @@
       "place": "37 km S of Silver Gate, Montana",
       "time": 1790022789160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157676"
-    },
-    {
-      "id": "ci41336327",
-      "lon": -115.409666666667,
-      "lat": 32.3636666666667,
-      "depth": 7.67,
-      "mag": 1.66,
-      "place": "20 km W of Delta, B.C., MX",
-      "time": 1790022494780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336327"
-    },
-    {
-      "id": "ci41336319",
-      "lon": -116.956833333333,
-      "lat": 32.6295,
-      "depth": -0.26,
-      "mag": 0.75,
-      "place": "8 km ESE of Bonita, CA",
-      "time": 1790022403930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336319"
-    },
-    {
-      "id": "ci41336311",
-      "lon": -116.792,
-      "lat": 33.6861666666667,
-      "depth": 15.52,
-      "mag": 0.43,
-      "place": "9 km SW of Idyllwild, CA",
-      "time": 1790022056950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336311"
-    },
-    {
-      "id": "ci41336303",
-      "lon": -118.3175,
-      "lat": 35.0568333333333,
-      "depth": -0.74,
-      "mag": 1.19,
-      "place": "13 km W of Mojave, CA",
-      "time": 1790021881410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336303"
     }
   ]
 }
