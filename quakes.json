@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T19:15:44Z",
-  "count": 256,
+  "updated": "2026-09-22T19:30:57Z",
+  "count": 255,
   "points": [
+    {
+      "id": "aka2026svctzj",
+      "lon": -149.874,
+      "lat": 63.965,
+      "depth": 5,
+      "mag": 1.2,
+      "place": "37 km W of Ferry, Alaska",
+      "time": 1790105366628,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svctzj"
+    },
+    {
+      "id": "pr71534078",
+      "lon": -66.9333333333333,
+      "lat": 17.9528333333333,
+      "depth": 7.71,
+      "mag": 2.23,
+      "place": "3 km SW of Guánica, Puerto Rico",
+      "time": 1790104853420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534078"
+    },
     {
       "id": "nc75440092",
       "lon": -122.786666870117,
@@ -155,12 +175,12 @@
     },
     {
       "id": "nn00924724",
-      "lon": -117.5956,
-      "lat": 37.2999,
-      "depth": 6.2451,
-      "mag": 1.88,
-      "place": "50 km S of Silver Peak, Nevada",
-      "time": 1790098232623,
+      "lon": -117.5993,
+      "lat": 37.2873,
+      "depth": 7.1762,
+      "mag": 2.01,
+      "place": "51 km S of Silver Peak, Nevada",
+      "time": 1790098232932,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924724"
     },
     {
@@ -2532,36 +2552,6 @@
       "place": "77 km WSW of Akhiok, Alaska",
       "time": 1790019167655,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026stgwir"
-    },
-    {
-      "id": "aka2026stgphi",
-      "lon": -151.615,
-      "lat": 62.907,
-      "depth": 1.2,
-      "mag": 1.8,
-      "place": "63 km NW of Petersville, Alaska",
-      "time": 1790018678444,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026stgphi"
-    },
-    {
-      "id": "nc75439517",
-      "lon": -122.811668395996,
-      "lat": 38.8334999084473,
-      "depth": 2.0699999332428,
-      "mag": 0.67,
-      "place": "8 km W of Cobb, CA",
-      "time": 1790018613390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439517"
-    },
-    {
-      "id": "ci41336263",
-      "lon": -116.7055,
-      "lat": 32.5723333333333,
-      "depth": 4.35,
-      "mag": 0.55,
-      "place": "7 km W of Tecate, B.C., MX",
-      "time": 1790018467710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336263"
     }
   ]
 }
