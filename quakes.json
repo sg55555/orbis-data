@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T05:45:41Z",
-  "count": 240,
+  "updated": "2026-09-22T06:01:09Z",
+  "count": 242,
   "points": [
+    {
+      "id": "ci41336655",
+      "lon": -116.065002441406,
+      "lat": 33.2498321533203,
+      "depth": 3.30999994277954,
+      "mag": 1.06709385587598,
+      "place": "11 km WSW of Salton City, CA",
+      "time": 1790056685850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336655"
+    },
     {
       "id": "ci41336647",
       "lon": -116.067333333333,
@@ -492,6 +502,26 @@
       "place": "23 km NE of Hawthorne, Nevada",
       "time": 1790033982591,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924700"
+    },
+    {
+      "id": "av94442431",
+      "lon": -166.795,
+      "lat": 53.8511666666667,
+      "depth": 8.58,
+      "mag": 1.41,
+      "place": "17 km WSW of Dutch Harbor, Alaska",
+      "time": 1790032801660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94442431"
+    },
+    {
+      "id": "av94442426",
+      "lon": -166.802333333333,
+      "lat": 53.8545,
+      "depth": 6.51,
+      "mag": 0.95,
+      "place": "17 km WSW of Dutch Harbor, Alaska",
+      "time": 1790032759540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94442426"
     },
     {
       "id": "us7000tj1k",
@@ -2392,16 +2422,6 @@
       "place": "2 km SSE of Yauco, Puerto Rico",
       "time": 1789970448590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533788"
-    },
-    {
-      "id": "uu80157611",
-      "lon": -110.431666666667,
-      "lat": 44.6561666666667,
-      "depth": 5.26,
-      "mag": 0.86,
-      "place": "41 km SSE of Mammoth, Wyoming",
-      "time": 1789970043460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157611"
     }
   ]
 }
