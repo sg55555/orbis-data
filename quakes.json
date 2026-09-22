@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T23:01:12Z",
-  "count": 289,
+  "updated": "2026-09-22T23:15:41Z",
+  "count": 286,
   "points": [
     {
       "id": "ok2026sqcd",
@@ -305,9 +305,9 @@
     },
     {
       "id": "ci41337127",
-      "lon": -117.548166666667,
-      "lat": 35.6876666666667,
-      "depth": 3.27,
+      "lon": -117.546,
+      "lat": 35.6875,
+      "depth": 4.85,
       "mag": 0.73,
       "place": "14 km ENE of Ridgecrest, CA",
       "time": 1790110023950,
@@ -845,12 +845,12 @@
     },
     {
       "id": "ci41336839",
-      "lon": -117.597,
-      "lat": 35.6143333333333,
-      "depth": 9.28,
-      "mag": 0.79,
+      "lon": -117.604166666667,
+      "lat": 35.6156666666667,
+      "depth": 9.38,
+      "mag": 0.8,
       "place": "7 km E of Ridgecrest, CA",
-      "time": 1790091700720,
+      "time": 1790091700790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336839"
     },
     {
@@ -1494,6 +1494,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157751"
     },
     {
+      "id": "av94443246",
+      "lon": 179.567,
+      "lat": 51.9256666666667,
+      "depth": 7.34,
+      "mag": 0.28,
+      "place": "261 km W of Adak, Alaska",
+      "time": 1790067188630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94443246"
+    },
+    {
       "id": "ci41336759",
       "lon": -116.3185,
       "lat": 33.8895,
@@ -1542,6 +1552,16 @@
       "place": "58 km S of Whites City, New Mexico",
       "time": 1790066354371,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026srgxuj"
+    },
+    {
+      "id": "av94443211",
+      "lon": -178.7325,
+      "lat": 51.7006666666667,
+      "depth": 19.53,
+      "mag": 1.27,
+      "place": "146 km W of Adak, Alaska",
+      "time": 1790066220720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94443211"
     },
     {
       "id": "nc75439892",
@@ -1845,12 +1865,12 @@
     },
     {
       "id": "uw714107561",
-      "lon": -122.000666666667,
-      "lat": 42.2588333333333,
-      "depth": 13.95,
-      "mag": 2.87,
+      "lon": -122.001833333333,
+      "lat": 42.2581666666667,
+      "depth": 14.31,
+      "mag": 0.98,
       "place": "18 km WNW of Klamath Falls, Oregon",
-      "time": 1790059345220,
+      "time": 1790059345180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714107561"
     },
     {
@@ -2842,56 +2862,6 @@
       "place": "8 km NNE of Arctic Village, Alaska",
       "time": 1790032485350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026stogux"
-    },
-    {
-      "id": "uw714107521",
-      "lon": -120.493333333333,
-      "lat": 49.3961666666667,
-      "depth": -0.36,
-      "mag": 1.83,
-      "place": "6 km S of Princeton, Canada",
-      "time": 1790032256540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714107521"
-    },
-    {
-      "id": "nc75439717",
-      "lon": -121.017669677734,
-      "lat": 35.7215003967285,
-      "depth": 5.21999979019165,
-      "mag": 2.57,
-      "place": "12 km W of Lake Nacimiento, CA",
-      "time": 1790032082630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439717"
-    },
-    {
-      "id": "av94442406",
-      "lon": -177.193333333333,
-      "lat": 51.9616666666667,
-      "depth": 11.84,
-      "mag": 0.98,
-      "place": "39 km WNW of Adak, Alaska",
-      "time": 1790032050190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94442406"
-    },
-    {
-      "id": "ci41336431",
-      "lon": -117.688666666667,
-      "lat": 35.0358333333333,
-      "depth": -0.82,
-      "mag": 1.52,
-      "place": "5 km NW of Boron, CA",
-      "time": 1790031963870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336431"
-    },
-    {
-      "id": "ci41336423",
-      "lon": -117.588666666667,
-      "lat": 33.9068333333333,
-      "depth": 3.29,
-      "mag": 0.66,
-      "place": "5 km NNW of Corona, CA",
-      "time": 1790031939900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336423"
     }
   ]
 }
