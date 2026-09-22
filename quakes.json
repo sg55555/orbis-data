@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T03:15:48Z",
-  "count": 235,
+  "updated": "2026-09-22T03:31:02Z",
+  "count": 233,
   "points": [
+    {
+      "id": "nc75439827",
+      "lon": -122.466667175293,
+      "lat": 37.5998344421387,
+      "depth": 8.64999961853027,
+      "mag": 2.31,
+      "place": "2 km SE of Pacifica, CA",
+      "time": 1790047478090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439827"
+    },
     {
       "id": "nc75439817",
       "lon": -122.799835205078,
@@ -2322,36 +2332,6 @@
       "place": "40 km ESE of Malaga, New Mexico",
       "time": 1789962191311,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026spbibd"
-    },
-    {
-      "id": "nc75439252",
-      "lon": -121.182334899902,
-      "lat": 36.5921669006348,
-      "depth": 4.11999988555908,
-      "mag": 1.48,
-      "place": "8 km NNW of Pinnacles, CA",
-      "time": 1789961299660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439252"
-    },
-    {
-      "id": "aka2026ssarak",
-      "lon": -154.988,
-      "lat": 58.02,
-      "depth": 87.6,
-      "mag": 1.4,
-      "place": "59 km NNW of Karluk, Alaska",
-      "time": 1789961235159,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssarak"
-    },
-    {
-      "id": "pr71533758",
-      "lon": -66.9861666666667,
-      "lat": 17.9588333333333,
-      "depth": 5.2,
-      "mag": 2.39,
-      "place": "6 km ESE of La Parguera, Puerto Rico",
-      "time": 1789960656820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533758"
     }
   ]
 }
