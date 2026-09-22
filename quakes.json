@@ -1,17 +1,47 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T17:31:02Z",
-  "count": 254,
+  "updated": "2026-09-22T17:44:32Z",
+  "count": 256,
   "points": [
     {
+      "id": "nc75440047",
+      "lon": -122.852668762207,
+      "lat": 38.8219985961914,
+      "depth": 2.32999992370605,
+      "mag": 0.7,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": 1790098472400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440047"
+    },
+    {
+      "id": "nn00924724",
+      "lon": -117.5956,
+      "lat": 37.2999,
+      "depth": 6.2451,
+      "mag": 1.88,
+      "place": "50 km S of Silver Peak, Nevada",
+      "time": 1790098232623,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924724"
+    },
+    {
       "id": "aka2026suytul",
-      "lon": -146.715,
-      "lat": 61.325,
-      "depth": 31.5,
-      "mag": 2.3,
-      "place": "29 km NW of Valdez, Alaska",
-      "time": 1790098194288,
+      "lon": -146.739,
+      "lat": 61.324,
+      "depth": 14.9,
+      "mag": 2.2,
+      "place": "30 km NW of Valdez, Alaska",
+      "time": 1790098194570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026suytul"
+    },
+    {
+      "id": "uu80157821",
+      "lon": -111.127333333333,
+      "lat": 44.7675,
+      "depth": 7.65,
+      "mag": 1.17,
+      "place": "5 km E of Hebgen Lake Estates, Montana",
+      "time": 1790097754090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157821"
     },
     {
       "id": "aka2026suydot",
@@ -2532,16 +2562,6 @@
       "place": "66 km W of Nikolski, Alaska",
       "time": 1790013877750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067184"
-    },
-    {
-      "id": "us7000tizh",
-      "lon": -67.6971,
-      "lat": -22.0932,
-      "depth": 198.661,
-      "mag": 4.4,
-      "place": "104 km NNE of San Pedro de Atacama, Chile",
-      "time": 1790012323165,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tizh"
     }
   ]
 }
