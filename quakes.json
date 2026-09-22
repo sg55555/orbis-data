@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T13:45:44Z",
+  "updated": "2026-09-22T14:01:16Z",
   "count": 225,
   "points": [
+    {
+      "id": "ci41336815",
+      "lon": -116.697166666667,
+      "lat": 32.5766666666667,
+      "depth": 2.94,
+      "mag": 0.42,
+      "place": "6 km W of Tecate, B.C., MX",
+      "time": 1790085212610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336815"
+    },
     {
       "id": "nc75439947",
       "lon": -122.741500854492,
@@ -724,13 +734,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3k"
     },
     {
+      "id": "tx2026sraean",
+      "lon": -101.74,
+      "lat": 36.45,
+      "depth": 2.2217,
+      "mag": 2.5,
+      "place": "6 km SE of Texhoma, Texas",
+      "time": 1790054114407,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sraean"
+    },
+    {
       "id": "ci41336639",
-      "lon": -116.659166666667,
-      "lat": 33.9788333333333,
-      "depth": 15.72,
+      "lon": -116.6575,
+      "lat": 33.9785,
+      "depth": 15.67,
       "mag": 0.85,
       "place": "10 km SW of Morongo Valley, CA",
-      "time": 1790053797270,
+      "time": 1790053797250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336639"
     },
     {
@@ -802,6 +822,16 @@
       "place": "11 km NNE of Ocotillo Wells, CA",
       "time": 1790048738630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336623"
+    },
+    {
+      "id": "ci41336615",
+      "lon": -116.737333333333,
+      "lat": 33.5171666666667,
+      "depth": 4.21,
+      "mag": 1.31,
+      "place": "7 km SW of Anza, CA",
+      "time": 1790048577600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336615"
     },
     {
       "id": "ci41336599",
@@ -914,16 +944,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026265000"
     },
     {
-      "id": "ci41336567",
-      "lon": -116.093833333333,
-      "lat": 33.0793333333333,
-      "depth": 6.13,
-      "mag": 1.16,
-      "place": "8 km SSE of Ocotillo Wells, CA",
-      "time": 1790045129000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336567"
-    },
-    {
       "id": "aka2026stvctr",
       "lon": -151.358,
       "lat": 62.946,
@@ -1015,12 +1035,12 @@
     },
     {
       "id": "ci41336519",
-      "lon": -117.567666666667,
-      "lat": 35.6388333333333,
-      "depth": 6.65,
+      "lon": -117.566333333333,
+      "lat": 35.6406666666667,
+      "depth": 6.42,
       "mag": 0.84,
       "place": "10 km ENE of Ridgecrest, CA",
-      "time": 1790040936000,
+      "time": 1790040935990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336519"
     },
     {
@@ -1175,12 +1195,12 @@
     },
     {
       "id": "ci41336463",
-      "lon": -116.179166666667,
-      "lat": 33.8705,
-      "depth": 4.09,
+      "lon": -116.178666666667,
+      "lat": 33.8678333333333,
+      "depth": 3.67,
       "mag": 1.13,
       "place": "17 km NNE of Indio, CA",
-      "time": 1790035041290,
+      "time": 1790035041260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336463"
     },
     {
@@ -1205,12 +1225,12 @@
     },
     {
       "id": "ci41336455",
-      "lon": -117.794333333333,
-      "lat": 34.2086666666667,
-      "depth": 6.83,
+      "lon": -117.793,
+      "lat": 34.2085,
+      "depth": 7.54,
       "mag": 1.18,
       "place": "10 km NE of Glendora, CA",
-      "time": 1790034119250,
+      "time": 1790034119180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336455"
     },
     {
@@ -2232,26 +2252,6 @@
       "place": "4 km SSE of Bombay Beach, CA",
       "time": 1789999282330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335983"
-    },
-    {
-      "id": "us7000tixu",
-      "lon": 138.0019,
-      "lat": -4.1759,
-      "depth": 148.887,
-      "mag": 4.3,
-      "place": "152 km N of Agats, Indonesia",
-      "time": 1789999104605,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixu"
-    },
-    {
-      "id": "av94441836",
-      "lon": -178.801666666667,
-      "lat": 51.7811666666667,
-      "depth": 9.7,
-      "mag": 0.26,
-      "place": "149 km W of Adak, Alaska",
-      "time": 1789998688300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94441836"
     }
   ]
 }
