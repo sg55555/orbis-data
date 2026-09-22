@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T20:01:20Z",
-  "count": 254,
+  "updated": "2026-09-22T20:15:42Z",
+  "count": 256,
   "points": [
+    {
+      "id": "aka2026svdxta",
+      "lon": -151.983,
+      "lat": 61.6,
+      "depth": 29,
+      "mag": 0.5,
+      "place": "53 km SW of Skwentna, Alaska",
+      "time": 1790107423144,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svdxta"
+    },
     {
       "id": "aka2026svdmzd",
       "lon": -159.175,
@@ -132,6 +142,16 @@
       "place": "9 km ENE of Fall City, Washington",
       "time": 1790103047220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714107871"
+    },
+    {
+      "id": "us6000twxv",
+      "lon": -178.0114,
+      "lat": -25.0118,
+      "depth": 427.498,
+      "mag": 4.4,
+      "place": "south of the Fiji Islands",
+      "time": 1790102911934,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000twxv"
     },
     {
       "id": "ci41336991",
@@ -982,6 +1002,16 @@
       "place": "2 km NW of The Geysers, CA",
       "time": 1790067506350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439902"
+    },
+    {
+      "id": "av94443256",
+      "lon": -163.959166666667,
+      "lat": 54.7121666666667,
+      "depth": 14.47,
+      "mag": 1.17,
+      "place": "38 km WSW of False Pass, Alaska",
+      "time": 1790067355170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94443256"
     },
     {
       "id": "uu80157751",
@@ -2532,16 +2562,6 @@
       "place": "13 km W of Mojave, CA",
       "time": 1790021881410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336303"
-    },
-    {
-      "id": "uw714107211",
-      "lon": -122.430166666667,
-      "lat": 46.0738333333333,
-      "depth": 10.42,
-      "mag": 1.69,
-      "place": "18 km N of Amboy, Washington",
-      "time": 1790021329310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714107211"
     }
   ]
 }
