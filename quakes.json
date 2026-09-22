@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T06:15:46Z",
-  "count": 241,
+  "updated": "2026-09-22T06:30:57Z",
+  "count": 238,
   "points": [
+    {
+      "id": "ci41336663",
+      "lon": -116.521166666667,
+      "lat": 33.156,
+      "depth": 6.24,
+      "mag": 0.29,
+      "place": "11 km NE of Julian, CA",
+      "time": 1790058137690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336663"
+    },
     {
       "id": "hv75041782",
       "lon": -155.310333251953,
@@ -2372,46 +2382,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1789972770190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439317"
-    },
-    {
-      "id": "uw714106601",
-      "lon": -124.249666666667,
-      "lat": 46.6563333333333,
-      "depth": 31.87,
-      "mag": 1.44,
-      "place": "20 km SW of Grayland, Washington",
-      "time": 1789971888700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714106601"
-    },
-    {
-      "id": "aka2026ssgltk",
-      "lon": -153.893,
-      "lat": 58.7,
-      "depth": 5,
-      "mag": 1.9,
-      "place": "91 km NW of Aleneva, Alaska",
-      "time": 1789971654922,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssgltk"
-    },
-    {
-      "id": "hv75041097",
-      "lon": -155.484161376953,
-      "lat": 19.921667098999,
-      "depth": 31.9300003051758,
-      "mag": 1.81,
-      "place": "17 km S of Honoka‘a, Hawaii",
-      "time": 1789971599660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041097"
-    },
-    {
-      "id": "aka2026ssgjoz",
-      "lon": -154.738,
-      "lat": 58.826,
-      "depth": 126.4,
-      "mag": 2.2,
-      "place": "68 km S of Kokhanok, Alaska",
-      "time": 1789971501881,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssgjoz"
     }
   ]
 }
