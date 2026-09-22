@@ -1,26 +1,56 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-21T23:45:42Z",
+  "updated": "2026-09-22T00:01:33Z",
   "count": 248,
   "points": [
     {
+      "id": "ci41336463",
+      "lon": -116.179166666667,
+      "lat": 33.8705,
+      "depth": 4.09,
+      "mag": 1.13,
+      "place": "17 km NNE of Indio, CA",
+      "time": 1790035041290,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336463"
+    },
+    {
+      "id": "aka2026stplyl",
+      "lon": -149.121,
+      "lat": 64.834,
+      "depth": 19.6,
+      "mag": 2.2,
+      "place": "25 km N of Four Mile Road, Alaska",
+      "time": 1790034641617,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026stplyl"
+    },
+    {
+      "id": "us7000tj1s",
+      "lon": 125.3746,
+      "lat": 4.5722,
+      "depth": 10,
+      "mag": 5.2,
+      "place": "92 km S of Sarangani, Philippines",
+      "time": 1790034493824,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj1s"
+    },
+    {
       "id": "ci41336455",
-      "lon": -117.794998168945,
-      "lat": 34.2060012817383,
-      "depth": 7.19999980926514,
-      "mag": 1.12729803879615,
+      "lon": -117.794333333333,
+      "lat": 34.2086666666667,
+      "depth": 6.83,
+      "mag": 1.18,
       "place": "10 km NE of Glendora, CA",
-      "time": 1790034119220,
+      "time": 1790034119250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336455"
     },
     {
       "id": "nn00924700",
-      "lon": -118.4669,
-      "lat": 38.6944,
-      "depth": 15.1323,
-      "mag": 2.75,
+      "lon": -118.4748,
+      "lat": 38.6981,
+      "depth": 8.3941,
+      "mag": 2.48,
       "place": "23 km NE of Hawthorne, Nevada",
-      "time": 1790033981973,
+      "time": 1790033982591,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924700"
     },
     {
@@ -55,12 +85,12 @@
     },
     {
       "id": "ci41336423",
-      "lon": -117.570831298828,
-      "lat": 34.125,
-      "depth": 5.65000009536743,
-      "mag": 1.27056086875202,
-      "place": "1 km ENE of Rancho Cucamonga, CA",
-      "time": 1790031936780,
+      "lon": -117.588666666667,
+      "lat": 33.9068333333333,
+      "depth": 3.29,
+      "mag": 0.66,
+      "place": "5 km NNW of Corona, CA",
+      "time": 1790031939900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336423"
     },
     {
@@ -1424,6 +1454,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533853"
     },
     {
+      "id": "av94441451",
+      "lon": -155.347666666667,
+      "lat": 58.1805,
+      "depth": 1.34,
+      "mag": -0.21,
+      "place": "86 km NW of Karluk, Alaska",
+      "time": 1789977457390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94441451"
+    },
+    {
       "id": "pr71533868",
       "lon": -65.3803333333333,
       "lat": 19.2541666666667,
@@ -2442,46 +2482,6 @@
       "place": "68 km N of Larsen Bay, Alaska",
       "time": 1789949400666,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026srucdt"
-    },
-    {
-      "id": "tx2026sotxqn",
-      "lon": -101.642,
-      "lat": 31.788,
-      "depth": 2.622,
-      "mag": 1,
-      "place": "17 km WSW of Garden City, Texas",
-      "time": 1789948670394,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sotxqn"
-    },
-    {
-      "id": "uw714106511",
-      "lon": -122.6405,
-      "lat": 46.23,
-      "depth": 17.51,
-      "mag": 0.66,
-      "place": "21 km ESE of Castle Rock, Washington",
-      "time": 1789948647390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714106511"
-    },
-    {
-      "id": "ci41335759",
-      "lon": -116.757833333333,
-      "lat": 33.5865,
-      "depth": 12.19,
-      "mag": 0.27,
-      "place": "9 km WNW of Anza, CA",
-      "time": 1789948207470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335759"
-    },
-    {
-      "id": "pr71533698",
-      "lon": -66.9315,
-      "lat": 17.9491666666667,
-      "depth": 7.62,
-      "mag": 2.24,
-      "place": "3 km SW of Guánica, Puerto Rico",
-      "time": 1789947918380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533698"
     }
   ]
 }
