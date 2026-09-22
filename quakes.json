@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T13:01:22Z",
-  "count": 230,
+  "updated": "2026-09-22T13:15:44Z",
+  "count": 229,
   "points": [
+    {
+      "id": "nc75439947",
+      "lon": -122.741500854492,
+      "lat": 38.7779998779297,
+      "depth": 2.00999999046326,
+      "mag": 1.09,
+      "place": "1 km E of The Geysers, CA",
+      "time": 1790082784020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439947"
+    },
     {
       "id": "ci41336799",
       "lon": -116.595,
@@ -182,6 +192,16 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1790071410890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439917"
+    },
+    {
+      "id": "us7000tj4r",
+      "lon": -179.3736,
+      "lat": -26.3979,
+      "depth": 431.374,
+      "mag": 4.3,
+      "place": "south of the Fiji Islands",
+      "time": 1790071231232,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj4r"
     },
     {
       "id": "nn00924712",
@@ -372,6 +392,16 @@
       "place": "7 km E of Calimesa, CA",
       "time": 1790063731570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336727"
+    },
+    {
+      "id": "tx2026srfclj",
+      "lon": -98.998,
+      "lat": 28.862,
+      "depth": 8.6733,
+      "mag": 1.2,
+      "place": "10 km ESE of Pearsall, Texas",
+      "time": 1790063055953,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026srfclj"
     },
     {
       "id": "tx2026srevpp",
@@ -2262,46 +2292,6 @@
       "place": "4 km WNW of The Geysers, CA",
       "time": 1789996681860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439387"
-    },
-    {
-      "id": "tx2026spugdh",
-      "lon": -103.757,
-      "lat": 31.369,
-      "depth": 6.9441,
-      "mag": 1.5,
-      "place": "6 km NNE of Toyah, Texas",
-      "time": 1789996336442,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026spugdh"
-    },
-    {
-      "id": "av94441796",
-      "lon": -169.89,
-      "lat": 52.8276666666667,
-      "depth": 8.08,
-      "mag": 1.06,
-      "place": "70 km W of Nikolski, Alaska",
-      "time": 1789996228310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94441796"
-    },
-    {
-      "id": "ci41335967",
-      "lon": -116.196666666667,
-      "lat": 33.8895,
-      "depth": 2.15,
-      "mag": 1.36,
-      "place": "19 km N of Indio, CA",
-      "time": 1789996166790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335967"
-    },
-    {
-      "id": "pr71533898",
-      "lon": -66.9606666666667,
-      "lat": 17.9701666666667,
-      "depth": 9.04,
-      "mag": 2.24,
-      "place": "5 km WSW of Fuig, Puerto Rico",
-      "time": 1789995779370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533898"
     }
   ]
 }
