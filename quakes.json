@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T19:45:41Z",
-  "count": 255,
+  "updated": "2026-09-22T20:01:20Z",
+  "count": 254,
   "points": [
+    {
+      "id": "aka2026svdmzd",
+      "lon": -159.175,
+      "lat": 55.223,
+      "depth": 5,
+      "mag": 2.7,
+      "place": "76 km S of Perryville, Alaska",
+      "time": 1790106677869,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svdmzd"
+    },
+    {
+      "id": "aka2026svdlzp",
+      "lon": -152.706,
+      "lat": 60.648,
+      "depth": 8.8,
+      "mag": 1,
+      "place": "75 km W of Salamatof, Alaska",
+      "time": 1790106621855,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svdlzp"
+    },
+    {
+      "id": "ci41337039",
+      "lon": -117.929666666667,
+      "lat": 36.1266666666667,
+      "depth": 6.24,
+      "mag": 0.58,
+      "place": "9 km N of Coso Junction, CA",
+      "time": 1790106176770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337039"
+    },
     {
       "id": "aka2026svcwrq",
       "lon": -155.062,
@@ -105,12 +135,12 @@
     },
     {
       "id": "ci41336991",
-      "lon": -115.717166666667,
-      "lat": 33.3196666666667,
-      "depth": 2.19,
-      "mag": 1.4,
+      "lon": -115.72,
+      "lat": 33.3193333333333,
+      "depth": 2.2,
+      "mag": 1.46,
       "place": "4 km SSE of Bombay Beach, CA",
-      "time": 1790102823460,
+      "time": 1790102823430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336991"
     },
     {
@@ -2512,46 +2542,6 @@
       "place": "18 km N of Amboy, Washington",
       "time": 1790021329310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714107211"
-    },
-    {
-      "id": "nc75439547",
-      "lon": -122.794502258301,
-      "lat": 38.8158340454102,
-      "depth": 2.21000003814697,
-      "mag": 0.73,
-      "place": "5 km NW of The Geysers, CA",
-      "time": 1790020853760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439547"
-    },
-    {
-      "id": "av94442206",
-      "lon": -153.0845,
-      "lat": 60.0226666666667,
-      "depth": -2.48,
-      "mag": -1.06,
-      "place": "62 km ENE of Pedro Bay, Alaska",
-      "time": 1790020798570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94442206"
-    },
-    {
-      "id": "ci41336287",
-      "lon": -117.12,
-      "lat": 33.6788333333333,
-      "depth": -0.63,
-      "mag": 0.54,
-      "place": "5 km SW of Winchester, CA",
-      "time": 1790020608290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336287"
-    },
-    {
-      "id": "uw714107191",
-      "lon": -122.6605,
-      "lat": 46.7818333333333,
-      "depth": -0.3,
-      "mag": 1.22,
-      "place": "12 km S of Rainier, Washington",
-      "time": 1790020142910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714107191"
     }
   ]
 }
