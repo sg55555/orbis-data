@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T07:15:45Z",
+  "updated": "2026-09-22T07:31:10Z",
   "count": 244,
   "points": [
+    {
+      "id": "ci41336719",
+      "lon": -116.528333333333,
+      "lat": 33.154,
+      "depth": 6.02,
+      "mag": 0.2,
+      "place": "11 km NE of Julian, CA",
+      "time": 1790061685910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336719"
+    },
     {
       "id": "nc75439867",
       "lon": -125.504669189453,
@@ -25,12 +35,12 @@
     },
     {
       "id": "uw714107571",
-      "lon": -121.854667663574,
-      "lat": 47.4213333129883,
-      "depth": 17.5900001525879,
-      "mag": 2.54980087280273,
-      "place": "7 km WSW of Wilderness Rim, Washington",
-      "time": 1790060531100,
+      "lon": -121.822166666667,
+      "lat": 47.4186666666667,
+      "depth": 18.73,
+      "mag": 2.4,
+      "place": "5 km SW of Wilderness Rim, Washington",
+      "time": 1790060531110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714107571"
     },
     {
@@ -2432,16 +2442,6 @@
       "place": "13 km NE of Milford, Utah",
       "time": 1789975824560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157616"
-    },
-    {
-      "id": "uw714106611",
-      "lon": -122.5665,
-      "lat": 44.9473333333333,
-      "depth": 17.99,
-      "mag": 1.24,
-      "place": "13 km SE of Scotts Mills, Oregon",
-      "time": 1789975301120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714106611"
     }
   ]
 }
