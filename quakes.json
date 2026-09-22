@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T17:11:50Z",
-  "count": 247,
+  "updated": "2026-09-22T17:15:42Z",
+  "count": 249,
   "points": [
+    {
+      "id": "aka2026suydot",
+      "lon": -152.735,
+      "lat": 59.282,
+      "depth": 75.6,
+      "mag": 2,
+      "place": "47 km W of Nanwalek, Alaska",
+      "time": 1790097050642,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026suydot"
+    },
+    {
+      "id": "ci41336895",
+      "lon": -117.677666666667,
+      "lat": 35.95,
+      "depth": 4.54,
+      "mag": 0.74,
+      "place": "21 km E of Little Lake, CA",
+      "time": 1790096996960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336895"
+    },
     {
       "id": "aka2026suxtdp",
       "lon": -150.851,
@@ -865,12 +885,12 @@
     },
     {
       "id": "ci41336711",
-      "lon": -115.720833333333,
-      "lat": 33.3241666666667,
-      "depth": 2.24,
-      "mag": 1.24,
+      "lon": -115.717666666667,
+      "lat": 33.323,
+      "depth": 3.43,
+      "mag": 1.26,
       "place": "3 km SSE of Bombay Beach, CA",
-      "time": 1790060546240,
+      "time": 1790060546140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336711"
     },
     {
@@ -1162,6 +1182,16 @@
       "place": "4 km NNW of San Leandro, CA",
       "time": 1790052870150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439847"
+    },
+    {
+      "id": "uw714107541",
+      "lon": -122.477666666667,
+      "lat": 44.0233333333333,
+      "depth": 3.17,
+      "mag": 0.4,
+      "place": "24 km ENE of Unity, Oregon",
+      "time": 1790052114570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714107541"
     },
     {
       "id": "tx2026sqywgc",
@@ -2462,16 +2492,6 @@
       "place": "Fiji region",
       "time": 1790011366521,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tizg"
-    },
-    {
-      "id": "aka2026stcgav",
-      "lon": -151.895,
-      "lat": 59.906,
-      "depth": 84.2,
-      "mag": 1.5,
-      "place": "10 km WSW of Happy Valley, Alaska",
-      "time": 1790010839930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026stcgav"
     }
   ]
 }
