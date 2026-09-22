@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T18:31:01Z",
-  "count": 258,
+  "updated": "2026-09-22T18:45:45Z",
+  "count": 261,
   "points": [
+    {
+      "id": "hv75042017",
+      "lon": -155.490493774414,
+      "lat": 19.16233253479,
+      "depth": 31.4699993133545,
+      "mag": 2.08,
+      "place": "4 km SSW of Pāhala, Hawaii",
+      "time": 1790102257400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042017"
+    },
+    {
+      "id": "nn00924728",
+      "lon": -119.7903,
+      "lat": 39.6037,
+      "depth": 5.9169,
+      "mag": 1.84,
+      "place": "1 km NW of Sun Valley, Nevada",
+      "time": 1790101952224,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924728"
+    },
     {
       "id": "hv75042002",
       "lon": -155.496170043945,
@@ -142,6 +162,16 @@
       "place": "35 km N of Petersville, Alaska",
       "time": 1790096311991,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026suxtdp"
+    },
+    {
+      "id": "us6000twx2",
+      "lon": -104.4516,
+      "lat": 31.6405,
+      "depth": 8.671,
+      "mag": 2.8,
+      "place": "59 km S of Whites City, New Mexico",
+      "time": 1790095839491,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000twx2"
     },
     {
       "id": "aka2026suwxvb",
@@ -735,12 +765,12 @@
     },
     {
       "id": "nn00924712",
-      "lon": -117.0964,
-      "lat": 37.4241,
-      "depth": 1.2776,
-      "mag": 1.63,
-      "place": "33 km SSE of Goldfield, Nevada",
-      "time": 1790070041733,
+      "lon": -117.0982,
+      "lat": 37.4114,
+      "depth": 8.0531,
+      "mag": 1.56,
+      "place": "35 km SSE of Goldfield, Nevada",
+      "time": 1790070042510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924712"
     },
     {
@@ -1244,13 +1274,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041782"
     },
     {
+      "id": "ci10254150",
+      "lon": -116.0595,
+      "lat": 33.2526666666667,
+      "depth": 5.5,
+      "mag": 0.93,
+      "place": "11 km WSW of Salton City, CA",
+      "time": 1790056689310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10254150"
+    },
+    {
       "id": "ci41336655",
-      "lon": -116.064333333333,
-      "lat": 33.2416666666667,
-      "depth": 3.57,
-      "mag": 1.04,
+      "lon": -116.063666666667,
+      "lat": 33.2431666666667,
+      "depth": 4.69,
+      "mag": 1.05,
       "place": "12 km WSW of Salton City, CA",
-      "time": 1790056685860,
+      "time": 1790056685870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336655"
     },
     {
@@ -2572,16 +2612,6 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1790016411260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439492"
-    },
-    {
-      "id": "tx2026sqfdfl",
-      "lon": -104.42,
-      "lat": 31.666,
-      "depth": 6.0999,
-      "mag": 1.9,
-      "place": "56 km S of Whites City, New Mexico",
-      "time": 1790016166318,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sqfdfl"
     }
   ]
 }
