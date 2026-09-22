@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T20:30:59Z",
-  "count": 256,
+  "updated": "2026-09-22T20:45:39Z",
+  "count": 259,
   "points": [
+    {
+      "id": "ci41337119",
+      "lon": -116.319999694824,
+      "lat": 34.0243339538574,
+      "depth": 7.25,
+      "mag": 1.05208231176418,
+      "place": "12 km S of Joshua Tree, CA",
+      "time": 1790109730180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337119"
+    },
+    {
+      "id": "ci41337103",
+      "lon": -116.160833333333,
+      "lat": 33.789,
+      "depth": 7.98,
+      "mag": 0.65,
+      "place": "9 km NNE of Indio, CA",
+      "time": 1790109074250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337103"
+    },
     {
       "id": "ci41337095",
       "lon": -116.724166666667,
@@ -12,6 +32,16 @@
       "place": "8 km NNE of Alpine, CA",
       "time": 1790108284730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337095"
+    },
+    {
+      "id": "ci41337079",
+      "lon": -116.8315,
+      "lat": 33.7101666666667,
+      "depth": 15.3,
+      "mag": 0.75,
+      "place": "7 km SE of Valle Vista, CA",
+      "time": 1790107677040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337079"
     },
     {
       "id": "aka2026svdxta",
@@ -2024,6 +2054,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439767"
     },
     {
+      "id": "av94442611",
+      "lon": 179.681166666667,
+      "lat": 51.9973333333333,
+      "depth": 6.56,
+      "mag": 0.17,
+      "place": "253 km W of Adak, Alaska",
+      "time": 1790038312170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94442611"
+    },
+    {
       "id": "tx2026sqrkvd",
       "lon": -103.84,
       "lat": 32.003,
@@ -2052,6 +2092,16 @@
       "place": "166 km WSW of Nikolski, Alaska",
       "time": 1790037883637,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj31"
+    },
+    {
+      "id": "av94442566",
+      "lon": -166.803833333333,
+      "lat": 53.8543333333333,
+      "depth": 6.19,
+      "mag": 0.98,
+      "place": "17 km WSW of Dutch Harbor, Alaska",
+      "time": 1790037580680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94442566"
     },
     {
       "id": "av93067209",
@@ -2542,26 +2592,6 @@
       "place": "37 km E of Plush, Oregon",
       "time": 1790023497380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714107261"
-    },
-    {
-      "id": "av94442236",
-      "lon": -169.886166666667,
-      "lat": 52.8118333333333,
-      "depth": 2.24,
-      "mag": 0.63,
-      "place": "70 km WSW of Nikolski, Alaska",
-      "time": 1790022829530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94442236"
-    },
-    {
-      "id": "uu80157676",
-      "lon": -110.056,
-      "lat": 44.6765,
-      "depth": 13.65,
-      "mag": 1.49,
-      "place": "37 km S of Silver Gate, Montana",
-      "time": 1790022789160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157676"
     }
   ]
 }
