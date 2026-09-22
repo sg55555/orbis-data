@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T14:01:16Z",
-  "count": 225,
+  "updated": "2026-09-22T14:15:48Z",
+  "count": 222,
   "points": [
+    {
+      "id": "nc75439957",
+      "lon": -122.841835021973,
+      "lat": 38.8199996948242,
+      "depth": 2.04999995231628,
+      "mag": 0.71,
+      "place": "9 km WNW of The Geysers, CA",
+      "time": 1790085919110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439957"
+    },
     {
       "id": "ci41336815",
       "lon": -116.697166666667,
@@ -612,6 +622,16 @@
       "place": "19 km ENE of Nailong, Philippines",
       "time": 1790059689705,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3v"
+    },
+    {
+      "id": "tx2026srdbml",
+      "lon": -101.843,
+      "lat": 32.304,
+      "depth": 5.9814,
+      "mag": 0.2,
+      "place": "20 km NNW of Stanton, Texas",
+      "time": 1790059378972,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026srdbml"
     },
     {
       "id": "ci41336671",
@@ -2202,56 +2222,6 @@
       "place": "32 km SE of Malaga, New Mexico",
       "time": 1790000548928,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026spwoqf"
-    },
-    {
-      "id": "hv75041247",
-      "lon": -155.495162963867,
-      "lat": 19.1778335571289,
-      "depth": 29.8299999237061,
-      "mag": 2.01,
-      "place": "3 km SSW of Pāhala, Hawaii",
-      "time": 1789999927230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041247"
-    },
-    {
-      "id": "tx2026spwbkv",
-      "lon": -104.198,
-      "lat": 31.555,
-      "depth": 4.3501,
-      "mag": 1.7,
-      "place": "46 km NW of Toyah, Texas",
-      "time": 1789999671254,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026spwbkv"
-    },
-    {
-      "id": "hv75041242",
-      "lon": -155.49333190918,
-      "lat": 19.2005004882812,
-      "depth": 30.0400009155273,
-      "mag": 2.81,
-      "place": "1 km W of Pāhala, Hawaii",
-      "time": 1789999564230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041242"
-    },
-    {
-      "id": "ci41335991",
-      "lon": -117.1515,
-      "lat": 33.983,
-      "depth": 9.97,
-      "mag": 0.82,
-      "place": "9 km SSE of Redlands, CA",
-      "time": 1789999361220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335991"
-    },
-    {
-      "id": "ci41335983",
-      "lon": -115.7245,
-      "lat": 33.3188333333333,
-      "depth": 3.02,
-      "mag": 1.13,
-      "place": "4 km SSE of Bombay Beach, CA",
-      "time": 1789999282330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335983"
     }
   ]
 }
