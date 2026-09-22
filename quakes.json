@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T18:15:46Z",
-  "count": 257,
+  "updated": "2026-09-22T18:31:01Z",
+  "count": 258,
   "points": [
+    {
+      "id": "hv75042002",
+      "lon": -155.496170043945,
+      "lat": 19.1606674194336,
+      "depth": 30.5,
+      "mag": 2.19,
+      "place": "5 km SSW of Pāhala, Hawaii",
+      "time": 1790101261130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042002"
+    },
+    {
+      "id": "aka2026svajli",
+      "lon": -152.547,
+      "lat": 60.14,
+      "depth": 99.5,
+      "mag": 0.9,
+      "place": "49 km W of Ninilchik, Alaska",
+      "time": 1790101036003,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svajli"
+    },
+    {
+      "id": "ci41336951",
+      "lon": -116.989333333333,
+      "lat": 32.6143333333333,
+      "depth": -0.43,
+      "mag": 1.05,
+      "place": "6 km ESE of Chula Vista, CA",
+      "time": 1790100827960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336951"
+    },
     {
       "id": "aka2026suzvrb",
       "lon": -154.75,
@@ -15,12 +45,12 @@
     },
     {
       "id": "ci41336927",
-      "lon": -117.8635,
-      "lat": 35.4766666666667,
-      "depth": 3.93,
-      "mag": 0.86,
-      "place": "19 km SSW of Inyokern, CA",
-      "time": 1790099233280,
+      "lon": -117.860333333333,
+      "lat": 35.4731666666667,
+      "depth": 5.01,
+      "mag": 0.79,
+      "place": "20 km SSW of Inyokern, CA",
+      "time": 1790099233260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336927"
     },
     {
@@ -172,6 +202,16 @@
       "place": "2 km NNW of The Geysers, CA",
       "time": 1790093475150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440012"
+    },
+    {
+      "id": "us6000twwy",
+      "lon": 82.3165,
+      "lat": 41.7997,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "51 km W of Kuqa, China",
+      "time": 1790093349440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000twwy"
     },
     {
       "id": "tx2026srvtwi",
@@ -1245,12 +1285,12 @@
     },
     {
       "id": "ci41336647",
-      "lon": -116.067333333333,
-      "lat": 33.2451666666667,
-      "depth": 2.97,
+      "lon": -116.068,
+      "lat": 33.246,
+      "depth": 4.1,
       "mag": 1.01,
       "place": "12 km WSW of Salton City, CA",
-      "time": 1790054752340,
+      "time": 1790054752330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336647"
     },
     {
@@ -1365,12 +1405,12 @@
     },
     {
       "id": "ci41336631",
-      "lon": -116.738166666667,
-      "lat": 33.5171666666667,
-      "depth": 4.12,
-      "mag": 0.85,
+      "lon": -116.739166666667,
+      "lat": 33.5165,
+      "depth": 4.39,
+      "mag": -0.1,
       "place": "7 km SW of Anza, CA",
-      "time": 1790048995090,
+      "time": 1790048995050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336631"
     },
     {
@@ -2542,36 +2582,6 @@
       "place": "56 km S of Whites City, New Mexico",
       "time": 1790016166318,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sqfdfl"
-    },
-    {
-      "id": "ok2026snxy",
-      "lon": -95.1705,
-      "lat": 35.90366667,
-      "depth": 0,
-      "mag": 1.42,
-      "place": "4 km SW of Hulbert, Oklahoma",
-      "time": 1790015403399,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026snxy"
-    },
-    {
-      "id": "hv75041327",
-      "lon": -155.378326416016,
-      "lat": 19.0116672515869,
-      "depth": 29.7999992370605,
-      "mag": 1.81,
-      "place": "22 km ESE of Naalehu, Hawaii",
-      "time": 1790015392300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041327"
-    },
-    {
-      "id": "aka2026steqzi",
-      "lon": -154.076,
-      "lat": 55.479,
-      "depth": 20,
-      "mag": 3.8,
-      "place": "163 km S of Akhiok, Alaska",
-      "time": 1790015209270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026steqzi"
     }
   ]
 }
