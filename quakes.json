@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T13:21:35Z",
-  "count": 230,
+  "updated": "2026-09-22T13:31:00Z",
+  "count": 228,
   "points": [
     {
       "id": "nc75439947",
@@ -22,6 +22,16 @@
       "place": "0 km WNW of Pāhala, Hawaii",
       "time": 1790082675150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041897"
+    },
+    {
+      "id": "uu80157781",
+      "lon": -112.869,
+      "lat": 37.0236666666667,
+      "depth": 19.07,
+      "mag": 1.65,
+      "place": "8 km NNE of Cane Beds, Arizona",
+      "time": 1790081832620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157781"
     },
     {
       "id": "ci41336799",
@@ -622,6 +632,26 @@
       "place": "53 km S of Whites City, New Mexico",
       "time": 1790058015988,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026srciau"
+    },
+    {
+      "id": "tx2026srchwz",
+      "lon": -101.699,
+      "lat": 31.722,
+      "depth": 6.8604,
+      "mag": 0.6,
+      "place": "25 km SW of Garden City, Texas",
+      "time": 1790058005995,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026srchwz"
+    },
+    {
+      "id": "tx2026srcctg",
+      "lon": -101.911,
+      "lat": 32.097,
+      "depth": 8.4717,
+      "mag": 0.8,
+      "place": "12 km WSW of Stanton, Texas",
+      "time": 1790057645560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026srcctg"
     },
     {
       "id": "us7000tj3s",
@@ -2252,56 +2282,6 @@
       "place": "30 km S of Minto, Alaska",
       "time": 1789997796423,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssuznb"
-    },
-    {
-      "id": "uu80157641",
-      "lon": -112.9025,
-      "lat": 38.4845,
-      "depth": 2.86,
-      "mag": 0.58,
-      "place": "13 km NE of Milford, Utah",
-      "time": 1789997331070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157641"
-    },
-    {
-      "id": "nc75439397",
-      "lon": -122.810501098633,
-      "lat": 38.7999992370605,
-      "depth": 2,
-      "mag": 2.13,
-      "place": "5 km WNW of The Geysers, CA",
-      "time": 1789997225560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439397"
-    },
-    {
-      "id": "hv75041232",
-      "lon": -155.369659423828,
-      "lat": 19.0009994506836,
-      "depth": 27.3099994659424,
-      "mag": 1.77,
-      "place": "23 km ESE of Naalehu, Hawaii",
-      "time": 1789997192350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041232"
-    },
-    {
-      "id": "nc75439392",
-      "lon": -122.809829711914,
-      "lat": 38.8008346557617,
-      "depth": 2.1800000667572,
-      "mag": 1.31,
-      "place": "5 km WNW of The Geysers, CA",
-      "time": 1789997152320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439392"
-    },
-    {
-      "id": "aka2026ssumby",
-      "lon": -151.685,
-      "lat": 61.204,
-      "depth": 78.9,
-      "mag": 1.7,
-      "place": "33 km WNW of Beluga, Alaska",
-      "time": 1789996867210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssumby"
     }
   ]
 }
