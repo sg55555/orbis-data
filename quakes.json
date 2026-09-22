@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T05:15:41Z",
-  "count": 246,
+  "updated": "2026-09-22T05:30:56Z",
+  "count": 245,
   "points": [
+    {
+      "id": "ci41336647",
+      "lon": -116.067333333333,
+      "lat": 33.2451666666667,
+      "depth": 2.97,
+      "mag": 1.01,
+      "place": "12 km WSW of Salton City, CA",
+      "time": 1790054752340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336647"
+    },
     {
       "id": "ci41336639",
       "lon": -116.659166666667,
@@ -12,6 +22,16 @@
       "place": "10 km SW of Morongo Valley, CA",
       "time": 1790053797270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336639"
+    },
+    {
+      "id": "pr71534013",
+      "lon": -66.6031666666667,
+      "lat": 17.9438333333333,
+      "depth": 14.81,
+      "mag": 2.07,
+      "place": "7 km SSE of Ponce, Puerto Rico",
+      "time": 1790053638110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534013"
     },
     {
       "id": "pr71534008",
@@ -532,6 +552,16 @@
       "place": "3 km SSW of Roncesvalles, Colombia",
       "time": 1790031502094,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj1f"
+    },
+    {
+      "id": "av93067204",
+      "lon": -166.8105,
+      "lat": 53.8601666666667,
+      "depth": 6.7,
+      "mag": -0.01,
+      "place": "17 km W of Dutch Harbor, Alaska",
+      "time": 1790031156220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067204"
     },
     {
       "id": "ci41336415",
@@ -2422,46 +2452,6 @@
       "place": "66 km ENE of Pedro Bay, Alaska",
       "time": 1789968691180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94441286"
-    },
-    {
-      "id": "ci10254054",
-      "lon": -116.342666666667,
-      "lat": 33.9866666666667,
-      "depth": 5.08,
-      "mag": 0.5,
-      "place": "15 km E of Desert Hot Springs, CA",
-      "time": 1789968246950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10254054"
-    },
-    {
-      "id": "ci41335863",
-      "lon": -116.890333333333,
-      "lat": 33.8845,
-      "depth": 14.26,
-      "mag": 0.45,
-      "place": "5 km SSW of Banning, CA",
-      "time": 1789968239390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335863"
-    },
-    {
-      "id": "aka2026ssende",
-      "lon": -155.655,
-      "lat": 57.303,
-      "depth": 72.9,
-      "mag": 2.4,
-      "place": "77 km WSW of Karluk, Alaska",
-      "time": 1789968152413,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssende"
-    },
-    {
-      "id": "nc75439302",
-      "lon": -121.681335449219,
-      "lat": 37.6401672363281,
-      "depth": 10.1999998092651,
-      "mag": 1.96,
-      "place": "9 km ESE of Livermore, CA",
-      "time": 1789967880070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439302"
     }
   ]
 }
