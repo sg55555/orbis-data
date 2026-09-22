@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T22:30:58Z",
-  "count": 292,
+  "updated": "2026-09-22T22:45:43Z",
+  "count": 288,
   "points": [
+    {
+      "id": "ci41337279",
+      "lon": -117.241833333333,
+      "lat": 34.1615,
+      "depth": 2.38,
+      "mag": 1.96,
+      "place": "5 km NW of Highland, CA",
+      "time": 1790116812150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337279"
+    },
+    {
+      "id": "aka2026svizcf",
+      "lon": -147.622,
+      "lat": 63.585,
+      "depth": 5,
+      "mag": 2,
+      "place": "66 km ESE of Denali Park, Alaska",
+      "time": 1790116513324,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svizcf"
+    },
     {
       "id": "aka2026svisiq",
       "lon": -150.839,
@@ -52,6 +72,16 @@
       "place": "44 km ENE of Pedro Bay, Alaska",
       "time": 1790115745216,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svinsl"
+    },
+    {
+      "id": "uw714108111",
+      "lon": -123.016666666667,
+      "lat": 47.4661666666667,
+      "depth": 18.45,
+      "mag": 0.38,
+      "place": "11 km NE of Hoodsport, Washington",
+      "time": 1790115543600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714108111"
     },
     {
       "id": "nc75440142",
@@ -2024,6 +2054,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157736"
     },
     {
+      "id": "av93067244",
+      "lon": -176.275166666667,
+      "lat": 52.0778333333333,
+      "depth": 16.97,
+      "mag": 0.55,
+      "place": "33 km NE of Adak, Alaska",
+      "time": 1790050380460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067244"
+    },
+    {
       "id": "uu80157731",
       "lon": -112.9035,
       "lat": 38.5126666666667,
@@ -2842,86 +2882,6 @@
       "place": "1 km S of Muscoy, CA",
       "time": 1790031040830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336415"
-    },
-    {
-      "id": "nc75439702",
-      "lon": -124.535835266113,
-      "lat": 40.3035011291504,
-      "depth": 10.460000038147,
-      "mag": 2.5,
-      "place": "21 km W of Petrolia, CA",
-      "time": 1790030511820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439702"
-    },
-    {
-      "id": "av93067199",
-      "lon": -166.806166666667,
-      "lat": 53.8608333333333,
-      "depth": 6.77,
-      "mag": 0.06,
-      "place": "17 km W of Dutch Harbor, Alaska",
-      "time": 1790030471410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067199"
-    },
-    {
-      "id": "av93067194",
-      "lon": -166.7935,
-      "lat": 53.8541666666667,
-      "depth": 7.15,
-      "mag": 0.46,
-      "place": "16 km WSW of Dutch Harbor, Alaska",
-      "time": 1790030454560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067194"
-    },
-    {
-      "id": "av94442371",
-      "lon": -166.796833333333,
-      "lat": 53.855,
-      "depth": 6.64,
-      "mag": 0.77,
-      "place": "17 km WSW of Dutch Harbor, Alaska",
-      "time": 1790030441120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94442371"
-    },
-    {
-      "id": "nc75439692",
-      "lon": -121.431167602539,
-      "lat": 36.7360000610352,
-      "depth": 7.65999984741211,
-      "mag": 1.72,
-      "place": "10 km SW of Ridgemark, CA",
-      "time": 1790030081350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439692"
-    },
-    {
-      "id": "ci41336407",
-      "lon": -117.490833333333,
-      "lat": 33.8488333333333,
-      "depth": -0.51,
-      "mag": 1.54,
-      "place": "4 km SE of Home Gardens, CA",
-      "time": 1790030072980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336407"
-    },
-    {
-      "id": "av94442356",
-      "lon": -166.779333333333,
-      "lat": 53.8493333333333,
-      "depth": 8.03,
-      "mag": 2.04,
-      "place": "16 km WSW of Dutch Harbor, Alaska",
-      "time": 1790029966220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94442356"
-    },
-    {
-      "id": "av94442351",
-      "lon": -166.809,
-      "lat": 53.8595,
-      "depth": 6.69,
-      "mag": 0.67,
-      "place": "17 km W of Dutch Harbor, Alaska",
-      "time": 1790029872870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94442351"
     }
   ]
 }
