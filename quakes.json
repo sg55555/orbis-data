@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-22T05:07:06Z",
-  "count": 243,
+  "updated": "2026-09-22T05:15:41Z",
+  "count": 246,
   "points": [
+    {
+      "id": "ci41336639",
+      "lon": -116.659166666667,
+      "lat": 33.9788333333333,
+      "depth": 15.72,
+      "mag": 0.85,
+      "place": "10 km SW of Morongo Valley, CA",
+      "time": 1790053797270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336639"
+    },
+    {
+      "id": "pr71534008",
+      "lon": -66.8425,
+      "lat": 17.9846666666667,
+      "depth": 16.61,
+      "mag": 2.03,
+      "place": "2 km WSW of Indios, Puerto Rico",
+      "time": 1790053527740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534008"
+    },
     {
       "id": "nc75439847",
       "lon": -122.165496826172,
@@ -532,6 +552,36 @@
       "place": "21 km W of Petrolia, CA",
       "time": 1790030511820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439702"
+    },
+    {
+      "id": "av93067199",
+      "lon": -166.806166666667,
+      "lat": 53.8608333333333,
+      "depth": 6.77,
+      "mag": 0.06,
+      "place": "17 km W of Dutch Harbor, Alaska",
+      "time": 1790030471410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067199"
+    },
+    {
+      "id": "av93067194",
+      "lon": -166.7935,
+      "lat": 53.8541666666667,
+      "depth": 7.15,
+      "mag": 0.46,
+      "place": "16 km WSW of Dutch Harbor, Alaska",
+      "time": 1790030454560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067194"
+    },
+    {
+      "id": "av94442371",
+      "lon": -166.796833333333,
+      "lat": 53.855,
+      "depth": 6.64,
+      "mag": 0.77,
+      "place": "17 km WSW of Dutch Harbor, Alaska",
+      "time": 1790030441120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94442371"
     },
     {
       "id": "nc75439692",
@@ -2412,26 +2462,6 @@
       "place": "9 km ESE of Livermore, CA",
       "time": 1789967880070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439302"
-    },
-    {
-      "id": "nc75439297",
-      "lon": -122.879997253418,
-      "lat": 38.841667175293,
-      "depth": 2.36999988555908,
-      "mag": 0.68,
-      "place": "13 km ENE of Cloverdale, CA",
-      "time": 1789967608560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439297"
-    },
-    {
-      "id": "aka2026sseasm",
-      "lon": -152.725,
-      "lat": 59.56,
-      "depth": 90.6,
-      "mag": 2.6,
-      "place": "50 km WNW of Nanwalek, Alaska",
-      "time": 1789967292229,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sseasm"
     }
   ]
 }
