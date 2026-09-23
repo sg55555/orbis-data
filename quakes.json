@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T16:15:45Z",
-  "count": 235,
+  "updated": "2026-09-23T16:31:00Z",
+  "count": 234,
   "points": [
     {
       "id": "ci41337751",
@@ -202,6 +202,16 @@
       "place": "4 km S of Pāhala, Hawaii",
       "time": 1790173335620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042672"
+    },
+    {
+      "id": "us6000tx3l",
+      "lon": 125.8221,
+      "lat": 6.4256,
+      "depth": 150.252,
+      "mag": 4.2,
+      "place": "21 km ENE of Lais, Philippines",
+      "time": 1790173172302,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx3l"
     },
     {
       "id": "ci41337663",
@@ -1135,12 +1145,12 @@
     },
     {
       "id": "ci41337391",
-      "lon": -117.800163269043,
-      "lat": 35.3076667785645,
-      "depth": 5.6100001335144,
-      "mag": 1.64716708928578,
+      "lon": -117.803,
+      "lat": 35.305,
+      "depth": 6.65,
+      "mag": 1.68,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1790134874460,
+      "time": 1790134874350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337391"
     },
     {
@@ -1704,6 +1714,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svhnuz"
     },
     {
+      "id": "tx2026ssgptg",
+      "lon": -101.577,
+      "lat": 32.407,
+      "depth": 5.4443,
+      "mag": 0.8,
+      "place": "18 km SE of Ackerly, Texas",
+      "time": 1790112864203,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ssgptg"
+    },
+    {
       "id": "aka2026svgybo",
       "lon": -149.259,
       "lat": 61.906,
@@ -2154,6 +2174,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336951"
     },
     {
+      "id": "tx2026srzyrq",
+      "lon": -102.366,
+      "lat": 32.039,
+      "depth": 5.4932,
+      "mag": 0.7,
+      "place": "2 km NNE of Gardendale, Texas",
+      "time": 1790100813641,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026srzyrq"
+    },
+    {
       "id": "av94443846",
       "lon": -153.062333333333,
       "lat": 60.0526666666667,
@@ -2312,46 +2342,6 @@
       "place": "64 km ENE of Pedro Bay, Alaska",
       "time": 1790094834360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026suwxvb"
-    },
-    {
-      "id": "nc75440037",
-      "lon": -122.823501586914,
-      "lat": 38.8214988708496,
-      "depth": 2.47000002861023,
-      "mag": 0.71,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1790094477670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440037"
-    },
-    {
-      "id": "hv75041962",
-      "lon": -155.574340820312,
-      "lat": 19.8526668548584,
-      "depth": 13.1099996566772,
-      "mag": 1.81,
-      "place": "21 km SSE of Waimea, Hawaii",
-      "time": 1790093910380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041962"
-    },
-    {
-      "id": "av93067274",
-      "lon": -166.9495,
-      "lat": 53.8695,
-      "depth": 10.39,
-      "mag": -0.76,
-      "place": "26 km W of Dutch Harbor, Alaska",
-      "time": 1790093893170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067274"
-    },
-    {
-      "id": "nc75440017",
-      "lon": -122.720664978027,
-      "lat": 38.7498321533203,
-      "depth": 2.22000002861023,
-      "mag": 1.15,
-      "place": "4 km SW of Anderson Springs, CA",
-      "time": 1790093785890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440017"
     }
   ]
 }
