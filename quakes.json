@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T13:15:49Z",
-  "count": 239,
+  "updated": "2026-09-23T13:31:01Z",
+  "count": 242,
   "points": [
+    {
+      "id": "hv75042652",
+      "lon": -155.483505249023,
+      "lat": 19.1555004119873,
+      "depth": 11.1400003433228,
+      "mag": 1.99000001,
+      "place": "5 km S of Pāhala, Hawaii",
+      "time": 1790170060440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042652"
+    },
+    {
+      "id": "nc75440342",
+      "lon": -122.84400177002,
+      "lat": 38.8226661682129,
+      "depth": 2.24000000953674,
+      "mag": 0.69,
+      "place": "9 km WNW of The Geysers, CA",
+      "time": 1790169646710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440342"
+    },
     {
       "id": "nc75440332",
       "lon": -122.408836364746,
@@ -52,6 +72,26 @@
       "place": "65 km SE of Punta Cana, Dominican Republic",
       "time": 1790167038460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534228"
+    },
+    {
+      "id": "us6000tx31",
+      "lon": 126.5263,
+      "lat": 1.217,
+      "depth": 48.462,
+      "mag": 4.6,
+      "place": "106 km WNW of Ternate, Indonesia",
+      "time": 1790166200274,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx31"
+    },
+    {
+      "id": "us6000tx30",
+      "lon": -149.1422,
+      "lat": 56.3563,
+      "depth": 10,
+      "mag": 3.1,
+      "place": "236 km SE of Chiniak, Alaska",
+      "time": 1790165952731,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx30"
     },
     {
       "id": "aka2026swkhpz",
@@ -262,6 +302,16 @@
       "place": "Socotra region",
       "time": 1790159585103,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx2s"
+    },
+    {
+      "id": "uu80157871",
+      "lon": -111.0415,
+      "lat": 44.71,
+      "depth": 8.93,
+      "mag": 0.28,
+      "place": "7 km NE of West Yellowstone, Montana",
+      "time": 1790159150840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157871"
     },
     {
       "id": "ci41337535",
@@ -904,6 +954,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157856"
     },
     {
+      "id": "uu80157851",
+      "lon": -112.872833333333,
+      "lat": 37.0225,
+      "depth": 18.87,
+      "mag": 1.52,
+      "place": "8 km ENE of Hildale, Utah",
+      "time": 1790131990340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157851"
+    },
+    {
       "id": "nc75440227",
       "lon": -122.451332092285,
       "lat": 38.5626678466797,
@@ -1025,9 +1085,9 @@
     },
     {
       "id": "ci41337359",
-      "lon": -117.7055,
-      "lat": 33.8926666666667,
-      "depth": 9.81,
+      "lon": -117.702666666667,
+      "lat": 33.8956666666667,
+      "depth": 9.91,
       "mag": 1.18,
       "place": "10 km E of Yorba Linda, CA",
       "time": 1790127082820,
@@ -1035,19 +1095,19 @@
     },
     {
       "id": "ci41337351",
-      "lon": -116.488333333333,
-      "lat": 32.9751666666667,
-      "depth": 8.49,
+      "lon": -116.4875,
+      "lat": 32.9753333333333,
+      "depth": 9.09,
       "mag": 0.78,
       "place": "16 km SE of Julian, CA",
-      "time": 1790126066740,
+      "time": 1790126066710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337351"
     },
     {
       "id": "ci41337343",
-      "lon": -116.755666666667,
-      "lat": 33.7076666666667,
-      "depth": 15.97,
+      "lon": -116.754166666667,
+      "lat": 33.709,
+      "depth": 15.74,
       "mag": 0.92,
       "place": "5 km SW of Idyllwild, CA",
       "time": 1790125724560,
@@ -1115,12 +1175,12 @@
     },
     {
       "id": "ci41337319",
-      "lon": -117.802,
-      "lat": 35.3033333333333,
-      "depth": 6.3,
+      "lon": -117.799,
+      "lat": 35.3035,
+      "depth": 6.15,
       "mag": 1.41,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1790121083840,
+      "time": 1790121083830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337319"
     },
     {
@@ -2362,36 +2422,6 @@
       "place": "77 km NW of Ninilchik, Alaska",
       "time": 1790084191590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94443541"
-    },
-    {
-      "id": "av94443521",
-      "lon": -152.0665,
-      "lat": 61.3073333333333,
-      "depth": 4.42,
-      "mag": -0.61,
-      "place": "56 km WNW of Beluga, Alaska",
-      "time": 1790083556310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94443521"
-    },
-    {
-      "id": "uu80157791",
-      "lon": -112.869666666667,
-      "lat": 37.023,
-      "depth": 19.03,
-      "mag": 1.86,
-      "place": "8 km NNE of Cane Beds, Arizona",
-      "time": 1790083149120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157791"
-    },
-    {
-      "id": "tx2026srqexk",
-      "lon": -97.7,
-      "lat": 29.116,
-      "depth": 9.6197,
-      "mag": 1.3,
-      "place": "17 km SSE of Nixon, Texas",
-      "time": 1790083141015,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026srqexk"
     }
   ]
 }
