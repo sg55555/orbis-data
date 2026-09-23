@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T06:01:08Z",
-  "count": 271,
+  "updated": "2026-09-23T06:15:41Z",
+  "count": 272,
   "points": [
+    {
+      "id": "hv75042492",
+      "lon": -155.489166259766,
+      "lat": 19.1316661834717,
+      "depth": 27.6100006103516,
+      "mag": 1.87,
+      "place": "7 km S of Pāhala, Hawaii",
+      "time": 1790143819090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042492"
+    },
+    {
+      "id": "us6000tx16",
+      "lon": 71.768,
+      "lat": 37.2772,
+      "depth": 141.19,
+      "mag": 4.7,
+      "place": "30 km SE of Khorugh, Tajikistan",
+      "time": 1790142371056,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx16"
+    },
     {
       "id": "aka2026svxhsu",
       "lon": -155.001,
@@ -472,6 +492,16 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1790121083840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337319"
+    },
+    {
+      "id": "av94444236",
+      "lon": -153.049666666667,
+      "lat": 60.0143333333333,
+      "depth": 2.13,
+      "mag": -0.73,
+      "place": "64 km ENE of Pedro Bay, Alaska",
+      "time": 1790119110330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94444236"
     },
     {
       "id": "uw714108171",
@@ -2692,26 +2722,6 @@
       "place": "25 km SW of Garden City, Texas",
       "time": 1790058005995,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026srchwz"
-    },
-    {
-      "id": "tx2026srcctg",
-      "lon": -101.911,
-      "lat": 32.097,
-      "depth": 8.4717,
-      "mag": 0.8,
-      "place": "12 km WSW of Stanton, Texas",
-      "time": 1790057645560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026srcctg"
-    },
-    {
-      "id": "us7000tj3s",
-      "lon": 142.3395,
-      "lat": 23.003,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "Volcano Islands, Japan region",
-      "time": 1790057470037,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3s"
     }
   ]
 }
