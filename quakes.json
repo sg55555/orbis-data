@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T18:30:58Z",
-  "count": 239,
+  "updated": "2026-09-23T18:45:46Z",
+  "count": 241,
   "points": [
+    {
+      "id": "nc75440427",
+      "lon": -121.686332702637,
+      "lat": 36.9309997558594,
+      "depth": 12.1300001144409,
+      "mag": 1.72,
+      "place": "5 km ESE of Interlaken, CA",
+      "time": 1790188620340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440427"
+    },
+    {
+      "id": "aka2026swxatz",
+      "lon": -144.431,
+      "lat": 64.88,
+      "depth": 5,
+      "mag": 1.5,
+      "place": "79 km SSE of Central, Alaska",
+      "time": 1790188596416,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026swxatz"
+    },
+    {
+      "id": "nc75440422",
+      "lon": -118.890167236328,
+      "lat": 37.417667388916,
+      "depth": 2.97000002861023,
+      "mag": 2.69,
+      "place": "25 km SW of Toms Place, CA",
+      "time": 1790188136100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440422"
+    },
     {
       "id": "pr71534263",
       "lon": -66.7846666666667,
@@ -12,6 +42,16 @@
       "place": "2 km NNE of Guayanilla, Puerto Rico",
       "time": 1790187391870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534263"
+    },
+    {
+      "id": "us6000tx58",
+      "lon": 178.0194,
+      "lat": -16.3072,
+      "depth": 10,
+      "mag": 5,
+      "place": "140 km NNE of Ba, Fiji",
+      "time": 1790185566489,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx58"
     },
     {
       "id": "aka2026swvbrg",
@@ -125,12 +165,12 @@
     },
     {
       "id": "ci41337775",
-      "lon": -115.530333333333,
-      "lat": 32.9406666666667,
-      "depth": 8.32,
-      "mag": 1.72,
+      "lon": -115.527166666667,
+      "lat": 32.9453333333333,
+      "depth": 11.41,
+      "mag": 1.53,
       "place": "4 km S of Brawley, CA",
-      "time": 1790182190670,
+      "time": 1790182190490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337775"
     },
     {
@@ -1225,12 +1265,12 @@
     },
     {
       "id": "nn00924760",
-      "lon": -117.5917,
-      "lat": 37.272,
-      "depth": 3.4199,
-      "mag": 1.66,
-      "place": "53 km S of Silver Peak, Nevada",
-      "time": 1790139009229,
+      "lon": -117.5955,
+      "lat": 37.282,
+      "depth": 6.6161,
+      "mag": 2.12,
+      "place": "52 km S of Silver Peak, Nevada",
+      "time": 1790139009597,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924760"
     },
     {
@@ -2372,26 +2412,6 @@
       "place": "4 km SSE of Bombay Beach, CA",
       "time": 1790102823430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336991"
-    },
-    {
-      "id": "hv75042017",
-      "lon": -155.490493774414,
-      "lat": 19.16233253479,
-      "depth": 31.4699993133545,
-      "mag": 2.08,
-      "place": "4 km SSW of Pāhala, Hawaii",
-      "time": 1790102257400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042017"
-    },
-    {
-      "id": "nn00924728",
-      "lon": -119.7882,
-      "lat": 39.6007,
-      "depth": 5.2223,
-      "mag": 1.84,
-      "place": "1 km WNW of Sun Valley, Nevada",
-      "time": 1790101952891,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924728"
     }
   ]
 }
