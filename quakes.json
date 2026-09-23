@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T18:45:46Z",
-  "count": 241,
+  "updated": "2026-09-23T18:59:48Z",
+  "count": 237,
   "points": [
     {
       "id": "nc75440427",
@@ -174,6 +174,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337775"
     },
     {
+      "id": "us6000tx4w",
+      "lon": -66.8891,
+      "lat": -24.0812,
+      "depth": 193.188,
+      "mag": 4.6,
+      "place": "59 km WNW of San Antonio de los Cobres, Argentina",
+      "time": 1790182117858,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx4w"
+    },
+    {
       "id": "ci41337767",
       "lon": -117.805666666667,
       "lat": 35.333,
@@ -242,6 +252,16 @@
       "place": "5 km WNW of The Geysers, CA",
       "time": 1790179240500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440392"
+    },
+    {
+      "id": "ci41337743",
+      "lon": -117.487833333333,
+      "lat": 33.8535,
+      "depth": -0.5,
+      "mag": 1.45,
+      "place": "4 km SE of Home Gardens, CA",
+      "time": 1790179224730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337743"
     },
     {
       "id": "nc75440387",
@@ -1064,16 +1084,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026stadtn"
     },
     {
-      "id": "nn00924769",
-      "lon": -114.7836,
-      "lat": 37.3828,
-      "depth": 8.8555,
-      "mag": 1.55,
-      "place": "33 km E of Alamo, Nevada",
-      "time": 1790146702657,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924769"
-    },
-    {
       "id": "aka2026svzsgo",
       "lon": -150.334,
       "lat": 62.785,
@@ -1595,12 +1605,12 @@
     },
     {
       "id": "ci41337367",
-      "lon": -115.724666666667,
-      "lat": 33.3145,
-      "depth": 0.88,
+      "lon": -115.719166666667,
+      "lat": 33.3221666666667,
+      "depth": 3.03,
       "mag": 1.15,
-      "place": "4 km SSE of Bombay Beach, CA",
-      "time": 1790127596570,
+      "place": "3 km SSE of Bombay Beach, CA",
+      "time": 1790127596520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337367"
     },
     {
@@ -1675,12 +1685,12 @@
     },
     {
       "id": "ci41337335",
-      "lon": -116.78,
-      "lat": 32.9725,
-      "depth": 7.85,
-      "mag": 1.39,
-      "place": "4 km S of San Diego Country Estates, CA",
-      "time": 1790124108470,
+      "lon": -116.055166666667,
+      "lat": 32.8215,
+      "depth": 11.77,
+      "mag": 1.1,
+      "place": "11 km NNW of Ocotillo, CA",
+      "time": 1790124118510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337335"
     },
     {
@@ -2362,56 +2372,6 @@
       "place": "40 km W of Petrolia, CA",
       "time": 1790103608330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440082"
-    },
-    {
-      "id": "ci41337007",
-      "lon": -116.725,
-      "lat": 33.5308333333333,
-      "depth": 4.95,
-      "mag": 0.37,
-      "place": "5 km WSW of Anza, CA",
-      "time": 1790103351620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337007"
-    },
-    {
-      "id": "nc75440077",
-      "lon": -122.810668945312,
-      "lat": 38.8233337402344,
-      "depth": 2.22000002861023,
-      "mag": 0.72,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1790103118700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440077"
-    },
-    {
-      "id": "uw714107871",
-      "lon": -121.766666666667,
-      "lat": 47.6163333333333,
-      "depth": 15.63,
-      "mag": 2.1,
-      "place": "10 km ENE of Fall City, Washington",
-      "time": 1790103047030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714107871"
-    },
-    {
-      "id": "us6000twxv",
-      "lon": -178.0114,
-      "lat": -25.0118,
-      "depth": 427.498,
-      "mag": 4.4,
-      "place": "south of the Fiji Islands",
-      "time": 1790102911934,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000twxv"
-    },
-    {
-      "id": "ci41336991",
-      "lon": -115.72,
-      "lat": 33.3193333333333,
-      "depth": 2.2,
-      "mag": 1.46,
-      "place": "4 km SSE of Bombay Beach, CA",
-      "time": 1790102823430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336991"
     }
   ]
 }
