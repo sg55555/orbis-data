@@ -1,8 +1,48 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T17:31:05Z",
-  "count": 234,
+  "updated": "2026-09-23T17:45:57Z",
+  "count": 237,
   "points": [
+    {
+      "id": "aka2026swvbrg",
+      "lon": -152.819,
+      "lat": 59.882,
+      "depth": 101,
+      "mag": 2.8,
+      "place": "56 km WNW of Anchor Point, Alaska",
+      "time": 1790185128483,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026swvbrg"
+    },
+    {
+      "id": "hv75042752",
+      "lon": -155.495498657227,
+      "lat": 19.1523342132568,
+      "depth": 28.2700004577637,
+      "mag": 1.71,
+      "place": "5 km SSW of Pāhala, Hawaii",
+      "time": 1790184975400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042752"
+    },
+    {
+      "id": "hv75042747",
+      "lon": -155.516494750977,
+      "lat": 19.1508331298828,
+      "depth": 29.0499992370605,
+      "mag": 1.75,
+      "place": "7 km SW of Pāhala, Hawaii",
+      "time": 1790184916780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042747"
+    },
+    {
+      "id": "uu80157876",
+      "lon": -111.835333333333,
+      "lat": 38.8906666666667,
+      "depth": 1.68,
+      "mag": 1.75,
+      "place": "7 km SSE of Salina, Utah",
+      "time": 1790184375470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157876"
+    },
     {
       "id": "hv75042732",
       "lon": -155.504165649414,
@@ -12,6 +52,16 @@
       "place": "6 km SSW of Pāhala, Hawaii",
       "time": 1790184360350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042732"
+    },
+    {
+      "id": "us6000tx53",
+      "lon": -175.0529,
+      "lat": -14.6397,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "193 km SE of Mata-Utu, Wallis and Futuna",
+      "time": 1790184032721,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx53"
     },
     {
       "id": "ci41337791",
@@ -1595,12 +1645,12 @@
     },
     {
       "id": "uw714108171",
-      "lon": -122.219169616699,
-      "lat": 46.9781684875488,
-      "depth": 0.800000011920929,
-      "mag": 1.76293575763702,
-      "place": "0 km SSE of Kapowsin, Washington",
-      "time": 1790118909490,
+      "lon": -122.241333333333,
+      "lat": 47.0148333333333,
+      "depth": 1.04,
+      "mag": 2.09,
+      "place": "3 km NNW of Kapowsin, Washington",
+      "time": 1790118908980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714108171"
     },
     {
@@ -1875,12 +1925,12 @@
     },
     {
       "id": "ci41337183",
-      "lon": -118.337666666667,
-      "lat": 35.062,
-      "depth": -0.64,
-      "mag": 1.14,
+      "lon": -118.336166666667,
+      "lat": 35.0613333333333,
+      "depth": -0.74,
+      "mag": 1.09,
       "place": "13 km SE of Tehachapi, CA",
-      "time": 1790111472700,
+      "time": 1790111472510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337183"
     },
     {
@@ -1922,6 +1972,16 @@
       "place": "7 km SE of Valle Vista, CA",
       "time": 1790110927620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337159"
+    },
+    {
+      "id": "ci41337143",
+      "lon": -120.325333333333,
+      "lat": 34.872,
+      "depth": 3.31,
+      "mag": 0.9,
+      "place": "10 km E of Orcutt, CA",
+      "time": 1790110328190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337143"
     },
     {
       "id": "us6000twyy",
@@ -2312,36 +2372,6 @@
       "place": "20 km SSW of Inyokern, CA",
       "time": 1790099233260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336927"
-    },
-    {
-      "id": "ci41336919",
-      "lon": -117.867166666667,
-      "lat": 35.4796666666667,
-      "depth": 3.32,
-      "mag": 0.72,
-      "place": "19 km SSW of Inyokern, CA",
-      "time": 1790099027510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336919"
-    },
-    {
-      "id": "nc75440047",
-      "lon": -122.852668762207,
-      "lat": 38.8219985961914,
-      "depth": 2.32999992370605,
-      "mag": 0.7,
-      "place": "10 km WNW of The Geysers, CA",
-      "time": 1790098472400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440047"
-    },
-    {
-      "id": "nn00924724",
-      "lon": -117.5993,
-      "lat": 37.2873,
-      "depth": 7.1762,
-      "mag": 2.01,
-      "place": "51 km S of Silver Peak, Nevada",
-      "time": 1790098232932,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924724"
     }
   ]
 }
