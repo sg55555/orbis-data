@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T22:30:57Z",
-  "count": 250,
+  "updated": "2026-09-23T22:45:42Z",
+  "count": 252,
   "points": [
+    {
+      "id": "nc75440552",
+      "lon": -122.804496765137,
+      "lat": 38.8339996337891,
+      "depth": 1.95000004768372,
+      "mag": 1.37,
+      "place": "7 km W of Cobb, CA",
+      "time": 1790202967900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440552"
+    },
     {
       "id": "ci41338063",
       "lon": -117.802,
@@ -1145,12 +1155,12 @@
     },
     {
       "id": "ci41337607",
-      "lon": -117.798166666667,
-      "lat": 35.3033333333333,
-      "depth": 6.03,
-      "mag": 1.34,
+      "lon": -117.802,
+      "lat": 35.303,
+      "depth": 6.33,
+      "mag": 1.32,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1790164336820,
+      "time": 1790164336790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337607"
     },
     {
@@ -2114,6 +2124,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157851"
     },
     {
+      "id": "av94444436",
+      "lon": -166.7835,
+      "lat": 53.9005,
+      "depth": 3.26,
+      "mag": -0.43,
+      "place": "15 km W of Dutch Harbor, Alaska",
+      "time": 1790131859940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94444436"
+    },
+    {
+      "id": "av94444431",
+      "lon": -166.772333333333,
+      "lat": 53.8951666666667,
+      "depth": 3.1,
+      "mag": -0.1,
+      "place": "15 km W of Dutch Harbor, Alaska",
+      "time": 1790131666900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94444431"
+    },
+    {
       "id": "nc75440227",
       "lon": -122.451332092285,
       "lat": 38.5626678466797,
@@ -2142,6 +2172,16 @@
       "place": "37 km WNW of Nanwalek, Alaska",
       "time": 1790131165218,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svrcwd"
+    },
+    {
+      "id": "av94444411",
+      "lon": -166.777666666667,
+      "lat": 53.8961666666667,
+      "depth": 3.87,
+      "mag": 0.54,
+      "place": "15 km W of Dutch Harbor, Alaska",
+      "time": 1790130664860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94444411"
     },
     {
       "id": "tx2026ssqjap",
@@ -2482,26 +2522,6 @@
       "place": "15 km NE of Milford, Utah",
       "time": 1790117114580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157846"
-    },
-    {
-      "id": "ci41337279",
-      "lon": -117.243833333333,
-      "lat": 34.162,
-      "depth": 2.52,
-      "mag": 2.05,
-      "place": "5 km NW of Highland, CA",
-      "time": 1790116812080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337279"
-    },
-    {
-      "id": "aka2026svizcf",
-      "lon": -147.673,
-      "lat": 63.579,
-      "depth": 4.1,
-      "mag": 1.7,
-      "place": "63 km ESE of Denali Park, Alaska",
-      "time": 1790116513678,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svizcf"
     }
   ]
 }
