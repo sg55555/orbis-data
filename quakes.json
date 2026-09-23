@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T01:01:09Z",
-  "count": 274,
+  "updated": "2026-09-23T01:15:40Z",
+  "count": 272,
   "points": [
+    {
+      "id": "ci41337343",
+      "lon": -116.755666666667,
+      "lat": 33.7076666666667,
+      "depth": 15.97,
+      "mag": 0.92,
+      "place": "5 km SW of Idyllwild, CA",
+      "time": 1790125724560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337343"
+    },
+    {
+      "id": "aka2026svnvkp",
+      "lon": -151.059,
+      "lat": 58.316,
+      "depth": 4.8,
+      "mag": 1.8,
+      "place": "95 km ENE of Ouzinkie, Alaska",
+      "time": 1790125253333,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svnvkp"
+    },
     {
       "id": "ci41337335",
       "lon": -116.78,
@@ -1222,6 +1242,16 @@
       "place": "121 km E of Miyako, Japan",
       "time": 1790077032130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj57"
+    },
+    {
+      "id": "av93067264",
+      "lon": -169.887666666667,
+      "lat": 52.8478333333333,
+      "depth": 6,
+      "mag": 0.31,
+      "place": "69 km W of Nikolski, Alaska",
+      "time": 1790076903400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067264"
     },
     {
       "id": "us7000tj55",
@@ -2692,56 +2722,6 @@
       "place": "70 km W of Nikolski, Alaska",
       "time": 1790040005110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94442656"
-    },
-    {
-      "id": "av94442641",
-      "lon": -153.127333333333,
-      "lat": 60.0381666666667,
-      "depth": 1.98,
-      "mag": -0.27,
-      "place": "61 km ENE of Pedro Bay, Alaska",
-      "time": 1790039463780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94442641"
-    },
-    {
-      "id": "ci41336495",
-      "lon": -116.457666666667,
-      "lat": 33.5033333333333,
-      "depth": 4.14,
-      "mag": 1.23,
-      "place": "21 km ESE of Anza, CA",
-      "time": 1790039361960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336495"
-    },
-    {
-      "id": "av93067214",
-      "lon": -169.955,
-      "lat": 52.8228333333333,
-      "depth": 1.43,
-      "mag": 0.67,
-      "place": "74 km W of Nikolski, Alaska",
-      "time": 1790039303610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067214"
-    },
-    {
-      "id": "uu80157711",
-      "lon": -112.9025,
-      "lat": 38.5126666666667,
-      "depth": 2.57,
-      "mag": 1.36,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1790039072530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157711"
-    },
-    {
-      "id": "pr71533968",
-      "lon": -66.8188333333333,
-      "lat": 17.997,
-      "depth": 14.75,
-      "mag": 2.21,
-      "place": "0 km N of Indios, Puerto Rico",
-      "time": 1790038983670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533968"
     }
   ]
 }
