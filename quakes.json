@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T01:15:40Z",
-  "count": 272,
+  "updated": "2026-09-23T01:31:04Z",
+  "count": 271,
   "points": [
+    {
+      "id": "ci41337351",
+      "lon": -116.488333333333,
+      "lat": 32.9751666666667,
+      "depth": 8.49,
+      "mag": 0.78,
+      "place": "16 km SE of Julian, CA",
+      "time": 1790126066740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337351"
+    },
     {
       "id": "ci41337343",
       "lon": -116.755666666667,
@@ -1162,6 +1172,26 @@
       "place": "8 km NNE of Cane Beds, Arizona",
       "time": 1790081832620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157781"
+    },
+    {
+      "id": "av94443506",
+      "lon": -176.105666666667,
+      "lat": 52.0671666666667,
+      "depth": -1.78,
+      "mag": 0.1,
+      "place": "42 km ENE of Adak, Alaska",
+      "time": 1790081654390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94443506"
+    },
+    {
+      "id": "av94443501",
+      "lon": -176.129666666667,
+      "lat": 52.0928333333333,
+      "depth": 1.93,
+      "mag": 0.41,
+      "place": "42 km NE of Adak, Alaska",
+      "time": 1790080844010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94443501"
     },
     {
       "id": "ci41336799",
@@ -2682,46 +2712,6 @@
       "place": "21 km ESE of Anza, CA",
       "time": 1790040735080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336503"
-    },
-    {
-      "id": "aka2026stsryh",
-      "lon": -154.42,
-      "lat": 58.034,
-      "depth": 8.4,
-      "mag": 1.4,
-      "place": "51 km N of Karluk, Alaska",
-      "time": 1790040452424,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026stsryh"
-    },
-    {
-      "id": "av93067219",
-      "lon": -169.879,
-      "lat": 52.846,
-      "depth": 5.36,
-      "mag": 0.62,
-      "place": "69 km W of Nikolski, Alaska",
-      "time": 1790040290870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067219"
-    },
-    {
-      "id": "tx2026sqsjsm",
-      "lon": -100.938,
-      "lat": 32.874,
-      "depth": 6.0791,
-      "mag": 1.1,
-      "place": "17 km N of Snyder, Texas",
-      "time": 1790040029858,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sqsjsm"
-    },
-    {
-      "id": "av94442656",
-      "lon": -169.897166666667,
-      "lat": 52.8196666666667,
-      "depth": 8.36,
-      "mag": 1.03,
-      "place": "70 km W of Nikolski, Alaska",
-      "time": 1790040005110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94442656"
     }
   ]
 }
