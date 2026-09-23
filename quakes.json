@@ -1,16 +1,16 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T00:45:42Z",
-  "count": 278,
+  "updated": "2026-09-23T01:01:09Z",
+  "count": 274,
   "points": [
     {
       "id": "ci41337335",
-      "lon": -116.796333312988,
-      "lat": 32.9598350524902,
-      "depth": 14.0100002288818,
-      "mag": 1.38122894957082,
-      "place": "5 km SSW of San Diego Country Estates, CA",
-      "time": 1790124108480,
+      "lon": -116.78,
+      "lat": 32.9725,
+      "depth": 7.85,
+      "mag": 1.39,
+      "place": "4 km S of San Diego Country Estates, CA",
+      "time": 1790124108470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337335"
     },
     {
@@ -95,12 +95,12 @@
     },
     {
       "id": "aka2026svizcf",
-      "lon": -147.622,
-      "lat": 63.585,
-      "depth": 5,
-      "mag": 2,
-      "place": "66 km ESE of Denali Park, Alaska",
-      "time": 1790116513324,
+      "lon": -147.673,
+      "lat": 63.579,
+      "depth": 4.1,
+      "mag": 1.7,
+      "place": "63 km ESE of Denali Park, Alaska",
+      "time": 1790116513678,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svizcf"
     },
     {
@@ -1174,6 +1174,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157776"
     },
     {
+      "id": "av94443461",
+      "lon": -152.7265,
+      "lat": 60.4761666666667,
+      "depth": 3.28,
+      "mag": -0.98,
+      "place": "75 km NW of Ninilchik, Alaska",
+      "time": 1790078407080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94443461"
+    },
+    {
       "id": "aka2026sunreh",
       "lon": -152.618,
       "lat": 59.899,
@@ -1242,6 +1252,16 @@
       "place": "16 km ESE of Pearsall, Texas",
       "time": 1790075319431,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026srlwoz"
+    },
+    {
+      "id": "av94443366",
+      "lon": -155.3565,
+      "lat": 58.1805,
+      "depth": 1.69,
+      "mag": -0.45,
+      "place": "86 km NW of Karluk, Alaska",
+      "time": 1790074998850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94443366"
     },
     {
       "id": "uu80157766",
@@ -2722,66 +2742,6 @@
       "place": "0 km N of Indios, Puerto Rico",
       "time": 1790038983670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533968"
-    },
-    {
-      "id": "ci10254142",
-      "lon": -117.3815,
-      "lat": 35.9715,
-      "depth": 3.5,
-      "mag": 1.33,
-      "place": "23 km N of Searles Valley, CA",
-      "time": 1790038552390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10254142"
-    },
-    {
-      "id": "ci41336487",
-      "lon": -117.385,
-      "lat": 35.9551666666667,
-      "depth": 4.74,
-      "mag": 1.38,
-      "place": "21 km N of Searles Valley, CA",
-      "time": 1790038545420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336487"
-    },
-    {
-      "id": "nc75439767",
-      "lon": -122.876335144043,
-      "lat": 38.8451652526855,
-      "depth": 1.97000002861023,
-      "mag": 0.69,
-      "place": "13 km NW of The Geysers, CA",
-      "time": 1790038431260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439767"
-    },
-    {
-      "id": "av94442611",
-      "lon": 179.681166666667,
-      "lat": 51.9973333333333,
-      "depth": 6.56,
-      "mag": 0.17,
-      "place": "253 km W of Adak, Alaska",
-      "time": 1790038312170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94442611"
-    },
-    {
-      "id": "tx2026sqrkvd",
-      "lon": -103.84,
-      "lat": 32.003,
-      "depth": 7.843,
-      "mag": 1.6,
-      "place": "32 km SE of Malaga, New Mexico",
-      "time": 1790038295295,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sqrkvd"
-    },
-    {
-      "id": "nc75439762",
-      "lon": -121.733665466309,
-      "lat": 37.3573341369629,
-      "depth": 2.25999999046326,
-      "mag": 1.52,
-      "place": "8 km E of Alum Rock, CA",
-      "time": 1790038019480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439762"
     }
   ]
 }
