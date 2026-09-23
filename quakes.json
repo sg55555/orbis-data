@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T02:45:42Z",
-  "count": 272,
+  "updated": "2026-09-23T03:01:10Z",
+  "count": 270,
   "points": [
+    {
+      "id": "nc75440227",
+      "lon": -122.451332092285,
+      "lat": 38.5626678466797,
+      "depth": -0.119999997317791,
+      "mag": 1.16,
+      "place": "1 km S of Angwin, CA",
+      "time": 1790131587040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440227"
+    },
     {
       "id": "aka2026svrcwd",
       "lon": -152.555,
@@ -2325,12 +2335,12 @@
     },
     {
       "id": "hv75041782",
-      "lon": -155.310333251953,
-      "lat": 19.3460006713867,
-      "depth": 30.8600006103516,
-      "mag": 2.05,
-      "place": "13 km SW of Volcano, Hawaii",
-      "time": 1790056718190,
+      "lon": -155.306833333333,
+      "lat": 19.3388333333333,
+      "depth": 31.28,
+      "mag": 1.76,
+      "place": "13 km SSW of Volcano, Hawaii",
+      "time": 1790056718180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041782"
     },
     {
@@ -2692,36 +2702,6 @@
       "place": "2 km SE of Pacifica, CA",
       "time": 1790047478090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439827"
-    },
-    {
-      "id": "av94442781",
-      "lon": -169.884,
-      "lat": 52.8041666666667,
-      "depth": 8.32,
-      "mag": 1.42,
-      "place": "70 km WSW of Nikolski, Alaska",
-      "time": 1790045872380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94442781"
-    },
-    {
-      "id": "nc75439817",
-      "lon": -122.799835205078,
-      "lat": 38.8370018005371,
-      "depth": 2.10999989509583,
-      "mag": 0.31,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1790045600460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439817"
-    },
-    {
-      "id": "pr2026265000",
-      "lon": -68.9756,
-      "lat": 18.3008,
-      "depth": 174,
-      "mag": 3.97,
-      "place": "14 km S of La Romana, Dominican Republic",
-      "time": 1790045362080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026265000"
     }
   ]
 }
