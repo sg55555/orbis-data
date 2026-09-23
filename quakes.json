@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T07:30:58Z",
+  "updated": "2026-09-23T07:45:40Z",
   "count": 256,
   "points": [
+    {
+      "id": "aka2026swayjy",
+      "lon": -150.303,
+      "lat": 61.521,
+      "depth": 28.4,
+      "mag": 1.8,
+      "place": "11 km ESE of Susitna, Alaska",
+      "time": 1790148849922,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026swayjy"
+    },
     {
       "id": "nn00924769",
       "lon": -114.7836,
@@ -282,6 +292,16 @@
       "place": "75 km SSE of Perryville, Alaska",
       "time": 1790135620838,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svtpfm"
+    },
+    {
+      "id": "tx2026sssyia",
+      "lon": -98.929,
+      "lat": 28.838,
+      "depth": 8.4292,
+      "mag": 1.8,
+      "place": "17 km ESE of Pearsall, Texas",
+      "time": 1790135180782,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sssyia"
     },
     {
       "id": "ci41337399",
@@ -1374,14 +1394,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026suxtdp"
     },
     {
-      "id": "us6000twx2",
-      "lon": -104.4516,
-      "lat": 31.6405,
-      "depth": 8.671,
-      "mag": 2.8,
-      "place": "59 km S of Whites City, New Mexico",
-      "time": 1790095839491,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000twx2"
+      "id": "tx2026srxfgq",
+      "lon": -104.402,
+      "lat": 31.668,
+      "depth": 6.0999,
+      "mag": 2.6,
+      "place": "56 km S of Whites City, New Mexico",
+      "time": 1790095840191,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026srxfgq"
     },
     {
       "id": "av93067279",
@@ -2542,26 +2562,6 @@
       "place": "7 km E of Calimesa, CA",
       "time": 1790063731570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336727"
-    },
-    {
-      "id": "tx2026srfclj",
-      "lon": -98.998,
-      "lat": 28.862,
-      "depth": 8.6733,
-      "mag": 1.2,
-      "place": "10 km ESE of Pearsall, Texas",
-      "time": 1790063055953,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026srfclj"
-    },
-    {
-      "id": "tx2026srevpp",
-      "lon": -104.27,
-      "lat": 31.662,
-      "depth": 7.1252,
-      "mag": 1.8,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": 1790062581559,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026srevpp"
     }
   ]
 }
