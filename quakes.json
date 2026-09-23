@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T06:45:40Z",
-  "count": 270,
+  "updated": "2026-09-23T07:01:08Z",
+  "count": 265,
   "points": [
+    {
+      "id": "aka2026svzsgo",
+      "lon": -150.334,
+      "lat": 62.785,
+      "depth": 22.5,
+      "mag": 1.9,
+      "place": "39 km NE of Petersville, Alaska",
+      "time": 1790146620141,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svzsgo"
+    },
     {
       "id": "aka2026svzeue",
       "lon": -151.441,
@@ -42,6 +52,16 @@
       "place": "72 km ENE of Ouzinkie, Alaska",
       "time": 1790145102731,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svywgt"
+    },
+    {
+      "id": "pr71534208",
+      "lon": -66.9513333333333,
+      "lat": 17.943,
+      "depth": 6.99,
+      "mag": 2.51,
+      "place": "5 km SW of Guánica, Puerto Rico",
+      "time": 1790144136520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534208"
     },
     {
       "id": "hv75042492",
@@ -362,16 +382,6 @@
       "place": "5 km NW of The Geysers, CA",
       "time": 1790130463380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440222"
-    },
-    {
-      "id": "aka2026svqnsk",
-      "lon": -153.1,
-      "lat": 60.074,
-      "depth": 5,
-      "mag": 0.2,
-      "place": "64 km ENE of Pedro Bay, Alaska",
-      "time": 1790130118920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svqnsk"
     },
     {
       "id": "tx2026sspzfy",
@@ -2642,66 +2652,6 @@
       "place": "18 km NNE of Arctic Village, Alaska",
       "time": 1790060498201,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sudvyu"
-    },
-    {
-      "id": "nc75439862",
-      "lon": -122.817001342773,
-      "lat": 38.8343315124512,
-      "depth": 1.50999999046326,
-      "mag": 0.76,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1790060420090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439862"
-    },
-    {
-      "id": "ci41336695",
-      "lon": -116.640666666667,
-      "lat": 33.416,
-      "depth": 6.5,
-      "mag": -0.06,
-      "place": "15 km N of Warner Springs, CA",
-      "time": 1790060273050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336695"
-    },
-    {
-      "id": "ci41336687",
-      "lon": -116.707,
-      "lat": 33.5383333333333,
-      "depth": 5.95,
-      "mag": 0.16,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1790060238040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336687"
-    },
-    {
-      "id": "ci41336679",
-      "lon": -117.929333333333,
-      "lat": 33.2616666666667,
-      "depth": 13.4,
-      "mag": 1.43,
-      "place": "31 km SW of Dana Point, CA",
-      "time": 1790059978180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336679"
-    },
-    {
-      "id": "tx2026srdgvk",
-      "lon": -98.983,
-      "lat": 28.848,
-      "depth": 6.0362,
-      "mag": 1.4,
-      "place": "11 km ESE of Pearsall, Texas",
-      "time": 1790059739135,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026srdgvk"
-    },
-    {
-      "id": "us7000tj3v",
-      "lon": 124.2096,
-      "lat": 11.0957,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "19 km ENE of Nailong, Philippines",
-      "time": 1790059689705,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3v"
     }
   ]
 }
