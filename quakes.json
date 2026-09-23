@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T18:15:41Z",
+  "updated": "2026-09-23T18:30:58Z",
   "count": 239,
   "points": [
+    {
+      "id": "pr71534263",
+      "lon": -66.7846666666667,
+      "lat": 18.041,
+      "depth": 14.44,
+      "mag": 2.31,
+      "place": "2 km NNE of Guayanilla, Puerto Rico",
+      "time": 1790187391870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534263"
+    },
     {
       "id": "aka2026swvbrg",
       "lon": -152.819,
@@ -744,6 +754,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx2s"
     },
     {
+      "id": "nc75440297",
+      "lon": -122.782333333333,
+      "lat": 38.8193333333333,
+      "depth": 1.68,
+      "mag": 0.32,
+      "place": "5 km W of Cobb, CA",
+      "time": 1790159206700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440297"
+    },
+    {
       "id": "uu80157871",
       "lon": -111.0415,
       "lat": 44.71,
@@ -1265,12 +1285,12 @@
     },
     {
       "id": "nn00924757",
-      "lon": -117.5754,
-      "lat": 37.2871,
-      "depth": 4.2959,
-      "mag": 1.82,
+      "lon": -117.6031,
+      "lat": 37.2797,
+      "depth": 7.6627,
+      "mag": 1.59,
       "place": "52 km S of Silver Peak, Nevada",
-      "time": 1790137156143,
+      "time": 1790137156181,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924757"
     },
     {
@@ -1785,12 +1805,12 @@
     },
     {
       "id": "ci41337263",
-      "lon": -117.302333333333,
-      "lat": 34.6356666666667,
-      "depth": 0.27,
-      "mag": 1.23,
+      "lon": -117.304,
+      "lat": 34.633,
+      "depth": -0.87,
+      "mag": 1.13,
       "place": "11 km N of Victorville, CA",
-      "time": 1790115875720,
+      "time": 1790115875480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337263"
     },
     {
@@ -2372,26 +2392,6 @@
       "place": "1 km WNW of Sun Valley, Nevada",
       "time": 1790101952891,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924728"
-    },
-    {
-      "id": "hv75042002",
-      "lon": -155.496170043945,
-      "lat": 19.1606674194336,
-      "depth": 30.5,
-      "mag": 2.19,
-      "place": "5 km SSW of Pāhala, Hawaii",
-      "time": 1790101261130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042002"
-    },
-    {
-      "id": "aka2026svajli",
-      "lon": -152.547,
-      "lat": 60.14,
-      "depth": 99.5,
-      "mag": 0.9,
-      "place": "49 km W of Ninilchik, Alaska",
-      "time": 1790101036003,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svajli"
     }
   ]
 }
