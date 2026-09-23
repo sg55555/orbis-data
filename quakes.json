@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T09:01:09Z",
-  "count": 244,
+  "updated": "2026-09-23T09:15:40Z",
+  "count": 242,
   "points": [
+    {
+      "id": "ci41337503",
+      "lon": -117.798833333333,
+      "lat": 35.3315,
+      "depth": 6.04,
+      "mag": 0.95,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1790153894940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337503"
+    },
     {
       "id": "aka2026swdmag",
       "lon": -149.664,
@@ -12,6 +22,16 @@
       "place": "29 km NE of Chase, Alaska",
       "time": 1790153391489,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026swdmag"
+    },
+    {
+      "id": "us6000tx23",
+      "lon": -47.6004,
+      "lat": -60.2661,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "Scotia Sea",
+      "time": 1790152918018,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx23"
     },
     {
       "id": "aka2026swcpao",
@@ -2304,6 +2324,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj4r"
     },
     {
+      "id": "us7000tj54",
+      "lon": 34.4683,
+      "lat": 49.7217,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "12 km SSW of Dykanka, Ukraine",
+      "time": 1790070582085,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj54"
+    },
+    {
       "id": "uu80157761",
       "lon": -112.903333333333,
       "lat": 38.5143333333333,
@@ -2392,56 +2422,6 @@
       "place": "23 km N of Four Mile Road, Alaska",
       "time": 1790068904287,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026suinck"
-    },
-    {
-      "id": "av94443271",
-      "lon": -165.983833333333,
-      "lat": 54.1195,
-      "depth": 5.82,
-      "mag": 1.19,
-      "place": "13 km W of Akutan, Alaska",
-      "time": 1790068421090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94443271"
-    },
-    {
-      "id": "uw714107581",
-      "lon": -122.191666666667,
-      "lat": 46.2043333333333,
-      "depth": 1.81,
-      "mag": 0.57,
-      "place": "38 km NNE of Amboy, Washington",
-      "time": 1790068137800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714107581"
-    },
-    {
-      "id": "hv75041832",
-      "lon": -155.410833333333,
-      "lat": 19.2888333333333,
-      "depth": 28.07,
-      "mag": 1.24,
-      "place": "11 km NE of Pāhala, Hawaii",
-      "time": 1790067961910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041832"
-    },
-    {
-      "id": "av94443261",
-      "lon": 179.576,
-      "lat": 51.9216666666667,
-      "depth": 6.19,
-      "mag": -0.47,
-      "place": "260 km W of Adak, Alaska",
-      "time": 1790067941910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94443261"
-    },
-    {
-      "id": "uu80157756",
-      "lon": -112.905333333333,
-      "lat": 38.5055,
-      "depth": 1.52,
-      "mag": 1.62,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1790067673690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157756"
     }
   ]
 }
