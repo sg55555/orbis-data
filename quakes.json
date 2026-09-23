@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T15:45:44Z",
-  "count": 240,
+  "updated": "2026-09-23T16:01:15Z",
+  "count": 236,
   "points": [
+    {
+      "id": "ci41337735",
+      "lon": -116.759002685547,
+      "lat": 33.5904998779297,
+      "depth": 11.8699998855591,
+      "mag": 1.16189063076238,
+      "place": "9 km WNW of Anza, CA",
+      "time": 1790179119470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337735"
+    },
     {
       "id": "nc75440377",
       "lon": -122.877334594727,
@@ -325,12 +335,12 @@
     },
     {
       "id": "ci41337599",
-      "lon": -117.800666666667,
-      "lat": 35.3068333333333,
-      "depth": 6.04,
-      "mag": 2.06,
+      "lon": -117.801166666667,
+      "lat": 35.3071666666667,
+      "depth": 6.42,
+      "mag": 2.24,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1790163917410,
+      "time": 1790163917360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337599"
     },
     {
@@ -2352,56 +2362,6 @@
       "place": "62 km SSW of Nelson Lagoon, Alaska",
       "time": 1790093139890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94443696"
-    },
-    {
-      "id": "uw714107661",
-      "lon": -116.505,
-      "lat": 43.9176666666667,
-      "depth": -1.26,
-      "mag": 1.7,
-      "place": "4 km N of Emmett, Idaho",
-      "time": 1790092859400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714107661"
-    },
-    {
-      "id": "ci41336847",
-      "lon": -118.062833333333,
-      "lat": 35.7418333333333,
-      "depth": 3.74,
-      "mag": 0.11,
-      "place": "25 km WNW of Inyokern, CA",
-      "time": 1790092624330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336847"
-    },
-    {
-      "id": "aka2026suvnig",
-      "lon": -151.716,
-      "lat": 61.235,
-      "depth": 86.7,
-      "mag": 1.5,
-      "place": "35 km WNW of Beluga, Alaska",
-      "time": 1790092309593,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026suvnig"
-    },
-    {
-      "id": "av94443671",
-      "lon": -153.071,
-      "lat": 60.0366666666667,
-      "depth": -2.44,
-      "mag": -0.58,
-      "place": "64 km ENE of Pedro Bay, Alaska",
-      "time": 1790092204730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94443671"
-    },
-    {
-      "id": "pr71534053",
-      "lon": -66.9321666666667,
-      "lat": 17.9251666666667,
-      "depth": 7.48,
-      "mag": 1.82,
-      "place": "5 km SSW of Guánica, Puerto Rico",
-      "time": 1790091953880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534053"
     }
   ]
 }
