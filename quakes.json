@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T05:30:56Z",
-  "count": 273,
+  "updated": "2026-09-23T05:45:42Z",
+  "count": 274,
   "points": [
+    {
+      "id": "nn00924762",
+      "lon": -119.7884,
+      "lat": 39.6026,
+      "depth": 13.4309,
+      "mag": 2.59,
+      "place": "1 km WNW of Sun Valley, Nevada",
+      "time": 1790141616493,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924762"
+    },
     {
       "id": "nc75440247",
       "lon": -121.196998596191,
@@ -852,6 +862,16 @@
       "place": "7 km SE of Valle Vista, CA",
       "time": 1790107677040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337079"
+    },
+    {
+      "id": "av94444021",
+      "lon": -168.183666666667,
+      "lat": 53.3566666666667,
+      "depth": 7.96,
+      "mag": -0.41,
+      "place": "64 km NE of Nikolski, Alaska",
+      "time": 1790107517430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94444021"
     },
     {
       "id": "aka2026svdmzd",
@@ -2722,16 +2742,6 @@
       "place": "15 km NE of Milford, Utah",
       "time": 1790055919610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157741"
-    },
-    {
-      "id": "us7000tj3l",
-      "lon": -177.6628,
-      "lat": -16.8256,
-      "depth": 428.123,
-      "mag": 4,
-      "place": "282 km S of Alo, Wallis and Futuna",
-      "time": 1790055093019,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3l"
     }
   ]
 }
