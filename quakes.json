@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T22:01:14Z",
-  "count": 254,
+  "updated": "2026-09-23T22:13:58Z",
+  "count": 255,
   "points": [
+    {
+      "id": "ci41338047",
+      "lon": -117.492833333333,
+      "lat": 33.8418333333333,
+      "depth": 2.4,
+      "mag": 1.06,
+      "place": "5 km SSE of Home Gardens, CA",
+      "time": 1790201328130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338047"
+    },
     {
       "id": "nn00924817",
       "lon": -119.7888,
@@ -1104,6 +1114,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026stjnme"
     },
     {
+      "id": "tx2026stjnvi",
+      "lon": -103.681,
+      "lat": 32.071,
+      "depth": 8.9325,
+      "mag": 1.7,
+      "place": "40 km ESE of Malaga, New Mexico",
+      "time": 1790165248820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026stjnvi"
+    },
+    {
       "id": "ci41337607",
       "lon": -117.798166666667,
       "lat": 35.3033333333333,
@@ -1382,6 +1402,16 @@
       "place": "54 km WNW of Nanwalek, Alaska",
       "time": 1790157725015,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026swfwqu"
+    },
+    {
+      "id": "tx2026stfbdl",
+      "lon": -101.926,
+      "lat": 31.748,
+      "depth": 4.6143,
+      "mag": 1.5,
+      "place": "31 km SSE of Midland, Texas",
+      "time": 1790157103636,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026stfbdl"
     },
     {
       "id": "uu80157866",
@@ -2144,6 +2174,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx08"
     },
     {
+      "id": "av94444366",
+      "lon": -154.9925,
+      "lat": 58.297,
+      "depth": 3.15,
+      "mag": 0.45,
+      "place": "87 km NNW of Karluk, Alaska",
+      "time": 1790128228670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94444366"
+    },
+    {
       "id": "aka2026svpmbi",
       "lon": -152.19,
       "lat": 60.278,
@@ -2512,36 +2552,6 @@
       "place": "3 km SSW of Pāhala, Hawaii",
       "time": 1790115510500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042242"
-    },
-    {
-      "id": "us6000twzi",
-      "lon": -75.7814,
-      "lat": 3.948,
-      "depth": 10,
-      "mag": 4.4,
-      "place": "20 km WSW of Roncesvalles, Colombia",
-      "time": 1790115146733,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000twzi"
-    },
-    {
-      "id": "ci41337231",
-      "lon": -118.955833333333,
-      "lat": 36,
-      "depth": -0.61,
-      "mag": 1.65,
-      "place": "9 km SE of Porterville, CA",
-      "time": 1790114545440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337231"
-    },
-    {
-      "id": "pr71534123",
-      "lon": -64.6248333333333,
-      "lat": 18.7448333333333,
-      "depth": 15.16,
-      "mag": 2.63,
-      "place": "49 km NNE of Cruz Bay, U.S. Virgin Islands",
-      "time": 1790114486080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534123"
     }
   ]
 }
