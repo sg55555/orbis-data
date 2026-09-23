@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T08:15:44Z",
-  "count": 256,
+  "updated": "2026-09-23T08:30:57Z",
+  "count": 253,
   "points": [
+    {
+      "id": "aka2026swcpao",
+      "lon": -150.437,
+      "lat": 61.624,
+      "depth": 58,
+      "mag": 2.4,
+      "place": "9 km NNE of Susitna, Alaska",
+      "time": 1790151807557,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026swcpao"
+    },
     {
       "id": "ci41337495",
       "lon": -117.7945,
@@ -2522,46 +2532,6 @@
       "place": "16 km S of Tres Pinos, CA",
       "time": 1790066202840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439892"
-    },
-    {
-      "id": "ci41336743",
-      "lon": -116.439333333333,
-      "lat": 33.4726666666667,
-      "depth": 8.5,
-      "mag": 0.52,
-      "place": "24 km ESE of Anza, CA",
-      "time": 1790065736260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336743"
-    },
-    {
-      "id": "aka2026sugqle",
-      "lon": -155.018,
-      "lat": 57.041,
-      "depth": 8.8,
-      "mag": 2.1,
-      "place": "52 km WNW of Akhiok, Alaska",
-      "time": 1790065536704,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sugqle"
-    },
-    {
-      "id": "ci41336735",
-      "lon": -116.3175,
-      "lat": 33.8906666666667,
-      "depth": 5.46,
-      "mag": 0.94,
-      "place": "10 km NE of Thousand Palms, CA",
-      "time": 1790065364560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336735"
-    },
-    {
-      "id": "nc75439887",
-      "lon": -122.767997741699,
-      "lat": 38.7966651916504,
-      "depth": 1.64999997615814,
-      "mag": 0.26,
-      "place": "2 km NNW of The Geysers, CA",
-      "time": 1790064962590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439887"
     }
   ]
 }
