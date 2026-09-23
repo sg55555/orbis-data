@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T20:15:42Z",
-  "count": 250,
+  "updated": "2026-09-23T20:31:03Z",
+  "count": 254,
   "points": [
+    {
+      "id": "ci41337967",
+      "lon": -117.799166666667,
+      "lat": 35.3078333333333,
+      "depth": 6.05,
+      "mag": 0.95,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1790195100130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337967"
+    },
+    {
+      "id": "nc75440492",
+      "lon": -122.767166137695,
+      "lat": 38.7924995422363,
+      "depth": 3.79999995231628,
+      "mag": 0.75,
+      "place": "2 km NNW of The Geysers, CA",
+      "time": 1790194716300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440492"
+    },
+    {
+      "id": "aka2026sxajpm",
+      "lon": -150.261,
+      "lat": 61.8,
+      "depth": 58,
+      "mag": 2,
+      "place": "13 km WNW of Willow, Alaska",
+      "time": 1790194605411,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sxajpm"
+    },
     {
       "id": "nc75440482",
       "lon": -121.454330444336,
@@ -36,12 +66,22 @@
     {
       "id": "ci41337943",
       "lon": -117.8015,
-      "lat": 35.3105,
-      "depth": 6.34,
-      "mag": 2.28,
+      "lat": 35.311,
+      "depth": 6.47,
+      "mag": 2.45,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1790193570150,
+      "time": 1790193570120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337943"
+    },
+    {
+      "id": "ci41337951",
+      "lon": -118.784666666667,
+      "lat": 34.8501666666667,
+      "depth": -0.91,
+      "mag": 0.96,
+      "place": "7 km E of Lebec, CA",
+      "time": 1790193385320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337951"
     },
     {
       "id": "tx2026stzbgr",
@@ -2004,6 +2044,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svmvlz"
     },
     {
+      "id": "av94444276",
+      "lon": -169.487666666667,
+      "lat": 52.6915,
+      "depth": 13.15,
+      "mag": 2.09,
+      "place": "50 km WSW of Nikolski, Alaska",
+      "time": 1790121940600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94444276"
+    },
+    {
       "id": "aka2026svlxbk",
       "lon": -151.315,
       "lat": 59.68,
@@ -2215,12 +2265,12 @@
     },
     {
       "id": "hv75042242",
-      "lon": -155.497497558594,
-      "lat": 19.174165725708,
-      "depth": 29.2199993133545,
-      "mag": 2.19,
+      "lon": -155.494666666667,
+      "lat": 19.1788333333333,
+      "depth": 30.12,
+      "mag": 1.92,
       "place": "3 km SSW of Pāhala, Hawaii",
-      "time": 1790115510490,
+      "time": 1790115510500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042242"
     },
     {
@@ -2492,16 +2542,6 @@
       "place": "9 km NNE of Indio, CA",
       "time": 1790109074250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337103"
-    },
-    {
-      "id": "ci41337095",
-      "lon": -116.482,
-      "lat": 33.095,
-      "depth": 7.31,
-      "mag": 0.65,
-      "place": "11 km E of Julian, CA",
-      "time": 1790108288320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337095"
     }
   ]
 }
