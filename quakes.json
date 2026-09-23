@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T00:30:58Z",
-  "count": 279,
+  "updated": "2026-09-23T00:45:42Z",
+  "count": 278,
   "points": [
+    {
+      "id": "ci41337335",
+      "lon": -116.796333312988,
+      "lat": 32.9598350524902,
+      "depth": 14.0100002288818,
+      "mag": 1.38122894957082,
+      "place": "5 km SSW of San Diego Country Estates, CA",
+      "time": 1790124108480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337335"
+    },
+    {
+      "id": "aka2026svmvlz",
+      "lon": -153.207,
+      "lat": 59.996,
+      "depth": 136.4,
+      "mag": 1.9,
+      "place": "55 km ENE of Pedro Bay, Alaska",
+      "time": 1790123458195,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svmvlz"
+    },
     {
       "id": "aka2026svlxbk",
       "lon": -151.315,
@@ -402,16 +422,6 @@
       "place": "7 km SE of Valle Vista, CA",
       "time": 1790107677040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337079"
-    },
-    {
-      "id": "aka2026svdxta",
-      "lon": -151.983,
-      "lat": 61.6,
-      "depth": 29,
-      "mag": 0.5,
-      "place": "53 km SW of Skwentna, Alaska",
-      "time": 1790107423144,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svdxta"
     },
     {
       "id": "aka2026svdmzd",
@@ -1292,6 +1302,26 @@
       "place": "35 km SSW of False Pass, Alaska",
       "time": 1790073795940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94443351"
+    },
+    {
+      "id": "av94443346",
+      "lon": 179.520666666667,
+      "lat": 51.9353333333333,
+      "depth": 8.32,
+      "mag": -0.1,
+      "place": "264 km W of Adak, Alaska",
+      "time": 1790073470420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94443346"
+    },
+    {
+      "id": "av94443341",
+      "lon": 179.533166666667,
+      "lat": 51.8963333333333,
+      "depth": 7.04,
+      "mag": 0.73,
+      "place": "263 km W of Adak, Alaska",
+      "time": 1790073369470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94443341"
     },
     {
       "id": "us7000tj4v",
@@ -2752,46 +2782,6 @@
       "place": "8 km E of Alum Rock, CA",
       "time": 1790038019480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439762"
-    },
-    {
-      "id": "us7000tj31",
-      "lon": -171.0441,
-      "lat": 52.2461,
-      "depth": 129.468,
-      "mag": 3.9,
-      "place": "166 km WSW of Nikolski, Alaska",
-      "time": 1790037883637,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj31"
-    },
-    {
-      "id": "av94442566",
-      "lon": -166.803833333333,
-      "lat": 53.8543333333333,
-      "depth": 6.19,
-      "mag": 0.98,
-      "place": "17 km WSW of Dutch Harbor, Alaska",
-      "time": 1790037580680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94442566"
-    },
-    {
-      "id": "av93067209",
-      "lon": -166.801,
-      "lat": 53.8536666666667,
-      "depth": 5.26,
-      "mag": 0.05,
-      "place": "17 km WSW of Dutch Harbor, Alaska",
-      "time": 1790037243920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067209"
-    },
-    {
-      "id": "pr71533958",
-      "lon": -66.8196666666667,
-      "lat": 17.9661666666667,
-      "depth": 10.87,
-      "mag": 2.08,
-      "place": "3 km S of Indios, Puerto Rico",
-      "time": 1790037049070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533958"
     }
   ]
 }
