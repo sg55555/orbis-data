@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T07:45:40Z",
-  "count": 256,
+  "updated": "2026-09-23T08:01:10Z",
+  "count": 255,
   "points": [
     {
       "id": "aka2026swayjy",
@@ -422,6 +422,16 @@
       "place": "35 km SSW of Los Ybanez, Texas",
       "time": 1790130091316,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ssqdet"
+    },
+    {
+      "id": "tx2026ssqahg",
+      "lon": -101.895,
+      "lat": 32.239,
+      "depth": 5.7129,
+      "mag": 1.1,
+      "place": "15 km NW of Stanton, Texas",
+      "time": 1790129889769,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ssqahg"
     },
     {
       "id": "tx2026sspzfy",
@@ -2542,26 +2552,6 @@
       "place": "20 km NE of Alum Rock, CA",
       "time": 1790064232020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439882"
-    },
-    {
-      "id": "aka2026sufqus",
-      "lon": -148.161,
-      "lat": 61.186,
-      "depth": 19.5,
-      "mag": 1.5,
-      "place": "50 km SE of Knik River, Alaska",
-      "time": 1790063795481,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sufqus"
-    },
-    {
-      "id": "ci41336727",
-      "lon": -116.975333333333,
-      "lat": 33.9955,
-      "depth": 9.24,
-      "mag": 0.9,
-      "place": "7 km E of Calimesa, CA",
-      "time": 1790063731570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41336727"
     }
   ]
 }
