@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T19:45:42Z",
-  "count": 245,
+  "updated": "2026-09-23T20:01:08Z",
+  "count": 246,
   "points": [
+    {
+      "id": "ci41337927",
+      "lon": -117.799,
+      "lat": 35.306,
+      "depth": 6.21,
+      "mag": 1,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1790193112280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337927"
+    },
+    {
+      "id": "ci41337919",
+      "lon": -116.7425,
+      "lat": 33.2258333333333,
+      "depth": -0.8,
+      "mag": 0.9,
+      "place": "3 km SE of Lake Henshaw, CA",
+      "time": 1790192561160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337919"
+    },
     {
       "id": "nc75440457",
       "lon": -122.817169189453,
@@ -45,9 +65,9 @@
     },
     {
       "id": "ci41337895",
-      "lon": -116.883333333333,
+      "lon": -116.882,
       "lat": 33.869,
-      "depth": 12.29,
+      "depth": 12.24,
       "mag": 0.99,
       "place": "6 km S of Banning, CA",
       "time": 1790191607950,
@@ -95,12 +115,12 @@
     },
     {
       "id": "ci41337855",
-      "lon": -117.799333333333,
-      "lat": 35.3078333333333,
-      "depth": 6.41,
-      "mag": 1.65,
+      "lon": -117.800166666667,
+      "lat": 35.3083333333333,
+      "depth": 6.47,
+      "mag": 1.71,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1790190013610,
+      "time": 1790190013590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337855"
     },
     {
@@ -182,6 +202,16 @@
       "place": "56 km WNW of Anchor Point, Alaska",
       "time": 1790185128483,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026swvbrg"
+    },
+    {
+      "id": "tx2026stumdp",
+      "lon": -103.462,
+      "lat": 31.261,
+      "depth": 3.3569,
+      "mag": 1.5,
+      "place": "14 km SSE of Lindsay, Texas",
+      "time": 1790185025309,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026stumdp"
     },
     {
       "id": "hv75042752",
@@ -2432,26 +2462,6 @@
       "place": "64 km NE of Nikolski, Alaska",
       "time": 1790107517430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94444021"
-    },
-    {
-      "id": "aka2026svdmzd",
-      "lon": -159.175,
-      "lat": 55.223,
-      "depth": 5,
-      "mag": 2.7,
-      "place": "76 km S of Perryville, Alaska",
-      "time": 1790106677869,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svdmzd"
-    },
-    {
-      "id": "aka2026svdlzp",
-      "lon": -152.706,
-      "lat": 60.648,
-      "depth": 8.8,
-      "mag": 1,
-      "place": "75 km W of Salamatof, Alaska",
-      "time": 1790106621855,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svdlzp"
     }
   ]
 }
