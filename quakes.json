@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T14:45:43Z",
+  "updated": "2026-09-23T14:56:20Z",
   "count": 234,
   "points": [
+    {
+      "id": "aka2026swpmtg",
+      "lon": -155.519,
+      "lat": 57.265,
+      "depth": 65.8,
+      "mag": 2.3,
+      "place": "72 km WSW of Karluk, Alaska",
+      "time": 1790175031913,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026swpmtg"
+    },
     {
       "id": "ci41337687",
       "lon": -116.672666666667,
@@ -122,6 +132,16 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1790168146010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337655"
+    },
+    {
+      "id": "ci41337647",
+      "lon": -116.739,
+      "lat": 33.517,
+      "depth": 4.28,
+      "mag": -0.07,
+      "place": "7 km SW of Anza, CA",
+      "time": 1790167788660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337647"
     },
     {
       "id": "aka2026swllkm",
@@ -2322,26 +2342,6 @@
       "place": "66 km NE of Nikolski, Alaska",
       "time": 1790089093430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94443626"
-    },
-    {
-      "id": "aka2026sutpgd",
-      "lon": -152.167,
-      "lat": 59.731,
-      "depth": 78.5,
-      "mag": 1.2,
-      "place": "19 km WSW of Anchor Point, Alaska",
-      "time": 1790088841011,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sutpgd"
-    },
-    {
-      "id": "hv75041927",
-      "lon": -155.523333333333,
-      "lat": 19.9741666666667,
-      "depth": 43.82,
-      "mag": 2.22,
-      "place": "13 km SSW of Honoka‘a, Hawaii",
-      "time": 1790088486230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041927"
     }
   ]
 }
