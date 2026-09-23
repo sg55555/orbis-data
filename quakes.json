@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T20:45:44Z",
-  "count": 256,
+  "updated": "2026-09-23T21:01:09Z",
+  "count": 254,
   "points": [
+    {
+      "id": "ci41337999",
+      "lon": -117.8055,
+      "lat": 35.3098333333333,
+      "depth": 7.23,
+      "mag": 2.96,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1790196276440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337999"
+    },
+    {
+      "id": "nc75440502",
+      "lon": -122.818336486816,
+      "lat": 38.8368339538574,
+      "depth": 1.99000000953674,
+      "mag": 0.77,
+      "place": "8 km WNW of Cobb, CA",
+      "time": 1790196233960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440502"
+    },
     {
       "id": "nc75440497",
       "lon": -122.770332336426,
@@ -815,12 +835,12 @@
     },
     {
       "id": "hv75042652",
-      "lon": -155.483505249023,
-      "lat": 19.1555004119873,
-      "depth": 11.1400003433228,
-      "mag": 2.66,
-      "place": "5 km S of Pāhala, Hawaii",
-      "time": 1790170060440,
+      "lon": -155.484833333333,
+      "lat": 19.1621666666667,
+      "depth": 10.48,
+      "mag": 2.57,
+      "place": "4 km S of Pāhala, Hawaii",
+      "time": 1790170060550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042652"
     },
     {
@@ -1372,6 +1392,16 @@
       "place": "9 km NNE of Susitna, Alaska",
       "time": 1790151807557,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026swcpao"
+    },
+    {
+      "id": "nn00924773",
+      "lon": -119.0208,
+      "lat": 39.3446,
+      "depth": 7.2408,
+      "mag": 1.54,
+      "place": "19 km ESE of Silver Springs, Nevada",
+      "time": 1790151505863,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924773"
     },
     {
       "id": "ci41337495",
@@ -2512,56 +2542,6 @@
       "place": "7 km SE of Valle Vista, CA",
       "time": 1790110927620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337159"
-    },
-    {
-      "id": "ci41337143",
-      "lon": -120.325333333333,
-      "lat": 34.872,
-      "depth": 3.31,
-      "mag": 0.9,
-      "place": "10 km E of Orcutt, CA",
-      "time": 1790110328190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337143"
-    },
-    {
-      "id": "us6000twyy",
-      "lon": -160.0285,
-      "lat": 54.9345,
-      "depth": 35,
-      "mag": 3.5,
-      "place": "53 km SE of Sand Point, Alaska",
-      "time": 1790110254702,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000twyy"
-    },
-    {
-      "id": "nc75440107",
-      "lon": -122.750831604004,
-      "lat": 38.7985000610352,
-      "depth": 2.35999989509583,
-      "mag": 0.29,
-      "place": "2 km NNE of The Geysers, CA",
-      "time": 1790110168210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440107"
-    },
-    {
-      "id": "ci41337135",
-      "lon": -116.7655,
-      "lat": 34.0226666666667,
-      "depth": 9.45,
-      "mag": 0.79,
-      "place": "12 km N of Cabazon, CA",
-      "time": 1790110144570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337135"
-    },
-    {
-      "id": "ci41337127",
-      "lon": -117.546,
-      "lat": 35.6875,
-      "depth": 4.85,
-      "mag": 0.73,
-      "place": "14 km ENE of Ridgecrest, CA",
-      "time": 1790110023950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337127"
     }
   ]
 }
