@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T14:30:59Z",
+  "updated": "2026-09-23T14:45:43Z",
   "count": 234,
   "points": [
+    {
+      "id": "ci41337687",
+      "lon": -116.672666666667,
+      "lat": 33.9806666666667,
+      "depth": 12.75,
+      "mag": 1.31,
+      "place": "11 km SW of Morongo Valley, CA",
+      "time": 1790173847860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337687"
+    },
     {
       "id": "ci41337679",
       "lon": -116.761333333333,
@@ -32,6 +42,16 @@
       "place": "17 km WSW of Johannesburg, CA",
       "time": 1790171550410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337663"
+    },
+    {
+      "id": "se60506368",
+      "lon": -82.6801666666667,
+      "lat": 35.1816666666667,
+      "depth": 9.39,
+      "mag": 2.27,
+      "place": "7 km SE of Brevard, North Carolina",
+      "time": 1790170515840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60506368"
     },
     {
       "id": "nc75440347",
@@ -295,12 +315,12 @@
     },
     {
       "id": "ci41337559",
-      "lon": -116.77,
-      "lat": 33.5738333333333,
-      "depth": 12.33,
-      "mag": 2.84,
+      "lon": -116.770166666667,
+      "lat": 33.574,
+      "depth": 12.56,
+      "mag": 2.63,
       "place": "9 km WNW of Anza, CA",
-      "time": 1790160728320,
+      "time": 1790160728290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337559"
     },
     {
@@ -372,6 +392,16 @@
       "place": "7 km NE of West Yellowstone, Montana",
       "time": 1790159150840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157871"
+    },
+    {
+      "id": "uu80008093",
+      "lon": -111.04,
+      "lat": 44.7183333333333,
+      "depth": 10.32,
+      "mag": 0.23,
+      "place": "8 km NE of West Yellowstone, Montana",
+      "time": 1790159147990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80008093"
     },
     {
       "id": "ci41337535",
@@ -876,11 +906,11 @@
     {
       "id": "ci41337407",
       "lon": -117.802666666667,
-      "lat": 35.307,
-      "depth": 6.29,
-      "mag": 2.3,
+      "lat": 35.3063333333333,
+      "depth": 6.57,
+      "mag": 2.51,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1790135997770,
+      "time": 1790135997750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337407"
     },
     {
@@ -2312,36 +2342,6 @@
       "place": "13 km SSW of Honoka‘a, Hawaii",
       "time": 1790088486230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041927"
-    },
-    {
-      "id": "tx2026srtadp",
-      "lon": -101.94,
-      "lat": 32.098,
-      "depth": 9.082,
-      "mag": 1.2,
-      "place": "14 km WSW of Stanton, Texas",
-      "time": 1790088257951,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026srtadp"
-    },
-    {
-      "id": "pr71534038",
-      "lon": -66.9523333333333,
-      "lat": 17.963,
-      "depth": 6.8,
-      "mag": 2.14,
-      "place": "4 km SW of Fuig, Puerto Rico",
-      "time": 1790088242730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534038"
-    },
-    {
-      "id": "uu80157806",
-      "lon": -112.9005,
-      "lat": 38.51,
-      "depth": 2.39,
-      "mag": 0.97,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1790088087840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157806"
     }
   ]
 }
