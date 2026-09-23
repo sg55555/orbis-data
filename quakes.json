@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T13:01:13Z",
-  "count": 238,
+  "updated": "2026-09-23T13:15:49Z",
+  "count": 239,
   "points": [
+    {
+      "id": "nc75440332",
+      "lon": -122.408836364746,
+      "lat": 38.3759994506836,
+      "depth": 8.36999988555908,
+      "mag": 2.19,
+      "place": "5 km SW of Yountville, CA",
+      "time": 1790169011190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440332"
+    },
     {
       "id": "ci41337655",
       "lon": -117.797833333333,
@@ -32,6 +42,16 @@
       "place": "8 km SW of Anza, CA",
       "time": 1790167741120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337639"
+    },
+    {
+      "id": "pr71534228",
+      "lon": -68.0333333333333,
+      "lat": 18.1023333333333,
+      "depth": 42.45,
+      "mag": 3.21,
+      "place": "65 km SE of Punta Cana, Dominican Republic",
+      "time": 1790167038460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534228"
     },
     {
       "id": "aka2026swkhpz",
@@ -125,12 +145,12 @@
     },
     {
       "id": "ci41337583",
-      "lon": -116.761166666667,
-      "lat": 33.5858333333333,
-      "depth": 11.85,
+      "lon": -116.7605,
+      "lat": 33.5851666666667,
+      "depth": 12.28,
       "mag": 0.6,
       "place": "9 km WNW of Anza, CA",
-      "time": 1790162279420,
+      "time": 1790162279370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337583"
     },
     {
@@ -282,6 +302,16 @@
       "place": "54 km WNW of Nanwalek, Alaska",
       "time": 1790157725015,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026swfwqu"
+    },
+    {
+      "id": "uu80157866",
+      "lon": -111.086166666667,
+      "lat": 44.7218333333333,
+      "depth": 11.42,
+      "mag": 0.07,
+      "place": "6 km NNE of West Yellowstone, Montana",
+      "time": 1790157092940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157866"
     },
     {
       "id": "aka2026sweuxa",
@@ -495,12 +525,12 @@
     },
     {
       "id": "ci41337471",
-      "lon": -117.806166666667,
-      "lat": 35.3153333333333,
-      "depth": 7.51,
+      "lon": -117.805666666667,
+      "lat": 35.3158333333333,
+      "depth": 7.98,
       "mag": 1.42,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": 1790145420260,
+      "time": 1790145420240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337471"
     },
     {
@@ -685,12 +715,12 @@
     },
     {
       "id": "ci41337431",
-      "lon": -116.615837097168,
-      "lat": 33.4309997558594,
-      "depth": 8.01000022888184,
-      "mag": 1.40810088049603,
+      "lon": -116.611833333333,
+      "lat": 33.428,
+      "depth": 8.42,
+      "mag": 1.17,
       "place": "15 km SSE of Anza, CA",
-      "time": 1790138339360,
+      "time": 1790138339250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337431"
     },
     {
@@ -862,6 +892,16 @@
       "place": "33 km NNW of La Serena, Chile",
       "time": 1790132828275,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx0f"
+    },
+    {
+      "id": "uu80157856",
+      "lon": -113.763,
+      "lat": 37.4201666666667,
+      "depth": 1.11,
+      "mag": 0.95,
+      "place": "11 km NW of Veyo, Utah",
+      "time": 1790132457920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157856"
     },
     {
       "id": "nc75440227",
@@ -2352,36 +2392,6 @@
       "place": "17 km SSE of Nixon, Texas",
       "time": 1790083141015,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026srqexk"
-    },
-    {
-      "id": "nc75439947",
-      "lon": -122.741500854492,
-      "lat": 38.7779998779297,
-      "depth": 2.00999999046326,
-      "mag": 1.09,
-      "place": "1 km E of The Geysers, CA",
-      "time": 1790082784020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439947"
-    },
-    {
-      "id": "hv75041897",
-      "lon": -155.486663818359,
-      "lat": 19.204833984375,
-      "depth": 28.8199996948242,
-      "mag": 1.72,
-      "place": "0 km WNW of Pāhala, Hawaii",
-      "time": 1790082675150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041897"
-    },
-    {
-      "id": "uu80157786",
-      "lon": -112.8675,
-      "lat": 37.022,
-      "depth": 19.31,
-      "mag": 1.72,
-      "place": "8 km NNE of Cane Beds, Arizona",
-      "time": 1790082258820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157786"
     }
   ]
 }
