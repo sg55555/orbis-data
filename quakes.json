@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T01:45:43Z",
-  "count": 272,
+  "updated": "2026-09-23T02:01:11Z",
+  "count": 273,
   "points": [
+    {
+      "id": "aka2026svpmbi",
+      "lon": -152.19,
+      "lat": 60.278,
+      "depth": 94.7,
+      "mag": 1.6,
+      "place": "38 km NW of Ninilchik, Alaska",
+      "time": 1790128203353,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svpmbi"
+    },
     {
       "id": "ci41337367",
       "lon": -115.724666666667,
@@ -1152,6 +1162,26 @@
       "place": "3 km NNE of La Parguera, Puerto Rico",
       "time": 1790084715650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534033"
+    },
+    {
+      "id": "av94443546",
+      "lon": -152.795333333333,
+      "lat": 60.4895,
+      "depth": 4.21,
+      "mag": -0.71,
+      "place": "79 km NW of Ninilchik, Alaska",
+      "time": 1790084325570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94443546"
+    },
+    {
+      "id": "av94443541",
+      "lon": -152.751166666667,
+      "lat": 60.486,
+      "depth": 2.73,
+      "mag": -0.55,
+      "place": "77 km NW of Ninilchik, Alaska",
+      "time": 1790084191590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94443541"
     },
     {
       "id": "av94443521",
@@ -2702,26 +2732,6 @@
       "place": "10 km NE of Hildale, Utah",
       "time": 1790042464050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157726"
-    },
-    {
-      "id": "uu80157721",
-      "lon": -112.902666666667,
-      "lat": 38.513,
-      "depth": 2.7,
-      "mag": 1.3,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1790042395170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157721"
-    },
-    {
-      "id": "uu80157716",
-      "lon": -112.901833333333,
-      "lat": 38.5133333333333,
-      "depth": 2.64,
-      "mag": 1.35,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1790041650450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157716"
     }
   ]
 }
