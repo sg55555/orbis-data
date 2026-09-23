@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-23T08:01:10Z",
-  "count": 255,
+  "updated": "2026-09-23T08:15:44Z",
+  "count": 256,
   "points": [
+    {
+      "id": "ci41337495",
+      "lon": -117.7945,
+      "lat": 33.2411666666667,
+      "depth": 10.99,
+      "mag": 2.21,
+      "place": "27 km SSW of Dana Point, CA",
+      "time": 1790150816580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337495"
+    },
+    {
+      "id": "ci41337487",
+      "lon": -116.485,
+      "lat": 33.4791666666667,
+      "depth": 13.29,
+      "mag": 1.46,
+      "place": "19 km ESE of Anza, CA",
+      "time": 1790150616980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337487"
+    },
+    {
+      "id": "aka2026swbvmh",
+      "lon": -145.575,
+      "lat": 62.101,
+      "depth": 2.2,
+      "mag": 1.9,
+      "place": "1 km WSW of Glennallen, Alaska",
+      "time": 1790150447054,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026swbvmh"
+    },
     {
       "id": "aka2026swayjy",
       "lon": -150.303,
@@ -12,6 +42,16 @@
       "place": "11 km ESE of Susitna, Alaska",
       "time": 1790148849922,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026swayjy"
+    },
+    {
+      "id": "tx2026stadtn",
+      "lon": -104.255,
+      "lat": 31.802,
+      "depth": 6.0486,
+      "mag": 1.5,
+      "place": "42 km SSE of Whites City, New Mexico",
+      "time": 1790148237138,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026stadtn"
     },
     {
       "id": "nn00924769",
@@ -2522,36 +2562,6 @@
       "place": "2 km NNW of The Geysers, CA",
       "time": 1790064962590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439887"
-    },
-    {
-      "id": "uu80157746",
-      "lon": -112.903166666667,
-      "lat": 38.5096666666667,
-      "depth": 2.44,
-      "mag": 1.9,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1790064320410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157746"
-    },
-    {
-      "id": "tx2026srfrih",
-      "lon": -104.25,
-      "lat": 31.666,
-      "depth": 6.0999,
-      "mag": 3.1,
-      "place": "57 km SSE of Whites City, New Mexico",
-      "time": 1790064278331,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026srfrih"
-    },
-    {
-      "id": "nc75439882",
-      "lon": -121.685997009277,
-      "lat": 37.5106658935547,
-      "depth": 6.17000007629395,
-      "mag": 0.94,
-      "place": "20 km NE of Alum Rock, CA",
-      "time": 1790064232020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439882"
     }
   ]
 }
