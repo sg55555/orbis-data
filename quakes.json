@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T05:15:43Z",
-  "count": 266,
+  "updated": "2026-09-24T05:30:55Z",
+  "count": 263,
   "points": [
+    {
+      "id": "aka2026sxsnti",
+      "lon": -151.374,
+      "lat": 58.328,
+      "depth": 5,
+      "mag": 2.1,
+      "place": "80 km ENE of Ouzinkie, Alaska",
+      "time": 1790227278437,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sxsnti"
+    },
     {
       "id": "aka2026sxrotv",
       "lon": -154.244,
@@ -306,11 +316,11 @@
     {
       "id": "aka2026sxksxl",
       "lon": -149.756,
-      "lat": 62.039,
+      "lat": 62.04,
       "depth": 26.8,
-      "mag": 3.8,
+      "mag": 3.7,
       "place": "14 km SSE of Susitna North, Alaska",
-      "time": 1790213240936,
+      "time": 1790213240927,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sxksxl"
     },
     {
@@ -2622,46 +2632,6 @@
       "place": "1 km WNW of Sun Valley, Nevada",
       "time": 1790141617383,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924762"
-    },
-    {
-      "id": "nc75440247",
-      "lon": -121.196998596191,
-      "lat": 35.7648315429688,
-      "depth": 7.36999988555908,
-      "mag": 0.97,
-      "place": "13 km N of San Simeon, CA",
-      "time": 1790141281950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440247"
-    },
-    {
-      "id": "av93067304",
-      "lon": -169.918,
-      "lat": 52.8118333333333,
-      "depth": 0.59,
-      "mag": -0.51,
-      "place": "72 km WSW of Nikolski, Alaska",
-      "time": 1790140932910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067304"
-    },
-    {
-      "id": "ci41337455",
-      "lon": -116.379166666667,
-      "lat": 33.3855,
-      "depth": 5.83,
-      "mag": 0.85,
-      "place": "14 km N of Borrego Springs, CA",
-      "time": 1790140908140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337455"
-    },
-    {
-      "id": "tx2026sswbpy",
-      "lon": -102.092,
-      "lat": 32.357,
-      "depth": 7.8613,
-      "mag": 0.8,
-      "place": "38 km NW of Stanton, Texas",
-      "time": 1790140870408,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sswbpy"
     }
   ]
 }
