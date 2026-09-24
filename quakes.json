@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T01:30:55Z",
-  "count": 274,
+  "updated": "2026-09-24T01:45:43Z",
+  "count": 272,
   "points": [
     {
+      "id": "aka2026sxkzcn",
+      "lon": -149.726,
+      "lat": 62.07,
+      "depth": 50.7,
+      "mag": 2.3,
+      "place": "12 km SSE of Susitna North, Alaska",
+      "time": 1790213670288,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sxkzcn"
+    },
+    {
       "id": "aka2026sxksxl",
-      "lon": -149.757,
+      "lon": -149.756,
       "lat": 62.039,
       "depth": 26.8,
       "mag": 3.8,
       "place": "14 km SSE of Susitna North, Alaska",
-      "time": 1790213240930,
+      "time": 1790213240936,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sxksxl"
     },
     {
@@ -85,11 +95,11 @@
     },
     {
       "id": "hv75042952",
-      "lon": -155.391662597656,
-      "lat": 19.02516746521,
-      "depth": 29.4200000762939,
-      "mag": 2.3,
-      "place": "20 km ESE of Naalehu, Hawaii",
+      "lon": -155.395833333333,
+      "lat": 19.0393333333333,
+      "depth": 32.08,
+      "mag": 2.21,
+      "place": "19 km E of Naalehu, Hawaii",
       "time": 1790208946840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042952"
     },
@@ -1694,6 +1704,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94444816"
     },
     {
+      "id": "av94444811",
+      "lon": -154.818833333333,
+      "lat": 58.159,
+      "depth": 11.79,
+      "mag": -0.12,
+      "place": "69 km NNW of Karluk, Alaska",
+      "time": 1790157114740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94444811"
+    },
+    {
       "id": "tx2026stfbdl",
       "lon": -101.926,
       "lat": 31.748,
@@ -1712,6 +1732,16 @@
       "place": "6 km NNE of West Yellowstone, Montana",
       "time": 1790157092940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157866"
+    },
+    {
+      "id": "av94444796",
+      "lon": -178.910166666667,
+      "lat": 51.831,
+      "depth": 1.82,
+      "mag": 1.48,
+      "place": "156 km W of Adak, Alaska",
+      "time": 1790155900880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94444796"
     },
     {
       "id": "aka2026sweuxa",
@@ -2692,56 +2722,6 @@
       "place": "63 km ENE of Pedro Bay, Alaska",
       "time": 1790127983010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94444361"
-    },
-    {
-      "id": "us6000tx07",
-      "lon": 152.9319,
-      "lat": 46.8489,
-      "depth": 46.244,
-      "mag": 4.4,
-      "place": "Kuril Islands",
-      "time": 1790127856540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx07"
-    },
-    {
-      "id": "ci10254262",
-      "lon": -115.716166666667,
-      "lat": 33.3303333333333,
-      "depth": 2.02,
-      "mag": 1.21,
-      "place": "3 km SE of Bombay Beach, CA",
-      "time": 1790127601960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10254262"
-    },
-    {
-      "id": "ci41337367",
-      "lon": -115.718666666667,
-      "lat": 33.3221666666667,
-      "depth": 3.12,
-      "mag": 1.15,
-      "place": "3 km SSE of Bombay Beach, CA",
-      "time": 1790127596530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337367"
-    },
-    {
-      "id": "aka2026svpcjs",
-      "lon": -154.825,
-      "lat": 58.231,
-      "depth": 5,
-      "mag": 0.7,
-      "place": "76 km NNW of Karluk, Alaska",
-      "time": 1790127535355,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svpcjs"
-    },
-    {
-      "id": "ci41337359",
-      "lon": -117.702666666667,
-      "lat": 33.8956666666667,
-      "depth": 9.91,
-      "mag": 1.18,
-      "place": "10 km E of Yorba Linda, CA",
-      "time": 1790127082820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337359"
     }
   ]
 }
