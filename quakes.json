@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T10:45:41Z",
-  "count": 258,
+  "updated": "2026-09-24T11:01:15Z",
+  "count": 255,
   "points": [
+    {
+      "id": "aka2026sydsjy",
+      "lon": -153.393,
+      "lat": 60.036,
+      "depth": 5,
+      "mag": 0.6,
+      "place": "48 km NE of Pedro Bay, Alaska",
+      "time": 1790247389116,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sydsjy"
+    },
     {
       "id": "ci41338383",
       "lon": -116.7595,
@@ -622,6 +632,16 @@
       "place": "50 km E of Yakutat, Alaska",
       "time": 1790222396424,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sxpvgj"
+    },
+    {
+      "id": "tx2026suowwb",
+      "lon": -98.995,
+      "lat": 28.848,
+      "depth": 7.4749,
+      "mag": 1.8,
+      "place": "10 km ESE of Pearsall, Texas",
+      "time": 1790221974867,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026suowwb"
     },
     {
       "id": "nc75440672",
@@ -2532,56 +2552,6 @@
       "place": "3 km E of Moreno Valley, CA",
       "time": 1790162049500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337575"
-    },
-    {
-      "id": "aka2026swhrry",
-      "lon": -150.919,
-      "lat": 61.899,
-      "depth": 68.6,
-      "mag": 3.2,
-      "place": "27 km ESE of Skwentna, Alaska",
-      "time": 1790160980795,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026swhrry"
-    },
-    {
-      "id": "ci41337567",
-      "lon": -116.759333333333,
-      "lat": 33.585,
-      "depth": 12.22,
-      "mag": 0.03,
-      "place": "9 km WNW of Anza, CA",
-      "time": 1790160881410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337567"
-    },
-    {
-      "id": "ci41337559",
-      "lon": -116.770166666667,
-      "lat": 33.574,
-      "depth": 12.56,
-      "mag": 2.63,
-      "place": "9 km WNW of Anza, CA",
-      "time": 1790160728290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337559"
-    },
-    {
-      "id": "aka2026swhmgk",
-      "lon": -150.742,
-      "lat": 61.384,
-      "depth": 60.9,
-      "mag": 3.2,
-      "place": "21 km SW of Susitna, Alaska",
-      "time": 1790160605702,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026swhmgk"
-    },
-    {
-      "id": "ci41337551",
-      "lon": -115.558166666667,
-      "lat": 32.961,
-      "depth": 7.13,
-      "mag": 0.93,
-      "place": "3 km SW of Brawley, CA",
-      "time": 1790160372420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337551"
     }
   ]
 }
