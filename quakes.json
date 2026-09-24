@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T09:01:11Z",
-  "count": 268,
+  "updated": "2026-09-24T09:15:41Z",
+  "count": 267,
   "points": [
+    {
+      "id": "ci41338359",
+      "lon": -117.795833333333,
+      "lat": 35.313,
+      "depth": 6.27,
+      "mag": 0.92,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1790241061510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338359"
+    },
+    {
+      "id": "nc75440772",
+      "lon": -122.788330078125,
+      "lat": 38.8233337402344,
+      "depth": 14.9300003051758,
+      "mag": 0.63,
+      "place": "6 km W of Cobb, CA",
+      "time": 1790240975950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440772"
+    },
     {
       "id": "aka2026sxzseg",
       "lon": -150.671,
@@ -172,6 +192,16 @@
       "place": "6 km NW of Mira Loma, CA",
       "time": 1790234013870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338295"
+    },
+    {
+      "id": "us6000tx9m",
+      "lon": -72.1057,
+      "lat": -33.8294,
+      "depth": 31.376,
+      "mag": 4.3,
+      "place": "53 km WSW of San Antonio, Chile",
+      "time": 1790233625252,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx9m"
     },
     {
       "id": "ci41338287",
@@ -2642,46 +2672,6 @@
       "place": "5 km S of Pāhala, Hawaii",
       "time": 1790155256490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042572"
-    },
-    {
-      "id": "nc75440272",
-      "lon": -122.84366607666,
-      "lat": 38.8235015869141,
-      "depth": 1.47000002861023,
-      "mag": 0.74,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1790154883230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440272"
-    },
-    {
-      "id": "ci41337511",
-      "lon": -116.6165,
-      "lat": 33.459,
-      "depth": 8.49,
-      "mag": 1.52809972711577,
-      "place": "12 km SSE of Anza, CA",
-      "time": 1790154853210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337511"
-    },
-    {
-      "id": "nc75440267",
-      "lon": -122.832496643066,
-      "lat": 38.8543319702148,
-      "depth": 0.670000016689301,
-      "mag": 1.05,
-      "place": "10 km WNW of Cobb, CA",
-      "time": 1790154847910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440267"
-    },
-    {
-      "id": "us6000tx28",
-      "lon": -75.7321,
-      "lat": 3.9146,
-      "depth": 10,
-      "mag": 4.2,
-      "place": "17 km SW of Roncesvalles, Colombia",
-      "time": 1790154253285,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx28"
     }
   ]
 }
