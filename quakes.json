@@ -1,17 +1,37 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T09:45:40Z",
-  "count": 267,
+  "updated": "2026-09-24T10:01:13Z",
+  "count": 265,
   "points": [
     {
-      "id": "us6000txan",
-      "lon": -101.7035,
-      "lat": 31.6946,
-      "depth": 5,
+      "id": "aka2026sybrit",
+      "lon": -155.257,
+      "lat": 58.008,
+      "depth": 8.4,
+      "mag": 0.9,
+      "place": "68 km NW of Karluk, Alaska",
+      "time": 1790243717800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sybrit"
+    },
+    {
+      "id": "aka2026sybnil",
+      "lon": -151.284,
+      "lat": 60.62,
+      "depth": 74.6,
+      "mag": 1.7,
+      "place": "2 km ENE of Salamatof, Alaska",
+      "time": 1790243433988,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sybnil"
+    },
+    {
+      "id": "tx2026svahau",
+      "lon": -101.742,
+      "lat": 31.678,
+      "depth": 5.3955,
       "mag": 3,
-      "place": "28 km SW of Garden City, Texas",
-      "time": 1790242600497,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txan"
+      "place": "32 km SW of Garden City, Texas",
+      "time": 1790242599911,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026svahau"
     },
     {
       "id": "ci41338367",
@@ -2632,46 +2652,6 @@
       "place": "54 km WNW of Nanwalek, Alaska",
       "time": 1790157725015,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026swfwqu"
-    },
-    {
-      "id": "av94444816",
-      "lon": -166.777833333333,
-      "lat": 53.8981666666667,
-      "depth": 3.31,
-      "mag": -0.46,
-      "place": "15 km W of Dutch Harbor, Alaska",
-      "time": 1790157181030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94444816"
-    },
-    {
-      "id": "av94444811",
-      "lon": -154.818833333333,
-      "lat": 58.159,
-      "depth": 11.79,
-      "mag": -0.12,
-      "place": "69 km NNW of Karluk, Alaska",
-      "time": 1790157114740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94444811"
-    },
-    {
-      "id": "tx2026stfbdl",
-      "lon": -101.926,
-      "lat": 31.748,
-      "depth": 4.6143,
-      "mag": 1.5,
-      "place": "31 km SSE of Midland, Texas",
-      "time": 1790157103636,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026stfbdl"
-    },
-    {
-      "id": "uu80157866",
-      "lon": -111.086166666667,
-      "lat": 44.7218333333333,
-      "depth": 11.42,
-      "mag": 0.07,
-      "place": "6 km NNE of West Yellowstone, Montana",
-      "time": 1790157092940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157866"
     }
   ]
 }
