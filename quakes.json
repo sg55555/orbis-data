@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T17:04:10Z",
+  "updated": "2026-09-24T17:23:51Z",
   "count": 246,
   "points": [
+    {
+      "id": "aka2026syqizg",
+      "lon": -151.863,
+      "lat": 59.828,
+      "depth": 60.1,
+      "mag": 1.5,
+      "place": "5 km NNW of Anchor Point, Alaska",
+      "time": 1790270128922,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026syqizg"
+    },
     {
       "id": "ci41338551",
       "lon": -117.079333333333,
@@ -35,12 +45,12 @@
     },
     {
       "id": "ci41338535",
-      "lon": -118.663833333333,
-      "lat": 35.884,
-      "depth": 15.9,
-      "mag": 1.53,
+      "lon": -118.662166666667,
+      "lat": 35.8845,
+      "depth": 16.52,
+      "mag": 1.56,
       "place": "26 km NW of Kernville, CA",
-      "time": 1790266018930,
+      "time": 1790266018890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338535"
     },
     {
@@ -224,6 +234,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440872"
     },
     {
+      "id": "uw714108751",
+      "lon": -121.925666666667,
+      "lat": 47.6986666666667,
+      "depth": 26.52,
+      "mag": 1.16,
+      "place": "1 km NW of Lake Marcel-Stillwater, Washington",
+      "time": 1790258360100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714108751"
+    },
+    {
       "id": "nc75440867",
       "lon": -122.81266784668,
       "lat": 38.8303337097168,
@@ -245,12 +265,12 @@
     },
     {
       "id": "hv75043192",
-      "lon": -154.895004272461,
-      "lat": 19.4313335418701,
-      "depth": 2.25,
-      "mag": 2.24,
-      "place": "4 km SSE of Leilani Estates, Hawaii",
-      "time": 1790257194990,
+      "lon": -154.91,
+      "lat": 19.4518333333333,
+      "depth": 5.52,
+      "mag": 2.01,
+      "place": "2 km SSE of Leilani Estates, Hawaii",
+      "time": 1790257195400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043192"
     },
     {
@@ -2442,26 +2462,6 @@
       "place": "6 km SSW of Pāhala, Hawaii",
       "time": 1790184360350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042732"
-    },
-    {
-      "id": "us6000tx53",
-      "lon": -175.0529,
-      "lat": -14.6397,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "193 km SE of Mata-Utu, Wallis and Futuna",
-      "time": 1790184032721,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx53"
-    },
-    {
-      "id": "ci41337791",
-      "lon": -117.639166666667,
-      "lat": 35.8083333333333,
-      "depth": 12.82,
-      "mag": 0.39,
-      "place": "21 km N of Ridgecrest, CA",
-      "time": 1790183903260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337791"
     }
   ]
 }
