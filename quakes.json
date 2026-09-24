@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T16:15:42Z",
+  "updated": "2026-09-24T16:31:04Z",
   "count": 256,
   "points": [
+    {
+      "id": "nc75440927",
+      "lon": -122.813835144043,
+      "lat": 38.8110008239746,
+      "depth": 3.23000001907349,
+      "mag": 0.99,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1790266786180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440927"
+    },
     {
       "id": "ci41338535",
       "lon": -118.663833333333,
@@ -2552,16 +2562,6 @@
       "place": "33 km W of Nanwalek, Alaska",
       "time": 1790181490842,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026swtbxe"
-    },
-    {
-      "id": "uw714108471",
-      "lon": -123.287666666667,
-      "lat": 43.3031666666667,
-      "depth": -0.57,
-      "mag": 1.1,
-      "place": "4 km NNE of Roseburg North, Oregon",
-      "time": 1790180522400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714108471"
     }
   ]
 }
