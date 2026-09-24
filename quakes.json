@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T20:31:01Z",
-  "count": 243,
+  "updated": "2026-09-24T20:45:45Z",
+  "count": 242,
   "points": [
+    {
+      "id": "us6000txgd",
+      "lon": -101.7308,
+      "lat": 31.689,
+      "depth": 6.372,
+      "mag": 3.2,
+      "place": "30 km SW of Garden City, Texas",
+      "time": 1790282002188,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txgd"
+    },
     {
       "id": "nn00924853",
       "lon": -119.016,
@@ -72,6 +82,16 @@
       "place": "7 km ESE of Sulphur, Oklahoma",
       "time": 1790279935943,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026stnj"
+    },
+    {
+      "id": "uw714108322",
+      "lon": -122.3115,
+      "lat": 46.512,
+      "depth": 11.54,
+      "mag": 0.67,
+      "place": "5 km SSW of Morton, Washington",
+      "time": 1790279454190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714108322"
     },
     {
       "id": "aka2026syviuq",
@@ -444,6 +464,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440902"
     },
     {
+      "id": "ci41338511",
+      "lon": -119.983166666667,
+      "lat": 34.5353333333333,
+      "depth": -0.56,
+      "mag": 1.01,
+      "place": "12 km SE of Santa Ynez, CA",
+      "time": 1790263989550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338511"
+    },
+    {
       "id": "hv75043262",
       "lon": -155.4965,
       "lat": 19.1755,
@@ -482,6 +512,16 @@
       "place": "10 km SW of Niland, CA",
       "time": 1790263119240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10254326"
+    },
+    {
+      "id": "ci41338495",
+      "lon": -115.602166666667,
+      "lat": 33.1848333333333,
+      "depth": 2.57,
+      "mag": 1.07,
+      "place": "10 km SW of Niland, CA",
+      "time": 1790263080430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338495"
     },
     {
       "id": "nc75440887",
@@ -2145,12 +2185,12 @@
     },
     {
       "id": "ci41338111",
-      "lon": -117.8,
-      "lat": 35.3128333333333,
-      "depth": 5.98,
-      "mag": 0.75,
+      "lon": -117.796,
+      "lat": 35.3108333333333,
+      "depth": 6.65,
+      "mag": 0.77,
       "place": "16 km WSW of Johannesburg, CA",
-      "time": 1790205609290,
+      "time": 1790205609200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338111"
     },
     {
@@ -2382,56 +2422,6 @@
       "place": "2 km NNW of Fuig, Puerto Rico",
       "time": 1790196663640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534298"
-    },
-    {
-      "id": "ci41337999",
-      "lon": -117.8055,
-      "lat": 35.3098333333333,
-      "depth": 7.23,
-      "mag": 2.96,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1790196276440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337999"
-    },
-    {
-      "id": "nc75440502",
-      "lon": -122.818336486816,
-      "lat": 38.8368339538574,
-      "depth": 1.99000000953674,
-      "mag": 0.77,
-      "place": "8 km WNW of Cobb, CA",
-      "time": 1790196233960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440502"
-    },
-    {
-      "id": "nc75440497",
-      "lon": -122.770332336426,
-      "lat": 38.7856674194336,
-      "depth": 3.13000011444092,
-      "mag": 0.41,
-      "place": "2 km NW of The Geysers, CA",
-      "time": 1790196086150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440497"
-    },
-    {
-      "id": "ci41337983",
-      "lon": -116.756666666667,
-      "lat": 33.5881666666667,
-      "depth": 13.02,
-      "mag": 0.32,
-      "place": "9 km WNW of Anza, CA",
-      "time": 1790196013460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337983"
-    },
-    {
-      "id": "ci41337975",
-      "lon": -117.800666666667,
-      "lat": 35.3055,
-      "depth": 6.81,
-      "mag": 1.09,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1790195605570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337975"
     }
   ]
 }
