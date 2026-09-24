@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T08:01:17Z",
-  "count": 272,
+  "updated": "2026-09-24T08:15:41Z",
+  "count": 270,
   "points": [
+    {
+      "id": "ci41338343",
+      "lon": -118.596000671387,
+      "lat": 35.2669982910156,
+      "depth": 8.14000034332275,
+      "mag": 2.0523528658023,
+      "place": "20 km NW of Tehachapi, CA",
+      "time": 1790237595490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338343"
+    },
     {
       "id": "ci41338335",
       "lon": -116.291666666667,
@@ -202,6 +212,16 @@
       "place": "71 km N of Aleneva, Alaska",
       "time": 1790230107467,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sxuclx"
+    },
+    {
+      "id": "us6000tx9g",
+      "lon": -110.9835,
+      "lat": 43.195,
+      "depth": 10.03,
+      "mag": 2.2,
+      "place": "1 km E of Alpine Northeast, Wyoming",
+      "time": 1790230095367,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx9g"
     },
     {
       "id": "ci41338271",
@@ -2682,46 +2702,6 @@
       "place": "19 km ESE of Silver Springs, Nevada",
       "time": 1790151505863,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924773"
-    },
-    {
-      "id": "ci41337495",
-      "lon": -117.8195,
-      "lat": 33.228,
-      "depth": 14.33,
-      "mag": 2.43,
-      "place": "29 km SSW of Dana Point, CA",
-      "time": 1790150816160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337495"
-    },
-    {
-      "id": "ci41337487",
-      "lon": -116.485,
-      "lat": 33.4791666666667,
-      "depth": 13.29,
-      "mag": 1.46,
-      "place": "19 km ESE of Anza, CA",
-      "time": 1790150616980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337487"
-    },
-    {
-      "id": "av94444716",
-      "lon": -166.774333333333,
-      "lat": 53.898,
-      "depth": 3.68,
-      "mag": 0.14,
-      "place": "15 km W of Dutch Harbor, Alaska",
-      "time": 1790150470810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94444716"
-    },
-    {
-      "id": "aka2026swbvmh",
-      "lon": -145.575,
-      "lat": 62.101,
-      "depth": 2.2,
-      "mag": 1.9,
-      "place": "1 km WSW of Glennallen, Alaska",
-      "time": 1790150447054,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026swbvmh"
     }
   ]
 }
