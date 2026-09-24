@@ -1,17 +1,37 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T08:15:41Z",
-  "count": 270,
+  "updated": "2026-09-24T08:31:03Z",
+  "count": 272,
   "points": [
     {
+      "id": "nc75440762",
+      "lon": -122.825500488281,
+      "lat": 38.8101654052734,
+      "depth": 16.7900009155273,
+      "mag": 0.87,
+      "place": "7 km WNW of The Geysers, CA",
+      "time": 1790238505020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440762"
+    },
+    {
       "id": "ci41338343",
-      "lon": -118.596000671387,
-      "lat": 35.2669982910156,
-      "depth": 8.14000034332275,
-      "mag": 2.0523528658023,
+      "lon": -118.595,
+      "lat": 35.2661666666667,
+      "depth": 8.22,
+      "mag": 1.98,
       "place": "20 km NW of Tehachapi, CA",
-      "time": 1790237595490,
+      "time": 1790237595500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338343"
+    },
+    {
+      "id": "uu80157906",
+      "lon": -112.905333333333,
+      "lat": 38.5095,
+      "depth": 0.07,
+      "mag": 2.02,
+      "place": "15 km NE of Milford, Utah",
+      "time": 1790237228340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157906"
     },
     {
       "id": "ci41338335",
@@ -502,6 +522,16 @@
       "place": "7 km SSW of Pāhala, Hawaii",
       "time": 1790217688980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043012"
+    },
+    {
+      "id": "tx2026sumkhc",
+      "lon": -104.352,
+      "lat": 31.667,
+      "depth": 6.5613,
+      "mag": 1.5,
+      "place": "56 km S of Whites City, New Mexico",
+      "time": 1790217480059,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sumkhc"
     },
     {
       "id": "aka2026sxmlnf",
@@ -2594,6 +2624,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440267"
     },
     {
+      "id": "us6000tx28",
+      "lon": -75.7321,
+      "lat": 3.9146,
+      "depth": 10,
+      "mag": 4.2,
+      "place": "17 km SW of Roncesvalles, Colombia",
+      "time": 1790154253285,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx28"
+    },
+    {
       "id": "ci41337503",
       "lon": -117.798833333333,
       "lat": 35.3315,
@@ -2682,26 +2722,6 @@
       "place": "13 km WNW of Whites City, New Mexico",
       "time": 1790152378574,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx1x"
-    },
-    {
-      "id": "aka2026swcpao",
-      "lon": -150.437,
-      "lat": 61.624,
-      "depth": 58,
-      "mag": 2.4,
-      "place": "9 km NNE of Susitna, Alaska",
-      "time": 1790151807557,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026swcpao"
-    },
-    {
-      "id": "nn00924773",
-      "lon": -119.0208,
-      "lat": 39.3446,
-      "depth": 7.2408,
-      "mag": 1.54,
-      "place": "19 km ESE of Silver Springs, Nevada",
-      "time": 1790151505863,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924773"
     }
   ]
 }
