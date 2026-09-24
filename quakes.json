@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T13:01:19Z",
+  "updated": "2026-09-24T13:15:49Z",
   "count": 269,
   "points": [
+    {
+      "id": "nc75440852",
+      "lon": -122.84383392334,
+      "lat": 38.7999992370605,
+      "depth": -0.610000014305115,
+      "mag": 1.66,
+      "place": "8 km WNW of The Geysers, CA",
+      "time": 1790255640480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440852"
+    },
     {
       "id": "ci41338455",
       "lon": -116.7305,
@@ -322,6 +332,16 @@
       "place": "2 km ENE of Salamatof, Alaska",
       "time": 1790243433988,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sybnil"
+    },
+    {
+      "id": "tx2026svaiir",
+      "lon": -101.721,
+      "lat": 31.682,
+      "depth": 8.8623,
+      "mag": 2.7,
+      "place": "30 km SW of Garden City, Texas",
+      "time": 1790242690067,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026svaiir"
     },
     {
       "id": "tx2026svahau",
@@ -2672,26 +2692,6 @@
       "place": "9 km WNW of The Geysers, CA",
       "time": 1790169646710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440342"
-    },
-    {
-      "id": "nc75440332",
-      "lon": -122.408836364746,
-      "lat": 38.3759994506836,
-      "depth": 8.36999988555908,
-      "mag": 2.19,
-      "place": "5 km SW of Yountville, CA",
-      "time": 1790169011190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440332"
-    },
-    {
-      "id": "us6000tx38",
-      "lon": 143.0239,
-      "lat": 21.6622,
-      "depth": 306.016,
-      "mag": 5,
-      "place": "Mariana Islands region",
-      "time": 1790168511614,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx38"
     }
   ]
 }
