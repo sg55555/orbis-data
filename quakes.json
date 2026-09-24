@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T16:31:04Z",
+  "updated": "2026-09-24T16:45:47Z",
   "count": 256,
   "points": [
+    {
+      "id": "ci41338551",
+      "lon": -117.079333333333,
+      "lat": 33.988,
+      "depth": 15.88,
+      "mag": 1.09,
+      "place": "2 km W of Calimesa, CA",
+      "time": 1790267459270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338551"
+    },
+    {
+      "id": "ci41338543",
+      "lon": -117.862333333333,
+      "lat": 35.4753333333333,
+      "depth": 4.24,
+      "mag": 0.92,
+      "place": "20 km SSW of Inyokern, CA",
+      "time": 1790267381690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338543"
+    },
     {
       "id": "nc75440927",
       "lon": -122.813835144043,
@@ -1395,10 +1415,10 @@
     },
     {
       "id": "ci41338199",
-      "lon": -116.2235,
-      "lat": 31.8606666666667,
-      "depth": 10,
-      "mag": 2.15,
+      "lon": -116.230166666667,
+      "lat": 31.8598333333333,
+      "depth": 8.84,
+      "mag": 2.12,
       "place": "36 km ENE of Maneadero, B.C., MX",
       "time": 1790216178100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338199"
@@ -2174,6 +2194,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337887"
     },
     {
+      "id": "tx2026stxsip",
+      "lon": -98.982,
+      "lat": 28.843,
+      "depth": 7.983,
+      "mag": 1.7,
+      "place": "12 km ESE of Pearsall, Texas",
+      "time": 1790190884637,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026stxsip"
+    },
+    {
       "id": "aka2026swyhso",
       "lon": -153.185,
       "lat": 60.01,
@@ -2532,36 +2562,6 @@
       "place": "15 km W of Dutch Harbor, Alaska",
       "time": 1790181960570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94445276"
-    },
-    {
-      "id": "ci41337759",
-      "lon": -116.076666666667,
-      "lat": 33.7533333333333,
-      "depth": 5.57,
-      "mag": 1.16,
-      "place": "12 km NE of Coachella, CA",
-      "time": 1790181785100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337759"
-    },
-    {
-      "id": "hv75042697",
-      "lon": -155.283666666667,
-      "lat": 19.4118333333333,
-      "depth": -0.24,
-      "mag": 1.61,
-      "place": "6 km WSW of Volcano, Hawaii",
-      "time": 1790181607820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042697"
-    },
-    {
-      "id": "aka2026swtbxe",
-      "lon": -152.503,
-      "lat": 59.402,
-      "depth": 71.8,
-      "mag": 3.4,
-      "place": "33 km W of Nanwalek, Alaska",
-      "time": 1790181490842,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026swtbxe"
     }
   ]
 }
