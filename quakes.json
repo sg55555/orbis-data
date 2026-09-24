@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T22:30:57Z",
-  "count": 245,
+  "updated": "2026-09-24T22:45:42Z",
+  "count": 249,
   "points": [
+    {
+      "id": "hv75043452",
+      "lon": -155.380004882812,
+      "lat": 19.1978340148926,
+      "depth": 29.8700008392334,
+      "mag": 2.19,
+      "place": "10 km E of Pāhala, Hawaii",
+      "time": 1790289419190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043452"
+    },
+    {
+      "id": "hv75043447",
+      "lon": -155.348999023438,
+      "lat": 19.3061676025391,
+      "depth": 1.69000005722046,
+      "mag": 2.37,
+      "place": "17 km NE of Pāhala, Hawaii",
+      "time": 1790289143980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043447"
+    },
     {
       "id": "ci41338727",
       "lon": -117.537166666667,
@@ -12,6 +32,16 @@
       "place": "14 km ENE of Ridgecrest, CA",
       "time": 1790288505370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338727"
+    },
+    {
+      "id": "pr71534463",
+      "lon": -66.9516666666667,
+      "lat": 17.9553333333333,
+      "depth": 6.14,
+      "mag": 2.36,
+      "place": "4 km WSW of Guánica, Puerto Rico",
+      "time": 1790288166230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534463"
     },
     {
       "id": "aka2026szaebw",
@@ -874,6 +904,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338455"
     },
     {
+      "id": "tx2026svgkym",
+      "lon": -104.456,
+      "lat": 31.655,
+      "depth": 6.6125,
+      "mag": 1.6,
+      "place": "58 km S of Whites City, New Mexico",
+      "time": 1790253916247,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026svgkym"
+    },
+    {
       "id": "nc75440847",
       "lon": -122.869163513184,
       "lat": 38.8283348083496,
@@ -942,6 +982,16 @@
       "place": "5 km WNW of The Geysers, CA",
       "time": 1790252571470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440822"
+    },
+    {
+      "id": "tx2026svfecs",
+      "lon": -104.462,
+      "lat": 31.646,
+      "depth": 7.2791,
+      "mag": 1.7,
+      "place": "59 km S of Whites City, New Mexico",
+      "time": 1790251449418,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026svfecs"
     },
     {
       "id": "ci41338447",
@@ -2442,16 +2492,6 @@
       "place": "2 km SW of Pāhala, Hawaii",
       "time": 1790203932290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042912"
-    },
-    {
-      "id": "nc75440552",
-      "lon": -122.804496765137,
-      "lat": 38.8339996337891,
-      "depth": 1.95000004768372,
-      "mag": 1.37,
-      "place": "7 km W of Cobb, CA",
-      "time": 1790202967900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440552"
     }
   ]
 }
