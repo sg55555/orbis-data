@@ -1,6 +1,6 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T23:15:40Z",
+  "updated": "2026-09-24T23:24:20Z",
   "count": 252,
   "points": [
     {
@@ -664,6 +664,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026svnbeq"
     },
     {
+      "id": "tx2026svmykv",
+      "lon": -104.468,
+      "lat": 31.64,
+      "depth": 7.7405,
+      "mag": 1.5,
+      "place": "60 km S of Whites City, New Mexico",
+      "time": 1790265533122,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026svmykv"
+    },
+    {
       "id": "nc75440912",
       "lon": -122.793830871582,
       "lat": 38.8240013122559,
@@ -1034,6 +1044,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440822"
     },
     {
+      "id": "tx2026svfljx",
+      "lon": -98.928,
+      "lat": 28.839,
+      "depth": 7.5717,
+      "mag": 1.7,
+      "place": "17 km ESE of Pearsall, Texas",
+      "time": 1790251952361,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026svfljx"
+    },
+    {
       "id": "tx2026svfecs",
       "lon": -104.462,
       "lat": 31.646,
@@ -1115,12 +1135,12 @@
     },
     {
       "id": "ci41338423",
-      "lon": -117.800166666667,
-      "lat": 35.312,
-      "depth": 6.67,
+      "lon": -117.802,
+      "lat": 35.313,
+      "depth": 6.76,
       "mag": 1.1,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": 1790249675740,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": 1790249675730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338423"
     },
     {
@@ -1192,6 +1212,16 @@
       "place": "15 km WSW of Firebaugh, CA",
       "time": 1790248884820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440792"
+    },
+    {
+      "id": "tx2026svdslc",
+      "lon": -98.931,
+      "lat": 28.844,
+      "depth": 8.8445,
+      "mag": 1.7,
+      "place": "16 km ESE of Pearsall, Texas",
+      "time": 1790248822510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026svdslc"
     },
     {
       "id": "us6000txb3",
@@ -2492,36 +2522,6 @@
       "place": "7 km WNW of Cobb, CA",
       "time": 1790206522210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440577"
-    },
-    {
-      "id": "ok2026sryo",
-      "lon": -97.8865,
-      "lat": 35.02316667,
-      "depth": 8.44,
-      "mag": 0.88,
-      "place": "5 km SE of Chickasha, Oklahoma",
-      "time": 1790205702509,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026sryo"
-    },
-    {
-      "id": "ci41338111",
-      "lon": -117.796,
-      "lat": 35.3108333333333,
-      "depth": 6.65,
-      "mag": 0.77,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": 1790205609200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338111"
-    },
-    {
-      "id": "pr71534328",
-      "lon": -66.9468333333333,
-      "lat": 17.9866666666667,
-      "depth": 7.87,
-      "mag": 2,
-      "place": "3 km W of Fuig, Puerto Rico",
-      "time": 1790205395740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534328"
     }
   ]
 }
