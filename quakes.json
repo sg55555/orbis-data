@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T10:31:00Z",
-  "count": 261,
+  "updated": "2026-09-24T10:45:41Z",
+  "count": 258,
   "points": [
     {
+      "id": "ci41338383",
+      "lon": -116.7595,
+      "lat": 33.5818333333333,
+      "depth": 11.85,
+      "mag": 0.67,
+      "place": "8 km WNW of Anza, CA",
+      "time": 1790245827530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338383"
+    },
+    {
       "id": "aka2026sycuna",
-      "lon": -150.147,
-      "lat": 61.451,
-      "depth": 28.4,
-      "mag": 1.9,
+      "lon": -150.142,
+      "lat": 61.448,
+      "depth": 27.4,
+      "mag": 2,
       "place": "12 km SW of Big Lake, Alaska",
-      "time": 1790245738216,
+      "time": 1790245738204,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sycuna"
     },
     {
@@ -2572,46 +2582,6 @@
       "place": "3 km SW of Brawley, CA",
       "time": 1790160372420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337551"
-    },
-    {
-      "id": "hv75042597",
-      "lon": -155.513666666667,
-      "lat": 19.1796666666667,
-      "depth": 30.57,
-      "mag": 2.01,
-      "place": "4 km SW of Pāhala, Hawaii",
-      "time": 1790159935180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042597"
-    },
-    {
-      "id": "hv75042592",
-      "lon": -155.497833251953,
-      "lat": 19.158332824707,
-      "depth": 28.2600002288818,
-      "mag": 1.87,
-      "place": "5 km SSW of Pāhala, Hawaii",
-      "time": 1790159737880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042592"
-    },
-    {
-      "id": "ci41337543",
-      "lon": -116.7625,
-      "lat": 33.7061666666667,
-      "depth": 16.39,
-      "mag": 1.73,
-      "place": "6 km SW of Idyllwild, CA",
-      "time": 1790159648300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337543"
-    },
-    {
-      "id": "us6000tx2s",
-      "lon": 56.8032,
-      "lat": 13.8587,
-      "depth": 10,
-      "mag": 4.4,
-      "place": "Socotra region",
-      "time": 1790159585103,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx2s"
     }
   ]
 }
