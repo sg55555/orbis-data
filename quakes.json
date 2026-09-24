@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T17:45:47Z",
+  "updated": "2026-09-24T18:01:20Z",
   "count": 243,
   "points": [
+    {
+      "id": "nc75440967",
+      "lon": -121.898002624512,
+      "lat": 36.8453330993652,
+      "depth": 10.0200004577637,
+      "mag": 1.75,
+      "place": "11 km SSW of La Selva Beach, CA",
+      "time": 1790272456180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440967"
+    },
+    {
+      "id": "aka2026syrpcd",
+      "lon": -153.546,
+      "lat": 59.671,
+      "depth": 138.6,
+      "mag": 2.7,
+      "place": "34 km ESE of Pedro Bay, Alaska",
+      "time": 1790272337387,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026syrpcd"
+    },
     {
       "id": "nc75440962",
       "lon": -122.768997192383,
@@ -254,6 +274,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157921"
     },
     {
+      "id": "us6000txc1",
+      "lon": -93.213,
+      "lat": 14.1475,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "106 km SW of Puerto Madero, Mexico",
+      "time": 1790258562293,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txc1"
+    },
+    {
       "id": "nc75440872",
       "lon": -122.868499755859,
       "lat": 38.8258323669434,
@@ -445,12 +475,12 @@
     },
     {
       "id": "ci41338431",
-      "lon": -119.08,
-      "lat": 35.0701666666667,
-      "depth": 8.25,
-      "mag": 1.63,
+      "lon": -119.083,
+      "lat": 35.069,
+      "depth": 9.52,
+      "mag": 1.6,
       "place": "20 km NW of Grapevine, CA",
-      "time": 1790250126590,
+      "time": 1790250126520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338431"
     },
     {
@@ -2402,36 +2432,6 @@
       "place": "17 km ESE of Pearsall, Texas",
       "time": 1790186541292,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026stvhyu"
-    },
-    {
-      "id": "av93067354",
-      "lon": -166.783333333333,
-      "lat": 53.9083333333333,
-      "depth": 4.47,
-      "mag": -0.39,
-      "place": "15 km W of Dutch Harbor, Alaska",
-      "time": 1790185920000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067354"
-    },
-    {
-      "id": "av94445361",
-      "lon": -166.778333333333,
-      "lat": 53.8965,
-      "depth": 2.85,
-      "mag": -0.69,
-      "place": "15 km W of Dutch Harbor, Alaska",
-      "time": 1790185914370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94445361"
-    },
-    {
-      "id": "us6000tx58",
-      "lon": 178.0194,
-      "lat": -16.3072,
-      "depth": 10,
-      "mag": 5,
-      "place": "140 km NNE of Ba, Fiji",
-      "time": 1790185566489,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx58"
     }
   ]
 }
