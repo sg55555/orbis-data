@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T14:15:44Z",
-  "count": 268,
+  "updated": "2026-09-24T14:31:01Z",
+  "count": 266,
   "points": [
+    {
+      "id": "hv75043227",
+      "lon": -155.114669799805,
+      "lat": 19.1883335113525,
+      "depth": 38.0299987792969,
+      "mag": 1.83,
+      "place": "30 km S of Fern Forest, Hawaii",
+      "time": 1790259703560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043227"
+    },
     {
       "id": "nc75440872",
       "lon": -122.868499755859,
@@ -2652,36 +2662,6 @@
       "place": "11 km SW of Morongo Valley, CA",
       "time": 1790173847860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337687"
-    },
-    {
-      "id": "ci41337679",
-      "lon": -116.765166666667,
-      "lat": 33.4866666666667,
-      "depth": 6.15,
-      "mag": 0.07,
-      "place": "10 km ENE of Aguanga, CA",
-      "time": 1790173624030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337679"
-    },
-    {
-      "id": "hv75042672",
-      "lon": -155.48616027832,
-      "lat": 19.1598339080811,
-      "depth": 10.3199996948242,
-      "mag": 1.76,
-      "place": "4 km S of Pāhala, Hawaii",
-      "time": 1790173335620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042672"
-    },
-    {
-      "id": "us6000tx3l",
-      "lon": 125.8221,
-      "lat": 6.4256,
-      "depth": 150.252,
-      "mag": 4.2,
-      "place": "21 km ENE of Lais, Philippines",
-      "time": 1790173172302,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx3l"
     }
   ]
 }
