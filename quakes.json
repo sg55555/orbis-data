@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T22:45:42Z",
+  "updated": "2026-09-24T23:01:20Z",
   "count": 249,
   "points": [
+    {
+      "id": "nc75441162",
+      "lon": -121.675498962402,
+      "lat": 37.6006660461426,
+      "depth": 0.579999983310699,
+      "mag": 1.38,
+      "place": "12 km SE of Livermore, CA",
+      "time": 1790290420190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441162"
+    },
     {
       "id": "hv75043452",
       "lon": -155.380004882812,
@@ -1414,6 +1424,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026suygvy"
     },
     {
+      "id": "tx2026suygfk",
+      "lon": -101.745,
+      "lat": 31.679,
+      "depth": 4.541,
+      "mag": 0.8,
+      "place": "32 km SW of Garden City, Texas",
+      "time": 1790238921858,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026suygfk"
+    },
+    {
       "id": "ci41338351",
       "lon": -116.243166666667,
       "lat": 32.913,
@@ -2472,26 +2492,6 @@
       "place": "4 km SSW of Pāhala, Hawaii",
       "time": 1790204837040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042917"
-    },
-    {
-      "id": "ci41338103",
-      "lon": -117.096166666667,
-      "lat": 32.598,
-      "depth": 11.21,
-      "mag": 1.26,
-      "place": "2 km NE of Imperial Beach, CA",
-      "time": 1790204212080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338103"
-    },
-    {
-      "id": "hv75042912",
-      "lon": -155.496002197266,
-      "lat": 19.191333770752,
-      "depth": 28.2000007629395,
-      "mag": 1.94,
-      "place": "2 km SW of Pāhala, Hawaii",
-      "time": 1790203932290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042912"
     }
   ]
 }
