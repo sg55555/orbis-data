@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T12:15:44Z",
-  "count": 266,
+  "updated": "2026-09-24T12:31:02Z",
+  "count": 268,
   "points": [
+    {
+      "id": "nc75440832",
+      "lon": -122.810333251953,
+      "lat": 38.8231658935547,
+      "depth": 1.36000001430511,
+      "mag": 1.29,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1790252814120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440832"
+    },
+    {
+      "id": "nc75440827",
+      "lon": -122.81233215332,
+      "lat": 38.7955017089844,
+      "depth": 3.0699999332428,
+      "mag": 1.05,
+      "place": "5 km WNW of The Geysers, CA",
+      "time": 1790252598710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440827"
+    },
+    {
+      "id": "nc75440822",
+      "lon": -122.8125,
+      "lat": 38.7960014343262,
+      "depth": 3.25999999046326,
+      "mag": 1.07,
+      "place": "5 km WNW of The Geysers, CA",
+      "time": 1790252571470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440822"
+    },
     {
       "id": "ci41338447",
       "lon": -116.523833333333,
@@ -962,6 +992,16 @@
       "place": "9 km WNW of Anza, CA",
       "time": 1790219048840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338207"
+    },
+    {
+      "id": "tx2026sumyox",
+      "lon": -98.981,
+      "lat": 28.852,
+      "depth": 7.2223,
+      "mag": 1.6,
+      "place": "11 km ESE of Pearsall, Texas",
+      "time": 1790218475314,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sumyox"
     },
     {
       "id": "hv75043017",
@@ -2642,26 +2682,6 @@
       "place": "65 km SE of Punta Cana, Dominican Republic",
       "time": 1790167038460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534228"
-    },
-    {
-      "id": "us6000tx31",
-      "lon": 126.5263,
-      "lat": 1.217,
-      "depth": 48.462,
-      "mag": 4.6,
-      "place": "106 km WNW of Ternate, Indonesia",
-      "time": 1790166200274,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx31"
-    },
-    {
-      "id": "us6000tx30",
-      "lon": -149.1422,
-      "lat": 56.3563,
-      "depth": 10,
-      "mag": 3.1,
-      "place": "236 km SE of Chiniak, Alaska",
-      "time": 1790165952731,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx30"
     }
   ]
 }
