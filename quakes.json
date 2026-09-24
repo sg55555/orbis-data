@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T21:01:12Z",
+  "updated": "2026-09-24T21:15:42Z",
   "count": 242,
   "points": [
+    {
+      "id": "tx2026svwvaw",
+      "lon": -101.746,
+      "lat": 31.676,
+      "depth": 4.9072,
+      "mag": 2.8,
+      "place": "32 km SW of Garden City, Texas",
+      "time": 1790283421030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026svwvaw"
+    },
     {
       "id": "nc75441107",
       "lon": -122.811164855957,
@@ -22,6 +32,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1790283384610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441102"
+    },
+    {
+      "id": "uw714108452",
+      "lon": -123.038,
+      "lat": 42.6553333333333,
+      "depth": 0.88,
+      "mag": 0.89,
+      "place": "15 km NE of Wimer, Oregon",
+      "time": 1790282914640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714108452"
     },
     {
       "id": "us6000txgd",
@@ -362,6 +382,16 @@
       "place": "5 km NNW of Anchor Point, Alaska",
       "time": 1790270128922,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026syqizg"
+    },
+    {
+      "id": "us6000txdx",
+      "lon": -75.858,
+      "lat": 3.9513,
+      "depth": 10,
+      "mag": 4.2,
+      "place": "28 km WSW of Roncesvalles, Colombia",
+      "time": 1790270074930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txdx"
     },
     {
       "id": "aka2026sypoor",
@@ -2392,36 +2422,6 @@
       "place": "58 km S of Kingston, Nevada",
       "time": 1790198314792,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924814"
-    },
-    {
-      "id": "aka2026sxcgqj",
-      "lon": -150.971,
-      "lat": 63.298,
-      "depth": 0.1,
-      "mag": 2,
-      "place": "46 km SE of Denali National Park, Alaska",
-      "time": 1790197986674,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sxcgqj"
-    },
-    {
-      "id": "ci41338007",
-      "lon": -116.7015,
-      "lat": 32.5703333333333,
-      "depth": -0.79,
-      "mag": 1.18,
-      "place": "6 km W of Tecate, B.C., MX",
-      "time": 1790197870340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338007"
-    },
-    {
-      "id": "nc75440512",
-      "lon": -122.931663513184,
-      "lat": 38.7775001525879,
-      "depth": 4.76000022888184,
-      "mag": 1.54,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1790197632280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440512"
     }
   ]
 }
