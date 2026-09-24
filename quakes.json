@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T02:01:06Z",
-  "count": 271,
+  "updated": "2026-09-24T02:15:39Z",
+  "count": 273,
   "points": [
+    {
+      "id": "ci41338191",
+      "lon": -117.795166015625,
+      "lat": 35.3061676025391,
+      "depth": 6.26999998092651,
+      "mag": 1.86800484303481,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1790215973860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338191"
+    },
+    {
+      "id": "aka2026sxmelx",
+      "lon": -153.719,
+      "lat": 57.77,
+      "depth": 28.2,
+      "mag": 1.9,
+      "place": "29 km NNE of Larsen Bay, Alaska",
+      "time": 1790215832358,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sxmelx"
+    },
+    {
+      "id": "aka2026sxlvgp",
+      "lon": -153.096,
+      "lat": 60.117,
+      "depth": 125.7,
+      "mag": 1.5,
+      "place": "67 km ENE of Pedro Bay, Alaska",
+      "time": 1790215200931,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sxlvgp"
+    },
     {
       "id": "aka2026sxltbu",
       "lon": -155.136,
@@ -2702,16 +2732,6 @@
       "place": "35 km SSW of Los Ybanez, Texas",
       "time": 1790129819235,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sspzfy"
-    },
-    {
-      "id": "us6000tx08",
-      "lon": 120.808,
-      "lat": -8.1454,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "63 km NE of Ruteng, Indonesia",
-      "time": 1790128963755,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx08"
     }
   ]
 }
