@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T23:30:58Z",
-  "count": 254,
+  "updated": "2026-09-24T23:45:41Z",
+  "count": 253,
   "points": [
+    {
+      "id": "nc75441187",
+      "lon": -122.801498413086,
+      "lat": 38.8326683044434,
+      "depth": 0.899999976158142,
+      "mag": 0.21,
+      "place": "7 km W of Cobb, CA",
+      "time": 1790292965460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441187"
+    },
     {
       "id": "aka2026szcgcd",
       "lon": -146.858,
@@ -2522,26 +2532,6 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1790207243890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440597"
-    },
-    {
-      "id": "aka2026sxhffr",
-      "lon": -147.456,
-      "lat": 64.983,
-      "depth": 0.1,
-      "mag": 0.9,
-      "place": "8 km ENE of Fox, Alaska",
-      "time": 1790206896872,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sxhffr"
-    },
-    {
-      "id": "nc75440577",
-      "lon": -122.807502746582,
-      "lat": 38.835334777832,
-      "depth": 1.85000002384186,
-      "mag": 0.72,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1790206522210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440577"
     }
   ]
 }
