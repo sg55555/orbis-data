@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T06:31:04Z",
-  "count": 262,
+  "updated": "2026-09-24T06:45:45Z",
+  "count": 258,
   "points": [
+    {
+      "id": "hv75043072",
+      "lon": -154.896331787109,
+      "lat": 19.4270000457764,
+      "depth": 1.57000005245209,
+      "mag": 2.05,
+      "place": "5 km SSE of Leilani Estates, Hawaii",
+      "time": 1790231688760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043072"
+    },
     {
       "id": "aka2026sxuiet",
       "lon": -149.739,
@@ -2572,56 +2582,6 @@
       "place": "39 km NE of Petersville, Alaska",
       "time": 1790146620141,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svzsgo"
-    },
-    {
-      "id": "aka2026svzeue",
-      "lon": -151.441,
-      "lat": 63.123,
-      "depth": 5,
-      "mag": 2,
-      "place": "48 km SSE of Denali National Park, Alaska",
-      "time": 1790145693089,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svzeue"
-    },
-    {
-      "id": "ci41337479",
-      "lon": -116.622666666667,
-      "lat": 33.4573333333333,
-      "depth": 7.43,
-      "mag": 0.15,
-      "place": "12 km SSE of Anza, CA",
-      "time": 1790145587040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337479"
-    },
-    {
-      "id": "av93067309",
-      "lon": -169.847,
-      "lat": 52.8341666666667,
-      "depth": 1.72,
-      "mag": 0.03,
-      "place": "67 km W of Nikolski, Alaska",
-      "time": 1790145437240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067309"
-    },
-    {
-      "id": "ci41337471",
-      "lon": -117.805666666667,
-      "lat": 35.3158333333333,
-      "depth": 7.98,
-      "mag": 1.42,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1790145420240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337471"
-    },
-    {
-      "id": "aka2026svywgt",
-      "lon": -151.427,
-      "lat": 58.233,
-      "depth": 15.7,
-      "mag": 2.6,
-      "place": "72 km ENE of Ouzinkie, Alaska",
-      "time": 1790145102731,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026svywgt"
     }
   ]
 }
