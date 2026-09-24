@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T13:45:41Z",
-  "count": 265,
+  "updated": "2026-09-24T14:01:15Z",
+  "count": 266,
   "points": [
+    {
+      "id": "nc75440867",
+      "lon": -122.81266784668,
+      "lat": 38.8303337097168,
+      "depth": 2.13000011444092,
+      "mag": 1.36,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1790258088000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440867"
+    },
+    {
+      "id": "aka2026syjkdf",
+      "lon": -149.122,
+      "lat": 60.641,
+      "depth": 10.5,
+      "mag": 2,
+      "place": "21 km NE of Moose Pass, Alaska",
+      "time": 1790257613086,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026syjkdf"
+    },
     {
       "id": "hv75043192",
       "lon": -154.895004272461,
@@ -1122,6 +1142,16 @@
       "place": "6 km SSW of Pāhala, Hawaii",
       "time": 1790218218820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043017"
+    },
+    {
+      "id": "tx2026sumpcn",
+      "lon": -98.98,
+      "lat": 28.857,
+      "depth": 7.4169,
+      "mag": 1.3,
+      "place": "11 km ESE of Pearsall, Texas",
+      "time": 1790217814494,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sumpcn"
     },
     {
       "id": "hv75043012",
@@ -2632,26 +2662,6 @@
       "place": "150 km W of Adak, Alaska",
       "time": 1790172064040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94445091"
-    },
-    {
-      "id": "ci41337663",
-      "lon": -117.801166666667,
-      "lat": 35.3035,
-      "depth": 6.04,
-      "mag": 1.05,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1790171550350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41337663"
-    },
-    {
-      "id": "av94445081",
-      "lon": -166.772833333333,
-      "lat": 53.9018333333333,
-      "depth": 3.82,
-      "mag": -0.19,
-      "place": "15 km W of Dutch Harbor, Alaska",
-      "time": 1790171348140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94445081"
     }
   ]
 }
