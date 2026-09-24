@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-24T18:01:20Z",
-  "count": 243,
+  "updated": "2026-09-24T18:15:46Z",
+  "count": 244,
   "points": [
+    {
+      "id": "us6000txf7",
+      "lon": -104.6362,
+      "lat": 32.5187,
+      "depth": 3.014,
+      "mag": 3.4,
+      "place": "33 km SSE of Hope, New Mexico",
+      "time": 1790272573809,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txf7"
+    },
     {
       "id": "nc75440967",
       "lon": -121.898002624512,
@@ -82,6 +92,16 @@
       "place": "20 km SSW of Inyokern, CA",
       "time": 1790267381690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338543"
+    },
+    {
+      "id": "us6000txcw",
+      "lon": 139.7677,
+      "lat": -3.243,
+      "depth": 68.453,
+      "mag": 4.6,
+      "place": "119 km SW of Abepura, Indonesia",
+      "time": 1790267280188,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txcw"
     },
     {
       "id": "nc75440927",
@@ -2422,16 +2442,6 @@
       "place": "2 km NNE of Guayanilla, Puerto Rico",
       "time": 1790187391870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534263"
-    },
-    {
-      "id": "tx2026stvhyu",
-      "lon": -98.926,
-      "lat": 28.832,
-      "depth": 8.1756,
-      "mag": 1.8,
-      "place": "17 km ESE of Pearsall, Texas",
-      "time": 1790186541292,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026stvhyu"
     }
   ]
 }
