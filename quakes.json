@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T10:31:07Z",
-  "count": 218,
+  "updated": "2026-09-25T10:45:40Z",
+  "count": 221,
   "points": [
+    {
+      "id": "ci41338887",
+      "lon": -115.57,
+      "lat": 33.2226666666667,
+      "depth": 3.18,
+      "mag": 1.21,
+      "place": "5 km WSW of Niland, CA",
+      "time": 1790332491670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338887"
+    },
+    {
+      "id": "nc75441507",
+      "lon": -122.488998413086,
+      "lat": 38.1158332824707,
+      "depth": 5.69999980926514,
+      "mag": 1.18,
+      "place": "2 km E of Black Point-Green Point, CA",
+      "time": 1790332343320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441507"
+    },
     {
       "id": "aka2026szyrbl",
       "lon": -149.789,
@@ -22,6 +42,16 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1790331848920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441502"
+    },
+    {
+      "id": "pr71534628",
+      "lon": -66.9405,
+      "lat": 17.9348333333333,
+      "depth": 8.71,
+      "mag": 1.96,
+      "place": "5 km SW of Guánica, Puerto Rico",
+      "time": 1790331406260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534628"
     },
     {
       "id": "nc75441497",
@@ -384,6 +414,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026swnffk"
     },
     {
+      "id": "tx2026swnfjg",
+      "lon": -98.97,
+      "lat": 28.896,
+      "depth": 6.5054,
+      "mag": 1.7,
+      "place": "12 km E of Pearsall, Texas",
+      "time": 1790313083528,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026swnfjg"
+    },
+    {
       "id": "tx2026swndrp",
       "lon": -101.751,
       "lat": 31.88,
@@ -432,6 +472,16 @@
       "place": "4 km SW of Anderson Springs, CA",
       "time": 1790311252430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441392"
+    },
+    {
+      "id": "tx2026swmdls",
+      "lon": -98.926,
+      "lat": 28.883,
+      "depth": 5.9696,
+      "mag": 1.4,
+      "place": "16 km E of Pearsall, Texas",
+      "time": 1790311139516,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026swmdls"
     },
     {
       "id": "nc75441387",
@@ -2162,26 +2212,6 @@
       "place": "48 km NE of Pedro Bay, Alaska",
       "time": 1790247389116,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sydsjy"
-    },
-    {
-      "id": "av94446691",
-      "lon": -153.086333333333,
-      "lat": 60.0353333333333,
-      "depth": -0.83,
-      "mag": -0.55,
-      "place": "63 km ENE of Pedro Bay, Alaska",
-      "time": 1790246211380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94446691"
-    },
-    {
-      "id": "tx2026svcetl",
-      "lon": -98.957,
-      "lat": 28.866,
-      "depth": 8.7268,
-      "mag": 2,
-      "place": "13 km ESE of Pearsall, Texas",
-      "time": 1790246060055,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026svcetl"
     }
   ]
 }
