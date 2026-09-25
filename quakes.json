@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T21:15:40Z",
-  "count": 209,
+  "updated": "2026-09-25T21:30:56Z",
+  "count": 210,
   "points": [
+    {
+      "id": "nn00924892",
+      "lon": -117.008,
+      "lat": 38.7157,
+      "depth": 1.8485,
+      "mag": 1.75,
+      "place": "55 km S of Kingston, Nevada",
+      "time": 1790371266788,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924892"
+    },
     {
       "id": "ci41339151",
       "lon": -118.3255,
@@ -22,6 +32,16 @@
       "place": "11 km WNW of The Geysers, CA",
       "time": 1790370275470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441952"
+    },
+    {
+      "id": "us6000txpf",
+      "lon": 104.7032,
+      "lat": 28.5744,
+      "depth": 10,
+      "mag": 5,
+      "place": "13 km N of Xunchang, China",
+      "time": 1790370087262,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpf"
     },
     {
       "id": "hv75043757",
@@ -285,12 +305,12 @@
     },
     {
       "id": "ci41339063",
-      "lon": -118.1975,
-      "lat": 35.5501666666667,
-      "depth": 5.02,
-      "mag": 1.71,
+      "lon": -118.195,
+      "lat": 35.55,
+      "depth": 4.52,
+      "mag": 1.79,
       "place": "26 km ESE of Lake Isabella, CA",
-      "time": 1790359557180,
+      "time": 1790359557140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339063"
     },
     {
@@ -342,6 +362,16 @@
       "place": "10 km ENE of North Tustin, CA",
       "time": 1790358861490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339055"
+    },
+    {
+      "id": "tx2026sxmlzx",
+      "lon": -103.704,
+      "lat": 31.382,
+      "depth": 5.0745,
+      "mag": 2,
+      "place": "11 km NE of Toyah, Texas",
+      "time": 1790358809521,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sxmlzx"
     },
     {
       "id": "aka2026tanlrk",
@@ -432,6 +462,16 @@
       "place": "68 km SSW of Nanwalek, Alaska",
       "time": 1790355569681,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026talvsg"
+    },
+    {
+      "id": "tx2026sxkpmg",
+      "lon": -97.691,
+      "lat": 29.131,
+      "depth": 8.0669,
+      "mag": 1.7,
+      "place": "16 km SSW of Smiley, Texas",
+      "time": 1790355433525,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sxkpmg"
     },
     {
       "id": "uu80157981",
@@ -2062,36 +2102,6 @@
       "place": "67 km ENE of Pedro Bay, Alaska",
       "time": 1790285476430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94447996"
-    },
-    {
-      "id": "pr71534443",
-      "lon": -66.9596666666667,
-      "lat": 17.9326666666667,
-      "depth": 7.71,
-      "mag": 2.65,
-      "place": "6 km SW of Guánica, Puerto Rico",
-      "time": 1790284905340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534443"
-    },
-    {
-      "id": "uu80157941",
-      "lon": -112.913166666667,
-      "lat": 38.4991666666667,
-      "depth": 2.69,
-      "mag": 1.85,
-      "place": "14 km NE of Milford, Utah",
-      "time": 1790284815740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157941"
-    },
-    {
-      "id": "hv75043422",
-      "lon": -155.281005859375,
-      "lat": 19.4198341369629,
-      "depth": -0.159999996423721,
-      "mag": 1.73,
-      "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1790284567170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043422"
     }
   ]
 }
