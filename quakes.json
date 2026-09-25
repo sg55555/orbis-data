@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T22:31:02Z",
-  "count": 216,
+  "updated": "2026-09-25T22:45:39Z",
+  "count": 213,
   "points": [
+    {
+      "id": "nc75442022",
+      "lon": -122.760833740234,
+      "lat": 38.8274993896484,
+      "depth": 2.3199999332428,
+      "mag": 0.34,
+      "place": "3 km W of Cobb, CA",
+      "time": 1790375978430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442022"
+    },
+    {
+      "id": "aka2026taxceu",
+      "lon": -149.539,
+      "lat": 63.719,
+      "depth": 126.4,
+      "mag": 2.4,
+      "place": "30 km W of Denali Park, Alaska",
+      "time": 1790375792647,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026taxceu"
+    },
     {
       "id": "hv75043792",
       "lon": -155.278335571289,
@@ -32,6 +52,16 @@
       "place": "4 km NW of The Geysers, CA",
       "time": 1790374790880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442017"
+    },
+    {
+      "id": "hv75043787",
+      "lon": -155.887333333333,
+      "lat": 19.4415,
+      "depth": 6.45,
+      "mag": 1.72,
+      "place": "2 km SW of Honaunau-Napoopoo, Hawaii",
+      "time": 1790374122220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043787"
     },
     {
       "id": "us6000txq2",
@@ -117,7 +147,7 @@
       "id": "nn00924892",
       "lon": -117.0477,
       "lat": 38.6858,
-      "depth": 0.6789,
+      "depth": 0.6853,
       "mag": 1.14,
       "place": "58 km S of Kingston, Nevada",
       "time": 1790371268012,
@@ -1845,12 +1875,12 @@
     },
     {
       "id": "ci41338783",
-      "lon": -116.370833333333,
-      "lat": 33.4171666666667,
-      "depth": 11.06,
-      "mag": 0.75,
+      "lon": -116.3675,
+      "lat": 33.4168333333333,
+      "depth": 11.44,
+      "mag": 0.78,
       "place": "18 km N of Borrego Springs, CA",
-      "time": 1790300804730,
+      "time": 1790300804700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338783"
     },
     {
@@ -2102,66 +2132,6 @@
       "place": "18 km SSE of Carbonado, Washington",
       "time": 1790290162460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714108592"
-    },
-    {
-      "id": "tx2026swakjl",
-      "lon": -101.748,
-      "lat": 31.674,
-      "depth": 4.7607,
-      "mag": 1,
-      "place": "32 km SW of Garden City, Texas",
-      "time": 1790289901009,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026swakjl"
-    },
-    {
-      "id": "tx2026swahhs",
-      "lon": -101.746,
-      "lat": 31.676,
-      "depth": 4.6631,
-      "mag": 1.6,
-      "place": "32 km SW of Garden City, Texas",
-      "time": 1790289696502,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026swahhs"
-    },
-    {
-      "id": "hv75043452",
-      "lon": -155.372833333333,
-      "lat": 19.1946666666667,
-      "depth": 30.5,
-      "mag": 1.7,
-      "place": "11 km E of Pāhala, Hawaii",
-      "time": 1790289419140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043452"
-    },
-    {
-      "id": "tx2026svzzkk",
-      "lon": -101.751,
-      "lat": 31.676,
-      "depth": 4.5654,
-      "mag": 2.3,
-      "place": "32 km SW of Garden City, Texas",
-      "time": 1790289352949,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026svzzkk"
-    },
-    {
-      "id": "uu80157951",
-      "lon": -113.261833333333,
-      "lat": 37.7393333333333,
-      "depth": 0.34,
-      "mag": 1.12,
-      "place": "18 km WNW of Cedar City, Utah",
-      "time": 1790289144890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157951"
-    },
-    {
-      "id": "hv75043447",
-      "lon": -155.348,
-      "lat": 19.2901666666667,
-      "depth": 5.11,
-      "mag": 2,
-      "place": "16 km NE of Pāhala, Hawaii",
-      "time": 1790289143940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043447"
     }
   ]
 }
