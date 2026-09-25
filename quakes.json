@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T01:15:42Z",
-  "count": 246,
+  "updated": "2026-09-25T01:31:04Z",
+  "count": 244,
   "points": [
+    {
+      "id": "nc75441272",
+      "lon": -122.879333496094,
+      "lat": 38.8326683044434,
+      "depth": 2.75999999046326,
+      "mag": 1,
+      "place": "12 km WNW of The Geysers, CA",
+      "time": 1790299460970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441272"
+    },
+    {
+      "id": "aka2026szgijs",
+      "lon": -150.562,
+      "lat": 63.158,
+      "depth": 120.2,
+      "mag": 2.3,
+      "place": "72 km SE of Denali National Park, Alaska",
+      "time": 1790298872577,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026szgijs"
+    },
     {
       "id": "ci41338775",
       "lon": -116.757333333333,
@@ -2422,46 +2442,6 @@
       "place": "15 km SSE of Stanton, Texas",
       "time": 1790213551591,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sukfvi"
-    },
-    {
-      "id": "aka2026sxksxl",
-      "lon": -149.756,
-      "lat": 62.04,
-      "depth": 26.8,
-      "mag": 3.7,
-      "place": "14 km SSE of Susitna North, Alaska",
-      "time": 1790213240927,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sxksxl"
-    },
-    {
-      "id": "tx2026sujwhu",
-      "lon": -98.959,
-      "lat": 28.814,
-      "depth": 8.045,
-      "mag": 1.5,
-      "place": "southern Texas",
-      "time": 1790212885861,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sujwhu"
-    },
-    {
-      "id": "ci41338151",
-      "lon": -117.8445,
-      "lat": 36.0738333333333,
-      "depth": 2.48,
-      "mag": 0.65,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": 1790212559430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338151"
-    },
-    {
-      "id": "ci41338143",
-      "lon": -116.473666666667,
-      "lat": 33.4841666666667,
-      "depth": 12.76,
-      "mag": 0.73,
-      "place": "20 km ESE of Anza, CA",
-      "time": 1790212540810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338143"
     }
   ]
 }
