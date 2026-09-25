@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T19:45:42Z",
+  "updated": "2026-09-25T20:01:12Z",
   "count": 201,
   "points": [
+    {
+      "id": "nc75441892",
+      "lon": -122.815170288086,
+      "lat": 38.8300018310547,
+      "depth": 1.50999999046326,
+      "mag": 0.75,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1790366220250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441892"
+    },
     {
       "id": "ci41339119",
       "lon": -116.762664794922,
@@ -22,6 +32,16 @@
       "place": "3 km SE of Home Gardens, CA",
       "time": 1790363847940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339111"
+    },
+    {
+      "id": "uu80157986",
+      "lon": -112.900166666667,
+      "lat": 38.4946666666667,
+      "depth": 2.34,
+      "mag": 1.34,
+      "place": "14 km NE of Milford, Utah",
+      "time": 1790361402380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157986"
     },
     {
       "id": "ci41339087",
@@ -965,12 +985,12 @@
     },
     {
       "id": "hv75043562",
-      "lon": -155.494171142578,
-      "lat": 19.1593341827393,
-      "depth": 29.5100002288818,
-      "mag": 2.09,
+      "lon": -155.4895,
+      "lat": 19.1565,
+      "depth": 30.03,
+      "mag": 1.75,
       "place": "5 km SSW of Pāhala, Hawaii",
-      "time": 1790316223680,
+      "time": 1790316223670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043562"
     },
     {
@@ -1082,6 +1102,16 @@
       "place": "12 km E of Pearsall, Texas",
       "time": 1790313083528,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026swnfjg"
+    },
+    {
+      "id": "aka2026szoffz",
+      "lon": -178.24,
+      "lat": 51.334,
+      "depth": 13.6,
+      "mag": 3.5,
+      "place": "126 km WSW of Adak, Alaska",
+      "time": 1790313044905,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026szoffz"
     },
     {
       "id": "tx2026swndrp",
@@ -1982,36 +2012,6 @@
       "place": "1 km ESE of Home Gardens, CA",
       "time": 1790280261000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338671"
-    },
-    {
-      "id": "ok2026stnj",
-      "lon": -96.83866667,
-      "lat": 34.47033333,
-      "depth": 0,
-      "mag": 1.46,
-      "place": "7 km N of Mill Creek, Oklahoma",
-      "time": 1790279934700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026stnj"
-    },
-    {
-      "id": "uw714108322",
-      "lon": -122.3115,
-      "lat": 46.512,
-      "depth": 11.54,
-      "mag": 0.67,
-      "place": "5 km SSW of Morton, Washington",
-      "time": 1790279454190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714108322"
-    },
-    {
-      "id": "aka2026syviuq",
-      "lon": -150.097,
-      "lat": 61.397,
-      "depth": 32.3,
-      "mag": 2,
-      "place": "7 km WNW of Point MacKenzie, Alaska",
-      "time": 1790279112180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026syviuq"
     }
   ]
 }
