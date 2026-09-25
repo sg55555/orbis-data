@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T05:15:42Z",
-  "count": 245,
+  "updated": "2026-09-25T05:30:56Z",
+  "count": 247,
   "points": [
+    {
+      "id": "ci41338823",
+      "lon": -116.980333333333,
+      "lat": 33.8561666666667,
+      "depth": 13.38,
+      "mag": 1.17,
+      "place": "8 km S of Beaumont, CA",
+      "time": 1790313648030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338823"
+    },
+    {
+      "id": "ci41338815",
+      "lon": -116.766666666667,
+      "lat": 33.5781666666667,
+      "depth": 11.94,
+      "mag": 1.15,
+      "place": "9 km WNW of Anza, CA",
+      "time": 1790313356900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338815"
+    },
     {
       "id": "aka2026sznumy",
       "lon": -145.975,
@@ -1224,6 +1244,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043227"
     },
     {
+      "id": "av94447076",
+      "lon": -153.036833333333,
+      "lat": 60.0135,
+      "depth": 0.51,
+      "mag": -0.64,
+      "place": "64 km ENE of Pedro Bay, Alaska",
+      "time": 1790259492490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94447076"
+    },
+    {
+      "id": "av94447061",
+      "lon": -151.718666666667,
+      "lat": 61.5746666666667,
+      "depth": 16.63,
+      "mag": 0.54,
+      "place": "49 km SSW of Skwentna, Alaska",
+      "time": 1790259294220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94447061"
+    },
+    {
       "id": "us6000txc4",
       "lon": -140.0197,
       "lat": 61.1063,
@@ -2432,26 +2472,6 @@
       "place": "14 km ESE of Pearsall, Texas",
       "time": 1790228157924,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sushql"
-    },
-    {
-      "id": "aka2026sxsnti",
-      "lon": -151.374,
-      "lat": 58.328,
-      "depth": 5,
-      "mag": 2.1,
-      "place": "80 km ENE of Ouzinkie, Alaska",
-      "time": 1790227278437,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sxsnti"
-    },
-    {
-      "id": "tx2026surrxe",
-      "lon": -98.985,
-      "lat": 28.859,
-      "depth": 7.3929,
-      "mag": 1.7,
-      "place": "11 km ESE of Pearsall, Texas",
-      "time": 1790227095466,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026surrxe"
     }
   ]
 }
