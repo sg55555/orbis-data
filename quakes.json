@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T19:15:44Z",
-  "count": 202,
+  "updated": "2026-09-25T19:31:01Z",
+  "count": 203,
   "points": [
+    {
+      "id": "ci41339119",
+      "lon": -116.762664794922,
+      "lat": 33.650333404541,
+      "depth": 13.3699998855591,
+      "mag": 1.04058110182874,
+      "place": "11 km SSW of Idyllwild, CA",
+      "time": 1790363939660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339119"
+    },
+    {
+      "id": "ci41339111",
+      "lon": -117.500166666667,
+      "lat": 33.8616666666667,
+      "depth": 1.02,
+      "mag": 1.25,
+      "place": "3 km SE of Home Gardens, CA",
+      "time": 1790363847940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339111"
+    },
     {
       "id": "ci41339087",
       "lon": -116.373,
@@ -574,6 +594,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338895"
     },
     {
+      "id": "uw714108722",
+      "lon": -121.994833333333,
+      "lat": 46.9836666666667,
+      "depth": 7.4,
+      "mag": 0.31,
+      "place": "11 km SSE of Carbonado, Washington",
+      "time": 1790333143030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714108722"
+    },
+    {
       "id": "ci41338887",
       "lon": -115.567833333333,
       "lat": 33.221,
@@ -645,12 +675,12 @@
     },
     {
       "id": "hv75043607",
-      "lon": -155.35383605957,
-      "lat": 19.3409996032715,
-      "depth": 27.6900005340576,
-      "mag": 3.16,
-      "place": "16 km SW of Volcano, Hawaii",
-      "time": 1790329590540,
+      "lon": -155.350833333333,
+      "lat": 19.333,
+      "depth": 27.56,
+      "mag": 2.23,
+      "place": "17 km SW of Volcano, Hawaii",
+      "time": 1790329590590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043607"
     },
     {
@@ -705,12 +735,12 @@
     },
     {
       "id": "hv75043597",
-      "lon": -155.494827270508,
-      "lat": 19.1966667175293,
-      "depth": 33.3300018310547,
-      "mag": 2.31,
-      "place": "1 km WSW of Pāhala, Hawaii",
-      "time": 1790326689220,
+      "lon": -155.5025,
+      "lat": 19.2023333333333,
+      "depth": 35.07,
+      "mag": 1.85,
+      "place": "2 km W of Pāhala, Hawaii",
+      "time": 1790326689200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043597"
     },
     {
@@ -2002,26 +2032,6 @@
       "place": "8 km W of Templeton, CA",
       "time": 1790278332880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441027"
-    },
-    {
-      "id": "hv75043352",
-      "lon": -155.486666666667,
-      "lat": 19.2043333333333,
-      "depth": 29.2,
-      "mag": 2.14,
-      "place": "0 km W of Pāhala, Hawaii",
-      "time": 1790278041430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043352"
-    },
-    {
-      "id": "pr71534433",
-      "lon": -66.841,
-      "lat": 17.9738333333333,
-      "depth": 12.26,
-      "mag": 2.07,
-      "place": "3 km SW of Indios, Puerto Rico",
-      "time": 1790277362290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534433"
     }
   ]
 }
