@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T04:45:38Z",
-  "count": 242,
+  "updated": "2026-09-25T05:11:11Z",
+  "count": 245,
   "points": [
+    {
+      "id": "aka2026sznumy",
+      "lon": -145.975,
+      "lat": 64.58,
+      "depth": 5,
+      "mag": 1.8,
+      "place": "37 km NE of Harding-Birch Lakes, Alaska",
+      "time": 1790312305689,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sznumy"
+    },
+    {
+      "id": "nc75441397",
+      "lon": -122.817169189453,
+      "lat": 38.8348350524902,
+      "depth": 1.87999999523163,
+      "mag": 1.08,
+      "place": "8 km W of Cobb, CA",
+      "time": 1790312237520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441397"
+    },
+    {
+      "id": "hv75043527",
+      "lon": -155.445831298828,
+      "lat": 19.1035003662109,
+      "depth": 26.8999996185303,
+      "mag": 1.86,
+      "place": "11 km SSE of Pāhala, Hawaii",
+      "time": 1790311895320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043527"
+    },
     {
       "id": "nc75441392",
       "lon": -122.717163085938,
@@ -42,6 +72,16 @@
       "place": "124 km N of Metinaro, Timor Leste",
       "time": 1790310460435,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txim"
+    },
+    {
+      "id": "us6000txil",
+      "lon": -77.721,
+      "lat": -11.3812,
+      "depth": 45.943,
+      "mag": 4.4,
+      "place": "32 km SSW of Huacho, Peru",
+      "time": 1790310390062,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txil"
     },
     {
       "id": "aka2026szmivm",
@@ -1274,6 +1314,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043192"
     },
     {
+      "id": "av94446991",
+      "lon": -153.067833333333,
+      "lat": 60.0241666666667,
+      "depth": 0.16,
+      "mag": -1.05,
+      "place": "63 km ENE of Pedro Bay, Alaska",
+      "time": 1790257160780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94446991"
+    },
+    {
       "id": "nc75440852",
       "lon": -122.84383392334,
       "lat": 38.7999992370605,
@@ -1282,6 +1332,16 @@
       "place": "8 km WNW of The Geysers, CA",
       "time": 1790255640480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440852"
+    },
+    {
+      "id": "av94446956",
+      "lon": -155.319333333333,
+      "lat": 58.1668333333333,
+      "depth": 2.52,
+      "mag": -0.07,
+      "place": "84 km NW of Karluk, Alaska",
+      "time": 1790255171260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94446956"
     },
     {
       "id": "ci41338455",
@@ -2392,36 +2452,6 @@
       "place": "11 km ESE of Pearsall, Texas",
       "time": 1790227095466,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026surrxe"
-    },
-    {
-      "id": "aka2026sxrotv",
-      "lon": -154.244,
-      "lat": 57.471,
-      "depth": 23.1,
-      "mag": 2.9,
-      "place": "16 km SE of Karluk, Alaska",
-      "time": 1790225634476,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sxrotv"
-    },
-    {
-      "id": "tx2026suqsww",
-      "lon": -98.983,
-      "lat": 28.858,
-      "depth": 8.1716,
-      "mag": 1.6,
-      "place": "11 km ESE of Pearsall, Texas",
-      "time": 1790225318910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026suqsww"
-    },
-    {
-      "id": "ci41338239",
-      "lon": -116.976666666667,
-      "lat": 33.9953333333333,
-      "depth": 9.97,
-      "mag": 0.57,
-      "place": "7 km E of Calimesa, CA",
-      "time": 1790225302130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338239"
     }
   ]
 }
