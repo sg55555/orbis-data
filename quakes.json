@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T15:30:59Z",
-  "count": 197,
+  "updated": "2026-09-25T15:45:44Z",
+  "count": 195,
   "points": [
+    {
+      "id": "nc75441652",
+      "lon": -122.766670227051,
+      "lat": 38.7876663208008,
+      "depth": 3.16000008583069,
+      "mag": 0.44,
+      "place": "1 km NW of The Geysers, CA",
+      "time": 1790350784110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441652"
+    },
     {
       "id": "nc75441642",
       "lon": -120.508331298828,
@@ -1942,36 +1952,6 @@
       "place": "6 km NNW of The Geysers, CA",
       "time": 1790265328180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440912"
-    },
-    {
-      "id": "nc75440902",
-      "lon": -119.314331054688,
-      "lat": 36.6178321838379,
-      "depth": 19.4400005340576,
-      "mag": 2.68,
-      "place": "1 km S of Orange Cove, CA",
-      "time": 1790264428080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440902"
-    },
-    {
-      "id": "ci41338511",
-      "lon": -119.983166666667,
-      "lat": 34.5353333333333,
-      "depth": -0.56,
-      "mag": 1.01,
-      "place": "12 km SE of Santa Ynez, CA",
-      "time": 1790263989550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338511"
-    },
-    {
-      "id": "hv75043262",
-      "lon": -155.4965,
-      "lat": 19.1755,
-      "depth": 30.85,
-      "mag": 1.78,
-      "place": "3 km SSW of Pāhala, Hawaii",
-      "time": 1790263890360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043262"
     }
   ]
 }
