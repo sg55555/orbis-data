@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T17:31:12Z",
-  "count": 202,
+  "updated": "2026-09-25T17:45:41Z",
+  "count": 203,
   "points": [
+    {
+      "id": "nc75441787",
+      "lon": -122.801170349121,
+      "lat": 38.8318328857422,
+      "depth": 2.11999988555908,
+      "mag": 0.59,
+      "place": "7 km W of Cobb, CA",
+      "time": 1790357877610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441787"
+    },
     {
       "id": "aka2026tamgpl",
       "lon": -141.217,
@@ -85,12 +95,12 @@
     },
     {
       "id": "ci41339015",
-      "lon": -117.511666666667,
-      "lat": 35.7066666666667,
-      "depth": 6.31,
-      "mag": 0.5,
+      "lon": -117.5085,
+      "lat": 35.7071666666667,
+      "depth": 7.29,
+      "mag": 0.31,
       "place": "12 km SW of Searles Valley, CA",
-      "time": 1790352036770,
+      "time": 1790352036750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339015"
     },
     {
@@ -145,12 +155,12 @@
     },
     {
       "id": "ci41338991",
-      "lon": -116.759833333333,
-      "lat": 33.5905,
-      "depth": 10.72,
-      "mag": 0.65,
+      "lon": -116.757833333333,
+      "lat": 33.5868333333333,
+      "depth": 12.5,
+      "mag": 0.61,
       "place": "9 km WNW of Anza, CA",
-      "time": 1790348591720,
+      "time": 1790348591530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338991"
     },
     {
@@ -175,12 +185,12 @@
     },
     {
       "id": "ci41338959",
-      "lon": -116.698166666667,
-      "lat": 33.6828333333333,
-      "depth": 15.8,
-      "mag": 0.58,
-      "place": "7 km SSE of Idyllwild, CA",
-      "time": 1790345576150,
+      "lon": -116.6965,
+      "lat": 33.6846666666667,
+      "depth": 16.22,
+      "mag": 0.57,
+      "place": "6 km SSE of Idyllwild, CA",
+      "time": 1790345576070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338959"
     },
     {
@@ -1444,6 +1454,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714108592"
     },
     {
+      "id": "tx2026swakjl",
+      "lon": -101.748,
+      "lat": 31.674,
+      "depth": 4.7607,
+      "mag": 1,
+      "place": "32 km SW of Garden City, Texas",
+      "time": 1790289901009,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026swakjl"
+    },
+    {
       "id": "tx2026swahhs",
       "lon": -101.746,
       "lat": 31.676,
@@ -1492,6 +1512,16 @@
       "place": "16 km NE of Pāhala, Hawaii",
       "time": 1790289143940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043447"
+    },
+    {
+      "id": "tx2026svzsof",
+      "lon": -98.981,
+      "lat": 28.865,
+      "depth": 6.5186,
+      "mag": 2.2,
+      "place": "11 km ESE of Pearsall, Texas",
+      "time": 1790288658383,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026svzsof"
     },
     {
       "id": "us6000txha",
@@ -2002,26 +2032,6 @@
       "place": "34 km ESE of Pedro Bay, Alaska",
       "time": 1790272337387,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026syrpcd"
-    },
-    {
-      "id": "mb90209098",
-      "lon": -110.447666666667,
-      "lat": 45.273,
-      "depth": 4.51,
-      "mag": 1.2,
-      "place": "21 km ESE of Pray, Montana",
-      "time": 1790271377960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90209098"
-    },
-    {
-      "id": "nc75440962",
-      "lon": -122.768997192383,
-      "lat": 38.789665222168,
-      "depth": 2.3199999332428,
-      "mag": 0.26,
-      "place": "2 km NW of The Geysers, CA",
-      "time": 1790271200420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440962"
     }
   ]
 }
