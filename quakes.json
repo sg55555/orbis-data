@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T15:16:19Z",
-  "count": 199,
+  "updated": "2026-09-25T15:30:59Z",
+  "count": 197,
   "points": [
+    {
+      "id": "nc75441642",
+      "lon": -120.508331298828,
+      "lat": 35.9623336791992,
+      "depth": 1.28999996185303,
+      "mag": 1.35,
+      "place": "10 km NW of Parkfield, CA",
+      "time": 1790349930640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441642"
+    },
+    {
+      "id": "nc75441632",
+      "lon": -120.679168701172,
+      "lat": 40.5468330383301,
+      "depth": 6.26000022888184,
+      "mag": 2.18,
+      "place": "15 km N of Susanville, CA",
+      "time": 1790349408540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441632"
+    },
     {
       "id": "ci41338991",
       "lon": -116.759833333333,
@@ -1495,12 +1515,12 @@
     },
     {
       "id": "ok2026stnj",
-      "lon": -96.89676666,
-      "lat": 34.47395706,
-      "depth": 3.221495867,
-      "mag": 1.94,
-      "place": "7 km ESE of Sulphur, Oklahoma",
-      "time": 1790279935943,
+      "lon": -96.83866667,
+      "lat": 34.47033333,
+      "depth": 0,
+      "mag": 1.46,
+      "place": "7 km N of Mill Creek, Oklahoma",
+      "time": 1790279934700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026stnj"
     },
     {
@@ -1952,46 +1972,6 @@
       "place": "3 km SSW of Pāhala, Hawaii",
       "time": 1790263890360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043262"
-    },
-    {
-      "id": "aka2026symrwh",
-      "lon": -152.505,
-      "lat": 61.46,
-      "depth": 15.1,
-      "mag": 0.5,
-      "place": "83 km SW of Skwentna, Alaska",
-      "time": 1790263545384,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026symrwh"
-    },
-    {
-      "id": "ci41338503",
-      "lon": -115.608166666667,
-      "lat": 33.184,
-      "depth": 2.51,
-      "mag": 1.32,
-      "place": "10 km SW of Niland, CA",
-      "time": 1790263503880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338503"
-    },
-    {
-      "id": "ci10254326",
-      "lon": -115.6035,
-      "lat": 33.1865,
-      "depth": 2.33,
-      "mag": 0.78,
-      "place": "10 km SW of Niland, CA",
-      "time": 1790263119240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10254326"
-    },
-    {
-      "id": "ci41338495",
-      "lon": -115.602166666667,
-      "lat": 33.1848333333333,
-      "depth": 2.57,
-      "mag": 1.07,
-      "place": "10 km SW of Niland, CA",
-      "time": 1790263080430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338495"
     }
   ]
 }
