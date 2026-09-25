@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T00:15:44Z",
-  "count": 248,
+  "updated": "2026-09-25T00:30:56Z",
+  "count": 249,
   "points": [
+    {
+      "id": "pr71534483",
+      "lon": -66.943,
+      "lat": 17.9651666666667,
+      "depth": 7.33,
+      "mag": 2.31,
+      "place": "3 km W of Guánica, Puerto Rico",
+      "time": 1790295487870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534483"
+    },
     {
       "id": "nn00924860",
       "lon": -117.2682,
@@ -2234,6 +2244,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sumpcn"
     },
     {
+      "id": "av94445991",
+      "lon": -155.197166666667,
+      "lat": 58.2685,
+      "depth": 4.85,
+      "mag": -0.28,
+      "place": "89 km NNW of Karluk, Alaska",
+      "time": 1790217773120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94445991"
+    },
+    {
       "id": "hv75043012",
       "lon": -155.503,
       "lat": 19.146,
@@ -2262,6 +2282,16 @@
       "place": "56 km SW of Tatitlek, Alaska",
       "time": 1790216328330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sxmlnf"
+    },
+    {
+      "id": "av94445966",
+      "lon": -166.778333333333,
+      "lat": 53.9011666666667,
+      "depth": 3.89,
+      "mag": 0.11,
+      "place": "15 km W of Dutch Harbor, Alaska",
+      "time": 1790216257260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94445966"
     },
     {
       "id": "tx2026sulscn",
@@ -2462,26 +2492,6 @@
       "place": "10 km ENE of Pāhala, Hawaii",
       "time": 1790210624040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042972"
-    },
-    {
-      "id": "us6000tx7g",
-      "lon": 138.7809,
-      "lat": -1.8133,
-      "depth": 35,
-      "mag": 4.6,
-      "place": "223 km WNW of Abepura, Indonesia",
-      "time": 1790209598374,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx7g"
-    },
-    {
-      "id": "hv75042952",
-      "lon": -155.395833333333,
-      "lat": 19.0393333333333,
-      "depth": 32.08,
-      "mag": 2.21,
-      "place": "19 km E of Naalehu, Hawaii",
-      "time": 1790208946840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042952"
     }
   ]
 }
