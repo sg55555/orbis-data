@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T15:01:17Z",
-  "count": 202,
+  "updated": "2026-09-25T15:16:19Z",
+  "count": 199,
   "points": [
+    {
+      "id": "ci41338991",
+      "lon": -116.759833333333,
+      "lat": 33.5905,
+      "depth": 10.72,
+      "mag": 0.65,
+      "place": "9 km WNW of Anza, CA",
+      "time": 1790348591720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338991"
+    },
+    {
+      "id": "nc75441612",
+      "lon": -120.786003112793,
+      "lat": 35.5521659851074,
+      "depth": 5.3899998664856,
+      "mag": 1.28,
+      "place": "7 km W of Templeton, CA",
+      "time": 1790348518620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441612"
+    },
     {
       "id": "aka2026taghpr",
       "lon": -154.982,
@@ -645,12 +665,12 @@
     },
     {
       "id": "uu80157966",
-      "lon": -109.881666666667,
-      "lat": 41.5663333333333,
-      "depth": -3.37,
-      "mag": 3.1,
+      "lon": -109.8855,
+      "lat": 41.5641666666667,
+      "depth": -2.54,
+      "mag": 3.13,
       "place": "3 km NW of Little America, Wyoming",
-      "time": 1790314902720,
+      "time": 1790314902360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157966"
     },
     {
@@ -1972,56 +1992,6 @@
       "place": "10 km SW of Niland, CA",
       "time": 1790263080430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338495"
-    },
-    {
-      "id": "nc75440887",
-      "lon": -122.756164550781,
-      "lat": 38.7826652526855,
-      "depth": 1.73000001907349,
-      "mag": 0.59,
-      "place": "1 km N of The Geysers, CA",
-      "time": 1790262967440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440887"
-    },
-    {
-      "id": "tx2026svljem",
-      "lon": -104.142,
-      "lat": 31.621,
-      "depth": 6.0999,
-      "mag": 2,
-      "place": "47 km NW of Toyah, Texas",
-      "time": 1790262683272,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026svljem"
-    },
-    {
-      "id": "tx2026svligz",
-      "lon": -98.935,
-      "lat": 28.853,
-      "depth": 7.9863,
-      "mag": 1.9,
-      "place": "16 km ESE of Pearsall, Texas",
-      "time": 1790262598117,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026svligz"
-    },
-    {
-      "id": "ci41338487",
-      "lon": -116.466,
-      "lat": 33.4815,
-      "depth": 6.45,
-      "mag": 0.91,
-      "place": "21 km ESE of Anza, CA",
-      "time": 1790262558490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338487"
-    },
-    {
-      "id": "aka2026sylxxz",
-      "lon": -150.33,
-      "lat": 60.601,
-      "depth": 60.8,
-      "mag": 1.9,
-      "place": "24 km ENE of Sterling, Alaska",
-      "time": 1790262165778,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sylxxz"
     }
   ]
 }
