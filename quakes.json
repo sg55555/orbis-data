@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T23:15:39Z",
-  "count": 211,
+  "updated": "2026-09-25T23:30:55Z",
+  "count": 209,
   "points": [
+    {
+      "id": "ci41339191",
+      "lon": -116.712333333333,
+      "lat": 33.5343333333333,
+      "depth": 5.14,
+      "mag": 1.14,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1790378638460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339191"
+    },
     {
       "id": "aka2026tayfwa",
       "lon": -158.748,
@@ -2082,36 +2092,6 @@
       "place": "72 km NW of Finschhafen, Papua New Guinea",
       "time": 1790292628053,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txhp"
-    },
-    {
-      "id": "uu80157956",
-      "lon": -112.282833333333,
-      "lat": 38.4125,
-      "depth": 2.19,
-      "mag": 0.65,
-      "place": "6 km SW of Marysvale, Utah",
-      "time": 1790292552920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157956"
-    },
-    {
-      "id": "uw714108642",
-      "lon": -120.512,
-      "lat": 49.3711666666667,
-      "depth": -0.36,
-      "mag": 2.14,
-      "place": "9 km S of Princeton, Canada",
-      "time": 1790292360420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714108642"
-    },
-    {
-      "id": "us6000txhl",
-      "lon": -71.293,
-      "lat": -37.4621,
-      "depth": 174.336,
-      "mag": 4.2,
-      "place": "63 km WSW of Andacollo, Argentina",
-      "time": 1790291974354,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txhl"
     }
   ]
 }
