@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T03:15:45Z",
-  "count": 243,
+  "updated": "2026-09-25T03:31:00Z",
+  "count": 244,
   "points": [
+    {
+      "id": "nc75441347",
+      "lon": -122.808502197266,
+      "lat": 38.8246650695801,
+      "depth": 0.810000002384186,
+      "mag": 0.76,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1790306741990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441347"
+    },
+    {
+      "id": "nc75441342",
+      "lon": -122.808166503906,
+      "lat": 38.8245010375977,
+      "depth": 1.04999995231628,
+      "mag": 1.08,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1790306714620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441342"
+    },
     {
       "id": "nc75441337",
       "lon": -122.783500671387,
@@ -2422,16 +2442,6 @@
       "place": "1 km NW of Fuig, Puerto Rico",
       "time": 1790220683770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534368"
-    },
-    {
-      "id": "us6000tx8q",
-      "lon": 119.3665,
-      "lat": -8.33,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "31 km NNW of Komodo, Indonesia",
-      "time": 1790220626013,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx8q"
     }
   ]
 }
