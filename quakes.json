@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T12:03:44Z",
+  "updated": "2026-09-25T12:15:39Z",
   "count": 212,
   "points": [
+    {
+      "id": "nc75441517",
+      "lon": -122.849670410156,
+      "lat": 38.8286666870117,
+      "depth": 2.11999988555908,
+      "mag": 0.79,
+      "place": "10 km NW of The Geysers, CA",
+      "time": 1790338283190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441517"
+    },
     {
       "id": "ci41338911",
       "lon": -117.194,
@@ -892,6 +902,16 @@
       "place": "9 km WNW of Anza, CA",
       "time": 1790296837560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338775"
+    },
+    {
+      "id": "tx2026swdznc",
+      "lon": -102.081,
+      "lat": 32.35,
+      "depth": 7.0068,
+      "mag": 0.3,
+      "place": "36 km NW of Stanton, Texas",
+      "time": 1790296399975,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026swdznc"
     },
     {
       "id": "tx2026swdofn",
@@ -2102,26 +2122,6 @@
       "place": "5 km WNW of The Geysers, CA",
       "time": 1790252571470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440822"
-    },
-    {
-      "id": "tx2026svfljx",
-      "lon": -98.928,
-      "lat": 28.839,
-      "depth": 7.5717,
-      "mag": 1.7,
-      "place": "17 km ESE of Pearsall, Texas",
-      "time": 1790251952361,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026svfljx"
-    },
-    {
-      "id": "tx2026svfecs",
-      "lon": -104.462,
-      "lat": 31.646,
-      "depth": 7.2791,
-      "mag": 1.7,
-      "place": "59 km S of Whites City, New Mexico",
-      "time": 1790251449418,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026svfecs"
     }
   ]
 }
