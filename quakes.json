@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T18:32:28Z",
-  "count": 205,
+  "updated": "2026-09-25T18:45:42Z",
+  "count": 206,
   "points": [
+    {
+      "id": "ci41339087",
+      "lon": -116.373,
+      "lat": 33.0318333333333,
+      "depth": 9.62,
+      "mag": 1.64,
+      "place": "22 km ESE of Julian, CA",
+      "time": 1790361388480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339087"
+    },
+    {
+      "id": "nc75441847",
+      "lon": -122.812164306641,
+      "lat": 38.8221664428711,
+      "depth": 2.67000007629395,
+      "mag": 1.03,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1790361083060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441847"
+    },
     {
       "id": "aka2026taoncq",
       "lon": -150.056,
@@ -75,12 +95,12 @@
     },
     {
       "id": "hv75043722",
-      "lon": -155.888336181641,
-      "lat": 19.4190006256104,
-      "depth": -1.07000005245209,
-      "mag": 3.06,
-      "place": "4 km SSW of Honaunau-Napoopoo, Hawaii",
-      "time": 1790358888110,
+      "lon": -155.880333333333,
+      "lat": 19.4443333333333,
+      "depth": 7.47,
+      "mag": 3.22,
+      "place": "2 km SW of Honaunau-Napoopoo, Hawaii",
+      "time": 1790358888830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043722"
     },
     {
@@ -685,12 +705,12 @@
     },
     {
       "id": "hv75043592",
-      "lon": -155.276504516602,
-      "lat": 19.3913326263428,
-      "depth": 1.44000005722046,
-      "mag": 2.46,
+      "lon": -155.280666666667,
+      "lat": 19.3938333333333,
+      "depth": 1.63,
+      "mag": 2.44,
       "place": "7 km SW of Volcano, Hawaii",
-      "time": 1790326658180,
+      "time": 1790326658200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043592"
     },
     {
@@ -2042,16 +2062,6 @@
       "place": "6 km SSE of Concrete, Washington",
       "time": 1790275537730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714109091"
-    },
-    {
-      "id": "nc75440997",
-      "lon": -122.766502380371,
-      "lat": 38.8236656188965,
-      "depth": 2.40000009536743,
-      "mag": 0.71,
-      "place": "4 km W of Cobb, CA",
-      "time": 1790274780940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440997"
     }
   ]
 }
