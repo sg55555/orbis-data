@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T22:45:39Z",
-  "count": 213,
+  "updated": "2026-09-25T23:01:10Z",
+  "count": 210,
   "points": [
+    {
+      "id": "ci41339183",
+      "lon": -117.792833333333,
+      "lat": 32.9825,
+      "depth": 10.53,
+      "mag": 2.28,
+      "place": "46 km WSW of Carlsbad, CA",
+      "time": 1790376495970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339183"
+    },
     {
       "id": "nc75442022",
       "lon": -122.760833740234,
@@ -132,6 +142,16 @@
       "place": "4 km NW of The Geysers, CA",
       "time": 1790372128110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441982"
+    },
+    {
+      "id": "uw714109682",
+      "lon": -121.929833333333,
+      "lat": 48.0845,
+      "depth": -0.41,
+      "mag": 1.66,
+      "place": "2 km E of Granite Falls, Washington",
+      "time": 1790371824000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714109682"
     },
     {
       "id": "us6000txpi",
@@ -2082,56 +2102,6 @@
       "place": "13 km SSW of Nelchina, Alaska",
       "time": 1790291518080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026szcgcd"
-    },
-    {
-      "id": "hv75043457",
-      "lon": -155.374666666667,
-      "lat": 19.224,
-      "depth": 31.87,
-      "mag": 1.16,
-      "place": "11 km ENE of Pāhala, Hawaii",
-      "time": 1790290700390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043457"
-    },
-    {
-      "id": "nc75441162",
-      "lon": -121.675498962402,
-      "lat": 37.6006660461426,
-      "depth": 0.579999983310699,
-      "mag": 1.38,
-      "place": "12 km SE of Livermore, CA",
-      "time": 1790290420190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441162"
-    },
-    {
-      "id": "av94448126",
-      "lon": -153.045,
-      "lat": 60.046,
-      "depth": 1.54,
-      "mag": -0.54,
-      "place": "65 km ENE of Pedro Bay, Alaska",
-      "time": 1790290398960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94448126"
-    },
-    {
-      "id": "uw714108602",
-      "lon": -122.440166666667,
-      "lat": 45.82,
-      "depth": -0.7,
-      "mag": 1.52,
-      "place": "5 km NNW of Venersborg, Washington",
-      "time": 1790290183780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714108602"
-    },
-    {
-      "id": "uw714108592",
-      "lon": -121.950833333333,
-      "lat": 46.9306666666667,
-      "depth": 4.73,
-      "mag": 0.32,
-      "place": "18 km SSE of Carbonado, Washington",
-      "time": 1790290162460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714108592"
     }
   ]
 }
