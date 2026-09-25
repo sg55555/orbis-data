@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T22:01:13Z",
+  "updated": "2026-09-25T22:15:47Z",
   "count": 215,
   "points": [
+    {
+      "id": "hv75043782",
+      "lon": -155.275665283203,
+      "lat": 19.3863334655762,
+      "depth": 1.4099999666214,
+      "mag": 2.34,
+      "place": "7 km SW of Volcano, Hawaii",
+      "time": 1790374032270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043782"
+    },
     {
       "id": "ci41339175",
       "lon": -117.189666666667,
@@ -105,12 +115,12 @@
     },
     {
       "id": "hv75043757",
-      "lon": -155.255340576172,
-      "lat": 19.3938331604004,
-      "depth": 0.740000009536743,
-      "mag": 1.97,
+      "lon": -155.253,
+      "lat": 19.3923333333333,
+      "depth": 1.25,
+      "mag": 1.82,
       "place": "5 km SSW of Volcano, Hawaii",
-      "time": 1790370082810,
+      "time": 1790370082820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043757"
     },
     {
@@ -295,12 +305,12 @@
     },
     {
       "id": "ci41339119",
-      "lon": -116.762664794922,
-      "lat": 33.650333404541,
-      "depth": 13.3699998855591,
-      "mag": 1.04058110182874,
-      "place": "11 km SSW of Idyllwild, CA",
-      "time": 1790363939660,
+      "lon": -116.761833333333,
+      "lat": 33.6571666666667,
+      "depth": 13.36,
+      "mag": 0.29,
+      "place": "10 km SSW of Idyllwild, CA",
+      "time": 1790363939650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339119"
     },
     {
@@ -1704,6 +1714,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924864"
     },
     {
+      "id": "av94448426",
+      "lon": -153.1185,
+      "lat": 60.0138333333333,
+      "depth": 0.69,
+      "mag": -0.9,
+      "place": "60 km ENE of Pedro Bay, Alaska",
+      "time": 1790303263720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94448426"
+    },
+    {
       "id": "nc75441307",
       "lon": -122.790000915527,
       "lat": 38.8348350524902,
@@ -1722,6 +1742,16 @@
       "place": "55 km SSW of Whites City, New Mexico",
       "time": 1790303111103,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026swhsch"
+    },
+    {
+      "id": "av94448421",
+      "lon": 179.535833333333,
+      "lat": 51.9131666666667,
+      "depth": 6.54,
+      "mag": 1.56,
+      "place": "263 km W of Adak, Alaska",
+      "time": 1790303110740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94448421"
     },
     {
       "id": "ci41338791",
@@ -2122,36 +2152,6 @@
       "place": "4 km WSW of Guánica, Puerto Rico",
       "time": 1790288166230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534463"
-    },
-    {
-      "id": "aka2026szaebw",
-      "lon": -154.44,
-      "lat": 58.842,
-      "depth": 118.5,
-      "mag": 2.3,
-      "place": "69 km SSE of Kokhanok, Alaska",
-      "time": 1790287796420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026szaebw"
-    },
-    {
-      "id": "ci41338719",
-      "lon": -117.000666666667,
-      "lat": 33.0323333333333,
-      "depth": -0.42,
-      "mag": 0.77,
-      "place": "8 km SSW of San Pasqual, CA",
-      "time": 1790287520360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338719"
-    },
-    {
-      "id": "nc75441142",
-      "lon": -122.811668395996,
-      "lat": 38.8240013122559,
-      "depth": 2.85999989509583,
-      "mag": 0.88,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1790287366040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441142"
     }
   ]
 }
