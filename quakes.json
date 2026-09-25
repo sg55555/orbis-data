@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T01:51:49Z",
-  "count": 249,
+  "updated": "2026-09-25T02:01:20Z",
+  "count": 250,
   "points": [
+    {
+      "id": "hv75043487",
+      "lon": -155.496826171875,
+      "lat": 19.4076671600342,
+      "depth": 3.80999994277954,
+      "mag": 1.93,
+      "place": "22 km N of Pāhala, Hawaii",
+      "time": 1790301239710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043487"
+    },
     {
       "id": "ci41338783",
       "lon": -116.370833333333,
@@ -102,6 +112,16 @@
       "place": "72 km NW of Finschhafen, Papua New Guinea",
       "time": 1790292628053,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txhp"
+    },
+    {
+      "id": "us6000txhl",
+      "lon": -71.293,
+      "lat": -37.4621,
+      "depth": 174.336,
+      "mag": 4.2,
+      "place": "63 km WSW of Andacollo, Argentina",
+      "time": 1790291974354,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txhl"
     },
     {
       "id": "aka2026szcgcd",
@@ -1774,6 +1794,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026suwatg"
     },
     {
+      "id": "av94446381",
+      "lon": -153.1195,
+      "lat": 60.0745,
+      "depth": 4.84,
+      "mag": -0.31,
+      "place": "63 km ENE of Pedro Bay, Alaska",
+      "time": 1790234899590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94446381"
+    },
+    {
       "id": "tx2026suvxfk",
       "lon": -103.389,
       "lat": 31.052,
@@ -1902,6 +1932,16 @@
       "place": "3 km SW of Skwentna, Alaska",
       "time": 1790232587069,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sxvmmg"
+    },
+    {
+      "id": "av93067364",
+      "lon": -166.775666666667,
+      "lat": 53.8986666666667,
+      "depth": 3.91,
+      "mag": 0.55,
+      "place": "15 km W of Dutch Harbor, Alaska",
+      "time": 1790232568590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067364"
     },
     {
       "id": "av94446316",
@@ -2462,36 +2502,6 @@
       "place": "29 km NNE of Larsen Bay, Alaska",
       "time": 1790215832358,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sxmelx"
-    },
-    {
-      "id": "aka2026sxlvgp",
-      "lon": -153.096,
-      "lat": 60.117,
-      "depth": 125.7,
-      "mag": 1.5,
-      "place": "67 km ENE of Pedro Bay, Alaska",
-      "time": 1790215200931,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sxlvgp"
-    },
-    {
-      "id": "aka2026sxltbu",
-      "lon": -155.136,
-      "lat": 58.256,
-      "depth": 0.5,
-      "mag": 1.2,
-      "place": "86 km NNW of Karluk, Alaska",
-      "time": 1790215051414,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sxltbu"
-    },
-    {
-      "id": "ci41338175",
-      "lon": -117.053333333333,
-      "lat": 33.9851666666667,
-      "depth": 15.21,
-      "mag": 0.8,
-      "place": "0 km S of Calimesa, CA",
-      "time": 1790215000000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338175"
     }
   ]
 }
