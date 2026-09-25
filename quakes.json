@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T03:31:00Z",
-  "count": 244,
+  "updated": "2026-09-25T03:45:41Z",
+  "count": 243,
   "points": [
+    {
+      "id": "nc75441352",
+      "lon": -122.866668701172,
+      "lat": 38.8278350830078,
+      "depth": 2.16000008583069,
+      "mag": 0.77,
+      "place": "11 km WNW of The Geysers, CA",
+      "time": 1790307203050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441352"
+    },
     {
       "id": "nc75441347",
       "lon": -122.808502197266,
@@ -174,6 +184,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026szgijs"
     },
     {
+      "id": "us6000txhs",
+      "lon": -76.9788,
+      "lat": 4.5217,
+      "depth": 52.219,
+      "mag": 4.5,
+      "place": "39 km WSW of Sipí, Colombia",
+      "time": 1790297827267,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txhs"
+    },
+    {
       "id": "ci41338775",
       "lon": -116.757333333333,
       "lat": 33.587,
@@ -275,12 +295,12 @@
     },
     {
       "id": "hv75043452",
-      "lon": -155.380004882812,
-      "lat": 19.1978340148926,
-      "depth": 29.8700008392334,
-      "mag": 2.19,
-      "place": "10 km E of Pāhala, Hawaii",
-      "time": 1790289419190,
+      "lon": -155.372833333333,
+      "lat": 19.1946666666667,
+      "depth": 30.5,
+      "mag": 1.7,
+      "place": "11 km E of Pāhala, Hawaii",
+      "time": 1790289419140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043452"
     },
     {
@@ -2412,36 +2432,6 @@
       "place": "10 km ESE of Pearsall, Texas",
       "time": 1790221974867,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026suowwb"
-    },
-    {
-      "id": "nc75440672",
-      "lon": -121.363830566406,
-      "lat": 40.2794990539551,
-      "depth": 8.57999992370605,
-      "mag": 2.35,
-      "place": "12 km WSW of Chester, CA",
-      "time": 1790221487720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440672"
-    },
-    {
-      "id": "av94446061",
-      "lon": -154.948166666667,
-      "lat": 58.2546666666667,
-      "depth": 0.51,
-      "mag": 0.1,
-      "place": "81 km NNW of Karluk, Alaska",
-      "time": 1790220866530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94446061"
-    },
-    {
-      "id": "pr71534368",
-      "lon": -66.9305,
-      "lat": 17.9978333333333,
-      "depth": 9.06,
-      "mag": 1.92,
-      "place": "1 km NW of Fuig, Puerto Rico",
-      "time": 1790220683770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534368"
     }
   ]
 }
