@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T00:01:14Z",
-  "count": 250,
+  "updated": "2026-09-25T00:15:44Z",
+  "count": 248,
   "points": [
+    {
+      "id": "nn00924860",
+      "lon": -117.2682,
+      "lat": 37.7242,
+      "depth": 0,
+      "mag": 1.49,
+      "place": "3 km WNW of Goldfield, Nevada",
+      "time": 1790294419581,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924860"
+    },
     {
       "id": "nc75441187",
       "lon": -122.801498413086,
@@ -82,6 +92,16 @@
       "place": "17 km NE of Pāhala, Hawaii",
       "time": 1790289143980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043447"
+    },
+    {
+      "id": "us6000txha",
+      "lon": -177.6601,
+      "lat": -29.4432,
+      "depth": 48.811,
+      "mag": 4.9,
+      "place": "Kermadec Islands, New Zealand",
+      "time": 1790288579185,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txha"
     },
     {
       "id": "ci41338727",
@@ -2462,46 +2482,6 @@
       "place": "19 km E of Naalehu, Hawaii",
       "time": 1790208946840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042952"
-    },
-    {
-      "id": "pr2026267000",
-      "lon": -68.2911,
-      "lat": 18.0768,
-      "depth": 87,
-      "mag": 3.74,
-      "place": "47 km SE of Boca de Yuma, Dominican Republic",
-      "time": 1790208448770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026267000"
-    },
-    {
-      "id": "aka2026sxhzwp",
-      "lon": -143.743,
-      "lat": 62.767,
-      "depth": 5,
-      "mag": 3,
-      "place": "13 km ENE of Slana, Alaska",
-      "time": 1790208325735,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sxhzwp"
-    },
-    {
-      "id": "hv75042947",
-      "lon": -155.827666666667,
-      "lat": 19.3303333333333,
-      "depth": 7.39,
-      "mag": 3.18,
-      "place": "14 km SSE of Honaunau-Napoopoo, Hawaii",
-      "time": 1790208312310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75042947"
-    },
-    {
-      "id": "nc75440607",
-      "lon": -122.784164428711,
-      "lat": 38.837833404541,
-      "depth": 1.05999994277954,
-      "mag": 0.55,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1790208196810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440607"
     }
   ]
 }
