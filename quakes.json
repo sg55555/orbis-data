@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T13:40:02Z",
-  "count": 210,
+  "updated": "2026-09-25T13:45:43Z",
+  "count": 209,
   "points": [
+    {
+      "id": "ci41338927",
+      "lon": -115.723666666667,
+      "lat": 33.3205,
+      "depth": 1.97,
+      "mag": 1.52,
+      "place": "3 km SSE of Bombay Beach, CA",
+      "time": 1790343631840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338927"
+    },
     {
       "id": "nc75441552",
       "lon": -122.80883026123,
@@ -2082,26 +2092,6 @@
       "place": "49 km NW of Toyah, Texas",
       "time": 1790257600172,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sviolv"
-    },
-    {
-      "id": "hv75043192",
-      "lon": -154.91,
-      "lat": 19.4518333333333,
-      "depth": 5.52,
-      "mag": 2.01,
-      "place": "2 km SSE of Leilani Estates, Hawaii",
-      "time": 1790257195400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043192"
-    },
-    {
-      "id": "av94446991",
-      "lon": -153.067833333333,
-      "lat": 60.0241666666667,
-      "depth": 0.16,
-      "mag": -1.05,
-      "place": "63 km ENE of Pedro Bay, Alaska",
-      "time": 1790257160780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94446991"
     }
   ]
 }
