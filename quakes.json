@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T10:45:40Z",
-  "count": 221,
+  "updated": "2026-09-25T11:01:09Z",
+  "count": 223,
   "points": [
+    {
+      "id": "ci41338895",
+      "lon": -115.722166666667,
+      "lat": 33.3208333333333,
+      "depth": 1.87,
+      "mag": 0.69,
+      "place": "3 km SSE of Bombay Beach, CA",
+      "time": 1790333635260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338895"
+    },
     {
       "id": "ci41338887",
       "lon": -115.57,
@@ -224,6 +234,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441442"
     },
     {
+      "id": "tx2026swrpic",
+      "lon": -99.09,
+      "lat": 28.84,
+      "depth": 7.0494,
+      "mag": 1.6,
+      "place": "5 km S of Pearsall, Texas",
+      "time": 1790321018516,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026swrpic"
+    },
+    {
       "id": "tx2026swrknk",
       "lon": -101.743,
       "lat": 31.681,
@@ -232,6 +252,16 @@
       "place": "32 km SW of Garden City, Texas",
       "time": 1790320686803,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026swrknk"
+    },
+    {
+      "id": "tx2026swqosl",
+      "lon": -98.922,
+      "lat": 28.818,
+      "depth": 6.4132,
+      "mag": 1.6,
+      "place": "18 km ESE of Pearsall, Texas",
+      "time": 1790319166482,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026swqosl"
     },
     {
       "id": "ci41338847",
@@ -2202,16 +2232,6 @@
       "place": "44 km E of Pedro Bay, Alaska",
       "time": 1790247718344,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sydxeb"
-    },
-    {
-      "id": "aka2026sydsjy",
-      "lon": -153.393,
-      "lat": 60.036,
-      "depth": 5,
-      "mag": 0.6,
-      "place": "48 km NE of Pedro Bay, Alaska",
-      "time": 1790247389116,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sydsjy"
     }
   ]
 }
