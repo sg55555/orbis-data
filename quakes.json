@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T05:45:42Z",
-  "count": 244,
+  "updated": "2026-09-25T06:01:14Z",
+  "count": 243,
   "points": [
+    {
+      "id": "uu80157966",
+      "lon": -109.881666666667,
+      "lat": 41.5663333333333,
+      "depth": -3.37,
+      "mag": 3.1,
+      "place": "3 km NW of Little America, Wyoming",
+      "time": 1790314902720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157966"
+    },
     {
       "id": "aka2026szpbdv",
       "lon": -147.378,
@@ -12,6 +22,16 @@
       "place": "8 km ENE of Badger, Alaska",
       "time": 1790314565277,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026szpbdv"
+    },
+    {
+      "id": "us6000txiw",
+      "lon": 72.1784,
+      "lat": 37.4128,
+      "depth": 212.621,
+      "mag": 4.3,
+      "place": "52 km NNW of Khandūd, Afghanistan",
+      "time": 1790314550000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txiw"
     },
     {
       "id": "ci41338823",
@@ -32,6 +52,16 @@
       "place": "9 km WNW of Anza, CA",
       "time": 1790313356900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338815"
+    },
+    {
+      "id": "pr71534578",
+      "lon": -65.3771666666667,
+      "lat": 18.3361666666667,
+      "depth": 18.18,
+      "mag": 2.92,
+      "place": "8 km WNW of Culebra, Puerto Rico",
+      "time": 1790313303260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534578"
     },
     {
       "id": "aka2026sznumy",
@@ -2402,46 +2432,6 @@
       "place": "9 km ENE of Borrego Springs, CA",
       "time": 1790230083390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338271"
-    },
-    {
-      "id": "tx2026suszdb",
-      "lon": -98.975,
-      "lat": 28.863,
-      "depth": 7.6729,
-      "mag": 1.6,
-      "place": "12 km ESE of Pearsall, Texas",
-      "time": 1790229374040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026suszdb"
-    },
-    {
-      "id": "ci41338255",
-      "lon": -116.7605,
-      "lat": 33.5846666666667,
-      "depth": 11.97,
-      "mag": 0.34,
-      "place": "9 km WNW of Anza, CA",
-      "time": 1790228876180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338255"
-    },
-    {
-      "id": "av94446266",
-      "lon": -166.770333333333,
-      "lat": 53.9076666666667,
-      "depth": 4.5,
-      "mag": -0.1,
-      "place": "15 km W of Dutch Harbor, Alaska",
-      "time": 1790228853510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94446266"
-    },
-    {
-      "id": "hv75043047",
-      "lon": -155.501833333333,
-      "lat": 19.1565,
-      "depth": 33.17,
-      "mag": 1.47,
-      "place": "5 km SSW of Pāhala, Hawaii",
-      "time": 1790228702600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043047"
     }
   ]
 }
