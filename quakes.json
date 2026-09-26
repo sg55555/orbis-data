@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-26T07:45:41Z",
-  "count": 204,
+  "updated": "2026-09-26T08:01:07Z",
+  "count": 205,
   "points": [
+    {
+      "id": "ci41339375",
+      "lon": -116.7665,
+      "lat": 33.5775,
+      "depth": 11.96,
+      "mag": 1.1,
+      "place": "9 km WNW of Anza, CA",
+      "time": 1790409000250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339375"
+    },
     {
       "id": "ci41339367",
       "lon": -116.8635,
@@ -72,6 +82,16 @@
       "place": "12 km S of Leilani Estates, Hawaii",
       "time": 1790406500560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043872"
+    },
+    {
+      "id": "us6000txrn",
+      "lon": 168.4225,
+      "lat": -21.1943,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "68 km NE of Tadine, New Caledonia",
+      "time": 1790406482558,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrn"
     },
     {
       "id": "nc75442292",
@@ -2032,16 +2052,6 @@
       "place": "6 km WSW of Brawley, CA",
       "time": 1790323551300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338855"
-    },
-    {
-      "id": "tx2026swsjxn",
-      "lon": -104.472,
-      "lat": 31.668,
-      "depth": 6.3562,
-      "mag": 1.7,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": 1790322455450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026swsjxn"
     }
   ]
 }
