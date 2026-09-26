@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-26T09:45:40Z",
+  "updated": "2026-09-26T10:01:05Z",
   "count": 207,
   "points": [
     {
+      "id": "nc75442327",
+      "lon": -121.968170166016,
+      "lat": 41.4738349914551,
+      "depth": 2.89000010490417,
+      "mag": 2.01,
+      "place": "13 km SSW of Tennant, CA",
+      "time": 1790416472440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442327"
+    },
+    {
+      "id": "ci41339415",
+      "lon": -116.644333333333,
+      "lat": 33.4176666666667,
+      "depth": 6.55,
+      "mag": 0.28,
+      "place": "15 km N of Warner Springs, CA",
+      "time": 1790415882940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339415"
+    },
+    {
       "id": "aka2026tbtimd",
-      "lon": -152.755,
-      "lat": 60.276,
-      "depth": 117.8,
-      "mag": 1.3,
-      "place": "65 km WNW of Ninilchik, Alaska",
-      "time": 1790415826083,
+      "lon": -152.663,
+      "lat": 60.257,
+      "depth": 117.9,
+      "mag": 2.3,
+      "place": "59 km WNW of Ninilchik, Alaska",
+      "time": 1790415826042,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tbtimd"
     },
     {
@@ -2052,26 +2072,6 @@
       "place": "6 km SE of Pinnacles, CA",
       "time": 1790331340710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441497"
-    },
-    {
-      "id": "nc75441487",
-      "lon": -121.066329956055,
-      "lat": 36.6355018615723,
-      "depth": -0.140000000596046,
-      "mag": 1.24,
-      "place": "13 km NNE of Pinnacles, CA",
-      "time": 1790329760640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441487"
-    },
-    {
-      "id": "hv75043607",
-      "lon": -155.350833333333,
-      "lat": 19.333,
-      "depth": 27.56,
-      "mag": 2.23,
-      "place": "17 km SW of Volcano, Hawaii",
-      "time": 1790329590590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043607"
     }
   ]
 }
