@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-25T23:45:38Z",
-  "count": 212,
+  "updated": "2026-09-26T00:01:11Z",
+  "count": 213,
   "points": [
+    {
+      "id": "nc75442062",
+      "lon": -122.811996459961,
+      "lat": 38.8206672668457,
+      "depth": 3.09999990463257,
+      "mag": 1.42,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1790380011840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442062"
+    },
+    {
+      "id": "aka2026tazihx",
+      "lon": -155.39,
+      "lat": 58.163,
+      "depth": 5,
+      "mag": 0.9,
+      "place": "86 km NW of Karluk, Alaska",
+      "time": 1790379831316,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tazihx"
+    },
     {
       "id": "aka2026tazfxf",
       "lon": -149.129,
@@ -14,6 +34,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tazfxf"
     },
     {
+      "id": "us6000txqi",
+      "lon": 168.4446,
+      "lat": -21.3748,
+      "depth": 10,
+      "mag": 5.5,
+      "place": "61 km ENE of Tadine, New Caledonia",
+      "time": 1790379581392,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqi"
+    },
+    {
       "id": "ci41339199",
       "lon": -116.954833333333,
       "lat": 33.9075,
@@ -22,6 +52,16 @@
       "place": "3 km SE of Beaumont, CA",
       "time": 1790379578120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339199"
+    },
+    {
+      "id": "us6000txqf",
+      "lon": 168.5092,
+      "lat": -21.1532,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "78 km NE of Tadine, New Caledonia",
+      "time": 1790379164392,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqf"
     },
     {
       "id": "nc75442042",
@@ -95,12 +135,12 @@
     },
     {
       "id": "hv75043792",
-      "lon": -155.278335571289,
-      "lat": 19.3878326416016,
-      "depth": 1.37000000476837,
-      "mag": 1.99,
+      "lon": -155.280666666667,
+      "lat": 19.3875,
+      "depth": 1.73,
+      "mag": 1.91,
       "place": "7 km SW of Volcano, Hawaii",
-      "time": 1790375061090,
+      "time": 1790375061040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043792"
     },
     {
@@ -2092,36 +2132,6 @@
       "place": "10 km SSE of Pearsall, Texas",
       "time": 1790295039530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026swdgfd"
-    },
-    {
-      "id": "nn00924860",
-      "lon": -117.2682,
-      "lat": 37.7242,
-      "depth": 0,
-      "mag": 1.49,
-      "place": "3 km WNW of Goldfield, Nevada",
-      "time": 1790294419581,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924860"
-    },
-    {
-      "id": "tx2026swcvdc",
-      "lon": -102.079,
-      "lat": 31.947,
-      "depth": 8.4229,
-      "mag": 0.9,
-      "place": "5 km S of Midland, Texas",
-      "time": 1790294274143,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026swcvdc"
-    },
-    {
-      "id": "uw714108652",
-      "lon": -122.191833333333,
-      "lat": 46.205,
-      "depth": 2.4,
-      "mag": 0.52,
-      "place": "38 km NNE of Amboy, Washington",
-      "time": 1790293856800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714108652"
     }
   ]
 }
