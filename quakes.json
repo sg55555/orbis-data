@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-26T01:30:54Z",
-  "count": 216,
+  "updated": "2026-09-26T01:45:40Z",
+  "count": 215,
   "points": [
+    {
+      "id": "nc75442122",
+      "lon": -122.759330749512,
+      "lat": 38.8211669921875,
+      "depth": 1.75,
+      "mag": 0.71,
+      "place": "3 km W of Cobb, CA",
+      "time": 1790386177920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442122"
+    },
     {
       "id": "ci41339215",
       "lon": -116.405833333333,
@@ -2142,26 +2152,6 @@
       "place": "18 km N of Borrego Springs, CA",
       "time": 1790300804700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338783"
-    },
-    {
-      "id": "nc75441282",
-      "lon": -122.814331054688,
-      "lat": 38.8274993896484,
-      "depth": 1.98000001907349,
-      "mag": 0.72,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1790300001190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441282"
-    },
-    {
-      "id": "nc75441277",
-      "lon": -122.826164245605,
-      "lat": 38.8175010681152,
-      "depth": 1.62999999523163,
-      "mag": 0.6,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1790299945470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441277"
     }
   ]
 }
