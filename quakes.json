@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-26T05:30:58Z",
-  "count": 203,
+  "updated": "2026-09-26T05:45:43Z",
+  "count": 200,
   "points": [
+    {
+      "id": "nn00924919",
+      "lon": -119.0561,
+      "lat": 39.1335,
+      "depth": 9.796,
+      "mag": 1.7,
+      "place": "18 km NNE of Yerington, Nevada",
+      "time": 1790400597375,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924919"
+    },
     {
       "id": "nc75442257",
       "lon": -122.807334899902,
@@ -12,6 +22,16 @@
       "place": "5 km WNW of The Geysers, CA",
       "time": 1790400494870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442257"
+    },
+    {
+      "id": "ci41339303",
+      "lon": -116.558,
+      "lat": 33.1451666666667,
+      "depth": 6.28,
+      "mag": 0.55,
+      "place": "8 km NNE of Julian, CA",
+      "time": 1790400482570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339303"
     },
     {
       "id": "ci41339287",
@@ -1982,56 +2002,6 @@
       "place": "86 km NW of Karluk, Alaska",
       "time": 1790315807790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94448686"
-    },
-    {
-      "id": "tx2026swohmp",
-      "lon": -98.93,
-      "lat": 28.83,
-      "depth": 7.8842,
-      "mag": 1.9,
-      "place": "17 km ESE of Pearsall, Texas",
-      "time": 1790315042234,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026swohmp"
-    },
-    {
-      "id": "tx2026swofxc",
-      "lon": -98.941,
-      "lat": 28.815,
-      "depth": 6.5596,
-      "mag": 2.2,
-      "place": "17 km ESE of Pearsall, Texas",
-      "time": 1790314931210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026swofxc"
-    },
-    {
-      "id": "uu80157966",
-      "lon": -109.8855,
-      "lat": 41.5641666666667,
-      "depth": -2.54,
-      "mag": 3.13,
-      "place": "3 km NW of Little America, Wyoming",
-      "time": 1790314902360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157966"
-    },
-    {
-      "id": "aka2026szpbdv",
-      "lon": -147.378,
-      "lat": 64.833,
-      "depth": 0.5,
-      "mag": 1.5,
-      "place": "8 km ENE of Badger, Alaska",
-      "time": 1790314565277,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026szpbdv"
-    },
-    {
-      "id": "us6000txiw",
-      "lon": 72.1784,
-      "lat": 37.4128,
-      "depth": 212.621,
-      "mag": 4.3,
-      "place": "52 km NNW of Khandūd, Afghanistan",
-      "time": 1790314550000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txiw"
     }
   ]
 }
