@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-26T10:15:40Z",
-  "count": 209,
+  "updated": "2026-09-26T10:30:55Z",
+  "count": 206,
   "points": [
+    {
+      "id": "ci41339439",
+      "lon": -116.803333333333,
+      "lat": 33.5721666666667,
+      "depth": 5.52,
+      "mag": 0.01,
+      "place": "12 km W of Anza, CA",
+      "time": 1790417821440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339439"
+    },
     {
       "id": "ci41339431",
       "lon": -116.7595,
@@ -2052,46 +2062,6 @@
       "place": "2 km E of Black Point-Green Point, CA",
       "time": 1790332343320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441507"
-    },
-    {
-      "id": "aka2026szyrbl",
-      "lon": -149.789,
-      "lat": 64.793,
-      "depth": 10.3,
-      "mag": 1.3,
-      "place": "38 km WNW of Four Mile Road, Alaska",
-      "time": 1790331859072,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026szyrbl"
-    },
-    {
-      "id": "nc75441502",
-      "lon": -122.793663024902,
-      "lat": 38.8358345031738,
-      "depth": 2.1800000667572,
-      "mag": 0.69,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1790331848920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441502"
-    },
-    {
-      "id": "pr71534628",
-      "lon": -66.9405,
-      "lat": 17.9348333333333,
-      "depth": 8.71,
-      "mag": 1.96,
-      "place": "5 km SW of Guánica, Puerto Rico",
-      "time": 1790331406260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534628"
-    },
-    {
-      "id": "nc75441497",
-      "lon": -121.090667724609,
-      "lat": 36.496166229248,
-      "depth": 0.0399999991059303,
-      "mag": 1.3,
-      "place": "6 km SE of Pinnacles, CA",
-      "time": 1790331340710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441497"
     }
   ]
 }
