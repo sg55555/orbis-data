@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-26T01:45:40Z",
-  "count": 215,
+  "updated": "2026-09-26T02:01:06Z",
+  "count": 213,
   "points": [
+    {
+      "id": "ci41339223",
+      "lon": -119.639,
+      "lat": 35.1238333333333,
+      "depth": 15.24,
+      "mag": 1.04,
+      "place": "17 km W of Taft, CA",
+      "time": 1790387567900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339223"
+    },
     {
       "id": "nc75442122",
       "lon": -122.759330749512,
@@ -2122,36 +2132,6 @@
       "place": "4 km SW of Pāhala, Hawaii",
       "time": 1790302314560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043492"
-    },
-    {
-      "id": "av94448401",
-      "lon": -153.091,
-      "lat": 59.9815,
-      "depth": 5.8,
-      "mag": -0.28,
-      "place": "60 km ENE of Pedro Bay, Alaska",
-      "time": 1790301315880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94448401"
-    },
-    {
-      "id": "hv75043487",
-      "lon": -155.487333333333,
-      "lat": 19.4206666666667,
-      "depth": 8.87,
-      "mag": 1.71,
-      "place": "24 km N of Pāhala, Hawaii",
-      "time": 1790301239530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043487"
-    },
-    {
-      "id": "ci41338783",
-      "lon": -116.3675,
-      "lat": 33.4168333333333,
-      "depth": 11.44,
-      "mag": 0.78,
-      "place": "18 km N of Borrego Springs, CA",
-      "time": 1790300804700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338783"
     }
   ]
 }
