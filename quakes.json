@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-26T04:15:39Z",
+  "updated": "2026-09-26T04:30:56Z",
   "count": 213,
   "points": [
+    {
+      "id": "ci41339271",
+      "lon": -119.637333333333,
+      "lat": 35.1408333333333,
+      "depth": 17.36,
+      "mag": 1.27,
+      "place": "16 km W of Taft, CA",
+      "time": 1790396797410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339271"
+    },
+    {
+      "id": "nc75442227",
+      "lon": -123.484497070312,
+      "lat": 39.0158348083496,
+      "depth": 1.8400000333786,
+      "mag": 1.83,
+      "place": "10 km W of Boonville, CA",
+      "time": 1790396128660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442227"
+    },
+    {
+      "id": "nc75442222",
+      "lon": -120.611831665039,
+      "lat": 36.0461654663086,
+      "depth": 5.26999998092651,
+      "mag": 0.66,
+      "place": "23 km NW of Parkfield, CA",
+      "time": 1790395993240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442222"
+    },
     {
       "id": "nc75442217",
       "lon": -123.483001708984,
@@ -28,7 +58,7 @@
       "lon": -123.484169006348,
       "lat": 39.0108337402344,
       "depth": 4,
-      "mag": 3.73,
+      "mag": 3.74,
       "place": "10 km W of Boonville, CA",
       "time": 1790394169570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442207"
@@ -2102,36 +2132,6 @@
       "place": "38 km NNW of Valdez, Alaska",
       "time": 1790310912511,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sznajc"
-    },
-    {
-      "id": "us6000txim",
-      "lon": 125.6985,
-      "lat": -7.4036,
-      "depth": 10,
-      "mag": 5,
-      "place": "124 km N of Metinaro, Timor Leste",
-      "time": 1790310460435,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txim"
-    },
-    {
-      "id": "us6000txil",
-      "lon": -77.721,
-      "lat": -11.3812,
-      "depth": 45.943,
-      "mag": 4.4,
-      "place": "32 km SSW of Huacho, Peru",
-      "time": 1790310390062,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txil"
-    },
-    {
-      "id": "aka2026szmivm",
-      "lon": -149.831,
-      "lat": 64.338,
-      "depth": 1.4,
-      "mag": 2.2,
-      "place": "31 km W of Anderson, Alaska",
-      "time": 1790309698991,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026szmivm"
     }
   ]
 }
