@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-26T06:15:40Z",
-  "count": 197,
+  "updated": "2026-09-26T06:30:52Z",
+  "count": 198,
   "points": [
+    {
+      "id": "nc75442277",
+      "lon": -122.815170288086,
+      "lat": 38.8173332214355,
+      "depth": 2.84999990463257,
+      "mag": 0.75,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1790403289530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442277"
+    },
     {
       "id": "nc75442267",
       "lon": -122.783164978027,
@@ -42,6 +52,16 @@
       "place": "3 km ENE of Fontana, CA",
       "time": 1790401578620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339311"
+    },
+    {
+      "id": "pr71534718",
+      "lon": -66.4598333333333,
+      "lat": 18.5378333333333,
+      "depth": 88.89,
+      "mag": 2.79,
+      "place": "8 km NNE of Tierras Nuevas Poniente, Puerto Rico",
+      "time": 1790400909040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534718"
     },
     {
       "id": "nn00924919",
@@ -1962,16 +1982,6 @@
       "place": "8 km SW of Holtville, CA",
       "time": 1790318787920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338839"
-    },
-    {
-      "id": "tx2026swpjtz",
-      "lon": -101.958,
-      "lat": 31.715,
-      "depth": 5.4932,
-      "mag": 0.9,
-      "place": "33 km SSE of Midland, Texas",
-      "time": 1790317019075,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026swpjtz"
     }
   ]
 }
