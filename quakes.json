@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-26T03:01:08Z",
-  "count": 209,
+  "updated": "2026-09-26T03:15:43Z",
+  "count": 211,
   "points": [
+    {
+      "id": "ci41339247",
+      "lon": -118.416333333333,
+      "lat": 36.0365,
+      "depth": 4.79,
+      "mag": 1.04,
+      "place": "31 km N of Kernville, CA",
+      "time": 1790391878950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339247"
+    },
+    {
+      "id": "nc75442187",
+      "lon": -122.808334350586,
+      "lat": 38.8343315124512,
+      "depth": 1.5900000333786,
+      "mag": 1.29,
+      "place": "8 km W of Cobb, CA",
+      "time": 1790391833080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442187"
+    },
+    {
+      "id": "ci41339239",
+      "lon": -116.294166666667,
+      "lat": 33.0313333333333,
+      "depth": 7.71,
+      "mag": 0.66,
+      "place": "20 km SW of Ocotillo Wells, CA",
+      "time": 1790391664560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339239"
+    },
     {
       "id": "nc75442182",
       "lon": -118.866165161133,
@@ -12,6 +42,16 @@
       "place": "18 km WSW of Toms Place, CA",
       "time": 1790391492690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442182"
+    },
+    {
+      "id": "us6000txr0",
+      "lon": -16.9554,
+      "lat": 68.8565,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "Iceland region",
+      "time": 1790391175988,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txr0"
     },
     {
       "id": "nc75442177",
@@ -2072,26 +2112,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1790306714620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441342"
-    },
-    {
-      "id": "tx2026swjeqj",
-      "lon": -102.115,
-      "lat": 32.396,
-      "depth": 8.9111,
-      "mag": 0.4,
-      "place": "40 km WSW of Ackerly, Texas",
-      "time": 1790305794226,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026swjeqj"
-    },
-    {
-      "id": "nc75441337",
-      "lon": -122.783500671387,
-      "lat": 38.7985000610352,
-      "depth": 3.02999997138977,
-      "mag": 0.43,
-      "place": "3 km NW of The Geysers, CA",
-      "time": 1790305588120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441337"
     }
   ]
 }
