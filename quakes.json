@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-26T12:45:42Z",
-  "count": 203,
+  "updated": "2026-09-26T13:01:09Z",
+  "count": 204,
   "points": [
+    {
+      "id": "pr71534723",
+      "lon": -66.882,
+      "lat": 17.9508333333333,
+      "depth": 8.94,
+      "mag": 2.36,
+      "place": "3 km SSE of Maria Antonia, Puerto Rico",
+      "time": 1790425818950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534723"
+    },
     {
       "id": "ci41339471",
       "lon": -117.113333333333,
@@ -25,13 +35,23 @@
     },
     {
       "id": "us6000txsz",
-      "lon": 168.4787,
-      "lat": -21.0963,
+      "lon": 168.4681,
+      "lat": -21.1281,
       "depth": 10,
-      "mag": 5.2,
-      "place": "79 km NE of Tadine, New Caledonia",
-      "time": 1790424860672,
+      "mag": 5,
+      "place": "76 km NE of Tadine, New Caledonia",
+      "time": 1790424860648,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsz"
+    },
+    {
+      "id": "us6000txsy",
+      "lon": 168.5179,
+      "lat": -21.2646,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "73 km ENE of Tadine, New Caledonia",
+      "time": 1790424661897,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsy"
     },
     {
       "id": "ci41339463",
@@ -2022,16 +2042,6 @@
       "place": "4 km WSW of Guánica, Puerto Rico",
       "time": 1790341264290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534633"
-    },
-    {
-      "id": "nc75441532",
-      "lon": -122.81950378418,
-      "lat": 38.8073348999023,
-      "depth": 2.78999996185303,
-      "mag": 1.02,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": 1790341141680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441532"
     }
   ]
 }
