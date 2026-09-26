@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-09-26T17:45:44Z",
-  "count": 206,
+  "updated": "2026-09-26T18:01:08Z",
+  "count": 203,
   "points": [
+    {
+      "id": "ci41339551",
+      "lon": -116.703166666667,
+      "lat": 33.3718333333333,
+      "depth": 9.37,
+      "mag": 0.26,
+      "place": "12 km NNW of Warner Springs, CA",
+      "time": 1790444846930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339551"
+    },
     {
       "id": "nc75442482",
       "lon": -122.224334716797,
@@ -12,6 +22,26 @@
       "place": "4 km WNW of Orinda, CA",
       "time": 1790444487740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442482"
+    },
+    {
+      "id": "pr71534753",
+      "lon": -66.9388333333333,
+      "lat": 17.9746666666667,
+      "depth": 7.68,
+      "mag": 2.08,
+      "place": "2 km WSW of Fuig, Puerto Rico",
+      "time": 1790444443220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534753"
+    },
+    {
+      "id": "us6000txu6",
+      "lon": -93.4109,
+      "lat": 14.2226,
+      "depth": 10,
+      "mag": 4.2,
+      "place": "120 km WSW of Puerto Madero, Mexico",
+      "time": 1790443817140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txu6"
     },
     {
       "id": "ci41339543",
@@ -2002,66 +2032,6 @@
       "place": "11 km NE of Toyah, Texas",
       "time": 1790359281042,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sxmsve"
-    },
-    {
-      "id": "hv75043722",
-      "lon": -155.880333333333,
-      "lat": 19.4443333333333,
-      "depth": 7.47,
-      "mag": 3.22,
-      "place": "2 km SW of Honaunau-Napoopoo, Hawaii",
-      "time": 1790358888830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043722"
-    },
-    {
-      "id": "ci41339055",
-      "lon": -117.688333333333,
-      "lat": 33.7938333333333,
-      "depth": 3.24,
-      "mag": 1.46,
-      "place": "10 km ENE of North Tustin, CA",
-      "time": 1790358861490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339055"
-    },
-    {
-      "id": "tx2026sxmlzx",
-      "lon": -103.704,
-      "lat": 31.382,
-      "depth": 5.0745,
-      "mag": 2,
-      "place": "11 km NE of Toyah, Texas",
-      "time": 1790358809521,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sxmlzx"
-    },
-    {
-      "id": "aka2026tanlrk",
-      "lon": -141.243,
-      "lat": 61.239,
-      "depth": 5,
-      "mag": 1.2,
-      "place": "92 km ESE of McCarthy, Alaska",
-      "time": 1790358474695,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tanlrk"
-    },
-    {
-      "id": "nc75441797",
-      "lon": -122.867164611816,
-      "lat": 38.8263320922852,
-      "depth": 2.4300000667572,
-      "mag": 0.62,
-      "place": "11 km WNW of The Geysers, CA",
-      "time": 1790358449900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441797"
-    },
-    {
-      "id": "aka2026tankot",
-      "lon": -141.253,
-      "lat": 61.266,
-      "depth": 5,
-      "mag": 1.5,
-      "place": "91 km ESE of McCarthy, Alaska",
-      "time": 1790358398011,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tankot"
     }
   ]
 }
