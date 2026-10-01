@@ -1,8 +1,48 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-01T16:45:43Z",
+  "updated": "2026-10-01T17:01:17Z",
   "count": 292,
   "points": [
+    {
+      "id": "ci41341727",
+      "lon": -116.765167236328,
+      "lat": 33.7703323364258,
+      "depth": 15.25,
+      "mag": 1.85391342672082,
+      "place": "5 km NW of Idyllwild, CA",
+      "time": 1790873920390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341727"
+    },
+    {
+      "id": "nc75442426",
+      "lon": -122.803833007812,
+      "lat": 38.8359985351562,
+      "depth": 1.95000004768372,
+      "mag": 1.03,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1790873705940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442426"
+    },
+    {
+      "id": "ci41341711",
+      "lon": -116.461833333333,
+      "lat": 33.4655,
+      "depth": 2.45,
+      "mag": 1.06,
+      "place": "22 km ESE of Anza, CA",
+      "time": 1790873539870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341711"
+    },
+    {
+      "id": "nn00925138",
+      "lon": -117.8749,
+      "lat": 38.1616,
+      "depth": 1.031,
+      "mag": 1.61,
+      "place": "32 km SE of Mina, Nevada",
+      "time": 1790873344605,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925138"
+    },
     {
       "id": "nc75442416",
       "lon": -122.786003112793,
@@ -845,11 +885,11 @@
     },
     {
       "id": "hv75046827",
-      "lon": -155.275833129883,
-      "lat": 19.4126663208008,
-      "depth": -0.259999990463257,
-      "mag": 2.29,
-      "place": "5 km SW of Volcano, Hawaii",
+      "lon": -155.281,
+      "lat": 19.4181666666667,
+      "depth": 0,
+      "mag": 1.84,
+      "place": "5 km WSW of Volcano, Hawaii",
       "time": 1790846033540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75046827"
     },
@@ -875,12 +915,12 @@
     },
     {
       "id": "hv75046797",
-      "lon": -155.279495239258,
-      "lat": 19.421667098999,
-      "depth": -0.239999994635582,
-      "mag": 1.95,
+      "lon": -155.281,
+      "lat": 19.4188333333333,
+      "depth": 0.24,
+      "mag": 1.77,
       "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1790845404340,
+      "time": 1790845404430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75046797"
     },
     {
@@ -2882,46 +2922,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1790787931890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441936"
-    },
-    {
-      "id": "tx2026tgpghn",
-      "lon": -98.932,
-      "lat": 28.846,
-      "depth": 7.6955,
-      "mag": 2,
-      "place": "16 km ESE of Pearsall, Texas",
-      "time": 1790787455433,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tgpghn"
-    },
-    {
-      "id": "nc75441931",
-      "lon": -122.845336914062,
-      "lat": 38.8240013122559,
-      "depth": 2.20000004768372,
-      "mag": 1.32,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1790787142850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441931"
-    },
-    {
-      "id": "aka2026tjrqmh",
-      "lon": -153.313,
-      "lat": 62.177,
-      "depth": 5,
-      "mag": 1.6,
-      "place": "102 km W of Skwentna, Alaska",
-      "time": 1790787015662,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tjrqmh"
-    },
-    {
-      "id": "aka2026tjrlyv",
-      "lon": -154.573,
-      "lat": 57.504,
-      "depth": 32.2,
-      "mag": 1.7,
-      "place": "10 km SW of Karluk, Alaska",
-      "time": 1790786698554,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tjrlyv"
     }
   ]
 }
