@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-01T16:01:16Z",
-  "count": 299,
+  "updated": "2026-10-01T16:15:43Z",
+  "count": 298,
   "points": [
+    {
+      "id": "ci41341687",
+      "lon": -116.761333333333,
+      "lat": 33.583,
+      "depth": 11.62,
+      "mag": 0.81,
+      "place": "9 km WNW of Anza, CA",
+      "time": 1790871042160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341687"
+    },
     {
       "id": "hv75047252",
       "lon": -155.522506713867,
@@ -42,6 +52,16 @@
       "place": "4 km N of Rancho Cucamonga, CA",
       "time": 1790867944820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341671"
+    },
+    {
+      "id": "tx2026tihrha",
+      "lon": -104.267,
+      "lat": 31.613,
+      "depth": 7.1252,
+      "mag": 1.6,
+      "place": "55 km NW of Toyah, Texas",
+      "time": 1790867877915,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tihrha"
     },
     {
       "id": "aka2026tlkono",
@@ -355,23 +375,13 @@
     },
     {
       "id": "hv75047112",
-      "lon": -155.271835327148,
-      "lat": 19.4235000610352,
-      "depth": -0.150000005960464,
-      "mag": 2.14,
-      "place": "4 km WSW of Volcano, Hawaii",
-      "time": 1790855089200,
+      "lon": -155.277666666667,
+      "lat": 19.4225,
+      "depth": 0.55,
+      "mag": 1.85,
+      "place": "5 km WSW of Volcano, Hawaii",
+      "time": 1790855089240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047112"
-    },
-    {
-      "id": "nn00925131",
-      "lon": -117.3041,
-      "lat": 37.6087,
-      "depth": 4.3725,
-      "mag": 1.84,
-      "place": "12 km SSW of Goldfield, Nevada",
-      "time": 1790855022746,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925131"
     },
     {
       "id": "uw714112732",
@@ -395,12 +405,12 @@
     },
     {
       "id": "nn00925129",
-      "lon": -117.9556,
-      "lat": 38.1556,
-      "depth": 0.0288,
-      "mag": 1.94,
+      "lon": -117.9475,
+      "lat": 38.1585,
+      "depth": 5.9807,
+      "mag": 1.78,
       "place": "29 km SSE of Mina, Nevada",
-      "time": 1790855008308,
+      "time": 1790855009383,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925129"
     },
     {
@@ -2972,26 +2982,6 @@
       "place": "63 km WNW of Nikiski, Alaska",
       "time": 1790785418480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94455991"
-    },
-    {
-      "id": "ci41341015",
-      "lon": -116.88,
-      "lat": 34.3398333333333,
-      "depth": -0.79,
-      "mag": 0.99,
-      "place": "9 km NNW of Big Bear City, CA",
-      "time": 1790784886600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341015"
-    },
-    {
-      "id": "av94455966",
-      "lon": -153.046833333333,
-      "lat": 60.0551666666667,
-      "depth": 0.63,
-      "mag": -0.9,
-      "place": "66 km ENE of Pedro Bay, Alaska",
-      "time": 1790784204750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94455966"
     }
   ]
 }
