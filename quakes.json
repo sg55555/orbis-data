@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-01T20:01:09Z",
-  "count": 289,
+  "updated": "2026-10-01T20:15:45Z",
+  "count": 290,
   "points": [
+    {
+      "id": "ci41341823",
+      "lon": -115.886666666667,
+      "lat": 33.0573333333333,
+      "depth": 4.54,
+      "mag": 1.74,
+      "place": "25 km ESE of Ocotillo Wells, CA",
+      "time": 1790884782900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341823"
+    },
     {
       "id": "nc75442516",
       "lon": -122.781669616699,
@@ -22,6 +32,16 @@
       "place": "11 km NW of The Geysers, CA",
       "time": 1790884085540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442511"
+    },
+    {
+      "id": "us6000tywu",
+      "lon": 166.961,
+      "lat": -11.7706,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "171 km SE of Lata, Solomon Islands",
+      "time": 1790883481795,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tywu"
     },
     {
       "id": "nc75442506",
@@ -2882,16 +2902,6 @@
       "place": "2 km ESE of Home Gardens, CA",
       "time": 1790800522940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341159"
-    },
-    {
-      "id": "ci41341143",
-      "lon": -115.467833333333,
-      "lat": 32.8191666666667,
-      "depth": 10.05,
-      "mag": 1.48,
-      "place": "8 km W of Holtville, CA",
-      "time": 1790798946560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341143"
     }
   ]
 }
