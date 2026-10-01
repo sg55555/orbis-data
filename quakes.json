@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-01T15:45:42Z",
-  "count": 298,
+  "updated": "2026-10-01T16:01:16Z",
+  "count": 299,
   "points": [
+    {
+      "id": "hv75047252",
+      "lon": -155.522506713867,
+      "lat": 19.2018337249756,
+      "depth": 30.6399993896484,
+      "mag": 2.03,
+      "place": "4 km W of Pāhala, Hawaii",
+      "time": 1790870059400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047252"
+    },
+    {
+      "id": "nc75442401",
+      "lon": -122.078498840332,
+      "lat": 37.3115005493164,
+      "depth": 5.19999980926514,
+      "mag": 0.97,
+      "place": "4 km WSW of Cupertino, CA",
+      "time": 1790869998680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442401"
+    },
     {
       "id": "ci41341679",
       "lon": -116.756833333333,
@@ -295,12 +315,12 @@
     },
     {
       "id": "hv75047127",
-      "lon": -155.279998779297,
-      "lat": 19.4188327789307,
-      "depth": -0.0500000007450581,
-      "mag": 2.25,
+      "lon": -155.282,
+      "lat": 19.417,
+      "depth": -0.19,
+      "mag": 1.61,
       "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1790856412450,
+      "time": 1790856412440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047127"
     },
     {
@@ -2084,6 +2104,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341303"
     },
     {
+      "id": "ci10254726",
+      "lon": -116.452333333333,
+      "lat": 33.5083333333333,
+      "depth": 8.35,
+      "mag": 0.12,
+      "place": "21 km ESE of Anza, CA",
+      "time": 1790813302360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10254726"
+    },
+    {
       "id": "ci41341295",
       "lon": -116.839166666667,
       "lat": 33.4638333333333,
@@ -2962,26 +2992,6 @@
       "place": "66 km ENE of Pedro Bay, Alaska",
       "time": 1790784204750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94455966"
-    },
-    {
-      "id": "uw714112372",
-      "lon": -122.189166666667,
-      "lat": 46.2008333333333,
-      "depth": 2.93,
-      "mag": 0.24,
-      "place": "37 km NNE of Amboy, Washington",
-      "time": 1790783377200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714112372"
-    },
-    {
-      "id": "av93067599",
-      "lon": -155.361,
-      "lat": 58.1666666666667,
-      "depth": 2.5,
-      "mag": -1.22,
-      "place": "85 km NW of Karluk, Alaska",
-      "time": 1790783161710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067599"
     }
   ]
 }
