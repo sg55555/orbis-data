@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-01T21:45:40Z",
-  "count": 285,
+  "updated": "2026-10-01T22:01:06Z",
+  "count": 284,
   "points": [
+    {
+      "id": "nc75442591",
+      "lon": -120.354164123535,
+      "lat": 36.2130012512207,
+      "depth": 11.7299995422363,
+      "mag": 1.98,
+      "place": "8 km N of Coalinga, CA",
+      "time": 1790891210120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442591"
+    },
     {
       "id": "hv75047502",
       "lon": -155.279830932617,
@@ -2514,6 +2524,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tkicbp"
     },
     {
+      "id": "av94456456",
+      "lon": -153.040666666667,
+      "lat": 59.998,
+      "depth": 0.57,
+      "mag": -0.61,
+      "place": "64 km ENE of Pedro Bay, Alaska",
+      "time": 1790816498730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94456456"
+    },
+    {
       "id": "hv75046297",
       "lon": -155.288666666667,
       "lat": 19.4046666666667,
@@ -2652,6 +2672,16 @@
       "place": "3 km NE of Aguanga, CA",
       "time": 1790813158080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341295"
+    },
+    {
+      "id": "av93067619",
+      "lon": -168.197666666667,
+      "lat": 53.3341666666667,
+      "depth": 8.57,
+      "mag": -0.31,
+      "place": "62 km NE of Nikolski, Alaska",
+      "time": 1790813065270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067619"
     },
     {
       "id": "ci41341287",
@@ -2812,46 +2842,6 @@
       "place": "8 km W of Holtville, CA",
       "time": 1790805754480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341239"
-    },
-    {
-      "id": "uw714112602",
-      "lon": -117.551333333333,
-      "lat": 47.704,
-      "depth": -0.7,
-      "mag": 0.96,
-      "place": "7 km NNE of Airway Heights, Washington",
-      "time": 1790805598070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714112602"
-    },
-    {
-      "id": "tx2026tgzeqy",
-      "lon": -103.845,
-      "lat": 31.515,
-      "depth": 4.8694,
-      "mag": 1.9,
-      "place": "22 km NNW of Toyah, Texas",
-      "time": 1790805528146,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tgzeqy"
-    },
-    {
-      "id": "us6000tymj",
-      "lon": -86.5063,
-      "lat": 9.7526,
-      "depth": 8,
-      "mag": 5.6,
-      "place": "94 km SW of Tamarindo, Costa Rica",
-      "time": 1790805326169,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tymj"
-    },
-    {
-      "id": "ci41341231",
-      "lon": -117.445166666667,
-      "lat": 34.2261666666667,
-      "depth": 13.35,
-      "mag": 0.91,
-      "place": "4 km W of Devore, CA",
-      "time": 1790805048210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341231"
     }
   ]
 }
