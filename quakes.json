@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-01T17:30:58Z",
-  "count": 293,
+  "updated": "2026-10-01T17:45:43Z",
+  "count": 292,
   "points": [
+    {
+      "id": "ci41341767",
+      "lon": -116.952,
+      "lat": 33.5038333333333,
+      "depth": 12.55,
+      "mag": 1.22,
+      "place": "11 km NW of Aguanga, CA",
+      "time": 1790876286430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341767"
+    },
     {
       "id": "nc75442441",
       "lon": -120.298835754395,
@@ -12,6 +22,16 @@
       "place": "3 km N of Cholame, CA",
       "time": 1790875294770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442441"
+    },
+    {
+      "id": "us6000tyw6",
+      "lon": 143.1734,
+      "lat": 39.8778,
+      "depth": 35,
+      "mag": 5.1,
+      "place": "108 km ENE of Miyako, Japan",
+      "time": 1790875040097,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyw6"
     },
     {
       "id": "ci41341743",
@@ -295,12 +315,12 @@
     },
     {
       "id": "ci41341615",
-      "lon": -116.251166666667,
-      "lat": 33.3798333333333,
-      "depth": 28.47,
-      "mag": 0.77,
-      "place": "17 km SW of Oasis, CA",
-      "time": 1790864838640,
+      "lon": -116.519166666667,
+      "lat": 33.4886666666667,
+      "depth": 13.27,
+      "mag": 0.45,
+      "place": "16 km ESE of Anza, CA",
+      "time": 1790864843100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341615"
     },
     {
@@ -2902,36 +2922,6 @@
       "place": "6 km WNW of The Geysers, CA",
       "time": 1790790512840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441946"
-    },
-    {
-      "id": "aka2026tjthav",
-      "lon": -155.108,
-      "lat": 58.665,
-      "depth": 151.9,
-      "mag": 1.8,
-      "place": "86 km SSE of Igiugig, Alaska",
-      "time": 1790789962290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tjthav"
-    },
-    {
-      "id": "av94456056",
-      "lon": -164.275,
-      "lat": 54.7573333333333,
-      "depth": 1.89,
-      "mag": 1.37,
-      "place": "56 km WSW of False Pass, Alaska",
-      "time": 1790789773960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94456056"
-    },
-    {
-      "id": "aka2026tjtcxh",
-      "lon": -152.583,
-      "lat": 59.892,
-      "depth": 87.2,
-      "mag": 2,
-      "place": "44 km WNW of Anchor Point, Alaska",
-      "time": 1790789670923,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tjtcxh"
     }
   ]
 }
