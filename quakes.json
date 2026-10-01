@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-01T11:01:18Z",
-  "count": 276,
+  "updated": "2026-10-01T11:15:44Z",
+  "count": 277,
   "points": [
+    {
+      "id": "hv75047032",
+      "lon": -155.280334472656,
+      "lat": 19.4196662902832,
+      "depth": -0.170000001788139,
+      "mag": 2.01,
+      "place": "5 km WSW of Volcano, Hawaii",
+      "time": 1790852599390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047032"
+    },
     {
       "id": "hv75047017",
       "lon": -155.278671264648,
@@ -122,6 +132,16 @@
       "place": "4 km SW of Pāhala, Hawaii",
       "time": 1790849221990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75046947"
+    },
+    {
+      "id": "us6000tysi",
+      "lon": -41.428,
+      "lat": 31.0444,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "northern Mid-Atlantic Ridge",
+      "time": 1790848995128,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tysi"
     },
     {
       "id": "hv75046932",
@@ -2752,16 +2772,6 @@
       "place": "8 km SW of Anza, CA",
       "time": 1790767007720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41340959"
-    },
-    {
-      "id": "nn00925077",
-      "lon": -119.686,
-      "lat": 40.5416,
-      "depth": 3.5138,
-      "mag": 1.76,
-      "place": "29 km W of Empire, Nevada",
-      "time": 1790766492719,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925077"
     }
   ]
 }
