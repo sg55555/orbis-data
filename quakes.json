@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-01T14:01:10Z",
-  "count": 288,
+  "updated": "2026-10-01T14:15:40Z",
+  "count": 287,
   "points": [
+    {
+      "id": "nc75442351",
+      "lon": -122.083831787109,
+      "lat": 37.3089981079102,
+      "depth": 5.09999990463257,
+      "mag": 1.06,
+      "place": "5 km WSW of Cupertino, CA",
+      "time": 1790863859340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442351"
+    },
     {
       "id": "aka2026tlhovr",
       "lon": -152.134,
@@ -1012,6 +1022,16 @@
       "place": "9 km WNW of Anza, CA",
       "time": 1790837779620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341511"
+    },
+    {
+      "id": "tx2026thqubw",
+      "lon": -101.707,
+      "lat": 32.393,
+      "depth": 8.3496,
+      "mag": 1.2,
+      "place": "14 km S of Ackerly, Texas",
+      "time": 1790837296384,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026thqubw"
     },
     {
       "id": "hv75046692",
@@ -2852,36 +2872,6 @@
       "place": "77 km W of Karluk, Alaska",
       "time": 1790777963179,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tjmpuo"
-    },
-    {
-      "id": "tx2026tgjqng",
-      "lon": -104.027,
-      "lat": 31.514,
-      "depth": 1.1652,
-      "mag": 2,
-      "place": "31 km NW of Toyah, Texas",
-      "time": 1790777342253,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tgjqng"
-    },
-    {
-      "id": "ci41340999",
-      "lon": -116.459,
-      "lat": 33.4685,
-      "depth": 3.15,
-      "mag": 0.78,
-      "place": "22 km ESE of Anza, CA",
-      "time": 1790777334130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41340999"
-    },
-    {
-      "id": "tx2026tgjivy",
-      "lon": -104.364,
-      "lat": 31.628,
-      "depth": 6.4331,
-      "mag": 2,
-      "place": "60 km S of Whites City, New Mexico",
-      "time": 1790776949728,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tgjivy"
     }
   ]
 }
