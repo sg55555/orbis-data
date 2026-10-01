@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-01T21:01:12Z",
-  "count": 287,
+  "updated": "2026-10-01T21:15:40Z",
+  "count": 283,
   "points": [
+    {
+      "id": "nc75442556",
+      "lon": -122.817169189453,
+      "lat": 38.8334999084473,
+      "depth": 1.39999997615814,
+      "mag": 0.22,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1790889114470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442556"
+    },
     {
       "id": "nc75442551",
       "lon": -122.817337036133,
@@ -932,6 +942,16 @@
       "place": "5 km WSW of Volcano, Hawaii",
       "time": 1790851964700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047017"
+    },
+    {
+      "id": "tx2026thytiz",
+      "lon": -98.945,
+      "lat": 28.873,
+      "depth": 8.6845,
+      "mag": 1.9,
+      "place": "14 km E of Pearsall, Texas",
+      "time": 1790851728435,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026thytiz"
     },
     {
       "id": "ci41341567",
@@ -2812,66 +2832,6 @@
       "place": "8 km ESE of Cloverdale, CA",
       "time": 1790802953850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442011"
-    },
-    {
-      "id": "nc75442006",
-      "lon": -122.930335998535,
-      "lat": 38.7776679992676,
-      "depth": 4.69000005722046,
-      "mag": 2.2,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1790802724780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442006"
-    },
-    {
-      "id": "us6000tym9",
-      "lon": 128.5077,
-      "lat": 25.2167,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "131 km SE of Itoman, Japan",
-      "time": 1790802717694,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tym9"
-    },
-    {
-      "id": "nc75441996",
-      "lon": -122.933166503906,
-      "lat": 38.7781677246094,
-      "depth": 4.03000020980835,
-      "mag": 2.99,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1790802439250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441996"
-    },
-    {
-      "id": "nc75441991",
-      "lon": -121.19450378418,
-      "lat": 35.7734985351562,
-      "depth": 6.73999977111816,
-      "mag": 1.49,
-      "place": "14 km N of San Simeon, CA",
-      "time": 1790802312080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441991"
-    },
-    {
-      "id": "pr71535218",
-      "lon": -66.9465,
-      "lat": 17.9443333333333,
-      "depth": 7.78,
-      "mag": 2.57,
-      "place": "5 km SW of Guánica, Puerto Rico",
-      "time": 1790802221740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535218"
-    },
-    {
-      "id": "pr71535213",
-      "lon": -66.6136666666667,
-      "lat": 18.4778333333333,
-      "depth": 105.39,
-      "mag": 3.14,
-      "place": "4 km NNE of Animas, Puerto Rico",
-      "time": 1790802048480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535213"
     }
   ]
 }
