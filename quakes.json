@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-01T17:45:43Z",
-  "count": 292,
+  "updated": "2026-10-01T18:01:18Z",
+  "count": 291,
   "points": [
+    {
+      "id": "nc75442466",
+      "lon": -121.217330932617,
+      "lat": 36.5981674194336,
+      "depth": 8.89000034332275,
+      "mag": 2.47,
+      "place": "10 km NW of Pinnacles, CA",
+      "time": 1790877097050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442466"
+    },
     {
       "id": "ci41341767",
       "lon": -116.952,
@@ -305,12 +315,12 @@
     },
     {
       "id": "ci41341623",
-      "lon": -116.699833333333,
-      "lat": 33.7008333333333,
-      "depth": 2.68,
-      "mag": 0.84,
-      "place": "5 km SSE of Idyllwild, CA",
-      "time": 1790864915970,
+      "lon": -116.6935,
+      "lat": 33.6365,
+      "depth": 13.98,
+      "mag": 0.05,
+      "place": "9 km NNW of Anza, CA",
+      "time": 1790864915930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341623"
     },
     {
@@ -2434,6 +2444,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341239"
     },
     {
+      "id": "uw714112602",
+      "lon": -117.551333333333,
+      "lat": 47.704,
+      "depth": -0.7,
+      "mag": 0.96,
+      "place": "7 km NNE of Airway Heights, Washington",
+      "time": 1790805598070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714112602"
+    },
+    {
       "id": "tx2026tgzeqy",
       "lon": -103.845,
       "lat": 31.515,
@@ -2892,36 +2912,6 @@
       "place": "20 km N of Four Mile Road, Alaska",
       "time": 1790792167823,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tjumzo"
-    },
-    {
-      "id": "uw714112432",
-      "lon": -122.431,
-      "lat": 46.5288333333333,
-      "depth": 11.62,
-      "mag": 1.03,
-      "place": "4 km E of Mossyrock, Washington",
-      "time": 1790791019360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714112432"
-    },
-    {
-      "id": "pr71535203",
-      "lon": -66.962,
-      "lat": 18.033,
-      "depth": 7.41,
-      "mag": 1.61,
-      "place": "2 km WSW of Liborio Negron Torres, Puerto Rico",
-      "time": 1790790743990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535203"
-    },
-    {
-      "id": "nc75441946",
-      "lon": -122.814834594727,
-      "lat": 38.8018341064453,
-      "depth": 2.94000005722046,
-      "mag": 0.85,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": 1790790512840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441946"
     }
   ]
 }
