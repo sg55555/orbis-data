@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-01T21:15:40Z",
-  "count": 283,
+  "updated": "2026-10-01T21:30:56Z",
+  "count": 281,
   "points": [
+    {
+      "id": "nc75442566",
+      "lon": -122.801330566406,
+      "lat": 38.8291664123535,
+      "depth": 1.63999998569489,
+      "mag": 0.71,
+      "place": "7 km W of Cobb, CA",
+      "time": 1790889942950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442566"
+    },
+    {
+      "id": "hv75047497",
+      "lon": -155.401168823242,
+      "lat": 18.9498329162598,
+      "depth": 32.3800010681152,
+      "mag": 1.89,
+      "place": "22 km SE of Naalehu, Hawaii",
+      "time": 1790889647590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047497"
+    },
+    {
+      "id": "nn00925143",
+      "lon": -117.0497,
+      "lat": 38.7193,
+      "depth": 9.8604,
+      "mag": 1.92,
+      "place": "54 km S of Kingston, Nevada",
+      "time": 1790889358821,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925143"
+    },
     {
       "id": "nc75442556",
       "lon": -122.817169189453,
@@ -75,12 +105,12 @@
     },
     {
       "id": "ci41341823",
-      "lon": -115.886666666667,
-      "lat": 33.0573333333333,
-      "depth": 4.54,
-      "mag": 1.74,
+      "lon": -115.888666666667,
+      "lat": 33.0566666666667,
+      "depth": 4.8,
+      "mag": 1.73,
       "place": "25 km ESE of Ocotillo Wells, CA",
-      "time": 1790884782900,
+      "time": 1790884782890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341823"
     },
     {
@@ -855,12 +885,12 @@
     },
     {
       "id": "hv75047072",
-      "lon": -155.278167724609,
-      "lat": 19.4258327484131,
-      "depth": 0.0900000035762787,
-      "mag": 2.05,
+      "lon": -155.278333333333,
+      "lat": 19.4228333333333,
+      "depth": 0.06,
+      "mag": 1.57,
       "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1790853800000,
+      "time": 1790853799960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047072"
     },
     {
@@ -1102,6 +1132,16 @@
       "place": "5 km WSW of Volcano, Hawaii",
       "time": 1790848488940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75046922"
+    },
+    {
+      "id": "tx2026thwyhf",
+      "lon": -104.354,
+      "lat": 31.632,
+      "depth": 6.7664,
+      "mag": 1.9,
+      "place": "60 km S of Whites City, New Mexico",
+      "time": 1790848449798,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026thwyhf"
     },
     {
       "id": "hv75046917",
@@ -2772,66 +2812,6 @@
       "place": "10 km SSE of Princeton, Canada",
       "time": 1790804106200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714112582"
-    },
-    {
-      "id": "nc75442016",
-      "lon": -122.927833557129,
-      "lat": 38.7801666259766,
-      "depth": 5.92000007629395,
-      "mag": 1.69,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1790803154160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442016"
-    },
-    {
-      "id": "hv75046207",
-      "lon": -155.498333333333,
-      "lat": 19.3371666666667,
-      "depth": 6.14,
-      "mag": 1.64,
-      "place": "14 km N of Pāhala, Hawaii",
-      "time": 1790803103740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75046207"
-    },
-    {
-      "id": "tx2026tgxvvj",
-      "lon": -104.546,
-      "lat": 31.698,
-      "depth": 5.0745,
-      "mag": 2,
-      "place": "55 km SSW of Whites City, New Mexico",
-      "time": 1790803027224,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tgxvvj"
-    },
-    {
-      "id": "uw714112572",
-      "lon": -117.883833333333,
-      "lat": 48.1126666666667,
-      "depth": -1.09,
-      "mag": 1.07,
-      "place": "12 km WNW of Springdale, Washington",
-      "time": 1790803023240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714112572"
-    },
-    {
-      "id": "us6000tyn1",
-      "lon": 140.8791,
-      "lat": 35.6288,
-      "depth": 35,
-      "mag": 4.4,
-      "place": "12 km SSE of Hasaki, Japan",
-      "time": 1790803013322,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyn1"
-    },
-    {
-      "id": "nc75442011",
-      "lon": -122.932830810547,
-      "lat": 38.7789993286133,
-      "depth": 4.17000007629395,
-      "mag": 1.37,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1790802953850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442011"
     }
   ]
 }
