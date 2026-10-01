@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-01T18:31:03Z",
-  "count": 286,
+  "updated": "2026-10-01T18:45:42Z",
+  "count": 285,
   "points": [
+    {
+      "id": "aka2026tlraem",
+      "lon": -152.452,
+      "lat": 59.234,
+      "depth": 66.3,
+      "mag": 1.9,
+      "place": "33 km WSW of Nanwalek, Alaska",
+      "time": 1790879440714,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tlraem"
+    },
     {
       "id": "aka2026tlqtva",
       "lon": -155.242,
@@ -92,6 +102,16 @@
       "place": "11 km NW of The Geysers, CA",
       "time": 1790874582800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442436"
+    },
+    {
+      "id": "us6000tyw4",
+      "lon": 138.9179,
+      "lat": -1.9255,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "204 km WNW of Abepura, Indonesia",
+      "time": 1790874578469,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyw4"
     },
     {
       "id": "nc75442431",
@@ -2832,36 +2852,6 @@
       "place": "8 km SW of Niland, CA",
       "time": 1790795263580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341095"
-    },
-    {
-      "id": "uu80158271",
-      "lon": -112.876166666667,
-      "lat": 37.2501666666667,
-      "depth": 24.03,
-      "mag": 1.37,
-      "place": "12 km ENE of Springdale, Utah",
-      "time": 1790793755580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80158271"
-    },
-    {
-      "id": "us6000tykw",
-      "lon": 160.2895,
-      "lat": 52.3676,
-      "depth": 31.929,
-      "mag": 4.9,
-      "place": "136 km SE of Petropavlovsk-Kamchatsky, Russia",
-      "time": 1790793382667,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tykw"
-    },
-    {
-      "id": "av94456096",
-      "lon": -176.982,
-      "lat": 52.0895,
-      "depth": 4.2,
-      "mag": 1.65,
-      "place": "33 km NW of Adak, Alaska",
-      "time": 1790793364870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94456096"
     }
   ]
 }
