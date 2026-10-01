@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-01T17:15:42Z",
-  "count": 295,
+  "updated": "2026-10-01T17:30:58Z",
+  "count": 293,
   "points": [
+    {
+      "id": "nc75442441",
+      "lon": -120.298835754395,
+      "lat": 35.7495002746582,
+      "depth": 11.3199996948242,
+      "mag": 1.51,
+      "place": "3 km N of Cholame, CA",
+      "time": 1790875294770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442441"
+    },
     {
       "id": "ci41341743",
       "lon": -116.4505,
@@ -52,6 +62,16 @@
       "place": "5 km NW of Idyllwild, CA",
       "time": 1790873920370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341727"
+    },
+    {
+      "id": "ci41341719",
+      "lon": -116.7615,
+      "lat": 33.7703333333333,
+      "depth": 15.97,
+      "mag": 1.44229415760942,
+      "place": "5 km NW of Idyllwild, CA",
+      "time": 1790873920280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341719"
     },
     {
       "id": "nc75442426",
@@ -205,12 +225,12 @@
     },
     {
       "id": "ci41341655",
-      "lon": -116.439333333333,
-      "lat": 33.0256666666667,
-      "depth": 8.26,
-      "mag": 1.71,
+      "lon": -116.436833333333,
+      "lat": 33.0263333333333,
+      "depth": 8.22,
+      "mag": 1.64,
       "place": "16 km ESE of Julian, CA",
-      "time": 1790867511390,
+      "time": 1790867511360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341655"
     },
     {
@@ -2912,46 +2932,6 @@
       "place": "44 km WNW of Anchor Point, Alaska",
       "time": 1790789670923,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tjtcxh"
-    },
-    {
-      "id": "aka2026tjsunq",
-      "lon": -150.637,
-      "lat": 61.193,
-      "depth": 49.3,
-      "mag": 2.4,
-      "place": "24 km ENE of Beluga, Alaska",
-      "time": 1790789106399,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tjsunq"
-    },
-    {
-      "id": "ci41341039",
-      "lon": -117.586166666667,
-      "lat": 34.0155,
-      "depth": 4.44,
-      "mag": 0.88,
-      "place": "6 km SE of Ontario, CA",
-      "time": 1790788998740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341039"
-    },
-    {
-      "id": "ok2026teha",
-      "lon": -96.68533333,
-      "lat": 35.86116667,
-      "depth": 7.94,
-      "mag": 1.99,
-      "place": "10 km WSW of Shamrock, Oklahoma",
-      "time": 1790788560910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026teha"
-    },
-    {
-      "id": "av94456026",
-      "lon": -152.7715,
-      "lat": 60.5093333333333,
-      "depth": 0.07,
-      "mag": -0.75,
-      "place": "79 km NW of Ninilchik, Alaska",
-      "time": 1790788535180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94456026"
     }
   ]
 }
