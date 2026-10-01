@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-01T15:01:25Z",
-  "count": 291,
+  "updated": "2026-10-01T15:15:41Z",
+  "count": 290,
   "points": [
+    {
+      "id": "ci41341655",
+      "lon": -116.437835693359,
+      "lat": 33.0250015258789,
+      "depth": 7.48999977111816,
+      "mag": 1.76519401000874,
+      "place": "16 km ESE of Julian, CA",
+      "time": 1790867511440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341655"
+    },
     {
       "id": "ci41341639",
       "lon": -117.96,
@@ -12,6 +22,16 @@
       "place": "2 km ESE of Littlerock, CA",
       "time": 1790866183270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341639"
+    },
+    {
+      "id": "us6000tyuf",
+      "lon": -163.7238,
+      "lat": 53.7226,
+      "depth": 35,
+      "mag": 4.8,
+      "place": "127 km S of False Pass, Alaska",
+      "time": 1790865979877,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyuf"
     },
     {
       "id": "hv75047217",
@@ -2005,12 +2025,12 @@
     },
     {
       "id": "ci41341271",
-      "lon": -115.475666666667,
-      "lat": 32.8105,
-      "depth": 7.06,
-      "mag": 1.42,
-      "place": "8 km ENE of El Centro, CA",
-      "time": 1790811200600,
+      "lon": -115.464333333333,
+      "lat": 32.8155,
+      "depth": 8.9,
+      "mag": 1.4,
+      "place": "8 km W of Holtville, CA",
+      "time": 1790811200470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341271"
     },
     {
@@ -2035,12 +2055,12 @@
     },
     {
       "id": "ci41341255",
-      "lon": -115.465833333333,
-      "lat": 32.8265,
-      "depth": 9.63,
-      "mag": 1.52,
-      "place": "8 km WNW of Holtville, CA",
-      "time": 1790809168550,
+      "lon": -115.4615,
+      "lat": 32.8171666666667,
+      "depth": 9.44,
+      "mag": 1.45,
+      "place": "8 km W of Holtville, CA",
+      "time": 1790809168390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341255"
     },
     {
@@ -2882,36 +2902,6 @@
       "place": "59 km E of Denali Park, Alaska",
       "time": 1790781505331,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tjooxs"
-    },
-    {
-      "id": "nn00925083",
-      "lon": -116.1554,
-      "lat": 37.2231,
-      "depth": 0,
-      "mag": 1.21,
-      "place": "59 km SW of Rachel, Nevada",
-      "time": 1790781000452,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925083"
-    },
-    {
-      "id": "hv75045952",
-      "lon": -155.387833333333,
-      "lat": 19.2868333333333,
-      "depth": 30.5,
-      "mag": 2.62,
-      "place": "13 km NE of Pāhala, Hawaii",
-      "time": 1790780543230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75045952"
-    },
-    {
-      "id": "av94455941",
-      "lon": -153.0385,
-      "lat": 60.041,
-      "depth": 0.75,
-      "mag": -0.4,
-      "place": "66 km ENE of Pedro Bay, Alaska",
-      "time": 1790780470470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94455941"
     }
   ]
 }
