@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-01T12:45:44Z",
-  "count": 286,
+  "updated": "2026-10-01T13:01:11Z",
+  "count": 287,
   "points": [
+    {
+      "id": "ci41341583",
+      "lon": -116.691333333333,
+      "lat": 33.5891666666667,
+      "depth": 1.98,
+      "mag": 0.67,
+      "place": "4 km NNW of Anza, CA",
+      "time": 1790858999030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341583"
+    },
+    {
+      "id": "nc75442346",
+      "lon": -122.93433380127,
+      "lat": 38.7756652832031,
+      "depth": 4.75,
+      "mag": 1.67,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": 1790858941460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442346"
+    },
     {
       "id": "aka2026tlffcq",
       "lon": -148.577,
@@ -22,6 +42,16 @@
       "place": "53 km SSE of King Salmon, Alaska",
       "time": 1790857799518,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tlezlc"
+    },
+    {
+      "id": "us6000tytg",
+      "lon": 140.5507,
+      "lat": 35.7025,
+      "depth": 41.649,
+      "mag": 5.3,
+      "place": "0 km NNE of Yōkaichiba, Japan",
+      "time": 1790857631864,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tytg"
     },
     {
       "id": "aka2026tlelut",
@@ -2842,26 +2872,6 @@
       "place": "75 km WSW of Nikolski, Alaska",
       "time": 1790773698630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067589"
-    },
-    {
-      "id": "nc75441886",
-      "lon": -122.80883026123,
-      "lat": 38.7946662902832,
-      "depth": 2.99000000953674,
-      "mag": 0.76,
-      "place": "5 km WNW of The Geysers, CA",
-      "time": 1790773042000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441886"
-    },
-    {
-      "id": "nc75441881",
-      "lon": -123.483833312988,
-      "lat": 39.0133323669434,
-      "depth": 2.64000010490417,
-      "mag": 2.16,
-      "place": "10 km W of Boonville, CA",
-      "time": 1790772707370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441881"
     }
   ]
 }
