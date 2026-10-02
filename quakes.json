@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-02T04:01:07Z",
-  "count": 263,
+  "updated": "2026-10-02T04:15:46Z",
+  "count": 262,
   "points": [
+    {
+      "id": "ci41341903",
+      "lon": -116.422833333333,
+      "lat": 33.1663333333333,
+      "depth": 7.75,
+      "mag": 1.15,
+      "place": "11 km SSW of Borrego Springs, CA",
+      "time": 1790913892700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341903"
+    },
     {
       "id": "nc75442691",
       "lon": -122.931503295898,
@@ -202,6 +212,16 @@
       "place": "22 km ESE of Anza, CA",
       "time": 1790900113010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341879"
+    },
+    {
+      "id": "uw714114281",
+      "lon": -123.581,
+      "lat": 47.8251666666667,
+      "depth": 4.49,
+      "mag": 1.03,
+      "place": "34 km SSW of Port Angeles, Washington",
+      "time": 1790898462960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714114281"
     },
     {
       "id": "aka2026tmboaw",
@@ -482,6 +502,16 @@
       "place": "2 km NE of Satte, Japan",
       "time": 1790888501707,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyxk"
+    },
+    {
+      "id": "av94457546",
+      "lon": -152.705666666667,
+      "lat": 60.4768333333333,
+      "depth": 2.86,
+      "mag": -0.71,
+      "place": "74 km NW of Ninilchik, Alaska",
+      "time": 1790888126420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94457546"
     },
     {
       "id": "nc75442551",
@@ -2592,46 +2622,6 @@
       "place": "3 km SSW of Anderson Springs, CA",
       "time": 1790829005980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442156"
-    },
-    {
-      "id": "tx2026thlrvh",
-      "lon": -98.956,
-      "lat": 28.898,
-      "depth": 7.8552,
-      "mag": 1.6,
-      "place": "13 km E of Pearsall, Texas",
-      "time": 1790828084994,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026thlrvh"
-    },
-    {
-      "id": "ci41341431",
-      "lon": -116.5855,
-      "lat": 33.5453333333333,
-      "depth": 12.25,
-      "mag": 0.49,
-      "place": "8 km E of Anza, CA",
-      "time": 1790827716970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341431"
-    },
-    {
-      "id": "tx2026thljph",
-      "lon": -103.998,
-      "lat": 31.617,
-      "depth": 7.8815,
-      "mag": 1.7,
-      "place": "38 km NNW of Toyah, Texas",
-      "time": 1790827513273,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026thljph"
-    },
-    {
-      "id": "nc75442151",
-      "lon": -118.450836181641,
-      "lat": 37.4266662597656,
-      "depth": 5.34000015258789,
-      "mag": 2.02,
-      "place": "5 km NW of Dixon Lane-Meadow Creek, CA",
-      "time": 1790827344260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442151"
     }
   ]
 }
