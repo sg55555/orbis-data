@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-02T12:01:10Z",
-  "count": 216,
+  "updated": "2026-10-02T12:15:41Z",
+  "count": 215,
   "points": [
     {
-      "id": "ci41342063",
-      "lon": -116.459503173828,
-      "lat": 33.469165802002,
-      "depth": 7.51000022888184,
-      "mag": 0.960564707330861,
+      "id": "ci41342079",
+      "lon": -115.566333333333,
+      "lat": 32.6183333333333,
+      "depth": 2.91,
+      "mag": 1.29,
+      "place": "5 km NNE of Progreso, B.C., MX",
+      "time": 1790943066930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342079"
+    },
+    {
+      "id": "ci41342071",
+      "lon": -116.467,
+      "lat": 33.4645,
+      "depth": 2.66,
+      "mag": 0.94,
       "place": "22 km ESE of Anza, CA",
-      "time": 1790942308030,
+      "time": 1790942397840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342071"
+    },
+    {
+      "id": "ci41342063",
+      "lon": -116.462666666667,
+      "lat": 33.466,
+      "depth": 5.05,
+      "mag": 0.66,
+      "place": "22 km ESE of Anza, CA",
+      "time": 1790942308050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342063"
     },
     {
@@ -2132,36 +2152,6 @@
       "place": "2 km NNW of Little America, Wyoming",
       "time": 1790857597780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80158331"
-    },
-    {
-      "id": "aka2026tlelut",
-      "lon": -150.575,
-      "lat": 63.244,
-      "depth": 131.3,
-      "mag": 2.9,
-      "place": "66 km ESE of Denali National Park, Alaska",
-      "time": 1790856855424,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tlelut"
-    },
-    {
-      "id": "av94457026",
-      "lon": -178.7995,
-      "lat": 51.7645,
-      "depth": 8.38,
-      "mag": 0.56,
-      "place": "149 km W of Adak, Alaska",
-      "time": 1790856512110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94457026"
-    },
-    {
-      "id": "hv75047127",
-      "lon": -155.282,
-      "lat": 19.417,
-      "depth": -0.19,
-      "mag": 1.61,
-      "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1790856412440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047127"
     }
   ]
 }
