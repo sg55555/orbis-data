@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-02T16:01:12Z",
-  "count": 211,
+  "updated": "2026-10-02T16:15:46Z",
+  "count": 212,
   "points": [
+    {
+      "id": "ci41342167",
+      "lon": -117.6285,
+      "lat": 35.8028333333333,
+      "depth": 6.31,
+      "mag": 0.79,
+      "place": "21 km W of Searles Valley, CA",
+      "time": 1790957399640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342167"
+    },
+    {
+      "id": "ci41342159",
+      "lon": -116.454,
+      "lat": 33.5133333333333,
+      "depth": 2.5,
+      "mag": 0.84,
+      "place": "21 km ESE of Anza, CA",
+      "time": 1790956882630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342159"
+    },
     {
       "id": "nc75442861",
       "lon": -122.814834594727,
@@ -345,12 +365,12 @@
     },
     {
       "id": "nn00925165",
-      "lon": -118.6502,
-      "lat": 38.7291,
-      "depth": 6.4949,
-      "mag": 2.37,
+      "lon": -118.6609,
+      "lat": 38.7313,
+      "depth": 8.5387,
+      "mag": 2.26,
       "place": "12 km NE of Walker Lake, Nevada",
-      "time": 1790939616868,
+      "time": 1790939617476,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925165"
     },
     {
@@ -2054,6 +2074,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925138"
     },
     {
+      "id": "tx2026tikrmc",
+      "lon": -101.08,
+      "lat": 32.381,
+      "depth": 5.4932,
+      "mag": 1.2,
+      "place": "6 km WNW of Westbrook, Texas",
+      "time": 1790873320604,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tikrmc"
+    },
+    {
       "id": "av94457316",
       "lon": -153.107666666667,
       "lat": 60.004,
@@ -2092,26 +2122,6 @@
       "place": "22 km ESE of Anza, CA",
       "time": 1790871836380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341695"
-    },
-    {
-      "id": "hv75047267",
-      "lon": -155.454666666667,
-      "lat": 19.1513333333333,
-      "depth": 31.18,
-      "mag": 1.41,
-      "place": "6 km SSE of Pāhala, Hawaii",
-      "time": 1790871289770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047267"
-    },
-    {
-      "id": "ci41341687",
-      "lon": -116.761333333333,
-      "lat": 33.583,
-      "depth": 11.62,
-      "mag": 0.81,
-      "place": "9 km WNW of Anza, CA",
-      "time": 1790871042160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341687"
     }
   ]
 }
