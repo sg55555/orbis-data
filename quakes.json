@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-02T07:01:09Z",
-  "count": 255,
+  "updated": "2026-10-02T07:15:42Z",
+  "count": 251,
   "points": [
+    {
+      "id": "us6000tyzx",
+      "lon": -104.3753,
+      "lat": 18.7561,
+      "depth": 23.972,
+      "mag": 4.8,
+      "place": "35 km SSW of El Colomo, Mexico",
+      "time": 1790924015007,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzx"
+    },
     {
       "id": "aka2026tmptzm",
       "lon": -150.996,
@@ -312,6 +322,16 @@
       "place": "12 km SSW of South Van Horn, Alaska",
       "time": 1790906706284,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tmgeex"
+    },
+    {
+      "id": "tx2026tjcpte",
+      "lon": -98.942,
+      "lat": 28.872,
+      "depth": 7.6443,
+      "mag": 1.9,
+      "place": "15 km E of Pearsall, Texas",
+      "time": 1790905783364,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tjcpte"
     },
     {
       "id": "aka2026tmfkno",
@@ -2492,66 +2512,6 @@
       "place": "54 km S of Whites City, New Mexico",
       "time": 1790839144604,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026thruqf"
-    },
-    {
-      "id": "tx2026thrpmt",
-      "lon": -104.009,
-      "lat": 31.563,
-      "depth": 7.5867,
-      "mag": 1.6,
-      "place": "34 km NW of Toyah, Texas",
-      "time": 1790838790364,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026thrpmt"
-    },
-    {
-      "id": "nc75442211",
-      "lon": -122.81233215332,
-      "lat": 38.8354988098145,
-      "depth": 2.08999991416931,
-      "mag": 0.7,
-      "place": "8 km W of Cobb, CA",
-      "time": 1790838763850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442211"
-    },
-    {
-      "id": "nc75442206",
-      "lon": -122.813163757324,
-      "lat": 38.833667755127,
-      "depth": 1.97000002861023,
-      "mag": 0.74,
-      "place": "8 km W of Cobb, CA",
-      "time": 1790838696050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442206"
-    },
-    {
-      "id": "nc75442201",
-      "lon": -122.811836242676,
-      "lat": 38.8334999084473,
-      "depth": 2.08999991416931,
-      "mag": 1.45,
-      "place": "8 km W of Cobb, CA",
-      "time": 1790838613560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442201"
-    },
-    {
-      "id": "nc75442196",
-      "lon": -122.812164306641,
-      "lat": 38.8344993591309,
-      "depth": 1.97000002861023,
-      "mag": 1.92,
-      "place": "8 km W of Cobb, CA",
-      "time": 1790838595240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442196"
-    },
-    {
-      "id": "nc75442191",
-      "lon": -122.786331176758,
-      "lat": 38.813835144043,
-      "depth": 2.84999990463257,
-      "mag": 0.71,
-      "place": "5 km NNW of The Geysers, CA",
-      "time": 1790838224370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442191"
     }
   ]
 }
