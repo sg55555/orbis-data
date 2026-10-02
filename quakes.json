@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-02T02:30:59Z",
-  "count": 269,
+  "updated": "2026-10-02T02:45:43Z",
+  "count": 267,
   "points": [
+    {
+      "id": "hv75047692",
+      "lon": -155.511672973633,
+      "lat": 19.1718330383301,
+      "depth": 30.4300003051758,
+      "mag": 1.88,
+      "place": "4 km SW of Pāhala, Hawaii",
+      "time": 1790908025850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047692"
+    },
     {
       "id": "aka2026tmgeex",
       "lon": -147.863,
@@ -872,6 +882,16 @@
       "place": "19 km SE of Dot Lake Village, Alaska",
       "time": 1790867839251,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tlkono"
+    },
+    {
+      "id": "av93067669",
+      "lon": -178.836166666667,
+      "lat": 51.7716666666667,
+      "depth": 8.49,
+      "mag": 1.7,
+      "place": "152 km W of Adak, Alaska",
+      "time": 1790867795960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067669"
     },
     {
       "id": "aka2026tlkkpe",
@@ -2504,21 +2524,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75046502"
     },
     {
-      "id": "hv75046497",
-      "lon": -155.289333333333,
-      "lat": 19.4055,
-      "depth": 0.65,
-      "mag": 1.61,
-      "place": "7 km SW of Volcano, Hawaii",
-      "time": 1790826675630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75046497"
-    },
-    {
       "id": "hv75046492",
-      "lon": -155.290161132812,
-      "lat": 19.4060001373291,
-      "depth": -0.0700000002980232,
-      "mag": 2.03,
+      "lon": -155.287333333333,
+      "lat": 19.4048333333333,
+      "depth": 0.01,
+      "mag": 1.62,
       "place": "7 km SW of Volcano, Hawaii",
       "time": 1790826675620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75046492"
@@ -2662,36 +2672,6 @@
       "place": "3 km WSW of Borrego Springs, CA",
       "time": 1790823613870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341399"
-    },
-    {
-      "id": "pr71535248",
-      "lon": -66.9055,
-      "lat": 17.95,
-      "depth": 11.76,
-      "mag": 2.49,
-      "place": "2 km S of Guánica, Puerto Rico",
-      "time": 1790822502980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535248"
-    },
-    {
-      "id": "us6000typ7",
-      "lon": -179.2476,
-      "lat": -20.9019,
-      "depth": 637.906,
-      "mag": 4.4,
-      "place": "Fiji region",
-      "time": 1790822440210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000typ7"
-    },
-    {
-      "id": "ci41341391",
-      "lon": -117.552333333333,
-      "lat": 35.7111666666667,
-      "depth": 7.54,
-      "mag": 0.57,
-      "place": "15 km WSW of Searles Valley, CA",
-      "time": 1790821808430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341391"
     }
   ]
 }
