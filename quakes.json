@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-02T05:15:39Z",
-  "count": 269,
+  "updated": "2026-10-02T05:30:57Z",
+  "count": 266,
   "points": [
+    {
+      "id": "hv75047822",
+      "lon": -155.355163574219,
+      "lat": 19.0100002288818,
+      "depth": 30.6100006103516,
+      "mag": 1.95,
+      "place": "24 km ESE of Naalehu, Hawaii",
+      "time": 1790918249970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047822"
+    },
     {
       "id": "us6000tyzl",
       "lon": 158.0215,
@@ -2652,46 +2662,6 @@
       "place": "38 km WSW of Palimbang, Philippines",
       "time": 1790832850634,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyq7"
-    },
-    {
-      "id": "ci41341447",
-      "lon": -115.912,
-      "lat": 33.055,
-      "depth": 1.92,
-      "mag": 1.03,
-      "place": "23 km ESE of Ocotillo Wells, CA",
-      "time": 1790832511630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341447"
-    },
-    {
-      "id": "pr2026274000",
-      "lon": -64.3456,
-      "lat": 19.1245,
-      "depth": 12,
-      "mag": 3.5,
-      "place": "99 km NNE of Cruz Bay, U.S. Virgin Islands",
-      "time": 1790832344260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026274000"
-    },
-    {
-      "id": "tx2026thoamb",
-      "lon": -98.939,
-      "lat": 28.841,
-      "depth": 7.5588,
-      "mag": 2,
-      "place": "16 km ESE of Pearsall, Texas",
-      "time": 1790832308316,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026thoamb"
-    },
-    {
-      "id": "tx2026thnyno",
-      "lon": -104.37,
-      "lat": 31.657,
-      "depth": 7.1252,
-      "mag": 2,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": 1790832174696,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026thnyno"
     }
   ]
 }
