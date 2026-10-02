@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-02T11:30:55Z",
-  "count": 219,
+  "updated": "2026-10-02T11:45:42Z",
+  "count": 216,
   "points": [
+    {
+      "id": "hv75048172",
+      "lon": -155.292999267578,
+      "lat": 19.5919990539551,
+      "depth": 23.8400001525879,
+      "mag": 1.84,
+      "place": "17 km NNW of Volcano, Hawaii",
+      "time": 1790941090280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75048172"
+    },
     {
       "id": "ci41342047",
       "lon": -116.319333333333,
@@ -12,6 +22,16 @@
       "place": "11 km S of Joshua Tree, CA",
       "time": 1790939704070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342047"
+    },
+    {
+      "id": "us6000tz0x",
+      "lon": 155.0136,
+      "lat": -6.6368,
+      "depth": 38.25,
+      "mag": 5,
+      "place": "63 km SW of Panguna, Papua New Guinea",
+      "time": 1790939654383,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz0x"
     },
     {
       "id": "nn00925165",
@@ -2142,56 +2162,6 @@
       "place": "62 km E of Port Alsworth, Alaska",
       "time": 1790855623826,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tldtzx"
-    },
-    {
-      "id": "hv75047112",
-      "lon": -155.277666666667,
-      "lat": 19.4225,
-      "depth": 0.55,
-      "mag": 1.85,
-      "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1790855089240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047112"
-    },
-    {
-      "id": "uw714112732",
-      "lon": -122.8185,
-      "lat": 45.058,
-      "depth": 24.37,
-      "mag": 1.56,
-      "place": "1 km SW of Mount Angel, Oregon",
-      "time": 1790855016030,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714112732"
-    },
-    {
-      "id": "hv75047107",
-      "lon": -155.280833333333,
-      "lat": 19.422,
-      "depth": 0.42,
-      "mag": 1.87,
-      "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1790855014590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047107"
-    },
-    {
-      "id": "nn00925129",
-      "lon": -117.9475,
-      "lat": 38.1585,
-      "depth": 5.9807,
-      "mag": 1.78,
-      "place": "29 km SSE of Mina, Nevada",
-      "time": 1790855009383,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925129"
-    },
-    {
-      "id": "hv75047082",
-      "lon": -155.279333333333,
-      "lat": 19.4226666666667,
-      "depth": 0.06,
-      "mag": 1.91,
-      "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1790854284720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047082"
     }
   ]
 }
