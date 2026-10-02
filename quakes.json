@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-02T12:29:04Z",
+  "updated": "2026-10-02T12:31:00Z",
   "count": 218,
   "points": [
     {
+      "id": "hv75048202",
+      "lon": -155.285003662109,
+      "lat": 19.3770008087158,
+      "depth": 1.41999995708466,
+      "mag": 1.73,
+      "place": "9 km SW of Volcano, Hawaii",
+      "time": 1790944027260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75048202"
+    },
+    {
       "id": "aka2026tnaxhv",
-      "lon": -153.708,
-      "lat": 58.328,
-      "depth": 61.7,
+      "lon": -153.691,
+      "lat": 58.322,
+      "depth": 62,
       "mag": 2.1,
-      "place": "55 km WNW of Aleneva, Alaska",
-      "time": 1790944013000,
+      "place": "54 km WNW of Aleneva, Alaska",
+      "time": 1790944012892,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tnaxhv"
     },
     {
@@ -2172,16 +2182,6 @@
       "place": "57 km SSE of Cantwell, Alaska",
       "time": 1790858191902,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tlffcq"
-    },
-    {
-      "id": "aka2026tlezlc",
-      "lon": -156.443,
-      "lat": 58.221,
-      "depth": 0,
-      "mag": 2.9,
-      "place": "53 km SSE of King Salmon, Alaska",
-      "time": 1790857799518,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tlezlc"
     }
   ]
 }
