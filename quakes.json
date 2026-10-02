@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-02T23:30:59Z",
-  "count": 223,
+  "updated": "2026-10-02T23:45:39Z",
+  "count": 224,
   "points": [
+    {
+      "id": "hv75048662",
+      "lon": -155.420669555664,
+      "lat": 19.0965003967285,
+      "depth": 28.5900001525879,
+      "mag": 1.95,
+      "place": "13 km SSE of Pāhala, Hawaii",
+      "time": 1790984443460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75048662"
+    },
+    {
+      "id": "nc75443176",
+      "lon": -120.372497558594,
+      "lat": 35.9968338012695,
+      "depth": 8,
+      "mag": 0.93,
+      "place": "12 km NNE of Parkfield, CA",
+      "time": 1790984210510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443176"
+    },
     {
       "id": "nc75443166",
       "lon": -122.815498352051,
@@ -285,12 +305,12 @@
     },
     {
       "id": "ci41342263",
-      "lon": -117.609666666667,
-      "lat": 35.6203333333333,
-      "depth": 8.21,
-      "mag": 1.2,
+      "lon": -117.608166666667,
+      "lat": 35.6213333333333,
+      "depth": 8.4,
+      "mag": 1.17,
       "place": "6 km E of Ridgecrest, CA",
-      "time": 1790972041230,
+      "time": 1790972041190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342263"
     },
     {
@@ -2222,16 +2242,6 @@
       "place": "46 km E of Port Alsworth, Alaska",
       "time": 1790898394808,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tmboaw"
-    },
-    {
-      "id": "ci41341871",
-      "lon": -118.689666666667,
-      "lat": 34.28,
-      "depth": 7.64,
-      "mag": 1.31,
-      "place": "5 km ENE of Simi Valley, CA",
-      "time": 1790897474510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341871"
     }
   ]
 }
