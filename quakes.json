@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-02T04:45:39Z",
+  "updated": "2026-10-02T05:01:08Z",
   "count": 271,
   "points": [
     {
+      "id": "us6000tyzl",
+      "lon": 158.0215,
+      "lat": -8.9326,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "159 km SE of Gizo, Solomon Islands",
+      "time": 1790916293423,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzl"
+    },
+    {
       "id": "aka2026tmlkqc",
-      "lon": -150.158,
-      "lat": 61.357,
-      "depth": 45.7,
+      "lon": -150.162,
+      "lat": 61.356,
+      "depth": 46.4,
       "mag": 2.1,
       "place": "9 km W of Point MacKenzie, Alaska",
-      "time": 1790916147512,
+      "time": 1790916147491,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tmlkqc"
     },
     {
@@ -82,6 +92,16 @@
       "place": "8 km SE of Willits, CA",
       "time": 1790914866990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442706"
+    },
+    {
+      "id": "us6000tyzg",
+      "lon": 155.6075,
+      "lat": -7.1852,
+      "depth": 35,
+      "mag": 4.9,
+      "place": "97 km S of Panguna, Papua New Guinea",
+      "time": 1790914258487,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzg"
     },
     {
       "id": "ci41341903",
@@ -2692,26 +2712,6 @@
       "place": "43 km NW of Tatitlek, Alaska",
       "time": 1790830953262,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tkqbmi"
-    },
-    {
-      "id": "nc75442166",
-      "lon": -122.719833374023,
-      "lat": 38.7696647644043,
-      "depth": 0.970000028610229,
-      "mag": 0.96,
-      "place": "2 km WSW of Anderson Springs, CA",
-      "time": 1790830122110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442166"
-    },
-    {
-      "id": "nc75442161",
-      "lon": -122.855499267578,
-      "lat": 38.8288345336914,
-      "depth": 2.54999995231628,
-      "mag": 1.24,
-      "place": "10 km WNW of The Geysers, CA",
-      "time": 1790830027460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442161"
     }
   ]
 }
