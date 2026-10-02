@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-02T21:30:57Z",
-  "count": 224,
+  "updated": "2026-10-02T21:45:39Z",
+  "count": 225,
   "points": [
+    {
+      "id": "aka2026tnthlg",
+      "lon": -152.155,
+      "lat": 62.616,
+      "depth": 0,
+      "mag": 2,
+      "place": "72 km W of Petersville, Alaska",
+      "time": 1790977098169,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tnthlg"
+    },
     {
       "id": "hv75048587",
       "lon": -155.475830078125,
@@ -22,6 +32,16 @@
       "place": "11 km E of Pāhala, Hawaii",
       "time": 1790976057330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75048582"
+    },
+    {
+      "id": "nn00925186",
+      "lon": -116.2867,
+      "lat": 35.6962,
+      "depth": 12.5541,
+      "mag": 1.5,
+      "place": "17 km SSW of Tecopa, California",
+      "time": 1790975677625,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925186"
     },
     {
       "id": "nc75443051",
@@ -52,6 +72,16 @@
       "place": "171 km SE of Vilyuchinsk, Russia",
       "time": 1790974455391,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8l"
+    },
+    {
+      "id": "us6000tz8b",
+      "lon": 152.8363,
+      "lat": -4.565,
+      "depth": 86.736,
+      "mag": 4.6,
+      "place": "67 km ESE of Kokopo, Papua New Guinea",
+      "time": 1790972762878,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8b"
     },
     {
       "id": "us6000tz8a",
@@ -2222,26 +2252,6 @@
       "place": "8 km N of Coalinga, CA",
       "time": 1790891210120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442591"
-    },
-    {
-      "id": "hv75047502",
-      "lon": -155.281,
-      "lat": 19.4183333333333,
-      "depth": -0.22,
-      "mag": 1.87,
-      "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1790890845100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047502"
-    },
-    {
-      "id": "nc75442581",
-      "lon": -123.280830383301,
-      "lat": 39.3255004882812,
-      "depth": 4.92000007629395,
-      "mag": 1.54,
-      "place": "9 km NW of Redwood Valley, CA",
-      "time": 1790890490120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442581"
     }
   ]
 }
