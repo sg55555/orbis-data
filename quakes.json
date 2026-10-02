@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-02T10:30:58Z",
-  "count": 228,
+  "updated": "2026-10-02T10:45:42Z",
+  "count": 227,
   "points": [
+    {
+      "id": "nc75442806",
+      "lon": -122.738502502441,
+      "lat": 38.7878341674805,
+      "depth": 1.12000000476837,
+      "mag": 1.45,
+      "place": "2 km NE of The Geysers, CA",
+      "time": 1790937634370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442806"
+    },
     {
       "id": "aka2026tmwihu",
       "lon": -148.285,
@@ -2262,26 +2272,6 @@
       "place": "4 km WSW of Volcano, Hawaii",
       "time": 1790851595560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047002"
-    },
-    {
-      "id": "hv75046992",
-      "lon": -155.284164428711,
-      "lat": 19.4303340911865,
-      "depth": 0.119999997317791,
-      "mag": 2.13,
-      "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1790851145450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75046992"
-    },
-    {
-      "id": "ci41341559",
-      "lon": -115.908,
-      "lat": 33.0596666666667,
-      "depth": 2.68,
-      "mag": 1.14,
-      "place": "23 km ESE of Ocotillo Wells, CA",
-      "time": 1790850794570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341559"
     }
   ]
 }
