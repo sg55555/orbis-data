@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-02T18:15:42Z",
-  "count": 227,
+  "updated": "2026-10-02T18:31:39Z",
+  "count": 228,
   "points": [
+    {
+      "id": "nc75442936",
+      "lon": -122.814666748047,
+      "lat": 38.8143348693848,
+      "depth": 2.92000007629395,
+      "mag": 0.98,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1790965122000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442936"
+    },
     {
       "id": "aka2026tnmlby",
       "lon": -151.222,
@@ -95,12 +105,12 @@
     },
     {
       "id": "ci41342191",
-      "lon": -116.839166666667,
-      "lat": 34.3278333333333,
-      "depth": 3.13,
-      "mag": 1.54,
+      "lon": -116.838166666667,
+      "lat": 34.3275,
+      "depth": 3.4,
+      "mag": 1.41,
       "place": "7 km N of Big Bear City, CA",
-      "time": 1790960703000,
+      "time": 1790960702990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342191"
     },
     {
@@ -755,12 +765,12 @@
     },
     {
       "id": "nc75442791",
-      "lon": -120.083168029785,
-      "lat": 38.8899993896484,
-      "depth": 7.01000022888184,
+      "lon": -120.080666666667,
+      "lat": 38.8935,
+      "depth": 10.9,
       "mag": 3.27,
-      "place": "10 km WSW of South Lake Tahoe, CA",
-      "time": 1790935211230,
+      "place": "9 km WSW of South Lake Tahoe, CA",
+      "time": 1790935211180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442791"
     },
     {
@@ -884,6 +894,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342015"
     },
     {
+      "id": "uw714114381",
+      "lon": -121.951,
+      "lat": 46.9841666666667,
+      "depth": 11.51,
+      "mag": 0.54,
+      "place": "13 km SE of Carbonado, Washington",
+      "time": 1790933071590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714114381"
+    },
+    {
       "id": "hv75048072",
       "lon": -155.269165039062,
       "lat": 19.408332824707,
@@ -982,6 +1002,16 @@
       "place": "22 km ESE of Anza, CA",
       "time": 1790931362030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341991"
+    },
+    {
+      "id": "tx2026tjqemy",
+      "lon": -101.163,
+      "lat": 32.478,
+      "depth": 6.5674,
+      "mag": 1.5,
+      "place": "19 km NW of Westbrook, Texas",
+      "time": 1790930350306,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tjqemy"
     },
     {
       "id": "ci41341983",
@@ -2252,26 +2282,6 @@
       "place": "55 km SSW of Whites City, New Mexico",
       "time": 1790880430018,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tiooka"
-    },
-    {
-      "id": "aka2026tlraem",
-      "lon": -152.452,
-      "lat": 59.234,
-      "depth": 66.3,
-      "mag": 1.9,
-      "place": "33 km WSW of Nanwalek, Alaska",
-      "time": 1790879440714,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tlraem"
-    },
-    {
-      "id": "aka2026tlqtva",
-      "lon": -155.242,
-      "lat": 57.709,
-      "depth": 86.1,
-      "mag": 1.8,
-      "place": "49 km WNW of Karluk, Alaska",
-      "time": 1790879011958,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tlqtva"
     }
   ]
 }
