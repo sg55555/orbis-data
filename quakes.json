@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-02T02:15:40Z",
-  "count": 271,
+  "updated": "2026-10-02T02:30:59Z",
+  "count": 269,
   "points": [
     {
       "id": "aka2026tmgeex",
@@ -894,6 +894,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341655"
     },
     {
+      "id": "av94457216",
+      "lon": -152.807,
+      "lat": 60.4648333333333,
+      "depth": 1.63,
+      "mag": -0.86,
+      "place": "78 km NW of Ninilchik, Alaska",
+      "time": 1790866532130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94457216"
+    },
+    {
       "id": "ci41341639",
       "lon": -117.96,
       "lat": 34.5106666666667,
@@ -1032,6 +1042,16 @@
       "place": "3 km SW of Pāhala, Hawaii",
       "time": 1790861786180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047187"
+    },
+    {
+      "id": "av94457106",
+      "lon": -162.02,
+      "lat": 55.3813333333333,
+      "depth": 17.71,
+      "mag": 0.97,
+      "place": "40 km NNE of King Cove, Alaska",
+      "time": 1790861637310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94457106"
     },
     {
       "id": "aka2026tlgzdw",
@@ -1625,12 +1645,12 @@
     },
     {
       "id": "hv75046867",
-      "lon": -155.284332275391,
-      "lat": 19.4221668243408,
-      "depth": 0.569999992847443,
-      "mag": 2.13,
+      "lon": -155.281666666667,
+      "lat": 19.418,
+      "depth": 0.16,
+      "mag": 1.94,
       "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1790847296140,
+      "time": 1790847296120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75046867"
     },
     {
@@ -2672,46 +2692,6 @@
       "place": "15 km WSW of Searles Valley, CA",
       "time": 1790821808430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341391"
-    },
-    {
-      "id": "ci41341383",
-      "lon": -117.007166666667,
-      "lat": 33.5311666666667,
-      "depth": 3.19,
-      "mag": 1.23,
-      "place": "14 km ENE of Temecula, CA",
-      "time": 1790821678140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341383"
-    },
-    {
-      "id": "ci41341375",
-      "lon": -117.007833333333,
-      "lat": 33.527,
-      "depth": 2.79,
-      "mag": 1.56,
-      "place": "14 km ENE of Temecula, CA",
-      "time": 1790821583710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341375"
-    },
-    {
-      "id": "aka2026tkktsl",
-      "lon": -152.575,
-      "lat": 60.277,
-      "depth": 96.9,
-      "mag": 1.3,
-      "place": "56 km WNW of Ninilchik, Alaska",
-      "time": 1790821420567,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tkktsl"
-    },
-    {
-      "id": "ci41341367",
-      "lon": -116.742833333333,
-      "lat": 33.5255,
-      "depth": 3.41,
-      "mag": 0.21,
-      "place": "7 km WSW of Anza, CA",
-      "time": 1790821260140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341367"
     }
   ]
 }
