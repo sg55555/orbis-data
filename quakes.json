@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-02T21:45:39Z",
+  "updated": "2026-10-02T22:01:08Z",
   "count": 225,
   "points": [
+    {
+      "id": "nc75443071",
+      "lon": -122.786834716797,
+      "lat": 38.8153343200684,
+      "depth": 1.58000004291534,
+      "mag": 0.71,
+      "place": "5 km NNW of The Geysers, CA",
+      "time": 1790978016600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443071"
+    },
+    {
+      "id": "hv75048602",
+      "lon": -155.399993896484,
+      "lat": 19.2714996337891,
+      "depth": 31.2600002288818,
+      "mag": 1.73,
+      "place": "11 km NE of Pāhala, Hawaii",
+      "time": 1790977598890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75048602"
+    },
     {
       "id": "aka2026tnthlg",
       "lon": -152.155,
@@ -64,6 +84,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342279"
     },
     {
+      "id": "us6000tz8q",
+      "lon": 157.5867,
+      "lat": 52.7302,
+      "depth": 93.182,
+      "mag": 4.4,
+      "place": "52 km WSW of Paratunka, Russia",
+      "time": 1790975106532,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8q"
+    },
+    {
       "id": "us6000tz8l",
       "lon": 159.8843,
       "lat": 51.6886,
@@ -95,12 +125,12 @@
     },
     {
       "id": "hv75048562",
-      "lon": -155.281997680664,
-      "lat": 19.4148330688477,
-      "depth": -0.389999985694885,
-      "mag": 1.83,
+      "lon": -155.281166666667,
+      "lat": 19.4135,
+      "depth": -0.46,
+      "mag": 1.99,
       "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1790972619450,
+      "time": 1790972619400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75048562"
     },
     {
@@ -2222,36 +2252,6 @@
       "place": "6 km NNW of The Geysers, CA",
       "time": 1790892328340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442596"
-    },
-    {
-      "id": "hv75047507",
-      "lon": -155.281166666667,
-      "lat": 19.4173333333333,
-      "depth": 0.15,
-      "mag": 1.96,
-      "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1790891883830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047507"
-    },
-    {
-      "id": "ok2026tglo",
-      "lon": -96.44966667,
-      "lat": 34.32,
-      "depth": 0,
-      "mag": 1.31,
-      "place": "6 km SSW of Wapanucka, Oklahoma",
-      "time": 1790891394500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026tglo"
-    },
-    {
-      "id": "nc75442591",
-      "lon": -120.354164123535,
-      "lat": 36.2130012512207,
-      "depth": 11.7299995422363,
-      "mag": 1.98,
-      "place": "8 km N of Coalinga, CA",
-      "time": 1790891210120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442591"
     }
   ]
 }
