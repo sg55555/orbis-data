@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-02T20:45:40Z",
-  "count": 228,
+  "updated": "2026-10-02T21:01:10Z",
+  "count": 226,
   "points": [
+    {
+      "id": "us6000tz8a",
+      "lon": 159.3971,
+      "lat": 51.862,
+      "depth": 38.829,
+      "mag": 4.9,
+      "place": "136 km SSE of Vilyuchinsk, Russia",
+      "time": 1790972729894,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8a"
+    },
     {
       "id": "hv75048562",
       "lon": -155.281997680664,
@@ -2252,36 +2262,6 @@
       "place": "2 km NE of Satte, Japan",
       "time": 1790888501707,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyxk"
-    },
-    {
-      "id": "av94457546",
-      "lon": -152.705666666667,
-      "lat": 60.4768333333333,
-      "depth": 2.86,
-      "mag": -0.71,
-      "place": "74 km NW of Ninilchik, Alaska",
-      "time": 1790888126420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94457546"
-    },
-    {
-      "id": "nc75442551",
-      "lon": -122.817337036133,
-      "lat": 38.829833984375,
-      "depth": 1.89999997615814,
-      "mag": 1.09,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1790887653740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442551"
-    },
-    {
-      "id": "nc75442546",
-      "lon": -122.813499450684,
-      "lat": 38.8278350830078,
-      "depth": 1.42999994754791,
-      "mag": 0.7,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1790887512020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442546"
     }
   ]
 }
