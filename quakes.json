@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-02T06:45:42Z",
-  "count": 256,
+  "updated": "2026-10-02T07:01:09Z",
+  "count": 255,
   "points": [
+    {
+      "id": "aka2026tmptzm",
+      "lon": -150.996,
+      "lat": 64.688,
+      "depth": 2.1,
+      "mag": 1.6,
+      "place": "38 km SSW of Manley Hot Springs, Alaska",
+      "time": 1790923991287,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tmptzm"
+    },
     {
       "id": "aka2026tmpfko",
       "lon": -159.761,
@@ -312,6 +322,26 @@
       "place": "37 km N of Petersville, Alaska",
       "time": 1790905337781,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tmfkno"
+    },
+    {
+      "id": "tx2026tjcdst",
+      "lon": -98.97,
+      "lat": 28.842,
+      "depth": 7.0388,
+      "mag": 2.2,
+      "place": "13 km ESE of Pearsall, Texas",
+      "time": 1790904947548,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tjcdst"
+    },
+    {
+      "id": "tx2026tjccst",
+      "lon": -98.975,
+      "lat": 28.858,
+      "depth": 7.3725,
+      "mag": 1.9,
+      "place": "12 km ESE of Pearsall, Texas",
+      "time": 1790904877264,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tjccst"
     },
     {
       "id": "hv75047672",
@@ -2522,46 +2552,6 @@
       "place": "5 km NNW of The Geysers, CA",
       "time": 1790838224370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442191"
-    },
-    {
-      "id": "ci41341511",
-      "lon": -116.761333333333,
-      "lat": 33.5825,
-      "depth": 12.5,
-      "mag": 0.58,
-      "place": "9 km WNW of Anza, CA",
-      "time": 1790837779620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341511"
-    },
-    {
-      "id": "tx2026thqubw",
-      "lon": -101.707,
-      "lat": 32.393,
-      "depth": 8.3496,
-      "mag": 1.2,
-      "place": "14 km S of Ackerly, Texas",
-      "time": 1790837296384,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026thqubw"
-    },
-    {
-      "id": "hv75046692",
-      "lon": -155.260833333333,
-      "lat": 19.3955,
-      "depth": 0.58,
-      "mag": 2.11,
-      "place": "5 km SSW of Volcano, Hawaii",
-      "time": 1790837252020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75046692"
-    },
-    {
-      "id": "hv75046687",
-      "lon": -155.280333333333,
-      "lat": 19.4126666666667,
-      "depth": 0.35,
-      "mag": 2.55,
-      "place": "5 km SW of Volcano, Hawaii",
-      "time": 1790837250450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75046687"
     }
   ]
 }
