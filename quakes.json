@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-02T02:01:11Z",
-  "count": 272,
+  "updated": "2026-10-02T02:15:40Z",
+  "count": 271,
   "points": [
+    {
+      "id": "aka2026tmgeex",
+      "lon": -147.863,
+      "lat": 64.7,
+      "depth": 11.5,
+      "mag": 0.7,
+      "place": "12 km SSW of South Van Horn, Alaska",
+      "time": 1790906706284,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tmgeex"
+    },
     {
       "id": "aka2026tmfkno",
       "lon": -150.893,
@@ -1595,13 +1605,23 @@
     },
     {
       "id": "hv75046882",
-      "lon": -155.282501220703,
-      "lat": 19.4214992523193,
-      "depth": -0.239999994635582,
-      "mag": 1.96,
+      "lon": -155.282,
+      "lat": 19.4176666666667,
+      "depth": -0.05,
+      "mag": 1.98,
       "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1790847525810,
+      "time": 1790847525830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75046882"
+    },
+    {
+      "id": "hv75046877",
+      "lon": -155.289,
+      "lat": 19.4085,
+      "depth": -0.45,
+      "mag": 1.01,
+      "place": "6 km WSW of Volcano, Hawaii",
+      "time": 1790847508450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75046877"
     },
     {
       "id": "hv75046867",
@@ -2692,36 +2712,6 @@
       "place": "7 km WSW of Anza, CA",
       "time": 1790821260140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341367"
-    },
-    {
-      "id": "aka2026tkkife",
-      "lon": -153.249,
-      "lat": 59.879,
-      "depth": 128.9,
-      "mag": 2.2,
-      "place": "49 km ENE of Pedro Bay, Alaska",
-      "time": 1790820623107,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tkkife"
-    },
-    {
-      "id": "us6000typ5",
-      "lon": 130.346,
-      "lat": -6.154,
-      "depth": 94.793,
-      "mag": 4.5,
-      "place": "272 km WSW of Tual, Indonesia",
-      "time": 1790820559068,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000typ5"
-    },
-    {
-      "id": "hv75046392",
-      "lon": -155.664169311523,
-      "lat": 19.1761665344238,
-      "depth": 5.53000020980835,
-      "mag": 1.8,
-      "place": "12 km NNW of Wai‘ōhinu, Hawaii",
-      "time": 1790820184150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75046392"
     }
   ]
 }
