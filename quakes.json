@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-02T20:01:08Z",
-  "count": 228,
+  "updated": "2026-10-02T20:15:40Z",
+  "count": 227,
   "points": [
+    {
+      "id": "nc75443011",
+      "lon": -121.18399810791,
+      "lat": 36.5643348693848,
+      "depth": 5.23999977111816,
+      "mag": 1.89,
+      "place": "5 km NW of Pinnacles, CA",
+      "time": 1790971431540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443011"
+    },
     {
       "id": "nc75442986",
       "lon": -122.877670288086,
@@ -32,6 +42,16 @@
       "place": "12 km W of Anza, CA",
       "time": 1790968997170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342255"
+    },
+    {
+      "id": "tx2026tklcrm",
+      "lon": -104.357,
+      "lat": 31.659,
+      "depth": 7.9456,
+      "mag": 1.7,
+      "place": "57 km S of Whites City, New Mexico",
+      "time": 1790968241044,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tklcrm"
     },
     {
       "id": "nc75442976",
@@ -1445,12 +1465,12 @@
     },
     {
       "id": "hv75047822",
-      "lon": -155.355163574219,
-      "lat": 19.0100002288818,
-      "depth": 30.6100006103516,
-      "mag": 1.95,
-      "place": "24 km ESE of Naalehu, Hawaii",
-      "time": 1790918249970,
+      "lon": -155.360166666667,
+      "lat": 19.016,
+      "depth": 33.71,
+      "mag": 1.9,
+      "place": "23 km ESE of Naalehu, Hawaii",
+      "time": 1790918249910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047822"
     },
     {
@@ -2252,36 +2272,6 @@
       "place": "10 km NE of Honaunau-Napoopoo, Hawaii",
       "time": 1790886491400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047442"
-    },
-    {
-      "id": "uw714113332",
-      "lon": -122.0065,
-      "lat": 46.9428333333333,
-      "depth": 8.31,
-      "mag": 0.29,
-      "place": "15 km SSE of Carbonado, Washington",
-      "time": 1790885194520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714113332"
-    },
-    {
-      "id": "av94457511",
-      "lon": -153.049,
-      "lat": 60.0398333333333,
-      "depth": 2.3,
-      "mag": -0.67,
-      "place": "65 km ENE of Pedro Bay, Alaska",
-      "time": 1790885175130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94457511"
-    },
-    {
-      "id": "uw714113322",
-      "lon": -120.013333333333,
-      "lat": 45.8013333333333,
-      "depth": -0.64,
-      "mag": 1.46,
-      "place": "17 km ENE of Roosevelt, Washington",
-      "time": 1790885020510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714113322"
     }
   ]
 }
