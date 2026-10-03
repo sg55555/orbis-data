@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-03T13:45:38Z",
-  "count": 204,
+  "updated": "2026-10-03T14:01:05Z",
+  "count": 203,
   "points": [
+    {
+      "id": "nc75443431",
+      "lon": -122.817832946777,
+      "lat": 38.8214988708496,
+      "depth": 2,
+      "mag": 0.75,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1791035437520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443431"
+    },
     {
       "id": "nc75443426",
       "lon": -122.816833496094,
@@ -2022,26 +2032,6 @@
       "place": "11 km WNW of Calipatria, CA",
       "time": 1790950617120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342119"
-    },
-    {
-      "id": "us6000tz1c",
-      "lon": 174.2598,
-      "lat": -39.1598,
-      "depth": 10,
-      "mag": 5,
-      "place": "6 km E of Inglewood, New Zealand",
-      "time": 1790949435838,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz1c"
-    },
-    {
-      "id": "hv75048252",
-      "lon": -155.282,
-      "lat": 19.4143333333333,
-      "depth": -0.15,
-      "mag": 1.68,
-      "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1790948906330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75048252"
     }
   ]
 }
