@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-03T17:45:40Z",
+  "updated": "2026-10-03T18:01:04Z",
   "count": 202,
   "points": [
     {
+      "id": "hv75049187",
+      "lon": -155.442001342773,
+      "lat": 19.1098327636719,
+      "depth": 25.6200008392334,
+      "mag": 1.95,
+      "place": "11 km SSE of Pāhala, Hawaii",
+      "time": 1791049623030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75049187"
+    },
+    {
       "id": "ci41342575",
-      "lon": -115.90966796875,
-      "lat": 32.6996650695801,
-      "depth": 8.71000003814697,
-      "mag": 1.29365234838204,
+      "lon": -115.908,
+      "lat": 32.7,
+      "depth": 9.75,
+      "mag": 1.23,
       "place": "9 km ESE of Ocotillo, CA",
-      "time": 1791049401740,
+      "time": 1791049401600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342575"
     },
     {
@@ -52,6 +62,16 @@
       "place": "11 km WNW of Cobb, CA",
       "time": 1791048297860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443541"
+    },
+    {
+      "id": "us6000tzdj",
+      "lon": 147.1678,
+      "lat": -6.0496,
+      "depth": 81.86,
+      "mag": 4.6,
+      "place": "76 km NNE of Lae, Papua New Guinea",
+      "time": 1791048252545,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdj"
     },
     {
       "id": "aka2026tpgsir",
@@ -2002,26 +2022,6 @@
       "place": "11 km SE of Tyonek, Alaska",
       "time": 1790964210509,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tnmdet"
-    },
-    {
-      "id": "aka2026tnlzjr",
-      "lon": -150.786,
-      "lat": 58.182,
-      "depth": 9.4,
-      "mag": 2.2,
-      "place": "105 km ENE of Ouzinkie, Alaska",
-      "time": 1790963947722,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tnlzjr"
-    },
-    {
-      "id": "hv75048472",
-      "lon": -155.279,
-      "lat": 19.4155,
-      "depth": 0.3,
-      "mag": 3.49,
-      "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1790963758410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75048472"
     }
   ]
 }
