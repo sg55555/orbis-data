@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-03T02:15:41Z",
-  "count": 230,
+  "updated": "2026-10-03T02:30:58Z",
+  "count": 232,
   "points": [
+    {
+      "id": "ci41342359",
+      "lon": -116.805833333333,
+      "lat": 33.5675,
+      "depth": 6.67,
+      "mag": 0.54,
+      "place": "12 km W of Anza, CA",
+      "time": 1790994339980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342359"
+    },
+    {
+      "id": "nc75443226",
+      "lon": -121.047668457031,
+      "lat": 36.0303344726562,
+      "depth": 9.92000007629395,
+      "mag": 1.75,
+      "place": "11 km SSW of San Lucas, CA",
+      "time": 1790994119800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443226"
+    },
     {
       "id": "ci41342351",
       "lon": -115.259666666667,
@@ -112,6 +132,16 @@
       "place": "15 km WSW of Yelizovo, Russia",
       "time": 1790986861071,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz9z"
+    },
+    {
+      "id": "us6000tz9w",
+      "lon": 130.6093,
+      "lat": 31.2953,
+      "depth": 126.853,
+      "mag": 4.5,
+      "place": "7 km NNW of Ibusuki, Japan",
+      "time": 1790986298239,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz9w"
     },
     {
       "id": "aka2026tnyhqc",
@@ -2292,16 +2322,6 @@
       "place": "75 km W of Salamatof, Alaska",
       "time": 1790908837950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94457801"
-    },
-    {
-      "id": "hv75047692",
-      "lon": -155.511672973633,
-      "lat": 19.1718330383301,
-      "depth": 30.4300003051758,
-      "mag": 1.88,
-      "place": "4 km SW of Pāhala, Hawaii",
-      "time": 1790908025850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047692"
     }
   ]
 }
