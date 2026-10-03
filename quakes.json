@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-03T18:15:47Z",
-  "count": 200,
+  "updated": "2026-10-03T18:30:57Z",
+  "count": 201,
   "points": [
+    {
+      "id": "aka2026tpivaf",
+      "lon": -146.671,
+      "lat": 61.418,
+      "depth": 19.6,
+      "mag": 2.1,
+      "place": "36 km NNW of Valdez, Alaska",
+      "time": 1791051805375,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tpivaf"
+    },
+    {
+      "id": "aka2026tpintz",
+      "lon": -149.748,
+      "lat": 64.8,
+      "depth": 7.6,
+      "mag": 1.4,
+      "place": "37 km NW of Four Mile Road, Alaska",
+      "time": 1791051318801,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tpintz"
+    },
     {
       "id": "hv75049187",
       "lon": -155.442001342773,
@@ -122,6 +142,16 @@
       "place": "56 km E of Denali Park, Alaska",
       "time": 1791044206466,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tpepfk"
+    },
+    {
+      "id": "us6000tzda",
+      "lon": -175.2905,
+      "lat": 51.6964,
+      "depth": 50.31,
+      "mag": 4.1,
+      "place": "93 km SW of Atka, Alaska",
+      "time": 1791043611093,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzda"
     },
     {
       "id": "nc75443511",
@@ -1982,26 +2012,6 @@
       "place": "4 km E of Anza, CA",
       "time": 1790966232620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342231"
-    },
-    {
-      "id": "us6000tz7b",
-      "lon": 159.8307,
-      "lat": 51.5775,
-      "depth": 10,
-      "mag": 5,
-      "place": "179 km SSE of Vilyuchinsk, Russia",
-      "time": 1790965520940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz7b"
-    },
-    {
-      "id": "nc75442936",
-      "lon": -122.814666748047,
-      "lat": 38.8143348693848,
-      "depth": 2.92000007629395,
-      "mag": 0.98,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1790965122000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442936"
     }
   ]
 }
