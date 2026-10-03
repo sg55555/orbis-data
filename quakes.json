@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-03T23:15:38Z",
-  "count": 181,
+  "updated": "2026-10-03T23:30:56Z",
+  "count": 179,
   "points": [
+    {
+      "id": "nc75443846",
+      "lon": -122.812164306641,
+      "lat": 38.8361663818359,
+      "depth": 1.72000002861023,
+      "mag": 0.68,
+      "place": "8 km WNW of Cobb, CA",
+      "time": 1791069524530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443846"
+    },
     {
       "id": "us6000tzer",
       "lon": 118.9078,
@@ -415,12 +425,12 @@
     },
     {
       "id": "aka2026tpexln",
-      "lon": -147.774,
-      "lat": 63.73,
-      "depth": 6.6,
-      "mag": 1.5,
-      "place": "56 km E of Denali Park, Alaska",
-      "time": 1791044776130,
+      "lon": -147.786,
+      "lat": 63.717,
+      "depth": 6.1,
+      "mag": 1.6,
+      "place": "55 km E of Denali Park, Alaska",
+      "time": 1791044776079,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tpexln"
     },
     {
@@ -1782,36 +1792,6 @@
       "place": "12 km NNE of Parkfield, CA",
       "time": 1790984210510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443176"
-    },
-    {
-      "id": "nc75443166",
-      "lon": -122.815498352051,
-      "lat": 38.7968330383301,
-      "depth": 2.99000000953674,
-      "mag": 0.5,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": 1790983660300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443166"
-    },
-    {
-      "id": "nc75443161",
-      "lon": -121.025001525879,
-      "lat": 36.5304985046387,
-      "depth": 25.3899993896484,
-      "mag": 1.5,
-      "place": "11 km E of Pinnacles, CA",
-      "time": 1790982992660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443161"
-    },
-    {
-      "id": "ci41342311",
-      "lon": -117.694,
-      "lat": 35.8798333333333,
-      "depth": 10.17,
-      "mag": 0.58,
-      "place": "20 km ESE of Little Lake, CA",
-      "time": 1790982984700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342311"
     }
   ]
 }
