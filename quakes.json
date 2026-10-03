@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-03T20:15:38Z",
-  "count": 197,
+  "updated": "2026-10-03T20:30:57Z",
+  "count": 193,
   "points": [
+    {
+      "id": "nc75443661",
+      "lon": -122.789329528809,
+      "lat": 38.8133316040039,
+      "depth": 3.17000007629395,
+      "mag": 0.48,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1791058834270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443661"
+    },
     {
       "id": "ci41342631",
       "lon": -117.658166666667,
@@ -12,6 +22,16 @@
       "place": "10 km WSW of Corona, CA",
       "time": 1791058147720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342631"
+    },
+    {
+      "id": "us6000tze2",
+      "lon": 159.8296,
+      "lat": 51.5457,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "182 km SSE of Vilyuchinsk, Russia",
+      "time": 1791057644104,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tze2"
     },
     {
       "id": "ci41342615",
@@ -1912,66 +1932,6 @@
       "place": "86 km E of Noda, Japan",
       "time": 1790973296862,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8f"
-    },
-    {
-      "id": "us6000tz8c",
-      "lon": 159.665,
-      "lat": 51.3149,
-      "depth": 10,
-      "mag": 5.1,
-      "place": "199 km SSE of Vilyuchinsk, Russia",
-      "time": 1790972847120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8c"
-    },
-    {
-      "id": "us6000tz8b",
-      "lon": 152.8363,
-      "lat": -4.565,
-      "depth": 86.736,
-      "mag": 4.6,
-      "place": "67 km ESE of Kokopo, Papua New Guinea",
-      "time": 1790972762878,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8b"
-    },
-    {
-      "id": "us6000tz8a",
-      "lon": 159.3971,
-      "lat": 51.862,
-      "depth": 38.829,
-      "mag": 4.9,
-      "place": "136 km SSE of Vilyuchinsk, Russia",
-      "time": 1790972729894,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8a"
-    },
-    {
-      "id": "hv75048562",
-      "lon": -155.281166666667,
-      "lat": 19.4135,
-      "depth": -0.46,
-      "mag": 1.99,
-      "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1790972619400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75048562"
-    },
-    {
-      "id": "av94458736",
-      "lon": -153.048166666667,
-      "lat": 60.0476666666667,
-      "depth": 1.98,
-      "mag": -0.66,
-      "place": "65 km ENE of Pedro Bay, Alaska",
-      "time": 1790972218340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94458736"
-    },
-    {
-      "id": "tx2026tknhdk",
-      "lon": -104.364,
-      "lat": 31.658,
-      "depth": 6.9714,
-      "mag": 1.7,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": 1790972179694,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tknhdk"
     }
   ]
 }
