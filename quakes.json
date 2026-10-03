@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-03T11:15:46Z",
-  "count": 212,
+  "updated": "2026-10-03T11:30:57Z",
+  "count": 214,
   "points": [
+    {
+      "id": "hv75049022",
+      "lon": -155.510833740234,
+      "lat": 19.1823329925537,
+      "depth": 31.2600002288818,
+      "mag": 2.14,
+      "place": "4 km SW of Pāhala, Hawaii",
+      "time": 1791026405120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75049022"
+    },
+    {
+      "id": "aka2026touppm",
+      "lon": -148.346,
+      "lat": 62.152,
+      "depth": 38.5,
+      "mag": 1.5,
+      "place": "40 km N of Chickaloon, Alaska",
+      "time": 1791026276969,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026touppm"
+    },
+    {
+      "id": "us6000tzc5",
+      "lon": 148.3446,
+      "lat": -5.6287,
+      "depth": 232.07,
+      "mag": 4.4,
+      "place": "116 km NNE of Finschhafen, Papua New Guinea",
+      "time": 1791025545564,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzc5"
+    },
     {
       "id": "hv75049017",
       "lon": -155.292831420898,
@@ -84,6 +114,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443376"
     },
     {
+      "id": "pr2026276000",
+      "lon": -67.3978,
+      "lat": 18.4461,
+      "depth": 6,
+      "mag": 3.85,
+      "place": "19 km NW of Rincón, Puerto Rico",
+      "time": 1791023738360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026276000"
+    },
+    {
       "id": "nc75443371",
       "lon": -122.84349822998,
       "lat": 38.8228340148926,
@@ -92,16 +132,6 @@
       "place": "9 km NW of The Geysers, CA",
       "time": 1791023737560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443371"
-    },
-    {
-      "id": "us6000tzc3",
-      "lon": -67.4859,
-      "lat": 18.4882,
-      "depth": 10,
-      "mag": 3.9,
-      "place": "29 km WNW of Rincón, Puerto Rico",
-      "time": 1791023736138,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzc3"
     },
     {
       "id": "nc75443366",
@@ -2112,16 +2142,6 @@
       "place": "9 km SSW of Yepocapa, Guatemala",
       "time": 1790940916003,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz0z"
-    },
-    {
-      "id": "uu80008138",
-      "lon": -112.602666666667,
-      "lat": 41.9076666666667,
-      "depth": 1.77,
-      "mag": 0.68,
-      "place": "10 km SE of Snowville, Utah",
-      "time": 1790940272570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80008138"
     }
   ]
 }
