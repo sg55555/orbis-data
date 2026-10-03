@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-03T23:01:07Z",
-  "count": 182,
+  "updated": "2026-10-03T23:15:38Z",
+  "count": 181,
   "points": [
+    {
+      "id": "us6000tzer",
+      "lon": 118.9078,
+      "lat": -9.5672,
+      "depth": 45.951,
+      "mag": 5.9,
+      "place": "39 km WSW of Tambolaka, Indonesia",
+      "time": 1791068155358,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzer"
+    },
     {
       "id": "aka2026tprqrm",
       "lon": -157.05,
@@ -1802,26 +1812,6 @@
       "place": "20 km ESE of Little Lake, CA",
       "time": 1790982984700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342311"
-    },
-    {
-      "id": "aka2026tnwjbm",
-      "lon": -152.679,
-      "lat": 60.69,
-      "depth": 130.6,
-      "mag": 1.3,
-      "place": "74 km W of Salamatof, Alaska",
-      "time": 1790982606419,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tnwjbm"
-    },
-    {
-      "id": "uw714115031",
-      "lon": -120.81,
-      "lat": 46.7225,
-      "depth": 16.98,
-      "mag": 1.19,
-      "place": "4 km WNW of Tieton, Washington",
-      "time": 1790982510510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714115031"
     }
   ]
 }
