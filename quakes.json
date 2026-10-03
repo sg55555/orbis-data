@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-03T20:01:04Z",
+  "updated": "2026-10-03T20:15:38Z",
   "count": 197,
   "points": [
+    {
+      "id": "ci41342631",
+      "lon": -117.658166666667,
+      "lat": 33.8218333333333,
+      "depth": 6.93,
+      "mag": 1,
+      "place": "10 km WSW of Corona, CA",
+      "time": 1791058147720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342631"
+    },
     {
       "id": "ci41342615",
       "lon": -117.580666666667,
@@ -32,6 +42,16 @@
       "place": "16 km ESE of Anza, CA",
       "time": 1791056524410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342607"
+    },
+    {
+      "id": "us6000tzdz",
+      "lon": 159.9887,
+      "lat": 51.4038,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "201 km SSE of Vilyuchinsk, Russia",
+      "time": 1791055856985,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdz"
     },
     {
       "id": "hv75049212",
@@ -1952,26 +1972,6 @@
       "place": "57 km S of Whites City, New Mexico",
       "time": 1790972179694,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tknhdk"
-    },
-    {
-      "id": "ci41342263",
-      "lon": -117.608166666667,
-      "lat": 35.6213333333333,
-      "depth": 8.4,
-      "mag": 1.17,
-      "place": "6 km E of Ridgecrest, CA",
-      "time": 1790972041190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342263"
-    },
-    {
-      "id": "nc75443011",
-      "lon": -121.18399810791,
-      "lat": 36.5643348693848,
-      "depth": 5.23999977111816,
-      "mag": 1.89,
-      "place": "5 km NW of Pinnacles, CA",
-      "time": 1790971431540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443011"
     }
   ]
 }
