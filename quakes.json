@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-03T22:02:04Z",
-  "count": 184,
+  "updated": "2026-10-03T22:16:00Z",
+  "count": 181,
   "points": [
+    {
+      "id": "ci41342663",
+      "lon": -117.779,
+      "lat": 36.0205,
+      "depth": 1.18,
+      "mag": 0.69,
+      "place": "15 km NE of Little Lake, CA",
+      "time": 1791065460300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342663"
+    },
     {
       "id": "ci41342655",
       "lon": -118.079,
@@ -1802,46 +1812,6 @@
       "place": "22 km ESE of Little Lake, CA",
       "time": 1790979640990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342295"
-    },
-    {
-      "id": "nc75443101",
-      "lon": -122.826499938965,
-      "lat": 38.824333190918,
-      "depth": 1,
-      "mag": 0.87,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1790978806310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443101"
-    },
-    {
-      "id": "nc75443096",
-      "lon": -122.824836730957,
-      "lat": 38.8241653442383,
-      "depth": 0.829999983310699,
-      "mag": 1.08,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1790978782080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443096"
-    },
-    {
-      "id": "nc75443091",
-      "lon": -122.824668884277,
-      "lat": 38.824333190918,
-      "depth": 0.75,
-      "mag": 1.06,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1790978760960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443091"
-    },
-    {
-      "id": "nc75443086",
-      "lon": -122.69766998291,
-      "lat": 38.2533340454102,
-      "depth": -0.689999997615814,
-      "mag": 2.37,
-      "place": "6 km WNW of Petaluma, CA",
-      "time": 1790978573680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443086"
     }
   ]
 }
