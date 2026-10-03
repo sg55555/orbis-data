@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-03T00:30:54Z",
-  "count": 226,
+  "updated": "2026-10-03T00:45:41Z",
+  "count": 222,
   "points": [
     {
+      "id": "ci41342327",
+      "lon": -117.383003234863,
+      "lat": 35.9575004577637,
+      "depth": 1.87000000476837,
+      "mag": 2.20753875330167,
+      "place": "21 km N of Searles Valley, CA",
+      "time": 1790988135940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342327"
+    },
+    {
       "id": "ci41342319",
-      "lon": -118.770835876465,
-      "lat": 34.3998336791992,
-      "depth": 2.17000007629395,
-      "mag": 1.88762504296497,
+      "lon": -118.766666666667,
+      "lat": 34.3978333333333,
+      "depth": 3.11,
+      "mag": 1.8,
       "place": "3 km SE of Piru, CA",
-      "time": 1790987285580,
+      "time": 1790987285630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342319"
     },
     {
@@ -1634,6 +1644,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tmrwgm"
     },
     {
+      "id": "av94458096",
+      "lon": -153.087333333333,
+      "lat": 60.0421666666667,
+      "depth": -2.36,
+      "mag": -0.44,
+      "place": "63 km ENE of Pedro Bay, Alaska",
+      "time": 1790927245500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94458096"
+    },
+    {
       "id": "nc75442741",
       "lon": -122.798500061035,
       "lat": 38.8288345336914,
@@ -2202,66 +2222,6 @@
       "place": "22 km SSE of Pāhala, Hawaii",
       "time": 1790902554510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047637"
-    },
-    {
-      "id": "av94457741",
-      "lon": -152.098,
-      "lat": 61.331,
-      "depth": 2.63,
-      "mag": -0.36,
-      "place": "58 km WNW of Beluga, Alaska",
-      "time": 1790901545790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94457741"
-    },
-    {
-      "id": "av94457736",
-      "lon": -153.086166666667,
-      "lat": 60.0518333333333,
-      "depth": 1.66,
-      "mag": -0.9,
-      "place": "64 km ENE of Pedro Bay, Alaska",
-      "time": 1790901512120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94457736"
-    },
-    {
-      "id": "aka2026tmdftu",
-      "lon": -147.372,
-      "lat": 64.818,
-      "depth": 5,
-      "mag": 0.9,
-      "place": "7 km N of North Pole, Alaska",
-      "time": 1790901417771,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tmdftu"
-    },
-    {
-      "id": "tx2026tjaddp",
-      "lon": -101.656,
-      "lat": 32.379,
-      "depth": 6.4209,
-      "mag": 0.6,
-      "place": "17 km SSE of Ackerly, Texas",
-      "time": 1790901292917,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tjaddp"
-    },
-    {
-      "id": "aka2026tmdciz",
-      "lon": -147.393,
-      "lat": 64.801,
-      "depth": 4.3,
-      "mag": 1.7,
-      "place": "5 km NNW of North Pole, Alaska",
-      "time": 1790901181755,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tmdciz"
-    },
-    {
-      "id": "ci41341887",
-      "lon": -117.892333333333,
-      "lat": 36.0911666666667,
-      "depth": 6.1,
-      "mag": 0.81,
-      "place": "7 km NE of Coso Junction, CA",
-      "time": 1790901089930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341887"
     }
   ]
 }
