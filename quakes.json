@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-03T23:30:56Z",
-  "count": 179,
+  "updated": "2026-10-03T23:45:42Z",
+  "count": 181,
   "points": [
+    {
+      "id": "ci41342679",
+      "lon": -117.843333333333,
+      "lat": 36.0723333333333,
+      "depth": 2.68,
+      "mag": 0.76,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": 1791070814270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342679"
+    },
+    {
+      "id": "ci41342671",
+      "lon": -116.3905,
+      "lat": 33.0568333333333,
+      "depth": 13.22,
+      "mag": 1.05,
+      "place": "20 km E of Julian, CA",
+      "time": 1791070147150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342671"
+    },
     {
       "id": "nc75443846",
       "lon": -122.812164306641,
@@ -12,6 +32,16 @@
       "place": "8 km WNW of Cobb, CA",
       "time": 1791069524530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443846"
+    },
+    {
+      "id": "us6000tzf7",
+      "lon": 122.9296,
+      "lat": 3.5895,
+      "depth": 575.042,
+      "mag": 4.5,
+      "place": "293 km SSE of Tabiauan, Philippines",
+      "time": 1791069275782,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7"
     },
     {
       "id": "us6000tzer",
@@ -102,6 +132,16 @@
       "place": "8 km ESE of Cloverdale, CA",
       "time": 1791062858150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443706"
+    },
+    {
+      "id": "aka2026tpowrn",
+      "lon": -173.357,
+      "lat": 51.667,
+      "depth": 24.9,
+      "mag": 3.6,
+      "place": "82 km SE of Atka, Alaska",
+      "time": 1791062722801,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tpowrn"
     },
     {
       "id": "aka2026tpotlz",
@@ -1772,26 +1812,6 @@
       "place": "153 km SSE of Vilyuchinsk, Russia",
       "time": 1790985253503,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz9s"
-    },
-    {
-      "id": "hv75048662",
-      "lon": -155.420669555664,
-      "lat": 19.0965003967285,
-      "depth": 28.5900001525879,
-      "mag": 1.95,
-      "place": "13 km SSE of Pāhala, Hawaii",
-      "time": 1790984443460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75048662"
-    },
-    {
-      "id": "nc75443176",
-      "lon": -120.372497558594,
-      "lat": 35.9968338012695,
-      "depth": 8,
-      "mag": 0.93,
-      "place": "12 km NNE of Parkfield, CA",
-      "time": 1790984210510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443176"
     }
   ]
 }
