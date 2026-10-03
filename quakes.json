@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-03T01:30:51Z",
-  "count": 230,
+  "updated": "2026-10-03T01:45:42Z",
+  "count": 227,
   "points": [
+    {
+      "id": "ci41342343",
+      "lon": -119.653833333333,
+      "lat": 34.3106666666667,
+      "depth": 3,
+      "mag": 1.37,
+      "place": "13 km SSE of Santa Barbara, CA",
+      "time": 1790991305380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342343"
+    },
     {
       "id": "hv75048727",
       "lon": -154.921005249023,
@@ -1304,6 +1314,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442811"
     },
     {
+      "id": "av94458251",
+      "lon": -153.081,
+      "lat": 60.0655,
+      "depth": 1.51,
+      "mag": -0.99,
+      "place": "65 km ENE of Pedro Bay, Alaska",
+      "time": 1790938087030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94458251"
+    },
+    {
       "id": "aka2026tmxicf",
       "lon": -153.523,
       "lat": 59.499,
@@ -2252,56 +2272,6 @@
       "place": "15 km E of Pearsall, Texas",
       "time": 1790905783364,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tjcpte"
-    },
-    {
-      "id": "aka2026tmfkno",
-      "lon": -150.893,
-      "lat": 62.83,
-      "depth": 89.6,
-      "mag": 2.1,
-      "place": "37 km N of Petersville, Alaska",
-      "time": 1790905337781,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tmfkno"
-    },
-    {
-      "id": "tx2026tjcdst",
-      "lon": -98.97,
-      "lat": 28.842,
-      "depth": 7.0388,
-      "mag": 2.2,
-      "place": "13 km ESE of Pearsall, Texas",
-      "time": 1790904947548,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tjcdst"
-    },
-    {
-      "id": "tx2026tjccst",
-      "lon": -98.975,
-      "lat": 28.858,
-      "depth": 7.3725,
-      "mag": 1.9,
-      "place": "12 km ESE of Pearsall, Texas",
-      "time": 1790904877264,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tjccst"
-    },
-    {
-      "id": "uu80158341",
-      "lon": -110.998,
-      "lat": 44.4433333333333,
-      "depth": 5.19,
-      "mag": 0.84,
-      "place": "25 km SSE of West Yellowstone, Montana",
-      "time": 1790904791810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80158341"
-    },
-    {
-      "id": "hv75047672",
-      "lon": -155.486831665039,
-      "lat": 19.2084999084473,
-      "depth": 26.8299999237061,
-      "mag": 1.91,
-      "place": "1 km NW of Pāhala, Hawaii",
-      "time": 1790904700770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75047672"
     }
   ]
 }
