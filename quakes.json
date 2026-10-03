@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-03T14:30:51Z",
-  "count": 207,
+  "updated": "2026-10-03T14:45:42Z",
+  "count": 206,
   "points": [
+    {
+      "id": "nc75443451",
+      "lon": -122.819000244141,
+      "lat": 38.8318328857422,
+      "depth": -0.720000028610229,
+      "mag": 0.64,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1791038497680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443451"
+    },
     {
       "id": "aka2026tpazjn",
       "lon": -152.299,
@@ -2052,26 +2062,6 @@
       "place": "38 km W of Cantwell, Alaska",
       "time": 1790952379777,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tnfofp"
-    },
-    {
-      "id": "ci41342143",
-      "lon": -116.7745,
-      "lat": 33.6676666666667,
-      "depth": 11.22,
-      "mag": 0.21,
-      "place": "10 km SSW of Idyllwild, CA",
-      "time": 1790951833040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342143"
-    },
-    {
-      "id": "aka2026tnfazg",
-      "lon": -150.553,
-      "lat": 63.275,
-      "depth": 135,
-      "mag": 2.5,
-      "place": "65 km ESE of Denali National Park, Alaska",
-      "time": 1790951463936,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tnfazg"
     }
   ]
 }
