@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-03T07:03:34Z",
-  "count": 235,
+  "updated": "2026-10-03T07:15:40Z",
+  "count": 236,
   "points": [
+    {
+      "id": "ci41342423",
+      "lon": -116.272,
+      "lat": 34.5828333333333,
+      "depth": 0.4,
+      "mag": 1.17,
+      "place": "18 km SSW of Ludlow, CA",
+      "time": 1791011473080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342423"
+    },
+    {
+      "id": "aka2026tomhzs",
+      "lon": -153.037,
+      "lat": 60.042,
+      "depth": 5,
+      "mag": 0.5,
+      "place": "66 km ENE of Pedro Bay, Alaska",
+      "time": 1791011321736,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tomhzs"
+    },
     {
       "id": "ci41342415",
       "lon": -118.626333333333,
@@ -2342,16 +2362,6 @@
       "place": "8 km SW of Idyllwild, CA",
       "time": 1790925295220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341967"
-    },
-    {
-      "id": "nc75442731",
-      "lon": -120.52466583252,
-      "lat": 35.9673347473145,
-      "depth": 10.6800003051758,
-      "mag": 1.96,
-      "place": "11 km NW of Parkfield, CA",
-      "time": 1790925272560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442731"
     }
   ]
 }
