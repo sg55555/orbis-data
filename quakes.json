@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-04T10:01:06Z",
-  "count": 201,
+  "updated": "2026-10-04T10:15:38Z",
+  "count": 198,
   "points": [
+    {
+      "id": "ci41342951",
+      "lon": -116.786666666667,
+      "lat": 33.679,
+      "depth": 15.96,
+      "mag": 1.03,
+      "place": "9 km SW of Idyllwild, CA",
+      "time": 1791108209700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342951"
+    },
     {
       "id": "ci41342943",
       "lon": -117.8085,
@@ -1972,46 +1982,6 @@
       "place": "23 km N of Chickaloon, Alaska",
       "time": 1791022810972,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tosrbg"
-    },
-    {
-      "id": "aka2026tosjqv",
-      "lon": -156.903,
-      "lat": 56.74,
-      "depth": 5,
-      "mag": 2.1,
-      "place": "91 km SSE of Ugashik, Alaska",
-      "time": 1791022231520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tosjqv"
-    },
-    {
-      "id": "hv75049007",
-      "lon": -155.29216003418,
-      "lat": 19.4068336486816,
-      "depth": 0.569999992847443,
-      "mag": 2.1,
-      "place": "7 km WSW of Volcano, Hawaii",
-      "time": 1791022163820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75049007"
-    },
-    {
-      "id": "aka2026toserr",
-      "lon": -156.29,
-      "lat": 56.299,
-      "depth": 63.9,
-      "mag": 3.2,
-      "place": "130 km E of Chignik, Alaska",
-      "time": 1791021887331,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026toserr"
-    },
-    {
-      "id": "us6000tzbz",
-      "lon": 160.6848,
-      "lat": 51.9144,
-      "depth": 10,
-      "mag": 4.2,
-      "place": "189 km SE of Petropavlovsk-Kamchatsky, Russia",
-      "time": 1791021777391,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzbz"
     }
   ]
 }
