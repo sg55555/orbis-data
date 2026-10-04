@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-04T01:15:46Z",
-  "count": 175,
+  "updated": "2026-10-04T01:30:53Z",
+  "count": 176,
   "points": [
+    {
+      "id": "nc75443881",
+      "lon": -122.768836975098,
+      "lat": 38.7988319396973,
+      "depth": 3.77999997138977,
+      "mag": 0.23,
+      "place": "3 km NNW of The Geysers, CA",
+      "time": 1791076462200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443881"
+    },
     {
       "id": "nc75443871",
       "lon": -122.809501647949,
@@ -22,6 +32,16 @@
       "place": "14 km ENE of Ridgecrest, CA",
       "time": 1791075854480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342735"
+    },
+    {
+      "id": "us6000tzfr",
+      "lon": 24.8055,
+      "lat": 35.2454,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "5 km SSW of Zonianá, Greece",
+      "time": 1791074921995,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfr"
     },
     {
       "id": "ci41342727",
@@ -1742,16 +1762,6 @@
       "place": "13 km SSE of Santa Barbara, CA",
       "time": 1790991305380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342343"
-    },
-    {
-      "id": "hv75048727",
-      "lon": -154.921005249023,
-      "lat": 19.3573341369629,
-      "depth": 30.8199996948242,
-      "mag": 1.77,
-      "place": "12 km S of Leilani Estates, Hawaii",
-      "time": 1790990289150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75048727"
     }
   ]
 }
