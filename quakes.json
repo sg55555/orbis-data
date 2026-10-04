@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-04T01:01:02Z",
-  "count": 174,
+  "updated": "2026-10-04T01:15:46Z",
+  "count": 175,
   "points": [
+    {
+      "id": "nc75443871",
+      "lon": -122.809501647949,
+      "lat": 38.8269996643066,
+      "depth": 1.62000000476837,
+      "mag": 1.08,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1791076225940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443871"
+    },
+    {
+      "id": "ci41342735",
+      "lon": -117.536666666667,
+      "lat": 35.6733333333333,
+      "depth": 4.88,
+      "mag": 0.42,
+      "place": "14 km ENE of Ridgecrest, CA",
+      "time": 1791075854480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342735"
+    },
     {
       "id": "ci41342727",
       "lon": -117.800166666667,
@@ -1732,16 +1752,6 @@
       "place": "12 km S of Leilani Estates, Hawaii",
       "time": 1790990289150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75048727"
-    },
-    {
-      "id": "us6000tza4",
-      "lon": -176.6858,
-      "lat": 51.5689,
-      "depth": 49.148,
-      "mag": 4.1,
-      "place": "34 km S of Adak, Alaska",
-      "time": 1790989392099,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tza4"
     }
   ]
 }
