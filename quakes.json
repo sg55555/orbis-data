@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-04T20:45:41Z",
+  "updated": "2026-10-04T21:01:09Z",
   "count": 205,
   "points": [
+    {
+      "id": "nc75444401",
+      "lon": -122.768836975098,
+      "lat": 38.787166595459,
+      "depth": 4.07999992370605,
+      "mag": 0.79,
+      "place": "2 km NW of The Geysers, CA",
+      "time": 1791146820590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444401"
+    },
     {
       "id": "aka2026trjftv",
       "lon": -151.779,
@@ -32,6 +42,16 @@
       "place": "8 km SW of Trapper Creek, Alaska",
       "time": 1791144992960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026triprg"
+    },
+    {
+      "id": "us6000tzkm",
+      "lon": 151.3579,
+      "lat": 45.8198,
+      "depth": 35,
+      "mag": 4.4,
+      "place": "279 km ENE of Kuril’sk, Russia",
+      "time": 1791144987253,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzkm"
     },
     {
       "id": "aka2026trihoy",
@@ -2032,26 +2052,6 @@
       "place": "42 km SSE of Chignik, Alaska",
       "time": 1791061605650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tpogqq"
-    },
-    {
-      "id": "nc75443681",
-      "lon": -122.795501708984,
-      "lat": 38.8233337402344,
-      "depth": 2.70000004768372,
-      "mag": 1.82,
-      "place": "6 km NNW of The Geysers, CA",
-      "time": 1791060495610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443681"
-    },
-    {
-      "id": "nc75443676",
-      "lon": -121.720336914062,
-      "lat": 37.359001159668,
-      "depth": 5.59000015258789,
-      "mag": 2.4,
-      "place": "9 km E of Alum Rock, CA",
-      "time": 1791060359160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443676"
     }
   ]
 }
