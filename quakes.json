@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-04T00:45:42Z",
-  "count": 176,
+  "updated": "2026-10-04T01:01:02Z",
+  "count": 174,
   "points": [
     {
       "id": "ci41342727",
@@ -142,6 +142,16 @@
       "place": "12 km SE of Livermore, CA",
       "time": 1791067639380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443826"
+    },
+    {
+      "id": "us6000tzen",
+      "lon": 142.8123,
+      "lat": 29.053,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "Izu Islands, Japan region",
+      "time": 1791066443407,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzen"
     },
     {
       "id": "nn00925236",
@@ -1732,36 +1742,6 @@
       "place": "34 km S of Adak, Alaska",
       "time": 1790989392099,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tza4"
-    },
-    {
-      "id": "aka2026tnzxfw",
-      "lon": -147.46,
-      "lat": 64.974,
-      "depth": 1.5,
-      "mag": 1.4,
-      "place": "7 km ENE of Fox, Alaska",
-      "time": 1790988987094,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tnzxfw"
-    },
-    {
-      "id": "pr71535443",
-      "lon": -66.9553333333333,
-      "lat": 17.9901666666667,
-      "depth": 6.59,
-      "mag": 1.41,
-      "place": "4 km W of Fuig, Puerto Rico",
-      "time": 1790988778220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535443"
-    },
-    {
-      "id": "pr71535433",
-      "lon": -66.9578333333333,
-      "lat": 17.9385,
-      "depth": 7.28,
-      "mag": 2.1,
-      "place": "6 km SW of Guánica, Puerto Rico",
-      "time": 1790988757120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535433"
     }
   ]
 }
