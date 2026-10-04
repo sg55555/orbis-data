@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-03T23:45:42Z",
-  "count": 181,
+  "updated": "2026-10-04T00:05:58Z",
+  "count": 178,
   "points": [
+    {
+      "id": "ci41342695",
+      "lon": -117.401666666667,
+      "lat": 34.1398333333333,
+      "depth": 6.79,
+      "mag": 0.79,
+      "place": "5 km NW of Rialto, CA",
+      "time": 1791072009290,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342695"
+    },
     {
       "id": "ci41342679",
       "lon": -117.843333333333,
@@ -12,6 +22,16 @@
       "place": "10 km ENE of Coso Junction, CA",
       "time": 1791070814270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342679"
+    },
+    {
+      "id": "us6000tzfg",
+      "lon": 95.2428,
+      "lat": 4.8223,
+      "depth": 69.726,
+      "mag": 5.6,
+      "place": "80 km S of Banda Aceh, Indonesia",
+      "time": 1791070655621,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg"
     },
     {
       "id": "ci41342671",
@@ -1762,56 +1782,6 @@
       "place": "8 km ENE of Badger, Alaska",
       "time": 1790986107678,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tnyhqc"
-    },
-    {
-      "id": "us6000tz9v",
-      "lon": 159.2731,
-      "lat": 51.9749,
-      "depth": 38.69,
-      "mag": 4.8,
-      "place": "121 km SSE of Vilyuchinsk, Russia",
-      "time": 1790985698784,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz9v"
-    },
-    {
-      "id": "us6000tz9t",
-      "lon": 159.7182,
-      "lat": 51.5846,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "174 km SSE of Vilyuchinsk, Russia",
-      "time": 1790985566824,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz9t"
-    },
-    {
-      "id": "aka2026tnxwuh",
-      "lon": -150.682,
-      "lat": 63.261,
-      "depth": 132.7,
-      "mag": 2.2,
-      "place": "60 km ESE of Denali National Park, Alaska",
-      "time": 1790985462666,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tnxwuh"
-    },
-    {
-      "id": "av94458921",
-      "lon": -153.080666666667,
-      "lat": 60.0465,
-      "depth": 0.42,
-      "mag": -0.82,
-      "place": "64 km ENE of Pedro Bay, Alaska",
-      "time": 1790985316370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94458921"
-    },
-    {
-      "id": "us6000tz9s",
-      "lon": 159.4679,
-      "lat": 51.7161,
-      "depth": 35,
-      "mag": 4.7,
-      "place": "153 km SSE of Vilyuchinsk, Russia",
-      "time": 1790985253503,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz9s"
     }
   ]
 }
