@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-04T22:01:07Z",
-  "count": 207,
+  "updated": "2026-10-04T22:15:40Z",
+  "count": 208,
   "points": [
+    {
+      "id": "aka2026trmbpb",
+      "lon": -150.072,
+      "lat": 61.595,
+      "depth": 13.1,
+      "mag": 2.4,
+      "place": "10 km NW of Big Lake, Alaska",
+      "time": 1791151214091,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026trmbpb"
+    },
     {
       "id": "aka2026trmava",
       "lon": -154.959,
@@ -15,12 +25,12 @@
     },
     {
       "id": "ci41343207",
-      "lon": -117.257667541504,
-      "lat": 34.0608329772949,
-      "depth": 15.0600004196167,
-      "mag": 0.956060477799718,
+      "lon": -117.256166666667,
+      "lat": 34.0578333333333,
+      "depth": 14.84,
+      "mag": 1.02,
       "place": "1 km NNE of Loma Linda, CA",
-      "time": 1791151071050,
+      "time": 1791151071070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343207"
     },
     {
@@ -2034,6 +2044,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443826"
     },
     {
+      "id": "av94459716",
+      "lon": -166.639333333333,
+      "lat": 53.8883333333333,
+      "depth": 8.37,
+      "mag": 0.23,
+      "place": "6 km W of Dutch Harbor, Alaska",
+      "time": 1791066512460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94459716"
+    },
+    {
       "id": "us6000tzen",
       "lon": 142.8123,
       "lat": 29.053,
@@ -2054,24 +2074,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925236"
     },
     {
-      "id": "nc75443796",
-      "lon": -122.818000793457,
-      "lat": 38.813835144043,
-      "depth": 1.63999998569489,
-      "mag": 1.22,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1791065715980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443796"
-    },
-    {
-      "id": "ci41342663",
-      "lon": -117.778,
-      "lat": 36.0233333333333,
-      "depth": 1.27,
-      "mag": 0.69,
-      "place": "15 km NE of Little Lake, CA",
-      "time": 1791065460250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342663"
+      "id": "av94459711",
+      "lon": -166.650333333333,
+      "lat": 53.8995,
+      "depth": 7.48,
+      "mag": 0.06,
+      "place": "7 km W of Dutch Harbor, Alaska",
+      "time": 1791066243610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94459711"
     }
   ]
 }
