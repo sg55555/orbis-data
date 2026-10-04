@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-04T02:15:40Z",
+  "updated": "2026-10-04T02:30:53Z",
   "count": 181,
   "points": [
+    {
+      "id": "hv75049362",
+      "lon": -155.295333862305,
+      "lat": 19.443000793457,
+      "depth": 3.05999994277954,
+      "mag": 1.99,
+      "place": "6 km W of Volcano, Hawaii",
+      "time": 1791080081080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75049362"
+    },
     {
       "id": "aka2026tpyicf",
       "lon": -152.227,
@@ -52,6 +62,16 @@
       "place": "69 km E of Port Alsworth, Alaska",
       "time": 1791078667202,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tpxtjs"
+    },
+    {
+      "id": "pr71535603",
+      "lon": -66.9528333333333,
+      "lat": 17.9803333333333,
+      "depth": 4.95,
+      "mag": 2.08,
+      "place": "3 km WSW of Fuig, Puerto Rico",
+      "time": 1791078597080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535603"
     },
     {
       "id": "us6000tzfv",
@@ -1792,26 +1812,6 @@
       "place": "5 km WSW of Volcano, Hawaii",
       "time": 1790995629320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75048767"
-    },
-    {
-      "id": "ci41342359",
-      "lon": -116.805833333333,
-      "lat": 33.5675,
-      "depth": 6.67,
-      "mag": 0.54,
-      "place": "12 km W of Anza, CA",
-      "time": 1790994339980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342359"
-    },
-    {
-      "id": "nc75443226",
-      "lon": -121.047668457031,
-      "lat": 36.0303344726562,
-      "depth": 9.92000007629395,
-      "mag": 1.75,
-      "place": "11 km SSW of San Lucas, CA",
-      "time": 1790994119800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443226"
     }
   ]
 }
