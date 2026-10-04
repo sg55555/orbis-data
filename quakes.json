@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-04T19:30:54Z",
+  "updated": "2026-10-04T19:45:38Z",
   "count": 202,
   "points": [
+    {
+      "id": "aka2026trhiav",
+      "lon": -151.154,
+      "lat": 63.262,
+      "depth": 5,
+      "mag": 2,
+      "place": "42 km SE of Denali National Park, Alaska",
+      "time": 1791142665087,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026trhiav"
+    },
     {
       "id": "ci41343119",
       "lon": -116.751333333333,
@@ -15,12 +25,12 @@
     },
     {
       "id": "ci41343111",
-      "lon": -118.051,
-      "lat": 35.9736666666667,
-      "depth": 4.52,
-      "mag": 0.55,
-      "place": "12 km SW of Coso Junction, CA",
-      "time": 1791141084520,
+      "lon": -117.970333333333,
+      "lat": 35.9725,
+      "depth": 2.96,
+      "mag": 0.42,
+      "place": "7 km NW of Little Lake, CA",
+      "time": 1791141085660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343111"
     },
     {
@@ -52,6 +62,16 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1791140376140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444326"
+    },
+    {
+      "id": "us6000tzka",
+      "lon": -129.1453,
+      "lat": 44.2452,
+      "depth": 10,
+      "mag": 3.2,
+      "place": "off the coast of Oregon",
+      "time": 1791140174005,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzka"
     },
     {
       "id": "nc75444321",
@@ -2002,26 +2022,6 @@
       "place": "6 km SE of Ontario, CA",
       "time": 1791057125780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342623"
-    },
-    {
-      "id": "ci41342607",
-      "lon": -116.505833333333,
-      "lat": 33.5151666666667,
-      "depth": 10.89,
-      "mag": 0.82,
-      "place": "16 km ESE of Anza, CA",
-      "time": 1791056524410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342607"
-    },
-    {
-      "id": "us6000tzdz",
-      "lon": 159.9887,
-      "lat": 51.4038,
-      "depth": 10,
-      "mag": 4.4,
-      "place": "201 km SSE of Vilyuchinsk, Russia",
-      "time": 1791055856985,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdz"
     }
   ]
 }
