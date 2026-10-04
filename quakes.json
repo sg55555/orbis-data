@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-04T08:30:57Z",
-  "count": 191,
+  "updated": "2026-10-04T08:44:04Z",
+  "count": 192,
   "points": [
+    {
+      "id": "ci41342895",
+      "lon": -117.796,
+      "lat": 35.3115,
+      "depth": 6.23,
+      "mag": 0.62,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1791103143690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342895"
+    },
+    {
+      "id": "ci41342887",
+      "lon": -117.793833333333,
+      "lat": 35.3118333333333,
+      "depth": 6.58,
+      "mag": 1.04,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1791102548000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342887"
+    },
     {
       "id": "ci41342879",
       "lon": -119.54,
@@ -32,6 +52,16 @@
       "place": "4 km NW of Waterville, Washington",
       "time": 1791101382540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714115541"
+    },
+    {
+      "id": "pr71535673",
+      "lon": -66.9301666666667,
+      "lat": 17.9385,
+      "depth": 9.47,
+      "mag": 2.17,
+      "place": "4 km SSW of Guánica, Puerto Rico",
+      "time": 1791101296450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535673"
     },
     {
       "id": "aka2026tqkhwp",
@@ -1892,26 +1922,6 @@
       "place": "14 km NE of Anza, CA",
       "time": 1791017858820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342439"
-    },
-    {
-      "id": "aka2026topkkf",
-      "lon": -152.753,
-      "lat": 60.029,
-      "depth": 96.2,
-      "mag": 0.8,
-      "place": "57 km W of Happy Valley, Alaska",
-      "time": 1791016886445,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026topkkf"
-    },
-    {
-      "id": "nc75443336",
-      "lon": -122.779335021973,
-      "lat": 38.8381652832031,
-      "depth": 1.45000004768372,
-      "mag": 0.7,
-      "place": "5 km WNW of Cobb, CA",
-      "time": 1791016393830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443336"
     }
   ]
 }
