@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-04T15:30:57Z",
-  "count": 199,
+  "updated": "2026-10-04T15:45:42Z",
+  "count": 198,
   "points": [
     {
+      "id": "ci41343047",
+      "lon": -117.795833333333,
+      "lat": 35.3095,
+      "depth": 5.88,
+      "mag": 1.04,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1791128061910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343047"
+    },
+    {
       "id": "ci41343023",
-      "lon": -118.414329528809,
-      "lat": 35.9444999694824,
-      "depth": -0.949999988079071,
-      "mag": 2.21986101170393,
+      "lon": -118.4105,
+      "lat": 35.944,
+      "depth": -0.01,
+      "mag": 2.15,
       "place": "21 km N of Kernville, CA",
-      "time": 1791127706670,
+      "time": 1791127706770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343023"
     },
     {
@@ -1972,26 +1982,6 @@
       "place": "55 km E of Denali Park, Alaska",
       "time": 1791042488979,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tpdqkc"
-    },
-    {
-      "id": "pr71535533",
-      "lon": -66.8448333333333,
-      "lat": 17.9376666666667,
-      "depth": 15.94,
-      "mag": 2.02,
-      "place": "6 km SE of Maria Antonia, Puerto Rico",
-      "time": 1791042300050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535533"
-    },
-    {
-      "id": "nc75443496",
-      "lon": -122.769500732422,
-      "lat": 38.7973327636719,
-      "depth": 3.05999994277954,
-      "mag": 1.07,
-      "place": "3 km NNW of The Geysers, CA",
-      "time": 1791042242290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443496"
     }
   ]
 }
