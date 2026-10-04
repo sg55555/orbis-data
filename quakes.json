@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-04T04:45:36Z",
-  "count": 189,
+  "updated": "2026-10-04T05:01:07Z",
+  "count": 185,
   "points": [
+    {
+      "id": "nc75443996",
+      "lon": -121.547164916992,
+      "lat": 37.1681671142578,
+      "depth": 6.25,
+      "mag": 1.49,
+      "place": "10 km ENE of Morgan Hill, CA",
+      "time": 1791089746730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443996"
+    },
     {
       "id": "ci41342775",
       "lon": -117.7975,
@@ -1842,56 +1852,6 @@
       "place": "8 km SSE of Oak Bay, Canada",
       "time": 1791004220330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714115131"
-    },
-    {
-      "id": "hv75048857",
-      "lon": -155.567169189453,
-      "lat": 19.767333984375,
-      "depth": 13.7700004577637,
-      "mag": 2.21,
-      "place": "30 km SE of Waikoloa, Hawaii",
-      "time": 1791003522750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75048857"
-    },
-    {
-      "id": "ci41342399",
-      "lon": -116.464666666667,
-      "lat": 33.4631666666667,
-      "depth": 3.18,
-      "mag": 0.95,
-      "place": "22 km ESE of Anza, CA",
-      "time": 1791003286930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342399"
-    },
-    {
-      "id": "nc75443276",
-      "lon": -120.539497375488,
-      "lat": 35.9858322143555,
-      "depth": 0.800000011920929,
-      "mag": 0.82,
-      "place": "14 km NW of Parkfield, CA",
-      "time": 1791003151320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443276"
-    },
-    {
-      "id": "ci41342391",
-      "lon": -116.4665,
-      "lat": 33.4641666666667,
-      "depth": 3.18,
-      "mag": 1.04,
-      "place": "22 km ESE of Anza, CA",
-      "time": 1791003133880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342391"
-    },
-    {
-      "id": "aka2026tohocv",
-      "lon": -147.768,
-      "lat": 63.718,
-      "depth": 5.9,
-      "mag": 1.5,
-      "place": "56 km E of Denali Park, Alaska",
-      "time": 1791002749292,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tohocv"
     }
   ]
 }
