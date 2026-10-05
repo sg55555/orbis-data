@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-05T12:45:44Z",
-  "count": 203,
+  "updated": "2026-10-05T13:01:13Z",
+  "count": 201,
   "points": [
     {
+      "id": "nc75444936",
+      "lon": -121.278999328613,
+      "lat": 36.6308326721191,
+      "depth": 5.1399998664856,
+      "mag": 1.41,
+      "place": "16 km NW of Pinnacles, CA",
+      "time": 1791205107880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444936"
+    },
+    {
+      "id": "aka2026tspquy",
+      "lon": -153.016,
+      "lat": 60.013,
+      "depth": 5,
+      "mag": 0.7,
+      "place": "65 km ENE of Pedro Bay, Alaska",
+      "time": 1791204444096,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tspquy"
+    },
+    {
       "id": "hv75050162",
-      "lon": -155.30583190918,
-      "lat": 19.3530006408691,
-      "depth": 26.7199993133545,
-      "mag": 3.5,
+      "lon": -155.300666666667,
+      "lat": 19.3546666666667,
+      "depth": 28.21,
+      "mag": 3.59,
       "place": "12 km SW of Volcano, Hawaii",
-      "time": 1791203503070,
+      "time": 1791203503010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75050162"
     },
     {
@@ -1992,46 +2012,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1791119154760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444146"
-    },
-    {
-      "id": "nc75444141",
-      "lon": -122.811996459961,
-      "lat": 38.8341674804688,
-      "depth": 2.25,
-      "mag": 0.23,
-      "place": "8 km W of Cobb, CA",
-      "time": 1791118652680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444141"
-    },
-    {
-      "id": "aka2026tqtyyr",
-      "lon": -154.716,
-      "lat": 59.297,
-      "depth": 0,
-      "mag": 2.1,
-      "place": "16 km SSE of Kokhanok, Alaska",
-      "time": 1791118646428,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tqtyyr"
-    },
-    {
-      "id": "nc75444136",
-      "lon": -121.859664916992,
-      "lat": 37.4983329772949,
-      "depth": 5.65000009536743,
-      "mag": 1.62,
-      "place": "9 km NNE of Milpitas, CA",
-      "time": 1791118184270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444136"
-    },
-    {
-      "id": "aka2026tqtplt",
-      "lon": -150.666,
-      "lat": 60.381,
-      "depth": 68.2,
-      "mag": 3.4,
-      "place": "14 km SSE of Funny River, Alaska",
-      "time": 1791117990522,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tqtplt"
     }
   ]
 }
