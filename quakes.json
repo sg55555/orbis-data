@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-05T22:15:45Z",
-  "count": 221,
+  "updated": "2026-10-05T22:30:53Z",
+  "count": 220,
   "points": [
+    {
+      "id": "aka2026ttiodu",
+      "lon": -149.888,
+      "lat": 62.269,
+      "depth": 18.1,
+      "mag": 1.4,
+      "place": "12 km N of Susitna North, Alaska",
+      "time": 1791238444652,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ttiodu"
+    },
     {
       "id": "ci41343799",
       "lon": -117.939,
@@ -165,12 +175,12 @@
     },
     {
       "id": "ci41343735",
-      "lon": -116.517833333333,
-      "lat": 33.1585,
-      "depth": 3.28,
-      "mag": 0.62,
+      "lon": -116.519333333333,
+      "lat": 33.156,
+      "depth": 5.03,
+      "mag": 0.61,
       "place": "12 km NE of Julian, CA",
-      "time": 1791227738960,
+      "time": 1791227739000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343735"
     },
     {
@@ -1735,12 +1745,12 @@
     },
     {
       "id": "hv75049952",
-      "lon": -155.372161865234,
-      "lat": 19.263334274292,
-      "depth": 32.2700004577637,
-      "mag": 2.19,
+      "lon": -155.3715,
+      "lat": 19.2616666666667,
+      "depth": 32.11,
+      "mag": 1.58,
       "place": "13 km ENE of Pāhala, Hawaii",
-      "time": 1791170577580,
+      "time": 1791170577600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75049952"
     },
     {
@@ -2192,26 +2202,6 @@
       "place": "5 km NW of The Geysers, CA",
       "time": 1791153413830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444511"
-    },
-    {
-      "id": "nc75444501",
-      "lon": -122.791168212891,
-      "lat": 38.8370018005371,
-      "depth": 1.80999994277954,
-      "mag": 1.02,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1791152983940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444501"
-    },
-    {
-      "id": "aka2026trmriq",
-      "lon": -149.126,
-      "lat": 63.097,
-      "depth": 74,
-      "mag": 2.1,
-      "place": "34 km SSW of Cantwell, Alaska",
-      "time": 1791152304778,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026trmriq"
     }
   ]
 }
