@@ -1,16 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-05T16:45:43Z",
-  "count": 215,
+  "updated": "2026-10-05T17:01:46Z",
+  "count": 216,
   "points": [
     {
+      "id": "nc75445051",
+      "lon": -122.731163024902,
+      "lat": 38.7688331604004,
+      "depth": 1.33000004291534,
+      "mag": 0.74,
+      "place": "2 km ESE of The Geysers, CA",
+      "time": 1791219477760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445051"
+    },
+    {
+      "id": "aka2026tsxxtn",
+      "lon": -155.849,
+      "lat": 57.65,
+      "depth": 5,
+      "mag": 3.4,
+      "place": "83 km W of Karluk, Alaska",
+      "time": 1791219319142,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tsxxtn"
+    },
+    {
+      "id": "nc75445046",
+      "lon": -122.785835266113,
+      "lat": 38.8146667480469,
+      "depth": 1.91999995708466,
+      "mag": 1.44,
+      "place": "5 km NNW of The Geysers, CA",
+      "time": 1791218880040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445046"
+    },
+    {
       "id": "aka2026tsxnsm",
-      "lon": -150.221,
+      "lon": -150.227,
       "lat": 62.097,
-      "depth": 27.7,
-      "mag": 2,
+      "depth": 48.1,
+      "mag": 2.3,
       "place": "20 km WSW of Susitna North, Alaska",
-      "time": 1791218625744,
+      "time": 1791218626378,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tsxnsm"
     },
     {
@@ -422,6 +452,16 @@
       "place": "70 km WNW of Happy Valley, Alaska",
       "time": 1791202211438,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tsoksi"
+    },
+    {
+      "id": "uu80008163",
+      "lon": -112.760666666667,
+      "lat": 37.1756666666667,
+      "depth": 11.47,
+      "mag": 0.23,
+      "place": "15 km SW of Orderville, Utah",
+      "time": 1791201982910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80008163"
     },
     {
       "id": "aka2026tsobdx",
@@ -2122,36 +2162,6 @@
       "place": "27 km NNW of Pāhala, Hawaii",
       "time": 1791134100280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75049762"
-    },
-    {
-      "id": "hv75049757",
-      "lon": -155.440826416016,
-      "lat": 19.2621669769287,
-      "depth": 29.3500003814697,
-      "mag": 1.75,
-      "place": "7 km NNE of Pāhala, Hawaii",
-      "time": 1791133216230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75049757"
-    },
-    {
-      "id": "ci41343071",
-      "lon": -117.768833333333,
-      "lat": 36.0193333333333,
-      "depth": 1.49,
-      "mag": 0.84,
-      "place": "15 km NE of Little Lake, CA",
-      "time": 1791132955200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343071"
-    },
-    {
-      "id": "nn00925269",
-      "lon": -117.7635,
-      "lat": 38.2097,
-      "depth": 4.1361,
-      "mag": 2.52,
-      "place": "36 km ESE of Mina, Nevada",
-      "time": 1791132445790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925269"
     }
   ]
 }
