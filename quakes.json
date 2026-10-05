@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-05T11:01:16Z",
-  "count": 192,
+  "updated": "2026-10-05T11:15:44Z",
+  "count": 190,
   "points": [
+    {
+      "id": "ci41343439",
+      "lon": -117.196166666667,
+      "lat": 34.0166666666667,
+      "depth": 4.15,
+      "mag": 0.84,
+      "place": "5 km SSW of Redlands, CA",
+      "time": 1791198638320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343439"
+    },
+    {
+      "id": "aka2026tsmher",
+      "lon": -152.492,
+      "lat": 60.241,
+      "depth": 104.7,
+      "mag": 3,
+      "place": "50 km WNW of Ninilchik, Alaska",
+      "time": 1791198382798,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tsmher"
+    },
     {
       "id": "hv75050117",
       "lon": -155.600830078125,
@@ -1882,46 +1902,6 @@
       "place": "21 km SSE of Saimbeyli, Turkey",
       "time": 1791112766314,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzif"
-    },
-    {
-      "id": "nn00925253",
-      "lon": -119.0087,
-      "lat": 39.1742,
-      "depth": 7.6189,
-      "mag": 1.61,
-      "place": "24 km NNE of Yerington, Nevada",
-      "time": 1791112420411,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925253"
-    },
-    {
-      "id": "aka2026tqqmxd",
-      "lon": -152.431,
-      "lat": 60.196,
-      "depth": 160.2,
-      "mag": 1.3,
-      "place": "45 km WNW of Ninilchik, Alaska",
-      "time": 1791112414922,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tqqmxd"
-    },
-    {
-      "id": "us6000tzid",
-      "lon": 144.6734,
-      "lat": 22.8286,
-      "depth": 10,
-      "mag": 5.5,
-      "place": "Volcano Islands, Japan region",
-      "time": 1791112368270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzid"
-    },
-    {
-      "id": "us6000tzic",
-      "lon": 151.4257,
-      "lat": -5.0439,
-      "depth": 162.143,
-      "mag": 4.6,
-      "place": "121 km SW of Kokopo, Papua New Guinea",
-      "time": 1791112187398,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzic"
     }
   ]
 }
