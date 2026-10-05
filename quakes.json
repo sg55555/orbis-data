@@ -1,17 +1,47 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-05T14:15:41Z",
-  "count": 199,
+  "updated": "2026-10-05T14:46:35Z",
+  "count": 204,
   "points": [
     {
-      "id": "aka2026tssogi",
-      "lon": -147.693,
-      "lat": 65.493,
+      "id": "aka2026tstlly",
+      "lon": -154.996,
+      "lat": 58.277,
       "depth": 5,
-      "mag": 0.9,
+      "mag": 0.7,
+      "place": "85 km NNW of Karluk, Alaska",
+      "time": 1791211270788,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tstlly"
+    },
+    {
+      "id": "ci41343535",
+      "lon": -115.6835,
+      "lat": 32.933,
+      "depth": 19.31,
+      "mag": 0.99,
+      "place": "13 km SSW of Westmorland, CA",
+      "time": 1791211049250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343535"
+    },
+    {
+      "id": "aka2026tssogi",
+      "lon": -147.703,
+      "lat": 65.473,
+      "depth": 5,
+      "mag": 1.2,
       "place": "39 km E of Livengood, Alaska",
-      "time": 1791209664721,
+      "time": 1791209664859,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tssogi"
+    },
+    {
+      "id": "tx2026tpnrlm",
+      "lon": -103.768,
+      "lat": 32.037,
+      "depth": 7.9327,
+      "mag": 1.2,
+      "place": "35 km SE of Malaga, New Mexico",
+      "time": 1791208415396,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tpnrlm"
     },
     {
       "id": "nc75444951",
@@ -22,6 +52,26 @@
       "place": "4 km NW of Orinda, CA",
       "time": 1791208000200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444951"
+    },
+    {
+      "id": "tx2026tpnlkx",
+      "lon": -103.769,
+      "lat": 32.035,
+      "depth": 7.5867,
+      "mag": 1.6,
+      "place": "35 km SE of Malaga, New Mexico",
+      "time": 1791207814303,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tpnlkx"
+    },
+    {
+      "id": "tx2026tpnibn",
+      "lon": -104.344,
+      "lat": 31.633,
+      "depth": 6.0999,
+      "mag": 1.8,
+      "place": "60 km S of Whites City, New Mexico",
+      "time": 1791207595122,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tpnibn"
     },
     {
       "id": "us6000tznu",
@@ -52,6 +102,16 @@
       "place": "53 km ENE of Pedro Bay, Alaska",
       "time": 1791206253293,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tsqqys"
+    },
+    {
+      "id": "us6000tznr",
+      "lon": 120.7072,
+      "lat": -8.1959,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "53 km NNE of Ruteng, Indonesia",
+      "time": 1791205550276,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tznr"
     },
     {
       "id": "aka2026tsqesh",
@@ -115,12 +175,12 @@
     },
     {
       "id": "tx2026tpkyfx",
-      "lon": -102.173,
-      "lat": 32.176,
-      "depth": 9.4482,
+      "lon": -102.171,
+      "lat": 32.174,
+      "depth": 10.6689,
       "mag": 2.7,
       "place": "21 km NNW of Midland, Texas",
-      "time": 1791203271642,
+      "time": 1791203271538,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tpkyfx"
     },
     {
@@ -1194,6 +1254,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444626"
     },
     {
+      "id": "uu80158571",
+      "lon": -111.012666666667,
+      "lat": 44.7066666666667,
+      "depth": 10.62,
+      "mag": 1.02,
+      "place": "8 km NE of West Yellowstone, Montana",
+      "time": 1791157793560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80158571"
+    },
+    {
       "id": "aka2026trprwb",
       "lon": -146.715,
       "lat": 61.541,
@@ -1972,26 +2042,6 @@
       "place": "37 km N of Sutcliffe, Nevada",
       "time": 1791125291592,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925263"
-    },
-    {
-      "id": "pr71535723",
-      "lon": -66.7848333333333,
-      "lat": 18.0421666666667,
-      "depth": 14.02,
-      "mag": 2.13,
-      "place": "2 km NNE of Guayanilla, Puerto Rico",
-      "time": 1791124619760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535723"
-    },
-    {
-      "id": "nn00925260",
-      "lon": -116.4503,
-      "lat": 38.5285,
-      "depth": 0.0198,
-      "mag": 1.68,
-      "place": "85 km NE of Tonopah, Nevada",
-      "time": 1791123812580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925260"
     }
   ]
 }
