@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-05T15:55:08Z",
-  "count": 211,
+  "updated": "2026-10-05T16:01:18Z",
+  "count": 209,
   "points": [
+    {
+      "id": "nc75445011",
+      "lon": -124.048500061035,
+      "lat": 40.5731658935547,
+      "depth": 20.6399993896484,
+      "mag": 2.81,
+      "place": "5 km NE of Hydesville, CA",
+      "time": 1791215796660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445011"
+    },
     {
       "id": "aka2026tsvuvg",
       "lon": -155.173,
@@ -634,16 +644,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343407"
     },
     {
-      "id": "ci41343399",
-      "lon": -118.103333333333,
-      "lat": 33.9816666666667,
-      "depth": 20.83,
-      "mag": 1.19,
-      "place": "1 km WSW of Pico Rivera, CA",
-      "time": 1791191097020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343399"
-    },
-    {
       "id": "hv75050097",
       "lon": -155.486663818359,
       "lat": 19.1636657714844,
@@ -805,12 +805,12 @@
     },
     {
       "id": "ci41343367",
-      "lon": -115.893333333333,
-      "lat": 33.0565,
-      "depth": 5.03,
-      "mag": 1.59,
+      "lon": -115.8945,
+      "lat": 33.058,
+      "depth": 5.13,
+      "mag": 1.58,
       "place": "24 km ESE of Ocotillo Wells, CA",
-      "time": 1791182539730,
+      "time": 1791182539700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343367"
     },
     {
@@ -2092,26 +2092,6 @@
       "place": "62 km WNW of Elfin Cove, Alaska",
       "time": 1791131436607,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026trbbuc"
-    },
-    {
-      "id": "us6000tzjn",
-      "lon": 36.1388,
-      "lat": 37.7748,
-      "depth": 10,
-      "mag": 4.3,
-      "place": "20 km ESE of Feke, Turkey",
-      "time": 1791129626211,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzjn"
-    },
-    {
-      "id": "aka2026tqzyhk",
-      "lon": -153.24,
-      "lat": 59.889,
-      "depth": 132.7,
-      "mag": 2.4,
-      "place": "49 km ENE of Pedro Bay, Alaska",
-      "time": 1791129401959,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tqzyhk"
     }
   ]
 }
