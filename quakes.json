@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-05T19:36:09Z",
+  "updated": "2026-10-05T19:45:56Z",
   "count": 227,
   "points": [
+    {
+      "id": "pr71535848",
+      "lon": -66.9163333333333,
+      "lat": 18.0395,
+      "depth": 7.54,
+      "mag": 1.8,
+      "place": "1 km W of Lluveras, Puerto Rico",
+      "time": 1791228076170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535848"
+    },
     {
       "id": "ci41343735",
       "lon": -116.517833333333,
@@ -202,6 +212,16 @@
       "place": "247 km WNW of Port McNeill, Canada",
       "time": 1791221440698,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzpp"
+    },
+    {
+      "id": "tx2026tpuxqn",
+      "lon": -101.641,
+      "lat": 32.372,
+      "depth": 7.6904,
+      "mag": 1.1,
+      "place": "18 km SSE of Ackerly, Texas",
+      "time": 1791221359868,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tpuxqn"
     },
     {
       "id": "us6000tzpq",
@@ -2252,26 +2272,6 @@
       "place": "2 km NW of Anderson Springs, CA",
       "time": 1791143601930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444366"
-    },
-    {
-      "id": "ci41343151",
-      "lon": -117.6895,
-      "lat": 35.8903333333333,
-      "depth": 4.78,
-      "mag": 0.81,
-      "place": "20 km ESE of Little Lake, CA",
-      "time": 1791143083500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343151"
-    },
-    {
-      "id": "aka2026trhiav",
-      "lon": -151.154,
-      "lat": 63.262,
-      "depth": 5,
-      "mag": 2,
-      "place": "42 km SE of Denali National Park, Alaska",
-      "time": 1791142665087,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026trhiav"
     }
   ]
 }
