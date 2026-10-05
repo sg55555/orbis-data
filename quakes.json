@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-05T15:01:12Z",
-  "count": 204,
+  "updated": "2026-10-05T15:15:48Z",
+  "count": 201,
   "points": [
+    {
+      "id": "nc75444981",
+      "lon": -122.814834594727,
+      "lat": 38.814998626709,
+      "depth": 2.94000005722046,
+      "mag": 0.71,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1791212368960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444981"
+    },
     {
       "id": "nc75444976",
       "lon": -122.772003173828,
@@ -2002,46 +2012,6 @@
       "place": "21 km N of Kernville, CA",
       "time": 1791127707060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343023"
-    },
-    {
-      "id": "ci41343015",
-      "lon": -116.244833333333,
-      "lat": 33.3196666666667,
-      "depth": 10.05,
-      "mag": 0.7,
-      "place": "14 km ENE of Borrego Springs, CA",
-      "time": 1791126444900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343015"
-    },
-    {
-      "id": "hv75049717",
-      "lon": -155.278335571289,
-      "lat": 19.4088325500488,
-      "depth": 0.0799999982118607,
-      "mag": 2.42,
-      "place": "5 km SW of Volcano, Hawaii",
-      "time": 1791126380120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75049717"
-    },
-    {
-      "id": "aka2026tqyehr",
-      "lon": -158.759,
-      "lat": 55.418,
-      "depth": 27.6,
-      "mag": 2.5,
-      "place": "60 km SSE of Perryville, Alaska",
-      "time": 1791126210731,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tqyehr"
-    },
-    {
-      "id": "hv75049712",
-      "lon": -155.276992797852,
-      "lat": 19.4158325195312,
-      "depth": 0.509999990463257,
-      "mag": 2.14,
-      "place": "5 km WSW of Volcano, Hawaii",
-      "time": 1791126184620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75049712"
     }
   ]
 }
