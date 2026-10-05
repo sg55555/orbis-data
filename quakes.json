@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-05T14:01:21Z",
-  "count": 201,
+  "updated": "2026-10-05T14:15:41Z",
+  "count": 199,
   "points": [
+    {
+      "id": "aka2026tssogi",
+      "lon": -147.693,
+      "lat": 65.493,
+      "depth": 5,
+      "mag": 0.9,
+      "place": "39 km E of Livengood, Alaska",
+      "time": 1791209664721,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tssogi"
+    },
     {
       "id": "nc75444951",
       "lon": -122.214500427246,
@@ -12,6 +22,16 @@
       "place": "4 km NW of Orinda, CA",
       "time": 1791208000200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444951"
+    },
+    {
+      "id": "us6000tznu",
+      "lon": 123.2696,
+      "lat": 25.1037,
+      "depth": 156.219,
+      "mag": 4.7,
+      "place": "75 km NNE of Yonakuni, Japan",
+      "time": 1791207045560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tznu"
     },
     {
       "id": "aka2026tsrbbn",
@@ -1972,46 +1992,6 @@
       "place": "85 km NE of Tonopah, Nevada",
       "time": 1791123812580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925260"
-    },
-    {
-      "id": "hv75049677",
-      "lon": -155.063171386719,
-      "lat": 19.7993335723877,
-      "depth": 43.9099998474121,
-      "mag": 2,
-      "place": "3 km ENE of Pāpa‘ikou, Hawaii",
-      "time": 1791123053770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75049677"
-    },
-    {
-      "id": "us6000tzj9",
-      "lon": -104.6295,
-      "lat": 32.5442,
-      "depth": 5,
-      "mag": 2.9,
-      "place": "31 km SSE of Hope, New Mexico",
-      "time": 1791122996506,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzj9"
-    },
-    {
-      "id": "us6000tzj8",
-      "lon": -82.7171,
-      "lat": 5.3695,
-      "depth": 10,
-      "mag": 5,
-      "place": "295 km S of Burica, Panama",
-      "time": 1791122770385,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzj8"
-    },
-    {
-      "id": "hv75049672",
-      "lon": -155.448501586914,
-      "lat": 19.1513328552246,
-      "depth": 29.25,
-      "mag": 1.76,
-      "place": "6 km SSE of Pāhala, Hawaii",
-      "time": 1791122445450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75049672"
     }
   ]
 }
