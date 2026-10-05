@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-05T14:46:35Z",
+  "updated": "2026-10-05T15:01:12Z",
   "count": 204,
   "points": [
+    {
+      "id": "nc75444976",
+      "lon": -122.772003173828,
+      "lat": 38.7999992370605,
+      "depth": 1.3400000333786,
+      "mag": 0.26,
+      "place": "3 km NNW of The Geysers, CA",
+      "time": 1791211886540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444976"
+    },
     {
       "id": "aka2026tstlly",
       "lon": -154.996,
@@ -122,6 +132,16 @@
       "place": "69 km NE of Chignik, Alaska",
       "time": 1791205405618,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tsqesh"
+    },
+    {
+      "id": "tx2026tpmbdb",
+      "lon": -98.931,
+      "lat": 28.831,
+      "depth": 8.0679,
+      "mag": 1.9,
+      "place": "17 km ESE of Pearsall, Texas",
+      "time": 1791205280447,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tpmbdb"
     },
     {
       "id": "nc75444936",
@@ -2022,26 +2042,6 @@
       "place": "5 km WSW of Volcano, Hawaii",
       "time": 1791126184620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75049712"
-    },
-    {
-      "id": "us6000tzjg",
-      "lon": 118.8554,
-      "lat": -9.8792,
-      "depth": 25.554,
-      "mag": 4.2,
-      "place": "65 km SW of Tambolaka, Indonesia",
-      "time": 1791125984179,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzjg"
-    },
-    {
-      "id": "nn00925263",
-      "lon": -119.5922,
-      "lat": 40.2841,
-      "depth": 6.389,
-      "mag": 1.56,
-      "place": "37 km N of Sutcliffe, Nevada",
-      "time": 1791125291592,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925263"
     }
   ]
 }
