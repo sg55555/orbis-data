@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-05T12:01:11Z",
-  "count": 198,
+  "updated": "2026-10-05T12:15:42Z",
+  "count": 200,
   "points": [
+    {
+      "id": "aka2026tsoksi",
+      "lon": -152.939,
+      "lat": 60.132,
+      "depth": 125.3,
+      "mag": 2.6,
+      "place": "70 km WNW of Happy Valley, Alaska",
+      "time": 1791202211438,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tsoksi"
+    },
+    {
+      "id": "aka2026tsobdx",
+      "lon": -155.666,
+      "lat": 57.593,
+      "depth": 19,
+      "mag": 1.5,
+      "place": "72 km W of Karluk, Alaska",
+      "time": 1791201561561,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tsobdx"
+    },
     {
       "id": "ci41343479",
       "lon": -117.194,
@@ -22,6 +42,16 @@
       "place": "5 km SSW of Redlands, CA",
       "time": 1791201030040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343471"
+    },
+    {
+      "id": "us6000tznh",
+      "lon": 167.1484,
+      "lat": -15.7157,
+      "depth": 35,
+      "mag": 4.6,
+      "place": "21 km S of Luganville, Vanuatu",
+      "time": 1791200827753,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tznh"
     },
     {
       "id": "nc75444921",
@@ -1972,16 +2002,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1791116161080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444126"
-    },
-    {
-      "id": "us6000tzis",
-      "lon": -67.5431,
-      "lat": -21.4303,
-      "depth": 169.095,
-      "mag": 4.2,
-      "place": "77 km ESE of Ollagüe, Chile",
-      "time": 1791115673879,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzis"
     }
   ]
 }
