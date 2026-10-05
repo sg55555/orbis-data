@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-05T23:30:56Z",
-  "count": 216,
+  "updated": "2026-10-05T23:45:39Z",
+  "count": 215,
   "points": [
+    {
+      "id": "nn00925332",
+      "lon": -118.0933,
+      "lat": 40.2536,
+      "depth": 5.0538,
+      "mag": 1.75,
+      "place": "33 km ENE of Lovelock, Nevada",
+      "time": 1791243081741,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925332"
+    },
     {
       "id": "aka2026ttlabs",
       "lon": -149.297,
@@ -1364,6 +1374,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tshtjs"
     },
     {
+      "id": "av94461046",
+      "lon": -153.0765,
+      "lat": 60.0211666666667,
+      "depth": -0.64,
+      "mag": -0.09,
+      "place": "63 km ENE of Pedro Bay, Alaska",
+      "time": 1791189346490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94461046"
+    },
+    {
       "id": "aka2026tshelq",
       "lon": -148.854,
       "lat": 62.814,
@@ -2132,36 +2152,6 @@
       "place": "49 km NNW of Valdez, Alaska",
       "time": 1791157740668,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026trprwb"
-    },
-    {
-      "id": "us6000tzlf",
-      "lon": -89.7514,
-      "lat": 12.8829,
-      "depth": 35,
-      "mag": 4.3,
-      "place": "78 km S of Acajutla, El Salvador",
-      "time": 1791156990683,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlf"
-    },
-    {
-      "id": "uw714115861",
-      "lon": -120.4825,
-      "lat": 49.38,
-      "depth": -0.36,
-      "mag": 1.96,
-      "place": "8 km SSE of Princeton, Canada",
-      "time": 1791156977640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714115861"
-    },
-    {
-      "id": "uu80158566",
-      "lon": -110.600833333333,
-      "lat": 44.2058333333333,
-      "depth": 12.28,
-      "mag": 1.95,
-      "place": "58 km E of Warm River, Idaho",
-      "time": 1791156750620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80158566"
     }
   ]
 }
