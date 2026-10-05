@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-05T18:15:43Z",
+  "updated": "2026-10-05T18:30:59Z",
   "count": 225,
   "points": [
     {
+      "id": "ci41343695",
+      "lon": -116.215333333333,
+      "lat": 33.0535,
+      "depth": 8.96,
+      "mag": 1.36,
+      "place": "13 km SW of Ocotillo Wells, CA",
+      "time": 1791224740850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343695"
+    },
+    {
       "id": "ci41343679",
-      "lon": -116.518836975098,
-      "lat": 33.1549987792969,
-      "depth": 5.78000020980835,
-      "mag": 0.982215677794803,
+      "lon": -116.5235,
+      "lat": 33.1535,
+      "depth": 5.61,
+      "mag": 0.8,
       "place": "11 km NE of Julian, CA",
-      "time": 1791223881610,
+      "time": 1791223881590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343679"
     },
     {
@@ -1934,6 +1944,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80158546"
     },
     {
+      "id": "uu80158541",
+      "lon": -112.340333333333,
+      "lat": 41.7848333333333,
+      "depth": 10.46,
+      "mag": 0.5,
+      "place": "8 km E of Howell, Utah",
+      "time": 1791149548730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80158541"
+    },
+    {
       "id": "nc75444421",
       "lon": -122.811836242676,
       "lat": 38.8274993896484,
@@ -1975,12 +1995,12 @@
     },
     {
       "id": "ci41343167",
-      "lon": -117.199,
-      "lat": 34.0158333333333,
-      "depth": 3.78,
-      "mag": 0.84,
-      "place": "5 km SSW of Redlands, CA",
-      "time": 1791147946260,
+      "lon": -117.1955,
+      "lat": 34.0173333333333,
+      "depth": 5.19,
+      "mag": 0.78,
+      "place": "4 km SSW of Redlands, CA",
+      "time": 1791147946200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343167"
     },
     {
@@ -2232,26 +2252,6 @@
       "place": "51 km WNW of Karluk, Alaska",
       "time": 1791139379102,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026trfmoh"
-    },
-    {
-      "id": "nc75444306",
-      "lon": -121.15950012207,
-      "lat": 40.2358322143555,
-      "depth": 6.8600001335144,
-      "mag": 1.94,
-      "place": "3 km NE of Almanor, CA",
-      "time": 1791138157690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444306"
-    },
-    {
-      "id": "ci41343095",
-      "lon": -117.865166666667,
-      "lat": 36.1025,
-      "depth": 2.62,
-      "mag": 1.61,
-      "place": "10 km NE of Coso Junction, CA",
-      "time": 1791137734120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343095"
     }
   ]
 }
