@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-05T21:21:54Z",
-  "count": 226,
+  "updated": "2026-10-05T21:30:59Z",
+  "count": 225,
   "points": [
+    {
+      "id": "nn00925326",
+      "lon": -117.0384,
+      "lat": 38.7119,
+      "depth": 0.0023,
+      "mag": 1.85,
+      "place": "55 km S of Kingston, Nevada",
+      "time": 1791235475064,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925326"
+    },
     {
       "id": "ci41343791",
       "lon": -118.518666666667,
@@ -15,12 +25,12 @@
     },
     {
       "id": "ci41343775",
-      "lon": -117.9395,
-      "lat": 33.2595,
-      "depth": 15.63,
+      "lon": -117.938666666667,
+      "lat": 33.265,
+      "depth": 16.59,
       "mag": 2.81,
       "place": "32 km SW of Dana Point, CA",
-      "time": 1791231821610,
+      "time": 1791231821640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343775"
     },
     {
@@ -2242,26 +2252,6 @@
       "place": "8 km E of Howell, Utah",
       "time": 1791149548730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80158541"
-    },
-    {
-      "id": "nc75444421",
-      "lon": -122.811836242676,
-      "lat": 38.8274993896484,
-      "depth": 3.24000000953674,
-      "mag": 0.72,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1791149158200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444421"
-    },
-    {
-      "id": "ci41343191",
-      "lon": -116.5265,
-      "lat": 33.1568333333333,
-      "depth": 5.55,
-      "mag": 0.76,
-      "place": "11 km NE of Julian, CA",
-      "time": 1791149016260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343191"
     }
   ]
 }
