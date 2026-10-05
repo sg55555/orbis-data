@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-05T02:01:06Z",
-  "count": 206,
+  "updated": "2026-10-05T02:15:43Z",
+  "count": 205,
   "points": [
+    {
+      "id": "ci41343295",
+      "lon": -116.466,
+      "lat": 33.4645,
+      "depth": 3.05,
+      "mag": 0.85,
+      "place": "22 km ESE of Anza, CA",
+      "time": 1791165634810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343295"
+    },
     {
       "id": "nn00925282",
       "lon": -119.0403,
@@ -42,6 +52,16 @@
       "place": "8 km SSW of Idyllwild, CA",
       "time": 1791163409130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343271"
+    },
+    {
+      "id": "us6000tzln",
+      "lon": -86.4891,
+      "lat": 12.0958,
+      "depth": 167.36,
+      "mag": 4.4,
+      "place": "12 km N of Villa El Carmen, Nicaragua",
+      "time": 1791163221127,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzln"
     },
     {
       "id": "us6000tzlp",
@@ -2032,36 +2052,6 @@
       "place": "49 km WNW of Nanwalek, Alaska",
       "time": 1791081462089,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tpzhqj"
-    },
-    {
-      "id": "hv75049362",
-      "lon": -155.295333862305,
-      "lat": 19.443000793457,
-      "depth": 3.05999994277954,
-      "mag": 1.99,
-      "place": "6 km W of Volcano, Hawaii",
-      "time": 1791080081080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75049362"
-    },
-    {
-      "id": "aka2026tpyicf",
-      "lon": -152.227,
-      "lat": 58.597,
-      "depth": 0.4,
-      "mag": 2.4,
-      "place": "71 km NE of Aleneva, Alaska",
-      "time": 1791079697387,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tpyicf"
-    },
-    {
-      "id": "nc75443921",
-      "lon": -121.337333679199,
-      "lat": 40.1766662597656,
-      "depth": 4.42999982833862,
-      "mag": 1.93,
-      "place": "14 km WSW of Almanor, CA",
-      "time": 1791079268400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443921"
     }
   ]
 }
