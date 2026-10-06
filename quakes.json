@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-06T00:15:40Z",
+  "updated": "2026-10-06T00:30:57Z",
   "count": 218,
   "points": [
+    {
+      "id": "ci41343847",
+      "lon": -116.757666666667,
+      "lat": 33.587,
+      "depth": 12.5,
+      "mag": 0.5,
+      "place": "9 km WNW of Anza, CA",
+      "time": 1791246339200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343847"
+    },
     {
       "id": "ci41343831",
       "lon": -119.1105,
@@ -1154,6 +1164,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tpiudk"
     },
     {
+      "id": "av94461146",
+      "lon": -166.826666666667,
+      "lat": 53.9096666666667,
+      "depth": 2.45,
+      "mag": -0.05,
+      "place": "18 km W of Dutch Harbor, Alaska",
+      "time": 1791199331960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94461146"
+    },
+    {
       "id": "nc75444911",
       "lon": -122.8056640625,
       "lat": 38.8221664428711,
@@ -2162,26 +2182,6 @@
       "place": "15 km ESE of Pearsall, Texas",
       "time": 1791160443931,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tonhen"
-    },
-    {
-      "id": "uu80158576",
-      "lon": -110.597333333333,
-      "lat": 44.2155,
-      "depth": 15.89,
-      "mag": 0.55,
-      "place": "58 km E of Warm River, Idaho",
-      "time": 1791160107270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80158576"
-    },
-    {
-      "id": "nc75444626",
-      "lon": -122.738502502441,
-      "lat": 38.7980003356934,
-      "depth": 2.02999997138977,
-      "mag": 0.96,
-      "place": "3 km NE of The Geysers, CA",
-      "time": 1791159654370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444626"
     }
   ]
 }
