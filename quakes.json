@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-06T23:15:45Z",
-  "count": 253,
+  "updated": "2026-10-06T23:30:54Z",
+  "count": 258,
   "points": [
+    {
+      "id": "ci41344271",
+      "lon": -117.682166666667,
+      "lat": 35.0318333333333,
+      "depth": -0.18,
+      "mag": 1.12,
+      "place": "5 km NW of Boron, CA",
+      "time": 1791329046760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344271"
+    },
+    {
+      "id": "nc75445676",
+      "lon": -122.818496704102,
+      "lat": 38.8306655883789,
+      "depth": 1.72000002861023,
+      "mag": 0.72,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1791328993750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445676"
+    },
+    {
+      "id": "hv75051272",
+      "lon": -155.59700012207,
+      "lat": 19.4311676025391,
+      "depth": 37.3300018310547,
+      "mag": 2.04,
+      "place": "28 km NNW of Pāhala, Hawaii",
+      "time": 1791328407460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75051272"
+    },
     {
       "id": "aka2026tvgiug",
       "lon": -147.179,
@@ -334,6 +364,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75051062"
     },
     {
+      "id": "aka2026tvbnhs",
+      "lon": -150.934,
+      "lat": 61.408,
+      "depth": 64.2,
+      "mag": 1.6,
+      "place": "27 km SW of Susitna, Alaska",
+      "time": 1791319347455,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvbnhs"
+    },
+    {
       "id": "uu80158711",
       "lon": -112.046,
       "lat": 40.7523333333333,
@@ -354,13 +394,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026trwyts"
     },
     {
+      "id": "aka2026tvbicf",
+      "lon": -150.368,
+      "lat": 56.175,
+      "depth": 5,
+      "mag": 3,
+      "place": "197 km SE of Chiniak, Alaska",
+      "time": 1791318994972,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvbicf"
+    },
+    {
       "id": "aka2026tvbgrt",
-      "lon": -156.792,
-      "lat": 54.684,
-      "depth": 20.8,
+      "lon": -156.832,
+      "lat": 54.711,
+      "depth": 32.8,
       "mag": 3.5,
-      "place": "202 km SE of Perryville, Alaska",
-      "time": 1791318874516,
+      "place": "198 km SE of Perryville, Alaska",
+      "time": 1791318874739,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvbgrt"
     },
     {
@@ -1844,6 +1894,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714116691"
     },
     {
+      "id": "av93067859",
+      "lon": -154.766333333333,
+      "lat": 58.1135,
+      "depth": 13,
+      "mag": 0.3,
+      "place": "63 km NNW of Karluk, Alaska",
+      "time": 1791268218540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067859"
+    },
+    {
       "id": "av94462036",
       "lon": -152.774833333333,
       "lat": 60.4631666666667,
@@ -2522,16 +2582,6 @@
       "place": "17 km NNE of Fayette, Utah",
       "time": 1791243563140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80158636"
-    },
-    {
-      "id": "aka2026ttlabs",
-      "lon": -149.297,
-      "lat": 60.319,
-      "depth": 15,
-      "mag": 2.1,
-      "place": "3 km SE of Primrose, Alaska",
-      "time": 1791242873082,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ttlabs"
     }
   ]
 }
