@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-06T17:01:11Z",
+  "updated": "2026-10-06T17:15:42Z",
   "count": 195,
   "points": [
+    {
+      "id": "us6000u0hz",
+      "lon": 79.6148,
+      "lat": 30.1171,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "34 km NNW of Bāgeshwar, India",
+      "time": 1791305591296,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hz"
+    },
+    {
+      "id": "us6000u0hy",
+      "lon": 154.8085,
+      "lat": 48.4554,
+      "depth": 26.047,
+      "mag": 5.9,
+      "place": "264 km SSW of Severo-Kuril’sk, Russia",
+      "time": 1791305301805,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hy"
+    },
     {
       "id": "ci41344135",
       "lon": -117.941666666667,
@@ -107,8 +127,8 @@
       "id": "nn00925363",
       "lon": -115.3385,
       "lat": 38.9946,
-      "depth": 6.3,
-      "mag": 3.6,
+      "depth": 5,
+      "mag": 3.45,
       "place": "25 km WNW of Preston, Nevada",
       "time": 1791300869755,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925363"
@@ -1205,12 +1225,12 @@
     },
     {
       "id": "ci41343855",
-      "lon": -115.482,
-      "lat": 32.8158333333333,
-      "depth": 3.57,
-      "mag": 1.41,
+      "lon": -115.478333333333,
+      "lat": 32.8031666666667,
+      "depth": 3.4,
+      "mag": 1.38,
       "place": "8 km ENE of El Centro, CA",
-      "time": 1791250602050,
+      "time": 1791250601830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343855"
     },
     {
@@ -1932,26 +1952,6 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1791220575650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445061"
-    },
-    {
-      "id": "av94461421",
-      "lon": -153.1215,
-      "lat": 60.0701666666667,
-      "depth": 0.9,
-      "mag": 0.16,
-      "place": "63 km ENE of Pedro Bay, Alaska",
-      "time": 1791220085860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94461421"
-    },
-    {
-      "id": "uw714116191",
-      "lon": -123.140666666667,
-      "lat": 48.5,
-      "depth": 25.1,
-      "mag": 1.38,
-      "place": "9 km WSW of Friday Harbor, Washington",
-      "time": 1791219923110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714116191"
     }
   ]
 }
