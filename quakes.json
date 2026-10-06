@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-06T01:15:45Z",
-  "count": 214,
+  "updated": "2026-10-06T01:30:53Z",
+  "count": 210,
   "points": [
+    {
+      "id": "ok2026toas",
+      "lon": -96.747612,
+      "lat": 35.55213547,
+      "depth": 4.206367493,
+      "mag": 1.9,
+      "place": "9 km SE of Sparks, Oklahoma",
+      "time": 1791249983432,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026toas"
+    },
     {
       "id": "aka2026ttnoiv",
       "lon": -153.149,
@@ -612,6 +622,16 @@
       "place": "13 km NE of Milford, Utah",
       "time": 1791217681560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80158601"
+    },
+    {
+      "id": "av93067804",
+      "lon": -168.190166666667,
+      "lat": 53.3793333333333,
+      "depth": 4.14,
+      "mag": 0.38,
+      "place": "66 km NE of Nikolski, Alaska",
+      "time": 1791217218360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067804"
     },
     {
       "id": "uw714116161",
@@ -2082,66 +2102,6 @@
       "place": "20 km ESE of Anza, CA",
       "time": 1791164513370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343279"
-    },
-    {
-      "id": "tx2026topbej",
-      "lon": -104.524,
-      "lat": 31.642,
-      "depth": 6.4587,
-      "mag": 1.9,
-      "place": "60 km SSW of Whites City, New Mexico",
-      "time": 1791163650039,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026topbej"
-    },
-    {
-      "id": "nc75444691",
-      "lon": -122.972663879395,
-      "lat": 39.123664855957,
-      "depth": 2.15000009536743,
-      "mag": 1.84,
-      "place": "7 km NW of North Lakeport, CA",
-      "time": 1791163562330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444691"
-    },
-    {
-      "id": "nm60628421",
-      "lon": -89.6091666666667,
-      "lat": 36.5548333333333,
-      "depth": 7.77,
-      "mag": 1.85,
-      "place": "1 km SSW of Howardville, Missouri",
-      "time": 1791163447310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60628421"
-    },
-    {
-      "id": "ci41343271",
-      "lon": -116.747333333333,
-      "lat": 33.6713333333333,
-      "depth": 15.21,
-      "mag": 0.35,
-      "place": "8 km SSW of Idyllwild, CA",
-      "time": 1791163409130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343271"
-    },
-    {
-      "id": "us6000tzln",
-      "lon": -86.4891,
-      "lat": 12.0958,
-      "depth": 167.36,
-      "mag": 4.4,
-      "place": "12 km N of Villa El Carmen, Nicaragua",
-      "time": 1791163221127,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzln"
-    },
-    {
-      "id": "us6000tzlp",
-      "lon": -19.965,
-      "lat": -0.4325,
-      "depth": 10,
-      "mag": 5.3,
-      "place": "central Mid-Atlantic Ridge",
-      "time": 1791163130392,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp"
     }
   ]
 }
