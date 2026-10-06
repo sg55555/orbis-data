@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-06T03:45:41Z",
-  "count": 216,
+  "updated": "2026-10-06T04:01:10Z",
+  "count": 217,
   "points": [
+    {
+      "id": "ci41343887",
+      "lon": -116.692833333333,
+      "lat": 33.6391666666667,
+      "depth": 14.97,
+      "mag": 0.22,
+      "place": "10 km N of Anza, CA",
+      "time": 1791258991500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343887"
+    },
     {
       "id": "nc75445296",
       "lon": -122.803001403809,
@@ -254,6 +264,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzth"
     },
     {
+      "id": "uw714116571",
+      "lon": -122.183833333333,
+      "lat": 49.1586666666667,
+      "depth": -0.68,
+      "mag": 1.02,
+      "place": "9 km ENE of Mission, Canada",
+      "time": 1791240776700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714116571"
+    },
+    {
       "id": "us6000tztg",
       "lon": 154.2682,
       "lat": -5.7949,
@@ -305,12 +325,12 @@
     },
     {
       "id": "uw714116541",
-      "lon": -122.9805,
-      "lat": 47.5973333333333,
-      "depth": 18.61,
-      "mag": 0.37,
-      "place": "11 km SW of Brinnon, Washington",
-      "time": 1791236677340,
+      "lon": -122.977166666667,
+      "lat": 47.5978333333333,
+      "depth": 18.81,
+      "mag": 0.61,
+      "place": "10 km SSW of Brinnon, Washington",
+      "time": 1791236677290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714116541"
     },
     {
@@ -2152,16 +2172,6 @@
       "place": "9 km WNW of The Geysers, CA",
       "time": 1791172917310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444791"
-    },
-    {
-      "id": "ci41343303",
-      "lon": -117.718,
-      "lat": 35.89,
-      "depth": 8.86,
-      "mag": 0.62,
-      "place": "18 km ESE of Little Lake, CA",
-      "time": 1791172450980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343303"
     }
   ]
 }
