@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-06T22:15:40Z",
-  "count": 242,
+  "updated": "2026-10-06T22:30:53Z",
+  "count": 244,
   "points": [
+    {
+      "id": "hv75051222",
+      "lon": -155.386672973633,
+      "lat": 19.2526664733887,
+      "depth": 32.4900016784668,
+      "mag": 2.31,
+      "place": "11 km ENE of Pāhala, Hawaii",
+      "time": 1791325613000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75051222"
+    },
+    {
+      "id": "ci41344239",
+      "lon": -116.618833333333,
+      "lat": 34.6101666666667,
+      "depth": 7.82,
+      "mag": 1.7,
+      "place": "37 km ENE of Lucerne Valley, CA",
+      "time": 1791324787170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344239"
+    },
     {
       "id": "aka2026tvekzj",
       "lon": -153.829,
@@ -25,12 +45,12 @@
     },
     {
       "id": "uw714117111",
-      "lon": -123.785003662109,
-      "lat": 46.740665435791,
-      "depth": -0.170000001788139,
-      "mag": 1.89779514074326,
-      "place": "7 km NNW of Raymond, Washington",
-      "time": 1791323971430,
+      "lon": -123.821,
+      "lat": 46.7135,
+      "depth": -0.09,
+      "mag": 1.61,
+      "place": "5 km NNW of South Bend, Washington",
+      "time": 1791323971190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714117111"
     },
     {
@@ -65,12 +85,12 @@
     },
     {
       "id": "hv75051172",
-      "lon": -155.410339355469,
-      "lat": 19.9551658630371,
-      "depth": 7.55000019073486,
-      "mag": 2.56,
+      "lon": -155.409833333333,
+      "lat": 19.957,
+      "depth": 9.91,
+      "mag": 2.37,
       "place": "10 km SSW of Pa‘auilo, Hawaii",
-      "time": 1791323289920,
+      "time": 1791323289880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75051172"
     },
     {
@@ -1214,6 +1234,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026trgpil"
     },
     {
+      "id": "tx2026trgonq",
+      "lon": -97.553,
+      "lat": 29.231,
+      "depth": 8.9908,
+      "mag": 1.1,
+      "place": "9 km ESE of Smiley, Texas",
+      "time": 1791289490396,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026trgonq"
+    },
+    {
       "id": "aka2026tuktsn",
       "lon": -154.226,
       "lat": 57.876,
@@ -1914,6 +1944,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445301"
     },
     {
+      "id": "av94461911",
+      "lon": -153.087333333333,
+      "lat": 60.0201666666667,
+      "depth": 5.39,
+      "mag": -0.77,
+      "place": "62 km ENE of Pedro Bay, Alaska",
+      "time": 1791259967040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94461911"
+    },
+    {
       "id": "uw714116661",
       "lon": -124.053166666667,
       "lat": 47.2653333333333,
@@ -2402,26 +2442,6 @@
       "place": "15 km NNW of Midland, Texas",
       "time": 1791239575767,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tqezhs"
-    },
-    {
-      "id": "pr71535858",
-      "lon": -66.4236666666667,
-      "lat": 18.2586666666667,
-      "depth": 39.28,
-      "mag": 2.11,
-      "place": "4 km NW of Orocovis, Puerto Rico",
-      "time": 1791239285210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535858"
-    },
-    {
-      "id": "av94461696",
-      "lon": -152.2485,
-      "lat": 61.1745,
-      "depth": 6.82,
-      "mag": -0.49,
-      "place": "61 km W of Tyonek, Alaska",
-      "time": 1791238656700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94461696"
     }
   ]
 }
