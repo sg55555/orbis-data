@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-06T19:01:10Z",
-  "count": 201,
+  "updated": "2026-10-06T19:15:45Z",
+  "count": 200,
   "points": [
+    {
+      "id": "aka2026tuymhn",
+      "lon": -152.582,
+      "lat": 59.826,
+      "depth": 92.7,
+      "mag": 0.9,
+      "place": "42 km W of Anchor Point, Alaska",
+      "time": 1791313881594,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuymhn"
+    },
     {
       "id": "nc75445561",
       "lon": -122.785003662109,
@@ -365,12 +375,12 @@
     },
     {
       "id": "ci41344095",
-      "lon": -116.555333333333,
-      "lat": 33.4686666666667,
-      "depth": 11.2,
-      "mag": 1.37,
+      "lon": -116.553666666667,
+      "lat": 33.4685,
+      "depth": 11.73,
+      "mag": 1.44,
       "place": "15 km SE of Anza, CA",
-      "time": 1791297815290,
+      "time": 1791297815230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344095"
     },
     {
@@ -1992,26 +2002,6 @@
       "place": "12 km NE of Julian, CA",
       "time": 1791227739000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343735"
-    },
-    {
-      "id": "ci41343727",
-      "lon": -116.709166666667,
-      "lat": 33.5395,
-      "depth": 5.5,
-      "mag": 0.46,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1791227729370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343727"
-    },
-    {
-      "id": "nc75445131",
-      "lon": -121.980163574219,
-      "lat": 37.8973350524902,
-      "depth": 8.82999992370605,
-      "mag": 1.57,
-      "place": "6 km SW of Clayton, CA",
-      "time": 1791227310190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445131"
     }
   ]
 }
