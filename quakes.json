@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-06T09:01:16Z",
-  "count": 220,
+  "updated": "2026-10-06T09:15:47Z",
+  "count": 219,
   "points": [
+    {
+      "id": "nc75445381",
+      "lon": -122.811164855957,
+      "lat": 38.8033332824707,
+      "depth": 0.740000009536743,
+      "mag": 0.77,
+      "place": "6 km WNW of The Geysers, CA",
+      "time": 1791277999420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445381"
+    },
+    {
+      "id": "aka2026tuelet",
+      "lon": -151.242,
+      "lat": 64.993,
+      "depth": 5,
+      "mag": 1.4,
+      "place": "28 km W of Manley Hot Springs, Alaska",
+      "time": 1791277821532,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuelet"
+    },
     {
       "id": "aka2026tueakr",
       "lon": -151.436,
@@ -22,6 +42,16 @@
       "place": "5 km N of Big Bear City, CA",
       "time": 1791276585480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343983"
+    },
+    {
+      "id": "us6000tzvn",
+      "lon": 152.7519,
+      "lat": -4.4773,
+      "depth": 20.643,
+      "mag": 4.9,
+      "place": "55 km ESE of Kokopo, Papua New Guinea",
+      "time": 1791276326946,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzvn"
     },
     {
       "id": "ci41343975",
@@ -2162,46 +2192,6 @@
       "place": "8 km WNW of Cobb, CA",
       "time": 1791191772110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444886"
-    },
-    {
-      "id": "aka2026tsilpa",
-      "lon": -152.374,
-      "lat": 59.067,
-      "depth": 74.8,
-      "mag": 2,
-      "place": "41 km SW of Nanwalek, Alaska",
-      "time": 1791191692565,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tsilpa"
-    },
-    {
-      "id": "ci41343407",
-      "lon": -117.774666666667,
-      "lat": 33.864,
-      "depth": 9.43,
-      "mag": 0.89,
-      "place": "4 km SE of Yorba Linda, CA",
-      "time": 1791191101850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343407"
-    },
-    {
-      "id": "uw714115981",
-      "lon": -122.183333333333,
-      "lat": 46.2003333333333,
-      "depth": 1.87,
-      "mag": 0.12,
-      "place": "38 km NNE of Amboy, Washington",
-      "time": 1791191025630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714115981"
-    },
-    {
-      "id": "hv75050097",
-      "lon": -155.486663818359,
-      "lat": 19.1636657714844,
-      "depth": 10.0500001907349,
-      "mag": 1.85,
-      "place": "4 km S of Pāhala, Hawaii",
-      "time": 1791190869560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75050097"
     }
   ]
 }
