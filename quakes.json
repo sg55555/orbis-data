@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-06T15:01:13Z",
-  "count": 202,
+  "updated": "2026-10-06T15:15:43Z",
+  "count": 203,
   "points": [
+    {
+      "id": "uu80158661",
+      "lon": -112.906333333333,
+      "lat": 38.4931666666667,
+      "depth": 3.95,
+      "mag": 1.45,
+      "place": "14 km NE of Milford, Utah",
+      "time": 1791298340340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80158661"
+    },
     {
       "id": "aka2026tupuyx",
       "lon": -146.956,
@@ -22,6 +32,16 @@
       "place": "15 km SE of Anza, CA",
       "time": 1791297815290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344095"
+    },
+    {
+      "id": "uu80158656",
+      "lon": -111.232833333333,
+      "lat": 44.755,
+      "depth": 11.44,
+      "mag": 0.47,
+      "place": "3 km WSW of Hebgen Lake Estates, Montana",
+      "time": 1791297610230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80158656"
     },
     {
       "id": "aka2026tupkzu",
@@ -335,12 +355,12 @@
     },
     {
       "id": "ci41344007",
-      "lon": -118.412002563477,
-      "lat": 35.6856651306152,
-      "depth": 3.72000002861023,
-      "mag": 3.21411925976672,
+      "lon": -118.411333333333,
+      "lat": 35.6843333333333,
+      "depth": 4.3,
+      "mag": 3.1,
       "place": "5 km ESE of Wofford Heights, CA",
-      "time": 1791279476970,
+      "time": 1791279476940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344007"
     },
     {
@@ -2012,16 +2032,6 @@
       "place": "26 km E of Honaunau-Napoopoo, Hawaii",
       "time": 1791213422060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75050232"
-    },
-    {
-      "id": "us6000tzp4",
-      "lon": 70.6952,
-      "lat": 36.4528,
-      "depth": 190.787,
-      "mag": 4.3,
-      "place": "47 km SSW of Jurm, Afghanistan",
-      "time": 1791212870258,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzp4"
     }
   ]
 }
