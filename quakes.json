@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-06T04:01:10Z",
+  "updated": "2026-10-06T04:15:41Z",
   "count": 217,
   "points": [
+    {
+      "id": "aka2026ttudjl",
+      "lon": -149.903,
+      "lat": 61.548,
+      "depth": 32.8,
+      "mag": 3.4,
+      "place": "4 km NE of Big Lake, Alaska",
+      "time": 1791259289033,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ttudjl"
+    },
     {
       "id": "ci41343887",
       "lon": -116.692833333333,
@@ -12,6 +22,16 @@
       "place": "10 km N of Anza, CA",
       "time": 1791258991500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343887"
+    },
+    {
+      "id": "us6000tzuj",
+      "lon": 120.3932,
+      "lat": -7.8323,
+      "depth": 8.653,
+      "mag": 4.8,
+      "place": "86 km N of Ruteng, Indonesia",
+      "time": 1791258163999,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuj"
     },
     {
       "id": "nc75445296",
@@ -2152,26 +2172,6 @@
       "place": "Kuril Islands",
       "time": 1791173783636,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzm7"
-    },
-    {
-      "id": "nc75444796",
-      "lon": -122.426002502441,
-      "lat": 38.4179992675781,
-      "depth": 6.98999977111816,
-      "mag": 1.37,
-      "place": "6 km WNW of Yountville, CA",
-      "time": 1791173210090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444796"
-    },
-    {
-      "id": "nc75444791",
-      "lon": -122.842002868652,
-      "lat": 38.8190002441406,
-      "depth": 2.11999988555908,
-      "mag": 0.73,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": 1791172917310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444791"
     }
   ]
 }
