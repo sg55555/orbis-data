@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-06T00:30:57Z",
-  "count": 218,
+  "updated": "2026-10-06T00:45:41Z",
+  "count": 216,
   "points": [
+    {
+      "id": "aka2026ttnoiv",
+      "lon": -153.149,
+      "lat": 60.005,
+      "depth": 5.4,
+      "mag": 0.4,
+      "place": "58 km ENE of Pedro Bay, Alaska",
+      "time": 1791247452981,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ttnoiv"
+    },
     {
       "id": "ci41343847",
       "lon": -116.757666666667,
@@ -32,16 +42,6 @@
       "place": "8 km ENE of Morgan Hill, CA",
       "time": 1791244434960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445241"
-    },
-    {
-      "id": "nn00925332",
-      "lon": -118.0933,
-      "lat": 40.2536,
-      "depth": 5.0538,
-      "mag": 1.75,
-      "place": "33 km ENE of Lovelock, Nevada",
-      "time": 1791243081741,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925332"
     },
     {
       "id": "aka2026ttlabs",
@@ -892,6 +892,16 @@
       "place": "60 km S of Whites City, New Mexico",
       "time": 1791207595122,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tpnibn"
+    },
+    {
+      "id": "av94461211",
+      "lon": -154.905166666667,
+      "lat": 58.4585,
+      "depth": 8.2,
+      "mag": 0.19,
+      "place": "102 km NNW of Karluk, Alaska",
+      "time": 1791207122820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94461211"
     },
     {
       "id": "us6000tznu",
@@ -2152,36 +2162,6 @@
       "place": "6 km W of Cobb, CA",
       "time": 1791161568440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444656"
-    },
-    {
-      "id": "nc75444646",
-      "lon": -122.814163208008,
-      "lat": 38.8294982910156,
-      "depth": 1.80999994277954,
-      "mag": 0.73,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1791161075340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444646"
-    },
-    {
-      "id": "aka2026trrnlc",
-      "lon": -155.359,
-      "lat": 58.167,
-      "depth": 5,
-      "mag": 1.2,
-      "place": "85 km NW of Karluk, Alaska",
-      "time": 1791161029966,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026trrnlc"
-    },
-    {
-      "id": "tx2026tonhen",
-      "lon": -98.944,
-      "lat": 28.839,
-      "depth": 8.0363,
-      "mag": 1.9,
-      "place": "15 km ESE of Pearsall, Texas",
-      "time": 1791160443931,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tonhen"
     }
   ]
 }
