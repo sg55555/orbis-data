@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-06T19:45:45Z",
-  "count": 213,
+  "updated": "2026-10-06T20:01:09Z",
+  "count": 211,
   "points": [
+    {
+      "id": "nc75445616",
+      "lon": -118.833999633789,
+      "lat": 37.4415016174316,
+      "depth": -0.519999980926514,
+      "mag": 1.85,
+      "place": "19 km SW of Toms Place, CA",
+      "time": 1791315850140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445616"
+    },
     {
       "id": "nc75445606",
       "lon": -122.940170288086,
@@ -1535,12 +1545,12 @@
     },
     {
       "id": "hv75050492",
-      "lon": -155.605834960938,
-      "lat": 19.4349994659424,
-      "depth": 34.3300018310547,
-      "mag": 2.21,
+      "lon": -155.605,
+      "lat": 19.467,
+      "depth": 35.78,
+      "mag": 2.1,
       "place": "27 km E of Honaunau-Napoopoo, Hawaii",
-      "time": 1791256888430,
+      "time": 1791256888100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75050492"
     },
     {
@@ -2102,36 +2112,6 @@
       "place": "60 km S of Whites City, New Mexico",
       "time": 1791231265572,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tqajtr"
-    },
-    {
-      "id": "aka2026ttecdg",
-      "lon": -149.777,
-      "lat": 61.609,
-      "depth": 22.4,
-      "mag": 1.9,
-      "place": "3 km SE of Houston, Alaska",
-      "time": 1791230417633,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ttecdg"
-    },
-    {
-      "id": "tx2026tpzuli",
-      "lon": -104.367,
-      "lat": 31.632,
-      "depth": 6.5613,
-      "mag": 2.1,
-      "place": "60 km S of Whites City, New Mexico",
-      "time": 1791230364669,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tpzuli"
-    },
-    {
-      "id": "us6000tzry",
-      "lon": 40.0091,
-      "lat": 8.9608,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "12 km ENE of Metahāra, Ethiopia",
-      "time": 1791229675779,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzry"
     }
   ]
 }
