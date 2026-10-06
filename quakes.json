@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-06T05:45:41Z",
-  "count": 217,
+  "updated": "2026-10-06T06:01:09Z",
+  "count": 216,
   "points": [
+    {
+      "id": "ci41343919",
+      "lon": -117.795501708984,
+      "lat": 35.3190002441406,
+      "depth": 4.30999994277954,
+      "mag": 1.69286118958469,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1791266289200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343919"
+    },
     {
       "id": "ci41343911",
       "lon": -116.739833333333,
@@ -792,6 +802,16 @@
       "place": "1 km NNW of South Pasadena, CA",
       "time": 1791224667410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343687"
+    },
+    {
+      "id": "av94461496",
+      "lon": -155.854166666667,
+      "lat": 57.6536666666667,
+      "depth": 11.81,
+      "mag": 0.52,
+      "place": "84 km W of Karluk, Alaska",
+      "time": 1791223895930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94461496"
     },
     {
       "id": "ci41343679",
@@ -2142,36 +2162,6 @@
       "place": "17 km NNE of Isabela, Puerto Rico",
       "time": 1791180123830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535793"
-    },
-    {
-      "id": "av94460906",
-      "lon": -153.1255,
-      "lat": 59.9983333333333,
-      "depth": 0.93,
-      "mag": -0.92,
-      "place": "59 km ENE of Pedro Bay, Alaska",
-      "time": 1791179886940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94460906"
-    },
-    {
-      "id": "hv75050032",
-      "lon": -155.1435,
-      "lat": 19.3473333333333,
-      "depth": 7.32,
-      "mag": 1.5,
-      "place": "13 km S of Fern Forest, Hawaii",
-      "time": 1791179862700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75050032"
-    },
-    {
-      "id": "av94460896",
-      "lon": -153.751,
-      "lat": 58.7983333333333,
-      "depth": 3.45,
-      "mag": 0.37,
-      "place": "92 km SE of Kokhanok, Alaska",
-      "time": 1791179417390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94460896"
     }
   ]
 }
