@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-06T12:01:07Z",
-  "count": 204,
+  "updated": "2026-10-06T12:15:42Z",
+  "count": 205,
   "points": [
+    {
+      "id": "ci41344047",
+      "lon": -115.470833333333,
+      "lat": 32.7148333333333,
+      "depth": 9.06,
+      "mag": 1.41,
+      "place": "5 km NNE of Calexico, CA",
+      "time": 1791288554340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344047"
+    },
+    {
+      "id": "ci41344039",
+      "lon": -116.2775,
+      "lat": 33.2526666666667,
+      "depth": 11.68,
+      "mag": 1.54,
+      "place": "9 km E of Borrego Springs, CA",
+      "time": 1791288267560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344039"
+    },
     {
       "id": "aka2026tujxgg",
       "lon": -152.013,
@@ -72,6 +92,16 @@
       "place": "16 km NE of Little Lake, CA",
       "time": 1791281554910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344015"
+    },
+    {
+      "id": "se60506423",
+      "lon": -85.4116666666667,
+      "lat": 35.303,
+      "depth": 20.57,
+      "mag": 2.14,
+      "place": "7 km SSW of Dunlap, Tennessee",
+      "time": 1791281140470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60506423"
     },
     {
       "id": "aka2026tufuvl",
@@ -785,12 +815,12 @@
     },
     {
       "id": "ok2026tobc",
-      "lon": -96.73817444,
-      "lat": 35.54884338,
-      "depth": 4.432305336,
-      "mag": 1.64,
+      "lon": -96.745,
+      "lat": 35.542,
+      "depth": 6.84,
+      "mag": 1.54,
       "place": "8 km NW of Prague, Oklahoma",
-      "time": 1791250721944,
+      "time": 1791250721960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026tobc"
     },
     {
@@ -805,12 +835,12 @@
     },
     {
       "id": "ok2026toas",
-      "lon": -96.747612,
-      "lat": 35.55213547,
-      "depth": 4.206367493,
-      "mag": 1.9,
-      "place": "9 km SE of Sparks, Oklahoma",
-      "time": 1791249983432,
+      "lon": -96.74633333,
+      "lat": 35.54233333,
+      "depth": 7,
+      "mag": 1.72,
+      "place": "8 km NW of Prague, Oklahoma",
+      "time": 1791249983309,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026toas"
     },
     {
@@ -2022,26 +2052,6 @@
       "place": "4 km SSW of Pāhala, Hawaii",
       "time": 1791202591770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75050157"
-    },
-    {
-      "id": "aka2026tsoksi",
-      "lon": -152.939,
-      "lat": 60.132,
-      "depth": 125.3,
-      "mag": 2.6,
-      "place": "70 km WNW of Happy Valley, Alaska",
-      "time": 1791202211438,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tsoksi"
-    },
-    {
-      "id": "uu80008163",
-      "lon": -112.760666666667,
-      "lat": 37.1756666666667,
-      "depth": 11.47,
-      "mag": 0.23,
-      "place": "15 km SW of Orderville, Utah",
-      "time": 1791201982910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80008163"
     }
   ]
 }
