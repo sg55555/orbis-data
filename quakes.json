@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-06T04:15:41Z",
+  "updated": "2026-10-06T04:30:54Z",
   "count": 217,
   "points": [
+    {
+      "id": "nc75445301",
+      "lon": -122.74983215332,
+      "lat": 38.78466796875,
+      "depth": 0.589999973773956,
+      "mag": 0.76,
+      "place": "1 km NE of The Geysers, CA",
+      "time": 1791260793560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445301"
+    },
+    {
+      "id": "uw714116661",
+      "lon": -124.053166666667,
+      "lat": 47.2653333333333,
+      "depth": 24.94,
+      "mag": 1.02,
+      "place": "7 km WNW of Humptulips, Washington",
+      "time": 1791259722320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714116661"
+    },
     {
       "id": "aka2026ttudjl",
       "lon": -149.903,
@@ -12,6 +32,16 @@
       "place": "4 km NE of Big Lake, Alaska",
       "time": 1791259289033,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ttudjl"
+    },
+    {
+      "id": "us6000tzul",
+      "lon": -145.1953,
+      "lat": 69.6234,
+      "depth": 10,
+      "mag": 2.5,
+      "place": "82 km SW of Kaktovik, Alaska",
+      "time": 1791259099461,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzul"
     },
     {
       "id": "ci41343887",
@@ -165,12 +195,12 @@
     },
     {
       "id": "uw714116641",
-      "lon": -122.053665161133,
-      "lat": 46.7401657104492,
-      "depth": 7.44000005722046,
-      "mag": 2.57948839664459,
+      "lon": -122.054833333333,
+      "lat": 46.7393333333333,
+      "depth": 7.14,
+      "mag": 2.43,
       "place": "2 km SW of Ashford, Washington",
-      "time": 1791252129190,
+      "time": 1791252129180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714116641"
     },
     {
@@ -2142,36 +2172,6 @@
       "place": "102 km W of Skwentna, Alaska",
       "time": 1791175199006,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026trzkej"
-    },
-    {
-      "id": "ci41343311",
-      "lon": -116.707666666667,
-      "lat": 33.5361666666667,
-      "depth": 5.49,
-      "mag": 0.56,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1791174512140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343311"
-    },
-    {
-      "id": "pr71535778",
-      "lon": -66.8915,
-      "lat": 17.9835,
-      "depth": 13.88,
-      "mag": 2.09,
-      "place": "0 km NNW of Maria Antonia, Puerto Rico",
-      "time": 1791174000390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535778"
-    },
-    {
-      "id": "us6000tzm7",
-      "lon": 151.8684,
-      "lat": 45.953,
-      "depth": 35,
-      "mag": 4.5,
-      "place": "Kuril Islands",
-      "time": 1791173783636,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzm7"
     }
   ]
 }
