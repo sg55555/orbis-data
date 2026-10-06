@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-05T23:45:39Z",
+  "updated": "2026-10-06T00:01:12Z",
   "count": 215,
   "points": [
+    {
+      "id": "nc75445241",
+      "lon": -121.56950378418,
+      "lat": 37.1640014648438,
+      "depth": 3.49000000953674,
+      "mag": 2.2,
+      "place": "8 km ENE of Morgan Hill, CA",
+      "time": 1791244434960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445241"
+    },
     {
       "id": "nn00925332",
       "lon": -118.0933,
@@ -1194,6 +1204,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714116001"
     },
     {
+      "id": "av93067779",
+      "lon": -154.785,
+      "lat": 58.4256666666667,
+      "depth": 5.62,
+      "mag": -0.19,
+      "place": "97 km NNW of Karluk, Alaska",
+      "time": 1791198063900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067779"
+    },
+    {
       "id": "us6000tzna",
       "lon": 147.395,
       "lat": 15.8046,
@@ -1615,12 +1635,12 @@
     },
     {
       "id": "hv75050032",
-      "lon": -155.143173217773,
-      "lat": 19.3488330841064,
-      "depth": 4.57000017166138,
-      "mag": 1.74,
-      "place": "12 km S of Fern Forest, Hawaii",
-      "time": 1791179862960,
+      "lon": -155.1435,
+      "lat": 19.3473333333333,
+      "depth": 7.32,
+      "mag": 1.5,
+      "place": "13 km S of Fern Forest, Hawaii",
+      "time": 1791179862700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75050032"
     },
     {
@@ -2132,26 +2152,6 @@
       "place": "3 km NE of The Geysers, CA",
       "time": 1791159654370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444626"
-    },
-    {
-      "id": "uu80158571",
-      "lon": -111.012666666667,
-      "lat": 44.7066666666667,
-      "depth": 10.62,
-      "mag": 1.02,
-      "place": "8 km NE of West Yellowstone, Montana",
-      "time": 1791157793560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80158571"
-    },
-    {
-      "id": "aka2026trprwb",
-      "lon": -146.715,
-      "lat": 61.541,
-      "depth": 19.6,
-      "mag": 1.8,
-      "place": "49 km NNW of Valdez, Alaska",
-      "time": 1791157740668,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026trprwb"
     }
   ]
 }
