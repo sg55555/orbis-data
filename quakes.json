@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-06T16:45:43Z",
-  "count": 197,
+  "updated": "2026-10-06T17:01:11Z",
+  "count": 195,
   "points": [
+    {
+      "id": "ci41344135",
+      "lon": -117.941666666667,
+      "lat": 35.798,
+      "depth": 2.13,
+      "mag": 0.51,
+      "place": "16 km SSW of Little Lake, CA",
+      "time": 1791304984630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344135"
+    },
     {
       "id": "nn00925367",
       "lon": -117.8328,
@@ -72,6 +82,16 @@
       "place": "15 km SSW of Point Possession, Alaska",
       "time": 1791301511316,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026turpnq"
+    },
+    {
+      "id": "pr71535908",
+      "lon": -66.0446666666667,
+      "lat": 18.4088333333333,
+      "depth": 112.96,
+      "mag": 3.07,
+      "place": "7 km NNW of Trujillo Alto, Puerto Rico",
+      "time": 1791301326800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535908"
     },
     {
       "id": "aka2026turjpf",
@@ -1265,12 +1285,12 @@
     },
     {
       "id": "ci41343831",
-      "lon": -119.1105,
-      "lat": 35.0646666666667,
-      "depth": 6.78,
-      "mag": 1.77,
-      "place": "21 km NW of Grapevine, CA",
-      "time": 1791244711870,
+      "lon": -119.107166666667,
+      "lat": 35.0723333333333,
+      "depth": 0.55,
+      "mag": 1.79,
+      "place": "22 km NW of Grapevine, CA",
+      "time": 1791244711310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343831"
     },
     {
@@ -1665,12 +1685,12 @@
     },
     {
       "id": "ci41343703",
-      "lon": -118.196833333333,
-      "lat": 34.9911666666667,
-      "depth": -0.72,
-      "mag": 1.53,
+      "lon": -118.199,
+      "lat": 34.9883333333333,
+      "depth": -0.77,
+      "mag": 1.39,
       "place": "7 km SSW of Mojave, CA",
-      "time": 1791226286460,
+      "time": 1791226286310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343703"
     },
     {
@@ -1932,46 +1952,6 @@
       "place": "9 km WSW of Friday Harbor, Washington",
       "time": 1791219923110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714116191"
-    },
-    {
-      "id": "ci41343631",
-      "lon": -116.0715,
-      "lat": 32.7045,
-      "depth": 9.83,
-      "mag": 1.29,
-      "place": "8 km WSW of Ocotillo, CA",
-      "time": 1791219541320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343631"
-    },
-    {
-      "id": "nc75445051",
-      "lon": -122.731163024902,
-      "lat": 38.7688331604004,
-      "depth": 1.33000004291534,
-      "mag": 0.74,
-      "place": "2 km ESE of The Geysers, CA",
-      "time": 1791219477760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445051"
-    },
-    {
-      "id": "aka2026tsxxtn",
-      "lon": -155.849,
-      "lat": 57.65,
-      "depth": 5,
-      "mag": 3.4,
-      "place": "83 km W of Karluk, Alaska",
-      "time": 1791219319142,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tsxxtn"
-    },
-    {
-      "id": "nc75445046",
-      "lon": -122.785835266113,
-      "lat": 38.8146667480469,
-      "depth": 1.91999995708466,
-      "mag": 1.44,
-      "place": "5 km NNW of The Geysers, CA",
-      "time": 1791218880040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445046"
     }
   ]
 }
