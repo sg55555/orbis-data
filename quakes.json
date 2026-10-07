@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-07T08:01:06Z",
-  "count": 275,
+  "updated": "2026-10-07T08:15:40Z",
+  "count": 276,
   "points": [
+    {
+      "id": "ci41344407",
+      "lon": -116.162002563477,
+      "lat": 33.7891654968262,
+      "depth": 7.84000015258789,
+      "mag": 1.1407230852956,
+      "place": "9 km NNE of Indio, CA",
+      "time": 1791360708590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344407"
+    },
+    {
+      "id": "us6000u0q1",
+      "lon": -93.1891,
+      "lat": 14.6207,
+      "depth": 61.654,
+      "mag": 4.9,
+      "place": "80 km SW of El Arenal, Mexico",
+      "time": 1791358999524,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0q1"
+    },
     {
       "id": "nc75445861",
       "lon": -122.809829711914,
@@ -172,6 +192,16 @@
       "place": "8 km WNW of Cobb, CA",
       "time": 1791349960810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445811"
+    },
+    {
+      "id": "tx2026tsnybg",
+      "lon": -104.408,
+      "lat": 31.682,
+      "depth": 6.0999,
+      "mag": 1.8,
+      "place": "54 km S of Whites City, New Mexico",
+      "time": 1791349895403,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tsnybg"
     },
     {
       "id": "nc75445801",
@@ -2732,26 +2762,6 @@
       "place": "12 km NW of Coso Junction, CA",
       "time": 1791274628500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343967"
-    },
-    {
-      "id": "nc75445361",
-      "lon": -122.76016998291,
-      "lat": 38.7933349609375,
-      "depth": 0.529999971389771,
-      "mag": 0.96,
-      "place": "2 km N of The Geysers, CA",
-      "time": 1791273935560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445361"
-    },
-    {
-      "id": "av93067864",
-      "lon": -169.855333333333,
-      "lat": 52.8576666666667,
-      "depth": 9.25,
-      "mag": 0.95,
-      "place": "67 km W of Nikolski, Alaska",
-      "time": 1791273792650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067864"
     }
   ]
 }
