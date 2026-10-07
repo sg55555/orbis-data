@@ -1,14 +1,24 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-07T14:45:42Z",
-  "count": 273,
+  "updated": "2026-10-07T15:01:15Z",
+  "count": 275,
   "points": [
+    {
+      "id": "ci41344559",
+      "lon": -116.727833333333,
+      "lat": 33.6471666666667,
+      "depth": 14.96,
+      "mag": 1.77,
+      "place": "10 km S of Idyllwild, CA",
+      "time": 1791384912290,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344559"
+    },
     {
       "id": "aka2026twlmvc",
       "lon": -151.039,
       "lat": 62.955,
       "depth": 116.1,
-      "mag": 2.3,
+      "mag": 2.4,
       "place": "52 km NNW of Petersville, Alaska",
       "time": 1791384096287,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twlmvc"
@@ -54,6 +64,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twksuq"
     },
     {
+      "id": "pr71535953",
+      "lon": -65.415,
+      "lat": 19.0458333333333,
+      "depth": 39.66,
+      "mag": 3.43,
+      "place": "81 km NNE of Luquillo, Puerto Rico",
+      "time": 1791382096400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535953"
+    },
+    {
       "id": "aka2026twkgzq",
       "lon": -152.058,
       "lat": 60.343,
@@ -62,6 +82,16 @@
       "place": "38 km WNW of Clam Gulch, Alaska",
       "time": 1791381883084,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twkgzq"
+    },
+    {
+      "id": "tx2026ttfojv",
+      "lon": -104.041,
+      "lat": 31.707,
+      "depth": 4.7028,
+      "mag": 1.3,
+      "place": "41 km W of Mentone, Texas",
+      "time": 1791381806703,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ttfojv"
     },
     {
       "id": "nc75445961",
@@ -532,6 +562,16 @@
       "place": "9 km NNE of Indio, CA",
       "time": 1791360708670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344407"
+    },
+    {
+      "id": "tx2026tstuew",
+      "lon": -104.429,
+      "lat": 31.66,
+      "depth": 6.5356,
+      "mag": 2.4,
+      "place": "57 km S of Whites City, New Mexico",
+      "time": 1791360662352,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tstuew"
     },
     {
       "id": "us6000u0q1",
@@ -1695,12 +1735,12 @@
     },
     {
       "id": "ci41344199",
-      "lon": -116.899833333333,
-      "lat": 32.7616666666667,
-      "depth": 4.42,
-      "mag": 1.61,
-      "place": "4 km ENE of Rancho San Diego, CA",
-      "time": 1791322217850,
+      "lon": -116.894,
+      "lat": 32.7778333333333,
+      "depth": -0.26,
+      "mag": 1.65,
+      "place": "5 km NE of Rancho San Diego, CA",
+      "time": 1791322217660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344199"
     },
     {
@@ -2465,22 +2505,22 @@
     },
     {
       "id": "us6000u0hz",
-      "lon": 79.6148,
-      "lat": 30.1171,
-      "depth": 10,
+      "lon": 79.5618,
+      "lat": 30.092,
+      "depth": 17.838,
       "mag": 5.1,
-      "place": "34 km NNW of Bāgeshwar, India",
-      "time": 1791305591296,
+      "place": "34 km NW of Bāgeshwar, India",
+      "time": 1791305592578,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hz"
     },
     {
       "id": "us6000u0hy",
-      "lon": 154.8085,
-      "lat": 48.4554,
-      "depth": 26.047,
-      "mag": 5.9,
-      "place": "264 km SSW of Severo-Kuril’sk, Russia",
-      "time": 1791305301805,
+      "lon": 154.9316,
+      "lat": 48.4437,
+      "depth": 29,
+      "mag": 5.8,
+      "place": "262 km SSW of Severo-Kuril’sk, Russia",
+      "time": 1791305302347,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hy"
     },
     {
@@ -2712,26 +2752,6 @@
       "place": "14 km NE of Milford, Utah",
       "time": 1791298842010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80158666"
-    },
-    {
-      "id": "uu80158661",
-      "lon": -112.906333333333,
-      "lat": 38.4931666666667,
-      "depth": 3.95,
-      "mag": 1.45,
-      "place": "14 km NE of Milford, Utah",
-      "time": 1791298340340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80158661"
-    },
-    {
-      "id": "aka2026tupuyx",
-      "lon": -146.956,
-      "lat": 64.471,
-      "depth": 6,
-      "mag": 2.3,
-      "place": "6 km SSW of Salcha, Alaska",
-      "time": 1791298288863,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tupuyx"
     }
   ]
 }
