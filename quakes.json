@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-07T01:15:47Z",
-  "count": 266,
+  "updated": "2026-10-07T01:30:51Z",
+  "count": 267,
   "points": [
+    {
+      "id": "nc75445731",
+      "lon": -122.762664794922,
+      "lat": 38.8206672668457,
+      "depth": 2.21000003814697,
+      "mag": 0.73,
+      "place": "3 km W of Cobb, CA",
+      "time": 1791336492260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445731"
+    },
+    {
+      "id": "aka2026tvkqco",
+      "lon": -151.033,
+      "lat": 62.688,
+      "depth": 93.1,
+      "mag": 2.2,
+      "place": "25 km NNW of Petersville, Alaska",
+      "time": 1791335735769,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvkqco"
+    },
     {
       "id": "aka2026tvkjsp",
       "lon": -150.487,
@@ -1222,6 +1242,16 @@
       "place": "2 km SW of Ashford, Washington",
       "time": 1791300335780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714116811"
+    },
+    {
+      "id": "av94462506",
+      "lon": -152.096666666667,
+      "lat": 61.3191666666667,
+      "depth": 3.17,
+      "mag": -0.55,
+      "place": "57 km WNW of Beluga, Alaska",
+      "time": 1791300040250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94462506"
     },
     {
       "id": "uw714116801",
@@ -2642,26 +2672,6 @@
       "place": "8 km ENE of El Centro, CA",
       "time": 1791250601830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343855"
-    },
-    {
-      "id": "uu80158641",
-      "lon": -112.891,
-      "lat": 37.0923333333333,
-      "depth": 15.35,
-      "mag": 1.91,
-      "place": "11 km NE of Hildale, Utah",
-      "time": 1791250039060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80158641"
-    },
-    {
-      "id": "ok2026toas",
-      "lon": -96.74633333,
-      "lat": 35.54233333,
-      "depth": 7,
-      "mag": 1.72,
-      "place": "8 km NW of Prague, Oklahoma",
-      "time": 1791249983309,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026toas"
     }
   ]
 }
