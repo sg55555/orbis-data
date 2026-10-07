@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-07T17:15:53Z",
-  "count": 278,
+  "updated": "2026-10-07T17:30:57Z",
+  "count": 277,
   "points": [
+    {
+      "id": "us6000u0tb",
+      "lon": -103.115,
+      "lat": 31.1646,
+      "depth": 13.727,
+      "mag": 3.5,
+      "place": "9 km SSW of Coyanosa, Texas",
+      "time": 1791393428844,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0tb"
+    },
+    {
+      "id": "aka2026twqpse",
+      "lon": -147.626,
+      "lat": 63.816,
+      "depth": 0.1,
+      "mag": 1.6,
+      "place": "64 km E of Denali Park, Alaska",
+      "time": 1791393281664,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twqpse"
+    },
     {
       "id": "nn00925431",
       "lon": -115.7145,
@@ -32,6 +52,16 @@
       "place": "13 km E of Santa Margarita, CA",
       "time": 1791391724250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446031"
+    },
+    {
+      "id": "ci41344615",
+      "lon": -116.758,
+      "lat": 33.585,
+      "depth": 12.24,
+      "mag": 0.43,
+      "place": "9 km WNW of Anza, CA",
+      "time": 1791391435910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344615"
     },
     {
       "id": "nc75446026",
@@ -2742,46 +2772,6 @@
       "place": "5 km ENE of Drumright, Oklahoma",
       "time": 1791307893880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026tpgo"
-    },
-    {
-      "id": "aka2026tuvccy",
-      "lon": -157.483,
-      "lat": 56.065,
-      "depth": 26.1,
-      "mag": 2.5,
-      "place": "62 km ESE of Chignik, Alaska",
-      "time": 1791307778354,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuvccy"
-    },
-    {
-      "id": "nc75445486",
-      "lon": -122.84733581543,
-      "lat": 38.8463325500488,
-      "depth": 3.42000007629395,
-      "mag": 0.27,
-      "place": "11 km NW of The Geysers, CA",
-      "time": 1791307518400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445486"
-    },
-    {
-      "id": "nc75445491",
-      "lon": -122.123336791992,
-      "lat": 37.3623352050781,
-      "depth": 2.84999990463257,
-      "mag": 1.73,
-      "place": "2 km SSE of Los Altos Hills, CA",
-      "time": 1791307515150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445491"
-    },
-    {
-      "id": "ci41344143",
-      "lon": -116.863833333333,
-      "lat": 33.329,
-      "depth": 9.72,
-      "mag": 0.7,
-      "place": "3 km S of Palomar Observatory, CA",
-      "time": 1791307159540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344143"
     }
   ]
 }
