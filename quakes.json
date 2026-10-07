@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-07T15:45:44Z",
-  "count": 272,
+  "updated": "2026-10-07T16:01:09Z",
+  "count": 269,
   "points": [
+    {
+      "id": "aka2026twnzut",
+      "lon": -153.231,
+      "lat": 59.861,
+      "depth": 127.4,
+      "mag": 1.3,
+      "place": "49 km E of Pedro Bay, Alaska",
+      "time": 1791388620183,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twnzut"
+    },
     {
       "id": "nc75445991",
       "lon": -122.843330383301,
@@ -55,12 +65,12 @@
     },
     {
       "id": "ci41344559",
-      "lon": -116.727833333333,
-      "lat": 33.6471666666667,
-      "depth": 14.96,
-      "mag": 1.77,
+      "lon": -116.727,
+      "lat": 33.6466666666667,
+      "depth": 15.33,
+      "mag": 1.74,
       "place": "10 km S of Idyllwild, CA",
-      "time": 1791384912290,
+      "time": 1791384912250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344559"
     },
     {
@@ -532,6 +542,16 @@
       "place": "8 km SW of Anchorage, Alaska",
       "time": 1791364457428,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twapdz"
+    },
+    {
+      "id": "nm60506428",
+      "lon": -92.6536666666667,
+      "lat": 36.3563333333333,
+      "depth": 2.47,
+      "mag": 1.7,
+      "place": "7 km WSW of Bull Shoals, Arkansas",
+      "time": 1791364433240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60506428"
     },
     {
       "id": "hv75051582",
@@ -2672,56 +2692,6 @@
       "place": "28 km NW of Searles Valley, CA",
       "time": 1791302608640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344127"
-    },
-    {
-      "id": "us6000u0d2",
-      "lon": -63.6857,
-      "lat": -22.196,
-      "depth": 525.781,
-      "mag": 4.1,
-      "place": "19 km S of Yacuiba, Bolivia",
-      "time": 1791302244056,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0d2"
-    },
-    {
-      "id": "hv75050857",
-      "lon": -155.4265,
-      "lat": 19.305,
-      "depth": 28.69,
-      "mag": 1.88,
-      "place": "12 km NNE of Pāhala, Hawaii",
-      "time": 1791302005130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75050857"
-    },
-    {
-      "id": "hv75050852",
-      "lon": -155.454666666667,
-      "lat": 19.2185,
-      "depth": 8.94,
-      "mag": 1.15,
-      "place": "3 km NE of Pāhala, Hawaii",
-      "time": 1791301964750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75050852"
-    },
-    {
-      "id": "av94462521",
-      "lon": -176.0995,
-      "lat": 52.0845,
-      "depth": 11.18,
-      "mag": 0.39,
-      "place": "43 km ENE of Adak, Alaska",
-      "time": 1791301877070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94462521"
-    },
-    {
-      "id": "aka2026turpnq",
-      "lon": -150.754,
-      "lat": 60.79,
-      "depth": 60.4,
-      "mag": 1.9,
-      "place": "15 km SSW of Point Possession, Alaska",
-      "time": 1791301511316,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026turpnq"
     }
   ]
 }
