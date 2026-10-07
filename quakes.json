@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-07T23:01:10Z",
-  "count": 240,
+  "updated": "2026-10-07T23:15:44Z",
+  "count": 239,
   "points": [
     {
+      "id": "nc75446236",
+      "lon": -122.750503540039,
+      "lat": 38.7863349914551,
+      "depth": 0.699999988079071,
+      "mag": 0.76,
+      "place": "1 km NNE of The Geysers, CA",
+      "time": 1791414809230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446236"
+    },
+    {
+      "id": "hv75051887",
+      "lon": -155.48583984375,
+      "lat": 19.1401672363281,
+      "depth": 32.5,
+      "mag": 1.93,
+      "place": "6 km S of Pāhala, Hawaii",
+      "time": 1791414204900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75051887"
+    },
+    {
       "id": "ci41344735",
-      "lon": -116.407333374023,
-      "lat": 33.4099998474121,
-      "depth": 7.57000017166138,
-      "mag": 1.48002298082575,
+      "lon": -116.403666666667,
+      "lat": 33.4078333333333,
+      "depth": 9.33,
+      "mag": 1.35,
       "place": "17 km N of Borrego Springs, CA",
-      "time": 1791413835140,
+      "time": 1791413835060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344735"
     },
     {
@@ -2372,36 +2392,6 @@
       "place": "11 km E of Orcas, Washington",
       "time": 1791328549490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714117171"
-    },
-    {
-      "id": "hv75051272",
-      "lon": -155.596,
-      "lat": 19.4195,
-      "depth": 42.98,
-      "mag": 2.17,
-      "place": "26 km NNW of Pāhala, Hawaii",
-      "time": 1791328406040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75051272"
-    },
-    {
-      "id": "av94463021",
-      "lon": -152.601333333333,
-      "lat": 60.334,
-      "depth": 11.81,
-      "mag": 0.26,
-      "place": "60 km WNW of Ninilchik, Alaska",
-      "time": 1791328334260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94463021"
-    },
-    {
-      "id": "aka2026tvgiug",
-      "lon": -147.227,
-      "lat": 61.723,
-      "depth": 27.1,
-      "mag": 1.8,
-      "place": "24 km S of Eureka Roadhouse, Alaska",
-      "time": 1791328033330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvgiug"
     }
   ]
 }
