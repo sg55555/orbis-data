@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-07T04:15:45Z",
-  "count": 283,
+  "updated": "2026-10-07T04:30:54Z",
+  "count": 282,
   "points": [
+    {
+      "id": "aka2026tvqxnx",
+      "lon": -149.874,
+      "lat": 62.281,
+      "depth": 16.9,
+      "mag": 1.2,
+      "place": "13 km ESE of Talkeetna, Alaska",
+      "time": 1791347044959,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvqxnx"
+    },
     {
       "id": "nc75445776",
       "lon": -123.446998596191,
@@ -332,6 +342,16 @@
       "place": "5 km NNE of Kalifornsky, Alaska",
       "time": 1791333616829,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvjlmn"
+    },
+    {
+      "id": "us6000u0mu",
+      "lon": 159.4666,
+      "lat": 52.9685,
+      "depth": 61.934,
+      "mag": 4.8,
+      "place": "57 km E of Petropavlovsk-Kamchatsky, Russia",
+      "time": 1791333008365,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0mu"
     },
     {
       "id": "nc75445706",
@@ -2802,36 +2822,6 @@
       "place": "12 km SSW of Tres Pinos, CA",
       "time": 1791261590740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445306"
-    },
-    {
-      "id": "us6000tzun",
-      "lon": -156.8293,
-      "lat": 18.7252,
-      "depth": 10,
-      "mag": 3.3,
-      "place": "118 km WSW of Hawaiian Ocean View, Hawaii",
-      "time": 1791260989160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzun"
-    },
-    {
-      "id": "us6000tzuq",
-      "lon": 142.845,
-      "lat": 29.02,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "Izu Islands, Japan region",
-      "time": 1791260916912,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuq"
-    },
-    {
-      "id": "nc75445301",
-      "lon": -122.74983215332,
-      "lat": 38.78466796875,
-      "depth": 0.589999973773956,
-      "mag": 0.76,
-      "place": "1 km NE of The Geysers, CA",
-      "time": 1791260793560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445301"
     }
   ]
 }
