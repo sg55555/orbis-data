@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-07T00:45:39Z",
-  "count": 264,
+  "updated": "2026-10-07T00:59:47Z",
+  "count": 265,
   "points": [
+    {
+      "id": "aka2026tvjupx",
+      "lon": -153.413,
+      "lat": 60.042,
+      "depth": 172.1,
+      "mag": 2,
+      "place": "48 km NE of Pedro Bay, Alaska",
+      "time": 1791334277578,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvjupx"
+    },
+    {
+      "id": "aka2026tvjrmc",
+      "lon": -154.129,
+      "lat": 57.984,
+      "depth": 62.2,
+      "mag": 1.7,
+      "place": "50 km NNE of Karluk, Alaska",
+      "time": 1791334030514,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvjrmc"
+    },
     {
       "id": "ci41344287",
       "lon": -117.457166666667,
@@ -185,12 +205,12 @@
     },
     {
       "id": "hv75051222",
-      "lon": -155.386672973633,
-      "lat": 19.2526664733887,
-      "depth": 32.4900016784668,
-      "mag": 2.31,
+      "lon": -155.3855,
+      "lat": 19.2521666666667,
+      "depth": 33.31,
+      "mag": 1.63,
       "place": "11 km ENE of Pāhala, Hawaii",
-      "time": 1791325613000,
+      "time": 1791325612970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75051222"
     },
     {
@@ -1494,6 +1514,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75050767"
     },
     {
+      "id": "av94462321",
+      "lon": -153.096166666667,
+      "lat": 60.012,
+      "depth": 1.36,
+      "mag": -0.93,
+      "place": "61 km ENE of Pedro Bay, Alaska",
+      "time": 1791290940240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94462321"
+    },
+    {
       "id": "us6000tzwb",
       "lon": 118.9128,
       "lat": -9.7538,
@@ -2622,26 +2652,6 @@
       "place": "56 km NE of Kenny Lake, Alaska",
       "time": 1791248539130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067839"
-    },
-    {
-      "id": "av93067829",
-      "lon": -144.114833333333,
-      "lat": 62.0143333333333,
-      "depth": 12.43,
-      "mag": -0.39,
-      "place": "54 km NE of Kenny Lake, Alaska",
-      "time": 1791248190130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067829"
-    },
-    {
-      "id": "uw714116631",
-      "lon": -121.973833333333,
-      "lat": 46.8181666666667,
-      "depth": 11.24,
-      "mag": 0.21,
-      "place": "7 km NNE of Ashford, Washington",
-      "time": 1791248078520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714116631"
     }
   ]
 }
