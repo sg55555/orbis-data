@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-07T19:30:58Z",
-  "count": 263,
+  "updated": "2026-10-07T19:45:43Z",
+  "count": 261,
   "points": [
+    {
+      "id": "aka2026twvnrc",
+      "lon": -147.436,
+      "lat": 64.909,
+      "depth": 14,
+      "mag": 0.9,
+      "place": "10 km ESE of Fox, Alaska",
+      "time": 1791402137158,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twvnrc"
+    },
     {
       "id": "aka2026twutpf",
       "lon": -153.069,
@@ -92,6 +102,16 @@
       "place": "6 km SE of Chickasha, Oklahoma",
       "time": 1791398843940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026treo"
+    },
+    {
+      "id": "hv75051802",
+      "lon": -155.616166666667,
+      "lat": 19.4123333333333,
+      "depth": 42.11,
+      "mag": 2.38,
+      "place": "26 km E of Honaunau-Napoopoo, Hawaii",
+      "time": 1791398037090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75051802"
     },
     {
       "id": "aka2026twsxej",
@@ -2592,46 +2612,6 @@
       "place": "9 km WSW of Corona, CA",
       "time": 1791315925300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344183"
-    },
-    {
-      "id": "nc75445616",
-      "lon": -118.833999633789,
-      "lat": 37.4415016174316,
-      "depth": -0.519999980926514,
-      "mag": 1.85,
-      "place": "19 km SW of Toms Place, CA",
-      "time": 1791315850140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445616"
-    },
-    {
-      "id": "nc75445606",
-      "lon": -122.940170288086,
-      "lat": 38.7921676635742,
-      "depth": 3.85999989509583,
-      "mag": 1.12,
-      "place": "7 km ESE of Cloverdale, CA",
-      "time": 1791315708190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445606"
-    },
-    {
-      "id": "aka2026tuzmlo",
-      "lon": -147.472,
-      "lat": 64.515,
-      "depth": 0.4,
-      "mag": 1.8,
-      "place": "25 km SW of Eielson Air Force Base, Alaska",
-      "time": 1791315691621,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuzmlo"
-    },
-    {
-      "id": "aka2026tuzjyj",
-      "lon": -149.701,
-      "lat": 63.159,
-      "depth": 85.2,
-      "mag": 2,
-      "place": "45 km SW of Cantwell, Alaska",
-      "time": 1791315517032,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuzjyj"
     }
   ]
 }
