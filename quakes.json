@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-07T09:45:41Z",
-  "count": 271,
+  "updated": "2026-10-07T10:01:10Z",
+  "count": 270,
   "points": [
     {
+      "id": "ci41344455",
+      "lon": -117.297333333333,
+      "lat": 34.0848333333333,
+      "depth": 16.28,
+      "mag": 1.19,
+      "place": "2 km NE of Colton, CA",
+      "time": 1791366847720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344455"
+    },
+    {
       "id": "ci41344447",
-      "lon": -117.839164733887,
-      "lat": 36.070499420166,
-      "depth": 3.16000008583069,
-      "mag": 1.08552263989586,
+      "lon": -117.841333333333,
+      "lat": 36.0688333333333,
+      "depth": 2.78,
+      "mag": 0.81,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": 1791366163440,
+      "time": 1791366163410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344447"
     },
     {
@@ -2692,26 +2702,6 @@
       "place": "12 km WSW of Stanton, Texas",
       "time": 1791281067359,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026trbxoa"
-    },
-    {
-      "id": "aka2026tufuvl",
-      "lon": -155.373,
-      "lat": 58.172,
-      "depth": 5,
-      "mag": 0.6,
-      "place": "86 km NW of Karluk, Alaska",
-      "time": 1791280287889,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tufuvl"
-    },
-    {
-      "id": "aka2026tufprt",
-      "lon": -152.229,
-      "lat": 60.52,
-      "depth": 110.2,
-      "mag": 2.1,
-      "place": "51 km WSW of Salamatof, Alaska",
-      "time": 1791279931781,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tufprt"
     }
   ]
 }
