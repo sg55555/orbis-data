@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-07T08:15:40Z",
-  "count": 276,
+  "updated": "2026-10-07T08:31:01Z",
+  "count": 273,
   "points": [
     {
+      "id": "ci41344415",
+      "lon": -117.233166666667,
+      "lat": 34.0185,
+      "depth": 15.77,
+      "mag": 0.59,
+      "place": "4 km SE of Loma Linda, CA",
+      "time": 1791361489890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344415"
+    },
+    {
       "id": "ci41344407",
-      "lon": -116.162002563477,
-      "lat": 33.7891654968262,
-      "depth": 7.84000015258789,
-      "mag": 1.1407230852956,
+      "lon": -116.165166666667,
+      "lat": 33.793,
+      "depth": 8.23,
+      "mag": 0.84,
       "place": "9 km NNE of Indio, CA",
-      "time": 1791360708590,
+      "time": 1791360708670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344407"
     },
     {
@@ -342,6 +352,16 @@
       "place": "9 km WNW of The Geysers, CA",
       "time": 1791344281410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445771"
+    },
+    {
+      "id": "tx2026tskhkf",
+      "lon": -103.246,
+      "lat": 32.011,
+      "depth": 6.0999,
+      "mag": 1.5,
+      "place": "12 km SSW of Jal, New Mexico",
+      "time": 1791343454296,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tskhkf"
     },
     {
       "id": "nc75445756",
@@ -2712,56 +2732,6 @@
       "place": "2 km E of Tracyton, Washington",
       "time": 1791275789840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714116711"
-    },
-    {
-      "id": "av93067879",
-      "lon": -144.212,
-      "lat": 61.9785,
-      "depth": 6.22,
-      "mag": -0.59,
-      "place": "48 km NE of Kenny Lake, Alaska",
-      "time": 1791275368060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067879"
-    },
-    {
-      "id": "av93067874",
-      "lon": -144.212166666667,
-      "lat": 61.9781666666667,
-      "depth": 5.74,
-      "mag": -0.59,
-      "place": "48 km NE of Kenny Lake, Alaska",
-      "time": 1791275220910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067874"
-    },
-    {
-      "id": "aka2026tucuxa",
-      "lon": -144.216,
-      "lat": 62.005,
-      "depth": 13.9,
-      "mag": 0.8,
-      "place": "50 km NE of Kenny Lake, Alaska",
-      "time": 1791274894543,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tucuxa"
-    },
-    {
-      "id": "aka2026tucued",
-      "lon": -144.219,
-      "lat": 61.997,
-      "depth": 14.8,
-      "mag": 1.1,
-      "place": "49 km NE of Kenny Lake, Alaska",
-      "time": 1791274844238,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tucued"
-    },
-    {
-      "id": "ci41343967",
-      "lon": -118.044166666667,
-      "lat": 36.126,
-      "depth": 1.22,
-      "mag": 0.85,
-      "place": "12 km NW of Coso Junction, CA",
-      "time": 1791274628500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343967"
     }
   ]
 }
