@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-07T16:45:42Z",
+  "updated": "2026-10-07T17:03:15Z",
   "count": 274,
   "points": [
+    {
+      "id": "nc75446031",
+      "lon": -120.466835021973,
+      "lat": 35.3860015869141,
+      "depth": 7.71999979019165,
+      "mag": 2.42,
+      "place": "13 km E of Santa Margarita, CA",
+      "time": 1791391724250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446031"
+    },
     {
       "id": "nc75446026",
       "lon": -122.766670227051,
@@ -82,6 +92,16 @@
       "place": "49 km E of Pedro Bay, Alaska",
       "time": 1791388620183,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twnzut"
+    },
+    {
+      "id": "us6000u0rx",
+      "lon": -68.68,
+      "lat": -21.1132,
+      "depth": 105.86,
+      "mag": 4.7,
+      "place": "45 km WNW of Ollagüe, Chile",
+      "time": 1791387974830,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0rx"
     },
     {
       "id": "nc75445991",
@@ -165,12 +185,12 @@
     },
     {
       "id": "ci41344543",
-      "lon": -116.7665,
-      "lat": 32.7015,
-      "depth": 5.36,
-      "mag": 1.17,
-      "place": "10 km E of Jamul, CA",
-      "time": 1791383781790,
+      "lon": -116.072833333333,
+      "lat": 32.7055,
+      "depth": 9.99,
+      "mag": 0.89,
+      "place": "8 km WSW of Ocotillo, CA",
+      "time": 1791383790300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344543"
     },
     {
@@ -275,12 +295,12 @@
     },
     {
       "id": "ci41344519",
-      "lon": -118.407666666667,
-      "lat": 35.6851666666667,
-      "depth": 4.01,
-      "mag": 0.84,
+      "lon": -118.4105,
+      "lat": 35.6826666666667,
+      "depth": 4.63,
+      "mag": 0.8,
       "place": "5 km ESE of Wofford Heights, CA",
-      "time": 1791376757030,
+      "time": 1791376756980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344519"
     },
     {
@@ -2722,26 +2742,6 @@
       "place": "3 km S of Palomar Observatory, CA",
       "time": 1791307159540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344143"
-    },
-    {
-      "id": "us6000u0hz",
-      "lon": 79.5618,
-      "lat": 30.092,
-      "depth": 17.838,
-      "mag": 5.1,
-      "place": "34 km NW of Bāgeshwar, India",
-      "time": 1791305592578,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hz"
-    },
-    {
-      "id": "us6000u0hy",
-      "lon": 154.9316,
-      "lat": 48.4437,
-      "depth": 29,
-      "mag": 5.8,
-      "place": "262 km SSW of Severo-Kuril’sk, Russia",
-      "time": 1791305302347,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hy"
     }
   ]
 }
