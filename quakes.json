@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-07T08:31:01Z",
-  "count": 273,
+  "updated": "2026-10-07T08:45:41Z",
+  "count": 274,
   "points": [
+    {
+      "id": "nc75445881",
+      "lon": -122.740501403809,
+      "lat": 38.7688331604004,
+      "depth": 1.20000004768372,
+      "mag": 1.86,
+      "place": "2 km SE of The Geysers, CA",
+      "time": 1791362598210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445881"
+    },
+    {
+      "id": "ci41344423",
+      "lon": -116.457,
+      "lat": 33.51,
+      "depth": 3.61,
+      "mag": 0.66,
+      "place": "21 km ESE of Anza, CA",
+      "time": 1791361914730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344423"
+    },
     {
       "id": "ci41344415",
       "lon": -117.233166666667,
@@ -12,6 +32,16 @@
       "place": "4 km SE of Loma Linda, CA",
       "time": 1791361489890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344415"
+    },
+    {
+      "id": "pr71535948",
+      "lon": -66.9383333333333,
+      "lat": 17.9705,
+      "depth": 6.47,
+      "mag": 2.46,
+      "place": "3 km SW of Fuig, Puerto Rico",
+      "time": 1791361011350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535948"
     },
     {
       "id": "ci41344407",
@@ -452,6 +482,16 @@
       "place": "8 km SSE of Waikoloa, Hawaii",
       "time": 1791340979880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75051377"
+    },
+    {
+      "id": "tx2026tsiudm",
+      "lon": -104.419,
+      "lat": 31.689,
+      "depth": 6.0999,
+      "mag": 1.6,
+      "place": "54 km S of Whites City, New Mexico",
+      "time": 1791340572279,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tsiudm"
     },
     {
       "id": "ci41344311",
@@ -2702,36 +2742,6 @@
       "place": "5 km N of Big Bear City, CA",
       "time": 1791276585480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343983"
-    },
-    {
-      "id": "us6000tzvn",
-      "lon": 152.7519,
-      "lat": -4.4773,
-      "depth": 20.643,
-      "mag": 4.9,
-      "place": "55 km ESE of Kokopo, Papua New Guinea",
-      "time": 1791276326946,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzvn"
-    },
-    {
-      "id": "ci41343975",
-      "lon": -116.8615,
-      "lat": 34.2938333333333,
-      "depth": 4.05,
-      "mag": 2.6,
-      "place": "4 km NNW of Big Bear City, CA",
-      "time": 1791276014530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343975"
-    },
-    {
-      "id": "uw714116711",
-      "lon": -122.622666666667,
-      "lat": 47.6078333333333,
-      "depth": 25.22,
-      "mag": 1.84,
-      "place": "2 km E of Tracyton, Washington",
-      "time": 1791275789840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714116711"
     }
   ]
 }
