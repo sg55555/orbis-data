@@ -1,14 +1,24 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-07T11:01:08Z",
-  "count": 278,
+  "updated": "2026-10-07T11:15:39Z",
+  "count": 279,
   "points": [
+    {
+      "id": "aka2026twegwf",
+      "lon": -142.506,
+      "lat": 62.274,
+      "depth": 5,
+      "mag": 1.8,
+      "place": "28 km ESE of Nabesna, Alaska",
+      "time": 1791371079306,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twegwf"
+    },
     {
       "id": "aka2026tweaut",
       "lon": -148.485,
       "lat": 63.842,
       "depth": 104.5,
-      "mag": 2.1,
+      "mag": 2.2,
       "place": "23 km E of Healy, Alaska",
       "time": 1791370660030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tweaut"
@@ -342,6 +352,16 @@
       "place": "9 km NNE of Indio, CA",
       "time": 1791355859880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344391"
+    },
+    {
+      "id": "tx2026tsrdck",
+      "lon": -101.928,
+      "lat": 32.103,
+      "depth": 8.9111,
+      "mag": 0.5,
+      "place": "13 km WSW of Stanton, Texas",
+      "time": 1791355688491,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tsrdck"
     },
     {
       "id": "nc75445841",
@@ -2772,16 +2792,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1791285811460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445406"
-    },
-    {
-      "id": "aka2026tuimro",
-      "lon": -152.478,
-      "lat": 60.471,
-      "depth": 96.9,
-      "mag": 0.9,
-      "place": "64 km NW of Ninilchik, Alaska",
-      "time": 1791285121058,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuimro"
     }
   ]
 }
