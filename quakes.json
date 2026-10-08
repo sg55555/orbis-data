@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-08T16:31:00Z",
-  "count": 217,
+  "updated": "2026-10-08T16:45:44Z",
+  "count": 218,
   "points": [
+    {
+      "id": "ci41345095",
+      "lon": -117.459,
+      "lat": 34.1108333333333,
+      "depth": 10.12,
+      "mag": 1.57,
+      "place": "1 km N of Fontana, CA",
+      "time": 1791477020720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345095"
+    },
     {
       "id": "aka2026tykjuc",
       "lon": -151.903,
@@ -12,6 +22,16 @@
       "place": "24 km NNW of Ninilchik, Alaska",
       "time": 1791475633633,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tykjuc"
+    },
+    {
+      "id": "tx2026tvfiby",
+      "lon": -102.092,
+      "lat": 32.353,
+      "depth": 7.959,
+      "mag": 1.1,
+      "place": "37 km NW of Stanton, Texas",
+      "time": 1791475595672,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tvfiby"
     },
     {
       "id": "tx2026tvewps",
@@ -32,6 +52,16 @@
       "place": "2 km NE of Colton, CA",
       "time": 1791474556900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345079"
+    },
+    {
+      "id": "tx2026tveprn",
+      "lon": -103.7,
+      "lat": 31.383,
+      "depth": 8.2532,
+      "mag": 0.8,
+      "place": "11 km NE of Toyah, Texas",
+      "time": 1791474228994,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tveprn"
     },
     {
       "id": "tx2026tvebps",
@@ -2084,6 +2114,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0te"
     },
     {
+      "id": "uw714117461",
+      "lon": -120.473666666667,
+      "lat": 49.3263333333333,
+      "depth": -0.49,
+      "mag": 2.09,
+      "place": "14 km S of Princeton, Canada",
+      "time": 1791393556770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714117461"
+    },
+    {
       "id": "tx2026ttlzei",
       "lon": -103.137,
       "lat": 31.171,
@@ -2142,36 +2182,6 @@
       "place": "13 km E of Santa Margarita, CA",
       "time": 1791391724250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446031"
-    },
-    {
-      "id": "ci41344615",
-      "lon": -116.758,
-      "lat": 33.585,
-      "depth": 12.24,
-      "mag": 0.43,
-      "place": "9 km WNW of Anza, CA",
-      "time": 1791391435910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344615"
-    },
-    {
-      "id": "us6000u0t4",
-      "lon": 125.7754,
-      "lat": 5.3818,
-      "depth": 117.206,
-      "mag": 4.7,
-      "place": "34 km E of Sarangani, Philippines",
-      "time": 1791391369325,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0t4"
-    },
-    {
-      "id": "nc75446026",
-      "lon": -122.766670227051,
-      "lat": 38.8175010681152,
-      "depth": 1.88999998569489,
-      "mag": 0.71,
-      "place": "4 km W of Cobb, CA",
-      "time": 1791390974710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446026"
     }
   ]
 }
