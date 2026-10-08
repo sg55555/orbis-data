@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-08T02:45:40Z",
-  "count": 236,
+  "updated": "2026-10-08T03:01:07Z",
+  "count": 234,
   "points": [
+    {
+      "id": "nc75446301",
+      "lon": -122.817169189453,
+      "lat": 38.8131675720215,
+      "depth": 2.77999997138977,
+      "mag": 1.31,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1791428237820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446301"
+    },
     {
       "id": "aka2026txjmxq",
       "lon": -147.191,
@@ -55,12 +65,12 @@
     },
     {
       "id": "tx2026tueaim",
-      "lon": -104.443,
-      "lat": 31.658,
-      "depth": 6.3049,
-      "mag": 3.5,
+      "lon": -104.44,
+      "lat": 31.659,
+      "depth": 6.0999,
+      "mag": 3.6,
       "place": "57 km S of Whites City, New Mexico",
-      "time": 1791426087403,
+      "time": 1791426087461,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tueaim"
     },
     {
@@ -2332,36 +2342,6 @@
       "place": "22 km N of Ridgecrest, CA",
       "time": 1791342209450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344319"
-    },
-    {
-      "id": "av93067914",
-      "lon": -169.8395,
-      "lat": 52.827,
-      "depth": 13.04,
-      "mag": 0.67,
-      "place": "67 km W of Nikolski, Alaska",
-      "time": 1791341894580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067914"
-    },
-    {
-      "id": "av93067919",
-      "lon": -177.043166666667,
-      "lat": 51.6435,
-      "depth": 13.06,
-      "mag": 0.84,
-      "place": "38 km SW of Adak, Alaska",
-      "time": 1791341730100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067919"
-    },
-    {
-      "id": "us6000u0ns",
-      "lon": 169.0011,
-      "lat": -20.979,
-      "depth": 10,
-      "mag": 4.8,
-      "place": "132 km ENE of Tadine, New Caledonia",
-      "time": 1791341399426,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ns"
     }
   ]
 }
