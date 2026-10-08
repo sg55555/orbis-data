@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-08T05:01:07Z",
-  "count": 218,
+  "updated": "2026-10-08T05:15:43Z",
+  "count": 217,
   "points": [
+    {
+      "id": "us6000u0wa",
+      "lon": 120.5395,
+      "lat": -7.7761,
+      "depth": 10,
+      "mag": 5,
+      "place": "92 km N of Ruteng, Indonesia",
+      "time": 1791434939943,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wa"
+    },
     {
       "id": "aka2026txnnxy",
       "lon": -153.212,
@@ -2084,6 +2094,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvuggp"
     },
     {
+      "id": "av93067949",
+      "lon": -155.151833333333,
+      "lat": 58.246,
+      "depth": 3.03,
+      "mag": -0.63,
+      "place": "85 km NNW of Karluk, Alaska",
+      "time": 1791353014980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067949"
+    },
+    {
       "id": "uu80158746",
       "lon": -112.897666666667,
       "lat": 38.4973333333333,
@@ -2152,36 +2172,6 @@
       "place": "3 km WNW of Anderson Springs, CA",
       "time": 1791350523860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445816"
-    },
-    {
-      "id": "nc75445811",
-      "lon": -122.810165405273,
-      "lat": 38.8361663818359,
-      "depth": 2.0699999332428,
-      "mag": 0.21,
-      "place": "8 km WNW of Cobb, CA",
-      "time": 1791349960810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445811"
-    },
-    {
-      "id": "tx2026tsnybg",
-      "lon": -104.408,
-      "lat": 31.682,
-      "depth": 6.0999,
-      "mag": 1.8,
-      "place": "54 km S of Whites City, New Mexico",
-      "time": 1791349895403,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tsnybg"
-    },
-    {
-      "id": "nc75445801",
-      "lon": -120.315002441406,
-      "lat": 36.1155014038086,
-      "depth": 11.9499998092651,
-      "mag": 1.5,
-      "place": "5 km SE of Coalinga, CA",
-      "time": 1791349273200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445801"
     }
   ]
 }
