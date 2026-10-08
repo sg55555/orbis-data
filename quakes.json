@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-08T18:15:45Z",
-  "count": 222,
+  "updated": "2026-10-08T18:30:58Z",
+  "count": 221,
   "points": [
+    {
+      "id": "ci41345159",
+      "lon": -118.338333333333,
+      "lat": 35.0581666666667,
+      "depth": -0.82,
+      "mag": 1.11,
+      "place": "13 km SE of Tehachapi, CA",
+      "time": 1791483095620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345159"
+    },
     {
       "id": "aka2026tyojsd",
       "lon": -157.67,
@@ -95,12 +105,12 @@
     },
     {
       "id": "ci41345095",
-      "lon": -117.459,
-      "lat": 34.1108333333333,
-      "depth": 10.12,
-      "mag": 1.57,
-      "place": "1 km N of Fontana, CA",
-      "time": 1791477020720,
+      "lon": -117.483166666667,
+      "lat": 34.1011666666667,
+      "depth": 6.6,
+      "mag": 0.93,
+      "place": "2 km W of Fontana, CA",
+      "time": 1791477020930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345095"
     },
     {
@@ -412,6 +422,16 @@
       "place": "18 km SW of Oasis, CA",
       "time": 1791463088190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345015"
+    },
+    {
+      "id": "ci41345007",
+      "lon": -117.586,
+      "lat": 34.1875,
+      "depth": 6.55,
+      "mag": 0.61,
+      "place": "7 km N of Rancho Cucamonga, CA",
+      "time": 1791462295310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345007"
     },
     {
       "id": "ci41344999",
@@ -945,12 +965,12 @@
     },
     {
       "id": "hv75052082",
-      "lon": -155.236831665039,
-      "lat": 19.4249992370605,
-      "depth": 25.4500007629395,
-      "mag": 2.03,
-      "place": "1 km S of Volcano, Hawaii",
-      "time": 1791442267570,
+      "lon": -155.235166666667,
+      "lat": 19.415,
+      "depth": 26.12,
+      "mag": 1.01,
+      "place": "3 km S of Volcano, Hawaii",
+      "time": 1791442267520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75052082"
     },
     {
@@ -1182,6 +1202,16 @@
       "place": "79 km SE of King Salmon, Alaska",
       "time": 1791433427861,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026txmxwd"
+    },
+    {
+      "id": "hv75052027",
+      "lon": -155.281166666667,
+      "lat": 19.3996666666667,
+      "depth": 1.74,
+      "mag": 1.59,
+      "place": "6 km SW of Volcano, Hawaii",
+      "time": 1791433382690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75052027"
     },
     {
       "id": "aka2026txmwdf",
@@ -2182,46 +2212,6 @@
       "place": "26 km E of Honaunau-Napoopoo, Hawaii",
       "time": 1791398037090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75051802"
-    },
-    {
-      "id": "aka2026twsxej",
-      "lon": -152.444,
-      "lat": 60.271,
-      "depth": 103.4,
-      "mag": 1.8,
-      "place": "49 km WNW of Ninilchik, Alaska",
-      "time": 1791397396366,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twsxej"
-    },
-    {
-      "id": "nc75446066",
-      "lon": -122.793998718262,
-      "lat": 38.8343315124512,
-      "depth": 2.20000004768372,
-      "mag": 0.71,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1791397338620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446066"
-    },
-    {
-      "id": "nc75446061",
-      "lon": -122.815002441406,
-      "lat": 38.8346672058105,
-      "depth": 1.67999994754791,
-      "mag": 0.93,
-      "place": "8 km W of Cobb, CA",
-      "time": 1791397210100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446061"
-    },
-    {
-      "id": "us6000u0tm",
-      "lon": 162.5648,
-      "lat": 54.4775,
-      "depth": 10,
-      "mag": 4.8,
-      "place": "194 km S of Ust’-Kamchatsk Staryy, Russia",
-      "time": 1791396904107,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0tm"
     }
   ]
 }
