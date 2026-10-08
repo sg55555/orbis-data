@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-08T01:30:56Z",
-  "count": 233,
+  "updated": "2026-10-08T01:45:45Z",
+  "count": 231,
   "points": [
+    {
+      "id": "nc75446281",
+      "lon": -122.768165588379,
+      "lat": 38.7879981994629,
+      "depth": 1.02999997138977,
+      "mag": 1.15,
+      "place": "2 km NW of The Geysers, CA",
+      "time": 1791423511690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446281"
+    },
     {
       "id": "aka2026txhbne",
       "lon": -153.072,
@@ -2224,6 +2234,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvmyss"
     },
     {
+      "id": "av94463241",
+      "lon": -153.081166666667,
+      "lat": 60.0465,
+      "depth": -0.6,
+      "mag": -0.72,
+      "place": "64 km ENE of Pedro Bay, Alaska",
+      "time": 1791339931730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94463241"
+    },
+    {
       "id": "nc75445736",
       "lon": -122.785499572754,
       "lat": 38.8358345031738,
@@ -2292,46 +2312,6 @@
       "place": "84 km SE of Ugashik, Alaska",
       "time": 1791337502706,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvlpqc"
-    },
-    {
-      "id": "us6000u0nb",
-      "lon": 153.3699,
-      "lat": 48.1853,
-      "depth": 108.743,
-      "mag": 4.6,
-      "place": "Kuril Islands",
-      "time": 1791337145561,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0nb"
-    },
-    {
-      "id": "av93067909",
-      "lon": -178.032,
-      "lat": 51.8671666666667,
-      "depth": 18.11,
-      "mag": 0.79,
-      "place": "96 km W of Adak, Alaska",
-      "time": 1791336996830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93067909"
-    },
-    {
-      "id": "aka2026tvlgwc",
-      "lon": -151.719,
-      "lat": 58.041,
-      "depth": 25.8,
-      "mag": 1.9,
-      "place": "48 km ENE of Ouzinkie, Alaska",
-      "time": 1791336890429,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvlgwc"
-    },
-    {
-      "id": "us6000u0n8",
-      "lon": 142.9402,
-      "lat": 40.4048,
-      "depth": 29.595,
-      "mag": 4.2,
-      "place": "101 km ENE of Noda, Japan",
-      "time": 1791336716120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0n8"
     }
   ]
 }
