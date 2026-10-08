@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-08T08:01:09Z",
-  "count": 216,
+  "updated": "2026-10-08T08:15:41Z",
+  "count": 217,
   "points": [
+    {
+      "id": "ci41344855",
+      "lon": -117.480166666667,
+      "lat": 34.1028333333333,
+      "depth": 5.87,
+      "mag": 2.7,
+      "place": "2 km WNW of Fontana, CA",
+      "time": 1791446943220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344855"
+    },
+    {
+      "id": "ci41344847",
+      "lon": -117.459831237793,
+      "lat": 34.1006660461426,
+      "depth": 10.4799995422363,
+      "mag": 1.43650754673071,
+      "place": "0 km NNW of Fontana, CA",
+      "time": 1791446933130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344847"
+    },
+    {
+      "id": "nc75446356",
+      "lon": -122.811500549316,
+      "lat": 38.8199996948242,
+      "depth": 2.69000005722046,
+      "mag": 1.04,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1791446469930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446356"
+    },
     {
       "id": "ci41344831",
       "lon": -117.478666666667,
@@ -32,6 +62,16 @@
       "place": "1 km ESE of Loma Linda, CA",
       "time": 1791445566220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344823"
+    },
+    {
+      "id": "us6000u0x2",
+      "lon": 94.7814,
+      "lat": 5.4545,
+      "depth": 97.534,
+      "mag": 4.6,
+      "place": "61 km W of Banda Aceh, Indonesia",
+      "time": 1791445512588,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x2"
     },
     {
       "id": "aka2026txsyod",
@@ -2132,36 +2172,6 @@
       "place": "3 km SW of Fuig, Puerto Rico",
       "time": 1791361011350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535948"
-    },
-    {
-      "id": "ci41344407",
-      "lon": -116.165166666667,
-      "lat": 33.793,
-      "depth": 8.23,
-      "mag": 0.84,
-      "place": "9 km NNE of Indio, CA",
-      "time": 1791360708670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344407"
-    },
-    {
-      "id": "tx2026tstuew",
-      "lon": -104.429,
-      "lat": 31.66,
-      "depth": 6.5356,
-      "mag": 2.4,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": 1791360662352,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tstuew"
-    },
-    {
-      "id": "tx2026tstpae",
-      "lon": -98.959,
-      "lat": 28.889,
-      "depth": 8.6647,
-      "mag": 1.5,
-      "place": "13 km E of Pearsall, Texas",
-      "time": 1791360125499,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tstpae"
     }
   ]
 }
