@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-08T00:01:12Z",
-  "count": 240,
+  "updated": "2026-10-08T00:15:45Z",
+  "count": 241,
   "points": [
+    {
+      "id": "pr71536033",
+      "lon": -66.8876666666667,
+      "lat": 18.0523333333333,
+      "depth": 16.12,
+      "mag": 2.06,
+      "place": "2 km NE of Lluveras, Puerto Rico",
+      "time": 1791417806910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536033"
+    },
     {
       "id": "aka2026txdhrc",
       "lon": -151.319,
@@ -94,6 +104,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026txbmwc"
     },
     {
+      "id": "uw714117691",
+      "lon": -122.195833333333,
+      "lat": 46.2075,
+      "depth": 1.49,
+      "mag": 0.21,
+      "place": "38 km NNE of Amboy, Washington",
+      "time": 1791412448390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714117691"
+    },
+    {
       "id": "hv75051872",
       "lon": -155.487670898438,
       "lat": 19.1973323822021,
@@ -182,6 +202,16 @@
       "place": "11 km N of Brooktrails, CA",
       "time": 1791409869870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446201"
+    },
+    {
+      "id": "uw714117651",
+      "lon": -122.322333333333,
+      "lat": 46.3731666666667,
+      "depth": 16.88,
+      "mag": 0.57,
+      "place": "20 km S of Morton, Washington",
+      "time": 1791409821150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714117651"
     },
     {
       "id": "aka2026twzqmi",
@@ -2382,26 +2412,6 @@
       "place": "37 km ESE of Iwaki, Japan",
       "time": 1791332561953,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0mr"
-    },
-    {
-      "id": "uw714117201",
-      "lon": -122.623666666667,
-      "lat": 47.6136666666667,
-      "depth": 24.48,
-      "mag": 2.05,
-      "place": "2 km ENE of Tracyton, Washington",
-      "time": 1791331902230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714117201"
-    },
-    {
-      "id": "uw714117191",
-      "lon": -120.501166666667,
-      "lat": 49.4255,
-      "depth": -0.51,
-      "mag": 1.45,
-      "place": "3 km S of Princeton, Canada",
-      "time": 1791331380960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714117191"
     }
   ]
 }
