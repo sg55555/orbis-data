@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-08T17:31:03Z",
-  "count": 219,
+  "updated": "2026-10-08T17:45:46Z",
+  "count": 220,
   "points": [
+    {
+      "id": "av94438783",
+      "lon": -153.076166666667,
+      "lat": 60.038,
+      "depth": 0.5,
+      "mag": -0.86,
+      "place": "64 km ENE of Pedro Bay, Alaska",
+      "time": 1791479752480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94438783"
+    },
     {
       "id": "aka2026tylznw",
       "lon": -151.253,
@@ -902,6 +912,16 @@
       "place": "west of Macquarie Island",
       "time": 1791442007971,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ws"
+    },
+    {
+      "id": "uw714117801",
+      "lon": -121.771333333333,
+      "lat": 47.6493333333333,
+      "depth": 8.99,
+      "mag": 1.19,
+      "place": "10 km E of Carnation, Washington",
+      "time": 1791441838810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714117801"
     },
     {
       "id": "aka2026txramv",
@@ -1885,12 +1905,12 @@
     },
     {
       "id": "uw714117561",
-      "lon": -122.646333333333,
-      "lat": 46.2461666666667,
-      "depth": 16.4,
-      "mag": 1.56,
+      "lon": -122.644,
+      "lat": 46.2468333333333,
+      "depth": 17.4,
+      "mag": 1.57,
       "place": "20 km E of Castle Rock, Washington",
-      "time": 1791404159490,
+      "time": 1791404159430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714117561"
     },
     {
@@ -2182,16 +2202,6 @@
       "place": "22 km SW of Hope, Alaska",
       "time": 1791395115499,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twrpqs"
-    },
-    {
-      "id": "us6000u0te",
-      "lon": 143.8558,
-      "lat": -4.4473,
-      "depth": 101.453,
-      "mag": 4.6,
-      "place": "48 km SSW of Angoram, Papua New Guinea",
-      "time": 1791394573751,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0te"
     }
   ]
 }
