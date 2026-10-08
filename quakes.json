@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-08T20:30:58Z",
-  "count": 216,
+  "updated": "2026-10-08T20:45:39Z",
+  "count": 220,
   "points": [
+    {
+      "id": "hv75052372",
+      "lon": -155.339004516602,
+      "lat": 19.0298328399658,
+      "depth": 15.3999996185303,
+      "mag": 2.04,
+      "place": "24 km SE of Pāhala, Hawaii",
+      "time": 1791491696990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75052372"
+    },
+    {
+      "id": "aka2026tytfdj",
+      "lon": -151.91,
+      "lat": 61.192,
+      "depth": 102.5,
+      "mag": 1.3,
+      "place": "43 km WNW of Tyonek, Alaska",
+      "time": 1791491503214,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tytfdj"
+    },
     {
       "id": "hv75052357",
       "lon": -155.429840087891,
@@ -45,12 +65,12 @@
     },
     {
       "id": "ci41345175",
-      "lon": -116.8875,
-      "lat": 34.3418333333333,
-      "depth": 0.43,
-      "mag": 1.23,
+      "lon": -116.881833333333,
+      "lat": 34.3443333333333,
+      "depth": 1.14,
+      "mag": 1.19,
       "place": "10 km NNW of Big Bear City, CA",
-      "time": 1791488328150,
+      "time": 1791488328040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345175"
     },
     {
@@ -74,13 +94,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446521"
     },
     {
+      "id": "us6000u11a",
+      "lon": 142.9124,
+      "lat": 40.5087,
+      "depth": 35,
+      "mag": 4.2,
+      "place": "103 km ENE of Noda, Japan",
+      "time": 1791487381983,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u11a"
+    },
+    {
       "id": "ci41345167",
-      "lon": -116.4615,
-      "lat": 33.466,
-      "depth": 2.19,
-      "mag": 0.8,
+      "lon": -116.4595,
+      "lat": 33.4661666666667,
+      "depth": 3.62,
+      "mag": 0.81,
       "place": "22 km ESE of Anza, CA",
-      "time": 1791487136580,
+      "time": 1791487136510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345167"
     },
     {
@@ -125,12 +155,12 @@
     },
     {
       "id": "ci41345159",
-      "lon": -118.338333333333,
-      "lat": 35.0581666666667,
-      "depth": -0.82,
-      "mag": 1.11,
+      "lon": -118.3385,
+      "lat": 35.0603333333333,
+      "depth": -0.91,
+      "mag": 1.1,
       "place": "13 km SE of Tehachapi, CA",
-      "time": 1791483095620,
+      "time": 1791483095500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345159"
     },
     {
@@ -1615,12 +1645,12 @@
     },
     {
       "id": "ci41344783",
-      "lon": -116.7315,
-      "lat": 33.6366666666667,
-      "depth": 11.55,
-      "mag": 0.85,
-      "place": "11 km NNW of Anza, CA",
-      "time": 1791424651550,
+      "lon": -116.7295,
+      "lat": 33.6345,
+      "depth": 14.32,
+      "mag": 0.2,
+      "place": "10 km NNW of Anza, CA",
+      "time": 1791424651230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344783"
     },
     {
@@ -1764,6 +1794,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536033"
     },
     {
+      "id": "av94464641",
+      "lon": -153.067,
+      "lat": 60.0253333333333,
+      "depth": 3.88,
+      "mag": -0.81,
+      "place": "63 km ENE of Pedro Bay, Alaska",
+      "time": 1791417239950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94464641"
+    },
+    {
       "id": "ci41344751",
       "lon": -117.695333333333,
       "lat": 33.8146666666667,
@@ -1802,6 +1842,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1791415067460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446241"
+    },
+    {
+      "id": "av94464626",
+      "lon": -168.184666666667,
+      "lat": 53.3555,
+      "depth": 8.57,
+      "mag": -0.44,
+      "place": "64 km NE of Nikolski, Alaska",
+      "time": 1791415052130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94464626"
     },
     {
       "id": "aka2026txcsaq",
@@ -2152,16 +2202,6 @@
       "place": "104 km SE of Ugashik, Alaska",
       "time": 1791406190875,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twxsvx"
-    },
-    {
-      "id": "aka2026twxjau",
-      "lon": -153.485,
-      "lat": 60.17,
-      "depth": 5,
-      "mag": 1,
-      "place": "46 km E of Port Alsworth, Alaska",
-      "time": 1791405414345,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twxjau"
     }
   ]
 }
