@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-08T20:15:42Z",
-  "count": 218,
+  "updated": "2026-10-08T20:30:58Z",
+  "count": 216,
   "points": [
+    {
+      "id": "hv75052357",
+      "lon": -155.429840087891,
+      "lat": 19.2918338775635,
+      "depth": 27.9200000762939,
+      "mag": 1.89,
+      "place": "11 km NNE of Pāhala, Hawaii",
+      "time": 1791490594050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75052357"
+    },
     {
       "id": "aka2026tysivc",
       "lon": -152.25,
@@ -145,12 +155,12 @@
     },
     {
       "id": "ci41345151",
-      "lon": -117.327166666667,
-      "lat": 34.493,
-      "depth": 2.72,
-      "mag": 0.92,
-      "place": "2 km ESE of Mountain View Acres, CA",
-      "time": 1791482511100,
+      "lon": -117.3025,
+      "lat": 34.6363333333333,
+      "depth": -0.87,
+      "mag": 1.03,
+      "place": "11 km N of Victorville, CA",
+      "time": 1791482508210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345151"
     },
     {
@@ -225,12 +235,12 @@
     },
     {
       "id": "ci41345111",
-      "lon": -117.480166666667,
-      "lat": 34.1005,
-      "depth": 5.89,
-      "mag": 1.57,
+      "lon": -117.483666666667,
+      "lat": 34.0993333333333,
+      "depth": 6.69,
+      "mag": 0.76,
       "place": "2 km W of Fontana, CA",
-      "time": 1791477598260,
+      "time": 1791477598180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345111"
     },
     {
@@ -765,12 +775,12 @@
     },
     {
       "id": "ci41344927",
-      "lon": -117.482833333333,
+      "lon": -117.484333333333,
       "lat": 34.0986666666667,
-      "depth": 6.92,
-      "mag": 0.86,
+      "depth": 6.56,
+      "mag": 0.7,
       "place": "2 km W of Fontana, CA",
-      "time": 1791455700370,
+      "time": 1791455700360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344927"
     },
     {
@@ -1754,6 +1764,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536033"
     },
     {
+      "id": "ci41344751",
+      "lon": -117.695333333333,
+      "lat": 33.8146666666667,
+      "depth": -0.48,
+      "mag": 0.33,
+      "place": "11 km ENE of North Tustin, CA",
+      "time": 1791416322790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344751"
+    },
+    {
       "id": "aka2026txdhrc",
       "lon": -151.319,
       "lat": 64.64,
@@ -1892,6 +1912,16 @@
       "place": "38 km NNE of Amboy, Washington",
       "time": 1791412448390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714117691"
+    },
+    {
+      "id": "av94464566",
+      "lon": -153.069166666667,
+      "lat": 60.0003333333333,
+      "depth": 2.41,
+      "mag": -0.56,
+      "place": "62 km ENE of Pedro Bay, Alaska",
+      "time": 1791412410800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94464566"
     },
     {
       "id": "hv75051872",
@@ -2132,56 +2162,6 @@
       "place": "46 km E of Port Alsworth, Alaska",
       "time": 1791405414345,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twxjau"
-    },
-    {
-      "id": "tx2026ttsioi",
-      "lon": -103.391,
-      "lat": 31.252,
-      "depth": 1.5369,
-      "mag": 1.2,
-      "place": "19 km SE of Lindsay, Texas",
-      "time": 1791404935159,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ttsioi"
-    },
-    {
-      "id": "aka2026twxaxz",
-      "lon": -151.252,
-      "lat": 62.244,
-      "depth": 126.6,
-      "mag": 1.2,
-      "place": "29 km NNE of Skwentna, Alaska",
-      "time": 1791404853307,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twxaxz"
-    },
-    {
-      "id": "aka2026twwxqk",
-      "lon": -153.234,
-      "lat": 60.139,
-      "depth": 17.2,
-      "mag": 0.7,
-      "place": "60 km E of Port Alsworth, Alaska",
-      "time": 1791404624926,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twwxqk"
-    },
-    {
-      "id": "aka2026twwujh",
-      "lon": -152.341,
-      "lat": 59.08,
-      "depth": 66.9,
-      "mag": 1.6,
-      "place": "39 km SW of Nanwalek, Alaska",
-      "time": 1791404437128,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twwujh"
-    },
-    {
-      "id": "uw714117561",
-      "lon": -122.644,
-      "lat": 46.2468333333333,
-      "depth": 17.4,
-      "mag": 1.57,
-      "place": "20 km E of Castle Rock, Washington",
-      "time": 1791404159430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714117561"
     }
   ]
 }
