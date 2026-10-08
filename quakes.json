@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-08T08:45:41Z",
-  "count": 220,
+  "updated": "2026-10-08T09:01:09Z",
+  "count": 218,
   "points": [
+    {
+      "id": "ci41344887",
+      "lon": -117.7225,
+      "lat": 35.8693333333333,
+      "depth": 8.2,
+      "mag": 0.76,
+      "place": "18 km ESE of Little Lake, CA",
+      "time": 1791449391660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344887"
+    },
     {
       "id": "aka2026txvilx",
       "lon": -152.794,
@@ -142,6 +152,16 @@
       "place": "79 km NE of Port Alsworth, Alaska",
       "time": 1791444266674,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026txsyod"
+    },
+    {
+      "id": "tx2026tunrkp",
+      "lon": -104.454,
+      "lat": 31.642,
+      "depth": 7.1252,
+      "mag": 1.8,
+      "place": "59 km S of Whites City, New Mexico",
+      "time": 1791443569116,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tunrkp"
     },
     {
       "id": "tx2026tunqfj",
@@ -2162,46 +2182,6 @@
       "place": "65 km W of Tyonek, Alaska",
       "time": 1791363803980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94463721"
-    },
-    {
-      "id": "tx2026tsvigs",
-      "lon": -102.113,
-      "lat": 32.398,
-      "depth": 9.2041,
-      "mag": 2.1,
-      "place": "39 km WSW of Ackerly, Texas",
-      "time": 1791363299223,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tsvigs"
-    },
-    {
-      "id": "hv75051582",
-      "lon": -155.376333333333,
-      "lat": 19.2015,
-      "depth": 29.46,
-      "mag": 1.82,
-      "place": "10 km E of Pāhala, Hawaii",
-      "time": 1791363152370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75051582"
-    },
-    {
-      "id": "ok2026tqku",
-      "lon": -97.402,
-      "lat": 35.58916667,
-      "depth": 7.89,
-      "mag": 1.2,
-      "place": "6 km NNE of Lake Aluma, Oklahoma",
-      "time": 1791362877329,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026tqku"
-    },
-    {
-      "id": "nc75445886",
-      "lon": -122.73983001709,
-      "lat": 38.7724990844727,
-      "depth": 0.0199999995529652,
-      "mag": 0.78,
-      "place": "2 km ESE of The Geysers, CA",
-      "time": 1791362728720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445886"
     }
   ]
 }
