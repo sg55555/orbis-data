@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-08T23:45:42Z",
-  "count": 215,
+  "updated": "2026-10-09T00:01:11Z",
+  "count": 219,
   "points": [
+    {
+      "id": "ci41345255",
+      "lon": -116.523833333333,
+      "lat": 33.1543333333333,
+      "depth": 5.67,
+      "mag": 0.41,
+      "place": "11 km NE of Julian, CA",
+      "time": 1791503837630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345255"
+    },
     {
       "id": "ci41345239",
       "lon": -116.833166666667,
@@ -15,12 +25,12 @@
     },
     {
       "id": "uw714118181",
-      "lon": -122.82250213623,
-      "lat": 46.3373336791992,
-      "depth": 7.25,
-      "mag": 1.95184946060181,
-      "place": "9 km NE of Castle Rock, Washington",
-      "time": 1791502340450,
+      "lon": -122.824,
+      "lat": 46.3443333333333,
+      "depth": 6.7,
+      "mag": 1.66,
+      "place": "10 km NE of Castle Rock, Washington",
+      "time": 1791502340440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118181"
     },
     {
@@ -1424,6 +1434,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714117801"
     },
     {
+      "id": "av94465066",
+      "lon": -152.092333333333,
+      "lat": 61.322,
+      "depth": 1.98,
+      "mag": -0.56,
+      "place": "57 km WNW of Beluga, Alaska",
+      "time": 1791441023530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94465066"
+    },
+    {
       "id": "aka2026txramv",
       "lon": -149.202,
       "lat": 59.916,
@@ -1442,6 +1462,16 @@
       "place": "57 km S of Whites City, New Mexico",
       "time": 1791440696760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tulyxx"
+    },
+    {
+      "id": "av94465061",
+      "lon": -159.441333333333,
+      "lat": 56.0281666666667,
+      "depth": 8.87,
+      "mag": 0,
+      "place": "14 km N of Ivanof Bay, Alaska",
+      "time": 1791440641340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94465061"
     },
     {
       "id": "nc75446341",
@@ -1575,12 +1605,12 @@
     },
     {
       "id": "aka2026txnnxy",
-      "lon": -153.212,
+      "lon": -153.187,
       "lat": 59.964,
-      "depth": 132.1,
+      "depth": 131.8,
       "mag": 3.1,
-      "place": "53 km ENE of Pedro Bay, Alaska",
-      "time": 1791434539107,
+      "place": "55 km ENE of Pedro Bay, Alaska",
+      "time": 1791434539073,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026txnnxy"
     },
     {
@@ -1604,13 +1634,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446311"
     },
     {
+      "id": "aka2026txmyro",
+      "lon": -144.158,
+      "lat": 60.692,
+      "depth": 13.6,
+      "mag": 1.4,
+      "place": "89 km E of Cordova, Alaska",
+      "time": 1791433486887,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026txmyro"
+    },
+    {
       "id": "aka2026txmxwd",
-      "lon": -155.825,
-      "lat": 58.126,
-      "depth": 133.3,
-      "mag": 1.1,
-      "place": "79 km SE of King Salmon, Alaska",
-      "time": 1791433427861,
+      "lon": -155.855,
+      "lat": 58.142,
+      "depth": 131.2,
+      "mag": 1.3,
+      "place": "76 km SE of King Salmon, Alaska",
+      "time": 1791433427969,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026txmxwd"
     },
     {
@@ -1625,12 +1665,12 @@
     },
     {
       "id": "aka2026txmwdf",
-      "lon": -149.426,
-      "lat": 64.617,
-      "depth": 16.8,
+      "lon": -149.416,
+      "lat": 64.62,
+      "depth": 18.2,
       "mag": 1.1,
       "place": "14 km W of Four Mile Road, Alaska",
-      "time": 1791433308008,
+      "time": 1791433307982,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026txmwdf"
     },
     {
@@ -1642,6 +1682,16 @@
       "place": "51 km SE of Punta Cana, Dominican Republic",
       "time": 1791432752910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026281000"
+    },
+    {
+      "id": "aka2026txmfsg",
+      "lon": -156.676,
+      "lat": 56.378,
+      "depth": 21.2,
+      "mag": 2.2,
+      "place": "107 km E of Chignik, Alaska",
+      "time": 1791432175893,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026txmfsg"
     },
     {
       "id": "aka2026txmfjs",
@@ -1955,12 +2005,12 @@
     },
     {
       "id": "uw714117771",
-      "lon": -121.6945,
+      "lon": -121.694333333333,
       "lat": 45.3373333333333,
-      "depth": 4.66,
-      "mag": 0.1,
+      "depth": 4.63,
+      "mag": 0.44,
       "place": "6 km NE of Government Camp, Oregon",
-      "time": 1791423945420,
+      "time": 1791423945430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714117771"
     },
     {
@@ -2142,16 +2192,6 @@
       "place": "2 km NE of Lluveras, Puerto Rico",
       "time": 1791417806910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536033"
-    },
-    {
-      "id": "av94464641",
-      "lon": -153.067,
-      "lat": 60.0253333333333,
-      "depth": 3.88,
-      "mag": -0.81,
-      "place": "63 km ENE of Pedro Bay, Alaska",
-      "time": 1791417239950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94464641"
     }
   ]
 }
