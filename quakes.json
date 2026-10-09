@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-09T18:01:11Z",
-  "count": 240,
+  "updated": "2026-10-09T18:15:44Z",
+  "count": 238,
   "points": [
+    {
+      "id": "hv75052827",
+      "lon": -155.727172851562,
+      "lat": 19.5183334350586,
+      "depth": 7.51000022888184,
+      "mag": 1.8,
+      "place": "15 km ENE of Honaunau-Napoopoo, Hawaii",
+      "time": 1791569391590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75052827"
+    },
+    {
+      "id": "us6000u18k",
+      "lon": -80.7572,
+      "lat": 7.5993,
+      "depth": 10,
+      "mag": 7.6,
+      "place": "10 km WSW of Pitaloza Arriba, Panama",
+      "time": 1791568565655,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k"
+    },
     {
       "id": "aka2026uajubu",
       "lon": -146.145,
@@ -1084,10 +1104,20 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345447"
     },
     {
+      "id": "ci10256390",
+      "lon": -116.694166666667,
+      "lat": 33.6236666666667,
+      "depth": 14.04,
+      "mag": 1.39,
+      "place": "8 km NNW of Anza, CA",
+      "time": 1791533944520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10256390"
+    },
+    {
       "id": "ci41345439",
       "lon": -116.696,
       "lat": 33.6241666666667,
-      "depth": 14.05,
+      "depth": 14.04,
       "mag": 1.45,
       "place": "8 km NNW of Anza, CA",
       "time": 1791533940150,
@@ -2352,56 +2382,6 @@
       "place": "2 km SE of Sportsmen Acres, Oklahoma",
       "time": 1791483770880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026tszg"
-    },
-    {
-      "id": "ci41345159",
-      "lon": -118.3385,
-      "lat": 35.0603333333333,
-      "depth": -0.91,
-      "mag": 1.1,
-      "place": "13 km SE of Tehachapi, CA",
-      "time": 1791483095500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345159"
-    },
-    {
-      "id": "aka2026tyojsd",
-      "lon": -157.67,
-      "lat": 55.784,
-      "depth": 14.7,
-      "mag": 3.2,
-      "place": "72 km SE of Chignik, Alaska",
-      "time": 1791482823770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tyojsd"
-    },
-    {
-      "id": "us6000u10n",
-      "lon": 120.3127,
-      "lat": -9.2392,
-      "depth": 91.156,
-      "mag": 4.8,
-      "place": "46 km N of Waingapu, Indonesia",
-      "time": 1791482760577,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u10n"
-    },
-    {
-      "id": "ci41345151",
-      "lon": -117.3025,
-      "lat": 34.6363333333333,
-      "depth": -0.87,
-      "mag": 1.03,
-      "place": "11 km N of Victorville, CA",
-      "time": 1791482508210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345151"
-    },
-    {
-      "id": "ci41345143",
-      "lon": -117.762166666667,
-      "lat": 36.0306666666667,
-      "depth": 0.97,
-      "mag": 1.32,
-      "place": "17 km NE of Little Lake, CA",
-      "time": 1791482434430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345143"
     }
   ]
 }
