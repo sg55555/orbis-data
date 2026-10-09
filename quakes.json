@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-09T04:15:46Z",
-  "count": 216,
+  "updated": "2026-10-09T04:30:55Z",
+  "count": 214,
   "points": [
+    {
+      "id": "aka2026tzixcm",
+      "lon": -151.269,
+      "lat": 60.674,
+      "depth": 72.8,
+      "mag": 1.8,
+      "place": "2 km SSE of Nikiski, Alaska",
+      "time": 1791519734996,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tzixcm"
+    },
     {
       "id": "us6000u13l",
       "lon": -84.8308,
@@ -102,6 +112,16 @@
       "place": "51 km E of Egegik, Alaska",
       "time": 1791514048073,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tzfsxe"
+    },
+    {
+      "id": "us6000u13c",
+      "lon": 137.6688,
+      "lat": 40.2927,
+      "depth": 269.153,
+      "mag": 4.2,
+      "place": "195 km WSW of Fukaura, Japan",
+      "time": 1791513418008,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13c"
     },
     {
       "id": "hv75052497",
@@ -212,6 +232,16 @@
       "place": "18 km ESE of Little Lake, CA",
       "time": 1791509716010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345311"
+    },
+    {
+      "id": "us6000u133",
+      "lon": -139.899,
+      "lat": 60.5565,
+      "depth": 13.3,
+      "mag": 2.6,
+      "place": "112 km N of Yakutat, Alaska",
+      "time": 1791509638852,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u133"
     },
     {
       "id": "pr71536153",
@@ -2112,56 +2142,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1791434033660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446316"
-    },
-    {
-      "id": "nc75446311",
-      "lon": -122.818496704102,
-      "lat": 38.8264999389648,
-      "depth": -0.660000026226044,
-      "mag": 1.68,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1791433736620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446311"
-    },
-    {
-      "id": "aka2026txmyro",
-      "lon": -144.158,
-      "lat": 60.692,
-      "depth": 13.6,
-      "mag": 1.4,
-      "place": "89 km E of Cordova, Alaska",
-      "time": 1791433486887,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026txmyro"
-    },
-    {
-      "id": "aka2026txmxwd",
-      "lon": -155.855,
-      "lat": 58.142,
-      "depth": 131.2,
-      "mag": 1.3,
-      "place": "76 km SE of King Salmon, Alaska",
-      "time": 1791433427969,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026txmxwd"
-    },
-    {
-      "id": "hv75052027",
-      "lon": -155.281166666667,
-      "lat": 19.3996666666667,
-      "depth": 1.74,
-      "mag": 1.59,
-      "place": "6 km SW of Volcano, Hawaii",
-      "time": 1791433382690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75052027"
-    },
-    {
-      "id": "aka2026txmwdf",
-      "lon": -149.416,
-      "lat": 64.62,
-      "depth": 18.2,
-      "mag": 1.1,
-      "place": "14 km W of Four Mile Road, Alaska",
-      "time": 1791433307982,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026txmwdf"
     }
   ]
 }
