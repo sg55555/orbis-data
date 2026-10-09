@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-09T16:15:46Z",
-  "count": 235,
+  "updated": "2026-10-09T16:30:59Z",
+  "count": 234,
   "points": [
+    {
+      "id": "aka2026uagrtn",
+      "lon": -148.513,
+      "lat": 62.313,
+      "depth": 18.4,
+      "mag": 2.5,
+      "place": "57 km N of Chickaloon, Alaska",
+      "time": 1791562546438,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uagrtn"
+    },
     {
       "id": "aka2026uaglfz",
       "lon": -152.912,
@@ -1005,12 +1015,12 @@
     },
     {
       "id": "ci41345415",
-      "lon": -118.179832458496,
-      "lat": 33.7916679382324,
-      "depth": 12.3000001907349,
-      "mag": 3.19046262420132,
+      "lon": -118.1845,
+      "lat": 33.7875,
+      "depth": 12,
+      "mag": 3.16,
       "place": "2 km SW of Signal Hill, CA",
-      "time": 1791531857510,
+      "time": 1791531857430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345415"
     },
     {
@@ -1135,12 +1145,12 @@
     },
     {
       "id": "ci41345391",
-      "lon": -115.839166666667,
-      "lat": 32.7773333333333,
-      "depth": 3.13,
-      "mag": 1.51,
+      "lon": -115.840666666667,
+      "lat": 32.7761666666667,
+      "depth": 3.78,
+      "mag": 1.5,
       "place": "15 km ENE of Ocotillo, CA",
-      "time": 1791526133040,
+      "time": 1791526133150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345391"
     },
     {
@@ -2332,26 +2342,6 @@
       "place": "2 km W of Fontana, CA",
       "time": 1791477020930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345095"
-    },
-    {
-      "id": "ci41345087",
-      "lon": -117.4725,
-      "lat": 34.1011666666667,
-      "depth": 5.21,
-      "mag": 0.51,
-      "place": "1 km WNW of Fontana, CA",
-      "time": 1791476867160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345087"
-    },
-    {
-      "id": "av94465561",
-      "lon": -175.879166666667,
-      "lat": 52.0511666666667,
-      "depth": 14.91,
-      "mag": 1.01,
-      "place": "55 km ENE of Adak, Alaska",
-      "time": 1791476399450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94465561"
     }
   ]
 }
