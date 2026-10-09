@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-09T17:45:43Z",
-  "count": 241,
+  "updated": "2026-10-09T18:01:11Z",
+  "count": 240,
   "points": [
+    {
+      "id": "aka2026uajubu",
+      "lon": -146.145,
+      "lat": 61.243,
+      "depth": 22.3,
+      "mag": 2.6,
+      "place": "16 km NE of Valdez, Alaska",
+      "time": 1791568104984,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uajubu"
+    },
     {
       "id": "ci41345759",
       "lon": -116.0775,
@@ -195,9 +205,9 @@
     },
     {
       "id": "uw714118311",
-      "lon": -122.303666666667,
-      "lat": 46.2031666666667,
-      "depth": 11.62,
+      "lon": -122.305666666667,
+      "lat": 46.2041666666667,
+      "depth": 11.68,
       "mag": 0.32,
       "place": "34 km NNE of Amboy, Washington",
       "time": 1791558000440,
@@ -425,12 +435,12 @@
     },
     {
       "id": "uw714118281",
-      "lon": -123.029333333333,
-      "lat": 48.6061666666667,
-      "depth": 13.26,
-      "mag": 1.16,
+      "lon": -123.0305,
+      "lat": 48.6063333333333,
+      "depth": 13.18,
+      "mag": 1.1,
       "place": "6 km W of Orcas, Washington",
-      "time": 1791549715080,
+      "time": 1791549715100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118281"
     },
     {
@@ -1075,12 +1085,12 @@
     },
     {
       "id": "ci41345439",
-      "lon": -116.694666666667,
-      "lat": 33.623,
-      "depth": 13.69,
-      "mag": 1.46,
+      "lon": -116.696,
+      "lat": 33.6241666666667,
+      "depth": 14.05,
+      "mag": 1.45,
       "place": "8 km NNW of Anza, CA",
-      "time": 1791533940200,
+      "time": 1791533940150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345439"
     },
     {
@@ -2392,26 +2402,6 @@
       "place": "17 km NE of Little Lake, CA",
       "time": 1791482434430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345143"
-    },
-    {
-      "id": "nc75446491",
-      "lon": -122.779663085938,
-      "lat": 38.804500579834,
-      "depth": 3.59999990463257,
-      "mag": 0.89,
-      "place": "4 km NNW of The Geysers, CA",
-      "time": 1791482297240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446491"
-    },
-    {
-      "id": "nc75446486",
-      "lon": -122.814331054688,
-      "lat": 38.8305015563965,
-      "depth": 1.96000003814697,
-      "mag": 0.74,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1791482064060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446486"
     }
   ]
 }
