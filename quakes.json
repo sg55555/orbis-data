@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-09T17:31:01Z",
-  "count": 235,
+  "updated": "2026-10-09T17:45:43Z",
+  "count": 241,
   "points": [
+    {
+      "id": "ci41345759",
+      "lon": -116.0775,
+      "lat": 33.2233333333333,
+      "depth": 10.1,
+      "mag": 1.75,
+      "place": "10 km NNE of Ocotillo Wells, CA",
+      "time": 1791567486900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345759"
+    },
+    {
+      "id": "nn00925533",
+      "lon": -117.7399,
+      "lat": 37.2417,
+      "depth": 10.3657,
+      "mag": 1.62,
+      "place": "49 km E of Big Pine, California",
+      "time": 1791567409102,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925533"
+    },
+    {
+      "id": "ci41345751",
+      "lon": -117.386,
+      "lat": 35.9505,
+      "depth": 2.61,
+      "mag": 1.62,
+      "place": "20 km N of Searles Valley, CA",
+      "time": 1791567205370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345751"
+    },
     {
       "id": "us6000u18e",
       "lon": 160.6987,
@@ -34,6 +64,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345735"
     },
     {
+      "id": "us6000u18d",
+      "lon": 160.1309,
+      "lat": 52.2214,
+      "depth": 33.508,
+      "mag": 4.7,
+      "place": "138 km SE of Petropavlovsk-Kamchatsky, Russia",
+      "time": 1791565175349,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18d"
+    },
+    {
       "id": "nc75446946",
       "lon": -122.784164428711,
       "lat": 38.8375015258789,
@@ -52,6 +92,16 @@
       "place": "11 km WNW of Anchor Point, Alaska",
       "time": 1791564255566,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uahqlr"
+    },
+    {
+      "id": "uw714118341",
+      "lon": -122.194166666667,
+      "lat": 46.2053333333333,
+      "depth": 1.79,
+      "mag": 0.3,
+      "place": "38 km NNE of Amboy, Washington",
+      "time": 1791564013980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118341"
     },
     {
       "id": "nn00925528",
@@ -134,14 +184,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uaejxs"
     },
     {
-      "id": "us6000u166",
-      "lon": -155.8724,
-      "lat": 19.3266,
-      "depth": 10,
-      "mag": 2.6,
-      "place": "14 km S of Honaunau-Napoopoo, Hawaii",
-      "time": 1791558135926,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u166"
+      "id": "hv75052732",
+      "lon": -155.862,
+      "lat": 19.3118333333333,
+      "depth": 5.48,
+      "mag": 2.54,
+      "place": "15 km S of Honaunau-Napoopoo, Hawaii",
+      "time": 1791558136120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75052732"
     },
     {
       "id": "uw714118311",
@@ -402,6 +452,16 @@
       "place": "2 km N of The Geysers, CA",
       "time": 1791549545470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446891"
+    },
+    {
+      "id": "uw714118271",
+      "lon": -122.784333333333,
+      "lat": 47.8238333333333,
+      "depth": 20.58,
+      "mag": 0.19,
+      "place": "6 km E of Quilcene, Washington",
+      "time": 1791549428020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118271"
     },
     {
       "id": "us6000u15l",
@@ -804,13 +864,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tzsldb"
     },
     {
+      "id": "uw714005293",
+      "lon": -122.300666666667,
+      "lat": 46.2005,
+      "depth": 11.99,
+      "mag": -0.13,
+      "place": "34 km NNE of Amboy, Washington",
+      "time": 1791536873440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714005293"
+    },
+    {
       "id": "uw714118251",
-      "lon": -122.306833333333,
-      "lat": 46.2016666666667,
-      "depth": 11.55,
+      "lon": -122.309,
+      "lat": 46.2045,
+      "depth": 12.13,
       "mag": 0.33,
       "place": "34 km NNE of Amboy, Washington",
-      "time": 1791536840990,
+      "time": 1791536840960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118251"
     },
     {
@@ -2342,16 +2412,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1791482064060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446486"
-    },
-    {
-      "id": "uw714117981",
-      "lon": -122.190833333333,
-      "lat": 46.2008333333333,
-      "depth": 2.96,
-      "mag": 0.14,
-      "place": "37 km NNE of Amboy, Washington",
-      "time": 1791480662000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714117981"
     }
   ]
 }
