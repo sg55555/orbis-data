@@ -1,17 +1,27 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-09T14:01:10Z",
-  "count": 235,
+  "updated": "2026-10-09T14:15:44Z",
+  "count": 233,
   "points": [
     {
       "id": "ci41345655",
-      "lon": -117.8125,
-      "lat": 35.308666229248,
-      "depth": 8.69999980926514,
-      "mag": 1.25271817724655,
+      "lon": -117.820833333333,
+      "lat": 35.3088333333333,
+      "depth": 8.62,
+      "mag": 1.12,
       "place": "18 km WSW of Johannesburg, CA",
-      "time": 1791554237640,
+      "time": 1791554237670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345655"
+    },
+    {
+      "id": "us6000u15x",
+      "lon": 168.1451,
+      "lat": -15.5361,
+      "depth": 10,
+      "mag": 5.4,
+      "place": "99 km NE of Norsup, Vanuatu",
+      "time": 1791553902764,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u15x"
     },
     {
       "id": "ci41345647",
@@ -2322,36 +2332,6 @@
       "place": "38 km SSW of Manley Hot Springs, Alaska",
       "time": 1791468927266,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tygqwi"
-    },
-    {
-      "id": "aka2026tygpxd",
-      "lon": -155.77,
-      "lat": 57.593,
-      "depth": 9.9,
-      "mag": 1.5,
-      "place": "78 km W of Karluk, Alaska",
-      "time": 1791468858981,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tygpxd"
-    },
-    {
-      "id": "us6000u0yr",
-      "lon": 122.2936,
-      "lat": -10.0202,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "113 km NW of Baa, Indonesia",
-      "time": 1791468709678,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0yr"
-    },
-    {
-      "id": "nc75446406",
-      "lon": -122.974830627441,
-      "lat": 39.4128341674805,
-      "depth": 7.42000007629395,
-      "mag": 1.73,
-      "place": "2 km WNW of Lake Pillsbury, CA",
-      "time": 1791468416780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446406"
     }
   ]
 }
