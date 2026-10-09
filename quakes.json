@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-09T19:01:14Z",
-  "count": 241,
+  "updated": "2026-10-09T19:15:40Z",
+  "count": 240,
   "points": [
     {
       "id": "nc75446991",
@@ -12,6 +12,26 @@
       "place": "5 km NW of The Geysers, CA",
       "time": 1791571941290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446991"
+    },
+    {
+      "id": "us6000u194",
+      "lon": -80.1178,
+      "lat": 7.3504,
+      "depth": 10,
+      "mag": 5,
+      "place": "18 km S of Los Asientos, Panama",
+      "time": 1791571812134,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u194"
+    },
+    {
+      "id": "us6000u195",
+      "lon": -81.0943,
+      "lat": 7.5783,
+      "depth": 10,
+      "mag": 5,
+      "place": "19 km S of Leones Arriba, Panama",
+      "time": 1791571624065,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u195"
     },
     {
       "id": "aka2026ualmwh",
@@ -32,16 +52,6 @@
       "place": "1 km S of El Cacao, Panama",
       "time": 1791571066146,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18x"
-    },
-    {
-      "id": "nn00925542",
-      "lon": -115.6157,
-      "lat": 36.7217,
-      "depth": 6.9031,
-      "mag": 2.45,
-      "place": "17 km NNE of Indian Springs, Nevada",
-      "time": 1791570848195,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925542"
     },
     {
       "id": "nc75446981",
@@ -1075,12 +1085,12 @@
     },
     {
       "id": "ci41345495",
-      "lon": -116.931166666667,
-      "lat": 33.995,
-      "depth": 27.6,
-      "mag": 1.14,
-      "place": "8 km NNE of Beaumont, CA",
-      "time": 1791534591230,
+      "lon": -116.6845,
+      "lat": 33.6256666666667,
+      "depth": 13.2,
+      "mag": 0.18,
+      "place": "8 km N of Anza, CA",
+      "time": 1791534597830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345495"
     },
     {
@@ -1315,12 +1325,12 @@
     },
     {
       "id": "ci41345407",
-      "lon": -117.937666666667,
-      "lat": 33.2581666666667,
-      "depth": 14.79,
-      "mag": 2.2,
+      "lon": -117.935833333333,
+      "lat": 33.2608333333333,
+      "depth": 14.46,
+      "mag": 2.12,
       "place": "32 km SW of Dana Point, CA",
-      "time": 1791529933080,
+      "time": 1791529933110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345407"
     },
     {
@@ -2064,6 +2074,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118171"
     },
     {
+      "id": "uw714118161",
+      "lon": -122.052166666667,
+      "lat": 47.4036666666667,
+      "depth": 15.3,
+      "mag": 1.03,
+      "place": "1 km NNW of Maple Valley, Washington",
+      "time": 1791501138130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118161"
+    },
+    {
       "id": "aka2026tyyefm",
       "lon": -154.864,
       "lat": 58.216,
@@ -2382,36 +2402,6 @@
       "place": "19 km NW of Larsen Bay, Alaska",
       "time": 1791487083785,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tyqteo"
-    },
-    {
-      "id": "ok2026ttav",
-      "lon": -98.41583333,
-      "lat": 34.71383333,
-      "depth": 0,
-      "mag": 1.28,
-      "place": "8 km ESE of Medicine Park, Oklahoma",
-      "time": 1791486688320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ttav"
-    },
-    {
-      "id": "ok2026ttar",
-      "lon": -95.85366667,
-      "lat": 36.2,
-      "depth": 0,
-      "mag": 1.38,
-      "place": "7 km S of Owasso, Oklahoma",
-      "time": 1791486389920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ttar"
-    },
-    {
-      "id": "nc75446511",
-      "lon": -122.818664550781,
-      "lat": 38.8058319091797,
-      "depth": 3.33999991416931,
-      "mag": 0.71,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": 1791486369040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446511"
     }
   ]
 }
