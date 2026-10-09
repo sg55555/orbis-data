@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-09T15:15:44Z",
-  "count": 232,
+  "updated": "2026-10-09T15:31:00Z",
+  "count": 229,
   "points": [
     {
       "id": "aka2026uaejxs",
@@ -12,6 +12,16 @@
       "place": "77 km E of Ugashik, Alaska",
       "time": 1791558406091,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uaejxs"
+    },
+    {
+      "id": "us6000u166",
+      "lon": -155.8724,
+      "lat": 19.3266,
+      "depth": 10,
+      "mag": 2.6,
+      "place": "14 km S of Honaunau-Napoopoo, Hawaii",
+      "time": 1791558135926,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u166"
     },
     {
       "id": "nc75446936",
@@ -1734,16 +1744,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345223"
     },
     {
-      "id": "ci41345231",
-      "lon": -116.224830627441,
-      "lat": 33.2384986877441,
-      "depth": 7.30000019073486,
-      "mag": 1.71194484741745,
-      "place": "14 km NW of Ocotillo Wells, CA",
-      "time": 1791499356920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345231"
-    },
-    {
       "id": "tx2026tvshhk",
       "lon": -104.506,
       "lat": 31.769,
@@ -2292,36 +2292,6 @@
       "place": "2 km S of Mill Creek, Oklahoma",
       "time": 1791473566859,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026tstq"
-    },
-    {
-      "id": "tx2026tvebps",
-      "lon": -103.839,
-      "lat": 32.002,
-      "depth": 7.1252,
-      "mag": 0.9,
-      "place": "33 km SE of Malaga, New Mexico",
-      "time": 1791473281528,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tvebps"
-    },
-    {
-      "id": "ci41345071",
-      "lon": -117.490166666667,
-      "lat": 34.0975,
-      "depth": 6.04,
-      "mag": 0.67,
-      "place": "3 km W of Fontana, CA",
-      "time": 1791473039510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345071"
-    },
-    {
-      "id": "us6000u0yy",
-      "lon": 101.5886,
-      "lat": -3.4591,
-      "depth": 50.572,
-      "mag": 4.7,
-      "place": "84 km WNW of Bengkulu, Indonesia",
-      "time": 1791473027618,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0yy"
     }
   ]
 }
