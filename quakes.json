@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-09T12:01:13Z",
-  "count": 220,
+  "updated": "2026-10-09T12:15:42Z",
+  "count": 219,
   "points": [
+    {
+      "id": "aka2026tzyhcu",
+      "lon": -149.373,
+      "lat": 61.759,
+      "depth": 23.4,
+      "mag": 1.9,
+      "place": "7 km WNW of Fishhook, Alaska",
+      "time": 1791547416613,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tzyhcu"
+    },
     {
       "id": "ci41345591",
       "lon": -116.766333333333,
@@ -64,6 +74,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tzwfya"
     },
     {
+      "id": "us6000u156",
+      "lon": -72.1105,
+      "lat": -16.1934,
+      "depth": 111.498,
+      "mag": 4.3,
+      "place": "20 km NNE of El Pedregal, Peru",
+      "time": 1791543329279,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u156"
+    },
+    {
       "id": "aka2026tzvxxr",
       "lon": -155.984,
       "lat": 57.829,
@@ -85,12 +105,12 @@
     },
     {
       "id": "ok2026tufi",
-      "lon": -97.8706665,
-      "lat": 35.01102448,
-      "depth": 5,
-      "mag": 1.66,
-      "place": "7 km SE of Chickasha, Oklahoma",
-      "time": 1791542161330,
+      "lon": -97.86766667,
+      "lat": 35.01583333,
+      "depth": 7.3,
+      "mag": 1.41,
+      "place": "7 km ESE of Chickasha, Oklahoma",
+      "time": 1791542161169,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026tufi"
     },
     {
@@ -2172,36 +2192,6 @@
       "place": "7 km N of Rancho Cucamonga, CA",
       "time": 1791462295310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345007"
-    },
-    {
-      "id": "ci41344999",
-      "lon": -116.668,
-      "lat": 33.45,
-      "depth": 3.49,
-      "mag": 0.65,
-      "place": "12 km S of Anza, CA",
-      "time": 1791460973970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344999"
-    },
-    {
-      "id": "aka2026tycfrs",
-      "lon": -154.639,
-      "lat": 58.381,
-      "depth": 107.4,
-      "mag": 1.2,
-      "place": "91 km N of Karluk, Alaska",
-      "time": 1791460957492,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tycfrs"
-    },
-    {
-      "id": "ci41344991",
-      "lon": -116.762666666667,
-      "lat": 33.5786666666667,
-      "depth": 12.19,
-      "mag": 0.82,
-      "place": "9 km WNW of Anza, CA",
-      "time": 1791460920770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344991"
     }
   ]
 }
