@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-09T22:01:20Z",
-  "count": 255,
+  "updated": "2026-10-09T22:15:40Z",
+  "count": 258,
   "points": [
+    {
+      "id": "aka2026uasmoj",
+      "lon": -147.476,
+      "lat": 64.987,
+      "depth": 2.1,
+      "mag": 1.2,
+      "place": "7 km ENE of Fox, Alaska",
+      "time": 1791583777404,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uasmoj"
+    },
+    {
+      "id": "aka2026uasjzd",
+      "lon": -153.177,
+      "lat": 60.147,
+      "depth": 154,
+      "mag": 1.6,
+      "place": "63 km E of Port Alsworth, Alaska",
+      "time": 1791583597443,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uasjzd"
+    },
     {
       "id": "nc75447076",
       "lon": -122.80549621582,
@@ -14,13 +34,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447076"
     },
     {
+      "id": "ci10256438",
+      "lon": -116.5515,
+      "lat": 33.5101666666667,
+      "depth": 9.3,
+      "mag": 0.45,
+      "place": "12 km ESE of Anza, CA",
+      "time": 1791582687890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10256438"
+    },
+    {
       "id": "ci41345807",
-      "lon": -117.4855,
-      "lat": 33.819,
-      "depth": 2.51,
-      "mag": 1.62,
+      "lon": -117.4835,
+      "lat": 33.8205,
+      "depth": -0.5,
+      "mag": 1.47,
       "place": "7 km SSE of Home Gardens, CA",
-      "time": 1791582683020,
+      "time": 1791582682800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345807"
     },
     {
@@ -72,6 +102,16 @@
       "place": "9 km SSE of Sparks, Oklahoma",
       "time": 1791580778171,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026tvao"
+    },
+    {
+      "id": "us6000u1ah",
+      "lon": 157.5832,
+      "lat": 52.0441,
+      "depth": 78.277,
+      "mag": 4.6,
+      "place": "96 km NE of Ozernovskiy, Russia",
+      "time": 1791580756481,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ah"
     },
     {
       "id": "us6000u1a9",
@@ -212,6 +252,16 @@
       "place": "11 km SE of Río Grande, Panama",
       "time": 1791575335624,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19h"
+    },
+    {
+      "id": "us6000u19i",
+      "lon": -80.1336,
+      "lat": 7.5448,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "2 km N of Los Asientos, Panama",
+      "time": 1791575158101,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19i"
     },
     {
       "id": "us6000u19e",
@@ -1834,6 +1884,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345375"
     },
     {
+      "id": "av94439153",
+      "lon": -152.144333333333,
+      "lat": 61.2465,
+      "depth": 7.34,
+      "mag": -0.63,
+      "place": "57 km WNW of Tyonek, Alaska",
+      "time": 1791523165590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94439153"
+    },
+    {
       "id": "us6000u13y",
       "lon": -177.334,
       "lat": -24.309,
@@ -2522,36 +2582,6 @@
       "place": "46 km SSW of Whites City, New Mexico",
       "time": 1791498984831,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tvshhk"
-    },
-    {
-      "id": "nn00925493",
-      "lon": -119.2644,
-      "lat": 40.7472,
-      "depth": 6.8683,
-      "mag": 2.37,
-      "place": "3 km SW of Burning Man Earth, Nevada",
-      "time": 1791497412270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925493"
-    },
-    {
-      "id": "aka2026tywize",
-      "lon": -151.232,
-      "lat": 61.773,
-      "depth": 78,
-      "mag": 1.4,
-      "place": "25 km SSE of Skwentna, Alaska",
-      "time": 1791497168198,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tywize"
-    },
-    {
-      "id": "aka2026tywgzn",
-      "lon": -135.909,
-      "lat": 59.429,
-      "depth": 5.9,
-      "mag": 2,
-      "place": "3 km NNW of Klukwan, Alaska",
-      "time": 1791497030753,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tywgzn"
     }
   ]
 }
