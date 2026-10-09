@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-09T22:30:57Z",
-  "count": 262,
+  "updated": "2026-10-09T22:45:40Z",
+  "count": 261,
   "points": [
+    {
+      "id": "aka2026uatksi",
+      "lon": -151.77,
+      "lat": 60.422,
+      "depth": 75,
+      "mag": 1.8,
+      "place": "26 km WNW of Cohoe, Alaska",
+      "time": 1791585446573,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uatksi"
+    },
     {
       "id": "aka2026uasvvq",
       "lon": -148.946,
@@ -75,12 +85,12 @@
     },
     {
       "id": "ci41345799",
-      "lon": -117.586833333333,
-      "lat": 34.02,
-      "depth": 5.5,
-      "mag": 1.64,
+      "lon": -117.586666666667,
+      "lat": 34.0193333333333,
+      "depth": 5.34,
+      "mag": 1.7,
       "place": "5 km SE of Ontario, CA",
-      "time": 1791582531440,
+      "time": 1791582531430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345799"
     },
     {
@@ -242,6 +252,16 @@
       "place": "12 km SSW of Tebario, Panama",
       "time": 1791577223334,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19s"
+    },
+    {
+      "id": "us6000u19v",
+      "lon": 152.1103,
+      "lat": -5.4312,
+      "depth": 50.541,
+      "mag": 4.7,
+      "place": "121 km S of Kokopo, Papua New Guinea",
+      "time": 1791577209257,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19v"
     },
     {
       "id": "aka2026uaonmh",
@@ -1215,12 +1235,12 @@
     },
     {
       "id": "ci41345551",
-      "lon": -117.5595,
-      "lat": 35.638,
-      "depth": 6,
-      "mag": 0.46,
+      "lon": -117.559666666667,
+      "lat": 35.6388333333333,
+      "depth": 5.97,
+      "mag": 0.43,
       "place": "11 km E of Ridgecrest, CA",
-      "time": 1791539890570,
+      "time": 1791539890590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345551"
     },
     {
@@ -1995,12 +2015,12 @@
     },
     {
       "id": "ci41345359",
-      "lon": -117.725833333333,
-      "lat": 35.8683333333333,
-      "depth": 7.92,
-      "mag": 0.62,
+      "lon": -117.723,
+      "lat": 35.8726666666667,
+      "depth": 8.35,
+      "mag": 0.55,
       "place": "18 km ESE of Little Lake, CA",
-      "time": 1791521424800,
+      "time": 1791521424710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345359"
     },
     {
@@ -2592,36 +2612,6 @@
       "place": "16 km W of Stanton, Texas",
       "time": 1791499579315,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tvsozy"
-    },
-    {
-      "id": "nc75446616",
-      "lon": -122.814002990723,
-      "lat": 38.7986679077148,
-      "depth": 3.14000010490417,
-      "mag": 0.78,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": 1791499441840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446616"
-    },
-    {
-      "id": "ci41345223",
-      "lon": -116.108666666667,
-      "lat": 33.3123333333333,
-      "depth": 2.16,
-      "mag": 2.19,
-      "place": "14 km W of Salton City, CA",
-      "time": 1791499358230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345223"
-    },
-    {
-      "id": "tx2026tvshhk",
-      "lon": -104.506,
-      "lat": 31.769,
-      "depth": 3.4851,
-      "mag": 1.8,
-      "place": "46 km SSW of Whites City, New Mexico",
-      "time": 1791498984831,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tvshhk"
     }
   ]
 }
