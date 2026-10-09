@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-09T23:01:07Z",
-  "count": 263,
+  "updated": "2026-10-09T23:15:38Z",
+  "count": 264,
   "points": [
+    {
+      "id": "hv75053097",
+      "lon": -156.001007080078,
+      "lat": 19.7385005950928,
+      "depth": 21.7999992370605,
+      "mag": 1.74,
+      "place": "2 km WNW of Kalaoa, Hawaii",
+      "time": 1791587486840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75053097"
+    },
     {
       "id": "nc75447116",
       "lon": -122.813499450684,
@@ -1434,6 +1444,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446861"
     },
     {
+      "id": "av93068034",
+      "lon": -143.990166666667,
+      "lat": 61.9611666666667,
+      "depth": 8.93,
+      "mag": -0.52,
+      "place": "55 km NNE of Chitina, Alaska",
+      "time": 1791537258070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068034"
+    },
+    {
       "id": "aka2026tzsldb",
       "lon": -151.795,
       "lat": 60.323,
@@ -2622,16 +2642,6 @@
       "place": "8 km WSW of Peck, Idaho",
       "time": 1791501476730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118171"
-    },
-    {
-      "id": "uw714118161",
-      "lon": -122.052166666667,
-      "lat": 47.4036666666667,
-      "depth": 15.3,
-      "mag": 1.03,
-      "place": "1 km NNW of Maple Valley, Washington",
-      "time": 1791501138130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118161"
     }
   ]
 }
