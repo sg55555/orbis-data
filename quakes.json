@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-09T19:15:40Z",
-  "count": 240,
+  "updated": "2026-10-09T19:30:58Z",
+  "count": 237,
   "points": [
+    {
+      "id": "us6000u197",
+      "lon": -81.2492,
+      "lat": 7.6161,
+      "depth": 10,
+      "mag": 5,
+      "place": "14 km SE of Río Grande, Panama",
+      "time": 1791572689305,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u197"
+    },
     {
       "id": "nc75446991",
       "lon": -122.793830871582,
@@ -52,6 +62,16 @@
       "place": "1 km S of El Cacao, Panama",
       "time": 1791571066146,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18x"
+    },
+    {
+      "id": "nn00925541",
+      "lon": -117.5234,
+      "lat": 37.276,
+      "depth": 5.8968,
+      "mag": 1.85,
+      "place": "54 km S of Silver Peak, Nevada",
+      "time": 1791570787816,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925541"
     },
     {
       "id": "nc75446981",
@@ -125,12 +145,12 @@
     },
     {
       "id": "ci41345751",
-      "lon": -117.386,
-      "lat": 35.9505,
-      "depth": 2.61,
-      "mag": 1.62,
-      "place": "20 km N of Searles Valley, CA",
-      "time": 1791567205370,
+      "lon": -117.384,
+      "lat": 35.9523333333333,
+      "depth": 2.5,
+      "mag": 1.63,
+      "place": "21 km N of Searles Valley, CA",
+      "time": 1791567205340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345751"
     },
     {
@@ -1935,12 +1955,12 @@
     },
     {
       "id": "ci41345279",
-      "lon": -119.118666666667,
-      "lat": 35.1026666666667,
-      "depth": 13.88,
-      "mag": 1.8,
+      "lon": -119.120333333333,
+      "lat": 35.1046666666667,
+      "depth": 12.84,
+      "mag": 1.81,
       "place": "25 km NW of Grapevine, CA",
-      "time": 1791507324020,
+      "time": 1791507324060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345279"
     },
     {
@@ -2352,56 +2372,6 @@
       "place": "10 km NNW of Big Bear City, CA",
       "time": 1791488328040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345175"
-    },
-    {
-      "id": "aka2026tyrdxy",
-      "lon": -148.738,
-      "lat": 64.028,
-      "depth": 0.2,
-      "mag": 1.9,
-      "place": "18 km E of Ferry, Alaska",
-      "time": 1791487823474,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tyrdxy"
-    },
-    {
-      "id": "nc75446521",
-      "lon": -122.796165466309,
-      "lat": 38.8154983520508,
-      "depth": 2.55999994277954,
-      "mag": 1.1,
-      "place": "5 km NW of The Geysers, CA",
-      "time": 1791487589960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446521"
-    },
-    {
-      "id": "us6000u11a",
-      "lon": 142.9124,
-      "lat": 40.5087,
-      "depth": 35,
-      "mag": 4.2,
-      "place": "103 km ENE of Noda, Japan",
-      "time": 1791487381983,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u11a"
-    },
-    {
-      "id": "ci41345167",
-      "lon": -116.4595,
-      "lat": 33.4661666666667,
-      "depth": 3.62,
-      "mag": 0.81,
-      "place": "22 km ESE of Anza, CA",
-      "time": 1791487136510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345167"
-    },
-    {
-      "id": "aka2026tyqteo",
-      "lon": -154.163,
-      "lat": 57.681,
-      "depth": 27.8,
-      "mag": 1.9,
-      "place": "19 km NW of Larsen Bay, Alaska",
-      "time": 1791487083785,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tyqteo"
     }
   ]
 }
