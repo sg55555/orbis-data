@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-09T06:45:39Z",
-  "count": 209,
+  "updated": "2026-10-09T07:01:08Z",
+  "count": 206,
   "points": [
+    {
+      "id": "nc75446801",
+      "lon": -122.813835144043,
+      "lat": 38.8274993896484,
+      "depth": 1.38999998569489,
+      "mag": 1.15,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1791528465680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446801"
+    },
     {
       "id": "nc75446791",
       "lon": -122.814163208008,
@@ -2052,46 +2062,6 @@
       "place": "31 km NNW of Toyah, Texas",
       "time": 1791443203092,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tunmdx"
-    },
-    {
-      "id": "ci41344815",
-      "lon": -116.708333333333,
-      "lat": 33.538,
-      "depth": 5.9,
-      "mag": 1.26,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1791442833370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344815"
-    },
-    {
-      "id": "hv75052082",
-      "lon": -155.235166666667,
-      "lat": 19.415,
-      "depth": 26.12,
-      "mag": 1.01,
-      "place": "3 km S of Volcano, Hawaii",
-      "time": 1791442267520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75052082"
-    },
-    {
-      "id": "hv75052077",
-      "lon": -155.505004882812,
-      "lat": 19.1586666107178,
-      "depth": 27.3500003814697,
-      "mag": 1.75,
-      "place": "5 km SSW of Pāhala, Hawaii",
-      "time": 1791442177510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75052077"
-    },
-    {
-      "id": "us6000u0ws",
-      "lon": 140.2121,
-      "lat": -52.5475,
-      "depth": 10,
-      "mag": 5.5,
-      "place": "west of Macquarie Island",
-      "time": 1791442007971,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ws"
     }
   ]
 }
