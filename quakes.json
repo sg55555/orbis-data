@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-09T21:31:03Z",
-  "count": 245,
+  "updated": "2026-10-09T21:45:41Z",
+  "count": 247,
   "points": [
+    {
+      "id": "nc75447041",
+      "lon": -122.808670043945,
+      "lat": 38.8366661071777,
+      "depth": 1.73000001907349,
+      "mag": 1.03,
+      "place": "8 km WNW of Cobb, CA",
+      "time": 1791581885460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447041"
+    },
     {
       "id": "nc75447036",
       "lon": -122.812164306641,
@@ -142,6 +152,16 @@
       "place": "10 km NNE of Ocotillo Wells, CA",
       "time": 1791574739540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345791"
+    },
+    {
+      "id": "us6000u19c",
+      "lon": -80.5899,
+      "lat": 7.5147,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "8 km N of La Tronosa, Panama",
+      "time": 1791574339273,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19c"
     },
     {
       "id": "us6000u198",
@@ -284,13 +304,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uajubu"
     },
     {
+      "id": "ci10256430",
+      "lon": -116.074,
+      "lat": 33.2343333333333,
+      "depth": 9.54,
+      "mag": 1.19,
+      "place": "11 km NNE of Ocotillo Wells, CA",
+      "time": 1791567497230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10256430"
+    },
+    {
       "id": "ci41345759",
-      "lon": -116.0775,
-      "lat": 33.2233333333333,
-      "depth": 10.1,
+      "lon": -116.074333333333,
+      "lat": 33.2223333333333,
+      "depth": 10.5,
       "mag": 1.75,
       "place": "10 km NNE of Ocotillo Wells, CA",
-      "time": 1791567486900,
+      "time": 1791567486870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345759"
     },
     {
@@ -1934,6 +1964,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tzfsxe"
     },
     {
+      "id": "av94439058",
+      "lon": -154.987666666667,
+      "lat": 58.2903333333333,
+      "depth": 3.27,
+      "mag": -0.1,
+      "place": "86 km NNW of Karluk, Alaska",
+      "time": 1791513444310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94439058"
+    },
+    {
       "id": "us6000u13c",
       "lon": 137.6688,
       "lat": 40.2927,
@@ -2432,26 +2472,6 @@
       "place": "17 km ESE of Kasilof, Alaska",
       "time": 1791496749470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tywcxn"
-    },
-    {
-      "id": "nc75446571",
-      "lon": -122.799667358398,
-      "lat": 38.7939987182617,
-      "depth": 0.109999999403954,
-      "mag": 0.75,
-      "place": "4 km WNW of The Geysers, CA",
-      "time": 1791495584990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446571"
-    },
-    {
-      "id": "ci41345207",
-      "lon": -116.839,
-      "lat": 34.351,
-      "depth": 9.57,
-      "mag": 1.16,
-      "place": "10 km N of Big Bear City, CA",
-      "time": 1791495566960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345207"
     }
   ]
 }
