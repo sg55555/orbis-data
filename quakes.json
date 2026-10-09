@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-09T18:45:44Z",
-  "count": 239,
+  "updated": "2026-10-09T19:01:14Z",
+  "count": 241,
   "points": [
+    {
+      "id": "nc75446991",
+      "lon": -122.793830871582,
+      "lat": 38.8133316040039,
+      "depth": 2.90000009536743,
+      "mag": 1.26,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1791571941290,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446991"
+    },
     {
       "id": "aka2026ualmwh",
       "lon": -151.737,
@@ -12,6 +22,16 @@
       "place": "28 km WNW of Nikiski, Alaska",
       "time": 1791571203579,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ualmwh"
+    },
+    {
+      "id": "us6000u18x",
+      "lon": -80.4012,
+      "lat": 7.4362,
+      "depth": 10,
+      "mag": 5.8,
+      "place": "1 km S of El Cacao, Panama",
+      "time": 1791571066146,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18x"
     },
     {
       "id": "nn00925542",
@@ -1105,12 +1125,12 @@
     },
     {
       "id": "ci41345471",
-      "lon": -116.675666809082,
-      "lat": 33.6324996948242,
-      "depth": 16.6900005340576,
-      "mag": 1.03618753402126,
+      "lon": -116.6835,
+      "lat": 33.6311666666667,
+      "depth": 13.95,
+      "mag": 0.48,
       "place": "9 km N of Anza, CA",
-      "time": 1791534417790,
+      "time": 1791534418170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345471"
     },
     {
@@ -2034,6 +2054,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118181"
     },
     {
+      "id": "uw714118171",
+      "lon": -116.521166666667,
+      "lat": 46.4446666666667,
+      "depth": -0.82,
+      "mag": 1.1,
+      "place": "8 km WSW of Peck, Idaho",
+      "time": 1791501476730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118171"
+    },
+    {
       "id": "aka2026tyyefm",
       "lon": -154.864,
       "lat": 58.216,
@@ -2382,16 +2412,6 @@
       "place": "6 km WNW of The Geysers, CA",
       "time": 1791486369040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446511"
-    },
-    {
-      "id": "tx2026tvkvij",
-      "lon": -103.826,
-      "lat": 31.953,
-      "depth": 7.3688,
-      "mag": 1.6,
-      "place": "34 km NW of Mentone, Texas",
-      "time": 1791485479627,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tvkvij"
     }
   ]
 }
