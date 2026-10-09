@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-09T17:15:43Z",
+  "updated": "2026-10-09T17:31:01Z",
   "count": 235,
   "points": [
+    {
+      "id": "us6000u18e",
+      "lon": 160.6987,
+      "lat": 51.8952,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "191 km SE of Petropavlovsk-Kamchatsky, Russia",
+      "time": 1791565744613,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18e"
+    },
     {
       "id": "nc75446961",
       "lon": -122.815170288086,
@@ -1665,12 +1675,12 @@
     },
     {
       "id": "ci41345319",
-      "lon": -116.764663696289,
-      "lat": 33.5641670227051,
-      "depth": 18.0100002288818,
-      "mag": 1.36467387341898,
-      "place": "8 km W of Anza, CA",
-      "time": 1791509793250,
+      "lon": -116.759333333333,
+      "lat": 33.5845,
+      "depth": 12.12,
+      "mag": 0.27,
+      "place": "9 km WNW of Anza, CA",
+      "time": 1791509793930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345319"
     },
     {
@@ -2342,16 +2352,6 @@
       "place": "37 km NNE of Amboy, Washington",
       "time": 1791480662000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714117981"
-    },
-    {
-      "id": "av94438783",
-      "lon": -153.080166666667,
-      "lat": 60.0396666666667,
-      "depth": -0.61,
-      "mag": -0.86,
-      "place": "63 km ENE of Pedro Bay, Alaska",
-      "time": 1791479752510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94438783"
     }
   ]
 }
