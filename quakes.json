@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-09T04:01:10Z",
-  "count": 218,
+  "updated": "2026-10-09T04:15:46Z",
+  "count": 216,
   "points": [
+    {
+      "id": "us6000u13l",
+      "lon": -84.8308,
+      "lat": 33.0962,
+      "depth": 9.861,
+      "mag": 1.7,
+      "place": "8 km S of Lone Oak, Georgia",
+      "time": 1791517652121,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13l"
+    },
     {
       "id": "aka2026tzhrbk",
       "lon": -150.87,
@@ -2152,36 +2162,6 @@
       "place": "14 km W of Four Mile Road, Alaska",
       "time": 1791433307982,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026txmwdf"
-    },
-    {
-      "id": "pr2026281000",
-      "lon": -68.0471,
-      "lat": 18.2653,
-      "depth": 61,
-      "mag": 3.59,
-      "place": "51 km SE of Punta Cana, Dominican Republic",
-      "time": 1791432752910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026281000"
-    },
-    {
-      "id": "aka2026txmfsg",
-      "lon": -156.676,
-      "lat": 56.378,
-      "depth": 21.2,
-      "mag": 2.2,
-      "place": "107 km E of Chignik, Alaska",
-      "time": 1791432175893,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026txmfsg"
-    },
-    {
-      "id": "aka2026txmfjs",
-      "lon": -142.732,
-      "lat": 60.759,
-      "depth": 2.1,
-      "mag": 0.9,
-      "place": "75 km S of McCarthy, Alaska",
-      "time": 1791432148563,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026txmfjs"
     }
   ]
 }
