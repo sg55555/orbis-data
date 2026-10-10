@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-10T22:15:41Z",
-  "count": 200,
+  "updated": "2026-10-10T22:30:55Z",
+  "count": 199,
   "points": [
+    {
+      "id": "ci41346247",
+      "lon": -116.6735,
+      "lat": 33.3345,
+      "depth": 12.37,
+      "mag": 0.35,
+      "place": "7 km NNW of Warner Springs, CA",
+      "time": 1791670497540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346247"
+    },
     {
       "id": "nc75447521",
       "lon": -122.80916595459,
@@ -1982,26 +1992,6 @@
       "place": "26 km WNW of Cohoe, Alaska",
       "time": 1791585446573,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uatksi"
-    },
-    {
-      "id": "aka2026uasvvq",
-      "lon": -148.946,
-      "lat": 63.968,
-      "depth": 5,
-      "mag": 2.3,
-      "place": "9 km ESE of Ferry, Alaska",
-      "time": 1791584419868,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uasvvq"
-    },
-    {
-      "id": "aka2026uasrgd",
-      "lon": -157.108,
-      "lat": 56.402,
-      "depth": 79.2,
-      "mag": 3,
-      "place": "81 km E of Chignik, Alaska",
-      "time": 1791584109665,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uasrgd"
     }
   ]
 }
