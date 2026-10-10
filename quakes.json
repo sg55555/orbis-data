@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-09T23:45:39Z",
-  "count": 267,
+  "updated": "2026-10-09T23:58:51Z",
+  "count": 266,
   "points": [
+    {
+      "id": "ci41345815",
+      "lon": -116.408,
+      "lat": 33.4838333333333,
+      "depth": 9.92,
+      "mag": 0.55,
+      "place": "22 km SSW of La Quinta, CA",
+      "time": 1791590013850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345815"
+    },
     {
       "id": "aka2026uavhxe",
       "lon": -149.635,
@@ -92,16 +102,6 @@
       "place": "2 km N of The Geysers, CA",
       "time": 1791586039510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447106"
-    },
-    {
-      "id": "nn00925554",
-      "lon": -115.0016,
-      "lat": 36.4085,
-      "depth": 3.0458,
-      "mag": 1.9,
-      "place": "18 km NNE of Nellis Air Force Base, Nevada",
-      "time": 1791585907051,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925554"
     },
     {
       "id": "aka2026uatksi",
@@ -1285,12 +1285,12 @@
     },
     {
       "id": "ci41345575",
-      "lon": -116.614,
-      "lat": 33.4175,
-      "depth": 7.61,
-      "mag": 0.28,
+      "lon": -116.613333333333,
+      "lat": 33.4183333333333,
+      "depth": 7.62,
+      "mag": 0.3,
       "place": "15 km N of Warner Springs, CA",
-      "time": 1791542137340,
+      "time": 1791542137350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345575"
     },
     {
@@ -2655,23 +2655,13 @@
     },
     {
       "id": "ci41345263",
-      "lon": -116.517666666667,
-      "lat": 33.1568333333333,
-      "depth": 4.66,
-      "mag": 0.38,
-      "place": "12 km NE of Julian, CA",
-      "time": 1791504023690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345263"
-    },
-    {
-      "id": "ci41345255",
-      "lon": -116.524833333333,
-      "lat": 33.1533333333333,
-      "depth": 6.83,
+      "lon": -116.523333333333,
+      "lat": 33.1565,
+      "depth": 6.3,
       "mag": 0.38,
       "place": "11 km NE of Julian, CA",
-      "time": 1791503837600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345255"
+      "time": 1791504023640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345263"
     }
   ]
 }
