@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-10T08:01:09Z",
-  "count": 256,
+  "updated": "2026-10-10T08:15:41Z",
+  "count": 254,
   "points": [
     {
       "id": "hv75053322",
@@ -74,6 +74,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ubkqwg"
     },
     {
+      "id": "us6000u1dc",
+      "lon": -80.5348,
+      "lat": 7.6182,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "6 km SSE of Llano de Piedra, Panama",
+      "time": 1791616410583,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dc"
+    },
+    {
       "id": "ci41345967",
       "lon": -117.196166666667,
       "lat": 34.0168333333333,
@@ -92,6 +102,16 @@
       "place": "20 km ESE of Julian, CA",
       "time": 1791615199960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345959"
+    },
+    {
+      "id": "us6000u1db",
+      "lon": -79.9613,
+      "lat": 7.4558,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "10 km SE of Pedasí, Panama",
+      "time": 1791614869431,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1db"
     },
     {
       "id": "nn00925582",
@@ -2522,46 +2542,6 @@
       "place": "4 km SW of Anderson Springs, CA",
       "time": 1791533803900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446841"
-    },
-    {
-      "id": "ci41345431",
-      "lon": -117.382333333333,
-      "lat": 35.9693333333333,
-      "depth": 2.33,
-      "mag": 1.2,
-      "place": "23 km N of Searles Valley, CA",
-      "time": 1791533546530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345431"
-    },
-    {
-      "id": "us6000u14e",
-      "lon": -178.3548,
-      "lat": -17.72,
-      "depth": 559.662,
-      "mag": 4.5,
-      "place": "249 km E of Levuka, Fiji",
-      "time": 1791533507203,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14e"
-    },
-    {
-      "id": "nc75446836",
-      "lon": -122.852996826172,
-      "lat": 38.8208351135254,
-      "depth": 2.47000002861023,
-      "mag": 0.74,
-      "place": "10 km WNW of The Geysers, CA",
-      "time": 1791533344070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446836"
-    },
-    {
-      "id": "nc75446831",
-      "lon": -122.720664978027,
-      "lat": 38.7565002441406,
-      "depth": 1.88999998569489,
-      "mag": 0.87,
-      "place": "3 km SW of Anderson Springs, CA",
-      "time": 1791533010720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446831"
     }
   ]
 }
