@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-10T11:45:39Z",
-  "count": 215,
+  "updated": "2026-10-10T12:01:13Z",
+  "count": 214,
   "points": [
+    {
+      "id": "nc75447321",
+      "lon": -122.792831420898,
+      "lat": 38.8113327026367,
+      "depth": 2.9300000667572,
+      "mag": 0.75,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1791632682490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447321"
+    },
     {
       "id": "ci41346023",
       "lon": -116.523166666667,
@@ -2132,26 +2142,6 @@
       "place": "7 km WNW of Fishhook, Alaska",
       "time": 1791547416613,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tzyhcu"
-    },
-    {
-      "id": "ci41345591",
-      "lon": -116.766333333333,
-      "lat": 33.5741666666667,
-      "depth": 12.12,
-      "mag": 1.7,
-      "place": "9 km WNW of Anza, CA",
-      "time": 1791546866420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345591"
-    },
-    {
-      "id": "aka2026tzxyjd",
-      "lon": -148.39,
-      "lat": 61.261,
-      "depth": 5.1,
-      "mag": 0.9,
-      "place": "35 km SE of Knik River, Alaska",
-      "time": 1791546810906,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tzxyjd"
     }
   ]
 }
