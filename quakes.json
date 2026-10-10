@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-10T05:01:08Z",
-  "count": 256,
+  "updated": "2026-10-10T05:15:41Z",
+  "count": 257,
   "points": [
+    {
+      "id": "hv75053267",
+      "lon": -155.366836547852,
+      "lat": 19.0571670532227,
+      "depth": 32.3199996948242,
+      "mag": 1.72,
+      "place": "19 km SE of Pāhala, Hawaii",
+      "time": 1791608503420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75053267"
+    },
     {
       "id": "hv75053257",
       "lon": -155.864669799805,
@@ -12,6 +22,16 @@
       "place": "16 km S of Honaunau-Napoopoo, Hawaii",
       "time": 1791607903910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75053257"
+    },
+    {
+      "id": "us6000u1cl",
+      "lon": 124.0625,
+      "lat": -8.8422,
+      "depth": 67.684,
+      "mag": 4.4,
+      "place": "53 km NW of Pante Makasar, Timor Leste",
+      "time": 1791607503982,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cl"
     },
     {
       "id": "us6000u1ck",
@@ -2552,16 +2572,6 @@
       "place": "south of the Fiji Islands",
       "time": 1791523024106,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13y"
-    },
-    {
-      "id": "us6000u13v",
-      "lon": 125.9365,
-      "lat": 0.7587,
-      "depth": 40.049,
-      "mag": 5.2,
-      "place": "117 km SE of Bitung, Indonesia",
-      "time": 1791522664200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13v"
     }
   ]
 }
