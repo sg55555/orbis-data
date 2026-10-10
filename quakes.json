@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-10T12:45:44Z",
-  "count": 209,
+  "updated": "2026-10-10T13:01:10Z",
+  "count": 210,
   "points": [
+    {
+      "id": "us6000u1em",
+      "lon": -80.9902,
+      "lat": 7.689,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "3 km SSW of Tebario, Panama",
+      "time": 1791635648871,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1em"
+    },
     {
       "id": "us6000u1ej",
       "lon": -177.5258,
@@ -164,6 +174,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447296"
     },
     {
+      "id": "us6000u1dx",
+      "lon": -80.0853,
+      "lat": 7.3754,
+      "depth": 10,
+      "mag": 4.2,
+      "place": "16 km SSE of Los Asientos, Panama",
+      "time": 1791625698975,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dx"
+    },
+    {
       "id": "us6000u1dy",
       "lon": 141.496,
       "lat": -2.8851,
@@ -212,6 +232,16 @@
       "place": "5 km NW of The Geysers, CA",
       "time": 1791622692050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447286"
+    },
+    {
+      "id": "pr71536358",
+      "lon": -67.4446666666667,
+      "lat": 18.9628333333333,
+      "depth": 18.79,
+      "mag": 3.04,
+      "place": "63 km NW of San Antonio, Puerto Rico",
+      "time": 1791622343140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536358"
     },
     {
       "id": "us6000u1dm",
@@ -2072,26 +2102,6 @@
       "place": "14 km ENE of Temecula, CA",
       "time": 1791551263150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345623"
-    },
-    {
-      "id": "nn00925518",
-      "lon": -117.8159,
-      "lat": 38.176,
-      "depth": 6.4168,
-      "mag": 2.75,
-      "place": "34 km SE of Mina, Nevada",
-      "time": 1791550794090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925518"
-    },
-    {
-      "id": "nc75446901",
-      "lon": -122.746002197266,
-      "lat": 38.7809982299805,
-      "depth": 0.670000016689301,
-      "mag": 1.02,
-      "place": "1 km ENE of The Geysers, CA",
-      "time": 1791550474500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446901"
     }
   ]
 }
