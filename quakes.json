@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-10T16:45:42Z",
-  "count": 214,
+  "updated": "2026-10-10T17:01:11Z",
+  "count": 213,
   "points": [
+    {
+      "id": "pr71536388",
+      "lon": -68.1685,
+      "lat": 18.7586666666667,
+      "depth": 83.51,
+      "mag": 3.35,
+      "place": "31 km NE of Punta Cana, Dominican Republic",
+      "time": 1791649948780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536388"
+    },
     {
       "id": "aka2026ucdaxw",
       "lon": -151.865,
@@ -62,6 +72,16 @@
       "place": "39 km WNW of Four Mile Road, Alaska",
       "time": 1791648738731,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uccpih"
+    },
+    {
+      "id": "us6000u1fk",
+      "lon": -80.4282,
+      "lat": 7.4596,
+      "depth": 13.518,
+      "mag": 4.7,
+      "place": "2 km WNW of El Cacao, Panama",
+      "time": 1791648342775,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1fk"
     },
     {
       "id": "ci41346127",
@@ -2112,36 +2132,6 @@
       "place": "8 km N of Anza, CA",
       "time": 1791565656880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345735"
-    },
-    {
-      "id": "tx2026txcwrp",
-      "lon": -101.648,
-      "lat": 32.379,
-      "depth": 7.2021,
-      "mag": 0.7,
-      "place": "17 km SSE of Ackerly, Texas",
-      "time": 1791565228851,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026txcwrp"
-    },
-    {
-      "id": "us6000u18d",
-      "lon": 160.1309,
-      "lat": 52.2214,
-      "depth": 33.508,
-      "mag": 4.7,
-      "place": "138 km SE of Petropavlovsk-Kamchatsky, Russia",
-      "time": 1791565175349,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18d"
-    },
-    {
-      "id": "nc75446946",
-      "lon": -122.784164428711,
-      "lat": 38.8375015258789,
-      "depth": 2.03999996185303,
-      "mag": 0.44,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1791564494790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446946"
     }
   ]
 }
