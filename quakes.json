@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-10T01:01:29Z",
-  "count": 264,
+  "updated": "2026-10-10T01:15:42Z",
+  "count": 262,
   "points": [
+    {
+      "id": "aka2026uaynmr",
+      "lon": -152.27,
+      "lat": 61.026,
+      "depth": 115.8,
+      "mag": 1.8,
+      "place": "61 km W of Tyonek, Alaska",
+      "time": 1791594635865,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uaynmr"
+    },
+    {
+      "id": "nc75447161",
+      "lon": -122.806663513184,
+      "lat": 38.8271675109863,
+      "depth": 0.280000001192093,
+      "mag": 0.76,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1791594563220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447161"
+    },
     {
       "id": "ci41345847",
       "lon": -117.199,
@@ -712,6 +732,16 @@
       "place": "49 km E of Big Pine, California",
       "time": 1791567409102,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925533"
+    },
+    {
+      "id": "av94439818",
+      "lon": -154.987166666667,
+      "lat": 58.2615,
+      "depth": 4.49,
+      "mag": -0.11,
+      "place": "83 km NNW of Karluk, Alaska",
+      "time": 1791567401610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94439818"
     },
     {
       "id": "ci41345751",
@@ -2592,56 +2622,6 @@
       "place": "9 km SW of Guánica, Puerto Rico",
       "time": 1791509485900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536153"
-    },
-    {
-      "id": "ci41345303",
-      "lon": -116.833166666667,
-      "lat": 33.294,
-      "depth": 16.11,
-      "mag": 0.44,
-      "place": "7 km SSE of Palomar Observatory, CA",
-      "time": 1791508252700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345303"
-    },
-    {
-      "id": "ci41345295",
-      "lon": -116.706166666667,
-      "lat": 33.6448333333333,
-      "depth": 15.41,
-      "mag": 0.84,
-      "place": "10 km NNW of Anza, CA",
-      "time": 1791508152990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345295"
-    },
-    {
-      "id": "nc75446716",
-      "lon": -122.817497253418,
-      "lat": 38.8141670227051,
-      "depth": 2.70000004768372,
-      "mag": 0.75,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1791507757600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446716"
-    },
-    {
-      "id": "ci41345287",
-      "lon": -114.520666666667,
-      "lat": 31.542,
-      "depth": 9.97,
-      "mag": 3.14,
-      "place": "86 km SSE of Estacion Coahuila, B.C., MX",
-      "time": 1791507692900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345287"
-    },
-    {
-      "id": "nc75446711",
-      "lon": -122.735496520996,
-      "lat": 38.7765007019043,
-      "depth": 2.13000011444092,
-      "mag": 1.05,
-      "place": "2 km E of The Geysers, CA",
-      "time": 1791507675200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446711"
     }
   ]
 }
