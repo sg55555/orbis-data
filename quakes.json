@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-10T06:01:12Z",
-  "count": 248,
+  "updated": "2026-10-10T06:15:41Z",
+  "count": 249,
   "points": [
+    {
+      "id": "ci41345935",
+      "lon": -116.265666666667,
+      "lat": 33.0983333333333,
+      "depth": 11.96,
+      "mag": 0.65,
+      "place": "13 km WSW of Ocotillo Wells, CA",
+      "time": 1791612138950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345935"
+    },
+    {
+      "id": "ci41345927",
+      "lon": -116.986833333333,
+      "lat": 34.0196666666667,
+      "depth": 18.01,
+      "mag": 1.88,
+      "place": "5 km ESE of Yucaipa, CA",
+      "time": 1791611952080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345927"
+    },
     {
       "id": "ci41345919",
       "lon": -119.407833333333,
@@ -42,6 +62,16 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1791609875260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447231"
+    },
+    {
+      "id": "us6000u1cs",
+      "lon": -81.3734,
+      "lat": 7.5274,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "21 km SSW of Río Grande, Panama",
+      "time": 1791609667987,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cs"
     },
     {
       "id": "hv75053267",
@@ -2462,26 +2492,6 @@
       "place": "23 km NE of Honaunau-Napoopoo, Hawaii",
       "time": 1791527246090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75052572"
-    },
-    {
-      "id": "ci41345391",
-      "lon": -115.840666666667,
-      "lat": 32.7761666666667,
-      "depth": 3.78,
-      "mag": 1.5,
-      "place": "15 km ENE of Ocotillo, CA",
-      "time": 1791526133150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345391"
-    },
-    {
-      "id": "tx2026twhaqw",
-      "lon": -101.081,
-      "lat": 32.137,
-      "depth": 4.248,
-      "mag": 1.5,
-      "place": "25 km SSW of Westbrook, Texas",
-      "time": 1791525682465,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026twhaqw"
     }
   ]
 }
