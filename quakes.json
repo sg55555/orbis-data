@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-10T19:01:09Z",
-  "count": 212,
+  "updated": "2026-10-10T19:15:42Z",
+  "count": 213,
   "points": [
+    {
+      "id": "hv75053607",
+      "lon": -155.274673461914,
+      "lat": 19.3833332061768,
+      "depth": -0.389999985694885,
+      "mag": 1.89,
+      "place": "7 km SSW of Volcano, Hawaii",
+      "time": 1791659462110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75053607"
+    },
+    {
+      "id": "hv75053602",
+      "lon": -155.593170166016,
+      "lat": 19.429500579834,
+      "depth": 39.7299995422363,
+      "mag": 2.24,
+      "place": "27 km NNW of Pāhala, Hawaii",
+      "time": 1791658950020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75053602"
+    },
     {
       "id": "aka2026uchzpp",
       "lon": -157.527,
@@ -312,6 +332,16 @@
       "place": "11 km N of Borrego Springs, CA",
       "time": 1791645220660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346103"
+    },
+    {
+      "id": "us6000u1fa",
+      "lon": 151.9827,
+      "lat": -3.7668,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "51 km NNW of Rabaul, Papua New Guinea",
+      "time": 1791645020183,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1fa"
     },
     {
       "id": "hv75053487",
@@ -2102,26 +2132,6 @@
       "place": "14 km SSW of Tebario, Panama",
       "time": 1791573442610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u198"
-    },
-    {
-      "id": "us6000u197",
-      "lon": -81.2492,
-      "lat": 7.6161,
-      "depth": 10,
-      "mag": 5,
-      "place": "14 km SE of Río Grande, Panama",
-      "time": 1791572689305,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u197"
-    },
-    {
-      "id": "tx2026txgzbt",
-      "lon": -103.345,
-      "lat": 30.933,
-      "depth": 9.7144,
-      "mag": 2.2,
-      "place": "38 km E of Balmorhea, Texas",
-      "time": 1791572648877,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026txgzbt"
     }
   ]
 }
