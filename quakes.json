@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-10T02:30:59Z",
+  "updated": "2026-10-10T02:45:41Z",
   "count": 259,
   "points": [
+    {
+      "id": "us6000u1bu",
+      "lon": -80.4348,
+      "lat": 7.4178,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "1 km NNE of Tonosí, Panama",
+      "time": 1791599192740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bu"
+    },
     {
       "id": "ci41345863",
       "lon": -117.796833333333,
@@ -112,6 +122,16 @@
       "place": "56 km WNW of Nikiski, Alaska",
       "time": 1791593229842,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uaxtec"
+    },
+    {
+      "id": "us6000u1bg",
+      "lon": -80.0092,
+      "lat": 7.5127,
+      "depth": 10,
+      "mag": 4,
+      "place": "2 km SE of Pedasí, Panama",
+      "time": 1791593120511,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bg"
     },
     {
       "id": "us6000u1bh",
@@ -2572,26 +2592,6 @@
       "place": "51 km E of Egegik, Alaska",
       "time": 1791514048073,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tzfsxe"
-    },
-    {
-      "id": "av94439058",
-      "lon": -154.987666666667,
-      "lat": 58.2903333333333,
-      "depth": 3.27,
-      "mag": -0.1,
-      "place": "86 km NNW of Karluk, Alaska",
-      "time": 1791513444310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94439058"
-    },
-    {
-      "id": "us6000u13c",
-      "lon": 137.6688,
-      "lat": 40.2927,
-      "depth": 269.153,
-      "mag": 4.2,
-      "place": "195 km WSW of Fukaura, Japan",
-      "time": 1791513418008,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13c"
     }
   ]
 }
