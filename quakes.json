@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-10T06:30:58Z",
-  "count": 253,
+  "updated": "2026-10-10T06:45:39Z",
+  "count": 254,
   "points": [
+    {
+      "id": "ci41345951",
+      "lon": -116.715833333333,
+      "lat": 33.6515,
+      "depth": 13.43,
+      "mag": 0.64,
+      "place": "10 km S of Idyllwild, CA",
+      "time": 1791613819810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345951"
+    },
+    {
+      "id": "hv75053307",
+      "lon": -155.783996582031,
+      "lat": 20.1066665649414,
+      "depth": 26.5300006866455,
+      "mag": 2.01,
+      "place": "14 km S of Kapaau, Hawaii",
+      "time": 1791613632390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75053307"
+    },
     {
       "id": "nc75447251",
       "lon": -122.807830810547,
@@ -12,6 +32,16 @@
       "place": "8 km WNW of Cobb, CA",
       "time": 1791613284100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447251"
+    },
+    {
+      "id": "us6000u1d2",
+      "lon": -80.3171,
+      "lat": 7.3663,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "10 km SSW of Cañas, Panama",
+      "time": 1791613135288,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1d2"
     },
     {
       "id": "ci41345943",
@@ -2512,26 +2542,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1791528465680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446801"
-    },
-    {
-      "id": "tx2026twiisr",
-      "lon": -100.67,
-      "lat": 32.766,
-      "depth": 5.5908,
-      "mag": 1,
-      "place": "16 km NNE of Hermleigh, Texas",
-      "time": 1791528051235,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026twiisr"
-    },
-    {
-      "id": "nc75446791",
-      "lon": -122.814163208008,
-      "lat": 38.8294982910156,
-      "depth": 1.37999999523163,
-      "mag": 0.22,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1791527974750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446791"
     }
   ]
 }
