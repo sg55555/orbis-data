@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-10T01:45:41Z",
-  "count": 262,
+  "updated": "2026-10-10T02:01:08Z",
+  "count": 263,
   "points": [
+    {
+      "id": "nc75447181",
+      "lon": -120.758834838867,
+      "lat": 39.9933319091797,
+      "depth": -0.860000014305115,
+      "mag": 2.43,
+      "place": "10 km N of Greenhorn, CA",
+      "time": 1791596766760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447181"
+    },
     {
       "id": "nc75447176",
       "lon": -122.852668762207,
@@ -22,6 +32,16 @@
       "place": "16 km SSW of Oasis, CA",
       "time": 1791596312430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345855"
+    },
+    {
+      "id": "us6000u1bp",
+      "lon": -81.3237,
+      "lat": 7.6272,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "10 km S of Río Grande, Panama",
+      "time": 1791596147527,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp"
     },
     {
       "id": "us6000u1bl",
@@ -254,6 +274,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447106"
     },
     {
+      "id": "av94440568",
+      "lon": -154.952333333333,
+      "lat": 58.2778333333333,
+      "depth": 2.85,
+      "mag": 0.21,
+      "place": "84 km NNW of Karluk, Alaska",
+      "time": 1791585795270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94440568"
+    },
+    {
       "id": "aka2026uatksi",
       "lon": -151.77,
       "lat": 60.422,
@@ -292,6 +322,16 @@
       "place": "7 km ENE of Fox, Alaska",
       "time": 1791583777404,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uasmoj"
+    },
+    {
+      "id": "av94440443",
+      "lon": -153.102666666667,
+      "lat": 60.0441666666667,
+      "depth": 4.41,
+      "mag": -0.31,
+      "place": "63 km ENE of Pedro Bay, Alaska",
+      "time": 1791583616360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94440443"
     },
     {
       "id": "aka2026uasjzd",
@@ -2592,36 +2632,6 @@
       "place": "51 km SSW of Cantwell, Alaska",
       "time": 1791511373279,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tzeggh"
-    },
-    {
-      "id": "ci41345335",
-      "lon": -116.962833333333,
-      "lat": 33.9636666666667,
-      "depth": 8.17,
-      "mag": 1.67,
-      "place": "4 km NNE of Beaumont, CA",
-      "time": 1791510660060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345335"
-    },
-    {
-      "id": "nc75446721",
-      "lon": -122.792831420898,
-      "lat": 38.8361663818359,
-      "depth": 1.75999999046326,
-      "mag": 0.96,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1791510626520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446721"
-    },
-    {
-      "id": "aka2026tzdtlm",
-      "lon": -154.003,
-      "lat": 58.391,
-      "depth": 86.4,
-      "mag": 1.9,
-      "place": "74 km WNW of Aleneva, Alaska",
-      "time": 1791510486309,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tzdtlm"
     }
   ]
 }
