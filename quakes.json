@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-10T22:30:55Z",
-  "count": 199,
+  "updated": "2026-10-10T22:45:43Z",
+  "count": 201,
   "points": [
+    {
+      "id": "uw714118192",
+      "lon": -121.646331787109,
+      "lat": 47.8574981689453,
+      "depth": 6.23999977111816,
+      "mag": 1.75372219085693,
+      "place": "1 km ENE of May Creek, Washington",
+      "time": 1791671656790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118192"
+    },
+    {
+      "id": "aka2026ucpftx",
+      "lon": -151.696,
+      "lat": 61.054,
+      "depth": 83.1,
+      "mag": 1.5,
+      "place": "30 km W of Tyonek, Alaska",
+      "time": 1791671467224,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ucpftx"
+    },
     {
       "id": "ci41346247",
       "lon": -116.6735,
@@ -392,6 +412,16 @@
       "place": "10 km SE of Winchester, CA",
       "time": 1791651547790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346143"
+    },
+    {
+      "id": "aka2026uceciq",
+      "lon": -158.81,
+      "lat": 55.917,
+      "depth": 83.3,
+      "mag": 1.8,
+      "place": "20 km E of Perryville, Alaska",
+      "time": 1791651462041,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uceciq"
     },
     {
       "id": "pr71536388",
@@ -1334,6 +1364,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447246"
     },
     {
+      "id": "aka2026ubitvo",
+      "lon": -163.884,
+      "lat": 54.382,
+      "depth": 78.9,
+      "mag": 2.5,
+      "place": "60 km SSW of False Pass, Alaska",
+      "time": 1791613068108,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ubitvo"
+    },
+    {
       "id": "us6000u1d1",
       "lon": -79.9478,
       "lat": 7.3167,
@@ -1972,26 +2012,6 @@
       "place": "2 km N of The Geysers, CA",
       "time": 1791586039510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447106"
-    },
-    {
-      "id": "av94440568",
-      "lon": -154.952333333333,
-      "lat": 58.2778333333333,
-      "depth": 2.85,
-      "mag": 0.21,
-      "place": "84 km NNW of Karluk, Alaska",
-      "time": 1791585795270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94440568"
-    },
-    {
-      "id": "aka2026uatksi",
-      "lon": -151.77,
-      "lat": 60.422,
-      "depth": 75,
-      "mag": 1.8,
-      "place": "26 km WNW of Cohoe, Alaska",
-      "time": 1791585446573,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uatksi"
     }
   ]
 }
