@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-10T13:15:41Z",
-  "count": 211,
+  "updated": "2026-10-10T13:30:57Z",
+  "count": 212,
   "points": [
+    {
+      "id": "nc75447336",
+      "lon": -122.878997802734,
+      "lat": 38.8436660766602,
+      "depth": 2.08999991416931,
+      "mag": 1.15,
+      "place": "13 km ENE of Cloverdale, CA",
+      "time": 1791638883460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447336"
+    },
     {
       "id": "hv75053412",
       "lon": -154.802505493164,
@@ -32,6 +42,16 @@
       "place": "3 km SSW of Tebario, Panama",
       "time": 1791635648871,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1em"
+    },
+    {
+      "id": "us6000u1es",
+      "lon": -176.3385,
+      "lat": 50.3761,
+      "depth": 10,
+      "mag": 4.2,
+      "place": "167 km S of Adak, Alaska",
+      "time": 1791635441055,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1es"
     },
     {
       "id": "us6000u1ej",
@@ -2102,16 +2122,6 @@
       "place": "58 km NW of Toyah, Texas",
       "time": 1791552664341,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026twvyed"
-    },
-    {
-      "id": "ci41345631",
-      "lon": -116.2525,
-      "lat": 33.1755,
-      "depth": 10.32,
-      "mag": 1.22,
-      "place": "12 km WNW of Ocotillo Wells, CA",
-      "time": 1791552556950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345631"
     }
   ]
 }
