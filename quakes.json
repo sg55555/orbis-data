@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-10T00:15:42Z",
+  "updated": "2026-10-10T00:30:55Z",
   "count": 262,
   "points": [
+    {
+      "id": "ci41345823",
+      "lon": -116.7185,
+      "lat": 34.0926666666667,
+      "depth": 12.03,
+      "mag": 1.64,
+      "place": "14 km WNW of Morongo Valley, CA",
+      "time": 1791591563930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345823"
+    },
     {
       "id": "aka2026uawbny",
       "lon": -151.372,
@@ -12,6 +22,16 @@
       "place": "31 km W of Petersville, Alaska",
       "time": 1791590208883,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uawbny"
+    },
+    {
+      "id": "us6000u1b3",
+      "lon": -79.8903,
+      "lat": 7.1444,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "45 km SSE of Pedasí, Panama",
+      "time": 1791590062924,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1b3"
     },
     {
       "id": "ci41345815",
@@ -2602,26 +2622,6 @@
       "place": "8 km WSW of Orderville, Utah",
       "time": 1791505867410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80158836"
-    },
-    {
-      "id": "nc75446686",
-      "lon": -122.816497802734,
-      "lat": 38.8146667480469,
-      "depth": 2.85999989509583,
-      "mag": 0.75,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1791505163880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446686"
-    },
-    {
-      "id": "nc75446681",
-      "lon": -122.81583404541,
-      "lat": 38.8133316040039,
-      "depth": 2.47000002861023,
-      "mag": 1.84,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1791505069020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446681"
     }
   ]
 }
