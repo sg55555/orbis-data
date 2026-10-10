@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-10T20:40:19Z",
-  "count": 203,
+  "updated": "2026-10-10T20:45:39Z",
+  "count": 202,
   "points": [
+    {
+      "id": "nc75447476",
+      "lon": -122.750335693359,
+      "lat": 38.7881660461426,
+      "depth": 0.509999990463257,
+      "mag": 1.77,
+      "place": "1 km NNE of The Geysers, CA",
+      "time": 1791664994960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447476"
+    },
     {
       "id": "aka2026ucldth",
       "lon": -154.914,
@@ -2012,26 +2022,6 @@
       "place": "16 km SSW of Calidonia, Panama",
       "time": 1791579296367,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1a6"
-    },
-    {
-      "id": "us6000u1aa",
-      "lon": -81.4589,
-      "lat": 7.7249,
-      "depth": 10,
-      "mag": 5,
-      "place": "13 km W of Río Grande, Panama",
-      "time": 1791578528725,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1aa"
-    },
-    {
-      "id": "us6000u1a5",
-      "lon": -81.0923,
-      "lat": 7.6771,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "8 km SSE of Leones Arriba, Panama",
-      "time": 1791578464293,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1a5"
     }
   ]
 }
