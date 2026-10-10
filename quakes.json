@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-10T13:01:10Z",
-  "count": 210,
+  "updated": "2026-10-10T13:15:41Z",
+  "count": 211,
   "points": [
+    {
+      "id": "hv75053412",
+      "lon": -154.802505493164,
+      "lat": 18.5401668548584,
+      "depth": 13.8100004196167,
+      "mag": 2.04,
+      "place": "100 km SE of Naalehu, Hawaii",
+      "time": 1791637474250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75053412"
+    },
+    {
+      "id": "hv75053402",
+      "lon": -155.664169311523,
+      "lat": 19.4646663665771,
+      "depth": -3.27999997138977,
+      "mag": 1.78,
+      "place": "21 km E of Honaunau-Napoopoo, Hawaii",
+      "time": 1791637120080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75053402"
+    },
     {
       "id": "us6000u1em",
       "lon": -80.9902,
@@ -52,6 +72,16 @@
       "place": "3 km WSW of Anza, CA",
       "time": 1791633887500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346031"
+    },
+    {
+      "id": "us6000u1ed",
+      "lon": 110.7179,
+      "lat": -8.757,
+      "depth": 68.816,
+      "mag": 4.3,
+      "place": "88 km S of Wonosari, Indonesia",
+      "time": 1791633199266,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ed"
     },
     {
       "id": "nc75447321",
@@ -152,6 +182,16 @@
       "place": "30 km ENE of Manley Hot Springs, Alaska",
       "time": 1791627134403,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ubqpda"
+    },
+    {
+      "id": "us6000u1e1",
+      "lon": 149.2865,
+      "lat": -6.3313,
+      "depth": 56.818,
+      "mag": 4.4,
+      "place": "32 km WSW of Kandrian, Papua New Guinea",
+      "time": 1791627078751,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1e1"
     },
     {
       "id": "nc75447301",
@@ -2072,36 +2112,6 @@
       "place": "12 km WNW of Ocotillo Wells, CA",
       "time": 1791552556950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345631"
-    },
-    {
-      "id": "aka2026uaanjp",
-      "lon": -152.119,
-      "lat": 59.961,
-      "depth": 76,
-      "mag": 1.8,
-      "place": "21 km W of Happy Valley, Alaska",
-      "time": 1791551450897,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uaanjp"
-    },
-    {
-      "id": "ok2026tukj",
-      "lon": -97.774,
-      "lat": 34.9775,
-      "depth": 7.89,
-      "mag": 2.03,
-      "place": "6 km N of Alex, Oklahoma",
-      "time": 1791551369570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026tukj"
-    },
-    {
-      "id": "ci41345623",
-      "lon": -117.003666666667,
-      "lat": 33.5276666666667,
-      "depth": 2.76,
-      "mag": 0.94,
-      "place": "14 km ENE of Temecula, CA",
-      "time": 1791551263150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345623"
     }
   ]
 }
