@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-10T07:30:55Z",
-  "count": 258,
+  "updated": "2026-10-10T07:45:42Z",
+  "count": 259,
   "points": [
+    {
+      "id": "hv75053322",
+      "lon": -155.498504638672,
+      "lat": 19.1671657562256,
+      "depth": 29.1499996185303,
+      "mag": 2.23,
+      "place": "4 km SSW of Pāhala, Hawaii",
+      "time": 1791617372620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75053322"
+    },
+    {
+      "id": "nc75447261",
+      "lon": -122.845832824707,
+      "lat": 38.8241653442383,
+      "depth": 1.63999998569489,
+      "mag": 0.47,
+      "place": "9 km NW of The Geysers, CA",
+      "time": 1791617359640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447261"
+    },
+    {
+      "id": "us6000u1df",
+      "lon": -80.5839,
+      "lat": 7.6534,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "2 km WSW of Llano de Piedra, Panama",
+      "time": 1791617075015,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1df"
+    },
     {
       "id": "ci41345991",
       "lon": -116.660166666667,
@@ -152,6 +182,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1791613075510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447246"
+    },
+    {
+      "id": "us6000u1d1",
+      "lon": -79.9478,
+      "lat": 7.3167,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "25 km SSE of Pedasí, Panama",
+      "time": 1791612992545,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1d1"
     },
     {
       "id": "nc75447241",
@@ -2552,36 +2592,6 @@
       "place": "19 km ESE of Anza, CA",
       "time": 1791532123310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345423"
-    },
-    {
-      "id": "ci41345415",
-      "lon": -118.1845,
-      "lat": 33.7875,
-      "depth": 12,
-      "mag": 3.16,
-      "place": "2 km SW of Signal Hill, CA",
-      "time": 1791531857430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345415"
-    },
-    {
-      "id": "aka2026tzpnam",
-      "lon": -153.029,
-      "lat": 60.078,
-      "depth": 5.7,
-      "mag": 0.2,
-      "place": "68 km ENE of Pedro Bay, Alaska",
-      "time": 1791531632951,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tzpnam"
-    },
-    {
-      "id": "tx2026twkfvh",
-      "lon": -98.961,
-      "lat": 28.846,
-      "depth": 7.7757,
-      "mag": 1.7,
-      "place": "14 km ESE of Pearsall, Texas",
-      "time": 1791531467142,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026twkfvh"
     }
   ]
 }
