@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-11T20:15:41Z",
-  "count": 175,
+  "updated": "2026-10-11T20:31:00Z",
+  "count": 174,
   "points": [
+    {
+      "id": "aka2026uehbus",
+      "lon": -151.217,
+      "lat": 62.234,
+      "depth": 76.6,
+      "mag": 2.7,
+      "place": "28 km NNE of Skwentna, Alaska",
+      "time": 1791750356622,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uehbus"
+    },
     {
       "id": "hv75054142",
       "lon": -155.080169677734,
@@ -735,12 +745,12 @@
     },
     {
       "id": "ci41346407",
-      "lon": -117.589166666667,
-      "lat": 35.776,
-      "depth": 2.49,
-      "mag": 1.06,
+      "lon": -117.5885,
+      "lat": 35.7785,
+      "depth": 7.2,
+      "mag": 1.08,
       "place": "17 km W of Searles Valley, CA",
-      "time": 1791715696530,
+      "time": 1791715696670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346407"
     },
     {
@@ -1732,26 +1742,6 @@
       "place": "Kermadec Islands region",
       "time": 1791664548751,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1gm"
-    },
-    {
-      "id": "aka2026ucldth",
-      "lon": -154.914,
-      "lat": 58.266,
-      "depth": 5,
-      "mag": 0.9,
-      "place": "82 km NNW of Karluk, Alaska",
-      "time": 1791664130584,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ucldth"
-    },
-    {
-      "id": "ci41346223",
-      "lon": -116.4505,
-      "lat": 33.4756666666667,
-      "depth": 10.64,
-      "mag": 1.67,
-      "place": "22 km ESE of Anza, CA",
-      "time": 1791663441280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346223"
     }
   ]
 }
