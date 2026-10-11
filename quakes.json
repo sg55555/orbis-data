@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-10T23:45:39Z",
-  "count": 199,
+  "updated": "2026-10-11T00:01:14Z",
+  "count": 198,
   "points": [
+    {
+      "id": "nc75447546",
+      "lon": -117.987503051758,
+      "lat": 37.3193321228027,
+      "depth": 0.610000014305115,
+      "mag": 2.18,
+      "place": "6 km S of Deep Springs, CA",
+      "time": 1791676611430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447546"
+    },
+    {
+      "id": "uw714118232",
+      "lon": -121.74333190918,
+      "lat": 46.8571662902832,
+      "depth": -1.91999995708466,
+      "mag": 0.769999981,
+      "place": "24 km ENE of Ashford, Washington",
+      "time": 1791676120960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118232"
+    },
     {
       "id": "aka2026ucrphh",
       "lon": -151.02,
-      "lat": 62.865,
-      "depth": 111.3,
-      "mag": 2.9,
+      "lat": 62.871,
+      "depth": 113.1,
+      "mag": 3.1,
       "place": "43 km NNW of Petersville, Alaska",
-      "time": 1791675723217,
+      "time": 1791675723290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ucrphh"
     },
     {
@@ -82,6 +102,16 @@
       "place": "1 km ENE of May Creek, Washington",
       "time": 1791671656790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118192"
+    },
+    {
+      "id": "us6000u1h4",
+      "lon": 26.5886,
+      "lat": 35.4717,
+      "depth": 10,
+      "mag": 4.2,
+      "place": "31 km WNW of Fry, Greece",
+      "time": 1791671608087,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1h4"
     },
     {
       "id": "aka2026ucpftx",
@@ -1952,46 +1982,6 @@
       "place": "5 km SW of Cañas, Panama",
       "time": 1791590584799,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1b5"
-    },
-    {
-      "id": "us6000u1b4",
-      "lon": -81.4599,
-      "lat": 7.7378,
-      "depth": 10,
-      "mag": 4.7,
-      "place": "14 km W of Río Grande, Panama",
-      "time": 1791590258179,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1b4"
-    },
-    {
-      "id": "aka2026uawbny",
-      "lon": -151.372,
-      "lat": 62.545,
-      "depth": 86.4,
-      "mag": 1.8,
-      "place": "31 km W of Petersville, Alaska",
-      "time": 1791590208883,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uawbny"
-    },
-    {
-      "id": "us6000u1b3",
-      "lon": -79.8903,
-      "lat": 7.1444,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "45 km SSE of Pedasí, Panama",
-      "time": 1791590062924,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1b3"
-    },
-    {
-      "id": "ci41345815",
-      "lon": -116.408,
-      "lat": 33.4838333333333,
-      "depth": 9.92,
-      "mag": 0.55,
-      "place": "22 km SSW of La Quinta, CA",
-      "time": 1791590013850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345815"
     }
   ]
 }
