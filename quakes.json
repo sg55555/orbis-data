@@ -1,14 +1,24 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-11T08:30:59Z",
-  "count": 178,
+  "updated": "2026-10-11T08:45:44Z",
+  "count": 177,
   "points": [
+    {
+      "id": "aka2026udjjwj",
+      "lon": -147.634,
+      "lat": 63.465,
+      "depth": 3,
+      "mag": 2,
+      "place": "66 km E of Cantwell, Alaska",
+      "time": 1791707734226,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026udjjwj"
+    },
     {
       "id": "aka2026udjcmd",
       "lon": -155.693,
       "lat": 58.459,
       "depth": 152.8,
-      "mag": 3.1,
+      "mag": 3.4,
       "place": "61 km ESE of King Salmon, Alaska",
       "time": 1791707226559,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026udjcmd"
@@ -32,6 +42,16 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1791706852190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447681"
+    },
+    {
+      "id": "pr71536458",
+      "lon": -66.9401666666667,
+      "lat": 18.0156666666667,
+      "depth": 4.78,
+      "mag": 1.46,
+      "place": "3 km S of Liborio Negron Torres, Puerto Rico",
+      "time": 1791706239000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536458"
     },
     {
       "id": "pr71536448",
@@ -1752,36 +1772,6 @@
       "place": "63 km NW of San Antonio, Puerto Rico",
       "time": 1791622343140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536358"
-    },
-    {
-      "id": "us6000u1dm",
-      "lon": -173.7816,
-      "lat": -15.397,
-      "depth": 79.424,
-      "mag": 4.5,
-      "place": "61 km N of Hihifo, Tonga",
-      "time": 1791621530674,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dm"
-    },
-    {
-      "id": "ci41345999",
-      "lon": -116.944166666667,
-      "lat": 33.343,
-      "depth": 15.43,
-      "mag": 1.73,
-      "place": "8 km W of Palomar Observatory, CA",
-      "time": 1791621138350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345999"
-    },
-    {
-      "id": "aka2026ubngcd",
-      "lon": -149.746,
-      "lat": 61.581,
-      "depth": 22.8,
-      "mag": 2.2,
-      "place": "6 km SE of Houston, Alaska",
-      "time": 1791621112119,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ubngcd"
     }
   ]
 }
