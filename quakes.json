@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-11T14:30:59Z",
-  "count": 185,
+  "updated": "2026-10-11T14:45:40Z",
+  "count": 182,
   "points": [
     {
+      "id": "ci41346431",
+      "lon": -116.912,
+      "lat": 33.7798333333333,
+      "depth": 11.84,
+      "mag": 0.91,
+      "place": "4 km NNW of Valle Vista, CA",
+      "time": 1791729126550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346431"
+    },
+    {
       "id": "aka2026udvdhv",
-      "lon": -151.052,
-      "lat": 61.32,
-      "depth": 61.7,
-      "mag": 1.8,
-      "place": "20 km N of Beluga, Alaska",
-      "time": 1791728871637,
+      "lon": -151.039,
+      "lat": 61.308,
+      "depth": 58.9,
+      "mag": 2,
+      "place": "18 km N of Beluga, Alaska",
+      "time": 1791728871854,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026udvdhv"
     },
     {
@@ -1015,12 +1025,12 @@
     },
     {
       "id": "uw714118242",
-      "lon": -121.931831359863,
-      "lat": 46.6606674194336,
-      "depth": 3.47000002861023,
-      "mag": 1.52415990829468,
+      "lon": -121.931166666667,
+      "lat": 46.6605,
+      "depth": 5.75,
+      "mag": 1.3,
       "place": "13 km SE of Ashford, Washington",
-      "time": 1791678500300,
+      "time": 1791678500210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118242"
     },
     {
@@ -1812,46 +1822,6 @@
       "place": "7 km ESE of Bainbridge Island, Washington",
       "time": 1791643713640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714117952"
-    },
-    {
-      "id": "ci41346087",
-      "lon": -116.71,
-      "lat": 33.533,
-      "depth": 5.03,
-      "mag": 1.1,
-      "place": "4 km SW of Anza, CA",
-      "time": 1791643269730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346087"
-    },
-    {
-      "id": "nc75447366",
-      "lon": -122.80549621582,
-      "lat": 38.8255004882812,
-      "depth": 2.50999999046326,
-      "mag": 0.72,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1791643203290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447366"
-    },
-    {
-      "id": "nc75447361",
-      "lon": -122.804496765137,
-      "lat": 38.8251647949219,
-      "depth": 2.50999999046326,
-      "mag": 1.74,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1791643171270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447361"
-    },
-    {
-      "id": "us6000u1f1",
-      "lon": 78.5848,
-      "lat": 30.8049,
-      "depth": 22.021,
-      "mag": 4.4,
-      "place": "15 km ENE of Uttarkāshi, India",
-      "time": 1791643051499,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1f1"
     }
   ]
 }
