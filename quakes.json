@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-11T07:45:41Z",
-  "count": 171,
+  "updated": "2026-10-11T08:01:07Z",
+  "count": 172,
   "points": [
+    {
+      "id": "aka2026udhwdb",
+      "lon": -146.505,
+      "lat": 61.144,
+      "depth": 19.3,
+      "mag": 1.5,
+      "place": "8 km W of Valdez, Alaska",
+      "time": 1791704983916,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026udhwdb"
+    },
     {
       "id": "aka2026udhitq",
       "lon": -148.731,
@@ -22,6 +32,16 @@
       "place": "9 km WNW of Anza, CA",
       "time": 1791703998980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346367"
+    },
+    {
+      "id": "us6000u1j3",
+      "lon": 179.9648,
+      "lat": -23.6919,
+      "depth": 546.339,
+      "mag": 4.5,
+      "place": "south of the Fiji Islands",
+      "time": 1791703732878,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1j3"
     },
     {
       "id": "ci41346359",
@@ -1702,16 +1722,6 @@
       "place": "9 km NNE of Pāhala, Hawaii",
       "time": 1791621002870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75053347"
-    },
-    {
-      "id": "us6000u1dh",
-      "lon": -92.7794,
-      "lat": 17.8191,
-      "depth": 10,
-      "mag": 4.2,
-      "place": "4 km W of Aquiles Serdán 1ra. Sección, Mexico",
-      "time": 1791618420391,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dh"
     }
   ]
 }
