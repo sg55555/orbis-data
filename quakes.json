@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-11T05:30:57Z",
-  "count": 188,
+  "updated": "2026-10-11T05:56:10Z",
+  "count": 187,
   "points": [
+    {
+      "id": "ci41346335",
+      "lon": -116.364,
+      "lat": 33.4095,
+      "depth": 11.1,
+      "mag": 0.71,
+      "place": "17 km N of Borrego Springs, CA",
+      "time": 1791697660970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346335"
+    },
     {
       "id": "nc75447631",
       "lon": -122.801834106445,
@@ -32,6 +42,26 @@
       "place": "8 km WNW of Cobb, CA",
       "time": 1791695987440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447626"
+    },
+    {
+      "id": "us6000u1in",
+      "lon": 142.9716,
+      "lat": 21.554,
+      "depth": 325.119,
+      "mag": 4.2,
+      "place": "Mariana Islands region",
+      "time": 1791695618941,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1in"
+    },
+    {
+      "id": "us6000u1il",
+      "lon": 168.0696,
+      "lat": -14.7335,
+      "depth": 10.602,
+      "mag": 4.7,
+      "place": "110 km SSE of Sola, Vanuatu",
+      "time": 1791695277511,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il"
     },
     {
       "id": "pr71536438",
@@ -1842,46 +1872,6 @@
       "place": "5 km ESE of Yucaipa, CA",
       "time": 1791611952080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345927"
-    },
-    {
-      "id": "ci41345919",
-      "lon": -119.407833333333,
-      "lat": 34.4213333333333,
-      "depth": 1.93,
-      "mag": 1.45,
-      "place": "10 km ENE of Carpinteria, CA",
-      "time": 1791611274890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345919"
-    },
-    {
-      "id": "us6000u1cx",
-      "lon": -75.6127,
-      "lat": 5.267,
-      "depth": 115.143,
-      "mag": 4.5,
-      "place": "6 km WSW of Filadelfia, Colombia",
-      "time": 1791611159396,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cx"
-    },
-    {
-      "id": "ci41345911",
-      "lon": -116.736666666667,
-      "lat": 33.9788333333333,
-      "depth": 29.7,
-      "mag": 0.97,
-      "place": "8 km NE of Cabazon, CA",
-      "time": 1791611085740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345911"
-    },
-    {
-      "id": "us6000u1cv",
-      "lon": 126.3886,
-      "lat": 1.6248,
-      "depth": 10,
-      "mag": 5,
-      "place": "141 km E of Bitung, Indonesia",
-      "time": 1791610321552,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cv"
     }
   ]
 }
