@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-11T10:15:43Z",
-  "count": 175,
+  "updated": "2026-10-11T10:31:00Z",
+  "count": 176,
   "points": [
+    {
+      "id": "aka2026udnagw",
+      "lon": -150.175,
+      "lat": 63.019,
+      "depth": 5,
+      "mag": 1.9,
+      "place": "63 km N of Chase, Alaska",
+      "time": 1791714266861,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026udnagw"
+    },
     {
       "id": "nc75447716",
       "lon": -122.814498901367,
@@ -12,6 +22,16 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1791713562050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447716"
+    },
+    {
+      "id": "us6000u1jv",
+      "lon": -177.6638,
+      "lat": -20.3859,
+      "depth": 512.919,
+      "mag": 4.6,
+      "place": "260 km WNW of Houma, Tonga",
+      "time": 1791713141414,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1jv"
     },
     {
       "id": "ci41346399",
@@ -1742,16 +1762,6 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1791628501550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447316"
-    },
-    {
-      "id": "ci41346007",
-      "lon": -118.969333333333,
-      "lat": 36.1223333333333,
-      "depth": 9.59,
-      "mag": 1.66,
-      "place": "8 km NE of Porterville, CA",
-      "time": 1791627623720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346007"
     }
   ]
 }
