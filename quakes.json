@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-11T06:45:41Z",
-  "count": 176,
+  "updated": "2026-10-11T07:01:11Z",
+  "count": 174,
   "points": [
+    {
+      "id": "nc75447651",
+      "lon": -122.444664001465,
+      "lat": 38.5796661376953,
+      "depth": -0.430000007152557,
+      "mag": 1.64,
+      "place": "1 km NE of Angwin, CA",
+      "time": 1791701864410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447651"
+    },
     {
       "id": "aka2026udeyax",
       "lon": -152.541,
@@ -1732,36 +1742,6 @@
       "place": "6 km SSE of Llano de Piedra, Panama",
       "time": 1791616410583,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dc"
-    },
-    {
-      "id": "ci41345967",
-      "lon": -117.196166666667,
-      "lat": 34.0168333333333,
-      "depth": 5.23,
-      "mag": 0.8,
-      "place": "4 km SSW of Redlands, CA",
-      "time": 1791615308310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345967"
-    },
-    {
-      "id": "ci41345959",
-      "lon": -116.393666666667,
-      "lat": 33.0403333333333,
-      "depth": 9.65,
-      "mag": 0.95,
-      "place": "20 km ESE of Julian, CA",
-      "time": 1791615199960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345959"
-    },
-    {
-      "id": "us6000u1db",
-      "lon": -79.9613,
-      "lat": 7.4558,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "10 km SE of Pedasí, Panama",
-      "time": 1791614869431,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1db"
     }
   ]
 }
