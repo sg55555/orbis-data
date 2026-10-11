@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-11T17:01:10Z",
-  "count": 175,
+  "updated": "2026-10-11T17:15:42Z",
+  "count": 174,
   "points": [
+    {
+      "id": "ci41346463",
+      "lon": -116.7595,
+      "lat": 33.5803333333333,
+      "depth": 12.59,
+      "mag": 0.8,
+      "place": "8 km WNW of Anza, CA",
+      "time": 1791738678750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346463"
+    },
     {
       "id": "aka2026ueabjp",
       "lon": -149.81,
@@ -155,12 +165,12 @@
     },
     {
       "id": "ci41346439",
-      "lon": -116.382833333333,
-      "lat": 33.3376666666667,
-      "depth": 10.33,
+      "lon": -116.379666666667,
+      "lat": 33.337,
+      "depth": 10.41,
       "mag": 1.23,
       "place": "9 km N of Borrego Springs, CA",
-      "time": 1791732888890,
+      "time": 1791732888850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346439"
     },
     {
@@ -1732,26 +1742,6 @@
       "place": "12 km NE of Little Lake, CA",
       "time": 1791653747800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346151"
-    },
-    {
-      "id": "aka2026ucenft",
-      "lon": -150.874,
-      "lat": 64.928,
-      "depth": 0.4,
-      "mag": 1.8,
-      "place": "13 km SW of Manley Hot Springs, Alaska",
-      "time": 1791652191907,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ucenft"
-    },
-    {
-      "id": "uu80159106",
-      "lon": -112.911,
-      "lat": 38.5283333333333,
-      "depth": 6,
-      "mag": 1.78,
-      "place": "16 km NNE of Milford, Utah",
-      "time": 1791652135720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80159106"
     }
   ]
 }
