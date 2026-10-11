@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-11T22:45:40Z",
-  "count": 175,
+  "updated": "2026-10-11T23:01:10Z",
+  "count": 174,
   "points": [
     {
       "id": "nc75448016",
@@ -95,12 +95,12 @@
     },
     {
       "id": "us6000u1mj",
-      "lon": 121.6986,
-      "lat": 0.5266,
-      "depth": 103.618,
+      "lon": 121.7071,
+      "lat": 0.49,
+      "depth": 110.467,
       "mag": 5.3,
-      "place": "151 km W of Gorontalo, Indonesia",
-      "time": 1791754493418,
+      "place": "150 km W of Gorontalo, Indonesia",
+      "time": 1791754493822,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1mj"
     },
     {
@@ -112,6 +112,16 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1791754415290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447966"
+    },
+    {
+      "id": "us6000u1mi",
+      "lon": -66.8503,
+      "lat": -23.9608,
+      "depth": 195.569,
+      "mag": 4.3,
+      "place": "61 km WNW of San Antonio de los Cobres, Argentina",
+      "time": 1791754388230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1mi"
     },
     {
       "id": "aka2026uejfoy",
@@ -1732,26 +1742,6 @@
       "place": "8 km SW of Tatitlek, Alaska",
       "time": 1791673652677,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ucqljc"
-    },
-    {
-      "id": "aka2026ucqeuh",
-      "lon": -147.48,
-      "lat": 64.967,
-      "depth": 5,
-      "mag": 1.2,
-      "place": "6 km E of Fox, Alaska",
-      "time": 1791673198587,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ucqeuh"
-    },
-    {
-      "id": "nc75447536",
-      "lon": -122.793334960938,
-      "lat": 38.8126678466797,
-      "depth": 3.32999992370605,
-      "mag": 0.75,
-      "place": "5 km NW of The Geysers, CA",
-      "time": 1791673031770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447536"
     }
   ]
 }
