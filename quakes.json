@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-11T07:15:46Z",
-  "count": 172,
+  "updated": "2026-10-11T07:30:57Z",
+  "count": 169,
   "points": [
+    {
+      "id": "ci41346359",
+      "lon": -117.2605,
+      "lat": 34.0428333333333,
+      "depth": 15.37,
+      "mag": 1.08,
+      "place": "1 km S of Loma Linda, CA",
+      "time": 1791702875620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346359"
+    },
     {
       "id": "nn00925616",
       "lon": -118.3419,
@@ -12,6 +22,16 @@
       "place": "25 km SW of Mina, Nevada",
       "time": 1791702675019,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925616"
+    },
+    {
+      "id": "us6000u1iz",
+      "lon": 71.007,
+      "lat": 36.6753,
+      "depth": 198.608,
+      "mag": 4.2,
+      "place": "26 km SE of Jurm, Afghanistan",
+      "time": 1791702467437,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1iz"
     },
     {
       "id": "nc75447651",
@@ -1672,56 +1692,6 @@
       "place": "4 km W of Aquiles Serdán 1ra. Sección, Mexico",
       "time": 1791618420391,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dh"
-    },
-    {
-      "id": "hv75053322",
-      "lon": -155.498504638672,
-      "lat": 19.1671657562256,
-      "depth": 29.1499996185303,
-      "mag": 2.23,
-      "place": "4 km SSW of Pāhala, Hawaii",
-      "time": 1791617372620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75053322"
-    },
-    {
-      "id": "nc75447261",
-      "lon": -122.845832824707,
-      "lat": 38.8241653442383,
-      "depth": 1.63999998569489,
-      "mag": 0.47,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1791617359640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447261"
-    },
-    {
-      "id": "us6000u1df",
-      "lon": -80.5839,
-      "lat": 7.6534,
-      "depth": 10,
-      "mag": 4.4,
-      "place": "2 km WSW of Llano de Piedra, Panama",
-      "time": 1791617075015,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1df"
-    },
-    {
-      "id": "ci41345991",
-      "lon": -116.660166666667,
-      "lat": 33.454,
-      "depth": 4.41,
-      "mag": 0.19,
-      "place": "11 km S of Anza, CA",
-      "time": 1791616951650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345991"
-    },
-    {
-      "id": "ci41345983",
-      "lon": -116.454666666667,
-      "lat": 33.5148333333333,
-      "depth": 6.02,
-      "mag": 0.32,
-      "place": "21 km ESE of Anza, CA",
-      "time": 1791616906500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345983"
     }
   ]
 }
