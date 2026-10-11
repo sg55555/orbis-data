@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-11T13:45:44Z",
-  "count": 182,
+  "updated": "2026-10-11T14:01:07Z",
+  "count": 180,
   "points": [
+    {
+      "id": "nc75447771",
+      "lon": -122.809501647949,
+      "lat": 38.8398323059082,
+      "depth": 2.05999994277954,
+      "mag": 0.95,
+      "place": "8 km WNW of Cobb, CA",
+      "time": 1791726560270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447771"
+    },
+    {
+      "id": "us6000u1kt",
+      "lon": -72.6601,
+      "lat": -16.7849,
+      "depth": 44.92,
+      "mag": 5.2,
+      "place": "18 km SSE of Camaná, Peru",
+      "time": 1791726179788,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kt"
+    },
     {
       "id": "aka2026udtful",
       "lon": -150.653,
@@ -1204,16 +1224,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447486"
     },
     {
-      "id": "ci41346231",
-      "lon": -116.281833333333,
-      "lat": 32.857,
-      "depth": 9.21,
-      "mag": 1.65,
-      "place": "23 km E of Pine Valley, CA",
-      "time": 1791665821760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346231"
-    },
-    {
       "id": "nc75447476",
       "lon": -122.750335693359,
       "lat": 38.7881660461426,
@@ -1282,16 +1292,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1791660712980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447456"
-    },
-    {
-      "id": "ci41346215",
-      "lon": -117.22216796875,
-      "lat": 33.8333320617676,
-      "depth": 29.5200004577637,
-      "mag": 1.26581966604775,
-      "place": "6 km N of Perris, CA",
-      "time": 1791660697220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346215"
     },
     {
       "id": "us6000u1jt",
@@ -1802,26 +1802,6 @@
       "place": "2 km NW of Chino Hills, CA",
       "time": 1791641281430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346071"
-    },
-    {
-      "id": "ci41346063",
-      "lon": -116.865997314453,
-      "lat": 34.2993316650391,
-      "depth": 3.99000000953674,
-      "mag": 1.3377961692678,
-      "place": "5 km NNW of Big Bear City, CA",
-      "time": 1791640087470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346063"
-    },
-    {
-      "id": "us6000u1ex",
-      "lon": -80.5165,
-      "lat": 7.5187,
-      "depth": 10,
-      "mag": 4.8,
-      "place": "12 km NE of La Tronosa, Panama",
-      "time": 1791640016921,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ex"
     }
   ]
 }
