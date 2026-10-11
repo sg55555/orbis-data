@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-11T11:15:40Z",
-  "count": 177,
+  "updated": "2026-10-11T11:31:00Z",
+  "count": 178,
   "points": [
+    {
+      "id": "hv75053977",
+      "lon": -155.288497924805,
+      "lat": 19.7681674957275,
+      "depth": 26.8500003814697,
+      "mag": 1.7,
+      "place": "20 km W of Paukaa, Hawaii",
+      "time": 1791717468230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75053977"
+    },
+    {
+      "id": "aka2026udoubs",
+      "lon": -150.402,
+      "lat": 63.192,
+      "depth": 110.4,
+      "mag": 2.1,
+      "place": "76 km WSW of Cantwell, Alaska",
+      "time": 1791717436127,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026udoubs"
+    },
     {
       "id": "aka2026udogiv",
       "lon": -149.566,
@@ -1762,16 +1782,6 @@
       "place": "5 km NW of The Geysers, CA",
       "time": 1791632682490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447321"
-    },
-    {
-      "id": "ci41346023",
-      "lon": -116.523166666667,
-      "lat": 33.1503333333333,
-      "depth": 6.23,
-      "mag": 0.34,
-      "place": "11 km NE of Julian, CA",
-      "time": 1791631196940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346023"
     }
   ]
 }
