@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-11T18:45:45Z",
-  "count": 173,
+  "updated": "2026-10-11T19:01:07Z",
+  "count": 174,
   "points": [
     {
+      "id": "ci41346495",
+      "lon": -116.7055,
+      "lat": 33.5343333333333,
+      "depth": 5.73,
+      "mag": 0.89,
+      "place": "4 km SW of Anza, CA",
+      "time": 1791744431960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346495"
+    },
+    {
+      "id": "ci41346487",
+      "lon": -116.459333333333,
+      "lat": 33.5065,
+      "depth": 4.72,
+      "mag": 0.95,
+      "place": "21 km ESE of Anza, CA",
+      "time": 1791744383250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346487"
+    },
+    {
       "id": "ci41346479",
-      "lon": -116.18399810791,
-      "lat": 33.3273315429688,
-      "depth": 10.8500003814697,
-      "mag": 1.43327910091463,
+      "lon": -116.1865,
+      "lat": 33.3273333333333,
+      "depth": 11.67,
+      "mag": 1.29,
       "place": "17 km SSW of Oasis, CA",
-      "time": 1791744114860,
+      "time": 1791744114820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346479"
     },
     {
@@ -1722,16 +1742,6 @@
       "place": "27 km NNW of Pāhala, Hawaii",
       "time": 1791658950020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75053602"
-    },
-    {
-      "id": "aka2026uchzpp",
-      "lon": -157.527,
-      "lat": 55.995,
-      "depth": 5,
-      "mag": 2.4,
-      "place": "63 km ESE of Chignik, Alaska",
-      "time": 1791658445977,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uchzpp"
     }
   ]
 }
