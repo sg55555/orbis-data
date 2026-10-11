@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-11T07:01:11Z",
-  "count": 174,
+  "updated": "2026-10-11T07:15:46Z",
+  "count": 172,
   "points": [
+    {
+      "id": "nn00925616",
+      "lon": -118.3419,
+      "lat": 38.2519,
+      "depth": 11.6271,
+      "mag": 2.62,
+      "place": "25 km SW of Mina, Nevada",
+      "time": 1791702675019,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925616"
+    },
     {
       "id": "nc75447651",
       "lon": -122.444664001465,
@@ -1712,36 +1722,6 @@
       "place": "21 km ESE of Anza, CA",
       "time": 1791616906500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345983"
-    },
-    {
-      "id": "ci41345975",
-      "lon": -116.3105,
-      "lat": 33.1778333333333,
-      "depth": 11.85,
-      "mag": 1.03,
-      "place": "11 km SE of Borrego Springs, CA",
-      "time": 1791616510170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345975"
-    },
-    {
-      "id": "aka2026ubkqwg",
-      "lon": -151.434,
-      "lat": 61.231,
-      "depth": 77.5,
-      "mag": 1.8,
-      "place": "21 km WNW of Beluga, Alaska",
-      "time": 1791616495559,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ubkqwg"
-    },
-    {
-      "id": "us6000u1dc",
-      "lon": -80.5348,
-      "lat": 7.6182,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "6 km SSE of Llano de Piedra, Panama",
-      "time": 1791616410583,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dc"
     }
   ]
 }
