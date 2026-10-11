@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-11T15:30:59Z",
-  "count": 175,
+  "updated": "2026-10-11T15:45:40Z",
+  "count": 174,
   "points": [
+    {
+      "id": "ci41346439",
+      "lon": -116.382833333333,
+      "lat": 33.3376666666667,
+      "depth": 10.33,
+      "mag": 1.23,
+      "place": "9 km N of Borrego Springs, CA",
+      "time": 1791732888890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346439"
+    },
     {
       "id": "nc75447811",
       "lon": -123.516502380371,
@@ -1732,26 +1742,6 @@
       "place": "45 km WNW of Karluk, Alaska",
       "time": 1791647394092,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ucbvww"
-    },
-    {
-      "id": "aka2026ucblkt",
-      "lon": -142.743,
-      "lat": 62.496,
-      "depth": 5,
-      "mag": 1.6,
-      "place": "19 km NE of Nabesna, Alaska",
-      "time": 1791646669145,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ucblkt"
-    },
-    {
-      "id": "ci41346119",
-      "lon": -116.164166666667,
-      "lat": 33.7901666666667,
-      "depth": 7.35,
-      "mag": 1.61,
-      "place": "9 km NNE of Indio, CA",
-      "time": 1791646447990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346119"
     }
   ]
 }
