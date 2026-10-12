@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-12T22:15:43Z",
-  "count": 256,
+  "updated": "2026-10-12T22:30:56Z",
+  "count": 254,
   "points": [
+    {
+      "id": "aka2026uggtey",
+      "lon": -150.898,
+      "lat": 63.108,
+      "depth": 124.5,
+      "mag": 2,
+      "place": "63 km SE of Denali National Park, Alaska",
+      "time": 1791843318166,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uggtey"
+    },
     {
       "id": "nc75448551",
       "lon": -122.791168212891,
@@ -25,22 +35,22 @@
     },
     {
       "id": "us6000u1w7",
-      "lon": -81.4443,
-      "lat": 7.9345,
+      "lon": -81.465,
+      "lat": 7.9504,
       "depth": 10,
       "mag": 4.5,
-      "place": "6 km WSW of Calidonia, Panama",
-      "time": 1791841734934,
+      "place": "7 km SE of Zapotillo, Panama",
+      "time": 1791841734615,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1w7"
     },
     {
       "id": "us6000u1w6",
-      "lon": -81.5374,
-      "lat": 7.8373,
+      "lon": -81.5024,
+      "lat": 7.8231,
       "depth": 10,
       "mag": 4.5,
-      "place": "19 km S of Zapotillo, Panama",
-      "time": 1791841410595,
+      "place": "19 km SW of Calidonia, Panama",
+      "time": 1791841410434,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1w6"
     },
     {
@@ -55,12 +65,12 @@
     },
     {
       "id": "hv75054867",
-      "lon": -155.278335571289,
-      "lat": 19.3933334350586,
-      "depth": 1.30999994277954,
-      "mag": 1.83,
+      "lon": -155.281,
+      "lat": 19.3903333333333,
+      "depth": 1.68,
+      "mag": 1.78,
       "place": "7 km SW of Volcano, Hawaii",
-      "time": 1791840522730,
+      "time": 1791840522720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75054867"
     },
     {
@@ -72,6 +82,16 @@
       "place": "7 km SW of Volcano, Hawaii",
       "time": 1791840511990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75054862"
+    },
+    {
+      "id": "uw714118892",
+      "lon": -122.3335,
+      "lat": 46.2188333333333,
+      "depth": 14.68,
+      "mag": 0.21,
+      "place": "35 km NNE of Amboy, Washington",
+      "time": 1791838639480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118892"
     },
     {
       "id": "hv75054847",
@@ -2522,46 +2542,6 @@
       "place": "2 km NNW of The Geysers, CA",
       "time": 1791758014600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448011"
-    },
-    {
-      "id": "us6000u1my",
-      "lon": -81.4949,
-      "lat": 7.6721,
-      "depth": 10,
-      "mag": 4.4,
-      "place": "18 km WSW of Río Grande, Panama",
-      "time": 1791757536642,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1my"
-    },
-    {
-      "id": "aka2026uekvuv",
-      "lon": -141.31,
-      "lat": 59.957,
-      "depth": 1.6,
-      "mag": 2.3,
-      "place": "100 km WNW of Yakutat, Alaska",
-      "time": 1791757141474,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uekvuv"
-    },
-    {
-      "id": "uw714118552",
-      "lon": -122.042333333333,
-      "lat": 47.3436666666667,
-      "depth": 19.66,
-      "mag": 0.98,
-      "place": "4 km WSW of Ravensdale, Washington",
-      "time": 1791757109850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118552"
-    },
-    {
-      "id": "aka2026uekvdg",
-      "lon": -152.369,
-      "lat": 61.358,
-      "depth": 5,
-      "mag": 0.7,
-      "place": "73 km WNW of Beluga, Alaska",
-      "time": 1791757094767,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uekvdg"
     }
   ]
 }
