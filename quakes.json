@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-12T11:30:59Z",
-  "count": 205,
+  "updated": "2026-10-12T11:45:45Z",
+  "count": 207,
   "points": [
     {
+      "id": "aka2026uflokh",
+      "lon": -152.844,
+      "lat": 62.645,
+      "depth": 12.4,
+      "mag": 1.6,
+      "place": "88 km ESE of Nikolai, Alaska",
+      "time": 1791805201881,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uflokh"
+    },
+    {
       "id": "ci41346663",
-      "lon": -117.954002380371,
-      "lat": 34.4934997558594,
-      "depth": 8.39999961853027,
-      "mag": 1.40633598635733,
+      "lon": -117.953166666667,
+      "lat": 34.494,
+      "depth": 8.98,
+      "mag": 1.15,
       "place": "4 km SE of Littlerock, CA",
-      "time": 1791804476370,
+      "time": 1791804476340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346663"
     },
     {
@@ -22,6 +32,16 @@
       "place": "42 km S of Skwentna, Alaska",
       "time": 1791803320940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ufkmix"
+    },
+    {
+      "id": "us6000u1re",
+      "lon": -80.646,
+      "lat": 7.4832,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "6 km NNW of El Cortezo, Panama",
+      "time": 1791803247400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1re"
     },
     {
       "id": "aka2026ufkhbo",
@@ -372,6 +392,16 @@
       "place": "15 km ESE of Pearsall, Texas",
       "time": 1791788396003,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ubwdvv"
+    },
+    {
+      "id": "tx2026ubwcwk",
+      "lon": -104.551,
+      "lat": 31.63,
+      "depth": 6.8176,
+      "mag": 1.5,
+      "place": "62 km SSW of Whites City, New Mexico",
+      "time": 1791788337542,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ubwcwk"
     },
     {
       "id": "nc75448221",
@@ -2042,16 +2072,6 @@
       "place": "9 km WNW of Anza, CA",
       "time": 1791719130070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346415"
-    },
-    {
-      "id": "nc75447736",
-      "lon": -122.842666625977,
-      "lat": 38.8224983215332,
-      "depth": 2.04999995231628,
-      "mag": 0.72,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1791718652950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447736"
     }
   ]
 }
