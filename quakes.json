@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-12T12:01:39Z",
-  "count": 210,
+  "updated": "2026-10-12T12:15:50Z",
+  "count": 208,
   "points": [
+    {
+      "id": "nc75448271",
+      "lon": -124.583335876465,
+      "lat": 40.269832611084,
+      "depth": 5.01000022888184,
+      "mag": 2.53,
+      "place": "26 km WSW of Petrolia, CA",
+      "time": 1791807196850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448271"
+    },
     {
       "id": "nc75448266",
       "lon": -122.741500854492,
@@ -405,12 +415,12 @@
     },
     {
       "id": "ok2026tzkx",
-      "lon": -97.77102661,
-      "lat": 34.98142242,
-      "depth": 5.487326622,
-      "mag": 2.36,
+      "lon": -97.76866667,
+      "lat": 34.9825,
+      "depth": 7.32,
+      "mag": 1.88,
       "place": "7 km N of Alex, Oklahoma",
-      "time": 1791788742568,
+      "time": 1791788742820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026tzkx"
     },
     {
@@ -2072,36 +2082,6 @@
       "place": "275 km W of Adak, Alaska",
       "time": 1791720962144,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kb"
-    },
-    {
-      "id": "us6000u1ka",
-      "lon": 126.1264,
-      "lat": 23.5015,
-      "depth": 10,
-      "mag": 4.8,
-      "place": "165 km SSE of Miyakojima, Japan",
-      "time": 1791720798599,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ka"
-    },
-    {
-      "id": "nc75447746",
-      "lon": -122.808166503906,
-      "lat": 38.8274993896484,
-      "depth": 0.109999999403954,
-      "mag": 1.1,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1791720749800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447746"
-    },
-    {
-      "id": "nc75447741",
-      "lon": -122.787498474121,
-      "lat": 38.8354988098145,
-      "depth": 1.88999998569489,
-      "mag": 1.02,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1791720644190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447741"
     }
   ]
 }
