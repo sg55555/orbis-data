@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-12T00:01:12Z",
-  "count": 177,
+  "updated": "2026-10-12T00:15:42Z",
+  "count": 179,
   "points": [
+    {
+      "id": "nc75448101",
+      "lon": -122.794502258301,
+      "lat": 38.8358345031738,
+      "depth": 2.22000002861023,
+      "mag": 0.23,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1791763525760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448101"
+    },
     {
       "id": "aka2026uennoy",
       "lon": -152.366,
@@ -45,12 +55,12 @@
     },
     {
       "id": "hv75054232",
-      "lon": -155.276504516602,
-      "lat": 19.3915004730225,
-      "depth": 1.53999996185303,
-      "mag": 1.86,
+      "lon": -155.279166666667,
+      "lat": 19.3908333333333,
+      "depth": 1.76,
+      "mag": 1.79,
       "place": "7 km SW of Volcano, Hawaii",
-      "time": 1791761316420,
+      "time": 1791761316350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75054232"
     },
     {
@@ -74,6 +84,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uenctl"
     },
     {
+      "id": "hv75054212",
+      "lon": -155.2815,
+      "lat": 19.3845,
+      "depth": 1.8,
+      "mag": 1.49,
+      "place": "8 km SW of Volcano, Hawaii",
+      "time": 1791760972360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75054212"
+    },
+    {
       "id": "nc75448051",
       "lon": -122.761833190918,
       "lat": 38.8160018920898,
@@ -92,6 +112,16 @@
       "place": "1 km NE of Woodside, CA",
       "time": 1791760472940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448046"
+    },
+    {
+      "id": "hv75054202",
+      "lon": -155.2805,
+      "lat": 19.3898333333333,
+      "depth": 1.64,
+      "mag": 1.58,
+      "place": "7 km SW of Volcano, Hawaii",
+      "time": 1791760161720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75054202"
     },
     {
       "id": "aka2026uemjiq",
@@ -1164,6 +1194,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346391"
     },
     {
+      "id": "tx2026uadryt",
+      "lon": -104.431,
+      "lat": 31.661,
+      "depth": 6.2537,
+      "mag": 2.2,
+      "place": "57 km S of Whites City, New Mexico",
+      "time": 1791708112479,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uadryt"
+    },
+    {
       "id": "nm60628516",
       "lon": -89.4831666666667,
       "lat": 36.4313333333333,
@@ -1184,14 +1224,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026udjjwj"
     },
     {
-      "id": "us6000u1jd",
-      "lon": -104.4562,
-      "lat": 31.6385,
-      "depth": 8.818,
-      "mag": 2.6,
-      "place": "60 km S of Whites City, New Mexico",
-      "time": 1791707233940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1jd"
+      "id": "tx2026uadiem",
+      "lon": -104.45,
+      "lat": 31.661,
+      "depth": 6.0999,
+      "mag": 2.4,
+      "place": "57 km S of Whites City, New Mexico",
+      "time": 1791707233938,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uadiem"
     },
     {
       "id": "aka2026udjcmd",
@@ -1752,26 +1792,6 @@
       "place": "13 km SE of Ashford, Washington",
       "time": 1791678500210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118242"
-    },
-    {
-      "id": "us6000u1hj",
-      "lon": -81.472,
-      "lat": 7.8093,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "18 km WNW of Río Grande, Panama",
-      "time": 1791677169289,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hj"
-    },
-    {
-      "id": "ci41346279",
-      "lon": -117.777833333333,
-      "lat": 36.0225,
-      "depth": 1.48,
-      "mag": 0.94,
-      "place": "15 km NE of Little Lake, CA",
-      "time": 1791677012330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346279"
     }
   ]
 }
