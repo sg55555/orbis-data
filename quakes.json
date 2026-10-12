@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-12T18:01:13Z",
-  "count": 240,
+  "updated": "2026-10-12T18:15:43Z",
+  "count": 238,
   "points": [
+    {
+      "id": "nc75448431",
+      "lon": -122.765998840332,
+      "lat": 38.8250007629395,
+      "depth": 1.85000002384186,
+      "mag": 1.33,
+      "place": "4 km W of Cobb, CA",
+      "time": 1791828392320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448431"
+    },
     {
       "id": "uu80159611",
       "lon": -112.9075,
@@ -365,12 +375,12 @@
     },
     {
       "id": "ci41346767",
-      "lon": -115.606,
-      "lat": 32.7616666666667,
-      "depth": 11.49,
-      "mag": 1.58,
+      "lon": -115.603833333333,
+      "lat": 32.7693333333333,
+      "depth": 14.43,
+      "mag": 1.59,
       "place": "5 km WSW of El Centro, CA",
-      "time": 1791814365020,
+      "time": 1791814364700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346767"
     },
     {
@@ -2372,36 +2382,6 @@
       "place": "50 km NW of Toyah, Texas",
       "time": 1791742903173,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uaxalv"
-    },
-    {
-      "id": "aka2026uecrut",
-      "lon": -152.606,
-      "lat": 59.694,
-      "depth": 88.3,
-      "mag": 2.7,
-      "place": "44 km WSW of Anchor Point, Alaska",
-      "time": 1791742470374,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uecrut"
-    },
-    {
-      "id": "pr71536488",
-      "lon": -67.4708333333333,
-      "lat": 19.017,
-      "depth": 21.91,
-      "mag": 3.05,
-      "place": "70 km NW of San Antonio, Puerto Rico",
-      "time": 1791742336510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536488"
-    },
-    {
-      "id": "us6000u1lk",
-      "lon": -172.7162,
-      "lat": -19.3844,
-      "depth": 10,
-      "mag": 4.7,
-      "place": "156 km ESE of Neiafu, Tonga",
-      "time": 1791741995803,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1lk"
     }
   ]
 }
