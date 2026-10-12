@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-12T14:45:46Z",
-  "count": 221,
+  "updated": "2026-10-12T15:01:14Z",
+  "count": 223,
   "points": [
+    {
+      "id": "ci41346775",
+      "lon": -117.254666666667,
+      "lat": 34.0401666666667,
+      "depth": 15.01,
+      "mag": 1.07,
+      "place": "1 km SSE of Loma Linda, CA",
+      "time": 1791816357670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346775"
+    },
     {
       "id": "aka2026ufqvwj",
       "lon": -152.852,
@@ -122,6 +132,16 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1791812184300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448301"
+    },
+    {
+      "id": "us6000u1rx",
+      "lon": -80.4946,
+      "lat": 7.3997,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "6 km W of Tonosí, Panama",
+      "time": 1791811038746,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rx"
     },
     {
       "id": "aka2026ufoslq",
@@ -1745,10 +1765,10 @@
     },
     {
       "id": "ci41346527",
-      "lon": -115.729833333333,
-      "lat": 33.838,
-      "depth": -0.42,
-      "mag": 2.53,
+      "lon": -115.727833333333,
+      "lat": 33.8373333333333,
+      "depth": 0.28,
+      "mag": 2.68,
       "place": "33 km WNW of Desert Center, CA",
       "time": 1791751971890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346527"
@@ -1994,6 +2014,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536478"
     },
     {
+      "id": "us6000u1lg",
+      "lon": 143.5141,
+      "lat": 22.0334,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "Volcano Islands, Japan region",
+      "time": 1791738353684,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1lg"
+    },
+    {
       "id": "us6000u1ld",
       "lon": 155.7863,
       "lat": 49.7885,
@@ -2202,16 +2232,6 @@
       "place": "6 km WSW of Wilderness Rim, Washington",
       "time": 1791730878350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118382"
-    },
-    {
-      "id": "us6000u1l0",
-      "lon": 136.2564,
-      "lat": -4.2017,
-      "depth": 10,
-      "mag": 4.3,
-      "place": "125 km SE of Nabire, Indonesia",
-      "time": 1791730655632,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1l0"
     }
   ]
 }
