@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-12T22:30:56Z",
-  "count": 254,
+  "updated": "2026-10-12T22:45:40Z",
+  "count": 255,
   "points": [
+    {
+      "id": "ci41346903",
+      "lon": -118.169833333333,
+      "lat": 36.2163333333333,
+      "depth": 6.02,
+      "mag": 1.74,
+      "place": "16 km WSW of Olancha, CA",
+      "time": 1791844477810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346903"
+    },
+    {
+      "id": "aka2026ughhtb",
+      "lon": -149.02,
+      "lat": 65.321,
+      "depth": 5,
+      "mag": 1,
+      "place": "24 km NE of Minto, Alaska",
+      "time": 1791844324569,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ughhtb"
+    },
     {
       "id": "aka2026uggtey",
       "lon": -150.898,
@@ -34,13 +54,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925686"
     },
     {
+      "id": "uw714118932",
+      "lon": -122.191333333333,
+      "lat": 46.202,
+      "depth": 2.54,
+      "mag": -0.02,
+      "place": "37 km NNE of Amboy, Washington",
+      "time": 1791842339590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118932"
+    },
+    {
       "id": "us6000u1w7",
-      "lon": -81.465,
-      "lat": 7.9504,
+      "lon": -81.445,
+      "lat": 7.9307,
       "depth": 10,
       "mag": 4.5,
-      "place": "7 km SE of Zapotillo, Panama",
-      "time": 1791841734615,
+      "place": "7 km WSW of Calidonia, Panama",
+      "time": 1791841734441,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1w7"
     },
     {
@@ -1344,6 +1374,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uffept"
     },
     {
+      "id": "av94444833",
+      "lon": -152.7355,
+      "lat": 60.4156666666667,
+      "depth": 3.58,
+      "mag": -0.2,
+      "place": "71 km NW of Ninilchik, Alaska",
+      "time": 1791793692250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94444833"
+    },
+    {
       "id": "tx2026ubyylo",
       "lon": -104.421,
       "lat": 31.664,
@@ -1362,6 +1402,16 @@
       "place": "33 km NW of Chenega, Alaska",
       "time": 1791792993681,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ufetyq"
+    },
+    {
+      "id": "av94444808",
+      "lon": -152.357666666667,
+      "lat": 61.2331666666667,
+      "depth": 9.04,
+      "mag": 0.06,
+      "place": "68 km WNW of Tyonek, Alaska",
+      "time": 1791792612130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94444808"
     },
     {
       "id": "aka2026ufejqz",
@@ -2502,46 +2552,6 @@
       "place": "7 km SW of Volcano, Hawaii",
       "time": 1791758865640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75054187"
-    },
-    {
-      "id": "us6000u1mz",
-      "lon": -81.1135,
-      "lat": 7.7569,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "0 km NE of Leones Arriba, Panama",
-      "time": 1791758424458,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1mz"
-    },
-    {
-      "id": "nc75448016",
-      "lon": -122.815002441406,
-      "lat": 38.8231658935547,
-      "depth": 1.95000004768372,
-      "mag": 0.92,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1791758416120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448016"
-    },
-    {
-      "id": "aka2026uelntb",
-      "lon": -153.435,
-      "lat": 59.368,
-      "depth": 5,
-      "mag": 1.9,
-      "place": "60 km SE of Pedro Bay, Alaska",
-      "time": 1791758379213,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uelntb"
-    },
-    {
-      "id": "nc75448011",
-      "lon": -122.762168884277,
-      "lat": 38.7939987182617,
-      "depth": 0.970000028610229,
-      "mag": 1.07,
-      "place": "2 km NNW of The Geysers, CA",
-      "time": 1791758014600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448011"
     }
   ]
 }
