@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-12T11:15:42Z",
-  "count": 207,
+  "updated": "2026-10-12T11:30:59Z",
+  "count": 205,
   "points": [
+    {
+      "id": "ci41346663",
+      "lon": -117.954002380371,
+      "lat": 34.4934997558594,
+      "depth": 8.39999961853027,
+      "mag": 1.40633598635733,
+      "place": "4 km SE of Littlerock, CA",
+      "time": 1791804476370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346663"
+    },
     {
       "id": "aka2026ufkmix",
       "lon": -151.476,
@@ -462,6 +472,16 @@
       "place": "18 km ESE of Anza, CA",
       "time": 1791781060790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346607"
+    },
+    {
+      "id": "tx2026ubsadw",
+      "lon": -104.194,
+      "lat": 31.614,
+      "depth": 6.0999,
+      "mag": 1.6,
+      "place": "50 km NW of Toyah, Texas",
+      "time": 1791780898995,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ubsadw"
     },
     {
       "id": "tx2026ubruxf",
@@ -2032,46 +2052,6 @@
       "place": "9 km NW of The Geysers, CA",
       "time": 1791718652950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447736"
-    },
-    {
-      "id": "tx2026uajdlp",
-      "lon": -104.428,
-      "lat": 31.659,
-      "depth": 5.946,
-      "mag": 1.6,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": 1791717767670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uajdlp"
-    },
-    {
-      "id": "us6000u1k3",
-      "lon": 159.8624,
-      "lat": 53.0788,
-      "depth": 68.683,
-      "mag": 4.6,
-      "place": "82 km E of Petropavlovsk-Kamchatsky, Russia",
-      "time": 1791717507916,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1k3"
-    },
-    {
-      "id": "hv75053977",
-      "lon": -155.288497924805,
-      "lat": 19.7681674957275,
-      "depth": 26.8500003814697,
-      "mag": 1.7,
-      "place": "20 km W of Paukaa, Hawaii",
-      "time": 1791717468230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75053977"
-    },
-    {
-      "id": "aka2026udoubs",
-      "lon": -150.402,
-      "lat": 63.192,
-      "depth": 110.4,
-      "mag": 2.1,
-      "place": "76 km WSW of Cantwell, Alaska",
-      "time": 1791717436127,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026udoubs"
     }
   ]
 }
