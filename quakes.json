@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-12T04:01:11Z",
-  "count": 203,
+  "updated": "2026-10-12T04:15:38Z",
+  "count": 205,
   "points": [
+    {
+      "id": "aka2026uewjeb",
+      "lon": -148.898,
+      "lat": 65.297,
+      "depth": 5,
+      "mag": 1,
+      "place": "26 km NE of Minto, Alaska",
+      "time": 1791777854023,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uewjeb"
+    },
     {
       "id": "aka2026uevtgi",
       "lon": -155.089,
@@ -12,6 +22,16 @@
       "place": "44 km WSW of Karluk, Alaska",
       "time": 1791776753463,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uevtgi"
+    },
+    {
+      "id": "us6000u1pa",
+      "lon": 144.2781,
+      "lat": 42.5006,
+      "depth": 65.892,
+      "mag": 4.5,
+      "place": "53 km S of Kushiro, Japan",
+      "time": 1791776697923,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa"
     },
     {
       "id": "nc75448176",
@@ -72,6 +92,16 @@
       "place": "11 km SSW of Susitna, Alaska",
       "time": 1791774008040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ueufpm"
+    },
+    {
+      "id": "pr2026285000",
+      "lon": -68.9046,
+      "lat": 18.4681,
+      "depth": 117,
+      "mag": 3.6,
+      "place": "8 km ENE of La Romana, Dominican Republic",
+      "time": 1791773978250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026285000"
     },
     {
       "id": "aka2026ueuacx",
@@ -2022,16 +2052,6 @@
       "place": "4 km W of Cobb, CA",
       "time": 1791692588550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447601"
-    },
-    {
-      "id": "aka2026udaghu",
-      "lon": -149.806,
-      "lat": 64.792,
-      "depth": 15.7,
-      "mag": 1.1,
-      "place": "38 km WNW of Four Mile Road, Alaska",
-      "time": 1791691293911,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026udaghu"
     }
   ]
 }
