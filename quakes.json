@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-12T12:45:48Z",
+  "updated": "2026-10-12T13:01:16Z",
   "count": 217,
   "points": [
+    {
+      "id": "ci41346711",
+      "lon": -116.966333333333,
+      "lat": 33.8661666666667,
+      "depth": 22.37,
+      "mag": 0.83,
+      "place": "7 km S of Beaumont, CA",
+      "time": 1791809685230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346711"
+    },
     {
       "id": "ci41346703",
       "lon": -117.0085,
@@ -1654,6 +1664,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346479"
     },
     {
+      "id": "uw714118462",
+      "lon": -123.026333333333,
+      "lat": 48.6056666666667,
+      "depth": 13.32,
+      "mag": 1.12,
+      "place": "6 km W of Orcas, Washington",
+      "time": 1791744081180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118462"
+    },
+    {
       "id": "aka2026uedjhl",
       "lon": -150.538,
       "lat": 60.852,
@@ -2152,26 +2172,6 @@
       "place": "11 km WNW of Cobb, CA",
       "time": 1791723873200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75447756"
-    },
-    {
-      "id": "aka2026udrund",
-      "lon": -156.092,
-      "lat": 58.293,
-      "depth": 151.9,
-      "mag": 1.4,
-      "place": "55 km SE of King Salmon, Alaska",
-      "time": 1791722920270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026udrund"
-    },
-    {
-      "id": "hv75054002",
-      "lon": -155.865493774414,
-      "lat": 20.1446666717529,
-      "depth": 15.289999961853,
-      "mag": 1.94,
-      "place": "11 km SSW of Hāwī, Hawaii",
-      "time": 1791722857570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75054002"
     }
   ]
 }
