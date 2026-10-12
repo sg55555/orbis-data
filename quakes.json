@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-12T03:15:41Z",
-  "count": 204,
+  "updated": "2026-10-12T03:31:01Z",
+  "count": 202,
   "points": [
+    {
+      "id": "nc75448171",
+      "lon": -122.970497131348,
+      "lat": 39.1308326721191,
+      "depth": 4.78999996185303,
+      "mag": 1.8,
+      "place": "6 km SW of Upper Lake, CA",
+      "time": 1791775562370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448171"
+    },
     {
       "id": "nc75448156",
       "lon": -122.784332275391,
@@ -112,6 +122,16 @@
       "place": "9 km WNW of Valdez, Alaska",
       "time": 1791771799240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ueszrk"
+    },
+    {
+      "id": "us6000u1ny",
+      "lon": -80.0698,
+      "lat": 7.6112,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "7 km ENE of Lajamina, Panama",
+      "time": 1791771749883,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ny"
     },
     {
       "id": "us6000u1nx",
@@ -2002,46 +2022,6 @@
       "place": "72 km W of Karluk, Alaska",
       "time": 1791689787776,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uczknc"
-    },
-    {
-      "id": "us6000u1i6",
-      "lon": 106.526,
-      "lat": -8.6161,
-      "depth": 10,
-      "mag": 5.2,
-      "place": "180 km S of Pelabuhanratu, Indonesia",
-      "time": 1791689417430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6"
-    },
-    {
-      "id": "ci41346327",
-      "lon": -117.252833333333,
-      "lat": 34.0615,
-      "depth": 14.44,
-      "mag": 1.01,
-      "place": "2 km NNE of Loma Linda, CA",
-      "time": 1791689110970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346327"
-    },
-    {
-      "id": "us6000u1i9",
-      "lon": -80.6908,
-      "lat": 7.6705,
-      "depth": 10,
-      "mag": 4.4,
-      "place": "3 km NW of Pitaloza Arriba, Panama",
-      "time": 1791688694689,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i9"
-    },
-    {
-      "id": "ci41346319",
-      "lon": -117.8455,
-      "lat": 36.0733333333333,
-      "depth": 1.72,
-      "mag": 1.66,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": 1791688580190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346319"
     }
   ]
 }
