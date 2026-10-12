@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-12T17:01:17Z",
-  "count": 232,
+  "updated": "2026-10-12T17:15:45Z",
+  "count": 230,
   "points": [
     {
+      "id": "aka2026ufwpjv",
+      "lon": -152.805,
+      "lat": 59.67,
+      "depth": 100.9,
+      "mag": 2.2,
+      "place": "56 km WSW of Anchor Point, Alaska",
+      "time": 1791825064617,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ufwpjv"
+    },
+    {
+      "id": "hv75054717",
+      "lon": -155.490493774414,
+      "lat": 19.1700000762939,
+      "depth": 30.5699996948242,
+      "mag": 1.9,
+      "place": "3 km SSW of Pāhala, Hawaii",
+      "time": 1791824459690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75054717"
+    },
+    {
       "id": "ci41346815",
-      "lon": -116.920829772949,
-      "lat": 34.09716796875,
-      "depth": 7.28999996185303,
-      "mag": 1.2457946507433,
+      "lon": -116.921333333333,
+      "lat": 34.1,
+      "depth": 7.84,
+      "mag": 1.13,
       "place": "13 km ENE of Yucaipa, CA",
-      "time": 1791824249060,
+      "time": 1791824249000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346815"
     },
     {
@@ -255,12 +275,12 @@
     },
     {
       "id": "ci41346759",
-      "lon": -115.598833333333,
-      "lat": 32.7568333333333,
-      "depth": 11.38,
-      "mag": 1.48,
-      "place": "5 km SW of El Centro, CA",
-      "time": 1791814281540,
+      "lon": -115.603166666667,
+      "lat": 32.7545,
+      "depth": 10.34,
+      "mag": 1.44,
+      "place": "6 km SW of El Centro, CA",
+      "time": 1791814281580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346759"
     },
     {
@@ -2282,46 +2302,6 @@
       "place": "4 km WSW of Anza, CA",
       "time": 1791740790330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346471"
-    },
-    {
-      "id": "us6000u1lf",
-      "lon": -81.6209,
-      "lat": 7.7084,
-      "depth": 10,
-      "mag": 4.8,
-      "place": "31 km W of Río Grande, Panama",
-      "time": 1791738689405,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1lf"
-    },
-    {
-      "id": "ci41346463",
-      "lon": -116.7595,
-      "lat": 33.5803333333333,
-      "depth": 12.59,
-      "mag": 0.8,
-      "place": "8 km WNW of Anza, CA",
-      "time": 1791738678750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346463"
-    },
-    {
-      "id": "pr71536478",
-      "lon": -64.4933333333333,
-      "lat": 18.8593333333333,
-      "depth": 13.72,
-      "mag": 3.03,
-      "place": "66 km NNE of Cruz Bay, U.S. Virgin Islands",
-      "time": 1791738590400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536478"
-    },
-    {
-      "id": "us6000u1lg",
-      "lon": 143.5141,
-      "lat": 22.0334,
-      "depth": 10,
-      "mag": 4.4,
-      "place": "Volcano Islands, Japan region",
-      "time": 1791738353684,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1lg"
     }
   ]
 }
