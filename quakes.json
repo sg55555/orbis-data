@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-13T05:45:42Z",
-  "count": 245,
+  "updated": "2026-10-13T06:01:11Z",
+  "count": 243,
   "points": [
+    {
+      "id": "hv75055142",
+      "lon": -155.198165893555,
+      "lat": 19.343334197998,
+      "depth": 3.28999996185303,
+      "mag": 1.78,
+      "place": "11 km SSE of Volcano, Hawaii",
+      "time": 1791870290350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75055142"
+    },
     {
       "id": "aka2026ugvsjq",
       "lon": -154.695,
@@ -585,12 +595,12 @@
     },
     {
       "id": "aka2026ugizxy",
-      "lon": -157.046,
-      "lat": 55.182,
-      "depth": 7.1,
+      "lon": -157.064,
+      "lat": 55.194,
+      "depth": 6,
       "mag": 3.5,
-      "place": "150 km SE of Chignik, Alaska",
-      "time": 1791847381765,
+      "place": "148 km SE of Chignik, Alaska",
+      "time": 1791847381755,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ugizxy"
     },
     {
@@ -2422,36 +2432,6 @@
       "place": "82 km NE of Dawson City, Canada",
       "time": 1791786107016,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ufayor"
-    },
-    {
-      "id": "av93068099",
-      "lon": -158.086833333333,
-      "lat": 56.7595,
-      "depth": 0.33,
-      "mag": 0.06,
-      "place": "55 km NNE of Chignik, Alaska",
-      "time": 1791784781460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068099"
-    },
-    {
-      "id": "nc75448216",
-      "lon": -122.845169067383,
-      "lat": 38.8586654663086,
-      "depth": 2.25999999046326,
-      "mag": 1.23,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1791784503620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448216"
-    },
-    {
-      "id": "nc75448211",
-      "lon": -122.827835083008,
-      "lat": 38.8316650390625,
-      "depth": 0.740000009536743,
-      "mag": 1.08,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1791784486380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448211"
     }
   ]
 }
