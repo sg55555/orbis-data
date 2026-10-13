@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-13T01:30:58Z",
-  "count": 250,
+  "updated": "2026-10-13T01:45:41Z",
+  "count": 247,
   "points": [
+    {
+      "id": "ci41346951",
+      "lon": -116.363666666667,
+      "lat": 33.3363333333333,
+      "depth": 12.04,
+      "mag": 1.14,
+      "place": "9 km N of Borrego Springs, CA",
+      "time": 1791855059980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346951"
+    },
     {
       "id": "aka2026ugmtzw",
       "lon": -152.439,
@@ -105,12 +115,12 @@
     },
     {
       "id": "us6000u1ww",
-      "lon": -81.5274,
-      "lat": 7.7361,
+      "lon": -81.4934,
+      "lat": 7.7328,
       "depth": 10,
-      "mag": 4.8,
-      "place": "21 km W of Río Grande, Panama",
-      "time": 1791848206354,
+      "mag": 4.9,
+      "place": "17 km W of Río Grande, Panama",
+      "time": 1791848206150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ww"
     },
     {
@@ -2462,46 +2472,6 @@
       "place": "35 km SW of Nanwalek, Alaska",
       "time": 1791769815120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uerwzp"
-    },
-    {
-      "id": "tx2026ublrwi",
-      "lon": -98.96,
-      "lat": 28.861,
-      "depth": 8.0981,
-      "mag": 1.6,
-      "place": "13 km ESE of Pearsall, Texas",
-      "time": 1791769457501,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ublrwi"
-    },
-    {
-      "id": "nc75448116",
-      "lon": -122.814163208008,
-      "lat": 38.8313331604004,
-      "depth": 1.87000000476837,
-      "mag": 1.06,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1791769409640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448116"
-    },
-    {
-      "id": "av94444413",
-      "lon": -169.9565,
-      "lat": 52.818,
-      "depth": -1.24,
-      "mag": 0.82,
-      "place": "74 km W of Nikolski, Alaska",
-      "time": 1791769309970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94444413"
-    },
-    {
-      "id": "aka2026uerfuq",
-      "lon": -179.133,
-      "lat": 51.028,
-      "depth": 25.5,
-      "mag": 2.9,
-      "place": "197 km WSW of Adak, Alaska",
-      "time": 1791768624902,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uerfuq"
     }
   ]
 }
