@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-13T03:01:13Z",
-  "count": 241,
+  "updated": "2026-10-13T03:15:45Z",
+  "count": 242,
   "points": [
+    {
+      "id": "ci41346991",
+      "lon": -116.481666666667,
+      "lat": 33.495,
+      "depth": 13.84,
+      "mag": 0.72,
+      "place": "19 km ESE of Anza, CA",
+      "time": 1791861062370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346991"
+    },
+    {
+      "id": "ci41346983",
+      "lon": -116.255,
+      "lat": 33.3111666666667,
+      "depth": 8.97,
+      "mag": 1.06,
+      "place": "13 km ENE of Borrego Springs, CA",
+      "time": 1791860611720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346983"
+    },
     {
       "id": "nc75448646",
       "lon": -121.454833984375,
@@ -12,6 +32,16 @@
       "place": "26 km WSW of Westley, CA",
       "time": 1791860038030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448646"
+    },
+    {
+      "id": "us6000u1y4",
+      "lon": -80.5888,
+      "lat": 7.582,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "9 km SSE of La Mesa, Panama",
+      "time": 1791859682033,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1y4"
     },
     {
       "id": "aka2026ugpdsh",
@@ -202,6 +232,26 @@
       "place": "5 km WNW of Cobb, CA",
       "time": 1791849749740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448591"
+    },
+    {
+      "id": "us6000u1x2",
+      "lon": -81.5285,
+      "lat": 7.7956,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "23 km WNW of Río Grande, Panama",
+      "time": 1791849721476,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1x2"
+    },
+    {
+      "id": "us6000u1wz",
+      "lon": -81.6339,
+      "lat": 7.8267,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "24 km SW of Zapotillo, Panama",
+      "time": 1791848713532,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wz"
     },
     {
       "id": "us6000u1x0",
@@ -2372,46 +2422,6 @@
       "place": "71 km WSW of Nikolski, Alaska",
       "time": 1791775513050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94444543"
-    },
-    {
-      "id": "nc75448156",
-      "lon": -122.784332275391,
-      "lat": 38.8201675415039,
-      "depth": 1.71000003814697,
-      "mag": 0.97,
-      "place": "5 km W of Cobb, CA",
-      "time": 1791774772940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448156"
-    },
-    {
-      "id": "ci41346583",
-      "lon": -117.455,
-      "lat": 34.07,
-      "depth": 3.44,
-      "mag": 1.15,
-      "place": "3 km S of Fontana, CA",
-      "time": 1791774383700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346583"
-    },
-    {
-      "id": "hv75054327",
-      "lon": -155.238494873047,
-      "lat": 19.4055004119873,
-      "depth": 36.2799987792969,
-      "mag": 1.96,
-      "place": "4 km S of Volcano, Hawaii",
-      "time": 1791774249520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75054327"
-    },
-    {
-      "id": "uw714118572",
-      "lon": -122.472333333333,
-      "lat": 45.7675,
-      "depth": 13.2,
-      "mag": 1.14,
-      "place": "3 km NNE of Hockinson, Washington",
-      "time": 1791774095610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118572"
     }
   ]
 }
