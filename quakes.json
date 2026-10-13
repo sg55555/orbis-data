@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-13T10:15:46Z",
+  "updated": "2026-10-13T10:31:02Z",
   "count": 230,
   "points": [
+    {
+      "id": "nc75448751",
+      "lon": -124.50350189209,
+      "lat": 40.2869987487793,
+      "depth": 9.43000030517578,
+      "mag": 2.66,
+      "place": "19 km WSW of Petrolia, CA",
+      "time": 1791886548040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448751"
+    },
     {
       "id": "nc75448746",
       "lon": -124.884162902832,
@@ -22,6 +32,16 @@
       "place": "34 km NW of Chenega, Alaska",
       "time": 1791885724128,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uhehzh"
+    },
+    {
+      "id": "us6000u20i",
+      "lon": 118.8246,
+      "lat": -9.9266,
+      "depth": 35,
+      "mag": 4.5,
+      "place": "71 km SW of Tambolaka, Indonesia",
+      "time": 1791884908205,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u20i"
     },
     {
       "id": "aka2026uhdgrz",
@@ -2282,26 +2302,6 @@
       "place": "35 km W of Chignik Lake, Alaska",
       "time": 1791801445640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94444963"
-    },
-    {
-      "id": "uu80159596",
-      "lon": -112.905833333333,
-      "lat": 38.513,
-      "depth": 3.34,
-      "mag": 1.87,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1791800418500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80159596"
-    },
-    {
-      "id": "av94444948",
-      "lon": -169.889,
-      "lat": 52.7846666666667,
-      "depth": 7.78,
-      "mag": 1.77,
-      "place": "71 km WSW of Nikolski, Alaska",
-      "time": 1791800321620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94444948"
     }
   ]
 }
