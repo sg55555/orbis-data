@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-13T13:31:00Z",
-  "count": 220,
+  "updated": "2026-10-13T13:45:45Z",
+  "count": 216,
   "points": [
     {
+      "id": "aka2026uhlglo",
+      "lon": -152.961,
+      "lat": 60.146,
+      "depth": 5,
+      "mag": 0.4,
+      "place": "71 km WNW of Happy Valley, Alaska",
+      "time": 1791898210965,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uhlglo"
+    },
+    {
       "id": "ci41347039",
-      "lon": -116.759834289551,
-      "lat": 33.582332611084,
-      "depth": 12.3400001525879,
-      "mag": 1.28707722168828,
+      "lon": -116.761166666667,
+      "lat": 33.58,
+      "depth": 12.29,
+      "mag": 1.09,
       "place": "9 km WNW of Anza, CA",
-      "time": 1791898010090,
+      "time": 1791898010040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347039"
     },
     {
@@ -372,6 +382,16 @@
       "place": "44 km W of Cohoe, Alaska",
       "time": 1791879488633,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uhavxs"
+    },
+    {
+      "id": "us6000u200",
+      "lon": 104.9421,
+      "lat": 38.8294,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "63 km W of Bayan Hot, China",
+      "time": 1791879304080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u200"
     },
     {
       "id": "aka2026uhaqkg",
@@ -2142,66 +2162,6 @@
       "place": "6 km E of Calimesa, CA",
       "time": 1791813038560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346727"
-    },
-    {
-      "id": "us6000u1s2",
-      "lon": 67.099,
-      "lat": -16.2931,
-      "depth": 10,
-      "mag": 4.8,
-      "place": "Mid-Indian Ridge",
-      "time": 1791812681942,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1s2"
-    },
-    {
-      "id": "nc75448311",
-      "lon": -122.795501708984,
-      "lat": 38.8199996948242,
-      "depth": 3.27999997138977,
-      "mag": 0.76,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1791812585300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448311"
-    },
-    {
-      "id": "nn00925667",
-      "lon": -119.2918,
-      "lat": 40.754,
-      "depth": 7.3953,
-      "mag": 2.33,
-      "place": "5 km WSW of Burning Man Earth, Nevada",
-      "time": 1791812449613,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925667"
-    },
-    {
-      "id": "nc75448306",
-      "lon": -122.793830871582,
-      "lat": 38.8196678161621,
-      "depth": 2.8199999332428,
-      "mag": 0.94,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1791812261180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448306"
-    },
-    {
-      "id": "nn00925665",
-      "lon": -119.3047,
-      "lat": 40.7557,
-      "depth": 6.6045,
-      "mag": 2.13,
-      "place": "6 km W of Burning Man Earth, Nevada",
-      "time": 1791812233649,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925665"
-    },
-    {
-      "id": "nc75448301",
-      "lon": -122.793830871582,
-      "lat": 38.8181648254395,
-      "depth": 2.71000003814697,
-      "mag": 1.93,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1791812184300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448301"
     }
   ]
 }
