@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-13T23:31:00Z",
-  "count": 251,
+  "updated": "2026-10-13T23:45:43Z",
+  "count": 250,
   "points": [
+    {
+      "id": "pr71536653",
+      "lon": -67.003,
+      "lat": 18.5626666666667,
+      "depth": 21.72,
+      "mag": 2.83,
+      "place": "7 km NNE of Isabela, Puerto Rico",
+      "time": 1791934195680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536653"
+    },
     {
       "id": "aka2026uifdyg",
       "lon": -147.777,
@@ -232,6 +242,16 @@
       "place": "18 km WSW of Gerlach, Nevada",
       "time": 1791925070403,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925714"
+    },
+    {
+      "id": "uw714119322",
+      "lon": -123.468833333333,
+      "lat": 44.0695,
+      "depth": -0.35,
+      "mag": 1.63,
+      "place": "9 km WNW of Veneta, Oregon",
+      "time": 1791924924590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714119322"
     },
     {
       "id": "nc75449001",
@@ -2482,36 +2502,6 @@
       "place": "24 km SW of Zapotillo, Panama",
       "time": 1791848713532,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wz"
-    },
-    {
-      "id": "us6000u1x0",
-      "lon": 130.3681,
-      "lat": -6.3101,
-      "depth": 130.231,
-      "mag": 4.1,
-      "place": "274 km WSW of Tual, Indonesia",
-      "time": 1791848632181,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1x0"
-    },
-    {
-      "id": "us6000u1ww",
-      "lon": -81.4934,
-      "lat": 7.7328,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "17 km W of Río Grande, Panama",
-      "time": 1791848206150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ww"
-    },
-    {
-      "id": "aka2026ugjlay",
-      "lon": -151.309,
-      "lat": 62.385,
-      "depth": 84,
-      "mag": 2.5,
-      "place": "30 km WSW of Petersville, Alaska",
-      "time": 1791848148306,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ugjlay"
     }
   ]
 }
