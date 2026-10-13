@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-13T18:45:40Z",
-  "count": 227,
+  "updated": "2026-10-13T19:01:12Z",
+  "count": 226,
   "points": [
     {
       "id": "aka2026uhvsnj",
@@ -24,6 +24,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448941"
     },
     {
+      "id": "hv75055442",
+      "lon": -155.2805,
+      "lat": 19.3851666666667,
+      "depth": 1.74,
+      "mag": 0.83,
+      "place": "8 km SW of Volcano, Hawaii",
+      "time": 1791916293180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75055442"
+    },
+    {
       "id": "nc75448936",
       "lon": -121.46183013916,
       "lat": 35.7796669006348,
@@ -32,16 +42,6 @@
       "place": "28 km SSE of Lopez Point, CA",
       "time": 1791916089450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448936"
-    },
-    {
-      "id": "ci41347151",
-      "lon": -116.655,
-      "lat": 32.9438333333333,
-      "depth": 10.63,
-      "mag": 0.88,
-      "place": "14 km ESE of San Diego Country Estates, CA",
-      "time": 1791916062080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347151"
     },
     {
       "id": "ci41347135",
@@ -92,6 +92,26 @@
       "place": "15 km NE of Little Lake, CA",
       "time": 1791913523910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347127"
+    },
+    {
+      "id": "ci41347111",
+      "lon": -116.718166666667,
+      "lat": 33.5326666666667,
+      "depth": 2.72,
+      "mag": 0.18,
+      "place": "5 km WSW of Anza, CA",
+      "time": 1791911783980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347111"
+    },
+    {
+      "id": "ci10256814",
+      "lon": -116.454166666667,
+      "lat": 33.4711666666667,
+      "depth": 5.7,
+      "mag": -0.09,
+      "place": "22 km ESE of Anza, CA",
+      "time": 1791911771980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10256814"
     },
     {
       "id": "nc75448911",
@@ -185,12 +205,12 @@
     },
     {
       "id": "ci41347071",
-      "lon": -118.703166666667,
-      "lat": 34.4885,
-      "depth": 16.35,
-      "mag": 1.58,
-      "place": "7 km W of Castaic, CA",
-      "time": 1791906054030,
+      "lon": -118.71,
+      "lat": 34.4878333333333,
+      "depth": 17.95,
+      "mag": 1.42,
+      "place": "8 km W of Castaic, CA",
+      "time": 1791906053820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347071"
     },
     {
@@ -1032,6 +1052,16 @@
       "place": "124 km N of Pagudpud, Philippines",
       "time": 1791871284155,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1zc"
+    },
+    {
+      "id": "uu80159716",
+      "lon": -110.6625,
+      "lat": 37.4775,
+      "depth": 26.43,
+      "mag": 2.13,
+      "place": "5 km ENE of Halls Crossing, Utah",
+      "time": 1791871012360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80159716"
     },
     {
       "id": "uu80159711",
@@ -2232,46 +2262,6 @@
       "place": "11 km NE of Borrego Springs, CA",
       "time": 1791832021450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346879"
-    },
-    {
-      "id": "uw714118812",
-      "lon": -122.186,
-      "lat": 46.2011666666667,
-      "depth": 1.9,
-      "mag": -0.23,
-      "place": "38 km NNE of Amboy, Washington",
-      "time": 1791831547540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118812"
-    },
-    {
-      "id": "ci41346871",
-      "lon": -116.365666666667,
-      "lat": 33.9261666666667,
-      "depth": 7.38,
-      "mag": 0.79,
-      "place": "12 km N of Thousand Palms, CA",
-      "time": 1791831403370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346871"
-    },
-    {
-      "id": "uu80159616",
-      "lon": -112.905666666667,
-      "lat": 38.5116666666667,
-      "depth": 3.36,
-      "mag": 1.56,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1791831390290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80159616"
-    },
-    {
-      "id": "aka2026ufzwkj",
-      "lon": -149.852,
-      "lat": 62.256,
-      "depth": 14.2,
-      "mag": 1.4,
-      "place": "10 km N of Susitna North, Alaska",
-      "time": 1791830945905,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ufzwkj"
     }
   ]
 }
