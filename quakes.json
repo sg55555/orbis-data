@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-13T20:45:45Z",
-  "count": 245,
+  "updated": "2026-10-13T21:01:10Z",
+  "count": 244,
   "points": [
+    {
+      "id": "nc75449001",
+      "lon": -122.766334533691,
+      "lat": 38.8238334655762,
+      "depth": 2.00999999046326,
+      "mag": 0.72,
+      "place": "4 km W of Cobb, CA",
+      "time": 1791924397240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449001"
+    },
     {
       "id": "aka2026uhzjts",
       "lon": -151.213,
@@ -295,12 +305,12 @@
     },
     {
       "id": "ci41347127",
-      "lon": -117.7785,
-      "lat": 36.0228333333333,
-      "depth": 1.57,
+      "lon": -117.777333333333,
+      "lat": 36.0231666666667,
+      "depth": 1.55,
       "mag": 1.15,
       "place": "15 km NE of Little Lake, CA",
-      "time": 1791913523910,
+      "time": 1791913523900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347127"
     },
     {
@@ -1924,6 +1934,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1xk"
     },
     {
+      "id": "av94445873",
+      "lon": -152.106333333333,
+      "lat": 61.3343333333333,
+      "depth": 2.72,
+      "mag": -0.74,
+      "place": "59 km WNW of Beluga, Alaska",
+      "time": 1791855352190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94445873"
+    },
+    {
       "id": "uu80159661",
       "lon": -112.905333333333,
       "lat": 38.5143333333333,
@@ -2422,36 +2442,6 @@
       "place": "93 km N of Karluk, Alaska",
       "time": 1791838912070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94445563"
-    },
-    {
-      "id": "uw714118892",
-      "lon": -122.3335,
-      "lat": 46.2188333333333,
-      "depth": 14.68,
-      "mag": 0.21,
-      "place": "35 km NNE of Amboy, Washington",
-      "time": 1791838639480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714118892"
-    },
-    {
-      "id": "hv75054847",
-      "lon": -155.495834350586,
-      "lat": 19.1781673431396,
-      "depth": 31.3400001525879,
-      "mag": 2.32,
-      "place": "3 km SSW of Pāhala, Hawaii",
-      "time": 1791838571250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75054847"
-    },
-    {
-      "id": "nc75448501",
-      "lon": -118.471000671387,
-      "lat": 37.5263328552246,
-      "depth": 8.02999973297119,
-      "mag": 2.17,
-      "place": "16 km NNW of Dixon Lane-Meadow Creek, CA",
-      "time": 1791838321710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448501"
     }
   ]
 }
