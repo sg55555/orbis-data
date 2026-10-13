@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-13T14:15:45Z",
-  "count": 216,
+  "updated": "2026-10-13T14:31:07Z",
+  "count": 215,
   "points": [
+    {
+      "id": "aka2026uhnbig",
+      "lon": -150.985,
+      "lat": 60.663,
+      "depth": 55.5,
+      "mag": 2.5,
+      "place": "15 km NNE of Ridgeway, Alaska",
+      "time": 1791901453863,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uhnbig"
+    },
     {
       "id": "aka2026uhmpua",
       "lon": -155.605,
@@ -35,12 +45,12 @@
     },
     {
       "id": "ci41347047",
-      "lon": -117.781166666667,
+      "lon": -117.780833333333,
       "lat": 36.0251666666667,
-      "depth": 1.6,
-      "mag": 2.57,
+      "depth": 1.72,
+      "mag": 2.71,
       "place": "15 km NE of Little Lake, CA",
-      "time": 1791899745310,
+      "time": 1791899745280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347047"
     },
     {
@@ -152,6 +162,16 @@
       "place": "2 km SSW of Minto, Alaska",
       "time": 1791893856694,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uhivno"
+    },
+    {
+      "id": "us6000u211",
+      "lon": 70.8791,
+      "lat": 36.5385,
+      "depth": 188.82,
+      "mag": 4.3,
+      "place": "36 km S of Jurm, Afghanistan",
+      "time": 1791893566978,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u211"
     },
     {
       "id": "nc75448796",
@@ -2132,36 +2152,6 @@
       "place": "2 km ESE of Loma Linda, CA",
       "time": 1791816357610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346775"
-    },
-    {
-      "id": "us6000u1s8",
-      "lon": 174.8342,
-      "lat": 51.4264,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "194 km SE of Attu Station, Alaska",
-      "time": 1791815393312,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1s8"
-    },
-    {
-      "id": "aka2026ufqvwj",
-      "lon": -152.852,
-      "lat": 60.353,
-      "depth": 132.8,
-      "mag": 2.6,
-      "place": "73 km WNW of Ninilchik, Alaska",
-      "time": 1791814751296,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ufqvwj"
-    },
-    {
-      "id": "aka2026ufqssy",
-      "lon": -155.191,
-      "lat": 57.356,
-      "depth": 56.1,
-      "mag": 1.7,
-      "place": "50 km WSW of Karluk, Alaska",
-      "time": 1791814501542,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ufqssy"
     }
   ]
 }
