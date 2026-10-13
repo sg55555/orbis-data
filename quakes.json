@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-13T13:15:42Z",
-  "count": 219,
+  "updated": "2026-10-13T13:31:00Z",
+  "count": 220,
   "points": [
+    {
+      "id": "ci41347039",
+      "lon": -116.759834289551,
+      "lat": 33.582332611084,
+      "depth": 12.3400001525879,
+      "mag": 1.28707722168828,
+      "place": "9 km WNW of Anza, CA",
+      "time": 1791898010090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347039"
+    },
     {
       "id": "nc75448816",
       "lon": -121.270164489746,
@@ -272,6 +282,16 @@
       "place": "10 km NW of The Geysers, CA",
       "time": 1791883571520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448736"
+    },
+    {
+      "id": "uu80159746",
+      "lon": -112.9055,
+      "lat": 38.5135,
+      "depth": 3.19,
+      "mag": 1.07,
+      "place": "15 km NE of Milford, Utah",
+      "time": 1791882853730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80159746"
     },
     {
       "id": "aka2026uhcrgh",
@@ -622,6 +642,16 @@
       "place": "48 km N of Aleneva, Alaska",
       "time": 1791869427405,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ugvgnd"
+    },
+    {
+      "id": "us6000u1yx",
+      "lon": -79.9181,
+      "lat": 7.4834,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "13 km ESE of Pedasí, Panama",
+      "time": 1791869298605,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1yx"
     },
     {
       "id": "hv75055122",
@@ -1814,6 +1844,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75054717"
     },
     {
+      "id": "ok2026uaeo",
+      "lon": -95.84916667,
+      "lat": 36.23916667,
+      "depth": 0,
+      "mag": 1.17,
+      "place": "3 km S of Owasso, Oklahoma",
+      "time": 1791824452380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026uaeo"
+    },
+    {
       "id": "ci41346815",
       "lon": -116.923,
       "lat": 34.1013333333333,
@@ -2162,36 +2202,6 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1791812184300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448301"
-    },
-    {
-      "id": "av93068119",
-      "lon": -159.543833333333,
-      "lat": 56.1101666666667,
-      "depth": 4.34,
-      "mag": -0.31,
-      "place": "23 km N of Ivanof Bay, Alaska",
-      "time": 1791811777320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068119"
-    },
-    {
-      "id": "us6000u1rx",
-      "lon": -80.4946,
-      "lat": 7.3997,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "6 km W of Tonosí, Panama",
-      "time": 1791811038746,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rx"
-    },
-    {
-      "id": "ok2026tzxd",
-      "lon": -97.77383333,
-      "lat": 34.96233333,
-      "depth": 6.96,
-      "mag": 1.55,
-      "place": "5 km N of Alex, Oklahoma",
-      "time": 1791810984269,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026tzxd"
     }
   ]
 }
