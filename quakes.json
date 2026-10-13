@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-13T14:45:45Z",
-  "count": 217,
+  "updated": "2026-10-13T15:01:16Z",
+  "count": 219,
   "points": [
+    {
+      "id": "us6000u21s",
+      "lon": 152.1255,
+      "lat": -5.4448,
+      "depth": 18.521,
+      "mag": 5.3,
+      "place": "122 km S of Kokopo, Papua New Guinea",
+      "time": 1791902170660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u21s"
+    },
+    {
+      "id": "pr71536598",
+      "lon": -66.5991666666667,
+      "lat": 17.9446666666667,
+      "depth": 13.68,
+      "mag": 2.24,
+      "place": "7 km SSE of Ponce, Puerto Rico",
+      "time": 1791901865970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536598"
+    },
     {
       "id": "hv75055352",
       "lon": -155.49983215332,
@@ -422,6 +442,16 @@
       "place": "80 km W of Karluk, Alaska",
       "time": 1791881555220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uhbzth"
+    },
+    {
+      "id": "tx2026udvjhg",
+      "lon": -104.476,
+      "lat": 31.655,
+      "depth": 6.0999,
+      "mag": 1.9,
+      "place": "58 km S of Whites City, New Mexico",
+      "time": 1791881124545,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026udvjhg"
     },
     {
       "id": "aka2026uhbnsf",
@@ -975,12 +1005,12 @@
     },
     {
       "id": "ci41346999",
-      "lon": -118.877833333333,
-      "lat": 34.1033333333333,
-      "depth": 16.86,
-      "mag": 1.52,
-      "place": "8 km SW of Westlake Village, CA",
-      "time": 1791861613590,
+      "lon": -118.879666666667,
+      "lat": 34.1075,
+      "depth": 16.37,
+      "mag": 1.33,
+      "place": "8 km WSW of Westlake Village, CA",
+      "time": 1791861613550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346999"
     },
     {
@@ -1235,12 +1265,12 @@
     },
     {
       "id": "ci41346927",
-      "lon": -117.459166666667,
-      "lat": 34.0695,
-      "depth": 3.45,
-      "mag": 1.65,
+      "lon": -117.457166666667,
+      "lat": 34.0705,
+      "depth": 3.76,
+      "mag": 1.53,
       "place": "3 km S of Fontana, CA",
-      "time": 1791849848950,
+      "time": 1791849848930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346927"
     },
     {
@@ -2162,16 +2192,6 @@
       "place": "74 km ENE of Port Alsworth, Alaska",
       "time": 1791817584909,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ufslif"
-    },
-    {
-      "id": "ci41346775",
-      "lon": -117.245166666667,
-      "lat": 34.045,
-      "depth": 14.1,
-      "mag": 0.94,
-      "place": "2 km ESE of Loma Linda, CA",
-      "time": 1791816357610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346775"
     }
   ]
 }
