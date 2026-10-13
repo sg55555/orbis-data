@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-13T07:01:31Z",
-  "count": 244,
+  "updated": "2026-10-13T07:15:40Z",
+  "count": 245,
   "points": [
+    {
+      "id": "ci41347023",
+      "lon": -116.465835571289,
+      "lat": 33.461498260498,
+      "depth": 2.82999992370605,
+      "mag": 1.52246702195303,
+      "place": "22 km ESE of Anza, CA",
+      "time": 1791875557240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347023"
+    },
+    {
+      "id": "aka2026ugyjuv",
+      "lon": -155.645,
+      "lat": 56.827,
+      "depth": 9.7,
+      "mag": 1.8,
+      "place": "90 km W of Akhiok, Alaska",
+      "time": 1791875055661,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ugyjuv"
+    },
     {
       "id": "nc75448691",
       "lon": -121.172332763672,
@@ -92,6 +112,16 @@
       "place": "55 km NW of Tatitlek, Alaska",
       "time": 1791871882816,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ugwpzi"
+    },
+    {
+      "id": "us6000u1zc",
+      "lon": 120.7047,
+      "lat": 19.6853,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "124 km N of Pagudpud, Philippines",
+      "time": 1791871284155,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1zc"
     },
     {
       "id": "hv75055142",
@@ -2422,26 +2452,6 @@
       "place": "7 km ESE of Tebario, Panama",
       "time": 1791789366367,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1qd"
-    },
-    {
-      "id": "tx2026ubwpqb",
-      "lon": -98.962,
-      "lat": 28.838,
-      "depth": 7.3979,
-      "mag": 1.9,
-      "place": "14 km ESE of Pearsall, Texas",
-      "time": 1791789215108,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ubwpqb"
-    },
-    {
-      "id": "ok2026tzkx",
-      "lon": -97.76866667,
-      "lat": 34.9825,
-      "depth": 7.32,
-      "mag": 1.88,
-      "place": "7 km N of Alex, Oklahoma",
-      "time": 1791788742820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026tzkx"
     }
   ]
 }
