@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-14T06:15:45Z",
-  "count": 251,
+  "updated": "2026-10-14T06:31:00Z",
+  "count": 254,
   "points": [
+    {
+      "id": "ci41347407",
+      "lon": -116.709,
+      "lat": 33.5368333333333,
+      "depth": 6.33,
+      "mag": 0.38,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1791958434300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347407"
+    },
     {
       "id": "hv75055917",
       "lon": -155.279495239258,
@@ -72,6 +82,16 @@
       "place": "15 km WSW of Johannesburg, CA",
       "time": 1791955718170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347383"
+    },
+    {
+      "id": "us6000u27j",
+      "lon": -80.6021,
+      "lat": 7.5657,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "10 km S of La Mesa, Panama",
+      "time": 1791954575397,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u27j"
     },
     {
       "id": "ci41347375",
@@ -1042,6 +1062,26 @@
       "place": "4 km SW of Pāhala, Hawaii",
       "time": 1791918946010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75055472"
+    },
+    {
+      "id": "av94447213",
+      "lon": -169.8815,
+      "lat": 52.8833333333333,
+      "depth": 9.01,
+      "mag": 0.76,
+      "place": "68 km W of Nikolski, Alaska",
+      "time": 1791918868370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94447213"
+    },
+    {
+      "id": "av94447208",
+      "lon": -136.1595,
+      "lat": 57.269,
+      "depth": 11.5,
+      "mag": 0.96,
+      "place": "55 km WNW of Sitka, Alaska",
+      "time": 1791918452640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94447208"
     },
     {
       "id": "nc75448966",
@@ -2502,16 +2542,6 @@
       "place": "15 km ESE of Pearsall, Texas",
       "time": 1791873223543,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026udracn"
-    },
-    {
-      "id": "aka2026ugwvjq",
-      "lon": -155.737,
-      "lat": 57.521,
-      "depth": 25.1,
-      "mag": 1.2,
-      "place": "76 km W of Karluk, Alaska",
-      "time": 1791872256462,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ugwvjq"
     }
   ]
 }
