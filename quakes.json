@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-14T19:01:18Z",
-  "count": 228,
+  "updated": "2026-10-14T19:15:45Z",
+  "count": 227,
   "points": [
+    {
+      "id": "ci41347575",
+      "lon": -116.653,
+      "lat": 33.0433333333333,
+      "depth": 10.45,
+      "mag": 2.26,
+      "place": "6 km SW of Julian, CA",
+      "time": 1792004898970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347575"
+    },
     {
       "id": "nc75449346",
       "lon": -122.814331054688,
@@ -515,12 +525,12 @@
     },
     {
       "id": "hv75056012",
-      "lon": -155.266159057617,
-      "lat": 19.4331665039062,
-      "depth": 37.6699981689453,
-      "mag": 2.17,
-      "place": "3 km WSW of Volcano, Hawaii",
-      "time": 1791975048910,
+      "lon": -155.256833333333,
+      "lat": 19.413,
+      "depth": 39.29,
+      "mag": 1.83,
+      "place": "4 km SW of Volcano, Hawaii",
+      "time": 1791975048650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75056012"
     },
     {
@@ -672,6 +682,16 @@
       "place": "6 km WSW of Wilderness Rim, Washington",
       "time": 1791970826410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714119572"
+    },
+    {
+      "id": "nn00925747",
+      "lon": -116.8218,
+      "lat": 39.601,
+      "depth": 0,
+      "mag": 1.92,
+      "place": "24 km ENE of Austin, Nevada",
+      "time": 1791970822095,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925747"
     },
     {
       "id": "uw714119582",
@@ -2252,36 +2272,6 @@
       "place": "4 km SW of Pāhala, Hawaii",
       "time": 1791918946010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75055472"
-    },
-    {
-      "id": "av94447213",
-      "lon": -169.8815,
-      "lat": 52.8833333333333,
-      "depth": 9.01,
-      "mag": 0.76,
-      "place": "68 km W of Nikolski, Alaska",
-      "time": 1791918868370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94447213"
-    },
-    {
-      "id": "av94447208",
-      "lon": -136.1595,
-      "lat": 57.269,
-      "depth": 11.5,
-      "mag": 0.96,
-      "place": "55 km WNW of Sitka, Alaska",
-      "time": 1791918452640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94447208"
-    },
-    {
-      "id": "nc75448966",
-      "lon": -122.793334960938,
-      "lat": 38.8095016479492,
-      "depth": 3.34999990463257,
-      "mag": 0.42,
-      "place": "5 km NW of The Geysers, CA",
-      "time": 1791918332270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448966"
     }
   ]
 }
