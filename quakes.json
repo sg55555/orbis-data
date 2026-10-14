@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-14T00:45:42Z",
-  "count": 251,
+  "updated": "2026-10-14T01:01:10Z",
+  "count": 256,
   "points": [
+    {
+      "id": "nc75449081",
+      "lon": -122.776168823242,
+      "lat": 38.8269996643066,
+      "depth": 7.17999982833862,
+      "mag": 0.2,
+      "place": "5 km W of Cobb, CA",
+      "time": 1791938719890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449081"
+    },
+    {
+      "id": "ci41347287",
+      "lon": -115.458333333333,
+      "lat": 32.7105,
+      "depth": 11.89,
+      "mag": 1.69,
+      "place": "5 km NE of Calexico, CA",
+      "time": 1791938652300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347287"
+    },
     {
       "id": "aka2026uihpva",
       "lon": -147.59,
@@ -14,6 +34,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uihpva"
     },
     {
+      "id": "us6000u26f",
+      "lon": -71.8431,
+      "lat": -29.2178,
+      "depth": 10,
+      "mag": 5,
+      "place": "95 km NNW of Coquimbo, Chile",
+      "time": 1791938205817,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26f"
+    },
+    {
       "id": "hv75055722",
       "lon": -155.463165283203,
       "lat": 19.2143325805664,
@@ -22,6 +52,16 @@
       "place": "2 km NE of Pāhala, Hawaii",
       "time": 1791938180410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75055722"
+    },
+    {
+      "id": "us6000u26c",
+      "lon": -71.7894,
+      "lat": -29.2135,
+      "depth": 19.222,
+      "mag": 5.1,
+      "place": "92 km NW of La Serena, Chile",
+      "time": 1791937847533,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26c"
     },
     {
       "id": "ci41347263",
@@ -155,12 +195,12 @@
     },
     {
       "id": "us6000u25y",
-      "lon": -104.4718,
-      "lat": 32.3686,
+      "lon": -104.478,
+      "lat": 32.3762,
       "depth": 10,
-      "mag": 3.7,
-      "place": "23 km NNW of Whites City, New Mexico",
-      "time": 1791931140351,
+      "mag": 3.6,
+      "place": "23 km WSW of Carlsbad, New Mexico",
+      "time": 1791931140232,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u25y"
     },
     {
@@ -1254,6 +1294,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347031"
     },
     {
+      "id": "av94446493",
+      "lon": -169.894666666667,
+      "lat": 52.8008333333333,
+      "depth": 9.12,
+      "mag": 1.13,
+      "place": "71 km WSW of Nikolski, Alaska",
+      "time": 1791889418320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94446493"
+    },
+    {
+      "id": "av94446468",
+      "lon": -153.073,
+      "lat": 60.0045,
+      "depth": 0.39,
+      "mag": -0.89,
+      "place": "62 km ENE of Pedro Bay, Alaska",
+      "time": 1791888151110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94446468"
+    },
+    {
       "id": "pr71536583",
       "lon": -66.9751666666667,
       "lat": 18.5348333333333,
@@ -1262,6 +1322,16 @@
       "place": "6 km NE of Isabela, Puerto Rico",
       "time": 1791888068310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536583"
+    },
+    {
+      "id": "av94446453",
+      "lon": -169.896666666667,
+      "lat": 52.807,
+      "depth": 8.41,
+      "mag": 1.23,
+      "place": "71 km WSW of Nikolski, Alaska",
+      "time": 1791887192180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94446453"
     },
     {
       "id": "tx2026udyqxk",
@@ -2492,26 +2562,6 @@
       "place": "12 km SSE of Fern Forest, Hawaii",
       "time": 1791853748590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75055022"
-    },
-    {
-      "id": "uu80159656",
-      "lon": -112.906166666667,
-      "lat": 38.5135,
-      "depth": 3.73,
-      "mag": 1.77,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1791852611990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80159656"
-    },
-    {
-      "id": "hv75055012",
-      "lon": -155.261337280273,
-      "lat": 19.183500289917,
-      "depth": 38.5999984741211,
-      "mag": 2.05,
-      "place": "22 km E of Pāhala, Hawaii",
-      "time": 1791852543090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75055012"
     }
   ]
 }
