@@ -1,14 +1,24 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-14T22:01:16Z",
-  "count": 215,
+  "updated": "2026-10-14T22:15:42Z",
+  "count": 214,
   "points": [
     {
+      "id": "aka2026ujynxs",
+      "lon": -147.452,
+      "lat": 65.001,
+      "depth": 4.5,
+      "mag": 1.1,
+      "place": "9 km ENE of Fox, Alaska",
+      "time": 1792015675201,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ujynxs"
+    },
+    {
       "id": "ci41347647",
-      "lon": -116.766334533691,
-      "lat": 33.5755004882812,
-      "depth": 11.8400001525879,
-      "mag": 1.97856537515111,
+      "lon": -116.767666666667,
+      "lat": 33.5745,
+      "depth": 11.85,
+      "mag": 1.88,
       "place": "9 km WNW of Anza, CA",
       "time": 1792015065410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347647"
@@ -2132,26 +2142,6 @@
       "place": "32 km N of Amboy, Washington",
       "time": 1791929994290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714119392"
-    },
-    {
-      "id": "ok2026ucke",
-      "lon": -95.83766667,
-      "lat": 36.20583333,
-      "depth": 0,
-      "mag": 1.51,
-      "place": "7 km SSE of Owasso, Oklahoma",
-      "time": 1791929239379,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ucke"
-    },
-    {
-      "id": "uu80159861",
-      "lon": -111.196333333333,
-      "lat": 39.2936666666667,
-      "depth": -2.92,
-      "mag": 0.93,
-      "place": "14 km WNW of Orangeville, Utah",
-      "time": 1791928925410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80159861"
     }
   ]
 }
