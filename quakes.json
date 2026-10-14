@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-14T21:15:44Z",
-  "count": 220,
+  "updated": "2026-10-14T21:31:19Z",
+  "count": 215,
   "points": [
     {
+      "id": "nc75449461",
+      "lon": -122.783164978027,
+      "lat": 38.8373336791992,
+      "depth": 1.89999997615814,
+      "mag": 1.18,
+      "place": "5 km WNW of Cobb, CA",
+      "time": 1792013080220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449461"
+    },
+    {
       "id": "uw714119882",
-      "lon": -122.804496765137,
-      "lat": 47.4283332824707,
-      "depth": 25.5100002288818,
-      "mag": 2.03788876533508,
-      "place": "3 km SE of Belfair, Washington",
-      "time": 1792011969520,
+      "lon": -122.811833333333,
+      "lat": 47.4393333333333,
+      "depth": 30.21,
+      "mag": 1.92,
+      "place": "1 km SE of Belfair, Washington",
+      "time": 1792011969020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714119882"
     },
     {
@@ -2142,66 +2152,6 @@
       "place": "67 km W of Nikolski, Alaska",
       "time": 1791927121250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94447418"
-    },
-    {
-      "id": "aka2026uibecy",
-      "lon": -149.22,
-      "lat": 62.688,
-      "depth": 59.3,
-      "mag": 1.6,
-      "place": "52 km ENE of Chase, Alaska",
-      "time": 1791926850613,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uibecy"
-    },
-    {
-      "id": "hv75055567",
-      "lon": -155.190833333333,
-      "lat": 19.3323333333333,
-      "depth": 2.43,
-      "mag": 1.98,
-      "place": "13 km SSE of Volcano, Hawaii",
-      "time": 1791926725690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75055567"
-    },
-    {
-      "id": "us6000u25i",
-      "lon": -73.0065,
-      "lat": 6.7888,
-      "depth": 162.209,
-      "mag": 4.8,
-      "place": "5 km NW of Cepitá, Colombia",
-      "time": 1791926661135,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u25i"
-    },
-    {
-      "id": "nc75449021",
-      "lon": -123.795829772949,
-      "lat": 40.1001663208008,
-      "depth": 21.6700000762939,
-      "mag": 1.85,
-      "place": "3 km SE of Redway, CA",
-      "time": 1791926603560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449021"
-    },
-    {
-      "id": "aka2026uibaht",
-      "lon": -154.979,
-      "lat": 58.289,
-      "depth": 5,
-      "mag": 0.3,
-      "place": "85 km NNW of Karluk, Alaska",
-      "time": 1791926572429,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uibaht"
-    },
-    {
-      "id": "uu80159846",
-      "lon": -112.906666666667,
-      "lat": 38.5143333333333,
-      "depth": 3.27,
-      "mag": 1.02,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1791926171130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80159846"
     }
   ]
 }
