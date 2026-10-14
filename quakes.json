@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-14T20:01:19Z",
-  "count": 222,
+  "updated": "2026-10-14T20:15:46Z",
+  "count": 221,
   "points": [
     {
+      "id": "ci41347607",
+      "lon": -117.495833333333,
+      "lat": 33.8403333333333,
+      "depth": 1.54,
+      "mag": 1.79,
+      "place": "5 km SSE of Home Gardens, CA",
+      "time": 1792008621460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347607"
+    },
+    {
+      "id": "nn00925759",
+      "lon": -119.4223,
+      "lat": 38.5822,
+      "depth": 1.3636,
+      "mag": 1.6,
+      "place": "7 km ENE of Coleville, California",
+      "time": 1792008298741,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925759"
+    },
+    {
       "id": "nn00925751",
-      "lon": -118.6558,
-      "lat": 38.7365,
-      "depth": 0.0335,
-      "mag": 3.12,
-      "place": "13 km NE of Walker Lake, Nevada",
-      "time": 1792007679032,
+      "lon": -118.6531,
+      "lat": 38.7308,
+      "depth": 10.1811,
+      "mag": 3.04,
+      "place": "12 km NE of Walker Lake, Nevada",
+      "time": 1792007680223,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925751"
     },
     {
@@ -55,13 +75,23 @@
     },
     {
       "id": "ci41347583",
-      "lon": -116.750166666667,
-      "lat": 33.2491666666667,
-      "depth": 29,
-      "mag": 0.99,
-      "place": "1 km NE of Lake Henshaw, CA",
-      "time": 1792005638980,
+      "lon": -116.7565,
+      "lat": 33.5878333333333,
+      "depth": 12.28,
+      "mag": 0.41,
+      "place": "9 km WNW of Anza, CA",
+      "time": 1792005644080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347583"
+    },
+    {
+      "id": "ci10256998",
+      "lon": -116.7895,
+      "lat": 33.9658333333333,
+      "depth": 9.32,
+      "mag": 0.62,
+      "place": "5 km N of Cabazon, CA",
+      "time": 1792005619060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10256998"
     },
     {
       "id": "aka2026ujsxmc",
@@ -2182,46 +2212,6 @@
       "place": "77 km NNW of Karluk, Alaska",
       "time": 1791923388211,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uhzghh"
-    },
-    {
-      "id": "aka2026uhyspu",
-      "lon": -150.537,
-      "lat": 59.749,
-      "depth": 45,
-      "mag": 2,
-      "place": "26 km ESE of Fox River, Alaska",
-      "time": 1791922470628,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uhyspu"
-    },
-    {
-      "id": "uu80159836",
-      "lon": -112.905333333333,
-      "lat": 38.5093333333333,
-      "depth": 3.26,
-      "mag": 2.09,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1791922328590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80159836"
-    },
-    {
-      "id": "aka2026uhylhc",
-      "lon": -151.716,
-      "lat": 62.318,
-      "depth": 93.6,
-      "mag": 2.1,
-      "place": "40 km NNW of Skwentna, Alaska",
-      "time": 1791921944731,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uhylhc"
-    },
-    {
-      "id": "nc75448991",
-      "lon": -122.846664428711,
-      "lat": 38.8513336181641,
-      "depth": 2.42000007629395,
-      "mag": 0.76,
-      "place": "11 km WNW of Cobb, CA",
-      "time": 1791921890540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448991"
     }
   ]
 }
