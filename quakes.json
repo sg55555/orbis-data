@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-14T06:01:14Z",
-  "count": 252,
+  "updated": "2026-10-14T06:15:45Z",
+  "count": 251,
   "points": [
+    {
+      "id": "hv75055917",
+      "lon": -155.279495239258,
+      "lat": 19.3841667175293,
+      "depth": 1.36000001430511,
+      "mag": 2.02,
+      "place": "8 km SW of Volcano, Hawaii",
+      "time": 1791957919270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75055917"
+    },
     {
       "id": "ci41347391",
       "lon": -116.6955,
@@ -1042,6 +1052,26 @@
       "place": "5 km NW of The Geysers, CA",
       "time": 1791918332270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448966"
+    },
+    {
+      "id": "av94447178",
+      "lon": -169.883,
+      "lat": 52.8313333333333,
+      "depth": 4.65,
+      "mag": 1,
+      "place": "69 km W of Nikolski, Alaska",
+      "time": 1791917628040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94447178"
+    },
+    {
+      "id": "av94447173",
+      "lon": -169.8615,
+      "lat": 52.8258333333333,
+      "depth": 8.55,
+      "mag": 1.85,
+      "place": "68 km W of Nikolski, Alaska",
+      "time": 1791917329170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94447173"
     },
     {
       "id": "us6000u24c",
@@ -2482,46 +2512,6 @@
       "place": "76 km W of Karluk, Alaska",
       "time": 1791872256462,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ugwvjq"
-    },
-    {
-      "id": "av94446158",
-      "lon": -176.192333333333,
-      "lat": 52.0913333333333,
-      "depth": 8,
-      "mag": 0.88,
-      "place": "38 km NE of Adak, Alaska",
-      "time": 1791871943400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94446158"
-    },
-    {
-      "id": "aka2026ugwpzi",
-      "lon": -147.416,
-      "lat": 61.206,
-      "depth": 5,
-      "mag": 1.7,
-      "place": "55 km NW of Tatitlek, Alaska",
-      "time": 1791871882816,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ugwpzi"
-    },
-    {
-      "id": "pr71536573",
-      "lon": -66.6313333333333,
-      "lat": 18.542,
-      "depth": 13.49,
-      "mag": 2.86,
-      "place": "10 km N of Animas, Puerto Rico",
-      "time": 1791871545670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536573"
-    },
-    {
-      "id": "us6000u1zc",
-      "lon": 120.7047,
-      "lat": 19.6853,
-      "depth": 10,
-      "mag": 4.7,
-      "place": "124 km N of Pagudpud, Philippines",
-      "time": 1791871284155,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1zc"
     }
   ]
 }
