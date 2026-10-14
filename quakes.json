@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-14T20:31:01Z",
+  "updated": "2026-10-14T20:45:45Z",
   "count": 225,
   "points": [
+    {
+      "id": "ok2026uecw",
+      "lon": -97.89219666,
+      "lat": 35.8874855,
+      "depth": 8.614636421,
+      "mag": 2.1,
+      "place": "4 km NE of Kingfisher, Oklahoma",
+      "time": 1792010538523,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026uecw"
+    },
     {
       "id": "nc75449441",
       "lon": -122.852668762207,
@@ -42,6 +52,16 @@
       "place": "57 km NW of San Antonio, Puerto Rico",
       "time": 1792008609470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536713"
+    },
+    {
+      "id": "uw714119812",
+      "lon": -121.9215,
+      "lat": 46.8851666666667,
+      "depth": 10.56,
+      "mag": 0.26,
+      "place": "16 km NNE of Ashford, Washington",
+      "time": 1792008301920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714119812"
     },
     {
       "id": "nn00925759",
@@ -2232,26 +2252,6 @@
       "place": "4 km W of Cobb, CA",
       "time": 1791924397240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449001"
-    },
-    {
-      "id": "aka2026uhzjts",
-      "lon": -151.213,
-      "lat": 62.306,
-      "depth": 93.3,
-      "mag": 1.5,
-      "place": "31 km SW of Petersville, Alaska",
-      "time": 1791923628786,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uhzjts"
-    },
-    {
-      "id": "hv75055502",
-      "lon": -155.503997802734,
-      "lat": 19.1506671905518,
-      "depth": 34.0099983215332,
-      "mag": 1.9,
-      "place": "6 km SSW of Pāhala, Hawaii",
-      "time": 1791923459040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75055502"
     }
   ]
 }
