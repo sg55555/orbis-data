@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-14T01:45:42Z",
-  "count": 262,
+  "updated": "2026-10-14T02:01:14Z",
+  "count": 263,
   "points": [
+    {
+      "id": "nc75449111",
+      "lon": -122.804496765137,
+      "lat": 38.9133338928223,
+      "depth": 8.10000038146973,
+      "mag": 1.28,
+      "place": "8 km SSE of Kelseyville, CA",
+      "time": 1791942847210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449111"
+    },
     {
       "id": "nc75449106",
       "lon": -119.507835388184,
@@ -85,12 +95,12 @@
     },
     {
       "id": "hv75055722",
-      "lon": -155.463165283203,
-      "lat": 19.2143325805664,
-      "depth": 30.0100002288818,
-      "mag": 2.14,
+      "lon": -155.4605,
+      "lat": 19.2186666666667,
+      "depth": 31.53,
+      "mag": 2.19,
       "place": "2 km NE of Pāhala, Hawaii",
-      "time": 1791938180410,
+      "time": 1791938180380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75055722"
     },
     {
@@ -934,6 +944,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448846"
     },
     {
+      "id": "av94446853",
+      "lon": -154.996333333333,
+      "lat": 58.2795,
+      "depth": 4.15,
+      "mag": -0.43,
+      "place": "85 km NNW of Karluk, Alaska",
+      "time": 1791903533760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94446853"
+    },
+    {
       "id": "uw714119072",
       "lon": -122.838333333333,
       "lat": 47.8061666666667,
@@ -982,6 +1002,16 @@
       "place": "15 km NNE of Ridgeway, Alaska",
       "time": 1791901453863,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uhnbig"
+    },
+    {
+      "id": "av94446803",
+      "lon": -153.078166666667,
+      "lat": 60.0406666666667,
+      "depth": 0.68,
+      "mag": -0.59,
+      "place": "64 km ENE of Pedro Bay, Alaska",
+      "time": 1791901083580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94446803"
     },
     {
       "id": "aka2026uhmpua",
@@ -1042,6 +1072,16 @@
       "place": "15 km NE of Little Lake, CA",
       "time": 1791899745280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347047"
+    },
+    {
+      "id": "av94446753",
+      "lon": -155.313166666667,
+      "lat": 58.1591666666667,
+      "depth": 0.91,
+      "mag": -0.48,
+      "place": "83 km NW of Karluk, Alaska",
+      "time": 1791899391880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94446753"
     },
     {
       "id": "aka2026uhltms",
@@ -2592,36 +2632,6 @@
       "place": "7 km WNW of Point MacKenzie, Alaska",
       "time": 1791857078744,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ugokaw"
-    },
-    {
-      "id": "uw714119002",
-      "lon": -122.847833333333,
-      "lat": 47.7425,
-      "depth": 18.35,
-      "mag": 0.66,
-      "place": "7 km NNE of Brinnon, Washington",
-      "time": 1791856784160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714119002"
-    },
-    {
-      "id": "ci41346959",
-      "lon": -116.7605,
-      "lat": 33.5816666666667,
-      "depth": 12.17,
-      "mag": 0.88,
-      "place": "9 km WNW of Anza, CA",
-      "time": 1791856695140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346959"
-    },
-    {
-      "id": "aka2026ugnwhi",
-      "lon": -152.345,
-      "lat": 61.24,
-      "depth": 5,
-      "mag": 0.6,
-      "place": "67 km WNW of Tyonek, Alaska",
-      "time": 1791856143882,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ugnwhi"
     }
   ]
 }
