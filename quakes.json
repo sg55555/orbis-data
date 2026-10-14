@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-14T02:01:14Z",
+  "updated": "2026-10-14T02:15:44Z",
   "count": 263,
   "points": [
+    {
+      "id": "hv75055792",
+      "lon": -155.076507568359,
+      "lat": 19.3763332366943,
+      "depth": 4.09999990463257,
+      "mag": 2.1,
+      "place": "11 km SSE of Fern Forest, Hawaii",
+      "time": 1791943629910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75055792"
+    },
     {
       "id": "nc75449111",
       "lon": -122.804496765137,
@@ -882,6 +892,16 @@
       "place": "26 km S of Cantwell, Alaska",
       "time": 1791906508505,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uhpwje"
+    },
+    {
+      "id": "av94446918",
+      "lon": -153.077333333333,
+      "lat": 60.0378333333333,
+      "depth": 0,
+      "mag": -0.53,
+      "place": "63 km ENE of Pedro Bay, Alaska",
+      "time": 1791906143200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94446918"
     },
     {
       "id": "ci41347071",
@@ -2612,26 +2632,6 @@
       "place": "South Sandwich Islands region",
       "time": 1791857817992,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1xy"
-    },
-    {
-      "id": "ci41346967",
-      "lon": -116.747333333333,
-      "lat": 33.489,
-      "depth": 9.73,
-      "mag": 0.38,
-      "place": "10 km SW of Anza, CA",
-      "time": 1791857538330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346967"
-    },
-    {
-      "id": "aka2026ugokaw",
-      "lon": -150.098,
-      "lat": 61.389,
-      "depth": 45.8,
-      "mag": 1.7,
-      "place": "7 km WNW of Point MacKenzie, Alaska",
-      "time": 1791857078744,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ugokaw"
     }
   ]
 }
