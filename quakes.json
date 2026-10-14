@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-14T14:15:45Z",
-  "count": 218,
+  "updated": "2026-10-14T14:31:07Z",
+  "count": 216,
   "points": [
     {
       "id": "ci41347511",
@@ -35,12 +35,12 @@
     },
     {
       "id": "nm60628596",
-      "lon": -91.5643310546875,
-      "lat": 36.7596664428711,
-      "depth": 0.0399999991059303,
-      "mag": 2.04999995,
-      "place": "4 km SW of Thomasville, Missouri",
-      "time": 1791984672420,
+      "lon": -91.557,
+      "lat": 36.759,
+      "depth": 1.49,
+      "mag": 2.45,
+      "place": "4 km SSW of Thomasville, Missouri",
+      "time": 1791984672510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60628596"
     },
     {
@@ -482,6 +482,16 @@
       "place": "3 km SSW of Encino, CA",
       "time": 1791964122710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347439"
+    },
+    {
+      "id": "uu80159901",
+      "lon": -111.8095,
+      "lat": 39.4085,
+      "depth": -0.32,
+      "mag": 1.32,
+      "place": "17 km SSE of Levan, Utah",
+      "time": 1791964075270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80159901"
     },
     {
       "id": "ci41347431",
@@ -2152,36 +2162,6 @@
       "place": "7 km SSE of Ponce, Puerto Rico",
       "time": 1791901865970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536598"
-    },
-    {
-      "id": "hv75055352",
-      "lon": -155.49983215332,
-      "lat": 19.1498336791992,
-      "depth": 31.2999992370605,
-      "mag": 2.23,
-      "place": "6 km SSW of Pāhala, Hawaii",
-      "time": 1791901718040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75055352"
-    },
-    {
-      "id": "aka2026uhnbig",
-      "lon": -150.985,
-      "lat": 60.663,
-      "depth": 55.5,
-      "mag": 2.5,
-      "place": "15 km NNE of Ridgeway, Alaska",
-      "time": 1791901453863,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uhnbig"
-    },
-    {
-      "id": "av94446803",
-      "lon": -153.078166666667,
-      "lat": 60.0406666666667,
-      "depth": 0.68,
-      "mag": -0.59,
-      "place": "64 km ENE of Pedro Bay, Alaska",
-      "time": 1791901083580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94446803"
     }
   ]
 }
