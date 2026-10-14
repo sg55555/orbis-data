@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-14T03:01:14Z",
-  "count": 264,
+  "updated": "2026-10-14T03:15:42Z",
+  "count": 265,
   "points": [
+    {
+      "id": "nc75449156",
+      "lon": -122.798164367676,
+      "lat": 38.8383331298828,
+      "depth": 2.00999999046326,
+      "mag": 0.26,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1791947436320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449156"
+    },
+    {
+      "id": "nc75449151",
+      "lon": -122.875335693359,
+      "lat": 38.8428344726562,
+      "depth": 2.08999991416931,
+      "mag": 0.98,
+      "place": "13 km NW of The Geysers, CA",
+      "time": 1791947326600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449151"
+    },
+    {
+      "id": "nc75449146",
+      "lon": -122.878829956055,
+      "lat": 38.8418350219727,
+      "depth": 2.42000007629395,
+      "mag": 1.39,
+      "place": "13 km ENE of Cloverdale, CA",
+      "time": 1791946923510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449146"
+    },
     {
       "id": "aka2026uimdrj",
       "lon": -151.422,
@@ -252,6 +282,16 @@
       "place": "6 km NW of Farmers Loop, Alaska",
       "time": 1791934020593,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uifdyg"
+    },
+    {
+      "id": "us6000u265",
+      "lon": -68.7527,
+      "lat": -21.8365,
+      "depth": 124.331,
+      "mag": 4.4,
+      "place": "70 km NNE of Calama, Chile",
+      "time": 1791934012460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u265"
     },
     {
       "id": "hv75055687",
@@ -2612,36 +2652,6 @@
       "place": "72 km WSW of Nikolski, Alaska",
       "time": 1791861564630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94445978"
-    },
-    {
-      "id": "ci41346991",
-      "lon": -116.481666666667,
-      "lat": 33.495,
-      "depth": 13.84,
-      "mag": 0.72,
-      "place": "19 km ESE of Anza, CA",
-      "time": 1791861062370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346991"
-    },
-    {
-      "id": "us6000u1y6",
-      "lon": -67.2536,
-      "lat": -28.8882,
-      "depth": 128.266,
-      "mag": 4.4,
-      "place": "38 km NE of Chilecito, Argentina",
-      "time": 1791860651094,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1y6"
-    },
-    {
-      "id": "ci41346983",
-      "lon": -116.2555,
-      "lat": 33.3116666666667,
-      "depth": 8.93,
-      "mag": 1.15,
-      "place": "13 km ENE of Borrego Springs, CA",
-      "time": 1791860611670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346983"
     }
   ]
 }
