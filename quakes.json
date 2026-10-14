@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-14T05:20:52Z",
-  "count": 257,
+  "updated": "2026-10-14T05:30:57Z",
+  "count": 255,
   "points": [
     {
       "id": "ci41347375",
@@ -52,6 +52,16 @@
       "place": "2 km N of Pleasant Hill, CA",
       "time": 1791953475490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449191"
+    },
+    {
+      "id": "us6000u27i",
+      "lon": -160.4145,
+      "lat": 54.9935,
+      "depth": 49.214,
+      "mag": 3.4,
+      "place": "38 km S of Sand Point, Alaska",
+      "time": 1791953459720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u27i"
     },
     {
       "id": "nc75449186",
@@ -2542,36 +2552,6 @@
       "place": "48 km N of Aleneva, Alaska",
       "time": 1791869427405,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ugvgnd"
-    },
-    {
-      "id": "us6000u1yx",
-      "lon": -79.9181,
-      "lat": 7.4834,
-      "depth": 10,
-      "mag": 4.4,
-      "place": "13 km ESE of Pedasí, Panama",
-      "time": 1791869298605,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1yx"
-    },
-    {
-      "id": "hv75055122",
-      "lon": -155.098831176758,
-      "lat": 19.3565006256104,
-      "depth": 5.94999980926514,
-      "mag": 1.85,
-      "place": "12 km SSE of Fern Forest, Hawaii",
-      "time": 1791869208310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75055122"
-    },
-    {
-      "id": "aka2026uguyvc",
-      "lon": -152.87,
-      "lat": 59.981,
-      "depth": 113,
-      "mag": 1.7,
-      "place": "62 km WNW of Anchor Point, Alaska",
-      "time": 1791868906373,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uguyvc"
     }
   ]
 }
