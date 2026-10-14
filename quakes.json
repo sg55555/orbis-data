@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-14T03:30:55Z",
-  "count": 267,
+  "updated": "2026-10-14T03:45:38Z",
+  "count": 264,
   "points": [
+    {
+      "id": "ci41347343",
+      "lon": -117.537833333333,
+      "lat": 32.9906666666667,
+      "depth": 11.38,
+      "mag": 1.41,
+      "place": "23 km WSW of Encinitas, CA",
+      "time": 1791949080730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347343"
+    },
     {
       "id": "nc75449166",
       "lon": -122.87816619873,
@@ -42,6 +52,16 @@
       "place": "10 km S of Idyllwild, CA",
       "time": 1791948054730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347319"
+    },
+    {
+      "id": "us6000u272",
+      "lon": -70.2699,
+      "lat": -20.3552,
+      "depth": 44.914,
+      "mag": 4.9,
+      "place": "16 km WSW of La Tirana, Chile",
+      "time": 1791947469258,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u272"
     },
     {
       "id": "nc75449156",
@@ -2622,56 +2642,6 @@
       "place": "33 km WNW of Happy Valley, Alaska",
       "time": 1791863212033,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ugrurg"
-    },
-    {
-      "id": "tx2026udliip",
-      "lon": -104.291,
-      "lat": 31.661,
-      "depth": 6.4075,
-      "mag": 2,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": 1791863069791,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026udliip"
-    },
-    {
-      "id": "uu80159676",
-      "lon": -112.906166666667,
-      "lat": 38.511,
-      "depth": 2.98,
-      "mag": 1.43,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1791863063680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80159676"
-    },
-    {
-      "id": "aka2026ugrrkp",
-      "lon": -149.076,
-      "lat": 62.915,
-      "depth": 78.2,
-      "mag": 1.5,
-      "place": "53 km S of Cantwell, Alaska",
-      "time": 1791862986111,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ugrrkp"
-    },
-    {
-      "id": "uw714119012",
-      "lon": -122.149833333333,
-      "lat": 46.2055,
-      "depth": 7.41,
-      "mag": 0.15,
-      "place": "40 km NE of Amboy, Washington",
-      "time": 1791862916810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714119012"
-    },
-    {
-      "id": "av94446003",
-      "lon": -169.889666666667,
-      "lat": 52.7968333333333,
-      "depth": 7.63,
-      "mag": 1.6,
-      "place": "71 km WSW of Nikolski, Alaska",
-      "time": 1791862817340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94446003"
     }
   ]
 }
