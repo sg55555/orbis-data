@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-14T04:30:56Z",
-  "count": 260,
+  "updated": "2026-10-14T04:45:38Z",
+  "count": 258,
   "points": [
+    {
+      "id": "ci41347351",
+      "lon": -117.787833333333,
+      "lat": 35.3263333333333,
+      "depth": 8,
+      "mag": 1.04,
+      "place": "15 km WSW of Johannesburg, CA",
+      "time": 1791952508470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347351"
+    },
+    {
+      "id": "aka2026uipjcs",
+      "lon": -152.862,
+      "lat": 60.472,
+      "depth": 16,
+      "mag": 0.4,
+      "place": "81 km NW of Ninilchik, Alaska",
+      "time": 1791952370416,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uipjcs"
+    },
     {
       "id": "aka2026uiouzi",
       "lon": -153.088,
@@ -152,6 +172,16 @@
       "place": "13 km ENE of Cloverdale, CA",
       "time": 1791946923510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449146"
+    },
+    {
+      "id": "us6000u271",
+      "lon": 152.3942,
+      "lat": -5.4957,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "128 km S of Kokopo, Papua New Guinea",
+      "time": 1791946767574,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u271"
     },
     {
       "id": "aka2026uimdrj",
@@ -2552,56 +2582,6 @@
       "place": "35 km NW of Akhiok, Alaska",
       "time": 1791867370317,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uguctu"
-    },
-    {
-      "id": "aka2026ugtsqy",
-      "lon": -147.273,
-      "lat": 60.921,
-      "depth": 22.1,
-      "mag": 1.6,
-      "place": "32 km W of Tatitlek, Alaska",
-      "time": 1791866671114,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ugtsqy"
-    },
-    {
-      "id": "av94446063",
-      "lon": -176.178333333333,
-      "lat": 52.0646666666667,
-      "depth": 4.11,
-      "mag": 0.83,
-      "place": "37 km NE of Adak, Alaska",
-      "time": 1791866451140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94446063"
-    },
-    {
-      "id": "aka2026ugtmjp",
-      "lon": -151.821,
-      "lat": 60.161,
-      "depth": 80.7,
-      "mag": 1.6,
-      "place": "14 km NW of Ninilchik, Alaska",
-      "time": 1791866236743,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ugtmjp"
-    },
-    {
-      "id": "uu80159696",
-      "lon": -112.905666666667,
-      "lat": 38.5081666666667,
-      "depth": 3.06,
-      "mag": 0.9,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1791866178220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80159696"
-    },
-    {
-      "id": "uu80159691",
-      "lon": -112.905333333333,
-      "lat": 38.5135,
-      "depth": 3.05,
-      "mag": 1.69,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1791866004250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80159691"
     }
   ]
 }
