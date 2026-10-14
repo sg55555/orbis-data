@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-14T02:31:00Z",
-  "count": 259,
+  "updated": "2026-10-14T02:45:38Z",
+  "count": 263,
   "points": [
+    {
+      "id": "nc75449131",
+      "lon": -122.877998352051,
+      "lat": 38.8418350219727,
+      "depth": 2.39000010490417,
+      "mag": 1.11,
+      "place": "13 km ENE of Cloverdale, CA",
+      "time": 1791945508940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449131"
+    },
     {
       "id": "aka2026uikyzm",
       "lon": -152.027,
@@ -12,6 +22,16 @@
       "place": "21 km WNW of Ninilchik, Alaska",
       "time": 1791944473107,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uikyzm"
+    },
+    {
+      "id": "us6000u26u",
+      "lon": 152.9436,
+      "lat": -4.4488,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "75 km E of Kokopo, Papua New Guinea",
+      "time": 1791943934885,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26u"
     },
     {
       "id": "hv75055792",
@@ -774,6 +794,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75055422"
     },
     {
+      "id": "av94447083",
+      "lon": -166.673666666667,
+      "lat": 53.8931666666667,
+      "depth": 7.06,
+      "mag": 0.08,
+      "place": "8 km W of Dutch Harbor, Alaska",
+      "time": 1791913620340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94447083"
+    },
+    {
       "id": "ci41347127",
       "lon": -117.777333333333,
       "lat": 36.0231666666667,
@@ -782,6 +812,26 @@
       "place": "15 km NE of Little Lake, CA",
       "time": 1791913523900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347127"
+    },
+    {
+      "id": "av94447073",
+      "lon": -169.517,
+      "lat": 52.6923333333333,
+      "depth": 9.55,
+      "mag": 1.96,
+      "place": "52 km WSW of Nikolski, Alaska",
+      "time": 1791913278310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94447073"
+    },
+    {
+      "id": "av94447068",
+      "lon": -152.9775,
+      "lat": 60.0958333333333,
+      "depth": 10.24,
+      "mag": -0.43,
+      "place": "71 km WNW of Happy Valley, Alaska",
+      "time": 1791913053800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94447068"
     },
     {
       "id": "ci41347111",
@@ -2582,16 +2632,6 @@
       "place": "9 km SSE of La Mesa, Panama",
       "time": 1791859682033,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1y4"
-    },
-    {
-      "id": "tx2026udjiem",
-      "lon": -104.442,
-      "lat": 31.654,
-      "depth": 4.9719,
-      "mag": 1.8,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": 1791859301320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026udjiem"
     }
   ]
 }
