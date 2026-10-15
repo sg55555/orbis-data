@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-15T00:45:41Z",
+  "updated": "2026-10-15T01:01:11Z",
   "count": 192,
   "points": [
+    {
+      "id": "aka2026ukdyqx",
+      "lon": -142.649,
+      "lat": 60.168,
+      "depth": 21.1,
+      "mag": 2.3,
+      "place": "141 km S of McCarthy, Alaska",
+      "time": 1792025414628,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukdyqx"
+    },
     {
       "id": "pr71536758",
       "lon": -66.9483333333333,
@@ -15,12 +25,12 @@
     },
     {
       "id": "ci41347671",
-      "lon": -116.768166666667,
-      "lat": 33.588,
-      "depth": 11.8,
-      "mag": 0.49,
+      "lon": -116.759,
+      "lat": 33.5863333333333,
+      "depth": 11.85,
+      "mag": 0.27,
       "place": "9 km WNW of Anza, CA",
-      "time": 1792022940360,
+      "time": 1792022940380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347671"
     },
     {
@@ -82,6 +92,16 @@
       "place": "35 km NNW of Karluk, Alaska",
       "time": 1792018980410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukajpu"
+    },
+    {
+      "id": "us6000u2cz",
+      "lon": -139.8152,
+      "lat": 60.4649,
+      "depth": 5,
+      "mag": 3.1,
+      "place": "102 km N of Yakutat, Alaska",
+      "time": 1792018926731,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2cz"
     },
     {
       "id": "us6000u2cy",
@@ -1902,26 +1922,6 @@
       "place": "5 km SSE of Idyllwild, CA",
       "time": 1791939665240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347295"
-    },
-    {
-      "id": "hv75055742",
-      "lon": -155.279666666667,
-      "lat": 19.3903333333333,
-      "depth": 1.48,
-      "mag": 1.04,
-      "place": "7 km SW of Volcano, Hawaii",
-      "time": 1791939273410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75055742"
-    },
-    {
-      "id": "tx2026ufbmdf",
-      "lon": -104.302,
-      "lat": 31.641,
-      "depth": 3.4338,
-      "mag": 2.2,
-      "place": "59 km S of Whites City, New Mexico",
-      "time": 1791939231355,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ufbmdf"
     }
   ]
 }
