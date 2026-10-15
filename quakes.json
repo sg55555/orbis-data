@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-15T20:45:42Z",
-  "count": 186,
+  "updated": "2026-10-15T21:01:13Z",
+  "count": 188,
   "points": [
+    {
+      "id": "us6000u2kz",
+      "lon": -91.8178,
+      "lat": 13.9013,
+      "depth": 59.487,
+      "mag": 4.5,
+      "place": "44 km SSE of Champerico, Guatemala",
+      "time": 1792096765755,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2kz"
+    },
     {
       "id": "hv75057112",
       "lon": -155.862838745117,
@@ -32,6 +42,16 @@
       "place": "82 km NNW of Karluk, Alaska",
       "time": 1792095489156,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulqusq"
+    },
+    {
+      "id": "uu80160091",
+      "lon": -112.866166666667,
+      "lat": 38.0186666666667,
+      "depth": 9.74,
+      "mag": 1.8,
+      "place": "16 km NNW of Paragonah, Utah",
+      "time": 1792094668470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160091"
     },
     {
       "id": "aka2026ulqgjv",
@@ -1154,6 +1174,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536783"
     },
     {
+      "id": "tx2026uhelto",
+      "lon": -101.487,
+      "lat": 32.101,
+      "depth": 8.3252,
+      "mag": 1.2,
+      "place": "11 km W of Forsan, Texas",
+      "time": 1792038775346,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uhelto"
+    },
+    {
       "id": "ci41347767",
       "lon": -115.758333333333,
       "lat": 34.1521666666667,
@@ -1555,12 +1585,12 @@
     },
     {
       "id": "uw714120202",
-      "lon": -121.823666666667,
-      "lat": 47.4208333333333,
-      "depth": 19.53,
-      "mag": 2.65,
+      "lon": -121.826833333333,
+      "lat": 47.4165,
+      "depth": 19.43,
+      "mag": 2.64,
       "place": "5 km SW of Wilderness Rim, Washington",
-      "time": 1792026562670,
+      "time": 1792026562690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714120202"
     },
     {
@@ -1852,16 +1882,6 @@
       "place": "1 km SE of Belfair, Washington",
       "time": 1792011969020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714119882"
-    },
-    {
-      "id": "nc75449456",
-      "lon": -122.715835571289,
-      "lat": 38.7451667785645,
-      "depth": 1.48000001907349,
-      "mag": 1.41,
-      "place": "4 km SSW of Anderson Springs, CA",
-      "time": 1792011219950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449456"
     }
   ]
 }
