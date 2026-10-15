@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-15T11:15:51Z",
-  "count": 173,
+  "updated": "2026-10-15T11:39:05Z",
+  "count": 171,
   "points": [
     {
+      "id": "aka2026ukzbod",
+      "lon": -148.713,
+      "lat": 64.858,
+      "depth": 17.7,
+      "mag": 1.1,
+      "place": "33 km W of Ester, Alaska",
+      "time": 1792063396373,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukzbod"
+    },
+    {
       "id": "aka2026ukynnb",
-      "lon": -152.703,
-      "lat": 64.229,
-      "depth": 0.8,
+      "lon": -152.746,
+      "lat": 64.22,
+      "depth": 4.5,
       "mag": 5.6,
       "place": "43 km NNW of Lake Minchumina, Alaska",
-      "time": 1792062421416,
+      "time": 1792062421800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukynnb"
     },
     {
@@ -1702,36 +1712,6 @@
       "place": "17 km W of Volcano, Hawaii",
       "time": 1791978462730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75056027"
-    },
-    {
-      "id": "ci41347479",
-      "lon": -118.3755,
-      "lat": 36.0001666666667,
-      "depth": 14.38,
-      "mag": 0.75,
-      "place": "28 km N of Kernville, CA",
-      "time": 1791977636140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347479"
-    },
-    {
-      "id": "us6000u292",
-      "lon": -104.8335,
-      "lat": 36.8994,
-      "depth": 5,
-      "mag": 2.6,
-      "place": "25 km S of Weston, Colorado",
-      "time": 1791977220438,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u292"
-    },
-    {
-      "id": "us6000u2ah",
-      "lon": 176.9027,
-      "lat": 51.503,
-      "depth": 7.962,
-      "mag": 3.9,
-      "place": "294 km ESE of Attu Station, Alaska",
-      "time": 1791976854323,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ah"
     }
   ]
 }
