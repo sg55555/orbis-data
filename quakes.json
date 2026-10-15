@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-15T05:45:42Z",
-  "count": 189,
+  "updated": "2026-10-15T06:01:13Z",
+  "count": 188,
   "points": [
+    {
+      "id": "ci41347791",
+      "lon": -118.570503234863,
+      "lat": 33.8601684570312,
+      "depth": 12.6599998474121,
+      "mag": 1.70102526541083,
+      "place": "15 km W of Manhattan Beach, CA",
+      "time": 1792043876220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347791"
+    },
+    {
+      "id": "nc75449681",
+      "lon": -122.738334655762,
+      "lat": 38.7820014953613,
+      "depth": 0.790000021457672,
+      "mag": 0.79,
+      "place": "2 km ENE of The Geysers, CA",
+      "time": 1792043477230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449681"
+    },
     {
       "id": "us6000u2ev",
       "lon": 175.3814,
@@ -1862,36 +1882,6 @@
       "place": "7 km SW of Volcano, Hawaii",
       "time": 1791957919330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75055917"
-    },
-    {
-      "id": "ci41347391",
-      "lon": -116.695166666667,
-      "lat": 33.6493333333333,
-      "depth": 16.32,
-      "mag": 0.48,
-      "place": "10 km SSE of Idyllwild, CA",
-      "time": 1791957143710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347391"
-    },
-    {
-      "id": "nc75449216",
-      "lon": -121.652496337891,
-      "lat": 37.6123352050781,
-      "depth": 7.21000003814697,
-      "mag": 1.04,
-      "place": "13 km SE of Livermore, CA",
-      "time": 1791957007520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449216"
-    },
-    {
-      "id": "nc75449211",
-      "lon": -122.761329650879,
-      "lat": 38.7924995422363,
-      "depth": 1.05999994277954,
-      "mag": 0.86,
-      "place": "2 km NNW of The Geysers, CA",
-      "time": 1791956850490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449211"
     }
   ]
 }
