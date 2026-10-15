@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-15T14:31:03Z",
-  "count": 182,
+  "updated": "2026-10-15T14:45:48Z",
+  "count": 183,
   "points": [
+    {
+      "id": "nc75449856",
+      "lon": -122.807167053223,
+      "lat": 38.8141670227051,
+      "depth": 0.430000007152557,
+      "mag": 1.07,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1792075439350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449856"
+    },
     {
       "id": "nc75449841",
       "lon": -122.793334960938,
@@ -752,6 +762,16 @@
       "place": "3 km N of San Jacinto, CA",
       "time": 1792036362270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347759"
+    },
+    {
+      "id": "uu80160006",
+      "lon": -112.908833333333,
+      "lat": 38.5178333333333,
+      "depth": 3.37,
+      "mag": 1.42,
+      "place": "16 km NNE of Milford, Utah",
+      "time": 1792035896680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160006"
     },
     {
       "id": "ci41347751",
@@ -1812,16 +1832,6 @@
       "place": "49 km N of Valdez, Alaska",
       "time": 1791989165502,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ujjuvm"
-    },
-    {
-      "id": "us6000u2a6",
-      "lon": -70.9776,
-      "lat": -29.151,
-      "depth": 48.371,
-      "mag": 4.2,
-      "place": "67 km SSW of Vallenar, Chile",
-      "time": 1791988924428,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2a6"
     }
   ]
 }
