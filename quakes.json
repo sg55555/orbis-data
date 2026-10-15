@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-15T11:45:48Z",
+  "updated": "2026-10-15T12:01:16Z",
   "count": 172,
   "points": [
+    {
+      "id": "nn00925803",
+      "lon": -116.9232,
+      "lat": 39.4828,
+      "depth": 4.0662,
+      "mag": 2.73,
+      "place": "12 km E of Austin, Nevada",
+      "time": 1792064933463,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925803"
+    },
     {
       "id": "aka2026ukznqr",
       "lon": -148.721,
@@ -22,6 +32,16 @@
       "place": "33 km W of Ester, Alaska",
       "time": 1792063396373,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukzbod"
+    },
+    {
+      "id": "us6000u2gd",
+      "lon": -85.429,
+      "lat": 0.7509,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "off the coast of Ecuador",
+      "time": 1792063003490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2gd"
     },
     {
       "id": "aka2026ukynnb",
@@ -1702,26 +1722,6 @@
       "place": "8 km SW of Atka, Alaska",
       "time": 1791980410324,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ujeyit"
-    },
-    {
-      "id": "aka2026ujebcw",
-      "lon": -147.425,
-      "lat": 61.878,
-      "depth": 16.8,
-      "mag": 2.9,
-      "place": "14 km ENE of Glacier View, Alaska",
-      "time": 1791978806013,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ujebcw"
-    },
-    {
-      "id": "hv75056027",
-      "lon": -155.394836425781,
-      "lat": 19.416166305542,
-      "depth": -0.100000001490116,
-      "mag": 1.79,
-      "place": "17 km W of Volcano, Hawaii",
-      "time": 1791978462730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75056027"
     }
   ]
 }
