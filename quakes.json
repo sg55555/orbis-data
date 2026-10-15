@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-15T19:31:01Z",
-  "count": 189,
+  "updated": "2026-10-15T19:45:46Z",
+  "count": 188,
   "points": [
     {
+      "id": "aka2026ulpmpu",
+      "lon": -152.84,
+      "lat": 60.018,
+      "depth": 111.7,
+      "mag": 2.7,
+      "place": "62 km W of Happy Valley, Alaska",
+      "time": 1792092947176,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulpmpu"
+    },
+    {
       "id": "ci41348023",
-      "lon": -116.879,
-      "lat": 33.8818333333333,
-      "depth": 12.62,
-      "mag": 0.93,
+      "lon": -116.8835,
+      "lat": 33.8801666666667,
+      "depth": 13.07,
+      "mag": 0.83,
       "place": "5 km S of Banning, CA",
-      "time": 1792090037040,
+      "time": 1792090037020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348023"
     },
     {
@@ -1524,6 +1534,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80159991"
     },
     {
+      "id": "av94449273",
+      "lon": -155.016333333333,
+      "lat": 58.2928333333333,
+      "depth": 3.78,
+      "mag": -0.31,
+      "place": "87 km NNW of Karluk, Alaska",
+      "time": 1792021794370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94449273"
+    },
+    {
       "id": "av93068239",
       "lon": -166.779833333333,
       "lat": 53.8525,
@@ -1862,36 +1882,6 @@
       "place": "0 km SSW of Chico, Washington",
       "time": 1792007451620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714119802"
-    },
-    {
-      "id": "hv75056302",
-      "lon": -155.456665039062,
-      "lat": 19.0221672058105,
-      "depth": 36.6399993896484,
-      "mag": 1.73,
-      "place": "13 km ESE of Naalehu, Hawaii",
-      "time": 1792006916340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75056302"
-    },
-    {
-      "id": "nc75449406",
-      "lon": -122.936836242676,
-      "lat": 38.7776679992676,
-      "depth": 4.67999982833862,
-      "mag": 1.12,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1792006632790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449406"
-    },
-    {
-      "id": "uw714119782",
-      "lon": -121.739833333333,
-      "lat": 48.6465,
-      "depth": 3.31,
-      "mag": 1.14,
-      "place": "11 km N of Concrete, Washington",
-      "time": 1792006301380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714119782"
     }
   ]
 }
