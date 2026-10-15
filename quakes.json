@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-15T15:15:45Z",
-  "count": 185,
+  "updated": "2026-10-15T15:31:06Z",
+  "count": 182,
   "points": [
     {
       "id": "nc75449861",
@@ -984,6 +984,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449591"
     },
     {
+      "id": "ci41347711",
+      "lon": -117.199,
+      "lat": 34.0263333333333,
+      "depth": 14.83,
+      "mag": 0.63,
+      "place": "4 km SSW of Redlands, CA",
+      "time": 1792031527970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347711"
+    },
+    {
       "id": "nc75449586",
       "lon": -122.744163513184,
       "lat": 38.7705001831055,
@@ -1035,12 +1045,12 @@
     },
     {
       "id": "ci41347703",
-      "lon": -116.242835998535,
-      "lat": 31.7146663665771,
-      "depth": -0.349999994039536,
-      "mag": 2.38282598830129,
-      "place": "31 km E of Maneadero, B.C., MX",
-      "time": 1792030073110,
+      "lon": -116.405833333333,
+      "lat": 32.0961666666667,
+      "depth": 14.04,
+      "mag": 1.74,
+      "place": "32 km NE of Ensenada, B.C., MX",
+      "time": 1792030072580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347703"
     },
     {
@@ -1812,46 +1822,6 @@
       "place": "12 km WSW of Manley Hot Springs, Alaska",
       "time": 1791992356391,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ujlozb"
-    },
-    {
-      "id": "ci41347527",
-      "lon": -116.741666666667,
-      "lat": 33.5101666666667,
-      "depth": 4.04,
-      "mag": 1.38,
-      "place": "8 km SW of Anza, CA",
-      "time": 1791991833860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347527"
-    },
-    {
-      "id": "ok2026udsk",
-      "lon": -94.815,
-      "lat": 36.7365,
-      "depth": 0,
-      "mag": 1.14,
-      "place": "3 km ESE of Fairland, Oklahoma",
-      "time": 1791991490820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026udsk"
-    },
-    {
-      "id": "aka2026ujlapb",
-      "lon": -151.201,
-      "lat": 62.805,
-      "depth": 5,
-      "mag": 1.4,
-      "place": "41 km NNW of Petersville, Alaska",
-      "time": 1791991362676,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ujlapb"
-    },
-    {
-      "id": "ci41347519",
-      "lon": -117.824166666667,
-      "lat": 33.8573333333333,
-      "depth": 9.91,
-      "mag": 1.19,
-      "place": "4 km SSW of Yorba Linda, CA",
-      "time": 1791991127370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347519"
     }
   ]
 }
