@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-15T16:01:17Z",
-  "count": 179,
+  "updated": "2026-10-15T16:15:45Z",
+  "count": 180,
   "points": [
     {
       "id": "nc75449881",
@@ -284,6 +284,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukynnb"
     },
     {
+      "id": "uu80160051",
+      "lon": -112.903666666667,
+      "lat": 38.5125,
+      "depth": 3.42,
+      "mag": 1.11,
+      "place": "15 km NE of Milford, Utah",
+      "time": 1792061786600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160051"
+    },
+    {
       "id": "nc75449801",
       "lon": -124.228996276855,
       "lat": 40.4370002746582,
@@ -545,12 +555,12 @@
     },
     {
       "id": "aka2026ukphfq",
-      "lon": -159.196,
-      "lat": 55.289,
-      "depth": 14.3,
-      "mag": 2.7,
-      "place": "69 km S of Perryville, Alaska",
-      "time": 1792045796874,
+      "lon": -159.17,
+      "lat": 55.263,
+      "depth": 20,
+      "mag": 2.8,
+      "place": "72 km S of Perryville, Alaska",
+      "time": 1792045826017,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukphfq"
     },
     {
@@ -894,13 +904,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2eh"
     },
     {
+      "id": "ci10257022",
+      "lon": -117.841666666667,
+      "lat": 36.079,
+      "depth": 1.43,
+      "mag": 0.46,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": 1792035098830,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10257022"
+    },
+    {
       "id": "ci41347743",
-      "lon": -116.964500427246,
-      "lat": 33.8088340759277,
-      "depth": 13.1999998092651,
-      "mag": 2.95263779141459,
-      "place": "3 km N of San Jacinto, CA",
-      "time": 1792035057550,
+      "lon": -116.9645,
+      "lat": 33.8078333333333,
+      "depth": 13.56,
+      "mag": 2.77,
+      "place": "3 km NNW of San Jacinto, CA",
+      "time": 1792035057500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347743"
     },
     {
@@ -1444,6 +1464,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2c6"
     },
     {
+      "id": "tx2026ugonpl",
+      "lon": -103.898,
+      "lat": 31.529,
+      "depth": 7.8943,
+      "mag": 1.9,
+      "place": "25 km NNW of Toyah, Texas",
+      "time": 1792009980277,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ugonpl"
+    },
+    {
       "id": "nc75449441",
       "lon": -122.852668762207,
       "lat": 38.8208351135254,
@@ -1772,26 +1802,6 @@
       "place": "3 km SSE of Fontana, CA",
       "time": 1791995422780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347551"
-    },
-    {
-      "id": "ci41347535",
-      "lon": -117.007666666667,
-      "lat": 33.6408333333333,
-      "depth": 13.33,
-      "mag": 0.9,
-      "place": "10 km SE of Winchester, CA",
-      "time": 1791994335600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347535"
-    },
-    {
-      "id": "aka2026ujmjdz",
-      "lon": -152.983,
-      "lat": 59.945,
-      "depth": 111.1,
-      "mag": 2.6,
-      "place": "65 km ENE of Pedro Bay, Alaska",
-      "time": 1791993764832,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ujmjdz"
     }
   ]
 }
