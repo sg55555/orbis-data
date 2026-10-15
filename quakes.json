@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-15T14:15:51Z",
-  "count": 180,
+  "updated": "2026-10-15T14:31:03Z",
+  "count": 182,
   "points": [
+    {
+      "id": "nc75449841",
+      "lon": -122.793334960938,
+      "lat": 38.8156661987305,
+      "depth": 3.78999996185303,
+      "mag": 0.75,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1792073730810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449841"
+    },
     {
       "id": "ci41347847",
       "lon": -115.419333333333,
@@ -814,6 +824,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925785"
     },
     {
+      "id": "uu80160001",
+      "lon": -112.905833333333,
+      "lat": 38.5098333333333,
+      "depth": 2.36,
+      "mag": 1.44,
+      "place": "15 km NE of Milford, Utah",
+      "time": 1792034405910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160001"
+    },
+    {
       "id": "ci41347735",
       "lon": -116.763166666667,
       "lat": 33.5765,
@@ -1092,6 +1112,16 @@
       "place": "10 km WNW of Cobb, CA",
       "time": 1792022140040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449526"
+    },
+    {
+      "id": "uu80159991",
+      "lon": -112.905833333333,
+      "lat": 38.496,
+      "depth": 4,
+      "mag": 0.78,
+      "place": "14 km NE of Milford, Utah",
+      "time": 1792021825440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80159991"
     },
     {
       "id": "pr71536748",
@@ -1792,16 +1822,6 @@
       "place": "67 km SSW of Vallenar, Chile",
       "time": 1791988924428,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2a6"
-    },
-    {
-      "id": "us6000u2gk",
-      "lon": -19.2064,
-      "lat": -0.343,
-      "depth": 10,
-      "mag": 4.7,
-      "place": "central Mid-Atlantic Ridge",
-      "time": 1791987441408,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2gk"
     }
   ]
 }
