@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-15T03:30:58Z",
-  "count": 192,
+  "updated": "2026-10-15T03:45:43Z",
+  "count": 193,
   "points": [
+    {
+      "id": "ci41347743",
+      "lon": -116.964500427246,
+      "lat": 33.8088340759277,
+      "depth": 13.1999998092651,
+      "mag": 2.95263779141459,
+      "place": "3 km N of San Jacinto, CA",
+      "time": 1792035057550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347743"
+    },
+    {
+      "id": "aka2026ukjhof",
+      "lon": -149.395,
+      "lat": 66.206,
+      "depth": 5,
+      "mag": 1.5,
+      "place": "26 km NNW of Stevens Village, Alaska",
+      "time": 1792035025822,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukjhof"
+    },
     {
       "id": "nc75449626",
       "lon": -122.829002380371,
@@ -1912,16 +1932,6 @@
       "place": "8 km SSE of Tyonek, Alaska",
       "time": 1791950028898,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uioapb"
-    },
-    {
-      "id": "ci41347343",
-      "lon": -117.534166666667,
-      "lat": 32.9913333333333,
-      "depth": 14.12,
-      "mag": 1.42,
-      "place": "23 km WSW of Encinitas, CA",
-      "time": 1791949080760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347343"
     }
   ]
 }
