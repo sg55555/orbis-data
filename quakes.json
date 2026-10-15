@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-15T19:15:44Z",
-  "count": 193,
+  "updated": "2026-10-15T19:31:01Z",
+  "count": 189,
   "points": [
     {
       "id": "ci41348023",
@@ -25,12 +25,12 @@
     },
     {
       "id": "ci41347991",
-      "lon": -117.7215,
-      "lat": 35.8666666666667,
-      "depth": 9.09,
-      "mag": 1.02,
+      "lon": -117.717666666667,
+      "lat": 35.8716666666667,
+      "depth": 10.5,
+      "mag": 1.04,
       "place": "18 km ESE of Little Lake, CA",
-      "time": 1792089109950,
+      "time": 1792089109840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347991"
     },
     {
@@ -1205,12 +1205,12 @@
     },
     {
       "id": "nn00925782",
-      "lon": -115.2817,
-      "lat": 37.1088,
-      "depth": 3.9622,
-      "mag": 1.68,
-      "place": "30 km SSW of Alamo, Nevada",
-      "time": 1792034065888,
+      "lon": -115.3139,
+      "lat": 37.1317,
+      "depth": 8.7784,
+      "mag": 1.69,
+      "place": "29 km SSW of Alamo, Nevada",
+      "time": 1792034066641,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925782"
     },
     {
@@ -1522,6 +1522,16 @@
       "place": "14 km NE of Milford, Utah",
       "time": 1792021825440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80159991"
+    },
+    {
+      "id": "av93068239",
+      "lon": -166.779833333333,
+      "lat": 53.8525,
+      "depth": 7.99,
+      "mag": -0.34,
+      "place": "16 km WSW of Dutch Harbor, Alaska",
+      "time": 1792021782990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068239"
     },
     {
       "id": "pr71536748",
@@ -1882,56 +1892,6 @@
       "place": "11 km N of Concrete, Washington",
       "time": 1792006301380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714119782"
-    },
-    {
-      "id": "ci41347591",
-      "lon": -118.324666666667,
-      "lat": 35.0493333333333,
-      "depth": -0.94,
-      "mag": 0.98,
-      "place": "14 km W of Mojave, CA",
-      "time": 1792006056160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347591"
-    },
-    {
-      "id": "aka2026ujtcpy",
-      "lon": -149.902,
-      "lat": 64.544,
-      "depth": 2.8,
-      "mag": 1.5,
-      "place": "38 km W of Four Mile Road, Alaska",
-      "time": 1792005897234,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ujtcpy"
-    },
-    {
-      "id": "ci41347583",
-      "lon": -116.7565,
-      "lat": 33.5878333333333,
-      "depth": 12.28,
-      "mag": 0.41,
-      "place": "9 km WNW of Anza, CA",
-      "time": 1792005644080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347583"
-    },
-    {
-      "id": "ci10256998",
-      "lon": -116.7895,
-      "lat": 33.9658333333333,
-      "depth": 9.32,
-      "mag": 0.62,
-      "place": "5 km N of Cabazon, CA",
-      "time": 1792005619060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10256998"
-    },
-    {
-      "id": "aka2026ujsxmc",
-      "lon": -150.743,
-      "lat": 59.686,
-      "depth": 50.7,
-      "mag": 2.4,
-      "place": "22 km SSE of Fox River, Alaska",
-      "time": 1792005533849,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ujsxmc"
     }
   ]
 }
