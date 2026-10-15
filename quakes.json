@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-15T20:15:44Z",
-  "count": 186,
+  "updated": "2026-10-15T20:31:14Z",
+  "count": 187,
   "points": [
+    {
+      "id": "aka2026ulqusq",
+      "lon": -154.948,
+      "lat": 58.264,
+      "depth": 6,
+      "mag": 1.8,
+      "place": "82 km NNW of Karluk, Alaska",
+      "time": 1792095489156,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulqusq"
+    },
     {
       "id": "aka2026ulqgjv",
       "lon": -156.198,
@@ -66,11 +76,11 @@
     {
       "id": "ci41348015",
       "lon": -116.7625,
-      "lat": 33.5786666666667,
-      "depth": 12.43,
-      "mag": 1.4,
+      "lat": 33.5773333333333,
+      "depth": 12.15,
+      "mag": 1.45,
       "place": "9 km WNW of Anza, CA",
-      "time": 1792089878570,
+      "time": 1792089878590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348015"
     },
     {
@@ -205,12 +215,12 @@
     },
     {
       "id": "ci41347919",
-      "lon": -117.827,
-      "lat": 35.3226666666667,
-      "depth": 9.08,
-      "mag": 1.28,
+      "lon": -117.818666666667,
+      "lat": 35.3218333333333,
+      "depth": 9,
+      "mag": 1.2,
       "place": "18 km WSW of Johannesburg, CA",
-      "time": 1792081960980,
+      "time": 1792081960890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347919"
     },
     {
@@ -594,6 +604,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukwarb"
     },
     {
+      "id": "uw714120272",
+      "lon": -122.1855,
+      "lat": 46.2033333333333,
+      "depth": 3.29,
+      "mag": 0.39,
+      "place": "38 km NNE of Amboy, Washington",
+      "time": 1792057051400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714120272"
+    },
+    {
       "id": "nn00925799",
       "lon": -119.015,
       "lat": 39.3368,
@@ -842,6 +862,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1792045793340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449756"
+    },
+    {
+      "id": "uw714120262",
+      "lon": -122.147,
+      "lat": 46.1285,
+      "depth": 5.57,
+      "mag": 0.2,
+      "place": "33 km NE of Amboy, Washington",
+      "time": 1792045749000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714120262"
     },
     {
       "id": "aka2026ukpesi",
@@ -1842,26 +1872,6 @@
       "place": "25 km NNW of Toyah, Texas",
       "time": 1792009980277,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ugonpl"
-    },
-    {
-      "id": "nc75449441",
-      "lon": -122.852668762207,
-      "lat": 38.8208351135254,
-      "depth": 2.5,
-      "mag": 0.84,
-      "place": "10 km WNW of The Geysers, CA",
-      "time": 1792009593820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449441"
-    },
-    {
-      "id": "nc75449431",
-      "lon": -122.764831542969,
-      "lat": 38.7876663208008,
-      "depth": 1.86000001430511,
-      "mag": 1.07,
-      "place": "1 km NNW of The Geysers, CA",
-      "time": 1792009214550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449431"
     }
   ]
 }
