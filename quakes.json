@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-15T14:45:48Z",
-  "count": 183,
+  "updated": "2026-10-15T15:01:24Z",
+  "count": 185,
   "points": [
+    {
+      "id": "nc75449861",
+      "lon": -122.809669494629,
+      "lat": 38.8361663818359,
+      "depth": 2.22000002861023,
+      "mag": 0.23,
+      "place": "8 km WNW of Cobb, CA",
+      "time": 1792076164300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449861"
+    },
     {
       "id": "nc75449856",
       "lon": -122.807167053223,
@@ -12,6 +22,16 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1792075439350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449856"
+    },
+    {
+      "id": "uw714120322",
+      "lon": -121.835998535156,
+      "lat": 47.4160003662109,
+      "depth": 15.8800001144409,
+      "mag": 1.51197504997253,
+      "place": "6 km SW of Wilderness Rim, Washington",
+      "time": 1792075424910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714120322"
     },
     {
       "id": "nc75449841",
@@ -362,6 +382,16 @@
       "place": "32 km SSW of Alamo, Nevada",
       "time": 1792053490586,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925796"
+    },
+    {
+      "id": "tx2026uhmmho",
+      "lon": -104.181,
+      "lat": 31.707,
+      "depth": 7.0483,
+      "mag": 2.1,
+      "place": "55 km W of Mentone, Texas",
+      "time": 1792053293386,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uhmmho"
     },
     {
       "id": "ci41347823",
@@ -1822,16 +1852,6 @@
       "place": "13 km ENE of Pāhala, Hawaii",
       "time": 1791990693870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75056132"
-    },
-    {
-      "id": "aka2026ujjuvm",
-      "lon": -146.265,
-      "lat": 61.573,
-      "depth": 16.5,
-      "mag": 2.2,
-      "place": "49 km N of Valdez, Alaska",
-      "time": 1791989165502,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ujjuvm"
     }
   ]
 }
