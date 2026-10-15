@@ -1,16 +1,16 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-15T22:01:14Z",
-  "count": 192,
+  "updated": "2026-10-15T22:15:42Z",
+  "count": 194,
   "points": [
     {
       "id": "ci41348079",
-      "lon": -116.759333333333,
-      "lat": 33.5831666666667,
-      "depth": 12.25,
-      "mag": 0.88,
+      "lon": -116.758333333333,
+      "lat": 33.5853333333333,
+      "depth": 12.75,
+      "mag": 0.86,
       "place": "9 km WNW of Anza, CA",
-      "time": 1792100029580,
+      "time": 1792100029570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348079"
     },
     {
@@ -565,12 +565,12 @@
     },
     {
       "id": "hv75056857",
-      "lon": -155.514663696289,
-      "lat": 19.1520004272461,
-      "depth": 32.8499984741211,
-      "mag": 2.04,
+      "lon": -155.513833333333,
+      "lat": 19.1598333333333,
+      "depth": 34.56,
+      "mag": 1.92,
       "place": "6 km SW of Pāhala, Hawaii",
-      "time": 1792066916220,
+      "time": 1792066916180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75056857"
     },
     {
@@ -1164,6 +1164,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uknclt"
     },
     {
+      "id": "av94449853",
+      "lon": -169.831666666667,
+      "lat": 52.8328333333333,
+      "depth": 5.3,
+      "mag": 1.57,
+      "place": "66 km W of Nikolski, Alaska",
+      "time": 1792041759950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94449853"
+    },
+    {
       "id": "ci41347775",
       "lon": -116.468666666667,
       "lat": 33.4603333333333,
@@ -1182,6 +1192,16 @@
       "place": "7 km ESE of Cloverdale, CA",
       "time": 1792039976590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449671"
+    },
+    {
+      "id": "av94449778",
+      "lon": -169.835666666667,
+      "lat": 52.8101666666667,
+      "depth": 1,
+      "mag": 1.21,
+      "place": "67 km WSW of Nikolski, Alaska",
+      "time": 1792039343970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94449778"
     },
     {
       "id": "nc75449661",
@@ -1282,6 +1302,16 @@
       "place": "3 km N of San Jacinto, CA",
       "time": 1792036362220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347759"
+    },
+    {
+      "id": "av94449673",
+      "lon": -152.299166666667,
+      "lat": 61.1266666666667,
+      "depth": 5.34,
+      "mag": 0.04,
+      "place": "63 km W of Tyonek, Alaska",
+      "time": 1792036154390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94449673"
     },
     {
       "id": "tx2026uhcyde",
@@ -1505,22 +1535,22 @@
     },
     {
       "id": "hv75056562",
-      "lon": -155.3681640625,
-      "lat": 19.2705001831055,
-      "depth": 29.3299999237061,
-      "mag": 1.99,
+      "lon": -155.3685,
+      "lat": 19.2673333333333,
+      "depth": 29.29,
+      "mag": 1.7,
       "place": "13 km ENE of Pāhala, Hawaii",
       "time": 1792030285070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75056562"
     },
     {
       "id": "hv75056557",
-      "lon": -155.363006591797,
-      "lat": 19.1658325195312,
-      "depth": 27.9500007629395,
-      "mag": 2.28,
-      "place": "12 km ESE of Pāhala, Hawaii",
-      "time": 1792030215490,
+      "lon": -155.361,
+      "lat": 19.1475,
+      "depth": 27.2,
+      "mag": 2.18,
+      "place": "13 km ESE of Pāhala, Hawaii",
+      "time": 1792030215400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75056557"
     },
     {
@@ -1912,16 +1942,6 @@
       "place": "11 km SSE of Indios, Puerto Rico",
       "time": 1792016548880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536743"
-    },
-    {
-      "id": "aka2026ujynxs",
-      "lon": -147.452,
-      "lat": 65.001,
-      "depth": 4.5,
-      "mag": 1.1,
-      "place": "9 km ENE of Fox, Alaska",
-      "time": 1792015675201,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ujynxs"
     }
   ]
 }
