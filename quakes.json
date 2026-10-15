@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-15T05:30:56Z",
+  "updated": "2026-10-15T05:45:42Z",
   "count": 189,
   "points": [
+    {
+      "id": "us6000u2ev",
+      "lon": 175.3814,
+      "lat": -38.5478,
+      "depth": 286.008,
+      "mag": 5.3,
+      "place": "43 km SSE of Otorohanga, New Zealand",
+      "time": 1792041931942,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ev"
+    },
     {
       "id": "nc75449676",
       "lon": -122.764167785645,
@@ -1374,6 +1384,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75056007"
     },
     {
+      "id": "av93068209",
+      "lon": -152.754,
+      "lat": 60.464,
+      "depth": 3.99,
+      "mag": -0.77,
+      "place": "75 km NW of Ninilchik, Alaska",
+      "time": 1791974528860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068209"
+    },
+    {
       "id": "uw714119592",
       "lon": -123.835333333333,
       "lat": 44.9963333333333,
@@ -1872,26 +1892,6 @@
       "place": "2 km NNW of The Geysers, CA",
       "time": 1791956850490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449211"
-    },
-    {
-      "id": "aka2026uirqqv",
-      "lon": -159.308,
-      "lat": 55.579,
-      "depth": 65.3,
-      "mag": 1.8,
-      "place": "37 km SSE of Ivanof Bay, Alaska",
-      "time": 1791956504229,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uirqqv"
-    },
-    {
-      "id": "aka2026uiroom",
-      "lon": -153.085,
-      "lat": 60.043,
-      "depth": 5,
-      "mag": 0.7,
-      "place": "63 km ENE of Pedro Bay, Alaska",
-      "time": 1791956347207,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uiroom"
     }
   ]
 }
