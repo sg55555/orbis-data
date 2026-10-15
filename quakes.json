@@ -1,16 +1,16 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-15T21:36:21Z",
-  "count": 188,
+  "updated": "2026-10-15T21:45:39Z",
+  "count": 189,
   "points": [
     {
       "id": "ci41348079",
-      "lon": -116.760498046875,
-      "lat": 33.5861663818359,
-      "depth": 11.9700002670288,
-      "mag": 1.2247141439843,
+      "lon": -116.759333333333,
+      "lat": 33.5831666666667,
+      "depth": 12.25,
+      "mag": 0.88,
       "place": "9 km WNW of Anza, CA",
-      "time": 1792100029640,
+      "time": 1792100029580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348079"
     },
     {
@@ -22,6 +22,16 @@
       "place": "20 km SE of Pāhala, Hawaii",
       "time": 1792099902250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75057162"
+    },
+    {
+      "id": "pr71536828",
+      "lon": -67.9448333333333,
+      "lat": 18.9758333333333,
+      "depth": 10.42,
+      "mag": 3.44,
+      "place": "65 km NE of Punta Cana, Dominican Republic",
+      "time": 1792098748970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536828"
     },
     {
       "id": "us6000u2kz",
@@ -1664,6 +1674,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347671"
     },
     {
+      "id": "hv75056482",
+      "lon": -155.639,
+      "lat": 19.4591666666667,
+      "depth": 38.95,
+      "mag": 2.07,
+      "place": "23 km E of Honaunau-Napoopoo, Hawaii",
+      "time": 1792022665670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75056482"
+    },
+    {
       "id": "nc75449531",
       "lon": -122.779998779297,
       "lat": 38.8033332824707,
@@ -1872,16 +1892,6 @@
       "place": "9 km WNW of Anza, CA",
       "time": 1792015065400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347647"
-    },
-    {
-      "id": "pr71536733",
-      "lon": -66.5405,
-      "lat": 17.8035,
-      "depth": 9.32,
-      "mag": 2.34,
-      "place": "21 km SSW of Potala Pastillo, Puerto Rico",
-      "time": 1792013905130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536733"
     }
   ]
 }
