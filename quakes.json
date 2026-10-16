@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-16T14:45:46Z",
-  "count": 157,
+  "updated": "2026-10-16T15:01:14Z",
+  "count": 156,
   "points": [
+    {
+      "id": "aka2026unbzcp",
+      "lon": -149.769,
+      "lat": 61.474,
+      "depth": 49.9,
+      "mag": 3.6,
+      "place": "2 km NW of Knik, Alaska",
+      "time": 1792162183136,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026unbzcp"
+    },
     {
       "id": "ci41348295",
       "lon": -116.045333333333,
@@ -1224,6 +1234,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulpwbm"
     },
     {
+      "id": "ok2026ufwl",
+      "lon": -96.84266667,
+      "lat": 34.4025,
+      "depth": 0,
+      "mag": 1.27,
+      "place": "1 km W of Mill Creek, Oklahoma",
+      "time": 1792093437259,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026ufwl"
+    },
+    {
       "id": "tx2026uiilrb",
       "lon": -104.198,
       "lat": 31.613,
@@ -1542,36 +1562,6 @@
       "place": "17 km SW of Jal, New Mexico",
       "time": 1792077037853,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uhzpcm"
-    },
-    {
-      "id": "us6000u2i2",
-      "lon": 159.8474,
-      "lat": 51.3801,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "198 km SSE of Vilyuchinsk, Russia",
-      "time": 1792076392905,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2i2"
-    },
-    {
-      "id": "av94451003",
-      "lon": -155.354,
-      "lat": 58.1671666666667,
-      "depth": 1.05,
-      "mag": -0.17,
-      "place": "85 km NW of Karluk, Alaska",
-      "time": 1792076244090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94451003"
-    },
-    {
-      "id": "nc75449861",
-      "lon": -122.809669494629,
-      "lat": 38.8361663818359,
-      "depth": 2.22000002861023,
-      "mag": 0.23,
-      "place": "8 km WNW of Cobb, CA",
-      "time": 1792076164300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449861"
     }
   ]
 }
