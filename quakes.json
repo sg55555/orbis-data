@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-16T07:01:13Z",
-  "count": 156,
+  "updated": "2026-10-16T07:15:42Z",
+  "count": 155,
   "points": [
+    {
+      "id": "hv75057632",
+      "lon": -155.376998901367,
+      "lat": 19.1744995117188,
+      "depth": 29.75,
+      "mag": 1.83,
+      "place": "11 km ESE of Pāhala, Hawaii",
+      "time": 1792134077890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75057632"
+    },
     {
       "id": "aka2026umluqb",
       "lon": -155.775,
@@ -1542,26 +1552,6 @@
       "place": "56 km NNW of Skwentna, Alaska",
       "time": 1792048809204,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukqyts"
-    },
-    {
-      "id": "aka2026ukqojr",
-      "lon": -148.202,
-      "lat": 62.111,
-      "depth": 5,
-      "mag": 1.3,
-      "place": "37 km NNE of Chickaloon, Alaska",
-      "time": 1792048091481,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukqojr"
-    },
-    {
-      "id": "ci41347807",
-      "lon": -116.443833333333,
-      "lat": 33.4996666666667,
-      "depth": 5.24,
-      "mag": 0.41,
-      "place": "22 km SW of La Quinta, CA",
-      "time": 1792047704930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347807"
     }
   ]
 }
