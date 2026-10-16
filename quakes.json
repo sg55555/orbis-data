@@ -1,16 +1,16 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-16T02:15:42Z",
-  "count": 193,
+  "updated": "2026-10-16T02:31:02Z",
+  "count": 192,
   "points": [
     {
       "id": "aka2026umcroy",
-      "lon": -158.081,
-      "lat": 55.336,
+      "lon": -158.082,
+      "lat": 55.335,
       "depth": 5,
-      "mag": 3.3,
+      "mag": 3.4,
       "place": "92 km SE of Perryville, Alaska",
-      "time": 1792116730860,
+      "time": 1792116730856,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026umcroy"
     },
     {
@@ -22,6 +22,16 @@
       "place": "8 km W of Cobb, CA",
       "time": 1792116554270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450311"
+    },
+    {
+      "id": "us6000u2me",
+      "lon": -80.9467,
+      "lat": 7.6075,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "12 km SSE of Tebario, Panama",
+      "time": 1792115444178,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2me"
     },
     {
       "id": "nc75450276",
@@ -1912,26 +1922,6 @@
       "place": "4 km SSW of Redlands, CA",
       "time": 1792031527970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347711"
-    },
-    {
-      "id": "nc75449586",
-      "lon": -122.744163513184,
-      "lat": 38.7705001831055,
-      "depth": 1.62000000476837,
-      "mag": 1.98,
-      "place": "1 km SE of The Geysers, CA",
-      "time": 1792031421640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449586"
-    },
-    {
-      "id": "tx2026uhaixf",
-      "lon": -101.757,
-      "lat": 31.869,
-      "depth": 8.0322,
-      "mag": 1.7,
-      "place": "26 km W of Garden City, Texas",
-      "time": 1792031332993,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uhaixf"
     }
   ]
 }
