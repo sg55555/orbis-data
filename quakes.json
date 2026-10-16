@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-16T13:01:22Z",
-  "count": 166,
+  "updated": "2026-10-16T13:16:21Z",
+  "count": 165,
   "points": [
+    {
+      "id": "hv75057837",
+      "lon": -155.306671142578,
+      "lat": 19.9983329772949,
+      "depth": 43.439998626709,
+      "mag": 1.97,
+      "place": "7 km W of Laupāhoehoe, Hawaii",
+      "time": 1792155872250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75057837"
+    },
     {
       "id": "nc75450441",
       "lon": -122.824333190918,
@@ -32,6 +42,16 @@
       "place": "72 km WNW of Beluga, Alaska",
       "time": 1792154093948,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026umxmfq"
+    },
+    {
+      "id": "us6000u2pp",
+      "lon": 125.7789,
+      "lat": 6.0268,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "10 km SE of Lamitan, Philippines",
+      "time": 1792153105421,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2pp"
     },
     {
       "id": "aka2026umwrlt",
@@ -1632,36 +1652,6 @@
       "place": "114 km SSW of Nikolski, Alaska",
       "time": 1792070186373,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2hr"
-    },
-    {
-      "id": "ci41347839",
-      "lon": -116.944666666667,
-      "lat": 34.2791666666667,
-      "depth": 7.02,
-      "mag": 1.31,
-      "place": "5 km NW of Big Bear Lake, CA",
-      "time": 1792069689470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347839"
-    },
-    {
-      "id": "us6000u2hp",
-      "lon": 166.0921,
-      "lat": -13.8878,
-      "depth": 10,
-      "mag": 5.2,
-      "place": "157 km W of Sola, Vanuatu",
-      "time": 1792069611678,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2hp"
-    },
-    {
-      "id": "aka2026ulcmta",
-      "lon": -152.746,
-      "lat": 64.194,
-      "depth": 8.2,
-      "mag": 3,
-      "place": "40 km NNW of Lake Minchumina, Alaska",
-      "time": 1792069545094,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulcmta"
     }
   ]
 }
