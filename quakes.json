@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-16T05:45:40Z",
-  "count": 172,
+  "updated": "2026-10-16T06:01:12Z",
+  "count": 170,
   "points": [
+    {
+      "id": "aka2026umjtur",
+      "lon": -155.925,
+      "lat": 57.651,
+      "depth": 18.2,
+      "mag": 1.5,
+      "place": "88 km W of Karluk, Alaska",
+      "time": 1792129429621,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026umjtur"
+    },
     {
       "id": "ci41348207",
       "lon": -116.762833333333,
@@ -22,6 +32,16 @@
       "place": "76 km WSW of Karluk, Alaska",
       "time": 1792128397324,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026umjevu"
+    },
+    {
+      "id": "us6000u2n7",
+      "lon": -81.2351,
+      "lat": 7.7245,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "8 km SSE of Guarumal, Panama",
+      "time": 1792128148183,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2n7"
     },
     {
       "id": "nc75450361",
@@ -1682,46 +1702,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1792044393510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449686"
-    },
-    {
-      "id": "ci41347791",
-      "lon": -118.565,
-      "lat": 33.8721666666667,
-      "depth": 9.22,
-      "mag": 1.78,
-      "place": "14 km W of Manhattan Beach, CA",
-      "time": 1792043876430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347791"
-    },
-    {
-      "id": "ci41347783",
-      "lon": -116.743166666667,
-      "lat": 33.5178333333333,
-      "depth": 4.12,
-      "mag": 0.07,
-      "place": "8 km WSW of Anza, CA",
-      "time": 1792043529920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347783"
-    },
-    {
-      "id": "nc75449681",
-      "lon": -122.738334655762,
-      "lat": 38.7820014953613,
-      "depth": 0.790000021457672,
-      "mag": 0.79,
-      "place": "2 km ENE of The Geysers, CA",
-      "time": 1792043477230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449681"
-    },
-    {
-      "id": "uw714120252",
-      "lon": -122.188833333333,
-      "lat": 46.1993333333333,
-      "depth": 3.2,
-      "mag": 0.39,
-      "place": "37 km NNE of Amboy, Washington",
-      "time": 1792043286040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714120252"
     }
   ]
 }
