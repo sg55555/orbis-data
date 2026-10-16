@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-16T00:45:44Z",
-  "count": 202,
+  "updated": "2026-10-16T01:01:13Z",
+  "count": 204,
   "points": [
+    {
+      "id": "nc75450276",
+      "lon": -122.854499816895,
+      "lat": 38.8255004882812,
+      "depth": 2.6800000667572,
+      "mag": 0.95,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": 1792112229910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450276"
+    },
+    {
+      "id": "nc75450271",
+      "lon": -122.765502929688,
+      "lat": 38.820499420166,
+      "depth": 1.55999994277954,
+      "mag": 1.03,
+      "place": "4 km W of Cobb, CA",
+      "time": 1792111471380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450271"
+    },
     {
       "id": "nc75450266",
       "lon": -122.429000854492,
@@ -352,6 +372,16 @@
       "place": "62 km W of Happy Valley, Alaska",
       "time": 1792092947176,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulpmpu"
+    },
+    {
+      "id": "av93068264",
+      "lon": -155.313,
+      "lat": 58.187,
+      "depth": 1.73,
+      "mag": -0.2,
+      "place": "85 km NW of Karluk, Alaska",
+      "time": 1792092173850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068264"
     },
     {
       "id": "ci41348063",
@@ -2012,16 +2042,6 @@
       "place": "5 km SW of Wilderness Rim, Washington",
       "time": 1792026562690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714120202"
-    },
-    {
-      "id": "aka2026ukdyqx",
-      "lon": -142.649,
-      "lat": 60.168,
-      "depth": 21.1,
-      "mag": 2.3,
-      "place": "141 km S of McCarthy, Alaska",
-      "time": 1792025414628,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukdyqx"
     }
   ]
 }
