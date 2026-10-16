@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-16T00:01:13Z",
-  "count": 199,
+  "updated": "2026-10-16T00:15:41Z",
+  "count": 197,
   "points": [
+    {
+      "id": "aka2026ulylmf",
+      "lon": -151.267,
+      "lat": 60.745,
+      "depth": 65.5,
+      "mag": 3.1,
+      "place": "6 km N of Nikiski, Alaska",
+      "time": 1792109062449,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulylmf"
+    },
     {
       "id": "nc75450231",
       "lon": -122.854499816895,
@@ -285,12 +295,12 @@
     },
     {
       "id": "aka2026ulpwbm",
-      "lon": -146.915,
-      "lat": 66.664,
-      "depth": 1.1,
+      "lon": -146.894,
+      "lat": 66.673,
+      "depth": 5,
       "mag": 3.6,
-      "place": "40 km NNE of Beaver, Alaska",
-      "time": 1792093601894,
+      "place": "41 km NNE of Beaver, Alaska",
+      "time": 1792093602353,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulpwbm"
     },
     {
@@ -1145,12 +1155,12 @@
     },
     {
       "id": "nn00925816",
-      "lon": -116.5672,
-      "lat": 39.5063,
-      "depth": 10.1018,
-      "mag": 1.94,
-      "place": "43 km E of Austin, Nevada",
-      "time": 1792046677500,
+      "lon": -116.9707,
+      "lat": 39.6144,
+      "depth": 10.0804,
+      "mag": 1.79,
+      "place": "15 km NNE of Austin, Nevada",
+      "time": 1792046680839,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925816"
     },
     {
@@ -1962,36 +1972,6 @@
       "place": "4 km WSW of Fuig, Puerto Rico",
       "time": 1792023940860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536758"
-    },
-    {
-      "id": "tx2026ugvqvf",
-      "lon": -101.896,
-      "lat": 32.105,
-      "depth": 7.4951,
-      "mag": 1.8,
-      "place": "10 km WSW of Stanton, Texas",
-      "time": 1792023039755,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ugvqvf"
-    },
-    {
-      "id": "ci41347671",
-      "lon": -116.759,
-      "lat": 33.5863333333333,
-      "depth": 11.85,
-      "mag": 0.27,
-      "place": "9 km WNW of Anza, CA",
-      "time": 1792022940380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347671"
-    },
-    {
-      "id": "hv75056482",
-      "lon": -155.639,
-      "lat": 19.4591666666667,
-      "depth": 38.95,
-      "mag": 2.07,
-      "place": "23 km E of Honaunau-Napoopoo, Hawaii",
-      "time": 1792022665670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75056482"
     }
   ]
 }
