@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-16T23:30:57Z",
-  "count": 208,
+  "updated": "2026-10-16T23:47:27Z",
+  "count": 206,
   "points": [
+    {
+      "id": "hv75059381",
+      "lon": -155.263671875,
+      "lat": 19.3215007781982,
+      "depth": 31.2299995422363,
+      "mag": 1.7,
+      "place": "13 km SSW of Volcano, Hawaii",
+      "time": 1792194028210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75059381"
+    },
     {
       "id": "aka2026unsumj",
       "lon": -153.051,
@@ -142,6 +152,16 @@
       "place": "70 km NNE of Mīnāb, Iran",
       "time": 1792186226101,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2w9"
+    },
+    {
+      "id": "us6000u2w7",
+      "lon": -179.7966,
+      "lat": -23.6209,
+      "depth": 535.358,
+      "mag": 4.5,
+      "place": "south of the Fiji Islands",
+      "time": 1792185997613,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2w7"
     },
     {
       "id": "tx2026ukhkit",
@@ -1564,6 +1584,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450336"
     },
     {
+      "id": "av94451938",
+      "lon": -152.0655,
+      "lat": 61.4206666666667,
+      "depth": 10.28,
+      "mag": -0.19,
+      "place": "61 km WNW of Beluga, Alaska",
+      "time": 1792119834210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94451938"
+    },
+    {
       "id": "nc75450331",
       "lon": -122.836502075195,
       "lat": 38.8388328552246,
@@ -2032,56 +2062,6 @@
       "place": "10 km E of Fox, Alaska",
       "time": 1792108135758,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulxybv"
-    },
-    {
-      "id": "hv75057287",
-      "lon": -155.365493774414,
-      "lat": 19.158166885376,
-      "depth": 45.1100006103516,
-      "mag": 1.8,
-      "place": "12 km ESE of Pāhala, Hawaii",
-      "time": 1792107882840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75057287"
-    },
-    {
-      "id": "aka2026ulxtho",
-      "lon": -151.243,
-      "lat": 64.185,
-      "depth": 11.6,
-      "mag": 2.4,
-      "place": "62 km ENE of Lake Minchumina, Alaska",
-      "time": 1792107796753,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulxtho"
-    },
-    {
-      "id": "ci41348103",
-      "lon": -118.410666666667,
-      "lat": 35.6885,
-      "depth": 4.85,
-      "mag": 1.32,
-      "place": "5 km ESE of Wofford Heights, CA",
-      "time": 1792107406850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348103"
-    },
-    {
-      "id": "nc75450181",
-      "lon": -122.928497314453,
-      "lat": 38.7594985961914,
-      "depth": 5.90000009536743,
-      "mag": 1.33,
-      "place": "9 km ESE of Cloverdale, CA",
-      "time": 1792107203800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450181"
-    },
-    {
-      "id": "aka2026ulxhxz",
-      "lon": -148.391,
-      "lat": 62.79,
-      "depth": 51.9,
-      "mag": 2.9,
-      "place": "72 km SSE of Cantwell, Alaska",
-      "time": 1792107020010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulxhxz"
     }
   ]
 }
