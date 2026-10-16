@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-16T20:31:00Z",
+  "updated": "2026-10-16T20:45:45Z",
   "count": 192,
   "points": [
+    {
+      "id": "nn00925852",
+      "lon": -118.7973,
+      "lat": 38.7859,
+      "depth": 9.5129,
+      "mag": 1.51,
+      "place": "15 km NNW of Walker Lake, Nevada",
+      "time": 1792182969492,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925852"
+    },
     {
       "id": "ci41348375",
       "lon": -117.459833333333,
@@ -252,6 +262,16 @@
       "place": "8 km S of Idyllwild, CA",
       "time": 1792168260700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348327"
+    },
+    {
+      "id": "ci41348335",
+      "lon": -116.732666666667,
+      "lat": 33.661,
+      "depth": 14.13,
+      "mag": 0.42,
+      "place": "9 km S of Idyllwild, CA",
+      "time": 1792168205150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348335"
     },
     {
       "id": "us6000u2rv",
@@ -1902,26 +1922,6 @@
       "place": "14 km E of Lake Marcel-Stillwater, Washington",
       "time": 1792097737130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714120612"
-    },
-    {
-      "id": "av94451518",
-      "lon": -155.289333333333,
-      "lat": 58.1778333333333,
-      "depth": 0.25,
-      "mag": -0.34,
-      "place": "83 km NW of Karluk, Alaska",
-      "time": 1792096821710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94451518"
-    },
-    {
-      "id": "us6000u2kz",
-      "lon": -91.8178,
-      "lat": 13.9013,
-      "depth": 59.487,
-      "mag": 4.5,
-      "place": "44 km SSE of Champerico, Guatemala",
-      "time": 1792096765755,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2kz"
     }
   ]
 }
