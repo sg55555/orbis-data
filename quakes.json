@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-16T08:45:43Z",
-  "count": 157,
+  "updated": "2026-10-16T09:01:18Z",
+  "count": 158,
   "points": [
+    {
+      "id": "ci41348223",
+      "lon": -117.082833333333,
+      "lat": 34.0198333333333,
+      "depth": 16.73,
+      "mag": 2.36,
+      "place": "4 km WSW of Yucaipa, CA",
+      "time": 1792140832500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348223"
+    },
     {
       "id": "nc75450386",
       "lon": -121.459663391113,
@@ -22,6 +32,16 @@
       "place": "21 km ESE of Kasilof, Alaska",
       "time": 1792139740618,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026umpmuj"
+    },
+    {
+      "id": "pr71536878",
+      "lon": -66.9526666666667,
+      "lat": 17.9521666666667,
+      "depth": 7.79,
+      "mag": 2.4,
+      "place": "5 km WSW of Guánica, Puerto Rico",
+      "time": 1792139685850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536878"
     },
     {
       "id": "aka2026umoyqm",
@@ -1562,16 +1582,6 @@
       "place": "4 km E of La Parguera, Puerto Rico",
       "time": 1792055398490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536798"
-    },
-    {
-      "id": "av94450343",
-      "lon": -154.948833333333,
-      "lat": 58.2628333333333,
-      "depth": 2.06,
-      "mag": 0.16,
-      "place": "82 km NNW of Karluk, Alaska",
-      "time": 1792054163440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94450343"
     }
   ]
 }
