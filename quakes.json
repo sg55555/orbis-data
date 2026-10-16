@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-16T09:45:44Z",
-  "count": 153,
+  "updated": "2026-10-16T10:01:15Z",
+  "count": 154,
   "points": [
+    {
+      "id": "ci41348231",
+      "lon": -116.645333333333,
+      "lat": 33.4183333333333,
+      "depth": 6.41,
+      "mag": 0.16,
+      "place": "15 km N of Warner Springs, CA",
+      "time": 1792144298710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348231"
+    },
+    {
+      "id": "aka2026umryva",
+      "lon": -151.509,
+      "lat": 62.578,
+      "depth": 5,
+      "mag": 1.9,
+      "place": "39 km WNW of Petersville, Alaska",
+      "time": 1792144170945,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026umryva"
+    },
     {
       "id": "us6000u2p2",
       "lon": 126.799,
@@ -1522,16 +1542,6 @@
       "place": "53 km SE of West Yellowstone, Montana",
       "time": 1792058533470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160041"
-    },
-    {
-      "id": "aka2026ukwarb",
-      "lon": -150.92,
-      "lat": 63.22,
-      "depth": 132,
-      "mag": 2.1,
-      "place": "53 km SE of Denali National Park, Alaska",
-      "time": 1792057936036,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukwarb"
     }
   ]
 }
