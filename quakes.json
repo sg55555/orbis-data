@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-16T23:01:11Z",
-  "count": 204,
+  "updated": "2026-10-16T23:15:39Z",
+  "count": 205,
   "points": [
     {
+      "id": "nc75450771",
+      "lon": -122.803497314453,
+      "lat": 38.796501159668,
+      "depth": 1.62000000476837,
+      "mag": 0.97,
+      "place": "5 km WNW of The Geysers, CA",
+      "time": 1792192285560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450771"
+    },
+    {
+      "id": "aka2026unsmgs",
+      "lon": -152.354,
+      "lat": 61.312,
+      "depth": 5,
+      "mag": 0.5,
+      "place": "70 km WNW of Tyonek, Alaska",
+      "time": 1792191879681,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026unsmgs"
+    },
+    {
       "id": "ci41348415",
-      "lon": -116.655666666667,
-      "lat": 33.9825,
-      "depth": 15.6,
-      "mag": 1.5,
+      "lon": -116.655,
+      "lat": 33.9821666666667,
+      "depth": 16.01,
+      "mag": 1.54,
       "place": "10 km SW of Morongo Valley, CA",
-      "time": 1792191053690,
+      "time": 1792191053670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348415"
     },
     {
@@ -32,6 +52,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1792190701490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450756"
+    },
+    {
+      "id": "us6000u2wn",
+      "lon": -80.9354,
+      "lat": 7.6127,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "12 km SSE of Tebario, Panama",
+      "time": 1792190463562,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2wn"
     },
     {
       "id": "nc75450751",
@@ -1874,6 +1904,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulylmf"
     },
     {
+      "id": "av94451793",
+      "lon": -166.7095,
+      "lat": 53.9273333333333,
+      "depth": 4.93,
+      "mag": 0.31,
+      "place": "11 km WNW of Dutch Harbor, Alaska",
+      "time": 1792109003730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94451793"
+    },
+    {
       "id": "nc75450231",
       "lon": -122.854499816895,
       "lat": 38.8246650695801,
@@ -2012,36 +2052,6 @@
       "place": "72 km SSE of Cantwell, Alaska",
       "time": 1792107020010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulxhxz"
-    },
-    {
-      "id": "aka2026ulwqid",
-      "lon": -151.293,
-      "lat": 60.651,
-      "depth": 69.7,
-      "mag": 2.2,
-      "place": "4 km NNE of Salamatof, Alaska",
-      "time": 1792105801864,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulwqid"
-    },
-    {
-      "id": "tx2026uiplzw",
-      "lon": -98.946,
-      "lat": 28.82,
-      "depth": 8.4226,
-      "mag": 1.5,
-      "place": "16 km ESE of Pearsall, Texas",
-      "time": 1792105780288,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uiplzw"
-    },
-    {
-      "id": "av94451728",
-      "lon": -153.172,
-      "lat": 60.0378333333333,
-      "depth": 0.69,
-      "mag": 0.07,
-      "place": "59 km ENE of Pedro Bay, Alaska",
-      "time": 1792105508940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94451728"
     }
   ]
 }
