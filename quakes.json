@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-16T20:15:42Z",
-  "count": 194,
+  "updated": "2026-10-16T20:31:00Z",
+  "count": 192,
   "points": [
     {
       "id": "ci41348375",
@@ -1305,12 +1305,12 @@
     },
     {
       "id": "aka2026umeajc",
-      "lon": -149.259,
-      "lat": 60.554,
-      "depth": 20,
-      "mag": 2.2,
-      "place": "9 km NE of Moose Pass, Alaska",
-      "time": 1792119088679,
+      "lon": -149.237,
+      "lat": 60.549,
+      "depth": 20.2,
+      "mag": 2.3,
+      "place": "10 km NE of Moose Pass, Alaska",
+      "time": 1792119088372,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026umeajc"
     },
     {
@@ -1322,6 +1322,16 @@
       "place": "18 km ESE of Bodfish, CA",
       "time": 1792119071360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348151"
+    },
+    {
+      "id": "aka2026umdslj",
+      "lon": -158.86,
+      "lat": 55.705,
+      "depth": 54.4,
+      "mag": 2.6,
+      "place": "29 km SE of Perryville, Alaska",
+      "time": 1792118540576,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026umdslj"
     },
     {
       "id": "ci41348143",
@@ -1912,36 +1922,6 @@
       "place": "44 km SSE of Champerico, Guatemala",
       "time": 1792096765755,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2kz"
-    },
-    {
-      "id": "hv75057112",
-      "lon": -155.862838745117,
-      "lat": 19.3423328399658,
-      "depth": 19.5300006866455,
-      "mag": 1.75,
-      "place": "12 km S of Honaunau-Napoopoo, Hawaii",
-      "time": 1792096179640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75057112"
-    },
-    {
-      "id": "us6000u2kw",
-      "lon": -69.6992,
-      "lat": -20.0692,
-      "depth": 72.177,
-      "mag": 4.3,
-      "place": "11 km SE of Huara, Chile",
-      "time": 1792095920509,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2kw"
-    },
-    {
-      "id": "aka2026ulqusq",
-      "lon": -154.948,
-      "lat": 58.264,
-      "depth": 6,
-      "mag": 1.8,
-      "place": "82 km NNW of Karluk, Alaska",
-      "time": 1792095489156,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulqusq"
     }
   ]
 }
