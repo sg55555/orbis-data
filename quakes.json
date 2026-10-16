@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-16T00:31:02Z",
-  "count": 199,
+  "updated": "2026-10-16T00:45:44Z",
+  "count": 202,
   "points": [
+    {
+      "id": "nc75450266",
+      "lon": -122.429000854492,
+      "lat": 37.5131683349609,
+      "depth": 2.42000007629395,
+      "mag": 1.56,
+      "place": "4 km ENE of El Granada, CA",
+      "time": 1792110719100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450266"
+    },
     {
       "id": "nc75450256",
       "lon": -122.769996643066,
@@ -384,6 +394,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347991"
     },
     {
+      "id": "av94451238",
+      "lon": -175.797833333333,
+      "lat": 52.0703333333333,
+      "depth": 4.87,
+      "mag": 1.08,
+      "place": "61 km ENE of Adak, Alaska",
+      "time": 1792087227260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94451238"
+    },
+    {
       "id": "nc75449961",
       "lon": -121.460502624512,
       "lat": 36.988166809082,
@@ -412,6 +432,26 @@
       "place": "28 km E of Barstow, CA",
       "time": 1792086662340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347959"
+    },
+    {
+      "id": "av93068259",
+      "lon": -177.900333333333,
+      "lat": 51.861,
+      "depth": 2.93,
+      "mag": 0,
+      "place": "87 km W of Adak, Alaska",
+      "time": 1792086300990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068259"
+    },
+    {
+      "id": "av93068254",
+      "lon": -152.045166666667,
+      "lat": 61.4095,
+      "depth": 12.07,
+      "mag": 0.37,
+      "place": "59 km WNW of Beluga, Alaska",
+      "time": 1792085812640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068254"
     },
     {
       "id": "nc75449951",
@@ -1982,16 +2022,6 @@
       "place": "141 km S of McCarthy, Alaska",
       "time": 1792025414628,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukdyqx"
-    },
-    {
-      "id": "av94449338",
-      "lon": -152.041333333333,
-      "lat": 61.4138333333333,
-      "depth": 11.78,
-      "mag": -0.02,
-      "place": "59 km WNW of Beluga, Alaska",
-      "time": 1792024988210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94449338"
     }
   ]
 }
