@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-16T08:30:59Z",
-  "count": 159,
+  "updated": "2026-10-16T08:45:43Z",
+  "count": 157,
   "points": [
+    {
+      "id": "nc75450386",
+      "lon": -121.459663391113,
+      "lat": 36.9908332824707,
+      "depth": 7.57999992370605,
+      "mag": 1.27,
+      "place": "10 km E of Gilroy, CA",
+      "time": 1792140119780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450386"
+    },
+    {
+      "id": "aka2026umpmuj",
+      "lon": -150.931,
+      "lat": 60.249,
+      "depth": 67.4,
+      "mag": 2.3,
+      "place": "21 km ESE of Kasilof, Alaska",
+      "time": 1792139740618,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026umpmuj"
+    },
     {
       "id": "aka2026umoyqm",
       "lon": -152.283,
@@ -122,6 +142,16 @@
       "place": "79 km W of Karluk, Alaska",
       "time": 1792133086498,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026umluqb"
+    },
+    {
+      "id": "us6000u2ne",
+      "lon": -111.4328,
+      "lat": 42.4265,
+      "depth": 12.437,
+      "mag": 2.8,
+      "place": "8 km SW of Georgetown, Idaho",
+      "time": 1792132671110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ne"
     },
     {
       "id": "aka2026umlmsg",
@@ -1542,56 +1572,6 @@
       "place": "82 km NNW of Karluk, Alaska",
       "time": 1792054163440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94450343"
-    },
-    {
-      "id": "aka2026ukttxq",
-      "lon": -153.098,
-      "lat": 59.707,
-      "depth": 109.8,
-      "mag": 2.8,
-      "place": "57 km E of Pedro Bay, Alaska",
-      "time": 1792053872859,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukttxq"
-    },
-    {
-      "id": "aka2026uktslq",
-      "lon": -147.696,
-      "lat": 64.622,
-      "depth": 15.3,
-      "mag": 1.2,
-      "place": "21 km SSW of Badger, Alaska",
-      "time": 1792053780409,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uktslq"
-    },
-    {
-      "id": "nn00925796",
-      "lon": -115.2873,
-      "lat": 37.1145,
-      "depth": 12.6459,
-      "mag": 1.53,
-      "place": "29 km SSW of Alamo, Nevada",
-      "time": 1792053490198,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925796"
-    },
-    {
-      "id": "tx2026uhmmho",
-      "lon": -104.181,
-      "lat": 31.707,
-      "depth": 7.0483,
-      "mag": 2.1,
-      "place": "55 km W of Mentone, Texas",
-      "time": 1792053293386,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uhmmho"
-    },
-    {
-      "id": "ci41347823",
-      "lon": -117.798833333333,
-      "lat": 35.3093333333333,
-      "depth": 6.89,
-      "mag": 1.49,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": 1792053010020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347823"
     }
   ]
 }
