@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-17T22:15:43Z",
-  "count": 187,
+  "updated": "2026-10-17T22:30:57Z",
+  "count": 186,
   "points": [
+    {
+      "id": "nc75451231",
+      "lon": -122.782501220703,
+      "lat": 38.8036651611328,
+      "depth": 0.330000013113022,
+      "mag": 1.08,
+      "place": "4 km NW of The Geysers, CA",
+      "time": 1792275325650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451231"
+    },
+    {
+      "id": "tx2026umexzb",
+      "lon": -101.863,
+      "lat": 32.172,
+      "depth": 6.543,
+      "mag": 3.1,
+      "place": "8 km NW of Stanton, Texas",
+      "time": 1792275102130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026umexzb"
+    },
     {
       "id": "nc75451216",
       "lon": -122.945663452148,
@@ -1842,36 +1862,6 @@
       "place": "7 km S of Gilroy, CA",
       "time": 1792189930250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450746"
-    },
-    {
-      "id": "us6000u2wk",
-      "lon": -104.6518,
-      "lat": 32.5198,
-      "depth": 3.72,
-      "mag": 2.5,
-      "place": "33 km SSE of Hope, New Mexico",
-      "time": 1792189769181,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2wk"
-    },
-    {
-      "id": "aka2026unrboo",
-      "lon": -146.507,
-      "lat": 61.135,
-      "depth": 16.5,
-      "mag": 1.3,
-      "place": "8 km W of Valdez, Alaska",
-      "time": 1792189339835,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026unrboo"
-    },
-    {
-      "id": "hv75058112",
-      "lon": -155.217666625977,
-      "lat": 19.3098335266113,
-      "depth": 0.340000003576279,
-      "mag": 1.84,
-      "place": "14 km S of Volcano, Hawaii",
-      "time": 1792189043130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75058112"
     }
   ]
 }
