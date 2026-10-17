@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-17T21:45:42Z",
-  "count": 187,
+  "updated": "2026-10-17T22:01:14Z",
+  "count": 186,
   "points": [
+    {
+      "id": "nc75451216",
+      "lon": -122.945663452148,
+      "lat": 39.4775009155273,
+      "depth": 10.0299997329712,
+      "mag": 1.91,
+      "place": "8 km N of Lake Pillsbury, CA",
+      "time": 1792273800030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451216"
+    },
     {
       "id": "nc75451211",
       "lon": -124.488334655762,
@@ -1852,26 +1862,6 @@
       "place": "14 km S of Volcano, Hawaii",
       "time": 1792189043130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75058112"
-    },
-    {
-      "id": "hv75058097",
-      "lon": -155.470672607422,
-      "lat": 19.2068328857422,
-      "depth": 31.8999996185303,
-      "mag": 1.99,
-      "place": "0 km ENE of Pāhala, Hawaii",
-      "time": 1792187452890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75058097"
-    },
-    {
-      "id": "us6000u2wc",
-      "lon": -67.1137,
-      "lat": -24.2543,
-      "depth": 160.307,
-      "mag": 4.4,
-      "place": "80 km W of San Antonio de los Cobres, Argentina",
-      "time": 1792187219763,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2wc"
     }
   ]
 }
