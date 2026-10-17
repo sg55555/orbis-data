@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-17T00:30:58Z",
-  "count": 199,
+  "updated": "2026-10-17T00:45:40Z",
+  "count": 197,
   "points": [
+    {
+      "id": "hv75059406",
+      "lon": -155.500503540039,
+      "lat": 19.1598339080811,
+      "depth": 32.1699981689453,
+      "mag": 2.25,
+      "place": "5 km SSW of Pāhala, Hawaii",
+      "time": 1792197640580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75059406"
+    },
     {
       "id": "aka2026unvcrw",
       "lon": -146.848,
@@ -32,6 +42,16 @@
       "place": "19 km N of Pāhala, Hawaii",
       "time": 1792195330540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75059386"
+    },
+    {
+      "id": "us6000u2ww",
+      "lon": 20.6863,
+      "lat": 38.305,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "6 km NNE of Sámi, Greece",
+      "time": 1792195070544,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ww"
     },
     {
       "id": "ci41348423",
@@ -1564,6 +1584,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2n4"
     },
     {
+      "id": "av94452053",
+      "lon": -169.897666666667,
+      "lat": 52.7958333333333,
+      "depth": 8.96,
+      "mag": 1.52,
+      "place": "71 km WSW of Nikolski, Alaska",
+      "time": 1792125737190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94452053"
+    },
+    {
       "id": "hv75057502",
       "lon": -155.242666666667,
       "lat": 19.3878333333333,
@@ -1942,56 +1972,6 @@
       "place": "10 km WNW of The Geysers, CA",
       "time": 1792112229910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450276"
-    },
-    {
-      "id": "nc75450271",
-      "lon": -122.765502929688,
-      "lat": 38.820499420166,
-      "depth": 1.55999994277954,
-      "mag": 1.03,
-      "place": "4 km W of Cobb, CA",
-      "time": 1792111471380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450271"
-    },
-    {
-      "id": "aka2026ulzqcp",
-      "lon": -149.818,
-      "lat": 61.648,
-      "depth": 35.5,
-      "mag": 1.9,
-      "place": "1 km N of Houston, Alaska",
-      "time": 1792111405039,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulzqcp"
-    },
-    {
-      "id": "aka2026ulzopc",
-      "lon": -165.146,
-      "lat": 53.363,
-      "depth": 19.2,
-      "mag": 3.1,
-      "place": "95 km SSE of Akutan, Alaska",
-      "time": 1792111075941,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulzopc"
-    },
-    {
-      "id": "us6000u2mc",
-      "lon": 99.4947,
-      "lat": 35.3246,
-      "depth": 10,
-      "mag": 4,
-      "place": "191 km NW of Oula Xiuma, China",
-      "time": 1792111066842,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mc"
-    },
-    {
-      "id": "nc75450266",
-      "lon": -122.429000854492,
-      "lat": 37.5131683349609,
-      "depth": 2.42000007629395,
-      "mag": 1.56,
-      "place": "4 km ENE of El Granada, CA",
-      "time": 1792110719100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450266"
     }
   ]
 }
