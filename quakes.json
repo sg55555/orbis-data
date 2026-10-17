@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-17T01:01:10Z",
-  "count": 197,
+  "updated": "2026-10-17T01:15:42Z",
+  "count": 199,
   "points": [
+    {
+      "id": "nc75450806",
+      "lon": -122.838996887207,
+      "lat": 38.8386650085449,
+      "depth": 0.810000002384186,
+      "mag": 1.14,
+      "place": "10 km NW of The Geysers, CA",
+      "time": 1792199252170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450806"
+    },
     {
       "id": "ci41348439",
       "lon": -116.840333333333,
@@ -132,6 +142,16 @@
       "place": "5 km WNW of The Geysers, CA",
       "time": 1792192285560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450771"
+    },
+    {
+      "id": "us6000u2wp",
+      "lon": 77.7206,
+      "lat": 31.3927,
+      "depth": 25.839,
+      "mag": 4.3,
+      "place": "10 km SE of Rāmpur, India",
+      "time": 1792191988245,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2wp"
     },
     {
       "id": "aka2026unsmgs",
@@ -1464,6 +1484,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75057607"
     },
     {
+      "id": "av94452143",
+      "lon": -153.066833333333,
+      "lat": 60.051,
+      "depth": 3.8,
+      "mag": -0.29,
+      "place": "65 km ENE of Pedro Bay, Alaska",
+      "time": 1792133402860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94452143"
+    },
+    {
       "id": "aka2026umluqb",
       "lon": -155.775,
       "lat": 57.676,
@@ -1472,6 +1502,16 @@
       "place": "79 km W of Karluk, Alaska",
       "time": 1792133086498,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026umluqb"
+    },
+    {
+      "id": "av94452133",
+      "lon": -154.990333333333,
+      "lat": 58.2805,
+      "depth": 3.07,
+      "mag": -0.34,
+      "place": "85 km NNW of Karluk, Alaska",
+      "time": 1792132968530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94452133"
     },
     {
       "id": "uu80160196",
@@ -1952,26 +1992,6 @@
       "place": "41 km NE of Adak, Alaska",
       "time": 1792113654250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94451863"
-    },
-    {
-      "id": "tx2026uitkzf",
-      "lon": -98.954,
-      "lat": 28.835,
-      "depth": 6.7789,
-      "mag": 2,
-      "place": "15 km ESE of Pearsall, Texas",
-      "time": 1792112940464,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uitkzf"
-    },
-    {
-      "id": "tx2026uitdxx",
-      "lon": -104.191,
-      "lat": 31.613,
-      "depth": 5.741,
-      "mag": 1.6,
-      "place": "50 km NW of Toyah, Texas",
-      "time": 1792112504656,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uitdxx"
     }
   ]
 }
