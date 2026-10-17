@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-17T16:45:42Z",
-  "count": 177,
+  "updated": "2026-10-17T17:01:08Z",
+  "count": 178,
   "points": [
+    {
+      "id": "nc75451021",
+      "lon": -122.795829772949,
+      "lat": 38.8203315734863,
+      "depth": 1.95000004768372,
+      "mag": 0.75,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1792255869740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451021"
+    },
+    {
+      "id": "aka2026upbyrt",
+      "lon": -143.714,
+      "lat": 61.98,
+      "depth": 5,
+      "mag": 1,
+      "place": "56 km SW of Nabesna, Alaska",
+      "time": 1792255710759,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026upbyrt"
+    },
     {
       "id": "aka2026upbssm",
       "lon": -154.908,
@@ -1762,16 +1782,6 @@
       "place": "18 km SSE of Skwentna, Alaska",
       "time": 1792171009785,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ungwrc"
-    },
-    {
-      "id": "aka2026unfztw",
-      "lon": -148.159,
-      "lat": 64.656,
-      "depth": 5,
-      "mag": 0.7,
-      "place": "22 km SSW of Ester, Alaska",
-      "time": 1792169424890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026unfztw"
     }
   ]
 }
