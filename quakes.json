@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-17T18:15:44Z",
-  "count": 182,
+  "updated": "2026-10-17T18:30:57Z",
+  "count": 184,
   "points": [
+    {
+      "id": "hv75059746",
+      "lon": -155.345504760742,
+      "lat": 18.9406661987305,
+      "depth": 13.9099998474121,
+      "mag": 1.86,
+      "place": "28 km ESE of Naalehu, Hawaii",
+      "time": 1792261561060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75059746"
+    },
+    {
+      "id": "nc75451071",
+      "lon": -122.734336853027,
+      "lat": 38.753833770752,
+      "depth": 1.72000002861023,
+      "mag": 1.29,
+      "place": "3 km SE of The Geysers, CA",
+      "time": 1792261349290,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451071"
+    },
     {
       "id": "ci41348591",
       "lon": -116.210333333333,
@@ -52,6 +72,16 @@
       "place": "2 km SW of Anderson Springs, CA",
       "time": 1792257681740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451041"
+    },
+    {
+      "id": "us6000u30x",
+      "lon": -67.2144,
+      "lat": -21.1752,
+      "depth": 189.462,
+      "mag": 4.6,
+      "place": "88 km SSW of Uyuni, Bolivia",
+      "time": 1792255965164,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u30x"
     },
     {
       "id": "nc75451021",
@@ -1812,16 +1842,6 @@
       "place": "7 km SSE of Ponce, Puerto Rico",
       "time": 1792175473650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536943"
-    },
-    {
-      "id": "nc75450606",
-      "lon": -120.832664489746,
-      "lat": 35.5740013122559,
-      "depth": 3.95000004768372,
-      "mag": 1.44,
-      "place": "12 km WNW of Templeton, CA",
-      "time": 1792175223630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450606"
     }
   ]
 }
