@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-17T22:30:57Z",
-  "count": 186,
+  "updated": "2026-10-17T22:45:40Z",
+  "count": 185,
   "points": [
+    {
+      "id": "hv75059891",
+      "lon": -155.851669311523,
+      "lat": 19.5073337554932,
+      "depth": 22.75,
+      "mag": 2.05,
+      "place": "5 km NNE of Honaunau-Napoopoo, Hawaii",
+      "time": 1792276689380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75059891"
+    },
+    {
+      "id": "nc75451266",
+      "lon": -122.775833129883,
+      "lat": 38.7963333129883,
+      "depth": 2.74000000953674,
+      "mag": 0.74,
+      "place": "3 km NW of The Geysers, CA",
+      "time": 1792276681790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451266"
+    },
     {
       "id": "nc75451231",
       "lon": -122.782501220703,
@@ -42,6 +62,16 @@
       "place": "18 km WSW of Petrolia, CA",
       "time": 1792273382290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451211"
+    },
+    {
+      "id": "us6000u323",
+      "lon": -139.8538,
+      "lat": 60.5158,
+      "depth": 5,
+      "mag": 3.2,
+      "place": "108 km N of Yakutat, Alaska",
+      "time": 1792273362866,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u323"
     },
     {
       "id": "nc75451196",
@@ -1822,46 +1852,6 @@
       "place": "26 km E of Honaunau-Napoopoo, Hawaii",
       "time": 1792190780620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75058122"
-    },
-    {
-      "id": "nc75450756",
-      "lon": -122.820663452148,
-      "lat": 38.8158340454102,
-      "depth": 2.76999998092651,
-      "mag": 0.76,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1792190701490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450756"
-    },
-    {
-      "id": "us6000u2wn",
-      "lon": -80.9354,
-      "lat": 7.6127,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "12 km SSE of Tebario, Panama",
-      "time": 1792190463562,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2wn"
-    },
-    {
-      "id": "nc75450751",
-      "lon": -120.510330200195,
-      "lat": 35.9576683044434,
-      "depth": 10.2700004577637,
-      "mag": 1.54,
-      "place": "10 km NW of Parkfield, CA",
-      "time": 1792190081100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450751"
-    },
-    {
-      "id": "nc75450746",
-      "lon": -121.56266784668,
-      "lat": 36.9458351135254,
-      "depth": 6.19000005722046,
-      "mag": 1.35,
-      "place": "7 km S of Gilroy, CA",
-      "time": 1792189930250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450746"
     }
   ]
 }
