@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-17T00:45:40Z",
+  "updated": "2026-10-17T01:01:10Z",
   "count": 197,
   "points": [
+    {
+      "id": "ci41348439",
+      "lon": -116.840333333333,
+      "lat": 33.7153333333333,
+      "depth": 15.25,
+      "mag": 1.01,
+      "place": "6 km SE of Valle Vista, CA",
+      "time": 1792197888630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348439"
+    },
     {
       "id": "hv75059406",
       "lon": -155.500503540039,
@@ -12,6 +22,16 @@
       "place": "5 km SSW of Pāhala, Hawaii",
       "time": 1792197640580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75059406"
+    },
+    {
+      "id": "us6000u2x1",
+      "lon": -104.462,
+      "lat": 32.3538,
+      "depth": 4.209,
+      "mag": 2.7,
+      "place": "21 km NNW of Whites City, New Mexico",
+      "time": 1792196621073,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2x1"
     },
     {
       "id": "aka2026unvcrw",
@@ -1952,26 +1972,6 @@
       "place": "50 km NW of Toyah, Texas",
       "time": 1792112504656,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uitdxx"
-    },
-    {
-      "id": "tx2026uitdho",
-      "lon": -103.309,
-      "lat": 31.976,
-      "depth": 6.0999,
-      "mag": 1.7,
-      "place": "18 km SW of Jal, New Mexico",
-      "time": 1792112440733,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uitdho"
-    },
-    {
-      "id": "nc75450276",
-      "lon": -122.854499816895,
-      "lat": 38.8255004882812,
-      "depth": 2.6800000667572,
-      "mag": 0.95,
-      "place": "10 km WNW of The Geysers, CA",
-      "time": 1792112229910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450276"
     }
   ]
 }
