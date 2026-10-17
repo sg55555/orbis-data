@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-17T05:30:58Z",
+  "updated": "2026-10-17T05:45:44Z",
   "count": 196,
   "points": [
+    {
+      "id": "nc75450861",
+      "lon": -122.85383605957,
+      "lat": 38.8264999389648,
+      "depth": 2.42000007629395,
+      "mag": 0.75,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": 1792215363480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450861"
+    },
     {
       "id": "us6000u2y1",
       "lon": 66.1708,
@@ -122,6 +132,16 @@
       "place": "18 km ESE of Livengood, Alaska",
       "time": 1792206274037,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uoamhb"
+    },
+    {
+      "id": "us6000u2y4",
+      "lon": 146.0022,
+      "lat": -38.3279,
+      "depth": 10,
+      "mag": 3.1,
+      "place": "14 km SSW of Yarragon, Australia",
+      "time": 1792206199932,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y4"
     },
     {
       "id": "aka2026uoahzw",
@@ -1942,26 +1962,6 @@
       "place": "10 km E of Gilroy, CA",
       "time": 1792131581660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450366"
-    },
-    {
-      "id": "aka2026umjtur",
-      "lon": -155.925,
-      "lat": 57.651,
-      "depth": 18.2,
-      "mag": 1.5,
-      "place": "88 km W of Karluk, Alaska",
-      "time": 1792129429621,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026umjtur"
-    },
-    {
-      "id": "ci41348207",
-      "lon": -116.762833333333,
-      "lat": 33.5785,
-      "depth": 12.31,
-      "mag": 0.82,
-      "place": "9 km WNW of Anza, CA",
-      "time": 1792129007380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348207"
     }
   ]
 }
