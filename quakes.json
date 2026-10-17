@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-17T01:45:43Z",
+  "updated": "2026-10-17T02:01:09Z",
   "count": 206,
   "points": [
+    {
+      "id": "nc75450821",
+      "lon": -118.833999633789,
+      "lat": 37.4436683654785,
+      "depth": 1.54999995231628,
+      "mag": 2.93,
+      "place": "19 km SW of Toms Place, CA",
+      "time": 1792201833110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450821"
+    },
     {
       "id": "nc75450816",
       "lon": -122.938835144043,
@@ -1144,6 +1154,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348247"
     },
     {
+      "id": "av94452338",
+      "lon": -166.671166666667,
+      "lat": 53.9036666666667,
+      "depth": 7.35,
+      "mag": 0.26,
+      "place": "8 km W of Dutch Harbor, Alaska",
+      "time": 1792148108260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94452338"
+    },
+    {
       "id": "us6000u2pb",
       "lon": -115.4536,
       "lat": 51.4534,
@@ -2042,26 +2062,6 @@
       "place": "42 km NW of Rampart, Alaska",
       "time": 1792116330352,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026umcmmw"
-    },
-    {
-      "id": "us6000u2me",
-      "lon": -80.9467,
-      "lat": 7.6075,
-      "depth": 10,
-      "mag": 4.4,
-      "place": "12 km SSE of Tebario, Panama",
-      "time": 1792115444178,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2me"
-    },
-    {
-      "id": "tx2026uiurzp",
-      "lon": -98.962,
-      "lat": 28.872,
-      "depth": 6.0376,
-      "mag": 1.7,
-      "place": "13 km E of Pearsall, Texas",
-      "time": 1792115239284,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uiurzp"
     }
   ]
 }
