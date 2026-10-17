@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-17T19:45:41Z",
-  "count": 190,
+  "updated": "2026-10-17T20:01:07Z",
+  "count": 187,
   "points": [
+    {
+      "id": "nc75451131",
+      "lon": -122.731330871582,
+      "lat": 38.7576675415039,
+      "depth": 1.25999999046326,
+      "mag": 1.23,
+      "place": "3 km SE of The Geysers, CA",
+      "time": 1792266519660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451131"
+    },
     {
       "id": "aka2026uphtgp",
       "lon": -147.383,
@@ -25,12 +35,12 @@
     },
     {
       "id": "uu80160531",
-      "lon": -111.598167419434,
-      "lat": 40.7438316345215,
-      "depth": 6.67000007629395,
-      "mag": 2.53,
-      "place": "1 km E of Summit Park, Utah",
-      "time": 1792265456350,
+      "lon": -111.5965,
+      "lat": 40.7485,
+      "depth": 8.38,
+      "mag": 2.54,
+      "place": "1 km ENE of Summit Park, Utah",
+      "time": 1792265456270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160531"
     },
     {
@@ -1862,46 +1872,6 @@
       "place": "44 km NE of Adak, Alaska",
       "time": 1792181882040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94452973"
-    },
-    {
-      "id": "ci41348375",
-      "lon": -117.459833333333,
-      "lat": 33.8473333333333,
-      "depth": -0.34,
-      "mag": 1.35,
-      "place": "7 km ESE of Home Gardens, CA",
-      "time": 1792180546240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348375"
-    },
-    {
-      "id": "aka2026unmdjn",
-      "lon": -155.32,
-      "lat": 57.413,
-      "depth": 65.4,
-      "mag": 2.1,
-      "place": "54 km WSW of Karluk, Alaska",
-      "time": 1792180468952,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026unmdjn"
-    },
-    {
-      "id": "aka2026unmasv",
-      "lon": -146.393,
-      "lat": 61.591,
-      "depth": 11.1,
-      "mag": 2.6,
-      "place": "48 km SSE of Nelchina, Alaska",
-      "time": 1792180285806,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026unmasv"
-    },
-    {
-      "id": "aka2026unlvuv",
-      "lon": -155.305,
-      "lat": 57.233,
-      "depth": 23,
-      "mag": 2.1,
-      "place": "63 km SW of Karluk, Alaska",
-      "time": 1792179939305,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026unlvuv"
     }
   ]
 }
