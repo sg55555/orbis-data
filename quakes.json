@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-18T18:15:42Z",
-  "count": 214,
+  "updated": "2026-10-18T18:30:59Z",
+  "count": 215,
   "points": [
+    {
+      "id": "hv75060486",
+      "lon": -155.163162231445,
+      "lat": 19.3856658935547,
+      "depth": 2.15000009536743,
+      "mag": 1.91,
+      "place": "9 km SSW of Fern Forest, Hawaii",
+      "time": 1792347616160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75060486"
+    },
+    {
+      "id": "ci41349055",
+      "lon": -117.793333333333,
+      "lat": 35.309,
+      "depth": 5.1,
+      "mag": 1.08,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1792347471860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349055"
+    },
     {
       "id": "ci41349039",
       "lon": -116.046666666667,
@@ -242,6 +262,16 @@
       "place": "11 km WNW of Cobb, CA",
       "time": 1792338338610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451601"
+    },
+    {
+      "id": "us6000u36h",
+      "lon": -177.2893,
+      "lat": -21.6837,
+      "depth": 271.233,
+      "mag": 4.3,
+      "place": "213 km WSW of Houma, Tonga",
+      "time": 1792337980151,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u36h"
     },
     {
       "id": "us6000u36d",
@@ -1595,12 +1625,12 @@
     },
     {
       "id": "ci41348703",
-      "lon": -117.067166666667,
-      "lat": 33.971,
-      "depth": 12.63,
-      "mag": 0.83,
-      "place": "2 km SW of Calimesa, CA",
-      "time": 1792285885070,
+      "lon": -116.741833333333,
+      "lat": 33.6546666666667,
+      "depth": 12.37,
+      "mag": 0.45,
+      "place": "10 km SSW of Idyllwild, CA",
+      "time": 1792285891480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348703"
     },
     {
@@ -2122,26 +2152,6 @@
       "place": "7 km SW of Volcano, Hawaii",
       "time": 1792263080290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75059756"
-    },
-    {
-      "id": "hv75059746",
-      "lon": -155.345504760742,
-      "lat": 18.9406661987305,
-      "depth": 13.9099998474121,
-      "mag": 1.86,
-      "place": "28 km ESE of Naalehu, Hawaii",
-      "time": 1792261561060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75059746"
-    },
-    {
-      "id": "nc75451071",
-      "lon": -122.734336853027,
-      "lat": 38.753833770752,
-      "depth": 1.72000002861023,
-      "mag": 1.29,
-      "place": "3 km SE of The Geysers, CA",
-      "time": 1792261349290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451071"
     }
   ]
 }
