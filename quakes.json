@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-18T19:45:41Z",
-  "count": 213,
+  "updated": "2026-10-18T20:01:08Z",
+  "count": 214,
   "points": [
+    {
+      "id": "aka2026urefkm",
+      "lon": -152.717,
+      "lat": 60.473,
+      "depth": 5,
+      "mag": 0.5,
+      "place": "74 km NW of Ninilchik, Alaska",
+      "time": 1792353331562,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026urefkm"
+    },
     {
       "id": "ci41349063",
       "lon": -117.259166666667,
@@ -12,6 +22,16 @@
       "place": "1 km SSE of Loma Linda, CA",
       "time": 1792352382210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349063"
+    },
+    {
+      "id": "tx2026unvoqn",
+      "lon": -104.457,
+      "lat": 31.656,
+      "depth": 6.7151,
+      "mag": 2.1,
+      "place": "58 km S of Whites City, New Mexico",
+      "time": 1792352160911,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026unvoqn"
     },
     {
       "id": "hv75060521",
@@ -112,6 +132,16 @@
       "place": "9 km SSW of Fern Forest, Hawaii",
       "time": 1792347616160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75060486"
+    },
+    {
+      "id": "ci10257302",
+      "lon": -117.7995,
+      "lat": 35.3201666666667,
+      "depth": 2.74,
+      "mag": 1.03,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": 1792347489720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10257302"
     },
     {
       "id": "ci41349055",
@@ -2112,26 +2142,6 @@
       "place": "58 km WNW of Happy Valley, Alaska",
       "time": 1792267871204,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026upisja"
-    },
-    {
-      "id": "ci41348623",
-      "lon": -116.864,
-      "lat": 34.2976666666667,
-      "depth": 4.42,
-      "mag": 1.09,
-      "place": "4 km NNW of Big Bear City, CA",
-      "time": 1792267244210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348623"
-    },
-    {
-      "id": "nc75451131",
-      "lon": -122.731330871582,
-      "lat": 38.7576675415039,
-      "depth": 1.25999999046326,
-      "mag": 1.23,
-      "place": "3 km SE of The Geysers, CA",
-      "time": 1792266519660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451131"
     }
   ]
 }
