@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-18T17:15:43Z",
-  "count": 212,
+  "updated": "2026-10-18T17:30:59Z",
+  "count": 211,
   "points": [
     {
+      "id": "nc75451656",
+      "lon": -122.78099822998,
+      "lat": 38.8361663818359,
+      "depth": 1.57000005245209,
+      "mag": 1.33,
+      "place": "5 km WNW of Cobb, CA",
+      "time": 1792343844310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451656"
+    },
+    {
       "id": "ci41349015",
-      "lon": -117.664665222168,
-      "lat": 35.8465003967285,
-      "depth": 9.98999977111816,
-      "mag": 1.39290257277099,
+      "lon": -117.669166666667,
+      "lat": 35.8448333333333,
+      "depth": 9.73,
+      "mag": 1.01,
       "place": "24 km ESE of Little Lake, CA",
-      "time": 1792343550370,
+      "time": 1792343550390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349015"
     },
     {
@@ -105,12 +115,12 @@
     },
     {
       "id": "ci41348991",
-      "lon": -117.815,
-      "lat": 36.0398333333333,
-      "depth": 1.33,
-      "mag": 1.99,
+      "lon": -117.813,
+      "lat": 36.0396666666667,
+      "depth": 1.67,
+      "mag": 2,
       "place": "12 km E of Coso Junction, CA",
-      "time": 1792340097880,
+      "time": 1792340097860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348991"
     },
     {
@@ -795,12 +805,12 @@
     },
     {
       "id": "ci41348863",
-      "lon": -117.9325,
-      "lat": 33.269,
-      "depth": 8.99,
-      "mag": 1.5,
+      "lon": -117.9335,
+      "lat": 33.2693333333333,
+      "depth": 8.13,
+      "mag": 1.47,
       "place": "31 km SW of Dana Point, CA",
-      "time": 1792310651620,
+      "time": 1792310651550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348863"
     },
     {
@@ -2102,26 +2112,6 @@
       "place": "5 km SW of Volcano, Hawaii",
       "time": 1792258262300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75059721"
-    },
-    {
-      "id": "aka2026updhhe",
-      "lon": -152.505,
-      "lat": 60.377,
-      "depth": 10.2,
-      "mag": 1,
-      "place": "58 km NW of Ninilchik, Alaska",
-      "time": 1792258104612,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026updhhe"
-    },
-    {
-      "id": "nc75451041",
-      "lon": -122.707000732422,
-      "lat": 38.7586669921875,
-      "depth": 0.129999995231628,
-      "mag": 0.97,
-      "place": "2 km SW of Anderson Springs, CA",
-      "time": 1792257681740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451041"
     }
   ]
 }
