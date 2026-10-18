@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-18T21:01:08Z",
-  "count": 222,
+  "updated": "2026-10-18T21:15:41Z",
+  "count": 224,
   "points": [
+    {
+      "id": "ci41349103",
+      "lon": -116.756666666667,
+      "lat": 33.5933333333333,
+      "depth": 10.32,
+      "mag": 0.58,
+      "place": "9 km WNW of Anza, CA",
+      "time": 1792357522100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349103"
+    },
+    {
+      "id": "aka2026urgnyt",
+      "lon": -150.256,
+      "lat": 62.192,
+      "depth": 9,
+      "mag": 1.5,
+      "place": "13 km S of Trapper Creek, Alaska",
+      "time": 1792357521805,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026urgnyt"
+    },
+    {
+      "id": "aka2026urglmt",
+      "lon": -149.732,
+      "lat": 62.965,
+      "depth": 74.5,
+      "mag": 2.2,
+      "place": "60 km NNE of Chase, Alaska",
+      "time": 1792357352088,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026urglmt"
+    },
     {
       "id": "aka2026urfzyt",
       "lon": -152.388,
@@ -822,6 +852,16 @@
       "place": "8 km ESE of Talkeetna, Alaska",
       "time": 1792326932614,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqpnwx"
+    },
+    {
+      "id": "ci10257310",
+      "lon": -116.444666666667,
+      "lat": 33.509,
+      "depth": 5.4,
+      "mag": 0.77,
+      "place": "21 km SW of La Quinta, CA",
+      "time": 1792326368910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10257310"
     },
     {
       "id": "ci41348911",
@@ -2202,26 +2242,6 @@
       "place": "18 km N of Skwentna, Alaska",
       "time": 1792271980099,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026upkzuo"
-    },
-    {
-      "id": "us6000u321",
-      "lon": 99.1332,
-      "lat": 21.9272,
-      "depth": 10,
-      "mag": 4.4,
-      "place": "66 km WSW of Nuofu, China",
-      "time": 1792271303729,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u321"
-    },
-    {
-      "id": "ci41348631",
-      "lon": -116.4625,
-      "lat": 33.4636666666667,
-      "depth": 3.34,
-      "mag": 0.94,
-      "place": "22 km ESE of Anza, CA",
-      "time": 1792271013340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348631"
     }
   ]
 }
