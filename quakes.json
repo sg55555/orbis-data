@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-18T22:31:00Z",
+  "updated": "2026-10-18T22:45:41Z",
   "count": 225,
   "points": [
+    {
+      "id": "ci41349127",
+      "lon": -115.516833333333,
+      "lat": 32.8943333333333,
+      "depth": 6.77,
+      "mag": 1.22,
+      "place": "7 km NE of Imperial, CA",
+      "time": 1792362969910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349127"
+    },
+    {
+      "id": "hv75060576",
+      "lon": -155.148498535156,
+      "lat": 19.2080001831055,
+      "depth": 39.4500007629395,
+      "mag": 2.36,
+      "place": "27 km SSE of Volcano, Hawaii",
+      "time": 1792362777830,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75060576"
+    },
     {
       "id": "nc75451806",
       "lon": -121.41283416748,
@@ -25,12 +45,12 @@
     },
     {
       "id": "us6000u38b",
-      "lon": 151.8682,
-      "lat": -5.6455,
+      "lon": 151.8407,
+      "lat": -5.6049,
       "depth": 10,
       "mag": 4.7,
-      "place": "150 km SSW of Kokopo, Papua New Guinea",
-      "time": 1792361174367,
+      "place": "147 km SSW of Kokopo, Papua New Guinea",
+      "time": 1792361173969,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38b"
     },
     {
@@ -2232,26 +2252,6 @@
       "place": "12 km NE of Pāhala, Hawaii",
       "time": 1792277693500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75059911"
-    },
-    {
-      "id": "hv75059891",
-      "lon": -155.851669311523,
-      "lat": 19.5073337554932,
-      "depth": 22.75,
-      "mag": 2.05,
-      "place": "5 km NNE of Honaunau-Napoopoo, Hawaii",
-      "time": 1792276689380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75059891"
-    },
-    {
-      "id": "nc75451266",
-      "lon": -122.775833129883,
-      "lat": 38.7963333129883,
-      "depth": 2.74000000953674,
-      "mag": 0.74,
-      "place": "3 km NW of The Geysers, CA",
-      "time": 1792276681790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451266"
     }
   ]
 }
