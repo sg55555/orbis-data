@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-18T19:15:46Z",
-  "count": 215,
+  "updated": "2026-10-18T19:23:17Z",
+  "count": 214,
   "points": [
     {
       "id": "nc75451701",
@@ -32,6 +32,16 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1792349343120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451691"
+    },
+    {
+      "id": "us6000u379",
+      "lon": -68.199,
+      "lat": 19.0544,
+      "depth": 35,
+      "mag": 2.6,
+      "place": "56 km NNE of Punta Cana, Dominican Republic",
+      "time": 1792348118769,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u379"
     },
     {
       "id": "hv75060496",
@@ -1175,12 +1185,12 @@
     },
     {
       "id": "ci41348799",
-      "lon": -116.051666666667,
-      "lat": 33.1308333333333,
-      "depth": 2.2,
-      "mag": 1.43,
+      "lon": -116.0475,
+      "lat": 33.1313333333333,
+      "depth": 3.18,
+      "mag": 1.44,
       "place": "8 km E of Ocotillo Wells, CA",
-      "time": 1792306596620,
+      "time": 1792306596660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348799"
     },
     {
@@ -2132,26 +2142,6 @@
       "place": "48 km ESE of Halibut Cove, Alaska",
       "time": 1792265008201,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uphcnz"
-    },
-    {
-      "id": "hv75059766",
-      "lon": -155.403671264648,
-      "lat": 19.0106658935547,
-      "depth": 30.0599994659424,
-      "mag": 2.06,
-      "place": "19 km ESE of Naalehu, Hawaii",
-      "time": 1792264830190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75059766"
-    },
-    {
-      "id": "us6000u31h",
-      "lon": -104.3459,
-      "lat": 31.6529,
-      "depth": 10,
-      "mag": 2.5,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": 1792264537192,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u31h"
     }
   ]
 }
