@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-18T20:01:08Z",
-  "count": 214,
+  "updated": "2026-10-18T20:15:43Z",
+  "count": 215,
   "points": [
+    {
+      "id": "aka2026uremez",
+      "lon": -154.772,
+      "lat": 57.815,
+      "depth": 68.2,
+      "mag": 1.7,
+      "place": "33 km NW of Karluk, Alaska",
+      "time": 1792353801342,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uremez"
+    },
     {
       "id": "aka2026urefkm",
       "lon": -152.717,
@@ -15,12 +25,12 @@
     },
     {
       "id": "ci41349063",
-      "lon": -117.259166666667,
-      "lat": 34.0436666666667,
-      "depth": 15.32,
-      "mag": 1.65,
+      "lon": -117.258166666667,
+      "lat": 34.0433333333333,
+      "depth": 15.16,
+      "mag": 1.56,
       "place": "1 km SSE of Loma Linda, CA",
-      "time": 1792352382210,
+      "time": 1792352382200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349063"
     },
     {
@@ -32,6 +42,16 @@
       "place": "58 km S of Whites City, New Mexico",
       "time": 1792352160911,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026unvoqn"
+    },
+    {
+      "id": "us6000u37h",
+      "lon": -174.2956,
+      "lat": -21.541,
+      "depth": 10,
+      "mag": 5.2,
+      "place": "71 km ESE of ‘Ohonua, Tonga",
+      "time": 1792351948734,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h"
     },
     {
       "id": "hv75060521",
@@ -2132,16 +2152,6 @@
       "place": "26 km ENE of Susitna North, Alaska",
       "time": 1792269089300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026upjkal"
-    },
-    {
-      "id": "aka2026upisja",
-      "lon": -152.747,
-      "lat": 60.067,
-      "depth": 106.6,
-      "mag": 2.8,
-      "place": "58 km WNW of Happy Valley, Alaska",
-      "time": 1792267871204,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026upisja"
     }
   ]
 }
