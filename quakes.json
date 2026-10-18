@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-18T19:01:09Z",
-  "count": 218,
+  "updated": "2026-10-18T19:15:46Z",
+  "count": 215,
   "points": [
+    {
+      "id": "nc75451701",
+      "lon": -122.813667297363,
+      "lat": 38.8305015563965,
+      "depth": 1.5,
+      "mag": 1.09,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1792350463570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451701"
+    },
     {
       "id": "nn00925910",
       "lon": -118.7841,
@@ -55,12 +65,12 @@
     },
     {
       "id": "ci41349039",
-      "lon": -116.046666666667,
-      "lat": 33.1263333333333,
-      "depth": 2.38,
-      "mag": 1.4,
+      "lon": -116.0495,
+      "lat": 33.127,
+      "depth": 2.55,
+      "mag": 1.47,
       "place": "8 km ESE of Ocotillo Wells, CA",
-      "time": 1792347064250,
+      "time": 1792347064240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349039"
     },
     {
@@ -2142,46 +2152,6 @@
       "place": "58 km S of Whites City, New Mexico",
       "time": 1792264537192,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u31h"
-    },
-    {
-      "id": "aka2026upgumy",
-      "lon": -150.368,
-      "lat": 59.499,
-      "depth": 26.9,
-      "mag": 3.8,
-      "place": "49 km ESE of Halibut Cove, Alaska",
-      "time": 1792264446997,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026upgumy"
-    },
-    {
-      "id": "nc75451096",
-      "lon": -122.818664550781,
-      "lat": 38.8351669311523,
-      "depth": 9.92000007629395,
-      "mag": 0.65,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1792263946410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451096"
-    },
-    {
-      "id": "hv75059761",
-      "lon": -155.2925,
-      "lat": 19.4115,
-      "depth": 0.82,
-      "mag": 1.8,
-      "place": "7 km WSW of Volcano, Hawaii",
-      "time": 1792263807480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75059761"
-    },
-    {
-      "id": "aka2026upgkhd",
-      "lon": -150.42,
-      "lat": 59.561,
-      "depth": 32.3,
-      "mag": 2.2,
-      "place": "44 km SE of Fox River, Alaska",
-      "time": 1792263701128,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026upgkhd"
     }
   ]
 }
