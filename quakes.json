@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-18T07:30:57Z",
-  "count": 193,
+  "updated": "2026-10-18T07:45:42Z",
+  "count": 196,
   "points": [
+    {
+      "id": "ci41348855",
+      "lon": -117.211,
+      "lat": 33.9563333333333,
+      "depth": 11.75,
+      "mag": 0.9,
+      "place": "4 km NNE of Moreno Valley, CA",
+      "time": 1792309215190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348855"
+    },
+    {
+      "id": "ci41348847",
+      "lon": -116.045666666667,
+      "lat": 33.1348333333333,
+      "depth": 3.15,
+      "mag": 0.77,
+      "place": "8 km E of Ocotillo Wells, CA",
+      "time": 1792308832280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348847"
+    },
+    {
+      "id": "aka2026uqflnh",
+      "lon": -147.116,
+      "lat": 64.546,
+      "depth": 2.5,
+      "mag": 1.3,
+      "place": "10 km WNW of Salcha, Alaska",
+      "time": 1792308774386,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqflnh"
+    },
     {
       "id": "aka2026uqfgnp",
       "lon": -151.176,
@@ -22,6 +52,16 @@
       "place": "16 km WSW of Johannesburg, CA",
       "time": 1792308366560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348839"
+    },
+    {
+      "id": "us6000u347",
+      "lon": 159.6209,
+      "lat": 53.1714,
+      "depth": 78.318,
+      "mag": 4.3,
+      "place": "67 km E of Petropavlovsk-Kamchatsky, Russia",
+      "time": 1792308025909,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u347"
     },
     {
       "id": "ci41348831",
@@ -85,12 +125,12 @@
     },
     {
       "id": "aka2026uqebwi",
-      "lon": -152.73,
-      "lat": 59.395,
-      "depth": 79.3,
+      "lon": -152.731,
+      "lat": 59.386,
+      "depth": 79.8,
       "mag": 2.7,
       "place": "46 km W of Nanwalek, Alaska",
-      "time": 1792306317820,
+      "time": 1792306317669,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqebwi"
     },
     {
@@ -1922,16 +1962,6 @@
       "place": "2 km NNW of The Geysers, CA",
       "time": 1792223607880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450886"
-    },
-    {
-      "id": "us6000u2yz",
-      "lon": 167.0474,
-      "lat": -13.3461,
-      "depth": 145.265,
-      "mag": 4.5,
-      "place": "80 km NW of Sola, Vanuatu",
-      "time": 1792222802596,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2yz"
     }
   ]
 }
