@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-18T01:01:11Z",
-  "count": 174,
+  "updated": "2026-10-18T01:15:46Z",
+  "count": 175,
   "points": [
+    {
+      "id": "ci41348703",
+      "lon": -117.067166666667,
+      "lat": 33.971,
+      "depth": 12.63,
+      "mag": 0.83,
+      "place": "2 km SW of Calimesa, CA",
+      "time": 1792285885070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348703"
+    },
+    {
+      "id": "nc75451341",
+      "lon": -118.738670349121,
+      "lat": 37.1418342590332,
+      "depth": 2.60999989509583,
+      "mag": 1.02,
+      "place": "33 km SSW of Round Valley, CA",
+      "time": 1792285641580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451341"
+    },
     {
       "id": "aka2026uprtwb",
       "lon": -150.717,
@@ -32,6 +52,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1792283525130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451331"
+    },
+    {
+      "id": "us6000u32r",
+      "lon": 146.0489,
+      "lat": -6.5103,
+      "depth": 124.07,
+      "mag": 4.8,
+      "place": "31 km SE of Kainantu, Papua New Guinea",
+      "time": 1792283309111,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u32r"
     },
     {
       "id": "nc75451326",
@@ -1722,26 +1752,6 @@
       "place": "33 km SE of Skwentna, Alaska",
       "time": 1792200073884,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026unxavl"
-    },
-    {
-      "id": "nc75450806",
-      "lon": -122.838996887207,
-      "lat": 38.8386650085449,
-      "depth": 0.810000002384186,
-      "mag": 1.14,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1792199252170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450806"
-    },
-    {
-      "id": "us6000u2x7",
-      "lon": -93.2479,
-      "lat": 14.0576,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "115 km SW of Puerto Madero, Mexico",
-      "time": 1792198980020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2x7"
     }
   ]
 }
