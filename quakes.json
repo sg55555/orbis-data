@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-18T11:17:02Z",
+  "updated": "2026-10-18T11:30:59Z",
   "count": 207,
   "points": [
+    {
+      "id": "ci41348903",
+      "lon": -116.048833333333,
+      "lat": 33.1308333333333,
+      "depth": 2.2,
+      "mag": 0.93,
+      "place": "8 km E of Ocotillo Wells, CA",
+      "time": 1792322579500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348903"
+    },
     {
       "id": "ci41348895",
       "lon": -116.712166666667,
@@ -12,6 +22,16 @@
       "place": "7 km ENE of Cabazon, CA",
       "time": 1792321808730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348895"
+    },
+    {
+      "id": "pr71537123",
+      "lon": -66.6043333333333,
+      "lat": 17.9515,
+      "depth": 13.98,
+      "mag": 2.2,
+      "place": "6 km SSE of Ponce, Puerto Rico",
+      "time": 1792321748080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537123"
     },
     {
       "id": "aka2026uqmful",
@@ -2052,26 +2072,6 @@
       "place": "83 km N of Opotiki, New Zealand",
       "time": 1792236745645,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2zv"
-    },
-    {
-      "id": "aka2026uordxa",
-      "lon": -150.074,
-      "lat": 66.859,
-      "depth": 5,
-      "mag": 1.8,
-      "place": "44 km S of Coldfoot, Alaska",
-      "time": 1792236279707,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uordxa"
-    },
-    {
-      "id": "hv75059636",
-      "lon": -155.399169921875,
-      "lat": 19.2743339538574,
-      "depth": 28.3400001525879,
-      "mag": 1.72,
-      "place": "11 km NE of Pāhala, Hawaii",
-      "time": 1792236206340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75059636"
     }
   ]
 }
