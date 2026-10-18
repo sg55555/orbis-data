@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-18T16:50:47Z",
-  "count": 208,
+  "updated": "2026-10-18T17:01:08Z",
+  "count": 210,
   "points": [
+    {
+      "id": "aka2026uqyhvd",
+      "lon": -147.161,
+      "lat": 61.779,
+      "depth": 28,
+      "mag": 1.6,
+      "place": "17 km S of Eureka Roadhouse, Alaska",
+      "time": 1792342703820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqyhvd"
+    },
+    {
+      "id": "nn00925908",
+      "lon": -118.9896,
+      "lat": 39.3515,
+      "depth": 9.0145,
+      "mag": 2.35,
+      "place": "21 km ESE of Silver Springs, Nevada",
+      "time": 1792342549684,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925908"
+    },
+    {
+      "id": "aka2026uqybyc",
+      "lon": -153.268,
+      "lat": 60.024,
+      "depth": 5,
+      "mag": 0.7,
+      "place": "53 km ENE of Pedro Bay, Alaska",
+      "time": 1792342295913,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqybyc"
+    },
     {
       "id": "uw714121692",
       "lon": -122.431,
@@ -482,6 +512,16 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1792320771260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451531"
+    },
+    {
+      "id": "uw714121612",
+      "lon": -121.909666666667,
+      "lat": 46.8791666666667,
+      "depth": 11.16,
+      "mag": 0.41,
+      "place": "16 km NE of Ashford, Washington",
+      "time": 1792320699590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714121612"
     },
     {
       "id": "aka2026uqmavp",
@@ -1505,12 +1545,12 @@
     },
     {
       "id": "ci41348687",
-      "lon": -115.2505,
-      "lat": 32.5493333333333,
-      "depth": 21.51,
-      "mag": 1.73,
+      "lon": -115.2495,
+      "lat": 32.5525,
+      "depth": 21.37,
+      "mag": 1.7,
       "place": "10 km E of Puebla, B.C., MX",
-      "time": 1792283692300,
+      "time": 1792283692310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348687"
     },
     {
@@ -2062,26 +2102,6 @@
       "place": "2 km SW of Anderson Springs, CA",
       "time": 1792257681740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451041"
-    },
-    {
-      "id": "us6000u30x",
-      "lon": -67.2144,
-      "lat": -21.1752,
-      "depth": 189.462,
-      "mag": 4.6,
-      "place": "88 km SSW of Uyuni, Bolivia",
-      "time": 1792255965164,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u30x"
-    },
-    {
-      "id": "nc75451021",
-      "lon": -122.795829772949,
-      "lat": 38.8203315734863,
-      "depth": 1.95000004768372,
-      "mag": 0.75,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1792255869740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451021"
     }
   ]
 }
