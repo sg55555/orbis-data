@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T13:01:14Z",
-  "count": 202,
+  "updated": "2026-10-19T13:22:53Z",
+  "count": 204,
   "points": [
+    {
+      "id": "nc75452136",
+      "lon": -122.799835205078,
+      "lat": 38.8356666564941,
+      "depth": 1.96000003814697,
+      "mag": 0.22,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1792415841260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452136"
+    },
+    {
+      "id": "aka2026usmnxf",
+      "lon": -148.648,
+      "lat": 59.838,
+      "depth": 22.8,
+      "mag": 1.9,
+      "place": "43 km SW of Chenega, Alaska",
+      "time": 1792415091290,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026usmnxf"
+    },
     {
       "id": "aka2026usltww",
       "lon": -148.434,
@@ -702,6 +722,16 @@
       "place": "23 km NNW of Tehachapi, CA",
       "time": 1792381320600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349215"
+    },
+    {
+      "id": "uw714121832",
+      "lon": -122.595166666667,
+      "lat": 48.1135,
+      "depth": 29.58,
+      "mag": 1.45,
+      "place": "8 km SW of Camano, Washington",
+      "time": 1792380904870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714121832"
     },
     {
       "id": "uu80160851",
@@ -2012,16 +2042,6 @@
       "place": "19 km ESE of Clam Gulch, Alaska",
       "time": 1792329748015,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqrclm"
-    },
-    {
-      "id": "aka2026uqqleu",
-      "lon": -150.04,
-      "lat": 61.582,
-      "depth": 31.5,
-      "mag": 1.7,
-      "place": "8 km NW of Big Lake, Alaska",
-      "time": 1792328544216,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqqleu"
     }
   ]
 }
