@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T08:45:41Z",
-  "count": 227,
+  "updated": "2026-10-19T09:01:13Z",
+  "count": 225,
   "points": [
+    {
+      "id": "ci41349263",
+      "lon": -116.134,
+      "lat": 33.8475,
+      "depth": 2.51,
+      "mag": 1.41,
+      "place": "16 km NNE of Indio, CA",
+      "time": 1792400002260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349263"
+    },
     {
       "id": "nc75452076",
       "lon": -122.794502258301,
@@ -115,13 +125,23 @@
     },
     {
       "id": "us6000u3bc",
-      "lon": 165.7054,
-      "lat": -14.0261,
+      "lon": 165.6761,
+      "lat": -14.0533,
       "depth": 10,
-      "mag": 5.9,
-      "place": "185 km NW of Port-Olry, Vanuatu",
-      "time": 1792396144903,
+      "mag": 6,
+      "place": "186 km NW of Port-Olry, Vanuatu",
+      "time": 1792396144900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc"
+    },
+    {
+      "id": "us6000u3b8",
+      "lon": 165.4874,
+      "lat": -14.042,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "203 km WNW of Port-Olry, Vanuatu",
+      "time": 1792394452028,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3b8"
     },
     {
       "id": "aka2026usbbnn",
@@ -2232,46 +2252,6 @@
       "place": "96 km SSW of Unalaska, Alaska",
       "time": 1792314352848,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqiodq"
-    },
-    {
-      "id": "aka2026uqiipe",
-      "lon": -149.803,
-      "lat": 62.2,
-      "depth": 2.3,
-      "mag": 1.9,
-      "place": "4 km NNE of Susitna North, Alaska",
-      "time": 1792313971615,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqiipe"
-    },
-    {
-      "id": "uu80160651",
-      "lon": -112.908333333333,
-      "lat": 38.5175,
-      "depth": 3.04,
-      "mag": 0.9,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1792313953250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160651"
-    },
-    {
-      "id": "hv75060216",
-      "lon": -155.367340087891,
-      "lat": 19.3859996795654,
-      "depth": 27.6599998474121,
-      "mag": 2.1,
-      "place": "15 km WSW of Volcano, Hawaii",
-      "time": 1792313751450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75060216"
-    },
-    {
-      "id": "aka2026uqiatg",
-      "lon": -175.649,
-      "lat": 51.817,
-      "depth": 77.9,
-      "mag": 2,
-      "place": "68 km E of Adak, Alaska",
-      "time": 1792313425796,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqiatg"
     }
   ]
 }
