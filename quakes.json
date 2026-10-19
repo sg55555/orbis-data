@@ -1,17 +1,37 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T03:45:43Z",
+  "updated": "2026-10-19T04:01:09Z",
   "count": 220,
   "points": [
     {
+      "id": "nc75452006",
+      "lon": -118.846168518066,
+      "lat": 37.4903335571289,
+      "depth": 5.5,
+      "mag": 1.62,
+      "place": "17 km WSW of Toms Place, CA",
+      "time": 1792381506050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452006"
+    },
+    {
       "id": "ci41349215",
-      "lon": -118.56233215332,
-      "lat": 35.3186683654785,
-      "depth": 8.0600004196167,
-      "mag": 1.30096043650481,
+      "lon": -118.553333333333,
+      "lat": 35.3195,
+      "depth": 4.46,
+      "mag": 1.11,
       "place": "23 km NNW of Tehachapi, CA",
-      "time": 1792381320630,
+      "time": 1792381320600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349215"
+    },
+    {
+      "id": "uu80160851",
+      "lon": -112.908,
+      "lat": 38.5051666666667,
+      "depth": 2.01,
+      "mag": 1.82,
+      "place": "14 km NE of Milford, Utah",
+      "time": 1792380718190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160851"
     },
     {
       "id": "aka2026ursvfm",
@@ -2182,26 +2202,6 @@
       "place": "22 km N of Larsen Bay, Alaska",
       "time": 1792296346522,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026upynvp"
-    },
-    {
-      "id": "ci41348743",
-      "lon": -117.268833333333,
-      "lat": 35.988,
-      "depth": 1.66,
-      "mag": 1.11,
-      "place": "27 km NNE of Trona, CA",
-      "time": 1792295724160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348743"
-    },
-    {
-      "id": "aka2026upyeln",
-      "lon": -152.081,
-      "lat": 60.282,
-      "depth": 83.1,
-      "mag": 1.7,
-      "place": "34 km NW of Ninilchik, Alaska",
-      "time": 1792295691752,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026upyeln"
     }
   ]
 }
