@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T14:15:45Z",
-  "count": 202,
+  "updated": "2026-10-19T14:31:03Z",
+  "count": 200,
   "points": [
     {
       "id": "nc75452141",
@@ -95,12 +95,12 @@
     },
     {
       "id": "ci41349295",
-      "lon": -116.763,
-      "lat": 33.5926666666667,
-      "depth": 9.28,
+      "lon": -116.758666666667,
+      "lat": 33.5925,
+      "depth": 10.63,
       "mag": 0.4,
       "place": "9 km WNW of Anza, CA",
-      "time": 1792413315560,
+      "time": 1792413315440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349295"
     },
     {
@@ -775,11 +775,11 @@
     },
     {
       "id": "ci41349223",
-      "lon": -117.902833333333,
-      "lat": 34.0938333333333,
-      "depth": 13.07,
+      "lon": -117.899333333333,
+      "lat": 34.096,
+      "depth": 12.77,
       "mag": 0.6,
-      "place": "1 km WNW of Covina, CA",
+      "place": "1 km NW of Covina, CA",
       "time": 1792382910650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349223"
     },
@@ -852,6 +852,16 @@
       "place": "51 km E of Port Alsworth, Alaska",
       "time": 1792379617586,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ursvfm"
+    },
+    {
+      "id": "uu80160841",
+      "lon": -110.7465,
+      "lat": 44.5755,
+      "depth": 7.99,
+      "mag": 0.85,
+      "place": "29 km ESE of West Yellowstone, Montana",
+      "time": 1792379343090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160841"
     },
     {
       "id": "aka2026ursexj",
@@ -1275,12 +1285,12 @@
     },
     {
       "id": "ci41349119",
-      "lon": -116.129166666667,
-      "lat": 33.8466666666667,
-      "depth": 2.16,
+      "lon": -116.128,
+      "lat": 33.8418333333333,
+      "depth": 1.31,
       "mag": 0.78,
       "place": "16 km NNE of Indio, CA",
-      "time": 1792360515870,
+      "time": 1792360515780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349119"
     },
     {
@@ -1365,12 +1375,12 @@
     },
     {
       "id": "ci41349103",
-      "lon": -116.756666666667,
-      "lat": 33.5933333333333,
-      "depth": 10.32,
+      "lon": -116.757833333333,
+      "lat": 33.5883333333333,
+      "depth": 11.48,
       "mag": 0.58,
       "place": "9 km WNW of Anza, CA",
-      "time": 1792357522100,
+      "time": 1792357522020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349103"
     },
     {
@@ -1992,36 +2002,6 @@
       "place": "12 km SW of Leilani Estates, Hawaii",
       "time": 1792333931200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75060396"
-    },
-    {
-      "id": "us6000u366",
-      "lon": 66.9867,
-      "lat": 1.452,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "Carlsberg Ridge",
-      "time": 1792333807877,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u366"
-    },
-    {
-      "id": "aka2026uqthqx",
-      "lon": -153.053,
-      "lat": 60.274,
-      "depth": 145.4,
-      "mag": 2.5,
-      "place": "70 km E of Port Alsworth, Alaska",
-      "time": 1792333695002,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqthqx"
-    },
-    {
-      "id": "hv75060391",
-      "lon": -155.214172363281,
-      "lat": 19.3026676177979,
-      "depth": 6.48999977111816,
-      "mag": 2.38,
-      "place": "15 km S of Volcano, Hawaii",
-      "time": 1792333398990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75060391"
     }
   ]
 }
