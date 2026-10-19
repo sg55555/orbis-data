@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T13:22:53Z",
-  "count": 204,
+  "updated": "2026-10-19T13:31:03Z",
+  "count": 205,
   "points": [
+    {
+      "id": "hv75060801",
+      "lon": -155.488327026367,
+      "lat": 19.1931667327881,
+      "depth": 29.7399997711182,
+      "mag": 2.03,
+      "place": "1 km SW of Pāhala, Hawaii",
+      "time": 1792416048690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75060801"
+    },
     {
       "id": "nc75452136",
       "lon": -122.799835205078,
@@ -184,6 +194,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c6"
     },
     {
+      "id": "uu80160931",
+      "lon": -112.908,
+      "lat": 38.5156666666667,
+      "depth": 3.38,
+      "mag": 0.91,
+      "place": "15 km NE of Milford, Utah",
+      "time": 1792405484680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160931"
+    },
+    {
       "id": "ci41349279",
       "lon": -117.009833333333,
       "lat": 33.6438333333333,
@@ -342,6 +362,16 @@
       "place": "2 km W of Lunca Jariștei, Romania",
       "time": 1792399917571,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bs"
+    },
+    {
+      "id": "uu80160926",
+      "lon": -111.096666666667,
+      "lat": 44.7588333333333,
+      "depth": 10.28,
+      "mag": 0.86,
+      "place": "7 km E of Hebgen Lake Estates, Montana",
+      "time": 1792399416860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160926"
     },
     {
       "id": "nc75452076",
@@ -642,6 +672,16 @@
       "place": "46 km WSW of Ivanof Bay, Alaska",
       "time": 1792386610649,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026urwswy"
+    },
+    {
+      "id": "us6000u3a4",
+      "lon": -168.422,
+      "lat": 51.5152,
+      "depth": 10,
+      "mag": 4,
+      "place": "161 km S of Nikolski, Alaska",
+      "time": 1792386520403,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3a4"
     },
     {
       "id": "pr71537203",
@@ -2012,36 +2052,6 @@
       "place": "8 km E of Ocotillo Wells, CA",
       "time": 1792330248810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348935"
-    },
-    {
-      "id": "aka2026uqrfrs",
-      "lon": -153.309,
-      "lat": 58.361,
-      "depth": 63.2,
-      "mag": 2,
-      "place": "40 km NW of Aleneva, Alaska",
-      "time": 1792329969909,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqrfrs"
-    },
-    {
-      "id": "nc75451561",
-      "lon": -122.818832397461,
-      "lat": 38.8316650390625,
-      "depth": 1.60000002384186,
-      "mag": 1.25,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1792329860850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451561"
-    },
-    {
-      "id": "aka2026uqrclm",
-      "lon": -151.087,
-      "lat": 60.153,
-      "depth": 67.7,
-      "mag": 1.8,
-      "place": "19 km ESE of Clam Gulch, Alaska",
-      "time": 1792329748015,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqrclm"
     }
   ]
 }
