@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T13:31:03Z",
-  "count": 205,
+  "updated": "2026-10-19T13:45:42Z",
+  "count": 203,
   "points": [
+    {
+      "id": "ci41349303",
+      "lon": -116.760833333333,
+      "lat": 33.586,
+      "depth": 11.7,
+      "mag": 0.68,
+      "place": "9 km WNW of Anza, CA",
+      "time": 1792416636320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349303"
+    },
     {
       "id": "hv75060801",
       "lon": -155.488327026367,
@@ -2022,36 +2032,6 @@
       "place": "19 km NW of Parkfield, CA",
       "time": 1792331207190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451571"
-    },
-    {
-      "id": "nc75451566",
-      "lon": -122.833335876465,
-      "lat": 38.8359985351562,
-      "depth": 0.990000009536743,
-      "mag": 0.97,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1792330809890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451566"
-    },
-    {
-      "id": "hv75060356",
-      "lon": -155.385162353516,
-      "lat": 18.9231662750244,
-      "depth": 28.8799991607666,
-      "mag": 1.75,
-      "place": "25 km SE of Naalehu, Hawaii",
-      "time": 1792330748120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75060356"
-    },
-    {
-      "id": "ci41348935",
-      "lon": -116.049333333333,
-      "lat": 33.1303333333333,
-      "depth": 2.21,
-      "mag": 1.4,
-      "place": "8 km E of Ocotillo Wells, CA",
-      "time": 1792330248810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348935"
     }
   ]
 }
