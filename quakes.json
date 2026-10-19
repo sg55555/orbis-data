@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T20:31:01Z",
-  "count": 202,
+  "updated": "2026-10-19T20:55:43Z",
+  "count": 203,
   "points": [
+    {
+      "id": "pr71537268",
+      "lon": -66.8313333333333,
+      "lat": 17.985,
+      "depth": 16.36,
+      "mag": 2.05,
+      "place": "1 km SW of Indios, Puerto Rico",
+      "time": 1792442523360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537268"
+    },
+    {
+      "id": "aka2026utbslw",
+      "lon": -150.851,
+      "lat": 64.958,
+      "depth": 5.7,
+      "mag": 1.9,
+      "place": "11 km WSW of Manley Hot Springs, Alaska",
+      "time": 1792442394726,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026utbslw"
+    },
+    {
+      "id": "nc75452221",
+      "lon": -122.778335571289,
+      "lat": 38.8181648254395,
+      "depth": 0.0900000035762787,
+      "mag": 0.74,
+      "place": "5 km W of Cobb, CA",
+      "time": 1792442261700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452221"
+    },
     {
       "id": "ci41349447",
       "lon": -117.931,
@@ -115,9 +145,9 @@
     },
     {
       "id": "ci41349399",
-      "lon": -116.761166666667,
-      "lat": 33.581,
-      "depth": 11.99,
+      "lon": -116.761333333333,
+      "lat": 33.5813333333333,
+      "depth": 11.81,
       "mag": 0.72,
       "place": "9 km WNW of Anza, CA",
       "time": 1792432355490,
@@ -984,6 +1014,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bi"
     },
     {
+      "id": "uu80160901",
+      "lon": -112.521,
+      "lat": 37.8461666666667,
+      "depth": -3.03,
+      "mag": 1.74,
+      "place": "7 km WNW of Panguitch, Utah",
+      "time": 1792397235950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160901"
+    },
+    {
       "id": "nc75452061",
       "lon": -122.794334411621,
       "lat": 38.8216667175293,
@@ -1122,6 +1162,16 @@
       "place": "5 km N of Big Bear City, CA",
       "time": 1792391407630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349247"
+    },
+    {
+      "id": "uu80160886",
+      "lon": -112.5155,
+      "lat": 37.8493333333333,
+      "depth": 0.13,
+      "mag": 1.64,
+      "place": "7 km WNW of Panguitch, Utah",
+      "time": 1792391375680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160886"
     },
     {
       "id": "tx2026uoreta",
@@ -1982,46 +2032,6 @@
       "place": "60 km NNE of Chase, Alaska",
       "time": 1792357352088,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026urglmt"
-    },
-    {
-      "id": "aka2026urfzyt",
-      "lon": -152.388,
-      "lat": 59.875,
-      "depth": 78.1,
-      "mag": 0.9,
-      "place": "33 km WNW of Anchor Point, Alaska",
-      "time": 1792356552451,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026urfzyt"
-    },
-    {
-      "id": "uw714121772",
-      "lon": -121.9445,
-      "lat": 46.8111666666667,
-      "depth": 6.77,
-      "mag": 1.65,
-      "place": "8 km NE of Ashford, Washington",
-      "time": 1792356551500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714121772"
-    },
-    {
-      "id": "uw714121762",
-      "lon": -120.783333333333,
-      "lat": 49.0795,
-      "depth": -0.74,
-      "mag": 0.92,
-      "place": "46 km SSW of Princeton, Canada",
-      "time": 1792356021200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714121762"
-    },
-    {
-      "id": "nc75451736",
-      "lon": -122.762832641602,
-      "lat": 38.798168182373,
-      "depth": 3.4300000667572,
-      "mag": 0.71,
-      "place": "2 km NNW of The Geysers, CA",
-      "time": 1792355552690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451736"
     }
   ]
 }
