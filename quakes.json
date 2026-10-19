@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T16:15:43Z",
-  "count": 201,
+  "updated": "2026-10-19T16:31:01Z",
+  "count": 199,
   "points": [
+    {
+      "id": "us6000u3db",
+      "lon": 179.8713,
+      "lat": -23.5497,
+      "depth": 536.111,
+      "mag": 4.6,
+      "place": "south of the Fiji Islands",
+      "time": 1792426433665,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3db"
+    },
     {
       "id": "nc75452156",
       "lon": -124.559501647949,
@@ -832,16 +842,6 @@
       "place": "68 km WSW of San Juan del Sur, Nicaragua",
       "time": 1792387116003,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3a8"
-    },
-    {
-      "id": "aka2026urwswy",
-      "lon": -160.218,
-      "lat": 55.817,
-      "depth": 176.2,
-      "mag": 3.3,
-      "place": "46 km WSW of Ivanof Bay, Alaska",
-      "time": 1792386610649,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026urwswy"
     },
     {
       "id": "us6000u3a4",
@@ -1992,26 +1992,6 @@
       "place": "22 km ENE of Cantwell, Alaska",
       "time": 1792341157440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqxlmi"
-    },
-    {
-      "id": "ci41348999",
-      "lon": -116.235833333333,
-      "lat": 33.3515,
-      "depth": 10.74,
-      "mag": 1.36,
-      "place": "17 km NE of Borrego Springs, CA",
-      "time": 1792340771600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348999"
-    },
-    {
-      "id": "nc75451621",
-      "lon": -121.313331604004,
-      "lat": 36.6604995727539,
-      "depth": 3.92000007629395,
-      "mag": 1.85,
-      "place": "14 km S of Tres Pinos, CA",
-      "time": 1792340334680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451621"
     }
   ]
 }
