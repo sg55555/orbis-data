@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T14:01:16Z",
-  "count": 201,
+  "updated": "2026-10-19T14:15:45Z",
+  "count": 202,
   "points": [
+    {
+      "id": "nc75452141",
+      "lon": -122.800163269043,
+      "lat": 38.7936668395996,
+      "depth": 2.89000010490417,
+      "mag": 0.8,
+      "place": "4 km WNW of The Geysers, CA",
+      "time": 1792418541000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452141"
+    },
+    {
+      "id": "aka2026usokif",
+      "lon": -152.844,
+      "lat": 58.959,
+      "depth": 69.2,
+      "mag": 2.2,
+      "place": "68 km SW of Nanwalek, Alaska",
+      "time": 1792418439093,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026usokif"
+    },
     {
       "id": "aka2026usofsu",
       "lon": -151.028,
@@ -2002,16 +2022,6 @@
       "place": "15 km S of Volcano, Hawaii",
       "time": 1792333398990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75060391"
-    },
-    {
-      "id": "ci41348943",
-      "lon": -116.760666666667,
-      "lat": 33.5833333333333,
-      "depth": 11.8,
-      "mag": 0.46,
-      "place": "9 km WNW of Anza, CA",
-      "time": 1792332565090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348943"
     }
   ]
 }
