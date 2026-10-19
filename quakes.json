@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T23:15:45Z",
-  "count": 214,
+  "updated": "2026-10-19T23:31:00Z",
+  "count": 215,
   "points": [
+    {
+      "id": "aka2026uthdkl",
+      "lon": -150.938,
+      "lat": 63.066,
+      "depth": 119.8,
+      "mag": 2.8,
+      "place": "64 km N of Petersville, Alaska",
+      "time": 1792452158976,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uthdkl"
+    },
     {
       "id": "aka2026utgrub",
       "lon": -151.731,
@@ -1334,6 +1344,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc"
     },
     {
+      "id": "av94456528",
+      "lon": -177.206666666667,
+      "lat": 51.5306666666667,
+      "depth": 15.63,
+      "mag": 1.71,
+      "place": "55 km SW of Adak, Alaska",
+      "time": 1792394837610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94456528"
+    },
+    {
       "id": "us6000u3b8",
       "lon": 165.4874,
       "lat": -14.042,
@@ -1372,6 +1392,16 @@
       "place": "18 km NNE of Pāhala, Hawaii",
       "time": 1792394074970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75060741"
+    },
+    {
+      "id": "av94456513",
+      "lon": -164.761666666667,
+      "lat": 54.6281666666667,
+      "depth": 8.71,
+      "mag": 1.11,
+      "place": "85 km NE of Akutan, Alaska",
+      "time": 1792394050420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94456513"
     },
     {
       "id": "nc75452041",
@@ -2122,26 +2152,6 @@
       "place": "Kermadec Islands region",
       "time": 1792366243709,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38u"
-    },
-    {
-      "id": "nc75451836",
-      "lon": -122.809501647949,
-      "lat": 38.8311653137207,
-      "depth": 1.94000005722046,
-      "mag": 1.07,
-      "place": "8 km W of Cobb, CA",
-      "time": 1792365704480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451836"
-    },
-    {
-      "id": "tx2026uocxhn",
-      "lon": -103.305,
-      "lat": 31.981,
-      "depth": 5.8563,
-      "mag": 2.2,
-      "place": "18 km SW of Jal, New Mexico",
-      "time": 1792365438104,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uocxhn"
     }
   ]
 }
