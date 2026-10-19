@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T11:01:13Z",
+  "updated": "2026-10-19T11:11:46Z",
   "count": 209,
   "points": [
+    {
+      "id": "ci41349287",
+      "lon": -117.459503173828,
+      "lat": 35.545166015625,
+      "depth": 0.639999985694885,
+      "mag": 1.33098980714634,
+      "place": "21 km ESE of Ridgecrest, CA",
+      "time": 1792408126250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349287"
+    },
     {
       "id": "us6000u3c6",
       "lon": 165.5687,
@@ -342,6 +352,16 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1792393548480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452041"
+    },
+    {
+      "id": "us6000u3b4",
+      "lon": 165.384,
+      "lat": -13.9517,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "218 km WNW of Port-Olry, Vanuatu",
+      "time": 1792393202899,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3b4"
     },
     {
       "id": "ci41349255",
@@ -2072,26 +2092,6 @@
       "place": "80 km ENE of Ugashik, Alaska",
       "time": 1792322432110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqnatn"
-    },
-    {
-      "id": "ci41348895",
-      "lon": -116.712166666667,
-      "lat": 33.9371666666667,
-      "depth": 8.95,
-      "mag": 0.47,
-      "place": "7 km ENE of Cabazon, CA",
-      "time": 1792321808730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348895"
-    },
-    {
-      "id": "pr71537123",
-      "lon": -66.6043333333333,
-      "lat": 17.9515,
-      "depth": 13.98,
-      "mag": 2.2,
-      "place": "6 km SSE of Ponce, Puerto Rico",
-      "time": 1792321748080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537123"
     }
   ]
 }
