@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T22:31:01Z",
-  "count": 211,
+  "updated": "2026-10-19T22:45:38Z",
+  "count": 210,
   "points": [
+    {
+      "id": "aka2026utfjdt",
+      "lon": -151.722,
+      "lat": 60.419,
+      "depth": 76.3,
+      "mag": 2.1,
+      "place": "23 km WNW of Cohoe, Alaska",
+      "time": 1792448960263,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026utfjdt"
+    },
     {
       "id": "nc75452251",
       "lon": -122.758003234863,
@@ -52,6 +62,16 @@
       "place": "29 km NNW of Petersville, Alaska",
       "time": 1792446539236,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uteapm"
+    },
+    {
+      "id": "us6000u3i2",
+      "lon": 153.6468,
+      "lat": 48.4485,
+      "depth": 102.09,
+      "mag": 4.5,
+      "place": "Kuril Islands",
+      "time": 1792446216577,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3i2"
     },
     {
       "id": "hv75061006",
@@ -162,6 +182,16 @@
       "place": "5 km W of Cobb, CA",
       "time": 1792442261700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452221"
+    },
+    {
+      "id": "uw714122032",
+      "lon": -122.226166666667,
+      "lat": 49.1111666666667,
+      "depth": -1.07,
+      "mag": 0.85,
+      "place": "6 km ESE of Mission, Canada",
+      "time": 1792440259640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714122032"
     },
     {
       "id": "ci41349447",
@@ -1995,12 +2025,12 @@
     },
     {
       "id": "ci41349143",
-      "lon": -117.244333333333,
-      "lat": 34.0403333333333,
-      "depth": 15.81,
-      "mag": 0.91,
-      "place": "2 km ESE of Loma Linda, CA",
-      "time": 1792366532800,
+      "lon": -117.245,
+      "lat": 34.0391666666667,
+      "depth": 16.47,
+      "mag": 0.87,
+      "place": "2 km SE of Loma Linda, CA",
+      "time": 1792366532790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349143"
     },
     {
@@ -2072,46 +2102,6 @@
       "place": "2 km NNW of Anderson Springs, CA",
       "time": 1792363693080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451811"
-    },
-    {
-      "id": "ci41349127",
-      "lon": -115.517,
-      "lat": 32.888,
-      "depth": 8.04,
-      "mag": 1.2,
-      "place": "7 km NE of Imperial, CA",
-      "time": 1792362969910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349127"
-    },
-    {
-      "id": "us6000u38i",
-      "lon": -178.6587,
-      "lat": -20.9271,
-      "depth": 551.945,
-      "mag": 4.5,
-      "place": "Fiji region",
-      "time": 1792362862230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38i"
-    },
-    {
-      "id": "hv75060576",
-      "lon": -155.148498535156,
-      "lat": 19.2080001831055,
-      "depth": 39.4500007629395,
-      "mag": 2.36,
-      "place": "27 km SSE of Volcano, Hawaii",
-      "time": 1792362777830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75060576"
-    },
-    {
-      "id": "us6000u38g",
-      "lon": 152.6162,
-      "lat": -5.4567,
-      "depth": 10,
-      "mag": 5.1,
-      "place": "129 km SSE of Kokopo, Papua New Guinea",
-      "time": 1792362703272,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38g"
     }
   ]
 }
