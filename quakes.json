@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T07:01:14Z",
-  "count": 244,
+  "updated": "2026-10-19T07:15:42Z",
+  "count": 243,
   "points": [
+    {
+      "id": "nc75452041",
+      "lon": -122.783836364746,
+      "lat": 38.8366661071777,
+      "depth": 1.9099999666214,
+      "mag": 0.24,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1792393548480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452041"
+    },
     {
       "id": "ci41349255",
       "lon": -117.255,
@@ -2422,26 +2432,6 @@
       "place": "9 km NNW of Idyllwild, CA",
       "time": 1792307730150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348823"
-    },
-    {
-      "id": "ci41348815",
-      "lon": -116.052666666667,
-      "lat": 33.1343333333333,
-      "depth": 2.39,
-      "mag": 0.97,
-      "place": "7 km E of Ocotillo Wells, CA",
-      "time": 1792307586180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348815"
-    },
-    {
-      "id": "ci41348807",
-      "lon": -116.047166666667,
-      "lat": 33.1338333333333,
-      "depth": 3.16,
-      "mag": 2.37,
-      "place": "8 km E of Ocotillo Wells, CA",
-      "time": 1792306865140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348807"
     }
   ]
 }
