@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T00:09:24Z",
-  "count": 230,
+  "updated": "2026-10-19T00:15:42Z",
+  "count": 231,
   "points": [
+    {
+      "id": "hv75060601",
+      "lon": -155.815673828125,
+      "lat": 19.8411674499512,
+      "depth": 21.6000003814697,
+      "mag": 2.32,
+      "place": "11 km SSW of Waikoloa, Hawaii",
+      "time": 1792368681460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75060601"
+    },
+    {
+      "id": "nc75451881",
+      "lon": -122.726669311523,
+      "lat": 38.7685012817383,
+      "depth": 0.889999985694885,
+      "mag": 0.87,
+      "place": "3 km ESE of The Geysers, CA",
+      "time": 1792368528520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451881"
+    },
     {
       "id": "nn00925925",
       "lon": -119.0924,
@@ -2292,16 +2312,6 @@
       "place": "55 km E of Pedro Bay, Alaska",
       "time": 1792282820074,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026upqxpc"
-    },
-    {
-      "id": "aka2026upqstb",
-      "lon": -150.365,
-      "lat": 59.49,
-      "depth": 30.5,
-      "mag": 2.2,
-      "place": "50 km ESE of Halibut Cove, Alaska",
-      "time": 1792282324551,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026upqstb"
     }
   ]
 }
