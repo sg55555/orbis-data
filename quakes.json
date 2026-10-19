@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T22:45:38Z",
-  "count": 210,
+  "updated": "2026-10-19T23:01:10Z",
+  "count": 211,
   "points": [
+    {
+      "id": "ci41349527",
+      "lon": -118.5955,
+      "lat": 35.238,
+      "depth": 7.44,
+      "mag": 1.99,
+      "place": "18 km NW of Tehachapi, CA",
+      "time": 1792450474730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349527"
+    },
+    {
+      "id": "aka2026utgdyz",
+      "lon": -155.511,
+      "lat": 57.785,
+      "depth": 96.2,
+      "mag": 1.6,
+      "place": "67 km WNW of Karluk, Alaska",
+      "time": 1792450393695,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026utgdyz"
+    },
     {
       "id": "aka2026utfjdt",
       "lon": -151.722,
@@ -122,6 +142,16 @@
       "place": "39 km S of Tolsona, Alaska",
       "time": 1792444298453,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026utctzh"
+    },
+    {
+      "id": "uw714122092",
+      "lon": -122.1975,
+      "lat": 46.201,
+      "depth": 1.99,
+      "mag": -0.1,
+      "place": "37 km NNE of Amboy, Washington",
+      "time": 1792444194800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714122092"
     },
     {
       "id": "ci41349471",
@@ -2082,26 +2112,6 @@
       "place": "18 km SW of Jal, New Mexico",
       "time": 1792365438104,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uocxhn"
-    },
-    {
-      "id": "nc75451821",
-      "lon": -122.730499267578,
-      "lat": 38.775333404541,
-      "depth": 1.4099999666214,
-      "mag": 1.11,
-      "place": "2 km E of The Geysers, CA",
-      "time": 1792364173120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451821"
-    },
-    {
-      "id": "nc75451811",
-      "lon": -122.69766998291,
-      "lat": 38.7931671142578,
-      "depth": 2.72000002861023,
-      "mag": 0.78,
-      "place": "2 km NNW of Anderson Springs, CA",
-      "time": 1792363693080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451811"
     }
   ]
 }
