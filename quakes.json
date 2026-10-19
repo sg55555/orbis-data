@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T09:31:01Z",
-  "count": 224,
+  "updated": "2026-10-19T09:45:43Z",
+  "count": 222,
   "points": [
+    {
+      "id": "ci41349271",
+      "lon": -116.319,
+      "lat": 34.0348333333333,
+      "depth": 6.79,
+      "mag": 1.31,
+      "place": "11 km S of Joshua Tree, CA",
+      "time": 1792402246400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349271"
+    },
     {
       "id": "nc75452096",
       "lon": -121.03116607666,
@@ -2212,36 +2222,6 @@
       "place": "30 km SSE of Chickaloon, Alaska",
       "time": 1792317710719,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqkkqj"
-    },
-    {
-      "id": "aka2026uqjmpa",
-      "lon": -178.504,
-      "lat": 51.831,
-      "depth": 1.9,
-      "mag": 2.5,
-      "place": "128 km W of Adak, Alaska",
-      "time": 1792316044024,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqjmpa"
-    },
-    {
-      "id": "aka2026uqjlua",
-      "lon": -150.057,
-      "lat": 61.619,
-      "depth": 51.2,
-      "mag": 1.6,
-      "place": "12 km NNW of Big Lake, Alaska",
-      "time": 1792315989124,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqjlua"
-    },
-    {
-      "id": "aka2026uqjlen",
-      "lon": -155.27,
-      "lat": 58.176,
-      "depth": 5,
-      "mag": 0.7,
-      "place": "83 km NW of Karluk, Alaska",
-      "time": 1792315968837,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqjlen"
     }
   ]
 }
