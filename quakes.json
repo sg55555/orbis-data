@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T19:31:00Z",
-  "count": 202,
+  "updated": "2026-10-19T19:45:41Z",
+  "count": 198,
   "points": [
     {
       "id": "us6000u3ge",
@@ -315,12 +315,12 @@
     },
     {
       "id": "ci41349335",
-      "lon": -117.235833333333,
-      "lat": 34.033,
-      "depth": 16.51,
-      "mag": 1.41,
+      "lon": -117.234666666667,
+      "lat": 34.0321666666667,
+      "depth": 16.93,
+      "mag": 1.3,
       "place": "3 km SE of Loma Linda, CA",
-      "time": 1792423441450,
+      "time": 1792423441380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349335"
     },
     {
@@ -1484,6 +1484,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349183"
     },
     {
+      "id": "hv75060631",
+      "lon": -155.587833333333,
+      "lat": 19.4373333333333,
+      "depth": 38.64,
+      "mag": 2.34,
+      "place": "28 km NNW of Pāhala, Hawaii",
+      "time": 1792370846230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75060631"
+    },
+    {
       "id": "ci41349167",
       "lon": -117.803833333333,
       "lat": 35.325,
@@ -1935,12 +1945,12 @@
     },
     {
       "id": "hv75060536",
-      "lon": -155.697662353516,
-      "lat": 19.1801662445068,
-      "depth": -0.319999992847443,
-      "mag": 2.88,
-      "place": "14 km NNE of Hawaiian Ocean View, Hawaii",
-      "time": 1792354791090,
+      "lon": -155.683666666667,
+      "lat": 19.1878333333333,
+      "depth": -1.15,
+      "mag": 3.05,
+      "place": "14 km NNW of Wai‘ōhinu, Hawaii",
+      "time": 1792354791120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75060536"
     },
     {
@@ -1972,56 +1982,6 @@
       "place": "74 km NW of Ninilchik, Alaska",
       "time": 1792353331562,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026urefkm"
-    },
-    {
-      "id": "ci41349063",
-      "lon": -117.258166666667,
-      "lat": 34.0433333333333,
-      "depth": 15.16,
-      "mag": 1.56,
-      "place": "1 km SSE of Loma Linda, CA",
-      "time": 1792352382200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349063"
-    },
-    {
-      "id": "tx2026unvoqn",
-      "lon": -104.457,
-      "lat": 31.656,
-      "depth": 6.7151,
-      "mag": 2.1,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": 1792352160911,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026unvoqn"
-    },
-    {
-      "id": "us6000u37h",
-      "lon": -174.2956,
-      "lat": -21.541,
-      "depth": 10,
-      "mag": 5.2,
-      "place": "71 km ESE of ‘Ohonua, Tonga",
-      "time": 1792351948734,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h"
-    },
-    {
-      "id": "hv75060521",
-      "lon": -155.048333333333,
-      "lat": 19.3783333333333,
-      "depth": 5.97,
-      "mag": 1.67,
-      "place": "13 km SE of Fern Forest, Hawaii",
-      "time": 1792351864190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75060521"
-    },
-    {
-      "id": "nc75451711",
-      "lon": -122.783996582031,
-      "lat": 38.7968330383301,
-      "depth": 3.35999989509583,
-      "mag": 0.25,
-      "place": "3 km NW of The Geysers, CA",
-      "time": 1792351850920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451711"
     }
   ]
 }
