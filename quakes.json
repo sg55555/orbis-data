@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T22:17:22Z",
-  "count": 209,
+  "updated": "2026-10-19T22:31:01Z",
+  "count": 211,
   "points": [
+    {
+      "id": "nc75452251",
+      "lon": -122.758003234863,
+      "lat": 38.7806663513184,
+      "depth": 1.24000000953674,
+      "mag": 0.7,
+      "place": "0 km NNW of The Geysers, CA",
+      "time": 1792448904100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452251"
+    },
     {
       "id": "aka2026uteqxf",
       "lon": -149.479,
@@ -25,12 +35,12 @@
     },
     {
       "id": "ci41349495",
-      "lon": -118.132833333333,
-      "lat": 34.0646666666667,
-      "depth": 11.16,
-      "mag": 1.19,
-      "place": "1 km WNW of Monterey Park, CA",
-      "time": 1792447301640,
+      "lon": -118.1325,
+      "lat": 34.08,
+      "depth": 6.65,
+      "mag": 0.94,
+      "place": "2 km SSW of Alhambra, CA",
+      "time": 1792447302030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349495"
     },
     {
@@ -214,6 +224,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ga"
     },
     {
+      "id": "uw714121992",
+      "lon": -123.275666666667,
+      "lat": 44.2646666666667,
+      "depth": -0.33,
+      "mag": 1.74,
+      "place": "5 km SSE of Monroe, Oregon",
+      "time": 1792434804320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714121992"
+    },
+    {
       "id": "us6000u3g6",
       "lon": -174.5697,
       "lat": -15.6727,
@@ -295,12 +315,12 @@
     },
     {
       "id": "uw714121982",
-      "lon": -122.006166666667,
-      "lat": 46.941,
-      "depth": 8.15,
-      "mag": 0.55,
+      "lon": -122.004166666667,
+      "lat": 46.9416666666667,
+      "depth": 8.2,
+      "mag": 0.5,
       "place": "15 km SSE of Carbonado, Washington",
-      "time": 1792431986860,
+      "time": 1792431986890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714121982"
     },
     {
@@ -1584,6 +1604,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160851"
     },
     {
+      "id": "av93068364",
+      "lon": 178.518,
+      "lat": 51.9495,
+      "depth": 8.06,
+      "mag": 0.31,
+      "place": "Rat Islands, Aleutian Islands, Alaska",
+      "time": 1792380250540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068364"
+    },
+    {
       "id": "aka2026ursvfm",
       "lon": -153.393,
       "lat": 60.239,
@@ -2082,16 +2112,6 @@
       "place": "129 km SSE of Kokopo, Papua New Guinea",
       "time": 1792362703272,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38g"
-    },
-    {
-      "id": "nc75451806",
-      "lon": -121.41283416748,
-      "lat": 36.8846664428711,
-      "depth": 8.92000007629395,
-      "mag": 2.39,
-      "place": "4 km NNW of Hollister, CA",
-      "time": 1792362467820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451806"
     }
   ]
 }
