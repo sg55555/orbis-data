@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T19:01:13Z",
-  "count": 201,
+  "updated": "2026-10-19T19:15:45Z",
+  "count": 200,
   "points": [
+    {
+      "id": "us6000u3ga",
+      "lon": 165.5508,
+      "lat": -14.0371,
+      "depth": 10,
+      "mag": 5.7,
+      "place": "198 km NW of Port-Olry, Vanuatu",
+      "time": 1792435956659,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ga"
+    },
     {
       "id": "us6000u3g6",
       "lon": -174.5697,
@@ -1992,26 +2002,6 @@
       "place": "57 km S of Whites City, New Mexico",
       "time": 1792351802981,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026unvjfb"
-    },
-    {
-      "id": "tx2026unuutp",
-      "lon": -97.768,
-      "lat": 29.094,
-      "depth": 6.9901,
-      "mag": 2.8,
-      "place": "19 km S of Nixon, Texas",
-      "time": 1792350775692,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026unuutp"
-    },
-    {
-      "id": "nc75451701",
-      "lon": -122.813667297363,
-      "lat": 38.8305015563965,
-      "depth": 1.5,
-      "mag": 1.09,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1792350463570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451701"
     }
   ]
 }
