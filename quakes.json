@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T16:31:01Z",
-  "count": 199,
+  "updated": "2026-10-19T16:45:45Z",
+  "count": 200,
   "points": [
+    {
+      "id": "ci41349359",
+      "lon": -116.839666666667,
+      "lat": 34.008,
+      "depth": 17.06,
+      "mag": 1.06,
+      "place": "10 km NNE of Banning, CA",
+      "time": 1792427863460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349359"
+    },
+    {
+      "id": "nm60628666",
+      "lon": -89.313835144043,
+      "lat": 36.1826667785645,
+      "depth": 14.6000003814697,
+      "mag": 1.98000002,
+      "place": "9 km NNW of Newbern, Tennessee",
+      "time": 1792427824170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60628666"
+    },
+    {
+      "id": "nc75452166",
+      "lon": -122.760665893555,
+      "lat": 38.8250007629395,
+      "depth": 1.73000001907349,
+      "mag": 1.14,
+      "place": "3 km W of Cobb, CA",
+      "time": 1792427430570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452166"
+    },
     {
       "id": "us6000u3db",
       "lon": 179.8713,
@@ -272,6 +302,16 @@
       "place": "1 km ESE of Buffalo Soapstone, Alaska",
       "time": 1792410660691,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uskbwo"
+    },
+    {
+      "id": "aka2026usjwdz",
+      "lon": -169.632,
+      "lat": 52.009,
+      "depth": 23,
+      "mag": 3.6,
+      "place": "115 km SSW of Nikolski, Alaska",
+      "time": 1792410269888,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026usjwdz"
     },
     {
       "id": "aka2026usjqwc",
@@ -1962,36 +2002,6 @@
       "place": "53 km ENE of Pedro Bay, Alaska",
       "time": 1792342295913,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqybyc"
-    },
-    {
-      "id": "uw714121692",
-      "lon": -122.431,
-      "lat": 46.7451666666667,
-      "depth": 25.11,
-      "mag": 1.64,
-      "place": "12 km WSW of Alder, Washington",
-      "time": 1792341295490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714121692"
-    },
-    {
-      "id": "ci41349007",
-      "lon": -117.5965,
-      "lat": 35.77,
-      "depth": 10.23,
-      "mag": 0.38,
-      "place": "17 km W of Searles Valley, CA",
-      "time": 1792341194080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349007"
-    },
-    {
-      "id": "aka2026uqxlmi",
-      "lon": -148.53,
-      "lat": 63.452,
-      "depth": 6.8,
-      "mag": 1.1,
-      "place": "22 km ENE of Cantwell, Alaska",
-      "time": 1792341157440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqxlmi"
     }
   ]
 }
