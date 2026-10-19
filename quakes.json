@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T11:45:41Z",
+  "updated": "2026-10-19T12:01:19Z",
   "count": 210,
   "points": [
+    {
+      "id": "aka2026uskbwo",
+      "lon": -149.066,
+      "lat": 61.712,
+      "depth": 31,
+      "mag": 1,
+      "place": "1 km ESE of Buffalo Soapstone, Alaska",
+      "time": 1792410660691,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uskbwo"
+    },
     {
       "id": "aka2026usjqwc",
       "lon": -148.444,
@@ -62,6 +72,16 @@
       "place": "31 km NW of Jiangyou, China",
       "time": 1792407428127,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c7"
+    },
+    {
+      "id": "pr71537248",
+      "lon": -66.9231666666667,
+      "lat": 17.9186666666667,
+      "depth": 14.12,
+      "mag": 2.38,
+      "place": "6 km SSW of Guánica, Puerto Rico",
+      "time": 1792407061120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537248"
     },
     {
       "id": "us6000u3c6",
@@ -2082,26 +2102,6 @@
       "place": "9 km SSE of Soldotna, Alaska",
       "time": 1792325347086,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqoraq"
-    },
-    {
-      "id": "aka2026uqoesz",
-      "lon": -153.419,
-      "lat": 60.199,
-      "depth": 100.7,
-      "mag": 1.2,
-      "place": "49 km E of Port Alsworth, Alaska",
-      "time": 1792324609740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqoesz"
-    },
-    {
-      "id": "aka2026uqnzer",
-      "lon": -152.003,
-      "lat": 60.816,
-      "depth": 5,
-      "mag": 1.2,
-      "place": "41 km WNW of Nikiski, Alaska",
-      "time": 1792324114447,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqnzer"
     }
   ]
 }
