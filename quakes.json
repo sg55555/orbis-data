@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T16:45:45Z",
-  "count": 200,
+  "updated": "2026-10-19T17:01:15Z",
+  "count": 198,
   "points": [
     {
       "id": "ci41349359",
@@ -32,6 +32,16 @@
       "place": "3 km W of Cobb, CA",
       "time": 1792427430570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452166"
+    },
+    {
+      "id": "us6000u3de",
+      "lon": 178.3686,
+      "lat": 51.5183,
+      "depth": 52.174,
+      "mag": 4.2,
+      "place": "Rat Islands, Aleutian Islands, Alaska",
+      "time": 1792427265503,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3de"
     },
     {
       "id": "us6000u3db",
@@ -805,12 +815,12 @@
     },
     {
       "id": "nn00925943",
-      "lon": -119.2334,
-      "lat": 40.6633,
-      "depth": 9.0529,
-      "mag": 2.32,
-      "place": "10 km E of Gerlach, Nevada",
-      "time": 1792391103474,
+      "lon": -119.2894,
+      "lat": 40.7483,
+      "depth": 1.5109,
+      "mag": 2.54,
+      "place": "5 km WSW of Burning Man Earth, Nevada",
+      "time": 1792391102366,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925943"
     },
     {
@@ -1972,36 +1982,6 @@
       "place": "3 km WNW of Funny River, Alaska",
       "time": 1792342940944,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqylhh"
-    },
-    {
-      "id": "aka2026uqyhvd",
-      "lon": -147.204,
-      "lat": 61.787,
-      "depth": 37.7,
-      "mag": 1.6,
-      "place": "17 km S of Eureka Roadhouse, Alaska",
-      "time": 1792342704157,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqyhvd"
-    },
-    {
-      "id": "nn00925908",
-      "lon": -118.9896,
-      "lat": 39.3515,
-      "depth": 9.0145,
-      "mag": 2.35,
-      "place": "21 km ESE of Silver Springs, Nevada",
-      "time": 1792342549684,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925908"
-    },
-    {
-      "id": "aka2026uqybyc",
-      "lon": -153.268,
-      "lat": 60.024,
-      "depth": 5,
-      "mag": 0.7,
-      "place": "53 km ENE of Pedro Bay, Alaska",
-      "time": 1792342295913,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqybyc"
     }
   ]
 }
