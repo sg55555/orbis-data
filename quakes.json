@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-19T11:15:42Z",
-  "count": 210,
+  "updated": "2026-10-19T11:31:02Z",
+  "count": 209,
   "points": [
+    {
+      "id": "nc75452121",
+      "lon": -122.764503479004,
+      "lat": 38.8231658935547,
+      "depth": 2.35999989509583,
+      "mag": 1.1,
+      "place": "4 km W of Cobb, CA",
+      "time": 1792408416480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452121"
+    },
     {
       "id": "nc75452116",
       "lon": -122.763168334961,
@@ -14,6 +24,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452116"
     },
     {
+      "id": "us6000u3ca",
+      "lon": 128.3818,
+      "lat": -7.4544,
+      "depth": 152.73,
+      "mag": 4.1,
+      "place": "192 km NE of Lospalos, Timor Leste",
+      "time": 1792408224188,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ca"
+    },
+    {
       "id": "ci41349287",
       "lon": -117.4485,
       "lat": 35.5361666666667,
@@ -22,6 +42,16 @@
       "place": "23 km ESE of Ridgecrest, CA",
       "time": 1792408126250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349287"
+    },
+    {
+      "id": "us6000u3c7",
+      "lon": 104.4577,
+      "lat": 31.948,
+      "depth": 10,
+      "mag": 5,
+      "place": "31 km NW of Jiangyou, China",
+      "time": 1792407428127,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c7"
     },
     {
       "id": "us6000u3c6",
@@ -2062,46 +2092,6 @@
       "place": "41 km WNW of Nikiski, Alaska",
       "time": 1792324114447,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqnzer"
-    },
-    {
-      "id": "pr71537138",
-      "lon": -64.2173333333333,
-      "lat": 18.2621666666667,
-      "depth": 18.49,
-      "mag": 2.87,
-      "place": "61 km E of Cruz Bay, U.S. Virgin Islands",
-      "time": 1792322852920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537138"
-    },
-    {
-      "id": "aka2026uqngpr",
-      "lon": 179.511,
-      "lat": 51.661,
-      "depth": 82,
-      "mag": 1.7,
-      "place": "267 km W of Adak, Alaska",
-      "time": 1792322823200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqngpr"
-    },
-    {
-      "id": "ci41348903",
-      "lon": -116.045333333333,
-      "lat": 33.1336666666667,
-      "depth": 3.02,
-      "mag": 0.93,
-      "place": "8 km E of Ocotillo Wells, CA",
-      "time": 1792322579500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348903"
-    },
-    {
-      "id": "aka2026uqnatn",
-      "lon": -156.101,
-      "lat": 57.714,
-      "depth": 1.1,
-      "mag": 1.2,
-      "place": "80 km ENE of Ugashik, Alaska",
-      "time": 1792322432110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqnatn"
     }
   ]
 }
