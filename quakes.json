@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-20T07:01:11Z",
-  "count": 214,
+  "updated": "2026-10-20T07:15:43Z",
+  "count": 212,
   "points": [
+    {
+      "id": "hv75061216",
+      "lon": -155.482330322266,
+      "lat": 19.1933326721191,
+      "depth": 30.3999996185303,
+      "mag": 1.89,
+      "place": "1 km SSW of Pāhala, Hawaii",
+      "time": 1792480239520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75061216"
+    },
+    {
+      "id": "tx2026uqnved",
+      "lon": -98.284,
+      "lat": 28.9,
+      "depth": 7.3095,
+      "mag": 3.2,
+      "place": "20 km ESE of Pleasanton, Texas",
+      "time": 1792479337547,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uqnved"
+    },
     {
       "id": "us6000u3ka",
       "lon": 95.6436,
@@ -25,12 +45,12 @@
     },
     {
       "id": "us6000u3k5",
-      "lon": 165.5203,
-      "lat": -13.9011,
+      "lon": 165.5874,
+      "lat": -13.857,
       "depth": 10,
-      "mag": 5.3,
-      "place": "209 km NW of Port-Olry, Vanuatu",
-      "time": 1792477762938,
+      "mag": 5.2,
+      "place": "206 km NW of Port-Olry, Vanuatu",
+      "time": 1792477762432,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3k5"
     },
     {
@@ -2102,46 +2122,6 @@
       "place": "27 km SSW of Petersville, Alaska",
       "time": 1792394443714,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026usbbnn"
-    },
-    {
-      "id": "nc75452051",
-      "lon": -122.761833190918,
-      "lat": 38.8141670227051,
-      "depth": 1.9099999666214,
-      "mag": 1.05,
-      "place": "3 km WSW of Cobb, CA",
-      "time": 1792394109080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452051"
-    },
-    {
-      "id": "hv75060741",
-      "lon": -155.398166666667,
-      "lat": 19.3531666666667,
-      "depth": 8.55,
-      "mag": 1.92,
-      "place": "18 km NNE of Pāhala, Hawaii",
-      "time": 1792394074970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75060741"
-    },
-    {
-      "id": "av94456513",
-      "lon": -164.761666666667,
-      "lat": 54.6281666666667,
-      "depth": 8.71,
-      "mag": 1.11,
-      "place": "85 km NE of Akutan, Alaska",
-      "time": 1792394050420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94456513"
-    },
-    {
-      "id": "nc75452041",
-      "lon": -122.783836364746,
-      "lat": 38.8366661071777,
-      "depth": 1.9099999666214,
-      "mag": 0.24,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1792393548480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452041"
     }
   ]
 }
