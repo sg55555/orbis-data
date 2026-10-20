@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-20T19:30:57Z",
-  "count": 217,
+  "updated": "2026-10-20T19:45:40Z",
+  "count": 222,
   "points": [
+    {
+      "id": "ci41349839",
+      "lon": -117.502333333333,
+      "lat": 33.8578333333333,
+      "depth": 1.43,
+      "mag": 1.64,
+      "place": "3 km SE of Home Gardens, CA",
+      "time": 1792524993130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349839"
+    },
     {
       "id": "ci41349831",
       "lon": -117.4245,
@@ -34,6 +44,36 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349823"
     },
     {
+      "id": "uw714122532",
+      "lon": -121.684833333333,
+      "lat": 48.3008333333333,
+      "depth": -0.96,
+      "mag": 0.93,
+      "place": "3 km ENE of Swede Heaven, Washington",
+      "time": 1792522858190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714122532"
+    },
+    {
+      "id": "uu80161111",
+      "lon": -112.598833333333,
+      "lat": 38.3986666666667,
+      "depth": 7.42,
+      "mag": 1.69,
+      "place": "14 km NNE of Beaver, Utah",
+      "time": 1792521518680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161111"
+    },
+    {
+      "id": "uu80161106",
+      "lon": -112.603666666667,
+      "lat": 38.3986666666667,
+      "depth": 9.32,
+      "mag": 0.9,
+      "place": "13 km NNE of Beaver, Utah",
+      "time": 1792521379540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161106"
+    },
+    {
       "id": "us6000u3p9",
       "lon": -178.9413,
       "lat": -25.9915,
@@ -52,6 +92,26 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1792521068910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452636"
+    },
+    {
+      "id": "uu80161101",
+      "lon": -112.911333333333,
+      "lat": 38.5155,
+      "depth": 3.62,
+      "mag": 0.91,
+      "place": "15 km NNE of Milford, Utah",
+      "time": 1792520915060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161101"
+    },
+    {
+      "id": "tx2026urknmd",
+      "lon": -103.283,
+      "lat": 31.987,
+      "depth": 5.5743,
+      "mag": 2.1,
+      "place": "16 km SSW of Jal, New Mexico",
+      "time": 1792520439580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026urknmd"
     },
     {
       "id": "aka2026uusvca",
@@ -805,12 +865,12 @@
     },
     {
       "id": "hv75061261",
-      "lon": -155.178329467773,
-      "lat": 19.3271675109863,
-      "depth": 0.140000000596046,
-      "mag": 2.08,
-      "place": "14 km SSE of Volcano, Hawaii",
-      "time": 1792485114090,
+      "lon": -155.181166666667,
+      "lat": 19.3288333333333,
+      "depth": 0.34,
+      "mag": 1.75,
+      "place": "13 km SSE of Volcano, Hawaii",
+      "time": 1792485114160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75061261"
     },
     {
@@ -2162,16 +2222,6 @@
       "place": "23 km ENE of Coso Junction, CA",
       "time": 1792439233510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349439"
-    },
-    {
-      "id": "tx2026uprevb",
-      "lon": -103.298,
-      "lat": 31.983,
-      "depth": 6.6254,
-      "mag": 2.4,
-      "place": "17 km SW of Jal, New Mexico",
-      "time": 1792438471456,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uprevb"
     }
   ]
 }
