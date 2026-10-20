@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-20T20:32:10Z",
-  "count": 220,
+  "updated": "2026-10-20T20:45:44Z",
+  "count": 219,
   "points": [
+    {
+      "id": "aka2026uuxnfc",
+      "lon": -145.971,
+      "lat": 61.298,
+      "depth": 22.3,
+      "mag": 2.4,
+      "place": "27 km NE of Valdez, Alaska",
+      "time": 1792528392106,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uuxnfc"
+    },
     {
       "id": "uw714122592",
       "lon": -122.758666666667,
@@ -22,6 +32,16 @@
       "place": "187 km NW of Port-Olry, Vanuatu",
       "time": 1792526606613,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3pq"
+    },
+    {
+      "id": "us6000u3pm",
+      "lon": 152.9149,
+      "lat": 46.2196,
+      "depth": 28.746,
+      "mag": 4.7,
+      "place": "Kuril Islands",
+      "time": 1792526039721,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3pm"
     },
     {
       "id": "ci41349839",
@@ -1724,6 +1744,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026utivid"
     },
     {
+      "id": "us6000u3jj",
+      "lon": 145.3759,
+      "lat": -6.3405,
+      "depth": 10,
+      "mag": 4.2,
+      "place": "28 km S of Goroka, Papua New Guinea",
+      "time": 1792454725887,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jj"
+    },
+    {
       "id": "tx2026uqaecn",
       "lon": -103.291,
       "lat": 31.987,
@@ -2162,46 +2192,6 @@
       "place": "16 km ESE of Pearsall, Texas",
       "time": 1792443287107,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uptxkz"
-    },
-    {
-      "id": "pr71537268",
-      "lon": -66.8313333333333,
-      "lat": 17.985,
-      "depth": 16.36,
-      "mag": 2.05,
-      "place": "1 km SW of Indios, Puerto Rico",
-      "time": 1792442523360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537268"
-    },
-    {
-      "id": "aka2026utbslw",
-      "lon": -150.851,
-      "lat": 64.958,
-      "depth": 5.7,
-      "mag": 1.9,
-      "place": "11 km WSW of Manley Hot Springs, Alaska",
-      "time": 1792442394726,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026utbslw"
-    },
-    {
-      "id": "nc75452221",
-      "lon": -122.778335571289,
-      "lat": 38.8181648254395,
-      "depth": 0.0900000035762787,
-      "mag": 0.74,
-      "place": "5 km W of Cobb, CA",
-      "time": 1792442261700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452221"
-    },
-    {
-      "id": "uu80008218",
-      "lon": -112.053,
-      "lat": 39.5046666666667,
-      "depth": 0.69,
-      "mag": 1.29,
-      "place": "17 km WSW of Levan, Utah",
-      "time": 1792442094730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80008218"
     }
   ]
 }
