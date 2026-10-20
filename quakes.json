@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-20T13:30:58Z",
-  "count": 200,
+  "updated": "2026-10-20T13:45:42Z",
+  "count": 201,
   "points": [
     {
+      "id": "nc75452511",
+      "lon": -122.78150177002,
+      "lat": 38.8036651611328,
+      "depth": 3.01999998092651,
+      "mag": 0.72,
+      "place": "4 km NW of The Geysers, CA",
+      "time": 1792503673450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452511"
+    },
+    {
+      "id": "hv75061331",
+      "lon": -155.346328735352,
+      "lat": 19.2158336639404,
+      "depth": 29.3799991607666,
+      "mag": 2.15,
+      "place": "13 km E of Pāhala, Hawaii",
+      "time": 1792503163300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75061331"
+    },
+    {
       "id": "ci41349719",
-      "lon": -116.520668029785,
-      "lat": 33.1518325805664,
-      "depth": 5.73999977111816,
-      "mag": 1.111546210199,
+      "lon": -116.522833333333,
+      "lat": 33.1555,
+      "depth": 5.64,
+      "mag": 0.77,
       "place": "11 km NE of Julian, CA",
-      "time": 1792502833550,
+      "time": 1792502833500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349719"
     },
     {
@@ -622,6 +642,16 @@
       "place": "20 km ESE of Pearsall, Texas",
       "time": 1792473052910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uqkixt"
+    },
+    {
+      "id": "tx2026uqkdfg",
+      "lon": -103.285,
+      "lat": 31.983,
+      "depth": 7.561,
+      "mag": 1.6,
+      "place": "16 km SSW of Jal, New Mexico",
+      "time": 1792472656830,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uqkdfg"
     },
     {
       "id": "aka2026utrymy",
@@ -1982,26 +2012,6 @@
       "place": "17 km ESE of Little Lake, CA",
       "time": 1792417893110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349311"
-    },
-    {
-      "id": "av94456948",
-      "lon": -166.904333333333,
-      "lat": 53.8753333333333,
-      "depth": 4.82,
-      "mag": 0.74,
-      "place": "23 km W of Dutch Harbor, Alaska",
-      "time": 1792416746100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94456948"
-    },
-    {
-      "id": "ci41349303",
-      "lon": -116.760833333333,
-      "lat": 33.586,
-      "depth": 11.7,
-      "mag": 0.68,
-      "place": "9 km WNW of Anza, CA",
-      "time": 1792416636320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349303"
     }
   ]
 }
