@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-20T13:01:16Z",
-  "count": 202,
+  "updated": "2026-10-20T13:15:46Z",
+  "count": 200,
   "points": [
+    {
+      "id": "ci41349711",
+      "lon": -116.58,
+      "lat": 32.8523333333333,
+      "depth": 14.49,
+      "mag": 1.18,
+      "place": "6 km NW of Pine Valley, CA",
+      "time": 1792501733400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349711"
+    },
     {
       "id": "us6000u3ll",
       "lon": -103.2937,
@@ -322,16 +332,6 @@
       "place": "16 km ESE of Julian, CA",
       "time": 1792482477340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349615"
-    },
-    {
-      "id": "ci41349607",
-      "lon": -117.115,
-      "lat": 33.7941666666667,
-      "depth": 11.35,
-      "mag": 1.39,
-      "place": "3 km ESE of Nuevo, CA",
-      "time": 1792482106070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349607"
     },
     {
       "id": "nc75452406",
@@ -825,12 +825,12 @@
     },
     {
       "id": "ci41349575",
-      "lon": -116.752333333333,
-      "lat": 33.6665,
-      "depth": 13.74,
+      "lon": -116.749666666667,
+      "lat": 33.6678333333333,
+      "depth": 13.85,
       "mag": 0.79,
       "place": "9 km SSW of Idyllwild, CA",
-      "time": 1792461302260,
+      "time": 1792461302240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349575"
     },
     {
@@ -872,16 +872,6 @@
       "place": "81 km NNW of Karluk, Alaska",
       "time": 1792460072709,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026utlnxn"
-    },
-    {
-      "id": "ci41349567",
-      "lon": -116.6815,
-      "lat": 33.2601666666667,
-      "depth": -0.56,
-      "mag": 1.14,
-      "place": "5 km WSW of Warner Springs, CA",
-      "time": 1792459509770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349567"
     },
     {
       "id": "nc75452326",
@@ -2012,16 +2002,6 @@
       "place": "7 km WNW of Cobb, CA",
       "time": 1792415841260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452136"
-    },
-    {
-      "id": "aka2026usmnxf",
-      "lon": -148.648,
-      "lat": 59.838,
-      "depth": 22.8,
-      "mag": 1.9,
-      "place": "43 km SW of Chenega, Alaska",
-      "time": 1792415091290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026usmnxf"
     }
   ]
 }
