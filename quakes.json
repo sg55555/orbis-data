@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-20T18:30:59Z",
-  "count": 208,
+  "updated": "2026-10-20T18:45:43Z",
+  "count": 210,
   "points": [
+    {
+      "id": "nc75452636",
+      "lon": -122.820663452148,
+      "lat": 38.8158340454102,
+      "depth": 2.33999991416931,
+      "mag": 1.06,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1792521068910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452636"
+    },
     {
       "id": "aka2026uusvca",
       "lon": -154.78,
@@ -22,6 +32,16 @@
       "place": "28 km W of Kalifornsky, Alaska",
       "time": 1792519731707,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uussbk"
+    },
+    {
+      "id": "us6000u3p1",
+      "lon": -26.2588,
+      "lat": 37.9575,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "39 km W of Mosteiros, Portugal",
+      "time": 1792519638131,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3p1"
     },
     {
       "id": "nc75452621",
@@ -1595,12 +1615,12 @@
     },
     {
       "id": "uw714122182",
-      "lon": -122.457166666667,
-      "lat": 45.8083333333333,
-      "depth": 1.58,
+      "lon": -122.4615,
+      "lat": 45.8116666666667,
+      "depth": -0.79,
       "mag": 1.62,
-      "place": "4 km NNW of Venersborg, Washington",
-      "time": 1792452328380,
+      "place": "4 km E of Lewisville, Washington",
+      "time": 1792452328320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714122182"
     },
     {
@@ -1682,6 +1702,16 @@
       "place": "17 km NW of Tehachapi, CA",
       "time": 1792450474680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349527"
+    },
+    {
+      "id": "uw714122162",
+      "lon": -121.826666666667,
+      "lat": 47.615,
+      "depth": 16.93,
+      "mag": 1.25,
+      "place": "7 km NE of Fall City, Washington",
+      "time": 1792450427290,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714122162"
     },
     {
       "id": "av94457638",
@@ -2072,16 +2102,6 @@
       "place": "198 km NW of Port-Olry, Vanuatu",
       "time": 1792435956659,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ga"
-    },
-    {
-      "id": "uw714121992",
-      "lon": -123.275666666667,
-      "lat": 44.2646666666667,
-      "depth": -0.33,
-      "mag": 1.74,
-      "place": "5 km SSE of Monroe, Oregon",
-      "time": 1792434804320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714121992"
     }
   ]
 }
