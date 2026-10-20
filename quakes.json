@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-20T00:01:14Z",
+  "updated": "2026-10-20T00:15:43Z",
   "count": 219,
   "points": [
+    {
+      "id": "aka2026utivid",
+      "lon": -155.722,
+      "lat": 58.42,
+      "depth": 157.3,
+      "mag": 2.1,
+      "place": "62 km ESE of King Salmon, Alaska",
+      "time": 1792455185538,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026utivid"
+    },
     {
       "id": "aka2026utiieq",
       "lon": -152.832,
@@ -1384,6 +1394,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160901"
     },
     {
+      "id": "av93068374",
+      "lon": -135.911333333333,
+      "lat": 57.2011666666667,
+      "depth": 9.38,
+      "mag": 0.91,
+      "place": "38 km WNW of Sitka, Alaska",
+      "time": 1792397156600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068374"
+    },
+    {
       "id": "nc75452061",
       "lon": -122.794334411621,
       "lat": 38.8216667175293,
@@ -2172,26 +2192,6 @@
       "place": "1 km SW of San Ramon, CA",
       "time": 1792369499660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451896"
-    },
-    {
-      "id": "hv75060601",
-      "lon": -155.815673828125,
-      "lat": 19.8411674499512,
-      "depth": 21.6000003814697,
-      "mag": 2.32,
-      "place": "11 km SSW of Waikoloa, Hawaii",
-      "time": 1792368681460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75060601"
-    },
-    {
-      "id": "nc75451881",
-      "lon": -122.726669311523,
-      "lat": 38.7685012817383,
-      "depth": 0.889999985694885,
-      "mag": 0.87,
-      "place": "3 km ESE of The Geysers, CA",
-      "time": 1792368528520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451881"
     }
   ]
 }
