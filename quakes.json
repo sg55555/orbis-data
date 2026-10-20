@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-20T07:15:43Z",
-  "count": 212,
+  "updated": "2026-10-20T07:30:56Z",
+  "count": 213,
   "points": [
+    {
+      "id": "aka2026utwxsi",
+      "lon": -153.072,
+      "lat": 60.036,
+      "depth": 5,
+      "mag": 0.5,
+      "place": "64 km ENE of Pedro Bay, Alaska",
+      "time": 1792480540656,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026utwxsi"
+    },
     {
       "id": "hv75061216",
       "lon": -155.482330322266,
@@ -12,6 +22,16 @@
       "place": "1 km SSW of Pāhala, Hawaii",
       "time": 1792480239520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75061216"
+    },
+    {
+      "id": "pr71537313",
+      "lon": -66.8123333333333,
+      "lat": 18.0138333333333,
+      "depth": 14.45,
+      "mag": 1.84,
+      "place": "2 km WSW of Guayanilla, Puerto Rico",
+      "time": 1792479485920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537313"
     },
     {
       "id": "tx2026uqnved",
@@ -582,6 +602,16 @@
       "place": "64 km N of Petersville, Alaska",
       "time": 1792452158976,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uthdkl"
+    },
+    {
+      "id": "tx2026upytqj",
+      "lon": -98.921,
+      "lat": 28.815,
+      "depth": 7.0575,
+      "mag": 2.5,
+      "place": "19 km ESE of Pearsall, Texas",
+      "time": 1792452075225,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026upytqj"
     },
     {
       "id": "aka2026utgrub",
@@ -2094,34 +2124,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94456538"
     },
     {
-      "id": "av94456528",
-      "lon": -177.206666666667,
-      "lat": 51.5306666666667,
-      "depth": 15.63,
-      "mag": 1.71,
-      "place": "55 km SW of Adak, Alaska",
-      "time": 1792394837610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94456528"
-    },
-    {
-      "id": "us6000u3b8",
-      "lon": 165.4874,
-      "lat": -14.042,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "203 km WNW of Port-Olry, Vanuatu",
-      "time": 1792394452028,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3b8"
-    },
-    {
-      "id": "aka2026usbbnn",
-      "lon": -150.999,
-      "lat": 62.27,
-      "depth": 77.8,
-      "mag": 1.7,
-      "place": "27 km SSW of Petersville, Alaska",
-      "time": 1792394443714,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026usbbnn"
+      "id": "us6000u3b9",
+      "lon": -67.1004,
+      "lat": -24.2627,
+      "depth": 170.26,
+      "mag": 4.5,
+      "place": "79 km W of San Antonio de los Cobres, Argentina",
+      "time": 1792395215444,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3b9"
     }
   ]
 }
