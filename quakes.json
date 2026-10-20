@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-20T04:15:40Z",
-  "count": 213,
+  "updated": "2026-10-20T04:30:58Z",
+  "count": 214,
   "points": [
+    {
+      "id": "pt26293000",
+      "lon": 165.713,
+      "lat": -13.869,
+      "depth": 10,
+      "mag": 6.6,
+      "place": "195 km NW of Port-Olry, Vanuatu",
+      "time": 1792470037000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26293000"
+    },
     {
       "id": "aka2026utqsuj",
       "lon": -151.774,
@@ -522,6 +532,16 @@
       "place": "23 km NW of Anchor Point, Alaska",
       "time": 1792445826618,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026utdqco"
+    },
+    {
+      "id": "av94457553",
+      "lon": -153.108166666667,
+      "lat": 60.0441666666667,
+      "depth": 4.59,
+      "mag": -0.84,
+      "place": "62 km ENE of Pedro Bay, Alaska",
+      "time": 1792445652970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94457553"
     },
     {
       "id": "aka2026utdaiz",
@@ -2122,16 +2142,6 @@
       "place": "120 km SE of Ugashik, Alaska",
       "time": 1792385494510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026urwcep"
-    },
-    {
-      "id": "aka2026urvewl",
-      "lon": -145.071,
-      "lat": 63.365,
-      "depth": 0.1,
-      "mag": 2.3,
-      "place": "37 km SSW of Dry Creek, Alaska",
-      "time": 1792383880470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026urvewl"
     }
   ]
 }
