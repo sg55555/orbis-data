@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-20T23:22:04Z",
-  "count": 226,
+  "updated": "2026-10-20T23:30:54Z",
+  "count": 223,
   "points": [
+    {
+      "id": "us6000u3r1",
+      "lon": 75.0801,
+      "lat": 37.3106,
+      "depth": 66.403,
+      "mag": 4.5,
+      "place": "115 km NNE of Barishal, Pakistan",
+      "time": 1792538204139,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3r1"
+    },
     {
       "id": "nc75452706",
       "lon": -121.272003173828,
@@ -82,16 +92,6 @@
       "place": "27 km W of Salamatof, Alaska",
       "time": 1792536586159,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uvcbqu"
-    },
-    {
-      "id": "nn00926018",
-      "lon": -115.3635,
-      "lat": 36.2166,
-      "depth": 1.6444,
-      "mag": 1.69,
-      "place": "11 km NNW of Summerlin South, Nevada",
-      "time": 1792536095245,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926018"
     },
     {
       "id": "nc75452701",
@@ -2232,36 +2232,6 @@
       "place": "4 km SE of San Ramon, CA",
       "time": 1792452597360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452281"
-    },
-    {
-      "id": "uw714122182",
-      "lon": -122.4615,
-      "lat": 45.8116666666667,
-      "depth": -0.79,
-      "mag": 1.62,
-      "place": "4 km E of Lewisville, Washington",
-      "time": 1792452328320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714122182"
-    },
-    {
-      "id": "uu80161006",
-      "lon": -112.881666666667,
-      "lat": 38.4901666666667,
-      "depth": -0.02,
-      "mag": 1.78,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1792452165070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161006"
-    },
-    {
-      "id": "aka2026uthdkl",
-      "lon": -150.938,
-      "lat": 63.066,
-      "depth": 119.8,
-      "mag": 2.8,
-      "place": "64 km N of Petersville, Alaska",
-      "time": 1792452158976,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uthdkl"
     }
   ]
 }
