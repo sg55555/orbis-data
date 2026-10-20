@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-20T01:15:43Z",
-  "count": 223,
+  "updated": "2026-10-20T01:30:57Z",
+  "count": 222,
   "points": [
+    {
+      "id": "ci41349567",
+      "lon": -116.6815,
+      "lat": 33.2601666666667,
+      "depth": -0.56,
+      "mag": 1.14,
+      "place": "5 km WSW of Warner Springs, CA",
+      "time": 1792459509770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349567"
+    },
     {
       "id": "nc75452326",
       "lon": -118.847663879395,
@@ -32,6 +42,16 @@
       "place": "21 km SW of Ivanof Bay, Alaska",
       "time": 1792457817445,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026utkhip"
+    },
+    {
+      "id": "us6000u3j5",
+      "lon": 84.1295,
+      "lat": 40.6375,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "156 km SE of Kuqa, China",
+      "time": 1792457792769,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5"
     },
     {
       "id": "aka2026utkgbo",
@@ -2202,36 +2222,6 @@
       "place": "17 km NW of Benton City, Washington",
       "time": 1792373692070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714121822"
-    },
-    {
-      "id": "nc75451921",
-      "lon": -120.812164306641,
-      "lat": 36.2496681213379,
-      "depth": 6.07000017166138,
-      "mag": 0.98,
-      "place": "22 km SW of New Idria, CA",
-      "time": 1792373382140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451921"
-    },
-    {
-      "id": "uw714121812",
-      "lon": -120.481,
-      "lat": 49.3493333333333,
-      "depth": -0.51,
-      "mag": 2.03,
-      "place": "12 km S of Princeton, Canada",
-      "time": 1792373335260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714121812"
-    },
-    {
-      "id": "nc75451916",
-      "lon": -121.985496520996,
-      "lat": 37.7638320922852,
-      "depth": 6.05000019073486,
-      "mag": 1.11,
-      "place": "2 km SSW of San Ramon, CA",
-      "time": 1792372668430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451916"
     }
   ]
 }
