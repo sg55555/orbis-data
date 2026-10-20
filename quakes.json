@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-20T16:15:43Z",
-  "count": 204,
+  "updated": "2026-10-20T16:30:59Z",
+  "count": 205,
   "points": [
+    {
+      "id": "nc75452571",
+      "lon": -122.771667480469,
+      "lat": 38.7866668701172,
+      "depth": 0.469999998807907,
+      "mag": 2.51,
+      "place": "2 km NW of The Geysers, CA",
+      "time": 1792513384060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452571"
+    },
     {
       "id": "ci41349759",
       "lon": -118.026666666667,
@@ -82,6 +92,16 @@
       "place": "17 km SSW of Jal, New Mexico",
       "time": 1792506216580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026urcpbj"
+    },
+    {
+      "id": "us6000u3m7",
+      "lon": 152.1448,
+      "lat": -5.3459,
+      "depth": 57.367,
+      "mag": 4.5,
+      "place": "111 km S of Kokopo, Papua New Guinea",
+      "time": 1792506049305,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3m7"
     },
     {
       "id": "uu80161081",
@@ -2032,16 +2052,6 @@
       "place": "3 km W of Cobb, CA",
       "time": 1792427430570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452166"
-    },
-    {
-      "id": "us6000u3de",
-      "lon": 178.3686,
-      "lat": 51.5183,
-      "depth": 52.174,
-      "mag": 4.2,
-      "place": "Rat Islands, Aleutian Islands, Alaska",
-      "time": 1792427265503,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3de"
     }
   ]
 }
