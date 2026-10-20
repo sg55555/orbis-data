@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-20T03:15:45Z",
-  "count": 216,
+  "updated": "2026-10-20T03:30:57Z",
+  "count": 217,
   "points": [
+    {
+      "id": "pr71537308",
+      "lon": -64.5708333333333,
+      "lat": 18.6803333333333,
+      "depth": 13.63,
+      "mag": 2.9,
+      "place": "45 km NNE of Cruz Bay, U.S. Virgin Islands",
+      "time": 1792465522900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537308"
+    },
     {
       "id": "us6000u3jd",
       "lon": 146.0345,
@@ -772,6 +782,16 @@
       "place": "23 km SSW of Lovington, New Mexico",
       "time": 1792430728209,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3fl"
+    },
+    {
+      "id": "av94457228",
+      "lon": -153.060666666667,
+      "lat": 59.9226666666667,
+      "depth": 9.37,
+      "mag": -0.4,
+      "place": "60 km ENE of Pedro Bay, Alaska",
+      "time": 1792430487300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94457228"
     },
     {
       "id": "us6000u3fm",
@@ -2152,16 +2172,6 @@
       "place": "14 km NE of Milford, Utah",
       "time": 1792380718190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160851"
-    },
-    {
-      "id": "av93068364",
-      "lon": 178.518,
-      "lat": 51.9495,
-      "depth": 8.06,
-      "mag": 0.31,
-      "place": "Rat Islands, Aleutian Islands, Alaska",
-      "time": 1792380250540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068364"
     }
   ]
 }
