@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-20T02:01:18Z",
-  "count": 220,
+  "updated": "2026-10-20T02:15:42Z",
+  "count": 221,
   "points": [
+    {
+      "id": "nc75452336",
+      "lon": -120.521667480469,
+      "lat": 35.9611663818359,
+      "depth": 10.5500001907349,
+      "mag": 2.28,
+      "place": "11 km NW of Parkfield, CA",
+      "time": 1792462140210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452336"
+    },
+    {
+      "id": "aka2026utmkfr",
+      "lon": -154.944,
+      "lat": 58.257,
+      "depth": 8.6,
+      "mag": 0.6,
+      "place": "81 km NNW of Karluk, Alaska",
+      "time": 1792461619302,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026utmkfr"
+    },
     {
       "id": "ci41349575",
       "lon": -116.752333333333,
@@ -2192,16 +2212,6 @@
       "place": "2 km SSW of San Ramon, CA",
       "time": 1792376114060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451976"
-    },
-    {
-      "id": "nc75451971",
-      "lon": -121.990501403809,
-      "lat": 37.773998260498,
-      "depth": 7.53999996185303,
-      "mag": 1.58,
-      "place": "1 km WSW of San Ramon, CA",
-      "time": 1792375716700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451971"
     }
   ]
 }
