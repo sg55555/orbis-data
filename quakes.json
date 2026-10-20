@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-20T07:30:56Z",
-  "count": 213,
+  "updated": "2026-10-20T07:45:41Z",
+  "count": 214,
   "points": [
+    {
+      "id": "ci41349607",
+      "lon": -117.115,
+      "lat": 33.7941666666667,
+      "depth": 11.35,
+      "mag": 1.39,
+      "place": "3 km ESE of Nuevo, CA",
+      "time": 1792482106070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349607"
+    },
+    {
+      "id": "nc75452406",
+      "lon": -125.130165100098,
+      "lat": 40.8810005187988,
+      "depth": 4.63000011444092,
+      "mag": 3.1,
+      "place": "80 km WNW of Ferndale, CA",
+      "time": 1792481943400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452406"
+    },
     {
       "id": "aka2026utwxsi",
       "lon": -153.072,
@@ -22,6 +42,16 @@
       "place": "1 km SSW of Pāhala, Hawaii",
       "time": 1792480239520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75061216"
+    },
+    {
+      "id": "us6000u3kg",
+      "lon": 145.5173,
+      "lat": 18.8377,
+      "depth": 250.025,
+      "mag": 4.9,
+      "place": "Pagan region, Northern Mariana Islands",
+      "time": 1792480148960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3kg"
     },
     {
       "id": "pr71537313",
@@ -2112,26 +2142,6 @@
       "place": "186 km NW of Port-Olry, Vanuatu",
       "time": 1792396144900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc"
-    },
-    {
-      "id": "av94456538",
-      "lon": -155.111,
-      "lat": 58.1901666666667,
-      "depth": 26.41,
-      "mag": -0.08,
-      "place": "79 km NNW of Karluk, Alaska",
-      "time": 1792395841890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94456538"
-    },
-    {
-      "id": "us6000u3b9",
-      "lon": -67.1004,
-      "lat": -24.2627,
-      "depth": 170.26,
-      "mag": 4.5,
-      "place": "79 km W of San Antonio de los Cobres, Argentina",
-      "time": 1792395215444,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3b9"
     }
   ]
 }
