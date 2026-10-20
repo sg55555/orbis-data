@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-20T07:45:41Z",
+  "updated": "2026-10-20T08:01:11Z",
   "count": 214,
   "points": [
+    {
+      "id": "nc75452411",
+      "lon": -118.668998718262,
+      "lat": 37.9763336181641,
+      "depth": 11.3299999237061,
+      "mag": 2.84,
+      "place": "39 km SSW of Qualeys Camp, NV",
+      "time": 1792482728210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452411"
+    },
+    {
+      "id": "ci41349615",
+      "lon": -116.436666666667,
+      "lat": 33.0278333333333,
+      "depth": 8.14,
+      "mag": 0.56,
+      "place": "16 km ESE of Julian, CA",
+      "time": 1792482477340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349615"
+    },
     {
       "id": "ci41349607",
       "lon": -117.115,
@@ -92,6 +112,16 @@
       "place": "12 km ENE of Ridgecrest, CA",
       "time": 1792478138740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349599"
+    },
+    {
+      "id": "tx2026uqmyny",
+      "lon": -103.284,
+      "lat": 31.988,
+      "depth": 6.7664,
+      "mag": 2.7,
+      "place": "16 km SSW of Jal, New Mexico",
+      "time": 1792477766159,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uqmyny"
     },
     {
       "id": "us6000u3k5",
@@ -2112,36 +2142,6 @@
       "place": "52 km E of Pedro Bay, Alaska",
       "time": 1792397026713,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uscmes"
-    },
-    {
-      "id": "aka2026uscgsl",
-      "lon": -145.493,
-      "lat": 65.098,
-      "depth": 1.5,
-      "mag": 2.1,
-      "place": "61 km SSW of Central, Alaska",
-      "time": 1792396601870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uscgsl"
-    },
-    {
-      "id": "us6000u3be",
-      "lon": 165.6995,
-      "lat": -13.9824,
-      "depth": 10,
-      "mag": 5.3,
-      "place": "188 km NW of Port-Olry, Vanuatu",
-      "time": 1792396536888,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3be"
-    },
-    {
-      "id": "us6000u3bc",
-      "lon": 165.6761,
-      "lat": -14.0533,
-      "depth": 10,
-      "mag": 6,
-      "place": "186 km NW of Port-Olry, Vanuatu",
-      "time": 1792396144900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc"
     }
   ]
 }
