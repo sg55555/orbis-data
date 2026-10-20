@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-20T17:15:42Z",
-  "count": 209,
+  "updated": "2026-10-20T17:31:19Z",
+  "count": 208,
   "points": [
+    {
+      "id": "nc75452621",
+      "lon": -122.790168762207,
+      "lat": 38.8371658325195,
+      "depth": 1.79999995231628,
+      "mag": 0.75,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1792516979170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452621"
+    },
+    {
+      "id": "us6000u3nl",
+      "lon": -82.5693,
+      "lat": 6.3226,
+      "depth": 10,
+      "mag": 5.4,
+      "place": "192 km S of Burica, Panama",
+      "time": 1792515948338,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nl"
+    },
     {
       "id": "nc75452606",
       "lon": -122.701667785645,
@@ -225,12 +245,12 @@
     },
     {
       "id": "nn00926001",
-      "lon": -116.1836,
-      "lat": 38.7932,
-      "depth": 8.1415,
-      "mag": 2.25,
-      "place": "82 km SSW of Eureka, Nevada",
-      "time": 1792505311806,
+      "lon": -116.0368,
+      "lat": 38.8049,
+      "depth": 1.5666,
+      "mag": 1.54,
+      "place": "78 km S of Eureka, Nevada",
+      "time": 1792505310112,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926001"
     },
     {
@@ -2062,36 +2082,6 @@
       "place": "66 km WNW of Happy Valley, Alaska",
       "time": 1792431151819,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026usvked"
-    },
-    {
-      "id": "us6000u3fl",
-      "lon": -103.4715,
-      "lat": 32.759,
-      "depth": 6.52,
-      "mag": 3.3,
-      "place": "23 km SSW of Lovington, New Mexico",
-      "time": 1792430728209,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3fl"
-    },
-    {
-      "id": "av94457228",
-      "lon": -153.060666666667,
-      "lat": 59.9226666666667,
-      "depth": 9.37,
-      "mag": -0.4,
-      "place": "60 km ENE of Pedro Bay, Alaska",
-      "time": 1792430487300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94457228"
-    },
-    {
-      "id": "us6000u3fm",
-      "lon": 128.2132,
-      "lat": -7.9636,
-      "depth": 41.455,
-      "mag": 4.4,
-      "place": "147 km ENE of Lospalos, Timor Leste",
-      "time": 1792430455008,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3fm"
     }
   ]
 }
