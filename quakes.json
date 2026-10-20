@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-20T03:01:13Z",
-  "count": 218,
+  "updated": "2026-10-20T03:15:45Z",
+  "count": 216,
   "points": [
+    {
+      "id": "us6000u3jd",
+      "lon": 146.0345,
+      "lat": 18.2529,
+      "depth": 129.361,
+      "mag": 5,
+      "place": "Pagan region, Northern Mariana Islands",
+      "time": 1792464855972,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jd"
+    },
     {
       "id": "nc75452346",
       "lon": -122.81950378418,
@@ -2152,36 +2162,6 @@
       "place": "Rat Islands, Aleutian Islands, Alaska",
       "time": 1792380250540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068364"
-    },
-    {
-      "id": "aka2026ursvfm",
-      "lon": -153.393,
-      "lat": 60.239,
-      "depth": 30.8,
-      "mag": 0.6,
-      "place": "51 km E of Port Alsworth, Alaska",
-      "time": 1792379617586,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ursvfm"
-    },
-    {
-      "id": "uu80160841",
-      "lon": -110.7465,
-      "lat": 44.5755,
-      "depth": 7.99,
-      "mag": 0.85,
-      "place": "29 km ESE of West Yellowstone, Montana",
-      "time": 1792379343090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160841"
-    },
-    {
-      "id": "uu80160836",
-      "lon": -110.7505,
-      "lat": 44.5701666666667,
-      "depth": 2.11,
-      "mag": 0.61,
-      "place": "29 km ESE of West Yellowstone, Montana",
-      "time": 1792378924190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160836"
     }
   ]
 }
