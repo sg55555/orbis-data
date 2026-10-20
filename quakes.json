@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-20T23:15:40Z",
-  "count": 225,
+  "updated": "2026-10-20T23:22:04Z",
+  "count": 226,
   "points": [
+    {
+      "id": "nc75452706",
+      "lon": -121.272003173828,
+      "lat": 36.7608337402344,
+      "depth": 8.52000045776367,
+      "mag": 1.21,
+      "place": "5 km SE of Tres Pinos, CA",
+      "time": 1792538083470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452706"
+    },
     {
       "id": "aka2026uvcuxl",
       "lon": -150.857,
@@ -42,6 +52,16 @@
       "place": "13 km N of Summerlin South, Nevada",
       "time": 1792536746573,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926020"
+    },
+    {
+      "id": "us6000u3qu",
+      "lon": -80.6274,
+      "lat": 7.597,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "6 km SE of Pitaloza Arriba, Panama",
+      "time": 1792536704847,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3qu"
     },
     {
       "id": "uu80161121",
@@ -115,12 +135,12 @@
     },
     {
       "id": "nn00926016",
-      "lon": -117.8797,
-      "lat": 38.1831,
-      "depth": 1.1401,
-      "mag": 1.6,
-      "place": "30 km SE of Mina, Nevada",
-      "time": 1792532641944,
+      "lon": -117.8917,
+      "lat": 38.1643,
+      "depth": 7.189,
+      "mag": 1.57,
+      "place": "31 km SE of Mina, Nevada",
+      "time": 1792532642748,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926016"
     },
     {
@@ -2242,16 +2262,6 @@
       "place": "64 km N of Petersville, Alaska",
       "time": 1792452158976,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uthdkl"
-    },
-    {
-      "id": "tx2026upytqj",
-      "lon": -98.921,
-      "lat": 28.815,
-      "depth": 7.0575,
-      "mag": 2.5,
-      "place": "19 km ESE of Pearsall, Texas",
-      "time": 1792452075225,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026upytqj"
     }
   ]
 }
