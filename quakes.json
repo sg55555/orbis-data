@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-21T07:31:02Z",
+  "updated": "2026-10-21T07:45:40Z",
   "count": 187,
   "points": [
+    {
+      "id": "nc75452821",
+      "lon": -122.717666625977,
+      "lat": 38.7536659240723,
+      "depth": 2.20000004768372,
+      "mag": 2.07,
+      "place": "3 km SW of Anderson Springs, CA",
+      "time": 1792568202550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452821"
+    },
     {
       "id": "ci41349991",
       "lon": -118.557666666667,
@@ -1394,6 +1404,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161066"
     },
     {
+      "id": "us6000u3ln",
+      "lon": 125.1404,
+      "lat": 5.4726,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "26 km WSW of Balangonan, Philippines",
+      "time": 1792499540697,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ln"
+    },
+    {
       "id": "tx2026uqytem",
       "lon": -103.29,
       "lat": 31.989,
@@ -1852,26 +1872,6 @@
       "place": "16 km ESE of Julian, CA",
       "time": 1792482477340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349615"
-    },
-    {
-      "id": "nc75452406",
-      "lon": -125.130165100098,
-      "lat": 40.8810005187988,
-      "depth": 4.63000011444092,
-      "mag": 3.1,
-      "place": "80 km WNW of Ferndale, CA",
-      "time": 1792481943400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452406"
-    },
-    {
-      "id": "av93068409",
-      "lon": -155.000166666667,
-      "lat": 58.2886666666667,
-      "depth": 3.29,
-      "mag": -0.3,
-      "place": "86 km NNW of Karluk, Alaska",
-      "time": 1792481730730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068409"
     }
   ]
 }
