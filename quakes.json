@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-21T23:30:57Z",
-  "count": 181,
+  "updated": "2026-10-21T23:45:37Z",
+  "count": 179,
   "points": [
+    {
+      "id": "ci41350303",
+      "lon": -117.858166666667,
+      "lat": 36.0865,
+      "depth": 3.93,
+      "mag": 1.34,
+      "place": "9 km ENE of Coso Junction, CA",
+      "time": 1792625895560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350303"
+    },
     {
       "id": "nc75453111",
       "lon": -122.720336914062,
@@ -12,6 +22,16 @@
       "place": "3 km SW of Anderson Springs, CA",
       "time": 1792624845050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453111"
+    },
+    {
+      "id": "uu80161301",
+      "lon": -112.9125,
+      "lat": 38.5198333333333,
+      "depth": -0.14,
+      "mag": 2.25,
+      "place": "16 km NNE of Milford, Utah",
+      "time": 1792624422200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161301"
     },
     {
       "id": "nc75453106",
@@ -1772,46 +1792,6 @@
       "place": "5 km SE of Cabazon, CA",
       "time": 1792540222780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349911"
-    },
-    {
-      "id": "tx2026urvbzc",
-      "lon": -104.108,
-      "lat": 31.602,
-      "depth": 6.5613,
-      "mag": 2,
-      "place": "43 km NW of Toyah, Texas",
-      "time": 1792539560419,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026urvbzc"
-    },
-    {
-      "id": "us6000u3uu",
-      "lon": -171.4921,
-      "lat": 53.1482,
-      "depth": 11.404,
-      "mag": 3.1,
-      "place": "177 km W of Nikolski, Alaska",
-      "time": 1792539339684,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3uu"
-    },
-    {
-      "id": "aka2026uvdmar",
-      "lon": -150.519,
-      "lat": 63.127,
-      "depth": 117.3,
-      "mag": 1.7,
-      "place": "71 km N of Petersville, Alaska",
-      "time": 1792539105692,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uvdmar"
-    },
-    {
-      "id": "uw714122812",
-      "lon": -122.208,
-      "lat": 46.9738333333333,
-      "depth": -0.4,
-      "mag": 1.36,
-      "place": "1 km SE of Kapowsin, Washington",
-      "time": 1792539047770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714122812"
     }
   ]
 }
