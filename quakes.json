@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-21T10:45:39Z",
-  "count": 173,
+  "updated": "2026-10-21T11:01:14Z",
+  "count": 172,
   "points": [
+    {
+      "id": "ci41350015",
+      "lon": -116.5225,
+      "lat": 33.4908333333333,
+      "depth": 13.51,
+      "mag": 2.1,
+      "place": "16 km ESE of Anza, CA",
+      "time": 1792579397730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350015"
+    },
     {
       "id": "ci41350007",
       "lon": -118.3715,
@@ -1712,26 +1722,6 @@
       "place": "10 km SSW of Idyllwild, CA",
       "time": 1792494172160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349671"
-    },
-    {
-      "id": "av93068419",
-      "lon": -152.2595,
-      "lat": 61.322,
-      "depth": 1.65,
-      "mag": 0.26,
-      "place": "66 km WNW of Beluga, Alaska",
-      "time": 1792493807740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068419"
-    },
-    {
-      "id": "nc75452456",
-      "lon": -123.215667724609,
-      "lat": 39.3223342895508,
-      "depth": 2.02999997138977,
-      "mag": 2.35,
-      "place": "6 km N of Redwood Valley, CA",
-      "time": 1792493297140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452456"
     }
   ]
 }
