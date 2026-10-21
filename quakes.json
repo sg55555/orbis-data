@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-21T18:01:14Z",
-  "count": 192,
+  "updated": "2026-10-21T18:14:06Z",
+  "count": 189,
   "points": [
+    {
+      "id": "nc75452956",
+      "lon": -122.845664978027,
+      "lat": 38.8253326416016,
+      "depth": 1.91999995708466,
+      "mag": 0.26,
+      "place": "9 km NW of The Geysers, CA",
+      "time": 1792606051950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452956"
+    },
     {
       "id": "nc75452941",
       "lon": -122.785499572754,
@@ -225,12 +235,12 @@
     },
     {
       "id": "uw714123012",
-      "lon": -122.194831848145,
-      "lat": 46.2036666870117,
-      "depth": 2.41000008583069,
-      "mag": 0.0900000036,
-      "place": "37 km NNE of Amboy, Washington",
-      "time": 1792593959500,
+      "lon": -122.191333333333,
+      "lat": 46.2028333333333,
+      "depth": 1.95,
+      "mag": 0.22,
+      "place": "38 km NNE of Amboy, Washington",
+      "time": 1792593959520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714123012"
     },
     {
@@ -572,6 +582,16 @@
       "place": "3 km ESE of Beverly Hills, CA",
       "time": 1792578117300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350007"
+    },
+    {
+      "id": "uw714122942",
+      "lon": -122.359666666667,
+      "lat": 47.7985,
+      "depth": 28.63,
+      "mag": 1.19,
+      "place": "1 km NNW of Esperance, Washington",
+      "time": 1792575446690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714122942"
     },
     {
       "id": "us6000u3tb",
@@ -1872,56 +1892,6 @@
       "place": "16 km SSW of Jal, New Mexico",
       "time": 1792520439580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026urknmd"
-    },
-    {
-      "id": "aka2026uusvca",
-      "lon": -154.78,
-      "lat": 58.348,
-      "depth": 103.4,
-      "mag": 2.7,
-      "place": "88 km NNW of Karluk, Alaska",
-      "time": 1792519956729,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uusvca"
-    },
-    {
-      "id": "uu80161096",
-      "lon": -112.5985,
-      "lat": 38.3995,
-      "depth": 6.09,
-      "mag": 1.01,
-      "place": "14 km NNE of Beaver, Utah",
-      "time": 1792519883310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161096"
-    },
-    {
-      "id": "aka2026uussbk",
-      "lon": -151.793,
-      "lat": 60.46,
-      "depth": 78.9,
-      "mag": 1.7,
-      "place": "28 km W of Kalifornsky, Alaska",
-      "time": 1792519731707,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uussbk"
-    },
-    {
-      "id": "us6000u3p1",
-      "lon": -26.2588,
-      "lat": 37.9575,
-      "depth": 10,
-      "mag": 5.1,
-      "place": "39 km W of Mosteiros, Portugal",
-      "time": 1792519638131,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3p1"
-    },
-    {
-      "id": "us6000u3nz",
-      "lon": 126.8562,
-      "lat": 2.4707,
-      "depth": 35,
-      "mag": 4.2,
-      "place": "152 km WNW of Tobelo, Indonesia",
-      "time": 1792519377367,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nz"
     }
   ]
 }
