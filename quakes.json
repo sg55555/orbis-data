@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-21T01:01:15Z",
+  "updated": "2026-10-21T01:15:42Z",
   "count": 209,
   "points": [
+    {
+      "id": "ci41349919",
+      "lon": -116.1625,
+      "lat": 33.8585,
+      "depth": 8.95,
+      "mag": 1.32,
+      "place": "16 km NNE of Indio, CA",
+      "time": 1792544527500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349919"
+    },
     {
       "id": "nc75452731",
       "lon": -122.790664672852,
@@ -15,12 +25,12 @@
     },
     {
       "id": "hv75061531",
-      "lon": -155.617492675781,
-      "lat": 19.4138336181641,
-      "depth": 42.8800010681152,
-      "mag": 2.27,
-      "place": "26 km E of Honaunau-Napoopoo, Hawaii",
-      "time": 1792543576190,
+      "lon": -155.636833333333,
+      "lat": 19.4281666666667,
+      "depth": 44.98,
+      "mag": 2.32,
+      "place": "24 km E of Honaunau-Napoopoo, Hawaii",
+      "time": 1792543575810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75061531"
     },
     {
@@ -845,12 +855,12 @@
     },
     {
       "id": "hv75061336",
-      "lon": -155.405670166016,
-      "lat": 19.0166664123535,
-      "depth": 30.8700008392334,
-      "mag": 2.01,
+      "lon": -155.396333333333,
+      "lat": 19.023,
+      "depth": 30.69,
+      "mag": 1.89,
       "place": "19 km ESE of Naalehu, Hawaii",
-      "time": 1792503782840,
+      "time": 1792503783010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75061336"
     },
     {
@@ -1112,6 +1122,16 @@
       "place": "10 km SSW of Idyllwild, CA",
       "time": 1792494172160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349671"
+    },
+    {
+      "id": "av93068419",
+      "lon": -152.2595,
+      "lat": 61.322,
+      "depth": 1.65,
+      "mag": 0.26,
+      "place": "66 km WNW of Beluga, Alaska",
+      "time": 1792493807740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068419"
     },
     {
       "id": "nc75452456",
@@ -2072,26 +2092,6 @@
       "place": "81 km NNW of Karluk, Alaska",
       "time": 1792460072709,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026utlnxn"
-    },
-    {
-      "id": "nc75452326",
-      "lon": -118.847663879395,
-      "lat": 37.4555015563965,
-      "depth": 5.94999980926514,
-      "mag": 1.48,
-      "place": "19 km SW of Toms Place, CA",
-      "time": 1792458251520,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452326"
-    },
-    {
-      "id": "nc75452321",
-      "lon": -122.81916809082,
-      "lat": 38.8043327331543,
-      "depth": 3.44000005722046,
-      "mag": 0.75,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": 1792458213940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452321"
     }
   ]
 }
