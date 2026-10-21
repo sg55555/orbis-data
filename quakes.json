@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-21T13:31:05Z",
+  "updated": "2026-10-21T13:45:48Z",
   "count": 163,
   "points": [
+    {
+      "id": "aka2026uwfqzy",
+      "lon": -154.294,
+      "lat": 58.857,
+      "depth": 5,
+      "mag": 2,
+      "place": "70 km SSE of Kokhanok, Alaska",
+      "time": 1792589826655,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uwfqzy"
+    },
+    {
+      "id": "pr71537398",
+      "lon": -66.855,
+      "lat": 17.9468333333333,
+      "depth": 12.7,
+      "mag": 2.3,
+      "place": "5 km SE of Maria Antonia, Puerto Rico",
+      "time": 1792588660610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537398"
+    },
     {
       "id": "nc75452866",
       "lon": -120.723999023438,
@@ -342,6 +362,16 @@
       "place": "11 km NE of West Yellowstone, Montana",
       "time": 1792557805800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161156"
+    },
+    {
+      "id": "uu80161151",
+      "lon": -111.003166666667,
+      "lat": 44.7453333333333,
+      "depth": 10.42,
+      "mag": 0.17,
+      "place": "12 km NE of West Yellowstone, Montana",
+      "time": 1792557677160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161151"
     },
     {
       "id": "ci41349983",
@@ -1602,36 +1632,6 @@
       "place": "6 km NE of Aguanga, CA",
       "time": 1792504349240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349727"
-    },
-    {
-      "id": "hv75061336",
-      "lon": -155.396333333333,
-      "lat": 19.023,
-      "depth": 30.69,
-      "mag": 1.89,
-      "place": "19 km ESE of Naalehu, Hawaii",
-      "time": 1792503783010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75061336"
-    },
-    {
-      "id": "nc75452511",
-      "lon": -122.78150177002,
-      "lat": 38.8036651611328,
-      "depth": 3.01999998092651,
-      "mag": 0.72,
-      "place": "4 km NW of The Geysers, CA",
-      "time": 1792503673450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452511"
-    },
-    {
-      "id": "hv75061331",
-      "lon": -155.346328735352,
-      "lat": 19.2158336639404,
-      "depth": 29.3799991607666,
-      "mag": 2.15,
-      "place": "13 km E of Pāhala, Hawaii",
-      "time": 1792503163300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75061331"
     }
   ]
 }
