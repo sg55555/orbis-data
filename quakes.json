@@ -1,17 +1,27 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-21T11:31:02Z",
-  "count": 167,
+  "updated": "2026-10-21T11:58:42Z",
+  "count": 166,
   "points": [
     {
       "id": "aka2026uwbjty",
-      "lon": -152.394,
+      "lon": -152.322,
       "lat": 60.15,
-      "depth": 100.1,
-      "mag": 2.6,
-      "place": "41 km WNW of Ninilchik, Alaska",
-      "time": 1792582131939,
+      "depth": 97.5,
+      "mag": 2.9,
+      "place": "38 km WNW of Ninilchik, Alaska",
+      "time": 1792582132120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uwbjty"
+    },
+    {
+      "id": "uu80161216",
+      "lon": -112.894833333333,
+      "lat": 38.505,
+      "depth": 3.44,
+      "mag": 2.14,
+      "place": "15 km NE of Milford, Utah",
+      "time": 1792581691880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161216"
     },
     {
       "id": "ci41350015",
@@ -1652,26 +1662,6 @@
       "place": "2 km NW of Brawley, CA",
       "time": 1792497870590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349695"
-    },
-    {
-      "id": "av93068424",
-      "lon": -152.248333333333,
-      "lat": 61.1675,
-      "depth": 6.08,
-      "mag": -0.4,
-      "place": "60 km W of Tyonek, Alaska",
-      "time": 1792497112470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068424"
-    },
-    {
-      "id": "us6000u3li",
-      "lon": 165.7462,
-      "lat": -13.991,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "184 km NW of Port-Olry, Vanuatu",
-      "time": 1792496410539,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3li"
     }
   ]
 }
