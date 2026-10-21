@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-21T06:45:42Z",
-  "count": 191,
+  "updated": "2026-10-21T07:01:14Z",
+  "count": 190,
   "points": [
+    {
+      "id": "nc75452811",
+      "lon": -122.933334350586,
+      "lat": 38.7784996032715,
+      "depth": 4.05000019073486,
+      "mag": 1.61,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": 1792565191260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452811"
+    },
     {
       "id": "nc75452806",
       "lon": -122.815002441406,
@@ -1892,26 +1902,6 @@
       "place": "18 km ESE of Pearsall, Texas",
       "time": 1792479771251,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uqobkg"
-    },
-    {
-      "id": "pr71537313",
-      "lon": -66.8123333333333,
-      "lat": 18.0138333333333,
-      "depth": 14.45,
-      "mag": 1.84,
-      "place": "2 km WSW of Guayanilla, Puerto Rico",
-      "time": 1792479485920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537313"
-    },
-    {
-      "id": "tx2026uqnved",
-      "lon": -98.284,
-      "lat": 28.9,
-      "depth": 7.3095,
-      "mag": 3.2,
-      "place": "20 km ESE of Pleasanton, Texas",
-      "time": 1792479337547,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uqnved"
     }
   ]
 }
