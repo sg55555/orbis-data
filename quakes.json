@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-21T23:15:44Z",
-  "count": 182,
+  "updated": "2026-10-21T23:30:57Z",
+  "count": 181,
   "points": [
+    {
+      "id": "nc75453111",
+      "lon": -122.720336914062,
+      "lat": 38.7565002441406,
+      "depth": 2.23000001907349,
+      "mag": 1.04,
+      "place": "3 km SW of Anderson Springs, CA",
+      "time": 1792624845050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453111"
+    },
     {
       "id": "nc75453106",
       "lon": -121.221496582031,
@@ -1802,26 +1812,6 @@
       "place": "1 km SE of Kapowsin, Washington",
       "time": 1792539047770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714122812"
-    },
-    {
-      "id": "us6000u3r3",
-      "lon": 179.592,
-      "lat": -25.502,
-      "depth": 529.781,
-      "mag": 4.9,
-      "place": "south of the Fiji Islands",
-      "time": 1792538667101,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3r3"
-    },
-    {
-      "id": "us6000u3r1",
-      "lon": 75.121,
-      "lat": 37.3012,
-      "depth": 65.601,
-      "mag": 4.6,
-      "place": "115 km NNE of Barishal, Pakistan",
-      "time": 1792538203934,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3r1"
     }
   ]
 }
