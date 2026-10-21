@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-21T18:31:05Z",
-  "count": 190,
+  "updated": "2026-10-21T18:45:45Z",
+  "count": 188,
   "points": [
     {
       "id": "aka2026uwpdkr",
@@ -82,6 +82,16 @@
       "place": "2 km S of Loma Linda, CA",
       "time": 1792603202480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350151"
+    },
+    {
+      "id": "us6000u3w6",
+      "lon": 158.0282,
+      "lat": 49.2528,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "208 km SE of Severo-Kuril’sk, Russia",
+      "time": 1792603173362,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3w6"
     },
     {
       "id": "aka2026uwmkfz",
@@ -1104,6 +1114,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452756"
     },
     {
+      "id": "hv75061571",
+      "lon": -155.18,
+      "lat": 19.3535,
+      "depth": 6.36,
+      "mag": 1.4,
+      "place": "11 km SSE of Volcano, Hawaii",
+      "time": 1792550169160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75061571"
+    },
+    {
       "id": "ci41349943",
       "lon": -117.466,
       "lat": 34.2115,
@@ -1862,46 +1882,6 @@
       "place": "3 km ENE of Swede Heaven, Washington",
       "time": 1792522858190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714122532"
-    },
-    {
-      "id": "uu80161111",
-      "lon": -112.598833333333,
-      "lat": 38.3986666666667,
-      "depth": 7.42,
-      "mag": 1.69,
-      "place": "14 km NNE of Beaver, Utah",
-      "time": 1792521518680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161111"
-    },
-    {
-      "id": "uu80161106",
-      "lon": -112.603666666667,
-      "lat": 38.3986666666667,
-      "depth": 9.32,
-      "mag": 0.9,
-      "place": "13 km NNE of Beaver, Utah",
-      "time": 1792521379540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161106"
-    },
-    {
-      "id": "us6000u3p9",
-      "lon": -178.9413,
-      "lat": -25.9915,
-      "depth": 353.846,
-      "mag": 4.2,
-      "place": "south of the Fiji Islands",
-      "time": 1792521363727,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3p9"
-    },
-    {
-      "id": "nc75452636",
-      "lon": -122.820663452148,
-      "lat": 38.8158340454102,
-      "depth": 2.33999991416931,
-      "mag": 1.06,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1792521068910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452636"
     }
   ]
 }
