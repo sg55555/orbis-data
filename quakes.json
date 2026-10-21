@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-21T02:30:57Z",
-  "count": 212,
+  "updated": "2026-10-21T02:45:40Z",
+  "count": 211,
   "points": [
+    {
+      "id": "nc75452751",
+      "lon": -122.945167541504,
+      "lat": 38.7751655578613,
+      "depth": 5.80999994277954,
+      "mag": 1.11,
+      "place": "7 km ESE of Cloverdale, CA",
+      "time": 1792549802000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452751"
+    },
     {
       "id": "ci41349935",
       "lon": -118.5225,
@@ -2102,26 +2112,6 @@
       "place": "17 km SW of Jal, New Mexico",
       "time": 1792464525113,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uqfqif"
-    },
-    {
-      "id": "av94457873",
-      "lon": -152.716166666667,
-      "lat": 60.5666666666667,
-      "depth": 5.3,
-      "mag": -0.85,
-      "place": "76 km W of Salamatof, Alaska",
-      "time": 1792463801750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94457873"
-    },
-    {
-      "id": "tx2026uqffke",
-      "lon": -98.935,
-      "lat": 28.821,
-      "depth": 7.8514,
-      "mag": 1.9,
-      "place": "17 km ESE of Pearsall, Texas",
-      "time": 1792463756243,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uqffke"
     }
   ]
 }
