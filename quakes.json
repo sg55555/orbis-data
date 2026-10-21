@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-21T08:01:09Z",
-  "count": 185,
+  "updated": "2026-10-21T08:15:41Z",
+  "count": 184,
   "points": [
+    {
+      "id": "us6000u3t4",
+      "lon": 128.1355,
+      "lat": -7.5619,
+      "depth": 122.687,
+      "mag": 5.1,
+      "place": "164 km NE of Lospalos, Timor Leste",
+      "time": 1792568656055,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t4"
+    },
     {
       "id": "nc75452821",
       "lon": -122.717666625977,
@@ -172,6 +182,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1792554568130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452781"
+    },
+    {
+      "id": "tx2026usdilg",
+      "lon": -104.421,
+      "lat": 31.664,
+      "depth": 5.6897,
+      "mag": 2.2,
+      "place": "56 km S of Whites City, New Mexico",
+      "time": 1792554485956,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026usdilg"
     },
     {
       "id": "pr71537363",
@@ -1822,36 +1842,6 @@
       "place": "17 km NE of Pāhala, Hawaii",
       "time": 1792484162690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75061246"
-    },
-    {
-      "id": "ci41349631",
-      "lon": -116.71,
-      "lat": 33.5363333333333,
-      "depth": 6.4,
-      "mag": 0.48,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1792483642510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349631"
-    },
-    {
-      "id": "nc75452421",
-      "lon": -122.84033203125,
-      "lat": 38.8240013122559,
-      "depth": 1.86000001430511,
-      "mag": 0.51,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1792483509250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452421"
-    },
-    {
-      "id": "nc75452416",
-      "lon": -122.803337097168,
-      "lat": 38.8359985351562,
-      "depth": 1.89999997615814,
-      "mag": 0.75,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1792483493550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452416"
     }
   ]
 }
