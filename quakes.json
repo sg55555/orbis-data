@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-21T13:01:23Z",
-  "count": 163,
+  "updated": "2026-10-21T13:10:48Z",
+  "count": 164,
   "points": [
+    {
+      "id": "nc75452866",
+      "lon": -120.723999023438,
+      "lat": 35.4376678466797,
+      "depth": 6.55999994277954,
+      "mag": 2.15,
+      "place": "8 km SW of Atascadero, CA",
+      "time": 1792588118750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452866"
+    },
     {
       "id": "tx2026usvdxs",
       "lon": -104.139,
@@ -824,6 +834,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uvcbqu"
     },
     {
+      "id": "tx2026urtghw",
+      "lon": -98.939,
+      "lat": 28.815,
+      "depth": 7.6408,
+      "mag": 1.8,
+      "place": "17 km ESE of Pearsall, Texas",
+      "time": 1792536233107,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026urtghw"
+    },
+    {
       "id": "nc75452701",
       "lon": -122.813835144043,
       "lat": 38.8296661376953,
@@ -1294,6 +1314,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026urhjrp"
     },
     {
+      "id": "ok2026uoty",
+      "lon": -95.283,
+      "lat": 35.859,
+      "depth": 0,
+      "mag": 1.62,
+      "place": "3 km ENE of Okay, Oklahoma",
+      "time": 1792514480829,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026uoty"
+    },
+    {
       "id": "ci41349791",
       "lon": -117.112,
       "lat": 31.9648333333333,
@@ -1612,26 +1642,6 @@
       "place": "2 km ENE of Southworth, Washington",
       "time": 1792502119230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714122312"
-    },
-    {
-      "id": "ci41349711",
-      "lon": -116.580666666667,
-      "lat": 32.8535,
-      "depth": 14.5,
-      "mag": 1.18,
-      "place": "6 km NW of Pine Valley, CA",
-      "time": 1792501733380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349711"
-    },
-    {
-      "id": "tx2026uraaij",
-      "lon": -103.288,
-      "lat": 31.986,
-      "depth": 6.0999,
-      "mag": 2.3,
-      "place": "16 km SSW of Jal, New Mexico",
-      "time": 1792501465593,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uraaij"
     }
   ]
 }
