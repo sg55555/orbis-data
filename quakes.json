@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-21T01:45:43Z",
-  "count": 212,
+  "updated": "2026-10-21T01:58:12Z",
+  "count": 211,
   "points": [
+    {
+      "id": "aka2026uvigee",
+      "lon": -143.528,
+      "lat": 61.853,
+      "depth": 13.1,
+      "mag": 1.5,
+      "place": "56 km NW of McCarthy, Alaska",
+      "time": 1792547711422,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uvigee"
+    },
     {
       "id": "ci41349927",
       "lon": -116.492666666667,
@@ -42,6 +52,16 @@
       "place": "20 km ESE of Silver Springs, Nevada",
       "time": 1792545591913,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926029"
+    },
+    {
+      "id": "us6000u3rn",
+      "lon": 139.9836,
+      "lat": 35.7245,
+      "depth": 90.274,
+      "mag": 4.5,
+      "place": "2 km N of Honchō, Japan",
+      "time": 1792544669196,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3rn"
     },
     {
       "id": "ci41349919",
@@ -2092,36 +2112,6 @@
       "place": "15 km NE of Milford, Utah",
       "time": 1792461487330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161016"
-    },
-    {
-      "id": "ci41349575",
-      "lon": -116.749666666667,
-      "lat": 33.6678333333333,
-      "depth": 13.85,
-      "mag": 0.79,
-      "place": "9 km SSW of Idyllwild, CA",
-      "time": 1792461302240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349575"
-    },
-    {
-      "id": "aka2026utmfmg",
-      "lon": -150.856,
-      "lat": 61.623,
-      "depth": 61.8,
-      "mag": 1.6,
-      "place": "20 km WNW of Susitna, Alaska",
-      "time": 1792461287068,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026utmfmg"
-    },
-    {
-      "id": "av94457838",
-      "lon": -152.973833333333,
-      "lat": 60.1118333333333,
-      "depth": 5.95,
-      "mag": 0.16,
-      "place": "71 km WNW of Happy Valley, Alaska",
-      "time": 1792461060100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94457838"
     }
   ]
 }
