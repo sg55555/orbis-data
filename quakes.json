@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-21T09:31:01Z",
-  "count": 175,
+  "updated": "2026-10-21T09:45:47Z",
+  "count": 172,
   "points": [
+    {
+      "id": "us6000u3tb",
+      "lon": -103.4759,
+      "lat": 32.7891,
+      "depth": 6.943,
+      "mag": 2.7,
+      "place": "20 km SW of Lovington, New Mexico",
+      "time": 1792575267737,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3tb"
+    },
     {
       "id": "aka2026uvwrnm",
       "lon": -154.105,
@@ -1712,46 +1722,6 @@
       "place": "16 km NE of Milford, Utah",
       "time": 1792491146950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161041"
-    },
-    {
-      "id": "tx2026uqtkvl",
-      "lon": -104.114,
-      "lat": 31.615,
-      "depth": 6.1127,
-      "mag": 2.5,
-      "place": "45 km NW of Toyah, Texas",
-      "time": 1792489482319,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uqtkvl"
-    },
-    {
-      "id": "ci41349663",
-      "lon": -115.364333333333,
-      "lat": 32.316,
-      "depth": 4.88,
-      "mag": 1.65,
-      "place": "17 km WSW of Delta, B.C., MX",
-      "time": 1792489288760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349663"
-    },
-    {
-      "id": "ci41349655",
-      "lon": -116.814166666667,
-      "lat": 33.4713333333333,
-      "depth": 3.97,
-      "mag": 1.68,
-      "place": "6 km NE of Aguanga, CA",
-      "time": 1792489073270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349655"
-    },
-    {
-      "id": "nc75452441",
-      "lon": -118.721664428711,
-      "lat": 38.031665802002,
-      "depth": 12.6899995803833,
-      "mag": 2.68,
-      "place": "32 km SE of Bodie, CA",
-      "time": 1792488784680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452441"
     }
   ]
 }
