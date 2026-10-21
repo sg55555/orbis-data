@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-21T15:45:45Z",
-  "count": 174,
+  "updated": "2026-10-21T16:01:19Z",
+  "count": 180,
   "points": [
+    {
+      "id": "nc75452891",
+      "lon": -120.606163024902,
+      "lat": 40.8834991455078,
+      "depth": 6.23000001907349,
+      "mag": 3.13,
+      "place": "39 km SSW of Likely, CA",
+      "time": 1792598124610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452891"
+    },
+    {
+      "id": "hv75061796",
+      "lon": -155.143493652344,
+      "lat": 19.33766746521,
+      "depth": 3.91000008583069,
+      "mag": 1.74,
+      "place": "14 km S of Fern Forest, Hawaii",
+      "time": 1792597785220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75061796"
+    },
+    {
+      "id": "hv75061791",
+      "lon": -155.024505615234,
+      "lat": 19.3718338012695,
+      "depth": 6.15000009536743,
+      "mag": 1.95,
+      "place": "15 km SSE of Eden Roc, Hawaii",
+      "time": 1792597756640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75061791"
+    },
     {
       "id": "aka2026uwjwxl",
       "lon": -150.53,
@@ -155,12 +185,12 @@
     },
     {
       "id": "tx2026usvdxs",
-      "lon": -104.139,
-      "lat": 31.654,
+      "lon": -104.14,
+      "lat": 31.652,
       "depth": 6.0999,
-      "mag": 3.7,
+      "mag": 3.8,
       "place": "49 km NW of Toyah, Texas",
-      "time": 1792586757185,
+      "time": 1792586757181,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026usvdxs"
     },
     {
@@ -172,6 +202,16 @@
       "place": "16 km NNE of Milford, Utah",
       "time": 1792586340220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161231"
+    },
+    {
+      "id": "uu80161226",
+      "lon": -112.911333333333,
+      "lat": 38.5198333333333,
+      "depth": 2.31,
+      "mag": 1.25,
+      "place": "16 km NNE of Milford, Utah",
+      "time": 1792586299950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161226"
     },
     {
       "id": "aka2026uwdpbr",
@@ -234,6 +274,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3tn"
     },
     {
+      "id": "uu80161221",
+      "lon": -112.908166666667,
+      "lat": 38.5221666666667,
+      "depth": 2.27,
+      "mag": 1.63,
+      "place": "16 km NNE of Milford, Utah",
+      "time": 1792583861900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161221"
+    },
+    {
       "id": "nc75452846",
       "lon": -119.023498535156,
       "lat": 37.6473350524902,
@@ -262,6 +312,16 @@
       "place": "16 km NNE of Milford, Utah",
       "time": 1792581691840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161216"
+    },
+    {
+      "id": "uu80161211",
+      "lon": -112.907333333333,
+      "lat": 38.5165,
+      "depth": 2.42,
+      "mag": 1.38,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1792580762460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161211"
     },
     {
       "id": "ci41350015",
@@ -325,12 +385,12 @@
     },
     {
       "id": "uw714122932",
-      "lon": -122.354835510254,
-      "lat": 47.9516677856445,
-      "depth": 48.9300003051758,
-      "mag": 2.11999989,
-      "place": "2 km S of Clinton, Washington",
-      "time": 1792572816560,
+      "lon": -122.340666666667,
+      "lat": 47.9398333333333,
+      "depth": 53.92,
+      "mag": 1.42,
+      "place": "2 km W of Mukilteo, Washington",
+      "time": 1792572816140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714122932"
     },
     {
@@ -422,6 +482,16 @@
       "place": "8 km ESE of Cloverdale, CA",
       "time": 1792565191260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452811"
+    },
+    {
+      "id": "tx2026usilkz",
+      "lon": -98.928,
+      "lat": 28.799,
+      "depth": 6.3698,
+      "mag": 1.6,
+      "place": "19 km ESE of Pearsall, Texas",
+      "time": 1792563744458,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026usilkz"
     },
     {
       "id": "nc75452806",
@@ -1732,16 +1802,6 @@
       "place": "5 km W of Stanton, Texas",
       "time": 1792513346347,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026urgmrp"
-    },
-    {
-      "id": "us6000u3mb",
-      "lon": -103.4761,
-      "lat": 32.7737,
-      "depth": 1.814,
-      "mag": 3,
-      "place": "22 km SSW of Lovington, New Mexico",
-      "time": 1792511792914,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3mb"
     }
   ]
 }
