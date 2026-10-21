@@ -1,16 +1,16 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-21T02:15:45Z",
-  "count": 213,
+  "updated": "2026-10-21T02:30:57Z",
+  "count": 212,
   "points": [
     {
       "id": "ci41349935",
-      "lon": -118.522331237793,
-      "lat": 34.1196670532227,
-      "depth": 5.94000005722046,
-      "mag": 1.16770816224403,
-      "place": "5 km SSW of Encino, CA",
-      "time": 1792548724420,
+      "lon": -118.5225,
+      "lat": 34.1016666666667,
+      "depth": 7.73,
+      "mag": 1.22,
+      "place": "7 km SSW of Encino, CA",
+      "time": 1792548724250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349935"
     },
     {
@@ -122,6 +122,16 @@
       "place": "16 km NNE of Indio, CA",
       "time": 1792544527500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349919"
+    },
+    {
+      "id": "pr2026294000",
+      "lon": -66.2581,
+      "lat": 19.3051,
+      "depth": 69,
+      "mag": 3.65,
+      "place": "93 km N of Brenas, Puerto Rico",
+      "time": 1792544124370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026294000"
     },
     {
       "id": "nc75452731",
@@ -2112,26 +2122,6 @@
       "place": "17 km ESE of Pearsall, Texas",
       "time": 1792463756243,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uqffke"
-    },
-    {
-      "id": "uu80161021",
-      "lon": -112.9085,
-      "lat": 38.5185,
-      "depth": 2.95,
-      "mag": 1.42,
-      "place": "16 km NNE of Milford, Utah",
-      "time": 1792462758750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161021"
-    },
-    {
-      "id": "nc75452346",
-      "lon": -122.81950378418,
-      "lat": 38.8041648864746,
-      "depth": 3.15000009536743,
-      "mag": 1.04,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": 1792462501990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452346"
     }
   ]
 }
