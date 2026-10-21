@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-21T21:15:43Z",
-  "count": 190,
+  "updated": "2026-10-21T21:31:02Z",
+  "count": 188,
   "points": [
+    {
+      "id": "ci41350255",
+      "lon": -116.448333333333,
+      "lat": 33.5396666666667,
+      "depth": 6.51,
+      "mag": 0.66,
+      "place": "19 km SW of La Quinta, CA",
+      "time": 1792617400670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350255"
+    },
     {
       "id": "nc75453036",
       "lon": -122.833335876465,
@@ -15,12 +25,12 @@
     },
     {
       "id": "uu80161266",
-      "lon": -111.607002258301,
-      "lat": 40.8846664428711,
-      "depth": 5.80000019073486,
-      "mag": 3.27,
-      "place": "15 km N of Summit Park, Utah",
-      "time": 1792616750060,
+      "lon": -111.603166666667,
+      "lat": 40.8803333333333,
+      "depth": 6.57,
+      "mag": 0.77,
+      "place": "14 km N of Summit Park, Utah",
+      "time": 1792616750020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161266"
     },
     {
@@ -144,6 +154,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350207"
     },
     {
+      "id": "uw714123372",
+      "lon": -122.693833333333,
+      "lat": 47.886,
+      "depth": -0.04,
+      "mag": 1.27,
+      "place": "4 km S of Port Ludlow, Washington",
+      "time": 1792609737570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714123372"
+    },
+    {
       "id": "us6000u3x2",
       "lon": -33.9973,
       "lat": 57.1591,
@@ -172,6 +192,16 @@
       "place": "16 km SSW of Jal, New Mexico",
       "time": 1792608797123,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uthiey"
+    },
+    {
+      "id": "us6000u3xx",
+      "lon": 165.4616,
+      "lat": -14.1796,
+      "depth": 10,
+      "mag": 5,
+      "place": "198 km WNW of Port-Olry, Vanuatu",
+      "time": 1792608064974,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3xx"
     },
     {
       "id": "us6000u3ws",
@@ -1852,56 +1882,6 @@
       "place": "5 km NE of Rancho San Diego, CA",
       "time": 1792531815380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349863"
-    },
-    {
-      "id": "tx2026urqtmd",
-      "lon": -103.294,
-      "lat": 31.984,
-      "depth": 7.7917,
-      "mag": 1.9,
-      "place": "17 km SSW of Jal, New Mexico",
-      "time": 1792531720216,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026urqtmd"
-    },
-    {
-      "id": "tx2026urqtal",
-      "lon": -103.296,
-      "lat": 31.98,
-      "depth": 6.4331,
-      "mag": 1.5,
-      "place": "17 km SSW of Jal, New Mexico",
-      "time": 1792531688978,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026urqtal"
-    },
-    {
-      "id": "tx2026urqmhu",
-      "lon": -104.434,
-      "lat": 31.655,
-      "depth": 6.0999,
-      "mag": 2.2,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": 1792531391454,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026urqmhu"
-    },
-    {
-      "id": "pr71537328",
-      "lon": -66.937,
-      "lat": 17.9936666666667,
-      "depth": 10.64,
-      "mag": 2.19,
-      "place": "2 km WNW of Fuig, Puerto Rico",
-      "time": 1792531327060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537328"
-    },
-    {
-      "id": "uu80161116",
-      "lon": -112.906666666667,
-      "lat": 38.5095,
-      "depth": 2.48,
-      "mag": 1.2,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1792531306510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161116"
     }
   ]
 }
