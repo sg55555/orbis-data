@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-21T22:01:15Z",
+  "updated": "2026-10-21T22:15:47Z",
   "count": 187,
   "points": [
+    {
+      "id": "us6000u3yp",
+      "lon": -34.1306,
+      "lat": 56.863,
+      "depth": 10,
+      "mag": 5,
+      "place": "Reykjanes Ridge",
+      "time": 1792619928618,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3yp"
+    },
     {
       "id": "nc75453061",
       "lon": -122.81233215332,
@@ -35,12 +45,12 @@
     },
     {
       "id": "ci41350255",
-      "lon": -116.448333333333,
-      "lat": 33.5396666666667,
-      "depth": 6.51,
-      "mag": 0.66,
+      "lon": -116.447333333333,
+      "lat": 33.5391666666667,
+      "depth": 6.46,
+      "mag": 0.68,
       "place": "19 km SW of La Quinta, CA",
-      "time": 1792617400670,
+      "time": 1792617400660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350255"
     },
     {
@@ -155,12 +165,12 @@
     },
     {
       "id": "ci41350223",
-      "lon": -117.865,
-      "lat": 36.0871666666667,
-      "depth": 3.95,
-      "mag": 0.93,
+      "lon": -117.864,
+      "lat": 36.0878333333333,
+      "depth": 5.1,
+      "mag": 0.98,
       "place": "9 km ENE of Coso Junction, CA",
-      "time": 1792613877130,
+      "time": 1792613877020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350223"
     },
     {
@@ -692,6 +702,16 @@
       "place": "8 km SW of Atascadero, CA",
       "time": 1792588118750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452866"
+    },
+    {
+      "id": "tx2026usvcbg",
+      "lon": -104.146,
+      "lat": 31.654,
+      "depth": 6.7151,
+      "mag": 2.1,
+      "place": "50 km NW of Toyah, Texas",
+      "time": 1792586987012,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026usvcbg"
     },
     {
       "id": "tx2026usvdxs",
@@ -1852,26 +1872,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1792535955890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452701"
-    },
-    {
-      "id": "ci41349879",
-      "lon": -116.2965,
-      "lat": 33.3133333333333,
-      "depth": 9.39,
-      "mag": 1.53,
-      "place": "10 km NE of Borrego Springs, CA",
-      "time": 1792534143840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349879"
-    },
-    {
-      "id": "nc75452696",
-      "lon": -122.787666320801,
-      "lat": 38.8361663818359,
-      "depth": 1.78999996185303,
-      "mag": 0.9,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1792533708150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452696"
     }
   ]
 }
