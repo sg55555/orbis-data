@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-22T04:30:57Z",
-  "count": 187,
+  "updated": "2026-10-22T04:53:20Z",
+  "count": 186,
   "points": [
+    {
+      "id": "nc75453276",
+      "lon": -122.933670043945,
+      "lat": 38.7773323059082,
+      "depth": 3.45000004768372,
+      "mag": 0.98,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": 1792644008840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453276"
+    },
+    {
+      "id": "aka2026uxjtil",
+      "lon": -152.052,
+      "lat": 59.955,
+      "depth": 88.1,
+      "mag": 2.7,
+      "place": "17 km W of Happy Valley, Alaska",
+      "time": 1792643959529,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uxjtil"
+    },
     {
       "id": "nc75453266",
       "lon": -121.229667663574,
@@ -22,6 +42,16 @@
       "place": "9 km WNW of The Geysers, CA",
       "time": 1792642608790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453261"
+    },
+    {
+      "id": "us6000u40x",
+      "lon": -179.1733,
+      "lat": -21.1419,
+      "depth": 624.829,
+      "mag": 4.2,
+      "place": "Fiji region",
+      "time": 1792642584280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u40x"
     },
     {
       "id": "aka2026uxiylr",
@@ -1832,46 +1862,6 @@
       "place": "53 km N of Brenas, Puerto Rico",
       "time": 1792558890380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537388"
-    },
-    {
-      "id": "uu80161156",
-      "lon": -111.011,
-      "lat": 44.746,
-      "depth": 9.93,
-      "mag": 0.72,
-      "place": "11 km NE of West Yellowstone, Montana",
-      "time": 1792557805800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161156"
-    },
-    {
-      "id": "uu80161151",
-      "lon": -111.003166666667,
-      "lat": 44.7453333333333,
-      "depth": 10.42,
-      "mag": 0.17,
-      "place": "12 km NE of West Yellowstone, Montana",
-      "time": 1792557677160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161151"
-    },
-    {
-      "id": "av93068464",
-      "lon": -166.916833333333,
-      "lat": 53.8776666666667,
-      "depth": 3.63,
-      "mag": -0.45,
-      "place": "24 km W of Dutch Harbor, Alaska",
-      "time": 1792557479880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068464"
-    },
-    {
-      "id": "ci41349983",
-      "lon": -116.667833333333,
-      "lat": 33.6286666666667,
-      "depth": 13.57,
-      "mag": 0.68,
-      "place": "8 km N of Anza, CA",
-      "time": 1792557125160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349983"
     }
   ]
 }
