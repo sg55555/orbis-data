@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-22T18:15:47Z",
-  "count": 236,
+  "updated": "2026-10-22T18:31:04Z",
+  "count": 238,
   "points": [
+    {
+      "id": "ci41350623",
+      "lon": -116.453166666667,
+      "lat": 33.504,
+      "depth": 3.55,
+      "mag": 1.11,
+      "place": "21 km ESE of Anza, CA",
+      "time": 1792693364500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350623"
+    },
+    {
+      "id": "hv75062311",
+      "lon": -155.408340454102,
+      "lat": 19.1226673126221,
+      "depth": 31.4599990844727,
+      "mag": 2.04,
+      "place": "11 km SE of Pāhala, Hawaii",
+      "time": 1792693094190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75062311"
+    },
     {
       "id": "nc75453476",
       "lon": -122.806831359863,
@@ -12,6 +32,16 @@
       "place": "7 km W of Cobb, CA",
       "time": 1792692595880,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453476"
+    },
+    {
+      "id": "us6000u45j",
+      "lon": 93.9886,
+      "lat": 32.3707,
+      "depth": 10,
+      "mag": 5,
+      "place": "207 km ENE of Nagqu, China",
+      "time": 1792692404294,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u45j"
     },
     {
       "id": "nc75453466",
@@ -672,6 +702,16 @@
       "place": "10 km SE of Winchester, CA",
       "time": 1792667976870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350431"
+    },
+    {
+      "id": "uu80161381",
+      "lon": -112.289833333333,
+      "lat": 41.8935,
+      "depth": 5.66,
+      "mag": 0.95,
+      "place": "10 km SSW of Portage, Utah",
+      "time": 1792667822500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161381"
     },
     {
       "id": "us6000u42q",
@@ -2342,26 +2382,6 @@
       "place": "202 km WNW of Port-Olry, Vanuatu",
       "time": 1792608031851,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ws"
-    },
-    {
-      "id": "aka2026uwpdkr",
-      "lon": -140.767,
-      "lat": 59.991,
-      "depth": 5,
-      "mag": 2.1,
-      "place": "76 km NW of Yakutat, Alaska",
-      "time": 1792606880781,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uwpdkr"
-    },
-    {
-      "id": "nc75452966",
-      "lon": -121.797332763672,
-      "lat": 37.8426666259766,
-      "depth": 6.67000007629395,
-      "mag": 1.58,
-      "place": "10 km ENE of Blackhawk, CA",
-      "time": 1792606680480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452966"
     }
   ]
 }
