@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-22T03:15:46Z",
-  "count": 188,
+  "updated": "2026-10-22T03:31:03Z",
+  "count": 185,
   "points": [
+    {
+      "id": "nc75453246",
+      "lon": -122.79133605957,
+      "lat": 38.8101654052734,
+      "depth": 3.13000011444092,
+      "mag": 1.04,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1792639380460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453246"
+    },
     {
       "id": "nc75453236",
       "lon": -124.161003112793,
@@ -1842,46 +1852,6 @@
       "place": "50 km S of Silver Peak, Nevada",
       "time": 1792553901321,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926035"
-    },
-    {
-      "id": "aka2026uvldgm",
-      "lon": -152.335,
-      "lat": 59.496,
-      "depth": 64.9,
-      "mag": 2.8,
-      "place": "28 km WNW of Nanwalek, Alaska",
-      "time": 1792552909949,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uvldgm"
-    },
-    {
-      "id": "av93068459",
-      "lon": -176.138666666667,
-      "lat": 52.0855,
-      "depth": 2.93,
-      "mag": -0.08,
-      "place": "41 km NE of Adak, Alaska",
-      "time": 1792552695600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068459"
-    },
-    {
-      "id": "tx2026uscifa",
-      "lon": -104.36,
-      "lat": 31.64,
-      "depth": 6.0999,
-      "mag": 1.9,
-      "place": "59 km S of Whites City, New Mexico",
-      "time": 1792552659037,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uscifa"
-    },
-    {
-      "id": "nc75452766",
-      "lon": -122.810668945312,
-      "lat": 38.8301658630371,
-      "depth": 1,
-      "mag": 0.45,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1792552579770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452766"
     }
   ]
 }
