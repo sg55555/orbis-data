@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-22T20:32:50Z",
-  "count": 254,
+  "updated": "2026-10-22T20:45:42Z",
+  "count": 252,
   "points": [
+    {
+      "id": "nc75453556",
+      "lon": -122.814834594727,
+      "lat": 38.8281669616699,
+      "depth": 2.07999992370605,
+      "mag": 1.09,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1792701291980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453556"
+    },
     {
       "id": "ci41350695",
       "lon": -117.578834533691,
@@ -22,6 +32,16 @@
       "place": "8 km WSW of Idyllwild, CA",
       "time": 1792699694290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350687"
+    },
+    {
+      "id": "us6000u473",
+      "lon": 152.2646,
+      "lat": -5.728,
+      "depth": 10,
+      "mag": 5,
+      "place": "153 km S of Kokopo, Papua New Guinea",
+      "time": 1792699504207,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u473"
     },
     {
       "id": "aka2026uyocyb",
@@ -75,12 +95,12 @@
     },
     {
       "id": "hv75062381",
-      "lon": -155.615493774414,
-      "lat": 19.42799949646,
-      "depth": -0.0299999993294477,
-      "mag": 2.98,
+      "lon": -155.615166666667,
+      "lat": 19.4303333333333,
+      "depth": -0.05,
+      "mag": 1.48,
       "place": "26 km E of Honaunau-Napoopoo, Hawaii",
-      "time": 1792697522270,
+      "time": 1792697521940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75062381"
     },
     {
@@ -2502,46 +2522,6 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1792615507720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453026"
-    },
-    {
-      "id": "nc75453021",
-      "lon": -122.782669067383,
-      "lat": 38.8030014038086,
-      "depth": 0.689999997615814,
-      "mag": 1.01,
-      "place": "4 km NW of The Geysers, CA",
-      "time": 1792615463770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453021"
-    },
-    {
-      "id": "pr71537423",
-      "lon": -66.8698333333333,
-      "lat": 17.9021666666667,
-      "depth": 10.44,
-      "mag": 2.13,
-      "place": "8 km SSE of Maria Antonia, Puerto Rico",
-      "time": 1792615106150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537423"
-    },
-    {
-      "id": "us6000u3y1",
-      "lon": 14.7284,
-      "lat": -19.7855,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "68 km NNW of Khorixas, Namibia",
-      "time": 1792614890454,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3y1"
-    },
-    {
-      "id": "tx2026utkpje",
-      "lon": -103.985,
-      "lat": 31.46,
-      "depth": 2.5366,
-      "mag": 1.9,
-      "place": "24 km NW of Toyah, Texas",
-      "time": 1792614719297,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026utkpje"
     }
   ]
 }
