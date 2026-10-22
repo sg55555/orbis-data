@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-22T03:31:03Z",
-  "count": 185,
+  "updated": "2026-10-22T03:45:38Z",
+  "count": 186,
   "points": [
+    {
+      "id": "ci41350319",
+      "lon": -116.738833333333,
+      "lat": 33.6551666666667,
+      "depth": 12.79,
+      "mag": 0.45,
+      "place": "10 km S of Idyllwild, CA",
+      "time": 1792640373780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350319"
+    },
     {
       "id": "nc75453246",
       "lon": -122.79133605957,
@@ -1804,6 +1814,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75061621"
     },
     {
+      "id": "av94459738",
+      "lon": -153.070833333333,
+      "lat": 60.0203333333333,
+      "depth": 6.31,
+      "mag": -0.77,
+      "place": "63 km ENE of Pedro Bay, Alaska",
+      "time": 1792555273870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94459738"
+    },
+    {
       "id": "ci41349959",
       "lon": -115.703166666667,
       "lat": 33.282,
@@ -1842,16 +1862,6 @@
       "place": "1 km W of Fuig, Puerto Rico",
       "time": 1792554421030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537363"
-    },
-    {
-      "id": "nn00926035",
-      "lon": -117.6254,
-      "lat": 37.3009,
-      "depth": 0.0075,
-      "mag": 1.89,
-      "place": "50 km S of Silver Peak, Nevada",
-      "time": 1792553901321,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926035"
     }
   ]
 }
