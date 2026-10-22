@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-22T03:01:15Z",
-  "count": 189,
+  "updated": "2026-10-22T03:15:46Z",
+  "count": 188,
   "points": [
+    {
+      "id": "nc75453236",
+      "lon": -124.161003112793,
+      "lat": 40.2379989624023,
+      "depth": 13.1400003433228,
+      "mag": 1.48,
+      "place": "14 km SE of Petrolia, CA",
+      "time": 1792638736900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453236"
+    },
     {
       "id": "nc75453226",
       "lon": -122.804000854492,
@@ -1844,6 +1854,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uvldgm"
     },
     {
+      "id": "av93068459",
+      "lon": -176.138666666667,
+      "lat": 52.0855,
+      "depth": 2.93,
+      "mag": -0.08,
+      "place": "41 km NE of Adak, Alaska",
+      "time": 1792552695600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068459"
+    },
+    {
       "id": "tx2026uscifa",
       "lon": -104.36,
       "lat": 31.64,
@@ -1862,36 +1882,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1792552579770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452766"
-    },
-    {
-      "id": "aka2026uvkrgf",
-      "lon": -141.265,
-      "lat": 60.173,
-      "depth": 6,
-      "mag": 1.8,
-      "place": "110 km NW of Yakutat, Alaska",
-      "time": 1792552060419,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uvkrgf"
-    },
-    {
-      "id": "ci41349951",
-      "lon": -115.693333333333,
-      "lat": 33.2875,
-      "depth": 4.91,
-      "mag": 1.28,
-      "place": "8 km SSE of Bombay Beach, CA",
-      "time": 1792552018750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349951"
-    },
-    {
-      "id": "tx2026usbxno",
-      "lon": -104.456,
-      "lat": 31.666,
-      "depth": 7.1252,
-      "mag": 2.8,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": 1792551915677,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026usbxno"
     }
   ]
 }
