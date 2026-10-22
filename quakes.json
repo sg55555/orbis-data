@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-22T07:45:47Z",
-  "count": 189,
+  "updated": "2026-10-22T08:01:14Z",
+  "count": 191,
   "points": [
     {
+      "id": "nc75453341",
+      "lon": -122.767333984375,
+      "lat": 38.7888336181641,
+      "depth": 1.9099999666214,
+      "mag": 1.03,
+      "place": "2 km NW of The Geysers, CA",
+      "time": 1792655169080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453341"
+    },
+    {
       "id": "ci41350375",
-      "lon": -117.21883392334,
-      "lat": 34.0326652526855,
-      "depth": 3.44000005722046,
-      "mag": 1.19814148953009,
+      "lon": -117.216833333333,
+      "lat": 34.0285,
+      "depth": 3.6,
+      "mag": 0.99,
       "place": "4 km SW of Redlands, CA",
-      "time": 1792654989230,
+      "time": 1792654989220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350375"
     },
     {
@@ -132,6 +142,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1792648336370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453301"
+    },
+    {
+      "id": "us6000u41a",
+      "lon": -103.4739,
+      "lat": 32.7634,
+      "depth": 9.709,
+      "mag": 2.5,
+      "place": "23 km SSW of Lovington, New Mexico",
+      "time": 1792648131917,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u41a"
     },
     {
       "id": "nc75453296",
@@ -582,6 +602,16 @@
       "place": "14 km S of Alamo, Nevada",
       "time": 1792630705843,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926077"
+    },
+    {
+      "id": "tx2026uttegy",
+      "lon": -98.95,
+      "lat": 28.879,
+      "depth": 7.7086,
+      "mag": 2,
+      "place": "14 km E of Pearsall, Texas",
+      "time": 1792630242495,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uttegy"
     },
     {
       "id": "aka2026uxbulq",
@@ -1882,16 +1912,6 @@
       "place": "6 km WNW of King City, Oregon",
       "time": 1792569999550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714122922"
-    },
-    {
-      "id": "uu80161191",
-      "lon": -112.913833333333,
-      "lat": 38.5173333333333,
-      "depth": 3.12,
-      "mag": 1.09,
-      "place": "15 km NNE of Milford, Utah",
-      "time": 1792569163310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161191"
     }
   ]
 }
