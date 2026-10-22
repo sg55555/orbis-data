@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-22T07:31:00Z",
-  "count": 192,
+  "updated": "2026-10-22T07:45:47Z",
+  "count": 189,
   "points": [
+    {
+      "id": "ci41350375",
+      "lon": -117.21883392334,
+      "lat": 34.0326652526855,
+      "depth": 3.44000005722046,
+      "mag": 1.19814148953009,
+      "place": "4 km SW of Redlands, CA",
+      "time": 1792654989230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350375"
+    },
     {
       "id": "ci41350367",
       "lon": -116.752334594727,
@@ -352,6 +362,16 @@
       "place": "7 km WNW of Cobb, CA",
       "time": 1792637662330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453226"
+    },
+    {
+      "id": "tx2026utxfoa",
+      "lon": -98.943,
+      "lat": 28.834,
+      "depth": 7.7062,
+      "mag": 2.1,
+      "place": "16 km ESE of Pearsall, Texas",
+      "time": 1792637557086,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026utxfoa"
     },
     {
       "id": "ci41350311",
@@ -1872,56 +1892,6 @@
       "place": "15 km NNE of Milford, Utah",
       "time": 1792569163310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161191"
-    },
-    {
-      "id": "us6000u3t4",
-      "lon": 128.1355,
-      "lat": -7.5619,
-      "depth": 122.687,
-      "mag": 5.1,
-      "place": "164 km NE of Lospalos, Timor Leste",
-      "time": 1792568656055,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t4"
-    },
-    {
-      "id": "tx2026uskzho",
-      "lon": -98.931,
-      "lat": 28.823,
-      "depth": 7.2703,
-      "mag": 2.1,
-      "place": "17 km ESE of Pearsall, Texas",
-      "time": 1792568330118,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uskzho"
-    },
-    {
-      "id": "nc75452821",
-      "lon": -122.717666625977,
-      "lat": 38.7536659240723,
-      "depth": 2.20000004768372,
-      "mag": 2.07,
-      "place": "3 km SW of Anderson Springs, CA",
-      "time": 1792568202550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452821"
-    },
-    {
-      "id": "av93068469",
-      "lon": -177.228333333333,
-      "lat": 51.5596666666667,
-      "depth": 19.26,
-      "mag": 1.29,
-      "place": "53 km SW of Adak, Alaska",
-      "time": 1792567966300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068469"
-    },
-    {
-      "id": "av94460038",
-      "lon": -155.372333333333,
-      "lat": 58.1791666666667,
-      "depth": 2.86,
-      "mag": -0.16,
-      "place": "87 km NW of Karluk, Alaska",
-      "time": 1792567879350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94460038"
     }
   ]
 }
