@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-23T04:15:43Z",
-  "count": 261,
+  "updated": "2026-10-23T04:30:58Z",
+  "count": 259,
   "points": [
     {
+      "id": "aka2026uzfivw",
+      "lon": -153.661,
+      "lat": 59.236,
+      "depth": 121,
+      "mag": 2.1,
+      "place": "59 km SE of Pope-Vannoy Landing, Alaska",
+      "time": 1792729629317,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzfivw"
+    },
+    {
       "id": "ci41350871",
-      "lon": -116.731002807617,
-      "lat": 33.708667755127,
-      "depth": 19.8899993896484,
-      "mag": 1.0251186145737,
-      "place": "4 km SSW of Idyllwild, CA",
-      "time": 1792728798560,
+      "lon": -116.733166666667,
+      "lat": 33.6986666666667,
+      "depth": 16.93,
+      "mag": 0.65,
+      "place": "5 km SSW of Idyllwild, CA",
+      "time": 1792728799030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350871"
     },
     {
@@ -2214,6 +2224,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350383"
     },
     {
+      "id": "av93068569",
+      "lon": -161.854166666667,
+      "lat": 55.3141666666667,
+      "depth": 5.91,
+      "mag": -0.36,
+      "place": "40 km NE of King Cove, Alaska",
+      "time": 1792655799090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068569"
+    },
+    {
       "id": "uu80161361",
       "lon": -111.668,
       "lat": 41.8483333333333,
@@ -2572,46 +2592,6 @@
       "place": "83 km W of Adak, Alaska",
       "time": 1792643900590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94461948"
-    },
-    {
-      "id": "uw714123942",
-      "lon": -122.009833333333,
-      "lat": 46.9425,
-      "depth": 8.57,
-      "mag": 0.4,
-      "place": "15 km SSE of Carbonado, Washington",
-      "time": 1792643166260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714123942"
-    },
-    {
-      "id": "nc75453266",
-      "lon": -121.229667663574,
-      "lat": 37.1699981689453,
-      "depth": -0.699999988079071,
-      "mag": 3.15,
-      "place": "23 km WSW of Gustine, CA",
-      "time": 1792642714430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453266"
-    },
-    {
-      "id": "nc75453261",
-      "lon": -122.842666625977,
-      "lat": 38.8219985961914,
-      "depth": 2.02999997138977,
-      "mag": 0.26,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": 1792642608790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453261"
-    },
-    {
-      "id": "us6000u40x",
-      "lon": -179.1733,
-      "lat": -21.1419,
-      "depth": 624.829,
-      "mag": 4.2,
-      "place": "Fiji region",
-      "time": 1792642584280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u40x"
     }
   ]
 }
