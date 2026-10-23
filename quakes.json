@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-23T15:45:43Z",
-  "count": 232,
+  "updated": "2026-10-23T16:01:16Z",
+  "count": 231,
   "points": [
+    {
+      "id": "hv75062811",
+      "lon": -155.496337890625,
+      "lat": 19.1671657562256,
+      "depth": 27.6499996185303,
+      "mag": 3.13,
+      "place": "4 km SSW of Pāhala, Hawaii",
+      "time": 1792770750580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75062811"
+    },
     {
       "id": "aka2026vabwtg",
       "lon": -152.516,
@@ -112,6 +122,16 @@
       "place": "9 km W of Cohoe, Alaska",
       "time": 1792763585531,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzygcx"
+    },
+    {
+      "id": "uu80161606",
+      "lon": -112.916666666667,
+      "lat": 38.524,
+      "depth": 2.23,
+      "mag": 1.6,
+      "place": "16 km NNE of Milford, Utah",
+      "time": 1792763283020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161606"
     },
     {
       "id": "ci41351055",
@@ -2292,36 +2312,6 @@
       "place": "3 km SW of Anza, CA",
       "time": 1792685454590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350535"
-    },
-    {
-      "id": "us6000u44z",
-      "lon": 94.0289,
-      "lat": 32.5222,
-      "depth": 10,
-      "mag": 4.3,
-      "place": "219 km ENE of Nagqu, China",
-      "time": 1792684675210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u44z"
-    },
-    {
-      "id": "us6000u44w",
-      "lon": 86.2316,
-      "lat": 33.7966,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "western Xizang",
-      "time": 1792683937094,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u44w"
-    },
-    {
-      "id": "tx2026uuwvmc",
-      "lon": -98.938,
-      "lat": 28.86,
-      "depth": 9.8197,
-      "mag": 2,
-      "place": "15 km ESE of Pearsall, Texas",
-      "time": 1792683929812,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uuwvmc"
     }
   ]
 }
