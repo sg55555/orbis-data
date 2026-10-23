@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-23T22:30:56Z",
+  "updated": "2026-10-23T22:45:40Z",
   "count": 243,
   "points": [
     {
+      "id": "hv75063031",
+      "lon": -155.248336791992,
+      "lat": 19.3131675720215,
+      "depth": 2.49000000953674,
+      "mag": 1.75,
+      "place": "14 km S of Volcano, Hawaii",
+      "time": 1792795040530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75063031"
+    },
+    {
       "id": "aka2026vapliy",
-      "lon": -151.195,
-      "lat": 61.315,
-      "depth": 75.7,
-      "mag": 2.4,
-      "place": "20 km NNW of Beluga, Alaska",
-      "time": 1792794552239,
+      "lon": -151.159,
+      "lat": 61.263,
+      "depth": 75.2,
+      "mag": 2.8,
+      "place": "14 km NNW of Beluga, Alaska",
+      "time": 1792794552380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vapliy"
     },
     {
@@ -1765,12 +1775,12 @@
     },
     {
       "id": "ci41350887",
-      "lon": -117.215666666667,
-      "lat": 34.0323333333333,
-      "depth": 4.21,
-      "mag": 0.95,
-      "place": "4 km SW of Redlands, CA",
-      "time": 1792731516160,
+      "lon": -117.216833333333,
+      "lat": 34.0366666666667,
+      "depth": 5.68,
+      "mag": 0.87,
+      "place": "4 km WSW of Redlands, CA",
+      "time": 1792731516080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350887"
     },
     {
@@ -1835,12 +1845,12 @@
     },
     {
       "id": "ci41350871",
-      "lon": -116.733166666667,
-      "lat": 33.6986666666667,
-      "depth": 16.93,
-      "mag": 0.65,
+      "lon": -116.733666666667,
+      "lat": 33.6941666666667,
+      "depth": 16.75,
+      "mag": 0.44,
       "place": "5 km SSW of Idyllwild, CA",
-      "time": 1792728799030,
+      "time": 1792728799060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350871"
     },
     {
@@ -2422,16 +2432,6 @@
       "place": "47 km NNE of King Cove, Alaska",
       "time": 1792709225950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068659"
-    },
-    {
-      "id": "av94463493",
-      "lon": -154.980333333333,
-      "lat": 58.2825,
-      "depth": 3.23,
-      "mag": -0.57,
-      "place": "85 km NNW of Karluk, Alaska",
-      "time": 1792708504910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94463493"
     }
   ]
 }
