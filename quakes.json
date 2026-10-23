@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-23T00:01:17Z",
-  "count": 280,
+  "updated": "2026-10-23T00:15:53Z",
+  "count": 281,
   "points": [
+    {
+      "id": "aka2026uywpxh",
+      "lon": -150.743,
+      "lat": 59.623,
+      "depth": 47.7,
+      "mag": 1.9,
+      "place": "27 km E of Halibut Cove, Alaska",
+      "time": 1792713893734,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uywpxh"
+    },
     {
       "id": "nc75453646",
       "lon": -122.785163879395,
@@ -252,6 +262,16 @@
       "place": "8 km W of Cobb, CA",
       "time": 1792705171740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453591"
+    },
+    {
+      "id": "us6000u47n",
+      "lon": -68.3401,
+      "lat": -21.6653,
+      "depth": 141.88,
+      "mag": 4.6,
+      "place": "49 km S of Ollagüe, Chile",
+      "time": 1792705076543,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u47n"
     },
     {
       "id": "ci41350735",
@@ -2792,16 +2812,6 @@
       "place": "11 km WNW of Hilltop, Texas",
       "time": 1792628160790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026utsaph"
-    },
-    {
-      "id": "uu80161321",
-      "lon": -112.9135,
-      "lat": 38.5081666666667,
-      "depth": 3.4,
-      "mag": 1.17,
-      "place": "14 km NE of Milford, Utah",
-      "time": 1792627365780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161321"
     }
   ]
 }
