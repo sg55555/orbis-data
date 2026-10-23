@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-23T16:31:03Z",
-  "count": 235,
+  "updated": "2026-10-23T16:45:43Z",
+  "count": 232,
   "points": [
+    {
+      "id": "aka2026vadsok",
+      "lon": -151.394,
+      "lat": 61.389,
+      "depth": 24.7,
+      "mag": 0.9,
+      "place": "32 km NNW of Beluga, Alaska",
+      "time": 1792773456854,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vadsok"
+    },
     {
       "id": "nc75453911",
       "lon": -122.331665039062,
@@ -1344,6 +1354,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350823"
     },
     {
+      "id": "uw714124632",
+      "lon": -120.517833333333,
+      "lat": 49.3856666666667,
+      "depth": -0.51,
+      "mag": 1.93,
+      "place": "8 km S of Princeton, Canada",
+      "time": 1792713079110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714124632"
+    },
+    {
       "id": "ci41350807",
       "lon": -116.706333333333,
       "lat": 33.5398333333333,
@@ -2302,56 +2322,6 @@
       "place": "4 km ESE of Owasso, Oklahoma",
       "time": 1792687539100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026uslb"
-    },
-    {
-      "id": "us6000u455",
-      "lon": 93.7403,
-      "lat": 32.4691,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "193 km NE of Nagqu, China",
-      "time": 1792687500942,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u455"
-    },
-    {
-      "id": "aka2026uyhwjq",
-      "lon": -152.872,
-      "lat": 60.466,
-      "depth": 5,
-      "mag": 0.4,
-      "place": "81 km NW of Ninilchik, Alaska",
-      "time": 1792687354165,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uyhwjq"
-    },
-    {
-      "id": "ci41350543",
-      "lon": -117.6815,
-      "lat": 35.864,
-      "depth": 13.11,
-      "mag": 0.94,
-      "place": "22 km ESE of Little Lake, CA",
-      "time": 1792686963340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350543"
-    },
-    {
-      "id": "tx2026uuymhi",
-      "lon": -102.158,
-      "lat": 32.412,
-      "depth": 9.2041,
-      "mag": 1.2,
-      "place": "36 km ENE of McKinney Acres, Texas",
-      "time": 1792686908467,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uuymhi"
-    },
-    {
-      "id": "pr71537463",
-      "lon": -66.9463333333333,
-      "lat": 17.9623333333333,
-      "depth": 6.33,
-      "mag": 1.97,
-      "place": "4 km WSW of Guánica, Puerto Rico",
-      "time": 1792686745160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537463"
     }
   ]
 }
