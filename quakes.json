@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-23T00:15:53Z",
-  "count": 281,
+  "updated": "2026-10-23T00:31:03Z",
+  "count": 280,
   "points": [
+    {
+      "id": "nc75453656",
+      "lon": -118.83032989502,
+      "lat": 37.4550018310547,
+      "depth": 1.66999995708466,
+      "mag": 1.03,
+      "place": "18 km SW of Toms Place, CA",
+      "time": 1792715326800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453656"
+    },
     {
       "id": "aka2026uywpxh",
       "lon": -150.743,
@@ -242,6 +252,16 @@
       "place": "53 km S of Glacier View, Alaska",
       "time": 1792705377202,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uyrwuz"
+    },
+    {
+      "id": "us6000u47r",
+      "lon": -163.5539,
+      "lat": 53.3354,
+      "depth": 10,
+      "mag": 4,
+      "place": "169 km S of False Pass, Alaska",
+      "time": 1792705341148,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u47r"
     },
     {
       "id": "aka2026uyrvrt",
@@ -2782,36 +2802,6 @@
       "place": "22 km NE of Rockport, CA",
       "time": 1792629269380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453151"
-    },
-    {
-      "id": "aka2026uxbjkx",
-      "lon": -151.418,
-      "lat": 62.364,
-      "depth": 86,
-      "mag": 1.7,
-      "place": "36 km WSW of Petersville, Alaska",
-      "time": 1792628883611,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uxbjkx"
-    },
-    {
-      "id": "nc75453136",
-      "lon": -122.818664550781,
-      "lat": 38.8301658630371,
-      "depth": 1.55999994277954,
-      "mag": 1.57,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1792628772880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453136"
-    },
-    {
-      "id": "tx2026utsaph",
-      "lon": -99.289,
-      "lat": 28.721,
-      "depth": 8.2272,
-      "mag": 1.7,
-      "place": "11 km WNW of Hilltop, Texas",
-      "time": 1792628160790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026utsaph"
     }
   ]
 }
