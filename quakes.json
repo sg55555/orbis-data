@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-23T14:01:21Z",
+  "updated": "2026-10-23T14:15:47Z",
   "count": 233,
   "points": [
+    {
+      "id": "uw714125232",
+      "lon": -122.858169555664,
+      "lat": 45.8963317871094,
+      "depth": 22.2000007629395,
+      "mag": 2.15984261035919,
+      "place": "4 km W of Columbia City, Oregon",
+      "time": 1792764564920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714125232"
+    },
     {
       "id": "aka2026uzygcx",
       "lon": -151.479,
@@ -845,12 +855,12 @@
     },
     {
       "id": "uu80161536",
-      "lon": -112.90299987793,
-      "lat": 38.5051651000977,
-      "depth": -1.6599999666214,
-      "mag": 2.3,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1792723613750,
+      "lon": -112.914833333333,
+      "lat": 38.5153333333333,
+      "depth": 3.5,
+      "mag": 2.33,
+      "place": "15 km NNE of Milford, Utah",
+      "time": 1792723613960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161536"
     },
     {
@@ -1122,6 +1132,16 @@
       "place": "21 km NNE of Four Mile Road, Alaska",
       "time": 1792711380885,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uyvfpd"
+    },
+    {
+      "id": "uu80161476",
+      "lon": -112.911666666667,
+      "lat": 38.518,
+      "depth": 3.21,
+      "mag": 1.42,
+      "place": "15 km NNE of Milford, Utah",
+      "time": 1792711064760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161476"
     },
     {
       "id": "nc75453636",
@@ -2312,26 +2332,6 @@
       "place": "10 km ESE of Petersville, Alaska",
       "time": 1792678858325,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uyddrz"
-    },
-    {
-      "id": "ci41350503",
-      "lon": -117.799166666667,
-      "lat": 35.3065,
-      "depth": 5.76,
-      "mag": 1.53,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1792678021070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350503"
-    },
-    {
-      "id": "aka2026uycons",
-      "lon": -149.144,
-      "lat": 60.045,
-      "depth": 10.6,
-      "mag": 2,
-      "place": "16 km E of Lowell Point, Alaska",
-      "time": 1792677859309,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uycons"
     }
   ]
 }
