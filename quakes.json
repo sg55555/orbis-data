@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-23T07:15:41Z",
-  "count": 266,
+  "updated": "2026-10-23T07:22:58Z",
+  "count": 265,
   "points": [
+    {
+      "id": "ci41350919",
+      "lon": -117.536666666667,
+      "lat": 35.7268333333333,
+      "depth": 2.44,
+      "mag": 0.73,
+      "place": "13 km WSW of Searles Valley, CA",
+      "time": 1792739784220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350919"
+    },
+    {
+      "id": "aka2026uzkyen",
+      "lon": -152.869,
+      "lat": 60.118,
+      "depth": 123,
+      "mag": 2.7,
+      "place": "66 km WNW of Happy Valley, Alaska",
+      "time": 1792739653832,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzkyen"
+    },
     {
       "id": "aka2026uzkklb",
       "lon": -149.552,
@@ -322,6 +342,16 @@
       "place": "58 km SW of Atocha, Bolivia",
       "time": 1792723541183,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49c"
+    },
+    {
+      "id": "ok2026utev",
+      "lon": -96.76383333,
+      "lat": 35.53283333,
+      "depth": 6.32,
+      "mag": 1.15,
+      "place": "8 km NW of Prague, Oklahoma",
+      "time": 1792723448419,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026utev"
     },
     {
       "id": "aka2026uzbikz",
@@ -2622,46 +2652,6 @@
       "place": "3 km WNW of Patzité, Guatemala",
       "time": 1792654090068,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u41s"
-    },
-    {
-      "id": "tx2026uufzxz",
-      "lon": -104.146,
-      "lat": 31.655,
-      "depth": 6.0486,
-      "mag": 1.6,
-      "place": "50 km NW of Toyah, Texas",
-      "time": 1792653460701,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uufzxz"
-    },
-    {
-      "id": "ci41350367",
-      "lon": -116.7575,
-      "lat": 33.5801666666667,
-      "depth": 11.77,
-      "mag": 0.17,
-      "place": "8 km WNW of Anza, CA",
-      "time": 1792653450510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350367"
-    },
-    {
-      "id": "ci10258702",
-      "lon": -116.7575,
-      "lat": 33.5783333333333,
-      "depth": 12.82,
-      "mag": 0.37,
-      "place": "8 km WNW of Anza, CA",
-      "time": 1792653449810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10258702"
-    },
-    {
-      "id": "ci41350359",
-      "lon": -117.214833333333,
-      "lat": 34.0275,
-      "depth": 4.46,
-      "mag": 0.88,
-      "place": "4 km SW of Redlands, CA",
-      "time": 1792653317620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350359"
     }
   ]
 }
