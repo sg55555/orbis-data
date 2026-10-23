@@ -1,17 +1,87 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-23T14:15:47Z",
-  "count": 233,
+  "updated": "2026-10-23T14:31:02Z",
+  "count": 240,
   "points": [
     {
+      "id": "nc75453881",
+      "lon": -122.733169555664,
+      "lat": 38.7701683044434,
+      "depth": 1.94000005722046,
+      "mag": 1.07,
+      "place": "2 km ESE of The Geysers, CA",
+      "time": 1792765533430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453881"
+    },
+    {
+      "id": "nc75453876",
+      "lon": -122.864669799805,
+      "lat": 38.8261680603027,
+      "depth": 2.59999990463257,
+      "mag": 0.45,
+      "place": "11 km WNW of The Geysers, CA",
+      "time": 1792765261460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453876"
+    },
+    {
+      "id": "nc75453871",
+      "lon": -122.831665039062,
+      "lat": 38.8344993591309,
+      "depth": 0.589999973773956,
+      "mag": 1,
+      "place": "9 km NW of The Geysers, CA",
+      "time": 1792765148220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453871"
+    },
+    {
+      "id": "aka2026uzzbte",
+      "lon": -152.882,
+      "lat": 60.067,
+      "depth": 122.6,
+      "mag": 1.7,
+      "place": "65 km WNW of Happy Valley, Alaska",
+      "time": 1792765100656,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzzbte"
+    },
+    {
+      "id": "nc75453866",
+      "lon": -122.760498046875,
+      "lat": 38.7901649475098,
+      "depth": 1.30999994277954,
+      "mag": 0.77,
+      "place": "1 km NNW of The Geysers, CA",
+      "time": 1792765049320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453866"
+    },
+    {
+      "id": "hv75062736",
+      "lon": -155.49333190918,
+      "lat": 19.1660003662109,
+      "depth": 28.3600006103516,
+      "mag": 2.32,
+      "place": "4 km SSW of Pāhala, Hawaii",
+      "time": 1792764977250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75062736"
+    },
+    {
       "id": "uw714125232",
-      "lon": -122.858169555664,
-      "lat": 45.8963317871094,
-      "depth": 22.2000007629395,
-      "mag": 2.15984261035919,
-      "place": "4 km W of Columbia City, Oregon",
-      "time": 1792764564920,
+      "lon": -122.855,
+      "lat": 45.8923333333333,
+      "depth": 23.39,
+      "mag": 1.65,
+      "place": "3 km W of Columbia City, Oregon",
+      "time": 1792764564850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714125232"
+    },
+    {
+      "id": "us6000u4dc",
+      "lon": 14.315,
+      "lat": 38.7787,
+      "depth": 10,
+      "mag": 5.2,
+      "place": "50 km WNW of Malfa, Italy",
+      "time": 1792763736149,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dc"
     },
     {
       "id": "aka2026uzygcx",
@@ -1114,6 +1184,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350783"
     },
     {
+      "id": "uu80161481",
+      "lon": -112.913833333333,
+      "lat": 38.5105,
+      "depth": 2.65,
+      "mag": 1.41,
+      "place": "15 km NE of Milford, Utah",
+      "time": 1792711667540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161481"
+    },
+    {
       "id": "us6000u48b",
       "lon": 64.8162,
       "lat": 28.5388,
@@ -1212,6 +1292,16 @@
       "place": "17 km NNE of San Simeon, CA",
       "time": 1792709359370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453616"
+    },
+    {
+      "id": "uw714124562",
+      "lon": -121.926666259766,
+      "lat": 46.8803329467773,
+      "depth": 11.4799995422363,
+      "mag": 1.74506556987762,
+      "place": "15 km NNE of Ashford, Washington",
+      "time": 1792708036110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714124562"
     },
     {
       "id": "aka2026uytfct",
@@ -2312,26 +2402,6 @@
       "place": "21 km ESE of Little Lake, CA",
       "time": 1792679500750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350511"
-    },
-    {
-      "id": "uw714124012",
-      "lon": -122.856833333333,
-      "lat": 45.8861666666667,
-      "depth": 24.01,
-      "mag": 3.02,
-      "place": "3 km W of Columbia City, Oregon",
-      "time": 1792679119300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714124012"
-    },
-    {
-      "id": "aka2026uyddrz",
-      "lon": -150.572,
-      "lat": 62.459,
-      "depth": 70.7,
-      "mag": 2.2,
-      "place": "10 km ESE of Petersville, Alaska",
-      "time": 1792678858325,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uyddrz"
     }
   ]
 }
