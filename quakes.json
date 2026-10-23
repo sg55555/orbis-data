@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-23T18:01:13Z",
+  "updated": "2026-10-23T18:15:45Z",
   "count": 243,
   "points": [
+    {
+      "id": "aka2026vagqdx",
+      "lon": -149.114,
+      "lat": 64.661,
+      "depth": 0.7,
+      "mag": 1.6,
+      "place": "6 km N of Four Mile Road, Alaska",
+      "time": 1792778681599,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vagqdx"
+    },
     {
       "id": "aka2026vagepa",
       "lon": -153.027,
@@ -265,12 +275,12 @@
     },
     {
       "id": "hv75062811",
-      "lon": -155.496337890625,
-      "lat": 19.1671657562256,
-      "depth": 27.6499996185303,
-      "mag": 3.13,
-      "place": "4 km SSW of Pāhala, Hawaii",
-      "time": 1792770750580,
+      "lon": -155.491166666667,
+      "lat": 19.1738333333333,
+      "depth": 29.18,
+      "mag": 3.29,
+      "place": "3 km SSW of Pāhala, Hawaii",
+      "time": 1792770750590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75062811"
     },
     {
@@ -282,6 +292,16 @@
       "place": "33 km W of Nanwalek, Alaska",
       "time": 1792770156280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vabwtg"
+    },
+    {
+      "id": "us6000u4dx",
+      "lon": 14.3074,
+      "lat": 38.8141,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "52 km WNW of Malfa, Italy",
+      "time": 1792769533051,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dx"
     },
     {
       "id": "aka2026vaakxj",
@@ -2412,26 +2432,6 @@
       "place": "11 km SE of Pāhala, Hawaii",
       "time": 1792693094190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75062311"
-    },
-    {
-      "id": "nc75453476",
-      "lon": -122.806831359863,
-      "lat": 38.833667755127,
-      "depth": 2.35999989509583,
-      "mag": 1.02,
-      "place": "7 km W of Cobb, CA",
-      "time": 1792692595880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453476"
-    },
-    {
-      "id": "us6000u45j",
-      "lon": 93.9886,
-      "lat": 32.3707,
-      "depth": 10,
-      "mag": 5,
-      "place": "207 km ENE of Nagqu, China",
-      "time": 1792692404294,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u45j"
     }
   ]
 }
