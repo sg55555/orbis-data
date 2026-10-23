@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-23T03:01:11Z",
-  "count": 271,
+  "updated": "2026-10-23T03:15:43Z",
+  "count": 269,
   "points": [
+    {
+      "id": "us6000u49f",
+      "lon": -160.9015,
+      "lat": 55.0132,
+      "depth": 26.865,
+      "mag": 3.2,
+      "place": "44 km SW of Sand Point, Alaska",
+      "time": 1792723787870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49f"
+    },
     {
       "id": "uu80161536",
       "lon": -112.90299987793,
@@ -2604,6 +2614,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026utyxyn"
     },
     {
+      "id": "av93068559",
+      "lon": -151.868833333333,
+      "lat": 61.5356666666667,
+      "depth": 13.58,
+      "mag": 0.47,
+      "place": "56 km SSW of Skwentna, Alaska",
+      "time": 1792640456810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068559"
+    },
+    {
       "id": "ci41350319",
       "lon": -116.742166666667,
       "lat": 33.6603333333333,
@@ -2672,46 +2692,6 @@
       "place": "5 km NW of The Geysers, CA",
       "time": 1792639380460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453246"
-    },
-    {
-      "id": "nc75453236",
-      "lon": -124.161003112793,
-      "lat": 40.2379989624023,
-      "depth": 13.1400003433228,
-      "mag": 1.48,
-      "place": "14 km SE of Petrolia, CA",
-      "time": 1792638736900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453236"
-    },
-    {
-      "id": "av94461803",
-      "lon": -151.865166666667,
-      "lat": 61.5436666666667,
-      "depth": 13.93,
-      "mag": 0.3,
-      "place": "55 km SSW of Skwentna, Alaska",
-      "time": 1792638468300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94461803"
-    },
-    {
-      "id": "uw714123922",
-      "lon": -121.882,
-      "lat": 47.4761666666667,
-      "depth": 17.77,
-      "mag": 0.97,
-      "place": "7 km SW of Snoqualmie, Washington",
-      "time": 1792638244440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714123922"
-    },
-    {
-      "id": "av94461788",
-      "lon": -151.888166666667,
-      "lat": 61.5411666666667,
-      "depth": 13.76,
-      "mag": 0.12,
-      "place": "56 km SSW of Skwentna, Alaska",
-      "time": 1792638212510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94461788"
     }
   ]
 }
