@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-23T20:45:39Z",
-  "count": 238,
+  "updated": "2026-10-23T21:01:15Z",
+  "count": 239,
   "points": [
     {
+      "id": "aka2026valxlu",
+      "lon": -146.24,
+      "lat": 59.929,
+      "depth": 7.8,
+      "mag": 1.9,
+      "place": "73 km SSW of Cordova, Alaska",
+      "time": 1792788208598,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026valxlu"
+    },
+    {
       "id": "aka2026valxle",
-      "lon": -150.374,
-      "lat": 64.906,
-      "depth": 20.4,
+      "lon": -150.409,
+      "lat": 64.9,
+      "depth": 18.7,
       "mag": 2.3,
-      "place": "16 km SE of Manley Hot Springs, Alaska",
-      "time": 1792788181774,
+      "place": "15 km SE of Manley Hot Springs, Alaska",
+      "time": 1792788181491,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026valxle"
     },
     {
@@ -512,6 +522,16 @@
       "place": "233 km ENE of Nagqu, China",
       "time": 1792766476206,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dk"
+    },
+    {
+      "id": "tx2026uwqehh",
+      "lon": -104.132,
+      "lat": 31.659,
+      "depth": 6.1127,
+      "mag": 1.9,
+      "place": "49 km NW of Toyah, Texas",
+      "time": 1792766216159,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uwqehh"
     },
     {
       "id": "nc75453881",
@@ -2372,16 +2392,6 @@
       "place": "11 km SW of Manley Hot Springs, Alaska",
       "time": 1792703081440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uyqpqt"
-    },
-    {
-      "id": "uw714124432",
-      "lon": -122.367166666667,
-      "lat": 46.0491666666667,
-      "depth": 17.72,
-      "mag": 0.41,
-      "place": "16 km NNE of Amboy, Washington",
-      "time": 1792702076470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714124432"
     }
   ]
 }
