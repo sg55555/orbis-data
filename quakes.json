@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-23T10:15:43Z",
-  "count": 261,
+  "updated": "2026-10-23T10:31:01Z",
+  "count": 258,
   "points": [
+    {
+      "id": "ci41350983",
+      "lon": -116.710666666667,
+      "lat": 33.5325,
+      "depth": 5.19,
+      "mag": 1,
+      "place": "4 km SW of Anza, CA",
+      "time": 1792750674980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350983"
+    },
     {
       "id": "aka2026uzqlnx",
       "lon": -155.163,
@@ -2572,46 +2582,6 @@
       "place": "5 km SSW of Redlands, CA",
       "time": 1792665076700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350423"
-    },
-    {
-      "id": "aka2026uxvbur",
-      "lon": -147.837,
-      "lat": 60.493,
-      "depth": 18.2,
-      "mag": 1.7,
-      "place": "48 km NNE of Chenega, Alaska",
-      "time": 1792664340834,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uxvbur"
-    },
-    {
-      "id": "nc75453356",
-      "lon": -122.808670043945,
-      "lat": 38.8030014038086,
-      "depth": 1.14999997615814,
-      "mag": 1.27,
-      "place": "5 km WNW of The Geysers, CA",
-      "time": 1792664223570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453356"
-    },
-    {
-      "id": "nc75453351",
-      "lon": -122.807998657227,
-      "lat": 38.828498840332,
-      "depth": 0.610000014305115,
-      "mag": 0.28,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1792664193270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453351"
-    },
-    {
-      "id": "tx2026uulxzm",
-      "lon": -98.944,
-      "lat": 28.854,
-      "depth": 7.4357,
-      "mag": 1.8,
-      "place": "15 km ESE of Pearsall, Texas",
-      "time": 1792664185716,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uulxzm"
     }
   ]
 }
