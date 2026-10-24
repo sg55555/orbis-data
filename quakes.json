@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-24T03:30:57Z",
-  "count": 223,
+  "updated": "2026-10-24T03:45:41Z",
+  "count": 226,
   "points": [
+    {
+      "id": "nc75454111",
+      "lon": -122.798332214355,
+      "lat": 38.8256683349609,
+      "depth": 2.30999994277954,
+      "mag": 0.78,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1792812974150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454111"
+    },
+    {
+      "id": "hv75063106",
+      "lon": -155.507659912109,
+      "lat": 19.2458324432373,
+      "depth": 5.48000001907349,
+      "mag": 1.96,
+      "place": "5 km NNW of Pāhala, Hawaii",
+      "time": 1792812553600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75063106"
+    },
+    {
+      "id": "hv75063101",
+      "lon": -155.505828857422,
+      "lat": 19.2283325195312,
+      "depth": 5.26999998092651,
+      "mag": 2.18,
+      "place": "4 km NW of Pāhala, Hawaii",
+      "time": 1792812470580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75063101"
+    },
     {
       "id": "nc75454101",
       "lon": -122.824333190918,
@@ -12,6 +42,16 @@
       "place": "9 km WNW of Cobb, CA",
       "time": 1792811984790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454101"
+    },
+    {
+      "id": "us6000u4jl",
+      "lon": 165.6161,
+      "lat": -13.8805,
+      "depth": 10,
+      "mag": 5.2,
+      "place": "202 km NW of Port-Olry, Vanuatu",
+      "time": 1792811875755,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jl"
     },
     {
       "id": "us6000u4ji",
@@ -2222,16 +2262,6 @@
       "place": "16 km NNE of Milford, Utah",
       "time": 1792727209470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161551"
-    },
-    {
-      "id": "aka2026uzdyhc",
-      "lon": -153.005,
-      "lat": 60,
-      "depth": 5.8,
-      "mag": 0.3,
-      "place": "66 km ENE of Pedro Bay, Alaska",
-      "time": 1792727067701,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzdyhc"
     }
   ]
 }
