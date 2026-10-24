@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-24T19:45:43Z",
-  "count": 191,
+  "updated": "2026-10-24T20:01:05Z",
+  "count": 190,
   "points": [
+    {
+      "id": "ci41351863",
+      "lon": -116.8355,
+      "lat": 33.713,
+      "depth": 14.53,
+      "mag": 0.53,
+      "place": "7 km SE of Valle Vista, CA",
+      "time": 1792871473160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351863"
+    },
+    {
+      "id": "aka2026vcgcvw",
+      "lon": -147.386,
+      "lat": 60.73,
+      "depth": 15.2,
+      "mag": 1.6,
+      "place": "41 km WSW of Tatitlek, Alaska",
+      "time": 1792871318932,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vcgcvw"
+    },
     {
       "id": "nc75454296",
       "lon": -122.785003662109,
@@ -12,6 +32,16 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1792870742400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454296"
+    },
+    {
+      "id": "us6000u4p1",
+      "lon": 88.3994,
+      "lat": 28.7603,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "71 km SW of Rikaze, China",
+      "time": 1792870453223,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4p1"
     },
     {
       "id": "nc75454291",
@@ -1872,46 +1902,6 @@
       "place": "15 km WSW of Johannesburg, CA",
       "time": 1792787004860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351335"
-    },
-    {
-      "id": "us6000u4gc",
-      "lon": 179.9107,
-      "lat": -24.6137,
-      "depth": 516.402,
-      "mag": 4.2,
-      "place": "south of the Fiji Islands",
-      "time": 1792785024061,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4gc"
-    },
-    {
-      "id": "hv75062961",
-      "lon": -155.193328857422,
-      "lat": 19.3293342590332,
-      "depth": 0.759999990463257,
-      "mag": 1.81,
-      "place": "13 km SSE of Volcano, Hawaii",
-      "time": 1792784930180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75062961"
-    },
-    {
-      "id": "hv75062956",
-      "lon": -155.471832275391,
-      "lat": 19.1863327026367,
-      "depth": 27.0400009155273,
-      "mag": 2.1,
-      "place": "1 km SSE of Pāhala, Hawaii",
-      "time": 1792784806780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75062956"
-    },
-    {
-      "id": "ci41351319",
-      "lon": -116.457333333333,
-      "lat": 33.5033333333333,
-      "depth": 3.9,
-      "mag": 1.7,
-      "place": "21 km ESE of Anza, CA",
-      "time": 1792784739110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351319"
     }
   ]
 }
