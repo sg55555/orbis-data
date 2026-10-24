@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-24T01:15:42Z",
-  "count": 227,
+  "updated": "2026-10-24T01:31:00Z",
+  "count": 228,
   "points": [
+    {
+      "id": "ci41351495",
+      "lon": -116.269166666667,
+      "lat": 33.2936666666667,
+      "depth": 5.67,
+      "mag": 0.82,
+      "place": "11 km ENE of Borrego Springs, CA",
+      "time": 1792804508140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351495"
+    },
     {
       "id": "aka2026vaummo",
       "lon": -142.656,
@@ -12,6 +22,16 @@
       "place": "177 km WSW of Yakutat, Alaska",
       "time": 1792803619098,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vaummo"
+    },
+    {
+      "id": "us6000u4ib",
+      "lon": 165.6177,
+      "lat": -13.9871,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "195 km NW of Port-Olry, Vanuatu",
+      "time": 1792801664940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ib"
     },
     {
       "id": "us6000u4i8",
@@ -2262,16 +2282,6 @@
       "place": "5 km NW of Wrightwood, CA",
       "time": 1792719378230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350839"
-    },
-    {
-      "id": "us6000u491",
-      "lon": -80.3524,
-      "lat": 7.5941,
-      "depth": 10,
-      "mag": 4,
-      "place": "2 km S of Valle Rico, Panama",
-      "time": 1792718387892,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u491"
     }
   ]
 }
