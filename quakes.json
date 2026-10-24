@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-24T21:45:41Z",
-  "count": 191,
+  "updated": "2026-10-24T21:50:36Z",
+  "count": 192,
   "points": [
+    {
+      "id": "ci41351919",
+      "lon": -117.848335266113,
+      "lat": 36.0709991455078,
+      "depth": 1.91999995708466,
+      "mag": 1.46905557066475,
+      "place": "9 km ENE of Coso Junction, CA",
+      "time": 1792878433240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351919"
+    },
     {
       "id": "nc75454361",
       "lon": -122.842834472656,
@@ -12,6 +22,16 @@
       "place": "10 km NW of The Geysers, CA",
       "time": 1792876962690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454361"
+    },
+    {
+      "id": "pr71537563",
+      "lon": -67.4233333333333,
+      "lat": 18.9063333333333,
+      "depth": 36.55,
+      "mag": 3.21,
+      "place": "57 km NW of San Antonio, Puerto Rico",
+      "time": 1792876035080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537563"
     },
     {
       "id": "ci41351911",
@@ -1902,16 +1922,6 @@
       "place": "43 km SSE of Sandy Valley, Nevada",
       "time": 1792792870447,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926153"
-    },
-    {
-      "id": "hv75063011",
-      "lon": -155.444,
-      "lat": 19.2,
-      "depth": -0.57,
-      "mag": 1.88,
-      "place": "3 km E of Pāhala, Hawaii",
-      "time": 1792792027280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75063011"
     }
   ]
 }
