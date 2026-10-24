@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-24T18:15:41Z",
-  "count": 196,
+  "updated": "2026-10-24T18:30:58Z",
+  "count": 197,
   "points": [
+    {
+      "id": "ci41351831",
+      "lon": -116.402166666667,
+      "lat": 33.421,
+      "depth": 11.1,
+      "mag": 0.65,
+      "place": "19 km N of Borrego Springs, CA",
+      "time": 1792866284110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351831"
+    },
     {
       "id": "nn00926197",
       "lon": -114.5067,
@@ -12,6 +22,16 @@
       "place": "5 km SW of Pioche, Nevada",
       "time": 1792864761195,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926197"
+    },
+    {
+      "id": "uu80161711",
+      "lon": -112.9215,
+      "lat": 38.525,
+      "depth": -0.13,
+      "mag": 2.67,
+      "place": "16 km NNE of Milford, Utah",
+      "time": 1792864741470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161711"
     },
     {
       "id": "us6000u4ng",
@@ -1952,16 +1972,6 @@
       "place": "5 km WNW of Trapper Creek, Alaska",
       "time": 1792780430058,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vahpks"
-    },
-    {
-      "id": "aka2026vahgue",
-      "lon": -151.91,
-      "lat": 61.656,
-      "depth": 17.8,
-      "mag": 1,
-      "place": "46 km SW of Skwentna, Alaska",
-      "time": 1792779845168,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vahgue"
     }
   ]
 }
