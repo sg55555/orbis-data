@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-24T09:04:44Z",
-  "count": 238,
+  "updated": "2026-10-24T09:15:42Z",
+  "count": 239,
   "points": [
+    {
+      "id": "ci41351639",
+      "lon": -116.715833333333,
+      "lat": 33.529,
+      "depth": 5.6,
+      "mag": 2.12,
+      "place": "5 km SW of Anza, CA",
+      "time": 1792832846020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351639"
+    },
+    {
+      "id": "us6000u4lm",
+      "lon": 165.6471,
+      "lat": -13.9418,
+      "depth": 10,
+      "mag": 5.9,
+      "place": "196 km NW of Port-Olry, Vanuatu",
+      "time": 1792832188815,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lm"
+    },
     {
       "id": "ci41351631",
       "lon": -115.3535,
@@ -2372,16 +2392,6 @@
       "place": "40 km SSE of Nikolski, Alaska",
       "time": 1792747111548,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzpcaa"
-    },
-    {
-      "id": "us6000u4b3",
-      "lon": 123.8685,
-      "lat": 6.5678,
-      "depth": 591.289,
-      "mag": 4.5,
-      "place": "18 km WNW of Bantogon, Philippines",
-      "time": 1792746576956,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4b3"
     }
   ]
 }
