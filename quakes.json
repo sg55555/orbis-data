@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-24T12:30:58Z",
-  "count": 224,
+  "updated": "2026-10-24T12:45:39Z",
+  "count": 222,
   "points": [
+    {
+      "id": "ci41351703",
+      "lon": -117.966,
+      "lat": 33.646,
+      "depth": 13.15,
+      "mag": 1.46,
+      "place": "5 km NW of Newport Beach, CA",
+      "time": 1792845466560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351703"
+    },
     {
       "id": "us6000u4m9",
       "lon": 122.0872,
@@ -2212,36 +2222,6 @@
       "place": "27 km ESE of Nabesna, Alaska",
       "time": 1792759934694,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzwffy"
-    },
-    {
-      "id": "aka2026uzvusc",
-      "lon": -153.074,
-      "lat": 60.034,
-      "depth": 5,
-      "mag": 0.2,
-      "place": "63 km ENE of Pedro Bay, Alaska",
-      "time": 1792759205488,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzvusc"
-    },
-    {
-      "id": "aka2026uzvunz",
-      "lon": -141.622,
-      "lat": 60.048,
-      "depth": 5,
-      "mag": 1.7,
-      "place": "120 km WNW of Yakutat, Alaska",
-      "time": 1792759194015,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzvunz"
-    },
-    {
-      "id": "aka2026uzvstm",
-      "lon": -139.894,
-      "lat": 60.438,
-      "depth": 9.6,
-      "mag": 1.9,
-      "place": "99 km N of Yakutat, Alaska",
-      "time": 1792759061739,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzvstm"
     }
   ]
 }
