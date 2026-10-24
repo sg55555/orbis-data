@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-24T02:15:43Z",
-  "count": 231,
+  "updated": "2026-10-24T02:31:01Z",
+  "count": 229,
   "points": [
+    {
+      "id": "aka2026vaxezy",
+      "lon": -140.642,
+      "lat": 60.051,
+      "depth": 15.1,
+      "mag": 1.6,
+      "place": "76 km NW of Yakutat, Alaska",
+      "time": 1792808496612,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vaxezy"
+    },
     {
       "id": "ci41351527",
       "lon": -117.8075,
@@ -2194,6 +2204,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49h"
     },
     {
+      "id": "av94463743",
+      "lon": -152.338,
+      "lat": 61.2993333333333,
+      "depth": 3.06,
+      "mag": -0.72,
+      "place": "69 km WNW of Tyonek, Alaska",
+      "time": 1792723981330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94463743"
+    },
+    {
       "id": "tx2026uvsvdk",
       "lon": -104.124,
       "lat": 31.662,
@@ -2272,46 +2292,6 @@
       "place": "15 km NNE of Milford, Utah",
       "time": 1792723245270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161526"
-    },
-    {
-      "id": "uu80161521",
-      "lon": -110.797333333333,
-      "lat": 44.7676666666667,
-      "depth": 4.68,
-      "mag": 0.65,
-      "place": "24 km SSW of Mammoth, Wyoming",
-      "time": 1792722636050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161521"
-    },
-    {
-      "id": "aka2026uzbikz",
-      "lon": -147.904,
-      "lat": 60.372,
-      "depth": 13.3,
-      "mag": 1.7,
-      "place": "34 km N of Chenega, Alaska",
-      "time": 1792722373454,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzbikz"
-    },
-    {
-      "id": "nc75453701",
-      "lon": -122.157165527344,
-      "lat": 37.3408317565918,
-      "depth": 2.34999990463257,
-      "mag": 0.96,
-      "place": "5 km SSW of Los Altos Hills, CA",
-      "time": 1792721849780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453701"
-    },
-    {
-      "id": "us6000u49a",
-      "lon": 100.6189,
-      "lat": 27.9986,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "18 km NNW of Yongning, China",
-      "time": 1792721821507,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49a"
     }
   ]
 }
