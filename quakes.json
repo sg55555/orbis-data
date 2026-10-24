@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-24T01:01:12Z",
+  "updated": "2026-10-24T01:15:42Z",
   "count": 227,
   "points": [
+    {
+      "id": "aka2026vaummo",
+      "lon": -142.656,
+      "lat": 58.999,
+      "depth": 35.7,
+      "mag": 3.4,
+      "place": "177 km WSW of Yakutat, Alaska",
+      "time": 1792803619098,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vaummo"
+    },
     {
       "id": "us6000u4i8",
       "lon": 93.9004,
@@ -82,6 +92,16 @@
       "place": "43 km NNE of Beatty, Nevada",
       "time": 1792796601482,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926158"
+    },
+    {
+      "id": "ci41351407",
+      "lon": -116.4495,
+      "lat": 33.523,
+      "depth": 4.93,
+      "mag": 0.65,
+      "place": "20 km SW of La Quinta, CA",
+      "time": 1792796542300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351407"
     },
     {
       "id": "hv75063046",
@@ -732,6 +752,16 @@
       "place": "25 km SW of Ackerly, Texas",
       "time": 1792771542466,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uwtcys"
+    },
+    {
+      "id": "ci41351151",
+      "lon": -116.4455,
+      "lat": 33.5131666666667,
+      "depth": 3.96,
+      "mag": 0.59,
+      "place": "21 km SW of La Quinta, CA",
+      "time": 1792771508340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351151"
     },
     {
       "id": "ci41351143",
@@ -2242,36 +2272,6 @@
       "place": "2 km S of Valle Rico, Panama",
       "time": 1792718387892,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u491"
-    },
-    {
-      "id": "nc75453691",
-      "lon": -122.770332336426,
-      "lat": 38.7939987182617,
-      "depth": 3.97000002861023,
-      "mag": 1.12,
-      "place": "2 km NNW of The Geysers, CA",
-      "time": 1792718118320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453691"
-    },
-    {
-      "id": "nc75453686",
-      "lon": -122.766334533691,
-      "lat": 38.8036651611328,
-      "depth": 3.25999999046326,
-      "mag": 1.45,
-      "place": "3 km NNW of The Geysers, CA",
-      "time": 1792718084330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453686"
-    },
-    {
-      "id": "uu80161501",
-      "lon": -112.911166666667,
-      "lat": 38.5151666666667,
-      "depth": 3.95,
-      "mag": 0.34,
-      "place": "15 km NNE of Milford, Utah",
-      "time": 1792717918960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161501"
     }
   ]
 }
