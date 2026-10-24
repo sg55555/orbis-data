@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-24T19:30:58Z",
-  "count": 194,
+  "updated": "2026-10-24T19:45:43Z",
+  "count": 191,
   "points": [
+    {
+      "id": "nc75454296",
+      "lon": -122.785003662109,
+      "lat": 38.8341674804688,
+      "depth": 2.23000001907349,
+      "mag": 2.02,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1792870742400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454296"
+    },
     {
       "id": "nc75454291",
       "lon": -123.221832275391,
@@ -22,6 +32,16 @@
       "place": "13 km NNE of Julian, CA",
       "time": 1792869522950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351847"
+    },
+    {
+      "id": "us6000u4ny",
+      "lon": 168.7941,
+      "lat": -20.025,
+      "depth": 22.398,
+      "mag": 4.9,
+      "place": "73 km SW of Isangel, Vanuatu",
+      "time": 1792869500515,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ny"
     },
     {
       "id": "us6000u4nv",
@@ -1892,56 +1912,6 @@
       "place": "21 km ESE of Anza, CA",
       "time": 1792784739110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351319"
-    },
-    {
-      "id": "aka2026vajwkk",
-      "lon": -152.913,
-      "lat": 59.549,
-      "depth": 100.2,
-      "mag": 1.7,
-      "place": "60 km WNW of Nanwalek, Alaska",
-      "time": 1792784513091,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vajwkk"
-    },
-    {
-      "id": "tx2026uxajyg",
-      "lon": -98.952,
-      "lat": 28.842,
-      "depth": 8.9258,
-      "mag": 2.1,
-      "place": "15 km ESE of Pearsall, Texas",
-      "time": 1792784500127,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uxajyg"
-    },
-    {
-      "id": "aka2026vajtjq",
-      "lon": -152.131,
-      "lat": 61.281,
-      "depth": 5,
-      "mag": 0.6,
-      "place": "58 km WNW of Beluga, Alaska",
-      "time": 1792784301532,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vajtjq"
-    },
-    {
-      "id": "nc75453961",
-      "lon": -122.744667053223,
-      "lat": 38.7874984741211,
-      "depth": 1.53999996185303,
-      "mag": 1.27,
-      "place": "2 km NE of The Geysers, CA",
-      "time": 1792783905910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453961"
-    },
-    {
-      "id": "us6000u4g1",
-      "lon": 102.0178,
-      "lat": 19.0951,
-      "depth": 10.261,
-      "mag": 4.2,
-      "place": "37 km ESE of Sainyabuli, Laos",
-      "time": 1792783881121,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4g1"
     }
   ]
 }
