@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-24T05:30:58Z",
+  "updated": "2026-10-24T05:45:39Z",
   "count": 225,
   "points": [
+    {
+      "id": "nc75454141",
+      "lon": -122.808670043945,
+      "lat": 38.8393325805664,
+      "depth": 2.29999995231628,
+      "mag": 0.23,
+      "place": "8 km WNW of Cobb, CA",
+      "time": 1792820422870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454141"
+    },
+    {
+      "id": "us6000u4k6",
+      "lon": 165.6982,
+      "lat": -14.0833,
+      "depth": 10,
+      "mag": 5.8,
+      "place": "182 km NW of Port-Olry, Vanuatu",
+      "time": 1792819420747,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6"
+    },
     {
       "id": "aka2026vbdapt",
       "lon": -150.858,
@@ -22,6 +42,16 @@
       "place": "43 km NW of Tatitlek, Alaska",
       "time": 1792818702441,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vbcwkr"
+    },
+    {
+      "id": "us6000u4k5",
+      "lon": 165.3365,
+      "lat": -14.0054,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "219 km WNW of Port-Olry, Vanuatu",
+      "time": 1792818634753,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k5"
     },
     {
       "id": "aka2026vbcpgv",
@@ -335,12 +365,12 @@
     },
     {
       "id": "aka2026vaummo",
-      "lon": -142.656,
-      "lat": 58.987,
-      "depth": 44.2,
+      "lon": -142.654,
+      "lat": 59.029,
+      "depth": 10,
       "mag": 3.4,
-      "place": "178 km WSW of Yakutat, Alaska",
-      "time": 1792803619435,
+      "place": "176 km WSW of Yakutat, Alaska",
+      "time": 1792803616545,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vaummo"
     },
     {
@@ -422,6 +452,16 @@
       "place": "15 km ENE of Fox, Alaska",
       "time": 1792796992040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vaqutc"
+    },
+    {
+      "id": "aka2026vaqtor",
+      "lon": -169.17,
+      "lat": 53.502,
+      "depth": 242.9,
+      "mag": 4,
+      "place": "65 km NNW of Nikolski, Alaska",
+      "time": 1792796905010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vaqtor"
     },
     {
       "id": "nn00926158",
@@ -2212,46 +2252,6 @@
       "place": "4 km SW of Redlands, CA",
       "time": 1792734618500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10258966"
-    },
-    {
-      "id": "aka2026uzhxtu",
-      "lon": -150.97,
-      "lat": 61.531,
-      "depth": 69.1,
-      "mag": 2,
-      "place": "24 km W of Susitna, Alaska",
-      "time": 1792734229279,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzhxtu"
-    },
-    {
-      "id": "hv75062576",
-      "lon": -155.513671875,
-      "lat": 19.0126667022705,
-      "depth": 39.7000007629395,
-      "mag": 1.77,
-      "place": "9 km SE of Naalehu, Hawaii",
-      "time": 1792734209360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75062576"
-    },
-    {
-      "id": "nc75453736",
-      "lon": -125.09383392334,
-      "lat": 40.6178321838379,
-      "depth": 10.3599996566772,
-      "mag": 3.37,
-      "place": "70 km W of Ferndale, CA",
-      "time": 1792733899230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453736"
-    },
-    {
-      "id": "nc75453731",
-      "lon": -121.184501647949,
-      "lat": 37.175666809082,
-      "depth": 2.24000000953674,
-      "mag": 1.71,
-      "place": "19 km WSW of Gustine, CA",
-      "time": 1792733670700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453731"
     }
   ]
 }
