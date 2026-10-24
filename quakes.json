@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-24T00:01:14Z",
-  "count": 231,
+  "updated": "2026-10-24T00:15:42Z",
+  "count": 229,
   "points": [
+    {
+      "id": "uw714127002",
+      "lon": -123.487335205078,
+      "lat": 48.3998336791992,
+      "depth": 3.75,
+      "mag": 1.89775013923645,
+      "place": "3 km S of Colwood, Canada",
+      "time": 1792800444270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714127002"
+    },
+    {
+      "id": "aka2026vasoiy",
+      "lon": -149.971,
+      "lat": 60.748,
+      "depth": 35.3,
+      "mag": 2.2,
+      "place": "26 km SW of Hope, Alaska",
+      "time": 1792800148331,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vasoiy"
+    },
     {
       "id": "aka2026varwvn",
       "lon": -138.807,
@@ -1665,12 +1685,12 @@
     },
     {
       "id": "ci41350919",
-      "lon": -117.546666666667,
-      "lat": 35.7198333333333,
-      "depth": 2.64,
-      "mag": 0.61,
+      "lon": -117.548,
+      "lat": 35.719,
+      "depth": 2.6,
+      "mag": 0.65,
       "place": "14 km WSW of Searles Valley, CA",
-      "time": 1792739784120,
+      "time": 1792739784110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350919"
     },
     {
@@ -2272,46 +2292,6 @@
       "place": "27 km SE of Emajagua, Puerto Rico",
       "time": 1792714616510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537498"
-    },
-    {
-      "id": "pr71537488",
-      "lon": -67.785,
-      "lat": 18.9505,
-      "depth": 32.5,
-      "mag": 3.23,
-      "place": "77 km ENE of Punta Cana, Dominican Republic",
-      "time": 1792714415620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537488"
-    },
-    {
-      "id": "us6000u48i",
-      "lon": -67.3224,
-      "lat": -24.286,
-      "depth": 185.541,
-      "mag": 4.5,
-      "place": "102 km W of San Antonio de los Cobres, Argentina",
-      "time": 1792714175519,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u48i"
-    },
-    {
-      "id": "uw714124652",
-      "lon": -121.896833333333,
-      "lat": 46.9218333333333,
-      "depth": 9.66,
-      "mag": 0.52,
-      "place": "20 km NNE of Ashford, Washington",
-      "time": 1792713923670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714124652"
-    },
-    {
-      "id": "aka2026uywpxh",
-      "lon": -150.743,
-      "lat": 59.623,
-      "depth": 47.7,
-      "mag": 1.9,
-      "place": "27 km E of Halibut Cove, Alaska",
-      "time": 1792713893734,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uywpxh"
     }
   ]
 }
