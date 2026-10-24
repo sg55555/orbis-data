@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-24T00:15:42Z",
-  "count": 229,
+  "updated": "2026-10-24T00:30:59Z",
+  "count": 226,
   "points": [
     {
+      "id": "us6000u4i8",
+      "lon": 93.9004,
+      "lat": 32.5271,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "209 km ENE of Nagqu, China",
+      "time": 1792800476787,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8"
+    },
+    {
       "id": "uw714127002",
-      "lon": -123.487335205078,
-      "lat": 48.3998336791992,
-      "depth": 3.75,
-      "mag": 1.89775013923645,
+      "lon": -123.483666666667,
+      "lat": 48.4018333333333,
+      "depth": 4.79,
+      "mag": 1.84,
       "place": "3 km S of Colwood, Canada",
-      "time": 1792800444270,
+      "time": 1792800444230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714127002"
     },
     {
@@ -1445,12 +1455,12 @@
     },
     {
       "id": "ci41350943",
-      "lon": -116.702333333333,
-      "lat": 33.5385,
-      "depth": 6.36,
-      "mag": 1.33,
-      "place": "3 km SW of Anza, CA",
-      "time": 1792747802460,
+      "lon": -116.705166666667,
+      "lat": 33.5413333333333,
+      "depth": 5.73,
+      "mag": -0.04,
+      "place": "3 km WSW of Anza, CA",
+      "time": 1792747802480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350943"
     },
     {
@@ -2252,46 +2262,6 @@
       "place": "207 km ENE of Nagqu, China",
       "time": 1792715711461,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u48s"
-    },
-    {
-      "id": "nc75453656",
-      "lon": -118.83032989502,
-      "lat": 37.4550018310547,
-      "depth": 1.66999995708466,
-      "mag": 1.03,
-      "place": "18 km SW of Toms Place, CA",
-      "time": 1792715326800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453656"
-    },
-    {
-      "id": "ci41350831",
-      "lon": -118.0665,
-      "lat": 34.1838333333333,
-      "depth": 10.79,
-      "mag": 0.85,
-      "place": "3 km NNW of Sierra Madre, CA",
-      "time": 1792715322280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350831"
-    },
-    {
-      "id": "us6000u48r",
-      "lon": 93.7355,
-      "lat": 32.6078,
-      "depth": 10,
-      "mag": 4.4,
-      "place": "202 km NE of Nagqu, China",
-      "time": 1792715057688,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u48r"
-    },
-    {
-      "id": "pr71537498",
-      "lon": -65.7205,
-      "lat": 17.807,
-      "depth": 8.6,
-      "mag": 2.19,
-      "place": "27 km SE of Emajagua, Puerto Rico",
-      "time": 1792714616510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537498"
     }
   ]
 }
