@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-24T17:01:10Z",
-  "count": 202,
+  "updated": "2026-10-24T17:15:48Z",
+  "count": 201,
   "points": [
+    {
+      "id": "hv75063291",
+      "lon": -155.024337768555,
+      "lat": 19.2169990539551,
+      "depth": 38.060001373291,
+      "mag": 1.83,
+      "place": "29 km SSE of Fern Forest, Hawaii",
+      "time": 1792861710390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75063291"
+    },
     {
       "id": "ci41351815",
       "lon": -116.339333333333,
@@ -802,6 +812,16 @@
       "place": "108 km NNE of Arctic Village, Alaska",
       "time": 1792821536682,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vbelld"
+    },
+    {
+      "id": "aka2026vbekhk",
+      "lon": -174.106,
+      "lat": 52.171,
+      "depth": 215.4,
+      "mag": 2.7,
+      "place": "7 km ESE of Atka, Alaska",
+      "time": 1792821450805,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vbekhk"
     },
     {
       "id": "hv75063136",
@@ -1992,36 +2012,6 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1792775778590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453926"
-    },
-    {
-      "id": "us6000u4f5",
-      "lon": 95.6545,
-      "lat": 25.9295,
-      "depth": 116.703,
-      "mag": 4.6,
-      "place": "91 km ESE of Tuensang, India",
-      "time": 1792775185116,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4f5"
-    },
-    {
-      "id": "aka2026vaeqmu",
-      "lon": -154.242,
-      "lat": 58.901,
-      "depth": 122.9,
-      "mag": 1.8,
-      "place": "67 km SSE of Kokhanok, Alaska",
-      "time": 1792775107027,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vaeqmu"
-    },
-    {
-      "id": "aka2026vaepsr",
-      "lon": -147.498,
-      "lat": 64.74,
-      "depth": 15.7,
-      "mag": 1,
-      "place": "6 km SSE of Badger, Alaska",
-      "time": 1792775053572,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vaepsr"
     }
   ]
 }
