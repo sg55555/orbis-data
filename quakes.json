@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-24T06:31:01Z",
-  "count": 244,
+  "updated": "2026-10-24T06:45:40Z",
+  "count": 241,
   "points": [
     {
+      "id": "ci41351583",
+      "lon": -116.271333333333,
+      "lat": 33.2905,
+      "depth": 7.37,
+      "mag": 1.09,
+      "place": "10 km ENE of Borrego Springs, CA",
+      "time": 1792823496660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351583"
+    },
+    {
       "id": "aka2026vbfltq",
-      "lon": -153.117,
-      "lat": 60.125,
-      "depth": 154,
-      "mag": 1.4,
-      "place": "66 km NE of Pedro Bay, Alaska",
-      "time": 1792823354775,
+      "lon": -153.031,
+      "lat": 60.176,
+      "depth": 151.5,
+      "mag": 2.1,
+      "place": "71 km E of Port Alsworth, Alaska",
+      "time": 1792823355297,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vbfltq"
     },
     {
@@ -2402,46 +2412,6 @@
       "place": "7 km WSW of Sunrise, Alaska",
       "time": 1792738703877,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzkklb"
-    },
-    {
-      "id": "us6000u4ah",
-      "lon": -159.6369,
-      "lat": 54.5978,
-      "depth": 36.905,
-      "mag": 4.2,
-      "place": "99 km SSE of Sand Point, Alaska",
-      "time": 1792737889518,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ah"
-    },
-    {
-      "id": "aka2026uzjwle",
-      "lon": -155.251,
-      "lat": 57.794,
-      "depth": 82,
-      "mag": 1.3,
-      "place": "53 km WNW of Karluk, Alaska",
-      "time": 1792737735942,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzjwle"
-    },
-    {
-      "id": "ci41350911",
-      "lon": -117.208166666667,
-      "lat": 34.0028333333333,
-      "depth": 14.73,
-      "mag": 0.69,
-      "place": "6 km SSW of Redlands, CA",
-      "time": 1792737528860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350911"
-    },
-    {
-      "id": "us6000u4ag",
-      "lon": 147.8479,
-      "lat": -6.3846,
-      "depth": 64.562,
-      "mag": 4.4,
-      "place": "19 km N of Finschhafen, Papua New Guinea",
-      "time": 1792737282853,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ag"
     }
   ]
 }
