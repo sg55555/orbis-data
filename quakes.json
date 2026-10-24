@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-24T17:15:48Z",
-  "count": 201,
+  "updated": "2026-10-24T17:30:58Z",
+  "count": 198,
   "points": [
+    {
+      "id": "aka2026vcazks",
+      "lon": -150.833,
+      "lat": 63.083,
+      "depth": 126.8,
+      "mag": 2.1,
+      "place": "65 km N of Petersville, Alaska",
+      "time": 1792862085127,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vcazks"
+    },
     {
       "id": "hv75063291",
       "lon": -155.024337768555,
@@ -12,6 +22,16 @@
       "place": "29 km SSE of Fern Forest, Hawaii",
       "time": 1792861710390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75063291"
+    },
+    {
+      "id": "us6000u4n8",
+      "lon": 165.9365,
+      "lat": -14.2056,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "153 km NW of Port-Olry, Vanuatu",
+      "time": 1792860855523,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4n8"
     },
     {
       "id": "ci41351815",
@@ -1962,56 +1982,6 @@
       "place": "17 km WNW of Point MacKenzie, Alaska",
       "time": 1792776788371,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vafoia"
-    },
-    {
-      "id": "nc75453936",
-      "lon": -123.371170043945,
-      "lat": 39.5713348388672,
-      "depth": 7.44000005722046,
-      "mag": 1.69,
-      "place": "14 km N of Brooktrails, CA",
-      "time": 1792776460610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453936"
-    },
-    {
-      "id": "hv75062876",
-      "lon": -155.491165161133,
-      "lat": 19.1283340454102,
-      "depth": 30.5599994659424,
-      "mag": 2.31,
-      "place": "8 km S of Pāhala, Hawaii",
-      "time": 1792776362420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75062876"
-    },
-    {
-      "id": "nc75453931",
-      "lon": -123.369003295898,
-      "lat": 39.5750007629395,
-      "depth": 7.40000009536743,
-      "mag": 1.7,
-      "place": "15 km N of Brooktrails, CA",
-      "time": 1792776128920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453931"
-    },
-    {
-      "id": "aka2026vafeev",
-      "lon": -153.21,
-      "lat": 59.946,
-      "depth": 33,
-      "mag": 0.9,
-      "place": "53 km ENE of Pedro Bay, Alaska",
-      "time": 1792776061126,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vafeev"
-    },
-    {
-      "id": "nc75453926",
-      "lon": -122.796165466309,
-      "lat": 38.8188323974609,
-      "depth": 2.4300000667572,
-      "mag": 0.51,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1792775778590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453926"
     }
   ]
 }
