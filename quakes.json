@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-24T16:15:42Z",
-  "count": 208,
+  "updated": "2026-10-24T16:31:03Z",
+  "count": 205,
   "points": [
+    {
+      "id": "ci41351815",
+      "lon": -116.339333333333,
+      "lat": 33.3588333333333,
+      "depth": 11.41,
+      "mag": 0.88,
+      "place": "12 km NNE of Borrego Springs, CA",
+      "time": 1792858605000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351815"
+    },
     {
       "id": "aka2026vbyigb",
       "lon": -144.492,
@@ -2042,46 +2052,6 @@
       "place": "32 km NNW of Beluga, Alaska",
       "time": 1792773456854,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vadsok"
-    },
-    {
-      "id": "nc75453911",
-      "lon": -122.331665039062,
-      "lat": 38.5694999694824,
-      "depth": 2,
-      "mag": 1.12,
-      "place": "10 km E of Angwin, CA",
-      "time": 1792772920870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453911"
-    },
-    {
-      "id": "nc75453906",
-      "lon": -122.764503479004,
-      "lat": 38.8001670837402,
-      "depth": 0.670000016689301,
-      "mag": 0.93,
-      "place": "3 km NNW of The Geysers, CA",
-      "time": 1792772732930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453906"
-    },
-    {
-      "id": "nc75453901",
-      "lon": -122.779830932617,
-      "lat": 38.8023338317871,
-      "depth": 1.60000002384186,
-      "mag": 1.03,
-      "place": "3 km NW of The Geysers, CA",
-      "time": 1792772255610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453901"
-    },
-    {
-      "id": "aka2026vadaqs",
-      "lon": -150.489,
-      "lat": 61.946,
-      "depth": 57.1,
-      "mag": 1.6,
-      "place": "32 km NW of Willow, Alaska",
-      "time": 1792772211244,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vadaqs"
     }
   ]
 }
