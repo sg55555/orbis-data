@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-24T07:31:00Z",
+  "updated": "2026-10-24T07:45:42Z",
   "count": 242,
   "points": [
+    {
+      "id": "us6000u4kz",
+      "lon": -92.7995,
+      "lat": 14.1588,
+      "depth": 35,
+      "mag": 4.4,
+      "place": "74 km SSW of Puerto Madero, Mexico",
+      "time": 1792827084597,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kz"
+    },
     {
       "id": "ci41351607",
       "lon": -116.051666666667,
@@ -32,6 +42,16 @@
       "place": "19 km ESE of Anza, CA",
       "time": 1792825248750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351591"
+    },
+    {
+      "id": "us6000u4kw",
+      "lon": 165.7268,
+      "lat": -13.8532,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "195 km NW of Port-Olry, Vanuatu",
+      "time": 1792825083586,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kw"
     },
     {
       "id": "us6000u4ku",
@@ -2402,26 +2422,6 @@
       "place": "14 km S of Volcano, Hawaii",
       "time": 1792741582080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75062626"
-    },
-    {
-      "id": "nc75453751",
-      "lon": -122.824836730957,
-      "lat": 38.824333190918,
-      "depth": 2.54999995231628,
-      "mag": 0.23,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1792741510850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453751"
-    },
-    {
-      "id": "aka2026uzlqfq",
-      "lon": -148.135,
-      "lat": 61.113,
-      "depth": 0.3,
-      "mag": 1.5,
-      "place": "48 km NE of Whittier, Alaska",
-      "time": 1792740904451,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzlqfq"
     }
   ]
 }
