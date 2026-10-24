@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-24T12:01:13Z",
-  "count": 229,
+  "updated": "2026-10-24T12:15:41Z",
+  "count": 228,
   "points": [
+    {
+      "id": "us6000u4m9",
+      "lon": 122.0872,
+      "lat": 19.805,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "72 km S of Basco, Philippines",
+      "time": 1792842488678,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m9"
+    },
     {
       "id": "nc75454201",
       "lon": -121.274833679199,
@@ -2272,26 +2282,6 @@
       "place": "22 km WNW of Volcano, Hawaii",
       "time": 1792757924380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75062691"
-    },
-    {
-      "id": "nc75453831",
-      "lon": -122.854667663574,
-      "lat": 38.8273315429688,
-      "depth": 2.79999995231628,
-      "mag": 0.53,
-      "place": "10 km WNW of The Geysers, CA",
-      "time": 1792757445670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453831"
-    },
-    {
-      "id": "nc75453826",
-      "lon": -122.823997497559,
-      "lat": 38.8413314819336,
-      "depth": 1.74000000953674,
-      "mag": 1.22,
-      "place": "9 km WNW of Cobb, CA",
-      "time": 1792757091700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453826"
     }
   ]
 }
