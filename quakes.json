@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-24T15:31:00Z",
-  "count": 212,
+  "updated": "2026-10-24T15:45:41Z",
+  "count": 211,
   "points": [
+    {
+      "id": "ci41351799",
+      "lon": -116.033,
+      "lat": 33.0585,
+      "depth": 9.14,
+      "mag": 0.97,
+      "place": "13 km SE of Ocotillo Wells, CA",
+      "time": 1792855981120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351799"
+    },
+    {
+      "id": "us6000u4mn",
+      "lon": 7.0149,
+      "lat": -54.0304,
+      "depth": 12.486,
+      "mag": 5.8,
+      "place": "Bouvet Island region",
+      "time": 1792855459882,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mn"
+    },
     {
       "id": "nc75454236",
       "lon": -122.799835205078,
@@ -572,16 +592,6 @@
       "place": "8 km E of Ocotillo Wells, CA",
       "time": 1792825319710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351607"
-    },
-    {
-      "id": "ci41351599",
-      "lon": -116.168166666667,
-      "lat": 33.0616666666667,
-      "depth": 1.9,
-      "mag": 1.01,
-      "place": "10 km SSW of Ocotillo Wells, CA",
-      "time": 1792825313700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351599"
     },
     {
       "id": "ci41351591",
@@ -1154,16 +1164,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454056"
     },
     {
-      "id": "ci41351511",
-      "lon": -116.651833333333,
-      "lat": 32.9831666666667,
-      "depth": 21.36,
-      "mag": 0.72,
-      "place": "12 km SSW of Julian, CA",
-      "time": 1792806250200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351511"
-    },
-    {
       "id": "aka2026vavwte",
       "lon": -170.171,
       "lat": 52.015,
@@ -1522,6 +1522,16 @@
       "place": "4 km NE of Santa Rosa, CA",
       "time": 1792789276790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453986"
+    },
+    {
+      "id": "us6000u4gs",
+      "lon": 121.9479,
+      "lat": 23.7861,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "40 km ESE of Hualien City, Taiwan",
+      "time": 1792789081491,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4gs"
     },
     {
       "id": "us6000u4gm",
@@ -2102,26 +2112,6 @@
       "place": "3 km SSW of Pāhala, Hawaii",
       "time": 1792770750590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75062811"
-    },
-    {
-      "id": "aka2026vabwtg",
-      "lon": -152.516,
-      "lat": 59.366,
-      "depth": 90.1,
-      "mag": 1.9,
-      "place": "33 km W of Nanwalek, Alaska",
-      "time": 1792770156280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vabwtg"
-    },
-    {
-      "id": "us6000u4dx",
-      "lon": 14.3074,
-      "lat": 38.8141,
-      "depth": 10,
-      "mag": 4.7,
-      "place": "52 km WNW of Malfa, Italy",
-      "time": 1792769533051,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dx"
     }
   ]
 }
