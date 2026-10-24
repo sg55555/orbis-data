@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-24T08:30:58Z",
+  "updated": "2026-10-24T08:45:41Z",
   "count": 235,
   "points": [
+    {
+      "id": "ci41351623",
+      "lon": -117.686,
+      "lat": 34.3951666666667,
+      "depth": 4.23,
+      "mag": 0.91,
+      "place": "6 km SW of Pinon Hills, CA",
+      "time": 1792831243850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351623"
+    },
     {
       "id": "ci41351615",
       "lon": -116.585166666667,
@@ -22,6 +32,16 @@
       "place": "19 km SE of Pāhala, Hawaii",
       "time": 1792830386990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75063171"
+    },
+    {
+      "id": "us6000u4l9",
+      "lon": 165.4664,
+      "lat": -13.833,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "218 km NW of Port-Olry, Vanuatu",
+      "time": 1792830166296,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4l9"
     },
     {
       "id": "nc75454171",
@@ -2332,26 +2352,6 @@
       "place": "40 km SSE of Glacier View, Alaska",
       "time": 1792745623581,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzogks"
-    },
-    {
-      "id": "uw714124792",
-      "lon": -123.241833333333,
-      "lat": 45.3973333333333,
-      "depth": 11.23,
-      "mag": 1.03,
-      "place": "7 km NW of Yamhill, Oregon",
-      "time": 1792745058430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714124792"
-    },
-    {
-      "id": "aka2026uznwwc",
-      "lon": -152.219,
-      "lat": 61.351,
-      "depth": 5,
-      "mag": 0.4,
-      "place": "65 km WNW of Beluga, Alaska",
-      "time": 1792744959895,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uznwwc"
     }
   ]
 }
