@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-25T05:01:09Z",
-  "count": 187,
+  "updated": "2026-10-25T05:13:41Z",
+  "count": 185,
   "points": [
+    {
+      "id": "nc75454536",
+      "lon": -122.789169311523,
+      "lat": 39.3338317871094,
+      "depth": 9.01000022888184,
+      "mag": 1.78,
+      "place": "17 km ESE of Lake Pillsbury, CA",
+      "time": 1792904591360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454536"
+    },
     {
       "id": "aka2026vcydkn",
       "lon": -150.214,
@@ -12,6 +22,16 @@
       "place": "53 km N of Chase, Alaska",
       "time": 1792903743059,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vcydkn"
+    },
+    {
+      "id": "pr71537588",
+      "lon": -65.0905,
+      "lat": 18.8453333333333,
+      "depth": 51.73,
+      "mag": 3.21,
+      "place": "58 km NNW of Charlotte Amalie, U.S. Virgin Islands",
+      "time": 1792902925760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537588"
     },
     {
       "id": "aka2026vcxkym",
@@ -1832,46 +1852,6 @@
       "place": "93 km WNW of Yakutat, Alaska",
       "time": 1792818946206,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vbdaai"
-    },
-    {
-      "id": "aka2026vbcwkr",
-      "lon": -147.223,
-      "lat": 61.153,
-      "depth": 5,
-      "mag": 1.9,
-      "place": "43 km NW of Tatitlek, Alaska",
-      "time": 1792818702441,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vbcwkr"
-    },
-    {
-      "id": "us6000u4k5",
-      "lon": 165.3365,
-      "lat": -14.0054,
-      "depth": 10,
-      "mag": 4.8,
-      "place": "219 km WNW of Port-Olry, Vanuatu",
-      "time": 1792818634753,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k5"
-    },
-    {
-      "id": "aka2026vbcpgv",
-      "lon": -150.508,
-      "lat": 63.207,
-      "depth": 123.1,
-      "mag": 2.8,
-      "place": "71 km ESE of Denali National Park, Alaska",
-      "time": 1792818202377,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vbcpgv"
-    },
-    {
-      "id": "nc75454131",
-      "lon": -122.737503051758,
-      "lat": 38.7973327636719,
-      "depth": 2,
-      "mag": 1.33,
-      "place": "3 km NE of The Geysers, CA",
-      "time": 1792818178920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454131"
     }
   ]
 }
