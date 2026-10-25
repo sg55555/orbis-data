@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-25T06:30:56Z",
+  "updated": "2026-10-25T06:45:40Z",
   "count": 184,
   "points": [
+    {
+      "id": "ci41352087",
+      "lon": -116.043998718262,
+      "lat": 33.1593322753906,
+      "depth": 3.24000000953674,
+      "mag": 1.12621825393392,
+      "place": "8 km ENE of Ocotillo Wells, CA",
+      "time": 1792910584520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352087"
+    },
     {
       "id": "hv75063491",
       "lon": -155.494827270508,
@@ -12,6 +22,16 @@
       "place": "3 km SSW of Pāhala, Hawaii",
       "time": 1792909078270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75063491"
+    },
+    {
+      "id": "us6000u4sv",
+      "lon": 141.8415,
+      "lat": 37.849,
+      "depth": 52.782,
+      "mag": 4.5,
+      "place": "74 km SSE of Onagawa Chō, Japan",
+      "time": 1792908262644,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sv"
     },
     {
       "id": "hv75063486",
@@ -1822,26 +1842,6 @@
       "place": "24 km ESE of Isabel Segunda, Puerto Rico",
       "time": 1792824572460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537553"
-    },
-    {
-      "id": "us6000u4kq",
-      "lon": 167.3063,
-      "lat": -14.5918,
-      "depth": 194.632,
-      "mag": 5.5,
-      "place": "55 km NNE of Port-Olry, Vanuatu",
-      "time": 1792824189602,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kq"
-    },
-    {
-      "id": "ci41351583",
-      "lon": -116.271333333333,
-      "lat": 33.2905,
-      "depth": 7.37,
-      "mag": 1.09,
-      "place": "10 km ENE of Borrego Springs, CA",
-      "time": 1792823496660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351583"
     }
   ]
 }
