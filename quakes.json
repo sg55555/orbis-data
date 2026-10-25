@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-25T03:15:42Z",
-  "count": 196,
+  "updated": "2026-10-25T03:31:00Z",
+  "count": 193,
   "points": [
+    {
+      "id": "hv75063441",
+      "lon": -155.09700012207,
+      "lat": 19.3430004119873,
+      "depth": -0.109999999403954,
+      "mag": 1.78,
+      "place": "14 km SSE of Fern Forest, Hawaii",
+      "time": 1792898335790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75063441"
+    },
     {
       "id": "nc75454516",
       "lon": -122.608169555664,
@@ -1922,46 +1932,6 @@
       "place": "2 km WNW of Fuig, Puerto Rico",
       "time": 1792812892380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537543"
-    },
-    {
-      "id": "hv75063106",
-      "lon": -155.5105,
-      "lat": 19.2516666666667,
-      "depth": 7.16,
-      "mag": 1.91,
-      "place": "6 km NNW of Pāhala, Hawaii",
-      "time": 1792812553350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75063106"
-    },
-    {
-      "id": "hv75063101",
-      "lon": -155.509333333333,
-      "lat": 19.2393333333333,
-      "depth": 6.38,
-      "mag": 1.84,
-      "place": "5 km NW of Pāhala, Hawaii",
-      "time": 1792812470580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75063101"
-    },
-    {
-      "id": "nc75454101",
-      "lon": -122.824333190918,
-      "lat": 38.8421669006348,
-      "depth": 1.82000005245209,
-      "mag": 0.67,
-      "place": "9 km WNW of Cobb, CA",
-      "time": 1792811984790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454101"
-    },
-    {
-      "id": "us6000u4jl",
-      "lon": 165.6161,
-      "lat": -13.8805,
-      "depth": 10,
-      "mag": 5.2,
-      "place": "202 km NW of Port-Olry, Vanuatu",
-      "time": 1792811875755,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jl"
     }
   ]
 }
