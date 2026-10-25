@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-25T20:31:00Z",
-  "count": 201,
+  "updated": "2026-10-25T20:45:03Z",
+  "count": 197,
   "points": [
+    {
+      "id": "ci41352471",
+      "lon": -116.1318359375,
+      "lat": 33.8508338928223,
+      "depth": 2.6800000667572,
+      "mag": 1.12655424884281,
+      "place": "16 km NNE of Indio, CA",
+      "time": 1792960858910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352471"
+    },
     {
       "id": "aka2026veddpn",
       "lon": -141.241,
@@ -45,12 +55,12 @@
     },
     {
       "id": "ci41352447",
-      "lon": -116.713833333333,
-      "lat": 33.5315,
-      "depth": 4.66,
-      "mag": 1.68,
+      "lon": -116.714166666667,
+      "lat": 33.5316666666667,
+      "depth": 4.57,
+      "mag": 1.6,
       "place": "5 km SW of Anza, CA",
-      "time": 1792957954310,
+      "time": 1792957954290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352447"
     },
     {
@@ -1962,56 +1972,6 @@
       "place": "7 km W of Cobb, CA",
       "time": 1792875040400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454341"
-    },
-    {
-      "id": "nc75454326",
-      "lon": -122.804496765137,
-      "lat": 38.8316650390625,
-      "depth": 1.75999999046326,
-      "mag": 2.28,
-      "place": "7 km W of Cobb, CA",
-      "time": 1792874364930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454326"
-    },
-    {
-      "id": "nc75454321",
-      "lon": -122.803169250488,
-      "lat": 38.8334999084473,
-      "depth": 1.99000000953674,
-      "mag": 2.52,
-      "place": "7 km W of Cobb, CA",
-      "time": 1792874357770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454321"
-    },
-    {
-      "id": "us6000u4pa",
-      "lon": 159.1963,
-      "lat": 52.1565,
-      "depth": 70.184,
-      "mag": 5.3,
-      "place": "101 km SSE of Vilyuchinsk, Russia",
-      "time": 1792874104576,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pa"
-    },
-    {
-      "id": "uw714127422",
-      "lon": -122.192337036133,
-      "lat": 46.2108345031738,
-      "depth": 6.53000020980835,
-      "mag": 1.42999995,
-      "place": "38 km NNE of Amboy, Washington",
-      "time": 1792874066000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714127422"
-    },
-    {
-      "id": "uw714127412",
-      "lon": -122.189666748047,
-      "lat": 46.2091674804688,
-      "depth": 6.53000020980835,
-      "mag": 1.33000004,
-      "place": "38 km NNE of Amboy, Washington",
-      "time": 1792874013970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714127412"
     }
   ]
 }
