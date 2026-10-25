@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-25T11:15:43Z",
-  "count": 179,
+  "updated": "2026-10-25T11:36:45Z",
+  "count": 177,
   "points": [
+    {
+      "id": "ci41352135",
+      "lon": -116.709666666667,
+      "lat": 33.5396666666667,
+      "depth": 6.13,
+      "mag": 0.11,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1792927803280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352135"
+    },
     {
       "id": "pr71537633",
       "lon": -63.9966666666667,
@@ -1762,36 +1772,6 @@
       "place": "16 km NW of Pinnacles, CA",
       "time": 1792842153120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454201"
-    },
-    {
-      "id": "ci41351695",
-      "lon": -118.146166666667,
-      "lat": 35.5611666666667,
-      "depth": 4.66,
-      "mag": 1.82,
-      "place": "30 km ESE of Lake Isabella, CA",
-      "time": 1792841701680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351695"
-    },
-    {
-      "id": "us6000u4m7",
-      "lon": -77.7768,
-      "lat": -1.6316,
-      "depth": 181.216,
-      "mag": 4.2,
-      "place": "22 km ENE of Palora, Ecuador",
-      "time": 1792841445048,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m7"
-    },
-    {
-      "id": "us6000u4m6",
-      "lon": 51.5108,
-      "lat": 13.3207,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "148 km NNW of Kilmia, Yemen",
-      "time": 1792840827157,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m6"
     }
   ]
 }
