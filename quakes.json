@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-25T15:01:11Z",
+  "updated": "2026-10-25T15:15:45Z",
   "count": 189,
   "points": [
+    {
+      "id": "ci41352271",
+      "lon": -116.556166666667,
+      "lat": 33.144,
+      "depth": 5.63,
+      "mag": 0.7,
+      "place": "8 km NNE of Julian, CA",
+      "time": 1792941065780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352271"
+    },
     {
       "id": "aka2026vdrymb",
       "lon": -150.813,
@@ -1254,6 +1264,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qm"
     },
     {
+      "id": "ci41351983",
+      "lon": -116.706666666667,
+      "lat": 33.5385,
+      "depth": 6.25,
+      "mag": 0.16,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1792884643350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351983"
+    },
+    {
       "id": "nc75454431",
       "lon": -118.61499786377,
       "lat": 37.4136657714844,
@@ -1872,26 +1892,6 @@
       "place": "217 km NW of Port-Olry, Vanuatu",
       "time": 1792855165185,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mm"
-    },
-    {
-      "id": "nc75454236",
-      "lon": -122.799835205078,
-      "lat": 38.8343315124512,
-      "depth": 2.35999989509583,
-      "mag": 0.75,
-      "place": "7 km WNW of Cobb, CA",
-      "time": 1792854818550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454236"
-    },
-    {
-      "id": "us6000u4ml",
-      "lon": 165.5148,
-      "lat": -13.8267,
-      "depth": 10,
-      "mag": 4.8,
-      "place": "215 km NW of Port-Olry, Vanuatu",
-      "time": 1792854460810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ml"
     }
   ]
 }
