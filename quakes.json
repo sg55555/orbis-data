@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-25T15:45:43Z",
-  "count": 191,
+  "updated": "2026-10-25T16:01:10Z",
+  "count": 188,
   "points": [
     {
       "id": "aka2026vdtxpd",
@@ -25,12 +25,12 @@
     },
     {
       "id": "ci41352279",
-      "lon": -115.443666666667,
-      "lat": 32.4128333333333,
-      "depth": 10.15,
-      "mag": 1.62,
-      "place": "19 km SSW of Puebla, B.C., MX",
-      "time": 1792941231520,
+      "lon": -115.4585,
+      "lat": 32.4936666666667,
+      "depth": 15.87,
+      "mag": 1.59,
+      "place": "13 km SW of Puebla, B.C., MX",
+      "time": 1792941232380,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352279"
     },
     {
@@ -1004,6 +1004,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454511"
     },
     {
+      "id": "ci41352055",
+      "lon": -117.526,
+      "lat": 34.225,
+      "depth": 7.96,
+      "mag": 0.73,
+      "place": "5 km SSW of Lytle Creek, CA",
+      "time": 1792895937020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352055"
+    },
+    {
       "id": "us6000u4rr",
       "lon": 139.7389,
       "lat": 27.6872,
@@ -1872,46 +1882,6 @@
       "place": "12 km NNE of Borrego Springs, CA",
       "time": 1792858604960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351815"
-    },
-    {
-      "id": "aka2026vbyigb",
-      "lon": -144.492,
-      "lat": 69.02,
-      "depth": 1.7,
-      "mag": 2.7,
-      "place": "108 km NNE of Arctic Village, Alaska",
-      "time": 1792857264778,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vbyigb"
-    },
-    {
-      "id": "aka2026vbygsk",
-      "lon": -152.411,
-      "lat": 60.27,
-      "depth": 87.3,
-      "mag": 1.5,
-      "place": "47 km WNW of Ninilchik, Alaska",
-      "time": 1792857193300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vbygsk"
-    },
-    {
-      "id": "nn00926195",
-      "lon": -118.0106,
-      "lat": 38.133,
-      "depth": 6.2644,
-      "mag": 1.91,
-      "place": "29 km SSE of Mina, Nevada",
-      "time": 1792857071285,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926195"
-    },
-    {
-      "id": "us6000u4my",
-      "lon": 165.1696,
-      "lat": -13.9412,
-      "depth": 10,
-      "mag": 4.7,
-      "place": "238 km WNW of Port-Olry, Vanuatu",
-      "time": 1792856747533,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4my"
     }
   ]
 }
