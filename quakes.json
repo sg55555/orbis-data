@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-25T06:45:40Z",
-  "count": 184,
+  "updated": "2026-10-25T07:01:12Z",
+  "count": 183,
   "points": [
     {
+      "id": "nc75454586",
+      "lon": -122.768165588379,
+      "lat": 38.7961654663086,
+      "depth": -0.379999995231628,
+      "mag": 1.7,
+      "place": "2 km NNW of The Geysers, CA",
+      "time": 1792911289830,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454586"
+    },
+    {
+      "id": "nc75454581",
+      "lon": -122.770332336426,
+      "lat": 38.7953338623047,
+      "depth": -0.0299999993294477,
+      "mag": 1.89,
+      "place": "2 km NNW of The Geysers, CA",
+      "time": 1792911280130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454581"
+    },
+    {
       "id": "ci41352087",
-      "lon": -116.043998718262,
-      "lat": 33.1593322753906,
-      "depth": 3.24000000953674,
-      "mag": 1.12621825393392,
-      "place": "8 km ENE of Ocotillo Wells, CA",
-      "time": 1792910584520,
+      "lon": -116.042333333333,
+      "lat": 33.1575,
+      "depth": 3.98,
+      "mag": 0.99,
+      "place": "8 km E of Ocotillo Wells, CA",
+      "time": 1792910584560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352087"
     },
     {
@@ -1812,36 +1832,6 @@
       "place": "19 km ESE of Anza, CA",
       "time": 1792825248750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351591"
-    },
-    {
-      "id": "us6000u4kw",
-      "lon": 165.7268,
-      "lat": -13.8532,
-      "depth": 10,
-      "mag": 4.7,
-      "place": "195 km NW of Port-Olry, Vanuatu",
-      "time": 1792825083586,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kw"
-    },
-    {
-      "id": "us6000u4ku",
-      "lon": 165.4237,
-      "lat": -13.8777,
-      "depth": 10,
-      "mag": 5,
-      "place": "219 km NW of Port-Olry, Vanuatu",
-      "time": 1792824724142,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ku"
-    },
-    {
-      "id": "pr71537553",
-      "lon": -65.2341666666667,
-      "lat": 18.0613333333333,
-      "depth": 152.34,
-      "mag": 3.3,
-      "place": "24 km ESE of Isabel Segunda, Puerto Rico",
-      "time": 1792824572460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537553"
     }
   ]
 }
