@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-25T11:01:12Z",
-  "count": 180,
+  "updated": "2026-10-25T11:15:43Z",
+  "count": 179,
   "points": [
+    {
+      "id": "pr71537633",
+      "lon": -63.9966666666667,
+      "lat": 18.1245,
+      "depth": 12.83,
+      "mag": 3.37,
+      "place": "85 km ENE of Christiansted, U.S. Virgin Islands",
+      "time": 1792925736700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537633"
+    },
     {
       "id": "ci41352127",
       "lon": -116.394666666667,
@@ -72,6 +82,16 @@
       "place": "37 km W of Tatitlek, Alaska",
       "time": 1792922342908,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdimfa"
+    },
+    {
+      "id": "us6000u4tj",
+      "lon": -108.7794,
+      "lat": 44.8682,
+      "depth": 11.619,
+      "mag": 2.5,
+      "place": "12 km N of Powell, Wyoming",
+      "time": 1792921090644,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tj"
     },
     {
       "id": "us6000u4tf",
@@ -1772,36 +1792,6 @@
       "place": "148 km NNW of Kilmia, Yemen",
       "time": 1792840827157,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m6"
-    },
-    {
-      "id": "ci41351679",
-      "lon": -117.847666666667,
-      "lat": 36.0705,
-      "depth": 2,
-      "mag": 1.87,
-      "place": "9 km ENE of Coso Junction, CA",
-      "time": 1792840469140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351679"
-    },
-    {
-      "id": "us6000u4m5",
-      "lon": 165.7345,
-      "lat": -13.8212,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "196 km W of Sola, Vanuatu",
-      "time": 1792840440121,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m5"
-    },
-    {
-      "id": "nc75454186",
-      "lon": -118.830665588379,
-      "lat": 37.4496650695801,
-      "depth": -1.41999995708466,
-      "mag": 1.73,
-      "place": "18 km SW of Toms Place, CA",
-      "time": 1792839670420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454186"
     }
   ]
 }
