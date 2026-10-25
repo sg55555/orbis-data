@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-25T05:31:00Z",
+  "updated": "2026-10-25T05:45:40Z",
   "count": 185,
   "points": [
+    {
+      "id": "aka2026vczpgn",
+      "lon": -151.591,
+      "lat": 61.393,
+      "depth": 78.9,
+      "mag": 1.4,
+      "place": "39 km NW of Beluga, Alaska",
+      "time": 1792906361638,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vczpgn"
+    },
     {
       "id": "nc75454546",
       "lon": -121.40266418457,
@@ -22,6 +32,26 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1792905794700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454541"
+    },
+    {
+      "id": "us6000u4sm",
+      "lon": 21.0112,
+      "lat": 37.6512,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "17 km SE of Ambelókipoi, Greece",
+      "time": 1792905344196,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sm"
+    },
+    {
+      "id": "pr71537623",
+      "lon": -65.1056666666667,
+      "lat": 18.9616666666667,
+      "depth": 43.57,
+      "mag": 3.13,
+      "place": "71 km NNW of Charlotte Amalie, U.S. Virgin Islands",
+      "time": 1792905074080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537623"
     },
     {
       "id": "nc75454536",
@@ -1822,36 +1852,6 @@
       "place": "42 km NNW of Petersville, Alaska",
       "time": 1792821007344,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vbeduv"
-    },
-    {
-      "id": "nc75454141",
-      "lon": -122.808670043945,
-      "lat": 38.8393325805664,
-      "depth": 2.29999995231628,
-      "mag": 0.23,
-      "place": "8 km WNW of Cobb, CA",
-      "time": 1792820422870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454141"
-    },
-    {
-      "id": "us6000u4kh",
-      "lon": 165.8047,
-      "lat": -14.051,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "175 km NW of Port-Olry, Vanuatu",
-      "time": 1792820266052,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kh"
-    },
-    {
-      "id": "us6000u4ke",
-      "lon": 165.7483,
-      "lat": -13.9786,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "184 km NW of Port-Olry, Vanuatu",
-      "time": 1792820154921,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ke"
     }
   ]
 }
