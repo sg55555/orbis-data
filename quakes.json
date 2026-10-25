@@ -1,17 +1,37 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-25T20:45:03Z",
-  "count": 197,
+  "updated": "2026-10-25T21:04:54Z",
+  "count": 195,
   "points": [
     {
       "id": "ci41352471",
-      "lon": -116.1318359375,
-      "lat": 33.8508338928223,
-      "depth": 2.6800000667572,
-      "mag": 1.12655424884281,
+      "lon": -116.135666666667,
+      "lat": 33.8465,
+      "depth": 1.81,
+      "mag": 1,
       "place": "16 km NNE of Indio, CA",
-      "time": 1792960858910,
+      "time": 1792960858890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352471"
+    },
+    {
+      "id": "us6000u4vz",
+      "lon": -107.8326,
+      "lat": 39.8786,
+      "depth": 8.093,
+      "mag": 2.8,
+      "place": "18 km SSE of Meeker, Colorado",
+      "time": 1792960554777,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4vz"
+    },
+    {
+      "id": "us6000u4vy",
+      "lon": 165.7734,
+      "lat": -14.2065,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "167 km WNW of Port-Olry, Vanuatu",
+      "time": 1792960242515,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4vy"
     },
     {
       "id": "aka2026veddpn",
@@ -1932,46 +1952,6 @@
       "place": "6 km NNE of San Bernardino, CA",
       "time": 1792875971690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351911"
-    },
-    {
-      "id": "ci41351903",
-      "lon": -115.5695,
-      "lat": 32.6308333333333,
-      "depth": 7.17,
-      "mag": 1.71,
-      "place": "6 km NNE of Progreso, B.C., MX",
-      "time": 1792875786860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351903"
-    },
-    {
-      "id": "us6000u4pq",
-      "lon": -80.3538,
-      "lat": -4.0944,
-      "depth": 67.723,
-      "mag": 4.1,
-      "place": "37 km ESE of Cañaveral, Peru",
-      "time": 1792875423106,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pq"
-    },
-    {
-      "id": "nc75454346",
-      "lon": -122.759666442871,
-      "lat": 38.7804985046387,
-      "depth": 1.5,
-      "mag": 0.35,
-      "place": "0 km NW of The Geysers, CA",
-      "time": 1792875192490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454346"
-    },
-    {
-      "id": "nc75454341",
-      "lon": -122.805999755859,
-      "lat": 38.8331680297852,
-      "depth": 2.28999996185303,
-      "mag": 0.73,
-      "place": "7 km W of Cobb, CA",
-      "time": 1792875040400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454341"
     }
   ]
 }
