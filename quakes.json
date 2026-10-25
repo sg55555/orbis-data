@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-25T12:31:00Z",
-  "count": 181,
+  "updated": "2026-10-25T12:45:42Z",
+  "count": 182,
   "points": [
+    {
+      "id": "ci41352143",
+      "lon": -117.264333333333,
+      "lat": 33.9715,
+      "depth": 11.05,
+      "mag": 0.57,
+      "place": "6 km NNW of Moreno Valley, CA",
+      "time": 1792931447330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352143"
+    },
     {
       "id": "nc75454646",
       "lon": -122.765502929688,
@@ -582,6 +592,16 @@
       "place": "53 km N of Chase, Alaska",
       "time": 1792903743059,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vcydkn"
+    },
+    {
+      "id": "pr71537598",
+      "lon": -65.1888333333333,
+      "lat": 18.8851666666667,
+      "depth": 33.84,
+      "mag": 3.22,
+      "place": "65 km N of Culebra, Puerto Rico",
+      "time": 1792903265910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537598"
     },
     {
       "id": "pr71537588",
@@ -1802,16 +1822,6 @@
       "place": "57 km WNW of Akhiok, Alaska",
       "time": 1792846210012,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vbseab"
-    },
-    {
-      "id": "ci41351703",
-      "lon": -117.966,
-      "lat": 33.646,
-      "depth": 13.15,
-      "mag": 1.46,
-      "place": "5 km NW of Newport Beach, CA",
-      "time": 1792845466560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351703"
     }
   ]
 }
