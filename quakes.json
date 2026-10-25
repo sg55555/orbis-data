@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-25T20:01:08Z",
-  "count": 200,
+  "updated": "2026-10-25T20:15:41Z",
+  "count": 199,
   "points": [
+    {
+      "id": "tx2026vasgst",
+      "lon": -97.026,
+      "lat": 29.447,
+      "depth": 2.6605,
+      "mag": 2.7,
+      "place": "8 km W of Hallettsville, Texas",
+      "time": 1792958069501,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vasgst"
+    },
     {
       "id": "ci41352447",
       "lon": -116.713833333333,
@@ -425,12 +435,12 @@
     },
     {
       "id": "ci41352255",
-      "lon": -118.526333333333,
-      "lat": 35.4976666666667,
-      "depth": 1.93,
-      "mag": 1.23,
-      "place": "11 km SSW of Bodfish, CA",
-      "time": 1792938960010,
+      "lon": -118.525666666667,
+      "lat": 35.4991666666667,
+      "depth": 3.73,
+      "mag": 1.28,
+      "place": "10 km SSW of Bodfish, CA",
+      "time": 1792938960140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352255"
     },
     {
@@ -525,12 +535,12 @@
     },
     {
       "id": "ci41352207",
-      "lon": -116.716833333333,
-      "lat": 33.5301666666667,
-      "depth": 4.78,
+      "lon": -116.717333333333,
+      "lat": 33.5295,
+      "depth": 6.31,
       "mag": 1,
       "place": "5 km SW of Anza, CA",
-      "time": 1792937080160,
+      "time": 1792937080080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352207"
     },
     {
@@ -1982,26 +1992,6 @@
       "place": "53 km WSW of Petrolia, CA",
       "time": 1792873067640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454316"
-    },
-    {
-      "id": "nc75454311",
-      "lon": -118.82250213623,
-      "lat": 37.5200004577637,
-      "depth": 4.71000003814697,
-      "mag": 1.65,
-      "place": "13 km WSW of Toms Place, CA",
-      "time": 1792872526290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454311"
-    },
-    {
-      "id": "ci41351887",
-      "lon": -116.708,
-      "lat": 33.5381666666667,
-      "depth": 5.87,
-      "mag": 0.34,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1792872349870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351887"
     }
   ]
 }
