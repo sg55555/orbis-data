@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-25T08:30:57Z",
-  "count": 188,
+  "updated": "2026-10-25T08:45:44Z",
+  "count": 186,
   "points": [
     {
+      "id": "nc75454611",
+      "lon": -122.793334960938,
+      "lat": 38.8339996337891,
+      "depth": 2.91000008583069,
+      "mag": 0.98,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1792917524220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454611"
+    },
+    {
       "id": "ci41352119",
-      "lon": -117.151000976562,
-      "lat": 33.8294982910156,
-      "depth": 7.42000007629395,
-      "mag": 1.10369895378427,
-      "place": "3 km N of Nuevo, CA",
-      "time": 1792916817860,
+      "lon": -117.156666666667,
+      "lat": 33.8213333333333,
+      "depth": 5.79,
+      "mag": 0.73,
+      "place": "2 km NNW of Nuevo, CA",
+      "time": 1792916818070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352119"
     },
     {
@@ -1852,36 +1862,6 @@
       "place": "187 km NW of Port-Olry, Vanuatu",
       "time": 1792831555500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ll"
-    },
-    {
-      "id": "ci41351623",
-      "lon": -117.686,
-      "lat": 34.3951666666667,
-      "depth": 4.23,
-      "mag": 0.91,
-      "place": "6 km SW of Pinon Hills, CA",
-      "time": 1792831243850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351623"
-    },
-    {
-      "id": "us6000u4lg",
-      "lon": 94.048,
-      "lat": 32.5629,
-      "depth": 10,
-      "mag": 5.3,
-      "place": "223 km ENE of Nagqu, China",
-      "time": 1792831193139,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lg"
-    },
-    {
-      "id": "us6000u4ld",
-      "lon": -165.0962,
-      "lat": 53.5186,
-      "depth": 35,
-      "mag": 4.5,
-      "place": "81 km SSE of Akutan, Alaska",
-      "time": 1792830828499,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ld"
     }
   ]
 }
