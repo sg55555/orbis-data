@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-26T14:01:14Z",
-  "count": 206,
+  "updated": "2026-10-26T14:15:51Z",
+  "count": 202,
   "points": [
+    {
+      "id": "aka2026vfmqfn",
+      "lon": -141.316,
+      "lat": 61.636,
+      "depth": 5,
+      "mag": 2.8,
+      "place": "88 km ENE of McCarthy, Alaska",
+      "time": 1793023374892,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vfmqfn"
+    },
     {
       "id": "aka2026vfmmfp",
       "lon": -150.836,
@@ -52,6 +62,16 @@
       "place": "11 km E of Julian, CA",
       "time": 1793021418960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352831"
+    },
+    {
+      "id": "uw714127952",
+      "lon": -120.676,
+      "lat": 48.304,
+      "depth": 2.62,
+      "mag": 1.49,
+      "place": "41 km WSW of Winthrop, Washington",
+      "time": 1793021400800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714127952"
     },
     {
       "id": "aka2026vflepg",
@@ -152,6 +172,16 @@
       "place": "10 km WNW of The Geysers, CA",
       "time": 1793017896790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455051"
+    },
+    {
+      "id": "uw714127942",
+      "lon": -121.863666666667,
+      "lat": 47.2256666666667,
+      "depth": 17.54,
+      "mag": 0.77,
+      "place": "9 km ENE of Enumclaw, Washington",
+      "time": 1793017642230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714127942"
     },
     {
       "id": "aka2026vfjjan",
@@ -1545,12 +1575,12 @@
     },
     {
       "id": "uw714127742",
-      "lon": -121.763664245605,
-      "lat": 46.8429985046387,
-      "depth": -0.129999995231628,
-      "mag": 1.91999996,
+      "lon": -121.764,
+      "lat": 46.8435,
+      "depth": 0.24,
+      "mag": 1.02,
       "place": "22 km ENE of Ashford, Washington",
-      "time": 1792956620810,
+      "time": 1792956620790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714127742"
     },
     {
@@ -1992,76 +2022,6 @@
       "place": "41 km WSW of Winthrop, Washington",
       "time": 1792937720440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714127632"
-    },
-    {
-      "id": "ci41352223",
-      "lon": -116.490166666667,
-      "lat": 33.5651666666667,
-      "depth": 11.19,
-      "mag": 0.32,
-      "place": "17 km E of Anza, CA",
-      "time": 1792937681870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352223"
-    },
-    {
-      "id": "ok2026uxso",
-      "lon": -97.3605,
-      "lat": 35.1425,
-      "depth": 15.4,
-      "mag": 1.34,
-      "place": "3 km E of Noble, Oklahoma",
-      "time": 1792937573320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026uxso"
-    },
-    {
-      "id": "ci41352215",
-      "lon": -116.546166666667,
-      "lat": 33.462,
-      "depth": 10.67,
-      "mag": 0.32,
-      "place": "16 km SE of Anza, CA",
-      "time": 1792937421510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352215"
-    },
-    {
-      "id": "nc75454666",
-      "lon": -122.808670043945,
-      "lat": 38.8359985351562,
-      "depth": 2.1800000667572,
-      "mag": 2.13,
-      "place": "8 km WNW of Cobb, CA",
-      "time": 1792937164830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454666"
-    },
-    {
-      "id": "uu80161791",
-      "lon": -112.905666666667,
-      "lat": 38.5151666666667,
-      "depth": 3.18,
-      "mag": 2.46,
-      "place": "16 km NE of Milford, Utah",
-      "time": 1792937131760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161791"
-    },
-    {
-      "id": "ci10259014",
-      "lon": -116.5665,
-      "lat": 33.079,
-      "depth": 7.18,
-      "mag": 0.62,
-      "place": "3 km E of Julian, CA",
-      "time": 1792937095180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10259014"
-    },
-    {
-      "id": "ci41352207",
-      "lon": -116.717333333333,
-      "lat": 33.5295,
-      "depth": 6.31,
-      "mag": 1,
-      "place": "5 km SW of Anza, CA",
-      "time": 1792937080080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352207"
     }
   ]
 }
