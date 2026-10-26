@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-26T00:15:40Z",
-  "count": 194,
+  "updated": "2026-10-26T00:30:59Z",
+  "count": 193,
   "points": [
+    {
+      "id": "hv75063766",
+      "lon": -155.1943359375,
+      "lat": 19.3330001831055,
+      "depth": 1.53999996185303,
+      "mag": 2.28,
+      "place": "12 km SSE of Volcano, Hawaii",
+      "time": 1792974325000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75063766"
+    },
+    {
+      "id": "aka2026velagq",
+      "lon": -154.965,
+      "lat": 58.266,
+      "depth": 5,
+      "mag": 0.6,
+      "place": "83 km NNW of Karluk, Alaska",
+      "time": 1792973694200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026velagq"
+    },
     {
       "id": "nc75454866",
       "lon": -120.800163269043,
@@ -135,12 +155,12 @@
     },
     {
       "id": "us6000u4wc",
-      "lon": 93.672,
-      "lat": 32.1648,
+      "lon": 93.6303,
+      "lat": 32.23,
       "depth": 10,
-      "mag": 4.4,
+      "mag": 4.7,
       "place": "170 km ENE of Nagqu, China",
-      "time": 1792965696115,
+      "time": 1792965695793,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4wc"
     },
     {
@@ -1912,36 +1932,6 @@
       "place": "5 km WSW of Grapevine, CA",
       "time": 1792888253470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41351991"
-    },
-    {
-      "id": "nc75454461",
-      "lon": -118.835502624512,
-      "lat": 37.4418334960938,
-      "depth": 5.40999984741211,
-      "mag": 2.06,
-      "place": "19 km SW of Toms Place, CA",
-      "time": 1792887935430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454461"
-    },
-    {
-      "id": "nc75454456",
-      "lon": -124.212501525879,
-      "lat": 40.6824989318848,
-      "depth": 4.98000001907349,
-      "mag": 1.95,
-      "place": "5 km SSW of Humboldt Hill, CA",
-      "time": 1792887808230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454456"
-    },
-    {
-      "id": "aka2026vcpfrg",
-      "lon": -141.877,
-      "lat": 61.367,
-      "depth": 11.9,
-      "mag": 1.1,
-      "place": "56 km E of McCarthy, Alaska",
-      "time": 1792887715883,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vcpfrg"
     }
   ]
 }
