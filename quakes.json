@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-26T13:45:47Z",
-  "count": 207,
+  "updated": "2026-10-26T14:01:14Z",
+  "count": 206,
   "points": [
     {
+      "id": "aka2026vfmmfp",
+      "lon": -150.836,
+      "lat": 63.005,
+      "depth": 111.4,
+      "mag": 1.9,
+      "place": "56 km N of Petersville, Alaska",
+      "time": 1793023097283,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vfmmfp"
+    },
+    {
       "id": "aka2026vflyxf",
-      "lon": -151.8,
-      "lat": 61.566,
+      "lon": -151.795,
+      "lat": 61.563,
       "depth": 5,
-      "mag": 1.7,
-      "place": "51 km SSW of Skwentna, Alaska",
-      "time": 1793022176689,
+      "mag": 1.9,
+      "place": "52 km SSW of Skwentna, Alaska",
+      "time": 1793022176671,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vflyxf"
     },
     {
@@ -2052,26 +2062,6 @@
       "place": "5 km SW of Anza, CA",
       "time": 1792937080080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352207"
-    },
-    {
-      "id": "ci41352199",
-      "lon": -116.713166666667,
-      "lat": 33.5335,
-      "depth": 5.12,
-      "mag": 0.72,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1792936795740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352199"
-    },
-    {
-      "id": "ci41352191",
-      "lon": -116.718333333333,
-      "lat": 33.5298333333333,
-      "depth": 5.29,
-      "mag": 1.42,
-      "place": "5 km SW of Anza, CA",
-      "time": 1792936456440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352191"
     }
   ]
 }
