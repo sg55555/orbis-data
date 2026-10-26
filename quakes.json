@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-25T23:45:45Z",
-  "count": 195,
+  "updated": "2026-10-26T00:01:11Z",
+  "count": 196,
   "points": [
+    {
+      "id": "ci41352535",
+      "lon": -117.866833333333,
+      "lat": 36.0925,
+      "depth": 3.67,
+      "mag": 0.77,
+      "place": "9 km NE of Coso Junction, CA",
+      "time": 1792972318410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352535"
+    },
     {
       "id": "hv75063756",
       "lon": -155.31916809082,
@@ -12,6 +22,16 @@
       "place": "16 km E of Pāhala, Hawaii",
       "time": 1792971683420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75063756"
+    },
+    {
+      "id": "us6000u4wt",
+      "lon": 124.3083,
+      "lat": -7.2486,
+      "depth": 556.684,
+      "mag": 4.3,
+      "place": "180 km NNW of Maubara, Timor Leste",
+      "time": 1792971127547,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4wt"
     },
     {
       "id": "nc75454836",
@@ -1942,16 +1962,6 @@
       "place": "15 km SSE of Pāhala, Hawaii",
       "time": 1792886733200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75063351"
-    },
-    {
-      "id": "us6000u4qq",
-      "lon": 131.873,
-      "lat": 31.8226,
-      "depth": 10,
-      "mag": 5.3,
-      "place": "44 km ESE of Miyazaki, Japan",
-      "time": 1792886376599,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qq"
     }
   ]
 }
