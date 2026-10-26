@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-26T06:45:41Z",
-  "count": 200,
+  "updated": "2026-10-26T07:01:13Z",
+  "count": 199,
   "points": [
     {
+      "id": "nc75454991",
+      "lon": -122.160163879395,
+      "lat": 37.7859992980957,
+      "depth": 3.09999990463257,
+      "mag": 1.01,
+      "place": "6 km E of Oakland, CA",
+      "time": 1792997378210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454991"
+    },
+    {
       "id": "aka2026vexyvs",
-      "lon": -151.886,
-      "lat": 61.586,
-      "depth": 114.8,
-      "mag": 1.5,
-      "place": "51 km SSW of Skwentna, Alaska",
-      "time": 1792996983496,
+      "lon": -151.944,
+      "lat": 61.595,
+      "depth": 113.6,
+      "mag": 2,
+      "place": "52 km SSW of Skwentna, Alaska",
+      "time": 1792996983536,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vexyvs"
     },
     {
@@ -1982,26 +1992,6 @@
       "place": "110 km S of McCarthy, Alaska",
       "time": 1792911973806,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdcsje"
-    },
-    {
-      "id": "nc75454586",
-      "lon": -122.768165588379,
-      "lat": 38.7961654663086,
-      "depth": -0.379999995231628,
-      "mag": 1.7,
-      "place": "2 km NNW of The Geysers, CA",
-      "time": 1792911289830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454586"
-    },
-    {
-      "id": "nc75454581",
-      "lon": -122.770332336426,
-      "lat": 38.7953338623047,
-      "depth": -0.0299999993294477,
-      "mag": 1.89,
-      "place": "2 km NNW of The Geysers, CA",
-      "time": 1792911280130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454581"
     }
   ]
 }
