@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-26T16:31:02Z",
-  "count": 193,
+  "updated": "2026-10-26T16:45:43Z",
+  "count": 194,
   "points": [
+    {
+      "id": "nc75455116",
+      "lon": -121.088500976562,
+      "lat": 36.5514984130859,
+      "depth": 7.92999982833862,
+      "mag": 1.72,
+      "place": "5 km ENE of Pinnacles, CA",
+      "time": 1793032661310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455116"
+    },
+    {
+      "id": "nc75455111",
+      "lon": -121.096664428711,
+      "lat": 36.5564994812012,
+      "depth": 2.01999998092651,
+      "mag": 1.13,
+      "place": "5 km ENE of Pinnacles, CA",
+      "time": 1793032637740,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455111"
+    },
     {
       "id": "ci41352927",
       "lon": -119.542833333333,
@@ -1175,12 +1195,12 @@
     },
     {
       "id": "ci41352567",
-      "lon": -118.465,
-      "lat": 34.3235,
-      "depth": 3.73,
-      "mag": 1.58,
+      "lon": -118.464666666667,
+      "lat": 34.3231666666667,
+      "depth": 4.21,
+      "mag": 1.63,
       "place": "2 km NW of Sylmar, CA",
-      "time": 1792978838070,
+      "time": 1792978838050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352567"
     },
     {
@@ -1372,6 +1392,16 @@
       "place": "181 km NNW of Maubara, Timor Leste",
       "time": 1792971128371,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4wt"
+    },
+    {
+      "id": "uu80161801",
+      "lon": -112.9055,
+      "lat": 38.5156666666667,
+      "depth": 3.93,
+      "mag": 1.89,
+      "place": "16 km NE of Milford, Utah",
+      "time": 1792969651450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161801"
     },
     {
       "id": "nc75454836",
@@ -1912,26 +1942,6 @@
       "place": "203 km ENE of Nagqu, China",
       "time": 1792946808312,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ux"
-    },
-    {
-      "id": "ci41352327",
-      "lon": -116.593,
-      "lat": 33.4725,
-      "depth": 10.69,
-      "mag": 0.89,
-      "place": "12 km SE of Anza, CA",
-      "time": 1792946095590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352327"
-    },
-    {
-      "id": "nc75454691",
-      "lon": -122.818168640137,
-      "lat": 38.8303337097168,
-      "depth": 2.07999992370605,
-      "mag": 0.73,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1792945916150,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454691"
     }
   ]
 }
