@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-26T15:31:04Z",
-  "count": 200,
+  "updated": "2026-10-26T15:45:44Z",
+  "count": 201,
   "points": [
+    {
+      "id": "ci41352895",
+      "lon": -116.713500976562,
+      "lat": 33.5320014953613,
+      "depth": 5.23000001907349,
+      "mag": 1.70937884120714,
+      "place": "4 km SW of Anza, CA",
+      "time": 1793029305010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352895"
+    },
+    {
+      "id": "ci41352887",
+      "lon": -117.485666666667,
+      "lat": 34.0945,
+      "depth": 6.26,
+      "mag": 1.14,
+      "place": "3 km W of Fontana, CA",
+      "time": 1793029210520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352887"
+    },
     {
       "id": "nc75455096",
       "lon": -122.792335510254,
@@ -835,12 +855,12 @@
     },
     {
       "id": "ci41352663",
-      "lon": -116.705666666667,
-      "lat": 33.5375,
-      "depth": 5.33,
-      "mag": 0,
+      "lon": -116.7105,
+      "lat": 33.5378333333333,
+      "depth": 6.12,
+      "mag": 0.04,
       "place": "4 km WSW of Anza, CA",
-      "time": 1792989063850,
+      "time": 1792989063720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352663"
     },
     {
@@ -1992,16 +2012,6 @@
       "place": "61 km ENE of Pedro Bay, Alaska",
       "time": 1792943998675,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdundu"
-    },
-    {
-      "id": "aka2026vdtxpd",
-      "lon": -152.16,
-      "lat": 61.253,
-      "depth": 33.7,
-      "mag": 0.3,
-      "place": "58 km WNW of Tyonek, Alaska",
-      "time": 1792942921643,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdtxpd"
     }
   ]
 }
