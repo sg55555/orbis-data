@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-26T18:15:42Z",
-  "count": 193,
+  "updated": "2026-10-26T18:31:05Z",
+  "count": 196,
   "points": [
+    {
+      "id": "nc75455196",
+      "lon": -122.776000976562,
+      "lat": 38.7948341369629,
+      "depth": 3.0699999332428,
+      "mag": 0.95,
+      "place": "3 km NW of The Geysers, CA",
+      "time": 1793038452200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455196"
+    },
     {
       "id": "nc75455191",
       "lon": -122.724502563477,
@@ -12,6 +22,16 @@
       "place": "3 km E of The Geysers, CA",
       "time": 1793038278170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455191"
+    },
+    {
+      "id": "us7000ttb5",
+      "lon": 71.0764,
+      "lat": 38.6442,
+      "depth": 47.345,
+      "mag": 4.5,
+      "place": "74 km SE of Rasht, Tajikistan",
+      "time": 1793038024209,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttb5"
     },
     {
       "id": "nc75455176",
@@ -244,6 +264,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455081"
     },
     {
+      "id": "uu80161836",
+      "lon": -113.316,
+      "lat": 39.8593333333333,
+      "depth": 4.97,
+      "mag": 1.98,
+      "place": "63 km SW of Dugway, Utah",
+      "time": 1793025526580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161836"
+    },
+    {
+      "id": "uu80161831",
+      "lon": -112.324166666667,
+      "lat": 37.5261666666667,
+      "depth": 5.79,
+      "mag": 1.32,
+      "place": "16 km SE of Hatch, Utah",
+      "time": 1793024670000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161831"
+    },
+    {
       "id": "aka2026vfmqfn",
       "lon": -141.316,
       "lat": 61.636,
@@ -275,12 +315,12 @@
     },
     {
       "id": "ci41352839",
-      "lon": -117.0445,
-      "lat": 33.9918333333333,
-      "depth": 8.15,
-      "mag": 0.65,
+      "lon": -117.044833333333,
+      "lat": 33.9925,
+      "depth": 8.36,
+      "mag": 0.63,
       "place": "1 km ENE of Calimesa, CA",
-      "time": 1793022078020,
+      "time": 1793022078010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352839"
     },
     {
@@ -842,6 +882,16 @@
       "place": "52 km SSW of Skwentna, Alaska",
       "time": 1792996983536,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vexyvs"
+    },
+    {
+      "id": "uu80161816",
+      "lon": -110.021666666667,
+      "lat": 44.6988333333333,
+      "depth": 13.91,
+      "mag": 0.93,
+      "place": "34 km S of Silver Gate, Montana",
+      "time": 1792996153880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161816"
     },
     {
       "id": "nc75454981",
@@ -1595,12 +1645,12 @@
     },
     {
       "id": "ci41352527",
-      "lon": -115.580166666667,
-      "lat": 32.6316666666667,
-      "depth": 5.14,
-      "mag": 1.37,
+      "lon": -115.578166666667,
+      "lat": 32.633,
+      "depth": 7.58,
+      "mag": 1.38,
       "place": "6 km N of Progreso, B.C., MX",
-      "time": 1792968675050,
+      "time": 1792968674920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352527"
     },
     {
@@ -1912,26 +1962,6 @@
       "place": "1 km SSW of Pāhala, Hawaii",
       "time": 1792954020230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75063691"
-    },
-    {
-      "id": "ci41352407",
-      "lon": -117.864166666667,
-      "lat": 36.0893333333333,
-      "depth": 4.18,
-      "mag": 0.75,
-      "place": "9 km ENE of Coso Junction, CA",
-      "time": 1792952950410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352407"
-    },
-    {
-      "id": "aka2026vdzequ",
-      "lon": -154.983,
-      "lat": 58.29,
-      "depth": 5,
-      "mag": 0.7,
-      "place": "86 km NNW of Karluk, Alaska",
-      "time": 1792952406310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdzequ"
     }
   ]
 }
