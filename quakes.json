@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-26T18:01:13Z",
-  "count": 197,
+  "updated": "2026-10-26T18:15:42Z",
+  "count": 193,
   "points": [
+    {
+      "id": "nc75455191",
+      "lon": -122.724502563477,
+      "lat": 38.7786674499512,
+      "depth": 1.51999998092651,
+      "mag": 1.12,
+      "place": "3 km E of The Geysers, CA",
+      "time": 1793038278170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455191"
+    },
     {
       "id": "nc75455176",
       "lon": -122.763336181641,
@@ -502,16 +512,6 @@
       "place": "81 km SSE of Akutan, Alaska",
       "time": 1793014686778,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z7"
-    },
-    {
-      "id": "aka2026vfhvld",
-      "lon": -165.093,
-      "lat": 53.461,
-      "depth": 3.1,
-      "mag": 4.8,
-      "place": "87 km SSE of Akutan, Alaska",
-      "time": 1793014684221,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vfhvld"
     },
     {
       "id": "us6000u4z6",
@@ -1065,12 +1065,12 @@
     },
     {
       "id": "uw714127892",
-      "lon": -120.661003112793,
-      "lat": 48.3036651611328,
-      "depth": -0.0700000002980232,
-      "mag": 1.714435338974,
-      "place": "40 km WSW of Winthrop, Washington",
-      "time": 1792988475220,
+      "lon": -120.679333333333,
+      "lat": 48.3013333333333,
+      "depth": 2.26,
+      "mag": 1.59,
+      "place": "41 km WSW of Winthrop, Washington",
+      "time": 1792988475070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714127892"
     },
     {
@@ -1932,46 +1932,6 @@
       "place": "86 km NNW of Karluk, Alaska",
       "time": 1792952406310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdzequ"
-    },
-    {
-      "id": "ci41352399",
-      "lon": -117.5695,
-      "lat": 35.7223333333333,
-      "depth": 3.46,
-      "mag": 0.64,
-      "place": "15 km NE of Ridgecrest, CA",
-      "time": 1792951884060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352399"
-    },
-    {
-      "id": "aka2026vdyvsc",
-      "lon": -155.291,
-      "lat": 57.879,
-      "depth": 13.5,
-      "mag": 1.6,
-      "place": "60 km NW of Karluk, Alaska",
-      "time": 1792951787162,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdyvsc"
-    },
-    {
-      "id": "aka2026vdyuxd",
-      "lon": -151.602,
-      "lat": 63.253,
-      "depth": 5,
-      "mag": 1.9,
-      "place": "32 km S of Denali National Park, Alaska",
-      "time": 1792951731514,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdyuxd"
-    },
-    {
-      "id": "ci41352391",
-      "lon": -116.365833333333,
-      "lat": 33.0048333333333,
-      "depth": 8.3,
-      "mag": 1.56,
-      "place": "23 km ESE of Julian, CA",
-      "time": 1792951672990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352391"
     }
   ]
 }
