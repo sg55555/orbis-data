@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-26T13:09:02Z",
-  "count": 201,
+  "updated": "2026-10-26T13:15:45Z",
+  "count": 202,
   "points": [
+    {
+      "id": "nc75455061",
+      "lon": -121.605003356934,
+      "lat": 36.8626670837402,
+      "depth": 4.82999992370605,
+      "mag": 2.5,
+      "place": "4 km SE of Aromas, CA",
+      "time": 1793020233190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455061"
+    },
     {
       "id": "ci41352791",
       "lon": -115.284333333333,
@@ -462,6 +472,16 @@
       "place": "2 km WNW of Anderson Springs, CA",
       "time": 1792993563630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454976"
+    },
+    {
+      "id": "us6000u4y8",
+      "lon": 67.9886,
+      "lat": 25.8377,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "26 km SSW of Sann, Pakistan",
+      "time": 1792993531202,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y8"
     },
     {
       "id": "aka2026vewahn",
@@ -2002,16 +2022,6 @@
       "place": "7 km NNW of Agua Caliente Grande (De Gastélum), Mexico",
       "time": 1792934553573,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4u9"
-    },
-    {
-      "id": "ci41352151",
-      "lon": -116.593666666667,
-      "lat": 33.4741666666667,
-      "depth": 9.97,
-      "mag": 0.41,
-      "place": "12 km SE of Anza, CA",
-      "time": 1792934044450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352151"
     }
   ]
 }
