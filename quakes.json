@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-26T14:31:05Z",
-  "count": 200,
+  "updated": "2026-10-26T14:45:42Z",
+  "count": 196,
   "points": [
+    {
+      "id": "nc75455081",
+      "lon": -122.801002502441,
+      "lat": 38.8238334655762,
+      "depth": 2.58999991416931,
+      "mag": 1.3,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1793025758980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455081"
+    },
     {
       "id": "aka2026vfmqfn",
       "lon": -141.316,
@@ -354,14 +364,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yr"
     },
     {
-      "id": "us6000u4yp",
+      "id": "tx2026vbupcx",
       "lon": -104.396,
-      "lat": 31.6308,
-      "depth": 5,
+      "lat": 31.652,
+      "depth": 6.4587,
       "mag": 2.6,
-      "place": "60 km S of Whites City, New Mexico",
-      "time": 1793009343620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yp"
+      "place": "58 km S of Whites City, New Mexico",
+      "time": 1793009343981,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vbupcx"
     },
     {
       "id": "ci41352743",
@@ -1914,6 +1924,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdtxpd"
     },
     {
+      "id": "uu80008243",
+      "lon": -111.5415,
+      "lat": 41.1456666666667,
+      "depth": 16.1,
+      "mag": 0.77,
+      "place": "14 km NNW of Henefer, Utah",
+      "time": 1792941642590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80008243"
+    },
+    {
       "id": "aka2026vdtelo",
       "lon": -153.108,
       "lat": 60.015,
@@ -1942,66 +1962,6 @@
       "place": "8 km NNE of Julian, CA",
       "time": 1792941065780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352271"
-    },
-    {
-      "id": "aka2026vdrymb",
-      "lon": -150.813,
-      "lat": 63.198,
-      "depth": 132.2,
-      "mag": 2.1,
-      "place": "59 km SE of Denali National Park, Alaska",
-      "time": 1792939383479,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdrymb"
-    },
-    {
-      "id": "aka2026vdrszh",
-      "lon": -149.867,
-      "lat": 61.735,
-      "depth": 14.3,
-      "mag": 1.3,
-      "place": "9 km E of Willow, Alaska",
-      "time": 1792939004240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdrszh"
-    },
-    {
-      "id": "nc75454681",
-      "lon": -122.853996276855,
-      "lat": 38.8296661376953,
-      "depth": 2.79999995231628,
-      "mag": 1.67,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1792938962960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454681"
-    },
-    {
-      "id": "ci41352255",
-      "lon": -118.525666666667,
-      "lat": 35.4991666666667,
-      "depth": 3.73,
-      "mag": 1.28,
-      "place": "10 km SSW of Bodfish, CA",
-      "time": 1792938960140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352255"
-    },
-    {
-      "id": "ci41352247",
-      "lon": -116.018666666667,
-      "lat": 33.1975,
-      "depth": 9.14,
-      "mag": 0.56,
-      "place": "12 km ENE of Ocotillo Wells, CA",
-      "time": 1792938893610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352247"
-    },
-    {
-      "id": "us6000u4uj",
-      "lon": -138.9347,
-      "lat": 59.0757,
-      "depth": 10,
-      "mag": 2.7,
-      "place": "69 km SE of Yakutat, Alaska",
-      "time": 1792938701374,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4uj"
     }
   ]
 }
