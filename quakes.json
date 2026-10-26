@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-26T15:15:45Z",
+  "updated": "2026-10-26T15:31:04Z",
   "count": 200,
   "points": [
+    {
+      "id": "nc75455096",
+      "lon": -122.792335510254,
+      "lat": 38.8089981079102,
+      "depth": 3.00999999046326,
+      "mag": 0.9,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1793027874340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455096"
+    },
     {
       "id": "nc75455091",
       "lon": -122.770164489746,
@@ -195,11 +205,11 @@
     },
     {
       "id": "ci41352791",
-      "lon": -115.284333333333,
-      "lat": 32.5688333333333,
-      "depth": 22.14,
-      "mag": 1.79,
-      "place": "6 km E of Puebla, B.C., MX",
+      "lon": -115.291166666667,
+      "lat": 32.5761666666667,
+      "depth": 20.2,
+      "mag": 1.73,
+      "place": "6 km ENE of Puebla, B.C., MX",
       "time": 1793018400110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352791"
     },
@@ -314,6 +324,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z6"
     },
     {
+      "id": "ci41352775",
+      "lon": -116.889,
+      "lat": 33.9165,
+      "depth": 12.06,
+      "mag": 0.47,
+      "place": "2 km SW of Banning, CA",
+      "time": 1793012863220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352775"
+    },
+    {
       "id": "aka2026vfgtuf",
       "lon": -146.442,
       "lat": 61.673,
@@ -335,12 +355,12 @@
     },
     {
       "id": "ci41352767",
-      "lon": -116.8056640625,
-      "lat": 33.5658340454102,
-      "depth": 6.84000015258789,
-      "mag": 1.35643027430953,
+      "lon": -116.804833333333,
+      "lat": 33.5666666666667,
+      "depth": 6.3,
+      "mag": -0.09,
       "place": "12 km W of Anza, CA",
-      "time": 1793012508520,
+      "time": 1793012508560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352767"
     },
     {
@@ -1982,26 +2002,6 @@
       "place": "58 km WNW of Tyonek, Alaska",
       "time": 1792942921643,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdtxpd"
-    },
-    {
-      "id": "uu80008243",
-      "lon": -111.5415,
-      "lat": 41.1456666666667,
-      "depth": 16.1,
-      "mag": 0.77,
-      "place": "14 km NNW of Henefer, Utah",
-      "time": 1792941642590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80008243"
-    },
-    {
-      "id": "aka2026vdtelo",
-      "lon": -153.108,
-      "lat": 60.015,
-      "depth": 5,
-      "mag": 0.3,
-      "place": "61 km ENE of Pedro Bay, Alaska",
-      "time": 1792941597348,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdtelo"
     }
   ]
 }
