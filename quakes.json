@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-26T17:01:14Z",
-  "count": 194,
+  "updated": "2026-10-26T17:15:46Z",
+  "count": 195,
   "points": [
+    {
+      "id": "ci41352951",
+      "lon": -116.589996337891,
+      "lat": 33.3823318481445,
+      "depth": 21,
+      "mag": 1.46765293588495,
+      "place": "12 km NNE of Warner Springs, CA",
+      "time": 1793034033770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352951"
+    },
     {
       "id": "aka2026vfshdr",
       "lon": -149.563,
@@ -1354,6 +1364,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60506488"
     },
     {
+      "id": "tx2026vbbpbw",
+      "lon": -101.896,
+      "lat": 32.108,
+      "depth": 8.8135,
+      "mag": 2.3,
+      "place": "10 km WSW of Stanton, Texas",
+      "time": 1792974944982,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vbbpbw"
+    },
+    {
       "id": "hv75063766",
       "lon": -155.1943359375,
       "lat": 19.3330001831055,
@@ -1932,16 +1952,6 @@
       "place": "104 km S of McCarthy, Alaska",
       "time": 1792948566853,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdxbcf"
-    },
-    {
-      "id": "us6000u4v1",
-      "lon": -73.4741,
-      "lat": -16.0993,
-      "depth": 62.095,
-      "mag": 4.7,
-      "place": "19 km NE of Atico, Peru",
-      "time": 1792948309932,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4v1"
     }
   ]
 }
