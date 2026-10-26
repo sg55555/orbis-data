@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-26T05:15:38Z",
-  "count": 205,
+  "updated": "2026-10-26T05:33:28Z",
+  "count": 204,
   "points": [
+    {
+      "id": "nc75454966",
+      "lon": -122.804664611816,
+      "lat": 38.8250007629395,
+      "depth": 2.45000004768372,
+      "mag": 0.81,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1792991813920,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454966"
+    },
+    {
+      "id": "hv75063871",
+      "lon": -155.391830444336,
+      "lat": 19.078332901001,
+      "depth": 32.4500007629395,
+      "mag": 1.81,
+      "place": "16 km SSE of Pāhala, Hawaii",
+      "time": 1792991813540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75063871"
+    },
     {
       "id": "nc75454961",
       "lon": -122.81916809082,
@@ -32,6 +52,16 @@
       "place": "45 km NNW of Ende, Indonesia",
       "time": 1792990420479,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y1"
+    },
+    {
+      "id": "us6000u4y2",
+      "lon": 165.6991,
+      "lat": -14.0694,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "182 km NW of Port-Olry, Vanuatu",
+      "time": 1792990415102,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y2"
     },
     {
       "id": "ci41352695",
@@ -2012,46 +2042,6 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1792907339490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454556"
-    },
-    {
-      "id": "aka2026vczpgn",
-      "lon": -151.591,
-      "lat": 61.393,
-      "depth": 78.9,
-      "mag": 1.4,
-      "place": "39 km NW of Beluga, Alaska",
-      "time": 1792906361638,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vczpgn"
-    },
-    {
-      "id": "nc75454546",
-      "lon": -121.40266418457,
-      "lat": 36.8925018310547,
-      "depth": 10.6599998474121,
-      "mag": 1.34,
-      "place": "5 km N of Hollister, CA",
-      "time": 1792905948180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454546"
-    },
-    {
-      "id": "nc75454541",
-      "lon": -122.816497802734,
-      "lat": 38.8240013122559,
-      "depth": 1,
-      "mag": 1.08,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1792905794700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454541"
-    },
-    {
-      "id": "us6000u4sm",
-      "lon": 21.0112,
-      "lat": 37.6512,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "17 km SE of Ambelókipoi, Greece",
-      "time": 1792905344196,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sm"
     }
   ]
 }
