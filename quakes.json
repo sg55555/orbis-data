@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-26T19:31:03Z",
+  "updated": "2026-10-26T19:45:45Z",
   "count": 203,
   "points": [
+    {
+      "id": "nc75455251",
+      "lon": -122.798500061035,
+      "lat": 38.8134994506836,
+      "depth": 2.35999989509583,
+      "mag": 0.65,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1793043780140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455251"
+    },
+    {
+      "id": "nc75455246",
+      "lon": -122.879837036133,
+      "lat": 38.6571655273438,
+      "depth": 6.26000022888184,
+      "mag": 1.29,
+      "place": "5 km N of Healdsburg, CA",
+      "time": 1793043769530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455246"
+    },
     {
       "id": "aka2026vfwzjg",
       "lon": -150.902,
@@ -15,12 +35,12 @@
     },
     {
       "id": "ok2026uzxw",
-      "lon": -96.67602539,
-      "lat": 34.62254333,
-      "depth": 5.476067066,
-      "mag": 2.04,
-      "place": "10 km ESE of Fitzhugh, Oklahoma",
-      "time": 1793041813433,
+      "lon": -96.64483333,
+      "lat": 34.6875,
+      "depth": 0,
+      "mag": 1.59,
+      "place": "10 km SSE of Ada, Oklahoma",
+      "time": 1793041814109,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026uzxw"
     },
     {
@@ -442,6 +462,16 @@
       "place": "41 km WSW of Winthrop, Washington",
       "time": 1793021400800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714127952"
+    },
+    {
+      "id": "us6000u4zm",
+      "lon": 25.9536,
+      "lat": 35.0335,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "18 km E of Kentrí, Greece",
+      "time": 1793020802823,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4zm"
     },
     {
       "id": "aka2026vflepg",
@@ -2002,36 +2032,6 @@
       "place": "4 km WSW of Anza, CA",
       "time": 1792957848750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352439"
-    },
-    {
-      "id": "aka2026vebuhr",
-      "lon": -141.211,
-      "lat": 60.131,
-      "depth": 17.5,
-      "mag": 1.2,
-      "place": "105 km NW of Yakutat, Alaska",
-      "time": 1792957086299,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vebuhr"
-    },
-    {
-      "id": "uw714127752",
-      "lon": -121.7625,
-      "lat": 46.8431666666667,
-      "depth": -0.02,
-      "mag": 1.26,
-      "place": "22 km ENE of Ashford, Washington",
-      "time": 1792956625410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714127752"
-    },
-    {
-      "id": "uw714127742",
-      "lon": -121.764,
-      "lat": 46.8435,
-      "depth": 0.24,
-      "mag": 1.02,
-      "place": "22 km ENE of Ashford, Washington",
-      "time": 1792956620790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714127742"
     }
   ]
 }
