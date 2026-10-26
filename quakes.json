@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-26T04:01:09Z",
+  "updated": "2026-10-26T04:15:40Z",
   "count": 195,
   "points": [
+    {
+      "id": "ci41352639",
+      "lon": -116.706333333333,
+      "lat": 33.5381666666667,
+      "depth": 5.47,
+      "mag": 0.14,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1792987207320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352639"
+    },
     {
       "id": "aka2026veseem",
       "lon": -147.903,
@@ -22,6 +32,16 @@
       "place": "60 km WNW of Tatitlek, Alaska",
       "time": 1792986155689,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026veryji"
+    },
+    {
+      "id": "pr71537678",
+      "lon": -66.0791666666667,
+      "lat": 19.0686666666667,
+      "depth": 30.78,
+      "mag": 2.99,
+      "place": "66 km N of San Juan, Puerto Rico",
+      "time": 1792986106590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537678"
     },
     {
       "id": "aka2026verxkf",
@@ -1932,26 +1952,6 @@
       "place": "7 km SE of Skwentna, Alaska",
       "time": 1792902353197,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vcxjir"
-    },
-    {
-      "id": "aka2026vcwvdg",
-      "lon": -151.736,
-      "lat": 60.295,
-      "depth": 62.4,
-      "mag": 1.7,
-      "place": "20 km WNW of Clam Gulch, Alaska",
-      "time": 1792901371200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vcwvdg"
-    },
-    {
-      "id": "aka2026vcwunc",
-      "lon": -147.856,
-      "lat": 61.207,
-      "depth": 32.7,
-      "mag": 1,
-      "place": "63 km ESE of Knik River, Alaska",
-      "time": 1792901326796,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vcwunc"
     }
   ]
 }
