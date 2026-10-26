@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-26T15:07:18Z",
-  "count": 198,
+  "updated": "2026-10-26T15:15:45Z",
+  "count": 200,
   "points": [
+    {
+      "id": "nc75455091",
+      "lon": -122.770164489746,
+      "lat": 38.7960014343262,
+      "depth": 1.75999999046326,
+      "mag": 1.04,
+      "place": "2 km NNW of The Geysers, CA",
+      "time": 1793027417810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455091"
+    },
+    {
+      "id": "nc75455086",
+      "lon": -122.761497497559,
+      "lat": 38.7948341369629,
+      "depth": 1.23000001907349,
+      "mag": 1.01,
+      "place": "2 km NNW of The Geysers, CA",
+      "time": 1793027327180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455086"
+    },
     {
       "id": "ci41352863",
       "lon": -116.812,
@@ -162,6 +182,16 @@
       "place": "11 km S of Anza, CA",
       "time": 1793020054600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352807"
+    },
+    {
+      "id": "ci41352799",
+      "lon": -116.702,
+      "lat": 33.539,
+      "depth": 5.29,
+      "mag": -0.04,
+      "place": "3 km SW of Anza, CA",
+      "time": 1793019658970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352799"
     },
     {
       "id": "ci41352791",
@@ -1824,6 +1854,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdwfnb"
     },
     {
+      "id": "us6000u4ux",
+      "lon": 93.8391,
+      "lat": 32.5003,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "203 km ENE of Nagqu, China",
+      "time": 1792946808312,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ux"
+    },
+    {
       "id": "ci41352327",
       "lon": -116.593,
       "lat": 33.4725,
@@ -1962,26 +2002,6 @@
       "place": "61 km ENE of Pedro Bay, Alaska",
       "time": 1792941597348,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdtelo"
-    },
-    {
-      "id": "ci41352279",
-      "lon": -115.4585,
-      "lat": 32.4936666666667,
-      "depth": 15.87,
-      "mag": 1.59,
-      "place": "13 km SW of Puebla, B.C., MX",
-      "time": 1792941232380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352279"
-    },
-    {
-      "id": "ci41352271",
-      "lon": -116.556166666667,
-      "lat": 33.144,
-      "depth": 5.63,
-      "mag": 0.7,
-      "place": "8 km NNE of Julian, CA",
-      "time": 1792941065780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352271"
     }
   ]
 }
