@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-27T20:01:10Z",
+  "updated": "2026-10-27T20:15:43Z",
   "count": 203,
   "points": [
+    {
+      "id": "ci41567904",
+      "lon": -117.414497375488,
+      "lat": 33.8834991455078,
+      "depth": 6.09000015258789,
+      "mag": 1.1832268686195,
+      "place": "5 km W of Woodcrest, CA",
+      "time": 1793131382810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41567904"
+    },
     {
       "id": "nc75455711",
       "lon": -122.78099822998,
@@ -185,12 +195,12 @@
     },
     {
       "id": "nn00926317",
-      "lon": -119.4104,
-      "lat": 39.6714,
-      "depth": 15.1913,
-      "mag": 1.54,
-      "place": "11 km WNW of Wadsworth, Nevada",
-      "time": 1793119424297,
+      "lon": -119.4223,
+      "lat": 39.649,
+      "depth": 9.5216,
+      "mag": 1.76,
+      "place": "11 km W of Wadsworth, Nevada",
+      "time": 1793119425277,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926317"
     },
     {
@@ -862,6 +872,16 @@
       "place": "14 km ESE of Pearsall, Texas",
       "time": 1793093761397,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vdpfon"
+    },
+    {
+      "id": "tx2026vdpemh",
+      "lon": -98.938,
+      "lat": 28.879,
+      "depth": 7.3541,
+      "mag": 2,
+      "place": "15 km E of Pearsall, Texas",
+      "time": 1793093685886,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vdpemh"
     },
     {
       "id": "nc75455566",
@@ -2012,26 +2032,6 @@
       "place": "4 km ENE of Granite Falls, Washington",
       "time": 1793047047650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714128562"
-    },
-    {
-      "id": "us7000ttbv",
-      "lon": -148.8246,
-      "lat": 56.0636,
-      "depth": 10,
-      "mag": 3.3,
-      "place": "272 km SE of Chiniak, Alaska",
-      "time": 1793045452377,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttbv"
-    },
-    {
-      "id": "aka2026vfyuba",
-      "lon": -139.43,
-      "lat": 60.449,
-      "depth": 0,
-      "mag": 1.8,
-      "place": "101 km N of Yakutat, Alaska",
-      "time": 1793045209262,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vfyuba"
     }
   ]
 }
