@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-27T02:45:40Z",
-  "count": 191,
+  "updated": "2026-10-27T03:01:15Z",
+  "count": 190,
   "points": [
+    {
+      "id": "nc75455456",
+      "lon": -120.643165588379,
+      "lat": 36.0661659240723,
+      "depth": -0.720000028610229,
+      "mag": 0.81,
+      "place": "24 km ENE of San Ardo, CA",
+      "time": 1793069399260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455456"
+    },
     {
       "id": "ci41353335",
       "lon": -117.471666666667,
@@ -1892,26 +1902,6 @@
       "place": "5 km WSW of Pāhala, Hawaii",
       "time": 1792983927750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75063816"
-    },
-    {
-      "id": "ci41352607",
-      "lon": -116.709,
-      "lat": 33.5371666666667,
-      "depth": 5.96,
-      "mag": 0.19,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1792983607650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352607"
-    },
-    {
-      "id": "aka2026veqbyt",
-      "lon": -154.179,
-      "lat": 57.732,
-      "depth": 68,
-      "mag": 1.6,
-      "place": "24 km NNW of Larsen Bay, Alaska",
-      "time": 1792982804774,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026veqbyt"
     }
   ]
 }
