@@ -1,16 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-27T11:31:03Z",
-  "count": 184,
+  "updated": "2026-10-27T11:45:44Z",
+  "count": 185,
   "points": [
     {
+      "id": "nc75455586",
+      "lon": -121.481163024902,
+      "lat": 37.0306663513184,
+      "depth": 5.48000001907349,
+      "mag": 1.93,
+      "place": "8 km ENE of Gilroy, CA",
+      "time": 1793101405250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455586"
+    },
+    {
+      "id": "hv75064391",
+      "lon": -155.479827880859,
+      "lat": 19.1656665802002,
+      "depth": 32.1599998474121,
+      "mag": 1.7,
+      "place": "4 km S of Pāhala, Hawaii",
+      "time": 1793101002960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75064391"
+    },
+    {
+      "id": "aka2026vhdohp",
+      "lon": -150.332,
+      "lat": 59.793,
+      "depth": 19.4,
+      "mag": 2,
+      "place": "35 km ESE of Fox River, Alaska",
+      "time": 1793100616451,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vhdohp"
+    },
+    {
       "id": "ci41353487",
-      "lon": -117.440002441406,
-      "lat": 35.6201667785645,
-      "depth": 2.4300000667572,
-      "mag": 1.1635888009848,
-      "place": "17 km SSW of Searles Valley, CA",
-      "time": 1793100447310,
+      "lon": -117.4345,
+      "lat": 35.6261666666667,
+      "depth": 3.5,
+      "mag": 0.96,
+      "place": "16 km S of Searles Valley, CA",
+      "time": 1793100447330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353487"
     },
     {
@@ -1822,26 +1852,6 @@
       "place": "12 km S of Anza, CA",
       "time": 1793015272460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352783"
-    },
-    {
-      "id": "uu80161826",
-      "lon": -111.937,
-      "lat": 40.4015,
-      "depth": 4.75,
-      "mag": 0.9,
-      "place": "6 km NNW of Saratoga Springs, Utah",
-      "time": 1793014788880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161826"
-    },
-    {
-      "id": "us6000u4z7",
-      "lon": -165.1239,
-      "lat": 53.5071,
-      "depth": 35,
-      "mag": 4.6,
-      "place": "81 km SSE of Akutan, Alaska",
-      "time": 1793014686778,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z7"
     }
   ]
 }
