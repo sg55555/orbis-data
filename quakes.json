@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-27T19:45:46Z",
-  "count": 202,
+  "updated": "2026-10-27T20:01:10Z",
+  "count": 203,
   "points": [
+    {
+      "id": "nc75455711",
+      "lon": -122.78099822998,
+      "lat": 38.8344993591309,
+      "depth": 2.03999996185303,
+      "mag": 1.57,
+      "place": "5 km WNW of Cobb, CA",
+      "time": 1793130803780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455711"
+    },
     {
       "id": "nc75455701",
       "lon": -121.678337097168,
@@ -122,6 +132,16 @@
       "place": "15 km S of Princeton, Canada",
       "time": 1793122279210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714129332"
+    },
+    {
+      "id": "tx2026veewqa",
+      "lon": -98.945,
+      "lat": 28.851,
+      "depth": 7.1938,
+      "mag": 2.3,
+      "place": "15 km ESE of Pearsall, Texas",
+      "time": 1793122105220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026veewqa"
     },
     {
       "id": "aka2026vhpcrg",
@@ -395,12 +415,12 @@
     },
     {
       "id": "nn00926312",
-      "lon": -115.2117,
-      "lat": 37.2498,
-      "depth": 2.65,
-      "mag": 1.55,
-      "place": "13 km SSW of Alamo, Nevada",
-      "time": 1793112876859,
+      "lon": -115.3668,
+      "lat": 37.1864,
+      "depth": 11.6553,
+      "mag": 1.5,
+      "place": "26 km SW of Alamo, Nevada",
+      "time": 1793112879643,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926312"
     },
     {
@@ -2012,16 +2032,6 @@
       "place": "101 km N of Yakutat, Alaska",
       "time": 1793045209262,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vfyuba"
-    },
-    {
-      "id": "ci41353119",
-      "lon": -117.149166666667,
-      "lat": 33.3208333333333,
-      "depth": 3.54,
-      "mag": 1.25,
-      "place": "8 km SW of Pala, CA",
-      "time": 1793044790400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353119"
     }
   ]
 }
