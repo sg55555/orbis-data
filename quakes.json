@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-27T09:31:00Z",
-  "count": 185,
+  "updated": "2026-10-27T09:45:40Z",
+  "count": 186,
   "points": [
+    {
+      "id": "nc75455566",
+      "lon": -122.736167907715,
+      "lat": 38.7703323364258,
+      "depth": 1.26999998092651,
+      "mag": 0.76,
+      "place": "2 km ESE of The Geysers, CA",
+      "time": 1793093448510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455566"
+    },
     {
       "id": "nc75455561",
       "lon": -122.72200012207,
@@ -32,6 +42,26 @@
       "place": "16 km SE of Waynoka, Oklahoma",
       "time": 1793092934196,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vazy"
+    },
+    {
+      "id": "us7000ttfe",
+      "lon": 165.5556,
+      "lat": -13.9006,
+      "depth": 10,
+      "mag": 5,
+      "place": "206 km NW of Port-Olry, Vanuatu",
+      "time": 1793092855730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfe"
+    },
+    {
+      "id": "pr71537733",
+      "lon": -64.5878333333333,
+      "lat": 18.8815,
+      "depth": 35.73,
+      "mag": 2.78,
+      "place": "64 km NNE of Cruz Bay, U.S. Virgin Islands",
+      "time": 1793092494360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537733"
     },
     {
       "id": "us7000ttfc",
@@ -1832,26 +1862,6 @@
       "place": "12 km S of Anza, CA",
       "time": 1793008763180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352743"
-    },
-    {
-      "id": "nc75455036",
-      "lon": -122.791496276855,
-      "lat": 38.836498260498,
-      "depth": 1.80999994277954,
-      "mag": 0.57,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1793007534240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455036"
-    },
-    {
-      "id": "ci41352735",
-      "lon": -116.451,
-      "lat": 33.5215,
-      "depth": 4.94,
-      "mag": 0.24,
-      "place": "20 km SW of La Quinta, CA",
-      "time": 1793007236720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352735"
     }
   ]
 }
