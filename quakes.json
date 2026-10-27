@@ -1,16 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-27T05:01:12Z",
-  "count": 177,
+  "updated": "2026-10-27T05:15:43Z",
+  "count": 178,
   "points": [
     {
+      "id": "nc75455496",
+      "lon": -124.46216583252,
+      "lat": 40.3021659851074,
+      "depth": 18.8999996185303,
+      "mag": 1.68,
+      "place": "15 km W of Petrolia, CA",
+      "time": 1793077976280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455496"
+    },
+    {
+      "id": "nc75455491",
+      "lon": -122.806335449219,
+      "lat": 38.8286666870117,
+      "depth": 1.82000005245209,
+      "mag": 0.75,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1793077929770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455491"
+    },
+    {
+      "id": "nn00926289",
+      "lon": -119.2536,
+      "lat": 40.6581,
+      "depth": 9.796,
+      "mag": 1.8,
+      "place": "8 km E of Gerlach, Nevada",
+      "time": 1793077430181,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926289"
+    },
+    {
       "id": "ci41353383",
-      "lon": -115.300666809082,
-      "lat": 32.3041648864746,
-      "depth": 8.25,
-      "mag": 2.170594131586,
-      "place": "12 km WSW of Delta, B.C., MX",
-      "time": 1793077119810,
+      "lon": -115.2935,
+      "lat": 32.303,
+      "depth": 14.29,
+      "mag": 1.94,
+      "place": "11 km WSW of Delta, B.C., MX",
+      "time": 1793077119510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353383"
     },
     {
@@ -1752,26 +1782,6 @@
       "place": "16 km SSE of Pāhala, Hawaii",
       "time": 1792991813540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75063871"
-    },
-    {
-      "id": "nc75454961",
-      "lon": -122.81916809082,
-      "lat": 38.8136672973633,
-      "depth": 2.29999995231628,
-      "mag": 1.13,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1792991105930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454961"
-    },
-    {
-      "id": "aka2026veurjk",
-      "lon": -155.374,
-      "lat": 58.174,
-      "depth": 5,
-      "mag": 0.7,
-      "place": "86 km NW of Karluk, Alaska",
-      "time": 1792991069016,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026veurjk"
     }
   ]
 }
