@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-27T11:15:43Z",
-  "count": 182,
+  "updated": "2026-10-27T11:31:03Z",
+  "count": 184,
   "points": [
+    {
+      "id": "ci41353487",
+      "lon": -117.440002441406,
+      "lat": 35.6201667785645,
+      "depth": 2.4300000667572,
+      "mag": 1.1635888009848,
+      "place": "17 km SSW of Searles Valley, CA",
+      "time": 1793100447310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353487"
+    },
+    {
+      "id": "ci41353471",
+      "lon": -116.710666666667,
+      "lat": 33.5328333333333,
+      "depth": 5.05,
+      "mag": 1.27,
+      "place": "4 km SW of Anza, CA",
+      "time": 1793100386340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353471"
+    },
+    {
+      "id": "aka2026vhdjxy",
+      "lon": -147.556,
+      "lat": 63.544,
+      "depth": 0,
+      "mag": 1.6,
+      "place": "70 km ESE of Denali Park, Alaska",
+      "time": 1793100303870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vhdjxy"
+    },
     {
       "id": "ci41353455",
       "lon": -116.444,
@@ -1812,16 +1842,6 @@
       "place": "81 km SSE of Akutan, Alaska",
       "time": 1793014686778,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z7"
-    },
-    {
-      "id": "us6000u4z6",
-      "lon": 165.3858,
-      "lat": -13.9396,
-      "depth": 10,
-      "mag": 5,
-      "place": "218 km NW of Port-Olry, Vanuatu",
-      "time": 1793013475055,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z6"
     }
   ]
 }
