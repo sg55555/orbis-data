@@ -1,17 +1,37 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-27T04:01:11Z",
+  "updated": "2026-10-27T04:15:40Z",
   "count": 186,
   "points": [
     {
+      "id": "aka2026vgopne",
+      "lon": -147.256,
+      "lat": 64.603,
+      "depth": 21.3,
+      "mag": 1.2,
+      "place": "11 km SW of Eielson Air Force Base, Alaska",
+      "time": 1793073702850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vgopne"
+    },
+    {
       "id": "ci41353375",
-      "lon": -116.652496337891,
-      "lat": 31.9433326721191,
-      "depth": 8.67000007629395,
-      "mag": 1.67372541555287,
-      "place": "6 km NNE of El Sauzal, B.C., MX",
-      "time": 1793073472180,
+      "lon": -116.642666666667,
+      "lat": 31.9468333333333,
+      "depth": 8.39,
+      "mag": 1.64,
+      "place": "6 km NE of El Sauzal, B.C., MX",
+      "time": 1793073472200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353375"
+    },
+    {
+      "id": "us7000tteg",
+      "lon": -78.8864,
+      "lat": -2.7707,
+      "depth": 75.447,
+      "mag": 4.1,
+      "place": "5 km SW of Azogues, Ecuador",
+      "time": 1793073323686,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tteg"
     },
     {
       "id": "ci41353367",
@@ -1842,26 +1862,6 @@
       "place": "94 km S of McCarthy, Alaska",
       "time": 1792988139816,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vetbav"
-    },
-    {
-      "id": "us6000u4xv",
-      "lon": 141.9305,
-      "lat": 40.5558,
-      "depth": 59.573,
-      "mag": 4.2,
-      "place": "37 km E of Hachinohe, Japan",
-      "time": 1792987945224,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xv"
-    },
-    {
-      "id": "ci41352647",
-      "lon": -116.707,
-      "lat": 33.5365,
-      "depth": 6.71,
-      "mag": 0.04,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1792987916800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352647"
     }
   ]
 }
