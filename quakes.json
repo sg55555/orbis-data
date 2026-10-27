@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-27T17:16:01Z",
-  "count": 198,
+  "updated": "2026-10-27T17:31:02Z",
+  "count": 197,
   "points": [
+    {
+      "id": "aka2026vhpcrg",
+      "lon": -149.535,
+      "lat": 62.156,
+      "depth": 14.5,
+      "mag": 3.7,
+      "place": "16 km E of Susitna North, Alaska",
+      "time": 1793121391164,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vhpcrg"
+    },
     {
       "id": "aka2026vhoncx",
       "lon": -152.311,
@@ -32,6 +42,16 @@
       "place": "11 km WNW of Wadsworth, Nevada",
       "time": 1793119424297,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926317"
+    },
+    {
+      "id": "tx2026vedbzv",
+      "lon": -101.93,
+      "lat": 32.097,
+      "depth": 8.7402,
+      "mag": 0.9,
+      "place": "13 km WSW of Stanton, Texas",
+      "time": 1793119068037,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vedbzv"
     },
     {
       "id": "hv75064461",
@@ -272,6 +292,16 @@
       "place": "43 km NW of Tatitlek, Alaska",
       "time": 1793110388003,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vhizqk"
+    },
+    {
+      "id": "us7000ttgc",
+      "lon": 69.9044,
+      "lat": 36.2043,
+      "depth": 115.076,
+      "mag": 4.6,
+      "place": "41 km S of Farkhār, Afghanistan",
+      "time": 1793110146874,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgc"
     },
     {
       "id": "aka2026vhhsue",
@@ -1745,12 +1775,12 @@
     },
     {
       "id": "ci41353119",
-      "lon": -117.328166666667,
-      "lat": 33.3311666666667,
-      "depth": 7.14,
-      "mag": 1.44,
-      "place": "2 km NNW of Camp Pendleton North, CA",
-      "time": 1793044788470,
+      "lon": -117.149166666667,
+      "lat": 33.3208333333333,
+      "depth": 3.54,
+      "mag": 1.25,
+      "place": "8 km SW of Pala, CA",
+      "time": 1793044790400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353119"
     },
     {
@@ -1942,46 +1972,6 @@
       "place": "3 km WSW of Cobb, CA",
       "time": 1793036200960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455161"
-    },
-    {
-      "id": "aka2026vfthzt",
-      "lon": -152.478,
-      "lat": 60.438,
-      "depth": 108,
-      "mag": 1.9,
-      "place": "62 km NW of Ninilchik, Alaska",
-      "time": 1793035399525,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vfthzt"
-    },
-    {
-      "id": "ci41352999",
-      "lon": -116.701833333333,
-      "lat": 33.5391666666667,
-      "depth": 4.96,
-      "mag": 0.17,
-      "place": "3 km SW of Anza, CA",
-      "time": 1793035154020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352999"
-    },
-    {
-      "id": "nc75455146",
-      "lon": -122.760833740234,
-      "lat": 38.8166656494141,
-      "depth": 1.9099999666214,
-      "mag": 1.03,
-      "place": "3 km W of Cobb, CA",
-      "time": 1793035009940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455146"
-    },
-    {
-      "id": "ci41352991",
-      "lon": -116.662666666667,
-      "lat": 33.4533333333333,
-      "depth": 4.4,
-      "mag": -0.01,
-      "place": "11 km S of Anza, CA",
-      "time": 1793034961100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352991"
     }
   ]
 }
