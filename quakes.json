@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-27T18:01:21Z",
-  "count": 198,
+  "updated": "2026-10-27T18:15:42Z",
+  "count": 197,
   "points": [
+    {
+      "id": "hv75064481",
+      "lon": -155.394836425781,
+      "lat": 18.9863338470459,
+      "depth": 31.4500007629395,
+      "mag": 1.71,
+      "place": "21 km ESE of Naalehu, Hawaii",
+      "time": 1793124007990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75064481"
+    },
     {
       "id": "ci41567856",
       "lon": -116.643166666667,
@@ -1514,6 +1524,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vggusw"
     },
     {
+      "id": "uw714128862",
+      "lon": -121.868,
+      "lat": 47.853,
+      "depth": 6.69,
+      "mag": 0.93,
+      "place": "3 km SE of Woods Creek, Washington",
+      "time": 1793059230080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714128862"
+    },
+    {
       "id": "ci41353287",
       "lon": -116.223,
       "lat": 33.2973333333333,
@@ -1952,36 +1972,6 @@
       "place": "31 km WNW of Nikiski, Alaska",
       "time": 1793039626525,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vfvodq"
-    },
-    {
-      "id": "nc75455196",
-      "lon": -122.776000976562,
-      "lat": 38.7948341369629,
-      "depth": 3.0699999332428,
-      "mag": 0.95,
-      "place": "3 km NW of The Geysers, CA",
-      "time": 1793038452200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455196"
-    },
-    {
-      "id": "nc75455191",
-      "lon": -122.724502563477,
-      "lat": 38.7786674499512,
-      "depth": 1.51999998092651,
-      "mag": 1.12,
-      "place": "3 km E of The Geysers, CA",
-      "time": 1793038278170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455191"
-    },
-    {
-      "id": "us7000ttb5",
-      "lon": 71.0764,
-      "lat": 38.6442,
-      "depth": 47.345,
-      "mag": 4.5,
-      "place": "74 km SE of Rasht, Tajikistan",
-      "time": 1793038024209,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttb5"
     }
   ]
 }
