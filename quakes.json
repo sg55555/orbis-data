@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-27T15:01:19Z",
-  "count": 182,
+  "updated": "2026-10-27T15:15:46Z",
+  "count": 180,
   "points": [
     {
       "id": "nc75455606",
@@ -22,6 +22,26 @@
       "place": "13 km SSW of Alamo, Nevada",
       "time": 1793112876859,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926312"
+    },
+    {
+      "id": "us7000ttgf",
+      "lon": 110.3305,
+      "lat": -9.1162,
+      "depth": 10,
+      "mag": 5.4,
+      "place": "128 km S of Pundong, Indonesia",
+      "time": 1793112240933,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgf"
+    },
+    {
+      "id": "us7000ttgh",
+      "lon": 110.2973,
+      "lat": -9.3662,
+      "depth": 20.614,
+      "mag": 4.9,
+      "place": "156 km S of Pundong, Indonesia",
+      "time": 1793112189497,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgh"
     },
     {
       "id": "aka2026vhjrov",
@@ -1014,6 +1034,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte0"
     },
     {
+      "id": "uu80161896",
+      "lon": -112.008333333333,
+      "lat": 39.8298333333333,
+      "depth": 5.99,
+      "mag": 0.78,
+      "place": "13 km W of Mona, Utah",
+      "time": 1793063849910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161896"
+    },
+    {
       "id": "nc75455416",
       "lon": -122.821662902832,
       "lat": 38.8344993591309,
@@ -1772,56 +1802,6 @@
       "place": "5 km NW of The Geysers, CA",
       "time": 1793027874340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455096"
-    },
-    {
-      "id": "nc75455091",
-      "lon": -122.770164489746,
-      "lat": 38.7960014343262,
-      "depth": 1.75999999046326,
-      "mag": 1.04,
-      "place": "2 km NNW of The Geysers, CA",
-      "time": 1793027417810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455091"
-    },
-    {
-      "id": "nn00926270",
-      "lon": -118.8368,
-      "lat": 41.4409,
-      "depth": 5.0952,
-      "mag": 1.78,
-      "place": "63 km SSW of Denio, Nevada",
-      "time": 1793027407196,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926270"
-    },
-    {
-      "id": "nc75455086",
-      "lon": -122.761497497559,
-      "lat": 38.7948341369629,
-      "depth": 1.23000001907349,
-      "mag": 1.01,
-      "place": "2 km NNW of The Geysers, CA",
-      "time": 1793027327180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455086"
-    },
-    {
-      "id": "us7000ttby",
-      "lon": 165.9223,
-      "lat": -14.2093,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "154 km NW of Port-Olry, Vanuatu",
-      "time": 1793027305118,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttby"
-    },
-    {
-      "id": "uu80161841",
-      "lon": -113.306333333333,
-      "lat": 39.8601666666667,
-      "depth": 3.71,
-      "mag": 1.31,
-      "place": "62 km SW of Dugway, Utah",
-      "time": 1793026869730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161841"
     }
   ]
 }
