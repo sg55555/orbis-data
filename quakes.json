@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-27T11:01:17Z",
-  "count": 183,
+  "updated": "2026-10-27T11:15:43Z",
+  "count": 182,
   "points": [
+    {
+      "id": "ci41353455",
+      "lon": -116.444,
+      "lat": 33.4853333333333,
+      "depth": 7.74,
+      "mag": 0.72,
+      "place": "23 km ESE of Anza, CA",
+      "time": 1793099398410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353455"
+    },
+    {
+      "id": "aka2026vhcwqc",
+      "lon": -152.282,
+      "lat": 59.553,
+      "depth": 68.6,
+      "mag": 1.8,
+      "place": "29 km NW of Nanwalek, Alaska",
+      "time": 1793099381109,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vhcwqc"
+    },
     {
       "id": "aka2026vhchzv",
       "lon": -155.161,
@@ -12,6 +32,16 @@
       "place": "61 km W of Akhiok, Alaska",
       "time": 1793098364773,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vhchzv"
+    },
+    {
+      "id": "us7000ttfk",
+      "lon": 165.6479,
+      "lat": -14.0067,
+      "depth": 10,
+      "mag": 5.2,
+      "place": "191 km NW of Port-Olry, Vanuatu",
+      "time": 1793098235418,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfk"
     },
     {
       "id": "aka2026vhccez",
@@ -1792,46 +1822,6 @@
       "place": "218 km NW of Port-Olry, Vanuatu",
       "time": 1793013475055,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z6"
-    },
-    {
-      "id": "ci41352775",
-      "lon": -116.889,
-      "lat": 33.9165,
-      "depth": 12.06,
-      "mag": 0.47,
-      "place": "2 km SW of Banning, CA",
-      "time": 1793012863220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352775"
-    },
-    {
-      "id": "aka2026vfgtuf",
-      "lon": -146.442,
-      "lat": 61.673,
-      "depth": 35.9,
-      "mag": 1.3,
-      "place": "39 km SSE of Nelchina, Alaska",
-      "time": 1793012826388,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vfgtuf"
-    },
-    {
-      "id": "us6000u4z3",
-      "lon": -27.7087,
-      "lat": -59.8141,
-      "depth": 173.493,
-      "mag": 4.8,
-      "place": "South Sandwich Islands region",
-      "time": 1793012515933,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z3"
-    },
-    {
-      "id": "ci41352767",
-      "lon": -116.804833333333,
-      "lat": 33.5666666666667,
-      "depth": 6.3,
-      "mag": -0.09,
-      "place": "12 km W of Anza, CA",
-      "time": 1793012508560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352767"
     }
   ]
 }
