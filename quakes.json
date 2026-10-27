@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-27T12:01:13Z",
-  "count": 185,
+  "updated": "2026-10-27T12:15:44Z",
+  "count": 184,
   "points": [
     {
       "id": "nn00926305",
@@ -32,6 +32,16 @@
       "place": "8 km ENE of Gilroy, CA",
       "time": 1793101405250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455586"
+    },
+    {
+      "id": "us7000ttfs",
+      "lon": -66.6616,
+      "lat": -23.1819,
+      "depth": 206.259,
+      "mag": 4.6,
+      "place": "100 km W of El Aguilar, Argentina",
+      "time": 1793101282141,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfs"
     },
     {
       "id": "hv75064391",
@@ -195,12 +205,12 @@
     },
     {
       "id": "ok2026vazy",
-      "lon": -98.76320648,
-      "lat": 36.46788406,
-      "depth": 6.562623501,
+      "lon": -98.76433333,
+      "lat": 36.46066667,
+      "depth": 7.62,
       "mag": 1.81,
-      "place": "16 km SE of Waynoka, Oklahoma",
-      "time": 1793092934196,
+      "place": "17 km SE of Waynoka, Oklahoma",
+      "time": 1793092934539,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vazy"
     },
     {
@@ -1832,26 +1842,6 @@
       "place": "43 km WNW of Valdez, Alaska",
       "time": 1793017480126,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vfjjan"
-    },
-    {
-      "id": "us6000u4zb",
-      "lon": 165.6029,
-      "lat": -13.8613,
-      "depth": 10,
-      "mag": 5.2,
-      "place": "205 km NW of Port-Olry, Vanuatu",
-      "time": 1793016810652,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4zb"
-    },
-    {
-      "id": "aka2026vfipge",
-      "lon": -150.24,
-      "lat": 60.534,
-      "depth": 38.4,
-      "mag": 2.1,
-      "place": "23 km WNW of Cooper Landing, Alaska",
-      "time": 1793016111175,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vfipge"
     }
   ]
 }
