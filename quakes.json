@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-27T21:30:57Z",
-  "count": 198,
+  "updated": "2026-10-27T21:45:42Z",
+  "count": 202,
   "points": [
+    {
+      "id": "nc75458707",
+      "lon": -122.836334228516,
+      "lat": 38.8401679992676,
+      "depth": 1.72000002861023,
+      "mag": 0.63,
+      "place": "10 km NW of The Geysers, CA",
+      "time": 1793137319260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458707"
+    },
+    {
+      "id": "nc75458702",
+      "lon": -122.83683013916,
+      "lat": 38.8413314819336,
+      "depth": 1.76999998092651,
+      "mag": 0.72,
+      "place": "10 km NW of The Geysers, CA",
+      "time": 1793137264680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458702"
+    },
+    {
+      "id": "nc75458697",
+      "lon": -122.83716583252,
+      "lat": 38.8411674499512,
+      "depth": 1.92999994754791,
+      "mag": 0.27,
+      "place": "10 km NW of The Geysers, CA",
+      "time": 1793137033000,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458697"
+    },
     {
       "id": "nc75458692",
       "lon": -122.835998535156,
@@ -352,6 +382,16 @@
       "place": "43 km NW of Tatitlek, Alaska",
       "time": 1793116564952,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vhmkxp"
+    },
+    {
+      "id": "hv75064441",
+      "lon": -156.080833333333,
+      "lat": 19.7595,
+      "depth": 6.37,
+      "mag": 2.11,
+      "place": "10 km WNW of Kalaoa, Hawaii",
+      "time": 1793116512220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75064441"
     },
     {
       "id": "aka2026vhmjgz",
@@ -1104,6 +1144,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vgxzpg"
     },
     {
+      "id": "tx2026vdnkew",
+      "lon": -98.952,
+      "lat": 28.814,
+      "depth": 7.6151,
+      "mag": 2,
+      "place": "16 km ESE of Pearsall, Texas",
+      "time": 1793090463838,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vdnkew"
+    },
+    {
       "id": "nc75455551",
       "lon": -118.830497741699,
       "lat": 37.4449996948242,
@@ -1585,12 +1635,12 @@
     },
     {
       "id": "ci41353319",
-      "lon": -116.768,
-      "lat": 33.574,
-      "depth": 12.03,
-      "mag": 2.36,
+      "lon": -116.768666666667,
+      "lat": 33.5751666666667,
+      "depth": 12.38,
+      "mag": 2.19,
       "place": "9 km WNW of Anza, CA",
-      "time": 1793067330990,
+      "time": 1793067330950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353319"
     },
     {
@@ -1972,16 +2022,6 @@
       "place": "14 km ENE of Ashford, Washington",
       "time": 1793052466400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714128722"
-    },
-    {
-      "id": "ci41353207",
-      "lon": -116.710333333333,
-      "lat": 33.5345,
-      "depth": 6.66,
-      "mag": 1.34,
-      "place": "4 km SW of Anza, CA",
-      "time": 1793050400910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353207"
     }
   ]
 }
