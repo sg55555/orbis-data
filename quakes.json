@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-27T07:45:40Z",
-  "count": 185,
+  "updated": "2026-10-27T08:01:10Z",
+  "count": 183,
   "points": [
+    {
+      "id": "ci41353431",
+      "lon": -116.731833333333,
+      "lat": 33.6936666666667,
+      "depth": 17.26,
+      "mag": 0.22,
+      "place": "5 km SSW of Idyllwild, CA",
+      "time": 1793087251960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353431"
+    },
     {
       "id": "nc75455536",
       "lon": -122.835334777832,
@@ -1822,36 +1832,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1793001784600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455011"
-    },
-    {
-      "id": "aka2026vfaieb",
-      "lon": -148.096,
-      "lat": 61.657,
-      "depth": 12.5,
-      "mag": 0.8,
-      "place": "24 km SE of Chickaloon, Alaska",
-      "time": 1793001227109,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vfaieb"
-    },
-    {
-      "id": "ci41352711",
-      "lon": -116.4645,
-      "lat": 33.4103333333333,
-      "depth": 12.69,
-      "mag": 0.86,
-      "place": "19 km NNW of Borrego Springs, CA",
-      "time": 1793000931220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352711"
-    },
-    {
-      "id": "us6000u4yi",
-      "lon": 77.9297,
-      "lat": 40.2886,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "107 km WNW of Tumxuk, China",
-      "time": 1793000896240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yi"
     }
   ]
 }
