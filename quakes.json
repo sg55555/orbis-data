@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-27T18:45:42Z",
-  "count": 198,
+  "updated": "2026-10-27T19:01:13Z",
+  "count": 200,
   "points": [
+    {
+      "id": "hv75064501",
+      "lon": -155.521835327148,
+      "lat": 19.1865005493164,
+      "depth": 30.0900001525879,
+      "mag": 2.54,
+      "place": "4 km WSW of Pāhala, Hawaii",
+      "time": 1793127008770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75064501"
+    },
     {
       "id": "nc75455681",
       "lon": -123.215667724609,
@@ -35,12 +45,12 @@
     },
     {
       "id": "uu80161941",
-      "lon": -112.908833333333,
-      "lat": 38.5095,
-      "depth": 2.63,
-      "mag": 2.08,
+      "lon": -112.909166666667,
+      "lat": 38.5125,
+      "depth": 2.92,
+      "mag": 2.1,
       "place": "15 km NE of Milford, Utah",
-      "time": 1793123111570,
+      "time": 1793123111530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161941"
     },
     {
@@ -344,6 +354,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vdzfjl"
     },
     {
+      "id": "uw714129002",
+      "lon": -122.047333333333,
+      "lat": 46.2555,
+      "depth": 10.1,
+      "mag": 0.58,
+      "place": "37 km SSE of Morton, Washington",
+      "time": 1793111777710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714129002"
+    },
+    {
       "id": "aka2026vhjrov",
       "lon": -149.324,
       "lat": 59.967,
@@ -495,12 +515,12 @@
     },
     {
       "id": "nn00926305",
-      "lon": -119.0466,
-      "lat": 39.0969,
-      "depth": 9.4886,
-      "mag": 1.56,
+      "lon": -119.0482,
+      "lat": 39.0981,
+      "depth": 10.7252,
+      "mag": 1.51,
       "place": "15 km NE of Yerington, Nevada",
-      "time": 1793101953304,
+      "time": 1793101953849,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926305"
     },
     {
@@ -552,6 +572,16 @@
       "place": "100 km W of El Aguilar, Argentina",
       "time": 1793101282141,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfs"
+    },
+    {
+      "id": "uw714128982",
+      "lon": -121.706333333333,
+      "lat": 46.8451666666667,
+      "depth": -2.31,
+      "mag": 0.22,
+      "place": "26 km ENE of Ashford, Washington",
+      "time": 1793101131410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714128982"
     },
     {
       "id": "hv75064391",
@@ -1972,16 +2002,6 @@
       "place": "1 km W of Indios, Puerto Rico",
       "time": 1793041323180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537693"
-    },
-    {
-      "id": "ci41353055",
-      "lon": -119.517333333333,
-      "lat": 34.6418333333333,
-      "depth": 2.72,
-      "mag": 1.92,
-      "place": "25 km NNE of Montecito, CA",
-      "time": 1793040846940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353055"
     }
   ]
 }
