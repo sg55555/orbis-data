@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-27T18:31:03Z",
-  "count": 200,
+  "updated": "2026-10-27T18:45:42Z",
+  "count": 198,
   "points": [
+    {
+      "id": "nc75455681",
+      "lon": -123.215667724609,
+      "lat": 39.3629989624023,
+      "depth": 8.02000045776367,
+      "mag": 1.55,
+      "place": "11 km N of Redwood Valley, CA",
+      "time": 1793126310720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455681"
+    },
     {
       "id": "aka2026vhqzvt",
       "lon": -151.32,
@@ -132,6 +142,16 @@
       "place": "9 km WNW of Cobb, CA",
       "time": 1793117510150,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455641"
+    },
+    {
+      "id": "us7000tth4",
+      "lon": 119.8508,
+      "lat": 18.2708,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "70 km WNW of Callaguip, Philippines",
+      "time": 1793117273845,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tth4"
     },
     {
       "id": "us7000ttgz",
@@ -1962,46 +1982,6 @@
       "place": "25 km NNE of Montecito, CA",
       "time": 1793040846940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353055"
-    },
-    {
-      "id": "hv75064126",
-      "lon": -154.988494873047,
-      "lat": 19.2723331451416,
-      "depth": 34.5200004577637,
-      "mag": 1.77,
-      "place": "23 km SSW of Leilani Estates, Hawaii",
-      "time": 1793040258940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75064126"
-    },
-    {
-      "id": "ci41353047",
-      "lon": -119.517833333333,
-      "lat": 34.6445,
-      "depth": 8.07,
-      "mag": 2.24,
-      "place": "25 km NNE of Montecito, CA",
-      "time": 1793040206240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353047"
-    },
-    {
-      "id": "aka2026vfvtdi",
-      "lon": -155.346,
-      "lat": 58.163,
-      "depth": 5,
-      "mag": 0.9,
-      "place": "84 km NW of Karluk, Alaska",
-      "time": 1793039770259,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vfvtdi"
-    },
-    {
-      "id": "aka2026vfvodq",
-      "lon": -151.855,
-      "lat": 60.759,
-      "depth": 86.8,
-      "mag": 1.8,
-      "place": "31 km WNW of Nikiski, Alaska",
-      "time": 1793039626525,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vfvodq"
     }
   ]
 }
