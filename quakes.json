@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-27T22:30:57Z",
-  "count": 210,
+  "updated": "2026-10-27T22:45:43Z",
+  "count": 208,
   "points": [
+    {
+      "id": "nc75458742",
+      "lon": -121.675498962402,
+      "lat": 37.3064994812012,
+      "depth": 6.6100001335144,
+      "mag": 1.34,
+      "place": "15 km E of Seven Trees, CA",
+      "time": 1793140406490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458742"
+    },
     {
       "id": "nc75458737",
       "lon": -122.837997436523,
@@ -2072,36 +2082,6 @@
       "place": "1 km S of Pāhala, Hawaii",
       "time": 1793055012910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75064161"
-    },
-    {
-      "id": "aka2026vgdsgu",
-      "lon": -157.647,
-      "lat": 55.98,
-      "depth": 38.9,
-      "mag": 2.4,
-      "place": "58 km SE of Chignik, Alaska",
-      "time": 1793054102481,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vgdsgu"
-    },
-    {
-      "id": "ci41353239",
-      "lon": -116.7665,
-      "lat": 33.6731666666667,
-      "depth": 18.62,
-      "mag": 1.66,
-      "place": "9 km SSW of Idyllwild, CA",
-      "time": 1793054101330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353239"
-    },
-    {
-      "id": "us7000ttd1",
-      "lon": 46.0831,
-      "lat": -12.4277,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "96 km ENE of Pamandzi, Mayotte",
-      "time": 1793054028538,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttd1"
     }
   ]
 }
