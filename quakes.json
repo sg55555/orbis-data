@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-27T16:15:45Z",
-  "count": 200,
+  "updated": "2026-10-27T16:32:01Z",
+  "count": 202,
   "points": [
+    {
+      "id": "hv75064461",
+      "lon": -155.445159912109,
+      "lat": 19.1688327789307,
+      "depth": 30.5900001525879,
+      "mag": 2.35,
+      "place": "5 km SE of Pāhala, Hawaii",
+      "time": 1793118330590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75064461"
+    },
+    {
+      "id": "nc75455646",
+      "lon": -121.296165466309,
+      "lat": 36.9269981384277,
+      "depth": 5.55999994277954,
+      "mag": 1.35,
+      "place": "13 km NE of Hollister, CA",
+      "time": 1793118202140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455646"
+    },
+    {
+      "id": "ci41353591",
+      "lon": -117.698166666667,
+      "lat": 33.8888333333333,
+      "depth": 7.72,
+      "mag": 1.8,
+      "place": "11 km E of Yorba Linda, CA",
+      "time": 1793117793590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353591"
+    },
     {
       "id": "nc75455641",
       "lon": -122.827003479004,
@@ -1914,6 +1944,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455146"
     },
     {
+      "id": "ci41352991",
+      "lon": -116.662666666667,
+      "lat": 33.4533333333333,
+      "depth": 4.4,
+      "mag": -0.01,
+      "place": "11 km S of Anza, CA",
+      "time": 1793034961100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352991"
+    },
+    {
       "id": "aka2026vfszkd",
       "lon": -148.224,
       "lat": 62.113,
@@ -1925,12 +1965,12 @@
     },
     {
       "id": "ci41352951",
-      "lon": -116.589996337891,
-      "lat": 33.3823318481445,
-      "depth": 21,
-      "mag": 1.46765293588495,
-      "place": "12 km NNE of Warner Springs, CA",
-      "time": 1793034033770,
+      "lon": -116.495333333333,
+      "lat": 33.5046666666667,
+      "depth": 13.37,
+      "mag": 0.31,
+      "place": "17 km ESE of Anza, CA",
+      "time": 1793034034670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352951"
     },
     {
@@ -1982,26 +2022,6 @@
       "place": "5 km ENE of Pinnacles, CA",
       "time": 1793032637740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455111"
-    },
-    {
-      "id": "ci41352927",
-      "lon": -119.542833333333,
-      "lat": 34.6588333333333,
-      "depth": 8.89,
-      "mag": 1.09,
-      "place": "26 km NNE of Montecito, CA",
-      "time": 1793032026350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352927"
-    },
-    {
-      "id": "ok2026uzsk",
-      "lon": -94.8075,
-      "lat": 36.74416667,
-      "depth": 0,
-      "mag": 1.24,
-      "place": "3 km ESE of Fairland, Oklahoma",
-      "time": 1793031889009,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026uzsk"
     }
   ]
 }
