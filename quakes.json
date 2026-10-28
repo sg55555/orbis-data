@@ -1,16 +1,16 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T21:15:43Z",
-  "count": 238,
+  "updated": "2026-10-28T21:30:59Z",
+  "count": 234,
   "points": [
     {
       "id": "aka2026vjtara",
-      "lon": -149.861,
-      "lat": 60.064,
-      "depth": 35.9,
-      "mag": 2.2,
+      "lon": -149.87,
+      "lat": 60.072,
+      "depth": 32,
+      "mag": 2.1,
       "place": "23 km W of Lowell Point, Alaska",
-      "time": 1793222005475,
+      "time": 1793222005461,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vjtara"
     },
     {
@@ -312,6 +312,16 @@
       "place": "67 km ENE of Pedro Bay, Alaska",
       "time": 1793209808424,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vjmgfa"
+    },
+    {
+      "id": "us7000ttsq",
+      "lon": 94.2416,
+      "lat": 32.7514,
+      "depth": 10,
+      "mag": 4,
+      "place": "249 km NE of Nagqu, China",
+      "time": 1793209698037,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttsq"
     },
     {
       "id": "aka2026vjmdwd",
@@ -664,14 +674,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458957"
     },
     {
-      "id": "aka2026vjdyyr",
-      "lon": -153.275,
-      "lat": 59.992,
-      "depth": 5,
-      "mag": 0.4,
-      "place": "51 km ENE of Pedro Bay, Alaska",
-      "time": 1793194903364,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vjdyyr"
+      "id": "aka2026vjejgl",
+      "lon": -166.59,
+      "lat": 52.458,
+      "depth": 3.8,
+      "mag": 2.9,
+      "place": "157 km S of Unalaska, Alaska",
+      "time": 1793195655349,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vjejgl"
     },
     {
       "id": "ci41568144",
@@ -712,16 +722,6 @@
       "place": "28 km SSE of Waimea, Hawaii",
       "time": 1793193813660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75064911"
-    },
-    {
-      "id": "aka2026vjcwzy",
-      "lon": -152.076,
-      "lat": 61.333,
-      "depth": 5,
-      "mag": 0.5,
-      "place": "57 km WNW of Beluga, Alaska",
-      "time": 1793192967267,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vjcwzy"
     },
     {
       "id": "us7000ttp2",
@@ -2342,46 +2342,6 @@
       "place": "10 km NW of The Geysers, CA",
       "time": 1793137033000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458697"
-    },
-    {
-      "id": "nc75458692",
-      "lon": -122.835998535156,
-      "lat": 38.8408317565918,
-      "depth": 1.42999994754791,
-      "mag": 0.69,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1793136521550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458692"
-    },
-    {
-      "id": "ci41567944",
-      "lon": -116.5145,
-      "lat": 33.1036666666667,
-      "depth": 13.9,
-      "mag": 0.55,
-      "place": "9 km ENE of Julian, CA",
-      "time": 1793136460910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41567944"
-    },
-    {
-      "id": "ci41567936",
-      "lon": -116.756166666667,
-      "lat": 34.0243333333333,
-      "depth": 17.71,
-      "mag": 1.63,
-      "place": "12 km NNE of Cabazon, CA",
-      "time": 1793135989990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41567936"
-    },
-    {
-      "id": "ci41567920",
-      "lon": -116.752833333333,
-      "lat": 34.0251666666667,
-      "depth": 17.15,
-      "mag": 1.23,
-      "place": "12 km NNE of Cabazon, CA",
-      "time": 1793135888710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41567920"
     }
   ]
 }
