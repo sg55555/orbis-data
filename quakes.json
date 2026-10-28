@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T10:30:58Z",
-  "count": 190,
+  "updated": "2026-10-28T10:45:42Z",
+  "count": 192,
   "points": [
+    {
+      "id": "ci41568080",
+      "lon": -116.708503723145,
+      "lat": 33.5366668701172,
+      "depth": 6.67999982833862,
+      "mag": 1.23431973754579,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1793183927890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568080"
+    },
+    {
+      "id": "nc75458872",
+      "lon": -122.793830871582,
+      "lat": 38.820499420166,
+      "depth": 2.66000008583069,
+      "mag": 1.02,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1793183717250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458872"
+    },
+    {
+      "id": "nc75458867",
+      "lon": -122.801002502441,
+      "lat": 38.835334777832,
+      "depth": 1.85000002384186,
+      "mag": 0.52,
+      "place": "7 km WNW of Cobb, CA",
+      "time": 1793183702370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458867"
+    },
     {
       "id": "ci41568064",
       "lon": -116.407669067383,
@@ -44,14 +74,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026viwjci"
     },
     {
-      "id": "us7000ttn0",
-      "lon": -65.3403,
-      "lat": 17.9478,
-      "depth": 32.782,
-      "mag": 3.8,
+      "id": "pr2026301000",
+      "lon": -65.3388,
+      "lat": 17.9548,
+      "depth": 25,
+      "mag": 4.07,
       "place": "21 km SE of Esperanza, Puerto Rico",
-      "time": 1793180639075,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttn0"
+      "time": 1793180640460,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026301000"
     },
     {
       "id": "aka2026vivuoe",
@@ -1892,16 +1922,6 @@
       "place": "66 km ESE of McCarthy, Alaska",
       "time": 1793097970403,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vhccez"
-    },
-    {
-      "id": "aka2026vhcaon",
-      "lon": -165.535,
-      "lat": 52.902,
-      "depth": 0,
-      "mag": 2.7,
-      "place": "126 km SSE of Unalaska, Alaska",
-      "time": 1793097857912,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vhcaon"
     }
   ]
 }
