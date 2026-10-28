@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T16:15:46Z",
-  "count": 206,
+  "updated": "2026-10-28T16:31:08Z",
+  "count": 207,
   "points": [
+    {
+      "id": "ci41568256",
+      "lon": -117.213668823242,
+      "lat": 34.037166595459,
+      "depth": 5.48000001907349,
+      "mag": 1.39157196791506,
+      "place": "4 km SW of Redlands, CA",
+      "time": 1793204683410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568256"
+    },
     {
       "id": "nc75459002",
       "lon": -122.946830749512,
@@ -42,6 +52,16 @@
       "place": "32 km ENE of McKinney Acres, Texas",
       "time": 1793203030290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vfxovp"
+    },
+    {
+      "id": "us7000ttpk",
+      "lon": 82.8042,
+      "lat": 44.2394,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "81 km ENE of Mazha, China",
+      "time": 1793202055130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpk"
     },
     {
       "id": "ci41568224",
@@ -365,12 +385,12 @@
     },
     {
       "id": "nc75458907",
-      "lon": -122.951835632324,
-      "lat": 39.5004997253418,
-      "depth": 10.5900001525879,
+      "lon": -122.952166666667,
+      "lat": 39.5008333333333,
+      "depth": 11.59,
       "mag": 4.01,
       "place": "10 km N of Lake Pillsbury, CA",
-      "time": 1793188871470,
+      "time": 1793188871490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458907"
     },
     {
@@ -482,6 +502,16 @@
       "place": "12 km NNW of Silver Peak, Nevada",
       "time": 1793186144407,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926354"
+    },
+    {
+      "id": "nm60628776",
+      "lon": -89.6133333333333,
+      "lat": 36.7203333333333,
+      "depth": 5.77,
+      "mag": 1.73,
+      "place": "4 km SSW of Matthews, Missouri",
+      "time": 1793185701040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60628776"
     },
     {
       "id": "aka2026viylbm",
@@ -752,6 +782,16 @@
       "place": "18 km ENE of San Martin, CA",
       "time": 1793175606200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458832"
+    },
+    {
+      "id": "tx2026vfidxo",
+      "lon": -103.281,
+      "lat": 32.029,
+      "depth": 6.7151,
+      "mag": 0.9,
+      "place": "12 km SW of Jal, New Mexico",
+      "time": 1793175115855,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vfidxo"
     },
     {
       "id": "ci41568048",
@@ -2032,36 +2072,6 @@
       "place": "13 km WSW of Stanton, Texas",
       "time": 1793119068037,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vedbzv"
-    },
-    {
-      "id": "hv75064461",
-      "lon": -155.457666666667,
-      "lat": 19.1786666666667,
-      "depth": 31.42,
-      "mag": 1.95,
-      "place": "3 km SE of Pāhala, Hawaii",
-      "time": 1793118330560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75064461"
-    },
-    {
-      "id": "nc75455646",
-      "lon": -121.296165466309,
-      "lat": 36.9269981384277,
-      "depth": 5.55999994277954,
-      "mag": 1.35,
-      "place": "13 km NE of Hollister, CA",
-      "time": 1793118202140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455646"
-    },
-    {
-      "id": "ci41353591",
-      "lon": -117.698333333333,
-      "lat": 33.8925,
-      "depth": 8.41,
-      "mag": 0.86,
-      "place": "11 km E of Yorba Linda, CA",
-      "time": 1793117793480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353591"
     }
   ]
 }
