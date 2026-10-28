@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T22:15:41Z",
-  "count": 226,
+  "updated": "2026-10-28T22:30:58Z",
+  "count": 227,
   "points": [
+    {
+      "id": "ci41568464",
+      "lon": -117.241,
+      "lat": 34.031,
+      "depth": 3.27,
+      "mag": 0.94,
+      "place": "3 km SE of Loma Linda, CA",
+      "time": 1793226311960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568464"
+    },
     {
       "id": "aka2026vjuwbc",
       "lon": -141.088,
@@ -12,6 +22,16 @@
       "place": "88 km WNW of Yakutat, Alaska",
       "time": 1793225286369,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vjuwbc"
+    },
+    {
+      "id": "us7000ttua",
+      "lon": 130.3764,
+      "lat": -6.3958,
+      "depth": 128.068,
+      "mag": 5.7,
+      "place": "276 km WSW of Tual, Indonesia",
+      "time": 1793225204731,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttua"
     },
     {
       "id": "tx2026vgingz",
@@ -102,6 +122,16 @@
       "place": "92 km E of McCarthy, Alaska",
       "time": 1793218957758,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vjrhtm"
+    },
+    {
+      "id": "us7000ttts",
+      "lon": 140.885,
+      "lat": 35.6474,
+      "depth": 26.025,
+      "mag": 4.3,
+      "place": "10 km SSE of Hasaki, Japan",
+      "time": 1793218950306,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttts"
     },
     {
       "id": "uw714131431",
@@ -1615,12 +1645,12 @@
     },
     {
       "id": "ci41568024",
-      "lon": -118.261833333333,
-      "lat": 34.1105,
-      "depth": 10.35,
-      "mag": 1.67,
-      "place": "2 km N of Silver Lake, CA",
-      "time": 1793161288860,
+      "lon": -118.259333333333,
+      "lat": 34.1103333333333,
+      "depth": 10.94,
+      "mag": 1.68,
+      "place": "2 km NNE of Silver Lake, CA",
+      "time": 1793161288840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568024"
     },
     {
@@ -2242,26 +2272,6 @@
       "place": "15 km E of Seven Trees, CA",
       "time": 1793140406490,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458742"
-    },
-    {
-      "id": "uu80161966",
-      "lon": -110.377,
-      "lat": 44.6095,
-      "depth": 3.92,
-      "mag": 0.55,
-      "place": "48 km SSE of Mammoth, Wyoming",
-      "time": 1793140150930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161966"
-    },
-    {
-      "id": "nc75458737",
-      "lon": -122.837997436523,
-      "lat": 38.8409996032715,
-      "depth": 1.67999994754791,
-      "mag": 0.71,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1793139512100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458737"
     }
   ]
 }
