@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T21:30:59Z",
-  "count": 234,
+  "updated": "2026-10-28T21:45:57Z",
+  "count": 232,
   "points": [
+    {
+      "id": "us7000ttu5",
+      "lon": -104.2495,
+      "lat": 31.672,
+      "depth": 15.568,
+      "mag": 3.6,
+      "place": "57 km SSE of Whites City, New Mexico",
+      "time": 1793222840247,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttu5"
+    },
     {
       "id": "aka2026vjtara",
       "lon": -149.87,
@@ -102,6 +112,16 @@
       "place": "6 km WNW of The Geysers, CA",
       "time": 1793217993960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459072"
+    },
+    {
+      "id": "uu80008278",
+      "lon": -110.783666666667,
+      "lat": 39.7198333333333,
+      "depth": -3.41,
+      "mag": 1.72,
+      "place": "3 km NNE of Kenilworth, Utah",
+      "time": 1793217772640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80008278"
     },
     {
       "id": "us7000tttl",
@@ -242,16 +262,6 @@
       "place": "31 km NNW of Karluk, Alaska",
       "time": 1793212639305,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vjnvid"
-    },
-    {
-      "id": "aka2026vjngyb",
-      "lon": -152.26,
-      "lat": 61.333,
-      "depth": 5,
-      "mag": 0.6,
-      "place": "66 km WNW of Beluga, Alaska",
-      "time": 1793211646119,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vjngyb"
     },
     {
       "id": "ci41568360",
@@ -2312,36 +2322,6 @@
       "place": "5 km SSW of Pāhala, Hawaii",
       "time": 1793137641860,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75064566"
-    },
-    {
-      "id": "nc75458707",
-      "lon": -122.836334228516,
-      "lat": 38.8401679992676,
-      "depth": 1.72000002861023,
-      "mag": 0.63,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1793137319260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458707"
-    },
-    {
-      "id": "nc75458702",
-      "lon": -122.83683013916,
-      "lat": 38.8413314819336,
-      "depth": 1.76999998092651,
-      "mag": 0.72,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1793137264680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458702"
-    },
-    {
-      "id": "nc75458697",
-      "lon": -122.83716583252,
-      "lat": 38.8411674499512,
-      "depth": 1.92999994754791,
-      "mag": 0.27,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1793137033000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458697"
     }
   ]
 }
