@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T14:15:47Z",
-  "count": 202,
+  "updated": "2026-10-28T14:31:07Z",
+  "count": 203,
   "points": [
+    {
+      "id": "aka2026vjflhp",
+      "lon": -149.623,
+      "lat": 62.722,
+      "depth": 69.2,
+      "mag": 2.1,
+      "place": "39 km NE of Chase, Alaska",
+      "time": 1793197554861,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vjflhp"
+    },
     {
       "id": "nc75458957",
       "lon": -122.768501281738,
@@ -1175,12 +1185,12 @@
     },
     {
       "id": "uu80161976",
-      "lon": -112.912666666667,
-      "lat": 38.5185,
-      "depth": 3.94,
+      "lon": -112.912833333333,
+      "lat": 38.5175,
+      "depth": 3.67,
       "mag": 1.52,
       "place": "15 km NNE of Milford, Utah",
-      "time": 1793143869260,
+      "time": 1793143869270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161976"
     },
     {
@@ -1442,6 +1452,16 @@
       "place": "13 km NNE of Cabazon, CA",
       "time": 1793135888610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41567920"
+    },
+    {
+      "id": "tx2026vemfno",
+      "lon": -98.942,
+      "lat": 28.86,
+      "depth": 8.6685,
+      "mag": 1.9,
+      "place": "15 km ESE of Pearsall, Texas",
+      "time": 1793135396561,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vemfno"
     },
     {
       "id": "us7000ttju",
@@ -2012,16 +2032,6 @@
       "place": "13 km SSE of Lowell Point, Alaska",
       "time": 1793111628669,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vhjrov"
-    },
-    {
-      "id": "aka2026vhjged",
-      "lon": -152.029,
-      "lat": 61.261,
-      "depth": 107.2,
-      "mag": 1.7,
-      "place": "52 km WNW of Beluga, Alaska",
-      "time": 1793110841749,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vhjged"
     }
   ]
 }
