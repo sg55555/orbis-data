@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T15:31:06Z",
-  "count": 206,
+  "updated": "2026-10-28T15:45:45Z",
+  "count": 208,
   "points": [
+    {
+      "id": "ci41568224",
+      "lon": -118.542503356934,
+      "lat": 33.6456680297852,
+      "depth": 8.22000026702881,
+      "mag": 1.90082716889179,
+      "place": "18 km SW of Rancho Palos Verdes, CA",
+      "time": 1793201332300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568224"
+    },
+    {
+      "id": "tx2026vfwjwm",
+      "lon": -98.945,
+      "lat": 28.817,
+      "depth": 4.0091,
+      "mag": 1.7,
+      "place": "16 km ESE of Pearsall, Texas",
+      "time": 1793200870281,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vfwjwm"
+    },
     {
       "id": "aka2026vjhcrj",
       "lon": -151.494,
@@ -632,6 +652,16 @@
       "place": "3 km SE of Wetumka, Oklahoma",
       "time": 1793176909810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vcud"
+    },
+    {
+      "id": "tx2026vfjdnb",
+      "lon": -98.926,
+      "lat": 28.914,
+      "depth": 5.8534,
+      "mag": 1.5,
+      "place": "15 km SSW of Bigfoot, Texas",
+      "time": 1793176893910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vfjdnb"
     },
     {
       "id": "aka2026vitwom",
@@ -1794,6 +1824,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vhqzvt"
     },
     {
+      "id": "ci41567872",
+      "lon": -116.781666666667,
+      "lat": 33.6866666666667,
+      "depth": 14.89,
+      "mag": 0.61,
+      "place": "8 km SW of Idyllwild, CA",
+      "time": 1793124540440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41567872"
+    },
+    {
       "id": "hv75064481",
       "lon": -155.394836425781,
       "lat": 18.9863338470459,
@@ -1935,12 +1975,12 @@
     },
     {
       "id": "ci41353591",
-      "lon": -117.698166666667,
-      "lat": 33.8888333333333,
-      "depth": 7.72,
-      "mag": 1.8,
+      "lon": -117.698333333333,
+      "lat": 33.8925,
+      "depth": 8.41,
+      "mag": 0.86,
       "place": "11 km E of Yorba Linda, CA",
-      "time": 1793117793590,
+      "time": 1793117793480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353591"
     },
     {
@@ -2042,26 +2082,6 @@
       "place": "99 km SW of Puerto Madero, Mexico",
       "time": 1793115932718,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgu"
-    },
-    {
-      "id": "aka2026vhlyra",
-      "lon": -152.366,
-      "lat": 61.244,
-      "depth": 5,
-      "mag": 0.4,
-      "place": "69 km WNW of Tyonek, Alaska",
-      "time": 1793115735533,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vhlyra"
-    },
-    {
-      "id": "us7000ttgq",
-      "lon": -179.8379,
-      "lat": -23.7421,
-      "depth": 496.782,
-      "mag": 4.8,
-      "place": "south of the Fiji Islands",
-      "time": 1793115101795,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgq"
     }
   ]
 }
