@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T10:01:12Z",
+  "updated": "2026-10-28T10:15:47Z",
   "count": 190,
   "points": [
+    {
+      "id": "aka2026viwqgy",
+      "lon": -141.459,
+      "lat": 60.252,
+      "depth": 1.1,
+      "mag": 1.8,
+      "place": "124 km NW of Yakutat, Alaska",
+      "time": 1793181708188,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026viwqgy"
+    },
     {
       "id": "aka2026viwjci",
       "lon": -141.563,
@@ -12,6 +22,16 @@
       "place": "125 km NW of Yakutat, Alaska",
       "time": 1793181209778,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026viwjci"
+    },
+    {
+      "id": "us7000ttn0",
+      "lon": -65.3403,
+      "lat": 17.9478,
+      "depth": 32.782,
+      "mag": 3.8,
+      "place": "21 km SE of Esperanza, Puerto Rico",
+      "time": 1793180639075,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttn0"
     },
     {
       "id": "aka2026vivuoe",
@@ -1882,26 +1902,6 @@
       "place": "6 km WSW of Palomar Observatory, CA",
       "time": 1793096243260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353447"
-    },
-    {
-      "id": "uu80008258",
-      "lon": -112.005666666667,
-      "lat": 39.8425,
-      "depth": 11.03,
-      "mag": 0.9,
-      "place": "12 km SSW of Mount Nebo, Utah",
-      "time": 1793095632100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80008258"
-    },
-    {
-      "id": "us7000ttfj",
-      "lon": 165.7876,
-      "lat": -13.9437,
-      "depth": 10,
-      "mag": 5,
-      "place": "184 km NW of Port-Olry, Vanuatu",
-      "time": 1793095591916,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfj"
     }
   ]
 }
