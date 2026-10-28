@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T11:45:47Z",
-  "count": 185,
+  "updated": "2026-10-28T12:01:17Z",
+  "count": 184,
   "points": [
+    {
+      "id": "nc75458897",
+      "lon": -122.951332092285,
+      "lat": 39.4959983825684,
+      "depth": 9.85999965667725,
+      "mag": 2.01,
+      "place": "10 km N of Lake Pillsbury, CA",
+      "time": 1793188667250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458897"
+    },
+    {
+      "id": "nc75458892",
+      "lon": -122.950332641602,
+      "lat": 39.497501373291,
+      "depth": 9.86999988555908,
+      "mag": 2.08,
+      "place": "10 km N of Lake Pillsbury, CA",
+      "time": 1793188593480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458892"
+    },
+    {
+      "id": "nc75458887",
+      "lon": -122.935501098633,
+      "lat": 39.5101661682129,
+      "depth": 12.9399995803833,
+      "mag": 1.64,
+      "place": "11 km N of Lake Pillsbury, CA",
+      "time": 1793188317350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458887"
+    },
     {
       "id": "aka2026vizway",
       "lon": -149.45,
@@ -12,6 +42,16 @@
       "place": "11 km WNW of Fishhook, Alaska",
       "time": 1793187503549,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vizway"
+    },
+    {
+      "id": "us7000ttnc",
+      "lon": -32.1508,
+      "lat": 58.1005,
+      "depth": 10,
+      "mag": 5.5,
+      "place": "Reykjanes Ridge",
+      "time": 1793187469980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnc"
     },
     {
       "id": "nc75458882",
@@ -235,12 +275,12 @@
     },
     {
       "id": "ok2026vcud",
-      "lon": -96.21298218,
-      "lat": 35.22258759,
-      "depth": 2.399887085,
-      "mag": 2.15,
-      "place": "3 km ESE of Wetumka, Oklahoma",
-      "time": 1793176910206,
+      "lon": -96.21466667,
+      "lat": 35.2215,
+      "depth": 4.65,
+      "mag": 2.01,
+      "place": "3 km SE of Wetumka, Oklahoma",
+      "time": 1793176909810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vcud"
     },
     {
@@ -1802,56 +1842,6 @@
       "place": "5 km ENE of Tierra y Libertad, Mexico",
       "time": 1793102471952,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfx"
-    },
-    {
-      "id": "hv75064396",
-      "lon": -155.619666666667,
-      "lat": 19.4615,
-      "depth": 9.25,
-      "mag": 2.38,
-      "place": "25 km E of Honaunau-Napoopoo, Hawaii",
-      "time": 1793102338430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75064396"
-    },
-    {
-      "id": "nn00926305",
-      "lon": -119.0482,
-      "lat": 39.0981,
-      "depth": 10.7252,
-      "mag": 1.51,
-      "place": "15 km NE of Yerington, Nevada",
-      "time": 1793101953849,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926305"
-    },
-    {
-      "id": "nc75455591",
-      "lon": -122.782997131348,
-      "lat": 38.8046684265137,
-      "depth": 3.49000000953674,
-      "mag": 0.53,
-      "place": "4 km NW of The Geysers, CA",
-      "time": 1793101749180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455591"
-    },
-    {
-      "id": "tx2026vdtnxx",
-      "lon": -98.938,
-      "lat": 28.844,
-      "depth": 6.9881,
-      "mag": 2.6,
-      "place": "16 km ESE of Pearsall, Texas",
-      "time": 1793101584864,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vdtnxx"
-    },
-    {
-      "id": "uu80008253",
-      "lon": -111.945333333333,
-      "lat": 40.3876666666667,
-      "depth": 0.29,
-      "mag": 0.53,
-      "place": "5 km NW of Saratoga Springs, Utah",
-      "time": 1793101553730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80008253"
     }
   ]
 }
