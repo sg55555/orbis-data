@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T14:31:07Z",
-  "count": 203,
+  "updated": "2026-10-28T14:45:47Z",
+  "count": 200,
   "points": [
+    {
+      "id": "nc75458962",
+      "lon": -121.764999389648,
+      "lat": 37.4183349609375,
+      "depth": 6.57000017166138,
+      "mag": 1.24,
+      "place": "8 km NE of Alum Rock, CA",
+      "time": 1793198534420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458962"
+    },
     {
       "id": "aka2026vjflhp",
       "lon": -149.623,
@@ -642,6 +652,16 @@
       "place": "39 km SSW of Serrezuela, Argentina",
       "time": 1793170932084,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmh"
+    },
+    {
+      "id": "uu80161991",
+      "lon": -112.936666666667,
+      "lat": 37.7568333333333,
+      "depth": 1.77,
+      "mag": 1.63,
+      "place": "4 km S of Summit, Utah",
+      "time": 1793170386850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161991"
     },
     {
       "id": "tx2026vfexhb",
@@ -1982,56 +2002,6 @@
       "place": "26 km SW of Alamo, Nevada",
       "time": 1793112879643,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926312"
-    },
-    {
-      "id": "us7000ttgf",
-      "lon": 110.3305,
-      "lat": -9.1162,
-      "depth": 10,
-      "mag": 5.4,
-      "place": "128 km S of Pundong, Indonesia",
-      "time": 1793112240933,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgf"
-    },
-    {
-      "id": "us7000ttgh",
-      "lon": 110.2973,
-      "lat": -9.3662,
-      "depth": 20.614,
-      "mag": 4.9,
-      "place": "156 km S of Pundong, Indonesia",
-      "time": 1793112189497,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgh"
-    },
-    {
-      "id": "tx2026vdzfjl",
-      "lon": -98.958,
-      "lat": 28.845,
-      "depth": 8.8439,
-      "mag": 2,
-      "place": "14 km ESE of Pearsall, Texas",
-      "time": 1793111851258,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vdzfjl"
-    },
-    {
-      "id": "uw714129002",
-      "lon": -122.047333333333,
-      "lat": 46.2555,
-      "depth": 10.1,
-      "mag": 0.58,
-      "place": "37 km SSE of Morton, Washington",
-      "time": 1793111777710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714129002"
-    },
-    {
-      "id": "aka2026vhjrov",
-      "lon": -149.324,
-      "lat": 59.967,
-      "depth": 11,
-      "mag": 1.8,
-      "place": "13 km SSE of Lowell Point, Alaska",
-      "time": 1793111628669,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vhjrov"
     }
   ]
 }
