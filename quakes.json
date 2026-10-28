@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T07:15:43Z",
-  "count": 196,
+  "updated": "2026-10-28T07:31:00Z",
+  "count": 197,
   "points": [
+    {
+      "id": "nc75458827",
+      "lon": -122.767669677734,
+      "lat": 38.7906684875488,
+      "depth": 4.03000020980835,
+      "mag": 1.03,
+      "place": "2 km NNW of The Geysers, CA",
+      "time": 1793172508520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458827"
+    },
+    {
+      "id": "aka2026virimy",
+      "lon": -149.877,
+      "lat": 63.11,
+      "depth": 86.1,
+      "mag": 2.2,
+      "place": "56 km SW of Cantwell, Alaska",
+      "time": 1793172172851,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026virimy"
+    },
     {
       "id": "aka2026viqxhv",
       "lon": -150.829,
@@ -32,6 +52,16 @@
       "place": "11 km ENE of Naalehu, Hawaii",
       "time": 1793171011470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75064786"
+    },
+    {
+      "id": "us7000ttmh",
+      "lon": -65.5684,
+      "lat": -30.9564,
+      "depth": 186.301,
+      "mag": 4.7,
+      "place": "39 km SSW of Serrezuela, Argentina",
+      "time": 1793170932084,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmh"
     },
     {
       "id": "aka2026vipqlb",
@@ -1942,26 +1972,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1793086673450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455536"
-    },
-    {
-      "id": "ci41353423",
-      "lon": -116.2625,
-      "lat": 32.9145,
-      "depth": 12.2,
-      "mag": 0.63,
-      "place": "27 km ENE of Pine Valley, CA",
-      "time": 1793085782250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353423"
-    },
-    {
-      "id": "uu80161911",
-      "lon": -110.880333333333,
-      "lat": 44.7428333333333,
-      "depth": 5.88,
-      "mag": 0.58,
-      "place": "19 km ENE of West Yellowstone, Montana",
-      "time": 1793085475960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161911"
     }
   ]
 }
