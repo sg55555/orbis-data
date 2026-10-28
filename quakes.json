@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T11:31:04Z",
-  "count": 187,
+  "updated": "2026-10-28T11:45:47Z",
+  "count": 185,
   "points": [
+    {
+      "id": "aka2026vizway",
+      "lon": -149.45,
+      "lat": 61.77,
+      "depth": 22.8,
+      "mag": 1.8,
+      "place": "11 km WNW of Fishhook, Alaska",
+      "time": 1793187503549,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vizway"
+    },
     {
       "id": "nc75458882",
       "lon": -122.795166015625,
@@ -12,6 +22,16 @@
       "place": "5 km NW of The Geysers, CA",
       "time": 1793186692000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458882"
+    },
+    {
+      "id": "pr71537808",
+      "lon": -65.3608333333333,
+      "lat": 17.9873333333333,
+      "depth": 29.7,
+      "mag": 2.43,
+      "place": "16 km SE of Esperanza, Puerto Rico",
+      "time": 1793186400010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537808"
     },
     {
       "id": "aka2026vizekq",
@@ -1832,46 +1852,6 @@
       "place": "5 km NW of Saratoga Springs, Utah",
       "time": 1793101553730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80008253"
-    },
-    {
-      "id": "nc75455586",
-      "lon": -121.481163024902,
-      "lat": 37.0306663513184,
-      "depth": 5.48000001907349,
-      "mag": 1.93,
-      "place": "8 km ENE of Gilroy, CA",
-      "time": 1793101405250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455586"
-    },
-    {
-      "id": "us7000ttfs",
-      "lon": -66.6616,
-      "lat": -23.1819,
-      "depth": 206.259,
-      "mag": 4.6,
-      "place": "100 km W of El Aguilar, Argentina",
-      "time": 1793101282141,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfs"
-    },
-    {
-      "id": "uw714128982",
-      "lon": -121.706333333333,
-      "lat": 46.8451666666667,
-      "depth": -2.31,
-      "mag": 0.22,
-      "place": "26 km ENE of Ashford, Washington",
-      "time": 1793101131410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714128982"
-    },
-    {
-      "id": "hv75064391",
-      "lon": -155.479827880859,
-      "lat": 19.1656665802002,
-      "depth": 32.1599998474121,
-      "mag": 1.7,
-      "place": "4 km S of Pāhala, Hawaii",
-      "time": 1793101002960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75064391"
     }
   ]
 }
