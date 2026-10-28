@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T00:15:44Z",
-  "count": 208,
+  "updated": "2026-10-28T00:27:02Z",
+  "count": 206,
   "points": [
+    {
+      "id": "nc75458772",
+      "lon": -122.737167358398,
+      "lat": 38.7863349914551,
+      "depth": 1.80999994277954,
+      "mag": 0.51,
+      "place": "2 km ENE of The Geysers, CA",
+      "time": 1793146960870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458772"
+    },
     {
       "id": "hv75064616",
       "lon": -155.348327636719,
@@ -85,12 +95,12 @@
     },
     {
       "id": "us7000ttke",
-      "lon": 142.9431,
-      "lat": 12.6981,
-      "depth": 91.642,
+      "lon": 142.9938,
+      "lat": 12.6676,
+      "depth": 100.998,
       "mag": 5.4,
-      "place": "197 km WSW of Merizo Village, Guam",
-      "time": 1793142856760,
+      "place": "193 km WSW of Merizo Village, Guam",
+      "time": 1793142857420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttke"
     },
     {
@@ -2052,36 +2062,6 @@
       "place": "5 km WNW of Cobb, CA",
       "time": 1793061134940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455396"
-    },
-    {
-      "id": "nc75455386",
-      "lon": -122.801834106445,
-      "lat": 38.8289985656738,
-      "depth": 2.03999996185303,
-      "mag": 0.73,
-      "place": "7 km W of Cobb, CA",
-      "time": 1793060788530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455386"
-    },
-    {
-      "id": "us7000ttdt",
-      "lon": 141.625,
-      "lat": 37.3869,
-      "depth": 48.93,
-      "mag": 4.8,
-      "place": "54 km E of Tomioka, Japan",
-      "time": 1793060708167,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt"
-    },
-    {
-      "id": "uu80161886",
-      "lon": -112.001166666667,
-      "lat": 39.8458333333333,
-      "depth": 10.61,
-      "mag": 1.33,
-      "place": "12 km SSW of Mount Nebo, Utah",
-      "time": 1793060274300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161886"
     }
   ]
 }
