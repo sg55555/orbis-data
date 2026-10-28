@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T23:01:13Z",
+  "updated": "2026-10-28T23:08:22Z",
   "count": 228,
   "points": [
     {
+      "id": "nc75459152",
+      "lon": -122.768836975098,
+      "lat": 38.7888336181641,
+      "depth": 3.17000007629395,
+      "mag": 0.75,
+      "place": "2 km NW of The Geysers, CA",
+      "time": 1793228772080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459152"
+    },
+    {
       "id": "ci41568504",
-      "lon": -116.755500793457,
-      "lat": 33.2179985046387,
-      "depth": 7.51000022888184,
-      "mag": 1.29556970091855,
-      "place": "3 km SSE of Lake Henshaw, CA",
-      "time": 1793228298120,
+      "lon": -116.758333333333,
+      "lat": 33.2185,
+      "depth": 7.31,
+      "mag": 1.09,
+      "place": "3 km S of Lake Henshaw, CA",
+      "time": 1793228298130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568504"
     },
     {
@@ -2272,16 +2282,6 @@
       "place": "193 km WSW of Merizo Village, Guam",
       "time": 1793142857420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttke"
-    },
-    {
-      "id": "nn00926334",
-      "lon": -117.078,
-      "lat": 38.6877,
-      "depth": 0,
-      "mag": 1.33,
-      "place": "57 km S of Kingston, Nevada",
-      "time": 1793142121598,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926334"
     }
   ]
 }
