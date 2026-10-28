@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T18:01:13Z",
-  "count": 228,
+  "updated": "2026-10-28T18:15:45Z",
+  "count": 229,
   "points": [
+    {
+      "id": "ci41568352",
+      "lon": -116.878833333333,
+      "lat": 33.9801666666667,
+      "depth": 8.52,
+      "mag": 1.2,
+      "place": "6 km N of Banning, CA",
+      "time": 1793210897080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568352"
+    },
     {
       "id": "nc75459032",
       "lon": -122.760833740234,
@@ -192,6 +202,16 @@
       "place": "81 km ENE of Mazha, China",
       "time": 1793202055130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpk"
+    },
+    {
+      "id": "uw714130971",
+      "lon": -120.662833333333,
+      "lat": 48.3015,
+      "depth": 5.36,
+      "mag": 0.85,
+      "place": "40 km WSW of Winthrop, Washington",
+      "time": 1793201485280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714130971"
     },
     {
       "id": "ci41568224",
@@ -602,6 +622,16 @@
       "place": "Reykjanes Ridge",
       "time": 1793188577454,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnk"
+    },
+    {
+      "id": "uw714130781",
+      "lon": -122.397833333333,
+      "lat": 47.3516666666667,
+      "depth": 21.92,
+      "mag": 1.02,
+      "place": "4 km NNE of Dash Point, Washington",
+      "time": 1793188510500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714130781"
     },
     {
       "id": "nc75458887",
@@ -2262,26 +2292,6 @@
       "place": "11 km N of Redwood Valley, CA",
       "time": 1793126310720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455681"
-    },
-    {
-      "id": "aka2026vhqzvt",
-      "lon": -151.32,
-      "lat": 62.604,
-      "depth": 98.9,
-      "mag": 2,
-      "place": "30 km WNW of Petersville, Alaska",
-      "time": 1793124821173,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vhqzvt"
-    },
-    {
-      "id": "ci41567872",
-      "lon": -116.781666666667,
-      "lat": 33.6866666666667,
-      "depth": 14.89,
-      "mag": 0.61,
-      "place": "8 km SW of Idyllwild, CA",
-      "time": 1793124540440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41567872"
     }
   ]
 }
