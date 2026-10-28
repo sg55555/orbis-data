@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T02:15:40Z",
-  "count": 207,
+  "updated": "2026-10-28T02:30:58Z",
+  "count": 205,
   "points": [
+    {
+      "id": "nc75458792",
+      "lon": -121.282836914062,
+      "lat": 36.6295013427734,
+      "depth": 5.69999980926514,
+      "mag": 1.98,
+      "place": "17 km NW of Pinnacles, CA",
+      "time": 1793154336360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458792"
+    },
     {
       "id": "aka2026vigtsy",
       "lon": -153.116,
@@ -2042,36 +2052,6 @@
       "place": "2 km NNW of Fontana, CA",
       "time": 1793068397230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353335"
-    },
-    {
-      "id": "hv75064221",
-      "lon": -155.496170043945,
-      "lat": 19.1735000610352,
-      "depth": 29.6299991607666,
-      "mag": 1.83,
-      "place": "3 km SSW of Pāhala, Hawaii",
-      "time": 1793067980400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75064221"
-    },
-    {
-      "id": "ci41353327",
-      "lon": -119.518833333333,
-      "lat": 34.6421666666667,
-      "depth": 3.92,
-      "mag": 1.76,
-      "place": "25 km NNE of Montecito, CA",
-      "time": 1793067764400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353327"
-    },
-    {
-      "id": "ci41353319",
-      "lon": -116.768666666667,
-      "lat": 33.5751666666667,
-      "depth": 12.38,
-      "mag": 2.19,
-      "place": "9 km WNW of Anza, CA",
-      "time": 1793067330950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353319"
     }
   ]
 }
