@@ -1,16 +1,56 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T22:45:41Z",
-  "count": 227,
+  "updated": "2026-10-28T23:01:13Z",
+  "count": 228,
   "points": [
     {
+      "id": "ci41568504",
+      "lon": -116.755500793457,
+      "lat": 33.2179985046387,
+      "depth": 7.51000022888184,
+      "mag": 1.29556970091855,
+      "place": "3 km SSE of Lake Henshaw, CA",
+      "time": 1793228298120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568504"
+    },
+    {
+      "id": "ci41568496",
+      "lon": -117.240666666667,
+      "lat": 34.0306666666667,
+      "depth": 4.55,
+      "mag": 2,
+      "place": "3 km SE of Loma Linda, CA",
+      "time": 1793228205190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568496"
+    },
+    {
+      "id": "ci41568488",
+      "lon": -117.210333333333,
+      "lat": 34.0301666666667,
+      "depth": 3.33,
+      "mag": 1.4,
+      "place": "4 km SW of Redlands, CA",
+      "time": 1793227467940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568488"
+    },
+    {
+      "id": "ci41568480",
+      "lon": -117.210333333333,
+      "lat": 34.0313333333333,
+      "depth": 5.5,
+      "mag": 1.09,
+      "place": "4 km SW of Redlands, CA",
+      "time": 1793227423320,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568480"
+    },
+    {
       "id": "aka2026vjvzqo",
-      "lon": -152.949,
-      "lat": 60.028,
-      "depth": 127.2,
-      "mag": 2.6,
-      "place": "68 km W of Happy Valley, Alaska",
-      "time": 1793227331012,
+      "lon": -152.905,
+      "lat": 60.038,
+      "depth": 125.4,
+      "mag": 3,
+      "place": "66 km W of Happy Valley, Alaska",
+      "time": 1793227331267,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vjvzqo"
     },
     {
@@ -35,12 +75,12 @@
     },
     {
       "id": "us7000ttua",
-      "lon": 130.3764,
-      "lat": -6.3958,
-      "depth": 128.068,
+      "lon": 130.3957,
+      "lat": -6.3231,
+      "depth": 142,
       "mag": 5.7,
-      "place": "276 km WSW of Tual, Indonesia",
-      "time": 1793225204731,
+      "place": "271 km WSW of Tual, Indonesia",
+      "time": 1793225205820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttua"
     },
     {
@@ -2242,36 +2282,6 @@
       "place": "57 km S of Kingston, Nevada",
       "time": 1793142121598,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926334"
-    },
-    {
-      "id": "hv75064591",
-      "lon": -155.714660644531,
-      "lat": 19.9346675872803,
-      "depth": 22.0300006866455,
-      "mag": 1.72,
-      "place": "7 km E of Waikoloa, Hawaii",
-      "time": 1793141646620,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75064591"
-    },
-    {
-      "id": "aka2026viajfs",
-      "lon": -152.692,
-      "lat": 60.068,
-      "depth": 110.6,
-      "mag": 1.4,
-      "place": "55 km WNW of Happy Valley, Alaska",
-      "time": 1793141638042,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026viajfs"
-    },
-    {
-      "id": "nc75458752",
-      "lon": -122.810836791992,
-      "lat": 38.8208351135254,
-      "depth": 3.15000009536743,
-      "mag": 0.79,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1793141181270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458752"
     }
   ]
 }
