@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T22:30:58Z",
+  "updated": "2026-10-28T22:45:41Z",
   "count": 227,
   "points": [
+    {
+      "id": "aka2026vjvzqo",
+      "lon": -152.949,
+      "lat": 60.028,
+      "depth": 127.2,
+      "mag": 2.6,
+      "place": "68 km W of Happy Valley, Alaska",
+      "time": 1793227331012,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vjvzqo"
+    },
     {
       "id": "ci41568464",
       "lon": -117.241,
@@ -482,6 +492,16 @@
       "place": "78 km ESE of Chenega, Alaska",
       "time": 1793206945549,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vjkqzw"
+    },
+    {
+      "id": "ci41568272",
+      "lon": -117.210166666667,
+      "lat": 34.0363333333333,
+      "depth": 5.8,
+      "mag": 1.18,
+      "place": "3 km SW of Redlands, CA",
+      "time": 1793205533040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568272"
     },
     {
       "id": "ci41568264",
@@ -2252,26 +2272,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1793141181270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458752"
-    },
-    {
-      "id": "nc75458747",
-      "lon": -122.81233215332,
-      "lat": 38.8201675415039,
-      "depth": 3.08999991416931,
-      "mag": 0.74,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1793141056600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458747"
-    },
-    {
-      "id": "nc75458742",
-      "lon": -121.675498962402,
-      "lat": 37.3064994812012,
-      "depth": 6.6100001335144,
-      "mag": 1.34,
-      "place": "15 km E of Seven Trees, CA",
-      "time": 1793140406490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458742"
     }
   ]
 }
