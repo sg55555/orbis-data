@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T18:31:15Z",
+  "updated": "2026-10-28T18:45:48Z",
   "count": 232,
   "points": [
+    {
+      "id": "aka2026vjnvid",
+      "lon": -154.735,
+      "lat": 57.809,
+      "depth": 66.4,
+      "mag": 2,
+      "place": "31 km NNW of Karluk, Alaska",
+      "time": 1793212639305,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vjnvid"
+    },
     {
       "id": "aka2026vjngyb",
       "lon": -152.26,
@@ -32,6 +42,16 @@
       "place": "6 km N of Banning, CA",
       "time": 1793210897080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568352"
+    },
+    {
+      "id": "uu80162021",
+      "lon": -113.1765,
+      "lat": 37.7781666666667,
+      "depth": 1.67,
+      "mag": 0.75,
+      "place": "13 km W of Enoch, Utah",
+      "time": 1793210397390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162021"
     },
     {
       "id": "nc75459032",
@@ -745,12 +765,12 @@
     },
     {
       "id": "nn00926354",
-      "lon": -117.7056,
-      "lat": 37.8479,
-      "depth": 2.1122,
-      "mag": 2.05,
-      "place": "12 km NNW of Silver Peak, Nevada",
-      "time": 1793186144407,
+      "lon": -117.7229,
+      "lat": 37.8395,
+      "depth": 1.281,
+      "mag": 1.84,
+      "place": "12 km NW of Silver Peak, Nevada",
+      "time": 1793186145121,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926354"
     },
     {
@@ -2302,26 +2322,6 @@
       "place": "4 km WSW of Pāhala, Hawaii",
       "time": 1793127008810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75064501"
-    },
-    {
-      "id": "aka2026vhrydq",
-      "lon": -169.23,
-      "lat": 51.973,
-      "depth": 10.9,
-      "mag": 3.4,
-      "place": "110 km SSW of Nikolski, Alaska",
-      "time": 1793126508996,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vhrydq"
-    },
-    {
-      "id": "nc75455681",
-      "lon": -123.215667724609,
-      "lat": 39.3629989624023,
-      "depth": 8.02000045776367,
-      "mag": 1.55,
-      "place": "11 km N of Redwood Valley, CA",
-      "time": 1793126310720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455681"
     }
   ]
 }
