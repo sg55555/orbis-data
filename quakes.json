@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T06:31:00Z",
+  "updated": "2026-10-28T06:45:45Z",
   "count": 199,
   "points": [
+    {
+      "id": "aka2026vipqlb",
+      "lon": -155.973,
+      "lat": 58.208,
+      "depth": 160.6,
+      "mag": 2.8,
+      "place": "66 km SE of King Salmon, Alaska",
+      "time": 1793169120686,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vipqlb"
+    },
     {
       "id": "aka2026vipiov",
       "lon": -152.075,
@@ -22,6 +32,16 @@
       "place": "20 km SE of Waikoloa, Hawaii",
       "time": 1793168121430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75064766"
+    },
+    {
+      "id": "us7000ttmb",
+      "lon": 159.5373,
+      "lat": 51.2258,
+      "depth": 10,
+      "mag": 5,
+      "place": "205 km SSE of Vilyuchinsk, Russia",
+      "time": 1793167967777,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmb"
     },
     {
       "id": "aka2026vioedw",
@@ -1972,26 +1992,6 @@
       "place": "6 km WNW of Cobb, CA",
       "time": 1793083550790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455521"
-    },
-    {
-      "id": "aka2026vgtzgj",
-      "lon": -157.11,
-      "lat": 56.216,
-      "depth": 18.5,
-      "mag": 2.5,
-      "place": "80 km E of Chignik, Alaska",
-      "time": 1793083370318,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vgtzgj"
-    },
-    {
-      "id": "nc75455516",
-      "lon": -122.813331604004,
-      "lat": 38.8271675109863,
-      "depth": 1.92999994754791,
-      "mag": 0.93,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1793083283660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455516"
     }
   ]
 }
