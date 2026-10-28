@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T19:45:43Z",
-  "count": 241,
+  "updated": "2026-10-28T20:01:14Z",
+  "count": 239,
   "points": [
     {
+      "id": "ci41568424",
+      "lon": -117.207833333333,
+      "lat": 34.0265,
+      "depth": 3.76,
+      "mag": 1.19,
+      "place": "4 km SW of Redlands, CA",
+      "time": 1793216950020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568424"
+    },
+    {
       "id": "ci41568416",
-      "lon": -117.242835998535,
-      "lat": 34.0315017700195,
-      "depth": 5.1100001335144,
-      "mag": 1.71246444202253,
+      "lon": -117.241666666667,
+      "lat": 34.031,
+      "depth": 4.57,
+      "mag": 1.84,
       "place": "3 km SE of Loma Linda, CA",
-      "time": 1793216495080,
+      "time": 1793216495000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568416"
     },
     {
@@ -1924,6 +1934,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026verxov"
     },
     {
+      "id": "uw714130621",
+      "lon": -122.804833333333,
+      "lat": 47.5191666666667,
+      "depth": 18.11,
+      "mag": 1.5,
+      "place": "7 km W of Gorst, Washington",
+      "time": 1793145501130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714130621"
+    },
+    {
       "id": "hv75064616",
       "lon": -155.353,
       "lat": 19.2911666666667,
@@ -2372,46 +2392,6 @@
       "place": "2 km E of Home Gardens, CA",
       "time": 1793131382460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41567904"
-    },
-    {
-      "id": "uw714129552",
-      "lon": -123.015,
-      "lat": 47.4286666666667,
-      "depth": -0.54,
-      "mag": 0.4,
-      "place": "9 km ENE of Hoodsport, Washington",
-      "time": 1793130960640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714129552"
-    },
-    {
-      "id": "nc75455711",
-      "lon": -122.78099822998,
-      "lat": 38.8344993591309,
-      "depth": 2.03999996185303,
-      "mag": 1.57,
-      "place": "5 km WNW of Cobb, CA",
-      "time": 1793130803780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455711"
-    },
-    {
-      "id": "nm60628761",
-      "lon": -89.4391666666667,
-      "lat": 36.2303333333333,
-      "depth": 8.68,
-      "mag": 1.42,
-      "place": "5 km SE of Ridgely, Tennessee",
-      "time": 1793130455950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60628761"
-    },
-    {
-      "id": "uw714129542",
-      "lon": -122.599166666667,
-      "lat": 48.7838333333333,
-      "depth": 17.02,
-      "mag": 1.07,
-      "place": "1 km WSW of Marietta, Washington",
-      "time": 1793130320980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714129542"
     }
   ]
 }
