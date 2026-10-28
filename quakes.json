@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-28T19:03:55Z",
-  "count": 232,
+  "updated": "2026-10-28T19:15:45Z",
+  "count": 234,
   "points": [
+    {
+      "id": "ci41568392",
+      "lon": -116.348,
+      "lat": 33.1595,
+      "depth": -0.7,
+      "mag": 0.62,
+      "place": "11 km SSE of Borrego Springs, CA",
+      "time": 1793214417790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568392"
+    },
+    {
+      "id": "ci41568384",
+      "lon": -117.211666666667,
+      "lat": 34.0318333333333,
+      "depth": 3.27,
+      "mag": 1.14,
+      "place": "4 km SW of Redlands, CA",
+      "time": 1793214379660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568384"
+    },
     {
       "id": "nc75459052",
       "lon": -122.815498352051,
@@ -145,12 +165,12 @@
     },
     {
       "id": "ci41568304",
-      "lon": -117.210333333333,
-      "lat": 34.0325,
-      "depth": 5,
+      "lon": -117.209833333333,
+      "lat": 34.0336666666667,
+      "depth": 4.05,
       "mag": 1.3,
       "place": "4 km SW of Redlands, CA",
-      "time": 1793208410150,
+      "time": 1793208410130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568304"
     },
     {
@@ -2054,6 +2074,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vhyqcm"
     },
     {
+      "id": "uw714130441",
+      "lon": -122.140666666667,
+      "lat": 49.1356666666667,
+      "depth": -0.66,
+      "mag": 1.29,
+      "place": "11 km E of Mission, Canada",
+      "time": 1793138437010,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714130441"
+    },
+    {
       "id": "nc75458727",
       "lon": -122.81950378418,
       "lat": 38.8326683044434,
@@ -2312,16 +2342,6 @@
       "place": "1 km WNW of Acme, Washington",
       "time": 1793128502480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714129472"
-    },
-    {
-      "id": "tx2026veijcj",
-      "lon": -98.949,
-      "lat": 28.864,
-      "depth": 8.8421,
-      "mag": 1.8,
-      "place": "14 km ESE of Pearsall, Texas",
-      "time": 1793128403630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026veijcj"
     }
   ]
 }
