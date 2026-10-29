@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-29T19:01:14Z",
-  "count": 208,
+  "updated": "2026-10-29T19:15:45Z",
+  "count": 209,
   "points": [
+    {
+      "id": "aka2026vlkyrn",
+      "lon": -146.594,
+      "lat": 68.688,
+      "depth": 2.7,
+      "mag": 2.5,
+      "place": "76 km NW of Arctic Village, Alaska",
+      "time": 1793301034175,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vlkyrn"
+    },
+    {
+      "id": "aka2026vlktut",
+      "lon": -148.993,
+      "lat": 64.916,
+      "depth": 19.6,
+      "mag": 1.4,
+      "place": "31 km SSE of Minto, Alaska",
+      "time": 1793300696846,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vlktut"
+    },
+    {
+      "id": "ci41569032",
+      "lon": -116.709333333333,
+      "lat": 33.536,
+      "depth": 5.74,
+      "mag": 0.64,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1793300346370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569032"
+    },
     {
       "id": "nc75459457",
       "lon": -122.817001342773,
@@ -12,6 +42,16 @@
       "place": "8 km W of Cobb, CA",
       "time": 1793299988410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459457"
+    },
+    {
+      "id": "tx2026vhyrnd",
+      "lon": -103.266,
+      "lat": 31.218,
+      "depth": 3.075,
+      "mag": 2,
+      "place": "19 km W of Coyanosa, Texas",
+      "time": 1793299168585,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vhyrnd"
     },
     {
       "id": "ci41569024",
@@ -815,12 +855,12 @@
     },
     {
       "id": "ci41568728",
-      "lon": -116.708333333333,
+      "lon": -116.708833333333,
       "lat": 33.5373333333333,
-      "depth": 5.84,
-      "mag": 0.36,
+      "depth": 6.42,
+      "mag": 0.11,
       "place": "4 km WSW of Anza, CA",
-      "time": 1793265368140,
+      "time": 1793265368080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568728"
     },
     {
@@ -975,12 +1015,12 @@
     },
     {
       "id": "hv75065241",
-      "lon": -155.3818359375,
-      "lat": 19.2005004882812,
-      "depth": 28.0799999237061,
-      "mag": 2.34,
+      "lon": -155.375333333333,
+      "lat": 19.1968333333333,
+      "depth": 29.47,
+      "mag": 1.86,
       "place": "10 km E of Pāhala, Hawaii",
-      "time": 1793257981370,
+      "time": 1793257981230,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75065241"
     },
     {
@@ -2052,36 +2092,6 @@
       "place": "11 km W of Forsan, Texas",
       "time": 1793215074797,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vgefwi"
-    },
-    {
-      "id": "ci41568392",
-      "lon": -116.5925,
-      "lat": 33.0833333333333,
-      "depth": 11.28,
-      "mag": 0.66,
-      "place": "1 km ENE of Julian, CA",
-      "time": 1793214417710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568392"
-    },
-    {
-      "id": "ci41568384",
-      "lon": -117.211666666667,
-      "lat": 34.0318333333333,
-      "depth": 3.27,
-      "mag": 1.14,
-      "place": "4 km SW of Redlands, CA",
-      "time": 1793214379660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568384"
-    },
-    {
-      "id": "ok2026vdop",
-      "lon": -95.8395,
-      "lat": 36.20883333,
-      "depth": 0,
-      "mag": 1.75,
-      "place": "6 km SSE of Owasso, Oklahoma",
-      "time": 1793214095189,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vdop"
     }
   ]
 }
