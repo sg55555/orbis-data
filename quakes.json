@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-29T02:30:58Z",
+  "updated": "2026-10-29T02:45:43Z",
   "count": 218,
   "points": [
+    {
+      "id": "ci41568608",
+      "lon": -117.243166666667,
+      "lat": 34.0315,
+      "depth": 3.78,
+      "mag": 1.15,
+      "place": "3 km SE of Loma Linda, CA",
+      "time": 1793241240770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568608"
+    },
     {
       "id": "aka2026vkdhwy",
       "lon": -153.239,
@@ -22,6 +32,16 @@
       "place": "3 km SE of Loma Linda, CA",
       "time": 1793240483300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568600"
+    },
+    {
+      "id": "us7000ttvy",
+      "lon": 144.5819,
+      "lat": 12.9476,
+      "depth": 70.237,
+      "mag": 4.8,
+      "place": "36 km SSW of Merizo Village, Guam",
+      "time": 1793240301049,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvy"
     },
     {
       "id": "ci41568592",
@@ -2162,26 +2182,6 @@
       "place": "33 km NNE of Simmler, CA",
       "time": 1793155674400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10259422"
-    },
-    {
-      "id": "ci41567984",
-      "lon": -116.044666666667,
-      "lat": 33.0708333333333,
-      "depth": 7.29,
-      "mag": 2.55,
-      "place": "11 km SE of Ocotillo Wells, CA",
-      "time": 1793155290690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41567984"
-    },
-    {
-      "id": "tx2026vexcpj",
-      "lon": -103.272,
-      "lat": 32.034,
-      "depth": 7.7661,
-      "mag": 2.2,
-      "place": "11 km SW of Jal, New Mexico",
-      "time": 1793155108224,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vexcpj"
     }
   ]
 }
