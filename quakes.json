@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-29T11:15:46Z",
-  "count": 206,
+  "updated": "2026-10-29T11:31:03Z",
+  "count": 204,
   "points": [
+    {
+      "id": "ci41568776",
+      "lon": -117.723666666667,
+      "lat": 35.9491666666667,
+      "depth": 3.87,
+      "mag": 0.48,
+      "place": "17 km E of Little Lake, CA",
+      "time": 1793273119150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568776"
+    },
+    {
+      "id": "nc75459342",
+      "lon": -122.807167053223,
+      "lat": 38.8246650695801,
+      "depth": 2.59999990463257,
+      "mag": 1.06,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1793272593020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459342"
+    },
     {
       "id": "ci41568768",
       "lon": -116.401,
@@ -1844,6 +1864,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnt"
     },
     {
+      "id": "us7000ttnr",
+      "lon": 71.2151,
+      "lat": 36.5429,
+      "depth": 213.504,
+      "mag": 4.2,
+      "place": "32 km WSW of Ashkāsham, Afghanistan",
+      "time": 1793190810731,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnr"
+    },
+    {
       "id": "nc75458927",
       "lon": -122.818168640137,
       "lat": 38.8305015563965,
@@ -2012,56 +2042,6 @@
       "place": "7 km ENE of Cabazon, CA",
       "time": 1793187262450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568104"
-    },
-    {
-      "id": "nc75458882",
-      "lon": -122.795166015625,
-      "lat": 38.8151664733887,
-      "depth": 2.74000000953674,
-      "mag": 0.75,
-      "place": "5 km NW of The Geysers, CA",
-      "time": 1793186692000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458882"
-    },
-    {
-      "id": "pr71537808",
-      "lon": -65.3608333333333,
-      "lat": 17.9873333333333,
-      "depth": 29.7,
-      "mag": 2.43,
-      "place": "16 km SE of Esperanza, Puerto Rico",
-      "time": 1793186400010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537808"
-    },
-    {
-      "id": "ci41568096",
-      "lon": -118.274833333333,
-      "lat": 34.1026666666667,
-      "depth": 10.08,
-      "mag": 0.85,
-      "place": "2 km NW of Silver Lake, CA",
-      "time": 1793186311580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568096"
-    },
-    {
-      "id": "aka2026vizekq",
-      "lon": -141.881,
-      "lat": 61.343,
-      "depth": 5,
-      "mag": 1.3,
-      "place": "56 km E of McCarthy, Alaska",
-      "time": 1793186283753,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vizekq"
-    },
-    {
-      "id": "nn00926354",
-      "lon": -117.7229,
-      "lat": 37.8395,
-      "depth": 1.281,
-      "mag": 1.84,
-      "place": "12 km NW of Silver Peak, Nevada",
-      "time": 1793186145121,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926354"
     }
   ]
 }
