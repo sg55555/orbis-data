@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-29T18:01:13Z",
-  "count": 206,
+  "updated": "2026-10-29T18:15:45Z",
+  "count": 208,
   "points": [
+    {
+      "id": "nc75459447",
+      "lon": -122.828498840332,
+      "lat": 38.8141670227051,
+      "depth": 0.670000016689301,
+      "mag": 0.8,
+      "place": "7 km WNW of The Geysers, CA",
+      "time": 1793297460720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459447"
+    },
     {
       "id": "aka2026vlilqz",
       "lon": -152.832,
@@ -575,12 +585,12 @@
     },
     {
       "id": "ci41568776",
-      "lon": -117.723666666667,
-      "lat": 35.9491666666667,
-      "depth": 3.87,
-      "mag": 0.48,
+      "lon": -117.722666666667,
+      "lat": 35.9485,
+      "depth": 3.43,
+      "mag": 0.46,
       "place": "17 km E of Little Lake, CA",
-      "time": 1793273119150,
+      "time": 1793273119160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568776"
     },
     {
@@ -595,12 +605,12 @@
     },
     {
       "id": "uw714131931",
-      "lon": -121.657,
-      "lat": 48.2178333333333,
-      "depth": 10.88,
-      "mag": 1.01,
+      "lon": -121.658166666667,
+      "lat": 48.218,
+      "depth": 12.34,
+      "mag": 0.98,
       "place": "5 km SW of Darrington, Washington",
-      "time": 1793272509710,
+      "time": 1793272509660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714131931"
     },
     {
@@ -652,6 +662,16 @@
       "place": "111 km SW of Port-Vila, Vanuatu",
       "time": 1793270002424,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttyd"
+    },
+    {
+      "id": "uw714131911",
+      "lon": -120.208333333333,
+      "lat": 47.6883333333333,
+      "depth": 2.14,
+      "mag": 0.78,
+      "place": "1 km N of Entiat, Washington",
+      "time": 1793269833480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714131911"
     },
     {
       "id": "pr71537903",
@@ -852,6 +872,16 @@
       "place": "16 km E of Julian, CA",
       "time": 1793260014260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568704"
+    },
+    {
+      "id": "uw714131881",
+      "lon": -121.815,
+      "lat": 45.691,
+      "depth": 10.79,
+      "mag": 1.17,
+      "place": "3 km S of Carson, Washington",
+      "time": 1793259704120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714131881"
     },
     {
       "id": "us7000ttxn",
@@ -2052,16 +2082,6 @@
       "place": "7 km SSE of Idyllwild, CA",
       "time": 1793211638990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568360"
-    },
-    {
-      "id": "ci41568352",
-      "lon": -116.878833333333,
-      "lat": 33.9801666666667,
-      "depth": 8.52,
-      "mag": 1.2,
-      "place": "6 km N of Banning, CA",
-      "time": 1793210897080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568352"
     }
   ]
 }
