@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-29T13:31:04Z",
-  "count": 190,
+  "updated": "2026-10-29T13:45:45Z",
+  "count": 189,
   "points": [
+    {
+      "id": "aka2026vkzqig",
+      "lon": -151.402,
+      "lat": 63.146,
+      "depth": 5,
+      "mag": 1.7,
+      "place": "46 km SSE of Denali National Park, Alaska",
+      "time": 1793280664683,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vkzqig"
+    },
     {
       "id": "ci41568792",
       "lon": -116.706666666667,
@@ -1384,6 +1394,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568384"
     },
     {
+      "id": "ok2026vdop",
+      "lon": -95.8395,
+      "lat": 36.20883333,
+      "depth": 0,
+      "mag": 1.75,
+      "place": "6 km SSE of Owasso, Oklahoma",
+      "time": 1793214095189,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vdop"
+    },
+    {
       "id": "nc75459052",
       "lon": -122.815498352051,
       "lat": 38.8158340454102,
@@ -1872,36 +1892,6 @@
       "place": "157 km S of Unalaska, Alaska",
       "time": 1793195655065,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vjejgl"
-    },
-    {
-      "id": "ci41568144",
-      "lon": -118.262666666667,
-      "lat": 34.1301666666667,
-      "depth": 5.17,
-      "mag": 1.01,
-      "place": "4 km N of Silver Lake, CA",
-      "time": 1793194833690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568144"
-    },
-    {
-      "id": "pr71537823",
-      "lon": -64.784,
-      "lat": 18.8435,
-      "depth": 14.08,
-      "mag": 3.28,
-      "place": "56 km N of Cruz Bay, U.S. Virgin Islands",
-      "time": 1793194473940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537823"
-    },
-    {
-      "id": "us7000ttp7",
-      "lon": 40.0638,
-      "lat": 8.9241,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "13 km WSW of Āwash, Ethiopia",
-      "time": 1793194314350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttp7"
     }
   ]
 }
