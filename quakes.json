@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-29T00:31:04Z",
-  "count": 223,
+  "updated": "2026-10-29T00:45:42Z",
+  "count": 221,
   "points": [
+    {
+      "id": "nc75459192",
+      "lon": -122.801330566406,
+      "lat": 38.8240013122559,
+      "depth": 3.10999989509583,
+      "mag": 0.71,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1793234216050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459192"
+    },
     {
       "id": "nc75459182",
       "lon": -122.46849822998,
@@ -1735,12 +1745,12 @@
     },
     {
       "id": "hv75064766",
-      "lon": -155.651168823242,
-      "lat": 19.8028335571289,
-      "depth": 37.2999992370605,
-      "mag": 1.99,
-      "place": "20 km SE of Waikoloa, Hawaii",
-      "time": 1793168121430,
+      "lon": -155.651166666667,
+      "lat": 19.834,
+      "depth": 37.94,
+      "mag": 1.89,
+      "place": "18 km SE of Waikoloa, Hawaii",
+      "time": 1793168121220,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75064766"
     },
     {
@@ -2202,36 +2212,6 @@
       "place": "27 km E of Point Possession, Alaska",
       "time": 1793148504072,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vieele"
-    },
-    {
-      "id": "aka2026vidtol",
-      "lon": -150.409,
-      "lat": 63.199,
-      "depth": 125.1,
-      "mag": 1.9,
-      "place": "76 km ESE of Denali National Park, Alaska",
-      "time": 1793147749435,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vidtol"
-    },
-    {
-      "id": "nc75458777",
-      "lon": -122.84400177002,
-      "lat": 38.8401679992676,
-      "depth": 0.709999978542328,
-      "mag": 0.84,
-      "place": "10 km NW of The Geysers, CA",
-      "time": 1793147623120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458777"
-    },
-    {
-      "id": "aka2026vidpsm",
-      "lon": -147.726,
-      "lat": 61.222,
-      "depth": 18.1,
-      "mag": 1.1,
-      "place": "65 km S of Glacier View, Alaska",
-      "time": 1793147483440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vidpsm"
     }
   ]
 }
