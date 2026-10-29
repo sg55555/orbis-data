@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-29T11:31:03Z",
-  "count": 204,
+  "updated": "2026-10-29T11:45:43Z",
+  "count": 202,
   "points": [
+    {
+      "id": "aka2026vkvroo",
+      "lon": -155.176,
+      "lat": 62.563,
+      "depth": 3.9,
+      "mag": 2.4,
+      "place": "48 km SSE of McGrath, Alaska",
+      "time": 1793273529072,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vkvroo"
+    },
     {
       "id": "ci41568776",
       "lon": -117.723666666667,
@@ -1784,6 +1794,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttp2"
     },
     {
+      "id": "us7000ttny",
+      "lon": -71.3172,
+      "lat": -33.9445,
+      "depth": 49.786,
+      "mag": 4.3,
+      "place": "29 km SSW of Melipilla, Chile",
+      "time": 1793191932567,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttny"
+    },
+    {
       "id": "hv75064891",
       "lon": -155.462333333333,
       "lat": 19.2276666666667,
@@ -2002,46 +2022,6 @@
       "place": "11 km N of Lake Pillsbury, CA",
       "time": 1793188317350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458887"
-    },
-    {
-      "id": "ci41568112",
-      "lon": -117.074,
-      "lat": 34.2461666666667,
-      "depth": 6.15,
-      "mag": 0.34,
-      "place": "5 km NE of Running Springs, CA",
-      "time": 1793187579280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568112"
-    },
-    {
-      "id": "aka2026vizway",
-      "lon": -149.45,
-      "lat": 61.77,
-      "depth": 22.8,
-      "mag": 1.8,
-      "place": "11 km WNW of Fishhook, Alaska",
-      "time": 1793187503549,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vizway"
-    },
-    {
-      "id": "us7000ttnc",
-      "lon": -32.1508,
-      "lat": 58.1005,
-      "depth": 10,
-      "mag": 5.5,
-      "place": "Reykjanes Ridge",
-      "time": 1793187469980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnc"
-    },
-    {
-      "id": "ci41568104",
-      "lon": -116.726,
-      "lat": 33.9478333333333,
-      "depth": 14,
-      "mag": 0.51,
-      "place": "7 km ENE of Cabazon, CA",
-      "time": 1793187262450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568104"
     }
   ]
 }
