@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-29T09:49:23Z",
-  "count": 207,
+  "updated": "2026-10-29T10:06:33Z",
+  "count": 205,
   "points": [
+    {
+      "id": "nn00926407",
+      "lon": -119.3645,
+      "lat": 40.6659,
+      "depth": 4.9101,
+      "mag": 1.85,
+      "place": "1 km NNW of Gerlach, Nevada",
+      "time": 1793267934616,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926407"
+    },
     {
       "id": "aka2026vkrmtj",
       "lon": -152.268,
@@ -1844,6 +1854,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714130781"
     },
     {
+      "id": "us7000ttng",
+      "lon": -118.6404,
+      "lat": 32.2341,
+      "depth": 10,
+      "mag": 3,
+      "place": "126 km SSW of Avalon, California",
+      "time": 1793188453680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttng"
+    },
+    {
       "id": "nc75458887",
       "lon": -122.935501098633,
       "lat": 39.5101661682129,
@@ -2032,46 +2052,6 @@
       "place": "39 km NW of Ninilchik, Alaska",
       "time": 1793182438304,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vixauh"
-    },
-    {
-      "id": "aka2026viwqgy",
-      "lon": -141.459,
-      "lat": 60.252,
-      "depth": 1.1,
-      "mag": 1.8,
-      "place": "124 km NW of Yakutat, Alaska",
-      "time": 1793181708188,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026viwqgy"
-    },
-    {
-      "id": "uu80162001",
-      "lon": -113.052,
-      "lat": 36.8755,
-      "depth": 23.87,
-      "mag": 1.37,
-      "place": "10 km SW of Centennial Park, Arizona",
-      "time": 1793181702210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162001"
-    },
-    {
-      "id": "aka2026viwjci",
-      "lon": -141.563,
-      "lat": 60.197,
-      "depth": 5,
-      "mag": 1.2,
-      "place": "125 km NW of Yakutat, Alaska",
-      "time": 1793181209778,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026viwjci"
-    },
-    {
-      "id": "pr2026301001",
-      "lon": -68.5911,
-      "lat": 18.1373,
-      "depth": 83,
-      "mag": 3.85,
-      "place": "26 km S of Boca de Yuma, Dominican Republic",
-      "time": 1793181090360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026301001"
     }
   ]
 }
