@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-29T05:45:41Z",
-  "count": 221,
+  "updated": "2026-10-29T06:01:15Z",
+  "count": 223,
   "points": [
+    {
+      "id": "nc75459272",
+      "lon": -122.817001342773,
+      "lat": 38.8144989013672,
+      "depth": 2.78999996185303,
+      "mag": 0.75,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1793253377040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459272"
+    },
     {
       "id": "nc75459267",
       "lon": -122.817337036133,
@@ -24,6 +34,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vkjsqi"
     },
     {
+      "id": "us7000ttx8",
+      "lon": 161.1643,
+      "lat": -61.3277,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "Balleny Islands region",
+      "time": 1793252016298,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx8"
+    },
+    {
       "id": "hv75065206",
       "lon": -155.456497192383,
       "lat": 19.1551666259766,
@@ -32,6 +52,16 @@
       "place": "5 km SSE of Pāhala, Hawaii",
       "time": 1793251571600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75065206"
+    },
+    {
+      "id": "us7000ttx6",
+      "lon": -88.5954,
+      "lat": 10.4677,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "270 km WSW of Masachapa, Nicaragua",
+      "time": 1793251566777,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx6"
     },
     {
       "id": "aka2026vkjlqu",
@@ -2202,16 +2232,6 @@
       "place": "205 km SSE of Vilyuchinsk, Russia",
       "time": 1793167967777,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmb"
-    },
-    {
-      "id": "aka2026vioedw",
-      "lon": -151.441,
-      "lat": 61.121,
-      "depth": 75.2,
-      "mag": 1.7,
-      "place": "17 km WNW of Tyonek, Alaska",
-      "time": 1793166474412,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vioedw"
     }
   ]
 }
