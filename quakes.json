@@ -1,16 +1,56 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-29T20:15:42Z",
-  "count": 204,
+  "updated": "2026-10-29T20:31:02Z",
+  "count": 206,
   "points": [
     {
+      "id": "aka2026vlnizb",
+      "lon": -146.61,
+      "lat": 61.579,
+      "depth": 20.5,
+      "mag": 1.7,
+      "place": "46 km S of Nelchina, Alaska",
+      "time": 1793305344983,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vlnizb"
+    },
+    {
+      "id": "ci41569088",
+      "lon": -116.6025,
+      "lat": 33.561,
+      "depth": 9.52,
+      "mag": 0.58,
+      "place": "7 km E of Anza, CA",
+      "time": 1793305085360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569088"
+    },
+    {
+      "id": "nc75459482",
+      "lon": -122.811164855957,
+      "lat": 38.8326683044434,
+      "depth": 2.05999994277954,
+      "mag": 1.02,
+      "place": "8 km W of Cobb, CA",
+      "time": 1793304965700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459482"
+    },
+    {
+      "id": "aka2026vlnbyd",
+      "lon": -162.943,
+      "lat": 53.63,
+      "depth": 9.3,
+      "mag": 4.8,
+      "place": "139 km SSE of False Pass, Alaska",
+      "time": 1793304873126,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vlnbyd"
+    },
+    {
       "id": "ci41569080",
-      "lon": -118.326164245605,
-      "lat": 35.0559997558594,
-      "depth": 10.4099998474121,
-      "mag": 1.37391972715442,
-      "place": "14 km W of Mojave, CA",
-      "time": 1793304745750,
+      "lon": -118.335166666667,
+      "lat": 35.0595,
+      "depth": -0.9,
+      "mag": 0.93,
+      "place": "13 km SE of Tehachapi, CA",
+      "time": 1793304745420,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569080"
     },
     {
@@ -2022,26 +2062,6 @@
       "place": "12 km S of Fern Forest, Hawaii",
       "time": 1793219517040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75065051"
-    },
-    {
-      "id": "aka2026vjrhtm",
-      "lon": -141.195,
-      "lat": 61.547,
-      "depth": 5,
-      "mag": 1.6,
-      "place": "92 km E of McCarthy, Alaska",
-      "time": 1793218957758,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vjrhtm"
-    },
-    {
-      "id": "us7000ttts",
-      "lon": 140.885,
-      "lat": 35.6474,
-      "depth": 26.025,
-      "mag": 4.3,
-      "place": "10 km SSE of Hasaki, Japan",
-      "time": 1793218950306,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttts"
     }
   ]
 }
