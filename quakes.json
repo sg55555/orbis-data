@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-29T22:31:01Z",
-  "count": 202,
+  "updated": "2026-10-29T22:45:44Z",
+  "count": 200,
   "points": [
+    {
+      "id": "ci41569152",
+      "lon": -116.483166666667,
+      "lat": 33.0926666666667,
+      "depth": 6.89,
+      "mag": 0.88,
+      "place": "11 km E of Julian, CA",
+      "time": 1793313609760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569152"
+    },
     {
       "id": "nc75459517",
       "lon": -121.28816986084,
@@ -175,22 +185,22 @@
     },
     {
       "id": "ci41569072",
-      "lon": -116.535333333333,
-      "lat": 33.1595,
-      "depth": 15.06,
-      "mag": 1.49,
-      "place": "11 km NE of Julian, CA",
-      "time": 1793304533340,
+      "lon": -116.510666666667,
+      "lat": 33.1598333333333,
+      "depth": 6.3,
+      "mag": 0.17,
+      "place": "12 km NE of Julian, CA",
+      "time": 1793304534020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569072"
     },
     {
       "id": "ci41569064",
-      "lon": -118.379333333333,
-      "lat": 34.0038333333333,
-      "depth": 10.92,
-      "mag": 1.64,
-      "place": "1 km W of Baldwin Hills, CA",
-      "time": 1793304321370,
+      "lon": -118.357166666667,
+      "lat": 34.0066666666667,
+      "depth": 8.81,
+      "mag": 0.84,
+      "place": "1 km ENE of Baldwin Hills, CA",
+      "time": 1793304321720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569064"
     },
     {
@@ -1032,6 +1042,16 @@
       "place": "12 km SE of Ocotillo Wells, CA",
       "time": 1793268354970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568736"
+    },
+    {
+      "id": "aka2026vksppo",
+      "lon": -164.243,
+      "lat": 53.903,
+      "depth": 27.8,
+      "mag": 3.5,
+      "place": "103 km ESE of Akutan, Alaska",
+      "time": 1793268022018,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vksppo"
     },
     {
       "id": "uw714131901",
@@ -1982,46 +2002,6 @@
       "place": "3 km SE of Loma Linda, CA",
       "time": 1793228205170,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568496"
-    },
-    {
-      "id": "ci41568488",
-      "lon": -117.210333333333,
-      "lat": 34.0301666666667,
-      "depth": 3.33,
-      "mag": 1.4,
-      "place": "4 km SW of Redlands, CA",
-      "time": 1793227467940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568488"
-    },
-    {
-      "id": "ci41568480",
-      "lon": -117.210333333333,
-      "lat": 34.0313333333333,
-      "depth": 5.5,
-      "mag": 1.09,
-      "place": "4 km SW of Redlands, CA",
-      "time": 1793227423320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568480"
-    },
-    {
-      "id": "us7000ttuq",
-      "lon": 82.7252,
-      "lat": 44.3448,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "80 km SE of Bole, China",
-      "time": 1793227374821,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttuq"
-    },
-    {
-      "id": "aka2026vjvzqo",
-      "lon": -152.905,
-      "lat": 60.038,
-      "depth": 125.4,
-      "mag": 3,
-      "place": "66 km W of Happy Valley, Alaska",
-      "time": 1793227331267,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vjvzqo"
     }
   ]
 }
