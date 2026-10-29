@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-29T13:15:46Z",
-  "count": 189,
+  "updated": "2026-10-29T13:31:04Z",
+  "count": 190,
   "points": [
+    {
+      "id": "ci41568792",
+      "lon": -116.706666666667,
+      "lat": 33.5346666666667,
+      "depth": 5.41,
+      "mag": 1.07,
+      "place": "4 km SW of Anza, CA",
+      "time": 1793279690360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568792"
+    },
     {
       "id": "aka2026vkyzpw",
       "lon": -146.558,
@@ -352,6 +362,16 @@
       "place": "48 km NW of Tatitlek, Alaska",
       "time": 1793258992158,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vknpdg"
+    },
+    {
+      "id": "uu80162056",
+      "lon": -112.9095,
+      "lat": 38.5055,
+      "depth": 2.91,
+      "mag": 0.88,
+      "place": "14 km NE of Milford, Utah",
+      "time": 1793258715210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162056"
     },
     {
       "id": "hv75065241",
@@ -1882,16 +1902,6 @@
       "place": "13 km WSW of Āwash, Ethiopia",
       "time": 1793194314350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttp7"
-    },
-    {
-      "id": "hv75064911",
-      "lon": -155.539505004883,
-      "lat": 19.8034992218018,
-      "depth": 24.3199996948242,
-      "mag": 1.93,
-      "place": "28 km SSE of Waimea, Hawaii",
-      "time": 1793193813660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75064911"
     }
   ]
 }
