@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-29T11:01:20Z",
-  "count": 204,
+  "updated": "2026-10-29T11:15:46Z",
+  "count": 206,
   "points": [
+    {
+      "id": "ci41568768",
+      "lon": -116.401,
+      "lat": 33.193,
+      "depth": 12.03,
+      "mag": 0.39,
+      "place": "7 km SSW of Borrego Springs, CA",
+      "time": 1793271754370,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568768"
+    },
     {
       "id": "ci41568760",
       "lon": -116.404333333333,
@@ -32,6 +42,16 @@
       "place": "111 km SW of Port-Vila, Vanuatu",
       "time": 1793270002424,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttyd"
+    },
+    {
+      "id": "pr71537903",
+      "lon": -64.8636666666667,
+      "lat": 17.9131666666667,
+      "depth": 12.6,
+      "mag": 2.65,
+      "place": "23 km NNW of Saint Croix, U.S. Virgin Islands",
+      "time": 1793269153380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537903"
     },
     {
       "id": "ci41568752",
@@ -72,6 +92,16 @@
       "place": "12 km SE of Ocotillo Wells, CA",
       "time": 1793268354970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568736"
+    },
+    {
+      "id": "us7000ttyc",
+      "lon": -119.4653,
+      "lat": 48.6931,
+      "depth": 5.952,
+      "mag": 2.2,
+      "place": "2 km SW of Tonasket, Washington",
+      "time": 1793267965308,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttyc"
     },
     {
       "id": "nn00926407",
@@ -2032,16 +2062,6 @@
       "place": "12 km NW of Silver Peak, Nevada",
       "time": 1793186145121,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926354"
-    },
-    {
-      "id": "nm60628776",
-      "lon": -89.6133333333333,
-      "lat": 36.7203333333333,
-      "depth": 5.77,
-      "mag": 1.73,
-      "place": "4 km SSW of Matthews, Missouri",
-      "time": 1793185701040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60628776"
     }
   ]
 }
