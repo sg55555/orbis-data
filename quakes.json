@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-29T03:15:45Z",
-  "count": 220,
+  "updated": "2026-10-29T03:30:55Z",
+  "count": 216,
   "points": [
+    {
+      "id": "nc75459252",
+      "lon": -121.425331115723,
+      "lat": 37.5566673278809,
+      "depth": 1.98000001907349,
+      "mag": 1.76,
+      "place": "20 km W of Westley, CA",
+      "time": 1793244277140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459252"
+    },
     {
       "id": "ci41568624",
       "lon": -117.242,
@@ -2152,56 +2162,6 @@
       "place": "2 km N of Silver Lake, CA",
       "time": 1793158445120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568016"
-    },
-    {
-      "id": "aka2026vijhnu",
-      "lon": -150.84,
-      "lat": 60.641,
-      "depth": 59.1,
-      "mag": 1.7,
-      "place": "12 km NNW of Sterling, Alaska",
-      "time": 1793157713037,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vijhnu"
-    },
-    {
-      "id": "aka2026vijgem",
-      "lon": -152.681,
-      "lat": 59.225,
-      "depth": 68.9,
-      "mag": 1.8,
-      "place": "45 km WSW of Nanwalek, Alaska",
-      "time": 1793157630784,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vijgem"
-    },
-    {
-      "id": "nc75458812",
-      "lon": -122.97233581543,
-      "lat": 38.7663345336914,
-      "depth": 5.5,
-      "mag": 1.15,
-      "place": "6 km SE of Cloverdale, CA",
-      "time": 1793157522800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458812"
-    },
-    {
-      "id": "ci41568008",
-      "lon": -118.270833333333,
-      "lat": 33.4571666666667,
-      "depth": 4.53,
-      "mag": 1.81,
-      "place": "14 km NNE of Avalon, CA",
-      "time": 1793157490130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568008"
-    },
-    {
-      "id": "ci10259406",
-      "lon": -116.161,
-      "lat": 33.2956666666667,
-      "depth": 10.86,
-      "mag": 0.37,
-      "place": "17 km N of Ocotillo Wells, CA",
-      "time": 1793157365630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10259406"
     }
   ]
 }
