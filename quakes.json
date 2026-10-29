@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-29T21:01:17Z",
-  "count": 205,
+  "updated": "2026-10-29T21:15:43Z",
+  "count": 204,
   "points": [
+    {
+      "id": "ci41569096",
+      "lon": -119.2255,
+      "lat": 35.1581666666667,
+      "depth": 23.93,
+      "mag": 1.45,
+      "place": "19 km NE of Maricopa, CA",
+      "time": 1793307744150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569096"
+    },
     {
       "id": "nc75459502",
       "lon": -122.820167541504,
@@ -2032,26 +2042,6 @@
       "place": "55 km SSE of Whites City, New Mexico",
       "time": 1793222840710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vgingz"
-    },
-    {
-      "id": "aka2026vjtara",
-      "lon": -149.87,
-      "lat": 60.072,
-      "depth": 32,
-      "mag": 2.1,
-      "place": "23 km W of Lowell Point, Alaska",
-      "time": 1793222005461,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vjtara"
-    },
-    {
-      "id": "hv75065066",
-      "lon": -155.498833333333,
-      "lat": 19.441,
-      "depth": 7.83,
-      "mag": 1.73,
-      "place": "26 km N of Pāhala, Hawaii",
-      "time": 1793221428380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75065066"
     }
   ]
 }
