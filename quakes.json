@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-29T10:45:45Z",
+  "updated": "2026-10-29T11:01:20Z",
   "count": 204,
   "points": [
+    {
+      "id": "ci41568760",
+      "lon": -116.404333333333,
+      "lat": 33.1911666666667,
+      "depth": 11.76,
+      "mag": 0.78,
+      "place": "8 km SSW of Borrego Springs, CA",
+      "time": 1793271381840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568760"
+    },
     {
       "id": "nc75459337",
       "lon": -122.800834655762,
@@ -12,6 +22,16 @@
       "place": "4 km WNW of The Geysers, CA",
       "time": 1793270080770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459337"
+    },
+    {
+      "id": "us7000ttyd",
+      "lon": 167.6261,
+      "lat": -18.4979,
+      "depth": 10,
+      "mag": 4.9,
+      "place": "111 km SW of Port-Vila, Vanuatu",
+      "time": 1793270002424,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttyd"
     },
     {
       "id": "ci41568752",
@@ -2022,26 +2042,6 @@
       "place": "4 km SSW of Matthews, Missouri",
       "time": 1793185701040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60628776"
-    },
-    {
-      "id": "aka2026viylbm",
-      "lon": -150.857,
-      "lat": 60.243,
-      "depth": 70.5,
-      "mag": 3,
-      "place": "25 km ESE of Kasilof, Alaska",
-      "time": 1793184977538,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026viylbm"
-    },
-    {
-      "id": "aka2026viyhxm",
-      "lon": -151.477,
-      "lat": 63.44,
-      "depth": 5,
-      "mag": 2.2,
-      "place": "16 km SE of Denali National Park, Alaska",
-      "time": 1793184730771,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026viyhxm"
     }
   ]
 }
