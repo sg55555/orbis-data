@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-29T10:15:44Z",
-  "count": 206,
+  "updated": "2026-10-29T10:31:05Z",
+  "count": 207,
   "points": [
     {
+      "id": "ci41568752",
+      "lon": -116.707333333333,
+      "lat": 33.534,
+      "depth": 5.6,
+      "mag": 0.92,
+      "place": "4 km SW of Anza, CA",
+      "time": 1793269142080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568752"
+    },
+    {
+      "id": "nc75459332",
+      "lon": -121.336669921875,
+      "lat": 40.2226676940918,
+      "depth": 0.219999998807907,
+      "mag": 1.74,
+      "place": "13 km SW of Chester, CA",
+      "time": 1793268931390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459332"
+    },
+    {
       "id": "ci41568744",
-      "lon": -116.765335083008,
-      "lat": 33.578498840332,
-      "depth": 12.2200002670288,
-      "mag": 1.45920048525396,
+      "lon": -116.766166666667,
+      "lat": 33.5751666666667,
+      "depth": 12.54,
+      "mag": 1.23,
       "place": "9 km WNW of Anza, CA",
-      "time": 1793268728840,
+      "time": 1793268728810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568744"
     },
     {
@@ -2052,16 +2072,6 @@
       "place": "7 km WNW of Cobb, CA",
       "time": 1793183702370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458867"
-    },
-    {
-      "id": "ci41568064",
-      "lon": -116.412833333333,
-      "lat": 33.4281666666667,
-      "depth": 10.9,
-      "mag": 1.03,
-      "place": "19 km N of Borrego Springs, CA",
-      "time": 1793183173490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568064"
     }
   ]
 }
