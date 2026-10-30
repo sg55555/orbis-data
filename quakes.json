@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T16:45:45Z",
-  "count": 206,
+  "updated": "2026-10-30T17:01:16Z",
+  "count": 207,
   "points": [
+    {
+      "id": "hv75066221",
+      "lon": -155.478668212891,
+      "lat": 19.1359996795654,
+      "depth": 31.1900005340576,
+      "mag": 2.14,
+      "place": "7 km S of Pāhala, Hawaii",
+      "time": 1793378897380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75066221"
+    },
     {
       "id": "ci41569872",
       "lon": -117.3725,
@@ -112,6 +122,16 @@
       "place": "4 km S of Pāhala, Hawaii",
       "time": 1793373633250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75066186"
+    },
+    {
+      "id": "tx2026vjnqrx",
+      "lon": -103.282,
+      "lat": 31.987,
+      "depth": 6.3562,
+      "mag": 2.3,
+      "place": "16 km SSW of Jal, New Mexico",
+      "time": 1793373346662,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vjnqrx"
     },
     {
       "id": "nc75459852",
@@ -1355,10 +1375,10 @@
     },
     {
       "id": "ci41569240",
-      "lon": -116.830666666667,
-      "lat": 33.7171666666667,
-      "depth": 15.57,
-      "mag": 0.66,
+      "lon": -116.831833333333,
+      "lat": 33.7163333333333,
+      "depth": 15.59,
+      "mag": 0.47,
       "place": "7 km ESE of Valle Vista, CA",
       "time": 1793327787240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569240"
@@ -1444,6 +1464,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569208"
     },
     {
+      "id": "uw714132531",
+      "lon": -121.948333333333,
+      "lat": 47.6308333333333,
+      "depth": 16.64,
+      "mag": 1,
+      "place": "1 km E of Ames Lake, Washington",
+      "time": 1793323127140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714132531"
+    },
+    {
       "id": "hv75065781",
       "lon": -155.382171630859,
       "lat": 19.2483329772949,
@@ -1522,6 +1552,16 @@
       "place": "5 km W of Cobb, CA",
       "time": 1793319876240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459552"
+    },
+    {
+      "id": "uw714132481",
+      "lon": -121.902666666667,
+      "lat": 46.6993333333333,
+      "depth": 5.61,
+      "mag": 0.86,
+      "place": "11 km SE of Ashford, Washington",
+      "time": 1793319495810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714132481"
     },
     {
       "id": "uu80162096",
@@ -2032,36 +2072,6 @@
       "place": "off the coast of Oregon",
       "time": 1793293495509,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu16"
-    },
-    {
-      "id": "ci41568936",
-      "lon": -116.497333333333,
-      "lat": 33.5036666666667,
-      "depth": 14.37,
-      "mag": 0.49,
-      "place": "17 km ESE of Anza, CA",
-      "time": 1793293075000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568936"
-    },
-    {
-      "id": "uu80162066",
-      "lon": -112.918,
-      "lat": 38.5105,
-      "depth": 1.07,
-      "mag": 2.32,
-      "place": "14 km NNE of Milford, Utah",
-      "time": 1793292705170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162066"
-    },
-    {
-      "id": "nc75459422",
-      "lon": -122.815330505371,
-      "lat": 38.8321647644043,
-      "depth": 1.92999994754791,
-      "mag": 1.22,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1793292685940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459422"
     }
   ]
 }
