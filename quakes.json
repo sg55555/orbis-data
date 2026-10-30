@@ -1,6 +1,6 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T17:01:16Z",
+  "updated": "2026-10-30T17:15:42Z",
   "count": 207,
   "points": [
     {
@@ -824,6 +824,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6y"
     },
     {
+      "id": "uw714132571",
+      "lon": -123.1225,
+      "lat": 48.4581666666667,
+      "depth": 46,
+      "mag": 1.19,
+      "place": "11 km SW of Friday Harbor, Washington",
+      "time": 1793344982480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714132571"
+    },
+    {
       "id": "ci41569480",
       "lon": -117.245833333333,
       "lat": 34.0318333333333,
@@ -1192,6 +1202,16 @@
       "place": "15 km SE of Lone Pine, CA",
       "time": 1793334271680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569352"
+    },
+    {
+      "id": "uw714132561",
+      "lon": -119.914833333333,
+      "lat": 48.8943333333333,
+      "depth": 0.55,
+      "mag": 1.55,
+      "place": "22 km WNW of Loomis, Washington",
+      "time": 1793333494210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714132561"
     },
     {
       "id": "uu80162106",
@@ -1665,12 +1685,12 @@
     },
     {
       "id": "ci41569128",
-      "lon": -116.071166666667,
-      "lat": 33.012,
-      "depth": 10.95,
-      "mag": 0.73,
-      "place": "16 km SSE of Ocotillo Wells, CA",
-      "time": 1793308916360,
+      "lon": -116.079166666667,
+      "lat": 33.0248333333333,
+      "depth": 10.63,
+      "mag": 0.72,
+      "place": "14 km SSE of Ocotillo Wells, CA",
+      "time": 1793308916390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569128"
     },
     {
@@ -1904,6 +1924,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459457"
     },
     {
+      "id": "uw714132141",
+      "lon": -123.526666666667,
+      "lat": 45.6543333333333,
+      "depth": -0.44,
+      "mag": 1.68,
+      "place": "27 km E of Wheeler, Oregon",
+      "time": 1793299363880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714132141"
+    },
+    {
       "id": "tx2026vhyrnd",
       "lon": -103.266,
       "lat": 31.218,
@@ -2042,36 +2072,6 @@
       "place": "16 km NNE of Milford, Utah",
       "time": 1793294175520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162071"
-    },
-    {
-      "id": "hv75065431",
-      "lon": -155.384170532227,
-      "lat": 19.0400009155273,
-      "depth": 29.6499996185303,
-      "mag": 1.75,
-      "place": "20 km SSE of Pāhala, Hawaii",
-      "time": 1793293833210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75065431"
-    },
-    {
-      "id": "ci41568952",
-      "lon": -116.705833333333,
-      "lat": 33.5365,
-      "depth": 5.78,
-      "mag": 0.06,
-      "place": "4 km SW of Anza, CA",
-      "time": 1793293673410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568952"
-    },
-    {
-      "id": "us7000tu16",
-      "lon": -129.098,
-      "lat": 44.5018,
-      "depth": 10,
-      "mag": 3.5,
-      "place": "off the coast of Oregon",
-      "time": 1793293495509,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu16"
     }
   ]
 }
