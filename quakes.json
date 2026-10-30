@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T14:45:46Z",
-  "count": 206,
+  "updated": "2026-10-30T15:01:18Z",
+  "count": 205,
   "points": [
+    {
+      "id": "aka2026vmyizj",
+      "lon": -146.973,
+      "lat": 64.41,
+      "depth": 14.1,
+      "mag": 1.4,
+      "place": "13 km SSW of Salcha, Alaska",
+      "time": 1793371914615,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vmyizj"
+    },
     {
       "id": "nc75459847",
       "lon": -121.598335266113,
@@ -225,10 +235,10 @@
     },
     {
       "id": "ci41569640",
-      "lon": -116.706833333333,
-      "lat": 33.5381666666667,
-      "depth": 6.47,
-      "mag": 0.07,
+      "lon": -116.708,
+      "lat": 33.5371666666667,
+      "depth": 6.18,
+      "mag": 0.12,
       "place": "4 km WSW of Anza, CA",
       "time": 1793359994680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569640"
@@ -1055,12 +1065,12 @@
     },
     {
       "id": "ci41569296",
-      "lon": -116.701333333333,
-      "lat": 33.5401666666667,
-      "depth": 5.9,
+      "lon": -116.702666666667,
+      "lat": 33.5393333333333,
+      "depth": 6.12,
       "mag": 0.18,
       "place": "3 km WSW of Anza, CA",
-      "time": 1793330509810,
+      "time": 1793330509780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569296"
     },
     {
@@ -2042,26 +2052,6 @@
       "place": "3 km S of East Shore, CA",
       "time": 1793286563130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459392"
-    },
-    {
-      "id": "nc75459387",
-      "lon": -122.8125,
-      "lat": 38.8168334960938,
-      "depth": 1.28999996185303,
-      "mag": 0.8,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1793285946420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459387"
-    },
-    {
-      "id": "aka2026vlcdmm",
-      "lon": -147.594,
-      "lat": 60.862,
-      "depth": 20.7,
-      "mag": 2.5,
-      "place": "49 km W of Tatitlek, Alaska",
-      "time": 1793285394107,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vlcdmm"
     }
   ]
 }
