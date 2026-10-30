@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T14:15:45Z",
-  "count": 203,
+  "updated": "2026-10-30T14:31:05Z",
+  "count": 201,
   "points": [
+    {
+      "id": "ci41569768",
+      "lon": -119.058,
+      "lat": 35.0005,
+      "depth": 13.68,
+      "mag": 1.58,
+      "place": "13 km WNW of Grapevine, CA",
+      "time": 1793369963030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569768"
+    },
+    {
+      "id": "ci41569760",
+      "lon": -116.708166666667,
+      "lat": 33.5378333333333,
+      "depth": 6.22,
+      "mag": 0.49,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1793369734770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569760"
+    },
     {
       "id": "ci41569744",
       "lon": -116.004166666667,
@@ -555,12 +575,12 @@
     },
     {
       "id": "uu80162111",
-      "lon": -109.885665893555,
-      "lat": 41.5726661682129,
-      "depth": -3.36999988555908,
-      "mag": 3.07,
-      "place": "3 km NW of Little America, Wyoming",
-      "time": 1793345544500,
+      "lon": -109.877,
+      "lat": 41.5645,
+      "depth": -3.04,
+      "mag": 3.05,
+      "place": "2 km NNW of Little America, Wyoming",
+      "time": 1793345544190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162111"
     },
     {
@@ -1992,46 +2012,6 @@
       "place": "49 km W of Tatitlek, Alaska",
       "time": 1793285394107,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vlcdmm"
-    },
-    {
-      "id": "ci41568856",
-      "lon": -116.415166666667,
-      "lat": 33.1798333333333,
-      "depth": 13.29,
-      "mag": 1.13,
-      "place": "9 km SSW of Borrego Springs, CA",
-      "time": 1793283917250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568856"
-    },
-    {
-      "id": "us7000ttyy",
-      "lon": 154.6045,
-      "lat": -5.8201,
-      "depth": 183.104,
-      "mag": 4.3,
-      "place": "111 km WNW of Panguna, Papua New Guinea",
-      "time": 1793283637359,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttyy"
-    },
-    {
-      "id": "aka2026vlbflz",
-      "lon": -158.096,
-      "lat": 56.889,
-      "depth": 45.8,
-      "mag": 0.8,
-      "place": "68 km NNE of Chignik, Alaska",
-      "time": 1793283547865,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vlbflz"
-    },
-    {
-      "id": "nc75459377",
-      "lon": -122.814666748047,
-      "lat": 38.8296661376953,
-      "depth": 2.04999995231628,
-      "mag": 1.03,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1793283379890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459377"
     }
   ]
 }
