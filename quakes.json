@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T20:04:51Z",
-  "count": 222,
+  "updated": "2026-10-30T20:15:44Z",
+  "count": 218,
   "points": [
+    {
+      "id": "hv75066316",
+      "lon": -155.458160400391,
+      "lat": 19.167667388916,
+      "depth": 31.6599998474121,
+      "mag": 2.06,
+      "place": "4 km SSE of Pāhala, Hawaii",
+      "time": 1793390514720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75066316"
+    },
     {
       "id": "hv75066311",
       "lon": -155.371673583984,
@@ -145,12 +155,12 @@
     },
     {
       "id": "ci41569936",
-      "lon": -115.289,
-      "lat": 32.5791666666667,
-      "depth": 17.13,
-      "mag": 1.7,
+      "lon": -115.287666666667,
+      "lat": 32.5766666666667,
+      "depth": 18.88,
+      "mag": 1.51,
       "place": "6 km ENE of Puebla, B.C., MX",
-      "time": 1793385396400,
+      "time": 1793385396200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569936"
     },
     {
@@ -495,12 +505,12 @@
     },
     {
       "id": "ci41569768",
-      "lon": -119.058,
-      "lat": 35.0005,
-      "depth": 13.68,
-      "mag": 1.58,
-      "place": "13 km WNW of Grapevine, CA",
-      "time": 1793369963030,
+      "lon": -119.059833333333,
+      "lat": 35.0038333333333,
+      "depth": 14.38,
+      "mag": 1.57,
+      "place": "14 km WNW of Grapevine, CA",
+      "time": 1793369962940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569768"
     },
     {
@@ -2172,56 +2182,6 @@
       "place": "8 km W of Cobb, CA",
       "time": 1793304965700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459482"
-    },
-    {
-      "id": "us7000tu3j",
-      "lon": -163.0279,
-      "lat": 53.5843,
-      "depth": 15.602,
-      "mag": 5,
-      "place": "143 km S of False Pass, Alaska",
-      "time": 1793304872548,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu3j"
-    },
-    {
-      "id": "ci41569080",
-      "lon": -118.335166666667,
-      "lat": 35.0595,
-      "depth": -0.9,
-      "mag": 0.93,
-      "place": "13 km SE of Tehachapi, CA",
-      "time": 1793304745420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569080"
-    },
-    {
-      "id": "nc75459472",
-      "lon": -120.994163513184,
-      "lat": 36.4368324279785,
-      "depth": 0.779999971389771,
-      "mag": 2.09,
-      "place": "17 km SE of Pinnacles, CA",
-      "time": 1793304563990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459472"
-    },
-    {
-      "id": "ci41569072",
-      "lon": -116.510666666667,
-      "lat": 33.1598333333333,
-      "depth": 6.3,
-      "mag": 0.17,
-      "place": "12 km NE of Julian, CA",
-      "time": 1793304534020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569072"
-    },
-    {
-      "id": "ci41569064",
-      "lon": -118.357166666667,
-      "lat": 34.0066666666667,
-      "depth": 8.81,
-      "mag": 0.84,
-      "place": "1 km ENE of Baldwin Hills, CA",
-      "time": 1793304321720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569064"
     }
   ]
 }
