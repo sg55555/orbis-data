@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T13:45:43Z",
-  "count": 202,
+  "updated": "2026-10-30T14:01:16Z",
+  "count": 204,
   "points": [
+    {
+      "id": "ci41569744",
+      "lon": -116.00700378418,
+      "lat": 33.155834197998,
+      "depth": 6.55999994277954,
+      "mag": 1.33773260167455,
+      "place": "12 km E of Ocotillo Wells, CA",
+      "time": 1793368724220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569744"
+    },
+    {
+      "id": "nc75459832",
+      "lon": -121.674331665039,
+      "lat": 37.6036682128906,
+      "depth": 0.649999976158142,
+      "mag": 1.38,
+      "place": "12 km SE of Livermore, CA",
+      "time": 1793368627030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459832"
+    },
+    {
+      "id": "nc75459827",
+      "lon": -124.625831604004,
+      "lat": 40.2994995117188,
+      "depth": 12.8599996566772,
+      "mag": 2.9,
+      "place": "29 km W of Petrolia, CA",
+      "time": 1793368604490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459827"
+    },
     {
       "id": "nc75459817",
       "lon": -118.364334106445,
@@ -775,12 +805,12 @@
     },
     {
       "id": "ci41569392",
-      "lon": -117.241666666667,
-      "lat": 34.0365,
-      "depth": 3.41,
-      "mag": 1.75,
-      "place": "2 km SE of Loma Linda, CA",
-      "time": 1793336320080,
+      "lon": -117.24,
+      "lat": 34.0373333333333,
+      "depth": 6.87,
+      "mag": 1.78,
+      "place": "2 km ESE of Loma Linda, CA",
+      "time": 1793336319910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569392"
     },
     {
@@ -1544,6 +1574,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vhyrnd"
     },
     {
+      "id": "ok2026vfjf",
+      "lon": -96.40816667,
+      "lat": 36.64666667,
+      "depth": 0,
+      "mag": 1.33,
+      "place": "6 km WSW of Pawhuska, Oklahoma",
+      "time": 1793298918300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vfjf"
+    },
+    {
       "id": "ci41569024",
       "lon": -117.4905,
       "lat": 33.8463333333333,
@@ -2002,26 +2042,6 @@
       "place": "64 km NNE of Petersville, Alaska",
       "time": 1793283220851,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vlbbqc"
-    },
-    {
-      "id": "ci41568832",
-      "lon": -116.276833333333,
-      "lat": 32.9478333333333,
-      "depth": 7.98,
-      "mag": 0.78,
-      "place": "26 km SSW of Ocotillo Wells, CA",
-      "time": 1793282179460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568832"
-    },
-    {
-      "id": "nc75459372",
-      "lon": -121.27466583252,
-      "lat": 36.6238327026367,
-      "depth": 5.69000005722046,
-      "mag": 1.57,
-      "place": "16 km NW of Pinnacles, CA",
-      "time": 1793281544650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459372"
     }
   ]
 }
