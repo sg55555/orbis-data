@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T17:31:03Z",
-  "count": 210,
+  "updated": "2026-10-30T17:45:42Z",
+  "count": 211,
   "points": [
+    {
+      "id": "uw714132701",
+      "lon": -122.057998657227,
+      "lat": 46.7393341064453,
+      "depth": 5.90000009536743,
+      "mag": 1.82861328125,
+      "place": "2 km SW of Ashford, Washington",
+      "time": 1793381538930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714132701"
+    },
+    {
+      "id": "uw714132691",
+      "lon": -122.057666666667,
+      "lat": 46.7368333333333,
+      "depth": 3.08,
+      "mag": 0.8,
+      "place": "3 km SW of Ashford, Washington",
+      "time": 1793380908090,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714132691"
+    },
     {
       "id": "hv75066226",
       "lon": -155.128997802734,
@@ -292,6 +312,16 @@
       "place": "43 km NNE of Aleneva, Alaska",
       "time": 1793366827955,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vmvnmm"
+    },
+    {
+      "id": "us7000tu83",
+      "lon": 142.4748,
+      "lat": 40.4803,
+      "depth": 42.816,
+      "mag": 4.5,
+      "place": "68 km ENE of Kuji, Japan",
+      "time": 1793366299151,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu83"
     },
     {
       "id": "nc75459807",
@@ -1924,6 +1954,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569064"
     },
     {
+      "id": "uw714005323",
+      "lon": -117.952166666667,
+      "lat": 48.2558333333333,
+      "depth": -0.9,
+      "mag": 1.35,
+      "place": "14 km SW of Addy, Washington",
+      "time": 1793302912880,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714005323"
+    },
+    {
       "id": "uw714132181",
       "lon": -122.748,
       "lat": 47.9116666666667,
@@ -2072,36 +2112,6 @@
       "place": "20 km SW of Ocotillo Wells, CA",
       "time": 1793296240020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569000"
-    },
-    {
-      "id": "nc75459442",
-      "lon": -122.780502319336,
-      "lat": 38.8083343505859,
-      "depth": 3.16000008583069,
-      "mag": 0.72,
-      "place": "4 km NNW of The Geysers, CA",
-      "time": 1793295536070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459442"
-    },
-    {
-      "id": "aka2026vlhwmi",
-      "lon": -152.337,
-      "lat": 61.385,
-      "depth": 5,
-      "mag": 0.5,
-      "place": "72 km WNW of Beluga, Alaska",
-      "time": 1793295484206,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vlhwmi"
-    },
-    {
-      "id": "us7000tu2j",
-      "lon": 143.5623,
-      "lat": 39.8625,
-      "depth": 35,
-      "mag": 4.5,
-      "place": "141 km E of Miyako, Japan",
-      "time": 1793295421805,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu2j"
     }
   ]
 }
