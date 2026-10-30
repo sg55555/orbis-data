@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T07:15:44Z",
-  "count": 195,
+  "updated": "2026-10-30T07:31:04Z",
+  "count": 196,
   "points": [
+    {
+      "id": "ci41569480",
+      "lon": -117.245833333333,
+      "lat": 34.0318333333333,
+      "depth": 4.13,
+      "mag": 0.68,
+      "place": "2 km SE of Loma Linda, CA",
+      "time": 1793344982190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569480"
+    },
+    {
+      "id": "ci41569472",
+      "lon": -117.247333333333,
+      "lat": 34.0368333333333,
+      "depth": 1.42,
+      "mag": 0.73,
+      "place": "2 km SE of Loma Linda, CA",
+      "time": 1793344946230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569472"
+    },
     {
       "id": "ci41569464",
       "lon": -117.2425,
@@ -32,6 +52,16 @@
       "place": "8 km WSW of Ocotillo, CA",
       "time": 1793343294980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569456"
+    },
+    {
+      "id": "pr71537953",
+      "lon": -64.9926666666667,
+      "lat": 18.6646666666667,
+      "depth": 33.52,
+      "mag": 3.16,
+      "place": "36 km N of Charlotte Amalie, U.S. Virgin Islands",
+      "time": 1793343223950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537953"
     },
     {
       "id": "ci41569448",
@@ -495,12 +525,12 @@
     },
     {
       "id": "aka2026vlynnf",
-      "lon": -136.097,
-      "lat": 58.818,
-      "depth": 12.3,
+      "lon": -136.6,
+      "lat": 59.234,
+      "depth": 3.2,
       "mag": 2.2,
-      "place": "49 km NNW of Gustavus, Alaska",
-      "time": 1793325448457,
+      "place": "38 km WSW of Covenant Life, Alaska",
+      "time": 1793325440790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vlynnf"
     },
     {
@@ -1932,26 +1962,6 @@
       "place": "114 km ENE of Barcelona, Philippines",
       "time": 1793259090432,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxn"
-    },
-    {
-      "id": "aka2026vknpdg",
-      "lon": -147.247,
-      "lat": 61.14,
-      "depth": 21.4,
-      "mag": 0.9,
-      "place": "43 km NW of Tatitlek, Alaska",
-      "time": 1793258990959,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vknpdg"
-    },
-    {
-      "id": "uu80162056",
-      "lon": -112.9095,
-      "lat": 38.5055,
-      "depth": 2.91,
-      "mag": 0.88,
-      "place": "14 km NE of Milford, Utah",
-      "time": 1793258715210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162056"
     }
   ]
 }
