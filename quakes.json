@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T11:31:05Z",
-  "count": 196,
+  "updated": "2026-10-30T11:45:46Z",
+  "count": 197,
   "points": [
+    {
+      "id": "ci41569648",
+      "lon": -116.708666666667,
+      "lat": 33.5346666666667,
+      "depth": 6.01,
+      "mag": 0.66,
+      "place": "4 km SW of Anza, CA",
+      "time": 1793360101650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569648"
+    },
+    {
+      "id": "ci41569640",
+      "lon": -116.706833333333,
+      "lat": 33.5381666666667,
+      "depth": 6.47,
+      "mag": 0.07,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1793359994680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569640"
+    },
     {
       "id": "ci41569624",
       "lon": -116.7395,
@@ -32,6 +52,16 @@
       "place": "south of the Fiji Islands",
       "time": 1793357868963,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7p"
+    },
+    {
+      "id": "us7000tu7m",
+      "lon": 24.2284,
+      "lat": 39.7308,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "42 km SE of Sykiá, Greece",
+      "time": 1793357103842,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7m"
     },
     {
       "id": "ci41569600",
@@ -1942,26 +1972,6 @@
       "place": "15 km ESE of Pearsall, Texas",
       "time": 1793274739763,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vhleud"
-    },
-    {
-      "id": "us7000ttyk",
-      "lon": 130.0224,
-      "lat": -7.5288,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "Pulau Pulau Tanimbar, Indonesia",
-      "time": 1793273904162,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttyk"
-    },
-    {
-      "id": "aka2026vkvroo",
-      "lon": -155.176,
-      "lat": 62.563,
-      "depth": 3.9,
-      "mag": 2.4,
-      "place": "48 km SSE of McGrath, Alaska",
-      "time": 1793273529072,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vkvroo"
     }
   ]
 }
