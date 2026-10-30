@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T13:01:18Z",
+  "updated": "2026-10-30T13:15:44Z",
   "count": 198,
   "points": [
+    {
+      "id": "nc75459807",
+      "lon": -122.755500793457,
+      "lat": 38.780834197998,
+      "depth": 1.48000001907349,
+      "mag": 0.88,
+      "place": "0 km N of The Geysers, CA",
+      "time": 1793365906470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459807"
+    },
+    {
+      "id": "nc75459802",
+      "lon": -122.873168945312,
+      "lat": 39.4934997558594,
+      "depth": 7.19999980926514,
+      "mag": 1.65,
+      "place": "12 km NE of Lake Pillsbury, CA",
+      "time": 1793365673780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459802"
+    },
     {
       "id": "nc75459792",
       "lon": -122.804496765137,
@@ -582,6 +602,16 @@
       "place": "10 km SSW of Bodfish, CA",
       "time": 1793341709760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569440"
+    },
+    {
+      "id": "ci41569432",
+      "lon": -117.247166666667,
+      "lat": 34.0346666666667,
+      "depth": 8.27,
+      "mag": 0.61,
+      "place": "2 km SE of Loma Linda, CA",
+      "time": 1793340267430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569432"
     },
     {
       "id": "ci41569424",
@@ -1952,36 +1982,6 @@
       "place": "46 km SSE of Denali National Park, Alaska",
       "time": 1793280664683,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vkzqig"
-    },
-    {
-      "id": "ci41568792",
-      "lon": -116.706666666667,
-      "lat": 33.5346666666667,
-      "depth": 5.41,
-      "mag": 1.07,
-      "place": "4 km SW of Anza, CA",
-      "time": 1793279690360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568792"
-    },
-    {
-      "id": "aka2026vkyzpw",
-      "lon": -146.558,
-      "lat": 61.584,
-      "depth": 7.9,
-      "mag": 2.2,
-      "place": "46 km SSE of Nelchina, Alaska",
-      "time": 1793279511345,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vkyzpw"
-    },
-    {
-      "id": "nn00926409",
-      "lon": -118.454,
-      "lat": 39.2975,
-      "depth": 13.648,
-      "mag": 1.52,
-      "place": "26 km ESE of Fallon Station, Nevada",
-      "time": 1793279452424,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926409"
     }
   ]
 }
