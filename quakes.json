@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T06:01:10Z",
-  "count": 195,
+  "updated": "2026-10-30T06:15:45Z",
+  "count": 196,
   "points": [
+    {
+      "id": "ci41569424",
+      "lon": -117.242,
+      "lat": 34.0335,
+      "depth": 3.25,
+      "mag": 0.74,
+      "place": "2 km SE of Loma Linda, CA",
+      "time": 1793339921270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569424"
+    },
     {
       "id": "ci41569416",
       "lon": -116.481666666667,
@@ -1704,6 +1714,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568712"
     },
     {
+      "id": "av94474788",
+      "lon": -152.696166666667,
+      "lat": 60.6543333333333,
+      "depth": 3.89,
+      "mag": -0.45,
+      "place": "75 km W of Salamatof, Alaska",
+      "time": 1793263856940,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94474788"
+    },
+    {
       "id": "av94474783",
       "lon": -154.015166666667,
       "lat": 58.8926666666667,
@@ -1942,16 +1962,6 @@
       "place": "54 km WNW of Ninilchik, Alaska",
       "time": 1793255714677,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vklttt"
-    },
-    {
-      "id": "ci41568664",
-      "lon": -116.413333333333,
-      "lat": 33.0248333333333,
-      "depth": 9.2,
-      "mag": 0.56,
-      "place": "19 km ESE of Julian, CA",
-      "time": 1793253892540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568664"
     }
   ]
 }
