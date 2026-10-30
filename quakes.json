@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T05:15:43Z",
-  "count": 194,
+  "updated": "2026-10-30T05:31:01Z",
+  "count": 191,
   "points": [
+    {
+      "id": "us7000tu6i",
+      "lon": -177.0471,
+      "lat": -18.1766,
+      "depth": 371.793,
+      "mag": 4.8,
+      "place": "Fiji region",
+      "time": 1793337019806,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6i"
+    },
     {
       "id": "aka2026vmesll",
       "lon": -141.337,
@@ -42,6 +52,16 @@
       "place": "2 km SE of Loma Linda, CA",
       "time": 1793336320080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569392"
+    },
+    {
+      "id": "us7000tu6f",
+      "lon": 142.3621,
+      "lat": 40.3108,
+      "depth": 56.598,
+      "mag": 4.6,
+      "place": "51 km ENE of Noda, Japan",
+      "time": 1793336311595,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6f"
     },
     {
       "id": "ci41569384",
@@ -1892,56 +1912,6 @@
       "place": "Balleny Islands region",
       "time": 1793252016298,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx8"
-    },
-    {
-      "id": "hv75065206",
-      "lon": -155.456497192383,
-      "lat": 19.1551666259766,
-      "depth": 31.4599990844727,
-      "mag": 1.8,
-      "place": "5 km SSE of Pāhala, Hawaii",
-      "time": 1793251571600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75065206"
-    },
-    {
-      "id": "us7000ttx6",
-      "lon": -88.5954,
-      "lat": 10.4677,
-      "depth": 10,
-      "mag": 4.3,
-      "place": "270 km WSW of Masachapa, Nicaragua",
-      "time": 1793251566777,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx6"
-    },
-    {
-      "id": "aka2026vkjlqu",
-      "lon": -150.854,
-      "lat": 60.755,
-      "depth": 61.2,
-      "mag": 1.6,
-      "place": "20 km SSW of Point Possession, Alaska",
-      "time": 1793251554831,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vkjlqu"
-    },
-    {
-      "id": "ci41568656",
-      "lon": -116.4335,
-      "lat": 33.028,
-      "depth": 8.39,
-      "mag": 0.42,
-      "place": "17 km ESE of Julian, CA",
-      "time": 1793251485940,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568656"
-    },
-    {
-      "id": "tx2026vgyiud",
-      "lon": -98.933,
-      "lat": 28.816,
-      "depth": 7.6512,
-      "mag": 2,
-      "place": "17 km ESE of Pearsall, Texas",
-      "time": 1793251483924,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vgyiud"
     }
   ]
 }
