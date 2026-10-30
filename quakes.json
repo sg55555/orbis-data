@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T08:15:46Z",
-  "count": 193,
+  "updated": "2026-10-30T08:31:01Z",
+  "count": 192,
   "points": [
+    {
+      "id": "ci41569496",
+      "lon": -117.245,
+      "lat": 34.0318333333333,
+      "depth": 3.66,
+      "mag": 0.82,
+      "place": "2 km SE of Loma Linda, CA",
+      "time": 1793348520350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569496"
+    },
     {
       "id": "nc75459727",
       "lon": -122.809829711914,
@@ -1912,26 +1922,6 @@
       "place": "14 km ESE of Pearsall, Texas",
       "time": 1793263428016,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vheyhy"
-    },
-    {
-      "id": "tx2026vhendt",
-      "lon": -98.946,
-      "lat": 28.868,
-      "depth": 8.8967,
-      "mag": 2,
-      "place": "14 km E of Pearsall, Texas",
-      "time": 1793262650149,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vhendt"
-    },
-    {
-      "id": "us7000tty4",
-      "lon": -74.3793,
-      "lat": -8.6664,
-      "depth": 159.216,
-      "mag": 4.4,
-      "place": "34 km SSE of San Fernando, Peru",
-      "time": 1793261853999,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tty4"
     }
   ]
 }
