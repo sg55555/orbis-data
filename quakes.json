@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T20:30:58Z",
-  "count": 216,
+  "updated": "2026-10-30T20:45:44Z",
+  "count": 214,
   "points": [
+    {
+      "id": "nc75460027",
+      "lon": -122.81233215332,
+      "lat": 38.8030014038086,
+      "depth": 2.38000011444092,
+      "mag": 0.75,
+      "place": "6 km WNW of The Geysers, CA",
+      "time": 1793392475930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460027"
+    },
     {
       "id": "aka2026vnjdai",
       "lon": -151.046,
@@ -12,6 +22,16 @@
       "place": "56 km NNW of Petersville, Alaska",
       "time": 1793391293127,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnjdai"
+    },
+    {
+      "id": "ci41570008",
+      "lon": -117.248333333333,
+      "lat": 34.036,
+      "depth": 6.63,
+      "mag": 0.94,
+      "place": "2 km SE of Loma Linda, CA",
+      "time": 1793390898310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570008"
     },
     {
       "id": "hv75066316",
@@ -2122,46 +2142,6 @@
       "place": "6 km WNW of The Geysers, CA",
       "time": 1793307299630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459502"
-    },
-    {
-      "id": "aka2026vlnrmm",
-      "lon": -151.256,
-      "lat": 61.722,
-      "depth": 80.2,
-      "mag": 1.7,
-      "place": "30 km SSE of Skwentna, Alaska",
-      "time": 1793306685065,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vlnrmm"
-    },
-    {
-      "id": "nc75459492",
-      "lon": -124.653831481934,
-      "lat": 40.2794990539551,
-      "depth": 4.51999998092651,
-      "mag": 1.88,
-      "place": "32 km W of Petrolia, CA",
-      "time": 1793306620890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459492"
-    },
-    {
-      "id": "ok2026vfnj",
-      "lon": -97.88783333,
-      "lat": 35.00733333,
-      "depth": 11.74,
-      "mag": 0.9,
-      "place": "6 km SE of Chickasha, Oklahoma",
-      "time": 1793306537109,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vfnj"
-    },
-    {
-      "id": "us7000tu3u",
-      "lon": 132.4922,
-      "lat": -4.4698,
-      "depth": 10,
-      "mag": 5,
-      "place": "131 km NNW of Tual, Indonesia",
-      "time": 1793305931667,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu3u"
     }
   ]
 }
