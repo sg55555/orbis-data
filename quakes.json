@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T05:31:01Z",
-  "count": 191,
+  "updated": "2026-10-30T05:45:41Z",
+  "count": 190,
   "points": [
+    {
+      "id": "aka2026vmfzyx",
+      "lon": -141.09,
+      "lat": 60.151,
+      "depth": 5,
+      "mag": 1.7,
+      "place": "101 km NW of Yakutat, Alaska",
+      "time": 1793338905224,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vmfzyx"
+    },
+    {
+      "id": "aka2026vmfveg",
+      "lon": -151.758,
+      "lat": 61.693,
+      "depth": 98.7,
+      "mag": 2.1,
+      "place": "38 km SSW of Skwentna, Alaska",
+      "time": 1793338563130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vmfveg"
+    },
+    {
+      "id": "ci41569400",
+      "lon": -116.435833333333,
+      "lat": 33.1031666666667,
+      "depth": 12.37,
+      "mag": 0.42,
+      "place": "16 km E of Julian, CA",
+      "time": 1793338540310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569400"
+    },
     {
       "id": "us7000tu6i",
       "lon": -177.0471,
@@ -1564,14 +1594,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568736"
     },
     {
-      "id": "aka2026vksppo",
-      "lon": -164.243,
-      "lat": 53.903,
-      "depth": 27.8,
-      "mag": 3.5,
-      "place": "103 km ESE of Akutan, Alaska",
-      "time": 1793268022018,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vksppo"
+      "id": "us7000tu4l",
+      "lon": -164.2558,
+      "lat": 54.0035,
+      "depth": 35,
+      "mag": 3.3,
+      "place": "100 km E of Akutan, Alaska",
+      "time": 1793268023160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4l"
     },
     {
       "id": "uw714131901",
@@ -1872,46 +1902,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1793253377040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459272"
-    },
-    {
-      "id": "nm60506503",
-      "lon": -92.648,
-      "lat": 36.2221666666667,
-      "depth": 7.68,
-      "mag": 2.36,
-      "place": "3 km E of Yellville, Arkansas",
-      "time": 1793252665970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60506503"
-    },
-    {
-      "id": "nc75459267",
-      "lon": -122.817337036133,
-      "lat": 38.8320007324219,
-      "depth": 1.78999996185303,
-      "mag": 0.51,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1793252450730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459267"
-    },
-    {
-      "id": "aka2026vkjsqi",
-      "lon": -141.411,
-      "lat": 61.602,
-      "depth": 5,
-      "mag": 1.3,
-      "place": "82 km ENE of McCarthy, Alaska",
-      "time": 1793252037929,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vkjsqi"
-    },
-    {
-      "id": "us7000ttx8",
-      "lon": 161.1643,
-      "lat": -61.3277,
-      "depth": 10,
-      "mag": 5.1,
-      "place": "Balleny Islands region",
-      "time": 1793252016298,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx8"
     }
   ]
 }
