@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T07:01:12Z",
-  "count": 197,
+  "updated": "2026-10-30T07:15:44Z",
+  "count": 195,
   "points": [
+    {
+      "id": "ci41569464",
+      "lon": -117.2425,
+      "lat": 34.0326666666667,
+      "depth": 3.74,
+      "mag": 0.75,
+      "place": "2 km SE of Loma Linda, CA",
+      "time": 1793343725380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569464"
+    },
     {
       "id": "nc75459702",
       "lon": -122.742164611816,
@@ -545,12 +555,12 @@
     },
     {
       "id": "aka2026vlwuan",
-      "lon": -150.774,
-      "lat": 59.807,
-      "depth": 57.9,
+      "lon": -150.768,
+      "lat": 59.806,
+      "depth": 60.7,
       "mag": 3.5,
-      "place": "11 km ESE of Fox River, Alaska",
-      "time": 1793322302322,
+      "place": "12 km ESE of Fox River, Alaska",
+      "time": 1793322302221,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vlwuan"
     },
     {
@@ -1942,36 +1952,6 @@
       "place": "14 km NE of Milford, Utah",
       "time": 1793258715210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162056"
-    },
-    {
-      "id": "hv75065241",
-      "lon": -155.375333333333,
-      "lat": 19.1968333333333,
-      "depth": 29.47,
-      "mag": 1.86,
-      "place": "10 km E of Pāhala, Hawaii",
-      "time": 1793257981230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75065241"
-    },
-    {
-      "id": "ci41568696",
-      "lon": -117.676,
-      "lat": 35.947,
-      "depth": 4.81,
-      "mag": 0.86,
-      "place": "21 km E of Little Lake, CA",
-      "time": 1793257528830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568696"
-    },
-    {
-      "id": "ci41568688",
-      "lon": -116.700666666667,
-      "lat": 34.0318333333333,
-      "depth": 15.15,
-      "mag": 0.51,
-      "place": "11 km W of Morongo Valley, CA",
-      "time": 1793257490970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568688"
     }
   ]
 }
