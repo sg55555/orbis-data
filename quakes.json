@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T19:31:02Z",
+  "updated": "2026-10-30T19:45:45Z",
   "count": 216,
   "points": [
+    {
+      "id": "aka2026vnhpxc",
+      "lon": -152.846,
+      "lat": 60.069,
+      "depth": 117.4,
+      "mag": 2.5,
+      "place": "63 km WNW of Happy Valley, Alaska",
+      "time": 1793388580455,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnhpxc"
+    },
     {
       "id": "aka2026vngzyw",
       "lon": -147.003,
@@ -114,6 +124,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459947"
     },
     {
+      "id": "us7000tudk",
+      "lon": 155.7595,
+      "lat": 65.0985,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "236 km ESE of Zyryanka, Russia",
+      "time": 1793383270672,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tudk"
+    },
+    {
       "id": "nc75459932",
       "lon": -122.78466796875,
       "lat": 38.8354988098145,
@@ -192,6 +212,16 @@
       "place": "2 km ENE of May Creek, Washington",
       "time": 1793380279780,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714132681"
+    },
+    {
+      "id": "us7000tub8",
+      "lon": 126.2834,
+      "lat": 9.0593,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "7 km NE of Tago, Philippines",
+      "time": 1793379986864,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tub8"
     },
     {
       "id": "us7000tu97",
@@ -605,12 +635,12 @@
     },
     {
       "id": "ci41569656",
-      "lon": -117.798166666667,
-      "lat": 35.3228333333333,
-      "depth": 8.72,
-      "mag": 0.74,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": 1793360962850,
+      "lon": -117.7905,
+      "lat": 35.3235,
+      "depth": 9,
+      "mag": 0.72,
+      "place": "15 km WSW of Johannesburg, CA",
+      "time": 1793360962720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569656"
     },
     {
@@ -2132,36 +2162,6 @@
       "place": "1 km ENE of Baldwin Hills, CA",
       "time": 1793304321720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569064"
-    },
-    {
-      "id": "uw714132191",
-      "lon": -119.905666666667,
-      "lat": 48.9066666666667,
-      "depth": -0.12,
-      "mag": 1.11,
-      "place": "22 km WNW of Loomis, Washington",
-      "time": 1793303062610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714132191"
-    },
-    {
-      "id": "uw714005323",
-      "lon": -117.952166666667,
-      "lat": 48.2558333333333,
-      "depth": -0.9,
-      "mag": 1.35,
-      "place": "14 km SW of Addy, Washington",
-      "time": 1793302912880,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714005323"
-    },
-    {
-      "id": "uw714132181",
-      "lon": -122.748,
-      "lat": 47.9116666666667,
-      "depth": -0.07,
-      "mag": 1.3,
-      "place": "5 km WSW of Port Ludlow, Washington",
-      "time": 1793302876410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714132181"
     }
   ]
 }
