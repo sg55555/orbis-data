@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T02:15:47Z",
-  "count": 190,
+  "updated": "2026-10-30T02:30:59Z",
+  "count": 187,
   "points": [
     {
+      "id": "ci41569232",
+      "lon": -117.587,
+      "lat": 34.0148333333333,
+      "depth": 6.7,
+      "mag": 1.33,
+      "place": "6 km SE of Ontario, CA",
+      "time": 1793327188630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569232"
+    },
+    {
       "id": "ci41569224",
-      "lon": -117.247833251953,
-      "lat": 34.0363349914551,
-      "depth": 3.02999997138977,
-      "mag": 1.09469960117036,
+      "lon": -117.2455,
+      "lat": 34.0325,
+      "depth": 3.83,
+      "mag": 0.86,
       "place": "2 km SE of Loma Linda, CA",
-      "time": 1793326352160,
+      "time": 1793326352240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569224"
     },
     {
@@ -1862,46 +1872,6 @@
       "place": "3 km SE of Loma Linda, CA",
       "time": 1793241240770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568608"
-    },
-    {
-      "id": "aka2026vkdhwy",
-      "lon": -153.239,
-      "lat": 59.922,
-      "depth": 151.6,
-      "mag": 1.8,
-      "place": "50 km ENE of Pedro Bay, Alaska",
-      "time": 1793240488410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vkdhwy"
-    },
-    {
-      "id": "ci41568600",
-      "lon": -117.2425,
-      "lat": 34.0301666666667,
-      "depth": 3.74,
-      "mag": 0.92,
-      "place": "3 km SE of Loma Linda, CA",
-      "time": 1793240483300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568600"
-    },
-    {
-      "id": "us7000ttvy",
-      "lon": 144.5819,
-      "lat": 12.9476,
-      "depth": 70.237,
-      "mag": 4.8,
-      "place": "36 km SSW of Merizo Village, Guam",
-      "time": 1793240301049,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvy"
-    },
-    {
-      "id": "ci41568592",
-      "lon": -117.2445,
-      "lat": 34.053,
-      "depth": 12.7,
-      "mag": 0.7,
-      "place": "2 km ENE of Loma Linda, CA",
-      "time": 1793240238040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568592"
     }
   ]
 }
