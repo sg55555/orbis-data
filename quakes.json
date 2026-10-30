@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T16:01:20Z",
+  "updated": "2026-10-30T16:15:42Z",
   "count": 211,
   "points": [
+    {
+      "id": "hv75066191",
+      "lon": -155.476165771484,
+      "lat": 19.1823329925537,
+      "depth": 29.7199993133545,
+      "mag": 1.88,
+      "place": "2 km S of Pāhala, Hawaii",
+      "time": 1793376498850,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75066191"
+    },
     {
       "id": "nc75459887",
       "lon": -122.813835144043,
@@ -714,6 +724,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459717"
     },
     {
+      "id": "tx2026vizbqb",
+      "lon": -104.461,
+      "lat": 31.651,
+      "depth": 6.8176,
+      "mag": 1.9,
+      "place": "58 km S of Whites City, New Mexico",
+      "time": 1793347145472,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vizbqb"
+    },
+    {
       "id": "aka2026vmkdmj",
       "lon": -151.252,
       "lat": 60.519,
@@ -722,6 +742,16 @@
       "place": "3 km S of Kenai, Alaska",
       "time": 1793346344837,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vmkdmj"
+    },
+    {
+      "id": "tx2026viyksk",
+      "lon": -104.471,
+      "lat": 31.646,
+      "depth": 7.1252,
+      "mag": 1.9,
+      "place": "59 km S of Whites City, New Mexico",
+      "time": 1793345852426,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026viyksk"
     },
     {
       "id": "uu80162111",
@@ -1785,12 +1815,12 @@
     },
     {
       "id": "ci41569032",
-      "lon": -116.709333333333,
-      "lat": 33.536,
-      "depth": 5.74,
+      "lon": -116.708833333333,
+      "lat": 33.5355,
+      "depth": 6.05,
       "mag": 0.64,
       "place": "4 km WSW of Anza, CA",
-      "time": 1793300346370,
+      "time": 1793300346330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569032"
     },
     {
@@ -2065,12 +2095,12 @@
     },
     {
       "id": "ci41568904",
-      "lon": -116.765833333333,
-      "lat": 33.5055,
-      "depth": 5.4,
-      "mag": 0.62,
-      "place": "10 km WSW of Anza, CA",
-      "time": 1793291269710,
+      "lon": -116.766,
+      "lat": 33.5028333333333,
+      "depth": 5.73,
+      "mag": 0.59,
+      "place": "10 km SW of Anza, CA",
+      "time": 1793291269660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568904"
     },
     {
@@ -2082,36 +2112,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1793291205330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459417"
-    },
-    {
-      "id": "ci41568896",
-      "lon": -116.747833333333,
-      "lat": 33.6716666666667,
-      "depth": 13.01,
-      "mag": 0.95,
-      "place": "8 km SSW of Idyllwild, CA",
-      "time": 1793290399820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568896"
-    },
-    {
-      "id": "pr71537918",
-      "lon": -65.3331666666667,
-      "lat": 17.9376666666667,
-      "depth": 16.64,
-      "mag": 2.94,
-      "place": "22 km SE of Esperanza, Puerto Rico",
-      "time": 1793290138070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537918"
-    },
-    {
-      "id": "us7000tu0w",
-      "lon": -63.7,
-      "lat": -22.0285,
-      "depth": 527.609,
-      "mag": 4.2,
-      "place": "2 km WSW of Yacuiba, Bolivia",
-      "time": 1793290096529,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu0w"
     }
   ]
 }
