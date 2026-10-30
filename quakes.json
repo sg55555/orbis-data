@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T10:31:01Z",
+  "updated": "2026-10-30T10:45:44Z",
   "count": 198,
   "points": [
+    {
+      "id": "ci41569600",
+      "lon": -117.242,
+      "lat": 34.0311666666667,
+      "depth": 5.45,
+      "mag": 0.83,
+      "place": "3 km SE of Loma Linda, CA",
+      "time": 1793356465330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569600"
+    },
     {
       "id": "ci41569592",
       "lon": -118.030666666667,
@@ -12,6 +22,16 @@
       "place": "2 km SE of South El Monte, CA",
       "time": 1793355705590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569592"
+    },
+    {
+      "id": "us7000tu7j",
+      "lon": 155.2618,
+      "lat": -62.4457,
+      "depth": 10,
+      "mag": 5.1,
+      "place": "Balleny Islands region",
+      "time": 1793355148219,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7j"
     },
     {
       "id": "aka2026vmouqg",
@@ -1962,26 +1982,6 @@
       "place": "9 km S of Morton, Washington",
       "time": 1793270762760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714131921"
-    },
-    {
-      "id": "nc75459337",
-      "lon": -122.800834655762,
-      "lat": 38.7970008850098,
-      "depth": 3.42000007629395,
-      "mag": 0.73,
-      "place": "4 km WNW of The Geysers, CA",
-      "time": 1793270080770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459337"
-    },
-    {
-      "id": "us7000ttyd",
-      "lon": 167.6261,
-      "lat": -18.4979,
-      "depth": 10,
-      "mag": 4.9,
-      "place": "111 km SW of Port-Vila, Vanuatu",
-      "time": 1793270002424,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttyd"
     }
   ]
 }
