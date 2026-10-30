@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T16:31:03Z",
-  "count": 207,
+  "updated": "2026-10-30T16:45:45Z",
+  "count": 206,
   "points": [
+    {
+      "id": "ci41569872",
+      "lon": -117.3725,
+      "lat": 34.175,
+      "depth": 10.4,
+      "mag": 1.02,
+      "place": "3 km NW of Muscoy, CA",
+      "time": 1793378277160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569872"
+    },
+    {
+      "id": "hv75066216",
+      "lon": -155.146331787109,
+      "lat": 18.8295001983643,
+      "depth": 38.6199989318848,
+      "mag": 2.3,
+      "place": "52 km ESE of Naalehu, Hawaii",
+      "time": 1793378159210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75066216"
+    },
     {
       "id": "hv75066191",
       "lon": -155.476165771484,
@@ -955,12 +975,12 @@
     },
     {
       "id": "ci41569408",
-      "lon": -117.240666666667,
-      "lat": 34.0305,
-      "depth": 3.29,
-      "mag": 0.64,
+      "lon": -117.242166666667,
+      "lat": 34.031,
+      "depth": 4.58,
+      "mag": 0.57,
       "place": "3 km SE of Loma Linda, CA",
-      "time": 1793338962160,
+      "time": 1793338962090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569408"
     },
     {
@@ -1242,6 +1262,16 @@
       "place": "3 km WSW of Anza, CA",
       "time": 1793331302670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569304"
+    },
+    {
+      "id": "tx2026viqkce",
+      "lon": -98.965,
+      "lat": 28.843,
+      "depth": 7.1058,
+      "mag": 2.1,
+      "place": "13 km ESE of Pearsall, Texas",
+      "time": 1793331229714,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026viqkce"
     },
     {
       "id": "pr71537938",
@@ -2032,46 +2062,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1793292685940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459422"
-    },
-    {
-      "id": "uw714132021",
-      "lon": -122.049333333333,
-      "lat": 47.0331666666667,
-      "depth": 12.68,
-      "mag": 0.92,
-      "place": "5 km S of Carbonado, Washington",
-      "time": 1793292309380,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714132021"
-    },
-    {
-      "id": "hv75065426",
-      "lon": -155.211,
-      "lat": 19.31,
-      "depth": 0.64,
-      "mag": 2.01,
-      "place": "14 km S of Volcano, Hawaii",
-      "time": 1793291532040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75065426"
-    },
-    {
-      "id": "hv75065421",
-      "lon": -155.018005371094,
-      "lat": 19.3684997558594,
-      "depth": 0.100000001490116,
-      "mag": 2.58,
-      "place": "15 km SW of Leilani Estates, Hawaii",
-      "time": 1793291515440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75065421"
-    },
-    {
-      "id": "aka2026vlfqxf",
-      "lon": -143.402,
-      "lat": 60.547,
-      "depth": 11.3,
-      "mag": 0.7,
-      "place": "102 km SSW of McCarthy, Alaska",
-      "time": 1793291499625,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vlfqxf"
     }
   ]
 }
