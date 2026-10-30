@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-30T04:15:44Z",
-  "count": 187,
+  "updated": "2026-10-30T04:30:57Z",
+  "count": 184,
   "points": [
+    {
+      "id": "ci41569352",
+      "lon": -117.942666666667,
+      "lat": 36.5008333333333,
+      "depth": 8.53,
+      "mag": 2.23,
+      "place": "15 km SE of Lone Pine, CA",
+      "time": 1793334271680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569352"
+    },
     {
       "id": "ci41569344",
       "lon": -118.526,
@@ -1832,46 +1842,6 @@
       "place": "4 km SW of Redlands, CA",
       "time": 1793248961760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568640"
-    },
-    {
-      "id": "nn00926400",
-      "lon": -118.4691,
-      "lat": 39.2939,
-      "depth": 12.894,
-      "mag": 1.83,
-      "place": "25 km ESE of Fallon Station, Nevada",
-      "time": 1793248129600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926400"
-    },
-    {
-      "id": "hv75065181",
-      "lon": -155.349334716797,
-      "lat": 19.156665802002,
-      "depth": 25.0900001525879,
-      "mag": 2.3,
-      "place": "14 km ESE of Pāhala, Hawaii",
-      "time": 1793248025970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75065181"
-    },
-    {
-      "id": "hv75065176",
-      "lon": -155.462661743164,
-      "lat": 19.0279998779297,
-      "depth": 31.9500007629395,
-      "mag": 1.79,
-      "place": "13 km ESE of Naalehu, Hawaii",
-      "time": 1793247830750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75065176"
-    },
-    {
-      "id": "aka2026vkhjag",
-      "lon": -152.367,
-      "lat": 61.285,
-      "depth": 6,
-      "mag": 0.5,
-      "place": "70 km WNW of Tyonek, Alaska",
-      "time": 1793247774085,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vkhjag"
     }
   ]
 }
