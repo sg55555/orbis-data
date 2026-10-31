@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-31T08:15:43Z",
-  "count": 216,
+  "updated": "2026-10-31T08:30:59Z",
+  "count": 217,
   "points": [
+    {
+      "id": "ci41570240",
+      "lon": -117.191166666667,
+      "lat": 33.9275,
+      "depth": 13.27,
+      "mag": 0.64,
+      "place": "3 km E of Moreno Valley, CA",
+      "time": 1793434519600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570240"
+    },
     {
       "id": "aka2026vogwaz",
       "lon": -149.276,
@@ -42,6 +52,16 @@
       "place": "13 km WNW of Calipatria, CA",
       "time": 1793432546640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570232"
+    },
+    {
+      "id": "us7000tuhe",
+      "lon": -112.3258,
+      "lat": 38.3161,
+      "depth": 7.806,
+      "mag": 2.5,
+      "place": "12 km NW of Junction, Utah",
+      "time": 1793432246189,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuhe"
     },
     {
       "id": "nc75460232",
@@ -2152,16 +2172,6 @@
       "place": "3 km SE of Loma Linda, CA",
       "time": 1793349396600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569504"
-    },
-    {
-      "id": "ci41569496",
-      "lon": -117.245,
-      "lat": 34.0318333333333,
-      "depth": 3.66,
-      "mag": 0.82,
-      "place": "2 km SE of Loma Linda, CA",
-      "time": 1793348520350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569496"
     }
   ]
 }
