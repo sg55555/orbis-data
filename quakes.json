@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-31T06:15:43Z",
+  "updated": "2026-10-31T06:31:00Z",
   "count": 218,
   "points": [
+    {
+      "id": "nc75460217",
+      "lon": -121.03133392334,
+      "lat": 35.6980018615723,
+      "depth": 5.03999996185303,
+      "mag": 1.27,
+      "place": "14 km WSW of Lake Nacimiento, CA",
+      "time": 1793427834040,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460217"
+    },
     {
       "id": "ci41570184",
       "lon": -116.791,
@@ -42,6 +52,16 @@
       "place": "3 km NE of The Geysers, CA",
       "time": 1793424865050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460202"
+    },
+    {
+      "id": "us7000tuh7",
+      "lon": 158.7423,
+      "lat": 52.6834,
+      "depth": 97.05,
+      "mag": 4.4,
+      "place": "35 km SE of Vilyuchinsk, Russia",
+      "time": 1793424559961,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuh7"
     },
     {
       "id": "ci41570176",
@@ -2162,26 +2182,6 @@
       "place": "11 km SSW of Bodfish, CA",
       "time": 1793341929710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569448"
-    },
-    {
-      "id": "ci41569440",
-      "lon": -118.523,
-      "lat": 35.4996666666667,
-      "depth": 1.77,
-      "mag": 0.85,
-      "place": "10 km SSW of Bodfish, CA",
-      "time": 1793341709760,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569440"
-    },
-    {
-      "id": "tx2026vivxmz",
-      "lon": -98.966,
-      "lat": 28.837,
-      "depth": 7.3016,
-      "mag": 2.1,
-      "place": "13 km ESE of Pearsall, Texas",
-      "time": 1793341215005,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vivxmz"
     }
   ]
 }
