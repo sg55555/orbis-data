@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-31T01:15:48Z",
+  "updated": "2026-10-31T01:30:57Z",
   "count": 234,
   "points": [
+    {
+      "id": "aka2026vntnhv",
+      "lon": -155.93,
+      "lat": 56.824,
+      "depth": 13,
+      "mag": 2.4,
+      "place": "108 km W of Akhiok, Alaska",
+      "time": 1793409999844,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vntnhv"
+    },
     {
       "id": "aka2026vnswlh",
       "lon": -156.496,
@@ -12,6 +22,16 @@
       "place": "61 km ESE of Ugashik, Alaska",
       "time": 1793408830209,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnswlh"
+    },
+    {
+      "id": "us7000tugg",
+      "lon": 24.1487,
+      "lat": 39.7672,
+      "depth": 10,
+      "mag": 4.2,
+      "place": "35 km SSE of Sykiá, Greece",
+      "time": 1793408519344,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugg"
     },
     {
       "id": "nc75460122",
@@ -75,12 +95,12 @@
     },
     {
       "id": "hv75066406",
-      "lon": -155.485992431641,
-      "lat": 19.193000793457,
-      "depth": 29.4300003051758,
-      "mag": 2.22,
-      "place": "1 km SW of Pāhala, Hawaii",
-      "time": 1793405283380,
+      "lon": -155.491666666667,
+      "lat": 19.2001666666667,
+      "depth": 31.55,
+      "mag": 1.83,
+      "place": "1 km WSW of Pāhala, Hawaii",
+      "time": 1793405283240,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75066406"
     },
     {
@@ -1144,6 +1164,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569656"
     },
     {
+      "id": "av94477443",
+      "lon": -166.499333333333,
+      "lat": 53.9336666666667,
+      "depth": 9.35,
+      "mag": 0.81,
+      "place": "5 km NNE of Dutch Harbor, Alaska",
+      "time": 1793360692080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94477443"
+    },
+    {
       "id": "ci41569648",
       "lon": -116.708666666667,
       "lat": 33.5346666666667,
@@ -1365,12 +1395,12 @@
     },
     {
       "id": "ci41569544",
-      "lon": -118.288,
+      "lon": -118.289333333333,
       "lat": 35.0863333333333,
-      "depth": 2.46,
-      "mag": 0.82,
+      "depth": 2.22,
+      "mag": 0.84,
       "place": "11 km WNW of Mojave, CA",
-      "time": 1793351486400,
+      "time": 1793351486350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569544"
     },
     {
@@ -2312,36 +2342,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1793324323840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459612"
-    },
-    {
-      "id": "ci41569208",
-      "lon": -116.706,
-      "lat": 33.539,
-      "depth": 5.39,
-      "mag": 0.05,
-      "place": "3 km WSW of Anza, CA",
-      "time": 1793323418470,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569208"
-    },
-    {
-      "id": "uw714132531",
-      "lon": -121.948333333333,
-      "lat": 47.6308333333333,
-      "depth": 16.64,
-      "mag": 1,
-      "place": "1 km E of Ames Lake, Washington",
-      "time": 1793323127140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714132531"
-    },
-    {
-      "id": "hv75065781",
-      "lon": -155.382171630859,
-      "lat": 19.2483329772949,
-      "depth": 30.2999992370605,
-      "mag": 1.91,
-      "place": "11 km ENE of Pāhala, Hawaii",
-      "time": 1793323047260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75065781"
     }
   ]
 }
