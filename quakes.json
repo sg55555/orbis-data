@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-31T01:30:57Z",
-  "count": 234,
+  "updated": "2026-10-31T01:45:48Z",
+  "count": 237,
   "points": [
+    {
+      "id": "hv75066446",
+      "lon": -155.488006591797,
+      "lat": 19.2006664276123,
+      "depth": 30.7199993133545,
+      "mag": 2.47,
+      "place": "1 km WSW of Pāhala, Hawaii",
+      "time": 1793410082700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75066446"
+    },
     {
       "id": "aka2026vntnhv",
       "lon": -155.93,
@@ -12,6 +22,16 @@
       "place": "108 km W of Akhiok, Alaska",
       "time": 1793409999844,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vntnhv"
+    },
+    {
+      "id": "us7000tugl",
+      "lon": 156.0245,
+      "lat": 49.9164,
+      "depth": 84.736,
+      "mag": 4.3,
+      "place": "84 km S of Severo-Kuril’sk, Russia",
+      "time": 1793409696013,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugl"
     },
     {
       "id": "aka2026vnswlh",
@@ -934,6 +954,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vmyizj"
     },
     {
+      "id": "av94477613",
+      "lon": -153.075166666667,
+      "lat": 60.0396666666667,
+      "depth": 0.2,
+      "mag": -0.45,
+      "place": "64 km ENE of Pedro Bay, Alaska",
+      "time": 1793371007640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94477613"
+    },
+    {
       "id": "nc75459847",
       "lon": -121.598335266113,
       "lat": 36.1355018615723,
@@ -1092,6 +1122,16 @@
       "place": "19 km ESE of Little Lake, CA",
       "time": 1793363382190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569696"
+    },
+    {
+      "id": "av94477478",
+      "lon": -169.892166666667,
+      "lat": 52.7995,
+      "depth": 7.61,
+      "mag": 1.88,
+      "place": "71 km WSW of Nikolski, Alaska",
+      "time": 1793363123410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94477478"
     },
     {
       "id": "ci41569680",
@@ -2332,16 +2372,6 @@
       "place": "4 km W of Cobb, CA",
       "time": 1793325203600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459617"
-    },
-    {
-      "id": "nc75459612",
-      "lon": -122.814666748047,
-      "lat": 38.826831817627,
-      "depth": 2.17000007629395,
-      "mag": 0.73,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1793324323840,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459612"
     }
   ]
 }
