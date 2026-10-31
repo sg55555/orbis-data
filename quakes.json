@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-31T00:15:41Z",
+  "updated": "2026-10-31T00:30:58Z",
   "count": 234,
   "points": [
+    {
+      "id": "aka2026vnrcdp",
+      "lon": -150.389,
+      "lat": 61.042,
+      "depth": 13.8,
+      "mag": 2.3,
+      "place": "20 km NE of Point Possession, Alaska",
+      "time": 1793405614700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnrcdp"
+    },
     {
       "id": "nc75460107",
       "lon": -122.803169250488,
@@ -1674,6 +1684,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60628816"
     },
     {
+      "id": "av94476868",
+      "lon": -153.117333333333,
+      "lat": 60.0098333333333,
+      "depth": -2.22,
+      "mag": -0.78,
+      "place": "60 km ENE of Pedro Bay, Alaska",
+      "time": 1793339647860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94476868"
+    },
+    {
       "id": "ci41569416",
       "lon": -116.481666666667,
       "lat": 33.0901666666667,
@@ -1752,6 +1772,16 @@
       "place": "16 km E of Julian, CA",
       "time": 1793338540310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569400"
+    },
+    {
+      "id": "av94476803",
+      "lon": -166.675,
+      "lat": 53.8965,
+      "depth": 6.76,
+      "mag": 0.05,
+      "place": "8 km W of Dutch Harbor, Alaska",
+      "time": 1793337951070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94476803"
     },
     {
       "id": "av94476793",
@@ -2312,36 +2342,6 @@
       "place": "3 km W of Cobb, CA",
       "time": 1793320261920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459562"
-    },
-    {
-      "id": "nc75459557",
-      "lon": -122.808334350586,
-      "lat": 38.8221664428711,
-      "depth": 2.8199999332428,
-      "mag": 1.03,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1793320117270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459557"
-    },
-    {
-      "id": "nc75459552",
-      "lon": -122.78150177002,
-      "lat": 38.826831817627,
-      "depth": 0.0700000002980232,
-      "mag": 1.01,
-      "place": "5 km W of Cobb, CA",
-      "time": 1793319876240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459552"
-    },
-    {
-      "id": "uw714132481",
-      "lon": -121.902666666667,
-      "lat": 46.6993333333333,
-      "depth": 5.61,
-      "mag": 0.86,
-      "place": "11 km SE of Ashford, Washington",
-      "time": 1793319495810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714132481"
     }
   ]
 }
