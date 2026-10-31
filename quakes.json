@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-31T07:01:16Z",
-  "count": 219,
+  "updated": "2026-10-31T07:15:42Z",
+  "count": 220,
   "points": [
+    {
+      "id": "ci41570216",
+      "lon": -116.709333333333,
+      "lat": 33.5351666666667,
+      "depth": 6.45,
+      "mag": -0.1,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1793429885620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570216"
+    },
     {
       "id": "aka2026voejkz",
       "lon": -151.745,
@@ -532,6 +542,16 @@
       "place": "4 km NNW of The Geysers, CA",
       "time": 1793405197340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460102"
+    },
+    {
+      "id": "aka2026vnquif",
+      "lon": -160.259,
+      "lat": 54.49,
+      "depth": 5.6,
+      "mag": 2.7,
+      "place": "95 km S of Sand Point, Alaska",
+      "time": 1793405079581,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnquif"
     },
     {
       "id": "pr71537998",
@@ -2182,16 +2202,6 @@
       "place": "57 km NW of Toyah, Texas",
       "time": 1793344680690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vixvfy"
-    },
-    {
-      "id": "ci41569464",
-      "lon": -117.243666666667,
-      "lat": 34.0335,
-      "depth": 3.56,
-      "mag": 0.5,
-      "place": "2 km SE of Loma Linda, CA",
-      "time": 1793343725370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569464"
     }
   ]
 }
