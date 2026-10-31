@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-31T04:01:09Z",
-  "count": 231,
+  "updated": "2026-10-31T04:15:43Z",
+  "count": 230,
   "points": [
+    {
+      "id": "ci41570144",
+      "lon": -116.277833333333,
+      "lat": 33.3263333333333,
+      "depth": 10.56,
+      "mag": 0.78,
+      "place": "12 km NE of Borrego Springs, CA",
+      "time": 1793419268190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570144"
+    },
     {
       "id": "aka2026vnyesu",
       "lon": -148.727,
@@ -652,6 +662,16 @@
       "place": "14 km SE of Pāhala, Hawaii",
       "time": 1793390209900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75066311"
+    },
+    {
+      "id": "av94477963",
+      "lon": -166.630166666667,
+      "lat": 53.8991666666667,
+      "depth": 8.79,
+      "mag": 2.61,
+      "place": "5 km W of Dutch Harbor, Alaska",
+      "time": 1793389982280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94477963"
     },
     {
       "id": "nc75460002",
@@ -2282,36 +2302,6 @@
       "place": "15 km SE of Lone Pine, CA",
       "time": 1793334271680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569352"
-    },
-    {
-      "id": "uw714132561",
-      "lon": -119.914833333333,
-      "lat": 48.8943333333333,
-      "depth": 0.55,
-      "mag": 1.55,
-      "place": "22 km WNW of Loomis, Washington",
-      "time": 1793333494210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714132561"
-    },
-    {
-      "id": "uu80162106",
-      "lon": -112.668,
-      "lat": 37.2241666666667,
-      "depth": 2.95,
-      "mag": 1.44,
-      "place": "6 km SSW of Orderville, Utah",
-      "time": 1793333296320,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162106"
-    },
-    {
-      "id": "ci41569344",
-      "lon": -118.526,
-      "lat": 35.4996666666667,
-      "depth": 1.62,
-      "mag": 1.36,
-      "place": "10 km SSW of Bodfish, CA",
-      "time": 1793333032200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569344"
     }
   ]
 }
