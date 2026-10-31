@@ -1,16 +1,16 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-31T07:45:44Z",
-  "count": 216,
+  "updated": "2026-10-31T08:01:10Z",
+  "count": 214,
   "points": [
     {
       "id": "ci41570232",
-      "lon": -115.64282989502,
-      "lat": 33.1643333435059,
-      "depth": 1.82000005245209,
-      "mag": 1.42639575891132,
+      "lon": -115.643333333333,
+      "lat": 33.1621666666667,
+      "depth": 2.35,
+      "mag": 1.15,
       "place": "13 km WNW of Calipatria, CA",
-      "time": 1793432546710,
+      "time": 1793432546640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570232"
     },
     {
@@ -294,23 +294,33 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugv"
     },
     {
+      "id": "aka2026vnxbrq",
+      "lon": -152.813,
+      "lat": 59.026,
+      "depth": 69.7,
+      "mag": 2.1,
+      "place": "62 km SW of Nanwalek, Alaska",
+      "time": 1793416392092,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnxbrq"
+    },
+    {
       "id": "aka2026vnwqrx",
-      "lon": -152.753,
-      "lat": 59.327,
-      "depth": 74.1,
+      "lon": -152.761,
+      "lat": 59.332,
+      "depth": 73.8,
       "mag": 2.2,
       "place": "47 km W of Nanwalek, Alaska",
-      "time": 1793415624706,
+      "time": 1793415624679,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnwqrx"
     },
     {
       "id": "aka2026vnwprz",
-      "lon": -155.559,
-      "lat": 58.252,
-      "depth": 5,
+      "lon": -155.555,
+      "lat": 58.243,
+      "depth": 4.9,
       "mag": 1,
-      "place": "80 km SE of King Salmon, Alaska",
-      "time": 1793415560080,
+      "place": "81 km SE of King Salmon, Alaska",
+      "time": 1793415559978,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnwprz"
     },
     {
@@ -365,12 +375,12 @@
     },
     {
       "id": "aka2026vnvhsv",
-      "lon": -152.885,
-      "lat": 60.627,
-      "depth": 23.7,
-      "mag": 1,
-      "place": "85 km W of Salamatof, Alaska",
-      "time": 1793413209626,
+      "lon": -152.806,
+      "lat": 60.574,
+      "depth": 28.1,
+      "mag": 0.7,
+      "place": "81 km W of Salamatof, Alaska",
+      "time": 1793413209206,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnvhsv"
     },
     {
@@ -396,11 +406,11 @@
     {
       "id": "aka2026vnumvv",
       "lon": -152.741,
-      "lat": 59.888,
-      "depth": 105.2,
+      "lat": 59.885,
+      "depth": 104.1,
       "mag": 2.1,
       "place": "52 km WNW of Anchor Point, Alaska",
-      "time": 1793411790337,
+      "time": 1793411790369,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnumvv"
     },
     {
@@ -2132,36 +2142,6 @@
       "place": "9 km WNW of Cobb, CA",
       "time": 1793347256050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459722"
-    },
-    {
-      "id": "nc75459717",
-      "lon": -122.822830200195,
-      "lat": 38.8388328552246,
-      "depth": 1.87000000476837,
-      "mag": 0.69,
-      "place": "9 km WNW of Cobb, CA",
-      "time": 1793347175020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459717"
-    },
-    {
-      "id": "tx2026vizbqb",
-      "lon": -104.461,
-      "lat": 31.651,
-      "depth": 6.8176,
-      "mag": 1.9,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": 1793347145472,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vizbqb"
-    },
-    {
-      "id": "aka2026vmkdmj",
-      "lon": -151.252,
-      "lat": 60.519,
-      "depth": 70.2,
-      "mag": 2,
-      "place": "3 km S of Kenai, Alaska",
-      "time": 1793346344837,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vmkdmj"
     }
   ]
 }
