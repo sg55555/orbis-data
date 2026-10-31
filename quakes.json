@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-31T05:01:09Z",
-  "count": 225,
+  "updated": "2026-10-31T05:15:42Z",
+  "count": 224,
   "points": [
+    {
+      "id": "ci41570160",
+      "lon": -116.755,
+      "lat": 33.658,
+      "depth": 14.5,
+      "mag": 0.45,
+      "place": "10 km SSW of Idyllwild, CA",
+      "time": 1793422871140,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570160"
+    },
+    {
+      "id": "hv75066511",
+      "lon": -155.493667602539,
+      "lat": 19.1634998321533,
+      "depth": 31.0900001525879,
+      "mag": 2.23,
+      "place": "4 km SSW of Pāhala, Hawaii",
+      "time": 1793422692060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75066511"
+    },
     {
       "id": "aka2026voabwg",
       "lon": -149.246,
@@ -15,12 +35,12 @@
     },
     {
       "id": "uu80162166",
-      "lon": -112.290496826172,
-      "lat": 38.2803344726562,
-      "depth": -2.70000004768372,
-      "mag": 3.27,
-      "place": "7 km NW of Junction, Utah",
-      "time": 1793421854980,
+      "lon": -112.2915,
+      "lat": 38.2876666666667,
+      "depth": 5.71,
+      "mag": 3.31,
+      "place": "8 km NW of Junction, Utah",
+      "time": 1793421855520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162166"
     },
     {
@@ -2222,36 +2242,6 @@
       "place": "65 km ENE of Pedro Bay, Alaska",
       "time": 1793337701340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94476793"
-    },
-    {
-      "id": "us7000tu6i",
-      "lon": -177.0471,
-      "lat": -18.1766,
-      "depth": 371.793,
-      "mag": 4.8,
-      "place": "Fiji region",
-      "time": 1793337019806,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6i"
-    },
-    {
-      "id": "aka2026vmesll",
-      "lon": -141.337,
-      "lat": 61.276,
-      "depth": 5,
-      "mag": 1.6,
-      "place": "86 km ESE of McCarthy, Alaska",
-      "time": 1793336586591,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vmesll"
-    },
-    {
-      "id": "nc75459682",
-      "lon": -122.81950378418,
-      "lat": 38.8158340454102,
-      "depth": 1.21000003814697,
-      "mag": 0.76,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1793336531130,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459682"
     }
   ]
 }
