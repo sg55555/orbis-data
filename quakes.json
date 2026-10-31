@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-31T10:15:41Z",
-  "count": 212,
+  "updated": "2026-10-31T10:31:03Z",
+  "count": 213,
   "points": [
+    {
+      "id": "aka2026volnih",
+      "lon": -151.299,
+      "lat": 63.185,
+      "depth": 5,
+      "mag": 1.9,
+      "place": "44 km SSE of Denali National Park, Alaska",
+      "time": 1793442383695,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026volnih"
+    },
+    {
+      "id": "ci41570288",
+      "lon": -116.032166666667,
+      "lat": 32.8988333333333,
+      "depth": 11.45,
+      "mag": 0.68,
+      "place": "19 km NNW of Ocotillo, CA",
+      "time": 1793442166220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570288"
+    },
+    {
+      "id": "aka2026volcou",
+      "lon": -152.265,
+      "lat": 61.294,
+      "depth": 10.2,
+      "mag": 0.8,
+      "place": "65 km WNW of Tyonek, Alaska",
+      "time": 1793441685312,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026volcou"
+    },
     {
       "id": "ci41570280",
       "lon": -116.3005,
@@ -2102,26 +2132,6 @@
       "place": "3 km SE of Loma Linda, CA",
       "time": 1793356465330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569600"
-    },
-    {
-      "id": "us7000tu7k",
-      "lon": 127.3616,
-      "lat": 8.3731,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "104 km ENE of Barcelona, Philippines",
-      "time": 1793355851303,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7k"
-    },
-    {
-      "id": "ci41569592",
-      "lon": -118.030666666667,
-      "lat": 34.0371666666667,
-      "depth": 11.12,
-      "mag": 1.11,
-      "place": "2 km SE of South El Monte, CA",
-      "time": 1793355705590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569592"
     }
   ]
 }
