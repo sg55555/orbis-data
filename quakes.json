@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-31T14:30:56Z",
+  "updated": "2026-10-31T14:45:38Z",
   "count": 224,
   "points": [
+    {
+      "id": "hv75066816",
+      "lon": -155.279495239258,
+      "lat": 19.3910007476807,
+      "depth": 1.44000005722046,
+      "mag": 1.9,
+      "place": "7 km SW of Volcano, Hawaii",
+      "time": 1793457647050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75066816"
+    },
     {
       "id": "hv75066801",
       "lon": -155.323333740234,
@@ -132,6 +142,16 @@
       "place": "65 km NNE of Pleasant Valley, Alaska",
       "time": 1793452528722,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vordyc"
+    },
+    {
+      "id": "us7000tuiw",
+      "lon": 128.9289,
+      "lat": -6.4305,
+      "depth": 254.829,
+      "mag": 4.3,
+      "place": "Banda Sea",
+      "time": 1793452208987,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuiw"
     },
     {
       "id": "ci41570376",
@@ -2222,26 +2242,6 @@
       "place": "13 km SSW of Salcha, Alaska",
       "time": 1793371914615,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vmyizj"
-    },
-    {
-      "id": "av94477613",
-      "lon": -153.075166666667,
-      "lat": 60.0396666666667,
-      "depth": 0.2,
-      "mag": -0.45,
-      "place": "64 km ENE of Pedro Bay, Alaska",
-      "time": 1793371007640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94477613"
-    },
-    {
-      "id": "nc75459847",
-      "lon": -121.598335266113,
-      "lat": 36.1355018615723,
-      "depth": 12.4399995803833,
-      "mag": 1.41,
-      "place": "13 km NNW of Lopez Point, CA",
-      "time": 1793370767530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459847"
     }
   ]
 }
