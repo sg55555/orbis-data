@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-31T00:45:43Z",
-  "count": 235,
+  "updated": "2026-10-31T01:01:10Z",
+  "count": 236,
   "points": [
+    {
+      "id": "nc75460122",
+      "lon": -122.789001464844,
+      "lat": 38.8356666564941,
+      "depth": 1.76999998092651,
+      "mag": 1.01,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1793408232640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460122"
+    },
+    {
+      "id": "nc75460117",
+      "lon": -121.271003723145,
+      "lat": 36.7666664123535,
+      "depth": 6.84999990463257,
+      "mag": 1.27,
+      "place": "5 km ESE of Tres Pinos, CA",
+      "time": 1793407997190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460117"
+    },
     {
       "id": "ci41570088",
       "lon": -118.523666666667,
@@ -12,6 +32,16 @@
       "place": "10 km SSW of Bodfish, CA",
       "time": 1793406622830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570088"
+    },
+    {
+      "id": "us7000tugd",
+      "lon": 167.9478,
+      "lat": -14.8091,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "97 km ENE of Port-Olry, Vanuatu",
+      "time": 1793406395699,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd"
     },
     {
       "id": "aka2026vnrcdp",
@@ -2332,26 +2362,6 @@
       "place": "2 km SW of Cobb, CA",
       "time": 1793322174580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459592"
-    },
-    {
-      "id": "uw714132521",
-      "lon": -119.906666666667,
-      "lat": 48.9045,
-      "depth": 12.5,
-      "mag": 1.72,
-      "place": "22 km WNW of Loomis, Washington",
-      "time": 1793322033630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714132521"
-    },
-    {
-      "id": "nc75459577",
-      "lon": -122.737167358398,
-      "lat": 38.8125,
-      "depth": 0.639999985694885,
-      "mag": 1.26,
-      "place": "2 km SW of Cobb, CA",
-      "time": 1793321438850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459577"
     }
   ]
 }
