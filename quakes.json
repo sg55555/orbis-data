@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-31T10:31:03Z",
-  "count": 213,
+  "updated": "2026-10-31T10:45:42Z",
+  "count": 212,
   "points": [
+    {
+      "id": "nc75460252",
+      "lon": -121.961166381836,
+      "lat": 37.8370018005371,
+      "depth": 14.5500001907349,
+      "mag": 1.62,
+      "place": "0 km NW of Diablo, CA",
+      "time": 1793442615640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460252"
+    },
     {
       "id": "aka2026volnih",
       "lon": -151.299,
@@ -2112,26 +2122,6 @@
       "place": "south of the Fiji Islands",
       "time": 1793357868963,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7p"
-    },
-    {
-      "id": "us7000tu7m",
-      "lon": 24.2284,
-      "lat": 39.7308,
-      "depth": 10,
-      "mag": 4.7,
-      "place": "42 km SE of Sykiá, Greece",
-      "time": 1793357103842,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7m"
-    },
-    {
-      "id": "ci41569600",
-      "lon": -117.242,
-      "lat": 34.0311666666667,
-      "depth": 5.45,
-      "mag": 0.83,
-      "place": "3 km SE of Loma Linda, CA",
-      "time": 1793356465330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569600"
     }
   ]
 }
