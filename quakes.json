@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-31T16:30:59Z",
-  "count": 226,
+  "updated": "2026-10-31T16:45:41Z",
+  "count": 224,
   "points": [
+    {
+      "id": "nc75460367",
+      "lon": -122.817337036133,
+      "lat": 38.8320007324219,
+      "depth": 1.63999998569489,
+      "mag": 0.76,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1793464595350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460367"
+    },
     {
       "id": "nc75460362",
       "lon": -122.824996948242,
@@ -2232,36 +2242,6 @@
       "place": "8 km S of Pāhala, Hawaii",
       "time": 1793378897250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75066221"
-    },
-    {
-      "id": "us7000tu91",
-      "lon": -93.2141,
-      "lat": 14.3043,
-      "depth": 35,
-      "mag": 4.1,
-      "place": "97 km WSW of Puerto Madero, Mexico",
-      "time": 1793378605499,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu91"
-    },
-    {
-      "id": "ci41569872",
-      "lon": -117.3725,
-      "lat": 34.175,
-      "depth": 10.4,
-      "mag": 1.02,
-      "place": "3 km NW of Muscoy, CA",
-      "time": 1793378277160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569872"
-    },
-    {
-      "id": "hv75066216",
-      "lon": -155.137166666667,
-      "lat": 18.8268333333333,
-      "depth": 44.46,
-      "mag": 2.42,
-      "place": "53 km ESE of Naalehu, Hawaii",
-      "time": 1793378158850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75066216"
     }
   ]
 }
