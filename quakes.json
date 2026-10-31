@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-31T02:01:11Z",
-  "count": 239,
+  "updated": "2026-10-31T02:15:41Z",
+  "count": 238,
   "points": [
     {
+      "id": "nc75460147",
+      "lon": -122.853668212891,
+      "lat": 38.8208351135254,
+      "depth": 2.67000007629395,
+      "mag": 0.94,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": 1793412244060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460147"
+    },
+    {
       "id": "ci41570112",
-      "lon": -117.584167480469,
-      "lat": 34.1976661682129,
-      "depth": 4.46999979019165,
-      "mag": 1.19631158640663,
+      "lon": -117.585833333333,
+      "lat": 34.197,
+      "depth": 4.22,
+      "mag": 1.1,
       "place": "8 km N of Rancho Cucamonga, CA",
-      "time": 1793411918320,
+      "time": 1793411918350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570112"
     },
     {
@@ -612,6 +622,16 @@
       "place": "18 km N of Santa Paula, CA",
       "time": 1793387158480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569976"
+    },
+    {
+      "id": "av94477893",
+      "lon": -166.618666666667,
+      "lat": 53.8788333333333,
+      "depth": -1.99,
+      "mag": 0.06,
+      "place": "5 km WSW of Dutch Harbor, Alaska",
+      "time": 1793387080960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94477893"
     },
     {
       "id": "ci41569968",
@@ -2362,36 +2382,6 @@
       "place": "6 km SE of Ontario, CA",
       "time": 1793327188630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569232"
-    },
-    {
-      "id": "ci41569224",
-      "lon": -117.2455,
-      "lat": 34.0325,
-      "depth": 3.83,
-      "mag": 0.86,
-      "place": "2 km SE of Loma Linda, CA",
-      "time": 1793326352240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569224"
-    },
-    {
-      "id": "aka2026vlyxzo",
-      "lon": -142.907,
-      "lat": 63.123,
-      "depth": 5,
-      "mag": 1.5,
-      "place": "19 km W of Tetlin, Alaska",
-      "time": 1793326175139,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vlyxzo"
-    },
-    {
-      "id": "ci41569216",
-      "lon": -117.240666666667,
-      "lat": 34.0316666666667,
-      "depth": 3.92,
-      "mag": 2.2,
-      "place": "3 km SE of Loma Linda, CA",
-      "time": 1793325861010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569216"
     }
   ]
 }
