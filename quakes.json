@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-31T17:31:01Z",
-  "count": 222,
+  "updated": "2026-10-31T17:45:48Z",
+  "count": 223,
   "points": [
+    {
+      "id": "ci41570464",
+      "lon": -117.243666666667,
+      "lat": 34.0325,
+      "depth": 5.14,
+      "mag": 2.1,
+      "place": "2 km SE of Loma Linda, CA",
+      "time": 1793468403110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570464"
+    },
+    {
+      "id": "ci41570456",
+      "lon": -116.758666666667,
+      "lat": 33.711,
+      "depth": 16.14,
+      "mag": 0.6,
+      "place": "5 km SW of Idyllwild, CA",
+      "time": 1793468222480,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570456"
+    },
     {
       "id": "ci41570448",
       "lon": -116.709166666667,
@@ -22,6 +42,16 @@
       "place": "92 km NNW of Aleneva, Alaska",
       "time": 1793467068885,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vozgak"
+    },
+    {
+      "id": "us7000tujw",
+      "lon": 53.5875,
+      "lat": 27.6403,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "54 km W of Gerāsh, Iran",
+      "time": 1793466976500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tujw"
     },
     {
       "id": "aka2026voyvod",
@@ -2202,26 +2232,6 @@
       "place": "17 km NW of Pinnacles, CA",
       "time": 1793382623650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459922"
-    },
-    {
-      "id": "aka2026vnecvk",
-      "lon": -152.607,
-      "lat": 59.719,
-      "depth": 91.7,
-      "mag": 2.5,
-      "place": "44 km W of Anchor Point, Alaska",
-      "time": 1793382284994,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnecvk"
-    },
-    {
-      "id": "uw714132701",
-      "lon": -122.0565,
-      "lat": 46.7366666666667,
-      "depth": 4.05,
-      "mag": 1.65,
-      "place": "3 km SW of Ashford, Washington",
-      "time": 1793381539010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714132701"
     }
   ]
 }
