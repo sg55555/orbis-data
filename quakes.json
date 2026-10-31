@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-31T07:15:42Z",
-  "count": 220,
+  "updated": "2026-10-31T07:30:58Z",
+  "count": 216,
   "points": [
+    {
+      "id": "ci41570224",
+      "lon": -117.394333333333,
+      "lat": 35.9561666666667,
+      "depth": 2.18,
+      "mag": 0.93,
+      "place": "21 km N of Searles Valley, CA",
+      "time": 1793431325030,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570224"
+    },
     {
       "id": "ci41570216",
       "lon": -116.709333333333,
@@ -505,13 +515,23 @@
     },
     {
       "id": "aka2026vnrcdp",
-      "lon": -150.389,
-      "lat": 61.042,
-      "depth": 13.8,
-      "mag": 2.3,
+      "lon": -150.39,
+      "lat": 61.043,
+      "depth": 15.6,
+      "mag": 2.1,
       "place": "20 km NE of Point Possession, Alaska",
-      "time": 1793405614700,
+      "time": 1793405614753,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnrcdp"
+    },
+    {
+      "id": "aka2026vnrbfm",
+      "lon": -147.708,
+      "lat": 61.403,
+      "depth": 23,
+      "mag": 1.8,
+      "place": "45 km S of Glacier View, Alaska",
+      "time": 1793405561894,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnrbfm"
     },
     {
       "id": "nc75460107",
@@ -2142,66 +2162,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1793345450040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459712"
-    },
-    {
-      "id": "us7000tu6y",
-      "lon": -75.7294,
-      "lat": 3.6911,
-      "depth": 10,
-      "mag": 4.3,
-      "place": "20 km NNW of Rioblanco, Colombia",
-      "time": 1793345279370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6y"
-    },
-    {
-      "id": "uw714132571",
-      "lon": -123.1225,
-      "lat": 48.4581666666667,
-      "depth": 46,
-      "mag": 1.19,
-      "place": "11 km SW of Friday Harbor, Washington",
-      "time": 1793344982480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714132571"
-    },
-    {
-      "id": "ci41569480",
-      "lon": -117.245833333333,
-      "lat": 34.0318333333333,
-      "depth": 4.13,
-      "mag": 0.68,
-      "place": "2 km SE of Loma Linda, CA",
-      "time": 1793344982190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569480"
-    },
-    {
-      "id": "ci10259518",
-      "lon": -117.247833333333,
-      "lat": 34.0351666666667,
-      "depth": 6.23,
-      "mag": 0.99,
-      "place": "2 km SE of Loma Linda, CA",
-      "time": 1793344949230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10259518"
-    },
-    {
-      "id": "ci41569472",
-      "lon": -117.244333333333,
-      "lat": 34.0346666666667,
-      "depth": 6.47,
-      "mag": 0.92,
-      "place": "2 km SE of Loma Linda, CA",
-      "time": 1793344946350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569472"
-    },
-    {
-      "id": "tx2026vixvfy",
-      "lon": -104.253,
-      "lat": 31.647,
-      "depth": 7.6379,
-      "mag": 2.1,
-      "place": "57 km NW of Toyah, Texas",
-      "time": 1793344680690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vixvfy"
     }
   ]
 }
