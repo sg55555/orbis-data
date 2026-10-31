@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-10-31T04:15:43Z",
+  "updated": "2026-10-31T04:31:03Z",
   "count": 230,
   "points": [
+    {
+      "id": "nc75460182",
+      "lon": -122.85066986084,
+      "lat": 38.8223342895508,
+      "depth": 2.28999996185303,
+      "mag": 0.74,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": 1793420124240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460182"
+    },
     {
       "id": "ci41570144",
       "lon": -116.277833333333,
@@ -662,6 +672,16 @@
       "place": "14 km SE of Pāhala, Hawaii",
       "time": 1793390209900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75066311"
+    },
+    {
+      "id": "av94477973",
+      "lon": -166.629166666667,
+      "lat": 53.901,
+      "depth": 9.02,
+      "mag": 1.18,
+      "place": "5 km WNW of Dutch Harbor, Alaska",
+      "time": 1793390137960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94477973"
     },
     {
       "id": "av94477963",
@@ -2282,26 +2302,6 @@
       "place": "75 km SW of Skwentna, Alaska",
       "time": 1793335074391,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vmdwpj"
-    },
-    {
-      "id": "av93068904",
-      "lon": -154.5165,
-      "lat": 58.4166666666667,
-      "depth": 3.04,
-      "mag": 0.14,
-      "place": "94 km N of Karluk, Alaska",
-      "time": 1793334644490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068904"
-    },
-    {
-      "id": "ci41569352",
-      "lon": -117.942666666667,
-      "lat": 36.5008333333333,
-      "depth": 8.53,
-      "mag": 2.23,
-      "place": "15 km SE of Lone Pine, CA",
-      "time": 1793334271680,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41569352"
     }
   ]
 }
