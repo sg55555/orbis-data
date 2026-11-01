@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-01T22:30:59Z",
-  "count": 199,
+  "updated": "2026-11-01T22:45:47Z",
+  "count": 198,
   "points": [
+    {
+      "id": "aka2026vrfvny",
+      "lon": -146.991,
+      "lat": 61.862,
+      "depth": 15.8,
+      "mag": 2,
+      "place": "12 km SE of Eureka Roadhouse, Alaska",
+      "time": 1793572498754,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrfvny"
+    },
     {
       "id": "ci41570936",
       "lon": -117.8345,
@@ -12,6 +22,16 @@
       "place": "11 km ENE of Coso Junction, CA",
       "time": 1793571864460,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570936"
+    },
+    {
+      "id": "us7000turv",
+      "lon": 78.404,
+      "lat": -35.403,
+      "depth": 10,
+      "mag": 4.6,
+      "place": "Mid-Indian Ridge",
+      "time": 1793571764414,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000turv"
     },
     {
       "id": "ci41570928",
@@ -152,6 +172,16 @@
       "place": "15 km WNW of Tatitlek, Alaska",
       "time": 1793565745674,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrccap"
+    },
+    {
+      "id": "hv75067461",
+      "lon": -155.4535,
+      "lat": 19.5148333333333,
+      "depth": 3.25,
+      "mag": 0.83,
+      "place": "24 km WNW of Volcano, Hawaii",
+      "time": 1793565138020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75067461"
     },
     {
       "id": "aka2026vrbhzh",
@@ -1952,46 +1982,6 @@
       "place": "3 km NNW of The Geysers, CA",
       "time": 1793487124560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460582"
-    },
-    {
-      "id": "us7000tuky",
-      "lon": 165.6456,
-      "lat": -13.8729,
-      "depth": 10,
-      "mag": 5.2,
-      "place": "200 km NW of Port-Olry, Vanuatu",
-      "time": 1793486559540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuky"
-    },
-    {
-      "id": "aka2026vpjzvt",
-      "lon": -152.72,
-      "lat": 60.008,
-      "depth": 99.3,
-      "mag": 1.8,
-      "place": "55 km W of Happy Valley, Alaska",
-      "time": 1793486432675,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vpjzvt"
-    },
-    {
-      "id": "ci41570592",
-      "lon": -117.469833333333,
-      "lat": 35.626,
-      "depth": 6.81,
-      "mag": 0.61,
-      "place": "17 km SSW of Searles Valley, CA",
-      "time": 1793486072210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570592"
-    },
-    {
-      "id": "nc75460577",
-      "lon": -122.81600189209,
-      "lat": 38.814998626709,
-      "depth": 2.77999997138977,
-      "mag": 1.06,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1793485986930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460577"
     }
   ]
 }
