@@ -1,16 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-01T11:15:42Z",
-  "count": 217,
+  "updated": "2026-11-01T11:30:57Z",
+  "count": 219,
   "points": [
     {
+      "id": "nc75460837",
+      "lon": -122.808670043945,
+      "lat": 38.8380012512207,
+      "depth": 1.97000002861023,
+      "mag": 0.6,
+      "place": "8 km WNW of Cobb, CA",
+      "time": 1793532262150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460837"
+    },
+    {
+      "id": "ci41570808",
+      "lon": -116.706333333333,
+      "lat": 33.5395,
+      "depth": 5.37,
+      "mag": 0.45,
+      "place": "3 km WSW of Anza, CA",
+      "time": 1793532164610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570808"
+    },
+    {
+      "id": "nc75460832",
+      "lon": -122.045829772949,
+      "lat": 37.9701652526855,
+      "depth": 15.5900001525879,
+      "mag": 2.09,
+      "place": "3 km W of Concord, CA",
+      "time": 1793531934220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460832"
+    },
+    {
       "id": "ci41570800",
-      "lon": -117.820167541504,
-      "lat": 36.048999786377,
-      "depth": -0.759999990463257,
-      "mag": 1.50554100633,
+      "lon": -117.812833333333,
+      "lat": 36.0446666666667,
+      "depth": 1.01,
+      "mag": 1.11,
       "place": "12 km E of Coso Junction, CA",
-      "time": 1793531498410,
+      "time": 1793531498530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570800"
     },
     {
@@ -2162,16 +2192,6 @@
       "place": "196 km NW of Port-Olry, Vanuatu",
       "time": 1793446272352,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuif"
-    },
-    {
-      "id": "nc75460267",
-      "lon": -121.956336975098,
-      "lat": 37.8363342285156,
-      "depth": 15.0500001907349,
-      "mag": 1.41,
-      "place": "0 km NE of Diablo, CA",
-      "time": 1793445322600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460267"
     }
   ]
 }
