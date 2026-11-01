@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-01T12:45:42Z",
-  "count": 225,
+  "updated": "2026-11-01T13:01:09Z",
+  "count": 223,
   "points": [
+    {
+      "id": "us7000tupv",
+      "lon": -66.4133,
+      "lat": 17.8495,
+      "depth": 17.678,
+      "mag": 3.2,
+      "place": "12 km S of Santa Isabel, Puerto Rico",
+      "time": 1793536803121,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupv"
+    },
     {
       "id": "nc75460857",
       "lon": -122.807830810547,
@@ -2222,36 +2232,6 @@
       "place": "4 km NNE of Beaumont, CA",
       "time": 1793451721130,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570376"
-    },
-    {
-      "id": "us7000tukq",
-      "lon": -159.6965,
-      "lat": 54.5102,
-      "depth": 35,
-      "mag": 2.5,
-      "place": "105 km SSE of Sand Point, Alaska",
-      "time": 1793451152807,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tukq"
-    },
-    {
-      "id": "ci41570360",
-      "lon": -117.210666666667,
-      "lat": 34.0303333333333,
-      "depth": 4.7,
-      "mag": 0.91,
-      "place": "4 km SW of Redlands, CA",
-      "time": 1793451144190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570360"
-    },
-    {
-      "id": "ci41570352",
-      "lon": -117.2445,
-      "lat": 34.0325,
-      "depth": 5.12,
-      "mag": 1.19,
-      "place": "2 km SE of Loma Linda, CA",
-      "time": 1793451039490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570352"
     }
   ]
 }
