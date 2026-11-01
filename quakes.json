@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-01T11:01:09Z",
-  "count": 216,
+  "updated": "2026-11-01T11:15:42Z",
+  "count": 217,
   "points": [
+    {
+      "id": "ci41570800",
+      "lon": -117.820167541504,
+      "lat": 36.048999786377,
+      "depth": -0.759999990463257,
+      "mag": 1.50554100633,
+      "place": "12 km E of Coso Junction, CA",
+      "time": 1793531498410,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570800"
+    },
+    {
+      "id": "ci41570792",
+      "lon": -117.252833333333,
+      "lat": 34.0415,
+      "depth": 15.41,
+      "mag": 0.58,
+      "place": "1 km SE of Loma Linda, CA",
+      "time": 1793530892490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570792"
+    },
     {
       "id": "aka2026vqipcj",
       "lon": -148.403,
@@ -52,6 +72,26 @@
       "place": "24 km ESE of Yosemite Valley, CA",
       "time": 1793529271470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460812"
+    },
+    {
+      "id": "us7000tup7",
+      "lon": 127.7611,
+      "lat": -5.9502,
+      "depth": 377.883,
+      "mag": 4.4,
+      "place": "253 km S of Ambon, Indonesia",
+      "time": 1793529115810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tup7"
+    },
+    {
+      "id": "us7000tup4",
+      "lon": 143.3008,
+      "lat": 39.8128,
+      "depth": 39.028,
+      "mag": 4.2,
+      "place": "118 km E of Miyako, Japan",
+      "time": 1793528340745,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tup4"
     },
     {
       "id": "ci41570768",
@@ -2132,36 +2172,6 @@
       "place": "0 km NE of Diablo, CA",
       "time": 1793445322600,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460267"
-    },
-    {
-      "id": "hv75066731",
-      "lon": -155.498336791992,
-      "lat": 19.132833480835,
-      "depth": 30.9099998474121,
-      "mag": 2.33,
-      "place": "8 km SSW of Pāhala, Hawaii",
-      "time": 1793445037120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75066731"
-    },
-    {
-      "id": "aka2026vomves",
-      "lon": -149.61,
-      "lat": 64.696,
-      "depth": 12.6,
-      "mag": 1.4,
-      "place": "25 km WNW of Four Mile Road, Alaska",
-      "time": 1793444726435,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vomves"
-    },
-    {
-      "id": "hv75066726",
-      "lon": -155.38916015625,
-      "lat": 19.2900009155273,
-      "depth": 30.5,
-      "mag": 2.14,
-      "place": "13 km NE of Pāhala, Hawaii",
-      "time": 1793444696580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75066726"
     }
   ]
 }
