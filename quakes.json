@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-01T23:01:14Z",
-  "count": 202,
+  "updated": "2026-11-01T23:15:45Z",
+  "count": 199,
   "points": [
     {
+      "id": "aka2026vrgyzc",
+      "lon": -153.309,
+      "lat": 58.983,
+      "depth": 78.9,
+      "mag": 1.9,
+      "place": "89 km WSW of Nanwalek, Alaska",
+      "time": 1793574530213,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrgyzc"
+    },
+    {
+      "id": "ci41570944",
+      "lon": -117.891998291016,
+      "lat": 34.1866683959961,
+      "depth": 11.8000001907349,
+      "mag": 1.20374224096087,
+      "place": "6 km NNE of Azusa, CA",
+      "time": 1793574365310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570944"
+    },
+    {
       "id": "aka2026vrgqaq",
-      "lon": -157.588,
-      "lat": 57.763,
-      "depth": 192.8,
-      "mag": 2.1,
+      "lon": -157.589,
+      "lat": 57.764,
+      "depth": 192.6,
+      "mag": 2.5,
       "place": "22 km N of Pilot Point, Alaska",
-      "time": 1793573911613,
+      "time": 1793573911630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrgqaq"
     },
     {
@@ -1972,56 +1992,6 @@
       "place": "7 km W of Cobb, CA",
       "time": 1793488645320,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460607"
-    },
-    {
-      "id": "aka2026vplaiy",
-      "lon": -152.372,
-      "lat": 61.279,
-      "depth": 5,
-      "mag": 0.7,
-      "place": "70 km WNW of Tyonek, Alaska",
-      "time": 1793488417818,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vplaiy"
-    },
-    {
-      "id": "aka2026vpkybb",
-      "lon": -149.596,
-      "lat": 62.705,
-      "depth": 16.1,
-      "mag": 1.6,
-      "place": "38 km NE of Chase, Alaska",
-      "time": 1793488105156,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vpkybb"
-    },
-    {
-      "id": "nc75460597",
-      "lon": -121.609169006348,
-      "lat": 36.8166656494141,
-      "depth": 8.23999977111816,
-      "mag": 0.87,
-      "place": "7 km NE of Prunedale, CA",
-      "time": 1793488007800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460597"
-    },
-    {
-      "id": "nc75460592",
-      "lon": -122.776336669922,
-      "lat": 38.8074989318848,
-      "depth": 1.92999994754791,
-      "mag": 1.06,
-      "place": "4 km NNW of The Geysers, CA",
-      "time": 1793487846860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460592"
-    },
-    {
-      "id": "nc75460587",
-      "lon": -122.876998901367,
-      "lat": 38.84033203125,
-      "depth": 2.41000008583069,
-      "mag": 0.8,
-      "place": "13 km NW of The Geysers, CA",
-      "time": 1793487806560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460587"
     }
   ]
 }
