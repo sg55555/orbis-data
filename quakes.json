@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-01T22:01:12Z",
-  "count": 203,
+  "updated": "2026-11-01T22:15:45Z",
+  "count": 200,
   "points": [
+    {
+      "id": "ci41570912",
+      "lon": -118.389,
+      "lat": 35.4428333333333,
+      "depth": 3.2,
+      "mag": 1.31,
+      "place": "19 km SSE of Bodfish, CA",
+      "time": 1793570568910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570912"
+    },
+    {
+      "id": "nc75461017",
+      "lon": -122.807998657227,
+      "lat": 38.8278350830078,
+      "depth": -0.419999986886978,
+      "mag": 0.27,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1793570521120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461017"
+    },
     {
       "id": "aka2026vreqwe",
       "lon": -150.109,
@@ -1982,56 +2002,6 @@
       "place": "9 km SSE of Maria Antonia, Puerto Rico",
       "time": 1793485164820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538153"
-    },
-    {
-      "id": "us7000tuku",
-      "lon": 136.9854,
-      "lat": 33.822,
-      "depth": 352.449,
-      "mag": 6,
-      "place": "58 km SSE of Shima, Japan",
-      "time": 1793484902901,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku"
-    },
-    {
-      "id": "av94478998",
-      "lon": -153.147833333333,
-      "lat": 60.0265,
-      "depth": 10.01,
-      "mag": -0.64,
-      "place": "59 km ENE of Pedro Bay, Alaska",
-      "time": 1793484387750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94478998"
-    },
-    {
-      "id": "ci41570560",
-      "lon": -117.5645,
-      "lat": 34.108,
-      "depth": 11.84,
-      "mag": 1.12,
-      "place": "2 km SE of Rancho Cucamonga, CA",
-      "time": 1793484292800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570560"
-    },
-    {
-      "id": "nc75460547",
-      "lon": -122.765167236328,
-      "lat": 38.821834564209,
-      "depth": 1.92999994754791,
-      "mag": 1.29,
-      "place": "4 km W of Cobb, CA",
-      "time": 1793484256260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460547"
-    },
-    {
-      "id": "ci41570552",
-      "lon": -116.708,
-      "lat": 33.5376666666667,
-      "depth": 6.34,
-      "mag": 0.57,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1793484211530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570552"
     }
   ]
 }
