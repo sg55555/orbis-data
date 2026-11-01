@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-01T17:30:57Z",
+  "updated": "2026-11-01T17:45:41Z",
   "count": 199,
   "points": [
+    {
+      "id": "nc75460902",
+      "lon": -122.79133605957,
+      "lat": 38.8118324279785,
+      "depth": 3.01999998092651,
+      "mag": 0.27,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1793554214990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460902"
+    },
     {
       "id": "us7000tuqk",
       "lon": -27.1985,
@@ -22,6 +32,16 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1793552939740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460892"
+    },
+    {
+      "id": "us7000tuqi",
+      "lon": 123.2705,
+      "lat": 23.8055,
+      "depth": 18.483,
+      "mag": 4.7,
+      "place": "78 km SSE of Yonakuni, Japan",
+      "time": 1793552478126,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqi"
     },
     {
       "id": "nc75460887",
@@ -1972,26 +1992,6 @@
       "place": "61 km E of Port Alsworth, Alaska",
       "time": 1793468749427,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vpaeip"
-    },
-    {
-      "id": "ci41570464",
-      "lon": -117.243666666667,
-      "lat": 34.0325,
-      "depth": 5.14,
-      "mag": 2.1,
-      "place": "2 km SE of Loma Linda, CA",
-      "time": 1793468403110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570464"
-    },
-    {
-      "id": "ci41570456",
-      "lon": -116.759166666667,
-      "lat": 33.7091666666667,
-      "depth": 16.15,
-      "mag": 0.48,
-      "place": "5 km SW of Idyllwild, CA",
-      "time": 1793468222510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570456"
     }
   ]
 }
