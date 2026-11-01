@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-01T20:45:42Z",
-  "count": 208,
+  "updated": "2026-11-01T21:01:11Z",
+  "count": 209,
   "points": [
     {
+      "id": "ci41570896",
+      "lon": -116.4395,
+      "lat": 33.534,
+      "depth": 6.37,
+      "mag": 0.79,
+      "place": "19 km SW of La Quinta, CA",
+      "time": 1793566517810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570896"
+    },
+    {
+      "id": "aka2026vrcdzy",
+      "lon": -152.891,
+      "lat": 59.838,
+      "depth": 103.7,
+      "mag": 1.8,
+      "place": "59 km W of Anchor Point, Alaska",
+      "time": 1793565948573,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrcdzy"
+    },
+    {
       "id": "aka2026vrccap",
-      "lon": -146.94,
-      "lat": 60.909,
-      "depth": 24.6,
-      "mag": 2,
+      "lon": -146.961,
+      "lat": 60.899,
+      "depth": 22.9,
+      "mag": 2.3,
       "place": "15 km WNW of Tatitlek, Alaska",
-      "time": 1793565745682,
+      "time": 1793565745674,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrccap"
     },
     {
@@ -2072,16 +2092,6 @@
       "place": "18 km NNE of Tierras Nuevas Poniente, Puerto Rico",
       "time": 1793480599370,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538123"
-    },
-    {
-      "id": "aka2026vpgghg",
-      "lon": -149.88,
-      "lat": 61.292,
-      "depth": 42.1,
-      "mag": 2.1,
-      "place": "8 km N of Anchorage, Alaska",
-      "time": 1793479678196,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vpgghg"
     }
   ]
 }
