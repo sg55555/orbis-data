@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-01T23:30:57Z",
-  "count": 196,
+  "updated": "2026-11-01T23:45:46Z",
+  "count": 194,
   "points": [
+    {
+      "id": "aka2026vribwm",
+      "lon": -152.696,
+      "lat": 60.218,
+      "depth": 111.7,
+      "mag": 1,
+      "place": "60 km WNW of Ninilchik, Alaska",
+      "time": 1793576520295,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vribwm"
+    },
     {
       "id": "aka2026vrgyzc",
       "lon": -153.309,
@@ -85,12 +95,12 @@
     },
     {
       "id": "us7000turv",
-      "lon": 78.404,
-      "lat": -35.403,
+      "lon": 78.3627,
+      "lat": -35.4346,
       "depth": 10,
       "mag": 4.6,
       "place": "Mid-Indian Ridge",
-      "time": 1793571764414,
+      "time": 1793571763980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000turv"
     },
     {
@@ -1932,36 +1942,6 @@
       "place": "7 km W of Cobb, CA",
       "time": 1793490802570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460632"
-    },
-    {
-      "id": "ci41570600",
-      "lon": -116.659833333333,
-      "lat": 33.4501666666667,
-      "depth": 3.86,
-      "mag": 0.41,
-      "place": "12 km S of Anza, CA",
-      "time": 1793490229630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570600"
-    },
-    {
-      "id": "hv75066981",
-      "lon": -155.2785,
-      "lat": 19.3923333333333,
-      "depth": 1.77,
-      "mag": 2.2,
-      "place": "7 km SW of Volcano, Hawaii",
-      "time": 1793489463070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75066981"
-    },
-    {
-      "id": "hv75066971",
-      "lon": -155.274673461914,
-      "lat": 19.3933334350586,
-      "depth": 1.42999994754791,
-      "mag": 2.42,
-      "place": "6 km SW of Volcano, Hawaii",
-      "time": 1793489427980,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75066971"
     }
   ]
 }
