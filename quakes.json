@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T02:15:43Z",
-  "count": 200,
+  "updated": "2026-11-02T02:31:01Z",
+  "count": 199,
   "points": [
+    {
+      "id": "nc75461147",
+      "lon": -122.244331359863,
+      "lat": 37.8660011291504,
+      "depth": 9.88000011444092,
+      "mag": 2.64,
+      "place": "3 km ESE of Berkeley, CA",
+      "time": 1793586213770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461147"
+    },
     {
       "id": "us7000tuta",
       "lon": 135.1987,
@@ -1982,26 +1992,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1793500350350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460702"
-    },
-    {
-      "id": "aka2026vprqoi",
-      "lon": -171.008,
-      "lat": 51.946,
-      "depth": 90.5,
-      "mag": 3.7,
-      "place": "183 km SW of Nikolski, Alaska",
-      "time": 1793500160647,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vprqoi"
-    },
-    {
-      "id": "nc75460697",
-      "lon": -121.459663391113,
-      "lat": 37.4220008850098,
-      "depth": 2.11999988555908,
-      "mag": 2.49,
-      "place": "27 km WSW of Westley, CA",
-      "time": 1793499677910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460697"
     }
   ]
 }
