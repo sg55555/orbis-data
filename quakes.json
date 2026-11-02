@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T05:45:47Z",
-  "count": 201,
+  "updated": "2026-11-02T06:01:15Z",
+  "count": 200,
   "points": [
+    {
+      "id": "nc75461242",
+      "lon": -121.45532989502,
+      "lat": 37.421501159668,
+      "depth": 4.88000011444092,
+      "mag": 1.14,
+      "place": "26 km WSW of Westley, CA",
+      "time": 1793598739830,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461242"
+    },
+    {
+      "id": "hv75067691",
+      "lon": -155.97200012207,
+      "lat": 19.6261672973633,
+      "depth": 35.3199996948242,
+      "mag": 1.89,
+      "place": "2 km WNW of Hōlualoa, Hawaii",
+      "time": 1793598255340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75067691"
+    },
     {
       "id": "us7000tuu0",
       "lon": 154.088,
@@ -1982,36 +2002,6 @@
       "place": "36 km SSE of Knik River, Alaska",
       "time": 1793513188164,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vpywos"
-    },
-    {
-      "id": "aka2026vpymex",
-      "lon": -151.792,
-      "lat": 60.795,
-      "depth": 89.5,
-      "mag": 3.2,
-      "place": "29 km WNW of Nikiski, Alaska",
-      "time": 1793512470622,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vpymex"
-    },
-    {
-      "id": "ci41570720",
-      "lon": -116.521666666667,
-      "lat": 33.5196666666667,
-      "depth": 12.25,
-      "mag": 0.6,
-      "place": "15 km ESE of Anza, CA",
-      "time": 1793512036710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570720"
-    },
-    {
-      "id": "aka2026vpyezk",
-      "lon": -151.421,
-      "lat": 60.137,
-      "depth": 52,
-      "mag": 1.7,
-      "place": "10 km S of Clam Gulch, Alaska",
-      "time": 1793511977482,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vpyezk"
     }
   ]
 }
