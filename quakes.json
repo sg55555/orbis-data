@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T02:01:13Z",
-  "count": 201,
+  "updated": "2026-11-02T02:15:43Z",
+  "count": 200,
   "points": [
+    {
+      "id": "us7000tuta",
+      "lon": 135.1987,
+      "lat": 30.8406,
+      "depth": 510.072,
+      "mag": 4.5,
+      "place": "288 km SSE of Muroto-misakicho, Japan",
+      "time": 1793584495186,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuta"
+    },
     {
       "id": "nc75461137",
       "lon": -122.848167419434,
@@ -1992,26 +2002,6 @@
       "place": "27 km WSW of Westley, CA",
       "time": 1793499677910,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460697"
-    },
-    {
-      "id": "pr71538173",
-      "lon": -66.859,
-      "lat": 17.8943333333333,
-      "depth": 12.58,
-      "mag": 2.26,
-      "place": "9 km SSE of Maria Antonia, Puerto Rico",
-      "time": 1793499105710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538173"
-    },
-    {
-      "id": "ci41570656",
-      "lon": -117.632833333333,
-      "lat": 35.8073333333333,
-      "depth": 8.96,
-      "mag": 0.79,
-      "place": "21 km N of Ridgecrest, CA",
-      "time": 1793498559350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570656"
     }
   ]
 }
