@@ -1,17 +1,47 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T20:15:46Z",
-  "count": 269,
+  "updated": "2026-11-02T20:31:01Z",
+  "count": 271,
   "points": [
     {
+      "id": "nn00926558",
+      "lon": -117.8455,
+      "lat": 38.145,
+      "depth": 0.0058,
+      "mag": 1.58,
+      "place": "35 km SE of Mina, Nevada",
+      "time": 1793651105615,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926558"
+    },
+    {
+      "id": "ci41571576",
+      "lon": -116.412,
+      "lat": 33.0295,
+      "depth": 8.72,
+      "mag": 0.8,
+      "place": "19 km ESE of Julian, CA",
+      "time": 1793650604120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571576"
+    },
+    {
       "id": "ci41571568",
-      "lon": -116.767166137695,
-      "lat": 33.5018348693848,
-      "depth": 9.97000026702881,
-      "mag": 1.27643279387539,
-      "place": "10 km SW of Anza, CA",
-      "time": 1793650405250,
+      "lon": -116.771,
+      "lat": 33.4975,
+      "depth": 10.07,
+      "mag": 1.13,
+      "place": "11 km NE of Aguanga, CA",
+      "time": 1793650405210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571568"
+    },
+    {
+      "id": "us7000tuzd",
+      "lon": 146.6114,
+      "lat": 13.795,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "168 km SE of San Jose Village, Northern Mariana Islands",
+      "time": 1793649544529,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuzd"
     },
     {
       "id": "ci41571560",
@@ -2682,16 +2712,6 @@
       "place": "24 km WNW of Volcano, Hawaii",
       "time": 1793565138020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75067461"
-    },
-    {
-      "id": "aka2026vrbhzh",
-      "lon": -151.979,
-      "lat": 58.728,
-      "depth": 41.5,
-      "mag": 2.2,
-      "place": "69 km S of Port Graham, Alaska",
-      "time": 1793564367345,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrbhzh"
     }
   ]
 }
