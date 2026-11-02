@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T15:45:46Z",
-  "count": 242,
+  "updated": "2026-11-02T16:01:15Z",
+  "count": 245,
   "points": [
+    {
+      "id": "nc75461442",
+      "lon": -122.811500549316,
+      "lat": 38.8214988708496,
+      "depth": 3.21000003814697,
+      "mag": 0.74,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1793634456330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461442"
+    },
+    {
+      "id": "hv75067836",
+      "lon": -155.460998535156,
+      "lat": 19.1574993133545,
+      "depth": 30.5200004577637,
+      "mag": 2.1,
+      "place": "5 km SSE of Pāhala, Hawaii",
+      "time": 1793634118430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75067836"
+    },
     {
       "id": "hv75067831",
       "lon": -155.510330200195,
@@ -22,6 +42,16 @@
       "place": "4 km SSW of Brawley, CA",
       "time": 1793633660680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571400"
+    },
+    {
+      "id": "us7000tuxg",
+      "lon": -78.5994,
+      "lat": -10.1699,
+      "depth": 67.239,
+      "mag": 5.1,
+      "place": "50 km WSW of Huarmey, Peru",
+      "time": 1793633293954,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuxg"
     },
     {
       "id": "ci41571392",
@@ -755,9 +785,9 @@
     },
     {
       "id": "ci41571056",
-      "lon": -116.964833333333,
-      "lat": 33.5451666666667,
-      "depth": 11.78,
+      "lon": -116.966666666667,
+      "lat": 33.545,
+      "depth": 11.23,
       "mag": 1.22,
       "place": "15 km NW of Aguanga, CA",
       "time": 1793612493840,
@@ -815,12 +845,12 @@
     },
     {
       "id": "ci41571048",
-      "lon": -116.806333333333,
-      "lat": 33.5651666666667,
-      "depth": 6.61,
+      "lon": -116.804833333333,
+      "lat": 33.5665,
+      "depth": 6.15,
       "mag": 0.66,
       "place": "12 km W of Anza, CA",
-      "time": 1793610756710,
+      "time": 1793610756730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571048"
     },
     {
@@ -1092,6 +1122,16 @@
       "place": "125 km NNW of Naisano Dua, Indonesia",
       "time": 1793602379889,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuua"
+    },
+    {
+      "id": "uu80162351",
+      "lon": -112.907833333333,
+      "lat": 38.5155,
+      "depth": 3.59,
+      "mag": 1.02,
+      "place": "15 km NE of Milford, Utah",
+      "time": 1793602191430,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162351"
     },
     {
       "id": "tx2026vojekl",
@@ -1824,6 +1864,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vnvfvr"
     },
     {
+      "id": "mb90211798",
+      "lon": -111.9305,
+      "lat": 44.8416666666667,
+      "depth": 0.79,
+      "mag": 1.42,
+      "place": "50 km S of Virginia City, Montana",
+      "time": 1793575155710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90211798"
+    },
+    {
       "id": "us7000tus5",
       "lon": -66.523,
       "lat": -22.5661,
@@ -2045,9 +2095,9 @@
     },
     {
       "id": "ci41570896",
-      "lon": -116.4395,
-      "lat": 33.534,
-      "depth": 6.37,
+      "lon": -116.441166666667,
+      "lat": 33.5333333333333,
+      "depth": 6.59,
       "mag": 0.79,
       "place": "19 km SW of La Quinta, CA",
       "time": 1793566517810,
@@ -2402,26 +2452,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1793548885920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460877"
-    },
-    {
-      "id": "ci41570856",
-      "lon": -116.705,
-      "lat": 33.5375,
-      "depth": 6.1,
-      "mag": 0.5,
-      "place": "4 km SW of Anza, CA",
-      "time": 1793548653430,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570856"
-    },
-    {
-      "id": "uw714133351",
-      "lon": -122.0485,
-      "lat": 47.0363333333333,
-      "depth": 13.61,
-      "mag": 0.56,
-      "place": "4 km S of Carbonado, Washington",
-      "time": 1793548247950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714133351"
     }
   ]
 }
