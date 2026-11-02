@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T03:30:59Z",
+  "updated": "2026-11-02T03:45:46Z",
   "count": 193,
   "points": [
+    {
+      "id": "nc75461192",
+      "lon": -121.467666625977,
+      "lat": 36.9896659851074,
+      "depth": 6.15999984741211,
+      "mag": 1.04,
+      "place": "9 km ESE of Gilroy, CA",
+      "time": 1793590167050,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461192"
+    },
     {
       "id": "nc75461187",
       "lon": -121.462997436523,
@@ -82,6 +92,16 @@
       "place": "3 km E of Berkeley, CA",
       "time": 1793586679820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461152"
+    },
+    {
+      "id": "us7000tute",
+      "lon": 146.4573,
+      "lat": -2.9446,
+      "depth": 10,
+      "mag": 4.5,
+      "place": "135 km SW of Lorengau, Papua New Guinea",
+      "time": 1793586243097,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tute"
     },
     {
       "id": "nc75461147",
@@ -1912,26 +1932,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1793505438530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460727"
-    },
-    {
-      "id": "ci41570704",
-      "lon": -116.6455,
-      "lat": 34.347,
-      "depth": 12.38,
-      "mag": 0.99,
-      "place": "21 km ENE of Big Bear City, CA",
-      "time": 1793504678360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570704"
-    },
-    {
-      "id": "aka2026vptyms",
-      "lon": -152.238,
-      "lat": 61.382,
-      "depth": 5,
-      "mag": 0.8,
-      "place": "67 km WNW of Beluga, Alaska",
-      "time": 1793504328988,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vptyms"
     }
   ]
 }
