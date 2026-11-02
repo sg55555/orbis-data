@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T16:01:15Z",
-  "count": 245,
+  "updated": "2026-11-02T16:15:47Z",
+  "count": 246,
   "points": [
+    {
+      "id": "ci41571408",
+      "lon": -115.54,
+      "lat": 32.9483333333333,
+      "depth": 8.35,
+      "mag": 1.44,
+      "place": "3 km SSW of Brawley, CA",
+      "time": 1793635632790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571408"
+    },
     {
       "id": "nc75461442",
       "lon": -122.811500549316,
@@ -1192,6 +1202,16 @@
       "place": "175 km WNW of Panguna, Papua New Guinea",
       "time": 1793596790104,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuu0"
+    },
+    {
+      "id": "us7000tuty",
+      "lon": -179.6961,
+      "lat": -17.901,
+      "depth": 635.184,
+      "mag": 4.1,
+      "place": "106 km E of Levuka, Fiji",
+      "time": 1793596251045,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuty"
     },
     {
       "id": "aka2026vrsxga",
@@ -2442,16 +2462,6 @@
       "place": "66 km WNW of Petersville, Alaska",
       "time": 1793550415181,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vqtomq"
-    },
-    {
-      "id": "nc75460877",
-      "lon": -122.818336486816,
-      "lat": 38.8308334350586,
-      "depth": 1.88999998569489,
-      "mag": 1.02,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1793548885920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460877"
     }
   ]
 }
