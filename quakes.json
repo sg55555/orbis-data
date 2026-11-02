@@ -1,16 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T14:31:02Z",
-  "count": 226,
+  "updated": "2026-11-02T14:45:51Z",
+  "count": 229,
   "points": [
     {
+      "id": "nc75461387",
+      "lon": -122.832000732422,
+      "lat": 38.8549995422363,
+      "depth": 1,
+      "mag": 0.7,
+      "place": "10 km WNW of Cobb, CA",
+      "time": 1793630300100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461387"
+    },
+    {
+      "id": "nc75461382",
+      "lon": -122.551002502441,
+      "lat": 37.75,
+      "depth": 11.9499998092651,
+      "mag": 1.06,
+      "place": "5 km WNW of San Francisco Zoo, CA",
+      "time": 1793630031570,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461382"
+    },
+    {
+      "id": "ci41571320",
+      "lon": -115.549833333333,
+      "lat": 32.9576666666667,
+      "depth": 8.13,
+      "mag": 1.44,
+      "place": "3 km SW of Brawley, CA",
+      "time": 1793629928700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571320"
+    },
+    {
       "id": "ci41571312",
-      "lon": -115.544830322266,
-      "lat": 32.9513320922852,
-      "depth": 10.0799999237061,
-      "mag": 2.13945409053854,
+      "lon": -115.548666666667,
+      "lat": 32.9533333333333,
+      "depth": 11.59,
+      "mag": 2.17,
       "place": "3 km SSW of Brawley, CA",
-      "time": 1793629700250,
+      "time": 1793629700140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571312"
     },
     {
@@ -32,6 +62,16 @@
       "place": "14 km SSW of Volcano, Hawaii",
       "time": 1793628824760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75067801"
+    },
+    {
+      "id": "us7000tuwv",
+      "lon": 179.6708,
+      "lat": -25.6182,
+      "depth": 502.364,
+      "mag": 4.7,
+      "place": "south of the Fiji Islands",
+      "time": 1793628323380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuwv"
     },
     {
       "id": "ci41571288",
@@ -2252,16 +2292,6 @@
       "place": "53 km W of Happy Valley, Alaska",
       "time": 1793545496675,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vqqvkp"
-    },
-    {
-      "id": "pr2026305000",
-      "lon": -67.3145,
-      "lat": 19.413,
-      "depth": 28,
-      "mag": 3.46,
-      "place": "104 km NNW of San Antonio, Puerto Rico",
-      "time": 1793543604440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026305000"
     }
   ]
 }
