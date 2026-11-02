@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T13:45:46Z",
-  "count": 221,
+  "updated": "2026-11-02T14:01:20Z",
+  "count": 222,
   "points": [
     {
+      "id": "ci41571280",
+      "lon": -115.548333333333,
+      "lat": 32.9468333333333,
+      "depth": 8.28,
+      "mag": 1.62,
+      "place": "4 km SSW of Brawley, CA",
+      "time": 1793627534160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571280"
+    },
+    {
       "id": "aka2026vskbeg",
-      "lon": -153.452,
-      "lat": 59.324,
-      "depth": 108.4,
-      "mag": 2.9,
+      "lon": -153.447,
+      "lat": 59.322,
+      "depth": 108.9,
+      "mag": 3.1,
       "place": "63 km SE of Pedro Bay, Alaska",
-      "time": 1793626853852,
+      "time": 1793626853803,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vskbeg"
     },
     {
@@ -1374,6 +1384,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrjybn"
     },
     {
+      "id": "tx2026vnxozc",
+      "lon": -101.144,
+      "lat": 31.951,
+      "depth": 4.3701,
+      "mag": 1.6,
+      "place": "19 km NW of Sterling City, Texas",
+      "time": 1793579587813,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vnxozc"
+    },
+    {
       "id": "nc75461092",
       "lon": -122.713836669922,
       "lat": 38.7556648254395,
@@ -2202,16 +2222,6 @@
       "place": "104 km NNW of San Antonio, Puerto Rico",
       "time": 1793543604440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026305000"
-    },
-    {
-      "id": "aka2026vqokjx",
-      "lon": -151.9,
-      "lat": 61.156,
-      "depth": 94.1,
-      "mag": 1.9,
-      "place": "42 km WNW of Tyonek, Alaska",
-      "time": 1793541136085,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vqokjx"
     }
   ]
 }
