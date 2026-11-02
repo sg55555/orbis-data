@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T10:15:45Z",
-  "count": 204,
+  "updated": "2026-11-02T10:31:11Z",
+  "count": 206,
   "points": [
+    {
+      "id": "ci41571080",
+      "lon": -116.708333333333,
+      "lat": 33.5378333333333,
+      "depth": 6.25,
+      "mag": 0.1,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1793614667380,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571080"
+    },
+    {
+      "id": "ci41571072",
+      "lon": -116.708,
+      "lat": 33.5371666666667,
+      "depth": 6.34,
+      "mag": -0.03,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1793614655350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571072"
+    },
+    {
+      "id": "aka2026vsdfmz",
+      "lon": -153.17,
+      "lat": 60.082,
+      "depth": 144.2,
+      "mag": 2.1,
+      "place": "61 km ENE of Pedro Bay, Alaska",
+      "time": 1793614570191,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vsdfmz"
+    },
     {
       "id": "ci41571064",
       "lon": -117.143,
@@ -992,6 +1022,16 @@
       "place": "6 km NNE of Azusa, CA",
       "time": 1793574365310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570944"
+    },
+    {
+      "id": "tx2026vnuqpu",
+      "lon": -104.484,
+      "lat": 31.636,
+      "depth": 7.3303,
+      "mag": 1.9,
+      "place": "60 km S of Whites City, New Mexico",
+      "time": 1793574269848,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vnuqpu"
     },
     {
       "id": "aka2026vrgqaq",
@@ -2022,26 +2062,6 @@
       "place": "253 km S of Ambon, Indonesia",
       "time": 1793529115810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tup7"
-    },
-    {
-      "id": "us7000tup4",
-      "lon": 143.3008,
-      "lat": 39.8128,
-      "depth": 39.028,
-      "mag": 4.2,
-      "place": "118 km E of Miyako, Japan",
-      "time": 1793528340745,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tup4"
-    },
-    {
-      "id": "ci41570768",
-      "lon": -116.701666666667,
-      "lat": 33.5401666666667,
-      "depth": 6.39,
-      "mag": -0.06,
-      "place": "3 km WSW of Anza, CA",
-      "time": 1793528210440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570768"
     }
   ]
 }
