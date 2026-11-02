@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T03:15:47Z",
-  "count": 195,
+  "updated": "2026-11-02T03:30:59Z",
+  "count": 193,
   "points": [
+    {
+      "id": "nc75461187",
+      "lon": -121.462997436523,
+      "lat": 36.9938316345215,
+      "depth": 5.61999988555908,
+      "mag": 2.51,
+      "place": "9 km E of Gilroy, CA",
+      "time": 1793590078910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461187"
+    },
+    {
+      "id": "nc75461182",
+      "lon": -122.813499450684,
+      "lat": 38.829833984375,
+      "depth": 1.97000002861023,
+      "mag": 1.29,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1793589255640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461182"
+    },
     {
       "id": "hv75067626",
       "lon": -155.517669677734,
@@ -72,6 +92,16 @@
       "place": "3 km ESE of Berkeley, CA",
       "time": 1793586213770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461147"
+    },
+    {
+      "id": "us7000tutf",
+      "lon": 122.1775,
+      "lat": 24.322,
+      "depth": 55.087,
+      "mag": 4.5,
+      "place": "64 km SE of Yilan, Taiwan",
+      "time": 1793586188566,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tutf"
     },
     {
       "id": "us7000tuta",
@@ -1902,56 +1932,6 @@
       "place": "67 km WNW of Beluga, Alaska",
       "time": 1793504328988,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vptyms"
-    },
-    {
-      "id": "aka2026vptpcl",
-      "lon": -152.954,
-      "lat": 60.436,
-      "depth": 48.3,
-      "mag": 0.7,
-      "place": "79 km ENE of Port Alsworth, Alaska",
-      "time": 1793503678670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vptpcl"
-    },
-    {
-      "id": "aka2026vptofv",
-      "lon": -152.472,
-      "lat": 60.13,
-      "depth": 5,
-      "mag": 0.8,
-      "place": "45 km W of Ninilchik, Alaska",
-      "time": 1793503618418,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vptofv"
-    },
-    {
-      "id": "nc75460717",
-      "lon": -122.81616973877,
-      "lat": 38.8154983520508,
-      "depth": 2.84999990463257,
-      "mag": 0.78,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1793503525900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460717"
-    },
-    {
-      "id": "ci41570696",
-      "lon": -117.796833333333,
-      "lat": 35.3408333333333,
-      "depth": 6.2,
-      "mag": 0.81,
-      "place": "15 km WSW of Johannesburg, CA",
-      "time": 1793503472850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570696"
-    },
-    {
-      "id": "aka2026vptiev",
-      "lon": -153.121,
-      "lat": 60.092,
-      "depth": 20.7,
-      "mag": 0.6,
-      "place": "64 km ENE of Pedro Bay, Alaska",
-      "time": 1793503202223,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vptiev"
     }
   ]
 }
