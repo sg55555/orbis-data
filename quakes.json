@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T17:15:47Z",
+  "updated": "2026-11-02T17:31:05Z",
   "count": 256,
   "points": [
+    {
+      "id": "nc75461497",
+      "lon": -122.803497314453,
+      "lat": 38.8211669921875,
+      "depth": 2.48000001907349,
+      "mag": 1.08,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1793640046790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461497"
+    },
     {
       "id": "ci41571456",
       "lon": -115.538333333333,
@@ -1145,12 +1155,12 @@
     },
     {
       "id": "ci41571032",
-      "lon": -115.170829772949,
-      "lat": 32.4333343505859,
-      "depth": 15.9499998092651,
-      "mag": 3.49953983436486,
+      "lon": -115.162833333333,
+      "lat": 32.4323333333333,
+      "depth": 15.59,
+      "mag": 3.16,
       "place": "9 km NNE of Delta, B.C., MX",
-      "time": 1793605811070,
+      "time": 1793605810990,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571032"
     },
     {
@@ -2552,16 +2562,6 @@
       "place": "8 km SE of Redwood Valley, CA",
       "time": 1793555682850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460907"
-    },
-    {
-      "id": "nc75460902",
-      "lon": -122.79133605957,
-      "lat": 38.8118324279785,
-      "depth": 3.01999998092651,
-      "mag": 0.27,
-      "place": "5 km NW of The Geysers, CA",
-      "time": 1793554214990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460902"
     }
   ]
 }
