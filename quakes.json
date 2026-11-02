@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T10:01:15Z",
-  "count": 203,
+  "updated": "2026-11-02T10:15:45Z",
+  "count": 204,
   "points": [
+    {
+      "id": "ci41571064",
+      "lon": -117.143,
+      "lat": 34.0715,
+      "depth": -0.9,
+      "mag": 0.97,
+      "place": "1 km WNW of Mentone, CA",
+      "time": 1793613749900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571064"
+    },
     {
       "id": "ci41571056",
       "lon": -116.964833333333,
@@ -302,6 +312,16 @@
       "place": "125 km NNW of Naisano Dua, Indonesia",
       "time": 1793602379889,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuua"
+    },
+    {
+      "id": "tx2026vojekl",
+      "lon": -104.431,
+      "lat": 31.646,
+      "depth": 6.228,
+      "mag": 2,
+      "place": "58 km S of Whites City, New Mexico",
+      "time": 1793600578006,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vojekl"
     },
     {
       "id": "us7000tuu3",
@@ -2022,16 +2042,6 @@
       "place": "3 km WSW of Anza, CA",
       "time": 1793528210440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570768"
-    },
-    {
-      "id": "ci41570760",
-      "lon": -118.586333333333,
-      "lat": 34.24,
-      "depth": 16.67,
-      "mag": 2.03,
-      "place": "2 km SE of Chatsworth, CA",
-      "time": 1793527706820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570760"
     }
   ]
 }
