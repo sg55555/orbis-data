@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T09:16:04Z",
-  "count": 201,
+  "updated": "2026-11-02T09:20:45Z",
+  "count": 202,
   "points": [
+    {
+      "id": "hv75067741",
+      "lon": -155.135665893555,
+      "lat": 19.8401660919189,
+      "depth": 36.0800018310547,
+      "mag": 1.89,
+      "place": "3 km WNW of Pepeekeo, Hawaii",
+      "time": 1793610922670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75067741"
+    },
     {
       "id": "aka2026vsbddk",
       "lon": -151.383,
@@ -12,6 +22,16 @@
       "place": "42 km NNW of Beluga, Alaska",
       "time": 1793610802595,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vsbddk"
+    },
+    {
+      "id": "ci41571048",
+      "lon": -116.806333333333,
+      "lat": 33.5651666666667,
+      "depth": 6.61,
+      "mag": 0.66,
+      "place": "12 km W of Anza, CA",
+      "time": 1793610756710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571048"
     },
     {
       "id": "aka2026vsatkr",
@@ -2002,16 +2022,6 @@
       "place": "6 km S of Pāhala, Hawaii",
       "time": 1793525835260,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75067236"
-    },
-    {
-      "id": "aka2026vqfhdn",
-      "lon": -152.355,
-      "lat": 61.36,
-      "depth": 5,
-      "mag": 0.6,
-      "place": "72 km WNW of Beluga, Alaska",
-      "time": 1793524721020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vqfhdn"
     }
   ]
 }
