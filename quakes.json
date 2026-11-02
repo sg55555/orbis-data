@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T01:15:44Z",
-  "count": 202,
+  "updated": "2026-11-02T01:31:04Z",
+  "count": 201,
   "points": [
+    {
+      "id": "aka2026vrlkbh",
+      "lon": -155.172,
+      "lat": 58.302,
+      "depth": 4.6,
+      "mag": 0.7,
+      "place": "92 km NNW of Karluk, Alaska",
+      "time": 1793582494690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrlkbh"
+    },
     {
       "id": "aka2026vrlauk",
       "lon": -153.2,
@@ -25,12 +35,12 @@
     },
     {
       "id": "us7000tusv",
-      "lon": 129.9364,
-      "lat": -6.9736,
-      "depth": 85.692,
+      "lon": 129.9514,
+      "lat": -6.9205,
+      "depth": 93.548,
       "mag": 5.1,
       "place": "Banda Sea",
-      "time": 1793580789703,
+      "time": 1793580790555,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv"
     },
     {
@@ -2002,26 +2012,6 @@
       "place": "76 km ENE of Port Alsworth, Alaska",
       "time": 1793496695576,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vppruo"
-    },
-    {
-      "id": "us7000tuly",
-      "lon": -68.435,
-      "lat": -21.698,
-      "depth": 120.437,
-      "mag": 4.5,
-      "place": "55 km SSW of Ollagüe, Chile",
-      "time": 1793496292448,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuly"
-    },
-    {
-      "id": "aka2026vppiny",
-      "lon": -152.255,
-      "lat": 59.802,
-      "depth": 90.9,
-      "mag": 2.1,
-      "place": "23 km W of Anchor Point, Alaska",
-      "time": 1793496028123,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vppiny"
     }
   ]
 }
