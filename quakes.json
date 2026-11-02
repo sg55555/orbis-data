@@ -1,6 +1,6 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T06:15:47Z",
+  "updated": "2026-11-02T06:31:01Z",
   "count": 197,
   "points": [
     {
@@ -282,6 +282,16 @@
       "place": "south of the Fiji Islands",
       "time": 1793587615947,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuth"
+    },
+    {
+      "id": "us7000tuts",
+      "lon": 78.0792,
+      "lat": -35.9577,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "Mid-Indian Ridge",
+      "time": 1793587427892,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuts"
     },
     {
       "id": "nc75461152",
@@ -1962,16 +1972,6 @@
       "place": "22 km ESE of Naalehu, Hawaii",
       "time": 1793514725140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75067146"
-    },
-    {
-      "id": "us7000tun8",
-      "lon": 165.6167,
-      "lat": -13.8672,
-      "depth": 10,
-      "mag": 5.4,
-      "place": "203 km NW of Port-Olry, Vanuatu",
-      "time": 1793514402287,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tun8"
     }
   ]
 }
