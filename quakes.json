@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T16:15:47Z",
-  "count": 246,
+  "updated": "2026-11-02T16:31:03Z",
+  "count": 248,
   "points": [
+    {
+      "id": "aka2026vsppac",
+      "lon": -141.728,
+      "lat": 59.871,
+      "depth": 0,
+      "mag": 2.4,
+      "place": "118 km WNW of Yakutat, Alaska",
+      "time": 1793636814065,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vsppac"
+    },
     {
       "id": "ci41571408",
       "lon": -115.54,
@@ -42,6 +52,16 @@
       "place": "6 km SSW of Pāhala, Hawaii",
       "time": 1793634004800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75067831"
+    },
+    {
+      "id": "us7000tuxi",
+      "lon": 93.831,
+      "lat": 32.3376,
+      "depth": 10,
+      "mag": 4.7,
+      "place": "193 km ENE of Nagqu, China",
+      "time": 1793633712369,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuxi"
     },
     {
       "id": "ci41571400",
@@ -2304,6 +2324,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqy"
     },
     {
+      "id": "us7000tuqw",
+      "lon": -68.9287,
+      "lat": -21.1449,
+      "depth": 117.203,
+      "mag": 4.1,
+      "place": "70 km W of Ollagüe, Chile",
+      "time": 1793558523372,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqw"
+    },
+    {
       "id": "aka2026vqyafq",
       "lon": -150.838,
       "lat": 64.951,
@@ -2452,16 +2482,6 @@
       "place": "13 km SE of Millville, CA",
       "time": 1793551576660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460887"
-    },
-    {
-      "id": "aka2026vqtomq",
-      "lon": -151.965,
-      "lat": 62.732,
-      "depth": 0.2,
-      "mag": 1.9,
-      "place": "66 km WNW of Petersville, Alaska",
-      "time": 1793550415181,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vqtomq"
     }
   ]
 }
