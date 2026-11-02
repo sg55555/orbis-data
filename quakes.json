@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T20:31:01Z",
-  "count": 271,
+  "updated": "2026-11-02T20:45:48Z",
+  "count": 272,
   "points": [
+    {
+      "id": "nc75461652",
+      "lon": -122.533332824707,
+      "lat": 38.8955001831055,
+      "depth": 5.26000022888184,
+      "mag": 2.11,
+      "place": "7 km ESE of Lower Lake, CA",
+      "time": 1793651713350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461652"
+    },
+    {
+      "id": "nc75461642",
+      "lon": -122.521667480469,
+      "lat": 38.9206657409668,
+      "depth": 0.930000007152557,
+      "mag": 2.51,
+      "place": "8 km E of Lower Lake, CA",
+      "time": 1793651656470,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461642"
+    },
+    {
+      "id": "uu80162461",
+      "lon": -112.919166666667,
+      "lat": 38.5186666666667,
+      "depth": 2.99,
+      "mag": 2.17,
+      "place": "15 km NNE of Milford, Utah",
+      "time": 1793651439240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162461"
+    },
     {
       "id": "nn00926558",
       "lon": -117.8455,
@@ -475,12 +505,12 @@
     },
     {
       "id": "ci41571400",
-      "lon": -115.550833333333,
-      "lat": 32.9505,
-      "depth": 10.22,
-      "mag": 2.1,
+      "lon": -115.553,
+      "lat": 32.9445,
+      "depth": 12.08,
+      "mag": 2.08,
       "place": "4 km SSW of Brawley, CA",
-      "time": 1793633660680,
+      "time": 1793633660480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571400"
     },
     {
@@ -2692,26 +2722,6 @@
       "place": "59 km W of Anchor Point, Alaska",
       "time": 1793565948573,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrcdzy"
-    },
-    {
-      "id": "aka2026vrccap",
-      "lon": -146.961,
-      "lat": 60.899,
-      "depth": 22.9,
-      "mag": 2.3,
-      "place": "15 km WNW of Tatitlek, Alaska",
-      "time": 1793565745674,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrccap"
-    },
-    {
-      "id": "hv75067461",
-      "lon": -155.4535,
-      "lat": 19.5148333333333,
-      "depth": 3.25,
-      "mag": 0.83,
-      "place": "24 km WNW of Volcano, Hawaii",
-      "time": 1793565138020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75067461"
     }
   ]
 }
