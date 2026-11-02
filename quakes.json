@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T22:31:01Z",
-  "count": 288,
+  "updated": "2026-11-02T22:45:44Z",
+  "count": 289,
   "points": [
+    {
+      "id": "nc75461757",
+      "lon": -122.854499816895,
+      "lat": 38.8261680603027,
+      "depth": 2.53999996185303,
+      "mag": 1.08,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": 1793659154060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461757"
+    },
     {
       "id": "nc75461747",
       "lon": -122.850997924805,
@@ -12,6 +22,16 @@
       "place": "10 km WNW of The Geysers, CA",
       "time": 1793658278120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461747"
+    },
+    {
+      "id": "uw714133731",
+      "lon": -122.7805,
+      "lat": 45.353,
+      "depth": -0.12,
+      "mag": 1.26,
+      "place": "3 km SSW of Tualatin, Oregon",
+      "time": 1793657920790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714133731"
     },
     {
       "id": "aka2026vtbewf",
@@ -2872,16 +2892,6 @@
       "place": "81 km NW of Ninilchik, Alaska",
       "time": 1793573493118,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrgjzp"
-    },
-    {
-      "id": "aka2026vrfvny",
-      "lon": -146.991,
-      "lat": 61.862,
-      "depth": 15.8,
-      "mag": 2,
-      "place": "12 km SE of Eureka Roadhouse, Alaska",
-      "time": 1793572498754,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrfvny"
     }
   ]
 }
