@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T22:01:13Z",
-  "count": 287,
+  "updated": "2026-11-02T22:15:43Z",
+  "count": 285,
   "points": [
     {
       "id": "ci41571632",
@@ -722,6 +722,16 @@
       "place": "4 km SSW of Brawley, CA",
       "time": 1793633660480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571400"
+    },
+    {
+      "id": "tx2026vpbktp",
+      "lon": -104.731,
+      "lat": 31.771,
+      "depth": 8.0737,
+      "mag": 1.7,
+      "place": "48 km ESE of Dell City, Texas",
+      "time": 1793633601935,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vpbktp"
     },
     {
       "id": "tx2026vpbjnj",
@@ -2842,36 +2852,6 @@
       "place": "10 km S of Idyllwild, CA",
       "time": 1793571742670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570928"
-    },
-    {
-      "id": "ci41570920",
-      "lon": -116.734333333333,
-      "lat": 33.3055,
-      "depth": 21.3,
-      "mag": 0.71,
-      "place": "8 km NNE of Lake Henshaw, CA",
-      "time": 1793571240790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570920"
-    },
-    {
-      "id": "ci41570912",
-      "lon": -118.389,
-      "lat": 35.4428333333333,
-      "depth": 3.2,
-      "mag": 1.31,
-      "place": "19 km SSE of Bodfish, CA",
-      "time": 1793570568910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570912"
-    },
-    {
-      "id": "nc75461017",
-      "lon": -122.807998657227,
-      "lat": 38.8278350830078,
-      "depth": -0.419999986886978,
-      "mag": 0.27,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1793570521120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461017"
     }
   ]
 }
