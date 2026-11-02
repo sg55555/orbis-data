@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T15:31:06Z",
-  "count": 243,
+  "updated": "2026-11-02T15:45:46Z",
+  "count": 242,
   "points": [
+    {
+      "id": "hv75067831",
+      "lon": -155.510330200195,
+      "lat": 19.1480007171631,
+      "depth": 30.6299991607666,
+      "mag": 1.83,
+      "place": "6 km SSW of Pāhala, Hawaii",
+      "time": 1793634004800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75067831"
+    },
+    {
+      "id": "ci41571400",
+      "lon": -115.550833333333,
+      "lat": 32.9505,
+      "depth": 10.22,
+      "mag": 2.1,
+      "place": "4 km SSW of Brawley, CA",
+      "time": 1793633660680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571400"
+    },
     {
       "id": "ci41571392",
       "lon": -115.24,
@@ -1032,6 +1052,16 @@
       "place": "15 km NNE of Milford, Utah",
       "time": 1793604319330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162361"
+    },
+    {
+      "id": "uu80162356",
+      "lon": -112.307,
+      "lat": 38.281,
+      "depth": 4.35,
+      "mag": 1.04,
+      "place": "9 km WNW of Junction, Utah",
+      "time": 1793604095180,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162356"
     },
     {
       "id": "aka2026vrxipc",
@@ -2392,46 +2422,6 @@
       "place": "4 km S of Carbonado, Washington",
       "time": 1793548247950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714133351"
-    },
-    {
-      "id": "tx2026vnfuzk",
-      "lon": -104.315,
-      "lat": 31.674,
-      "depth": 7.2278,
-      "mag": 2.7,
-      "place": "55 km S of Whites City, New Mexico",
-      "time": 1793547602290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vnfuzk"
-    },
-    {
-      "id": "ci41570848",
-      "lon": -116.4605,
-      "lat": 33.5033333333333,
-      "depth": 5.59,
-      "mag": 1.82,
-      "place": "21 km ESE of Anza, CA",
-      "time": 1793547574530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570848"
-    },
-    {
-      "id": "pr71538278",
-      "lon": -66.417,
-      "lat": 17.8301666666667,
-      "depth": 14.3,
-      "mag": 2.33,
-      "place": "15 km S of Santa Isabel, Puerto Rico",
-      "time": 1793547484780,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538278"
-    },
-    {
-      "id": "hv75067346",
-      "lon": -155.477493286133,
-      "lat": 19.1498336791992,
-      "depth": 12.5299997329712,
-      "mag": 1.86,
-      "place": "5 km S of Pāhala, Hawaii",
-      "time": 1793547286310,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75067346"
     }
   ]
 }
