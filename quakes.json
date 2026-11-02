@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T11:31:00Z",
+  "updated": "2026-11-02T11:45:50Z",
   "count": 200,
   "points": [
+    {
+      "id": "nn00926539",
+      "lon": -114.5227,
+      "lat": 37.7672,
+      "depth": 16,
+      "mag": 1.96,
+      "place": "11 km NW of Beaverdam, Nevada",
+      "time": 1793619527222,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926539"
+    },
     {
       "id": "ci41571096",
       "lon": -116.732,
@@ -882,6 +892,16 @@
       "place": "Kermadec Islands region",
       "time": 1793582296369,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tut4"
+    },
+    {
+      "id": "tx2026vnyxgc",
+      "lon": -104.468,
+      "lat": 31.66,
+      "depth": 7.2278,
+      "mag": 1.7,
+      "place": "57 km S of Whites City, New Mexico",
+      "time": 1793581972080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vnyxgc"
     },
     {
       "id": "aka2026vrlauk",
@@ -1982,26 +2002,6 @@
       "place": "92 km SSE of Kokhanok, Alaska",
       "time": 1793533560359,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vqkdlb"
-    },
-    {
-      "id": "us7000tupi",
-      "lon": -104.505,
-      "lat": 32.2509,
-      "depth": 5.415,
-      "mag": 2.8,
-      "place": "14 km NW of Whites City, New Mexico",
-      "time": 1793533466013,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupi"
-    },
-    {
-      "id": "aka2026vqjvdd",
-      "lon": -149.934,
-      "lat": 61.523,
-      "depth": 24.7,
-      "mag": 2.3,
-      "place": "1 km E of Big Lake, Alaska",
-      "time": 1793532883170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vqjvdd"
     }
   ]
 }
