@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T18:45:45Z",
-  "count": 261,
+  "updated": "2026-11-02T19:01:18Z",
+  "count": 265,
   "points": [
+    {
+      "id": "ci41571520",
+      "lon": -116.414666666667,
+      "lat": 33.0298333333333,
+      "depth": 9.4,
+      "mag": 1.05,
+      "place": "18 km ESE of Julian, CA",
+      "time": 1793645641440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571520"
+    },
+    {
+      "id": "hv75067876",
+      "lon": -155.829666137695,
+      "lat": 19.4918327331543,
+      "depth": 15.6899995803833,
+      "mag": 2.07,
+      "place": "5 km NE of Honaunau-Napoopoo, Hawaii",
+      "time": 1793645057160,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75067876"
+    },
+    {
+      "id": "nc75461582",
+      "lon": -120.933334350586,
+      "lat": 36.8250007629395,
+      "depth": 2.74000000953674,
+      "mag": 1.94,
+      "place": "27 km SSW of Los Banos, CA",
+      "time": 1793645024700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461582"
+    },
     {
       "id": "ci41571512",
       "lon": -116.413,
@@ -105,12 +135,12 @@
     },
     {
       "id": "ci41571456",
-      "lon": -115.538333333333,
-      "lat": 32.9363333333333,
-      "depth": 11.8,
-      "mag": 2.33,
-      "place": "5 km S of Brawley, CA",
-      "time": 1793639456990,
+      "lon": -115.534,
+      "lat": 32.9286666666667,
+      "depth": 12.17,
+      "mag": 2.24,
+      "place": "6 km S of Brawley, CA",
+      "time": 1793639456930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571456"
     },
     {
@@ -1454,6 +1484,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuu3"
     },
     {
+      "id": "uw714133471",
+      "lon": -116.802833333333,
+      "lat": 49.3865,
+      "depth": -1.31,
+      "mag": 2.24,
+      "place": "37 km ESE of Nelson, Canada",
+      "time": 1793600015360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714133471"
+    },
+    {
       "id": "nc75461242",
       "lon": -121.45532989502,
       "lat": 37.421501159668,
@@ -1902,6 +1942,16 @@
       "place": "7 km S of Lytle Creek, CA",
       "time": 1793583212690,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570968"
+    },
+    {
+      "id": "uw714133441",
+      "lon": -116.760666666667,
+      "lat": 49.3958333333333,
+      "depth": 1.99,
+      "mag": 2.51,
+      "place": "37 km NNW of Creston, Canada",
+      "time": 1793583172690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714133441"
     },
     {
       "id": "pr71538308",
@@ -2602,16 +2652,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1793559706650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460947"
-    },
-    {
-      "id": "us7000tur0",
-      "lon": 78.4169,
-      "lat": -35.441,
-      "depth": 10,
-      "mag": 4.8,
-      "place": "Mid-Indian Ridge",
-      "time": 1793559237590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tur0"
     }
   ]
 }
