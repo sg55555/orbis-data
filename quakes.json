@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T22:45:44Z",
-  "count": 289,
+  "updated": "2026-11-02T23:01:16Z",
+  "count": 287,
   "points": [
+    {
+      "id": "ci41571656",
+      "lon": -116.251166666667,
+      "lat": 31.9585,
+      "depth": 14.23,
+      "mag": 2.02,
+      "place": "36 km ENE of Ensenada, B.C., MX",
+      "time": 1793659628350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571656"
+    },
     {
       "id": "nc75461757",
       "lon": -122.854499816895,
@@ -12,6 +22,16 @@
       "place": "10 km WNW of The Geysers, CA",
       "time": 1793659154060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461757"
+    },
+    {
+      "id": "uw714133761",
+      "lon": -122.838333333333,
+      "lat": 47.7645,
+      "depth": 19.95,
+      "mag": 0.42,
+      "place": "7 km SSE of Quilcene, Washington",
+      "time": 1793658858240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714133761"
     },
     {
       "id": "nc75461747",
@@ -855,12 +875,12 @@
     },
     {
       "id": "ci41571376",
-      "lon": -115.549,
-      "lat": 32.941,
-      "depth": 9.95,
-      "mag": 1.88,
-      "place": "5 km SSW of Brawley, CA",
-      "time": 1793633007410,
+      "lon": -115.551333333333,
+      "lat": 32.9456666666667,
+      "depth": 10.41,
+      "mag": 1.86,
+      "place": "4 km SSW of Brawley, CA",
+      "time": 1793633007300,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571376"
     },
     {
@@ -1265,12 +1285,12 @@
     },
     {
       "id": "ci41571208",
-      "lon": -115.555166666667,
-      "lat": 32.95,
-      "depth": 5.74,
-      "mag": 1.46,
-      "place": "4 km SW of Brawley, CA",
-      "time": 1793623245950,
+      "lon": -115.563333333333,
+      "lat": 32.9465,
+      "depth": 5.52,
+      "mag": 1.48,
+      "place": "5 km SW of Brawley, CA",
+      "time": 1793623245970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571208"
     },
     {
@@ -2852,46 +2872,6 @@
       "place": "60 km S of Whites City, New Mexico",
       "time": 1793574269848,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vnuqpu"
-    },
-    {
-      "id": "aka2026vrgqaq",
-      "lon": -157.589,
-      "lat": 57.764,
-      "depth": 192.6,
-      "mag": 2.5,
-      "place": "22 km N of Pilot Point, Alaska",
-      "time": 1793573911630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrgqaq"
-    },
-    {
-      "id": "nc75461042",
-      "lon": -121.106666564941,
-      "lat": 36.5480003356934,
-      "depth": 5.30000019073486,
-      "mag": 1.61,
-      "place": "4 km ENE of Pinnacles, CA",
-      "time": 1793573756010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461042"
-    },
-    {
-      "id": "nc75461037",
-      "lon": -122.815170288086,
-      "lat": 38.8026657104492,
-      "depth": 2.83999991416931,
-      "mag": 0.79,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": 1793573697080,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461037"
-    },
-    {
-      "id": "aka2026vrgjzp",
-      "lon": -152.87,
-      "lat": 60.467,
-      "depth": 0,
-      "mag": 1.1,
-      "place": "81 km NW of Ninilchik, Alaska",
-      "time": 1793573493118,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrgjzp"
     }
   ]
 }
