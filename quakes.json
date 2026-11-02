@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-02T09:31:09Z",
-  "count": 205,
+  "updated": "2026-11-02T09:45:50Z",
+  "count": 206,
   "points": [
+    {
+      "id": "ci41571056",
+      "lon": -116.964833333333,
+      "lat": 33.5451666666667,
+      "depth": 11.78,
+      "mag": 1.22,
+      "place": "15 km NW of Aguanga, CA",
+      "time": 1793612493840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571056"
+    },
     {
       "id": "aka2026vsbmci",
       "lon": -142.655,
@@ -112,6 +122,16 @@
       "place": "26 km WSW of Westley, CA",
       "time": 1793609059750,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461287"
+    },
+    {
+      "id": "us7000tuv5",
+      "lon": 121.1252,
+      "lat": 19.8007,
+      "depth": 35,
+      "mag": 4.7,
+      "place": "113 km SW of Basco, Philippines",
+      "time": 1793608967228,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuv5"
     },
     {
       "id": "nc75461282",
@@ -2042,16 +2062,6 @@
       "place": "11 km SSW of Olancha, CA",
       "time": 1793526414950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570752"
-    },
-    {
-      "id": "hv75067236",
-      "lon": -155.487167358398,
-      "lat": 19.1410007476807,
-      "depth": 28.2199993133545,
-      "mag": 1.76,
-      "place": "6 km S of Pāhala, Hawaii",
-      "time": 1793525835260,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75067236"
     }
   ]
 }
