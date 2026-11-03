@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T07:30:59Z",
-  "count": 274,
+  "updated": "2026-11-03T07:45:42Z",
+  "count": 275,
   "points": [
+    {
+      "id": "ci41571888",
+      "lon": -117.344166666667,
+      "lat": 33.6355,
+      "depth": 11.39,
+      "mag": 0.65,
+      "place": "0 km S of Lakeland Village, CA",
+      "time": 1793691493930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571888"
+    },
+    {
+      "id": "ci41571880",
+      "lon": -116.866333333333,
+      "lat": 33.5991666666667,
+      "depth": 4.54,
+      "mag": 2.01,
+      "place": "17 km S of Valle Vista, CA",
+      "time": 1793690891620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571880"
+    },
     {
       "id": "nc75461922",
       "lon": -122.818496704102,
@@ -1594,6 +1614,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461387"
     },
     {
+      "id": "av94481673",
+      "lon": -154.982833333333,
+      "lat": 58.2898333333333,
+      "depth": 3.06,
+      "mag": -0.03,
+      "place": "86 km NNW of Karluk, Alaska",
+      "time": 1793630288510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94481673"
+    },
+    {
       "id": "nc75461382",
       "lon": -122.551002502441,
       "lat": 37.75,
@@ -1622,6 +1652,16 @@
       "place": "4 km SSW of Brawley, CA",
       "time": 1793629700040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571312"
+    },
+    {
+      "id": "av94481658",
+      "lon": -168.100666666667,
+      "lat": 53.4495,
+      "depth": 4.78,
+      "mag": 0.74,
+      "place": "76 km NE of Nikolski, Alaska",
+      "time": 1793629354720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94481658"
     },
     {
       "id": "ci41571304",
@@ -2712,36 +2752,6 @@
       "place": "7 km E of Ridgecrest, CA",
       "time": 1793605493450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571024"
-    },
-    {
-      "id": "aka2026vrybif",
-      "lon": -140.81,
-      "lat": 60.319,
-      "depth": 0.7,
-      "mag": 2.1,
-      "place": "105 km NW of Yakutat, Alaska",
-      "time": 1793605281128,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrybif"
-    },
-    {
-      "id": "nc75461257",
-      "lon": -120.811500549316,
-      "lat": 36.2361679077148,
-      "depth": 8.81999969482422,
-      "mag": 2.14,
-      "place": "22 km ENE of San Lucas, CA",
-      "time": 1793604853040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461257"
-    },
-    {
-      "id": "nc75461252",
-      "lon": -121.140663146973,
-      "lat": 36.6705017089844,
-      "depth": 3.45000004768372,
-      "mag": 2.23,
-      "place": "15 km N of Pinnacles, CA",
-      "time": 1793604649020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461252"
     }
   ]
 }
