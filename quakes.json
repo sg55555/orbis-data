@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T11:15:41Z",
-  "count": 248,
+  "updated": "2026-11-03T11:31:04Z",
+  "count": 245,
   "points": [
+    {
+      "id": "ci41571944",
+      "lon": -116.359333333333,
+      "lat": 33.0523333333333,
+      "depth": 13.85,
+      "mag": 0.22,
+      "place": "23 km S of Borrego Springs, CA",
+      "time": 1793704398590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571944"
+    },
     {
       "id": "ci41571936",
       "lon": -115.231166666667,
@@ -2442,46 +2452,6 @@
       "place": "14 km NE of Milford, Utah",
       "time": 1793619506530,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162376"
-    },
-    {
-      "id": "ci41571096",
-      "lon": -116.732,
-      "lat": 33.6458333333333,
-      "depth": 13.67,
-      "mag": 0.93,
-      "place": "11 km S of Idyllwild, CA",
-      "time": 1793618750550,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571096"
-    },
-    {
-      "id": "nc75461327",
-      "lon": -122.732833862305,
-      "lat": 38.7605018615723,
-      "depth": 1.89999997615814,
-      "mag": 0.72,
-      "place": "3 km SE of The Geysers, CA",
-      "time": 1793618545210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461327"
-    },
-    {
-      "id": "us7000tuvx",
-      "lon": 130.2101,
-      "lat": -6.9321,
-      "depth": 134.744,
-      "mag": 4.4,
-      "place": "Banda Sea",
-      "time": 1793618316538,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuvx"
-    },
-    {
-      "id": "hv75067756",
-      "lon": -155.277833333333,
-      "lat": 19.3925,
-      "depth": 1.79,
-      "mag": 2,
-      "place": "7 km SW of Volcano, Hawaii",
-      "time": 1793618209490,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75067756"
     }
   ]
 }
