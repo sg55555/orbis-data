@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T22:01:18Z",
+  "updated": "2026-11-03T22:15:45Z",
   "count": 207,
   "points": [
+    {
+      "id": "ci41572256",
+      "lon": -116.028166666667,
+      "lat": 33.236,
+      "depth": 4.29,
+      "mag": 0.99,
+      "place": "10 km SW of Salton City, CA",
+      "time": 1793743590490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572256"
+    },
     {
       "id": "ci41572248",
       "lon": -116.365,
@@ -25,12 +35,12 @@
     },
     {
       "id": "us7000tvtj",
-      "lon": 73.3673,
-      "lat": 39.3319,
+      "lon": 73.3023,
+      "lat": 39.3619,
       "depth": 10,
       "mag": 5.2,
-      "place": "97 km ESE of Kyzyl-Eshme, Kyrgyzstan",
-      "time": 1793741648563,
+      "place": "91 km ESE of Kyzyl-Eshme, Kyrgyzstan",
+      "time": 1793741648654,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvtj"
     },
     {
@@ -212,6 +222,16 @@
       "place": "7 km NNE of Delta, B.C., MX",
       "time": 1793733490940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572104"
+    },
+    {
+      "id": "ci41572096",
+      "lon": -116.7415,
+      "lat": 34.2278333333333,
+      "depth": 2.17,
+      "mag": 0.83,
+      "place": "10 km ESE of Big Bear City, CA",
+      "time": 1793732939800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572096"
     },
     {
       "id": "ci41572088",
@@ -2052,26 +2072,6 @@
       "place": "3 km SSW of Tualatin, Oregon",
       "time": 1793657920790,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714133731"
-    },
-    {
-      "id": "aka2026vtbewf",
-      "lon": -150.842,
-      "lat": 64.966,
-      "depth": 16.4,
-      "mag": 2.6,
-      "place": "10 km WSW of Manley Hot Springs, Alaska",
-      "time": 1793657699633,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vtbewf"
-    },
-    {
-      "id": "nc75461737",
-      "lon": -122.727668762207,
-      "lat": 38.7560005187988,
-      "depth": 3.13000011444092,
-      "mag": 0.6,
-      "place": "3 km SE of The Geysers, CA",
-      "time": 1793657690870,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461737"
     }
   ]
 }
