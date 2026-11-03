@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T08:45:49Z",
-  "count": 262,
+  "updated": "2026-11-03T09:01:19Z",
+  "count": 258,
   "points": [
+    {
+      "id": "ci41571912",
+      "lon": -116.404666666667,
+      "lat": 33.3956666666667,
+      "depth": 14.77,
+      "mag": 0.51,
+      "place": "16 km N of Borrego Springs, CA",
+      "time": 1793695755800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571912"
+    },
     {
       "id": "aka2026vtvtat",
       "lon": -150.521,
@@ -2572,56 +2582,6 @@
       "place": "15 km WNW of Nikiski, Alaska",
       "time": 1793610129318,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vsatkr"
-    },
-    {
-      "id": "aka2026vsarff",
-      "lon": -151.361,
-      "lat": 62.316,
-      "depth": 76.5,
-      "mag": 1.6,
-      "place": "36 km N of Skwentna, Alaska",
-      "time": 1793609976772,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vsarff"
-    },
-    {
-      "id": "us7000tuv8",
-      "lon": 26.528,
-      "lat": 34.3232,
-      "depth": 40.168,
-      "mag": 4.7,
-      "place": "100 km SSE of Palekastro, Greece",
-      "time": 1793609962968,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuv8"
-    },
-    {
-      "id": "nc75461297",
-      "lon": -122.793502807617,
-      "lat": 38.835334777832,
-      "depth": 2.09999990463257,
-      "mag": 1.79,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1793609823860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461297"
-    },
-    {
-      "id": "nc75461292",
-      "lon": -122.793998718262,
-      "lat": 38.8359985351562,
-      "depth": 1.96000003814697,
-      "mag": 1.2,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1793609802900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461292"
-    },
-    {
-      "id": "av94481203",
-      "lon": -152.2635,
-      "lat": 61.3311666666667,
-      "depth": -1.38,
-      "mag": -0.06,
-      "place": "66 km WNW of Beluga, Alaska",
-      "time": 1793609302100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94481203"
     }
   ]
 }
