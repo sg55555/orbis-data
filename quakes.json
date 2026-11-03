@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T21:31:27Z",
+  "updated": "2026-11-03T21:46:00Z",
   "count": 204,
   "points": [
+    {
+      "id": "aka2026vuvulm",
+      "lon": -141.168,
+      "lat": 62.058,
+      "depth": 1.5,
+      "mag": 2.1,
+      "place": "68 km S of Alcan Border, Alaska",
+      "time": 1793741541580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vuvulm"
+    },
     {
       "id": "hv75068221",
       "lon": -155.5068359375,
@@ -15,12 +25,12 @@
     },
     {
       "id": "ci41572192",
-      "lon": -115.1595,
-      "lat": 32.4223333333333,
-      "depth": 14.25,
-      "mag": 2.03,
-      "place": "8 km NNE of Delta, B.C., MX",
-      "time": 1793737069640,
+      "lon": -115.176333333333,
+      "lat": 32.4348333333333,
+      "depth": 12.05,
+      "mag": 1.98,
+      "place": "9 km N of Delta, B.C., MX",
+      "time": 1793737069670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572192"
     },
     {
@@ -82,6 +92,16 @@
       "place": "8 km NNE of Delta, B.C., MX",
       "time": 1793735391350,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572160"
+    },
+    {
+      "id": "ci10259790",
+      "lon": -115.192166666667,
+      "lat": 32.4051666666667,
+      "depth": 15.12,
+      "mag": 1.34,
+      "place": "6 km N of Delta, B.C., MX",
+      "time": 1793735358750,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10259790"
     },
     {
       "id": "nc75462137",
@@ -2022,26 +2042,6 @@
       "place": "5 km E of Calimesa, CA",
       "time": 1793656139620,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571632"
-    },
-    {
-      "id": "aka2026vtacse",
-      "lon": -150.88,
-      "lat": 64.644,
-      "depth": 9.3,
-      "mag": 1.7,
-      "place": "41 km SSW of Manley Hot Springs, Alaska",
-      "time": 1793655749947,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vtacse"
-    },
-    {
-      "id": "uw714133711",
-      "lon": -119.872166666667,
-      "lat": 47.2676666666667,
-      "depth": -0.76,
-      "mag": 1.42,
-      "place": "3 km NNW of Quincy, Washington",
-      "time": 1793655469050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714133711"
     }
   ]
 }
