@@ -1,26 +1,56 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T00:31:13Z",
+  "updated": "2026-11-03T00:45:42Z",
   "count": 281,
   "points": [
     {
+      "id": "aka2026vtfvls",
+      "lon": -157.566,
+      "lat": 56.3,
+      "depth": 47.6,
+      "mag": 3,
+      "place": "51 km E of Chignik, Alaska",
+      "time": 1793666046503,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vtfvls"
+    },
+    {
+      "id": "hv75067986",
+      "lon": -155.382339477539,
+      "lat": 19.1378326416016,
+      "depth": 27.2299995422363,
+      "mag": 1.85,
+      "place": "12 km SE of Pāhala, Hawaii",
+      "time": 1793665970540,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75067986"
+    },
+    {
+      "id": "ci41571688",
+      "lon": -117.677333333333,
+      "lat": 35.0435,
+      "depth": -0.74,
+      "mag": 1.64,
+      "place": "6 km NNW of Boron, CA",
+      "time": 1793665755580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571688"
+    },
+    {
       "id": "aka2026vtfqar",
-      "lon": -155.604,
-      "lat": 56.873,
-      "depth": 26.1,
+      "lon": -155.591,
+      "lat": 56.872,
+      "depth": 25.3,
       "mag": 3.4,
-      "place": "87 km W of Akhiok, Alaska",
-      "time": 1793665677437,
+      "place": "86 km W of Akhiok, Alaska",
+      "time": 1793665677237,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vtfqar"
     },
     {
       "id": "ci41571680",
-      "lon": -115.575332641602,
-      "lat": 32.9474983215332,
-      "depth": 2.39000010490417,
-      "mag": 1.59857347408233,
-      "place": "5 km SW of Brawley, CA",
-      "time": 1793665662320,
+      "lon": -115.5505,
+      "lat": 32.9501666666667,
+      "depth": 11.13,
+      "mag": 1.43,
+      "place": "4 km SSW of Brawley, CA",
+      "time": 1793665662210,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571680"
     },
     {
@@ -1315,12 +1345,12 @@
     },
     {
       "id": "ci41571240",
-      "lon": -115.5505,
-      "lat": 32.9536666666667,
-      "depth": 11.15,
-      "mag": 1.72,
-      "place": "3 km SW of Brawley, CA",
-      "time": 1793625307010,
+      "lon": -115.547333333333,
+      "lat": 32.9475,
+      "depth": 12,
+      "mag": 1.62,
+      "place": "4 km SSW of Brawley, CA",
+      "time": 1793625306830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571240"
     },
     {
@@ -2782,36 +2812,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1793580348120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461097"
-    },
-    {
-      "id": "aka2026vrjybn",
-      "lon": -152.969,
-      "lat": 60.001,
-      "depth": 5,
-      "mag": 0.5,
-      "place": "67 km ENE of Pedro Bay, Alaska",
-      "time": 1793579864565,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrjybn"
-    },
-    {
-      "id": "tx2026vnxozc",
-      "lon": -101.144,
-      "lat": 31.951,
-      "depth": 4.3701,
-      "mag": 1.6,
-      "place": "19 km NW of Sterling City, Texas",
-      "time": 1793579587813,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vnxozc"
-    },
-    {
-      "id": "nc75461092",
-      "lon": -122.713836669922,
-      "lat": 38.7556648254395,
-      "depth": 2.13000011444092,
-      "mag": 0.97,
-      "place": "3 km SW of Anderson Springs, CA",
-      "time": 1793579458070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461092"
     }
   ]
 }
