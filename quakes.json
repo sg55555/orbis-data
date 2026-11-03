@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T18:15:46Z",
-  "count": 215,
+  "updated": "2026-11-03T18:31:35Z",
+  "count": 218,
   "points": [
+    {
+      "id": "ci41572064",
+      "lon": -115.179832458496,
+      "lat": 32.439998626709,
+      "depth": 15.7700004577637,
+      "mag": 4.69788320837842,
+      "place": "10 km N of Delta, B.C., MX",
+      "time": 1793730451240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572064"
+    },
+    {
+      "id": "ci41572056",
+      "lon": -115.15266418457,
+      "lat": 32.4140014648438,
+      "depth": 20.7199993133545,
+      "mag": 3.58908734852205,
+      "place": "8 km NNE of Delta, B.C., MX",
+      "time": 1793729834020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572056"
+    },
     {
       "id": "nc75462117",
       "lon": -122.78800201416,
@@ -172,6 +192,16 @@
       "place": "4 km ENE of Central, Utah",
       "time": 1793722652090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162621"
+    },
+    {
+      "id": "tx2026vqyakk",
+      "lon": -98.975,
+      "lat": 28.828,
+      "depth": 7.4168,
+      "mag": 2,
+      "place": "13 km ESE of Pearsall, Texas",
+      "time": 1793721586251,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vqyakk"
     },
     {
       "id": "nc75462072",
@@ -432,6 +462,16 @@
       "place": "7 km NNE of Esterhazy, Canada",
       "time": 1793711092193,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv59"
+    },
+    {
+      "id": "aka2026vudsgu",
+      "lon": -152.837,
+      "lat": 59.546,
+      "depth": 96.7,
+      "mag": 2.3,
+      "place": "56 km WNW of Nanwalek, Alaska",
+      "time": 1793709466478,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vudsgu"
     },
     {
       "id": "aka2026vudyyh",
@@ -975,13 +1015,23 @@
     },
     {
       "id": "ci41571824",
-      "lon": -116.305,
-      "lat": 33.1711666666667,
-      "depth": 10.07,
+      "lon": -116.305166666667,
+      "lat": 33.1696666666667,
+      "depth": 10.37,
       "mag": 0.92,
-      "place": "11 km SE of Borrego Springs, CA",
-      "time": 1793684291060,
+      "place": "12 km SE of Borrego Springs, CA",
+      "time": 1793684291040,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571824"
+    },
+    {
+      "id": "ci10259766",
+      "lon": -116.758666666667,
+      "lat": 33.5881666666667,
+      "depth": 12.27,
+      "mag": 0.09,
+      "place": "9 km WNW of Anza, CA",
+      "time": 1793684283950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10259766"
     },
     {
       "id": "us7000tv3l",
@@ -2132,26 +2182,6 @@
       "place": "5 km SW of Dublin, CA",
       "time": 1793644326700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461572"
-    },
-    {
-      "id": "nc75461567",
-      "lon": -122.713500976562,
-      "lat": 38.7584991455078,
-      "depth": 1.67999994754791,
-      "mag": 1.41,
-      "place": "3 km SW of Anderson Springs, CA",
-      "time": 1793644185450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461567"
-    },
-    {
-      "id": "ci41571496",
-      "lon": -115.552333333333,
-      "lat": 32.946,
-      "depth": 10.1,
-      "mag": 1.68,
-      "place": "4 km SSW of Brawley, CA",
-      "time": 1793643559900,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571496"
     }
   ]
 }
