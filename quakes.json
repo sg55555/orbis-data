@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T14:15:47Z",
+  "updated": "2026-11-03T14:31:10Z",
   "count": 206,
   "points": [
+    {
+      "id": "aka2026vuhgwn",
+      "lon": -146.405,
+      "lat": 61.647,
+      "depth": 43.1,
+      "mag": 1.7,
+      "place": "42 km SSE of Nelchina, Alaska",
+      "time": 1793715413492,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vuhgwn"
+    },
     {
       "id": "nc75462042",
       "lon": -122.832336425781,
@@ -42,6 +52,16 @@
       "place": "10 km NW of The Geysers, CA",
       "time": 1793713984610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462027"
+    },
+    {
+      "id": "uu80162616",
+      "lon": -112.916833333333,
+      "lat": 38.5175,
+      "depth": 3.02,
+      "mag": 2.02,
+      "place": "15 km NNE of Milford, Utah",
+      "time": 1793713666860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162616"
     },
     {
       "id": "ci41571968",
@@ -942,6 +962,16 @@
       "place": "15 km NNE of Milford, Utah",
       "time": 1793661995950,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162486"
+    },
+    {
+      "id": "uu80162481",
+      "lon": -112.915833333333,
+      "lat": 38.5118333333333,
+      "depth": 3.34,
+      "mag": 0.47,
+      "place": "15 km NNE of Milford, Utah",
+      "time": 1793661761060,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162481"
     },
     {
       "id": "aka2026vtdcvd",
@@ -2032,36 +2062,6 @@
       "place": "3 km SW of Brawley, CA",
       "time": 1793629928700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571320"
-    },
-    {
-      "id": "ci41571312",
-      "lon": -115.547666666667,
-      "lat": 32.9456666666667,
-      "depth": 12.14,
-      "mag": 2.12,
-      "place": "4 km SSW of Brawley, CA",
-      "time": 1793629700040,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571312"
-    },
-    {
-      "id": "av94481658",
-      "lon": -168.100666666667,
-      "lat": 53.4495,
-      "depth": 4.78,
-      "mag": 0.74,
-      "place": "76 km NE of Nikolski, Alaska",
-      "time": 1793629354720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94481658"
-    },
-    {
-      "id": "ci41571304",
-      "lon": -115.549833333333,
-      "lat": 32.9491666666667,
-      "depth": 11.59,
-      "mag": 2.06,
-      "place": "4 km SSW of Brawley, CA",
-      "time": 1793629222460,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571304"
     }
   ]
 }
