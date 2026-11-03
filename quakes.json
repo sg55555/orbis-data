@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T05:15:45Z",
+  "updated": "2026-11-03T05:31:01Z",
   "count": 267,
   "points": [
+    {
+      "id": "ci41571816",
+      "lon": -115.608333333333,
+      "lat": 32.9188333333333,
+      "depth": 14.63,
+      "mag": 1.19,
+      "place": "9 km NNW of Imperial, CA",
+      "time": 1793683231950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571816"
+    },
     {
       "id": "ci41571808",
       "lon": -116.708666666667,
@@ -1964,6 +1974,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538348"
     },
     {
+      "id": "av94481458",
+      "lon": -155.310666666667,
+      "lat": 58.1858333333333,
+      "depth": 1.45,
+      "mag": 0.05,
+      "place": "85 km NW of Karluk, Alaska",
+      "time": 1793620417020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94481458"
+    },
+    {
       "id": "pr71538338",
       "lon": -66.404,
       "lat": 17.8396666666667,
@@ -2652,26 +2672,6 @@
       "place": "2 km WNW of Hōlualoa, Hawaii",
       "time": 1793598255340,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75067691"
-    },
-    {
-      "id": "tx2026vohdot",
-      "lon": -104.452,
-      "lat": 31.626,
-      "depth": 6.3049,
-      "mag": 1.5,
-      "place": "61 km S of Whites City, New Mexico",
-      "time": 1793596896121,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vohdot"
-    },
-    {
-      "id": "us7000tuu0",
-      "lon": 154.088,
-      "lat": -5.5626,
-      "depth": 87.891,
-      "mag": 4.9,
-      "place": "175 km WNW of Panguna, Papua New Guinea",
-      "time": 1793596790104,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuu0"
     }
   ]
 }
