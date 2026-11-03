@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T23:31:14Z",
-  "count": 205,
+  "updated": "2026-11-03T23:45:42Z",
+  "count": 202,
   "points": [
     {
       "id": "nc75462197",
@@ -85,12 +85,12 @@
     },
     {
       "id": "ci41572240",
-      "lon": -115.217,
-      "lat": 32.403,
-      "depth": 15.94,
-      "mag": 1.93,
-      "place": "6 km NNW of Delta, B.C., MX",
-      "time": 1793742682850,
+      "lon": -115.190166666667,
+      "lat": 32.4131666666667,
+      "depth": 15.25,
+      "mag": 2.06,
+      "place": "6 km N of Delta, B.C., MX",
+      "time": 1793742682670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572240"
     },
     {
@@ -125,12 +125,12 @@
     },
     {
       "id": "hv75068221",
-      "lon": -155.5068359375,
-      "lat": 19.4284992218018,
-      "depth": 8.52999973297119,
-      "mag": 2.08,
+      "lon": -155.503166666667,
+      "lat": 19.435,
+      "depth": 7.21,
+      "mag": 1.94,
       "place": "25 km N of Pāhala, Hawaii",
-      "time": 1793739014360,
+      "time": 1793739014400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068221"
     },
     {
@@ -702,6 +702,16 @@
       "place": "2 km NNW of Mirrormont, Washington",
       "time": 1793718250250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714133991"
+    },
+    {
+      "id": "uw714133951",
+      "lon": -122.187833333333,
+      "lat": 48.6251666666667,
+      "depth": 10.4,
+      "mag": 0.7,
+      "place": "10 km S of Acme, Washington",
+      "time": 1793717573220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714133951"
     },
     {
       "id": "ci41572000",
@@ -2012,46 +2022,6 @@
       "place": "73 km S of McCarthy, Alaska",
       "time": 1793663360497,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vteirb"
-    },
-    {
-      "id": "nc75461797",
-      "lon": -122.818832397461,
-      "lat": 38.8153343200684,
-      "depth": 1.02999997138977,
-      "mag": 0.54,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1793662578820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461797"
-    },
-    {
-      "id": "us7000tv1e",
-      "lon": 176.0449,
-      "lat": -39.5581,
-      "depth": 62.335,
-      "mag": 4.1,
-      "place": "63 km W of Flaxmere, New Zealand",
-      "time": 1793662513864,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv1e"
-    },
-    {
-      "id": "uu80162491",
-      "lon": -112.911833333333,
-      "lat": 38.5086666666667,
-      "depth": 2.96,
-      "mag": 1.8,
-      "place": "15 km NE of Milford, Utah",
-      "time": 1793662488660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162491"
-    },
-    {
-      "id": "nc75461792",
-      "lon": -122.852836608887,
-      "lat": 38.8264999389648,
-      "depth": 2.52999997138977,
-      "mag": 0.68,
-      "place": "10 km WNW of The Geysers, CA",
-      "time": 1793662435890,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461792"
     }
   ]
 }
