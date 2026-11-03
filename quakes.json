@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T09:45:44Z",
+  "updated": "2026-11-03T09:59:18Z",
   "count": 253,
   "points": [
+    {
+      "id": "nc75461962",
+      "lon": -122.84400177002,
+      "lat": 38.8230018615723,
+      "depth": 1.75,
+      "mag": 0.81,
+      "place": "9 km NW of The Geysers, CA",
+      "time": 1793699423670,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461962"
+    },
     {
       "id": "aka2026vtxzvj",
       "lon": -150.605,
@@ -232,6 +242,16 @@
       "place": "11 km SE of Borrego Springs, CA",
       "time": 1793684291060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571824"
+    },
+    {
+      "id": "us7000tv3l",
+      "lon": 94.7089,
+      "lat": 23.6023,
+      "depth": 116.353,
+      "mag": 4.5,
+      "place": "31 km E of Mawlaik, Burma (Myanmar)",
+      "time": 1793683424068,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv3l"
     },
     {
       "id": "ci41571816",
@@ -2512,26 +2532,6 @@
       "place": "1 km WNW of Mentone, CA",
       "time": 1793613749900,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571064"
-    },
-    {
-      "id": "av94481278",
-      "lon": -155.289666666667,
-      "lat": 58.1836666666667,
-      "depth": 0.21,
-      "mag": 0.02,
-      "place": "84 km NW of Karluk, Alaska",
-      "time": 1793612869140,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94481278"
-    },
-    {
-      "id": "av93068979",
-      "lon": -155.287333333333,
-      "lat": 58.185,
-      "depth": 0.87,
-      "mag": -0.13,
-      "place": "84 km NW of Karluk, Alaska",
-      "time": 1793612866600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068979"
     }
   ]
 }
