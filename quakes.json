@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T10:31:01Z",
-  "count": 252,
+  "updated": "2026-11-03T10:45:45Z",
+  "count": 250,
   "points": [
+    {
+      "id": "nc75461982",
+      "lon": -122.017669677734,
+      "lat": 37.818000793457,
+      "depth": 7,
+      "mag": 1.22,
+      "place": "2 km WSW of Danville, CA",
+      "time": 1793702548820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461982"
+    },
     {
       "id": "aka2026vtzijq",
       "lon": -150.68,
@@ -2492,36 +2502,6 @@
       "place": "14 km S of Santa Isabel, Puerto Rico",
       "time": 1793616586120,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538323"
-    },
-    {
-      "id": "uu80162371",
-      "lon": -112.309333333333,
-      "lat": 38.3058333333333,
-      "depth": 7.48,
-      "mag": 2.37,
-      "place": "10 km NW of Junction, Utah",
-      "time": 1793616153970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162371"
-    },
-    {
-      "id": "tx2026vornsa",
-      "lon": -98.945,
-      "lat": 28.857,
-      "depth": 7.1167,
-      "mag": 1.7,
-      "place": "15 km ESE of Pearsall, Texas",
-      "time": 1793615703131,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vornsa"
-    },
-    {
-      "id": "aka2026vsdvza",
-      "lon": -152.98,
-      "lat": 59.936,
-      "depth": 123.3,
-      "mag": 2.4,
-      "place": "65 km ENE of Pedro Bay, Alaska",
-      "time": 1793615702563,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vsdvza"
     }
   ]
 }
