@@ -1,17 +1,27 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T15:31:07Z",
-  "count": 197,
+  "updated": "2026-11-03T15:45:49Z",
+  "count": 194,
   "points": [
     {
       "id": "ci41572032",
-      "lon": -116.722999572754,
-      "lat": 33.2253341674805,
-      "depth": -0.150000005960464,
-      "mag": 1.3486766769576,
-      "place": "4 km ESE of Lake Henshaw, CA",
-      "time": 1793719657040,
+      "lon": -116.460833333333,
+      "lat": 33.1913333333333,
+      "depth": 6.86,
+      "mag": 0.84,
+      "place": "11 km SW of Borrego Springs, CA",
+      "time": 1793719655730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572032"
+    },
+    {
+      "id": "ci41572024",
+      "lon": -116.703,
+      "lat": 33.5385,
+      "depth": 5.75,
+      "mag": 1.9,
+      "place": "3 km SW of Anza, CA",
+      "time": 1793719632870,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572024"
     },
     {
       "id": "ci41572008",
@@ -52,6 +62,16 @@
       "place": "42 km SSE of Nelchina, Alaska",
       "time": 1793715413492,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vuhgwn"
+    },
+    {
+      "id": "ci41571976",
+      "lon": -116.708333333333,
+      "lat": 33.5376666666667,
+      "depth": 5.84,
+      "mag": 0,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1793715165720,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571976"
     },
     {
       "id": "nc75462042",
@@ -465,12 +485,12 @@
     },
     {
       "id": "ci41571880",
-      "lon": -116.866333333333,
-      "lat": 33.5991666666667,
-      "depth": 4.54,
-      "mag": 2.01,
-      "place": "17 km S of Valle Vista, CA",
-      "time": 1793690891620,
+      "lon": -116.8665,
+      "lat": 33.6011666666667,
+      "depth": 6.37,
+      "mag": 0.02,
+      "place": "16 km S of Valle Vista, CA",
+      "time": 1793690891570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571880"
     },
     {
@@ -1454,6 +1474,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vmth"
     },
     {
+      "id": "mb90211878",
+      "lon": -111.529,
+      "lat": 44.7885,
+      "depth": 10.95,
+      "mag": 0.81,
+      "place": "26 km W of Hebgen Lake Estates, Montana",
+      "time": 1793648019520,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90211878"
+    },
+    {
+      "id": "mb90211873",
+      "lon": -111.885333333333,
+      "lat": 44.7913333333333,
+      "depth": 5.3,
+      "mag": 0.38,
+      "place": "53 km NNE of Spencer, Idaho",
+      "time": 1793647893770,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90211873"
+    },
+    {
       "id": "aka2026vsvjpx",
       "lon": -143.053,
       "lat": 60.475,
@@ -1902,76 +1942,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1793634456330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461442"
-    },
-    {
-      "id": "hv75067836",
-      "lon": -155.450833333333,
-      "lat": 19.1573333333333,
-      "depth": 31.92,
-      "mag": 1.7,
-      "place": "5 km SSE of Pāhala, Hawaii",
-      "time": 1793634118340,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75067836"
-    },
-    {
-      "id": "hv75067831",
-      "lon": -155.510330200195,
-      "lat": 19.1480007171631,
-      "depth": 30.6299991607666,
-      "mag": 1.83,
-      "place": "6 km SSW of Pāhala, Hawaii",
-      "time": 1793634004800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75067831"
-    },
-    {
-      "id": "uw714133541",
-      "lon": -122.185333333333,
-      "lat": 46.203,
-      "depth": 3.08,
-      "mag": 0.3,
-      "place": "38 km NNE of Amboy, Washington",
-      "time": 1793633965510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714133541"
-    },
-    {
-      "id": "us7000tuxi",
-      "lon": 93.831,
-      "lat": 32.3376,
-      "depth": 10,
-      "mag": 4.7,
-      "place": "193 km ENE of Nagqu, China",
-      "time": 1793633712369,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuxi"
-    },
-    {
-      "id": "ci41571400",
-      "lon": -115.553,
-      "lat": 32.9445,
-      "depth": 12.08,
-      "mag": 2.08,
-      "place": "4 km SSW of Brawley, CA",
-      "time": 1793633660480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571400"
-    },
-    {
-      "id": "tx2026vpbktp",
-      "lon": -104.731,
-      "lat": 31.771,
-      "depth": 8.0737,
-      "mag": 1.7,
-      "place": "48 km ESE of Dell City, Texas",
-      "time": 1793633601935,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vpbktp"
-    },
-    {
-      "id": "tx2026vpbjnj",
-      "lon": -98.941,
-      "lat": 28.845,
-      "depth": 7.8309,
-      "mag": 2.2,
-      "place": "15 km ESE of Pearsall, Texas",
-      "time": 1793633515063,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vpbjnj"
     }
   ]
 }
