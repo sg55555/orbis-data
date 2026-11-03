@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T07:01:15Z",
-  "count": 272,
+  "updated": "2026-11-03T07:15:47Z",
+  "count": 275,
   "points": [
+    {
+      "id": "nc75461917",
+      "lon": -122.769668579102,
+      "lat": 38.7883338928223,
+      "depth": 1.76999998092651,
+      "mag": 1.05,
+      "place": "2 km NW of The Geysers, CA",
+      "time": 1793689243840,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461917"
+    },
     {
       "id": "ci41571872",
       "lon": -116.658,
@@ -1644,6 +1654,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuwv"
     },
     {
+      "id": "av94481623",
+      "lon": -166.655333333333,
+      "lat": 53.9001666666667,
+      "depth": 7.32,
+      "mag": 0.85,
+      "place": "7 km W of Dutch Harbor, Alaska",
+      "time": 1793628301510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94481623"
+    },
+    {
+      "id": "av94481618",
+      "lon": -166.651166666667,
+      "lat": 53.9016666666667,
+      "depth": 8.02,
+      "mag": 0.46,
+      "place": "7 km W of Dutch Harbor, Alaska",
+      "time": 1793628217780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94481618"
+    },
+    {
       "id": "ci41571288",
       "lon": -115.550166666667,
       "lat": 32.952,
@@ -1792,6 +1822,16 @@
       "place": "4 km SSW of Brawley, CA",
       "time": 1793624776970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571232"
+    },
+    {
+      "id": "av93068999",
+      "lon": -166.644833333333,
+      "lat": 53.9336666666667,
+      "depth": 14.58,
+      "mag": 0.44,
+      "place": "8 km NW of Dutch Harbor, Alaska",
+      "time": 1793624478350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93068999"
     },
     {
       "id": "aka2026vsimzj",
@@ -2712,16 +2752,6 @@
       "place": "43 km NNE of Petersville, Alaska",
       "time": 1793603981961,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrxipc"
-    },
-    {
-      "id": "aka2026vrwzti",
-      "lon": -147.407,
-      "lat": 61.034,
-      "depth": 31.8,
-      "mag": 1.1,
-      "place": "43 km WNW of Tatitlek, Alaska",
-      "time": 1793603371004,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrwzti"
     }
   ]
 }
