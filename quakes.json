@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T18:31:35Z",
-  "count": 218,
+  "updated": "2026-11-03T18:45:53Z",
+  "count": 216,
   "points": [
+    {
+      "id": "ci41572072",
+      "lon": -115.1605,
+      "lat": 32.4256666666667,
+      "depth": 14.62,
+      "mag": 2.17,
+      "place": "8 km NNE of Delta, B.C., MX",
+      "time": 1793731333660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572072"
+    },
+    {
+      "id": "nn00926589",
+      "lon": -115.6761,
+      "lat": 35.5001,
+      "depth": 15.9734,
+      "mag": 3.57,
+      "place": "35 km S of Sandy Valley, Nevada",
+      "time": 1793730493137,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926589"
+    },
     {
       "id": "ci41572064",
       "lon": -115.179832458496,
@@ -162,6 +182,16 @@
       "place": "Volcano Islands, Japan region",
       "time": 1793724493110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvie"
+    },
+    {
+      "id": "aka2026vulzzo",
+      "lon": -169.415,
+      "lat": 51.906,
+      "depth": 9.1,
+      "mag": 3.1,
+      "place": "120 km SSW of Nikolski, Alaska",
+      "time": 1793723936292,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vulzzo"
     },
     {
       "id": "uu80162626",
@@ -405,12 +435,12 @@
     },
     {
       "id": "us7000tv5i",
-      "lon": -26.4744,
-      "lat": -58.8399,
-      "depth": 143.595,
+      "lon": -26.3766,
+      "lat": -58.819,
+      "depth": 152.036,
       "mag": 4.9,
       "place": "South Sandwich Islands region",
-      "time": 1793712846139,
+      "time": 1793712846694,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv5i"
     },
     {
@@ -2132,56 +2162,6 @@
       "place": "16 km NNE of Milford, Utah",
       "time": 1793645252580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162426"
-    },
-    {
-      "id": "hv75067876",
-      "lon": -155.850166666667,
-      "lat": 19.501,
-      "depth": 22.38,
-      "mag": 2.13,
-      "place": "5 km NNE of Honaunau-Napoopoo, Hawaii",
-      "time": 1793645056720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75067876"
-    },
-    {
-      "id": "nc75461582",
-      "lon": -120.933334350586,
-      "lat": 36.8250007629395,
-      "depth": 2.74000000953674,
-      "mag": 1.94,
-      "place": "27 km SSW of Los Banos, CA",
-      "time": 1793645024700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461582"
-    },
-    {
-      "id": "mb90211863",
-      "lon": -111.114833333333,
-      "lat": 44.7715,
-      "depth": 7.58,
-      "mag": 0.23,
-      "place": "5 km E of Hebgen Lake Estates, Montana",
-      "time": 1793645017350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90211863"
-    },
-    {
-      "id": "ci41571512",
-      "lon": -116.413,
-      "lat": 33.0291666666667,
-      "depth": 8.91,
-      "mag": 0.8,
-      "place": "18 km ESE of Julian, CA",
-      "time": 1793644786020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571512"
-    },
-    {
-      "id": "nc75461572",
-      "lon": -121.977836608887,
-      "lat": 37.6730003356934,
-      "depth": 10.3400001525879,
-      "mag": 1.9,
-      "place": "5 km SW of Dublin, CA",
-      "time": 1793644326700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461572"
     }
   ]
 }
