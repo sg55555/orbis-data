@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T02:15:42Z",
-  "count": 274,
+  "updated": "2026-11-03T02:31:06Z",
+  "count": 273,
   "points": [
+    {
+      "id": "aka2026vtjgvu",
+      "lon": -150.054,
+      "lat": 65.105,
+      "depth": 2.8,
+      "mag": 1.8,
+      "place": "29 km ENE of Manley Hot Springs, Alaska",
+      "time": 1793672229519,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vtjgvu"
+    },
     {
       "id": "ci41571720",
       "lon": -115.155833333333,
@@ -1524,6 +1534,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571208"
     },
     {
+      "id": "ci10259646",
+      "lon": -115.556833333333,
+      "lat": 32.9441666666667,
+      "depth": 6.37,
+      "mag": 1.28,
+      "place": "5 km SSW of Brawley, CA",
+      "time": 1793623020780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10259646"
+    },
+    {
       "id": "ci10259638",
       "lon": -115.565333333333,
       "lat": 32.9425,
@@ -1715,12 +1735,12 @@
     },
     {
       "id": "ci41571104",
-      "lon": -115.553166666667,
-      "lat": 32.9571666666667,
-      "depth": 7.7,
-      "mag": 1.55,
-      "place": "3 km SW of Brawley, CA",
-      "time": 1793619902200,
+      "lon": -115.559333333333,
+      "lat": 32.9583333333333,
+      "depth": 8.43,
+      "mag": 1.48,
+      "place": "4 km SW of Brawley, CA",
+      "time": 1793619902140,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571104"
     },
     {
@@ -2712,36 +2732,6 @@
       "place": "3 km E of Berkeley, CA",
       "time": 1793586679820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461152"
-    },
-    {
-      "id": "us7000tute",
-      "lon": 146.4573,
-      "lat": -2.9446,
-      "depth": 10,
-      "mag": 4.5,
-      "place": "135 km SW of Lorengau, Papua New Guinea",
-      "time": 1793586243097,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tute"
-    },
-    {
-      "id": "nc75461147",
-      "lon": -122.244331359863,
-      "lat": 37.8660011291504,
-      "depth": 9.88000011444092,
-      "mag": 2.64,
-      "place": "3 km ESE of Berkeley, CA",
-      "time": 1793586213770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461147"
-    },
-    {
-      "id": "us7000tutf",
-      "lon": 122.1775,
-      "lat": 24.322,
-      "depth": 55.087,
-      "mag": 4.5,
-      "place": "64 km SE of Yilan, Taiwan",
-      "time": 1793586188566,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tutf"
     }
   ]
 }
