@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T19:16:18Z",
-  "count": 212,
+  "updated": "2026-11-03T19:31:43Z",
+  "count": 213,
   "points": [
+    {
+      "id": "ci41572112",
+      "lon": -115.1615,
+      "lat": 32.4245,
+      "depth": 19.33,
+      "mag": 1.97,
+      "place": "8 km NNE of Delta, B.C., MX",
+      "time": 1793733708150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572112"
+    },
+    {
+      "id": "ci41572104",
+      "lon": -115.155166666667,
+      "lat": 32.411,
+      "depth": 13.79,
+      "mag": 2.93,
+      "place": "7 km NNE of Delta, B.C., MX",
+      "time": 1793733491020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572104"
+    },
     {
       "id": "ci41572088",
       "lon": -116.713666666667,
@@ -42,16 +62,6 @@
       "place": "8 km SSE of Maria Antonia, Puerto Rico",
       "time": 1793730872960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538408"
-    },
-    {
-      "id": "nn00926589",
-      "lon": -115.6761,
-      "lat": 35.5001,
-      "depth": 15.9734,
-      "mag": 3.57,
-      "place": "35 km S of Sandy Valley, Nevada",
-      "time": 1793730493137,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926589"
     },
     {
       "id": "ci41572064",
@@ -222,6 +232,16 @@
       "place": "8 km ENE of Pāhala, Hawaii",
       "time": 1793724565510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068191"
+    },
+    {
+      "id": "aka2026vumisc",
+      "lon": -175.946,
+      "lat": 51.336,
+      "depth": 29.4,
+      "mag": 3.5,
+      "place": "76 km SE of Adak, Alaska",
+      "time": 1793724536952,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vumisc"
     },
     {
       "id": "us7000tvie",
@@ -2112,16 +2132,6 @@
       "place": "53 km NNE of Spencer, Idaho",
       "time": 1793647893770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90211873"
-    },
-    {
-      "id": "aka2026vsvjpx",
-      "lon": -143.053,
-      "lat": 60.475,
-      "depth": 5.3,
-      "mag": 1.1,
-      "place": "107 km S of McCarthy, Alaska",
-      "time": 1793647233681,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vsvjpx"
     }
   ]
 }
