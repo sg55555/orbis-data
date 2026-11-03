@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T02:31:06Z",
-  "count": 273,
+  "updated": "2026-11-03T02:45:45Z",
+  "count": 271,
   "points": [
+    {
+      "id": "aka2026vtkchh",
+      "lon": -151.509,
+      "lat": 60.71,
+      "depth": 78.9,
+      "mag": 2.8,
+      "place": "12 km W of Nikiski, Alaska",
+      "time": 1793673715440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vtkchh"
+    },
     {
       "id": "aka2026vtjgvu",
       "lon": -150.054,
@@ -1215,12 +1225,12 @@
     },
     {
       "id": "ci41571344",
-      "lon": -115.5485,
-      "lat": 32.9431666666667,
-      "depth": 8.1,
+      "lon": -115.5515,
+      "lat": 32.9398333333333,
+      "depth": 11.1,
       "mag": 1.46,
-      "place": "4 km SSW of Brawley, CA",
-      "time": 1793632132230,
+      "place": "5 km SSW of Brawley, CA",
+      "time": 1793632132100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571344"
     },
     {
@@ -1532,6 +1542,16 @@
       "place": "5 km SW of Brawley, CA",
       "time": 1793623245970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571208"
+    },
+    {
+      "id": "ci10259686",
+      "lon": -115.582333333333,
+      "lat": 32.9538333333333,
+      "depth": 2.74,
+      "mag": 1.11,
+      "place": "6 km WSW of Brawley, CA",
+      "time": 1793623032630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10259686"
     },
     {
       "id": "ci10259646",
@@ -2692,46 +2712,6 @@
       "place": "south of the Fiji Islands",
       "time": 1793587615947,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuth"
-    },
-    {
-      "id": "us7000tuts",
-      "lon": 78.0792,
-      "lat": -35.9577,
-      "depth": 10,
-      "mag": 4.7,
-      "place": "Mid-Indian Ridge",
-      "time": 1793587427892,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuts"
-    },
-    {
-      "id": "tx2026vobxdr",
-      "lon": -104.144,
-      "lat": 31.653,
-      "depth": 6.0999,
-      "mag": 1.6,
-      "place": "50 km NW of Toyah, Texas",
-      "time": 1793587420619,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vobxdr"
-    },
-    {
-      "id": "av94480833",
-      "lon": -153.070666666667,
-      "lat": 60.0526666666667,
-      "depth": -0.84,
-      "mag": -0.9,
-      "place": "65 km ENE of Pedro Bay, Alaska",
-      "time": 1793587259860,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94480833"
-    },
-    {
-      "id": "nc75461152",
-      "lon": -122.245498657227,
-      "lat": 37.8681678771973,
-      "depth": 9.77999973297119,
-      "mag": 1.55,
-      "place": "3 km E of Berkeley, CA",
-      "time": 1793586679820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461152"
     }
   ]
 }
