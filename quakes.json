@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T20:01:41Z",
-  "count": 213,
+  "updated": "2026-11-03T20:15:52Z",
+  "count": 216,
   "points": [
+    {
+      "id": "ci41572176",
+      "lon": -116.741996765137,
+      "lat": 34.2263336181641,
+      "depth": 0.490000009536743,
+      "mag": 1.63538407214494,
+      "place": "10 km ESE of Big Bear City, CA",
+      "time": 1793736718530,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572176"
+    },
+    {
+      "id": "pr71538418",
+      "lon": -66.8455,
+      "lat": 17.889,
+      "depth": 16.58,
+      "mag": 1.93,
+      "place": "10 km SSE of Maria Antonia, Puerto Rico",
+      "time": 1793735588020,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538418"
+    },
     {
       "id": "ci41572160",
       "lon": -115.157666666667,
@@ -105,12 +125,12 @@
     },
     {
       "id": "ci41572072",
-      "lon": -115.1605,
-      "lat": 32.4256666666667,
-      "depth": 14.62,
-      "mag": 2.17,
-      "place": "8 km NNE of Delta, B.C., MX",
-      "time": 1793731333660,
+      "lon": -115.164333333333,
+      "lat": 32.4286666666667,
+      "depth": 15.92,
+      "mag": 2.19,
+      "place": "9 km NNE of Delta, B.C., MX",
+      "time": 1793731333580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572072"
     },
     {
@@ -344,6 +364,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vulusw"
     },
     {
+      "id": "us7000tveb",
+      "lon": 179.7187,
+      "lat": -25.288,
+      "depth": 500.022,
+      "mag": 4.3,
+      "place": "south of the Fiji Islands",
+      "time": 1793723431516,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tveb"
+    },
+    {
       "id": "uu80162621",
       "lon": -113.581333333333,
       "lat": 37.4328333333333,
@@ -432,6 +462,16 @@
       "place": "4 km NNW of Anza, CA",
       "time": 1793719342590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572008"
+    },
+    {
+      "id": "us7000tva4",
+      "lon": 121.8693,
+      "lat": 24.4281,
+      "depth": 12.86,
+      "mag": 4.3,
+      "place": "38 km SSE of Yilan, Taiwan",
+      "time": 1793719324984,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tva4"
     },
     {
       "id": "ci41572000",
@@ -2122,16 +2162,6 @@
       "place": "19 km ESE of Julian, CA",
       "time": 1793650604100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571576"
-    },
-    {
-      "id": "ci41571568",
-      "lon": -116.771,
-      "lat": 33.4975,
-      "depth": 10.07,
-      "mag": 1.13,
-      "place": "11 km NE of Aguanga, CA",
-      "time": 1793650405210,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571568"
     }
   ]
 }
