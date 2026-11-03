@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T20:46:11Z",
-  "count": 213,
+  "updated": "2026-11-03T21:01:16Z",
+  "count": 210,
   "points": [
+    {
+      "id": "hv75068221",
+      "lon": -155.5068359375,
+      "lat": 19.4284992218018,
+      "depth": 8.52999973297119,
+      "mag": 2.08,
+      "place": "25 km N of Pāhala, Hawaii",
+      "time": 1793739014360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068221"
+    },
     {
       "id": "ci41572192",
       "lon": -115.1595,
@@ -135,12 +145,12 @@
     },
     {
       "id": "ci41572104",
-      "lon": -115.155166666667,
-      "lat": 32.411,
-      "depth": 13.79,
-      "mag": 2.93,
+      "lon": -115.162333333333,
+      "lat": 32.4135,
+      "depth": 16.29,
+      "mag": 2.95,
       "place": "7 km NNE of Delta, B.C., MX",
-      "time": 1793733491020,
+      "time": 1793733490940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572104"
     },
     {
@@ -2092,46 +2102,6 @@
       "place": "8 km E of Lower Lake, CA",
       "time": 1793653328810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461677"
-    },
-    {
-      "id": "ci41571600",
-      "lon": -116.951666666667,
-      "lat": 32.9085,
-      "depth": 3.3,
-      "mag": 1.19,
-      "place": "6 km NNW of Lakeside, CA",
-      "time": 1793653200700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571600"
-    },
-    {
-      "id": "nc75461672",
-      "lon": -122.52783203125,
-      "lat": 38.8950004577637,
-      "depth": 4.71000003814697,
-      "mag": 2.19,
-      "place": "7 km ESE of Lower Lake, CA",
-      "time": 1793653168810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461672"
-    },
-    {
-      "id": "nc75461667",
-      "lon": -122.526664733887,
-      "lat": 38.8870010375977,
-      "depth": 2.45000004768372,
-      "mag": 1.52,
-      "place": "8 km ESE of Lower Lake, CA",
-      "time": 1793653125200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461667"
-    },
-    {
-      "id": "us7000tv03",
-      "lon": 165.3938,
-      "lat": -13.8072,
-      "depth": 10,
-      "mag": 4.6,
-      "place": "226 km NW of Port-Olry, Vanuatu",
-      "time": 1793652865928,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv03"
     }
   ]
 }
