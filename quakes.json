@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T13:31:02Z",
-  "count": 209,
+  "updated": "2026-11-03T13:45:45Z",
+  "count": 208,
   "points": [
+    {
+      "id": "hv75068161",
+      "lon": -155.485000610352,
+      "lat": 19.1641674041748,
+      "depth": 28.8799991607666,
+      "mag": 1.75,
+      "place": "4 km S of Pāhala, Hawaii",
+      "time": 1793712741990,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068161"
+    },
     {
       "id": "aka2026vufqcp",
       "lon": -151.63,
@@ -1234,6 +1244,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vswaye"
     },
     {
+      "id": "ok2026vmth",
+      "lon": -96.83083333,
+      "lat": 34.3735,
+      "depth": 0,
+      "mag": 1.45,
+      "place": "3 km S of Mill Creek, Oklahoma",
+      "time": 1793648290949,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vmth"
+    },
+    {
       "id": "aka2026vsvjpx",
       "lon": -143.053,
       "lat": 60.475,
@@ -2062,36 +2082,6 @@
       "place": "4 km SSW of Brawley, CA",
       "time": 1793627533940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571280"
-    },
-    {
-      "id": "aka2026vskbeg",
-      "lon": -153.447,
-      "lat": 59.322,
-      "depth": 108.9,
-      "mag": 3.1,
-      "place": "63 km SE of Pedro Bay, Alaska",
-      "time": 1793626853803,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vskbeg"
-    },
-    {
-      "id": "ci41571272",
-      "lon": -115.546833333333,
-      "lat": 32.951,
-      "depth": 8,
-      "mag": 1.36,
-      "place": "3 km SSW of Brawley, CA",
-      "time": 1793626763730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571272"
-    },
-    {
-      "id": "av94481593",
-      "lon": -174.11,
-      "lat": 52.278,
-      "depth": 12.75,
-      "mag": 1.27,
-      "place": "11 km NE of Atka, Alaska",
-      "time": 1793626636330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94481593"
     }
   ]
 }
