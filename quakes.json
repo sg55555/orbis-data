@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T21:01:16Z",
-  "count": 210,
+  "updated": "2026-11-03T21:15:49Z",
+  "count": 207,
   "points": [
     {
       "id": "hv75068221",
@@ -104,13 +104,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572152"
     },
     {
+      "id": "ci10259782",
+      "lon": -114.951666666667,
+      "lat": 33.0341666666667,
+      "depth": -0.18,
+      "mag": 1.92,
+      "place": "42 km NNW of Los Algodones, B.C., MX",
+      "time": 1793734592640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10259782"
+    },
+    {
       "id": "ci41572136",
-      "lon": -115.153666666667,
-      "lat": 32.4025,
-      "depth": 16.17,
-      "mag": 2.52,
-      "place": "6 km NE of Delta, B.C., MX",
-      "time": 1793734551930,
+      "lon": -115.157833333333,
+      "lat": 32.409,
+      "depth": 15.52,
+      "mag": 2.5,
+      "place": "7 km NNE of Delta, B.C., MX",
+      "time": 1793734551820,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572136"
     },
     {
@@ -2062,46 +2072,6 @@
       "place": "10 km NE of Abbotsford, Canada",
       "time": 1793654581760,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714133701"
-    },
-    {
-      "id": "tx2026vpmtdt",
-      "lon": -104.69,
-      "lat": 31.789,
-      "depth": 4.7925,
-      "mag": 2.3,
-      "place": "51 km ESE of Dell City, Texas",
-      "time": 1793654098532,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vpmtdt"
-    },
-    {
-      "id": "uu80162466",
-      "lon": -112.916166666667,
-      "lat": 38.517,
-      "depth": 3.34,
-      "mag": 1.84,
-      "place": "15 km NNE of Milford, Utah",
-      "time": 1793653908220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162466"
-    },
-    {
-      "id": "us7000tv08",
-      "lon": -129.9302,
-      "lat": 50.7109,
-      "depth": 10,
-      "mag": 4.2,
-      "place": "201 km W of Port McNeill, Canada",
-      "time": 1793653829183,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv08"
-    },
-    {
-      "id": "nc75461677",
-      "lon": -122.517997741699,
-      "lat": 38.9039993286133,
-      "depth": 7.11999988555908,
-      "mag": 2.79,
-      "place": "8 km E of Lower Lake, CA",
-      "time": 1793653328810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461677"
     }
   ]
 }
