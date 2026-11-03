@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T01:30:58Z",
-  "count": 275,
+  "updated": "2026-11-03T01:45:40Z",
+  "count": 271,
   "points": [
+    {
+      "id": "ci41571712",
+      "lon": -115.168998718262,
+      "lat": 32.4244995117188,
+      "depth": 18.6599998474121,
+      "mag": 3.07695866299346,
+      "place": "8 km NNE of Delta, B.C., MX",
+      "time": 1793669581350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571712"
+    },
     {
       "id": "nc75461837",
       "lon": -121.454666137695,
@@ -1325,12 +1335,12 @@
     },
     {
       "id": "ci41571264",
-      "lon": -118.987833333333,
-      "lat": 34.9681666666667,
-      "depth": 15.82,
-      "mag": 1.66,
+      "lon": -118.989333333333,
+      "lat": 34.9688333333333,
+      "depth": 16.54,
+      "mag": 1.61,
       "place": "6 km WNW of Grapevine, CA",
-      "time": 1793626076320,
+      "time": 1793626076180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571264"
     },
     {
@@ -1455,12 +1465,12 @@
     },
     {
       "id": "ci41571216",
-      "lon": -115.546,
-      "lat": 32.9581666666667,
-      "depth": 10.3,
-      "mag": 1.66,
-      "place": "3 km SSW of Brawley, CA",
-      "time": 1793623495660,
+      "lon": -115.547166666667,
+      "lat": 32.9585,
+      "depth": 10.61,
+      "mag": 1.6,
+      "place": "3 km SW of Brawley, CA",
+      "time": 1793623495540,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571216"
     },
     {
@@ -2702,56 +2712,6 @@
       "place": "288 km SSE of Muroto-misakicho, Japan",
       "time": 1793584495186,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuta"
-    },
-    {
-      "id": "nc75461137",
-      "lon": -122.848167419434,
-      "lat": 38.848331451416,
-      "depth": 1.51999998092651,
-      "mag": 0.73,
-      "place": "11 km NW of The Geysers, CA",
-      "time": 1793583811270,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461137"
-    },
-    {
-      "id": "nc75461132",
-      "lon": -123.214164733887,
-      "lat": 39.367000579834,
-      "depth": 8.09000015258789,
-      "mag": 1.81,
-      "place": "11 km N of Redwood Valley, CA",
-      "time": 1793583339710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461132"
-    },
-    {
-      "id": "aka2026vrlvay",
-      "lon": -155.377,
-      "lat": 58.18,
-      "depth": 5,
-      "mag": 0.6,
-      "place": "87 km NW of Karluk, Alaska",
-      "time": 1793583253811,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrlvay"
-    },
-    {
-      "id": "ci41570968",
-      "lon": -117.498333333333,
-      "lat": 34.1936666666667,
-      "depth": 9.31,
-      "mag": 1.08,
-      "place": "7 km S of Lytle Creek, CA",
-      "time": 1793583212690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570968"
-    },
-    {
-      "id": "uw714133441",
-      "lon": -116.760666666667,
-      "lat": 49.3958333333333,
-      "depth": 1.99,
-      "mag": 2.51,
-      "place": "37 km NNW of Creston, Canada",
-      "time": 1793583172690,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714133441"
     }
   ]
 }
