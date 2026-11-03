@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-03T07:15:47Z",
-  "count": 275,
+  "updated": "2026-11-03T07:30:59Z",
+  "count": 274,
   "points": [
+    {
+      "id": "nc75461922",
+      "lon": -122.818496704102,
+      "lat": 38.8330001831055,
+      "depth": 1.54999995231628,
+      "mag": 0.62,
+      "place": "8 km NW of The Geysers, CA",
+      "time": 1793690847970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461922"
+    },
     {
       "id": "nc75461917",
       "lon": -122.769668579102,
@@ -1624,6 +1634,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571304"
     },
     {
+      "id": "av94481643",
+      "lon": -161.931166666667,
+      "lat": 55.451,
+      "depth": 23.21,
+      "mag": 1.12,
+      "place": "49 km NNE of King Cove, Alaska",
+      "time": 1793628874630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94481643"
+    },
+    {
       "id": "hv75067801",
       "lon": -155.306671142578,
       "lat": 19.3281669616699,
@@ -2722,36 +2742,6 @@
       "place": "15 km N of Pinnacles, CA",
       "time": 1793604649020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461252"
-    },
-    {
-      "id": "uu80162361",
-      "lon": -112.919,
-      "lat": 38.5203333333333,
-      "depth": 2.37,
-      "mag": 2.05,
-      "place": "15 km NNE of Milford, Utah",
-      "time": 1793604319330,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162361"
-    },
-    {
-      "id": "uu80162356",
-      "lon": -112.307,
-      "lat": 38.281,
-      "depth": 4.35,
-      "mag": 1.04,
-      "place": "9 km WNW of Junction, Utah",
-      "time": 1793604095180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162356"
-    },
-    {
-      "id": "aka2026vrxipc",
-      "lon": -150.467,
-      "lat": 62.859,
-      "depth": 87.3,
-      "mag": 2.3,
-      "place": "43 km NNE of Petersville, Alaska",
-      "time": 1793603981961,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrxipc"
     }
   ]
 }
