@@ -1,26 +1,46 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-04T01:15:45Z",
-  "count": 208,
+  "updated": "2026-11-04T01:31:00Z",
+  "count": 210,
   "points": [
     {
+      "id": "nc75462207",
+      "lon": -122.877502441406,
+      "lat": 38.8451652526855,
+      "depth": 1.64999997615814,
+      "mag": 0.66,
+      "place": "13 km ENE of Cloverdale, CA",
+      "time": 1793755191970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462207"
+    },
+    {
+      "id": "ok2026vozy",
+      "lon": -98.14122009,
+      "lat": 36.36496353,
+      "depth": 0.8030977845,
+      "mag": 3.23,
+      "place": "4 km SE of Meno, Oklahoma",
+      "time": 1793754944033,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vozy"
+    },
+    {
       "id": "aka2026vvdefx",
-      "lon": -148.833,
-      "lat": 64.052,
+      "lon": -148.813,
+      "lat": 64.056,
       "depth": 5,
-      "mag": 2.7,
-      "place": "14 km ENE of Ferry, Alaska",
-      "time": 1793754812738,
+      "mag": 2.9,
+      "place": "15 km ENE of Ferry, Alaska",
+      "time": 1793754812840,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvdefx"
     },
     {
       "id": "ok2026vozw",
-      "lon": -98.14322662,
-      "lat": 36.36876297,
-      "depth": 1.747002363,
-      "mag": 2.29,
-      "place": "3 km ESE of Meno, Oklahoma",
-      "time": 1793754800912,
+      "lon": -98.14416504,
+      "lat": 36.36618042,
+      "depth": 1.257941842,
+      "mag": 2.3,
+      "place": "3 km SE of Meno, Oklahoma",
+      "time": 1793754801007,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vozw"
     },
     {
@@ -55,12 +75,12 @@
     },
     {
       "id": "us7000tvuv",
-      "lon": -177.4264,
-      "lat": -19.3197,
-      "depth": 549.796,
-      "mag": 5,
+      "lon": -177.5052,
+      "lat": -19.2691,
+      "depth": 556.459,
+      "mag": 4.6,
       "place": "Fiji region",
-      "time": 1793752379305,
+      "time": 1793752379774,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv"
     },
     {
@@ -175,12 +195,12 @@
     },
     {
       "id": "ci41572280",
-      "lon": -115.152,
-      "lat": 32.4181666666667,
-      "depth": 23.39,
-      "mag": 2.19,
-      "place": "8 km NNE of Delta, B.C., MX",
-      "time": 1793745286090,
+      "lon": -115.163166666667,
+      "lat": 32.4315,
+      "depth": 19.72,
+      "mag": 2.15,
+      "place": "9 km NNE of Delta, B.C., MX",
+      "time": 1793745286100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572280"
     },
     {
@@ -1514,6 +1534,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461922"
     },
     {
+      "id": "av94483638",
+      "lon": -177.193166666667,
+      "lat": 51.8768333333333,
+      "depth": 4.38,
+      "mag": 1.03,
+      "place": "38 km W of Adak, Alaska",
+      "time": 1793690408680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94483638"
+    },
+    {
+      "id": "av94483618",
+      "lon": -177.1695,
+      "lat": 51.873,
+      "depth": 3.12,
+      "mag": 1.64,
+      "place": "36 km W of Adak, Alaska",
+      "time": 1793689481390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94483618"
+    },
+    {
       "id": "nc75461917",
       "lon": -122.769668579102,
       "lat": 38.7883338928223,
@@ -2062,26 +2102,6 @@
       "place": "7 km NNE of Delta, B.C., MX",
       "time": 1793669581090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571712"
-    },
-    {
-      "id": "nc75461837",
-      "lon": -121.454666137695,
-      "lat": 37.423168182373,
-      "depth": 3.10999989509583,
-      "mag": 1.94,
-      "place": "26 km WSW of Westley, CA",
-      "time": 1793669190200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461837"
-    },
-    {
-      "id": "av94483053",
-      "lon": -177.176166666667,
-      "lat": 51.8498333333333,
-      "depth": 6.77,
-      "mag": 1.39,
-      "place": "37 km W of Adak, Alaska",
-      "time": 1793669101540,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94483053"
     }
   ]
 }
