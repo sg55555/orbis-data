@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-04T08:45:46Z",
+  "updated": "2026-11-04T09:01:13Z",
   "count": 191,
   "points": [
+    {
+      "id": "nc75462317",
+      "lon": -122.839332580566,
+      "lat": 38.8436660766602,
+      "depth": 1.83000004291534,
+      "mag": 0.95,
+      "place": "10 km NW of The Geysers, CA",
+      "time": 1793782381930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462317"
+    },
+    {
+      "id": "aka2026vvskmh",
+      "lon": -153.762,
+      "lat": 58.279,
+      "depth": 65.4,
+      "mag": 2.1,
+      "place": "55 km WNW of Aleneva, Alaska",
+      "time": 1793782231341,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvskmh"
+    },
     {
       "id": "aka2026vvrwqb",
       "lon": -147.461,
       "lat": 63.496,
       "depth": 5,
-      "mag": 3.1,
+      "mag": 3.2,
       "place": "75 km E of Cantwell, Alaska",
-      "time": 1793781273718,
+      "time": 1793781273730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvrwqb"
     },
     {
@@ -354,14 +374,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714134471"
     },
     {
-      "id": "us7000tvv8",
-      "lon": -68.8994,
-      "lat": 19.3075,
-      "depth": 10,
-      "mag": 2.8,
-      "place": "39 km NNE of Miches, Dominican Republic",
-      "time": 1793758517911,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvv8"
+      "id": "pr2026308000",
+      "lon": -68.9866,
+      "lat": 19.4611,
+      "depth": 26,
+      "mag": 3.56,
+      "place": "46 km NE of Samaná, Dominican Republic",
+      "time": 1793758515910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026308000"
     },
     {
       "id": "ci41572328",
@@ -1892,26 +1912,6 @@
       "place": "58 km S of Whites City, New Mexico",
       "time": 1793696486628,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vqkdvn"
-    },
-    {
-      "id": "av94483698",
-      "lon": -168.185666666667,
-      "lat": 53.3911666666667,
-      "depth": -0.16,
-      "mag": 0.3,
-      "place": "67 km NE of Nikolski, Alaska",
-      "time": 1793695885230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94483698"
-    },
-    {
-      "id": "ci41571912",
-      "lon": -116.403333333333,
-      "lat": 33.3941666666667,
-      "depth": 15.07,
-      "mag": 0.51,
-      "place": "16 km N of Borrego Springs, CA",
-      "time": 1793695755720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571912"
     }
   ]
 }
