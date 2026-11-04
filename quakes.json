@@ -1,16 +1,36 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-04T22:15:44Z",
-  "count": 194,
+  "updated": "2026-11-04T22:30:58Z",
+  "count": 198,
   "points": [
     {
+      "id": "ci41358487",
+      "lon": -116.345833333333,
+      "lat": 33.3553333333333,
+      "depth": 11.39,
+      "mag": 0.7,
+      "place": "11 km NNE of Borrego Springs, CA",
+      "time": 1793831204890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358487"
+    },
+    {
+      "id": "hv75068586",
+      "lon": -155.638336181641,
+      "lat": 19.3831672668457,
+      "depth": -2.11999988555908,
+      "mag": 1.83,
+      "place": "25 km ESE of Honaunau-Napoopoo, Hawaii",
+      "time": 1793831110270,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068586"
+    },
+    {
       "id": "ci41358479",
-      "lon": -118.523330688477,
-      "lat": 34.7024993896484,
-      "depth": 12.0500001907349,
-      "mag": 1.08050805614714,
+      "lon": -118.525166666667,
+      "lat": 34.7041666666667,
+      "depth": 10.62,
+      "mag": 0.78,
       "place": "8 km WNW of Lake Hughes, CA",
-      "time": 1793830325660,
+      "time": 1793830325830,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358479"
     },
     {
@@ -32,6 +52,26 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1793829626560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462527"
+    },
+    {
+      "id": "hv75068576",
+      "lon": -155.621333333333,
+      "lat": 19.3953333333333,
+      "depth": -2.1,
+      "mag": 3.12,
+      "place": "26 km NW of Pāhala, Hawaii",
+      "time": 1793829595690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068576"
+    },
+    {
+      "id": "uu80162836",
+      "lon": -112.917666666667,
+      "lat": 38.5185,
+      "depth": 3.61,
+      "mag": 1.12,
+      "place": "15 km NNE of Milford, Utah",
+      "time": 1793829455510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162836"
     },
     {
       "id": "ok2026vqor",
@@ -1684,6 +1724,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vozw"
     },
     {
+      "id": "av94484698",
+      "lon": -154.64,
+      "lat": 58.4658333333333,
+      "depth": 9.24,
+      "mag": -0.08,
+      "place": "100 km N of Karluk, Alaska",
+      "time": 1793754721810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94484698"
+    },
+    {
+      "id": "av94484693",
+      "lon": -154.507,
+      "lat": 58.3858333333333,
+      "depth": 3.6,
+      "mag": 0.38,
+      "place": "91 km N of Karluk, Alaska",
+      "time": 1793754559970,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94484693"
+    },
+    {
       "id": "ci41572312",
       "lon": -115.153333333333,
       "lat": 32.4193333333333,
@@ -1702,6 +1762,16 @@
       "place": "3 km SSW of Huntsville, Tennessee",
       "time": 1793753420020,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60506523"
+    },
+    {
+      "id": "av94484638",
+      "lon": -154.558166666667,
+      "lat": 58.3973333333333,
+      "depth": 5.15,
+      "mag": 0.23,
+      "place": "92 km N of Karluk, Alaska",
+      "time": 1793753328120,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94484638"
     },
     {
       "id": "ok2026vozb",
@@ -1912,36 +1982,6 @@
       "place": "9 km NNE of Delta, B.C., MX",
       "time": 1793745286100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572280"
-    },
-    {
-      "id": "us7000tvu2",
-      "lon": -178.3689,
-      "lat": -17.5316,
-      "depth": 541.868,
-      "mag": 4.4,
-      "place": "252 km ENE of Levuka, Fiji",
-      "time": 1793744879037,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvu2"
-    },
-    {
-      "id": "ci41572264",
-      "lon": -116.706833333333,
-      "lat": 33.5395,
-      "depth": 6.6,
-      "mag": -0.31,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1793744699500,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572264"
-    },
-    {
-      "id": "uw714134321",
-      "lon": -117.449833333333,
-      "lat": 44.546,
-      "depth": -1.58,
-      "mag": 1.85,
-      "place": "26 km NW of Huntington, Oregon",
-      "time": 1793744217390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714134321"
     }
   ]
 }
