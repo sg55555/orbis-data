@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-04T19:01:17Z",
-  "count": 174,
+  "updated": "2026-11-04T19:15:50Z",
+  "count": 177,
   "points": [
+    {
+      "id": "nc75462472",
+      "lon": -122.16633605957,
+      "lat": 38.1295013427734,
+      "depth": 2.21000003814697,
+      "mag": 2.13,
+      "place": "6 km ENE of Vallejo, CA",
+      "time": 1793819352290,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462472"
+    },
+    {
+      "id": "aka2026vwmytk",
+      "lon": -148.761,
+      "lat": 61.951,
+      "depth": 9.1,
+      "mag": 2.2,
+      "place": "19 km N of Sutton-Alpine, Alaska",
+      "time": 1793819205191,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vwmytk"
+    },
+    {
+      "id": "ci41358343",
+      "lon": -117.397666931152,
+      "lat": 35.9598350524902,
+      "depth": 0.75,
+      "mag": 3.27360818475327,
+      "place": "21 km N of Searles Valley, CA",
+      "time": 1793818770820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358343"
+    },
     {
       "id": "nc75462457",
       "lon": -122.8125,
@@ -134,6 +164,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vwjrrv"
     },
     {
+      "id": "pr2026308002",
+      "lon": -68.0753,
+      "lat": 19.4948,
+      "depth": 10,
+      "mag": 3.49,
+      "place": "106 km NNE of Punta Cana, Dominican Republic",
+      "time": 1793812191240,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026308002"
+    },
+    {
       "id": "pr2026308001",
       "lon": -68.1008,
       "lat": 19.4396,
@@ -225,13 +265,23 @@
     },
     {
       "id": "aka2026vweuys",
-      "lon": -155.152,
-      "lat": 58.247,
-      "depth": 5,
-      "mag": 0.9,
+      "lon": -155.134,
+      "lat": 58.254,
+      "depth": 5.8,
+      "mag": 1.2,
       "place": "86 km NNW of Karluk, Alaska",
-      "time": 1793804547049,
+      "time": 1793804546746,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vweuys"
+    },
+    {
+      "id": "aka2026vwesvb",
+      "lon": -153.022,
+      "lat": 58.862,
+      "depth": 68.7,
+      "mag": 2.5,
+      "place": "83 km SW of Nanwalek, Alaska",
+      "time": 1793804399236,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vwesvb"
     },
     {
       "id": "nc75462357",
@@ -1374,6 +1424,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462187"
     },
     {
+      "id": "av94484453",
+      "lon": -174.151833333333,
+      "lat": 52.3263333333333,
+      "depth": 5.26,
+      "mag": 1.11,
+      "place": "14 km NNE of Atka, Alaska",
+      "time": 1793746814980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94484453"
+    },
+    {
       "id": "av94484448",
       "lon": -155.291333333333,
       "lat": 58.1816666666667,
@@ -1712,36 +1772,6 @@
       "place": "7 km NNE of Delta, B.C., MX",
       "time": 1793733490940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572104"
-    },
-    {
-      "id": "av94484238",
-      "lon": -177.198666666667,
-      "lat": 51.8823333333333,
-      "depth": 4.61,
-      "mag": 0.7,
-      "place": "38 km W of Adak, Alaska",
-      "time": 1793733061180,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94484238"
-    },
-    {
-      "id": "ci41572096",
-      "lon": -116.7415,
-      "lat": 34.2278333333333,
-      "depth": 2.17,
-      "mag": 0.83,
-      "place": "10 km ESE of Big Bear City, CA",
-      "time": 1793732939800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572096"
-    },
-    {
-      "id": "ci41572088",
-      "lon": -116.714333333333,
-      "lat": 34.0038333333333,
-      "depth": 15.49,
-      "mag": 1.89,
-      "place": "12 km NE of Cabazon, CA",
-      "time": 1793732847910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572088"
     }
   ]
 }
