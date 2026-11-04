@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-04T00:45:51Z",
-  "count": 204,
+  "updated": "2026-11-04T01:01:12Z",
+  "count": 207,
   "points": [
+    {
+      "id": "ci41572312",
+      "lon": -115.155666666667,
+      "lat": 32.4165,
+      "depth": 11.41,
+      "mag": 1.73,
+      "place": "8 km NNE of Delta, B.C., MX",
+      "time": 1793753450200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572312"
+    },
+    {
+      "id": "ok2026vozb",
+      "lon": -98.13451385,
+      "lat": 36.37226868,
+      "depth": 0.6888984442,
+      "mag": 3.59,
+      "place": "4 km ESE of Meno, Oklahoma",
+      "time": 1793753311278,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vozb"
+    },
     {
       "id": "aka2026vvbyqq",
       "lon": -147.535,
@@ -12,6 +32,16 @@
       "place": "56 km NNE of Chenega, Alaska",
       "time": 1793752625518,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvbyqq"
+    },
+    {
+      "id": "us7000tvuv",
+      "lon": -177.4264,
+      "lat": -19.3197,
+      "depth": 549.796,
+      "mag": 5,
+      "place": "Fiji region",
+      "time": 1793752379305,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv"
     },
     {
       "id": "uw714134441",
@@ -1884,6 +1914,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571728"
     },
     {
+      "id": "av94483263",
+      "lon": -177.189,
+      "lat": 51.8658333333333,
+      "depth": 6.08,
+      "mag": 1.18,
+      "place": "38 km W of Adak, Alaska",
+      "time": 1793673836790,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94483263"
+    },
+    {
       "id": "aka2026vtkchh",
       "lon": -151.509,
       "lat": 60.71,
@@ -2032,16 +2072,6 @@
       "place": "31 km NNE of Fremont, Utah",
       "time": 1793667710050,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162501"
-    },
-    {
-      "id": "ci41571696",
-      "lon": -115.5525,
-      "lat": 32.9486666666667,
-      "depth": 7.39,
-      "mag": 1.49,
-      "place": "4 km SSW of Brawley, CA",
-      "time": 1793666908820,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571696"
     }
   ]
 }
