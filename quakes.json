@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-04T21:45:43Z",
-  "count": 194,
+  "updated": "2026-11-04T22:01:13Z",
+  "count": 193,
   "points": [
+    {
+      "id": "ok2026vqor",
+      "lon": -98.28255463,
+      "lat": 35.48933792,
+      "depth": 3.377016068,
+      "mag": 2.19,
+      "place": "6 km ENE of Hinton, Oklahoma",
+      "time": 1793829064719,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vqor"
+    },
+    {
+      "id": "ok2026vqon",
+      "lon": -95.82849884,
+      "lat": 36.17971802,
+      "depth": 5.473526001,
+      "mag": 2.03,
+      "place": "7 km W of Catoosa, Oklahoma",
+      "time": 1793828764567,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vqon"
+    },
     {
       "id": "aka2026vwruvq",
       "lon": -153.379,
@@ -15,12 +35,12 @@
     },
     {
       "id": "ci41358455",
-      "lon": -117.493166666667,
-      "lat": 33.846,
-      "depth": 1.58,
-      "mag": 1.51,
+      "lon": -117.490166666667,
+      "lat": 33.8481666666667,
+      "depth": -0.5,
+      "mag": 1.05,
       "place": "4 km SE of Home Gardens, CA",
-      "time": 1793827851810,
+      "time": 1793827851660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358455"
     },
     {
@@ -1912,36 +1932,6 @@
       "place": "11 km SW of Salton City, CA",
       "time": 1793743590310,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572256"
-    },
-    {
-      "id": "ci41572248",
-      "lon": -116.365,
-      "lat": 33.3388333333333,
-      "depth": 12.27,
-      "mag": 0.86,
-      "place": "9 km N of Borrego Springs, CA",
-      "time": 1793742821050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572248"
-    },
-    {
-      "id": "ci41572240",
-      "lon": -115.190166666667,
-      "lat": 32.4131666666667,
-      "depth": 15.25,
-      "mag": 2.06,
-      "place": "6 km N of Delta, B.C., MX",
-      "time": 1793742682670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572240"
-    },
-    {
-      "id": "uu80162686",
-      "lon": -112.918833333333,
-      "lat": 38.5126666666667,
-      "depth": 2.38,
-      "mag": 1.56,
-      "place": "15 km NNE of Milford, Utah",
-      "time": 1793742305020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162686"
     }
   ]
 }
