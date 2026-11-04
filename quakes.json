@@ -1,6 +1,6 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-04T22:30:58Z",
+  "updated": "2026-11-04T22:45:45Z",
   "count": 198,
   "points": [
     {
@@ -92,6 +92,16 @@
       "place": "7 km W of Catoosa, Oklahoma",
       "time": 1793828764567,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vqon"
+    },
+    {
+      "id": "uu80162826",
+      "lon": -111.6235,
+      "lat": 41.0498333333333,
+      "depth": 9.82,
+      "mag": 1.05,
+      "place": "4 km ENE of Morgan, Utah",
+      "time": 1793828383560,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162826"
     },
     {
       "id": "aka2026vwruvq",
@@ -1694,6 +1704,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714134451"
     },
     {
+      "id": "av94484713",
+      "lon": -154.5535,
+      "lat": 58.395,
+      "depth": 4.68,
+      "mag": 0.4,
+      "place": "92 km N of Karluk, Alaska",
+      "time": 1793754969420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94484713"
+    },
+    {
       "id": "ok2026vozy",
       "lon": -98.15433333,
       "lat": 36.36333333,
@@ -1895,12 +1915,12 @@
     },
     {
       "id": "ci41572288",
-      "lon": -116.759833333333,
-      "lat": 33.587,
-      "depth": 11.57,
-      "mag": 0.54,
+      "lon": -116.759,
+      "lat": 33.5873333333333,
+      "depth": 11.92,
+      "mag": 0.49,
       "place": "9 km WNW of Anza, CA",
-      "time": 1793748333760,
+      "time": 1793748333740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572288"
     },
     {
@@ -1962,26 +1982,6 @@
       "place": "4 km E of Plummer, Idaho",
       "time": 1793746111890,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714134341"
-    },
-    {
-      "id": "aka2026vuydlt",
-      "lon": -149.146,
-      "lat": 62.293,
-      "depth": 47.7,
-      "mag": 2.2,
-      "place": "39 km ENE of Susitna North, Alaska",
-      "time": 1793745806304,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vuydlt"
-    },
-    {
-      "id": "ci41572280",
-      "lon": -115.163166666667,
-      "lat": 32.4315,
-      "depth": 19.72,
-      "mag": 2.15,
-      "place": "9 km NNE of Delta, B.C., MX",
-      "time": 1793745286100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572280"
     }
   ]
 }
