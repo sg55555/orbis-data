@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-04T20:15:44Z",
-  "count": 185,
+  "updated": "2026-11-04T20:31:06Z",
+  "count": 186,
   "points": [
+    {
+      "id": "ci41358431",
+      "lon": -117.908500671387,
+      "lat": 33.6426658630371,
+      "depth": -0.200000002980232,
+      "mag": 1.47859722922432,
+      "place": "3 km S of Costa Mesa, CA",
+      "time": 1793824007450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358431"
+    },
     {
       "id": "aka2026vwoygu",
       "lon": -152.133,
@@ -12,6 +22,16 @@
       "place": "58 km WNW of Tyonek, Alaska",
       "time": 1793822767947,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vwoygu"
+    },
+    {
+      "id": "ok2026vqlf",
+      "lon": -95.82,
+      "lat": 36.2535,
+      "depth": 0,
+      "mag": 1.29,
+      "place": "3 km ESE of Owasso, Oklahoma",
+      "time": 1793822714910,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vqlf"
     },
     {
       "id": "nc75462507",
@@ -32,6 +52,16 @@
       "place": "41 km N of Toms Place, CA",
       "time": 1793822455550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462502"
+    },
+    {
+      "id": "us7000tw3k",
+      "lon": -87.1544,
+      "lat": 12.6311,
+      "depth": 159.022,
+      "mag": 4.5,
+      "place": "2 km W of Chinandega, Nicaragua",
+      "time": 1793822126313,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw3k"
     },
     {
       "id": "aka2026vwoonv",
@@ -62,6 +92,16 @@
       "place": "56 km NW of Ninilchik, Alaska",
       "time": 1793821509512,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vwogbw"
+    },
+    {
+      "id": "uw714134841",
+      "lon": -117.312666666667,
+      "lat": 46.8685,
+      "depth": 14.09,
+      "mag": 1.69,
+      "place": "4 km ESE of Colfax, Washington",
+      "time": 1793821282760,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714134841"
     },
     {
       "id": "aka2026vwoaud",
@@ -1822,36 +1862,6 @@
       "place": "6 km N of Mill Creek, Oklahoma",
       "time": 1793738988640,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vore"
-    },
-    {
-      "id": "ci41572192",
-      "lon": -115.176333333333,
-      "lat": 32.4348333333333,
-      "depth": 12.05,
-      "mag": 1.98,
-      "place": "9 km N of Delta, B.C., MX",
-      "time": 1793737069670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572192"
-    },
-    {
-      "id": "uu80162671",
-      "lon": -112.913333333333,
-      "lat": 38.5121666666667,
-      "depth": 3.73,
-      "mag": 0.41,
-      "place": "15 km NNE of Milford, Utah",
-      "time": 1793737011360,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162671"
-    },
-    {
-      "id": "ci41572184",
-      "lon": -115.168833333333,
-      "lat": 32.44,
-      "depth": 14.47,
-      "mag": 2.16,
-      "place": "10 km NNE of Delta, B.C., MX",
-      "time": 1793736999910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572184"
     }
   ]
 }
