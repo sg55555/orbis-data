@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-04T03:01:14Z",
-  "count": 208,
+  "updated": "2026-11-04T03:11:05Z",
+  "count": 206,
   "points": [
+    {
+      "id": "aka2026vvgxwy",
+      "lon": -152.734,
+      "lat": 59.467,
+      "depth": 77.6,
+      "mag": 2.5,
+      "place": "47 km WNW of Nanwalek, Alaska",
+      "time": 1793761569938,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvgxwy"
+    },
     {
       "id": "aka2026vvgcwe",
       "lon": -154.918,
@@ -12,6 +22,16 @@
       "place": "83 km NNW of Karluk, Alaska",
       "time": 1793760114357,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvgcwe"
+    },
+    {
+      "id": "us7000tvvc",
+      "lon": 140.2929,
+      "lat": 27.0774,
+      "depth": 429.393,
+      "mag": 4.2,
+      "place": "Bonin Islands, Japan region",
+      "time": 1793760029495,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvvc"
     },
     {
       "id": "nc75462237",
@@ -2042,46 +2062,6 @@
       "place": "74 km E of Petropavlovsk-Kamchatsky, Russia",
       "time": 1793675592330,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv2p"
-    },
-    {
-      "id": "aka2026vtkyog",
-      "lon": -151.196,
-      "lat": 60.649,
-      "depth": 71.4,
-      "mag": 2.2,
-      "place": "6 km SE of Nikiski, Alaska",
-      "time": 1793675253935,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vtkyog"
-    },
-    {
-      "id": "nc75461852",
-      "lon": -122.810333251953,
-      "lat": 38.8240013122559,
-      "depth": 2.79999995231628,
-      "mag": 0.88,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1793675176790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461852"
-    },
-    {
-      "id": "ci41571744",
-      "lon": -115.164833333333,
-      "lat": 32.4043333333333,
-      "depth": 20.3,
-      "mag": 3.28,
-      "place": "6 km NNE of Delta, B.C., MX",
-      "time": 1793674969290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571744"
-    },
-    {
-      "id": "us7000tv2m",
-      "lon": -115.1762,
-      "lat": 32.4423,
-      "depth": 10,
-      "mag": 3.1,
-      "place": "3 km NNE of Ejido Nuevo León, Mexico",
-      "time": 1793674969289,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv2m"
     }
   ]
 }
