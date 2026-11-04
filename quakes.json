@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-04T21:01:15Z",
-  "count": 186,
+  "updated": "2026-11-04T21:15:48Z",
+  "count": 187,
   "points": [
+    {
+      "id": "uw714134971",
+      "lon": -123.182,
+      "lat": 47.3558333333333,
+      "depth": 45.99,
+      "mag": 2.19,
+      "place": "3 km NW of Skokomish, Washington",
+      "time": 1793826119630,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714134971"
+    },
+    {
+      "id": "uw714134941",
+      "lon": -122.6765,
+      "lat": 49.3406666666667,
+      "depth": -0.39,
+      "mag": 1.63,
+      "place": "9 km NE of Coquitlam, Canada",
+      "time": 1793824545250,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714134941"
+    },
     {
       "id": "ci41358431",
       "lon": -117.9235,
@@ -225,12 +245,12 @@
     },
     {
       "id": "ci41358303",
-      "lon": -116.708333333333,
-      "lat": 33.5373333333333,
-      "depth": 6.16,
-      "mag": 0.47,
+      "lon": -116.7105,
+      "lat": 33.5361666666667,
+      "depth": 6.11,
+      "mag": 0.35,
       "place": "4 km WSW of Anza, CA",
-      "time": 1793816132440,
+      "time": 1793816132390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358303"
     },
     {
@@ -1595,12 +1615,12 @@
     },
     {
       "id": "ci41572304",
-      "lon": -117.670333333333,
-      "lat": 35.0425,
-      "depth": 0.2,
-      "mag": 1.37,
+      "lon": -117.6675,
+      "lat": 35.0461666666667,
+      "depth": -0.79,
+      "mag": 1.32,
       "place": "5 km NNW of Boron, CA",
-      "time": 1793751363040,
+      "time": 1793751362870,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572304"
     },
     {
@@ -1852,16 +1872,6 @@
       "place": "68 km S of Alcan Border, Alaska",
       "time": 1793741541580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vuvulm"
-    },
-    {
-      "id": "av94484358",
-      "lon": -176.467833333333,
-      "lat": 51.9861666666667,
-      "depth": 9.15,
-      "mag": 1.62,
-      "place": "16 km NE of Adak, Alaska",
-      "time": 1793739788590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94484358"
     }
   ]
 }
