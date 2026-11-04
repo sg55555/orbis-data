@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-04T14:01:23Z",
-  "count": 165,
+  "updated": "2026-11-04T14:15:50Z",
+  "count": 164,
   "points": [
+    {
+      "id": "nc75462352",
+      "lon": -122.757331848145,
+      "lat": 38.7799987792969,
+      "depth": 1.24000000953674,
+      "mag": 0.71,
+      "place": "0 km NNW of The Geysers, CA",
+      "time": 1793801376900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462352"
+    },
     {
       "id": "hv75068461",
       "lon": -155.123992919922,
@@ -92,6 +102,16 @@
       "place": "16 km WSW of Johannesburg, CA",
       "time": 1793794493000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572408"
+    },
+    {
+      "id": "us7000tvxj",
+      "lon": 152.0301,
+      "lat": -5.4706,
+      "depth": 10,
+      "mag": 4.3,
+      "place": "127 km SSW of Kokopo, Papua New Guinea",
+      "time": 1793794485921,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvxj"
     },
     {
       "id": "aka2026vvzdxb",
@@ -1622,36 +1642,6 @@
       "place": "42 km SSE of Nelchina, Alaska",
       "time": 1793715413492,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vuhgwn"
-    },
-    {
-      "id": "ci41571976",
-      "lon": -116.708333333333,
-      "lat": 33.5376666666667,
-      "depth": 5.84,
-      "mag": 0,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1793715165720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571976"
-    },
-    {
-      "id": "tx2026vqufsw",
-      "lon": -104.138,
-      "lat": 31.65,
-      "depth": 5.8948,
-      "mag": 2,
-      "place": "49 km NW of Toyah, Texas",
-      "time": 1793714770907,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vqufsw"
-    },
-    {
-      "id": "us7000tv5n",
-      "lon": 83.3536,
-      "lat": 42.7752,
-      "depth": 10,
-      "mag": 4.4,
-      "place": "72 km S of Xinyuan, China",
-      "time": 1793714545578,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv5n"
     }
   ]
 }
