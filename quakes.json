@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-04T18:15:48Z",
-  "count": 172,
+  "updated": "2026-11-04T18:31:04Z",
+  "count": 170,
   "points": [
+    {
+      "id": "nc75462432",
+      "lon": -122.762336730957,
+      "lat": 38.8221664428711,
+      "depth": 2.32999992370605,
+      "mag": 0.69,
+      "place": "3 km W of Cobb, CA",
+      "time": 1793816344070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462432"
+    },
     {
       "id": "nc75462427",
       "lon": -118.24983215332,
@@ -225,12 +235,12 @@
     },
     {
       "id": "hv75068461",
-      "lon": -155.123992919922,
-      "lat": 19.3343334197998,
-      "depth": 1.21000003814697,
-      "mag": 2.24,
-      "place": "14 km S of Fern Forest, Hawaii",
-      "time": 1793798566160,
+      "lon": -155.122,
+      "lat": 19.3213333333333,
+      "depth": 1.79,
+      "mag": 2.01,
+      "place": "16 km S of Fern Forest, Hawaii",
+      "time": 1793798566080,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068461"
     },
     {
@@ -1692,36 +1702,6 @@
       "place": "8 km SSE of Maria Antonia, Puerto Rico",
       "time": 1793730872960,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538408"
-    },
-    {
-      "id": "ci41572064",
-      "lon": -115.179666666667,
-      "lat": 32.4308333333333,
-      "depth": 15.59,
-      "mag": 4.8869503562808,
-      "place": "9 km N of Delta, B.C., MX",
-      "time": 1793730451190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572064"
-    },
-    {
-      "id": "us7000tvs3",
-      "lon": 78.3027,
-      "lat": -35.5195,
-      "depth": 10,
-      "mag": 5.2,
-      "place": "Mid-Indian Ridge",
-      "time": 1793730073036,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvs3"
-    },
-    {
-      "id": "ci41572056",
-      "lon": -115.1595,
-      "lat": 32.4091666666667,
-      "depth": 27.15,
-      "mag": 3.37822,
-      "place": "7 km NNE of Delta, B.C., MX",
-      "time": 1793729833440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572056"
     }
   ]
 }
