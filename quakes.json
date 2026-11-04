@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-04T02:31:01Z",
-  "count": 212,
+  "updated": "2026-11-04T02:45:45Z",
+  "count": 210,
   "points": [
+    {
+      "id": "aka2026vvgcwe",
+      "lon": -154.918,
+      "lat": 58.277,
+      "depth": 5,
+      "mag": 1.1,
+      "place": "83 km NNW of Karluk, Alaska",
+      "time": 1793760114357,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvgcwe"
+    },
     {
       "id": "nc75462237",
       "lon": -122.833503723145,
@@ -42,6 +52,16 @@
       "place": "10 km NE of Fall City, Washington",
       "time": 1793758641410,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714134471"
+    },
+    {
+      "id": "us7000tvv8",
+      "lon": -68.8994,
+      "lat": 19.3075,
+      "depth": 10,
+      "mag": 2.8,
+      "place": "39 km NNE of Miches, Dominican Republic",
+      "time": 1793758517911,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvv8"
     },
     {
       "id": "ci41572328",
@@ -2082,46 +2102,6 @@
       "place": "13 km NNE of Thousand Palms, CA",
       "time": 1793674225500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571728"
-    },
-    {
-      "id": "av94483263",
-      "lon": -177.189,
-      "lat": 51.8658333333333,
-      "depth": 6.08,
-      "mag": 1.18,
-      "place": "38 km W of Adak, Alaska",
-      "time": 1793673836790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94483263"
-    },
-    {
-      "id": "aka2026vtkchh",
-      "lon": -151.509,
-      "lat": 60.71,
-      "depth": 78.9,
-      "mag": 2.8,
-      "place": "12 km W of Nikiski, Alaska",
-      "time": 1793673715440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vtkchh"
-    },
-    {
-      "id": "tx2026vpxkxg",
-      "lon": -99.305,
-      "lat": 28.745,
-      "depth": 5.3982,
-      "mag": 2.3,
-      "place": "13 km WNW of Hilltop, Texas",
-      "time": 1793673436799,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vpxkxg"
-    },
-    {
-      "id": "nm60628881",
-      "lon": -89.532,
-      "lat": 36.4375,
-      "depth": 9.68,
-      "mag": 1.63,
-      "place": "8 km NW of Tiptonville, Tennessee",
-      "time": 1793673307410,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60628881"
     }
   ]
 }
