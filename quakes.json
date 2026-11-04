@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-04T04:15:47Z",
-  "count": 199,
+  "updated": "2026-11-04T04:31:05Z",
+  "count": 198,
   "points": [
     {
+      "id": "hv75068326",
+      "lon": -155.481506347656,
+      "lat": 19.1035003662109,
+      "depth": 29.0799999237061,
+      "mag": 1.74,
+      "place": "11 km S of Pāhala, Hawaii",
+      "time": 1793766223980,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068326"
+    },
+    {
       "id": "ok2026vpfl",
-      "lon": -98.13882446,
-      "lat": 36.36917877,
-      "depth": 1.426860452,
-      "mag": 2.15,
-      "place": "3 km ESE of Meno, Oklahoma",
-      "time": 1793764947515,
+      "lon": -98.15266667,
+      "lat": 36.3635,
+      "depth": 6.49,
+      "mag": 2.05,
+      "place": "3 km SE of Meno, Oklahoma",
+      "time": 1793764947059,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vpfl"
     },
     {
@@ -1972,26 +1982,6 @@
       "place": "16 km SW of Toms Place, CA",
       "time": 1793681067930,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461882"
-    },
-    {
-      "id": "ci10259734",
-      "lon": -115.1455,
-      "lat": 32.413,
-      "depth": 16.33,
-      "mag": 1.73,
-      "place": "8 km NE of Delta, B.C., MX",
-      "time": 1793679679250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10259734"
-    },
-    {
-      "id": "ci41571792",
-      "lon": -115.163333333333,
-      "lat": 32.4258333333333,
-      "depth": 14.91,
-      "mag": 1.45,
-      "place": "8 km NNE of Delta, B.C., MX",
-      "time": 1793679664990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571792"
     }
   ]
 }
