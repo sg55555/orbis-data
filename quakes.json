@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-04T23:30:57Z",
-  "count": 203,
+  "updated": "2026-11-04T23:45:45Z",
+  "count": 204,
   "points": [
+    {
+      "id": "ci41358511",
+      "lon": -118.332666666667,
+      "lat": 35.0611666666667,
+      "depth": 1.7,
+      "mag": 0.92,
+      "place": "13 km SE of Tehachapi, CA",
+      "time": 1793835466310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358511"
+    },
+    {
+      "id": "ok2026vqse",
+      "lon": -97.17461395,
+      "lat": 34.46105194,
+      "depth": 4.436051846,
+      "mag": 2.12,
+      "place": "6 km SW of Davis, Oklahoma",
+      "time": 1793835407267,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vqse"
+    },
     {
       "id": "aka2026vwvrjo",
       "lon": -155.349,
@@ -12,6 +32,16 @@
       "place": "86 km NW of Karluk, Alaska",
       "time": 1793834885161,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vwvrjo"
+    },
+    {
+      "id": "nn00926650",
+      "lon": -114.882,
+      "lat": 36.1498,
+      "depth": 4.8263,
+      "mag": 1.71,
+      "place": "15 km ENE of Whitney, Nevada",
+      "time": 1793834834682,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926650"
     },
     {
       "id": "aka2026vwvogf",
@@ -2012,26 +2042,6 @@
       "place": "105 km SSE of Sand Point, Alaska",
       "time": 1793749707808,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvaimd"
-    },
-    {
-      "id": "uw714134381",
-      "lon": -123.4245,
-      "lat": 46.1786666666667,
-      "depth": -0.5,
-      "mag": 1.38,
-      "place": "4 km SW of Cathlamet, Washington",
-      "time": 1793748917510,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714134381"
-    },
-    {
-      "id": "uw714134391",
-      "lon": -122.178833333333,
-      "lat": 49.0981666666667,
-      "depth": -0.68,
-      "mag": 1.21,
-      "place": "7 km NE of Abbotsford, Canada",
-      "time": 1793748807420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714134391"
     }
   ]
 }
