@@ -1,6 +1,6 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-04T18:31:04Z",
+  "updated": "2026-11-04T18:45:56Z",
   "count": 170,
   "points": [
     {
@@ -12,6 +12,16 @@
       "place": "3 km W of Cobb, CA",
       "time": 1793816344070,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462432"
+    },
+    {
+      "id": "ci41358303",
+      "lon": -116.708333333333,
+      "lat": 33.5373333333333,
+      "depth": 6.16,
+      "mag": 0.47,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1793816132440,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358303"
     },
     {
       "id": "nc75462427",
@@ -785,12 +795,12 @@
     },
     {
       "id": "hv75068346",
-      "lon": -155.276000976562,
-      "lat": 19.3888339996338,
-      "depth": 1.6599999666214,
-      "mag": 1.89,
+      "lon": -155.278833333333,
+      "lat": 19.385,
+      "depth": 1.55,
+      "mag": 1.96,
       "place": "7 km SW of Volcano, Hawaii",
-      "time": 1793769563950,
+      "time": 1793769563940,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068346"
     },
     {
@@ -1225,12 +1235,12 @@
     },
     {
       "id": "uw714134441",
-      "lon": -122.463500976562,
-      "lat": 45.8803329467773,
-      "depth": -0.209999993443489,
-      "mag": 1.9909405708313,
-      "place": "3 km SSW of Amboy, Washington",
-      "time": 1793752308510,
+      "lon": -122.565,
+      "lat": 45.8028333333333,
+      "depth": -0.23,
+      "mag": 1.34,
+      "place": "1 km NE of Cherry Grove, Washington",
+      "time": 1793752306560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714134441"
     },
     {
@@ -1362,6 +1372,16 @@
       "place": "252 km ENE of Levuka, Fiji",
       "time": 1793744879037,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvu2"
+    },
+    {
+      "id": "uw714134321",
+      "lon": -117.449833333333,
+      "lat": 44.546,
+      "depth": -1.58,
+      "mag": 1.85,
+      "place": "26 km NW of Huntington, Oregon",
+      "time": 1793744217390,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714134321"
     },
     {
       "id": "ci41572256",
@@ -1564,6 +1584,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vuscru"
     },
     {
+      "id": "uw714134211",
+      "lon": -123.444166666667,
+      "lat": 45.6583333333333,
+      "depth": -0.69,
+      "mag": 1.57,
+      "place": "26 km W of Banks, Oregon",
+      "time": 1793734898510,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714134211"
+    },
+    {
       "id": "ci10259782",
       "lon": -114.951666666667,
       "lat": 33.0341666666667,
@@ -1672,36 +1702,6 @@
       "place": "8 km NE of Delta, B.C., MX",
       "time": 1793731648010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572080"
-    },
-    {
-      "id": "ci10259774",
-      "lon": -115.1365,
-      "lat": 32.4018333333333,
-      "depth": 11.88,
-      "mag": 2.16,
-      "place": "7 km NE of Delta, B.C., MX",
-      "time": 1793731360830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10259774"
-    },
-    {
-      "id": "ci41572072",
-      "lon": -115.164333333333,
-      "lat": 32.4286666666667,
-      "depth": 15.92,
-      "mag": 2.19,
-      "place": "9 km NNE of Delta, B.C., MX",
-      "time": 1793731333580,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572072"
-    },
-    {
-      "id": "pr71538408",
-      "lon": -66.862,
-      "lat": 17.9073333333333,
-      "depth": 11.51,
-      "mag": 2.02,
-      "place": "8 km SSE of Maria Antonia, Puerto Rico",
-      "time": 1793730872960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538408"
     }
   ]
 }
