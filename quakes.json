@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-04T16:15:46Z",
-  "count": 173,
+  "updated": "2026-11-04T16:31:03Z",
+  "count": 176,
   "points": [
+    {
+      "id": "ci41572480",
+      "lon": -116.727836608887,
+      "lat": 33.6801681518555,
+      "depth": 15.4499998092651,
+      "mag": 1.5443710811601,
+      "place": "7 km S of Idyllwild, CA",
+      "time": 1793809683130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572480"
+    },
     {
       "id": "nc75462382",
       "lon": -122.756164550781,
@@ -232,6 +242,16 @@
       "place": "15 km NNE of Milford, Utah",
       "time": 1793793215500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162776"
+    },
+    {
+      "id": "uu80162771",
+      "lon": -111.211,
+      "lat": 44.7653333333333,
+      "depth": 10.14,
+      "mag": -0.04,
+      "place": "1 km WSW of Hebgen Lake Estates, Montana",
+      "time": 1793792538420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162771"
     },
     {
       "id": "aka2026vvxgii",
@@ -552,6 +572,16 @@
       "place": "3 km NNW of The Geysers, CA",
       "time": 1793772635390,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462277"
+    },
+    {
+      "id": "aka2026vvnaod",
+      "lon": -136.659,
+      "lat": 59.248,
+      "depth": 5,
+      "mag": 3.2,
+      "place": "40 km WSW of Covenant Life, Alaska",
+      "time": 1793772529254,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvnaod"
     },
     {
       "id": "hv75068371",
@@ -1244,6 +1274,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068221"
     },
     {
+      "id": "ok2026vore",
+      "lon": -96.82816667,
+      "lat": 34.46333333,
+      "depth": 0,
+      "mag": 1.35,
+      "place": "6 km N of Mill Creek, Oklahoma",
+      "time": 1793738988640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vore"
+    },
+    {
       "id": "ci41572192",
       "lon": -115.176333333333,
       "lat": 32.4348333333333,
@@ -1722,16 +1762,6 @@
       "place": "south of the Fiji Islands",
       "time": 1793723431516,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tveb"
-    },
-    {
-      "id": "uu80162621",
-      "lon": -113.581333333333,
-      "lat": 37.4328333333333,
-      "depth": 0.6,
-      "mag": 1.55,
-      "place": "4 km ENE of Central, Utah",
-      "time": 1793722652090,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162621"
     }
   ]
 }
