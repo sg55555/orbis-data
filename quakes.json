@@ -1,17 +1,27 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-04T16:31:03Z",
+  "updated": "2026-11-04T16:45:48Z",
   "count": 176,
   "points": [
     {
       "id": "ci41572480",
-      "lon": -116.727836608887,
-      "lat": 33.6801681518555,
-      "depth": 15.4499998092651,
-      "mag": 1.5443710811601,
+      "lon": -116.727666666667,
+      "lat": 33.6786666666667,
+      "depth": 15.59,
+      "mag": 1.44,
       "place": "7 km S of Idyllwild, CA",
-      "time": 1793809683130,
+      "time": 1793809683110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572480"
+    },
+    {
+      "id": "uu80162791",
+      "lon": -112.916333333333,
+      "lat": 38.5195,
+      "depth": 3.6,
+      "mag": 1.1,
+      "place": "15 km NNE of Milford, Utah",
+      "time": 1793809102950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162791"
     },
     {
       "id": "nc75462382",
@@ -344,6 +354,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvuqjd"
     },
     {
+      "id": "tx2026vshnha",
+      "lon": -104.449,
+      "lat": 31.656,
+      "depth": 6.3049,
+      "mag": 1.9,
+      "place": "58 km S of Whites City, New Mexico",
+      "time": 1793785845688,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vshnha"
+    },
+    {
       "id": "uu80162761",
       "lon": -112.915666666667,
       "lat": 38.5153333333333,
@@ -482,6 +502,26 @@
       "place": "55 km ENE of Pedro Bay, Alaska",
       "time": 1793775455378,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvoqoh"
+    },
+    {
+      "id": "ci10259830",
+      "lon": -116.711166666667,
+      "lat": 33.9235,
+      "depth": 16,
+      "mag": 0.59,
+      "place": "7 km E of Cabazon, CA",
+      "time": 1793775109900,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10259830"
+    },
+    {
+      "id": "ci41572368",
+      "lon": -117.211,
+      "lat": 34.0155,
+      "depth": 14.48,
+      "mag": 0.67,
+      "place": "5 km SSW of Redlands, CA",
+      "time": 1793775108210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572368"
     },
     {
       "id": "ci41572360",
@@ -1722,46 +1762,6 @@
       "place": "Volcano Islands, Japan region",
       "time": 1793724493110,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvie"
-    },
-    {
-      "id": "us7000tvs7",
-      "lon": -169.4474,
-      "lat": 51.8745,
-      "depth": 10,
-      "mag": 2.5,
-      "place": "124 km SSW of Nikolski, Alaska",
-      "time": 1793723935304,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvs7"
-    },
-    {
-      "id": "uu80162626",
-      "lon": -112.9175,
-      "lat": 38.5171666666667,
-      "depth": 3.49,
-      "mag": 1.08,
-      "place": "15 km NNE of Milford, Utah",
-      "time": 1793723757300,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162626"
-    },
-    {
-      "id": "aka2026vulusw",
-      "lon": -149.817,
-      "lat": 64.783,
-      "depth": 5,
-      "mag": 1.5,
-      "place": "38 km WNW of Four Mile Road, Alaska",
-      "time": 1793723568191,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vulusw"
-    },
-    {
-      "id": "us7000tveb",
-      "lon": 179.7187,
-      "lat": -25.288,
-      "depth": 500.022,
-      "mag": 4.3,
-      "place": "south of the Fiji Islands",
-      "time": 1793723431516,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tveb"
     }
   ]
 }
