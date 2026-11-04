@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-04T01:45:40Z",
-  "count": 209,
+  "updated": "2026-11-04T02:01:14Z",
+  "count": 208,
   "points": [
+    {
+      "id": "aka2026vverpd",
+      "lon": -150.809,
+      "lat": 64.959,
+      "depth": 3.7,
+      "mag": 1.7,
+      "place": "9 km WSW of Manley Hot Springs, Alaska",
+      "time": 1793757534995,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vverpd"
+    },
     {
       "id": "nc75462217",
       "lon": -119.944000244141,
@@ -55,12 +65,12 @@
     },
     {
       "id": "ok2026vozw",
-      "lon": -98.14416504,
-      "lat": 36.36618042,
-      "depth": 1.257941842,
-      "mag": 2.3,
+      "lon": -98.15516667,
+      "lat": 36.3635,
+      "depth": 6.49,
+      "mag": 2.28,
       "place": "3 km SE of Meno, Oklahoma",
-      "time": 1793754801007,
+      "time": 1793754800480,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vozw"
     },
     {
@@ -2072,26 +2082,6 @@
       "place": "9 km NNE of Delta, B.C., MX",
       "time": 1793671509580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571720"
-    },
-    {
-      "id": "aka2026vtipge",
-      "lon": -151.011,
-      "lat": 62.987,
-      "depth": 126.4,
-      "mag": 1.9,
-      "place": "56 km NNW of Petersville, Alaska",
-      "time": 1793671012369,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vtipge"
-    },
-    {
-      "id": "nc75461847",
-      "lon": -122.831497192383,
-      "lat": 38.8351669311523,
-      "depth": 0.720000028610229,
-      "mag": 0.49,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1793670485350,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461847"
     }
   ]
 }
