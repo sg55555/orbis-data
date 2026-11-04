@@ -1,16 +1,16 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-04T20:45:45Z",
+  "updated": "2026-11-04T21:01:15Z",
   "count": 186,
   "points": [
     {
       "id": "ci41358431",
-      "lon": -117.908500671387,
-      "lat": 33.6426658630371,
-      "depth": -0.200000002980232,
-      "mag": 1.47859722922432,
-      "place": "3 km S of Costa Mesa, CA",
-      "time": 1793824007450,
+      "lon": -117.9235,
+      "lat": 34.1845,
+      "depth": -0.91,
+      "mag": 1.06,
+      "place": "6 km NNW of Azusa, CA",
+      "time": 1793824016720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358431"
     },
     {
@@ -862,6 +862,16 @@
       "place": "75 km E of Cantwell, Alaska",
       "time": 1793781273730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvrwqb"
+    },
+    {
+      "id": "tx2026vsekds",
+      "lon": -98.948,
+      "lat": 28.869,
+      "depth": 7.8178,
+      "mag": 1.8,
+      "place": "14 km E of Pearsall, Texas",
+      "time": 1793780196189,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vsekds"
     },
     {
       "id": "nc75462297",
@@ -1754,6 +1764,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvu2"
     },
     {
+      "id": "ci41572264",
+      "lon": -116.706833333333,
+      "lat": 33.5395,
+      "depth": 6.6,
+      "mag": -0.31,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1793744699500,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572264"
+    },
+    {
       "id": "uw714134321",
       "lon": -117.449833333333,
       "lat": 44.546,
@@ -1842,26 +1862,6 @@
       "place": "16 km NE of Adak, Alaska",
       "time": 1793739788590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94484358"
-    },
-    {
-      "id": "hv75068221",
-      "lon": -155.503166666667,
-      "lat": 19.435,
-      "depth": 7.21,
-      "mag": 1.94,
-      "place": "25 km N of Pāhala, Hawaii",
-      "time": 1793739014400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068221"
-    },
-    {
-      "id": "ok2026vore",
-      "lon": -96.82816667,
-      "lat": 34.46333333,
-      "depth": 0,
-      "mag": 1.35,
-      "place": "6 km N of Mill Creek, Oklahoma",
-      "time": 1793738988640,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vore"
     }
   ]
 }
