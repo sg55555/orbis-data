@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-05T23:31:02Z",
-  "count": 220,
+  "updated": "2026-11-05T23:53:12Z",
+  "count": 218,
   "points": [
+    {
+      "id": "nc75462912",
+      "lon": -120.509330749512,
+      "lat": 35.9743347167969,
+      "depth": -0.469999998807907,
+      "mag": 1.13,
+      "place": "11 km NW of Parkfield, CA",
+      "time": 1793922407260,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462912"
+    },
+    {
+      "id": "aka2026vysffw",
+      "lon": -151.344,
+      "lat": 61.328,
+      "depth": 76,
+      "mag": 2.3,
+      "place": "25 km NW of Beluga, Alaska",
+      "time": 1793922205471,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vysffw"
+    },
     {
       "id": "aka2026vyrsfw",
       "lon": -153.146,
@@ -12,6 +32,16 @@
       "place": "90 km SE of Nikolai, Alaska",
       "time": 1793921304413,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vyrsfw"
+    },
+    {
+      "id": "pr71538538",
+      "lon": -66.4078333333333,
+      "lat": 17.8445,
+      "depth": 9.29,
+      "mag": 2.95,
+      "place": "13 km S of Santa Isabel, Puerto Rico",
+      "time": 1793920173360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538538"
     },
     {
       "id": "us7000twd4",
@@ -1835,12 +1865,12 @@
     },
     {
       "id": "hv75068711",
-      "lon": -155.511840820312,
-      "lat": 19.1548328399658,
-      "depth": 30.3199996948242,
-      "mag": 2.33,
-      "place": "6 km SSW of Pāhala, Hawaii",
-      "time": 1793852840400,
+      "lon": -155.507333333333,
+      "lat": 19.1683333333333,
+      "depth": 33.12,
+      "mag": 1.89,
+      "place": "4 km SW of Pāhala, Hawaii",
+      "time": 1793852840360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068711"
     },
     {
@@ -2005,12 +2035,12 @@
     },
     {
       "id": "hv75068676",
-      "lon": -155.447998046875,
-      "lat": 19.1538333892822,
-      "depth": 31.4300003051758,
-      "mag": 1.99,
+      "lon": -155.452666666667,
+      "lat": 19.1515,
+      "depth": 32.11,
+      "mag": 2.1,
       "place": "6 km SSE of Pāhala, Hawaii",
-      "time": 1793846413820,
+      "time": 1793846413770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068676"
     },
     {
@@ -2152,56 +2182,6 @@
       "place": "106 km N of Isabela, Puerto Rico",
       "time": 1793836550740,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538513"
-    },
-    {
-      "id": "uu80162846",
-      "lon": -112.918833333333,
-      "lat": 38.5156666666667,
-      "depth": 3.32,
-      "mag": 1.64,
-      "place": "15 km NNE of Milford, Utah",
-      "time": 1793836301220,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162846"
-    },
-    {
-      "id": "ok2026vqsr",
-      "lon": -97.97183333,
-      "lat": 35.06816667,
-      "depth": 13.56,
-      "mag": 0.8,
-      "place": "3 km WNW of Chickasha, Oklahoma",
-      "time": 1793836296630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vqsr"
-    },
-    {
-      "id": "uw714135061",
-      "lon": -121.763333333333,
-      "lat": 46.8535,
-      "depth": 1.14,
-      "mag": 0.84,
-      "place": "22 km ENE of Ashford, Washington",
-      "time": 1793835634700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714135061"
-    },
-    {
-      "id": "ci41358511",
-      "lon": -118.335333333333,
-      "lat": 35.0588333333333,
-      "depth": -0.94,
-      "mag": 0.86,
-      "place": "13 km SE of Tehachapi, CA",
-      "time": 1793835465830,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358511"
-    },
-    {
-      "id": "ok2026vqse",
-      "lon": -97.20983333,
-      "lat": 34.50016667,
-      "depth": 0,
-      "mag": 1.57,
-      "place": "8 km W of Davis, Oklahoma",
-      "time": 1793835406850,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vqse"
     }
   ]
 }
