@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-05T17:15:55Z",
-  "count": 205,
+  "updated": "2026-11-05T17:35:17Z",
+  "count": 207,
   "points": [
+    {
+      "id": "nc75462792",
+      "lon": -121.502502441406,
+      "lat": 36.9075012207031,
+      "depth": 6.55999994277954,
+      "mag": 1.69,
+      "place": "8 km NNE of San Juan Bautista, CA",
+      "time": 1793899402730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462792"
+    },
     {
       "id": "nc75462787",
       "lon": -122.829002380371,
@@ -145,12 +155,12 @@
     },
     {
       "id": "ci41358735",
-      "lon": -115.896666666667,
-      "lat": 32.6553333333333,
-      "depth": 10.75,
-      "mag": 1.16,
+      "lon": -115.8925,
+      "lat": 32.6555,
+      "depth": 10.72,
+      "mag": 1.06,
       "place": "13 km SE of Ocotillo, CA",
-      "time": 1793888379650,
+      "time": 1793888379580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358735"
     },
     {
@@ -1414,6 +1424,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462557"
     },
     {
+      "id": "uw714135051",
+      "lon": -122.6335,
+      "lat": 46.2326666666667,
+      "depth": 17.11,
+      "mag": 0.69,
+      "place": "21 km ESE of Castle Rock, Washington",
+      "time": 1793834320400,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714135051"
+    },
+    {
       "id": "aka2026vwvbsw",
       "lon": -152.969,
       "lat": 59.527,
@@ -1672,6 +1692,16 @@
       "place": "6 km NNW of Azusa, CA",
       "time": 1793824016720,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358431"
+    },
+    {
+      "id": "mb90212048",
+      "lon": -111.414,
+      "lat": 44.8126666666667,
+      "depth": 8.63,
+      "mag": -0.07,
+      "place": "18 km WNW of Hebgen Lake Estates, Montana",
+      "time": 1793823751190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90212048"
     },
     {
       "id": "aka2026vwoygu",
@@ -2042,16 +2072,6 @@
       "place": "22 km SSE of Naalehu, Hawaii",
       "time": 1793813797450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068521"
-    },
-    {
-      "id": "aka2026vwjrrv",
-      "lon": -151.802,
-      "lat": 63.368,
-      "depth": 1,
-      "mag": 2.5,
-      "place": "19 km SSW of Denali National Park, Alaska",
-      "time": 1793813316393,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vwjrrv"
     }
   ]
 }
