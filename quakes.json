@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-05T00:45:43Z",
-  "count": 203,
+  "updated": "2026-11-05T01:01:21Z",
+  "count": 200,
   "points": [
     {
       "id": "ci41358543",
@@ -1385,13 +1385,23 @@
     },
     {
       "id": "ci41572352",
-      "lon": -116.979833333333,
-      "lat": 33.9263333333333,
-      "depth": 14.94,
+      "lon": -116.981,
+      "lat": 33.9266666666667,
+      "depth": 15.73,
       "mag": 0.89,
       "place": "0 km SW of Beaumont, CA",
-      "time": 1793773644870,
+      "time": 1793773644810,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572352"
+    },
+    {
+      "id": "ci10260126",
+      "lon": -117.06,
+      "lat": 33.8581666666667,
+      "depth": 13.24,
+      "mag": 0.41,
+      "place": "10 km NE of Nuevo, CA",
+      "time": 1793773617580,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10260126"
     },
     {
       "id": "aka2026vvnowz",
@@ -1992,46 +2002,6 @@
       "place": "91 km N of Karluk, Alaska",
       "time": 1793754559970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94484693"
-    },
-    {
-      "id": "ci41572312",
-      "lon": -115.153333333333,
-      "lat": 32.4193333333333,
-      "depth": 11.18,
-      "mag": 1.63,
-      "place": "8 km NNE of Delta, B.C., MX",
-      "time": 1793753450160,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572312"
-    },
-    {
-      "id": "se60506523",
-      "lon": -84.2911666666667,
-      "lat": 35.747,
-      "depth": 24.16,
-      "mag": 1.58,
-      "place": "3 km SSW of Huntsville, Tennessee",
-      "time": 1793753420020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60506523"
-    },
-    {
-      "id": "av94484638",
-      "lon": -154.558166666667,
-      "lat": 58.3973333333333,
-      "depth": 5.15,
-      "mag": 0.23,
-      "place": "92 km N of Karluk, Alaska",
-      "time": 1793753328120,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94484638"
-    },
-    {
-      "id": "ok2026vozb",
-      "lon": -98.15366667,
-      "lat": 36.36316667,
-      "depth": 6.79,
-      "mag": 3.57,
-      "place": "3 km SE of Meno, Oklahoma",
-      "time": 1793753310789,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vozb"
     }
   ]
 }
