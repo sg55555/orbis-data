@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-05T01:01:21Z",
-  "count": 200,
+  "updated": "2026-11-05T01:15:44Z",
+  "count": 198,
   "points": [
+    {
+      "id": "aka2026vwyznm",
+      "lon": -152.545,
+      "lat": 60.171,
+      "depth": 105.5,
+      "mag": 2.5,
+      "place": "50 km WNW of Ninilchik, Alaska",
+      "time": 1793840841383,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vwyznm"
+    },
+    {
+      "id": "us7000tw53",
+      "lon": 94.1224,
+      "lat": 32.5065,
+      "depth": 10,
+      "mag": 4.1,
+      "place": "226 km ENE of Nagqu, China",
+      "time": 1793839755589,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw53"
+    },
     {
       "id": "ci41358543",
       "lon": -118.320833333333,
@@ -45,12 +65,12 @@
     },
     {
       "id": "ci41358519",
-      "lon": -116.780666666667,
-      "lat": 33.6643333333333,
-      "depth": 13.53,
-      "mag": 0.83,
+      "lon": -116.781166666667,
+      "lat": 33.663,
+      "depth": 13.78,
+      "mag": 0.77,
       "place": "10 km SW of Idyllwild, CA",
-      "time": 1793837018700,
+      "time": 1793837018680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358519"
     },
     {
@@ -945,10 +965,10 @@
     },
     {
       "id": "ci41572432",
-      "lon": -117.038,
-      "lat": 33.9355,
-      "depth": 16.8,
-      "mag": 0.85,
+      "lon": -117.038833333333,
+      "lat": 33.9353333333333,
+      "depth": 16.79,
+      "mag": 0.82,
       "place": "6 km W of Beaumont, CA",
       "time": 1793796425550,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572432"
@@ -1962,46 +1982,6 @@
       "place": "3 km SE of Meno, Oklahoma",
       "time": 1793754943509,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vozy"
-    },
-    {
-      "id": "aka2026vvdefx",
-      "lon": -148.816,
-      "lat": 64.056,
-      "depth": 5,
-      "mag": 3,
-      "place": "15 km ENE of Ferry, Alaska",
-      "time": 1793754812827,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvdefx"
-    },
-    {
-      "id": "ok2026vozw",
-      "lon": -98.15516667,
-      "lat": 36.3635,
-      "depth": 6.49,
-      "mag": 2.28,
-      "place": "3 km SE of Meno, Oklahoma",
-      "time": 1793754800480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vozw"
-    },
-    {
-      "id": "av94484698",
-      "lon": -154.64,
-      "lat": 58.4658333333333,
-      "depth": 9.24,
-      "mag": -0.08,
-      "place": "100 km N of Karluk, Alaska",
-      "time": 1793754721810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94484698"
-    },
-    {
-      "id": "av94484693",
-      "lon": -154.507,
-      "lat": 58.3858333333333,
-      "depth": 3.6,
-      "mag": 0.38,
-      "place": "91 km N of Karluk, Alaska",
-      "time": 1793754559970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94484693"
     }
   ]
 }
