@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-05T06:01:12Z",
-  "count": 187,
+  "updated": "2026-11-05T06:15:46Z",
+  "count": 185,
   "points": [
+    {
+      "id": "ci41358615",
+      "lon": -117.7995,
+      "lat": 35.3421666666667,
+      "depth": 5.23,
+      "mag": 0.94,
+      "place": "15 km WSW of Johannesburg, CA",
+      "time": 1793858865190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358615"
+    },
     {
       "id": "nn00926669",
       "lon": -115.9627,
@@ -912,6 +922,16 @@
       "place": "47 km SSW of Jurm, Afghanistan",
       "time": 1793818489398,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw2x"
+    },
+    {
+      "id": "us7000tw6d",
+      "lon": -72.2449,
+      "lat": 41.2823,
+      "depth": 8.385,
+      "mag": 1.6,
+      "place": "6 km SW of Niantic, Connecticut",
+      "time": 1793818419422,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw6d"
     },
     {
       "id": "nc75462457",
@@ -1832,46 +1852,6 @@
       "place": "15 km NNE of Milford, Utah",
       "time": 1793773063450,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162741"
-    },
-    {
-      "id": "pr71538438",
-      "lon": -66.8513333333333,
-      "lat": 17.9143333333333,
-      "depth": 11.7,
-      "mag": 2.81,
-      "place": "8 km SSE of Maria Antonia, Puerto Rico",
-      "time": 1793772690600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538438"
-    },
-    {
-      "id": "nc75462277",
-      "lon": -122.772003173828,
-      "lat": 38.8008346557617,
-      "depth": 1.44000005722046,
-      "mag": 0.74,
-      "place": "3 km NNW of The Geysers, CA",
-      "time": 1793772635390,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462277"
-    },
-    {
-      "id": "aka2026vvnaod",
-      "lon": -136.659,
-      "lat": 59.248,
-      "depth": 5,
-      "mag": 3.2,
-      "place": "40 km WSW of Covenant Life, Alaska",
-      "time": 1793772529254,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvnaod"
-    },
-    {
-      "id": "hv75068371",
-      "lon": -155.5975,
-      "lat": 19.4343333333333,
-      "depth": 39.92,
-      "mag": 2.42,
-      "place": "28 km E of Honaunau-Napoopoo, Hawaii",
-      "time": 1793772383930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068371"
     }
   ]
 }
