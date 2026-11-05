@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-05T21:45:51Z",
-  "count": 225,
+  "updated": "2026-11-05T21:56:07Z",
+  "count": 223,
   "points": [
+    {
+      "id": "hv75068981",
+      "lon": -155.221328735352,
+      "lat": 19.3094997406006,
+      "depth": 0.370000004768372,
+      "mag": 2.66,
+      "place": "14 km S of Volcano, Hawaii",
+      "time": 1793915292860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068981"
+    },
     {
       "id": "ci41358975",
       "lon": -116.7095,
@@ -405,12 +415,12 @@
     },
     {
       "id": "us7000tw8r",
-      "lon": -178.6458,
-      "lat": -21.1692,
-      "depth": 540.789,
+      "lon": -178.7145,
+      "lat": -21.1984,
+      "depth": 535,
       "mag": 6.1,
       "place": "Fiji region",
-      "time": 1793899305897,
+      "time": 1793899305305,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8r"
     },
     {
@@ -2222,36 +2232,6 @@
       "place": "15 km NNE of Milford, Utah",
       "time": 1793829455510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162836"
-    },
-    {
-      "id": "ok2026vqor",
-      "lon": -98.298,
-      "lat": 35.46283333,
-      "depth": 7.55,
-      "mag": 1.79,
-      "place": "5 km E of Hinton, Oklahoma",
-      "time": 1793829063910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vqor"
-    },
-    {
-      "id": "ok2026vqon",
-      "lon": -95.834,
-      "lat": 36.20016667,
-      "depth": 0,
-      "mag": 1.54,
-      "place": "7 km SSE of Owasso, Oklahoma",
-      "time": 1793828763649,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vqon"
-    },
-    {
-      "id": "uu80162831",
-      "lon": -112.9065,
-      "lat": 38.4973333333333,
-      "depth": 3.97,
-      "mag": 0.97,
-      "place": "14 km NE of Milford, Utah",
-      "time": 1793828734230,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162831"
     }
   ]
 }
