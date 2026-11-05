@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-05T17:01:20Z",
-  "count": 202,
+  "updated": "2026-11-05T17:15:55Z",
+  "count": 205,
   "points": [
+    {
+      "id": "nc75462787",
+      "lon": -122.829002380371,
+      "lat": 38.8358345031738,
+      "depth": 0.920000016689301,
+      "mag": 0.95,
+      "place": "9 km NW of The Geysers, CA",
+      "time": 1793898510070,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462787"
+    },
+    {
+      "id": "nc75462782",
+      "lon": -122.827331542969,
+      "lat": 38.8428344726562,
+      "depth": 2.21000003814697,
+      "mag": 0.9,
+      "place": "9 km WNW of Cobb, CA",
+      "time": 1793898039800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462782"
+    },
+    {
+      "id": "us7000tw8p",
+      "lon": 77.9399,
+      "lat": 35.6318,
+      "depth": 76.944,
+      "mag": 5,
+      "place": "130 km NE of Thang, India",
+      "time": 1793897785875,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8p"
+    },
     {
       "id": "ci41358815",
       "lon": -117.685333333333,
@@ -125,13 +155,23 @@
     },
     {
       "id": "ci41358727",
-      "lon": -115.891666666667,
-      "lat": 32.651,
-      "depth": 11.4,
-      "mag": 1.08,
+      "lon": -115.8935,
+      "lat": 32.6496666666667,
+      "depth": 11.06,
+      "mag": 1.07,
       "place": "13 km SE of Ocotillo, CA",
-      "time": 1793888044220,
+      "time": 1793888044270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358727"
+    },
+    {
+      "id": "ci10260142",
+      "lon": -115.884,
+      "lat": 32.6438333333333,
+      "depth": 10.8,
+      "mag": 0.74,
+      "place": "14 km SE of Ocotillo, CA",
+      "time": 1793888027600,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci10260142"
     },
     {
       "id": "hv75068926",
@@ -475,12 +515,12 @@
     },
     {
       "id": "ci41358655",
-      "lon": -115.810166666667,
-      "lat": 32.5946666666667,
-      "depth": 7.94,
-      "mag": 1.27,
+      "lon": -115.809166666667,
+      "lat": 32.5941666666667,
+      "depth": 8.84,
+      "mag": 1.25,
       "place": "21 km W of Progreso, B.C., MX",
-      "time": 1793871473510,
+      "time": 1793871473470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358655"
     },
     {
@@ -2012,16 +2052,6 @@
       "place": "19 km SSW of Denali National Park, Alaska",
       "time": 1793813316393,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vwjrrv"
-    },
-    {
-      "id": "pr2026308002",
-      "lon": -68.0753,
-      "lat": 19.4948,
-      "depth": 10,
-      "mag": 3.49,
-      "place": "106 km NNE of Punta Cana, Dominican Republic",
-      "time": 1793812191240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026308002"
     }
   ]
 }
