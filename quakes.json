@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-05T22:01:15Z",
-  "count": 221,
+  "updated": "2026-11-05T22:15:45Z",
+  "count": 219,
   "points": [
     {
+      "id": "hv75068986",
+      "lon": -155.494506835938,
+      "lat": 19.1959991455078,
+      "depth": 31.75,
+      "mag": 1.74,
+      "place": "1 km WSW of Pāhala, Hawaii",
+      "time": 1793916146100,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068986"
+    },
+    {
       "id": "hv75068981",
-      "lon": -155.221328735352,
-      "lat": 19.3094997406006,
-      "depth": 0.370000004768372,
-      "mag": 2.66,
+      "lon": -155.219333333333,
+      "lat": 19.3123333333333,
+      "depth": 0.73,
+      "mag": 2.49,
       "place": "14 km S of Volcano, Hawaii",
-      "time": 1793915292860,
+      "time": 1793915292970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068981"
     },
     {
@@ -2182,36 +2192,6 @@
       "place": "25 km ESE of Honaunau-Napoopoo, Hawaii",
       "time": 1793831110270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068586"
-    },
-    {
-      "id": "ci41358479",
-      "lon": -118.522666666667,
-      "lat": 34.7038333333333,
-      "depth": 11.16,
-      "mag": 0.76,
-      "place": "8 km WNW of Lake Hughes, CA",
-      "time": 1793830325750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358479"
-    },
-    {
-      "id": "ci41358471",
-      "lon": -116.55,
-      "lat": 33.5223333333333,
-      "depth": 13.46,
-      "mag": 1.04,
-      "place": "12 km ESE of Anza, CA",
-      "time": 1793830175770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358471"
-    },
-    {
-      "id": "nc75462527",
-      "lon": -122.823669433594,
-      "lat": 38.8293342590332,
-      "depth": 1.46000003814697,
-      "mag": 0.71,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1793829626560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462527"
     }
   ]
 }
