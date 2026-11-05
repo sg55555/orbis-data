@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-05T05:30:58Z",
-  "count": 186,
+  "updated": "2026-11-05T05:45:42Z",
+  "count": 187,
   "points": [
+    {
+      "id": "ci41358599",
+      "lon": -119.708333333333,
+      "lat": 34.2885,
+      "depth": 1.39,
+      "mag": 2.15,
+      "place": "15 km S of Santa Barbara, CA",
+      "time": 1793856795170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358599"
+    },
     {
       "id": "nc75462642",
       "lon": -122.814834594727,
@@ -1244,6 +1254,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vsnlyo"
     },
     {
+      "id": "av93069069",
+      "lon": -163.691,
+      "lat": 54.766,
+      "depth": -1.52,
+      "mag": 1.24,
+      "place": "20 km WSW of False Pass, Alaska",
+      "time": 1793796499200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93069069"
+    },
+    {
       "id": "ci41572432",
       "lon": -117.038833333333,
       "lat": 33.9353333333333,
@@ -1852,16 +1872,6 @@
       "place": "59 km SSE of Beaver, Alaska",
       "time": 1793771479066,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvmlci"
-    },
-    {
-      "id": "aka2026vvmaod",
-      "lon": -151.753,
-      "lat": 60.618,
-      "depth": 72.8,
-      "mag": 2,
-      "place": "23 km W of Salamatof, Alaska",
-      "time": 1793770743896,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvmaod"
     }
   ]
 }
