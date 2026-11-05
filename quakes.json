@@ -1,6 +1,6 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-05T00:19:06Z",
+  "updated": "2026-11-05T00:31:11Z",
   "count": 202,
   "points": [
     {
@@ -1244,6 +1244,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162751"
     },
     {
+      "id": "av94485548",
+      "lon": -169.908333333333,
+      "lat": 52.8126666666667,
+      "depth": 9.45,
+      "mag": 1.21,
+      "place": "71 km WSW of Nikolski, Alaska",
+      "time": 1793778045620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94485548"
+    },
+    {
       "id": "us7000tvwj",
       "lon": 127.0325,
       "lat": 4.3895,
@@ -2012,16 +2022,6 @@
       "place": "1 km NE of Cherry Grove, Washington",
       "time": 1793752306560,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714134441"
-    },
-    {
-      "id": "aka2026vvblvm",
-      "lon": -149.611,
-      "lat": 62.646,
-      "depth": 58.2,
-      "mag": 2.3,
-      "place": "33 km NE of Chase, Alaska",
-      "time": 1793751740079,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvblvm"
     }
   ]
 }
