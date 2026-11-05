@@ -1,14 +1,34 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-05T05:01:14Z",
+  "updated": "2026-11-05T05:15:42Z",
   "count": 187,
   "points": [
+    {
+      "id": "nn00926664",
+      "lon": -119.6069,
+      "lat": 40.5019,
+      "depth": 9.0616,
+      "mag": 2.09,
+      "place": "23 km WSW of Empire, Nevada",
+      "time": 1793855447495,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926664"
+    },
+    {
+      "id": "ci41358591",
+      "lon": -116.583333333333,
+      "lat": 33.5006666666667,
+      "depth": 9.74,
+      "mag": 0.51,
+      "place": "10 km SE of Anza, CA",
+      "time": 1793855335860,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358591"
+    },
     {
       "id": "nc75462637",
       "lon": -125.627166748047,
       "lat": 40.4253349304199,
       "depth": 2.14000010490417,
-      "mag": 4.63,
+      "mag": 4.96,
       "place": "114 km W of Petrolia, CA",
       "time": 1793854561430,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462637"
@@ -1852,26 +1872,6 @@
       "place": "5 km ESE of Yorba Linda, CA",
       "time": 1793769419680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572344"
-    },
-    {
-      "id": "pr71538433",
-      "lon": -67.327,
-      "lat": 18.7898333333333,
-      "depth": 14.09,
-      "mag": 3.05,
-      "place": "40 km NW of San Antonio, Puerto Rico",
-      "time": 1793769227530,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538433"
-    },
-    {
-      "id": "pr71538428",
-      "lon": -67.2831666666667,
-      "lat": 18.7273333333333,
-      "depth": 15.43,
-      "mag": 3.03,
-      "place": "32 km NW of San Antonio, Puerto Rico",
-      "time": 1793769160710,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538428"
     }
   ]
 }
