@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-05T07:19:24Z",
-  "count": 181,
+  "updated": "2026-11-05T07:31:02Z",
+  "count": 182,
   "points": [
+    {
+      "id": "ci41358631",
+      "lon": -119.706,
+      "lat": 34.2866666666667,
+      "depth": 0.73,
+      "mag": 1.78,
+      "place": "15 km S of Santa Barbara, CA",
+      "time": 1793863362340,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358631"
+    },
+    {
+      "id": "ci41358623",
+      "lon": -117.262666666667,
+      "lat": 34.0611666666667,
+      "depth": 14.93,
+      "mag": 0.74,
+      "place": "1 km N of Loma Linda, CA",
+      "time": 1793863149190,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358623"
+    },
     {
       "id": "aka2026vxkrrs",
       "lon": -151.544,
@@ -1802,16 +1822,6 @@
       "place": "3 km WNW of Chickasha, Oklahoma",
       "time": 1793777522580,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vpmj"
-    },
-    {
-      "id": "pr71538443",
-      "lon": -66.956,
-      "lat": 17.9566666666667,
-      "depth": 8.53,
-      "mag": 2.05,
-      "place": "5 km WSW of Guánica, Puerto Rico",
-      "time": 1793777394290,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538443"
     }
   ]
 }
