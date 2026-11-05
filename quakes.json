@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-05T17:35:17Z",
-  "count": 207,
+  "updated": "2026-11-05T17:45:46Z",
+  "count": 208,
   "points": [
+    {
+      "id": "nc75462797",
+      "lon": -122.806831359863,
+      "lat": 38.8334999084473,
+      "depth": 2.74000000953674,
+      "mag": 0.28,
+      "place": "7 km W of Cobb, CA",
+      "time": 1793900070730,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462797"
+    },
     {
       "id": "nc75462792",
       "lon": -121.502502441406,
@@ -12,6 +22,16 @@
       "place": "8 km NNE of San Juan Bautista, CA",
       "time": 1793899402730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462792"
+    },
+    {
+      "id": "us7000tw8r",
+      "lon": -178.6458,
+      "lat": -21.1692,
+      "depth": 540.789,
+      "mag": 6.1,
+      "place": "Fiji region",
+      "time": 1793899305897,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8r"
     },
     {
       "id": "nc75462787",
@@ -65,12 +85,12 @@
     },
     {
       "id": "ci41358799",
-      "lon": -117.390833333333,
-      "lat": 35.9551666666667,
-      "depth": 2.47,
+      "lon": -117.3905,
+      "lat": 35.9583333333333,
+      "depth": 2.54,
       "mag": 1.55,
       "place": "21 km N of Searles Valley, CA",
-      "time": 1793896283210,
+      "time": 1793896283200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358799"
     },
     {
@@ -1364,6 +1384,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162846"
     },
     {
+      "id": "uw714135061",
+      "lon": -121.763333333333,
+      "lat": 46.8535,
+      "depth": 1.14,
+      "mag": 0.84,
+      "place": "22 km ENE of Ashford, Washington",
+      "time": 1793835634700,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714135061"
+    },
+    {
       "id": "ci41358511",
       "lon": -118.332666666667,
       "lat": 35.0611666666667,
@@ -2052,26 +2082,6 @@
       "place": "7 km WNW of Cobb, CA",
       "time": 1793814441180,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462402"
-    },
-    {
-      "id": "aka2026vwjysa",
-      "lon": -154.949,
-      "lat": 58.282,
-      "depth": 5,
-      "mag": 1.1,
-      "place": "84 km NNW of Karluk, Alaska",
-      "time": 1793813802047,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vwjysa"
-    },
-    {
-      "id": "hv75068521",
-      "lon": -155.510333333333,
-      "lat": 18.872,
-      "depth": 35.72,
-      "mag": 2.04,
-      "place": "22 km SSE of Naalehu, Hawaii",
-      "time": 1793813797450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068521"
     }
   ]
 }
