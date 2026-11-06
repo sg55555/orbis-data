@@ -1,6 +1,6 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-06T00:15:47Z",
+  "updated": "2026-11-06T00:31:01Z",
   "count": 221,
   "points": [
     {
@@ -82,6 +82,16 @@
       "place": "25 km NW of Beluga, Alaska",
       "time": 1793922205471,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vysffw"
+    },
+    {
+      "id": "aka2026vyrtad",
+      "lon": -162.834,
+      "lat": 53.585,
+      "depth": 11.9,
+      "mag": 3.5,
+      "place": "146 km SSE of False Pass, Alaska",
+      "time": 1793921365325,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vyrtad"
     },
     {
       "id": "aka2026vyrsfw",
@@ -2134,6 +2144,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358559"
     },
     {
+      "id": "av94486993",
+      "lon": -153.0725,
+      "lat": 60.066,
+      "depth": 5.12,
+      "mag": -0.3,
+      "place": "65 km ENE of Pedro Bay, Alaska",
+      "time": 1793841961890,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94486993"
+    },
+    {
       "id": "uu80162856",
       "lon": -112.9055,
       "lat": 37.0438333333333,
@@ -2192,26 +2212,6 @@
       "place": "19 km ESE of Anza, CA",
       "time": 1793838673650,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358535"
-    },
-    {
-      "id": "aka2026vwxodp",
-      "lon": -150.764,
-      "lat": 61.179,
-      "depth": 68.2,
-      "mag": 1.8,
-      "place": "17 km ENE of Beluga, Alaska",
-      "time": 1793838259505,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vwxodp"
-    },
-    {
-      "id": "us7000tw4z",
-      "lon": 30.0682,
-      "lat": 38.0156,
-      "depth": 10,
-      "mag": 4.1,
-      "place": "10 km WSW of Dinar, Turkey",
-      "time": 1793838197796,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw4z"
     }
   ]
 }
