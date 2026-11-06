@@ -1,26 +1,76 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-06T21:45:49Z",
-  "count": 208,
+  "updated": "2026-11-06T22:01:13Z",
+  "count": 212,
   "points": [
     {
+      "id": "nc75463302",
+      "lon": -122.509330749512,
+      "lat": 37.6543350219727,
+      "depth": 8.25,
+      "mag": 1.29,
+      "place": "5 km NNW of Pacifica, CA",
+      "time": 1794002354490,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463302"
+    },
+    {
+      "id": "ci41359439",
+      "lon": -117.482833862305,
+      "lat": 33.8238334655762,
+      "depth": 2.26999998092651,
+      "mag": 1.62964555677013,
+      "place": "7 km SSE of Home Gardens, CA",
+      "time": 1794002277710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359439"
+    },
+    {
+      "id": "aka2026wakrek",
+      "lon": -155.374,
+      "lat": 58.173,
+      "depth": 5,
+      "mag": 0.9,
+      "place": "86 km NW of Karluk, Alaska",
+      "time": 1794002195316,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wakrek"
+    },
+    {
+      "id": "aka2026wakkii",
+      "lon": -152.895,
+      "lat": 59.94,
+      "depth": 109.3,
+      "mag": 2,
+      "place": "62 km WNW of Anchor Point, Alaska",
+      "time": 1794001721553,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wakkii"
+    },
+    {
+      "id": "ci41359431",
+      "lon": -117.2,
+      "lat": 34.0135,
+      "depth": 16.1,
+      "mag": 1.38,
+      "place": "5 km SSW of Redlands, CA",
+      "time": 1794001660620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359431"
+    },
+    {
       "id": "ci41359423",
-      "lon": -117.507835388184,
-      "lat": 33.8708343505859,
-      "depth": 1.87000000476837,
-      "mag": 1.52722854054619,
+      "lon": -117.5075,
+      "lat": 33.8705,
+      "depth": 2.1,
+      "mag": 1.49,
       "place": "1 km SE of Home Gardens, CA",
       "time": 1794001314010,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359423"
     },
     {
       "id": "nn00926740",
-      "lon": -115.4814,
-      "lat": 39.1168,
-      "depth": 0.0002,
-      "mag": 2.84,
-      "place": "42 km WNW of Preston, Nevada",
-      "time": 1794000844041,
+      "lon": -115.4828,
+      "lat": 39.0533,
+      "depth": 0,
+      "mag": 2.58,
+      "place": "39 km WNW of Preston, Nevada",
+      "time": 1794000846705,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926740"
     },
     {
@@ -192,6 +242,16 @@
       "place": "15 km NNE of Milford, Utah",
       "time": 1793992488660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80163236"
+    },
+    {
+      "id": "us7000twmr",
+      "lon": 120.4589,
+      "lat": -1.2393,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "36 km WNW of Poso, Indonesia",
+      "time": 1793992021269,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twmr"
     },
     {
       "id": "us7000twmq",
@@ -2062,26 +2122,6 @@
       "place": "1 km WSW of Pāhala, Hawaii",
       "time": 1793916146100,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068986"
-    },
-    {
-      "id": "uu80163091",
-      "lon": -113.577166666667,
-      "lat": 37.4346666666667,
-      "depth": 1.51,
-      "mag": 0.93,
-      "place": "4 km ENE of Central, Utah",
-      "time": 1793915339420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80163091"
-    },
-    {
-      "id": "hv75068981",
-      "lon": -155.219333333333,
-      "lat": 19.3123333333333,
-      "depth": 0.73,
-      "mag": 2.49,
-      "place": "14 km S of Volcano, Hawaii",
-      "time": 1793915292970,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068981"
     }
   ]
 }
