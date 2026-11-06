@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-06T19:45:43Z",
-  "count": 212,
+  "updated": "2026-11-06T20:01:12Z",
+  "count": 211,
   "points": [
+    {
+      "id": "nc75463222",
+      "lon": -122.761001586914,
+      "lat": 38.7933349609375,
+      "depth": 0.449999988079071,
+      "mag": 1.27,
+      "place": "2 km NNW of The Geysers, CA",
+      "time": 1793994925690,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463222"
+    },
     {
       "id": "aka2026wagewp",
       "lon": -156.098,
@@ -22,6 +32,16 @@
       "place": "7 km S of Pāhala, Hawaii",
       "time": 1793993531190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75069246"
+    },
+    {
+      "id": "uu80163236",
+      "lon": -112.914166666667,
+      "lat": 38.5153333333333,
+      "depth": 3.08,
+      "mag": 0.74,
+      "place": "15 km NNE of Milford, Utah",
+      "time": 1793992488660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80163236"
     },
     {
       "id": "aka2026waepmi",
@@ -2092,36 +2112,6 @@
       "place": "6 km SW of Pāhala, Hawaii",
       "time": 1793908947590,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068966"
-    },
-    {
-      "id": "aka2026vykthm",
-      "lon": -155.395,
-      "lat": 58.159,
-      "depth": 5,
-      "mag": 1.8,
-      "place": "86 km NW of Karluk, Alaska",
-      "time": 1793908784630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vykthm"
-    },
-    {
-      "id": "ci41358895",
-      "lon": -116.710666666667,
-      "lat": 33.5355,
-      "depth": 5.4,
-      "mag": 0.84,
-      "place": "4 km WSW of Anza, CA",
-      "time": 1793908632050,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358895"
-    },
-    {
-      "id": "nc75462877",
-      "lon": -122.832336425781,
-      "lat": 38.8354988098145,
-      "depth": 0.860000014305115,
-      "mag": 0.27,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1793908426650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462877"
     }
   ]
 }
