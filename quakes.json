@@ -1,16 +1,16 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-06T17:00:40Z",
+  "updated": "2026-11-06T17:02:15Z",
   "count": 207,
   "points": [
     {
       "id": "ci41359311",
-      "lon": -118.290832519531,
-      "lat": 35.0460014343262,
-      "depth": -0.0399999991059303,
-      "mag": 1.22720968132593,
+      "lon": -118.2905,
+      "lat": 35.0436666666667,
+      "depth": -0.17,
+      "mag": 0.92,
       "place": "11 km W of Mojave, CA",
-      "time": 1793984249050,
+      "time": 1793984249030,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359311"
     },
     {
@@ -502,6 +502,16 @@
       "place": "19 km WSW of Glacier View, Alaska",
       "time": 1793958816725,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vzmohr"
+    },
+    {
+      "id": "uu80163171",
+      "lon": -112.917166666667,
+      "lat": 38.5143333333333,
+      "depth": 3.31,
+      "mag": 1.45,
+      "place": "15 km NNE of Milford, Utah",
+      "time": 1793957765130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80163171"
     },
     {
       "id": "ci41359167",
@@ -2062,16 +2072,6 @@
       "place": "14 km NE of Milford, Utah",
       "time": 1793898232400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80163001"
-    },
-    {
-      "id": "nc75462782",
-      "lon": -122.827331542969,
-      "lat": 38.8428344726562,
-      "depth": 2.21000003814697,
-      "mag": 0.9,
-      "place": "9 km WNW of Cobb, CA",
-      "time": 1793898039800,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462782"
     }
   ]
 }
