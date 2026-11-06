@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-06T07:15:44Z",
-  "count": 221,
+  "updated": "2026-11-06T07:31:00Z",
+  "count": 220,
   "points": [
     {
+      "id": "nc75463032",
+      "lon": -122.851333618164,
+      "lat": 38.8251647949219,
+      "depth": 2.14000010490417,
+      "mag": 0.76,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": 1793949897810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463032"
+    },
+    {
       "id": "ci41359119",
-      "lon": -117.229499816895,
-      "lat": 34.0171661376953,
-      "depth": 16.6599998474121,
-      "mag": 1.02699005980774,
+      "lon": -117.2275,
+      "lat": 34.0126666666667,
+      "depth": 16.24,
+      "mag": 0.67,
       "place": "5 km SE of Loma Linda, CA",
-      "time": 1793949164460,
+      "time": 1793949164510,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359119"
     },
     {
@@ -2192,26 +2202,6 @@
       "place": "15 km NNE of Milford, Utah",
       "time": 1793863858500,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162901"
-    },
-    {
-      "id": "ci41358631",
-      "lon": -119.7065,
-      "lat": 34.2796666666667,
-      "depth": 0.65,
-      "mag": 1.79,
-      "place": "16 km S of Santa Barbara, CA",
-      "time": 1793863362200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358631"
-    },
-    {
-      "id": "ci41358623",
-      "lon": -117.258333333333,
-      "lat": 34.0525,
-      "depth": 16.25,
-      "mag": 0.74,
-      "place": "1 km NNE of Loma Linda, CA",
-      "time": 1793863149190,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358623"
     }
   ]
 }
