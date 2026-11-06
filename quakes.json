@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-06T08:31:00Z",
-  "count": 213,
+  "updated": "2026-11-06T08:45:44Z",
+  "count": 212,
   "points": [
+    {
+      "id": "ci41359143",
+      "lon": -117.600833333333,
+      "lat": 34.0731666666667,
+      "depth": 12.73,
+      "mag": 1.05,
+      "place": "3 km NE of Ontario, CA",
+      "time": 1793954213330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359143"
+    },
     {
       "id": "ci41359127",
       "lon": -117.2115,
@@ -12,6 +22,16 @@
       "place": "4 km SW of Redlands, CA",
       "time": 1793952929800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359127"
+    },
+    {
+      "id": "us7000twfu",
+      "lon": 169.2644,
+      "lat": -18.7543,
+      "depth": 246.521,
+      "mag": 4.5,
+      "place": "87 km N of Isangel, Vanuatu",
+      "time": 1793952848319,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfu"
     },
     {
       "id": "aka2026vzjezf",
@@ -2102,36 +2122,6 @@
       "place": "15 km NNE of Milford, Utah",
       "time": 1793868444440,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162926"
-    },
-    {
-      "id": "uu80162921",
-      "lon": -112.896333333333,
-      "lat": 38.4845,
-      "depth": 3.82,
-      "mag": 1.03,
-      "place": "13 km NE of Milford, Utah",
-      "time": 1793867833600,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162921"
-    },
-    {
-      "id": "hv75068811",
-      "lon": -155.498166666667,
-      "lat": 19.3701666666667,
-      "depth": 6.53,
-      "mag": 1.73,
-      "place": "18 km N of Pāhala, Hawaii",
-      "time": 1793867692910,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068811"
-    },
-    {
-      "id": "us7000twb4",
-      "lon": -166.4986,
-      "lat": 53.2629,
-      "depth": 40.642,
-      "mag": 3.9,
-      "place": "68 km S of Unalaska, Alaska",
-      "time": 1793867522979,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twb4"
     }
   ]
 }
