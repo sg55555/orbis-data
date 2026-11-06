@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-06T22:01:13Z",
-  "count": 212,
+  "updated": "2026-11-06T22:15:41Z",
+  "count": 214,
   "points": [
+    {
+      "id": "nc75463317",
+      "lon": -122.789001464844,
+      "lat": 38.8354988098145,
+      "depth": 1.83000004291534,
+      "mag": 0.74,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1794003172780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463317"
+    },
+    {
+      "id": "hv75068057",
+      "lon": -155.936492919922,
+      "lat": 19.742166519165,
+      "depth": 13.289999961853,
+      "mag": 3.03,
+      "place": "4 km ENE of Kalaoa, Hawaii",
+      "time": 1794002918930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068057"
+    },
     {
       "id": "nc75463302",
       "lon": -122.509330749512,
@@ -15,12 +35,12 @@
     },
     {
       "id": "ci41359439",
-      "lon": -117.482833862305,
-      "lat": 33.8238334655762,
-      "depth": 2.26999998092651,
-      "mag": 1.62964555677013,
+      "lon": -117.4835,
+      "lat": 33.8196666666667,
+      "depth": 2.18,
+      "mag": 1.69,
       "place": "7 km SSE of Home Gardens, CA",
-      "time": 1794002277710,
+      "time": 1794002277670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359439"
     },
     {
@@ -65,12 +85,12 @@
     },
     {
       "id": "nn00926740",
-      "lon": -115.4828,
-      "lat": 39.0533,
+      "lon": -115.4832,
+      "lat": 39.052,
       "depth": 0,
-      "mag": 2.58,
+      "mag": 2.77,
       "place": "39 km WNW of Preston, Nevada",
-      "time": 1794000846705,
+      "time": 1794000846730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926740"
     },
     {
@@ -175,12 +195,12 @@
     },
     {
       "id": "ci41359391",
-      "lon": -117.509166666667,
-      "lat": 33.8575,
-      "depth": 1.33,
-      "mag": 1.34,
-      "place": "3 km SSE of Home Gardens, CA",
-      "time": 1793996401820,
+      "lon": -117.503166666667,
+      "lat": 33.8648333333333,
+      "depth": -0.51,
+      "mag": 1.24,
+      "place": "2 km SE of Home Gardens, CA",
+      "time": 1793996401570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359391"
     },
     {
@@ -1854,6 +1874,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vyubnn"
     },
     {
+      "id": "us7000twdk",
+      "lon": 121.1634,
+      "lat": 22.662,
+      "depth": 10,
+      "mag": 4.2,
+      "place": "76 km ENE of Donggang, Taiwan",
+      "time": 1793925460810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twdk"
+    },
+    {
       "id": "aka2026vysyjt",
       "lon": -147.472,
       "lat": 65.031,
@@ -2112,16 +2142,6 @@
       "place": "57 km NW of Toyah, Texas",
       "time": 1793917561060,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vvcgpo"
-    },
-    {
-      "id": "hv75068986",
-      "lon": -155.494506835938,
-      "lat": 19.1959991455078,
-      "depth": 31.75,
-      "mag": 1.74,
-      "place": "1 km WSW of Pāhala, Hawaii",
-      "time": 1793916146100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068986"
     }
   ]
 }
