@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-06T20:31:02Z",
-  "count": 209,
+  "updated": "2026-11-06T20:45:41Z",
+  "count": 206,
   "points": [
     {
       "id": "aka2026wahreq",
@@ -84,6 +84,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80163236"
     },
     {
+      "id": "us7000twmq",
+      "lon": -79.9371,
+      "lat": 7.5079,
+      "depth": 10,
+      "mag": 4.4,
+      "place": "10 km ESE of Pedasí, Panama",
+      "time": 1793992014642,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twmq"
+    },
+    {
       "id": "aka2026waepmi",
       "lon": -154.987,
       "lat": 58.289,
@@ -135,10 +145,10 @@
     },
     {
       "id": "ci41359359",
-      "lon": -116.6365,
-      "lat": 33.4145,
-      "depth": 7.19,
-      "mag": 0.43,
+      "lon": -116.634833333333,
+      "lat": 33.4158333333333,
+      "depth": 7.33,
+      "mag": 0.36,
       "place": "15 km N of Warner Springs, CA",
       "time": 1793987806520,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359359"
@@ -2052,46 +2062,6 @@
       "place": "14 km NE of Milford, Utah",
       "time": 1793911554400,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80163061"
-    },
-    {
-      "id": "aka2026vymcfp",
-      "lon": -152.957,
-      "lat": 59.831,
-      "depth": 101.8,
-      "mag": 2,
-      "place": "63 km W of Anchor Point, Alaska",
-      "time": 1793911200959,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vymcfp"
-    },
-    {
-      "id": "ok2026vshu",
-      "lon": -98.8815,
-      "lat": 36.37916667,
-      "depth": 0,
-      "mag": 1.14,
-      "place": "16 km ESE of Quinlan, Oklahoma",
-      "time": 1793911091570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vshu"
-    },
-    {
-      "id": "nc75462887",
-      "lon": -122.815498352051,
-      "lat": 38.8349990844727,
-      "depth": 1.12000000476837,
-      "mag": 0.26,
-      "place": "8 km W of Cobb, CA",
-      "time": 1793911087450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462887"
-    },
-    {
-      "id": "uu80163051",
-      "lon": -112.917833333333,
-      "lat": 38.5155,
-      "depth": 3.56,
-      "mag": 1.25,
-      "place": "15 km NNE of Milford, Utah",
-      "time": 1793910936020,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80163051"
     }
   ]
 }
