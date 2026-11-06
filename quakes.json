@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-06T21:15:46Z",
-  "count": 207,
+  "updated": "2026-11-06T21:31:01Z",
+  "count": 206,
   "points": [
+    {
+      "id": "hv75068037",
+      "lon": -155.45166015625,
+      "lat": 19.4633331298828,
+      "depth": -0.310000002384186,
+      "mag": 1.81,
+      "place": "22 km W of Volcano, Hawaii",
+      "time": 1794000009550,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068037"
+    },
     {
       "id": "aka2026waiujq",
       "lon": -147.819,
@@ -365,12 +375,12 @@
     },
     {
       "id": "ci41359295",
-      "lon": -116.707666666667,
-      "lat": 33.541,
-      "depth": 5.26,
-      "mag": 0.52,
+      "lon": -116.7075,
+      "lat": 33.54,
+      "depth": 5.28,
+      "mag": 0.31,
       "place": "4 km WSW of Anza, CA",
-      "time": 1793981230010,
+      "time": 1793981230000,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359295"
     },
     {
@@ -2052,26 +2062,6 @@
       "place": "24 km SW of Susitna, Alaska",
       "time": 1793914235621,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vynubo"
-    },
-    {
-      "id": "ok2026vsjm",
-      "lon": -96.83183333,
-      "lat": 34.35883333,
-      "depth": 0,
-      "mag": 1.24,
-      "place": "5 km S of Mill Creek, Oklahoma",
-      "time": 1793914187149,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vsjm"
-    },
-    {
-      "id": "uu80163081",
-      "lon": -112.919833333333,
-      "lat": 38.5166666666667,
-      "depth": 3.25,
-      "mag": 1.02,
-      "place": "15 km NNE of Milford, Utah",
-      "time": 1793913589370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80163081"
     }
   ]
 }
