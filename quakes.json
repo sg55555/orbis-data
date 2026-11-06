@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-06T00:31:01Z",
+  "updated": "2026-11-06T00:45:43Z",
   "count": 221,
   "points": [
+    {
+      "id": "aka2026vyubnn",
+      "lon": -149.666,
+      "lat": 61.72,
+      "depth": 35.7,
+      "mag": 1.2,
+      "place": "11 km NNW of Meadow Lakes, Alaska",
+      "time": 1793925546753,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vyubnn"
+    },
     {
       "id": "aka2026vysyjt",
       "lon": -147.472,
@@ -12,6 +22,16 @@
       "place": "10 km NE of Fox, Alaska",
       "time": 1793923530214,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vysyjt"
+    },
+    {
+      "id": "us7000twdd",
+      "lon": 146.6624,
+      "lat": -5.9168,
+      "depth": 97.804,
+      "mag": 4.6,
+      "place": "96 km NNW of Lae, Papua New Guinea",
+      "time": 1793923345016,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twdd"
     },
     {
       "id": "aka2026vysuyn",
@@ -84,14 +104,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vysffw"
     },
     {
-      "id": "aka2026vyrtad",
-      "lon": -162.834,
-      "lat": 53.585,
-      "depth": 11.9,
-      "mag": 3.5,
-      "place": "146 km SSE of False Pass, Alaska",
-      "time": 1793921365325,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vyrtad"
+      "id": "us7000twdf",
+      "lon": -162.8292,
+      "lat": 53.654,
+      "depth": 10,
+      "mag": 3.6,
+      "place": "138 km SSE of False Pass, Alaska",
+      "time": 1793921365341,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twdf"
     },
     {
       "id": "aka2026vyrsfw",
@@ -2192,26 +2212,6 @@
       "place": "226 km ENE of Nagqu, China",
       "time": 1793839755589,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw53"
-    },
-    {
-      "id": "ci41358543",
-      "lon": -118.320166666667,
-      "lat": 35.0458333333333,
-      "depth": -0.94,
-      "mag": 1,
-      "place": "13 km W of Mojave, CA",
-      "time": 1793838822570,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358543"
-    },
-    {
-      "id": "ci41358535",
-      "lon": -116.477333333333,
-      "lat": 33.4921666666667,
-      "depth": 13.22,
-      "mag": 0.85,
-      "place": "19 km ESE of Anza, CA",
-      "time": 1793838673650,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358535"
     }
   ]
 }
