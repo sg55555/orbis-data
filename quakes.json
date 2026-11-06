@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-06T08:15:42Z",
+  "updated": "2026-11-06T08:31:00Z",
   "count": 213,
   "points": [
+    {
+      "id": "ci41359127",
+      "lon": -117.2115,
+      "lat": 34.0326666666667,
+      "depth": 3.68,
+      "mag": 1.04,
+      "place": "4 km SW of Redlands, CA",
+      "time": 1793952929800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359127"
+    },
     {
       "id": "aka2026vzjezf",
       "lon": -155.386,
@@ -12,6 +22,16 @@
       "place": "86 km NW of Karluk, Alaska",
       "time": 1793952773183,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vzjezf"
+    },
+    {
+      "id": "hv75069096",
+      "lon": -155.404495239258,
+      "lat": 19.0209999084473,
+      "depth": 33.2900009155273,
+      "mag": 1.72,
+      "place": "19 km ESE of Naalehu, Hawaii",
+      "time": 1793952765620,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75069096"
     },
     {
       "id": "aka2026vziyro",
@@ -2112,26 +2132,6 @@
       "place": "68 km S of Unalaska, Alaska",
       "time": 1793867522979,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twb4"
-    },
-    {
-      "id": "uu80008303",
-      "lon": -113.449166666667,
-      "lat": 36.8011666666667,
-      "depth": 18.64,
-      "mag": 1.13,
-      "place": "35 km SSE of Saint George, Utah",
-      "time": 1793867154420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80008303"
-    },
-    {
-      "id": "aka2026vxnkxg",
-      "lon": -141.914,
-      "lat": 61.384,
-      "depth": 5,
-      "mag": 1.6,
-      "place": "54 km E of McCarthy, Alaska",
-      "time": 1793866825378,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vxnkxg"
     }
   ]
 }
