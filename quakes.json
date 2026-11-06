@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-06T05:31:01Z",
-  "count": 220,
+  "updated": "2026-11-06T05:45:45Z",
+  "count": 222,
   "points": [
+    {
+      "id": "aka2026vzdxdy",
+      "lon": -150.368,
+      "lat": 64.468,
+      "depth": 26.7,
+      "mag": 1.8,
+      "place": "58 km WNW of Anderson, Alaska",
+      "time": 1793943236245,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vzdxdy"
+    },
     {
       "id": "ci41359095",
       "lon": -118.7835,
@@ -112,6 +122,16 @@
       "place": "8 km ESE of Cloverdale, CA",
       "time": 1793938037730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462967"
+    },
+    {
+      "id": "pr2026310000",
+      "lon": -67.1223,
+      "lat": 18.4006,
+      "depth": 59,
+      "mag": 3.45,
+      "place": "1 km NW of Moca, Puerto Rico",
+      "time": 1793937824220,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026310000"
     },
     {
       "id": "us7000twey",
@@ -1724,6 +1744,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw76"
     },
     {
+      "id": "av94487393",
+      "lon": -154.514,
+      "lat": 58.3716666666667,
+      "depth": 4.33,
+      "mag": 0.13,
+      "place": "89 km N of Karluk, Alaska",
+      "time": 1793870395960,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94487393"
+    },
+    {
       "id": "aka2026vxpklq",
       "lon": -152.143,
       "lat": 60.373,
@@ -2192,16 +2222,6 @@
       "place": "80 km S of Eureka, Nevada",
       "time": 1793857820280,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926669"
-    },
-    {
-      "id": "ci41358599",
-      "lon": -119.702666666667,
-      "lat": 34.2838333333333,
-      "depth": 1.13,
-      "mag": 2.13,
-      "place": "15 km S of Santa Barbara, CA",
-      "time": 1793856795060,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358599"
     }
   ]
 }
