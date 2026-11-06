@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-06T17:02:15Z",
+  "updated": "2026-11-06T17:15:44Z",
   "count": 207,
   "points": [
+    {
+      "id": "nc75463157",
+      "lon": -122.784332275391,
+      "lat": 38.8366661071777,
+      "depth": 1.74000000953674,
+      "mag": 0.23,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1793985098660,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463157"
+    },
     {
       "id": "ci41359311",
       "lon": -118.2905,
@@ -484,6 +494,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538598"
     },
     {
+      "id": "uu80163176",
+      "lon": -111.223,
+      "lat": 42.6136666666667,
+      "depth": 9.23,
+      "mag": 2.17,
+      "place": "18 km NE of Georgetown, Idaho",
+      "time": 1793959973450,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80163176"
+    },
+    {
       "id": "nc75463062",
       "lon": -122.800834655762,
       "lat": 38.8253326416016,
@@ -735,12 +755,12 @@
     },
     {
       "id": "ci41359103",
-      "lon": -116.654333333333,
-      "lat": 33.407,
-      "depth": 5.29,
-      "mag": 2.57,
+      "lon": -116.653166666667,
+      "lat": 33.4061666666667,
+      "depth": 7.49,
+      "mag": 2.6,
       "place": "14 km N of Warner Springs, CA",
-      "time": 1793947449190,
+      "time": 1793947449160,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359103"
     },
     {
@@ -1055,12 +1075,12 @@
     },
     {
       "id": "ci41359063",
-      "lon": -118.0345,
-      "lat": 33.9226666666667,
-      "depth": 13.01,
-      "mag": 1.41,
-      "place": "2 km WNW of La Mirada, CA",
-      "time": 1793934083440,
+      "lon": -118.039,
+      "lat": 33.9225,
+      "depth": 14.02,
+      "mag": 1.27,
+      "place": "3 km WNW of La Mirada, CA",
+      "time": 1793934083270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359063"
     },
     {
@@ -2052,26 +2072,6 @@
       "place": "Fiji region",
       "time": 1793899305305,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8r"
-    },
-    {
-      "id": "nc75462787",
-      "lon": -122.829002380371,
-      "lat": 38.8358345031738,
-      "depth": 0.920000016689301,
-      "mag": 0.95,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1793898510070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462787"
-    },
-    {
-      "id": "uu80163001",
-      "lon": -112.897,
-      "lat": 38.4881666666667,
-      "depth": 3.86,
-      "mag": 1.78,
-      "place": "14 km NE of Milford, Utah",
-      "time": 1793898232400,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80163001"
     }
   ]
 }
