@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-06T08:45:44Z",
-  "count": 212,
+  "updated": "2026-11-06T09:01:17Z",
+  "count": 208,
   "points": [
+    {
+      "id": "ci41359151",
+      "lon": -119.384833333333,
+      "lat": 34.5871666666667,
+      "depth": 3.91,
+      "mag": 1.5,
+      "place": "20 km NW of Ojai, CA",
+      "time": 1793954683930,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359151"
+    },
     {
       "id": "ci41359143",
       "lon": -117.600833333333,
@@ -172,6 +182,16 @@
       "place": "52 km NNW of Karluk, Alaska",
       "time": 1793946613250,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vzftyy"
+    },
+    {
+      "id": "us7000twfk",
+      "lon": 125.0977,
+      "lat": 5.2999,
+      "depth": 35,
+      "mag": 4.9,
+      "place": "41 km SW of Balangonan, Philippines",
+      "time": 1793946506156,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfk"
     },
     {
       "id": "nc75463007",
@@ -2062,66 +2082,6 @@
       "place": "10 km N of Lake Pillsbury, CA",
       "time": 1793869299670,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462707"
-    },
-    {
-      "id": "us7000twbb",
-      "lon": -169.9839,
-      "lat": 52.1582,
-      "depth": 43.01,
-      "mag": 3.6,
-      "place": "115 km SW of Nikolski, Alaska",
-      "time": 1793869169792,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twbb"
-    },
-    {
-      "id": "aka2026vxosiv",
-      "lon": -148.413,
-      "lat": 60.259,
-      "depth": 0,
-      "mag": 2,
-      "place": "30 km NW of Chenega, Alaska",
-      "time": 1793869134700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vxosiv"
-    },
-    {
-      "id": "nc75462702",
-      "lon": -122.875831604004,
-      "lat": 38.8426666259766,
-      "depth": 2.66000008583069,
-      "mag": 1.28,
-      "place": "13 km NW of The Geysers, CA",
-      "time": 1793868903100,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462702"
-    },
-    {
-      "id": "nc75462697",
-      "lon": -120.919998168945,
-      "lat": 36.3386650085449,
-      "depth": 9.73999977111816,
-      "mag": 1.23,
-      "place": "23 km NE of King City, CA",
-      "time": 1793868588990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462697"
-    },
-    {
-      "id": "aka2026vxoijw",
-      "lon": -148.179,
-      "lat": 61.309,
-      "depth": 5.6,
-      "mag": 1.8,
-      "place": "42 km ESE of Knik River, Alaska",
-      "time": 1793868449562,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vxoijw"
-    },
-    {
-      "id": "uu80162926",
-      "lon": -112.914166666667,
-      "lat": 38.5131666666667,
-      "depth": 3.4,
-      "mag": 0.79,
-      "place": "15 km NNE of Milford, Utah",
-      "time": 1793868444440,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162926"
     }
   ]
 }
