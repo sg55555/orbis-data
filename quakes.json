@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-06T06:48:38Z",
-  "count": 220,
+  "updated": "2026-11-06T07:01:18Z",
+  "count": 221,
   "points": [
     {
+      "id": "nc75463027",
+      "lon": -118.668502807617,
+      "lat": 37.4583320617676,
+      "depth": 12.5100002288818,
+      "mag": 1.93,
+      "place": "8 km NW of Round Valley, CA",
+      "time": 1793948189310,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463027"
+    },
+    {
       "id": "ci41359111",
-      "lon": -116.633163452148,
-      "lat": 33.390998840332,
-      "depth": 5.6100001335144,
-      "mag": 1.33344270458898,
-      "place": "12 km N of Warner Springs, CA",
-      "time": 1793947529500,
+      "lon": -116.6375,
+      "lat": 33.4153333333333,
+      "depth": 7.17,
+      "mag": 1.08,
+      "place": "15 km N of Warner Springs, CA",
+      "time": 1793947529800,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359111"
     },
     {
@@ -1614,6 +1624,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358687"
     },
     {
+      "id": "av93069104",
+      "lon": -161.917166666667,
+      "lat": 55.3848333333333,
+      "depth": 12.36,
+      "mag": -0.05,
+      "place": "44 km NE of King Cove, Alaska",
+      "time": 1793876673810,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av93069104"
+    },
+    {
+      "id": "av94487503",
+      "lon": -154.988833333333,
+      "lat": 58.2946666666667,
+      "depth": 3.24,
+      "mag": -0.1,
+      "place": "86 km NNW of Karluk, Alaska",
+      "time": 1793874779950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94487503"
+    },
+    {
       "id": "nc75462722",
       "lon": -122.132164001465,
       "lat": 40.8361663818359,
@@ -2182,26 +2212,6 @@
       "place": "63 km W of Tyonek, Alaska",
       "time": 1793862189710,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94487278"
-    },
-    {
-      "id": "aka2026vxkrrs",
-      "lon": -151.544,
-      "lat": 60.946,
-      "depth": 75.4,
-      "mag": 1.6,
-      "place": "25 km WSW of Tyonek, Alaska",
-      "time": 1793861892957,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vxkrrs"
-    },
-    {
-      "id": "aka2026vxklgl",
-      "lon": -149.738,
-      "lat": 62.807,
-      "depth": 72.5,
-      "mag": 2.2,
-      "place": "44 km NNE of Chase, Alaska",
-      "time": 1793861460403,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vxklgl"
     }
   ]
 }
