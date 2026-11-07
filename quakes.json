@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-07T01:31:01Z",
-  "count": 199,
+  "updated": "2026-11-07T01:45:43Z",
+  "count": 196,
   "points": [
     {
       "id": "hv75068092",
@@ -22,6 +22,16 @@
       "place": "84 km NW of Karluk, Alaska",
       "time": 1794014318038,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026warkjg"
+    },
+    {
+      "id": "us7000twpl",
+      "lon": -110.7175,
+      "lat": 43.275,
+      "depth": 5,
+      "mag": 2.7,
+      "place": "5 km E of Hoback, Wyoming",
+      "time": 1794014283617,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twpl"
     },
     {
       "id": "aka2026warizx",
@@ -735,9 +745,9 @@
     },
     {
       "id": "ci41359279",
-      "lon": -116.640666666667,
-      "lat": 33.4158333333333,
-      "depth": 6.34,
+      "lon": -116.6405,
+      "lat": 33.4163333333333,
+      "depth": 6.38,
       "mag": 0.62,
       "place": "15 km N of Warner Springs, CA",
       "time": 1793979985780,
@@ -1952,46 +1962,6 @@
       "place": "18 km ENE of Tanner, Washington",
       "time": 1793930248680,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714135411"
-    },
-    {
-      "id": "us7000tweb",
-      "lon": 168.7529,
-      "lat": -19.3647,
-      "depth": 83.271,
-      "mag": 4.6,
-      "place": "58 km WNW of Isangel, Vanuatu",
-      "time": 1793929059847,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweb"
-    },
-    {
-      "id": "aka2026vyvyqq",
-      "lon": -152.872,
-      "lat": 59.382,
-      "depth": 86.4,
-      "mag": 2.2,
-      "place": "54 km W of Nanwalek, Alaska",
-      "time": 1793928946682,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vyvyqq"
-    },
-    {
-      "id": "aka2026vyvxxj",
-      "lon": -152.979,
-      "lat": 60.317,
-      "depth": 27.2,
-      "mag": 0.8,
-      "place": "75 km E of Port Alsworth, Alaska",
-      "time": 1793928896387,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vyvxxj"
-    },
-    {
-      "id": "nc75462937",
-      "lon": -120.901664733887,
-      "lat": 35.9073333740234,
-      "depth": 6.32999992370605,
-      "mag": 0.63,
-      "place": "10 km WNW of Bradley, CA",
-      "time": 1793928893740,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462937"
     }
   ]
 }
