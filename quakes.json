@@ -1,17 +1,37 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-07T20:09:44Z",
-  "count": 176,
+  "updated": "2026-11-07T20:15:42Z",
+  "count": 177,
   "points": [
     {
+      "id": "aka2026wcdamt",
+      "lon": -153.056,
+      "lat": 60.015,
+      "depth": 0.2,
+      "mag": 0.5,
+      "place": "64 km ENE of Pedro Bay, Alaska",
+      "time": 1794082004251,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcdamt"
+    },
+    {
       "id": "uw714135901",
-      "lon": -122.053169250488,
-      "lat": 46.7396659851074,
-      "depth": 4.96000003814697,
-      "mag": 1.96099764108658,
-      "place": "2 km SW of Ashford, Washington",
-      "time": 1794081455260,
+      "lon": -122.0505,
+      "lat": 46.737,
+      "depth": 4.51,
+      "mag": 1.75,
+      "place": "2 km SSW of Ashford, Washington",
+      "time": 1794081455290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714135901"
+    },
+    {
+      "id": "us7000twtv",
+      "lon": -87.0544,
+      "lat": 11.526,
+      "depth": 37.054,
+      "mag": 4.5,
+      "place": "65 km WSW of Masachapa, Nicaragua",
+      "time": 1794081310891,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twtv"
     },
     {
       "id": "aka2026wccpbs",
@@ -1752,16 +1772,6 @@
       "place": "2 km SE of Home Gardens, CA",
       "time": 1793996401570,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359391"
-    },
-    {
-      "id": "nc75463232",
-      "lon": -122.797500610352,
-      "lat": 38.8246650695801,
-      "depth": 2.70000004768372,
-      "mag": 1.04,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1793996029930,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463232"
     }
   ]
 }
