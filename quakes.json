@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-07T10:01:12Z",
-  "count": 180,
+  "updated": "2026-11-07T10:15:42Z",
+  "count": 179,
   "points": [
+    {
+      "id": "ci41359615",
+      "lon": -116.209166666667,
+      "lat": 33.837,
+      "depth": 8.27,
+      "mag": 0.58,
+      "place": "13 km N of Indio, CA",
+      "time": 1794045806590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359615"
+    },
     {
       "id": "ci41359607",
       "lon": -118.366833333333,
@@ -1782,26 +1792,6 @@
       "place": "6 km N of San Antonio, Puerto Rico",
       "time": 1793960459200,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538598"
-    },
-    {
-      "id": "uu80163176",
-      "lon": -111.223,
-      "lat": 42.6136666666667,
-      "depth": 9.23,
-      "mag": 2.17,
-      "place": "18 km NE of Georgetown, Idaho",
-      "time": 1793959973450,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80163176"
-    },
-    {
-      "id": "nc75463062",
-      "lon": -122.800834655762,
-      "lat": 38.8253326416016,
-      "depth": 2.69000005722046,
-      "mag": 0.42,
-      "place": "7 km NW of The Geysers, CA",
-      "time": 1793959866630,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463062"
     }
   ]
 }
