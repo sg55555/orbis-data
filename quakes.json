@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-07T10:15:42Z",
-  "count": 179,
+  "updated": "2026-11-07T10:31:01Z",
+  "count": 180,
   "points": [
+    {
+      "id": "nc75463477",
+      "lon": -122.801330566406,
+      "lat": 38.8103332519531,
+      "depth": 2.10999989509583,
+      "mag": 1.04,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1794047180300,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463477"
+    },
+    {
+      "id": "ci41359623",
+      "lon": -116.459833333333,
+      "lat": 33.4686666666667,
+      "depth": 11.12,
+      "mag": 1.83,
+      "place": "22 km ESE of Anza, CA",
+      "time": 1794046801590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359623"
+    },
     {
       "id": "ci41359615",
       "lon": -116.209166666667,
@@ -1782,16 +1802,6 @@
       "place": "18 km SSW of Knik River, Alaska",
       "time": 1793961402146,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vznzre"
-    },
-    {
-      "id": "pr71538598",
-      "lon": -67.1048333333333,
-      "lat": 18.5508333333333,
-      "depth": 18.57,
-      "mag": 2.4,
-      "place": "6 km N of San Antonio, Puerto Rico",
-      "time": 1793960459200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538598"
     }
   ]
 }
