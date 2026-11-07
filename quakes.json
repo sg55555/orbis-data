@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-07T00:31:04Z",
-  "count": 201,
+  "updated": "2026-11-07T00:45:43Z",
+  "count": 200,
   "points": [
+    {
+      "id": "nc75463387",
+      "lon": -122.257164001465,
+      "lat": 38.1759986877441,
+      "depth": 6.30999994277954,
+      "mag": 1.36,
+      "place": "0 km ENE of American Canyon, CA",
+      "time": 1794011844610,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463387"
+    },
     {
       "id": "aka2026waocbp",
       "lon": -148.813,
@@ -1992,26 +2002,6 @@
       "place": "58 km WNW of Ninilchik, Alaska",
       "time": 1793926258142,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vyulup"
-    },
-    {
-      "id": "aka2026vyubnn",
-      "lon": -149.666,
-      "lat": 61.72,
-      "depth": 35.7,
-      "mag": 1.2,
-      "place": "11 km NNW of Meadow Lakes, Alaska",
-      "time": 1793925546753,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vyubnn"
-    },
-    {
-      "id": "us7000twdk",
-      "lon": 121.1634,
-      "lat": 22.662,
-      "depth": 10,
-      "mag": 4.2,
-      "place": "76 km ENE of Donggang, Taiwan",
-      "time": 1793925460810,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twdk"
     }
   ]
 }
