@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-07T14:31:00Z",
-  "count": 175,
+  "updated": "2026-11-07T14:45:42Z",
+  "count": 174,
   "points": [
     {
+      "id": "nc75463532",
+      "lon": -122.790664672852,
+      "lat": 38.8358345031738,
+      "depth": 1.99000000953674,
+      "mag": 1.11,
+      "place": "6 km WNW of Cobb, CA",
+      "time": 1794062387950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463532"
+    },
+    {
       "id": "aka2026wbrsld",
-      "lon": -149.894,
-      "lat": 61.524,
-      "depth": 34,
-      "mag": 1.9,
+      "lon": -149.89,
+      "lat": 61.519,
+      "depth": 29.4,
+      "mag": 2.1,
       "place": "3 km E of Big Lake, Alaska",
-      "time": 1794061656957,
+      "time": 1794061656868,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wbrsld"
     },
     {
@@ -1732,26 +1742,6 @@
       "place": "15 km NNE of Milford, Utah",
       "time": 1793977226290,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80163201"
-    },
-    {
-      "id": "nc75463132",
-      "lon": -118.622001647949,
-      "lat": 37.2169990539551,
-      "depth": 8.72000026702881,
-      "mag": 1.47,
-      "place": "22 km SW of West Bishop, CA",
-      "time": 1793975818280,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463132"
-    },
-    {
-      "id": "tx2026vwijzl",
-      "lon": -104.142,
-      "lat": 31.647,
-      "depth": 6.087,
-      "mag": 1.9,
-      "place": "49 km NW of Toyah, Texas",
-      "time": 1793975701023,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vwijzl"
     }
   ]
 }
