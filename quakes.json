@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-07T05:01:16Z",
-  "count": 181,
+  "updated": "2026-11-07T05:15:46Z",
+  "count": 180,
   "points": [
+    {
+      "id": "ci41359495",
+      "lon": -117.239833333333,
+      "lat": 34.0295,
+      "depth": 12.62,
+      "mag": 1.52,
+      "place": "3 km SE of Loma Linda, CA",
+      "time": 1794027762800,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359495"
+    },
     {
       "id": "ci41359487",
       "lon": -116.268833333333,
@@ -1792,26 +1802,6 @@
       "place": "9 km ENE of Lebec, CA",
       "time": 1793942680770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359095"
-    },
-    {
-      "id": "aka2026vzczrj",
-      "lon": -148.727,
-      "lat": 60.969,
-      "depth": 5,
-      "mag": 1.1,
-      "place": "21 km N of Whittier, Alaska",
-      "time": 1793941611235,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vzczrj"
-    },
-    {
-      "id": "nc75462992",
-      "lon": -122.78800201416,
-      "lat": 38.8123321533203,
-      "depth": 2.90000009536743,
-      "mag": 0.75,
-      "place": "5 km NW of The Geysers, CA",
-      "time": 1793941449000,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462992"
     }
   ]
 }
