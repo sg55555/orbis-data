@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-07T21:15:43Z",
+  "updated": "2026-11-07T21:30:57Z",
   "count": 173,
   "points": [
+    {
+      "id": "nc75463667",
+      "lon": -122.800666809082,
+      "lat": 38.8221664428711,
+      "depth": 2.71000003814697,
+      "mag": 1.26,
+      "place": "6 km NW of The Geysers, CA",
+      "time": 1794086384360,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463667"
+    },
     {
       "id": "aka2026wcfago",
       "lon": -151.528,
@@ -22,6 +32,16 @@
       "place": "15 km NE of Pāhala, Hawaii",
       "time": 1794085480660,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068337"
+    },
+    {
+      "id": "us7000twu1",
+      "lon": 128.5121,
+      "lat": -3.905,
+      "depth": 136.656,
+      "mag": 4.7,
+      "place": "43 km ESE of Ambon, Indonesia",
+      "time": 1794084938512,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twu1"
     },
     {
       "id": "us7000twu0",
@@ -1712,26 +1732,6 @@
       "place": "39 km WNW of Preston, Nevada",
       "time": 1794000846730,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926740"
-    },
-    {
-      "id": "nc75463272",
-      "lon": -122.786499023438,
-      "lat": 38.8401679992676,
-      "depth": 1.37999999523163,
-      "mag": 0.26,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1794000569200,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463272"
-    },
-    {
-      "id": "hv75068037",
-      "lon": -155.4555,
-      "lat": 19.4703333333333,
-      "depth": 0.27,
-      "mag": 1.55,
-      "place": "23 km W of Volcano, Hawaii",
-      "time": 1794000009560,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068037"
     }
   ]
 }
