@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-07T01:01:12Z",
+  "updated": "2026-11-07T01:15:45Z",
   "count": 198,
   "points": [
+    {
+      "id": "aka2026waqzcg",
+      "lon": -154.934,
+      "lat": 58.721,
+      "depth": 5,
+      "mag": 1.3,
+      "place": "80 km S of Kokhanok, Alaska",
+      "time": 1794013537934,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026waqzcg"
+    },
     {
       "id": "nc75463392",
       "lon": -122.739669799805,
@@ -32,6 +42,16 @@
       "place": "0 km ENE of American Canyon, CA",
       "time": 1794011844610,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463387"
+    },
+    {
+      "id": "ci41359455",
+      "lon": -116.711333333333,
+      "lat": 33.5375,
+      "depth": 6.85,
+      "mag": -0.1,
+      "place": "4 km WSW of Anza, CA",
+      "time": 1794011104680,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359455"
     },
     {
       "id": "aka2026waocbp",
@@ -1962,26 +1982,6 @@
       "place": "15 km NNE of Milford, Utah",
       "time": 1793927744920,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80163116"
-    },
-    {
-      "id": "aka2026vyvdmn",
-      "lon": -151.136,
-      "lat": 62.422,
-      "depth": 5,
-      "mag": 1.7,
-      "place": "20 km WSW of Petersville, Alaska",
-      "time": 1793927481258,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vyvdmn"
-    },
-    {
-      "id": "aka2026vyvbht",
-      "lon": -150.648,
-      "lat": 59.815,
-      "depth": 39.8,
-      "mag": 1.7,
-      "place": "18 km ESE of Fox River, Alaska",
-      "time": 1793927329959,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vyvbht"
     }
   ]
 }
