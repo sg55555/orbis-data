@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-07T18:01:13Z",
-  "count": 169,
+  "updated": "2026-11-07T18:15:42Z",
+  "count": 167,
   "points": [
     {
+      "id": "uu80163521",
+      "lon": -112.894836425781,
+      "lat": 38.4754981994629,
+      "depth": -1.13999998569489,
+      "mag": 3.15,
+      "place": "13 km NE of Milford, Utah",
+      "time": 1794075055820,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80163521"
+    },
+    {
       "id": "aka2026wbytqz",
-      "lon": -151.725,
-      "lat": 59.761,
-      "depth": 77.8,
-      "mag": 3,
-      "place": "6 km ESE of Anchor Point, Alaska",
-      "time": 1794074334447,
+      "lon": -151.7,
+      "lat": 59.766,
+      "depth": 76.6,
+      "mag": 2.9,
+      "place": "7 km SW of Nikolaevsk, Alaska",
+      "time": 1794074334493,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wbytqz"
     },
     {
@@ -1662,36 +1672,6 @@
       "place": "69 km NNW of Glacier View, Alaska",
       "time": 1793990570164,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026waefen"
-    },
-    {
-      "id": "nc75463202",
-      "lon": -122.943496704102,
-      "lat": 38.9220008850098,
-      "depth": 13.5200004577637,
-      "mag": 1.08,
-      "place": "11 km SW of Kelseyville, CA",
-      "time": 1793988626420,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463202"
-    },
-    {
-      "id": "aka2026waczgd",
-      "lon": -150.964,
-      "lat": 62.262,
-      "depth": 76.8,
-      "mag": 1.9,
-      "place": "28 km SSW of Petersville, Alaska",
-      "time": 1793988384049,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026waczgd"
-    },
-    {
-      "id": "nc75463197",
-      "lon": -122.842163085938,
-      "lat": 38.8238334655762,
-      "depth": 1.76999998092651,
-      "mag": 0.76,
-      "place": "9 km NW of The Geysers, CA",
-      "time": 1793988280990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463197"
     }
   ]
 }
