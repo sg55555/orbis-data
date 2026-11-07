@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-07T09:45:44Z",
-  "count": 179,
+  "updated": "2026-11-07T10:01:12Z",
+  "count": 180,
   "points": [
+    {
+      "id": "ci41359607",
+      "lon": -118.366833333333,
+      "lat": 34.1503333333333,
+      "depth": 15.7,
+      "mag": 1.13,
+      "place": "2 km NW of Universal City, CA",
+      "time": 1794044667280,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359607"
+    },
     {
       "id": "aka2026wbidak",
       "lon": -152.932,
@@ -82,6 +92,16 @@
       "place": "86 km NNW of Karluk, Alaska",
       "time": 1794040816395,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wbgdhh"
+    },
+    {
+      "id": "pr71538673",
+      "lon": -67.4431666666667,
+      "lat": 19.0335,
+      "depth": 21.17,
+      "mag": 3.23,
+      "place": "70 km NNW of San Antonio, Puerto Rico",
+      "time": 1794040690080,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538673"
     },
     {
       "id": "nc75463462",
@@ -1782,16 +1802,6 @@
       "place": "7 km NW of The Geysers, CA",
       "time": 1793959866630,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463062"
-    },
-    {
-      "id": "aka2026vzmohr",
-      "lon": -147.973,
-      "lat": 61.722,
-      "depth": 25.2,
-      "mag": 2.1,
-      "place": "19 km WSW of Glacier View, Alaska",
-      "time": 1793958816725,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vzmohr"
     }
   ]
 }
