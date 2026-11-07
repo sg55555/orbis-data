@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-07T08:45:44Z",
+  "updated": "2026-11-07T09:01:14Z",
   "count": 180,
   "points": [
+    {
+      "id": "ci41359583",
+      "lon": -115.67,
+      "lat": 32.6666666666667,
+      "depth": 7.12,
+      "mag": 1.27,
+      "place": "13 km NW of Progreso, B.C., MX",
+      "time": 1794041345150,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359583"
+    },
     {
       "id": "nc75463467",
       "lon": -120.539329528809,
@@ -12,6 +22,16 @@
       "place": "13 km NW of Parkfield, CA",
       "time": 1794040951190,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463467"
+    },
+    {
+      "id": "us7000twr6",
+      "lon": -65.48,
+      "lat": 18.7302,
+      "depth": 52.669,
+      "mag": 2.7,
+      "place": "46 km NNE of Luquillo, Puerto Rico",
+      "time": 1794040850536,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twr6"
     },
     {
       "id": "aka2026wbgdhh",
@@ -1782,26 +1802,6 @@
       "place": "33 km ESE of Denali National Park, Alaska",
       "time": 1793956232142,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vzlcyv"
-    },
-    {
-      "id": "aka2026vzktjm",
-      "lon": -147.738,
-      "lat": 61.249,
-      "depth": 0,
-      "mag": 1.2,
-      "place": "62 km S of Glacier View, Alaska",
-      "time": 1793955568643,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vzktjm"
-    },
-    {
-      "id": "tx2026vvxbfy",
-      "lon": -98.934,
-      "lat": 28.846,
-      "depth": 7.171,
-      "mag": 1.9,
-      "place": "16 km ESE of Pearsall, Texas",
-      "time": 1793955176235,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vvxbfy"
     }
   ]
 }
