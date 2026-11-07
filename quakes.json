@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-07T02:19:10Z",
-  "count": 197,
+  "updated": "2026-11-07T02:31:00Z",
+  "count": 195,
   "points": [
     {
+      "id": "hv75068107",
+      "lon": -155.848327636719,
+      "lat": 19.3743324279785,
+      "depth": 19.1800003051758,
+      "mag": 2.19,
+      "place": "9 km S of Honaunau-Napoopoo, Hawaii",
+      "time": 1794018003710,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068107"
+    },
+    {
       "id": "aka2026watjic",
-      "lon": -151.267,
-      "lat": 60.344,
-      "depth": 65.5,
-      "mag": 2.3,
-      "place": "0 km NNE of Kasilof, Alaska",
-      "time": 1794017846088,
+      "lon": -151.263,
+      "lat": 60.334,
+      "depth": 62.2,
+      "mag": 2.6,
+      "place": "0 km ESE of Kasilof, Alaska",
+      "time": 1794017846288,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026watjic"
     },
     {
@@ -1942,36 +1952,6 @@
       "place": "139 km SSE of False Pass, Alaska",
       "time": 1793932525631,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweq"
-    },
-    {
-      "id": "nc75462942",
-      "lon": -122.931999206543,
-      "lat": 38.776668548584,
-      "depth": 4.53000020980835,
-      "mag": 1.8,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": 1793932101700,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462942"
-    },
-    {
-      "id": "ci41359047",
-      "lon": -116.711333333333,
-      "lat": 33.5331666666667,
-      "depth": 6.01,
-      "mag": 0.96,
-      "place": "4 km SW of Anza, CA",
-      "time": 1793931976480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359047"
-    },
-    {
-      "id": "uu80163121",
-      "lon": -110.365166666667,
-      "lat": 44.6005,
-      "depth": 2.01,
-      "mag": 0.44,
-      "place": "49 km SSE of Mammoth, Wyoming",
-      "time": 1793931817250,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80163121"
     }
   ]
 }
