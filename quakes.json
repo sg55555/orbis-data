@@ -1,8 +1,28 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-07T11:31:01Z",
-  "count": 171,
+  "updated": "2026-11-07T11:45:43Z",
+  "count": 172,
   "points": [
+    {
+      "id": "ci41359631",
+      "lon": -117.8515,
+      "lat": 36.0485,
+      "depth": 1.91,
+      "mag": 1.01,
+      "place": "9 km E of Coso Junction, CA",
+      "time": 1794051270590,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359631"
+    },
+    {
+      "id": "nc75463497",
+      "lon": -122.807502746582,
+      "lat": 38.8283348083496,
+      "depth": 0.75,
+      "mag": 0.8,
+      "place": "7 km NW of The Geysers, CA",
+      "time": 1794051056110,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463497"
+    },
     {
       "id": "nc75463492",
       "lon": -118.887664794922,
@@ -1702,16 +1722,6 @@
       "place": "15 km N of Warner Springs, CA",
       "time": 1793965987700,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359207"
-    },
-    {
-      "id": "av94488948",
-      "lon": -153.596166666667,
-      "lat": 60.138,
-      "depth": 7.23,
-      "mag": 0.07,
-      "place": "40 km E of Port Alsworth, Alaska",
-      "time": 1793965055950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/av94488948"
     }
   ]
 }
