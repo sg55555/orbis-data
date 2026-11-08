@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-08T01:15:41Z",
-  "count": 180,
+  "updated": "2026-11-08T01:31:01Z",
+  "count": 177,
   "points": [
+    {
+      "id": "nc75463807",
+      "lon": -122.792831420898,
+      "lat": 38.8116683959961,
+      "depth": 2.99000000953674,
+      "mag": 0.73,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1794101143210,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463807"
+    },
     {
       "id": "aka2026wcneqm",
       "lon": -141.484,
@@ -1762,46 +1772,6 @@
       "place": "9 km WNW of Anza, CA",
       "time": 1794016562970,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359471"
-    },
-    {
-      "id": "hv75068092",
-      "lon": -155.427337646484,
-      "lat": 19.3003330230713,
-      "depth": 27.5699996948242,
-      "mag": 1.87,
-      "place": "12 km NNE of Pāhala, Hawaii",
-      "time": 1794014722070,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068092"
-    },
-    {
-      "id": "aka2026warkjg",
-      "lon": -155.262,
-      "lat": 58.191,
-      "depth": 5,
-      "mag": 0.9,
-      "place": "84 km NW of Karluk, Alaska",
-      "time": 1794014318038,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026warkjg"
-    },
-    {
-      "id": "us7000twpl",
-      "lon": -110.7175,
-      "lat": 43.275,
-      "depth": 5,
-      "mag": 2.7,
-      "place": "5 km E of Hoback, Wyoming",
-      "time": 1794014283617,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twpl"
-    },
-    {
-      "id": "aka2026warizx",
-      "lon": -149.404,
-      "lat": 62.977,
-      "depth": 73,
-      "mag": 1.6,
-      "place": "51 km SSW of Cantwell, Alaska",
-      "time": 1794014224053,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026warizx"
     }
   ]
 }
