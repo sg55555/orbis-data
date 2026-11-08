@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-08T21:31:00Z",
-  "count": 208,
+  "updated": "2026-11-08T21:45:44Z",
+  "count": 204,
   "points": [
     {
       "id": "aka2026webdsk",
@@ -984,6 +984,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068467"
     },
     {
+      "id": "aka2026wddbwe",
+      "lon": -140.694,
+      "lat": 59.885,
+      "depth": 6.3,
+      "mag": 1.9,
+      "place": "66 km NW of Yakutat, Alaska",
+      "time": 1794128919913,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wddbwe"
+    },
+    {
       "id": "aka2026wddahh",
       "lon": -148.381,
       "lat": 61.032,
@@ -1032,16 +1042,6 @@
       "place": "10 km NW of The Geysers, CA",
       "time": 1794125419090,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463907"
-    },
-    {
-      "id": "aka2026wdbdwn",
-      "lon": -153.115,
-      "lat": 60.053,
-      "depth": 5,
-      "mag": 0.4,
-      "place": "62 km ENE of Pedro Bay, Alaska",
-      "time": 1794125417961,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wdbdwn"
     },
     {
       "id": "nc75463902",
@@ -2042,46 +2042,6 @@
       "place": "1 km WSW of La Parguera, Puerto Rico",
       "time": 1794088034980,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538728"
-    },
-    {
-      "id": "mb90212228",
-      "lon": -111.3985,
-      "lat": 44.7736666666667,
-      "depth": 11.17,
-      "mag": 1.46,
-      "place": "16 km W of Hebgen Lake Estates, Montana",
-      "time": 1794087821920,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90212228"
-    },
-    {
-      "id": "nc75463682",
-      "lon": -122.782501220703,
-      "lat": 38.8375015258789,
-      "depth": 1.64999997615814,
-      "mag": 1.08,
-      "place": "5 km WNW of Cobb, CA",
-      "time": 1794087511990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463682"
-    },
-    {
-      "id": "aka2026wcfylp",
-      "lon": -151.34,
-      "lat": 60.333,
-      "depth": 63.7,
-      "mag": 1.8,
-      "place": "3 km W of Kasilof, Alaska",
-      "time": 1794087258950,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcfylp"
-    },
-    {
-      "id": "nc75463672",
-      "lon": -122.792663574219,
-      "lat": 38.8428344726562,
-      "depth": 7.09999990463257,
-      "mag": 0.44,
-      "place": "6 km WNW of Cobb, CA",
-      "time": 1794087185370,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463672"
     }
   ]
 }
