@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-08T06:15:46Z",
-  "count": 200,
+  "updated": "2026-11-08T06:30:58Z",
+  "count": 196,
   "points": [
+    {
+      "id": "nc75463872",
+      "lon": -119.022003173828,
+      "lat": 37.609001159668,
+      "depth": 7.61999988555908,
+      "mag": 0.63,
+      "place": "5 km SW of Mammoth Lakes, CA",
+      "time": 1794118552330,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463872"
+    },
     {
       "id": "aka2026wcxeem",
       "lon": -152.568,
@@ -94,16 +104,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcvwjt"
     },
     {
-      "id": "aka2026wcvosr",
-      "lon": -152.288,
-      "lat": 61.299,
-      "depth": 5,
-      "mag": 0.5,
-      "place": "67 km WNW of Tyonek, Alaska",
-      "time": 1794115374093,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcvosr"
-    },
-    {
       "id": "ci41359847",
       "lon": -116.523166666667,
       "lat": 33.525,
@@ -115,23 +115,13 @@
     },
     {
       "id": "aka2026wcvkhi",
-      "lon": -144.258,
-      "lat": 67.29,
-      "depth": 6,
+      "lon": -144.309,
+      "lat": 67.269,
+      "depth": 3.5,
       "mag": 3.8,
-      "place": "74 km NNW of Chalkyitsik, Alaska",
-      "time": 1794115059081,
+      "place": "73 km NNW of Chalkyitsik, Alaska",
+      "time": 1794115058948,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcvkhi"
-    },
-    {
-      "id": "aka2026wcvjkn",
-      "lon": -152.24,
-      "lat": 61.313,
-      "depth": 3.2,
-      "mag": 0.4,
-      "place": "65 km WNW of Beluga, Alaska",
-      "time": 1794115006476,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcvjkn"
     },
     {
       "id": "us7000twvy",
@@ -1972,36 +1962,6 @@
       "place": "92 km W of Meulaboh, Indonesia",
       "time": 1794034430455,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqr"
-    },
-    {
-      "id": "nc75463432",
-      "lon": -121.042831420898,
-      "lat": 36.4476661682129,
-      "depth": 1.88999998569489,
-      "mag": 1.43,
-      "place": "13 km SE of Pinnacles, CA",
-      "time": 1794032925110,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463432"
-    },
-    {
-      "id": "ci41359511",
-      "lon": -117.698666666667,
-      "lat": 35.9028333333333,
-      "depth": 2.4,
-      "mag": 1.03,
-      "place": "19 km ESE of Little Lake, CA",
-      "time": 1794032749750,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359511"
-    },
-    {
-      "id": "aka2026wbbopv",
-      "lon": -146.332,
-      "lat": 61.618,
-      "depth": 40.3,
-      "mag": 1.6,
-      "place": "47 km SSE of Nelchina, Alaska",
-      "time": 1794032605334,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wbbopv"
     }
   ]
 }
