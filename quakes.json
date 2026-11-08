@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-08T15:01:13Z",
-  "count": 201,
+  "updated": "2026-11-08T15:15:44Z",
+  "count": 200,
   "points": [
     {
+      "id": "aka2026wdpajt",
+      "lon": -151.178,
+      "lat": 60.262,
+      "depth": 53.2,
+      "mag": 2,
+      "place": "9 km SSE of Kasilof, Alaska",
+      "time": 1794150366497,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wdpajt"
+    },
+    {
       "id": "aka2026wdouoa",
-      "lon": -150.16,
-      "lat": 60.719,
-      "depth": 36.5,
-      "mag": 1.6,
+      "lon": -150.153,
+      "lat": 60.725,
+      "depth": 33,
+      "mag": 1.8,
       "place": "31 km NW of Cooper Landing, Alaska",
-      "time": 1794149961835,
+      "time": 1794149961867,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wdouoa"
     },
     {
@@ -1992,26 +2002,6 @@
       "place": "101 km N of Yakutat, Alaska",
       "time": 1794064522161,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twsr"
-    },
-    {
-      "id": "aka2026wbteed",
-      "lon": -153.39,
-      "lat": 59.771,
-      "depth": 134.3,
-      "mag": 2.2,
-      "place": "40 km E of Pedro Bay, Alaska",
-      "time": 1794064265974,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wbteed"
-    },
-    {
-      "id": "us7000twsp",
-      "lon": -178.7119,
-      "lat": -20.8363,
-      "depth": 571.898,
-      "mag": 4.5,
-      "place": "Fiji region",
-      "time": 1794063945113,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twsp"
     }
   ]
 }
