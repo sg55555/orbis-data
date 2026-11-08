@@ -1,16 +1,26 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-08T21:01:08Z",
-  "count": 209,
+  "updated": "2026-11-08T21:15:42Z",
+  "count": 208,
   "points": [
     {
+      "id": "aka2026webdsk",
+      "lon": -150.776,
+      "lat": 61.723,
+      "depth": 55.3,
+      "mag": 1.9,
+      "place": "24 km NW of Susitna, Alaska",
+      "time": 1794172190974,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026webdsk"
+    },
+    {
       "id": "aka2026weatfg",
-      "lon": -153.028,
-      "lat": 59.88,
-      "depth": 129,
-      "mag": 2,
-      "place": "61 km E of Pedro Bay, Alaska",
-      "time": 1794171459310,
+      "lon": -153.008,
+      "lat": 59.879,
+      "depth": 126.5,
+      "mag": 2.3,
+      "place": "62 km E of Pedro Bay, Alaska",
+      "time": 1794171459624,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026weatfg"
     },
     {
@@ -65,12 +75,12 @@
     },
     {
       "id": "ci41360007",
-      "lon": -116.486333333333,
-      "lat": 33.4926666666667,
-      "depth": 13.45,
-      "mag": 0.82,
+      "lon": -116.486666666667,
+      "lat": 33.494,
+      "depth": 13.33,
+      "mag": 0.65,
       "place": "19 km ESE of Anza, CA",
-      "time": 1794170257450,
+      "time": 1794170257470,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41360007"
     },
     {
@@ -2072,26 +2082,6 @@
       "place": "6 km NW of The Geysers, CA",
       "time": 1794086384360,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463667"
-    },
-    {
-      "id": "aka2026wcfago",
-      "lon": -151.528,
-      "lat": 60.42,
-      "depth": 69.7,
-      "mag": 1.8,
-      "place": "13 km W of Kalifornsky, Alaska",
-      "time": 1794085584170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcfago"
-    },
-    {
-      "id": "hv75068337",
-      "lon": -155.363327026367,
-      "lat": 19.2866668701172,
-      "depth": 29.8600006103516,
-      "mag": 1.97,
-      "place": "15 km NE of Pāhala, Hawaii",
-      "time": 1794085480660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068337"
     }
   ]
 }
