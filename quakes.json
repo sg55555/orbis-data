@@ -1,16 +1,56 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-08T02:45:41Z",
-  "count": 182,
+  "updated": "2026-11-08T03:01:22Z",
+  "count": 184,
   "points": [
     {
+      "id": "aka2026wcqrhg",
+      "lon": -154.864,
+      "lat": 57.924,
+      "depth": 88.3,
+      "mag": 1.4,
+      "place": "46 km NNW of Karluk, Alaska",
+      "time": 1794106555841,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcqrhg"
+    },
+    {
+      "id": "ok2026vwlf",
+      "lon": -98.03852844,
+      "lat": 35.61637497,
+      "depth": 5.819140911,
+      "mag": 2.15,
+      "place": "7 km ENE of Calumet, Oklahoma",
+      "time": 1794106448218,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vwlf"
+    },
+    {
+      "id": "ci41359799",
+      "lon": -116.704666666667,
+      "lat": 33.6416666666667,
+      "depth": 6.66,
+      "mag": 0.45,
+      "place": "10 km NNW of Anza, CA",
+      "time": 1794106380230,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359799"
+    },
+    {
+      "id": "ci41359791",
+      "lon": -116.661166666667,
+      "lat": 32.0841666666667,
+      "depth": -0.08,
+      "mag": 1.5,
+      "place": "21 km N of El Sauzal, B.C., MX",
+      "time": 1794106231650,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359791"
+    },
+    {
       "id": "ci41359783",
-      "lon": -116.461166381836,
-      "lat": 33.042667388916,
-      "depth": 9.63000011444092,
-      "mag": 1.42130073014422,
+      "lon": -116.461,
+      "lat": 33.0433333333333,
+      "depth": 8.54,
+      "mag": 1.31,
       "place": "14 km ESE of Julian, CA",
-      "time": 1794105739300,
+      "time": 1794105739270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359783"
     },
     {
@@ -1802,26 +1842,6 @@
       "place": "8 km NW of The Geysers, CA",
       "time": 1794020749770,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463417"
-    },
-    {
-      "id": "pr71538668",
-      "lon": -64.6126666666667,
-      "lat": 18.7055,
-      "depth": 47.57,
-      "mag": 2.74,
-      "place": "45 km NNE of Cruz Bay, U.S. Virgin Islands",
-      "time": 1794019660170,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538668"
-    },
-    {
-      "id": "pr71538663",
-      "lon": -66.9575,
-      "lat": 18.0603333333333,
-      "depth": 16.3,
-      "mag": 2.68,
-      "place": "1 km S of Sabana Grande, Puerto Rico",
-      "time": 1794019624480,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538663"
     }
   ]
 }
