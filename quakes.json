@@ -1,8 +1,38 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-09T05:15:43Z",
-  "count": 194,
+  "updated": "2026-11-09T05:30:59Z",
+  "count": 196,
   "points": [
+    {
+      "id": "hv75068727",
+      "lon": -155.150665283203,
+      "lat": 19.4141674041748,
+      "depth": 10.8900003433228,
+      "mag": 1.83,
+      "place": "5 km SSW of Fern Forest, Hawaii",
+      "time": 1794201736200,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068727"
+    },
+    {
+      "id": "hv75068722",
+      "lon": -155.38166809082,
+      "lat": 19.0756664276123,
+      "depth": 35.8800010681152,
+      "mag": 2.08,
+      "place": "17 km SE of Pāhala, Hawaii",
+      "time": 1794201476780,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068722"
+    },
+    {
+      "id": "aka2026werkhb",
+      "lon": -150.075,
+      "lat": 61.404,
+      "depth": 27.5,
+      "mag": 2,
+      "place": "7 km NW of Point MacKenzie, Alaska",
+      "time": 1794201428005,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026werkhb"
+    },
     {
       "id": "hv75068707",
       "lon": -155.516159057617,
@@ -12,6 +42,16 @@
       "place": "6 km SW of Pāhala, Hawaii",
       "time": 1794200516270,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068707"
+    },
+    {
+      "id": "us7000tx1i",
+      "lon": 141.4485,
+      "lat": 36.4941,
+      "depth": 35,
+      "mag": 4.6,
+      "place": "69 km ESE of Takahagi, Japan",
+      "time": 1794200513640,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1i"
     },
     {
       "id": "aka2026weqwmc",
@@ -1922,26 +1962,6 @@
       "place": "3 km NE of Fairbanks, Alaska",
       "time": 1794115903906,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcvwjt"
-    },
-    {
-      "id": "ci41359847",
-      "lon": -116.523166666667,
-      "lat": 33.525,
-      "depth": 12.42,
-      "mag": 0.66,
-      "place": "14 km ESE of Anza, CA",
-      "time": 1794115350010,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359847"
-    },
-    {
-      "id": "aka2026wcvkhi",
-      "lon": -144.309,
-      "lat": 67.269,
-      "depth": 3.5,
-      "mag": 3.8,
-      "place": "73 km NNW of Chalkyitsik, Alaska",
-      "time": 1794115058948,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcvkhi"
     }
   ]
 }
