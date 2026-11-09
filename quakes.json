@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-09T04:31:03Z",
-  "count": 195,
+  "updated": "2026-11-09T04:45:41Z",
+  "count": 192,
   "points": [
+    {
+      "id": "nc75464292",
+      "lon": -122.787170410156,
+      "lat": 38.8116683959961,
+      "depth": 3.03999996185303,
+      "mag": 0.95,
+      "place": "5 km NW of The Geysers, CA",
+      "time": 1794199205130,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75464292"
+    },
     {
       "id": "aka2026wepplo",
       "lon": -159.878,
@@ -295,12 +305,12 @@
     },
     {
       "id": "us7000tx0f",
-      "lon": 179.1054,
-      "lat": -23.6266,
-      "depth": 538.416,
-      "mag": 5.3,
+      "lon": 179.2119,
+      "lat": -23.6774,
+      "depth": 535.494,
+      "mag": 5.1,
       "place": "south of the Fiji Islands",
-      "time": 1794185219721,
+      "time": 1794185219021,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0f"
     },
     {
@@ -1912,46 +1922,6 @@
       "place": "131 km WNW of Yakutat, Alaska",
       "time": 1794113210998,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcujmb"
-    },
-    {
-      "id": "mb90212193",
-      "lon": -113.188166666667,
-      "lat": 47.2225,
-      "depth": 20.33,
-      "mag": 2.31,
-      "place": "22 km N of Ovando, Montana",
-      "time": 1794112778670,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90212193"
-    },
-    {
-      "id": "nc75463857",
-      "lon": -122.819664001465,
-      "lat": 38.8321647644043,
-      "depth": 1.88999998569489,
-      "mag": 0.87,
-      "place": "8 km NW of The Geysers, CA",
-      "time": 1794112719720,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463857"
-    },
-    {
-      "id": "ci41359831",
-      "lon": -116.424833333333,
-      "lat": 34.1518333333333,
-      "depth": 3.02,
-      "mag": 0.86,
-      "place": "4 km N of Yucca Valley, CA",
-      "time": 1794112659770,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359831"
-    },
-    {
-      "id": "ci41359823",
-      "lon": -116.212333333333,
-      "lat": 32.5165,
-      "depth": 16.73,
-      "mag": 1.38,
-      "place": "26 km ESE of Campo, CA",
-      "time": 1794112464590,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359823"
     }
   ]
 }
