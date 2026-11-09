@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-09T05:30:59Z",
-  "count": 196,
+  "updated": "2026-11-09T05:45:43Z",
+  "count": 194,
   "points": [
+    {
+      "id": "hv75068732",
+      "lon": -155.47883605957,
+      "lat": 19.1493339538574,
+      "depth": 12.710000038147,
+      "mag": 2.64,
+      "place": "5 km S of Pāhala, Hawaii",
+      "time": 1794202581170,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068732"
+    },
     {
       "id": "hv75068727",
       "lon": -155.150665283203,
@@ -32,6 +42,16 @@
       "place": "7 km NW of Point MacKenzie, Alaska",
       "time": 1794201428005,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026werkhb"
+    },
+    {
+      "id": "us7000tx1p",
+      "lon": 165.6396,
+      "lat": -10.912,
+      "depth": 10,
+      "mag": 4.8,
+      "place": "26 km SW of Lata, Solomon Islands",
+      "time": 1794201416823,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1p"
     },
     {
       "id": "hv75068707",
@@ -1922,46 +1942,6 @@
       "place": "4 km WSW of Anza, CA",
       "time": 1794116746850,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359855"
-    },
-    {
-      "id": "aka2026wcwfur",
-      "lon": -151.498,
-      "lat": 62.872,
-      "depth": 137.9,
-      "mag": 2.4,
-      "place": "56 km NW of Petersville, Alaska",
-      "time": 1794116591155,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcwfur"
-    },
-    {
-      "id": "hv75068442",
-      "lon": -155.23567199707,
-      "lat": 19.2176666259766,
-      "depth": 41.9300003051758,
-      "mag": 1.77,
-      "place": "24 km S of Volcano, Hawaii",
-      "time": 1794116055240,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068442"
-    },
-    {
-      "id": "aka2026wcvxhm",
-      "lon": -150.68,
-      "lat": 61.274,
-      "depth": 55.1,
-      "mag": 2,
-      "place": "26 km NE of Beluga, Alaska",
-      "time": 1794115982610,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcvxhm"
-    },
-    {
-      "id": "aka2026wcvwjt",
-      "lon": -147.669,
-      "lat": 64.863,
-      "depth": 18.4,
-      "mag": 0.9,
-      "place": "3 km NE of Fairbanks, Alaska",
-      "time": 1794115903906,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcvwjt"
     }
   ]
 }
