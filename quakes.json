@@ -1,8 +1,18 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-09T00:31:02Z",
-  "count": 193,
+  "updated": "2026-11-09T00:45:40Z",
+  "count": 190,
   "points": [
+    {
+      "id": "ci41360103",
+      "lon": -117.479,
+      "lat": 35.6231666666667,
+      "depth": 7.34,
+      "mag": 1.07,
+      "place": "17 km SSW of Searles Valley, CA",
+      "time": 1794184233950,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41360103"
+    },
     {
       "id": "nc75464187",
       "lon": -122.817497253418,
@@ -1892,46 +1902,6 @@
       "place": "25 km SSW of Petersville, Alaska",
       "time": 1794099291838,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcmqiv"
-    },
-    {
-      "id": "aka2026wcmcef",
-      "lon": -154.215,
-      "lat": 57.686,
-      "depth": 65.7,
-      "mag": 1.7,
-      "place": "19 km NE of Karluk, Alaska",
-      "time": 1794098316659,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcmcef"
-    },
-    {
-      "id": "aka2026wclyuc",
-      "lon": -169.334,
-      "lat": 52.165,
-      "depth": 4.7,
-      "mag": 2.6,
-      "place": "91 km SSW of Nikolski, Alaska",
-      "time": 1794098072790,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wclyuc"
-    },
-    {
-      "id": "nc75463777",
-      "lon": -122.760498046875,
-      "lat": 38.8206672668457,
-      "depth": 1.78999996185303,
-      "mag": 0.62,
-      "place": "3 km W of Cobb, CA",
-      "time": 1794098047990,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463777"
-    },
-    {
-      "id": "nc75463772",
-      "lon": -122.70866394043,
-      "lat": 38.776668548584,
-      "depth": 1.62000000476837,
-      "mag": 1.53,
-      "place": "1 km W of Anderson Springs, CA",
-      "time": 1794098006660,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463772"
     }
   ]
 }
