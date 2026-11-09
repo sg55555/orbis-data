@@ -1,7 +1,7 @@
 {
   "layer": "quakes",
-  "updated": "2026-11-09T03:01:14Z",
-  "count": 192,
+  "updated": "2026-11-09T03:15:41Z",
+  "count": 189,
   "points": [
     {
       "id": "nc75464272",
@@ -72,6 +72,16 @@
       "place": "south of the Fiji Islands",
       "time": 1794190917196,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0x"
+    },
+    {
+      "id": "us7000tx0v",
+      "lon": 130.3789,
+      "lat": 29.603,
+      "depth": 51.061,
+      "mag": 4.4,
+      "place": "70 km S of Yudomari, Japan",
+      "time": 1794190338837,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0v"
     },
     {
       "id": "nc75464257",
@@ -1882,46 +1892,6 @@
       "place": "138 km WNW of Yakutat, Alaska",
       "time": 1794107787142,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcrjcb"
-    },
-    {
-      "id": "aka2026wcrdek",
-      "lon": -148.881,
-      "lat": 62.088,
-      "depth": 13.9,
-      "mag": 2.6,
-      "place": "35 km N of Sutton-Alpine, Alaska",
-      "time": 1794107416186,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcrdek"
-    },
-    {
-      "id": "nc75463842",
-      "lon": -122.793502807617,
-      "lat": 38.8321647644043,
-      "depth": 2.6800000667572,
-      "mag": 0.78,
-      "place": "6 km W of Cobb, CA",
-      "time": 1794107294730,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463842"
-    },
-    {
-      "id": "tx2026vzdajd",
-      "lon": -103.498,
-      "lat": 31.383,
-      "depth": 2.4725,
-      "mag": 2,
-      "place": "4 km ENE of Lindsay, Texas",
-      "time": 1794107184082,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vzdajd"
-    },
-    {
-      "id": "nc75463837",
-      "lon": -122.813331604004,
-      "lat": 38.8095016479492,
-      "depth": 3.57999992370605,
-      "mag": 0.75,
-      "place": "6 km NW of The Geysers, CA",
-      "time": 1794106991960,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463837"
     }
   ]
 }
